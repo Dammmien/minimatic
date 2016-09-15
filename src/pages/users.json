@@ -1,0 +1,18 @@
+{
+    "partials": {
+        "body": "users.mustache",
+        "header": "header.mustache"
+    },
+    "output": "users.html",
+    "meta": {
+        "title": "Users page"
+    },
+    "assets": {
+        "styles": [ "users.css" ],
+        "scripts": [ "users.js" ]
+    },
+    "data": [
+        "header.json",
+        "users.json"
+    ]
+}
