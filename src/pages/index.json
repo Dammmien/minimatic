@@ -3,12 +3,21 @@
         "body": "index.mustache",
         "header": "header.mustache"
     },
-    "output": "index.html",
     "meta": {
         "title": "Index page"
     },
-    "data": [
-        "header.json",
-        "items.json"
-    ]
+    "assets": {
+        "styles": [ "index.css" ],
+        "scripts": [ "index.js" ]
+    },
+    "collections": {
+        "articles": "articles"
+    },
+    "common": [
+        "header.json"
+    ],
+    "data": {
+        "title": "This this the index title",
+        "description": "This is the index description"
+    }
 }

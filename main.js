@@ -1,45 +1,51 @@
 const fs = require( 'fs' ),
+    Page = require( './Page' ),
+    path = require( 'path' ),
     mustache = require( 'mustache' );
 
+const ensureDirectoryExistence = filePath => {
+    let dirname = path.dirname( filePath );
+    if ( fs.existsSync( dirname ) ) return true;
+    ensureDirectoryExistence( dirname );
+    fs.mkdirSync( dirname );
+}
 
-fs.readdirSync( './src/pages' ).forEach( pageFile => {
-    var page = JSON.parse( fs.readFileSync( `./src/pages/${pageFile}`, 'utf8' ) ),
-        base = fs.readFileSync( "./src/templates/base.mustache", 'utf8' );
+const recursiveCopy = ( directory, target ) => {
+    fs.readdirSync( directory ).forEach( filePath => {
+        if ( fs.lstatSync( `${directory}/${filePath}` ).isDirectory() ) {
+            recursiveCopy( `${directory}/${filePath}`, `${target}/${filePath}` )
+        } else {
+            ensureDirectoryExistence( `${target}/${filePath}` );
+            fs.writeFileSync(
+                `${target}/${filePath}`,
+                fs.readFileSync( `${directory}/${filePath}` )
+            );
+        }
+    } );
+}
 
-    for ( var partial in page.partials ) {
-        page.partials[ partial ] = fs.readFileSync( `./src/templates/${page.partials[ partial ]}`, 'utf8' );
-    }
+const buildPage = pageFile => {
+    var page = new Page( pageFile ),
+        baseTemplate = fs.readFileSync( "./src/templates/base.mustache", 'utf8' );
 
-    page.data = page.data.map( file => JSON.parse( fs.readFileSync( `./src/data/${file}`, 'utf8' ) ) );
-
-    page.data = Object.assign( {}, ...page.data, page.assets, page.meta );
+    ensureDirectoryExistence( page.output );
 
     fs.writeFileSync(
-        `./www/${page.output}`,
-        mustache.render( base, page.data, page.partials )
+        page.output,
+        mustache.render( baseTemplate, page.data, page.partials )
     );
+}
 
-} );
-
-
-fs.readdirSync( './src/collections' ).forEach( collectionFile => {
-    var collection = JSON.parse( fs.readFileSync( `./src/collections/${collectionFile}`, 'utf8' ) ),
-        base = fs.readFileSync( "./src/templates/base.mustache", 'utf8' );
-
-    for ( var partial in collection.partials ) {
-        collection.partials[ partial ] = fs.readFileSync( `./src/templates/${collection.partials[ partial ]}`, 'utf8' );
-    }
-
-    fs.readdirSync( `./src/data/${collection.folder}` ).forEach( collectionItemFile => {
-        var collectionItem = JSON.parse( fs.readFileSync( `./src/data/${collection.folder}/${collectionItemFile}`, 'utf8' ) );
-
-        collectionItem.data = Object.assign( {}, collectionItem.data, collectionItem.meta );
-
-        fs.writeFileSync(
-            `./www/${collectionItem.output}`,
-            mustache.render( base, collectionItem.data, collection.partials )
-        );
-
+const buildFolder = folder => {
+    fs.readdirSync( folder ).forEach( pageFile => {
+        if ( fs.lstatSync( `${folder}/${pageFile}` ).isDirectory() ) {
+            buildFolder( `${folder}/${pageFile}` )
+        } else {
+            buildPage( `${folder}/${pageFile}` );
+        }
     } );
+}
 
-} );
+buildFolder( './src/pages' );
+
+recursiveCopy( './src/assets', './www/assets' );

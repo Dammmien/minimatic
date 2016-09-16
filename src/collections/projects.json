@@ -1,7 +1,0 @@
-{
-    "partials": {
-        "body": "project.mustache",
-        "header": "header.mustache"
-    },
-    "folder": "projects"
-}
