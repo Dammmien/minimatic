@@ -1,21 +1,23 @@
 {
-    "name": "static",
-    "version": "1.0.0",
-    "description": "",
-    "main": "main.js",
-    "scripts": {
-        "build": "node ./scripts/build.js",
-        "serve": "node ./scripts/serve.js"
-    },
-    "config": {
-        "src": "./src",
-        "output": "./foo"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "easy-zip": "0.0.4",
-        "mustache": "^2.2.1"
-    }
+  "name": "static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build": "node ./scripts/build.js",
+    "serve": "node ./scripts/serve.js",
+    "watch": "node ./scripts/watch.js"
+  },
+  "config": {
+    "src": "./src",
+    "output": "./www"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "easy-zip": "0.0.4",
+    "mustache": "^2.2.1",
+    "watch": "^0.19.2"
+  }
 }

@@ -16,16 +16,20 @@ module.exports = class Builder {
         fs.mkdirSync( dirname );
     }
 
-    recursiveCopy( source, target ) {
+    copyFile( source, destination ) {
+        this.ensureDirectoryExistence( destination );
+        fs.writeFileSync(
+            destination,
+            fs.readFileSync( source )
+        );
+    }
+
+    recursiveCopy( source, destination ) {
         fs.readdirSync( source ).forEach( filePath => {
             if ( fs.lstatSync( `${source}/${filePath}` ).isDirectory() ) {
-                this.recursiveCopy( `${source}/${filePath}`, `${target}/${filePath}` )
+                this.recursiveCopy( `${source}/${filePath}`, `${destination}/${filePath}` )
             } else {
-                this.ensureDirectoryExistence( `${target}/${filePath}` );
-                fs.writeFileSync(
-                    `${target}/${filePath}`,
-                    fs.readFileSync( `${source}/${filePath}` )
-                );
+                this.copyFile( `${source}/${filePath}`, `${destination}/${filePath}` );
             }
         } );
     }
@@ -37,12 +41,16 @@ module.exports = class Builder {
             output: this._options.output
         } );
 
-        this.ensureDirectoryExistence( page.output );
+        try {
+            this.ensureDirectoryExistence( page.output );
 
-        fs.writeFileSync(
-            page.output,
-            mustache.render( page.baseTemplate, page.data, page.partials )
-        );
+            fs.writeFileSync(
+                page.output,
+                mustache.render( page.baseTemplate, page.data, page.partials )
+            );
+        } catch ( e ) {
+            console.log( `\x1B[31mError during processing ${filePath}\x1B[0m` );
+        }
     }
 
     buildPages( folder = `${this._options.src}/pages` ) {
@@ -60,6 +68,13 @@ module.exports = class Builder {
             `${this._options.src}/assets`,
             `${this._options.output}/assets`
         );
+    }
+
+    removeFile( path ) {
+        console.log( path );
+        fs.access( path, ( err ) => {
+            if ( !err ) fs.unlinkSync( path );
+        } );
     }
 
 }

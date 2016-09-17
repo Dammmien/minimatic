@@ -3,7 +3,15 @@ module.exports = class Page {
     constructor( options ) {
         this.fs = require( 'fs' );
         this._options = options;
-        this._config = JSON.parse( this.fs.readFileSync( this._options.jsonPath, 'utf8' ) );
+        this.setConfig();
+    }
+
+    setConfig() {
+        try {
+            this._config = JSON.parse( this.fs.readFileSync( this._options.jsonPath, 'utf8' ) );
+        } catch ( e ) {
+            console.log( `Impossible to parse ${this._options.jsonPath}` );
+        }
     }
 
     get baseTemplate() {
