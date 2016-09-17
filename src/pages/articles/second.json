@@ -1,4 +1,5 @@
 {
+    "template": "base.mustache",
     "partials": {
         "body": "article.mustache",
         "header": "header.mustache"

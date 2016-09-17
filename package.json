@@ -1,15 +1,21 @@
 {
-  "name": "static",
-  "version": "1.0.0",
-  "description": "",
-  "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "mustache": "^2.2.1"
-  }
+    "name": "static",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "build": "node ./scripts/build.js",
+        "serve": "node ./scripts/serve.js"
+    },
+    "config": {
+        "src": "./src",
+        "output": "./foo"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "easy-zip": "0.0.4",
+        "mustache": "^2.2.1"
+    }
 }

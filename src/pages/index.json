@@ -1,4 +1,5 @@
 {
+    "template": "base.mustache",
     "partials": {
         "body": "index.mustache",
         "header": "header.mustache"
@@ -17,7 +18,7 @@
         "header.json"
     ],
     "data": {
-        "title": "This this the index title",
-        "description": "This is the index description"
+        "title": "This this the very last index title",
+        "description": "This is the very last index description"
     }
 }
