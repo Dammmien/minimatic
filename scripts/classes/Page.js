@@ -2,6 +2,7 @@ module.exports = class Page {
 
     constructor( options ) {
         this.fs = require( 'fs' );
+        this.markdownParser = require( 'marked' );
         this._options = options;
         this.setConfig();
     }
@@ -50,13 +51,25 @@ module.exports = class Page {
     }
 
     get data() {
-        let data = {
+        let jsonData = {
             meta: this._config.meta,
             assets: this._config.assets,
             collections: this.collections
         };
 
-        return Object.assign( data, ...this.common, this._config.data );
+        let markdownData = {};
+
+        for ( var key in this._config.markdown ) {
+            let filePath = this._config.markdown[ key ],
+                markdown = this.fs.readFileSync( `${this._options.src}/content/${filePath}`, 'utf8' );
+
+            console.log( `${this._options.src}/content/${filePath}` );
+            console.log( markdown );
+
+            markdownData[ key ] = this.markdownParser( markdown );
+        }
+
+        return Object.assign( jsonData, markdownData, ...this.common, this._config.data );
     }
 
 }

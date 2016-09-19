@@ -16,7 +16,6 @@ let server = new Server( {
 server.start();
 
 watch.watchTree( `${src}/pages`, ( f, curr, prev ) => {
-    server.reload();
     if ( typeof f == "object" && prev === null && curr === null ) {
 
     } else if ( prev === null ) {

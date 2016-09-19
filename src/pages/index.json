@@ -18,7 +18,9 @@
         "header.json"
     ],
     "data": {
-        "title": "This this the new index title",
-        "description": "This is the new index description."
+        "title": "This this the new index title"
+    },
+    "markdown": {
+        "description": "index/description.md"
     }
 }
