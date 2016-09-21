@@ -4,5 +4,4 @@ let Builder = require( './classes/Builder' ),
         output: process.env.npm_package_config_output,
     } );
 
-builder.buildPages();
-builder.copyAssets();
+builder.build();

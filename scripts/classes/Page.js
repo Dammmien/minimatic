@@ -1,75 +1,44 @@
 module.exports = class Page {
 
-    constructor( options ) {
+    constructor( file ) {
         this.fs = require( 'fs' );
         this.markdownParser = require( 'marked' );
-        this._options = options;
-        this.setConfig();
-    }
 
-    setConfig() {
-        try {
-            this._config = JSON.parse( this.fs.readFileSync( this._options.jsonPath, 'utf8' ) );
-        } catch ( e ) {
-            console.log( `Impossible to parse ${this._options.jsonPath}` );
-        }
+        this.config = JSON.parse( this.fs.readFileSync( file, 'utf8' ) );
+
+        this.src = process.env.npm_package_config_src;
+        this.output = `${process.env.npm_package_config_output}/${this.config.output}`;
     }
 
     get baseTemplate() {
-        return this.fs.readFileSync( `${this._options.src}/templates/base.mustache`, 'utf8' );
-    }
-
-    get output() {
-        return this._options.jsonPath.replace( `${this._options.src}/pages`, this._options.output ).replace( '.json', '.html' );
+        return this.fs.readFileSync( `${this.src}/templates/base.mustache`, 'utf8' );
     }
 
     get partials() {
         let out = {};
-        for ( var partialTemplate in this._config.partials ) {
-            out[ partialTemplate ] = this.fs.readFileSync( `${this._options.src}/templates/${this._config.partials[ partialTemplate ]}`, 'utf8' );
-        }
+        this.config.partials.forEach( partial => {
+            var content = this.fs.readFileSync( `${this.src}/${partial.file}`, 'utf8' );
+            if ( partial.type === "markdown" ) content = this.markdownParser( content );
+            out[ partial.key ] = content;
+        } );
         return out;
     }
 
-    get common() {
-        return this._config.common.map( file => JSON.parse( this.fs.readFileSync( `${this._options.src}/common/${file}`, 'utf8' ) ) );
-    }
-
-    get collections() {
+    importJson() {
         let out = {};
-        for ( var collection in this._config.collections ) {
-            let directory = this._config.collections[ collection ];
-            out[ collection ] = this.fs.readdirSync( `${this._options.src}/pages/${directory}` ).map(
-                collectionItemFile => JSON.parse( this.fs.readFileSync( `${this._options.src}/pages/${directory}/${collectionItemFile}`, 'utf8' ) )
-            );
+        for ( var key in this.config.importJson ) {
+            let file = this.config.importJson[ key ];
+            out[ key ] = JSON.parse( this.fs.readFileSync( `${this.src}/${file}`, 'utf8' ) )
         }
         return out;
-    }
-
-    get hasCollections() {
-        return this._config.collections;
     }
 
     get data() {
         let jsonData = {
-            meta: this._config.meta,
-            assets: this._config.assets,
-            collections: this.collections
+            meta: this.config.meta
         };
 
-        let markdownData = {};
-
-        for ( var key in this._config.markdown ) {
-            let filePath = this._config.markdown[ key ],
-                markdown = this.fs.readFileSync( `${this._options.src}/content/${filePath}`, 'utf8' );
-
-            console.log( `${this._options.src}/content/${filePath}` );
-            console.log( markdown );
-
-            markdownData[ key ] = this.markdownParser( markdown );
-        }
-
-        return Object.assign( jsonData, markdownData, ...this.common, this._config.data );
+        return Object.assign( jsonData, this.config.data, this.importJson() );
     }
 
 }

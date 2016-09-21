@@ -3,15 +3,15 @@
     <head>
         <meta charset="utf-8">
         <title>{{meta.title}}</title>
-        <link rel="stylesheet" href="assets/styles/header.css" />
-        <link rel="stylesheet" href="assets/styles/core.css" />
-        {{#assets.styles}}
-        <link rel="stylesheet" href="assets/styles/{{.}}" />
-        {{/assets.styles}}
+        <link rel="stylesheet" href="styles/header.css" />
+        <link rel="stylesheet" href="styles/core.css" />
+        {{#meta.styles}}
+        <link rel="stylesheet" href="styles/{{.}}" />
+        {{/meta.styles}}
     </head>
     {{> body}}
-    <script src="assets/scripts/core.js"></script>
-    {{#assets.scripts}}
-    <script src="assets/scripts/{{.}}"></script>
-    {{/assets.scripts}}
+    <script src="scripts/core.js"></script>
+    {{#meta.scripts}}
+    <script src="scripts/{{.}}"></script>
+    {{/meta.scripts}}
 </html>

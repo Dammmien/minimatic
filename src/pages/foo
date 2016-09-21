@@ -1,0 +1,23 @@
+{
+    "template": "base.mustache",
+    "partials": [ {
+        "body": "templates/index.mustache",
+        "header": "templates/header.mustache"
+    },
+    "output": "index.html",
+    "meta": {
+        "title": "Index page",
+        "styles": [ "index.css" ],
+        "scripts": [ "index.js" ]
+    },
+    "data": {
+        "title": "This is the new index title",
+        "foo": "bar"
+    }
+}
+
+
+( description ){
+    This is _the_ **new index** {{foo}}.
+
+}

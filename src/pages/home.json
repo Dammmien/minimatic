@@ -1,0 +1,27 @@
+{
+    "template": "base.mustache",
+    "partials": [ {
+        "key": "body",
+        "file": "templates/index.mustache"
+    }, {
+        "key": "header",
+        "file": "templates/header.mustache"
+    }, {
+        "key": "description",
+        "file": "content/home/description.md",
+        "type": "markdown"
+    } ],
+    "output": "index.html",
+    "meta": {
+        "title": "Index page",
+        "styles": [ "index.css" ],
+        "scripts": [ "index.js" ]
+    },
+    "data": {
+        "title": "This is the new index title",
+        "foo": "bar"
+    },
+    "importJson": {
+        "header": "content/header/header.json"
+    }
+}

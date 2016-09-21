@@ -1,58 +1,29 @@
+const src = process.env.npm_package_config_src;
+const output = process.env.npm_package_config_output;
+
 let Builder = require( './classes/Builder' ),
-    Server = require( './classes/Server' ),
-    watch = require( 'watch' ),
-    src = process.env.npm_package_config_src,
-    output = process.env.npm_package_config_output,
     builder = new Builder( {
         src: src,
-        output: output
+        output: output,
     } );
 
-let server = new Server( {
-    port: 3000,
-    folder: "./www"
+let Server = require( './classes/Server' ),
+    server = new Server( {
+        port: 3000,
+        folder: output
+    } );
+
+let watch = require( 'watch' );
+
+watch.watchTree( src, {
+    interval: 1
+}, ( f, curr, prev ) => {
+    if ( typeof f == "object" && prev === null && curr === null ) {
+        console.log( "Watching ..." );
+    } else {
+        console.log( "Something changed" );
+        builder.build();
+    }
 } );
 
 server.start();
-
-watch.watchTree( `${src}/pages`, ( f, curr, prev ) => {
-    if ( typeof f == "object" && prev === null && curr === null ) {
-
-    } else if ( prev === null ) {
-        console.log( `File added : ./${f}` );
-        console.log( `Start processing ./${f}` );
-        builder.buildPage( `./${f}` );
-        console.log( `End processing ./${f}` );
-    } else if ( curr.nlink === 0 ) {
-        console.log( `File removed : ./${f}` );
-        console.log( `Start cleaning output ./${f}` );
-        builder.removeFile( `./${f}`.replace( `${src}/pages`, output ).replace( '.json', '.html' ) );
-        console.log( `End cleaning output ./${f}` );
-    } else {
-        console.log( `File changed : ./${f}` );
-        console.log( `Start processing ./${f}` );
-        builder.buildPage( `./${f}` );
-        console.log( `End processing ./${f}` );
-    }
-} );
-
-watch.watchTree( `${src}/assets`, ( f, curr, prev ) => {
-    if ( typeof f == "object" && prev === null && curr === null ) {
-
-    } else if ( prev === null ) {
-        console.log( `File added : ./${f}` );
-        console.log( `Start copying file ./${f}` );
-        builder.copyFile( `./${f}`, `./${f}`.replace( src, output ) );
-        console.log( `End copying file ./${f}` );
-    } else if ( curr.nlink === 0 ) {
-        console.log( `File removed : ./${f}` );
-        console.log( `Start cleaning output ./${f}` );
-        builder.removeFile( `./${f}`.replace( src, output ) );
-        console.log( `End cleaning output ./${f}` );
-    } else {
-        console.log( `File changed : ./${f}` );
-        console.log( `Start update file ./${f}` );
-        builder.copyFile( `./${f}`, `./${f}`.replace( src, output ) );
-        console.log( `End update file ./${f}` );
-    }
-} );
