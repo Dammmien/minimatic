@@ -16,7 +16,10 @@ module.exports = class Builder {
         process.stdout.write( "Building ... " );
 
         this.cleanDestination( this._output );
-        this.buildContent( `${this.src}/pages` );
+        let pages = this.getPagesToBuild( `${this.src}/content` );
+        pages.forEach( page => {
+            if ( page.template ) this.buildPage( page );
+        } );
         this.recursiveCopy( `${this.src}/assets`, `${this._output}/assets` );
 
         let end = Date.now() - start;
@@ -45,24 +48,27 @@ module.exports = class Builder {
         } );
     }
 
-    buildPage( file ) {
-        var page = new Page( file );
+    buildPage( config ) {
+        var page = new Page( config, this );
 
         try {
             this.writeFile( page.output, this.mustache.render( page.baseTemplate, page.data, page.partials ) );
         } catch ( e ) {
-            console.log( `\x1B[31mError during processing ${file}\x1B[0m` );
+            console.log( `\x1B[31mError during processing ${config.output}\x1B[0m` );
         }
     }
 
-    buildContent( directory ) {
+    getPagesToBuild( directory ) {
+        let pages = [];
         this.fs.readdirSync( directory ).forEach( file => {
             if ( this.fs.lstatSync( `${directory}/${file}` ).isDirectory() ) {
-                this.buildContent( `${directory}/${file}` )
-            } else {
-                this.buildPage( `${directory}/${file}` );
+                pages = pages.concat( this.getPagesToBuild( `${directory}/${file}` ) );
+            } else if ( this.path.extname( file ) === '.json' ) {
+                let config = JSON.parse( this.fs.readFileSync( `${directory}/${file}`, 'utf8' ) );
+                pages.push( config );
             }
         } );
+        return pages;
     }
 
     cleanDestination( directory ) {

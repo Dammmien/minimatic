@@ -1,44 +1,60 @@
 module.exports = class Page {
 
-    constructor( file ) {
+    constructor( config, builder ) {
         this.fs = require( 'fs' );
+        this.path = require( 'path' );
         this.markdownParser = require( 'marked' );
+        this.builder = builder;
 
-        this.config = JSON.parse( this.fs.readFileSync( file, 'utf8' ) );
+        this.config = config;
 
         this.src = process.env.npm_package_config_src;
         this.output = `${process.env.npm_package_config_output}/${this.config.output}`;
     }
 
     get baseTemplate() {
-        return this.fs.readFileSync( `${this.src}/templates/base.mustache`, 'utf8' );
+        return this.fs.readFileSync( `${this.src}/templates/${this.config.template}`, 'utf8' );
     }
 
     get partials() {
         let out = {};
-        this.config.partials.forEach( partial => {
-            var content = this.fs.readFileSync( `${this.src}/${partial.file}`, 'utf8' );
-            if ( partial.type === "markdown" ) content = this.markdownParser( content );
-            out[ partial.key ] = content;
-        } );
+        for ( var key in this.config.partials ) {
+            let content = this.fs.readFileSync( `${this.src}/${this.config.partials[ key ]}`, 'utf8' );
+            if ( this.path.extname( this.config.partials[ key ] ) === '.md' ) content = this.markdownParser( content );
+            out[ key ] = content;
+        }
         return out;
     }
 
-    importJson() {
+    importDirectory( directory ) {
+        let pages = this.builder.getPagesToBuild( directory ),
+            collection = [];
+
+        pages.forEach( config => {
+            let page = new Page( config, this.builder );
+            config.data = page.data;
+            collection.push( config );
+        } );
+
+        return collection;
+    }
+
+    import () {
         let out = {};
-        for ( var key in this.config.importJson ) {
-            let file = this.config.importJson[ key ];
-            out[ key ] = JSON.parse( this.fs.readFileSync( `${this.src}/${file}`, 'utf8' ) )
+        for ( var key in this.config.import ) {
+            let file = this.config.import[ key ];
+
+            if ( this.fs.lstatSync( `${this.src}/${file}` ).isDirectory() ) {
+                out[ key ] = this.importDirectory( `${this.src}/${file}` );
+            } else {
+                out[ key ] = JSON.parse( this.fs.readFileSync( `${this.src}/${file}`, 'utf8' ) );
+            }
         }
         return out;
     }
 
     get data() {
-        let jsonData = {
-            meta: this.config.meta
-        };
-
-        return Object.assign( jsonData, this.config.data, this.importJson() );
+        return Object.assign( {}, this.config.data, this.import(), this.partials );
     }
 
 }

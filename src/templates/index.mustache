@@ -1,6 +1,13 @@
 <body>
     {{> header}}
-    {{> description}}
     <h1>{{title}}</h1>
-    {{{description}}}
+    {{> description}}
+
+    {{articles.length}} articles
+
+    <ul>
+    {{#articles}}
+        <li><a href="{{{output}}}">{{data.title}}</a></li>
+    {{/articles}}
+    </ul>
 </body>

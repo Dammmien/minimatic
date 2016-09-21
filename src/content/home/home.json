@@ -1,0 +1,20 @@
+{
+    "template": "base.mustache",
+    "output": "index.html",
+    "partials": {
+        "body": "templates/index.mustache",
+        "header": "templates/header.mustache",
+        "description": "content/home/description.md"
+    },
+    "data": {
+        "styles": [ "index.css" ],
+        "scripts": [ "index.js" ],
+        "title": "This is the new index title",
+        "test": false,
+        "foo": "bar"
+    },
+    "import": {
+        "articles": "content/articles",
+        "header": "content/header/header.json"
+    }
+}

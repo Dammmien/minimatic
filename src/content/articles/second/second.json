@@ -1,0 +1,15 @@
+{
+    "template": "base.mustache",
+    "output": "articles/second.html",
+    "partials": {
+        "body": "templates/article.mustache",
+        "header": "templates/header.mustache",
+        "content": "content/articles/second/content.md"
+    },
+    "data": {
+        "title": "This is the second article title"
+    },
+    "import": {
+        "header": "content/header/header.json"
+    }
+}

@@ -2,16 +2,16 @@
 <html lang="fr">
     <head>
         <meta charset="utf-8">
-        <title>{{meta.title}}</title>
+        <title>{{title}}</title>
         <link rel="stylesheet" href="styles/header.css" />
         <link rel="stylesheet" href="styles/core.css" />
-        {{#meta.styles}}
+        {{#styles}}
         <link rel="stylesheet" href="styles/{{.}}" />
-        {{/meta.styles}}
+        {{/styles}}
     </head>
     {{> body}}
     <script src="scripts/core.js"></script>
-    {{#meta.scripts}}
+    {{#scripts}}
     <script src="scripts/{{.}}"></script>
-    {{/meta.scripts}}
+    {{/scripts}}
 </html>
