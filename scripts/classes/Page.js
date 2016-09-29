@@ -54,7 +54,7 @@ module.exports = class Page {
     }
 
     get data() {
-        return Object.assign( {}, this.config.data, this.import(), this.partials );
+        return Object.assign( {}, this.config.data, this.import() );
     }
 
 }
