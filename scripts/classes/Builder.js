@@ -7,12 +7,12 @@ module.exports = class Builder {
 
     constructor( options ) {
         this.src = process.env.npm_package_config_src;
-        this._output = process.env.npm_package_config_output;
+        this.output = process.env.npm_package_config_output;
     }
 
     build() {
         let startCleaning = Date.now();
-        this.cleanDestination( this._output );
+        this.cleanDestination( this.output );
         let endCleaning = Date.now() - startCleaning;
         console.log( `Output folder cleaned in ${Date.now() - startCleaning} ms.` );
 
@@ -23,7 +23,7 @@ module.exports = class Builder {
         console.log( `${pages.length} pages built in ${endBuild} ms.` );
 
         let startAssets = Date.now();
-        this.cleanDestination( this._output );
+        this.recursiveCopy( `${this.src}/assets`, `${this.output}/assets` );
         let endAssets = Date.now() - startAssets;
         console.log( `Assets folder copied in ${endAssets} ms.` );
     }
