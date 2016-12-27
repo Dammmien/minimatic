@@ -1,0 +1,31 @@
+<body>
+	{{> header}}
+
+	<a href="/">Back to home</a>
+
+	<h1>{{title}}</h1>
+
+	<div class="background" style="background-image: url('{{{image}}}');"></div>
+
+	<p>
+		Préparation: {{preparation_time}}min
+	</p>
+
+	<p>
+		Cuisson: {{cooking_time}}min
+	</p>
+
+	<h2>Ingrédients</h2>
+	<ul>
+		{{#ingredients}}
+		<li>{{quantity}}{{unit}} - {{type}}</li>
+		{{/ingredients}}
+	</ul>
+
+	<h2>Instructions</h2>
+	<ol>
+		{{#instructions}}
+		<li>{{.}}</li>
+		{{/instructions}}
+	</ol>
+</body>

@@ -1,0 +1,60 @@
+{
+    "template": "base.mustache",
+    "output": "recipes/tagliatelles-poulet-gorgonzola.html",
+    "partials": {
+        "body": "templates/recipe.mustache",
+        "header": "templates/header.mustache"
+    },
+    "data": {
+        "title": "Tagliatelles poulet et gorgonzola",
+        "cooking_time": 15,
+        "preparation_time": 5,
+        "image": "/assets/images/tagliatelles-poulet-gorgonzonla.jpg",
+        "ingredients": [ {
+                "quantity": "100",
+                "unit": "gr",
+                "type": "tagliatelles"
+            },  {
+                "quantity": "100",
+                "unit": "gr",
+                "type": "dinde ou poulet"
+            }, {
+                "quantity": "5",
+                "unit": "",
+                "type": "tomates cerises"
+            }, {
+                "quantity": "50",
+                "unit": "gr",
+                "type": "gorgonzola"
+            }, {
+                "quantity": "10",
+                "unit": "cl",
+                "type": "crème"
+            }, {
+                "quantity": "1",
+                "unit": "poignée",
+                "type": "pignons de pin"
+            }, {
+                "quantity": "",
+                "unit": "",
+                "type": "Huile d'olive"
+            }, {
+                "quantity": "",
+                "unit": "",
+                "type": "Noix de muscade"
+            }, {
+                "quantity": "",
+                "unit": "",
+                "type": "Sel et poivre"
+        } ],
+        "instructions": [
+            "Dans une poêle, faire dorer les morceaux de poulet dans un peu d'huile d'olive",
+            "Ajouter la crème, le gorgonzola émietté, les tomates cerises découpées et un peu de noix de muscade",
+            "Faites cuire les tagliatelles al dente, pendant ce temps...",
+            "Une fois le gorgonzola fondu et la sauce homogène, saler et poivrer, puis servir sur les tagliatelles"
+        ]
+    },
+    "import": {
+        "header": "content/header/header.json"
+    }
+}
