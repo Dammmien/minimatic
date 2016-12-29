@@ -14,7 +14,7 @@
         "foo": "bar"
     },
     "import": {
-        "articles": "content/articles",
+        "recipes": "content/recipes",
         "header": "content/header/header.json"
     }
 }

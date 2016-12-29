@@ -1,0 +1,54 @@
+{
+    "template": "base.mustache",
+    "output": "recipes/quiche-poireau-chevre-lardon.html",
+    "partials": {
+        "body": "templates/recipe.mustache",
+        "header": "templates/header.mustache"
+    },
+    "data": {
+        "title": "Quiche au poireau, chèvre et lardons",
+        "cooking_time": 25,
+        "preparation_time": 15,
+        "image": "/assets/images/quiche-poireau-chevre-lardon.jpg",
+        "ingredients": [ {
+                "quantity": "1",
+                "unit": "",
+                "type": "pâte brisée"
+            },  {
+                "quantity": "3",
+                "unit": "",
+                "type": "blancs de poireaux"
+            }, {
+                "quantity": "100",
+                "unit": "gr",
+                "type": "lardons"
+            }, {
+                "quantity": "1",
+                "unit": "bûche",
+                "type": "fromage de chèvre"
+            }, {
+                "quantity": "2",
+                "unit": "",
+                "type": "oeufs"
+            }, {
+                "quantity": "20",
+                "unit": "cl",
+                "type": "crème fraîche"
+            }, {
+                "quantity": "",
+                "unit": "",
+                "type": "Sel et poivre"
+        } ],
+        "instructions": [
+            "Préchauffez le four à 180°C ( Th 6).",
+            "Etalez la pâte dans le moule beurré et fariné.",
+            "Répartissez lardons et poireaux sur le fond de tarte.",
+            "Dans un bol battez les oeufs, la crème. Versez le mélange dans la tarte.",
+            "Découper le fromage de chèvre en rondelles que vous déposerez sur la quiche.",
+            "Enfournez pour 20 à 25 minutes"
+        ]
+    },
+    "import": {
+        "header": "content/header/header.json"
+    }
+}
