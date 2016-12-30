@@ -90,7 +90,7 @@ module.exports = class Builder {
         try {
             this.project_config = JSON.parse( fs.readFileSync( './config.json', 'utf8' ) );
         } catch( e ) {
-            console.warn( 'Impossible to parse config project file' );
+            console.log( `\x1B[31mError during parsing ./config.json\x1B[0m` );
             this.project_config = {};
         }
     }
