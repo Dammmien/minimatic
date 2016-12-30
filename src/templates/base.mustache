@@ -3,15 +3,15 @@
     <head>
         <meta charset="utf-8">
         <title>{{title}}</title>
-        <link rel="stylesheet" href="/assets/styles/header.css" />
-        <link rel="stylesheet" href="/assets/styles/core.css" />
+        <link rel="stylesheet" href="{{{project_config.dir_styles}}}header.css" />
+        <link rel="stylesheet" href="{{{project_config.dir_styles}}}core.css" />
         {{#styles}}
-        <link rel="stylesheet" href="/assets/styles/{{.}}" />
+        <link rel="stylesheet" href="{{{project_config.dir_styles}}}{{.}}" />
         {{/styles}}
     </head>
     {{> body}}
-    <script src="/assets/scripts/core.js"></script>
+    <script src="{{{project_config.dir_scripts}}}core.js"></script>
     {{#scripts}}
-    <script src="/assets/scripts/{{.}}"></script>
+    <script src="{{{project_config.dir_scripts}}}{{.}}"></script>
     {{/scripts}}
 </html>

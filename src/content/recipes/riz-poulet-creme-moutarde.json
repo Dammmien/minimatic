@@ -1,6 +1,6 @@
 {
     "template": "base.mustache",
-    "output": "riz-poulet-creme-moutarde.html",
+    "output": "recipes/riz-poulet-creme-moutarde.html",
     "partials": {
         "body": "templates/recipe.mustache",
         "header": "templates/header.mustache"
@@ -9,7 +9,7 @@
         "title": "Emincée de poulet à la crème et moutarde à l'ancienne",
         "preparation_time": 15,
         "cooking_time": 20,
-        "image": "/assets/images/riz-poulet-creme-moutarde.jpg",
+        "image": "riz-poulet-creme-moutarde.jpg",
         "ingredients": [ {
                 "quantity": "200",
                 "unit": "gr",

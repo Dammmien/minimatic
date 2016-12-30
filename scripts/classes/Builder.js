@@ -8,6 +8,7 @@ module.exports = class Builder {
     constructor( options ) {
         this.src = process.env.npm_package_config_src;
         this.output = process.env.npm_package_config_output;
+        this.setProjectConfig();
     }
 
     build() {
@@ -51,6 +52,7 @@ module.exports = class Builder {
     }
 
     buildPage( config ) {
+        config.data.project_config = this.project_config;
         var page = new Page( config, this );
 
         try {
@@ -81,6 +83,15 @@ module.exports = class Builder {
                 else fs.unlinkSync( `${directory}/${file}` );
             } );
             fs.rmdirSync( directory );
+        }
+    }
+
+    setProjectConfig() {
+        try {
+            this.project_config = JSON.parse( fs.readFileSync( './config.json', 'utf8' ) );
+        } catch( e ) {
+            console.warn( 'Impossible to parse config project file' );
+            this.project_config = {};
         }
     }
 
