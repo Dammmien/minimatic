@@ -10,7 +10,7 @@
   },
   "config": {
     "src": "./src",
-    "output": "./www"
+    "output": "./docs"
   },
   "keywords": [],
   "author": "",

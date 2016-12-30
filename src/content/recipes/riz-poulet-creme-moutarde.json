@@ -1,0 +1,58 @@
+{
+    "template": "base.mustache",
+    "output": "riz-poulet-creme-moutarde.html",
+    "partials": {
+        "body": "templates/recipe.mustache",
+        "header": "templates/header.mustache"
+    },
+    "data": {
+        "title": "Emincée de poulet à la crème et moutarde à l'ancienne",
+        "preparation_time": 15,
+        "cooking_time": 20,
+        "image": "/assets/images/riz-poulet-creme-moutarde.jpg",
+        "ingredients": [ {
+                "quantity": "200",
+                "unit": "gr",
+                "type": "blancs de poulet"
+            },  {
+                "quantity": "1",
+                "unit": "",
+                "type": "oignon"
+            }, {
+                "quantity": "5",
+                "unit": "cl",
+                "type": "vin blanc sec"
+            }, {
+                "quantity": "15",
+                "unit": "cl",
+                "type": "crème fraîche"
+            }, {
+                "quantity": "1",
+                "unit": "cuillère à soupe",
+                "type": "moutarde à l'ancienne"
+            }, {
+                "quantity": "",
+                "unit": "",
+                "type": "Beurre"
+            }, {
+                "quantity": "",
+                "unit": "",
+                "type": "Huile d'olive"
+            }, {
+                "quantity": "",
+                "unit": "",
+                "type": "Sel et poivre"
+        } ],
+        "instructions": [
+					"Découper les blancs de poulet en petits morceaux.",
+					"Dans une sauteuse, faire revenir et bien colorer l'oignon émincé dans une noix de beurre et un filet d'huile d'olive.",
+					"Ajouter les blancs de poulet et les faire dorer.",
+					"Déglacer sur feu vif avec le vin blanc.",
+					"Ajouter la crème fraiche, la moutarde à l'ancienne et faire réduire 5 mn à feu doux, poivrer et saler.",
+					"Accompagner avec du riz."
+        ]
+    },
+    "import": {
+        "header": "content/header/header.json"
+    }
+}
