@@ -13,23 +13,23 @@
         "ingredients": [ {
                 "quantity": "25",
                 "unit": "gr",
-                "type": "parmesan"
+                "type": "Parmesan"
             },  {
                 "quantity": "40",
                 "unit": "gr",
-                "type": "chorizo"
+                "type": "Chorizo"
             }, {
                 "quantity": "100",
                 "unit": "gr",
-                "type": "coquillettes"
+                "type": "Coquillettes"
             }, {
                 "quantity": "3",
                 "unit": "cl",
-                "type": "vin blanc sec"
+                "type": "Vin blanc sec"
             }, {
                 "quantity": "1",
                 "unit": "cube",
-                "type": "bouillon de volaille"
+                "type": "Bouillon de volaille"
             }, {
                 "quantity": "1",
                 "unit": "",

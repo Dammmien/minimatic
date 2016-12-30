@@ -1,28 +1,37 @@
 <body class="recipe">
 
 	<div class="background" style="background-image: url('{{{project_config.dir_img}}}{{{image}}}');">
-		<h1>{{title}}</h1>
 	</div>
 
-	<p>
-		Préparation: {{preparation_time}}min
-	</p>
+	<main>
+		<section>
+			<h1>{{title}}</h1>
 
-	<p>
-		Cuisson: {{cooking_time}}min
-	</p>
+			<div class="subtitle">
+				<p>Préparation: {{preparation_time}} min</p>
+				<p>Cuisson: {{cooking_time}} min</p>
+			</div>
 
-	<h2>Ingrédients</h2>
-	<ul>
-		{{#ingredients}}
-		<li>{{quantity}}{{unit}} - {{type}}</li>
-		{{/ingredients}}
-	</ul>
+			<ul>
+				{{#ingredients}}
+				<li>
+					{{type}}
+					{{#quantity}}
+						<div class="ingredients-quantity">
+							{{quantity}} {{unit}}
+						</div>
+					{{/quantity}}
+				</li>
+				{{/ingredients}}
+			</ul>
+		</section>
 
-	<h2>Instructions</h2>
-	<ol>
-		{{#instructions}}
-		<li>{{.}}</li>
-		{{/instructions}}
-	</ol>
+		<section>
+			<ol>
+				{{#instructions}}
+				<li>{{.}}</li>
+				{{/instructions}}
+			</ol>
+		</section>
+	</main>
 </body>

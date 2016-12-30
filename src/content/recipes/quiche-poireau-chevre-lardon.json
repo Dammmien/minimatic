@@ -11,29 +11,29 @@
         "cooking_time": 25,
         "image": "quiche-poireau-chevre-lardon.jpg",
         "ingredients": [ {
-                "quantity": "1",
+                "quantity": "",
                 "unit": "",
-                "type": "pâte brisée"
+                "type": "Pâte brisée"
             },  {
                 "quantity": "3",
                 "unit": "",
-                "type": "blancs de poireaux"
+                "type": "Blancs de poireaux"
             }, {
                 "quantity": "100",
                 "unit": "gr",
-                "type": "lardons"
+                "type": "Lardons"
             }, {
                 "quantity": "1",
                 "unit": "bûche",
-                "type": "fromage de chèvre"
+                "type": "Fromage de chèvre"
             }, {
-                "quantity": "2",
+                "quantity": "2 ou 3",
                 "unit": "",
-                "type": "oeufs"
+                "type": "Oeufs"
             }, {
                 "quantity": "20",
                 "unit": "cl",
-                "type": "crème fraîche"
+                "type": "Crème fraîche"
             }, {
                 "quantity": "",
                 "unit": "",
