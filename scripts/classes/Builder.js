@@ -56,7 +56,7 @@ module.exports = class Builder {
         var page = new Page( config, this );
 
         try {
-            this.writeFile( page.output, mustache.render( page.baseTemplate, page.data, page.partials ) );
+            this.writeFile( page.output, mustache.render( page.template, page.data, page.partials ) );
         } catch ( e ) {
             console.log( `\x1B[31mError during processing ${config.output}\x1B[0m` );
         }

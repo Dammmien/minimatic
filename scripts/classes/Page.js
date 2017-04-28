@@ -12,7 +12,7 @@ module.exports = class Page {
         this.output = `${process.env.npm_package_config_output}/${this.config.output}`;
     }
 
-    get baseTemplate() {
+    get template() {
         return this.fs.readFileSync( `${this.src}/templates/${this.config.template}`, 'utf8' );
     }
 
