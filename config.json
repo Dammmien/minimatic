@@ -1,6 +1,6 @@
 {
-	"root": "/statik/",
-	"dir_img": "/statik/assets/images/",
-	"dir_styles": "/statik/assets/styles/",
-	"dir_scripts": "/statik/assets/scripts/"
+	"root": "/",
+	"dir_img": "/assets/images/",
+	"dir_styles": "/assets/styles/",
+	"dir_scripts": "/assets/scripts/"
 }
