@@ -4,29 +4,29 @@ const path = require('path');
 const mustache = require('mustache');
 const markdownParser = require('marked');
 const eol = require('os').EOL;
+const SRC = process.env.npm_package_config_src;
+const OUTPUT = process.env.npm_package_config_output;
 
 module.exports = class Builder {
 
     constructor(options) {
-        this.src = process.env.npm_package_config_src;
-        this.output = process.env.npm_package_config_output;
         this.setProjectConfig();
     }
 
     build() {
         let startCleaning = Date.now();
-        this.cleanDestination(this.output);
+        this.cleanDestination(OUTPUT);
         let endCleaning = Date.now() - startCleaning;
         console.log(`Output folder cleaned in ${Date.now() - startCleaning} ms.`);
 
         let startBuild = Date.now();
-        let pages = this.getPagesToBuild(`${this.src}/content`);
+        let pages = this.getPagesToBuild(`${SRC}/content`);
         pages.forEach(page => this.buildPage(page));
         let endBuild = Date.now() - startBuild;
         console.log(`${pages.length} pages built in ${endBuild} ms.`);
 
         let startAssets = Date.now();
-        this.recursiveCopy(`${this.src}/assets`, `${this.output}/assets`);
+        this.recursiveCopy(`${SRC}/assets`, `${OUTPUT}/assets`);
         let endAssets = Date.now() - startAssets;
         console.log(`Assets folder copied in ${endAssets} ms.`);
     }
@@ -69,7 +69,7 @@ module.exports = class Builder {
 
         header = JSON.parse(header);
 
-        let config = JSON.parse(fs.readFileSync(`${this.src}/${header.metadata}`, 'utf8'));
+        let config = JSON.parse(fs.readFileSync(`${SRC}/${header.metadata}`, 'utf8'));
         config.output = header.output;
         config.data.content = markdownParser(content);
 

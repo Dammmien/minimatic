@@ -1,21 +1,24 @@
 const fs = require('fs');
+const SRC = process.env.npm_package_config_src;
 
 module.exports = class Page {
 
     constructor(config, builder) {
         this.builder = builder;
         this.config = config;
-        this.src = process.env.npm_package_config_src;
-        this.output = `${process.env.npm_package_config_output}/${this.config.output}`;
+    }
+
+    get output() {
+        return `${process.env.npm_package_config_output}/${this.config.output}`;
     }
 
     get template() {
-        return fs.readFileSync(`${this.src}/templates/${this.config.template}`, 'utf8');
+        return fs.readFileSync(`${SRC}/templates/${this.config.template}`, 'utf8');
     }
 
     get partials() {
         let out = {};
-        for (var key in this.config.partials) out[key] = fs.readFileSync(`${this.src}/${this.config.partials[ key ]}`, 'utf8');
+        for (var key in this.config.partials) out[key] = fs.readFileSync(`${SRC}/${this.config.partials[ key ]}`, 'utf8');
         return out;
     }
 
@@ -37,10 +40,10 @@ module.exports = class Page {
         for (var key in this.config.import) {
             let file = this.config.import[key];
 
-            if (fs.lstatSync(`${this.src}/${file}`).isDirectory()) {
-                out[key] = this.importDirectory(`${this.src}/${file}`);
+            if (fs.lstatSync(`${SRC}/${file}`).isDirectory()) {
+                out[key] = this.importDirectory(`${SRC}/${file}`);
             } else {
-                out[key] = JSON.parse(fs.readFileSync(`${this.src}/${file}`, 'utf8'));
+                out[key] = JSON.parse(fs.readFileSync(`${SRC}/${file}`, 'utf8'));
             }
         }
         return out;
