@@ -3,8 +3,7 @@
     "output": "index.html",
     "partials": {
         "body": "templates/index.mustache",
-        "header": "templates/header.mustache",
-        "description": "content/home/description.md"
+        "header": "templates/header.mustache"
     },
     "data": {
         "styles": [ "index.css" ],
