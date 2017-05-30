@@ -15,7 +15,7 @@
     "dir_scripts": "/assets/scripts/"
   },
   "bin": {
-    "statik": "./test.js"
+    "statik": "./build.js"
   },
   "keywords": [],
   "author": "",
