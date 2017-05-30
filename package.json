@@ -1,5 +1,5 @@
 {
-  "name": "static",
+  "name": "statik",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -13,6 +13,9 @@
     "dir_img": "/assets/images/",
     "dir_styles": "/assets/styles/",
     "dir_scripts": "/assets/scripts/"
+  },
+  "bin": {
+    "statik": "./test.js"
   },
   "keywords": [],
   "author": "",
