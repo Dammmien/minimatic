@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const Builder = require('./Builder');
 
 const reduceConfig = (config, npm_package_config_property) => {
