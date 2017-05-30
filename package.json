@@ -4,13 +4,15 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "build": "node ./scripts/build.js",
-    "serve": "node ./scripts/serve.js",
-    "watch": "node ./scripts/watch.js"
+    "build": "node ./build.js"
   },
   "config": {
     "src": "./src",
-    "output": "./www"
+    "output": "./www",
+    "root": "/",
+    "dir_img": "/assets/images/",
+    "dir_styles": "/assets/styles/",
+    "dir_scripts": "/assets/scripts/"
   },
   "keywords": [],
   "author": "",

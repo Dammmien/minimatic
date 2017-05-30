@@ -1,5 +1,4 @@
 const fs = require('fs');
-const SRC = process.env.npm_package_config_src;
 
 module.exports = class Page {
 
@@ -9,16 +8,16 @@ module.exports = class Page {
     }
 
     get output() {
-        return `${process.env.npm_package_config_output}/${this.config.output}`;
+        return `${this.builder.config.output}/${this.config.output}`;
     }
 
     get template() {
-        return fs.readFileSync(`${SRC}/templates/${this.config.template}`, 'utf8');
+        return fs.readFileSync(`${this.builder.config.src}/templates/${this.config.template}`, 'utf8');
     }
 
     get partials() {
         let out = {};
-        for (var key in this.config.partials) out[key] = fs.readFileSync(`${SRC}/${this.config.partials[ key ]}`, 'utf8');
+        for (var key in this.config.partials) out[key] = fs.readFileSync(`${this.builder.config.src}/${this.config.partials[ key ]}`, 'utf8');
         return out;
     }
 
@@ -40,17 +39,19 @@ module.exports = class Page {
         for (var key in this.config.import) {
             let file = this.config.import[key];
 
-            if (fs.lstatSync(`${SRC}/${file}`).isDirectory()) {
-                out[key] = this.importDirectory(`${SRC}/${file}`);
+            if (fs.lstatSync(`${this.builder.config.src}/${file}`).isDirectory()) {
+                out[key] = this.importDirectory(`${this.builder.config.src}/${file}`);
             } else {
-                out[key] = JSON.parse(fs.readFileSync(`${SRC}/${file}`, 'utf8'));
+                out[key] = JSON.parse(fs.readFileSync(`${this.builder.config.src}/${file}`, 'utf8'));
             }
         }
         return out;
     }
 
     get data() {
-        return Object.assign({}, this.config.data, this.import());
+        return Object.assign({
+            config: this.builder.config
+        }, this.config.data, this.import());
     }
 
 }

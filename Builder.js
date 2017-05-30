@@ -4,29 +4,27 @@ const path = require('path');
 const mustache = require('mustache');
 const markdownParser = require('marked');
 const eol = require('os').EOL;
-const SRC = process.env.npm_package_config_src;
-const OUTPUT = process.env.npm_package_config_output;
 
 module.exports = class Builder {
 
-    constructor(options) {
-        this.setProjectConfig();
+    constructor(config) {
+        this.config = config;
     }
 
     build() {
         let startCleaning = Date.now();
-        this.cleanDestination(OUTPUT);
+        this.cleanDestination(this.config.output);
         let endCleaning = Date.now() - startCleaning;
         console.log(`Output folder cleaned in ${Date.now() - startCleaning} ms.`);
 
         let startBuild = Date.now();
-        let pages = this.getPagesToBuild(`${SRC}/content`);
+        let pages = this.getPagesToBuild(`${this.config.src}/content`);
         pages.forEach(page => this.buildPage(page));
         let endBuild = Date.now() - startBuild;
         console.log(`${pages.length} pages built in ${endBuild} ms.`);
 
         let startAssets = Date.now();
-        this.recursiveCopy(`${SRC}/assets`, `${OUTPUT}/assets`);
+        this.recursiveCopy(`${this.config.src}/assets`, `${this.config.output}/assets`);
         let endAssets = Date.now() - startAssets;
         console.log(`Assets folder copied in ${endAssets} ms.`);
     }
@@ -69,7 +67,7 @@ module.exports = class Builder {
 
         header = JSON.parse(header);
 
-        let config = JSON.parse(fs.readFileSync(`${SRC}/${header.metadata}`, 'utf8'));
+        let config = JSON.parse(fs.readFileSync(`${this.config.src}/${header.metadata}`, 'utf8'));
         config.output = header.output;
         config.data.content = markdownParser(content);
 
@@ -99,15 +97,6 @@ module.exports = class Builder {
                 else fs.unlinkSync(`${directory}/${file}`);
             });
             fs.rmdirSync(directory);
-        }
-    }
-
-    setProjectConfig() {
-        try {
-            this.project_config = JSON.parse(fs.readFileSync('./config.json', 'utf8'));
-        } catch (e) {
-            console.log(`\x1B[31mError during parsing ./config.json\x1B[0m`);
-            this.project_config = {};
         }
     }
 
