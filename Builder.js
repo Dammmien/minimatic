@@ -12,25 +12,22 @@ module.exports = class Builder {
     }
 
     build() {
-        let startCleaning = Date.now();
+        const startCleaning = Date.now();
         this.cleanDestination(this.config.output);
-        let endCleaning = Date.now() - startCleaning;
         console.log(`Output folder cleaned in ${Date.now() - startCleaning} ms.`);
 
-        let startBuild = Date.now();
-        let pages = this.getPagesToBuild(`${this.config.src}/content`);
+        const startBuild = Date.now();
+        const pages = this.getPagesToBuild(`${this.config.src}/content`);
         pages.forEach(page => this.buildPage(page));
-        let endBuild = Date.now() - startBuild;
-        console.log(`${pages.length} pages built in ${endBuild} ms.`);
+        console.log(`${pages.length} pages built in ${Date.now() - startBuild} ms.`);
 
-        let startAssets = Date.now();
+        const startAssets = Date.now();
         this.recursiveCopy(`${this.config.src}/assets`, `${this.config.output}/assets`);
-        let endAssets = Date.now() - startAssets;
-        console.log(`Assets folder copied in ${endAssets} ms.`);
+        console.log(`Assets folder copied in ${Date.now() - startAssets} ms.`);
     }
 
     ensureDirectoryExistence(filePath) {
-        let dirname = path.dirname(filePath);
+        const dirname = path.dirname(filePath);
         if (fs.existsSync(dirname)) return true;
         this.ensureDirectoryExistence(dirname);
         fs.mkdirSync(dirname);
@@ -43,17 +40,13 @@ module.exports = class Builder {
 
     recursiveCopy(source, destination) {
         fs.readdirSync(source).forEach(file => {
-            if (fs.lstatSync(`${source}/${file}`).isDirectory()) {
-                this.recursiveCopy(`${source}/${file}`, `${destination}/${file}`)
-            } else {
-                this.writeFile(`${destination}/${file}`, fs.readFileSync(`${source}/${file}`));
-            }
+            if (fs.lstatSync(`${source}/${file}`).isDirectory()) this.recursiveCopy(`${source}/${file}`, `${destination}/${file}`);
+            else this.writeFile(`${destination}/${file}`, fs.readFileSync(`${source}/${file}`));
         });
     }
 
     buildPage(config) {
-        config.data.project_config = this.project_config;
-        var page = new Page(config, this);
+        const page = new Page(config, this);
 
         try {
             this.writeFile(page.output, mustache.render(page.template, page.data, page.partials));
@@ -67,7 +60,7 @@ module.exports = class Builder {
 
         header = JSON.parse(header);
 
-        let config = JSON.parse(fs.readFileSync(`${this.config.src}/${header.metadata}`, 'utf8'));
+        const config = JSON.parse(fs.readFileSync(`${this.config.src}/${header.metadata}`, 'utf8'));
         config.output = header.output;
         config.data.content = markdownParser(content);
 
@@ -92,7 +85,7 @@ module.exports = class Builder {
     cleanDestination(directory) {
         if (fs.existsSync(directory)) {
             fs.readdirSync(directory).forEach(file => {
-                let isDirectory = fs.lstatSync(`${directory}/${file}`).isDirectory();
+                const isDirectory = fs.lstatSync(`${directory}/${file}`).isDirectory();
                 if (isDirectory) this.cleanDestination(`${directory}/${file}`);
                 else fs.unlinkSync(`${directory}/${file}`);
             });

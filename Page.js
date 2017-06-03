@@ -5,28 +5,22 @@ module.exports = class Page {
     constructor(config, builder) {
         this.builder = builder;
         this.config = config;
-    }
-
-    get output() {
-        return `${this.builder.config.output}/${this.config.output}`;
-    }
-
-    get template() {
-        return fs.readFileSync(`${this.builder.config.src}/${this.config.template}`, 'utf8');
+        this.template = fs.readFileSync(`${this.builder.config.src}/${this.config.template}`, 'utf8');
+        this.output = `${this.builder.config.output}/${this.config.output}`;
     }
 
     get partials() {
-        let out = {};
+        const out = {};
         for (var key in this.config.partials) out[key] = fs.readFileSync(`${this.builder.config.src}/${this.config.partials[ key ]}`, 'utf8');
         return out;
     }
 
     importDirectory(directory) {
-        let pages = this.builder.getPagesToBuild(directory),
-            collection = [];
+        const pages = this.builder.getPagesToBuild(directory);
+        const collection = [];
 
         pages.forEach(config => {
-            let page = new Page(config, this.builder);
+            constructor page = new Page(config, this.builder);
             config.data = page.data;
             collection.push(config);
         });
@@ -35,9 +29,9 @@ module.exports = class Page {
     }
 
     import () {
-        let out = {};
+        const out = {};
         for (var key in this.config.import) {
-            let file = this.config.import[key];
+            const file = this.config.import[key];
 
             if (fs.lstatSync(`${this.builder.config.src}/${file}`).isDirectory()) {
                 out[key] = this.importDirectory(`${this.builder.config.src}/${file}`);
