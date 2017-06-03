@@ -20,7 +20,7 @@ module.exports = class Page {
         const collection = [];
 
         pages.forEach(config => {
-            constructor page = new Page(config, this.builder);
+            const page = new Page(config, this.builder);
             config.data = page.data;
             collection.push(config);
         });
