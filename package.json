@@ -2,15 +2,11 @@
   "name": "statik",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
-  "scripts": {
-    "build": "node ./build.js"
-  },
   "bin": {
     "statik": "./build.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Damien Duhamel",
   "license": "ISC",
   "dependencies": {
     "marked": "^0.3.6",
