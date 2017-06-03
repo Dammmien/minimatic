@@ -1,18 +1,13 @@
 #!/usr/bin/env node
 
 const Builder = require('./Builder');
+const fs = require('fs');
 
-const reduceConfig = (config, npm_package_config_property) => {
-	const property = npm_package_config_property.replace('npm_package_config_', '');
-	config[property] = process.env[npm_package_config_property];
-	return config;
-};
+const package = JSON.parse(fs.readFileSync(`${process.cwd()}/package.json`));
+const config = package.config;
 
-const config = Object.keys(process.env).filter(
-	x => x.startsWith('npm_package_config_')
-).reduce(
-	reduceConfig, {}
-);
+config.src = `${process.cwd()}/${config.src}`;
+config.output = `${process.cwd()}/${config.output}`;
 
 const builder = new Builder(config);
 
