@@ -6,8 +6,8 @@ const fs = require('fs');
 const package = JSON.parse(fs.readFileSync(`${process.cwd()}/package.json`));
 const config = package.config;
 
-config.src = `${process.cwd()}/${config.src}`;
-config.output = `${process.cwd()}/${config.output}`;
+config.src = config.src ? `${process.cwd()}/${config.src}` : process.cwd();
+config.output = config.output ? `${process.cwd()}/${config.output}` : `${process.cwd()}/www`;
 
 const builder = new Builder(config);
 

@@ -1,11 +1,19 @@
 {
   "name": "statik",
   "version": "1.0.0",
-  "description": "",
+  "description": "Minimalist & simple static site generator.",
   "bin": {
     "statik": "./build.js"
   },
-  "keywords": [],
+  "keywords": [
+    "static",
+    "file",
+    "site",
+    "website",
+    "blog",
+    "generator",
+    "markdown"
+  ],
   "author": "Damien Duhamel",
   "license": "ISC",
   "dependencies": {

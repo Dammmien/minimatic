@@ -12,7 +12,7 @@ module.exports = class Page {
     }
 
     get template() {
-        return fs.readFileSync(`${this.builder.config.src}/templates/${this.config.template}`, 'utf8');
+        return fs.readFileSync(`${this.builder.config.src}/${this.config.template}`, 'utf8');
     }
 
     get partials() {
