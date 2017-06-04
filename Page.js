@@ -16,20 +16,16 @@ module.exports = class Page {
     }
 
     importDirectory(directory) {
-        const pages = this.builder.getPagesToBuild(directory);
-        const collection = [];
-
-        pages.forEach(config => {
+        return this.builder.getPagesToBuild(directory).map(config => {
             const page = new Page(config, this.builder);
             config.data = page.data;
-            collection.push(config);
+            return config;
         });
-
-        return collection;
     }
 
     import () {
         const out = {};
+
         for (var key in this.config.import) {
             const file = this.config.import[key];
 
@@ -39,6 +35,7 @@ module.exports = class Page {
                 out[key] = JSON.parse(fs.readFileSync(`${this.builder.config.src}/${file}`, 'utf8'));
             }
         }
+
         return out;
     }
 
