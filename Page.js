@@ -16,7 +16,9 @@ module.exports = class Page {
     }
 
     importDirectory(directory) {
-        return this.builder.getPagesToBuild(directory).map(config => {
+        return this.builder.getPagesToBuild(directory).filter(
+            config => config.output !== this.config.output
+        ).map(config => {
             const page = new Page(config, this.builder);
             config.data = page.data;
             return config;
