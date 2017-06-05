@@ -62,7 +62,11 @@ module.exports = class Builder {
 
         const config = JSON.parse(fs.readFileSync(`${this.config.src}/${header.metadata}`, 'utf8'));
         config.output = header.output;
-        config.data.content = markdownParser(content);
+
+        delete header.metadata;
+        delete header.output;
+
+        config.data = Object.assign(config.data, header, { content: markdownParser(content) });
 
         return config;
     }
