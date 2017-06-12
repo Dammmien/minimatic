@@ -36,8 +36,8 @@ module.exports = class Page {
                 out[key] = JSON.parse(fs.readFileSync(`${this.builder.config.src}/${file}`, 'utf8'));
             }
 
-            return out
-        });
+            return out;
+        }, {});
     }
 
 }
