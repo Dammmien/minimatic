@@ -7,6 +7,7 @@ module.exports = class Page {
         this.config = config;
         this.template = fs.readFileSync(`${this.builder.config.src}/${this.config.template}`, 'utf8');
         this.output = `${this.builder.config.output}/${this.config.output}`;
+        this.data = Object.assign({ config: this.builder.config }, this.config.data, this.import());
     }
 
     get partials() {
@@ -26,9 +27,7 @@ module.exports = class Page {
     }
 
     import () {
-        const out = {};
-
-        for (var key in this.config.import) {
+        return Object.keys(this.config.import).reduce((out, key) => {
             const file = this.config.import[key];
 
             if (fs.lstatSync(`${this.builder.config.src}/${file}`).isDirectory()) {
@@ -36,15 +35,9 @@ module.exports = class Page {
             } else {
                 out[key] = JSON.parse(fs.readFileSync(`${this.builder.config.src}/${file}`, 'utf8'));
             }
-        }
 
-        return out;
-    }
-
-    get data() {
-        return Object.assign({
-            config: this.builder.config
-        }, this.config.data, this.import());
+            return out
+        });
     }
 
 }
