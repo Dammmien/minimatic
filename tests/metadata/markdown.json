@@ -1,0 +1,9 @@
+{
+    "template": "templates/base.mustache",
+    "data": {
+    	"data_from_extend": "2. This is data from extend"
+    },
+    "partials": {
+        "body": "templates/markdown.mustache"
+    }
+}
