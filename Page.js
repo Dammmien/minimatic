@@ -27,7 +27,7 @@ module.exports = class Page {
     }
 
     import () {
-        return Object.keys(this.config.import).reduce((out, key) => {
+        return Object.keys(this.config.import || {}).reduce((out, key) => {
             const file = this.config.import[key];
 
             if (fs.lstatSync(`${this.builder.config.src}/${file}`).isDirectory()) {

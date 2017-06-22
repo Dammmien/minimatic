@@ -56,19 +56,21 @@ module.exports = class Builder {
     }
 
     getMarkdownPageConfig(file) {
-        let [header, content] = fs.readFileSync(file, 'utf8').split(`${eol}---${eol}`);
-
-        header = JSON.parse(header);
-
-        const config = JSON.parse(fs.readFileSync(`${this.config.src}/${header.metadata}`, 'utf8'));
-        config.output = header.output;
-
-        delete header.metadata;
-        delete header.output;
-
-        config.data = Object.assign(config.data, header, { content: markdownParser(content) });
-
+        const [header, markdown] = fs.readFileSync(file, 'utf8').split(`${eol}---${eol}`);
+        const config = this.extendConfig(JSON.parse(header));
+        config.data = config.data || {};
+        config.data.markdown = markdownParser(markdown);
         return config;
+    }
+
+    extendConfig(config) {
+        const extend = JSON.parse(fs.readFileSync(`${this.config.src}/${config.extend}`, 'utf8'));
+        delete config.extend;
+        for (const key in extend)
+            if (typeof extend[key] === 'object' && !Array.isArray(extend[key]))
+                config[key] = Object.assign(extend[key], config[key] || {});
+        config = Object.assign(extend, config);
+        return config.extend ? this.extendConfig(config) : config;
     }
 
     getPagesToBuild(directory) {
@@ -78,6 +80,7 @@ module.exports = class Builder {
                 pages = pages.concat(this.getPagesToBuild(`${directory}/${file}`));
             } else if (path.extname(file) === '.json') {
                 let config = JSON.parse(fs.readFileSync(`${directory}/${file}`, 'utf8'));
+                if (config.extend) config = this.extendConfig(config);
                 if (config.template) pages.push(config);
             } else if (path.extname(file) === '.md') {
                 pages.push(this.getMarkdownPageConfig(`${directory}/${file}`));
