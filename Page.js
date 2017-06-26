@@ -1,8 +1,10 @@
 const fs = require('fs');
+const Utils = require('./Utils');
 
 module.exports = class Page {
 
     constructor(config, builder) {
+        this.utils = new Utils();
         this.builder = builder;
         this.config = config;
         this.template = fs.readFileSync(`${this.builder.config.src}/${this.config.template}`, 'utf8');
@@ -17,7 +19,8 @@ module.exports = class Page {
     }
 
     importDirectory(directory) {
-        return this.builder.getPagesToBuild(directory).filter(
+        const filePaths = this.builder.getFilesPath(directory);
+        return this.builder.getPagesToBuild(filePaths).filter(
             config => config.output !== this.config.output
         ).map(config => {
             const page = new Page(config, this.builder);
@@ -33,7 +36,7 @@ module.exports = class Page {
             if (fs.lstatSync(`${this.builder.config.src}/${file}`).isDirectory()) {
                 out[key] = this.importDirectory(`${this.builder.config.src}/${file}`);
             } else {
-                out[key] = JSON.parse(fs.readFileSync(`${this.builder.config.src}/${file}`, 'utf8'));
+                out[key] = this.utils.readAndParse(`${this.builder.config.src}/${file}`);
             }
 
             return out;

@@ -1,103 +1,103 @@
 const Page = require('./Page');
+const Utils = require('./Utils');
 const fs = require('fs');
 const path = require('path');
 const mustache = require('mustache');
 const markdownParser = require('marked');
-const eol = require('os').EOL;
+const minimatch = require("minimatch");
 
 module.exports = class Builder {
 
     constructor(config) {
         this.config = config;
+        this.utils = new Utils();
     }
 
     build() {
         const startCleaning = Date.now();
-        this.cleanDestination(this.config.output);
+        this.utils.removeDirectory(this.config.output);
         console.log(`Output folder cleaned in ${Date.now() - startCleaning} ms.`);
 
         const startBuild = Date.now();
-        const pages = this.getPagesToBuild(`${this.config.src}/content`);
-        pages.forEach(page => this.buildPage(page));
-        console.log(`${pages.length} pages built in ${Date.now() - startBuild} ms.`);
+        const filesPath = this.getFilesPath(`${this.config.src}/content`);
+        const pagesToBuild = this.getPagesToBuild(filesPath);
+        pagesToBuild.forEach(pageToBuild => this.buildPage(pageToBuild));
+        console.log(`${pagesToBuild.length} pages built in ${Date.now() - startBuild} ms.`);
 
         const startAssets = Date.now();
-        this.recursiveCopy(`${this.config.src}/assets`, `${this.config.output}/assets`);
+        this.utils.recursiveCopy(`${this.config.src}/assets`, `${this.config.output}/assets`);
         console.log(`Assets folder copied in ${Date.now() - startAssets} ms.`);
-    }
-
-    ensureDirectoryExistence(filePath) {
-        const dirname = path.dirname(filePath);
-        if (fs.existsSync(dirname)) return true;
-        this.ensureDirectoryExistence(dirname);
-        fs.mkdirSync(dirname);
-    }
-
-    writeFile(destination, content) {
-        this.ensureDirectoryExistence(destination);
-        fs.writeFileSync(destination, content);
-    }
-
-    recursiveCopy(source, destination) {
-        fs.readdirSync(source).forEach(file => {
-            if (fs.lstatSync(`${source}/${file}`).isDirectory()) this.recursiveCopy(`${source}/${file}`, `${destination}/${file}`);
-            else this.writeFile(`${destination}/${file}`, fs.readFileSync(`${source}/${file}`));
-        });
     }
 
     buildPage(config) {
         const page = new Page(config, this);
 
         try {
-            this.writeFile(page.output, mustache.render(page.template, page.data, page.partials));
+            this.utils.writeFile(page.output, mustache.render(page.template, page.data, page.partials));
         } catch (e) {
             console.log(`\x1B[31mError during processing ${config.output}\x1B[0m`);
         }
     }
 
     getMarkdownPageConfig(file) {
-        const [header, markdown] = fs.readFileSync(file, 'utf8').split(`${eol}---${eol}`);
-        const config = this.extendConfig(JSON.parse(header));
-        config.data = config.data || {};
-        config.data.markdown = markdownParser(markdown);
-        return config;
+        try {
+            const markdownFileContent = fs.readFileSync(file, 'utf8');
+            const output = markdownFileContent.match(/<!--(.*)-->/)[1].trim();
+            return {
+                output: output,
+                data: {
+                    markdown: markdownParser(markdownFileContent)
+                }
+            };
+        } catch (e) {
+            console.log(`\x1B[31mInvalid markdown header in ${file}\x1B[0m`);
+            return {};
+        }
+    }
+
+    merge(destination, source) {
+        for (const key in destination)
+            if (typeof destination[key] === 'object' && !Array.isArray(destination[key]))
+                source[key] = Object.assign(destination[key], source[key] || {});
+        return Object.assign(destination, source);
     }
 
     extendConfig(config) {
-        const extend = JSON.parse(fs.readFileSync(`${this.config.src}/${config.extend}`, 'utf8'));
+        const extend = this.utils.readAndParse(`${this.config.src}/${config.extend}`);
         delete config.extend;
-        for (const key in extend)
-            if (typeof extend[key] === 'object' && !Array.isArray(extend[key]))
-                config[key] = Object.assign(extend[key], config[key] || {});
-        config = Object.assign(extend, config);
+        config = this.merge(extend, config);
         return config.extend ? this.extendConfig(config) : config;
     }
 
-    getPagesToBuild(directory) {
-        let pages = [];
-        fs.readdirSync(directory).forEach(file => {
-            if (fs.lstatSync(`${directory}/${file}`).isDirectory()) {
-                pages = pages.concat(this.getPagesToBuild(`${directory}/${file}`));
-            } else if (path.extname(file) === '.json') {
-                let config = JSON.parse(fs.readFileSync(`${directory}/${file}`, 'utf8'));
-                if (config.extend) config = this.extendConfig(config);
-                if (config.template) pages.push(config);
-            } else if (path.extname(file) === '.md') {
-                pages.push(this.getMarkdownPageConfig(`${directory}/${file}`));
-            }
-        });
-        return pages;
+    getPagesToBuild(filePaths) {
+        const out = [];
+
+        for (const pathSchema in this.config.paths) {
+            const baseConf = this.utils.readAndParse(`${this.config.src}/${this.config.paths[pathSchema]}`);
+
+            filePaths.forEach(filePath => {
+                if (minimatch(filePath, `${this.config.src}/${pathSchema}`)) {
+                    if (path.extname(filePath) === '.json' || path.extname(filePath) === '.yml') {
+                        let pageConf = this.utils.readAndParse(filePath);
+                        pageConf = this.merge(baseConf, pageConf);
+                        out.push(pageConf.extend ? this.extendConfig(pageConf) : pageConf);
+                    } else if (path.extname(filePath) === '.md') {
+                        out.push(this.merge(baseConf, this.getMarkdownPageConfig(filePath)));
+                    }
+                }
+            });
+        }
+
+        return out;
     }
 
-    cleanDestination(directory) {
-        if (fs.existsSync(directory)) {
-            fs.readdirSync(directory).forEach(file => {
-                const isDirectory = fs.lstatSync(`${directory}/${file}`).isDirectory();
-                if (isDirectory) this.cleanDestination(`${directory}/${file}`);
-                else fs.unlinkSync(`${directory}/${file}`);
-            });
-            fs.rmdirSync(directory);
-        }
+    getFilesPath(directory) {
+        let pages = [];
+        fs.readdirSync(directory).forEach(file => {
+            if (this.utils.isDirectory(`${directory}/${file}`)) pages = pages.concat(this.getFilesPath(`${directory}/${file}`));
+            else pages.push(`${directory}/${file}`);
+        });
+        return pages;
     }
 
 }

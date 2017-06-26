@@ -6,7 +6,12 @@ const config = {
 	"dir_img": "/assets/images/",
 	"dir_styles": "/assets/styles/",
 	"dir_scripts": "/assets/scripts/",
-	"src": ""
+	"src": "",
+	"paths": {
+		"/content/collections_json/**/*.json": "/metadata/collections.json",
+		"/content/collections_json/**/*.yml": "/metadata/collections.json",
+		"/content/markdown/*.md": "/metadata/markdown.json"
+	}
 };
 
 config.src = config.src ? `${process.cwd()}/${config.src}` : process.cwd();
