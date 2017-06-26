@@ -58,8 +58,8 @@ module.exports = class Builder {
     merge(destination, source) {
         for (const key in destination)
             if (typeof destination[key] === 'object' && !Array.isArray(destination[key]))
-                source[key] = Object.assign(destination[key], source[key] || {});
-        return Object.assign(destination, source);
+                source[key] = Object.assign({}, destination[key], source[key] || {});
+        return Object.assign({}, destination, source);
     }
 
     extendConfig(config) {
