@@ -48,13 +48,13 @@ module.exports = class Builder {
         return Object.assign({}, baseConf, pageConf, mergedList);
     }
 
-    getPagesToBuild(filePaths) {
+    getPagesToBuild(filePaths, bypassFilter) {
         const out = [];
 
         for (const pathSchema in this.config.paths) {
             const baseConf = this.utils.readAndParse(`${this.config.src}/${this.config.paths[pathSchema]}`);
 
-            filePaths.filter( filePath => minimatch(filePath, `${this.config.src}/${pathSchema}`) ).forEach(
+            filePaths.filter( filePath => bypassFilter ? true : minimatch(filePath, `${this.config.src}/${pathSchema}`) ).forEach(
                 filePath => out.push(this.getMergedConf(baseConf, this.utils.readAndParse(filePath)))
             );
         }

@@ -20,7 +20,7 @@ module.exports = class Page {
 
     importDirectory(directory) {
         const filePaths = this.builder.getFilesPath(directory);
-        return this.builder.getPagesToBuild(filePaths).filter(
+        return this.builder.getPagesToBuild(filePaths, true).filter(
             config => config._output !== this.config._output
         ).map(config => {
             const page = new Page(config, this.builder);
