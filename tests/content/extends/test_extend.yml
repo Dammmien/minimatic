@@ -1,5 +1,0 @@
-data:
-  test_partial_data_base: "4. This is a partial data from base"
-  test_partial_data_from_extend: "5. This is a partial with data from extend"
-import:
-  test_import_extend: "content/imports/test_import_extend.json"

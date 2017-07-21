@@ -8,9 +8,7 @@ const config = {
 	"dir_scripts": "/assets/scripts/",
 	"src": "",
 	"paths": {
-		"/content/collections_json/**/*.json": "/metadata/collections.json",
-		"/content/collections_json/**/*.yml": "/metadata/collections.json",
-		"/content/markdown/*.md": "/metadata/markdown.json"
+		"/content/collections_json/**/*.md": "/metadata/collections.json"
 	}
 };
 

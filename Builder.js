@@ -39,34 +39,13 @@ module.exports = class Builder {
         }
     }
 
-    getMarkdownPageConfig(file) {
-        try {
-            const markdownFileContent = fs.readFileSync(file, 'utf8');
-            const output = markdownFileContent.match(/<!--(.*)-->/)[1].trim();
-            return {
-                output: output,
-                data: {
-                    markdown: markdownParser(markdownFileContent)
-                }
-            };
-        } catch (e) {
-            console.log(`\x1B[31mInvalid markdown header in ${file}\x1B[0m`);
-            return {};
-        }
-    }
+    getMergedConf(baseConf, pageConf) {
+        const mergedList = ['_imports', '_partials'].reduce((out, property) => {
+            out[property] = Object.assign({}, baseConf[property] || {}, pageConf[property] || {});
+            return out;
+        }, {});
 
-    merge(destination, source) {
-        for (const key in destination)
-            if (typeof destination[key] === 'object' && !Array.isArray(destination[key]))
-                source[key] = Object.assign({}, destination[key], source[key] || {});
-        return Object.assign({}, destination, source);
-    }
-
-    extendConfig(config) {
-        const extend = this.utils.readAndParse(`${this.config.src}/${config.extend}`);
-        delete config.extend;
-        config = this.merge(extend, config);
-        return config.extend ? this.extendConfig(config) : config;
+        return Object.assign({}, baseConf, pageConf, mergedList);
     }
 
     getPagesToBuild(filePaths) {
@@ -75,17 +54,9 @@ module.exports = class Builder {
         for (const pathSchema in this.config.paths) {
             const baseConf = this.utils.readAndParse(`${this.config.src}/${this.config.paths[pathSchema]}`);
 
-            filePaths.forEach(filePath => {
-                if (minimatch(filePath, `${this.config.src}/${pathSchema}`)) {
-                    if (path.extname(filePath) === '.json' || path.extname(filePath) === '.yml') {
-                        let pageConf = this.utils.readAndParse(filePath);
-                        pageConf = this.merge(baseConf, pageConf);
-                        out.push(pageConf.extend ? this.extendConfig(pageConf) : pageConf);
-                    } else if (path.extname(filePath) === '.md') {
-                        out.push(this.merge(baseConf, this.getMarkdownPageConfig(filePath)));
-                    }
-                }
-            });
+            filePaths.filter( filePath => minimatch(filePath, `${this.config.src}/${pathSchema}`) ).forEach(
+                filePath => out.push(this.getMergedConf(baseConf, this.utils.readAndParse(filePath)))
+            );
         }
 
         return out;

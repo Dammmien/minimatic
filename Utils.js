@@ -1,6 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 const yaml = require('js-yaml');
+const fm = require('front-matter');
+const markdownParser = require('marked');
 
 module.exports = class Utils {
 
@@ -41,6 +43,10 @@ module.exports = class Utils {
         const fileContent = fs.readFileSync(filePath, 'utf8');
         if (path.extname(filePath) === '.json') return JSON.parse(fileContent);
         if (path.extname(filePath) === '.yml') return yaml.safeLoad(fileContent);
+        if (path.extname(filePath) === '.md') {
+            const parsed = fm(fileContent);
+            return Object.assign({}, parsed.attributes, {body: markdownParser(parsed.body)});
+        }
     }
 
 }

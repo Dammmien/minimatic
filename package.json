@@ -17,6 +17,7 @@
   "author": "Damien Duhamel",
   "license": "ISC",
   "dependencies": {
+    "front-matter": "^2.1.2",
     "js-yaml": "^3.8.4",
     "marked": "^0.3.6",
     "minimatch": "^3.0.4",
