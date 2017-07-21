@@ -27,6 +27,10 @@ module.exports = class Builder {
         const startAssets = Date.now();
         this.utils.recursiveCopy(`${this.config.src}/assets`, `${this.config.output}/assets`);
         console.log(`Assets folder copied in ${Date.now() - startAssets} ms.`);
+
+        const startAdmin = Date.now();
+        this.utils.recursiveCopy(`${this.config.src}/admin`, `${this.config.output}/admin`);
+        console.log(`Admin folder copied in ${Date.now() - startAdmin} ms.`);
     }
 
     buildPage(config) {
