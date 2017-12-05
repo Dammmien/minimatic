@@ -13,3 +13,4 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "URL", name: "output", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown", default: "Enter description"}
