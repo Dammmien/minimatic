@@ -1,11 +1,9 @@
 {
 	"_template": "templates/base.mustache",
 	"_partials": {
-		"body": "templates/collection.mustache",
-		"test_partial_base": "templates/partial_base.mustache"
+		"body": "templates/collection.mustache"
 	},
-	"test_partial_base": "5. Partial from base and data from base",
 	"_imports": {
-		"test_import_base": "content/imports/test_import_base.json"
+		"import_metadata": "content/imports/import_metadata.json"
 	}
 }
