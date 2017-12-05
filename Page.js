@@ -8,7 +8,7 @@ module.exports = class Page {
         this.builder = builder;
         this.config = config;
         this.template = fs.readFileSync(`${this.builder.config.src}/${this.config._template}`, 'utf8');
-        this.output = `${this.builder.config.output}/${this.config._output}`;
+        this.output = `${this.builder.config.output}/${this.config.output}`;
         this.data = Object.assign({ _config: this.builder.config }, this.config, this.import());
     }
 
@@ -21,7 +21,7 @@ module.exports = class Page {
     importDirectory(directory) {
         const filePaths = this.builder.getFilesPath(directory);
         return this.builder.getPagesToBuild(filePaths, true).filter(
-            config => config._output !== this.config._output
+            config => config.output !== this.config.output
         ).map(config => {
             const page = new Page(config, this.builder);
             config.data = page.data;
