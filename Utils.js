@@ -78,11 +78,8 @@ module.exports = class Utils {
         const out = {};
 
         for (const key in imports) {
-            if (fs.lstatSync(`${path}/${imports[key]}`).isDirectory()) {
-                out[key] = this.importDirectory(`${path}/${imports[key]}`);
-            } else {
-                out[key] = this.readAndParse(`${path}/${imports[key]}`);
-            }
+            const isDirectory = fs.lstatSync(`${path}/${imports[key]}`).isDirectory();
+            out[key] = isDirectory ? this.importDirectory(`${path}/${imports[key]}`) : this.readAndParse(`${path}/${imports[key]}`);
         }
 
         return out;
@@ -91,7 +88,7 @@ module.exports = class Utils {
     /*
      * Return the configuration of a page with all the configurations merged : {}
      */
-    getPageConf(baseConf, filePath, disableImports = false){
+    getPageConf(baseConf, filePath, disableImports = false) {
         const pageConf = this.readAndParse(filePath);
 
         const listConfs = [
