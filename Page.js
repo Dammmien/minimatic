@@ -9,7 +9,7 @@ module.exports = class Page {
         this.utils = new Utils(this.project);
         this.data = this.getData(config.metadata, config.filePath, false);
         this.template = fs.readFileSync(`${this.project.src}/${this.data._template}`, 'utf8');
-        this.output = this.data._src_path.replace(`${this.project.src}/content`, this.project.output).replace('.md', '.html');
+        this.output = config.filePath.replace(`${this.project.src}/content`, this.project.output).replace('.md', '.html');
     }
 
     getPartials() {
@@ -40,7 +40,6 @@ module.exports = class Page {
         const pageConf = this.utils.readAndParse(filePath);
 
         const listConfs = [
-            { _src_path : filePath },
             this.project.data,
             disableImports ? {} : this.resolveImports(this.project.src, baseConf._imports || {}),
             baseConf,
