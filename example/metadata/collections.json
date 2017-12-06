@@ -4,6 +4,7 @@
 		"body": "templates/collection.mustache"
 	},
 	"_imports": {
-		"import_metadata": "content/imports/import_metadata.json"
+		"import_metadata": "content/imports/import_metadata.json",
+		"collection": "content/collections"
 	}
 }

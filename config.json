@@ -1,9 +1,10 @@
 {
-    "root": "/",
-    "dir_img": "/assets/images/",
-    "dir_styles": "/assets/styles/",
-    "dir_scripts": "/assets/scripts/",
-    "src": "./tests",
+    "data" : {
+        "dir_img": "/assets/images/",
+        "dir_styles": "/assets/styles/",
+        "dir_scripts": "/assets/scripts/"
+    },
+    "src": "./example",
     "output": "./output",
     "paths": {
         "/content/collections/*.md": "/metadata/collections.json"

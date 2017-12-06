@@ -1,6 +1,5 @@
 ---
 title: test
-output: collections/test.html
 ---
 # Test de header
 
