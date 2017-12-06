@@ -70,43 +70,6 @@ module.exports = class Utils {
         return files;
     }
 
-    importDirectory(directory) {
-        return this.getFilesPath(directory).map(filePath => this.getPageConf({}, filePath, true));
-    }
-
-    getImports(path, imports) {
-        const out = {};
-
-        for (const key in imports) {
-            const isDirectory = fs.lstatSync(`${path}/${imports[key]}`).isDirectory();
-            out[key] = isDirectory ? this.importDirectory(`${path}/${imports[key]}`) : this.readAndParse(`${path}/${imports[key]}`);
-        }
-
-        return out;
-    }
-
-    /*
-     * Return the configuration of a page with all the configurations merged : {}
-     */
-    getPageConf(baseConf, filePath, disableImports = false) {
-        const pageConf = this.readAndParse(filePath);
-
-        const listConfs = [
-            { _src_path : filePath },
-            this.config.data,
-            disableImports ? {} : this.getImports(this.config.src, baseConf._imports || {}),
-            baseConf,
-            disableImports ? {} : this.getImports(this.config.src, pageConf._imports || {}),
-            pageConf
-        ];
-
-        const out = listConfs.reduce((out, conf) => this.merge(out, conf), {});
-
-        delete out._imports;
-
-        return out;
-    }
-
     readAndParse(filePath) {
         const fileContent = fs.readFileSync(filePath, 'utf8');
         if (path.extname(filePath) === '.json') return JSON.parse(fileContent);
