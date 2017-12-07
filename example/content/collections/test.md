@@ -1,8 +1,7 @@
 ---
+title: Test change title edited
 statik_imports:
- import: content/imports/import.json
-title: Test change title
-statik_output: super_test.html
+  import: content/imports/import.json
 ---
 # Test de header
 
