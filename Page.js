@@ -9,7 +9,15 @@ module.exports = class Page {
         this.utils = new Utils(this.project);
         this.data = this.getData(config.metadata, config.filePath, false);
         this.template = fs.readFileSync(`${this.project.src}/${this.data.statik_template}`, 'utf8');
-        this.output = config.filePath.replace(`${this.project.src}/content`, this.project.output).replace('.md', '.html');
+        this.output = this.getOutput(config);
+    }
+
+    getOutput(config) {
+        if (this.data.statik_output) {
+            return `${this.project.output}/${this.data.statik_output}`;
+        } else {
+            return config.filePath.replace(`${this.project.src}/content`, this.project.output).replace('.md', '.html');
+        }
     }
 
     getPartials() {
@@ -18,7 +26,7 @@ module.exports = class Page {
         return out;
     }
 
-   importDirectory(directory) {
+    importDirectory(directory) {
         return this.utils.getFilesPath(directory).map(filePath => this.getData({}, filePath, true));
     }
 

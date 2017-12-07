@@ -12,4 +12,5 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Imports", name: "statik_imports", widget: "hidden", default: {import: "content/imports/import.json"}}
       - {label: "Body", name: "body", widget: "markdown", default: "Enter description"}
