@@ -1,7 +1,7 @@
 ---
 statik_imports:
  import: content/imports/import.json
-title: test
+title: Test change title
 ---
 # Test de header
 
