@@ -3,12 +3,12 @@ backend:
   repo: dammmien/statik # Path to your Github repository
   branch: master # Branch to update (master by default)
 
-media_folder: "tests/assets" # Folder where user uploaded files should go
+media_folder: "example/assets" # Folder where user uploaded files should go
 
 collections: # A list of collections the CMS should be able to edit
   - name: "item" # Used in routes, e.g., /admin/collections/:slug/edit
     label: "Item" # Used in the UI, e.g., "New Post"
-    folder: "tests/content/collections" # The path to the folder where the documents are stored
+    folder: "example/content/collections" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}

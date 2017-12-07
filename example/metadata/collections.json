@@ -1,9 +1,9 @@
 {
-	"_template": "templates/base.mustache",
-	"_partials": {
+	"statik_template": "templates/base.mustache",
+	"statik_partials": {
 		"body": "templates/collection.mustache"
 	},
-	"_imports": {
+	"statik_imports": {
 		"import_metadata": "content/imports/import_metadata.json",
 		"collection": "content/collections"
 	}

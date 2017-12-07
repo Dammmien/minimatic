@@ -8,13 +8,13 @@ module.exports = class Page {
         this.project = config.project;
         this.utils = new Utils(this.project);
         this.data = this.getData(config.metadata, config.filePath, false);
-        this.template = fs.readFileSync(`${this.project.src}/${this.data._template}`, 'utf8');
+        this.template = fs.readFileSync(`${this.project.src}/${this.data.statik_template}`, 'utf8');
         this.output = config.filePath.replace(`${this.project.src}/content`, this.project.output).replace('.md', '.html');
     }
 
     getPartials() {
         const out = {};
-        for (var key in this.data._partials) out[key] = fs.readFileSync(`${this.project.src}/${this.data._partials[ key ]}`, 'utf8');
+        for (var key in this.data.statik_partials) out[key] = fs.readFileSync(`${this.project.src}/${this.data.statik_partials[ key ]}`, 'utf8');
         return out;
     }
 
@@ -41,15 +41,15 @@ module.exports = class Page {
 
         const listConfs = [
             this.project.data,
-            disableImports ? {} : this.resolveImports(this.project.src, baseConf._imports || {}),
+            disableImports ? {} : this.resolveImports(this.project.src, baseConf.statik_imports || {}),
             baseConf,
-            disableImports ? {} : this.resolveImports(this.project.src, pageConf._imports || {}),
+            disableImports ? {} : this.resolveImports(this.project.src, pageConf.statik_imports || {}),
             pageConf
         ];
 
         const out = listConfs.reduce((out, conf) => this.utils.merge(out, conf), {});
 
-        delete out._imports;
+        delete out.statik_imports;
 
         return out;
     }

@@ -1,4 +1,6 @@
 ---
+statik_imports:
+ import: content/imports/import.json
 title: test
 ---
 # Test de header

@@ -30,8 +30,8 @@ You can organize your pages in subfolders.
 ### 2. Build each page
 For each page we will instanciate a `Page` class with the project configuration and launch the build of the page with `Page.render`.
 It will render the page with mustache using `Page.template`, `Page.data` and `Page.partials`.
-- `Page.template` come from the property `_template` in the configuration of the page.
+- `Page.template` come from the property `statik_template` in the configuration of the page.
 - `Page.data` is a merge of different configuration object.
-- `Page.partials` used the property `_partials` of the configuration of the page. It can import other mustache template.
+- `Page.partials` used the property `statik_partials` of the configuration of the page. It can import other mustache template.
 
 The path of the HTML output file is provided by the path of the file by replacing .md by .html.
