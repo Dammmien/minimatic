@@ -5,7 +5,7 @@
         "dir_scripts": "/assets/scripts/"
     },
     "src": "./example",
-    "output": "./output",
+    "output": "./www",
     "paths": {
         "/content/collections/*.md": "/content/collections/collections.json"
     }
