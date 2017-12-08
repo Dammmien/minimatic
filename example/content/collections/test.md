@@ -1,8 +1,9 @@
 ---
+title: Test change title
 statik_imports:
   import: content/imports/import.json
-title: Test change title
 statik_output: super_test.html
+thumbnail: /assets/placeholder.jpg
 ---
 # Test de header
 
