@@ -2,8 +2,8 @@
   "name": "statik",
   "version": "1.0.0",
   "description": "Minimalist & simple static site generator.",
-  "bin": {
-    "statik": "./build.js"
+  "scripts": {
+    "start": "node ./src/build.js"
   },
   "keywords": [
     "static",
