@@ -9,10 +9,10 @@ module.exports = class Page {
         this.utils = new Utils(this.project);
         this.data = this.getData(config.metadata, config.filePath, false);
         this.template = fs.readFileSync(`${this.project.src}/${this.data.statik_template}`, 'utf8');
-        this.output = this.getOutput(config);
+        this.output = this.getOutputPath(config);
     }
 
-    getOutput(config) {
+    getOutputPath(config) {
         if (this.data.statik_output) {
             return `${this.project.output}/${this.data.statik_output}`;
         } else {
@@ -46,20 +46,13 @@ module.exports = class Page {
      */
     getData(baseConf, filePath, disableImports = false) {
         const pageConf = this.utils.readAndParse(filePath);
-
-        const listConfs = [
+        return [
             this.project.data,
             disableImports ? {} : this.resolveImports(this.project.src, baseConf.statik_imports || {}),
             baseConf,
             disableImports ? {} : this.resolveImports(this.project.src, pageConf.statik_imports || {}),
             pageConf
-        ];
-
-        const out = listConfs.reduce((out, conf) => this.utils.merge(out, conf), {});
-
-        delete out.statik_imports;
-
-        return out;
+        ].reduce((out, conf) => this.utils.merge(out, conf), {});
     }
 
     render() {

@@ -7,6 +7,6 @@
     "src": "./example",
     "output": "./output",
     "paths": {
-        "/content/collections/*.md": "/metadata/collections.json"
+        "/content/collections/*.md": "/content/collections/collections.json"
     }
 }

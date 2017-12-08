@@ -4,6 +4,7 @@ backend:
   branch: master # Branch to update (master by default)
 
 media_folder: "example/assets" # Folder where user uploaded files should go
+public_folder: "/assets"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "item" # Used in routes, e.g., /admin/collections/:slug/edit
