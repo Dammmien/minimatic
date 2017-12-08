@@ -6,7 +6,6 @@ module.exports = class Page {
 
     constructor(config) {
         this.project = config.project;
-        this.utils = new Utils();
         this.data = this.getData(config.metadata, config.filePath, false);
         this.template = fs.readFileSync(`${this.project.src}/${this.data.statik_template}`, 'utf8');
         this.output = this.getOutputPath(config);
@@ -27,15 +26,15 @@ module.exports = class Page {
     }
 
     importDirectory(directory) {
-        return this.utils.getFilesPath(directory).map(filePath => this.getData({}, filePath, true));
+        return Utils.getFilesPath(directory).map(filePath => this.getData({}, filePath, true));
     }
 
     resolveImports(path, imports) {
         const out = {};
 
         for (const key in imports) {
-            const isDirectory = this.utils.isDirectory(`${path}/${imports[key]}`);
-            out[key] = isDirectory ? this.importDirectory(`${path}/${imports[key]}`) : this.utils.readAndParse(`${path}/${imports[key]}`);
+            const isDirectory = Utils.isDirectory(`${path}/${imports[key]}`);
+            out[key] = isDirectory ? this.importDirectory(`${path}/${imports[key]}`) : Utils.readAndParse(`${path}/${imports[key]}`);
         }
 
         return out;
@@ -45,19 +44,19 @@ module.exports = class Page {
      * Return the configuration of a page with all the configurations merged : {}
      */
     getData(baseConf, filePath, disableImports = false) {
-        const pageConf = this.utils.readAndParse(filePath);
+        const pageConf = Utils.readAndParse(filePath);
         return [
             this.project.data,
             disableImports ? {} : this.resolveImports(this.project.src, baseConf.statik_imports || {}),
             baseConf,
             disableImports ? {} : this.resolveImports(this.project.src, pageConf.statik_imports || {}),
             pageConf
-        ].reduce((out, conf) => this.utils.merge(out, conf), {});
+        ].reduce((out, conf) => Utils.merge(out, conf), {});
     }
 
     render() {
         try {
-            this.utils.writeFile(this.output, mustache.render(this.template, this.data, this.getPartials()));
+            Utils.writeFile(this.output, mustache.render(this.template, this.data, this.getPartials()));
         } catch (error) {
             console.log(`\x1B[31mError during processing ${this.output} : ${error.message}\x1B[0m`);
         }

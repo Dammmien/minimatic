@@ -5,58 +5,47 @@ const minimatch = require("minimatch");
 
 module.exports = class Builder {
 
-    constructor(project) {
-        this.project = project;
-        this.Utils = new Utils();
+    build(project) {
+        this.cleanOutput(project);
+        this.buildPages(project);
+        this.copyAssets(project);
+        this.copyAdmin(project);
     }
 
-    build() {
-        this.cleanOutput();
-        this.buildPages();
-        this.copyAssets();
-        this.copyAdmin();
-    }
-
-    cleanOutput() {
+    cleanOutput(project) {
         const startCleaning = Date.now();
-        this.Utils.removeDirectory(this.project.output);
+        Utils.removeDirectory(project.output);
         console.log(`Output folder cleaned in ${Date.now() - startCleaning} ms.`);
     }
 
-    copyAdmin() {
+    copyAdmin(project) {
         const startAdmin = Date.now();
-        this.Utils.recursiveCopy(`./admin`, `${this.project.output}/admin`);
+        Utils.recursiveCopy(`./admin`, `${project.output}/admin`);
         console.log(`Admin folder copied in ${Date.now() - startAdmin} ms.`);
     }
 
-    copyAssets() {
+    copyAssets(project) {
         const startAssets = Date.now();
-        this.Utils.recursiveCopy(`${this.project.src}/assets`, `${this.project.output}/assets`);
+        Utils.recursiveCopy(`${project.src}/assets`, `${project.output}/assets`);
         console.log(`Assets folder copied in ${Date.now() - startAssets} ms.`);
     }
 
-    buildPages() {
+    buildPages(project) {
         const startBuild = Date.now();
-        const filesPath = this.Utils.getFilesPath(`${this.project.src}/content`);
-        const pages = this.getPages(filesPath);
+        const filesPath = Utils.getFilesPath(`${project.src}/content`);
+        const pages = this.getPages(project, filesPath);
         pages.forEach(page => page.render());
         console.log(`${pages.length} pages built in ${Date.now() - startBuild} ms.`);
     }
 
-    getPages(filePaths) {
+    getPages(project, filePaths) {
         const out = [];
 
-        for (const pathSchema in this.project.paths) {
-            const metadata = this.Utils.readAndParse(`${this.project.src}/${this.project.paths[pathSchema]}`);
+        for (const pathSchema in project.paths) {
+            const metadata = Utils.readAndParse(`${project.src}/${project.paths[pathSchema]}`);
 
             filePaths.forEach( filePath => {
-                if ( minimatch(filePath, `${this.project.src}/${pathSchema}`) ) {
-                    out.push(new Page({
-                        metadata,
-                        filePath,
-                        project: this.project
-                    }));
-                }
+                if ( minimatch(filePath, `${project.src}/${pathSchema}`) ) out.push(new Page({ metadata, filePath, project}));
             });
         }
 

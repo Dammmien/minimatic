@@ -4,13 +4,13 @@ const fm = require('front-matter');
 const markdownParser = require('marked');
 const yaml = require('js-yaml');
 
-module.exports = class Utils {
+module.exports = {
 
-    isDirectory(filePath) {
+    isDirectory: function(filePath) {
         return fs.lstatSync(filePath).isDirectory();
-    }
+    },
 
-    removeDirectory(directory) {
+    removeDirectory: function(directory) {
         if (fs.existsSync(directory)) {
             fs.readdirSync(directory).forEach(file => {
                 if (this.isDirectory(`${directory}/${file}`)) this.removeDirectory(`${directory}/${file}`);
@@ -18,28 +18,28 @@ module.exports = class Utils {
             });
             fs.rmdirSync(directory);
         }
-    }
+    },
 
-    ensureDirectoryExistence(filePath) {
+    ensureDirectoryExistence: function(filePath) {
         const dirname = path.dirname(filePath);
         if (fs.existsSync(dirname)) return true;
         this.ensureDirectoryExistence(dirname);
         fs.mkdirSync(dirname);
-    }
+    },
 
-    writeFile(destination, content) {
+    writeFile: function(destination, content) {
         this.ensureDirectoryExistence(destination);
         fs.writeFileSync(destination, content);
-    }
+    },
 
-    recursiveCopy(source, destination) {
+    recursiveCopy: function(source, destination) {
         fs.readdirSync(source).forEach(file => {
             if (this.isDirectory(`${source}/${file}`)) this.recursiveCopy(`${source}/${file}`, `${destination}/${file}`);
             else this.writeFile(`${destination}/${file}`, fs.readFileSync(`${source}/${file}`));
         });
-    }
+    },
 
-    merge(a, b) {
+    merge: function(a, b) {
         const out = Object.assign({}, a);
 
         for (const key in b) {
@@ -53,24 +53,24 @@ module.exports = class Utils {
         }
 
         return out;
-    }
+    },
 
     /*
      * Return a flatten list of all the files path in a directory (recursive) : [ '', '' ]
      */
-    getFilesPath(directory) {
+    getFilesPath: function(directory) {
         return fs.readdirSync(directory).reduce((files, file) => {
             const path = `${directory}/${file}`;
             return files.concat(this.isDirectory(path) ? this.getFilesPath(path) : [path]);
         }, []);
-    }
+    },
 
-    parseMarkdown(fileContent){
+    parseMarkdown: function(fileContent) {
         const parsed = fm(fileContent);
         return Object.assign({}, parsed.attributes, { body: markdownParser(parsed.body) });
-    }
+    },
 
-    readAndParse(filePath) {
+    readAndParse: function(filePath) {
         const fileContent = fs.readFileSync(filePath, 'utf8');
         if (path.extname(filePath) === '.json') return JSON.parse(fileContent);
         if (path.extname(filePath) === '.yml') return yaml.safeLoad(fileContent);
