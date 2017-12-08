@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Minimalist & simple static site generator.",
   "scripts": {
-    "start": "node ./src/build.js"
+    "build": "node ./src/build.js"
   },
   "keywords": [
     "static",
