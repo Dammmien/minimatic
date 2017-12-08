@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const fm = require('front-matter');
 const markdownParser = require('marked');
+const yaml = require('js-yaml');
 
 module.exports = class Utils {
 
@@ -62,21 +63,22 @@ module.exports = class Utils {
      * Return a flatten list of all the files path in a directory (recursive) : [ '', '' ]
      */
     getFilesPath(directory) {
-        let files = [];
-        fs.readdirSync(directory).forEach(file => {
-            if (this.isDirectory(`${directory}/${file}`)) files = files.concat(this.getFilesPath(`${directory}/${file}`));
-            else files.push(`${directory}/${file}`);
-        });
-        return files;
+        return fs.readdirSync(directory).reduce((files, file) => {
+            const path = `${directory}/${file}`;
+            return files.concat(this.isDirectory(path) ? this.getFilesPath(path) : [path]);
+        }, []);
+    }
+
+    parseMarkdown(fileContent){
+        const parsed = fm(fileContent);
+        return Object.assign({}, parsed.attributes, { body: markdownParser(parsed.body) });
     }
 
     readAndParse(filePath) {
         const fileContent = fs.readFileSync(filePath, 'utf8');
         if (path.extname(filePath) === '.json') return JSON.parse(fileContent);
-        if (path.extname(filePath) === '.md') {
-            const parsed = fm(fileContent);
-            return Object.assign({}, parsed.attributes, { body: markdownParser(parsed.body) });
-        }
+        if (path.extname(filePath) === '.yml') return yaml.safeLoad(fileContent);
+        if (path.extname(filePath) === '.md') return this.parseMarkdown(fileContent);
     }
 
 }
