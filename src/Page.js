@@ -6,7 +6,7 @@ module.exports = class Page {
 
     constructor(config) {
         this.project = config.project;
-        this.utils = new Utils(this.project);
+        this.utils = new Utils();
         this.data = this.getData(config.metadata, config.filePath, false);
         this.template = fs.readFileSync(`${this.project.src}/${this.data.statik_template}`, 'utf8');
         this.output = this.getOutputPath(config);

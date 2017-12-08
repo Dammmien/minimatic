@@ -6,10 +6,6 @@ const yaml = require('js-yaml');
 
 module.exports = class Utils {
 
-    constructor(config) {
-        this.config = config;
-    }
-
     isDirectory(filePath) {
         return fs.lstatSync(filePath).isDirectory();
     }
