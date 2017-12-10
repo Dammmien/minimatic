@@ -1,6 +1,6 @@
 ---
 statik_output: recipes/croque-monsieur-thon-vache-qui-rit.html
-title: Croque-Monsieur thon et vache qui rit
+title: Croque monsieur thon et vache qui rit
 preparation_time: 10
 cooking_time: 10
 image: croque-monsieur-thon-vache-qui-rit.jpg
