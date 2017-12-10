@@ -27,14 +27,14 @@ ingredients:
   unit: ''
   type: Sel et poivre
 instructions:
-- Préchauffer le four à 200 °C.
-- Étaler la pâte feuilletée sur un moule à tarte et piquer le fond avec une fourchette.
-- Faire cuire légérement la pâte pendant que le four préchauffe.
-- Recouvrir le fond avec la moutarde.
-- Émietter le thon et le répartir sur le fond de la pâte.
-- Couper les tomates en rondelles, et les disposer sur le thon.
-- Battre les oeufs et y ajouter la crème fraîche.
-- Saler et poivrer.
-- Ajouter ce mélange sur la pâte, thon, tomate.
-- Mettre au four et cuire environ 30 min.
+  - text: Préchauffer le four à 200 °C.
+  - text: Étaler la pâte feuilletée sur un moule à tarte et piquer le fond avec une fourchette.
+  - text: Faire cuire légérement la pâte pendant que le four préchauffe.
+  - text: Recouvrir le fond avec la moutarde.
+  - text: Émietter le thon et le répartir sur le fond de la pâte.
+  - text: Couper les tomates en rondelles, et les disposer sur le thon.
+  - text: Battre les oeufs et y ajouter la crème fraîche.
+  - text: Saler et poivrer.
+  - text: Ajouter ce mélange sur la pâte, thon, tomate.
+  - text: Mettre au four et cuire environ 30 min.
 ---

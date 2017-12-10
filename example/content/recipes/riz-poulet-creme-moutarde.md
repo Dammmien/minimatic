@@ -30,12 +30,10 @@ ingredients:
   unit: ''
   type: Sel et poivre
 instructions:
-- Découper les blancs de poulet en petits morceaux.
-- Dans une sauteuse, faire revenir et bien colorer l'oignon émincé dans une noix de
-  beurre et un filet d'huile d'olive.
-- Ajouter les blancs de poulet et les faire dorer.
-- Déglacer sur feu vif avec le vin blanc.
-- Ajouter la crème fraiche, la moutarde à l'ancienne et faire réduire 5 mn à feu doux,
-  poivrer et saler.
-- Accompagner avec du riz.
+  - text: Découper les blancs de poulet en petits morceaux.
+  - text: Dans une sauteuse, faire revenir et bien colorer l'oignon émincé dans une noix de beurre et un filet d'huile d'olive.
+  - text: Ajouter les blancs de poulet et les faire dorer.
+  - text: Déglacer sur feu vif avec le vin blanc.
+  - text: Ajouter la crème fraiche, la moutarde à l'ancienne et faire réduire 5 mn à feu doux, poivrer et saler.
+  - text: Accompagner avec du riz.
 ---

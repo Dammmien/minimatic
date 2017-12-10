@@ -27,10 +27,9 @@ ingredients:
   unit: ''
   type: Sel et poivre
 instructions:
-- Faire cuire les pâtes dans une grande casserole d’eau bouillante salée.
-- Pendant ce temps, couper les tomates et la feta en dès.
-- Ciseler les feuilles de basilic.
-- Égoutter les pâtes et les mettre dans un saladier avec l’huile d’olive et le jus
-  de citron.
-- Ajouter le thon émietté et le reste des ingrédients.
+  - text: Faire cuire les pâtes dans une grande casserole d’eau bouillante salée.
+  - text: Pendant ce temps, couper les tomates et la feta en dès.
+  - text: Ciseler les feuilles de basilic.
+  - text: Égoutter les pâtes et les mettre dans un saladier avec l’huile d’olive et le jus de citron.
+  - text: Ajouter le thon émietté et le reste des ingrédients.
 ---

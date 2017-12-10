@@ -33,10 +33,8 @@ ingredients:
   unit: ''
   type: Sel et poivre
 instructions:
-- Dans une poêle, faire dorer les morceaux de poulet dans un peu d'huile d'olive
-- Ajouter la crème, le gorgonzola émietté, les tomates cerises découpées et un peu
-  de noix de muscade
-- Faites cuire les tagliatelles al dente, pendant ce temps...
-- Une fois le gorgonzola fondu et la sauce homogène, saler et poivrer, puis servir
-  sur les tagliatelles
+  - text: Dans une poêle, faire dorer les morceaux de poulet dans un peu d'huile d'olive
+  - text: Ajouter la crème, le gorgonzola émietté, les tomates cerises découpées et un peu de noix de muscade
+  - text: Faites cuire les tagliatelles al dente, pendant ce temps...
+  - text: Une fois le gorgonzola fondu et la sauce homogène, saler et poivrer, puis servir sur les tagliatelles
 ---

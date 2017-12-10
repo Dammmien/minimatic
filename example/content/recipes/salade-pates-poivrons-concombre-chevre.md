@@ -30,11 +30,11 @@ ingredients:
   unit: cuillère à soupe
   type: Ciboulette ciselée
 instructions:
-- Faire cuire les pâtes dans une grande casserole d’eau bouillante salée.
-- Pendant ce temps, coupez les tomates, poivron, concombre en petits dés.
-- Egouttez et passez les pâtes sous l'eau froide après cuisson.
-- Coupez le chèvre en cubes.
-- Préparez la vinaigrette avec l'huile, et le vinaigre.
-- Mélangez le tout et servez bien frais.
-- Parsemez de ciboulette ciselée.
+  - text: Faire cuire les pâtes dans une grande casserole d’eau bouillante salée.
+  - text: Pendant ce temps, coupez les tomates, poivron, concombre en petits dés.
+  - text: Egouttez et passez les pâtes sous l'eau froide après cuisson.
+  - text: Coupez le chèvre en cubes.
+  - text: Préparez la vinaigrette avec l'huile, et le vinaigre.
+  - text: Mélangez le tout et servez bien frais.
+  - text: Parsemez de ciboulette ciselée.
 ---

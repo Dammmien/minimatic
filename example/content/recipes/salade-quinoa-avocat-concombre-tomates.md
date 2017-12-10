@@ -21,11 +21,10 @@ ingredients:
   unit: feuilles
   type: Menthe
 instructions:
-- Faites bouillir le quinoa environ 10 min.
-- Pendant que le quinoa cuit, coupez les tomates, avocats et concombres en cubes.
-- Ciselez finement les feuilles de menthe.
-- Égouttez le quinoa puis passez le quelques secondes sous l’eau froide pour qu’il
-  refroidisse.
-- Dans un saladier mélangez tous les ingrédients.
-- Assaisonnez à votre convenance d'une vinaigrette et dégustez !
+  - text: Faites bouillir le quinoa environ 10 min.
+  - text: Pendant que le quinoa cuit, coupez les tomates, avocats et concombres en cubes.
+  - text: Ciselez finement les feuilles de menthe.
+  - text: Égouttez le quinoa puis passez le quelques secondes sous l’eau froide pour qu’il refroidisse.
+  - text: Dans un saladier mélangez tous les ingrédients.
+  - text: Assaisonnez à votre convenance d'une vinaigrette et dégustez !
 ---

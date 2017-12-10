@@ -78,7 +78,7 @@ collections:
       - label: Instructions
         name: instructions
         widget: list
-        field:
+        fields:
         - label: Text
           name: text
-          widget: string
+          widget: text

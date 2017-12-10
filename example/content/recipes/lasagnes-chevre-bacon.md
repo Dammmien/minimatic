@@ -24,12 +24,12 @@ ingredients:
   unit: ''
   type: Sel et poivre
 instructions:
-- "Préchauffez le four à 180 °C."
-- "Dans un bol, écrasez la bûche de chèvre et mélangez la crème."
-- "Assaisonnez de sel et de poivre."
-- "Dans un plat à gratin, étalez une première couche du mélange au chèvre."
-- "Puis étalez le bacon et recouvrez de feuilles de lasagne."
-- "Renouvelez l'opération dans cet ordre jusqu'en haut du plat en vous arrangeant pour finir avec le mélange au chèvre."
-- "Recouvrir d'emmental râpé."
-- "Enfournez pendant 20 minutes environ."
+  - text: Préchauffez le four à 180 °C.
+  - text: Dans un bol, écrasez la bûche de chèvre et mélangez la crème.
+  - text: Assaisonnez de sel et de poivre.
+  - text: Dans un plat à gratin, étalez une première couche du mélange au chèvre.
+  - text: Puis étalez le bacon et recouvrez de feuilles de lasagne.
+  - text: Renouvelez l'opération dans cet ordre jusqu'en haut du plat en vous arrangeant pourfinir avec le mélange au chèvre."
+  - text: Recouvrir d'emmental râpé.
+  - text: Enfournez pendant 20 minutes environ.
 ---

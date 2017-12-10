@@ -27,10 +27,10 @@ ingredients:
   unit: ''
   type: Sel et poivre
 instructions:
-- Préchauffez le four à 180°C ( Th 6).
-- Etalez la pâte dans le moule beurré et fariné.
-- Répartissez lardons et poireaux sur le fond de tarte.
-- Dans un bol battez les oeufs, la crème. Versez le mélange dans la tarte.
-- Découper le fromage de chèvre en rondelles que vous déposerez sur la quiche.
-- Enfournez pour 20 à 25 minutes
+  - text: Préchauffez le four à 180°C ( Th 6).
+  - text: Etalez la pâte dans le moule beurré et fariné.
+  - text: Répartissez lardons et poireaux sur le fond de tarte.
+  - text: Dans un bol battez les oeufs, la crème. Versez le mélange dans la tarte.
+  - text: Découper le fromage de chèvre en rondelles que vous déposerez sur la quiche.
+  - text: Enfournez pour 20 à 25 minutes
 ---
