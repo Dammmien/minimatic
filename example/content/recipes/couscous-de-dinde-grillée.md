@@ -1,5 +1,5 @@
 ---
-statik_output: recipes/couscous-dinde-grillée
+statik_output: recipes/couscous-dinde-grillée.html
 title: Couscous de dinde grillée
 preparation_time: '10'
 cooking_time: '15'
