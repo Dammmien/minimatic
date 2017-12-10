@@ -3,7 +3,7 @@ statik_output: recipes/lasagnes-chevre-bacon.html
 title: Lasagnes au chèvre et au bacon
 preparation_time: 15
 cooking_time: 20
-image: assets/images/lasagnes-chevre-bacon.jpg
+image: /assets/images/lasagnes-chevre-bacon.jpg
 ingredients:
 - quantity: "~10"
   unit: feuilles

@@ -3,7 +3,7 @@ statik_output: recipes/quiche-poireau-chevre-lardon.html
 title: Quiche au poireau, chèvre et lardons
 preparation_time: 15
 cooking_time: 25
-image: assets/images/quiche-poireau-chevre-lardon.jpg
+image: /assets/images/quiche-poireau-chevre-lardon.jpg
 ingredients:
 - quantity: ''
   unit: ''

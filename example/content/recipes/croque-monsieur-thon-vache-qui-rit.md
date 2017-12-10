@@ -3,7 +3,7 @@ statik_output: recipes/croque-monsieur-thon-vache-qui-rit.html
 title: Croque monsieur thon et vache qui rit
 preparation_time: 10
 cooking_time: 10
-image: assets/images/croque-monsieur-thon-vache-qui-rit.jpg
+image: /assets/images/croque-monsieur-thon-vache-qui-rit.jpg
 ingredients:
   - quantity: 2
     type: Pain

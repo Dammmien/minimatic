@@ -3,7 +3,7 @@ backend:
   repo: dammmien/statik
   branch: master
 
-media_folder: example/assets/images
+media_folder: /example/assets/images
 public_folder: /assets/images
 
 collections:
