@@ -7,6 +7,8 @@
     "src": "./example",
     "output": "./www",
     "paths": {
-        "/content/collections/*.md": "/content/collections/collections.json"
+        "/content/collections/*.md": "/content/metadata/collections.json",
+        "/content/recipes/*.md": "/content/metadata/recipes.json",
+        "/content/pages/index.md": "/content/metadata/pages.json"
     }
 }

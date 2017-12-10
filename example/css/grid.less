@@ -1,0 +1,40 @@
+#grid {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 15px;
+	background: @light;
+
+	.grid-item {
+		list-style: none;
+		width: 33.33%;
+		box-sizing: border-box;
+		padding: 15px;
+
+		a {
+			display: flex;
+			align-items: flex-end;
+			flex-direction: column;
+			color: @dark;
+			text-decoration: none;
+			background: white;
+			box-shadow: 0 0 10px 0 rgba( 0, 0, 0, 0.1 );
+
+			.image {
+				height: 200px;
+				width: 100%;
+				background-size: cover;
+				background-color: @dark;
+				background-position: center center;
+			}
+
+			.title {
+				padding: 20px;
+				width: 100%;
+				box-sizing: border-box;
+				text-overflow: ellipsis;
+			  white-space: nowrap;
+			  overflow: hidden;
+			}
+		}
+	}
+}

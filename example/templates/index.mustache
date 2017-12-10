@@ -1,0 +1,14 @@
+<body>
+  {{> header}}
+
+  <ul id="grid">
+  {{#recipes}}
+    <li class="grid-item">
+    	<a href="{{{statik_output}}}">
+    		<div class="image" style="background-image: url({{{dir_img}}}{{{image}}});"></div>
+    		<div class="title">{{title}}</div>
+    	</a>
+    </li>
+  {{/recipes}}
+  </ul>
+</body>

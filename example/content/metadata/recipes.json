@@ -1,0 +1,6 @@
+{
+    "statik_template": "templates/base.mustache",
+    "statik_partials": {
+        "body": "templates/recipe.mustache"
+    }
+}
