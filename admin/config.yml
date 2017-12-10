@@ -17,3 +17,33 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "URL", name: "statik_output", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown", default: "Enter description"}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
+  - name: "recipes" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Recipes" # Used in the UI, ie.: "New Post"
+    folder: "example/content/recipes" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "URL", name: "_output", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Preparation", name: "preparation_time", widget: "number"}
+      - {label: "Cooking", name: "cooking_time", widget: "number"}
+      - {label: "Image", name: "image", widget: "image"}
+      - label: "Ingredients"
+        name: "ingredients"
+        widget: "list"
+        fields:
+          - label: Quantity
+            name: quantity
+            widget: number
+          - label: "Unit"
+            name: "unit"
+            widget: "string"
+          - label: "Type"
+            name: "type"
+            widget: "string"
+      - label: "Instructions"
+        name: "instructions"
+        widget: "list"
+        fields:
+          - label: "Text"
+            name: "text"
+            widget: "string"
