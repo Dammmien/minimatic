@@ -1,6 +1,6 @@
 ---
 statik_output: recipes/croque-monsieur-mozarella-avocat-tomate.html
-title: Croque-Monsieur mozarella, avocat, tomate
+title: Croque monsieur mozarella, avocat, tomate
 preparation_time: 10
 cooking_time: 10
 image: croque-monsieur-mozarella-avocat-tomate.jpg
@@ -36,3 +36,4 @@ instructions:
   - Refermez le tout avec l'autre tranche.
   - Faire dorer chaque côté quelques minutes
 ---
+Test
