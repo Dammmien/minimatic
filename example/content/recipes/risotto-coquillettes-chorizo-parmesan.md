@@ -3,7 +3,7 @@ statik_output: recipes/risotto-coquillettes-chorizo-parmesan.html
 title: Risotto de coquillettes au chorizo et parmesan
 preparation_time: 5
 cooking_time: 15
-image: risotto-coquillettes-chorizo-parmesan.jpg
+image: assets/images/risotto-coquillettes-chorizo-parmesan.jpg
 ingredients:
 - quantity: '25'
   unit: gr

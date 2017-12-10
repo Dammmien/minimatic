@@ -3,7 +3,7 @@ statik_output: recipes/tagliatelles-poulet-gorgonzola.html
 title: Tagliatelles poulet et gorgonzola
 preparation_time: 5
 cooking_time: 15
-image: tagliatelles-poulet-gorgonzonla.jpg
+image: assets/images/tagliatelles-poulet-gorgonzonla.jpg
 ingredients:
 - quantity: '100'
   unit: gr

@@ -3,7 +3,7 @@ statik_output: recipes/salade-quinoa-avocat-concombre-tomates.html
 title: Salade de quinoa, avocat, concombre et tomates
 preparation_time: 20
 cooking_time: 10
-image: salade-quinoa-avocat-concombre-tomates.jpg
+image: assets/images/salade-quinoa-avocat-concombre-tomates.jpg
 ingredients:
 - quantity: '50'
   unit: gr

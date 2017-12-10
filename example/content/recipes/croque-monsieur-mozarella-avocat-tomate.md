@@ -3,7 +3,7 @@ statik_output: recipes/croque-monsieur-mozarella-avocat-tomate.html
 title: Croque monsieur mozarella, avocat, tomate
 preparation_time: 10
 cooking_time: 10
-image: croque-monsieur-mozarella-avocat-tomate.jpg
+image: assets/images/croque-monsieur-mozarella-avocat-tomate.jpg
 ingredients:
   - quantity: 2
     unit: tranches

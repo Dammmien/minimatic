@@ -3,7 +3,7 @@ statik_output: recipes/salade-pates-thon-tomate-feta.html
 title: Salade de pâtes feta thon tomates
 preparation_time: 10
 cooking_time: 10
-image: salade-pates-thon-tomate-feta.jpg
+image: assets/images/salade-pates-thon-tomate-feta.jpg
 ingredients:
 - quantity: '125'
   unit: gr
