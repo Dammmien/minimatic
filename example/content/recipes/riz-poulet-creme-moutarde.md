@@ -3,7 +3,7 @@ statik_output: recipes/riz-poulet-creme-moutarde.html
 title: Emincée de poulet à la crème et moutarde à l'ancienne
 preparation_time: 15
 cooking_time: 20
-image: /assets/images/riz-poulet-creme-moutarde.jpg
+image: riz-poulet-creme-moutarde.jpg
 ingredients:
 - quantity: '200'
   unit: gr

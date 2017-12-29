@@ -1,7 +1,7 @@
 const Page = require('./Page');
 const Utils = require('./Utils');
 const fs = require('fs');
-const minimatch = require("minimatch");
+const minimatch = require('minimatch');
 
 module.exports = class Builder {
 
@@ -9,6 +9,7 @@ module.exports = class Builder {
         this.cleanOutput(project);
         this.buildPages(project);
         this.copyAssets(project);
+        this.runPostBuild(project);
         this.copyAdmin(project);
     }
 
@@ -36,6 +37,14 @@ module.exports = class Builder {
         const pages = this.getPages(project, filesPath);
         pages.forEach(page => page.render());
         console.log(`${pages.length} pages built in ${Date.now() - startBuild} ms.`);
+    }
+
+    runPostBuild(project) {
+        if (typeof project.postBuild === 'function') {
+            const startPostBuild = Date.now();
+            project.postBuild();
+            console.log(`Post build exectued in ${Date.now() - startPostBuild} ms.`);
+        }
     }
 
     getPages(project, filePaths) {

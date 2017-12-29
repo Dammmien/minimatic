@@ -21,6 +21,7 @@
     "js-yaml": "^3.10.0",
     "marked": "^0.3.6",
     "minimatch": "^3.0.4",
-    "mustache": "^2.2.1"
+    "mustache": "^2.2.1",
+    "sharp": "^0.18.4"
   }
 }

@@ -3,7 +3,7 @@ statik_output: recipes/oeufs-cocotte-parmentier.html
 title: Oeufs cocotte parmentier
 preparation_time: '10'
 cooking_time: '12'
-image: /assets/images/oeufs-cocotte-parmentier.jpg
+image: oeufs-cocotte-parmentier.jpg
 ingredients:
   - quantity: '4'
     type: oeufs

@@ -3,7 +3,7 @@ statik_output: recipes/couscous-dinde-grillée.html
 title: Couscous de dinde grillée
 preparation_time: '10'
 cooking_time: '15'
-image: /assets/images/couscous-dinde-grillé.jpg
+image: couscous-dinde-grillé.jpg
 ingredients:
   - quantity: '100'
     type: Dinde
