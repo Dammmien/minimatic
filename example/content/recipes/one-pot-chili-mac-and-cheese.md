@@ -15,7 +15,7 @@ ingredients:
     unit: gr
   - quantity: '0.5'
     type: Tomate
-  - type: 'Mélange d''épices mexicaines pour chili '
+  - type: 'Mélange d''épices pour chili '
   - quantity: '100'
     type: Pâtes
     unit: gr
