@@ -3,7 +3,7 @@ statik_output: recipes/salade-pates-poivrons-concombre-chevre.html
 title: Salade de pâtes poivrons concombre et chèvre
 preparation_time: 20
 cooking_time: 10
-image: salade-pates-poivrons-concombre-chevre.jpg
+image: /salade-pates-poivrons-concombre-chevre.jpg
 ingredients:
 - quantity: '50'
   unit: gr

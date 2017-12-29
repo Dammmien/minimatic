@@ -3,7 +3,7 @@ statik_output: recipes/salade-concombre-melon-feta.html
 title: 'Salade de concombre, melon et feta'
 preparation_time: '15'
 cooking_time: '0'
-image: salade-concombre-melon-feta.jpg
+image: /salade-concombre-melon-feta.jpg
 ingredients:
   - quantity: '0.5'
     type: Melon

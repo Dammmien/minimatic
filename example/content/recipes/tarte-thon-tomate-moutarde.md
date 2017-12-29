@@ -3,7 +3,7 @@ statik_output: recipes/tarte-thon-tomate-moutarde.html
 title: Tarte thon, tomate et moutarde
 preparation_time: 15
 cooking_time: 30
-image: tarte-thon-tomate-moutarde.jpg
+image: /tarte-thon-tomate-moutarde.jpg
 ingredients:
 - quantity: ''
   unit: ''
