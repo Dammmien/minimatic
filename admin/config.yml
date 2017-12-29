@@ -8,34 +8,6 @@ public_folder: /
 
 collections:
 
-  - name: item
-    label: Item
-    folder: example/content/collections
-    create: true
-    fields:
-      - label: Title
-        name: title
-        widget: string
-
-      - label: Imports
-        name: statik_imports
-        widget: hidden
-        default:
-          - import: content/imports/import.json
-
-      - label: URL
-        name: statik_output
-        widget: string
-
-      - label: Body
-        name: body
-        widget: markdown
-        default: Enter description
-
-      - label: Featured Image
-        name: thumbnail
-        widget: image
-
   - name: recipes
     label: Recipes
     folder: example/content/recipes
