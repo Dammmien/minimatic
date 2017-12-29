@@ -137,7 +137,7 @@ header a {
   display: flex;
   flex-wrap: wrap;
   padding: 15px;
-  background: #F5F5F5;
+  background: white;
 }
 #grid .grid-item {
   list-style: none;
@@ -147,27 +147,23 @@ header a {
 }
 #grid .grid-item a {
   display: flex;
-  align-items: flex-end;
+  height: 250px;
+  justify-content: flex-end;
   flex-direction: column;
-  color: #333333;
+  color: #F5F5F5;
   text-decoration: none;
-  background: white;
+  background-size: cover;
+  background-position: center;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
 }
-#grid .grid-item a .image {
-  height: 200px;
-  width: 100%;
-  background-size: cover;
-  background-color: #333333;
-  background-position: center center;
-}
 #grid .grid-item a .title {
-  padding: 20px;
+  padding: 15px;
   width: 100%;
   box-sizing: border-box;
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
+  background: rgba(0, 0, 0, 0.7);
 }
 .recipe {
   background: #F5F5F5;

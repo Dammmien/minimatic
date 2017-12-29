@@ -1,9 +1,9 @@
 ---
 statik_output: index.html
 statik_imports:
- recipes: content/recipes
+ recipes: content/recipes/*.md
 statik_partials:
   body: templates/index.mustache
-title: 1. This is a title from first page data (edited)
+title: Recettes simples et rapides
 ---
 

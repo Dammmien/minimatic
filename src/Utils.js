@@ -10,6 +10,10 @@ module.exports = {
         return fs.lstatSync(filePath).isDirectory();
     },
 
+    isFile: function() {
+        return fs.lstatSync(filePath).isFile();
+    },
+
     removeDirectory: function(directory) {
         if (fs.existsSync(directory)) {
             fs.readdirSync(directory).forEach(file => {
@@ -53,16 +57,6 @@ module.exports = {
         }
 
         return out;
-    },
-
-    /*
-     * Return a flatten list of all the files path in a directory (recursive) : [ '', '' ]
-     */
-    getFilesPath: function(directory) {
-        return fs.readdirSync(directory).reduce((files, file) => {
-            const path = `${directory}/${file}`;
-            return files.concat(this.isDirectory(path) ? this.getFilesPath(path) : [path]);
-        }, []);
     },
 
     parseMarkdown: function(fileContent) {

@@ -1,7 +1,7 @@
 const Page = require('./Page');
 const Utils = require('./Utils');
 const fs = require('fs');
-const minimatch = require('minimatch');
+const glob = require('glob');
 
 module.exports = class Builder {
 
@@ -9,7 +9,6 @@ module.exports = class Builder {
         this.cleanOutput(project);
         this.buildPages(project);
         this.copyAssets(project);
-        this.runPostBuild(project);
         this.copyAdmin(project);
     }
 
@@ -33,29 +32,16 @@ module.exports = class Builder {
 
     buildPages(project) {
         const startBuild = Date.now();
-        const filesPath = Utils.getFilesPath(`${project.src}/content`);
-        const pages = this.getPages(project, filesPath);
-        pages.forEach(page => page.render());
+        const pages = this.getPages(project).map(page => page.render());
         console.log(`${pages.length} pages built in ${Date.now() - startBuild} ms.`);
     }
 
-    runPostBuild(project) {
-        if (typeof project.postBuild === 'function') {
-            const startPostBuild = Date.now();
-            project.postBuild();
-            console.log(`Post build exectued in ${Date.now() - startPostBuild} ms.`);
-        }
-    }
-
-    getPages(project, filePaths) {
+    getPages(project) {
         const out = [];
 
         for (const pathSchema in project.paths) {
             const metadata = Utils.readAndParse(`${project.src}/${project.paths[pathSchema]}`);
-
-            filePaths.forEach( filePath => {
-                if ( minimatch(filePath, `${project.src}/${pathSchema}`) ) out.push(new Page({ metadata, filePath, project}));
-            });
+            glob.sync(`${project.src}/${pathSchema}`).forEach( filePath => out.push(new Page({ metadata, filePath, project})));
         }
 
         return out;

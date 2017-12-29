@@ -4,9 +4,8 @@
   <ul id="grid">
   {{#recipes}}
     <li class="grid-item">
-    	<a href="{{{statik_output}}}">
-    		<div class="image" style="background-image: url('/assets/images/thumbnails/{{{image}}}');"></div>
-    		<div class="title">{{title}}</div>
+    	<a href="{{{statik_output}}}" style="background-image: url('/assets/images/thumbnails/{{{image}}}');">
+        <div class="title">{{title}}</div>
     	</a>
     </li>
   {{/recipes}}

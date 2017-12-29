@@ -1,4 +1,5 @@
 const fs = require('fs');
+const glob = require('glob');
 const Utils = require('./Utils');
 const mustache = require('mustache');
 
@@ -25,16 +26,16 @@ module.exports = class Page {
         return out;
     }
 
-    importDirectory(directory) {
-        return Utils.getFilesPath(directory).map(filePath => this.getData({}, filePath, true));
+    importFiles(files) {
+        return files.map(filePath => this.getData({}, filePath, true));
     }
 
     resolveImports(path, imports) {
         const out = {};
 
         for (const key in imports) {
-            const isDirectory = Utils.isDirectory(`${path}/${imports[key]}`);
-            out[key] = isDirectory ? this.importDirectory(`${path}/${imports[key]}`) : Utils.readAndParse(`${path}/${imports[key]}`);
+            const files = glob.sync(`${path}/${imports[key]}`);
+            out[key] = files.length === 1 ? Utils.readAndParse(files[0]) : this.importFiles(files);
         }
 
         return out;
