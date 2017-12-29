@@ -3,7 +3,7 @@ statik_output: recipes/pates-lardons-petits-pois-creme-tomate.html
 title: Pâtes aux lardons et petits pois à la crème de tomate
 preparation_time: '5'
 cooking_time: '15'
-image: //example/assets/images/uploads/pates-lardons-petits-pois-creme-tomate.jpg
+image: /pates-lardons-petits-pois-creme-tomate.jpg
 ingredients:
   - quantity: '100'
     type: Pâtes
