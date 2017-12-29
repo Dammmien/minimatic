@@ -4,6 +4,7 @@ backend:
   branch: master
 
 media_folder: /example/assets/images/uploads
+public_folder: /
 
 collections:
 
