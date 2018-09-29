@@ -28,10 +28,20 @@
     }
   ],
   "instructions": [
-    "Couper en petits morceaux les concombres et le melon.",
-    "Émietter la feta et ciseler la menthe.",
-    "Mélanger dans un saladier le jus de citron, la menthe ciselée, le vinaigre, l’huile d’olive, saler et poivrer.",
-    "Ajouter les morceaux de concombre, les billes de melon, et mélanger.",
-    "Servir parsemé de pignons légèrement grillés et d’olives hachée."
+    {
+      "text": "Couper en petits morceaux les concombres et le melon."
+    },
+    {
+      "text": "Émietter la feta et ciseler la menthe."
+    },
+    {
+      "text": "Mélanger dans un saladier le jus de citron, la menthe ciselée, le vinaigre, l’huile d’olive, saler et poivrer."
+    },
+    {
+      "text": "Ajouter les morceaux de concombre, les billes de melon, et mélanger."
+    },
+    {
+      "text": "Servir parsemé de pignons légèrement grillés et d’olives hachée."
+    }
   ]
 }

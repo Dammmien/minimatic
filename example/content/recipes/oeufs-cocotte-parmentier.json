@@ -27,10 +27,20 @@
     }
   ],
   "instructions": [
-    "Préchauffez le four Th. 8 (240°C).",
-    "Coupez le jambon en petits dés.",
-    "Préparez la purée selon le mode d'emploi avec l'eau et le lait. Ajoutez du beurre, le jambon. Salez, poivrez et mélangez.",
-    "Garnissez 4 ramequins de purée. Creusez un petit trou au centre et cassez 1 œuf. Saupoudrez d'emmental.",
-    "Faites cuire 10 minutes dans votre four jusqu'à ce que le blanc d'œuf soit bien cuit."
+    {
+      "text": "Préchauffez le four Th. 8 (240°C)."
+    },
+    {
+      "text": "Coupez le jambon en petits dés."
+    },
+    {
+      "text": "Préparez la purée selon le mode d'emploi avec l'eau et le lait. Ajoutez du beurre, le jambon. Salez, poivrez et mélangez."
+    },
+    {
+      "text": "Garnissez 4 ramequins de purée. Creusez un petit trou au centre et cassez 1 œuf. Saupoudrez d'emmental."
+    },
+    {
+      "text": "Faites cuire 10 minutes dans votre four jusqu'à ce que le blanc d'œuf soit bien cuit."
+    }
   ]
 }

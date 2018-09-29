@@ -22,9 +22,17 @@
     }
   ],
   "instructions": [
-    "Dans une poêle, faire revenir la dinde à feu vif dans l'huile d'olive.",
-    "Ajoutez l'assaisonnement marocain et la préparation de légumes pour couscous.",
-    "Laissez mijotez de côté et préparez la semoule.",
-    "Servir la semoule égrainée avec un filet d'huile d'olive. Puis la dinde et les légumes dessus."
+    {
+      "text": "Dans une poêle, faire revenir la dinde à feu vif dans l'huile d'olive."
+    },
+    {
+      "text": "Ajoutez l'assaisonnement marocain et la préparation de légumes pour couscous."
+    },
+    {
+      "text": "Laissez mijotez de côté et préparez la semoule."
+    },
+    {
+      "text": "Servir la semoule égrainée avec un filet d'huile d'olive. Puis la dinde et les légumes dessus."
+    }
   ]
 }

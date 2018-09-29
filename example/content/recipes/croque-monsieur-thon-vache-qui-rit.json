@@ -31,13 +31,29 @@
     }
   ],
   "instructions": [
-    "Préchauffez votre four à 180°C (th.6).",
-    "Lavez, séchez et coupez la tomate en fines tranches.",
-    "Dans un récipient, mélangez le thon et le fromage. Incorporez un peu de lait si la pâte obtenue est trop compacte.",
-    "Tartinez 4 des 8 tranches de pain du mélange thon et fromage puis déposez quelques rondelles de tomates.",
-    "Parsemez de fromage râpé puis ajoutez une tranche de pain.",
-    "Vous pouvez ajouter un peu d'huile d'olive sur le pain pour qu'il ne s'assèche pas.",
-    "Déposez ces croques sur la plaque du four préalablement recouverte d'une feuille d'aluminium et enfournez pour 10 min environ.",
-    "Dégustez bien chaud et accompagnez d'une salade verte."
+    {
+      "text": "Préchauffez votre four à 180°C (th.6)."
+    },
+    {
+      "text": "Lavez, séchez et coupez la tomate en fines tranches."
+    },
+    {
+      "text": "Dans un récipient, mélangez le thon et le fromage. Incorporez un peu de lait si la pâte obtenue est trop compacte."
+    },
+    {
+      "text": "Tartinez 4 des 8 tranches de pain du mélange thon et fromage puis déposez quelques rondelles de tomates."
+    },
+    {
+      "text": "Parsemez de fromage râpé puis ajoutez une tranche de pain."
+    },
+    {
+      "text": "Vous pouvez ajouter un peu d'huile d'olive sur le pain pour qu'il ne s'assèche pas."
+    },
+    {
+      "text": "Déposez ces croques sur la plaque du four préalablement recouverte d'une feuille d'aluminium et enfournez pour 10 min environ."
+    },
+    {
+      "text": "Dégustez bien chaud et accompagnez d'une salade verte."
+    }
   ]
 }
