@@ -1,0 +1,10 @@
+{
+  "_output": "index.html",
+  "_imports": {
+    "recipes": "content/recipes"
+  },
+  "_partials": {
+    "body": "templates/index.mustache"
+  },
+  "title": "Recettes simples et rapides"
+}

@@ -2,6 +2,9 @@
   "name": "statik",
   "version": "1.0.0",
   "description": "Minimalist & simple static site generator.",
+  "engines": {
+    "node": ">=10.11.0"
+  },
   "scripts": {
     "build": "node ./src/build.js"
   },
@@ -17,10 +20,6 @@
   "author": "Damien Duhamel",
   "license": "ISC",
   "dependencies": {
-    "front-matter": "^2.1.2",
-    "glob": "^7.1.2",
-    "js-yaml": "^3.10.0",
-    "marked": "^0.3.6",
     "mustache": "^2.2.1",
     "sharp": "^0.18.4"
   }

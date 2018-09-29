@@ -1,14 +1,28 @@
-const Builder = require('./Builder');
-const glob = require('glob');
-const config = require('../config.json');
-const builder = new Builder();
+const project = require('../project.json');
+const Utils = require('./Utils');
+const Page = require('./Page');
 const sharp = require('sharp');
 const fs = require('fs');
 
-builder.build(config);
+Utils.removeDirectory(project.output);
+Utils.recursiveCopy(`./admin`, `${project.output}/admin`);
+Utils.recursiveCopy(`${project.src}/assets`, `${project.output}/assets`);
 
-fs.mkdirSync(`${config.output}/assets/images/thumbnails`);
+for (const pathSchema in project.paths) {
+  const metadata = Utils.readAndParse(`${project.src}/${project.paths[pathSchema]}`);
 
-glob.sync(`${config.output}/assets/images/uploads/*.jpg`).forEach(
-	image => sharp(image).resize(400).toFile(image.replace('uploads', 'thumbnails'))
-);
+  if (fs.lstatSync(`${project.src}/${pathSchema}`).isDirectory()) {
+    fs.readdirSync(`${project.src}/${pathSchema}`).forEach(
+      file => new Page(metadata, `${project.src}/${pathSchema}/${file}`).render()
+    );
+  } else {
+    new Page(metadata, `${project.src}/${pathSchema}`).render()
+  }
+}
+
+fs.mkdirSync(`${project.output}/assets/images/thumbnails`);
+
+fs.readdirSync(`${project.output}/assets/images/uploads`).forEach(image => {
+  const path = `${project.output}/assets/images/uploads/${image}`;
+  sharp(path).resize(400).toFile(path.replace('uploads', 'thumbnails'))
+});

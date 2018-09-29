@@ -11,10 +11,11 @@ collections:
   - name: recipes
     label: Recipes
     folder: example/content/recipes
+    extension: "json"
     create: true
     fields:
       - label: URL
-        name: statik_output
+        name: _output
         widget: string
 
       - label: Title
@@ -37,20 +38,14 @@ collections:
         name: ingredients
         widget: list
         fields:
-          - label: Quantity
-            name: quantity
-            widget: number
-          - label: Unit
-            name: unit
-            widget: string
           - label: Type
             name: type
+            widget: string
+
+          - label: Quantity
+            name: quantity
             widget: string
 
       - label: Instructions
         name: instructions
         widget: list
-        fields:
-        - label: Text
-          name: text
-          widget: text

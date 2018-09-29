@@ -19,7 +19,7 @@
 					{{type}}
 					{{#quantity}}
 						<div class="ingredients-quantity">
-							{{quantity}} {{unit}}
+							{{quantity}}
 						</div>
 					{{/quantity}}
 				</li>
@@ -30,7 +30,7 @@
 		<section>
 			<ol>
 				{{#instructions}}
-				<li>{{text}}</li>
+				<li>{{.}}</li>
 				{{/instructions}}
 			</ol>
 		</section>

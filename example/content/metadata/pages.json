@@ -1,6 +1,6 @@
 {
-	"statik_template": "templates/base.mustache",
-	"statik_partials": {
+	"_template": "templates/base.mustache",
+	"_partials": {
 		"header": "templates/header.mustache"
 	}
 }
