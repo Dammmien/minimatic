@@ -1,0 +1,46 @@
+{
+  "_output": "recipes/gratin-de-poireaux-et-jambon-a-l-ancienne.html",
+  "title": "Gratin de poireaux et jambon à l'ancienne",
+  "preparation_time": "20",
+  "cooking_time": "30",
+  "image": "/gratin-de-poireaux-et-jambon-a-l-ancienne.jpg",
+  "ingredients": [
+    {
+      "type": "Poireau",
+      "quantity": "1"
+    },
+    {
+      "type": "Lardons",
+      "quantity": "100 gr"
+    },
+    {
+      "type": "Crème fraîche",
+      "quantity": "25gr"
+    },
+    {
+      "type": "Pain complet",
+      "quantity": "1 tranche"
+    },
+    {
+      "type": "Emmental râpé",
+      "quantity": "40 gr"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Nettoyer les poireaux, les couper en fines rondelles, puis les faire revenir dans une grande poêle avec les lardons pendant 5 minutes."
+    },
+    {
+      "text": "Déglacer avec 40 ml d’eau et la crème fraîche puis laisser mijoter 5 minutes à feu doux."
+    },
+    {
+      "text": "Assaisonner avec du sel, du poivre et de la noix de muscade."
+    },
+    {
+      "text": "Répartir la moitié des poireaux dans un plat à gratin préalablement graissé, puis disposer des tranches fines du pain complet au-dessus."
+    },
+    {
+      "text": "Saupoudrer le plat d’emmental râpé puis enfourner dans un four préchauffé à 200°C pendant environ 30 minutes."
+    }
+  ]
+}
