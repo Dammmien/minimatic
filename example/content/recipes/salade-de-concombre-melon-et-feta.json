@@ -1,0 +1,37 @@
+{
+  "_output": "recipes/salade-concombre-melon-feta.html",
+  "title": "Salade de concombre, melon et feta",
+  "preparation_time": "15",
+  "cooking_time": "0",
+  "image": "/salade-concombre-melon-feta.jpg",
+  "ingredients": [
+    {
+      "quantity": "0.5",
+      "type": "Melon"
+    },
+    {
+      "quantity": "30 gr",
+      "type": "Feta"
+    },
+    {
+      "quantity": "0.5",
+      "type": "Concombre"
+    },
+    {
+      "type": "Huile d'olive"
+    },
+    {
+      "type": "Jus de citron"
+    },
+    {
+      "type": "Vinaigre de vin blanc"
+    }
+  ],
+  "instructions": [
+    "Couper en petits morceaux les concombres et le melon.",
+    "Émietter la feta et ciseler la menthe.",
+    "Mélanger dans un saladier le jus de citron, la menthe ciselée, le vinaigre, l’huile d’olive, saler et poivrer.",
+    "Ajouter les morceaux de concombre, les billes de melon, et mélanger.",
+    "Servir parsemé de pignons légèrement grillés et d’olives hachée."
+  ]
+}

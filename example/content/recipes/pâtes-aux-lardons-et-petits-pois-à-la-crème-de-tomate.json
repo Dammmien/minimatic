@@ -1,0 +1,40 @@
+{
+  "_output": "recipes/pates-lardons-petits-pois-creme-tomate.html",
+  "title": "Pâtes aux lardons et petits pois à la crème de tomate",
+  "preparation_time": "5",
+  "cooking_time": "15",
+  "image": "/pates-lardons-petits-pois-creme-tomate.jpg",
+  "ingredients": [
+    {
+      "quantity": "100 gr",
+      "type": "Pâtes"
+    },
+    {
+      "quantity": "50 gr",
+      "type": "Petits pois"
+    },
+    {
+      "quantity": "50 gr",
+      "type": "Lardons"
+    },
+    {
+      "quantity": "10 cl",
+      "type": "Crème liquide"
+    },
+    {
+      "quantity": "1",
+      "type": "Oignon"
+    },
+    {
+      "quantity": "",
+      "type": "Concentré de tomate"
+    }
+  ],
+  "instructions": [
+    "Faites cuire les pâtes dans une casserole d'eau bouillante salée selon le temps indiqué sur le paquet.",
+    "Épluchez et émincez l'oignon, puis faites-le revenir dans une poêle avec l'huile pendant quelques minutes.",
+    "Une fois que l'oignon s'attendrit et commence à dorer, ajoutez les lardons. Laissez-les cuire environ 5 min en remuant souvent.",
+    "Ajoutez alors les petits pois et laissez chauffer 2 min environ, puis versez la crème et le concentré de tomate.",
+    "Salez, poivrez continuez de chauffer 1 min puis versez immédiatement les pâtes cuites et égouttées. Mélangez bien puis servez avec du parmesan râpé !"
+  ]
+}
