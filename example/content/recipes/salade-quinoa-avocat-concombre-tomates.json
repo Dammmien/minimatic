@@ -1,49 +1,51 @@
 {
   "output": "recipes/salade-quinoa-avocat-concombre-tomates.html",
-  "title": "Salade de quinoa, avocat, concombre et tomates",
-  "preparation_time": 20,
-  "cooking_time": 10,
-  "image": "/salade-quinoa-avocat-concombre-tomates.jpg",
-  "ingredients": [
-    {
-      "quantity": "50 gr",
-      "type": "Quinoa"
-    },
-    {
-      "quantity": "1/2",
-      "type": "Avocat"
-    },
-    {
-      "quantity": "1/2",
-      "type": "Concombre"
-    },
-    {
-      "quantity": "1",
-      "type": "Tomate"
-    },
-    {
-      "quantity": "4 feuilles",
-      "type": "Menthe"
-    }
-  ],
-  "instructions": [
-    {
-      "text": "Faites bouillir le quinoa environ 10 min."
-    },
-    {
-      "text": "Pendant que le quinoa cuit, coupez les tomates, avocats et concombres en cubes."
-    },
-    {
-      "text": "Ciselez finement les feuilles de menthe."
-    },
-    {
-      "text": "Égouttez le quinoa puis passez le quelques secondes sous l’eau froide pour qu’il refroidisse."
-    },
-    {
-      "text": "Dans un saladier mélangez tous les ingrédients."
-    },
-    {
-      "text": "Assaisonnez à votre convenance d'une vinaigrette et dégustez !"
-    }
-  ]
+  "data": {
+    "title": "Salade de quinoa, avocat, concombre et tomates",
+    "preparation_time": 20,
+    "cooking_time": 10,
+    "image": "/salade-quinoa-avocat-concombre-tomates.jpg",
+    "ingredients": [
+      {
+        "quantity": "50 gr",
+        "type": "Quinoa"
+      },
+      {
+        "quantity": "1/2",
+        "type": "Avocat"
+      },
+      {
+        "quantity": "1/2",
+        "type": "Concombre"
+      },
+      {
+        "quantity": "1",
+        "type": "Tomate"
+      },
+      {
+        "quantity": "4 feuilles",
+        "type": "Menthe"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Faites bouillir le quinoa environ 10 min."
+      },
+      {
+        "text": "Pendant que le quinoa cuit, coupez les tomates, avocats et concombres en cubes."
+      },
+      {
+        "text": "Ciselez finement les feuilles de menthe."
+      },
+      {
+        "text": "Égouttez le quinoa puis passez le quelques secondes sous l’eau froide pour qu’il refroidisse."
+      },
+      {
+        "text": "Dans un saladier mélangez tous les ingrédients."
+      },
+      {
+        "text": "Assaisonnez à votre convenance d'une vinaigrette et dégustez !"
+      }
+    ]
+  }
 }

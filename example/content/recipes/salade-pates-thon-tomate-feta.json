@@ -1,50 +1,52 @@
 {
   "output": "recipes/salade-pates-thon-tomate-feta.html",
-  "title": "Salade de pâtes feta thon tomates",
-  "preparation_time": 10,
-  "cooking_time": 10,
-  "image": "/salade-pates-thon-tomate-feta.jpg",
-  "ingredients": [
-    {
-      "quantity": "125 gr",
-      "type": "Pâtes"
-    },
-    {
-      "quantity": "30gr",
-      "type": "Feta"
-    },
-    {
-      "quantity": "1 boîte",
-      "type": "Thon"
-    },
-    {
-      "type": "Huile d'olive"
-    },
-    {
-      "type": "Jus de citron"
-    },
-    {
-      "type": "Basilic"
-    },
-    {
-      "type": "Sel et poivre"
-    }
-  ],
-  "instructions": [
-    {
-      "text": "Faire cuire les pâtes dans une grande casserole d’eau bouillante salée."
-    },
-    {
-      "text": "Pendant ce temps, couper les tomates et la feta en dès."
-    },
-    {
-      "text": "Ciseler les feuilles de basilic."
-    },
-    {
-      "text": "Égoutter les pâtes et les mettre dans un saladier avec l’huile d’olive et le jus de citron."
-    },
-    {
-      "text": "Ajouter le thon émietté et le reste des ingrédients."
-    }
-  ]
+  "data": {
+    "title": "Salade de pâtes feta thon tomates",
+    "preparation_time": 10,
+    "cooking_time": 10,
+    "image": "/salade-pates-thon-tomate-feta.jpg",
+    "ingredients": [
+      {
+        "quantity": "125 gr",
+        "type": "Pâtes"
+      },
+      {
+        "quantity": "30gr",
+        "type": "Feta"
+      },
+      {
+        "quantity": "1 boîte",
+        "type": "Thon"
+      },
+      {
+        "type": "Huile d'olive"
+      },
+      {
+        "type": "Jus de citron"
+      },
+      {
+        "type": "Basilic"
+      },
+      {
+        "type": "Sel et poivre"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Faire cuire les pâtes dans une grande casserole d’eau bouillante salée."
+      },
+      {
+        "text": "Pendant ce temps, couper les tomates et la feta en dès."
+      },
+      {
+        "text": "Ciseler les feuilles de basilic."
+      },
+      {
+        "text": "Égoutter les pâtes et les mettre dans un saladier avec l’huile d’olive et le jus de citron."
+      },
+      {
+        "text": "Ajouter le thon émietté et le reste des ingrédients."
+      }
+    ]
+  }
 }

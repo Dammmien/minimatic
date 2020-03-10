@@ -1,38 +1,40 @@
 {
   "output": "recipes/couscous-dinde-grillee.html",
-  "title": "Couscous de dinde grillée",
-  "preparation_time": "10",
-  "cooking_time": "15",
-  "image": "/couscous-dinde-grille.jpg",
-  "ingredients": [
-    {
-      "quantity": "100 gr",
-      "type": "Dinde"
-    },
-    {
-      "quantity": "300 gr",
-      "type": "Légumes pour couscous"
-    },
-    {
-      "type": "Assaisonnements marocain"
-    },
-    {
-      "quantity": "70 gr",
-      "type": "Semoule"
-    }
-  ],
-  "instructions": [
-    {
-      "text": "Dans une poêle, faire revenir la dinde à feu vif dans l'huile d'olive."
-    },
-    {
-      "text": "Ajoutez l'assaisonnement marocain et la préparation de légumes pour couscous."
-    },
-    {
-      "text": "Laissez mijotez de côté et préparez la semoule."
-    },
-    {
-      "text": "Servir la semoule égrainée avec un filet d'huile d'olive. Puis la dinde et les légumes dessus."
-    }
-  ]
+  "data": {
+    "title": "Couscous de dinde grillée",
+    "preparation_time": "10",
+    "cooking_time": "15",
+    "image": "/couscous-dinde-grille.jpg",
+    "ingredients": [
+      {
+        "quantity": "100 gr",
+        "type": "Dinde"
+      },
+      {
+        "quantity": "300 gr",
+        "type": "Légumes pour couscous"
+      },
+      {
+        "type": "Assaisonnements marocain"
+      },
+      {
+        "quantity": "70 gr",
+        "type": "Semoule"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Dans une poêle, faire revenir la dinde à feu vif dans l'huile d'olive."
+      },
+      {
+        "text": "Ajoutez l'assaisonnement marocain et la préparation de légumes pour couscous."
+      },
+      {
+        "text": "Laissez mijotez de côté et préparez la semoule."
+      },
+      {
+        "text": "Servir la semoule égrainée avec un filet d'huile d'olive. Puis la dinde et les légumes dessus."
+      }
+    ]
+  }
 }

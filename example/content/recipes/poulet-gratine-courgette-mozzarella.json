@@ -1,48 +1,50 @@
 {
   "output": "recipes/poulet-gratine-courgette-mozzarella.html",
-  "title": "Poulet gratiné courgette et mozzarella",
-  "preparation_time": "20",
-  "cooking_time": "30",
-  "image": "/poulet-gratine-courgette-mozzarella.jpg",
-  "ingredients": [
-    {
-      "type": "Escalope de poulet ",
-      "quantity": "1"
-    },
-    {
-      "type": "Tomate",
-      "quantity": "1"
-    },
-    {
-      "type": "Courgette",
-      "quantity": "1/2"
-    },
-    {
-      "type": "Mozzarella",
-      "quantity": "1/2"
-    }
-  ],
-  "instructions": [
-    {
-      "text": "Laver, éplucher et couper les courgettes et les tomates en rondelles fines."
-    },
-    {
-      "text": "Répartir au fond d'un plat à gratin la moitié des courgettes."
-    },
-    {
-      "text": "Émincer les escalopes de poulet et les disposer par dessus."
-    },
-    {
-      "text": "Répartir la deuxième moitié des courgettes et les tomates sur le poulet."
-    },
-    {
-      "text": "Recouvrir de la mozzarella coupée en fines tranches."
-    },
-    {
-      "text": "Saler, poivrer et parsemer de thym."
-    },
-    {
-      "text": "Enfourner à 180° pendant 30 minutes."
-    }
-  ]
+  "data": {
+    "title": "Poulet gratiné courgette et mozzarella",
+    "preparation_time": "20",
+    "cooking_time": "30",
+    "image": "/poulet-gratine-courgette-mozzarella.jpg",
+    "ingredients": [
+      {
+        "type": "Escalope de poulet ",
+        "quantity": "1"
+      },
+      {
+        "type": "Tomate",
+        "quantity": "1"
+      },
+      {
+        "type": "Courgette",
+        "quantity": "1/2"
+      },
+      {
+        "type": "Mozzarella",
+        "quantity": "1/2"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Laver, éplucher et couper les courgettes et les tomates en rondelles fines."
+      },
+      {
+        "text": "Répartir au fond d'un plat à gratin la moitié des courgettes."
+      },
+      {
+        "text": "Émincer les escalopes de poulet et les disposer par dessus."
+      },
+      {
+        "text": "Répartir la deuxième moitié des courgettes et les tomates sur le poulet."
+      },
+      {
+        "text": "Recouvrir de la mozzarella coupée en fines tranches."
+      },
+      {
+        "text": "Saler, poivrer et parsemer de thym."
+      },
+      {
+        "text": "Enfourner à 180° pendant 30 minutes."
+      }
+    ]
+  }
 }

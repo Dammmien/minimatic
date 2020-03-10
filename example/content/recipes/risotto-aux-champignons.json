@@ -1,66 +1,68 @@
 {
   "output": "recipes/risotto-aux-champignons.html",
-  "title": "Risotto aux champignons",
-  "preparation_time": "10",
-  "cooking_time": "30",
-  "image": "/risotto-aux-champignons.jpg",
-  "ingredients": [
-    {
-      "type": "Riz arborio spécial risotto",
-      "quantity": "80 gr"
-    },
-    {
-      "type": "Champignons ( girolles, cèpes ou Paris )",
-      "quantity": "100 gr"
-    },
-    {
-      "type": "Cubes de bouillon de légumes",
-      "quantity": "1"
-    },
-    {
-      "type": "Oignon",
-      "quantity": "1/2"
-    },
-    {
-      "type": "Vin blanc",
-      "quantity": "25 ml"
-    },
-    {
-      "type": "Crème fraîche",
-      "quantity": "10 cl"
-    },
-    {
-      "type": "Parmesan râpé",
-      "quantity": "30 gr"
-    }
-  ],
-  "instructions": [
-    {
-      "text": "Nettoyer et détailler les champignons. Faire fondre une noix de beurre et y faire revenir les champignons environ 3 minutes."
-    },
-    {
-      "text": "Ajouter 3 cuillères à soupe de vin blanc et laisser cuire 2 minutes jusqu'à ce qu'il réduise."
-    },
-    {
-      "text": "Ajouter la crème fraîche, mélanger, saler, poivrer et réserver."
-    },
-    {
-      "text": "Faire bouillir un litre d'eau avec les cubes de bouillon."
-    },
-    {
-      "text": "Dans une sauteuse, faire chauffer l'huile d'olive pour y faire blondir l'oignon émincé pendant 3 minutes."
-    },
-    {
-      "text": "Ajoutez le riz et laissez-le cuire en remuant pendant 2 minutes jusqu'à ce qu'il soit un peu transparent."
-    },
-    {
-      "text": "Ajouter 10 cl de vin blanc (1/2 verre) et une fois qu'il est absorbé par le riz, ajoutez une louche de bouillon, puis mélangez."
-    },
-    {
-      "text": "Une fois que le bouillon est bien absorbé, ajouter une nouvelle louche, et ainsi de suite jusqu'à épuisement du bouillon (environ 20 bonnes minutes)."
-    },
-    {
-      "text": "Ajouter la moitié du parmesan et les champignons, attendre 2 minutes puis mélangez vivement. Enfin, servir très chaud avec le reste du parmesan."
-    }
-  ]
+  "data": {
+    "title": "Risotto aux champignons",
+    "preparation_time": "10",
+    "cooking_time": "30",
+    "image": "/risotto-aux-champignons.jpg",
+    "ingredients": [
+      {
+        "type": "Riz arborio spécial risotto",
+        "quantity": "80 gr"
+      },
+      {
+        "type": "Champignons ( girolles, cèpes ou Paris )",
+        "quantity": "100 gr"
+      },
+      {
+        "type": "Cubes de bouillon de légumes",
+        "quantity": "1"
+      },
+      {
+        "type": "Oignon",
+        "quantity": "1/2"
+      },
+      {
+        "type": "Vin blanc",
+        "quantity": "25 ml"
+      },
+      {
+        "type": "Crème fraîche",
+        "quantity": "10 cl"
+      },
+      {
+        "type": "Parmesan râpé",
+        "quantity": "30 gr"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Nettoyer et détailler les champignons. Faire fondre une noix de beurre et y faire revenir les champignons environ 3 minutes."
+      },
+      {
+        "text": "Ajouter 3 cuillères à soupe de vin blanc et laisser cuire 2 minutes jusqu'à ce qu'il réduise."
+      },
+      {
+        "text": "Ajouter la crème fraîche, mélanger, saler, poivrer et réserver."
+      },
+      {
+        "text": "Faire bouillir un litre d'eau avec les cubes de bouillon."
+      },
+      {
+        "text": "Dans une sauteuse, faire chauffer l'huile d'olive pour y faire blondir l'oignon émincé pendant 3 minutes."
+      },
+      {
+        "text": "Ajoutez le riz et laissez-le cuire en remuant pendant 2 minutes jusqu'à ce qu'il soit un peu transparent."
+      },
+      {
+        "text": "Ajouter 10 cl de vin blanc (1/2 verre) et une fois qu'il est absorbé par le riz, ajoutez une louche de bouillon, puis mélangez."
+      },
+      {
+        "text": "Une fois que le bouillon est bien absorbé, ajouter une nouvelle louche, et ainsi de suite jusqu'à épuisement du bouillon (environ 20 bonnes minutes)."
+      },
+      {
+        "text": "Ajouter la moitié du parmesan et les champignons, attendre 2 minutes puis mélangez vivement. Enfin, servir très chaud avec le reste du parmesan."
+      }
+    ]
+  }
 }

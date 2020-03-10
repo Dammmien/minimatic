@@ -1,57 +1,59 @@
 {
   "output": "recipes/lasagnes-chevre-bacon.html",
-  "title": "Lasagnes au chèvre et au bacon",
-  "preparation_time": 15,
-  "cooking_time": 20,
-  "image": "/lasagnes-chevre-bacon.jpg",
-  "ingredients": [
-    {
-      "quantity": "~10 feuilles",
-      "type": "Pâtes à lasagnes"
-    },
-    {
-      "quantity": "50 cl",
-      "type": "Crème fraîche"
-    },
-    {
-      "quantity": "1 bûche",
-      "type": "Fromage de chèvre"
-    },
-    {
-      "quantity": "20 tranches",
-      "type": "Bacon"
-    },
-    {
-      "type": "Emmental râpé"
-    },
-    {
-      "type": "Sel et poivre"
-    }
-  ],
-  "instructions": [
-    {
-      "text": "Préchauffez le four à 180 °C."
-    },
-    {
-      "text": "Dans un bol, écrasez la bûche de chèvre et mélangez la crème."
-    },
-    {
-      "text": "Assaisonnez de sel et de poivre."
-    },
-    {
-      "text": "Dans un plat à gratin, étalez une première couche du mélange au chèvre."
-    },
-    {
-      "text": "Puis étalez le bacon et recouvrez de feuilles de lasagne."
-    },
-    {
-      "text": "Renouvelez l'opération dans cet ordre jusqu'en haut du plat en vous arrangeant pourfinir avec le mélange au chèvre.\""
-    },
-    {
-      "text": "Recouvrir d'emmental râpé."
-    },
-    {
-      "text": "Enfournez pendant 20 minutes environ."
-    }
-  ]
+  "data": {
+    "title": "Lasagnes au chèvre et au bacon",
+    "preparation_time": 15,
+    "cooking_time": 20,
+    "image": "/lasagnes-chevre-bacon.jpg",
+    "ingredients": [
+      {
+        "quantity": "~10 feuilles",
+        "type": "Pâtes à lasagnes"
+      },
+      {
+        "quantity": "50 cl",
+        "type": "Crème fraîche"
+      },
+      {
+        "quantity": "1 bûche",
+        "type": "Fromage de chèvre"
+      },
+      {
+        "quantity": "20 tranches",
+        "type": "Bacon"
+      },
+      {
+        "type": "Emmental râpé"
+      },
+      {
+        "type": "Sel et poivre"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Préchauffez le four à 180 °C."
+      },
+      {
+        "text": "Dans un bol, écrasez la bûche de chèvre et mélangez la crème."
+      },
+      {
+        "text": "Assaisonnez de sel et de poivre."
+      },
+      {
+        "text": "Dans un plat à gratin, étalez une première couche du mélange au chèvre."
+      },
+      {
+        "text": "Puis étalez le bacon et recouvrez de feuilles de lasagne."
+      },
+      {
+        "text": "Renouvelez l'opération dans cet ordre jusqu'en haut du plat en vous arrangeant pourfinir avec le mélange au chèvre.\""
+      },
+      {
+        "text": "Recouvrir d'emmental râpé."
+      },
+      {
+        "text": "Enfournez pendant 20 minutes environ."
+      }
+    ]
+  }
 }

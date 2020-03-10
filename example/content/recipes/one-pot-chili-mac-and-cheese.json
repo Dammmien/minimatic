@@ -1,56 +1,58 @@
 {
   "output": "recipes/one-pot-chili-mac-and-cheese.html",
-  "title": "One Pot Chili Mac and Cheese",
-  "preparation_time": "10",
-  "cooking_time": "20",
-  "image": "/one-pot-chili-mac-and-cheese.jpg",
-  "ingredients": [
-    {
-      "quantity": "1",
-      "type": "Oignon"
-    },
-    {
-      "quantity": "50 gr",
-      "type": "Viande de boeuf hâchée"
-    },
-    {
-      "quantity": "50 gr",
-      "type": "Haricots rouges"
-    },
-    {
-      "quantity": "0.5",
-      "type": "Tomate"
-    },
-    {
-      "type": "Mélange d'épices pour chili "
-    },
-    {
-      "quantity": "100 gr",
-      "type": "Pâtes"
-    },
-    {
-      "quantity": "30 gr",
-      "type": "Cheddar râpé"
-    }
-  ],
-  "instructions": [
-    {
-      "text": "Dans une grande casserole faire revenir un oignon émincé dans l'huile d'olive."
-    },
-    {
-      "text": "Ajouter et faire cuire la viande haché."
-    },
-    {
-      "text": "Ajouter les haricots rouges et les tomates coupées en cubes."
-    },
-    {
-      "text": "Recouvrir d'eau, ajouter les épices mexicaines pour chili, mélanger et porter à ébullition."
-    },
-    {
-      "text": "Ajouter les pates. Faire cuire en faisant réduire et remettre de l'eau si besoin."
-    },
-    {
-      "text": "Quand les pâtes sont cuites, ajouter le cheddar râpé et laisser fondre. Puis servir."
-    }
-  ]
+  "data": {
+    "title": "One Pot Chili Mac and Cheese",
+    "preparation_time": "10",
+    "cooking_time": "20",
+    "image": "/one-pot-chili-mac-and-cheese.jpg",
+    "ingredients": [
+      {
+        "quantity": "1",
+        "type": "Oignon"
+      },
+      {
+        "quantity": "50 gr",
+        "type": "Viande de boeuf hâchée"
+      },
+      {
+        "quantity": "50 gr",
+        "type": "Haricots rouges"
+      },
+      {
+        "quantity": "0.5",
+        "type": "Tomate"
+      },
+      {
+        "type": "Mélange d'épices pour chili "
+      },
+      {
+        "quantity": "100 gr",
+        "type": "Pâtes"
+      },
+      {
+        "quantity": "30 gr",
+        "type": "Cheddar râpé"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Dans une grande casserole faire revenir un oignon émincé dans l'huile d'olive."
+      },
+      {
+        "text": "Ajouter et faire cuire la viande haché."
+      },
+      {
+        "text": "Ajouter les haricots rouges et les tomates coupées en cubes."
+      },
+      {
+        "text": "Recouvrir d'eau, ajouter les épices mexicaines pour chili, mélanger et porter à ébullition."
+      },
+      {
+        "text": "Ajouter les pates. Faire cuire en faisant réduire et remettre de l'eau si besoin."
+      },
+      {
+        "text": "Quand les pâtes sont cuites, ajouter le cheddar râpé et laisser fondre. Puis servir."
+      }
+    ]
+  }
 }
