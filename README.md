@@ -7,7 +7,7 @@
   "src": "example",
   "output": "www",
   "paths": {
-    "content/recipes": "content/metadata/recipes.json",
+    "content/recipes": "content/collections/recipes.json",
   }
 }
 ...

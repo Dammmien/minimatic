@@ -1,18 +1,21 @@
-const project = require('../project.js');
-const Utils = require('./Utils');
-const Page = require('./Page');
+const { importDirectory, recursiveCopy } = require('./Utils.js');
+const Page = require('./Page.js');
 const fs = require('fs');
 
-Utils.removeDirectory(project.output);
-Utils.recursiveCopy(`${project.src}/assets`, `${project.output}/assets`);
+module.exports = (project) => {
+  fs.rmdirSync(project.output, { recursive: true });
 
-for(const [collectionName, pages] of Object.entries(project.collections)) {
-  const collection = require(`${project.src}/content/metadata/${collectionName}`);
+  recursiveCopy(`${project.src}/assets`, `${project.output}/assets`);
 
-  pages.forEach(data => {
-    const page = new Page(collection, data);
-    page.render();
-  });
-}
+  for(const [collectionName, pagesPath] of Object.entries(project.collections)) {
+    const pages = importDirectory(pagesPath);
+    const collection = require(`${process.cwd()}/${project.src}/${collectionName}`);
 
-fs.mkdirSync(`${project.output}/assets/images/thumbnails`);
+    pages.forEach(data => {
+      const page = new Page(project, collection, data);
+      page.render();
+    });
+  }
+
+  fs.mkdirSync(`${project.output}/assets/images/thumbnails`);
+};
