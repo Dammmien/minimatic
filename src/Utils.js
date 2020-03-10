@@ -42,12 +42,13 @@ const merge = (a, b) => {
   return out;
 };
 
-const readAndParse = filePath => JSON.parse(fs.readFileSync(filePath, 'utf8'));
+const importDirectory = dir => {
+  return fs.readdirSync(dir).map(file => this.getData({}, `${dir}/${file}`, true));
+};
 
 module.exports = {
   removeDirectory,
   writeFile,
   recursiveCopy,
-  merge,
-  readAndParse
+  merge
 };
