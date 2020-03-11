@@ -1,7 +1,0 @@
-{
-	"template": "templates/base.mustache",
-	"partials": {
-		"body": "templates/recipe.mustache",
-		"header": "templates/header.mustache"
-	}
-}

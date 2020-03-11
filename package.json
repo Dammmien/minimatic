@@ -3,25 +3,10 @@
   "version": "1.0.0",
   "description": "Minimalist & simple static site generator.",
   "engines": {
-    "node": ">=10.11.0"
+    "node": ">=13.10.1"
   },
-  "scripts": {
-    "build": "node ./example/build.js"
-  },
-  "keywords": [
-    "static",
-    "file",
-    "site",
-    "website",
-    "blog",
-    "generator",
-    "markdown"
-  ],
   "author": "Damien Duhamel",
-  "license": "ISC",
   "dependencies": {
-    "jimp": "^0.9.5",
-    "mustache": "^2.2.1",
-    "sharp": "^0.18.4"
+    "mustache": "^4.0.0"
   }
 }

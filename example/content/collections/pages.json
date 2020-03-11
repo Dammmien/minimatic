@@ -1,9 +1,0 @@
-{
-  "template": "templates/base.mustache",
-  "partials": {
-    "header": "templates/header.mustache"
-  },
-  "data": {
-    "foo": "bar"
-  }
-}
