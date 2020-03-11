@@ -1,3 +1,5 @@
 #!/usr/bin/env node
 
-require('./index.js');
+const build = require('./index.js');
+
+build();
