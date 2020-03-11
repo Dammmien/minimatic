@@ -1,12 +1,27 @@
 {
-  "name": "statik",
+  "name": "@dammmien/statik",
   "version": "1.0.0",
   "description": "Minimalist & simple static site generator.",
   "engines": {
     "node": ">=13.10.1"
   },
-  "author": "Damien Duhamel",
   "dependencies": {
     "mustache": "^4.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dammmien/statik.git"
+  },
+  "author": "Damien Duhamel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dammmien/statik/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "bin": {
+    "statik": "bin.js"
+  },
+  "homepage": "https://github.com/Dammmien/statik#readme"
 }
