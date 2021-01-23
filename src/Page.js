@@ -1,12 +1,12 @@
 const fs = require('fs');
 const path = require('path');
 const mustache = require('mustache');
-const project = require(`${process.cwd()}/package.json`).statik;
+const project = require(`${process.cwd()}/config.js`);
 
 module.exports = class Page {
 
   constructor(collection, page) {
-    this.data = { ...project.data, ...collection.data, ...page.data };
+    this.data = { ...project, ...collection, ...page };
     this.partials =  this.importPartials({ ...collection.partials, ...page.partials });
     this.template = fs.readFileSync(`${project.src}/${collection.template}`, 'utf8');
     this.output = `${project.output}/${page.output}`;

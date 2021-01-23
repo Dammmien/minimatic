@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-const build = require('./index.js');
+const { build } = require('./src/index.js');
 
 build();

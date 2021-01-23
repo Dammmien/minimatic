@@ -1,27 +1,26 @@
 {
-  "name": "statik",
-  "version": "1.0.0",
+  "name": "minimatic",
+  "version": "0.0.1",
   "description": "Minimalist & simple static site generator.",
   "engines": {
     "node": ">=13.10.1"
   },
   "dependencies": {
-    "mustache": "^4.0.0"
+    "marked": "1.2.7",
+    "mustache": "4.1.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dammmien/statik.git"
+    "url": "git+https://github.com/Dammmien/minimatic.git"
   },
-  "author": "Damien Duhamel",
+  "main": "src/index.js",
+  "author": "Damien Duhamel<d.damien@live.fr>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dammmien/statik/issues"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "url": "https://github.com/Dammmien/minimatic/issues"
   },
   "bin": {
-    "statik": "bin.js"
+    "minimatic": "bin.js"
   },
-  "homepage": "https://github.com/Dammmien/statik#readme"
+  "homepage": "https://github.com/Dammmien/minimatic#readme"
 }
