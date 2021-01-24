@@ -1,7 +1,10 @@
+const project = require(`${process.cwd()}/config.js`);
 const fs = require('fs');
 const path = require('path');
 const marked = require('marked');
 const regex = /(\{[^\)]+\})/gm;
+
+const srcDir = (filePath) => `${process.cwd()}/${project.src}/${filePath}`;
 
 const recursiveCopy = (source, destination) => {
   fs.readdirSync(source, { withFileTypes: true }).forEach(file => {
@@ -11,23 +14,42 @@ const recursiveCopy = (source, destination) => {
   });
 };
 
-const parseMarkdown = markdown => {
+const importMap = (map) => {
+  return Object.entries(map).reduce((out, [key, filePath]) => {
+    if (fs.lstatSync(srcDir(filePath)).isDirectory()) {
+      out[key] = importDirectory(filePath);
+    } else {
+      out[key] = importFile(filePath);
+    }
+
+    return out;
+  }, {});
+};
+
+const importMarkdown = (markdown) => {
   const fm = JSON.parse(markdown.match(regex)[0]);
   return { ...fm, body: marked(markdown.replace(regex, '')) };
 };
 
-const importDirectory = filePath => {
-  const dir = `${process.cwd()}/${filePath}`;
-  return fs.readdirSync(dir).map(file => {
-    if (path.extname(file) === '.md') {
-      return parseMarkdown(fs.readFileSync(`${dir}/${file}`, 'utf8'));
-    } else {
-      return require(`${dir}/${file}`);
-    }
-  });
+const importFile = (file) => {
+  const filePath = srcDir(file);
+
+  if (path.extname(filePath) === '.md') {
+    return importMarkdown(fs.readFileSync(filePath, 'utf8'));
+  } else if (path.extname(filePath) === '.html') {
+    return fs.readFileSync(filePath, 'utf8');
+  } else {
+    return require(filePath);
+  }
+};
+
+const importDirectory = (dir) => {
+  return fs.readdirSync(srcDir(dir)).map(file => importFile(`${dir}/${file}`));
 };
 
 module.exports = {
   importDirectory,
-  recursiveCopy
+  recursiveCopy,
+  importMap,
+  importMarkdown
 };

@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-const { build } = require('./src/index.js');
+const minimatic = require('./src/index.js');
 
-build();
+minimatic();
