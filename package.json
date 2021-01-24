@@ -1,9 +1,9 @@
 {
   "name": "minimatic",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Minimalist & simple static site generator.",
   "engines": {
-    "node": ">=13.10.1"
+    "node": ">=12.20.0"
   },
   "dependencies": {
     "marked": "1.2.7",
