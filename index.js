@@ -2,11 +2,14 @@ const fs = require('fs');
 const path = require('path');
 const mustache = require('mustache');
 const marked = require('marked');
+const Server = require('dev-file-server');
 
 module.exports = class Minimatic {
 
   constructor(config) {
     this.config = config;
+    this.src = `${process.cwd()}/${this.config.src}`;
+    this.output = `${process.cwd()}/${this.config.output}`;
   }
 
   static recursiveCopy (src, dest) {
@@ -17,13 +20,9 @@ module.exports = class Minimatic {
     });
   }
 
-  srcDir(filePath) {
-    return `${process.cwd()}/${this.config.src}/${filePath}`;
-  }
-
   importMap(map) {
     return Object.entries(map).reduce((out, [key, filePath]) => {
-      if (fs.lstatSync(this.srcDir(filePath)).isDirectory()) {
+      if (fs.lstatSync(`${this.src}/${filePath}`).isDirectory()) {
         out[key] = this.importDirectory(filePath);
       } else {
         out[key] = this.importFile(filePath);
@@ -41,7 +40,7 @@ module.exports = class Minimatic {
   }
 
   importFile(file) {
-    const filePath = this.srcDir(file);
+    const filePath = `${this.src}/${file}`;
     const content = fs.readFileSync(filePath, 'utf8');
 
     if (path.extname(filePath) === '.md') {
@@ -54,20 +53,19 @@ module.exports = class Minimatic {
   }
 
   importDirectory(dir) {
-    return fs.readdirSync(this.srcDir(dir)).map(file => this.importFile(`${dir}/${file}`));
+    return fs.readdirSync(`${this.src}/${dir}`).map(file => this.importFile(`${dir}/${file}`));
   }
 
   renderPage(collection, page) {
     const data = { ...this.config, ...collection, ...page, ...this.importMap(page.import || {}) };
     const partials = this.importMap({ ...collection.partials, ...page.partials });
     const template = fs.readFileSync(`${this.config.src}/${collection.template}`, 'utf8');
-    const output = `${this.config.output}/${page.output}`;
 
-    fs.mkdirSync(path.dirname(output), { recursive: true });
-    fs.writeFileSync(output, mustache.render(template, data, partials));
+    fs.mkdirSync(path.dirname(`${this.output}/${page.output}`), { recursive: true });
+    fs.writeFileSync(`${this.output}/${page.output}`, mustache.render(template, data, partials));
   }
 
-  async build(watchMode) {
+  async build(watch, serve) {
     const start = Date.now();
 
     if (typeof this.config.preBuild === 'function') {
@@ -79,7 +77,7 @@ module.exports = class Minimatic {
         try {
           this.renderPage(this.config.collections[collectionPath], page);
         } catch (error) {
-          console.log('\x1b[31m%s\x1b[0m', `Error during processing ${this.config.output}/${page.output}: ${error.message}\x1B[0m`);
+          console.log('\x1b[31m%s\x1b[0m', `Error during processing ${this.output}/${page.output}: ${error.message}`);
         }
       });
     }
@@ -90,14 +88,19 @@ module.exports = class Minimatic {
 
     console.log('\x1b[32m%s\x1b[0m', `Build successful in ${Date.now() - start}ms`);
 
-    if (watchMode) {
+    if (watch) {
       this.watch();
+    }
+
+    if (serve) {
+      const server = new Server(this.output);
+      server.listen();
     }
   }
 
   watch() {
     fs.watch(this.config.src, { recursive: true }, (type, fileName) => {
-      console.log('\x1b[36m%s\x1b[0m', `Changes detected in: ${this.srcDir(fileName)}`);
+      console.log('\x1b[36m%s\x1b[0m', `Changes detected in: ${this.src}/${fileName}`);
       this.build();
     });
   }

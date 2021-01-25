@@ -6,6 +6,7 @@
     "node": ">=12.20.0"
   },
   "dependencies": {
+    "dev-file-server": "1.0.0",
     "marked": "1.2.7",
     "mustache": "4.1.0"
   },
@@ -13,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/Dammmien/minimatic.git"
   },
-  "main": "src/index.js",
+  "main": "index.js",
   "author": "Damien Duhamel<d.damien@live.fr>",
   "license": "ISC",
   "bugs": {
