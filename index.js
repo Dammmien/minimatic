@@ -57,7 +57,13 @@ module.exports = class Minimatic {
   }
 
   renderPage(collection, page) {
-    const data = { ...this.config, ...collection, ...page, ...this.importMap(page.import || {}) };
+    const data = {
+      ...this.config,
+      ...this.importMap(collection.import || {}),
+      ...collection,
+      ...this.importMap(page.import || {}),
+      ...page
+    };
     const partials = this.importMap({ ...collection.partials, ...page.partials });
     const template = fs.readFileSync(`${this.config.src}/${collection.template}`, 'utf8');
 
