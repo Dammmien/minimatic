@@ -58,13 +58,20 @@ module.exports = class Minimatic {
 
   renderPage(collection, page) {
     const data = {
+      ...this.importMap(this.config.imports || {}),
       ...this.config,
-      ...this.importMap(collection.import || {}),
+      ...this.importMap(collection.imports || {}),
       ...collection,
-      ...this.importMap(page.import || {}),
+      ...this.importMap(page.imports || {}),
       ...page
     };
-    const partials = this.importMap({ ...collection.partials, ...page.partials });
+
+    const partials = this.importMap({
+      ...(this.config.partials || {}),
+      ...(collection.partials || {}),
+      ...(page.partials || {})
+    });
+
     const template = fs.readFileSync(`${this.config.src}/${collection.template}`, 'utf8');
 
     fs.mkdirSync(path.dirname(`${this.output}/${page.output}`), { recursive: true });
