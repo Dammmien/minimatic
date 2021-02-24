@@ -10,6 +10,7 @@ module.exports = class Minimatic {
     this.config = config;
     this.src = `${process.cwd()}/${this.config.src}`;
     this.output = `${process.cwd()}/${this.config.output}`;
+    this.cache = new Map();
   }
 
   static recursiveCopy (src, dest) {
@@ -32,24 +33,36 @@ module.exports = class Minimatic {
     }, {});
   }
 
-  importMarkdown(markdown) {
+  parseMarkdown(markdown) {
     const regex = /(\{[^\)]+\})/gm;
     const fm = JSON.parse(markdown.match(regex)[0]);
 
     return { ...fm, body: marked(markdown.replace(regex, '')) };
   }
 
-  importFile(file) {
-    const filePath = `${this.src}/${file}`;
-    const content = fs.readFileSync(filePath, 'utf8');
-
+  parseFile(filePath, content) {
     if (path.extname(filePath) === '.md') {
-      return this.importMarkdown(content);
+      return this.parseMarkdown(content);
     } else if (path.extname(filePath) === '.json') {
       return JSON.parse(content);
     } else {
       return content;
     }
+  }
+
+  importFile(file) {
+    const filePath = `${this.src}/${file}`;
+
+    if (this.cache.has(filePath)) {
+      return this.cache.get(filePath);
+    }
+
+    const content = fs.readFileSync(filePath, 'utf8');
+    const parsedFile = this.parseFile(filePath, content);
+
+    this.cache.set(filePath, parsedFile);
+
+    return parsedFile;
   }
 
   importDirectory(dir) {
@@ -72,7 +85,7 @@ module.exports = class Minimatic {
       ...(page.partials || {})
     });
 
-    const template = fs.readFileSync(`${this.config.src}/${collection.template}`, 'utf8');
+    const template = this.importFile(collection.template);
 
     fs.mkdirSync(path.dirname(`${this.output}/${page.output}`), { recursive: true });
     fs.writeFileSync(`${this.output}/${page.output}`, mustache.render(template, data, partials));
@@ -112,8 +125,10 @@ module.exports = class Minimatic {
   }
 
   watch() {
-    fs.watch(this.config.src, { recursive: true }, (type, fileName) => {
-      console.log('\x1b[36m%s\x1b[0m', `Changes detected in: ${this.src}/${fileName}`);
+    fs.watch(this.config.src, { recursive: true }, (type, file) => {
+      const filePath = `${this.src}/${file}`;
+      this.cache.delete(filePath);
+      console.log('\x1b[36m%s\x1b[0m', `Changes detected in: ${filePath}`);
       this.build();
     });
   }
