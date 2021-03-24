@@ -50,6 +50,14 @@ module.exports = class Minimatic {
     }
   }
 
+  readOrRequire(filePath) {
+    if (path.extname(filePath) === '.js') {
+      return require(filePath);
+    }
+
+    return fs.readFileSync(filePath, 'utf8');
+  }
+
   importFile(file) {
     const filePath = `${this.src}/${file}`;
 
@@ -57,7 +65,7 @@ module.exports = class Minimatic {
       return this.cache.get(filePath);
     }
 
-    const content = fs.readFileSync(filePath, 'utf8');
+    const content = this.readOrRequire(filePath);
     const parsedFile = this.parseFile(filePath, content);
 
     this.cache.set(filePath, parsedFile);
@@ -127,8 +135,15 @@ module.exports = class Minimatic {
   watch() {
     fs.watch(this.config.src, { recursive: true }, (type, file) => {
       const filePath = `${this.src}/${file}`;
+
       this.cache.delete(filePath);
+
+      if (path.extname(filePath) === '.js') {
+        delete require.cache[filePath];
+      }
+
       console.log('\x1b[36m%s\x1b[0m', `Changes detected in: ${filePath}`);
+
       this.build();
     });
   }
