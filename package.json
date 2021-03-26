@@ -1,6 +1,6 @@
 {
   "name": "minimatic",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Minimalist & simple static site generator.",
   "engines": {
     "node": ">=12.20.0"

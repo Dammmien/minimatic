@@ -13,21 +13,11 @@ module.exports = class Minimatic {
     this.cache = new Map();
   }
 
-  static recursiveCopy (src, dest) {
-    fs.readdirSync(src, { withFileTypes: true }).forEach(file => {
-      fs.mkdirSync(dest, { recursive: true });
-      if (file.isDirectory()) Minimatic.recursiveCopy(`${src}/${file.name}`, `${dest}/${file.name}`);
-      else fs.copyFileSync(`${src}/${file.name}`, `${dest}/${file.name}`);
-    });
-  }
-
   importMap(map) {
     return Object.entries(map).reduce((out, [key, filePath]) => {
-      if (fs.lstatSync(`${this.src}/${filePath}`).isDirectory()) {
-        out[key] = this.importDirectory(filePath);
-      } else {
-        out[key] = this.importFile(filePath);
-      }
+      const isDirectory = fs.lstatSync(`${this.src}/${filePath}`).isDirectory();
+
+      out[key] = isDirectory ? this.importDirectory(filePath) : this.importFile(filePath);
 
       return out;
     }, {});
@@ -99,13 +89,7 @@ module.exports = class Minimatic {
     fs.writeFileSync(`${this.output}/${page.output}`, mustache.render(template, data, partials));
   }
 
-  async build(watch, serve) {
-    const start = Date.now();
-
-    if (typeof this.config.preBuild === 'function') {
-      await this.config.preBuild();
-    }
-
+  renderCollectionsPages() {
     for (const collectionPath in this.config.collections) {
       this.importDirectory(collectionPath).forEach(page => {
         try {
@@ -115,6 +99,16 @@ module.exports = class Minimatic {
         }
       });
     }
+  }
+
+  async build(watch, serve) {
+    const start = Date.now();
+
+    if (typeof this.config.preBuild === 'function') {
+      await this.config.preBuild();
+    }
+
+    this.renderCollectionsPages();
 
     if (typeof this.config.postBuild === 'function') {
       await this.config.postBuild();
@@ -132,17 +126,21 @@ module.exports = class Minimatic {
     }
   }
 
+  clearFileCache(filePath) {
+    this.cache.delete(filePath);
+
+    if (path.extname(filePath) === '.js') {
+      delete require.cache[filePath];
+    }
+  }
+
   watch() {
     fs.watch(this.config.src, { recursive: true }, (type, file) => {
       const filePath = `${this.src}/${file}`;
 
-      this.cache.delete(filePath);
-
-      if (path.extname(filePath) === '.js') {
-        delete require.cache[filePath];
-      }
-
       console.log('\x1b[36m%s\x1b[0m', `Changes detected in: ${filePath}`);
+
+      this.clearFileCache(filePath);
 
       this.build();
     });
