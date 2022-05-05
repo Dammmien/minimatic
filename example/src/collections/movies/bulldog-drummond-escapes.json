@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bulldog Drummond Escapes",
+    "year": 1937,
+    "cast": [
+      "Ray Milland",
+      "Guy Standing",
+      "Heather Angel"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/bulldog-drummond-escapes.html"
+}

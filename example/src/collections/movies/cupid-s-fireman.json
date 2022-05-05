@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cupid's Fireman",
+    "year": 1923,
+    "cast": [
+      "Buck Jones",
+      "Marian Nixon"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/cupid-s-fireman.html"
+}

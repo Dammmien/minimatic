@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The NeverEnding Story III: Escape from Fantasia",
+    "year": 1994,
+    "cast": [
+      "Jason James Richter",
+      "Jack Black"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-neverending-story-iii--escape-from-fantasia.html"
+}

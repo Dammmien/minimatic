@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Richard III",
+    "year": 1995,
+    "cast": [
+      "Ian McKellen",
+      "Robert Downey, Jr.",
+      "Maggie Smith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/richard-iii.html"
+}

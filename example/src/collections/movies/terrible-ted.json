@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Terrible Ted",
+    "year": 1907,
+    "cast": [],
+    "genres": [
+      "Short",
+      "Comedy"
+    ]
+  },
+  "output": "movies/terrible-ted.html"
+}

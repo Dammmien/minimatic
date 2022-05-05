@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Quigley Down Under",
+    "year": 1990,
+    "cast": [
+      "Tom Selleck",
+      "Laura San Giacomo",
+      "Alan Rickman"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/quigley-down-under.html"
+}

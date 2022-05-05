@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Friend, the Devil",
+    "year": 1922,
+    "cast": [
+      "Charles Richman",
+      "Barbara Castleton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-friend--the-devil.html"
+}

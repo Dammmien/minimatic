@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Beautiful and Damned",
+    "year": 1922,
+    "cast": [
+      "Marie Prevost",
+      "Kenneth Harlan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-beautiful-and-damned.html"
+}

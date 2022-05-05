@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Postal Inspector",
+    "year": 1936,
+    "cast": [
+      "Patricia Ellis",
+      "Ricardo Cortez",
+      "Bela Lugosi"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/postal-inspector.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "She Done Him Wrong",
+    "year": 1933,
+    "cast": [
+      "Mae West",
+      "Cary Grant",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-done-him-wrong.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Pulse",
+    "year": 2006,
+    "cast": [
+      "Kristen Bell",
+      "Ian Somerhalder",
+      "Christina Milian",
+      "Rick Gonzalez"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/pulse.html"
+}

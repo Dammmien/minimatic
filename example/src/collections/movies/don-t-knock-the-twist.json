@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Don't Knock the Twist",
+    "year": 1962,
+    "cast": [
+      "Chubby Checker",
+      "Lang Jeffries"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/don-t-knock-the-twist.html"
+}

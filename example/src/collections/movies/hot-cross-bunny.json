@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hot Cross Bunny",
+    "year": 1948,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/hot-cross-bunny.html"
+}

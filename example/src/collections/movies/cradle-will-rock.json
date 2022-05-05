@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cradle Will Rock",
+    "year": 1999,
+    "cast": [
+      "Hank Azaria",
+      "Rubén Blades",
+      "Joan Cusack",
+      "John Cusack"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cradle-will-rock.html"
+}

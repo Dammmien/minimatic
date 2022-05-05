@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Son, My Son!",
+    "year": 1940,
+    "cast": [
+      "Madeleine Carroll",
+      "Brian Aherne",
+      "Louis Hayward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-son--my-son-.html"
+}

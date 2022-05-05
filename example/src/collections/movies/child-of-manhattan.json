@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Child of Manhattan",
+    "year": 1933,
+    "cast": [
+      "Nancy Carroll",
+      "John Boles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/child-of-manhattan.html"
+}

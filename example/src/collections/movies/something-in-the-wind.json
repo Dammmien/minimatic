@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Something in the Wind",
+    "year": 1947,
+    "cast": [
+      "Deanna Durbin",
+      "Donald O'Connor"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/something-in-the-wind.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Maniac Cop",
+    "year": 1988,
+    "cast": [
+      "Tom Atkins",
+      "Bruce Campbell",
+      "Robert Z'Dar",
+      "William Smith",
+      "Richard Roundtree"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/maniac-cop.html"
+}

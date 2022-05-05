@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Head",
+    "year": 1968,
+    "cast": [
+      "The Monkees",
+      "Annette Funicello",
+      "Victor Mature"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/head.html"
+}

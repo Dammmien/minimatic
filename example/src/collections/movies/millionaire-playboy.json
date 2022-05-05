@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Millionaire Playboy",
+    "year": 1940,
+    "cast": [
+      "Joe Penner",
+      "Russ Brown"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/millionaire-playboy.html"
+}

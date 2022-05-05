@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Diplomaniacs",
+    "year": 1933,
+    "cast": [
+      "Bert Wheeler",
+      "Robert Woolsey",
+      "Marjorie White"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/diplomaniacs.html"
+}

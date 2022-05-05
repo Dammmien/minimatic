@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady Ice",
+    "year": 1973,
+    "cast": [
+      "Donald Sutherland",
+      "Jennifer O'Neill"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/lady-ice.html"
+}

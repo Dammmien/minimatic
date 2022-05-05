@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Enchanted Cottage",
+    "year": 1945,
+    "cast": [
+      "Robert Young",
+      "Dorothy McGuire"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-enchanted-cottage.html"
+}

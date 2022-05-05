@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Shark Tale",
+    "year": 2004,
+    "cast": [
+      "Will Smith",
+      "Jack Black",
+      "Renée Zellweger",
+      "Angelina Jolie",
+      "Robert De Niro",
+      "Martin Scorsese"
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/shark-tale.html"
+}

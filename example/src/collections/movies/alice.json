@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Alice",
+    "year": 1990,
+    "cast": [
+      "Mia Farrow",
+      "Joe Mantegna",
+      "William Hurt",
+      "Alec Baldwin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/alice.html"
+}

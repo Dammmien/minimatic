@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Air Raid Wardens",
+    "year": 1943,
+    "cast": [
+      "Laurel and Hardy",
+      "Edgar Kennedy",
+      "Jacqueline White"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/air-raid-wardens.html"
+}

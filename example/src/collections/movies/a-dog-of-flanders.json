@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Dog of Flanders",
+    "year": 1999,
+    "cast": [
+      "Jack Warden",
+      "Jon Voight",
+      "Cheryl Ladd"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/a-dog-of-flanders.html"
+}

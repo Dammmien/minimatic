@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Calling All Marines",
+    "year": 1939,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Helen Mack"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/calling-all-marines.html"
+}

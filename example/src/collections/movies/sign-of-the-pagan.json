@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sign of the Pagan",
+    "year": 1954,
+    "cast": [
+      "Jack Palance",
+      "Jeff Chandler"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/sign-of-the-pagan.html"
+}

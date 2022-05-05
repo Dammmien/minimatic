@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Mad Dog Time",
+    "year": 1996,
+    "cast": [
+      "Jeff Goldblum",
+      "Gabriel Byrne",
+      "Richard Dreyfuss",
+      "Ellen Barkin",
+      "Diane Lane",
+      "Gregory Hines",
+      "Kyle MacLachlan"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/mad-dog-time.html"
+}

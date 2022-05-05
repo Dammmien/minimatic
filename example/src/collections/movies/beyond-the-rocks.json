@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beyond the Rocks",
+    "year": 1922,
+    "cast": [
+      "Gloria Swanson",
+      "Rudolph Valentino"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beyond-the-rocks.html"
+}

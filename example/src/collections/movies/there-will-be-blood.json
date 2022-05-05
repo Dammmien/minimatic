@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "There Will Be Blood",
+    "year": 2007,
+    "cast": [
+      "Daniel Day-Lewis",
+      "Paul Dano",
+      "Dillon Freasier",
+      "Kevin J. O'Connor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/there-will-be-blood.html"
+}

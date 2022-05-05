@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Six Gun Gold",
+    "year": 1941,
+    "cast": [
+      "Tim Holt",
+      "Fern Emmett",
+      "Eddy Waller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/six-gun-gold.html"
+}

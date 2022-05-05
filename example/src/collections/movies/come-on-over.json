@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Come on Over",
+    "year": 1922,
+    "cast": [
+      "Colleen Moore",
+      "Ralph Graves"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/come-on-over.html"
+}

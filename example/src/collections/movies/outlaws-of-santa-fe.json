@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Outlaws of Santa Fe",
+    "year": 1944,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Helen Talbot"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/outlaws-of-santa-fe.html"
+}

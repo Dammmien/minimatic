@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Living It Up",
+    "year": 1954,
+    "cast": [
+      "Dean Martin",
+      "Jerry Lewis",
+      "Janet Leigh"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/living-it-up.html"
+}

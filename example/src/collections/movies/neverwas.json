@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Neverwas",
+    "year": 2005,
+    "cast": [
+      "Aaron Eckhart",
+      "Brittany Murphy",
+      "Ian McKellen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/neverwas.html"
+}

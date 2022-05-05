@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love at Stake",
+    "year": 1987,
+    "cast": [
+      "Patrick Cassidy",
+      "Kelly Preston",
+      "Barbara Carrera"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-at-stake.html"
+}

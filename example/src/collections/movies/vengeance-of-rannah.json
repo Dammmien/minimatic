@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Vengeance of Rannah",
+    "year": 1936,
+    "cast": [
+      "Bob Custer",
+      "Victoria Vinton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/vengeance-of-rannah.html"
+}

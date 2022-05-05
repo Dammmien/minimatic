@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "High Wall",
+    "year": 1947,
+    "cast": [
+      "Robert Taylor",
+      "Audrey Totter"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/high-wall.html"
+}

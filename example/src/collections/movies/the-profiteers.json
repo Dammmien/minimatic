@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Profiteers",
+    "year": 1919,
+    "cast": [
+      "Fannie Ward",
+      "Edwin Stevens"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-profiteers.html"
+}

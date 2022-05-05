@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tropical Heat Wave",
+    "year": 1952,
+    "cast": [
+      "Estelita Rodriguez",
+      "Robert Hutton"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/tropical-heat-wave.html"
+}

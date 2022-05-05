@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Tron: Legacy",
+    "year": 2010,
+    "cast": [
+      "Jeff Bridges",
+      "Garrett Hedlund",
+      "Bruce Boxleitner",
+      "Michael Sheen",
+      "Olivia Wilde",
+      "Beau Garrett",
+      "John Hurt"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/tron--legacy.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cruel Doubt",
+    "year": 1992,
+    "cast": [
+      "Blythe Danner",
+      "Ed Asner",
+      "Gwyneth Paltrow"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/cruel-doubt.html"
+}

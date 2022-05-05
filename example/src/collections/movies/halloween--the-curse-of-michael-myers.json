@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Halloween: The Curse of Michael Myers",
+    "year": 1995,
+    "cast": [
+      "Donald Pleasence",
+      "Paul Rudd"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/halloween--the-curse-of-michael-myers.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "He Wrote a Book",
+    "year": 1916,
+    "cast": [
+      "William Garwood",
+      "Edward Brady"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/he-wrote-a-book.html"
+}

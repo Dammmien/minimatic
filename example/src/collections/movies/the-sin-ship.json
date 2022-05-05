@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sin Ship",
+    "year": 1931,
+    "cast": [
+      "Mary Astor",
+      "Ian Keith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sin-ship.html"
+}

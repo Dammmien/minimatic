@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "John Wick: Chapter 2",
+    "year": 2017,
+    "cast": [
+      "Keanu Reeves",
+      "Common",
+      "Bridget Moynahan",
+      "Ian McShane",
+      "John Leguizamo",
+      "Ruby Rose",
+      "Laurence Fishburne"
+    ],
+    "genres": [
+      "Noir",
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/john-wick--chapter-2.html"
+}

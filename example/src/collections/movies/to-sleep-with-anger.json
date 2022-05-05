@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "To Sleep with Anger",
+    "year": 1990,
+    "cast": [
+      "Danny Glover"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/to-sleep-with-anger.html"
+}

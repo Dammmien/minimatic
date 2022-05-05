@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mothman Prophecies",
+    "year": 2002,
+    "cast": [
+      "Richard Gere",
+      "Laura Linney",
+      "Debra Messing"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mothman-prophecies.html"
+}

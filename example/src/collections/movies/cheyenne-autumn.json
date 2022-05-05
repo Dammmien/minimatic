@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Cheyenne Autumn",
+    "year": 1964,
+    "cast": [
+      "Richard Widmark",
+      "Carroll Baker",
+      "James Stewart",
+      "Edward G. Robinson",
+      "Arthur Kennedy",
+      "Dolores del Río",
+      "Sal Mineo"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cheyenne-autumn.html"
+}

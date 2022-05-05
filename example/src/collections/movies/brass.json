@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Brass",
+    "year": 1923,
+    "cast": [
+      "Monte Blue",
+      "Marie Prevost"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/brass.html"
+}

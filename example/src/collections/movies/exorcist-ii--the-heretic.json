@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Exorcist II: The Heretic",
+    "year": 1977,
+    "cast": [
+      "Linda Blair",
+      "Richard Burton"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/exorcist-ii--the-heretic.html"
+}

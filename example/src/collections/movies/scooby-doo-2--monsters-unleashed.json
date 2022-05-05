@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Scooby-Doo 2: Monsters Unleashed",
+    "year": 2004,
+    "cast": [
+      "Freddie Prinze, Jr.",
+      "Sarah Michelle Gellar",
+      "Matthew Lillard",
+      "Linda Cardellini"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/scooby-doo-2--monsters-unleashed.html"
+}

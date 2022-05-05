@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "African Manhunt",
+    "year": 1955,
+    "cast": [
+      "Myron Healey",
+      "John Kellogg"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/african-manhunt.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Son of Dr. Jekyll",
+    "year": 1951,
+    "cast": [
+      "Louis Hayward",
+      "Jody Lawrance"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-son-of-dr--jekyll.html"
+}

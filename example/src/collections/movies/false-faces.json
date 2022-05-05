@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "False Faces",
+    "year": 1943,
+    "cast": [
+      "Stanley Ridges",
+      "Veda Ann Borg"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/false-faces.html"
+}

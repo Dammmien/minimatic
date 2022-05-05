@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Anchorman: The Legend of Ron Burgundy",
+    "year": 2004,
+    "cast": [
+      "Will Ferrell",
+      "Christina Applegate",
+      "Paul Rudd",
+      "Steve Carell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/anchorman--the-legend-of-ron-burgundy.html"
+}

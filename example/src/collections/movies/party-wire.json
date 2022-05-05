@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Party Wire",
+    "year": 1935,
+    "cast": [
+      "Jean Arthur",
+      "Victor Jory",
+      "Charley Grapewin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/party-wire.html"
+}

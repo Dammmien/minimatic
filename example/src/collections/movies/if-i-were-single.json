@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "If I Were Single",
+    "year": 1927,
+    "cast": [
+      "May McAvoy",
+      "Conrad Nagel",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/if-i-were-single.html"
+}

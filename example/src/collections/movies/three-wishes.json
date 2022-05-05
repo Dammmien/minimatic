@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Wishes",
+    "year": 1995,
+    "cast": [
+      "Patrick Swayze",
+      "Mary Elizabeth Mastrantonio"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/three-wishes.html"
+}

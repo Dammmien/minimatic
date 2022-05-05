@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Gigot",
+    "year": 1962,
+    "cast": [
+      "Jackie Gleason"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gigot.html"
+}

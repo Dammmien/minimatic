@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rattle and Hum",
+    "year": 1988,
+    "cast": [
+      "Bono",
+      "U2"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/rattle-and-hum.html"
+}

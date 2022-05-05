@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "School Ties",
+    "year": 1992,
+    "cast": [
+      "Brendan Fraser",
+      "Chris O'Donnell",
+      "Matt Damon",
+      "Ben Affleck"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/school-ties.html"
+}

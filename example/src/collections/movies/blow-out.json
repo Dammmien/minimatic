@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Blow Out",
+    "year": 1981,
+    "cast": [
+      "John Travolta",
+      "Nancy Allen",
+      "John Lithgow",
+      "Dennis Franz"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/blow-out.html"
+}

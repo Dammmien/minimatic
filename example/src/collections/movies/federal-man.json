@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Federal Man",
+    "year": 1950,
+    "cast": [
+      "William Henry",
+      "Pamela Blake",
+      "Movita Castaneda"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/federal-man.html"
+}

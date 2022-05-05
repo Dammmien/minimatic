@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Hills Have Eyes",
+    "year": 2006,
+    "cast": [
+      "Aaron Stanford",
+      "Emilie de Ravin",
+      "Ted Levine",
+      "Dan Byrd"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-hills-have-eyes.html"
+}

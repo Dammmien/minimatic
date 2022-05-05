@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Silver Lode",
+    "year": 1954,
+    "cast": [
+      "Dan Duryea",
+      "John Payne",
+      "Lizabeth Scott"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/silver-lode.html"
+}

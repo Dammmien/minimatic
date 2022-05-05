@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "F-Man",
+    "year": 1936,
+    "cast": [
+      "Jack Haley",
+      "William Frawley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/f-man.html"
+}

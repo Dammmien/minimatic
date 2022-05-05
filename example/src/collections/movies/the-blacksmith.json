@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Blacksmith",
+    "year": 1922,
+    "cast": [
+      "Buster Keaton",
+      "Virginia Fox"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-blacksmith.html"
+}

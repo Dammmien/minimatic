@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Freedomland",
+    "year": 2006,
+    "cast": [
+      "Samuel L. Jackson",
+      "Julianne Moore"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/freedomland.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Soul Plane",
+    "year": 2004,
+    "cast": [
+      "Snoop Dogg",
+      "Tom Arnold",
+      "Kevin Hart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/soul-plane.html"
+}

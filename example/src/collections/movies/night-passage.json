@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Night Passage",
+    "year": 1957,
+    "cast": [
+      "James Stewart",
+      "Audie Murphy",
+      "Dan Duryea"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/night-passage.html"
+}

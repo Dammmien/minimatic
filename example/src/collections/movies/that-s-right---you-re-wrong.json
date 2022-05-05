@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "That's Right - You're Wrong",
+    "year": 1939,
+    "cast": [
+      "Kay Kyser",
+      "Adolphe Menjou",
+      "Lucille Ball"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-s-right---you-re-wrong.html"
+}

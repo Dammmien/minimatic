@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Lego Batman Movie",
+    "year": 2017,
+    "cast": [
+      "Will Arnett",
+      "Ralph Fiennes",
+      "Rosario Dawson",
+      "Michael Cera",
+      "Zach Galifianakis",
+      "Mariah Carey",
+      "Jenny Slate",
+      "Billy Dee Williams"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy",
+      "Action"
+    ]
+  },
+  "output": "movies/the-lego-batman-movie.html"
+}

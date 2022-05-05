@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+    "year": 2007,
+    "cast": [
+      "Johnny Depp",
+      "Helena Bonham Carter",
+      "Alan Rickman",
+      "Laura Michelle Kelly"
+    ],
+    "genres": [
+      "Musical",
+      "Thriller"
+    ]
+  },
+  "output": "movies/sweeney-todd--the-demon-barber-of-fleet-street.html"
+}

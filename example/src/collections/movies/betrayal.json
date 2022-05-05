@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Betrayal",
+    "year": 1929,
+    "cast": [
+      "Emil Jannings",
+      "Esther Ralston",
+      "Gary Cooper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/betrayal.html"
+}

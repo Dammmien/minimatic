@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Side Streets",
+    "year": 1934,
+    "cast": [
+      "Aline MacMahon",
+      "Ann Dvorak",
+      "Paul Kelly"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/side-streets.html"
+}

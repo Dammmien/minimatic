@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The File on Thelma Jordon",
+    "year": 1950,
+    "cast": [
+      "Wendell Corey",
+      "Barbara Stanwyck"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-file-on-thelma-jordon.html"
+}

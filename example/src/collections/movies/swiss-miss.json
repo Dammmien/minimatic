@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Swiss Miss",
+    "year": 1938,
+    "cast": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "Grete Natzler",
+      "Eric Blore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/swiss-miss.html"
+}

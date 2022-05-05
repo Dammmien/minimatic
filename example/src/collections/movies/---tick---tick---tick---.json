@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "...tick...tick...tick...",
+    "year": 1970,
+    "cast": [
+      "Jim Brown",
+      "George Kennedy",
+      "Fredric March"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/---tick---tick---tick---.html"
+}

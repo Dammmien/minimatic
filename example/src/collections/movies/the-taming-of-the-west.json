@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Taming of the West",
+    "year": 1925,
+    "cast": [
+      "Hoot Gibson",
+      "Marceline Day"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-taming-of-the-west.html"
+}

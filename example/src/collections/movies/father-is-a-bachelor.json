@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Father Is a Bachelor",
+    "year": 1950,
+    "cast": [
+      "William Holden",
+      "Coleen Gray"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/father-is-a-bachelor.html"
+}

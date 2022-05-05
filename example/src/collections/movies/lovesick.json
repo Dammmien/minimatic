@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lovesick",
+    "year": 1983,
+    "cast": [
+      "Dudley Moore",
+      "Alec Guinness",
+      "Elizabeth McGovern"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lovesick.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell Bent",
+    "year": 1918,
+    "cast": [
+      "Harry Carey",
+      "Duke R. Lee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hell-bent.html"
+}

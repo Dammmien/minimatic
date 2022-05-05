@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Land of Wanted Men",
+    "year": 1931,
+    "cast": [
+      "Bill Cody",
+      "Sheila Bromley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/land-of-wanted-men.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Revenant",
+    "year": 2015,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Tom Hardy"
+    ],
+    "genres": [
+      "Western",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-revenant.html"
+}

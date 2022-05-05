@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Twilight for the Gods",
+    "year": 1958,
+    "cast": [
+      "Rock Hudson",
+      "Cyd Charisse",
+      "Arthur Kennedy"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/twilight-for-the-gods.html"
+}

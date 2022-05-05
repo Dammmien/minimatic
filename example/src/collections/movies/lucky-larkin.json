@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lucky Larkin",
+    "year": 1930,
+    "cast": [
+      "Ken Maynard",
+      "Nora Lane"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lucky-larkin.html"
+}

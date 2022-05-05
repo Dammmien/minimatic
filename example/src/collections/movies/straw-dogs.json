@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Straw Dogs",
+    "year": 2011,
+    "cast": [
+      "James Marsden",
+      "Kate Bosworth",
+      "Alexander Skarsgård",
+      "Dominic Purcell",
+      "Laz Alonso",
+      "Willa Holland",
+      "and",
+      "James Woods",
+      "Anson Mount",
+      "Walton Goggins",
+      "Rhys Coiro",
+      "Drew Powell"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/straw-dogs.html"
+}

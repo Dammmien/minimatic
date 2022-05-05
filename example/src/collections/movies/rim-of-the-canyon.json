@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rim of the Canyon",
+    "year": 1949,
+    "cast": [
+      "Gene Autry",
+      "Thurston Hall"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rim-of-the-canyon.html"
+}

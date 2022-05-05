@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Rainbow Man",
+    "year": 1929,
+    "cast": [
+      "Eddie Dowling",
+      "Frankie Darro"
+    ],
+    "genres": [
+      "Musical",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-rainbow-man.html"
+}

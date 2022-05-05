@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Jack of Hearts",
+    "year": 1919,
+    "cast": [
+      "Hoot Gibson",
+      "Jack Perrin"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-jack-of-hearts.html"
+}

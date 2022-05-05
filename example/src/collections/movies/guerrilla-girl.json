@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Guerrilla Girl",
+    "year": 1953,
+    "cast": [
+      "Helmut Dantine",
+      "Irene Champlin"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/guerrilla-girl.html"
+}

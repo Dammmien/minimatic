@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Midnight Run",
+    "year": 1988,
+    "cast": [
+      "Robert De Niro",
+      "Charles Grodin",
+      "Yaphet Kotto",
+      "John Ashton",
+      "Dennis Farina"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/midnight-run.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flight from Ashiya",
+    "year": 1964,
+    "cast": [
+      "Yul Brynner",
+      "Richard Widmark",
+      "George Chakiris"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/flight-from-ashiya.html"
+}

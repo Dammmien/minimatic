@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Save the Last Dance",
+    "year": 2001,
+    "cast": [
+      "Julia Stiles",
+      "Sean Patrick Thomas",
+      "Kerry Washington"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/save-the-last-dance.html"
+}

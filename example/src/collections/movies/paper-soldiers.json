@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paper Soldiers",
+    "year": 2003,
+    "cast": [
+      "Beanie Sigel",
+      "Kevin Hart"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/paper-soldiers.html"
+}

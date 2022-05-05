@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Baby Boom",
+    "year": 1987,
+    "cast": [
+      "Diane Keaton",
+      "Sam Shepard",
+      "Harold Ramis",
+      "Sam Wanamaker",
+      "James Spader"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/baby-boom.html"
+}

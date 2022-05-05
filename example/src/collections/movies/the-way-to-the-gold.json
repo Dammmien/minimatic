@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Way to the Gold",
+    "year": 1957,
+    "cast": [
+      "Jeffrey Hunter",
+      "Sheree North",
+      "Barry Sullivan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-way-to-the-gold.html"
+}

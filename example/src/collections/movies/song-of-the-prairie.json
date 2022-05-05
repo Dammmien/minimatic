@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Song of the Prairie",
+    "year": 1945,
+    "cast": [
+      "Ken Curtis",
+      "June Storey",
+      "Jeff Donnell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/song-of-the-prairie.html"
+}

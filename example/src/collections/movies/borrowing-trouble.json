@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Borrowing Trouble",
+    "year": 1937,
+    "cast": [
+      "Jed Prouty",
+      "Shirley Deane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/borrowing-trouble.html"
+}

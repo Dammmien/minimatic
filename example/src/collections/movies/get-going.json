@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Get Going",
+    "year": 1943,
+    "cast": [
+      "Robert Paige",
+      "Grace McDonald",
+      "Barbara Jo Allen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/get-going.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hop-Along Cassidy",
+    "year": 1935,
+    "cast": [
+      "William Boyd",
+      "James Ellison",
+      "Paula Stone"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hop-along-cassidy.html"
+}

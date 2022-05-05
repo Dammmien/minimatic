@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Swimming with Sharks",
+    "year": 1994,
+    "cast": [
+      "Kevin Spacey",
+      "Frank Whaley",
+      "Michelle Forbes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/swimming-with-sharks.html"
+}

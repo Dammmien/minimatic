@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Wolf",
+    "year": 1994,
+    "cast": [
+      "Jack Nicholson",
+      "Michelle Pfeiffer",
+      "James Spader",
+      "Kate Nelligan",
+      "Christopher Plummer"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/wolf.html"
+}

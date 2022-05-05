@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Celebration Family",
+    "year": 1987,
+    "cast": [
+      "Stephanie Zimbalist",
+      "James Read",
+      "Ed Begley Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/celebration-family.html"
+}

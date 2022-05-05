@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Little Feet",
+    "year": 2013,
+    "cast": [
+      "Rene Cuante-Bautista",
+      "Lana Rockwell",
+      "Nico Rockwell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-feet.html"
+}

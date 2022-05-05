@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sunday",
+    "year": 1997,
+    "cast": [
+      "David Suchet",
+      "Lisa Harrow",
+      "Jared Harris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sunday.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nancy Drew",
+    "year": 2007,
+    "cast": [
+      "Emma Roberts"
+    ],
+    "genres": [
+      "Crime",
+      "Family"
+    ]
+  },
+  "output": "movies/nancy-drew.html"
+}

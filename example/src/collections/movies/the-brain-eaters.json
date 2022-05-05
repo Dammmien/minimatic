@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Brain Eaters",
+    "year": 1958,
+    "cast": [
+      "Ed Nelson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-brain-eaters.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mad Marriage",
+    "year": 1925,
+    "cast": [
+      "Rosemary Davies",
+      "Maurice Costello"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mad-marriage.html"
+}

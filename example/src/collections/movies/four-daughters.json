@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Four Daughters",
+    "year": 1938,
+    "cast": [
+      "Priscilla Lane",
+      "Claude Rains",
+      "John Garfield"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/four-daughters.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fifth Avenue",
+    "year": 1926,
+    "cast": [
+      "Marguerite De La Motte",
+      "Allan Forrest",
+      "Louise Dresser"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fifth-avenue.html"
+}

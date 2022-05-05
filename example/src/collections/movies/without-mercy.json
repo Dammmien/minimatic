@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Without Mercy",
+    "year": 1925,
+    "cast": [
+      "Dorothy Phillips",
+      "Vera Reynolds"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/without-mercy.html"
+}

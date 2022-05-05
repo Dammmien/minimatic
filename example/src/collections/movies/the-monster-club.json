@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Monster Club",
+    "year": 1980,
+    "cast": [
+      "Vincent Price"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-monster-club.html"
+}

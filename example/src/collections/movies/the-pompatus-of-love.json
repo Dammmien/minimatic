@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pompatus of Love",
+    "year": 1996,
+    "cast": [
+      "Jon Cryer",
+      "Mia Sara"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-pompatus-of-love.html"
+}

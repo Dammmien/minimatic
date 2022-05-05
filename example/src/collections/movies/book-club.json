@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Book Club",
+    "year": 2018,
+    "cast": [
+      "Jane Fonda",
+      "Candice Bergen",
+      "Mary Steenburgen",
+      "Diane Keaton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/book-club.html"
+}

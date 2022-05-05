@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cross Fire",
+    "year": 1933,
+    "cast": [
+      "Tom Keene",
+      "Betty Furness"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cross-fire.html"
+}

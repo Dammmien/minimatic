@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Silent Movie",
+    "year": 1976,
+    "cast": [
+      "Mel Brooks",
+      "Dom DeLuise",
+      "Marty Feldman",
+      "Sid Caesar",
+      "Bernadette Peters",
+      "Marcel Marceau",
+      "Anne Bancroft",
+      "Liza Minnelli",
+      "Burt Reynolds",
+      "James Caan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/silent-movie.html"
+}

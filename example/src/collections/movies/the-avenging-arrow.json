@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Avenging Arrow",
+    "year": 1921,
+    "cast": [
+      "Ruth Roland",
+      "Edward Hearn"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-avenging-arrow.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "12 to the Moon",
+    "year": 1960,
+    "cast": [
+      "Ken Clark",
+      "Tom Conway"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/12-to-the-moon.html"
+}

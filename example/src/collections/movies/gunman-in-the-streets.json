@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gunman in the Streets",
+    "year": 1950,
+    "cast": [
+      "Dane Clark",
+      "Simone Signoret"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/gunman-in-the-streets.html"
+}

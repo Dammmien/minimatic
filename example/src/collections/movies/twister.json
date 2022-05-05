@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Twister",
+    "year": 1996,
+    "cast": [
+      "Helen Hunt",
+      "Bill Paxton",
+      "Jami Gertz",
+      "Cary Elwes"
+    ],
+    "genres": [
+      "Disaster"
+    ]
+  },
+  "output": "movies/twister.html"
+}

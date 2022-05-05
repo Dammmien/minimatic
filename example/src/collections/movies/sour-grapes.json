@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sour Grapes",
+    "year": 1998,
+    "cast": [
+      "Steven Weber",
+      "Craig Bierko",
+      "Jennifer Leigh Warren"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sour-grapes.html"
+}

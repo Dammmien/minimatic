@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Running Wild",
+    "year": 1955,
+    "cast": [
+      "William Campbell",
+      "Mamie van Doren",
+      "Keenan Wynn",
+      "Kathleen Case"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/running-wild.html"
+}

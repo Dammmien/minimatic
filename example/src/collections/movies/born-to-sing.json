@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Born to Sing",
+    "year": 1942,
+    "cast": [
+      "Virginia Weidler",
+      "Douglas McPhail"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/born-to-sing.html"
+}

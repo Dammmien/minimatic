@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bride Wars",
+    "year": 2009,
+    "cast": [
+      "Kate Hudson",
+      "Anne Hathaway",
+      "Candice Bergen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bride-wars.html"
+}

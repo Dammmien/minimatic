@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The McConnell Story",
+    "year": 1955,
+    "cast": [
+      "Alan Ladd",
+      "June Allyson"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-mcconnell-story.html"
+}

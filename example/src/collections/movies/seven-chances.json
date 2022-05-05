@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Seven Chances",
+    "year": 1925,
+    "cast": [
+      "Buster Keaton",
+      "T. Roy Barnes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/seven-chances.html"
+}

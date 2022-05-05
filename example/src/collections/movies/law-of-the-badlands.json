@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Law of the Badlands",
+    "year": 1951,
+    "cast": [
+      "Tim Holt",
+      "Joan Dixon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/law-of-the-badlands.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hucksters",
+    "year": 1947,
+    "cast": [
+      "Clark Gable",
+      "Deborah Kerr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hucksters.html"
+}

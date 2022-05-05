@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Family Jewels",
+    "year": 1965,
+    "cast": [
+      "Jerry Lewis",
+      "Sebastian Cabot",
+      "Donna Butterworth"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-family-jewels.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "National Lampoon's Senior Trip",
+    "year": 1995,
+    "cast": [
+      "Matt Frewer",
+      "Tara Strong"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/national-lampoon-s-senior-trip.html"
+}

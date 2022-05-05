@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gremlins",
+    "year": 1984,
+    "cast": [
+      "Zach Galligan",
+      "Phoebe Cates",
+      "Hoyt Axton"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/gremlins.html"
+}

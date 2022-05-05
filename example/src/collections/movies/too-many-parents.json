@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Too Many Parents",
+    "year": 1936,
+    "cast": [
+      "Frances Farmer",
+      "Lester Matthews",
+      "Anne Grey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/too-many-parents.html"
+}

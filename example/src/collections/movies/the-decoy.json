@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Decoy",
+    "year": 1916,
+    "cast": [
+      "William Garwood",
+      "Edward Brady",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-decoy.html"
+}

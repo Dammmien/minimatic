@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Moon Over Harlem",
+    "year": 1939,
+    "cast": [
+      "Bud Harris",
+      "Cora Green"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/moon-over-harlem.html"
+}

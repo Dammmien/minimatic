@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Different Strokes",
+    "year": 1997,
+    "cast": [
+      "Dana Plato",
+      "Bentley Mitchum"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/different-strokes.html"
+}

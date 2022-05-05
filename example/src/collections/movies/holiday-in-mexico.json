@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Holiday in Mexico",
+    "year": 1946,
+    "cast": [
+      "Jane Powell",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/holiday-in-mexico.html"
+}

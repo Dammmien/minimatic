@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hands Up!",
+    "year": 1926,
+    "cast": [
+      "Raymond Griffith",
+      "Virginia Lee Corbin",
+      "Marian Nixon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hands-up-.html"
+}

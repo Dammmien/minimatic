@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Painted Stallion",
+    "year": 1938,
+    "cast": [
+      "Hoot Gibson",
+      "Jack Perrin",
+      "LeRoy Mason"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-painted-stallion.html"
+}

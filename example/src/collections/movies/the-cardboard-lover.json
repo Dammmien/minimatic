@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cardboard Lover",
+    "year": 1928,
+    "cast": [
+      "Marion Davies",
+      "Nils Asther"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-cardboard-lover.html"
+}

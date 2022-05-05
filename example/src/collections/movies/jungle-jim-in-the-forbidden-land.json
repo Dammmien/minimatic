@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jungle Jim in the Forbidden Land",
+    "year": 1952,
+    "cast": [
+      "Johnny Weissmuller",
+      "Angela Greene"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/jungle-jim-in-the-forbidden-land.html"
+}

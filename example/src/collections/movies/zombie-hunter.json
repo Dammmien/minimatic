@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Zombie Hunter",
+    "year": 2013,
+    "cast": [
+      "Danny Trejo",
+      "Martin Copping",
+      "Clare Niederpruem"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/zombie-hunter.html"
+}

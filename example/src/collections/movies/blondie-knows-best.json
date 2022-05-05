@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blondie Knows Best",
+    "year": 1946,
+    "cast": [
+      "Penny Singleton",
+      "Arthur Lake"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blondie-knows-best.html"
+}

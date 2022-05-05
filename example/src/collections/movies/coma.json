@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Coma",
+    "year": 1978,
+    "cast": [
+      "Geneviève Bujold",
+      "Michael Douglas",
+      "Richard Widmark",
+      "Elizabeth Ashley",
+      "Rip Torn"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/coma.html"
+}

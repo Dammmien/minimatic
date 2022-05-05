@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lazy Lightning",
+    "year": 1926,
+    "cast": [
+      "Art Acord",
+      "Fay Wray"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lazy-lightning.html"
+}

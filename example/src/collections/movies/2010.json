@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "2010",
+    "year": 1984,
+    "cast": [
+      "Roy Scheider",
+      "Helen Mirren",
+      "John Lithgow",
+      "Bob Balaban",
+      "Dana Elcar"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/2010.html"
+}

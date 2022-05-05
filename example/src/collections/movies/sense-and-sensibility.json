@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sense and Sensibility",
+    "year": 1995,
+    "cast": [
+      "Emma Thompson",
+      "Alan Rickman",
+      "Kate Winslet",
+      "Hugh Grant"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sense-and-sensibility.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Doctor",
+    "year": 1991,
+    "cast": [
+      "William Hurt",
+      "Christine Lahti",
+      "Mandy Patinkin",
+      "Elizabeth Perkins",
+      "Adam Arkin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-doctor.html"
+}

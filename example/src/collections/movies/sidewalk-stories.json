@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sidewalk Stories",
+    "year": 1989,
+    "cast": [
+      "Tom Alpern",
+      "Nicole Alysia"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sidewalk-stories.html"
+}

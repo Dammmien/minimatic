@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night into Morning",
+    "year": 1951,
+    "cast": [
+      "Ray Milland",
+      "Nancy Davis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/night-into-morning.html"
+}

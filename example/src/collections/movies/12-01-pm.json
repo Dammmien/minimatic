@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "12:01 PM",
+    "year": 1990,
+    "cast": [
+      "Kurtwood Smith"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/12-01-pm.html"
+}

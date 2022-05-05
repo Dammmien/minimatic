@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Merry Friggin' Christmas",
+    "year": 2014,
+    "cast": [
+      "Robin Williams",
+      "Joel McHale",
+      "Clark Duke",
+      "Oliver Platt"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-merry-friggin--christmas.html"
+}

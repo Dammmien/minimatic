@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Prisoners of the Casbah",
+    "year": 1953,
+    "cast": [
+      "Gloria Grahame",
+      "Cesar Romero",
+      "Turhan Bey"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/prisoners-of-the-casbah.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dark Manhattan",
+    "year": 1937,
+    "cast": [
+      "Ralph Cooper",
+      "Clarence Brooks",
+      "Cleo Herndon"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/dark-manhattan.html"
+}

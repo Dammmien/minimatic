@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Oklahoma Cyclone",
+    "year": 1930,
+    "cast": [
+      "Bob Steele",
+      "Slim Whitaker"
+    ],
+    "genres": [
+      "Western",
+      "Drama"
+    ]
+  },
+  "output": "movies/oklahoma-cyclone.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I'll Remember April",
+    "year": 1945,
+    "cast": [
+      "Gloria Jean",
+      "Kirby Grant"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/i-ll-remember-april.html"
+}

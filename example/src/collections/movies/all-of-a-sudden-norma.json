@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "All of a Sudden Norma",
+    "year": 1919,
+    "cast": [
+      "Bessie Barriscale",
+      "Joseph J. Dowling"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/all-of-a-sudden-norma.html"
+}

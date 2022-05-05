@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mark of the Gorilla",
+    "year": 1950,
+    "cast": [
+      "Johnny Weissmuller",
+      "Trudy Marshall",
+      "Suzanne Dalbert"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/mark-of-the-gorilla.html"
+}

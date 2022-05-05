@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cheers of the Crowd",
+    "year": 1935,
+    "cast": [
+      "Russell Hopton",
+      "Irene Ware"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cheers-of-the-crowd.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Saddle Leather Law",
+    "year": 1944,
+    "cast": [
+      "Charles Starrett",
+      "Dub Taylor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/saddle-leather-law.html"
+}

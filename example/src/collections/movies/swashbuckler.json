@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Swashbuckler",
+    "year": 1976,
+    "cast": [
+      "Robert Shaw",
+      "James Earl Jones",
+      "Geneviève Bujold"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/swashbuckler.html"
+}

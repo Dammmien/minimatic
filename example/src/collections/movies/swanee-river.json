@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Swanee River",
+    "year": 1939,
+    "cast": [
+      "Don Ameche",
+      "Andrea Leeds"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/swanee-river.html"
+}

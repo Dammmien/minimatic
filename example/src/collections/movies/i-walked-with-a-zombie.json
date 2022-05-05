@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Walked with a Zombie",
+    "year": 1943,
+    "cast": [
+      "Frances Dee",
+      "Tom Conway"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/i-walked-with-a-zombie.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Double Life",
+    "year": 1947,
+    "cast": [
+      "Ronald Colman",
+      "Signe Hasso",
+      "Shelley Winters"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/a-double-life.html"
+}

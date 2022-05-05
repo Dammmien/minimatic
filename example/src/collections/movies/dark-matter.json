@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dark Matter",
+    "year": 2007,
+    "cast": [
+      "Liu Ye",
+      "Aidan Quinn",
+      "Meryl Streep"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dark-matter.html"
+}

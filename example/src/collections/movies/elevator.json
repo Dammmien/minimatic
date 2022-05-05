@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Elevator",
+    "year": 2012,
+    "cast": [
+      "Christopher Backus",
+      "Anita Briem",
+      "John Getz",
+      "The Pace Twins",
+      "Devin Ratray"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/elevator.html"
+}

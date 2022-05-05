@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sunshine Boys",
+    "year": 1975,
+    "cast": [
+      "Walter Matthau",
+      "George Burns",
+      "Richard Benjamin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-sunshine-boys.html"
+}

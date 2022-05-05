@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rosencrantz & Guildenstern Are Dead",
+    "year": 1990,
+    "cast": [
+      "Tim Roth",
+      "Gary Oldman",
+      "Richard Dreyfuss"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rosencrantz---guildenstern-are-dead.html"
+}

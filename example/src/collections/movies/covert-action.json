@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Covert Action",
+    "year": 1978,
+    "cast": [
+      "David Janssen",
+      "Arthur Kennedy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/covert-action.html"
+}

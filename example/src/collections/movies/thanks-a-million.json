@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Thanks a Million",
+    "year": 1935,
+    "cast": [
+      "Dick Powell",
+      "Raymond Walburn",
+      "Patsy Kelly"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/thanks-a-million.html"
+}

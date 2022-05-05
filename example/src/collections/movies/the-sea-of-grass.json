@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sea of Grass",
+    "year": 1947,
+    "cast": [
+      "Spencer Tracy",
+      "Katharine Hepburn",
+      "Melvyn Douglas"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-sea-of-grass.html"
+}

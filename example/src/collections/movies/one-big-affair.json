@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Big Affair",
+    "year": 1952,
+    "cast": [
+      "Evelyn Keyes",
+      "Mary Anderson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-big-affair.html"
+}

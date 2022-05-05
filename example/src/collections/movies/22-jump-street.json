@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "22 Jump Street",
+    "year": 2014,
+    "cast": [
+      "Channing Tatum",
+      "Jonah Hill",
+      "Ice Cube",
+      "Peter Stormare",
+      "Dave Franco"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/22-jump-street.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cowboy Star",
+    "year": 1936,
+    "cast": [
+      "Charles Starrett",
+      "Iris Meredith"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-cowboy-star.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Strange Magic",
+    "year": 2015,
+    "cast": [
+      "Alan Cumming",
+      "Evan Rachel Wood",
+      "Kristin Chenoweth",
+      "Maya Rudolph"
+    ],
+    "genres": [
+      "Animated",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/strange-magic.html"
+}

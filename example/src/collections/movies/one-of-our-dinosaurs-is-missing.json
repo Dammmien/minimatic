@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One of Our Dinosaurs Is Missing",
+    "year": 1975,
+    "cast": [
+      "Peter Ustinov",
+      "Helen Hayes"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/one-of-our-dinosaurs-is-missing.html"
+}

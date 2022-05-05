@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Saw VI",
+    "year": 2009,
+    "cast": [
+      "Tobin Bell",
+      "Costas Mandylor",
+      "Shawnee Smith",
+      "Tanedra Howard",
+      "Betsy Russell",
+      "Mark Rolston",
+      "Peter Outerbridge"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/saw-vi.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Menashe",
+    "year": 2017,
+    "cast": [
+      "Menashe Lustig",
+      "Ruben Nidorski",
+      "Yoel Weisshaus",
+      "Meyer Schwartz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/menashe.html"
+}

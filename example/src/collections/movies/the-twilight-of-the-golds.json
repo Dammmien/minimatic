@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Twilight of the Golds",
+    "year": 1997,
+    "cast": [
+      "Jennifer Beals",
+      "Brendan Fraser"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-twilight-of-the-golds.html"
+}

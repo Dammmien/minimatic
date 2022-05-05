@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Death of a Champion",
+    "year": 1939,
+    "cast": [
+      "Virginia Dale",
+      "Donald O'Connor"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/death-of-a-champion.html"
+}

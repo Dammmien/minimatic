@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Is th' Life",
+    "year": 1914,
+    "cast": [
+      "Charlotte Burton",
+      "George Field",
+      "Edward Coxen",
+      "Edith Borella",
+      "John Steppling"
+    ],
+    "genres": []
+  },
+  "output": "movies/this-is-th--life.html"
+}

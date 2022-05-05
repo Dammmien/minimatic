@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Outcasts",
+    "year": 2017,
+    "cast": [
+      "Victoria Justice",
+      "Eden Sher",
+      "Ashley Rickards",
+      "Claudia Lee",
+      "Katie Chang",
+      "Peyton List",
+      "Avan Jogia",
+      "Will Peltz",
+      "Harry Katzman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-outcasts.html"
+}

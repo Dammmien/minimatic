@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "My Dog Skip",
+    "year": 2000,
+    "cast": [
+      "Frankie Muniz",
+      "Diane Lane",
+      "Luke Wilson",
+      "Kevin Bacon"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/my-dog-skip.html"
+}

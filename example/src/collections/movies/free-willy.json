@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Free Willy",
+    "year": 1993,
+    "cast": [
+      "Jason James Richter",
+      "Lori Petty",
+      "Michael Madsen",
+      "Jayne Atkinson",
+      "August Schellenberg"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/free-willy.html"
+}

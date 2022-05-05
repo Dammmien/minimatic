@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mutiny",
+    "year": 1952,
+    "cast": [
+      "Mark Stevens",
+      "Angela Lansbury"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/mutiny.html"
+}

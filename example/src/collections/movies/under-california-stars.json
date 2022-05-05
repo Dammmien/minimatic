@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Under California Stars",
+    "year": 1948,
+    "cast": [
+      "Roy Rogers",
+      "Jane Frazee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/under-california-stars.html"
+}

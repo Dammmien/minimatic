@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mystery of Mr. Wong",
+    "year": 1939,
+    "cast": [
+      "Boris Karloff",
+      "Grant Withers",
+      "Dorothy Tree"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-mystery-of-mr--wong.html"
+}

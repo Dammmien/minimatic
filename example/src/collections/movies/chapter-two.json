@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Chapter Two",
+    "year": 1979,
+    "cast": [
+      "James Caan",
+      "Marsha Mason",
+      "Joseph Bologna",
+      "Valerie Harper"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/chapter-two.html"
+}

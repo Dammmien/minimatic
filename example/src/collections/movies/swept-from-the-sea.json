@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Swept from the Sea",
+    "year": 1997,
+    "cast": [
+      "Rachel Weisz",
+      "Ian McKellen",
+      "Kathy Bates"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/swept-from-the-sea.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gorilla at Large",
+    "year": 1954,
+    "cast": [
+      "Cameron Mitchell",
+      "Anne Bancroft",
+      "Lee J. Cobb"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/gorilla-at-large.html"
+}

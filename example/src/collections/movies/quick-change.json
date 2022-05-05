@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Quick Change",
+    "year": 1990,
+    "cast": [
+      "Bill Murray",
+      "Geena Davis",
+      "Jason Robards",
+      "Randy Quaid",
+      "Tony Shalhoub",
+      "Phil Hartman"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/quick-change.html"
+}

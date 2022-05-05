@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dirty Game",
+    "year": 1965,
+    "cast": [
+      "Henry Fonda",
+      "Robert Ryan"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/the-dirty-game.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Knights of the Round Table",
+    "year": 1953,
+    "cast": [
+      "Robert Taylor",
+      "Ava Gardner",
+      "Mel Ferrer"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/knights-of-the-round-table.html"
+}

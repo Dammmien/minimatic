@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Red Hot Rhythm",
+    "year": 1929,
+    "cast": [
+      "Alan Hale",
+      "Kathryn Crawford"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/red-hot-rhythm.html"
+}

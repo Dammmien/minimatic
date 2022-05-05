@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Busgirl",
+    "year": 2006,
+    "cast": [
+      "Leah Miller"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/busgirl.html"
+}

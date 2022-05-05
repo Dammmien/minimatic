@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Yogi Bear",
+    "year": 2010,
+    "cast": [
+      "Dan Aykroyd",
+      "Justin Timberlake",
+      "Anna Faris",
+      "Tom Cavanagh",
+      "T. J. Miller"
+    ],
+    "genres": [
+      "Family",
+      "Live Action"
+    ]
+  },
+  "output": "movies/yogi-bear.html"
+}

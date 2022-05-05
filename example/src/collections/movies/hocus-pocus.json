@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Hocus Pocus",
+    "year": 1993,
+    "cast": [
+      "Bette Midler",
+      "Sarah Jessica Parker",
+      "Kathy Najimy",
+      "Omri Katz",
+      "Thora Birch",
+      "Vinessa Shaw"
+    ],
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/hocus-pocus.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Mary Queen of Scots",
+    "year": 2018,
+    "cast": [
+      "Saoirse Ronan",
+      "Margot Robbie",
+      "Jack Lowden",
+      "Martin Compston",
+      "Joe Alwyn",
+      "Brendan Coyle",
+      "David Tennant",
+      "Guy Pearce"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/mary-queen-of-scots.html"
+}

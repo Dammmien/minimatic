@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Miss Brewster's Millions",
+    "year": 1926,
+    "cast": [
+      "Bebe Daniels",
+      "Warner Baxter",
+      "Ford Sterling"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/miss-brewster-s-millions.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Chaperone",
+    "year": 2011,
+    "cast": [
+      "Paul \"Triple H\" Levesque",
+      "Ariel Winter",
+      "Kevin Corrigan",
+      "José Zúñiga",
+      "Yeardley Smith",
+      "Kevin Rankin",
+      "Enrico Colantoni"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/the-chaperone.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gentlemen Prefer Blondes",
+    "year": 1953,
+    "cast": [
+      "Marilyn Monroe",
+      "Jane Russell"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/gentlemen-prefer-blondes.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Under the Silver Lake",
+    "year": 2018,
+    "cast": [
+      "Andrew Garfield",
+      "Riley Keough",
+      "Topher Grace",
+      "Zosia Mamet",
+      "Jimmi Simpson",
+      "Luke Baines",
+      "Patrick Fischler"
+    ],
+    "genres": [
+      "Noir",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/under-the-silver-lake.html"
+}

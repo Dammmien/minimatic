@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The County Chairman",
+    "year": 1935,
+    "cast": [
+      "Will Rogers",
+      "Evelyn Venable"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-county-chairman.html"
+}

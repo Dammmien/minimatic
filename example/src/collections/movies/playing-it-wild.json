@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Playing It Wild",
+    "year": 1923,
+    "cast": [
+      "Edith Johnson",
+      "Edmund Cobb"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/playing-it-wild.html"
+}

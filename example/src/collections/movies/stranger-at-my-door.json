@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stranger at My Door",
+    "year": 1956,
+    "cast": [
+      "Macdonald Carey",
+      "Patricia Medina"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/stranger-at-my-door.html"
+}

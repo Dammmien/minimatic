@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Yearling",
+    "year": 1994,
+    "cast": [
+      "Peter Strauss",
+      "Jean Smart"
+    ],
+    "genres": [
+      "Family",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-yearling.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Alex the Great",
+    "year": 1928,
+    "cast": [
+      "Richard \"Skeets\" Gallagher",
+      "Albert Conti"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/alex-the-great.html"
+}

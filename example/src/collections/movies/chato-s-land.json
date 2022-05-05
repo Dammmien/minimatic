@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Chato's Land",
+    "year": 1972,
+    "cast": [
+      "Charles Bronson",
+      "Jack Palance",
+      "James Whitmore",
+      "Richard Basehart",
+      "Ralph Waite",
+      "Simon Oakland"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/chato-s-land.html"
+}

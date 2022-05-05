@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "TerrorVision",
+    "year": 1986,
+    "cast": [
+      "Chad Allen",
+      "Diane Franklin"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/terrorvision.html"
+}

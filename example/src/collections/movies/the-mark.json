@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mark",
+    "year": 1961,
+    "cast": [
+      "Stuart Whitman",
+      "Rod Steiger"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mark.html"
+}

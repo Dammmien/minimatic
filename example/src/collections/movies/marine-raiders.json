@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Marine Raiders",
+    "year": 1944,
+    "cast": [
+      "Pat O'Brien",
+      "Robert Ryan",
+      "Ruth Hussey"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/marine-raiders.html"
+}

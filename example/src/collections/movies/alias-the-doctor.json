@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Alias the Doctor",
+    "year": 1932,
+    "cast": [
+      "Richard Barthelmess",
+      "Marian Marsh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/alias-the-doctor.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Guilt Trip",
+    "year": 2012,
+    "cast": [
+      "Barbra Streisand",
+      "Seth Rogen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-guilt-trip.html"
+}

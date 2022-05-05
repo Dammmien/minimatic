@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Footlight Parade",
+    "year": 1933,
+    "cast": [
+      "James Cagney",
+      "Joan Blondell",
+      "Ruby Keeler"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/footlight-parade.html"
+}

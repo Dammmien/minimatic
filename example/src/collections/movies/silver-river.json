@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Silver River",
+    "year": 1948,
+    "cast": [
+      "Errol Flynn",
+      "Ann Sheridan",
+      "Thomas Mitchell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/silver-river.html"
+}

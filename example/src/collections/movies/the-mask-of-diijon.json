@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mask of Diijon",
+    "year": 1946,
+    "cast": [
+      "Erich von Stroheim",
+      "Jeanne Bates"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mask-of-diijon.html"
+}

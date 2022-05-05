@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "All That Jazz",
+    "year": 1979,
+    "cast": [
+      "Roy Scheider",
+      "Jessica Lange",
+      "Ann Reinking",
+      "Ben Vereen"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/all-that-jazz.html"
+}

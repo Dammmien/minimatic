@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prairie Chickens",
+    "year": 1943,
+    "cast": [
+      "Raymond Hatton",
+      "Rosemary LaPlanche"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/prairie-chickens.html"
+}

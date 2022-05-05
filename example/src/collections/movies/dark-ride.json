@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dark Ride",
+    "year": 2006,
+    "cast": [
+      "Jamie-Lynn Sigler",
+      "Patrick Renna",
+      "Jennifer Tisdale"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dark-ride.html"
+}

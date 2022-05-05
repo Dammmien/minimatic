@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lara Croft: Tomb Raider",
+    "year": 2001,
+    "cast": [
+      "Angelina Jolie",
+      "Jon Voight",
+      "Iain Glen"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/lara-croft--tomb-raider.html"
+}

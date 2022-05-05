@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Captain Carey, U.S.A.",
+    "year": 1950,
+    "cast": [
+      "Alan Ladd",
+      "Wanda Hendrix"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/captain-carey--u-s-a-.html"
+}

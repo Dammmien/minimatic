@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Headline Shooter",
+    "year": 1933,
+    "cast": [
+      "William Gargan",
+      "Frances Dee",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/headline-shooter.html"
+}

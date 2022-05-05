@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "It Might Get Loud",
+    "year": 2009,
+    "cast": [
+      "The careers and styles of",
+      "Jimmy Page",
+      "The Edge",
+      "and",
+      "Jack White"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/it-might-get-loud.html"
+}

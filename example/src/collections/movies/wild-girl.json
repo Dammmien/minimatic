@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild Girl",
+    "year": 1932,
+    "cast": [
+      "Charles Farrell",
+      "Joan Bennett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wild-girl.html"
+}

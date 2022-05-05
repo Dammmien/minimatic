@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Shock Punch",
+    "year": 1925,
+    "cast": [
+      "Richard Dix",
+      "Frances Howard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-shock-punch.html"
+}

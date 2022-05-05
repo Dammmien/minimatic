@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Kid Ranger",
+    "year": 1936,
+    "cast": [
+      "Bob Steele",
+      "William Farnum",
+      "Joan Barclay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-kid-ranger.html"
+}

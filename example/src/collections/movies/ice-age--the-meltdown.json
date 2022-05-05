@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ice Age: The Meltdown",
+    "year": 2006,
+    "cast": [
+      "Ray Romano",
+      "John Leguizamo",
+      "Denis Leary",
+      "Queen Latifah"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/ice-age--the-meltdown.html"
+}

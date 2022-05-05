@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Malcolm X",
+    "year": 1992,
+    "cast": [
+      "Denzel Washington",
+      "Angela Bassett",
+      "Spike Lee",
+      "Albert Hall",
+      "Delroy Lindo"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/malcolm-x.html"
+}

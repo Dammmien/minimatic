@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fancy Baggage",
+    "year": 1929,
+    "cast": [
+      "Audrey Ferris",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fancy-baggage.html"
+}

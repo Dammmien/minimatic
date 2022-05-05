@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Twenty Million Sweethearts",
+    "year": 1934,
+    "cast": [
+      "Ginger Rogers",
+      "Dick Powell",
+      "Ted Fio Rito"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/twenty-million-sweethearts.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bomba on Panther Island",
+    "year": 1949,
+    "cast": [
+      "Johnny Sheffield",
+      "Allene Roberts"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/bomba-on-panther-island.html"
+}

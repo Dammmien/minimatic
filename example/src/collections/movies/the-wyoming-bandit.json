@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wyoming Bandit",
+    "year": 1949,
+    "cast": [
+      "Allan Lane",
+      "Eddy Waller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-wyoming-bandit.html"
+}

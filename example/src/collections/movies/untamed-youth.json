@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Untamed Youth",
+    "year": 1957,
+    "cast": [
+      "Mamie Van Doren",
+      "Lori Nelson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/untamed-youth.html"
+}

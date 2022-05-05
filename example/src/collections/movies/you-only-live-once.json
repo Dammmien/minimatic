@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "You Only Live Once",
+    "year": 1937,
+    "cast": [
+      "Sylvia Sidney",
+      "Henry Fonda",
+      "Barton MacLane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/you-only-live-once.html"
+}

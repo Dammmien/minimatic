@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "The Stand",
+    "year": 1994,
+    "cast": [
+      "Gary Sinise",
+      "Molly Ringwald",
+      "Rob Lowe",
+      "Ruby Dee",
+      "Laura San Giacomo",
+      "Jamey Sheridan",
+      "Miguel Ferrer",
+      "Ossie Davis",
+      "Adam Storke",
+      "Corin Nemec",
+      "Ray Walston",
+      "Matt Frewer"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-stand.html"
+}

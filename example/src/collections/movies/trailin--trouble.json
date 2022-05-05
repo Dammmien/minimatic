@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trailin' Trouble",
+    "year": 1937,
+    "cast": [
+      "Ken Maynard",
+      "Lona Andre"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/trailin--trouble.html"
+}

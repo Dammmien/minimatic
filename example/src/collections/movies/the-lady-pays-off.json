@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lady Pays Off",
+    "year": 1951,
+    "cast": [
+      "Linda Darnell",
+      "Stephen McNally",
+      "Gigi Perreau"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lady-pays-off.html"
+}

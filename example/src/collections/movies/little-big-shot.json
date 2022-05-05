@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Little Big Shot",
+    "year": 1935,
+    "cast": [
+      "Robert Armstrong",
+      "Sybil Jason",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-big-shot.html"
+}

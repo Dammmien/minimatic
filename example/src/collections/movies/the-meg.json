@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Meg",
+    "year": 2018,
+    "cast": [
+      "Jason Statham",
+      "Li Bingbing",
+      "Rainn Wilson",
+      "Ruby Rose",
+      "Winston Chao",
+      "Cliff Curtis"
+    ],
+    "genres": [
+      "Action",
+      "Horror",
+      "Thriller",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-meg.html"
+}

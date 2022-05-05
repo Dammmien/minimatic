@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Reality Bites",
+    "year": 1994,
+    "cast": [
+      "Winona Ryder",
+      "Ethan Hawke",
+      "Ben Stiller",
+      "Janeane Garofalo",
+      "Steve Zahn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/reality-bites.html"
+}

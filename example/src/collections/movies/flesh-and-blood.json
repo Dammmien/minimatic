@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flesh and Blood",
+    "year": 1985,
+    "cast": [
+      "Rutger Hauer",
+      "Jennifer Jason Leigh",
+      "Ronald Lacey"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/flesh-and-blood.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Go",
+    "year": 1999,
+    "cast": [
+      "Sarah Polley",
+      "Desmond Askew",
+      "Scott Wolf",
+      "Katie Holmes",
+      "Jay Mohr",
+      "Taye Diggs"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/go.html"
+}

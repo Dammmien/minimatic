@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Five Minutes to Live",
+    "year": 1961,
+    "cast": [
+      "Johnny Cash",
+      "Cay Forrester"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/five-minutes-to-live.html"
+}

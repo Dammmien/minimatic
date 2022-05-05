@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Burning the Wind",
+    "year": 1928,
+    "cast": [
+      "Hoot Gibson",
+      "Virginia Brown Faire"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/burning-the-wind.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "year": 2008,
+    "cast": [
+      "Harrison Ford",
+      "Karen Allen",
+      "Shia LaBeouf",
+      "Cate Blanchett",
+      "Jim Broadbent",
+      "Ray Winstone"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/indiana-jones-and-the-kingdom-of-the-crystal-skull.html"
+}

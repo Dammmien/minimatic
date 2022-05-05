@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scenes from a Mall",
+    "year": 1991,
+    "cast": [
+      "Woody Allen",
+      "Bette Midler"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/scenes-from-a-mall.html"
+}

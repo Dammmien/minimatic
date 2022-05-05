@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Philadelphia Story",
+    "year": 1940,
+    "cast": [
+      "Cary Grant",
+      "Katharine Hepburn",
+      "James Stewart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-philadelphia-story.html"
+}

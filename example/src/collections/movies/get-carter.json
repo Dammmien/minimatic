@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Get Carter",
+    "year": 2000,
+    "cast": [
+      "Sylvester Stallone",
+      "Rhona Mitra",
+      "Michael Caine",
+      "Rachael Leigh Cook",
+      "Miranda Richardson",
+      "Mickey Rourke"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/get-carter.html"
+}

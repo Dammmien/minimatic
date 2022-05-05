@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Boomerang",
+    "year": 1992,
+    "cast": [
+      "Eddie Murphy",
+      "Robin Givens",
+      "Halle Berry"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/boomerang.html"
+}

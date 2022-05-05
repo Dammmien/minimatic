@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Wyatt Earp",
+    "year": 1994,
+    "cast": [
+      "Kevin Costner",
+      "Gene Hackman",
+      "Dennis Quaid",
+      "Isabella Rossellini",
+      "Michael Madsen",
+      "Mark Harmon",
+      "Mare Winningham",
+      "JoBeth Williams",
+      "Tom Sizemore"
+    ],
+    "genres": [
+      "Western",
+      "Biography"
+    ]
+  },
+  "output": "movies/wyatt-earp.html"
+}

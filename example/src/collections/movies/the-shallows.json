@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Shallows",
+    "year": 2016,
+    "cast": [
+      "Blake Lively"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-shallows.html"
+}

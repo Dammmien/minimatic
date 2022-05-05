@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Woodcock",
+    "year": 2007,
+    "cast": [
+      "Billy Bob Thornton",
+      "Seann William Scott",
+      "Susan Sarandon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--woodcock.html"
+}

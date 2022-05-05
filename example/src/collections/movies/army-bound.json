@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Army Bound",
+    "year": 1952,
+    "cast": [
+      "Stanley Clements",
+      "Karen Sharpe"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/army-bound.html"
+}

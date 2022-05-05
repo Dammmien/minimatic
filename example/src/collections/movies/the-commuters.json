@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Commuters",
+    "year": 1915,
+    "cast": [
+      "Irene Fenwick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-commuters.html"
+}

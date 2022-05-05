@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Very Long Engagement",
+    "year": 2004,
+    "cast": [
+      "Audrey Tautou",
+      "Gaspard Ulliel",
+      "Jodie Foster"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/a-very-long-engagement.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Ernest Saves Christmas",
+    "year": 1988,
+    "cast": [
+      "Jim Varney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ernest-saves-christmas.html"
+}

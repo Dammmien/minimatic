@@ -1,0 +1,30 @@
+{
+  "data": {
+    "title": "Justice League",
+    "year": 2017,
+    "cast": [
+      "Ben Affleck",
+      "Henry Cavill",
+      "Gal Gadot",
+      "Jason Momoa",
+      "Ezra Miller",
+      "Ray Fisher",
+      "Amy Adams",
+      "Jesse Eisenberg",
+      "Amber Heard",
+      "Jeremy Irons",
+      "J. K. Simmons",
+      "Willem Dafoe",
+      "Julian Lewis Jones",
+      "Ciarán Hinds"
+    ],
+    "genres": [
+      "Superhero",
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/justice-league.html"
+}

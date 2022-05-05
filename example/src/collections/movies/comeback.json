@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Comeback",
+    "year": 1982,
+    "cast": [
+      "Animals",
+      "Eric Burdon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/comeback.html"
+}

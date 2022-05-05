@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fair Wind to Java",
+    "year": 1953,
+    "cast": [
+      "Fred MacMurray",
+      "Vera Ralston",
+      "Victor McLaglen"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/fair-wind-to-java.html"
+}

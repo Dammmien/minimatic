@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hurdy-Gurdy Hare",
+    "year": 1950,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/hurdy-gurdy-hare.html"
+}

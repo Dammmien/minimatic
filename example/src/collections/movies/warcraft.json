@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Warcraft",
+    "year": 2016,
+    "cast": [
+      "Travis Fimmel",
+      "Ben Foster"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/warcraft.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trooper 77",
+    "year": 1926,
+    "cast": [
+      "Herbert Rawlinson",
+      "Hazel Deane"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/trooper-77.html"
+}

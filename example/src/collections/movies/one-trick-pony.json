@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "One Trick Pony",
+    "year": 1980,
+    "cast": [
+      "Paul Simon",
+      "Rip Torn",
+      "Blair Brown",
+      "Joan Hackett"
+    ],
+    "genres": [
+      "Musical",
+      "Drama"
+    ]
+  },
+  "output": "movies/one-trick-pony.html"
+}

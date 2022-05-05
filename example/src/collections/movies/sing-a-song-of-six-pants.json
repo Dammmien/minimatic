@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sing a Song of Six Pants",
+    "year": 1947,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/sing-a-song-of-six-pants.html"
+}

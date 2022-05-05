@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "New Jack City",
+    "year": 1991,
+    "cast": [
+      "Wesley Snipes",
+      "Ice-T",
+      "Mario Van Peebles",
+      "Chris Rock",
+      "Judd Nelson"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/new-jack-city.html"
+}

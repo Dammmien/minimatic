@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Some Came Running",
+    "year": 1958,
+    "cast": [
+      "Frank Sinatra",
+      "Dean Martin",
+      "Shirley MacLaine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/some-came-running.html"
+}

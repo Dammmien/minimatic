@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Man Must Live",
+    "year": 1925,
+    "cast": [
+      "Richard Dix",
+      "Jacqueline Logan"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/a-man-must-live.html"
+}

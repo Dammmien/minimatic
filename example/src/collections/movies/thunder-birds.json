@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thunder Birds",
+    "year": 1942,
+    "cast": [
+      "Gene Tierney",
+      "Preston Foster"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/thunder-birds.html"
+}

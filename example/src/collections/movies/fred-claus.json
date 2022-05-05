@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fred Claus",
+    "year": 2007,
+    "cast": [
+      "Vince Vaughn",
+      "Paul Giamatti"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fred-claus.html"
+}

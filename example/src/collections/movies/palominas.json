@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Palominas",
+    "year": 2013,
+    "cast": [
+      "Buck Taylor",
+      "Daryl Hannah",
+      "Wes Studi",
+      "Ryan Merriman",
+      "Michael Parks"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/palominas.html"
+}

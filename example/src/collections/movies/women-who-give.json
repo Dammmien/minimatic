@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Women Who Give",
+    "year": 1924,
+    "cast": [
+      "Barbara Bedford",
+      "Frank Keenan",
+      "Renée Adorée"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/women-who-give.html"
+}

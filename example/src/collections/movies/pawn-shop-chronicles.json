@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Pawn Shop Chronicles",
+    "year": 2013,
+    "cast": [
+      "Paul Walker",
+      "Matt Dillon",
+      "Brendan Fraser",
+      "Kevin Rankin",
+      "Vincent D'Onofrio",
+      "Norman Reedus"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/pawn-shop-chronicles.html"
+}

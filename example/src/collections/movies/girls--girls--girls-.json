@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Girls! Girls! Girls!",
+    "year": 1962,
+    "cast": [
+      "Elvis Presley",
+      "Stella Stevens",
+      "Laurel Goodwin"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/girls--girls--girls-.html"
+}

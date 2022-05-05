@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Idea Girl",
+    "year": 1946,
+    "cast": [
+      "Jess Barker",
+      "Julie Bishop",
+      "Alan Mowbray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/idea-girl.html"
+}

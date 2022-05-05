@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fool's Paradise",
+    "year": 1921,
+    "cast": [
+      "Conrad Nagel",
+      "Mildred Harris",
+      "Theodore Kosloff",
+      "Baby Peggy"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/fool-s-paradise.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Bond",
+    "year": 1918,
+    "cast": [
+      "Charles Chaplin",
+      "Edna Purviance",
+      "Sydney Chaplin"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-bond.html"
+}

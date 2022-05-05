@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hell Night",
+    "year": 1981,
+    "cast": [
+      "Linda Blair",
+      "Vincent Van Patten",
+      "Peter Barton"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/hell-night.html"
+}

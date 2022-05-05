@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Is My Affair",
+    "year": 1937,
+    "cast": [
+      "Robert Taylor",
+      "Barbara Stanwyck",
+      "Brian Donlevy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/this-is-my-affair.html"
+}

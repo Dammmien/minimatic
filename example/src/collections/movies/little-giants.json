@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Little Giants",
+    "year": 1994,
+    "cast": [
+      "Rick Moranis",
+      "Ed O'Neill"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-giants.html"
+}

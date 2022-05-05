@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "WALL-E",
+    "year": 2008,
+    "cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin",
+      "Fred Willard"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/wall-e.html"
+}

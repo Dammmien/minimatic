@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wrongdoers",
+    "year": 1925,
+    "cast": [
+      "Lionel Barrymore",
+      "Anne Cornwall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wrongdoers.html"
+}

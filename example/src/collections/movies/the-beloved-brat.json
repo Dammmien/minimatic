@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Beloved Brat",
+    "year": 1938,
+    "cast": [
+      "Bonita Granville",
+      "Donald Crisp",
+      "Dolores Costello"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-beloved-brat.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Joy Street",
+    "year": 1929,
+    "cast": [
+      "Lois Moran",
+      "Rex Bell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/joy-street.html"
+}

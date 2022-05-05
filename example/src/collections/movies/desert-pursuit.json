@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Desert Pursuit",
+    "year": 1952,
+    "cast": [
+      "Wayne Morris",
+      "Virginia Grey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/desert-pursuit.html"
+}

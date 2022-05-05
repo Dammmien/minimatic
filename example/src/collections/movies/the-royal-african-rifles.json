@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Royal African Rifles",
+    "year": 1953,
+    "cast": [
+      "Louis Hayward",
+      "Veronica Hurst"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-royal-african-rifles.html"
+}

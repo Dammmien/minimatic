@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Sadist",
+    "year": 1963,
+    "cast": [
+      "Arch Hall Jr."
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-sadist.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hold Everything",
+    "year": 1930,
+    "cast": [
+      "Winnie Lightner",
+      "Joe E. Brown"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hold-everything.html"
+}

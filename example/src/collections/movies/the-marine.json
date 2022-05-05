@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Marine",
+    "year": 2006,
+    "cast": [
+      "John Cena",
+      "Kelly Carlson",
+      "Robert Patrick"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-marine.html"
+}

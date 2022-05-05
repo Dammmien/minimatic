@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Small Town Saturday Night",
+    "year": 2010,
+    "cast": [
+      "Chris Pine",
+      "Shawn Christian",
+      "John Hawkes",
+      "Bre Blair",
+      "Muse Watson",
+      "Robert Pine",
+      "Brent Briscoe",
+      "Lin Shaye"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/small-town-saturday-night.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Phantasm IV: Oblivion",
+    "year": 1998,
+    "cast": [
+      "A. Michael Baldwin",
+      "Reggie Bannister",
+      "Bill Thornbury"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/phantasm-iv--oblivion.html"
+}

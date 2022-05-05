@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Operation: Daybreak",
+    "year": 1975,
+    "cast": [
+      "Timothy Bottoms",
+      "Martin Shaw",
+      "Joss Ackland"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/operation--daybreak.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Snow White and the Three Stooges",
+    "year": 1961,
+    "cast": [
+      "The Three Stooges",
+      "Carol Heiss"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/snow-white-and-the-three-stooges.html"
+}

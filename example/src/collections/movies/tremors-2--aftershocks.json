@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tremors 2: Aftershocks",
+    "year": 1996,
+    "cast": [
+      "Fred Ward",
+      "Helen Shaver"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/tremors-2--aftershocks.html"
+}

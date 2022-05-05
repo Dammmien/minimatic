@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Muscle Beach Party",
+    "year": 1964,
+    "cast": [
+      "Annette Funicello",
+      "Frankie Avalon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/muscle-beach-party.html"
+}

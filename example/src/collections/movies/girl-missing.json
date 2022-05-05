@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Girl Missing",
+    "year": 1933,
+    "cast": [
+      "Glenda Farrell",
+      "Mary Brian",
+      "Ben Lyon"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/girl-missing.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Light Years",
+    "year": 1988,
+    "cast": [
+      "Voices of",
+      "Glenn Close",
+      "Jennifer Grey",
+      "Terrence Mann"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/light-years.html"
+}

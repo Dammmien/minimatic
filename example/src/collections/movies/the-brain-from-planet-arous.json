@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Brain from Planet Arous",
+    "year": 1957,
+    "cast": [
+      "John Agar",
+      "Joyce Meadows"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-brain-from-planet-arous.html"
+}

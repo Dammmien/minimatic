@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Memento",
+    "year": 2000,
+    "cast": [
+      "Guy Pearce",
+      "Carrie-Anne Moss",
+      "Joe Pantoliano"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/memento.html"
+}

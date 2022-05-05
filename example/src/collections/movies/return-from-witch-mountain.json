@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Return from Witch Mountain",
+    "year": 1978,
+    "cast": [
+      "Christopher Lee",
+      "Bette Davis",
+      "Jack Soo"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/return-from-witch-mountain.html"
+}

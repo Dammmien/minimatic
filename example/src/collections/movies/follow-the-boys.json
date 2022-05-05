@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Follow the Boys",
+    "year": 1963,
+    "cast": [
+      "Connie Francis",
+      "Janis Paige",
+      "Paula Prentiss",
+      "Russ Tamblyn"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/follow-the-boys.html"
+}

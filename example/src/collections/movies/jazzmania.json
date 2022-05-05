@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jazzmania",
+    "year": 1923,
+    "cast": [
+      "Mae Murray",
+      "Rod LaRocque"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jazzmania.html"
+}

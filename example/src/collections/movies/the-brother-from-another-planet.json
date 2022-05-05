@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Brother from Another Planet",
+    "year": 1984,
+    "cast": [
+      "Joe Morton",
+      "Steve James"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-brother-from-another-planet.html"
+}

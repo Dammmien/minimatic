@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Silver Linings Playbook",
+    "year": 2012,
+    "cast": [
+      "Bradley Cooper",
+      "Jennifer Lawrence",
+      "Robert De Niro",
+      "Jacki Weaver",
+      "Anupam Kher",
+      "Julia Stiles",
+      "Chris Tucker"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/silver-linings-playbook.html"
+}

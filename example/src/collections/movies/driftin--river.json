@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Driftin' River",
+    "year": 1946,
+    "cast": [
+      "Eddie Dean",
+      "Shirley Patterson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/driftin--river.html"
+}

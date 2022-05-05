@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Guy Could Change",
+    "year": 1946,
+    "cast": [
+      "Allan Lane",
+      "Jane Frazee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-guy-could-change.html"
+}

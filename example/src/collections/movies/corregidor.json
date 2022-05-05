@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Corregidor",
+    "year": 1943,
+    "cast": [
+      "Otto Kruger",
+      "Elissa Landi",
+      "Donald Woods"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/corregidor.html"
+}

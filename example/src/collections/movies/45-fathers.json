@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "45 Fathers",
+    "year": 1937,
+    "cast": [
+      "Jane Withers",
+      "Richard Carle",
+      "Hattie McDaniel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/45-fathers.html"
+}

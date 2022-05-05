@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Big Cube",
+    "year": 1969,
+    "cast": [
+      "Lana Turner",
+      "Dan O'Herlihy"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-big-cube.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hachiko: A Dog's Story",
+    "year": 2010,
+    "cast": [
+      "Richard Gere"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hachiko--a-dog-s-story.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Imagining Argentina",
+    "year": 2003,
+    "cast": [
+      "Antonio Banderas",
+      "Emma Thompson"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/imagining-argentina.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Almost a Lady",
+    "year": 1926,
+    "cast": [
+      "Marie Prevost",
+      "Harrison Ford",
+      "George K. Arthur"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/almost-a-lady.html"
+}

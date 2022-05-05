@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mad Dog and Glory",
+    "year": 1993,
+    "cast": [
+      "Robert De Niro",
+      "Uma Thurman",
+      "Bill Murray",
+      "David Caruso"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mad-dog-and-glory.html"
+}

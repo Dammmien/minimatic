@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Raiders of Old California",
+    "year": 1957,
+    "cast": [
+      "Jim Davis",
+      "Arleen Whelan",
+      "Faron Young",
+      "Marty Robbins",
+      "Lee Van Cleef",
+      "Louis Jean Heydt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/raiders-of-old-california.html"
+}

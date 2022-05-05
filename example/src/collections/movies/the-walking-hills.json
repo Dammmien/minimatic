@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Walking Hills",
+    "year": 1949,
+    "cast": [
+      "Randolph Scott",
+      "Ella Raines"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-walking-hills.html"
+}

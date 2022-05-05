@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nobody Lives Forever",
+    "year": 1946,
+    "cast": [
+      "John Garfield",
+      "Geraldine Fitzgerald"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/nobody-lives-forever.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Mother Night",
+    "year": 1996,
+    "cast": [
+      "Nick Nolte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mother-night.html"
+}

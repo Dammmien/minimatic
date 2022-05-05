@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild Horse Phantom",
+    "year": 1944,
+    "cast": [
+      "Buster Crabbe",
+      "Kermit Maynard"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wild-horse-phantom.html"
+}

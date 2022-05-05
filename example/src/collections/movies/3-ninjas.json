@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "3 Ninjas",
+    "year": 1992,
+    "cast": [
+      "Max Elliott Slade"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/3-ninjas.html"
+}

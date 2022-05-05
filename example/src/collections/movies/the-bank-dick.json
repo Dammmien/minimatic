@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bank Dick",
+    "year": 1940,
+    "cast": [
+      "W. C. Fields",
+      "Cora Witherspoon",
+      "Una Merkel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bank-dick.html"
+}

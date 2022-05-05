@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Children",
+    "year": 1980,
+    "cast": [
+      "Gil Rogers"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-children.html"
+}

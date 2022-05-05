@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Lost River",
+    "year": 2015,
+    "cast": [
+      "Christina Hendricks",
+      "Eva Mendes",
+      "Saoirse Ronan"
+    ],
+    "genres": [
+      "Fantasy",
+      "Thriller"
+    ]
+  },
+  "output": "movies/lost-river.html"
+}

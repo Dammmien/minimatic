@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Slam Dunk Ernest",
+    "year": 1995,
+    "cast": [
+      "Jim Varney",
+      "Kareem Abdul-Jabbar"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/slam-dunk-ernest.html"
+}

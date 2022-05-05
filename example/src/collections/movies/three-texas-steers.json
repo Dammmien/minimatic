@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Three Texas Steers",
+    "year": 1939,
+    "cast": [
+      "John Wayne",
+      "Ray Corrigan",
+      "Max Terhune",
+      "Carole Landis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/three-texas-steers.html"
+}

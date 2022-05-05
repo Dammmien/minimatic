@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dark Streets of Cairo",
+    "year": 1940,
+    "cast": [
+      "Sigrid Gurie",
+      "Ralph Byrd",
+      "Eddie Quillan"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/dark-streets-of-cairo.html"
+}

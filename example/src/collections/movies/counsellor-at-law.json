@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Counsellor at Law",
+    "year": 1933,
+    "cast": [
+      "John Barrymore",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/counsellor-at-law.html"
+}

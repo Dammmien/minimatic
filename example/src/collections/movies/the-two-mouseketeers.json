@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Two Mouseketeers",
+    "year": 1952,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/the-two-mouseketeers.html"
+}

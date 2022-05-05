@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "X-Men: Days of Future Past",
+    "year": 2014,
+    "cast": [
+      "Hugh Jackman",
+      "James McAvoy",
+      "Michael Fassbender",
+      "Halle Berry"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/x-men--days-of-future-past.html"
+}

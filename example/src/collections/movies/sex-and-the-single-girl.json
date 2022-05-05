@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Sex and the Single Girl",
+    "year": 1964,
+    "cast": [
+      "Tony Curtis",
+      "Natalie Wood",
+      "Henry Fonda",
+      "Mel Ferrer",
+      "Leslie Parrish",
+      "Lauren Bacall"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/sex-and-the-single-girl.html"
+}

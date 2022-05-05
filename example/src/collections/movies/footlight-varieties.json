@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Footlight Varieties",
+    "year": 1951,
+    "cast": [
+      "Jack Paar",
+      "Leon Errol"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/footlight-varieties.html"
+}

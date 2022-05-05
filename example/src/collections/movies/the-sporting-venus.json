@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sporting Venus",
+    "year": 1925,
+    "cast": [
+      "Blanche Sweet",
+      "Ronald Colman"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-sporting-venus.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Letters of a Star",
+    "year": 1936,
+    "cast": [
+      "Polly Rowles",
+      "Walter Coy",
+      "Ralph Forbes"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/love-letters-of-a-star.html"
+}

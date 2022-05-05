@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Untamed Women",
+    "year": 1952,
+    "cast": [
+      "Mikel Conrad",
+      "Doris Merrick"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/untamed-women.html"
+}

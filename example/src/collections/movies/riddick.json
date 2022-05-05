@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Riddick",
+    "year": 2013,
+    "cast": [
+      "Vin Diesel",
+      "Jordi Mollà",
+      "Matt Nable",
+      "Katee Sackhoff",
+      "Dave Bautista",
+      "Bokeem Woodbine",
+      "Raoul Trujillo",
+      "Karl Urban"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/riddick.html"
+}

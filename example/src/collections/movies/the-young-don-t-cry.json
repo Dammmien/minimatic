@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Young Don't Cry",
+    "year": 1957,
+    "cast": [
+      "Sal Mineo",
+      "James Whitmore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-young-don-t-cry.html"
+}

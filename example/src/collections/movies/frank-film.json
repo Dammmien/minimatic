@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Frank Film",
+    "year": 1973,
+    "cast": [
+      "Frank Mouris"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/frank-film.html"
+}

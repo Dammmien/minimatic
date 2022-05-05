@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Moonrunners",
+    "year": 1975,
+    "cast": [
+      "James Mitchum",
+      "Waylon Jennings"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/moonrunners.html"
+}

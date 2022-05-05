@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "International Velvet",
+    "year": 1978,
+    "cast": [
+      "Tatum O'Neal",
+      "Christopher Plummer"
+    ],
+    "genres": [
+      "Drama",
+      "Family"
+    ]
+  },
+  "output": "movies/international-velvet.html"
+}

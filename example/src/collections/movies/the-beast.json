@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Beast",
+    "year": 1996,
+    "cast": [
+      "William Petersen",
+      "Karen Sillas",
+      "Charles Martin Smith"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-beast.html"
+}

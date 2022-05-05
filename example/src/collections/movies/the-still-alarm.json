@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Still Alarm",
+    "year": 1926,
+    "cast": [
+      "Helene Chadwick",
+      "William Russell",
+      "Richard Travers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-still-alarm.html"
+}

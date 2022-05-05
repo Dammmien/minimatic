@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fire Birds",
+    "year": 1990,
+    "cast": [
+      "Nicolas Cage",
+      "Tommy Lee Jones",
+      "Sean Young"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/fire-birds.html"
+}

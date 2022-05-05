@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "That's My Man",
+    "year": 1947,
+    "cast": [
+      "Don Ameche",
+      "Catherine McLeod"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-s-my-man.html"
+}

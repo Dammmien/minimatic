@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "According to Hoyle",
+    "year": 1922,
+    "cast": [
+      "David Butler",
+      "Helen Ferguson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/according-to-hoyle.html"
+}

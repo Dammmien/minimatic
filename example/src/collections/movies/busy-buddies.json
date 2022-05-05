@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Busy Buddies",
+    "year": 1956,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/busy-buddies.html"
+}

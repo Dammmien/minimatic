@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gentlemen Are Born",
+    "year": 1934,
+    "cast": [
+      "Franchot Tone",
+      "Jean Muir",
+      "Ann Dvorak"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gentlemen-are-born.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Loverboy",
+    "year": 1989,
+    "cast": [
+      "Patrick Dempsey",
+      "Kate Jackson",
+      "Kirstie Alley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/loverboy.html"
+}

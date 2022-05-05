@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ghost Catchers",
+    "year": 1944,
+    "cast": [
+      "Olsen and Johnson",
+      "Gloria Jean",
+      "Martha O'Driscoll"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/ghost-catchers.html"
+}

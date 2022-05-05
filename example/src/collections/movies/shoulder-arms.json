@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shoulder Arms",
+    "year": 1918,
+    "cast": [
+      "Charlie Chaplin",
+      "Sydney Chaplin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/shoulder-arms.html"
+}

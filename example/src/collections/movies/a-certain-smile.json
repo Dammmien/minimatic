@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Certain Smile",
+    "year": 1958,
+    "cast": [
+      "Rossano Brazzi",
+      "Joan Fontaine",
+      "Bradford Dillman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-certain-smile.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Impasse",
+    "year": 1969,
+    "cast": [
+      "Burt Reynolds",
+      "Anne Francis"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/impasse.html"
+}

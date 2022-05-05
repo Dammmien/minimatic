@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lights of Old Broadway",
+    "year": 1925,
+    "cast": [
+      "Marion Davies",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lights-of-old-broadway.html"
+}

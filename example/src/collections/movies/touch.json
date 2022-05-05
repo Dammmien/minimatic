@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Touch",
+    "year": 1997,
+    "cast": [
+      "Bridget Fonda",
+      "Christopher Walken",
+      "Skeet Ulrich",
+      "Tom Arnold",
+      "Gina Gershon",
+      "Lolita Davidovich"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/touch.html"
+}

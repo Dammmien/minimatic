@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Incredible Mr. Limpet",
+    "year": 1964,
+    "cast": [
+      "Don Knotts",
+      "Jack Weston",
+      "Carole Cook"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-incredible-mr--limpet.html"
+}

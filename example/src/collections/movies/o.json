@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "O",
+    "year": 2001,
+    "cast": [
+      "Mekhi Phifer",
+      "Josh Hartnett",
+      "Julia Stiles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/o.html"
+}

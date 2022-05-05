@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Porky's Revenge",
+    "year": 1985,
+    "cast": [
+      "Dan Monahan",
+      "Tony Ganios",
+      "Wyatt Knight"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/porky-s-revenge.html"
+}

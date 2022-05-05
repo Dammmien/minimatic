@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Milky Waif",
+    "year": 1946,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-milky-waif.html"
+}

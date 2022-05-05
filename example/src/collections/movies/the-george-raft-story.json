@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The George Raft Story",
+    "year": 1961,
+    "cast": [
+      "Ray Danton",
+      "Jayne Mansfield",
+      "Julie London"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-george-raft-story.html"
+}

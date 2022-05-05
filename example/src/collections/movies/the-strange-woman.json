@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Strange Woman",
+    "year": 1946,
+    "cast": [
+      "Hedy Lamarr",
+      "George Sanders",
+      "Louis Hayward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-strange-woman.html"
+}

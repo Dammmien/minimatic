@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kill a Dragon",
+    "year": 1967,
+    "cast": [
+      "Jack Palance",
+      "Fernando Lamas"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/kill-a-dragon.html"
+}

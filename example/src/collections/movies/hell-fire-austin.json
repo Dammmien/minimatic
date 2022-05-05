@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell Fire Austin",
+    "year": 1932,
+    "cast": [
+      "Ken Maynard",
+      "Nat Pendleton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hell-fire-austin.html"
+}

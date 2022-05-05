@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Every Time We Say Goodbye",
+    "year": 1986,
+    "cast": [
+      "Tom Hanks"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/every-time-we-say-goodbye.html"
+}

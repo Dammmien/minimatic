@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Ernest Scared Stupid",
+    "year": 1991,
+    "cast": [
+      "Jim Varney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ernest-scared-stupid.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Young Nowheres",
+    "year": 1929,
+    "cast": [
+      "Richard Barthelmess",
+      "Marian Nixon"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/young-nowheres.html"
+}

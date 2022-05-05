@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "For the Love of Mary",
+    "year": 1948,
+    "cast": [
+      "Deanna Durbin",
+      "Edmond O'Brien"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/for-the-love-of-mary.html"
+}

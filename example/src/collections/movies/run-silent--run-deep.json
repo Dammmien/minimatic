@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Run Silent, Run Deep",
+    "year": 1958,
+    "cast": [
+      "Clark Gable",
+      "Burt Lancaster",
+      "Jack Warden",
+      "Brad Dexter",
+      "Don Rickles"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/run-silent--run-deep.html"
+}

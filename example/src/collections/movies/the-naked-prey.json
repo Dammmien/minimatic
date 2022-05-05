@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Naked Prey",
+    "year": 1965,
+    "cast": [
+      "Cornel Wilde",
+      "Ken Gampu"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-naked-prey.html"
+}

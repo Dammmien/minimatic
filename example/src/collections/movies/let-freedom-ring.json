@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Let Freedom Ring",
+    "year": 1939,
+    "cast": [
+      "Nelson Eddy",
+      "Virginia Bruce",
+      "Victor McLaglen",
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/let-freedom-ring.html"
+}

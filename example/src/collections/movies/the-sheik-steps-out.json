@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sheik Steps Out",
+    "year": 1937,
+    "cast": [
+      "Ramon Novarro",
+      "Lola Lane",
+      "Kathleen Burke"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-sheik-steps-out.html"
+}

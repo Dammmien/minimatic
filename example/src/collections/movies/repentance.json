@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Repentance",
+    "year": 2014,
+    "cast": [
+      "Forest Whitaker",
+      "Anthony Mackie",
+      "Nicole Ari Parker"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/repentance.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spoilers of the Forest",
+    "year": 1957,
+    "cast": [
+      "Vera Ralston",
+      "Rod Cameron"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/spoilers-of-the-forest.html"
+}

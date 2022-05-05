@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Frontiersmen",
+    "year": 1938,
+    "cast": [
+      "William Boyd",
+      "Gabby Hayes",
+      "Evelyn Venable"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-frontiersmen.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Last Hard Men",
+    "year": 1976,
+    "cast": [
+      "Charlton Heston",
+      "James Coburn",
+      "Barbara Hershey",
+      "Michael Parks"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-last-hard-men.html"
+}

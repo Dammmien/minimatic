@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Invisible Bond",
+    "year": 1919,
+    "cast": [
+      "Irene Castle",
+      "Huntley Gordon",
+      "Claire Adams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-invisible-bond.html"
+}

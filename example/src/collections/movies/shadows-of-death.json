@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shadows of Death",
+    "year": 1945,
+    "cast": [
+      "Buster Crabbe",
+      "Al St. John"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/shadows-of-death.html"
+}

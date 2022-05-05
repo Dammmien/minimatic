@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Man's Castle",
+    "year": 1933,
+    "cast": [
+      "Spencer Tracy",
+      "Loretta Young"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/man-s-castle.html"
+}

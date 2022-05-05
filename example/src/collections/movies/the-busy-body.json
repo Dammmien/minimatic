@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Busy Body",
+    "year": 1967,
+    "cast": [
+      "Sid Caesar",
+      "Robert Ryan",
+      "Arlene Golonka",
+      "Richard Pryor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-busy-body.html"
+}

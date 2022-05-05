@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Tall Target",
+    "year": 1951,
+    "cast": [
+      "Dick Powell",
+      "Paula Raymond",
+      "Adolphe Menjou"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-tall-target.html"
+}

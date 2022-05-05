@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bats",
+    "year": 1999,
+    "cast": [
+      "Lou Diamond Phillips",
+      "Dina Meyer"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/bats.html"
+}

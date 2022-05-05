@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Zero to Sixty",
+    "year": 1978,
+    "cast": [
+      "Darren McGavin",
+      "Sylvia Miles",
+      "Joan Collins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/zero-to-sixty.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lavender Bath Lady",
+    "year": 1922,
+    "cast": [
+      "Gladys Walton",
+      "Edmund Burns"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-lavender-bath-lady.html"
+}

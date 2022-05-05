@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Boothill Brigade",
+    "year": 1937,
+    "cast": [
+      "Johnny Mack Brown",
+      "Dick Curtis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/boothill-brigade.html"
+}

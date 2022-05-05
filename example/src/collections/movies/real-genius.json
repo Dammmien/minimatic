@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Real Genius",
+    "year": 1985,
+    "cast": [
+      "Val Kilmer",
+      "Gabe Jarret",
+      "William Atherton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/real-genius.html"
+}

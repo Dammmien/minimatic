@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "End of the Line",
+    "year": 1987,
+    "cast": [
+      "Kevin Bacon",
+      "Wilford Brimley",
+      "Holly Hunter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/end-of-the-line.html"
+}

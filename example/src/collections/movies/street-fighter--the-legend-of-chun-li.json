@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Street Fighter: The Legend of Chun-Li",
+    "year": 2009,
+    "cast": [
+      "Kristin Kreuk",
+      "Chris Klein",
+      "Neal McDonough",
+      "Robin Shou",
+      "Moon Bloodgood",
+      "Josie Ho",
+      "Taboo",
+      "Michael Clarke Duncan"
+    ],
+    "genres": [
+      "Action",
+      "Crime"
+    ]
+  },
+  "output": "movies/street-fighter--the-legend-of-chun-li.html"
+}

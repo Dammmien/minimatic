@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Hallelujah Trail",
+    "year": 1965,
+    "cast": [
+      "Burt Lancaster",
+      "Lee Remick",
+      "Jim Hutton",
+      "Pamela Tiffin"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-hallelujah-trail.html"
+}

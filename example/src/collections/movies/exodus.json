@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Exodus",
+    "year": 1960,
+    "cast": [
+      "Paul Newman",
+      "Eva Marie Saint",
+      "Ralph Richardson",
+      "Sal Mineo",
+      "Peter Lawford",
+      "Lee J. Cobb",
+      "Jill Haworth",
+      "Hugh Griffith",
+      "John Derek"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/exodus.html"
+}

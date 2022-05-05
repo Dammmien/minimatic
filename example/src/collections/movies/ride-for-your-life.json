@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ride for Your Life",
+    "year": 1924,
+    "cast": [
+      "Hoot Gibson",
+      "Laura La Plante"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ride-for-your-life.html"
+}

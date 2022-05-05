@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cross Channel",
+    "year": 1955,
+    "cast": [
+      "Wayne Morris",
+      "Yvonne Furneaux"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/cross-channel.html"
+}

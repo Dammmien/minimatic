@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "His Night Out",
+    "year": 1935,
+    "cast": [
+      "Edward Everett Horton",
+      "Irene Hervey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/his-night-out.html"
+}

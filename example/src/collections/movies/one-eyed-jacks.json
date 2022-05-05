@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One-Eyed Jacks",
+    "year": 1961,
+    "cast": [
+      "Marlon Brando",
+      "Karl Malden",
+      "Katy Jurado"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/one-eyed-jacks.html"
+}

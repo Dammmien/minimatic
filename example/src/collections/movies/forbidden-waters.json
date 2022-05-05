@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Forbidden Waters",
+    "year": 1926,
+    "cast": [
+      "Priscilla Dean",
+      "Walter McGrail"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/forbidden-waters.html"
+}

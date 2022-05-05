@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Main Street to Broadway",
+    "year": 1953,
+    "cast": [
+      "Mary Murphy",
+      "Herb Shriner"
+    ],
+    "genres": []
+  },
+  "output": "movies/main-street-to-broadway.html"
+}

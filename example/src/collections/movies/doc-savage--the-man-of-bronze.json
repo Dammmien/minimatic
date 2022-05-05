@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Doc Savage: The Man of Bronze",
+    "year": 1975,
+    "cast": [
+      "Ron Ely",
+      "Paul Gleason"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/doc-savage--the-man-of-bronze.html"
+}

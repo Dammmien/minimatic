@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fly by Night",
+    "year": 1993,
+    "cast": [
+      "Jeffrey Sams",
+      "Daryl Mitchell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fly-by-night.html"
+}

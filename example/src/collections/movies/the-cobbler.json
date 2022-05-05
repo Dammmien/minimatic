@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Cobbler",
+    "year": 2015,
+    "cast": [
+      "Adam Sandler",
+      "Dustin Hoffman",
+      "Dan Stevens",
+      "Steve Buscemi"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-cobbler.html"
+}

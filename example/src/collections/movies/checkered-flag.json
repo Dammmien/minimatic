@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Checkered Flag",
+    "year": 1990,
+    "cast": [
+      "Billy Campbell",
+      "Rob Estes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/checkered-flag.html"
+}

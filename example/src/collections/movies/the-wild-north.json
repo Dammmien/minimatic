@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wild North",
+    "year": 1952,
+    "cast": [
+      "Stewart Granger",
+      "Wendell Corey",
+      "Cyd Charisse"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-wild-north.html"
+}

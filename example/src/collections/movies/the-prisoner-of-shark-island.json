@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Prisoner of Shark Island",
+    "year": 1936,
+    "cast": [
+      "Warner Baxter",
+      "Gloria Stuart"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-prisoner-of-shark-island.html"
+}

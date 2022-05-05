@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Toilers of the Sea",
+    "year": 1923,
+    "cast": [
+      "Lucy Fox",
+      "Holmes Herbert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/toilers-of-the-sea.html"
+}

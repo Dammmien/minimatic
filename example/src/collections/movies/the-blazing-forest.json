@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Blazing Forest",
+    "year": 1952,
+    "cast": [
+      "John Payne",
+      "Agnes Moorehead"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-blazing-forest.html"
+}

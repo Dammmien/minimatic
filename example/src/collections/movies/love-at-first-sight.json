@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love at First Sight",
+    "year": 1929,
+    "cast": [
+      "Norman Foster",
+      "Doris Rankin"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-at-first-sight.html"
+}

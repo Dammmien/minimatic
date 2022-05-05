@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "King of the Mounties",
+    "year": 1942,
+    "cast": [
+      "Allan Lane",
+      "Peggy Drake"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/king-of-the-mounties.html"
+}

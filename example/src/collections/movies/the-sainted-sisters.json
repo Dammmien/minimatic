@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sainted Sisters",
+    "year": 1948,
+    "cast": [
+      "Veronica Lake",
+      "Joan Caulfield",
+      "George Reeves"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-sainted-sisters.html"
+}

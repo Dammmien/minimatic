@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Black Heat",
+    "year": 1976,
+    "cast": [
+      "Timothy Brown",
+      "Russ Tamblyn"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/black-heat.html"
+}

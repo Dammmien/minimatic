@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "They Came to Cordura",
+    "year": 1959,
+    "cast": [
+      "Gary Cooper",
+      "Rita Hayworth",
+      "Van Heflin",
+      "Richard Conte",
+      "Dick York",
+      "Tab Hunter"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/they-came-to-cordura.html"
+}

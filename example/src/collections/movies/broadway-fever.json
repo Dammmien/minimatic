@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Broadway Fever",
+    "year": 1929,
+    "cast": [
+      "Sally O'Neil",
+      "Roland Drew",
+      "Corliss Palmer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/broadway-fever.html"
+}

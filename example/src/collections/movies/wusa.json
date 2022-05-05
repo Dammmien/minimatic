@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "WUSA",
+    "year": 1970,
+    "cast": [
+      "Paul Newman",
+      "Joanne Woodward",
+      "Anthony Perkins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wusa.html"
+}

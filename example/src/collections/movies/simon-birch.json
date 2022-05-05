@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Simon Birch",
+    "year": 1998,
+    "cast": [
+      "Ian Michael Smith",
+      "Joseph Mazzello",
+      "Ashley Judd",
+      "Oliver Platt"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/simon-birch.html"
+}

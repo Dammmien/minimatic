@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Blue Steel",
+    "year": 1990,
+    "cast": [
+      "Jamie Lee Curtis",
+      "Ron Silver",
+      "Clancy Brown",
+      "Elizabeth Pena",
+      "Louise Fletcher"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/blue-steel.html"
+}

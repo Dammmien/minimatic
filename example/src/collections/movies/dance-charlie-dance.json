@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dance Charlie Dance",
+    "year": 1937,
+    "cast": [
+      "Stuart Erwin",
+      "Jean Muir",
+      "Glenda Farrell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dance-charlie-dance.html"
+}

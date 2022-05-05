@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rollercoaster",
+    "year": 1977,
+    "cast": [
+      "George Segal",
+      "Richard Widmark",
+      "Henry Fonda"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/rollercoaster.html"
+}

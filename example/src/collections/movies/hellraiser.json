@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hellraiser",
+    "year": 1987,
+    "cast": [
+      "Andrew Robinson",
+      "Claire Higgins",
+      "Ashley Laurence",
+      "Doug Bradley"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/hellraiser.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Star Dust Trail",
+    "year": 1924,
+    "cast": [
+      "Shirley Mason",
+      "Bryant Washburn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/star-dust-trail.html"
+}

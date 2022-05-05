@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cockeyed Cavaliers",
+    "year": 1934,
+    "cast": [
+      "Bert Wheeler",
+      "Robert Woolsey",
+      "Thelma Todd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cockeyed-cavaliers.html"
+}

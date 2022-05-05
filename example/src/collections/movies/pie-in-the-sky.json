@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pie in the Sky",
+    "year": 1996,
+    "cast": [
+      "Josh Charles",
+      "Anne Heche",
+      "John Goodman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pie-in-the-sky.html"
+}

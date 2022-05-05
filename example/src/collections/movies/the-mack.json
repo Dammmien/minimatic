@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Mack",
+    "year": 1973,
+    "cast": [
+      "Max Julien",
+      "Richard Pryor",
+      "Roger E. Mosley"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mack.html"
+}

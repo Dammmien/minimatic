@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bumping Into Broadway",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bumping-into-broadway.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Book of Life",
+    "year": 2014,
+    "cast": [
+      "Channing Tatum",
+      "Zoe Saldana",
+      "Diego Luna",
+      "Ice Cube"
+    ],
+    "genres": [
+      "Animated",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-book-of-life.html"
+}

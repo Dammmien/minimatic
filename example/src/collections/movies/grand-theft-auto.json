@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Grand Theft Auto",
+    "year": 1977,
+    "cast": [
+      "Ron Howard",
+      "Marion Ross"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/grand-theft-auto.html"
+}

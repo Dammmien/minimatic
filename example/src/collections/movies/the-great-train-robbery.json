@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "The Great Train Robbery",
+    "year": 1903,
+    "cast": [],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-great-train-robbery.html"
+}

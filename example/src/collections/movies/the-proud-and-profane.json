@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Proud and Profane",
+    "year": 1956,
+    "cast": [
+      "William Holden",
+      "Deborah Kerr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-proud-and-profane.html"
+}

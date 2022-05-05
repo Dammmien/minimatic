@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Return from the Sea",
+    "year": 1954,
+    "cast": [
+      "Jan Sterling",
+      "Neville Brand"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/return-from-the-sea.html"
+}

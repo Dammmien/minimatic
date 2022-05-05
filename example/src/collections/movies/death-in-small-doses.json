@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Death in Small Doses",
+    "year": 1957,
+    "cast": [
+      "Peter Graves",
+      "Mala Powers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/death-in-small-doses.html"
+}

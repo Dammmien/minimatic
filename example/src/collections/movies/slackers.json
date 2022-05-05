@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Slackers",
+    "year": 2002,
+    "cast": [
+      "Jason Schwartzman",
+      "Devon Sawa",
+      "Jason Segel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/slackers.html"
+}

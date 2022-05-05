@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Haywire",
+    "year": 2012,
+    "cast": [
+      "Gina Carano",
+      "Michael Fassbender",
+      "Ewan McGregor",
+      "Bill Paxton",
+      "Channing Tatum",
+      "Mathieu Kassovitz",
+      "Michael Angarano",
+      "with",
+      "Antonio Banderas",
+      "and",
+      "Michael Douglas"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/haywire.html"
+}

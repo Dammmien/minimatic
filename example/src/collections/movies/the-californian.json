@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Californian",
+    "year": 1937,
+    "cast": [
+      "Ricardo Cortez",
+      "Marjorie Weaver",
+      "Katherine DeMille"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-californian.html"
+}

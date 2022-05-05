@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Happy Coersion",
+    "year": 1914,
+    "cast": [
+      "Perry Banks",
+      "William Bertram",
+      "Jacques Jaccard"
+    ],
+    "genres": []
+  },
+  "output": "movies/a-happy-coersion.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Phantom of 42nd Street",
+    "year": 1945,
+    "cast": [
+      "Dave O'Brien",
+      "Kay Aldridge",
+      "Alan Mowbray"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-phantom-of-42nd-street.html"
+}

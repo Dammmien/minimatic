@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Psycho II",
+    "year": 1983,
+    "cast": [
+      "Anthony Perkins",
+      "Meg Tilly",
+      "Robert Loggia",
+      "Vera Miles"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/psycho-ii.html"
+}

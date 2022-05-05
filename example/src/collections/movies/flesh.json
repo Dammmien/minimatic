@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Flesh",
+    "year": 1968,
+    "cast": [
+      "Patti D'Arbanville"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/flesh.html"
+}

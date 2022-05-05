@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Godson",
+    "year": 1998,
+    "cast": [
+      "Rodney Dangerfield",
+      "Kevin McDonald",
+      "Dom DeLuise"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-godson.html"
+}

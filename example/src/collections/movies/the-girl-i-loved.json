@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl I Loved",
+    "year": 1923,
+    "cast": [
+      "Charles Ray",
+      "Patsy Ruth Miller"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-girl-i-loved.html"
+}

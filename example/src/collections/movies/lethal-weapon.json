@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lethal Weapon",
+    "year": 1987,
+    "cast": [
+      "Mel Gibson",
+      "Danny Glover",
+      "Gary Busey"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/lethal-weapon.html"
+}

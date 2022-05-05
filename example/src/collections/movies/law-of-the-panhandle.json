@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Law of the Panhandle",
+    "year": 1950,
+    "cast": [
+      "Johnny Mack Brown",
+      "Jane Adams"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/law-of-the-panhandle.html"
+}

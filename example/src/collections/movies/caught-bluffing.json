@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Caught Bluffing",
+    "year": 1922,
+    "cast": [
+      "Frank Mayo",
+      "Edna Murphy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/caught-bluffing.html"
+}

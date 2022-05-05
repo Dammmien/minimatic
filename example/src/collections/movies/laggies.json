@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Laggies",
+    "year": 2014,
+    "cast": [
+      "Keira Knightley",
+      "Chloë Grace Moretz",
+      "Sam Rockwell",
+      "Mark Webber"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/laggies.html"
+}

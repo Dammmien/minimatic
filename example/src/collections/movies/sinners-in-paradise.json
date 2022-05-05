@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sinners in Paradise",
+    "year": 1938,
+    "cast": [
+      "Bruce Cabot",
+      "Marion Martin",
+      "Gene Lockhart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sinners-in-paradise.html"
+}

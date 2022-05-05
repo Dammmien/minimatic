@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Heaven on Earth",
+    "year": 1931,
+    "cast": [
+      "Lew Ayres",
+      "Anita Louise"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/heaven-on-earth.html"
+}

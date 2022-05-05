@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No Time for Love",
+    "year": 1943,
+    "cast": [
+      "Claudette Colbert",
+      "Fred MacMurray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/no-time-for-love.html"
+}

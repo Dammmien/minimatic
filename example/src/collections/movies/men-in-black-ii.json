@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Men in Black II",
+    "year": 2002,
+    "cast": [
+      "Tommy Lee Jones",
+      "Will Smith",
+      "Rip Torn",
+      "Lara Flynn Boyle",
+      "Johnny Knoxville",
+      "Rosario Dawson"
+    ],
+    "genres": [
+      "Comedy",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/men-in-black-ii.html"
+}

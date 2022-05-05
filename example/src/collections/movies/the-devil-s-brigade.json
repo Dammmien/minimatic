@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Devil's Brigade",
+    "year": 1968,
+    "cast": [
+      "William Holden",
+      "Cliff Robertson",
+      "Vince Edwards"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-devil-s-brigade.html"
+}

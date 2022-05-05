@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Five Star Final",
+    "year": 1931,
+    "cast": [
+      "Edward G. Robinson",
+      "H. B. Warner",
+      "Marian Marsh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/five-star-final.html"
+}

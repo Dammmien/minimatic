@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gas House Kids",
+    "year": 1946,
+    "cast": [
+      "Robert Lowery",
+      "Billy Halop"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/gas-house-kids.html"
+}

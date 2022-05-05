@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crowded Paradise",
+    "year": 1956,
+    "cast": [
+      "Hume Cronyn",
+      "Nancy Kelly"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/crowded-paradise.html"
+}

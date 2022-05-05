@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting O'Flynn",
+    "year": 1949,
+    "cast": [
+      "Douglas Fairbanks Jr.",
+      "Helena Carter"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-fighting-o-flynn.html"
+}

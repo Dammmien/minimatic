@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cactus Flower",
+    "year": 1969,
+    "cast": [
+      "Walter Matthau",
+      "Goldie Hawn",
+      "Ingrid Bergman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cactus-flower.html"
+}

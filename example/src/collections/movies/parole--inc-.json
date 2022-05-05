@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Parole, Inc.",
+    "year": 1948,
+    "cast": [
+      "Michael O'Shea",
+      "Turhan Bey",
+      "Evelyn Ankers"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/parole--inc-.html"
+}

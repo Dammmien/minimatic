@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ridin' Down the Trail",
+    "year": 1947,
+    "cast": [
+      "Jimmy Wakely",
+      "Douglas Fowley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ridin--down-the-trail.html"
+}

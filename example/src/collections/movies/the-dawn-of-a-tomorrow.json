@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dawn of a Tomorrow",
+    "year": 1924,
+    "cast": [
+      "Jacqueline Logan",
+      "David Torrence"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-dawn-of-a-tomorrow.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Higher and Higher",
+    "year": 1944,
+    "cast": [
+      "Michèle Morgan",
+      "Frank Sinatra"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/higher-and-higher.html"
+}

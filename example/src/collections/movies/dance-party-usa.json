@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dance Party USA",
+    "year": 2006,
+    "cast": [
+      "Cole Pensinger",
+      "Anna Kavan",
+      "Ryan White"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dance-party-usa.html"
+}

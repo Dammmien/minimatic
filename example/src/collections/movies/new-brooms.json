@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "New Brooms",
+    "year": 1925,
+    "cast": [
+      "Neil Hamilton",
+      "Bessie Love",
+      "Phyllis Haver"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/new-brooms.html"
+}

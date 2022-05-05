@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Check Your Guns",
+    "year": 1948,
+    "cast": [
+      "Eddie Dean",
+      "Roscoe Ates",
+      "Nancy Gates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/check-your-guns.html"
+}

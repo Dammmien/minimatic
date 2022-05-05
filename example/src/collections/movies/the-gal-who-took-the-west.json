@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gal Who Took the West",
+    "year": 1949,
+    "cast": [
+      "Yvonne De Carlo",
+      "Scott Brady"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-gal-who-took-the-west.html"
+}

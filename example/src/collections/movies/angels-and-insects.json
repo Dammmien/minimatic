@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Angels and Insects",
+    "year": 1995,
+    "cast": [
+      "Mark Rylance",
+      "Patsy Kensit",
+      "Kristin Scott Thomas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/angels-and-insects.html"
+}

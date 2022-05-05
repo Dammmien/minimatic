@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shotgun",
+    "year": 1955,
+    "cast": [
+      "Sterling Hayden",
+      "Yvonne De Carlo",
+      "Zachary Scott"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/shotgun.html"
+}

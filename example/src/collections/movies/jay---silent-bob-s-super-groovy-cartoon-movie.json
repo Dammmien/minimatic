@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Jay & Silent Bob's Super Groovy Cartoon Movie",
+    "year": 2013,
+    "cast": [
+      "Jason Mewes",
+      "Kevin Smith",
+      "Eliza Dushku",
+      "Tara Strong",
+      "Ralph Garman",
+      "Neil Gaiman"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy"
+    ]
+  },
+  "output": "movies/jay---silent-bob-s-super-groovy-cartoon-movie.html"
+}

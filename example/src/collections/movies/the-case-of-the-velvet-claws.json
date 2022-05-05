@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Case of the Velvet Claws",
+    "year": 1936,
+    "cast": [
+      "Warren William",
+      "Claire Dodd"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-case-of-the-velvet-claws.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Night of Nights",
+    "year": 1939,
+    "cast": [
+      "Pat O'Brien",
+      "Olympe Bradna",
+      "Roland Young"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-night-of-nights.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Next Stop Wonderland",
+    "year": 1998,
+    "cast": [
+      "Hope Davis",
+      "Philip Seymour Hoffman",
+      "Callie Thorne"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/next-stop-wonderland.html"
+}

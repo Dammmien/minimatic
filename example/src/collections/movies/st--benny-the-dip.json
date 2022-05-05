@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "St. Benny the Dip",
+    "year": 1951,
+    "cast": [
+      "Dick Haymes",
+      "Nina Foch",
+      "Roland Young"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/st--benny-the-dip.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mother Lode",
+    "year": 1982,
+    "cast": [
+      "Charlton Heston",
+      "Kim Basinger",
+      "Nick Mancuso"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/mother-lode.html"
+}

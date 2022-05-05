@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Bible: In the Beginning",
+    "year": 1966,
+    "cast": [
+      "George C. Scott",
+      "Ava Gardner",
+      "Peter O'Toole",
+      "John Huston",
+      "Richard Harris",
+      "Stephen Boyd",
+      "Franco Nero"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bible--in-the-beginning.html"
+}

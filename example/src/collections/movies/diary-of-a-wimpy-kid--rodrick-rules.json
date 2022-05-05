@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Diary of a Wimpy Kid: Rodrick Rules",
+    "year": 2011,
+    "cast": [
+      "Zachary Gordon",
+      "Devon Bostick",
+      "Rachael Harris",
+      "Robert Capron",
+      "Steve Zahn"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/diary-of-a-wimpy-kid--rodrick-rules.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Crimson Peak",
+    "year": 2015,
+    "cast": [
+      "Charlie Hunnam",
+      "Tom Hiddleston",
+      "Jessica Chastain",
+      "Burn Gorman"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/crimson-peak.html"
+}

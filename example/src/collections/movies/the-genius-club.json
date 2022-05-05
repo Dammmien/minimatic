@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Genius Club",
+    "year": 2006,
+    "cast": [
+      "Stephen Baldwin",
+      "Tom Sizemore",
+      "Jack Scalia"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-genius-club.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Victor Herbert",
+    "year": 1939,
+    "cast": [
+      "Mary Martin",
+      "Allan Jones"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-great-victor-herbert.html"
+}

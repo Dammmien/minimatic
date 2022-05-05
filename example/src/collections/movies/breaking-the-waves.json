@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Breaking the Waves",
+    "year": 1996,
+    "cast": [
+      "Emily Watson",
+      "Stellan Skarsgård"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/breaking-the-waves.html"
+}

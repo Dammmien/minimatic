@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Bribe",
+    "year": 1949,
+    "cast": [
+      "Robert Taylor",
+      "Ava Gardner",
+      "Charles Laughton",
+      "Vincent Price"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-bribe.html"
+}

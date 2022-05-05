@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Daughter of Shanghai",
+    "year": 1937,
+    "cast": [
+      "Anna May Wong",
+      "Buster Crabbe",
+      "Charles Bickford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/daughter-of-shanghai.html"
+}

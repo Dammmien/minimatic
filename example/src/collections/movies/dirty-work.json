@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dirty Work",
+    "year": 1998,
+    "cast": [
+      "Norm Macdonald",
+      "Jack Warden",
+      "Don Rickles",
+      "Chevy Chase",
+      "Chris Farley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dirty-work.html"
+}

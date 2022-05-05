@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Best Foot Forward",
+    "year": 1943,
+    "cast": [
+      "Lucille Ball",
+      "June Allyson",
+      "Gloria DeHaven",
+      "Nancy Walker"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/best-foot-forward.html"
+}

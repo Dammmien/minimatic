@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three the Hard Way",
+    "year": 1974,
+    "cast": [
+      "Fred Williamson",
+      "Jim Kelly",
+      "Jim Brown"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/three-the-hard-way.html"
+}

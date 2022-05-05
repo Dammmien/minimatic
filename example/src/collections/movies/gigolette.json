@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gigolette",
+    "year": 1935,
+    "cast": [
+      "Adrienne Ames",
+      "Ralph Bellamy",
+      "Donald Cook",
+      "Robert Armstrong"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/gigolette.html"
+}

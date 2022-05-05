@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Me Before You",
+    "year": 2016,
+    "cast": [
+      "Emilia Clarke",
+      "Sam Claflin"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/me-before-you.html"
+}

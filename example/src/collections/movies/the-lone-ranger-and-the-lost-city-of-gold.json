@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lone Ranger and the Lost City of Gold",
+    "year": 1958,
+    "cast": [
+      "Clayton Moore",
+      "Jay Silverheels"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-lone-ranger-and-the-lost-city-of-gold.html"
+}

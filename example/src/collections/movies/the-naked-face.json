@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Naked Face",
+    "year": 1984,
+    "cast": [
+      "Roger Moore",
+      "Rod Steiger",
+      "Elliott Gould",
+      "Anne Archer",
+      "David Hedison",
+      "Art Carney"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-naked-face.html"
+}

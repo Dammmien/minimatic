@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Queen o'Diamonds",
+    "year": 1926,
+    "cast": [
+      "Evelyn Brent",
+      "Theodore von Eltz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/queen-o-diamonds.html"
+}

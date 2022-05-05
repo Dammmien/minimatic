@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hi Nellie!",
+    "year": 1934,
+    "cast": [
+      "Paul Muni",
+      "Glenda Farrell"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/hi-nellie-.html"
+}

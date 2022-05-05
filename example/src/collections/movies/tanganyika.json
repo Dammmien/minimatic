@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tanganyika",
+    "year": 1954,
+    "cast": [
+      "Van Heflin",
+      "Ruth Roman",
+      "Howard Duff"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/tanganyika.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Tomb Raider",
+    "year": 2018,
+    "cast": [
+      "Alicia Vikander",
+      "Dominic West",
+      "Walton Goggins",
+      "Daniel Wu",
+      "Kristin Scott Thomas",
+      "Derek Jacobi",
+      "Nick Frost",
+      "Hannah John-Kamen"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/tomb-raider.html"
+}

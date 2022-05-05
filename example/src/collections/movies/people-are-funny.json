@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "People Are Funny",
+    "year": 1946,
+    "cast": [
+      "Jack Haley",
+      "Helen Walker",
+      "Rudy Vallée"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/people-are-funny.html"
+}

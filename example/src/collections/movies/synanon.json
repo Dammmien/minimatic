@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Synanon",
+    "year": 1965,
+    "cast": [
+      "Edmond O'Brien",
+      "Chuck Connors",
+      "Stella Stevens"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/synanon.html"
+}

@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Morgan",
+    "year": 2016,
+    "cast": [
+      "Kate Mara"
+    ],
+    "genres": []
+  },
+  "output": "movies/morgan.html"
+}

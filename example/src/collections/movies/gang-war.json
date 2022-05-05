@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gang War",
+    "year": 1958,
+    "cast": [
+      "Charles Bronson",
+      "Jennifer Holden"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/gang-war.html"
+}

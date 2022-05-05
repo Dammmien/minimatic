@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Clean-Up Man",
+    "year": 1928,
+    "cast": [
+      "Ted Wells",
+      "Peggy O'Day"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-clean-up-man.html"
+}

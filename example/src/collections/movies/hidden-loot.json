@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hidden Loot",
+    "year": 1925,
+    "cast": [
+      "Jack Hoxie",
+      "Olive Hasbrouck"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hidden-loot.html"
+}

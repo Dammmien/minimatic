@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Melody Lingers On",
+    "year": 1935,
+    "cast": [
+      "Josephine Hutchinson",
+      "Mona Barrie"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-melody-lingers-on.html"
+}

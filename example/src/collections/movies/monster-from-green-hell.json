@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Monster from Green Hell",
+    "year": 1957,
+    "cast": [
+      "Jim Davis",
+      "Barbara Turner"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/monster-from-green-hell.html"
+}

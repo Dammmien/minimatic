@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Oath-Bound",
+    "year": 1922,
+    "cast": [
+      "Dustin Farnum",
+      "Ethel Grey Terry",
+      "Fred Thomson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/oath-bound.html"
+}

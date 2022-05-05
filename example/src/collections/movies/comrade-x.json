@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Comrade X",
+    "year": 1940,
+    "cast": [
+      "Clark Gable",
+      "Hedy Lamarr",
+      "Oskar Homolka"
+    ],
+    "genres": [
+      "Comedy",
+      "Spy"
+    ]
+  },
+  "output": "movies/comrade-x.html"
+}

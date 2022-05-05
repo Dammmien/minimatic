@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Navajo Kid",
+    "year": 1945,
+    "cast": [
+      "Bob Steele",
+      "Caren Marsh"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/navajo-kid.html"
+}

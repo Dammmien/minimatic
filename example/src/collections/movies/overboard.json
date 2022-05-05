@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Overboard",
+    "year": 2018,
+    "cast": [
+      "Anna Faris",
+      "Eugenio Derbez",
+      "Eva Longoria",
+      "John Hannah",
+      "Josh Segarra",
+      "Mel Rodriguez"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/overboard.html"
+}

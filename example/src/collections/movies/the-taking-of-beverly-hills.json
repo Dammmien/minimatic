@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Taking of Beverly Hills",
+    "year": 1991,
+    "cast": [
+      "Ken Wahl",
+      "Harley Jane Kozak"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-taking-of-beverly-hills.html"
+}

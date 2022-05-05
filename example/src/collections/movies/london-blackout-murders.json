@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "London Blackout Murders",
+    "year": 1943,
+    "cast": [
+      "John Abbott",
+      "Anita Bolster"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/london-blackout-murders.html"
+}

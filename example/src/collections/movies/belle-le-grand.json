@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Belle Le Grand",
+    "year": 1951,
+    "cast": [
+      "Vera Ralston",
+      "John Carroll"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/belle-le-grand.html"
+}

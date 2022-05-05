@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Color of Time",
+    "year": 2014,
+    "cast": [
+      "James Franco",
+      "Henry Hopper",
+      "Mila Kunis",
+      "Zach Braff"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-color-of-time.html"
+}

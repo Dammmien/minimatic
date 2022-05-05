@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Summertime",
+    "year": 1955,
+    "cast": [
+      "Katharine Hepburn",
+      "Rossano Brazzi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/summertime.html"
+}

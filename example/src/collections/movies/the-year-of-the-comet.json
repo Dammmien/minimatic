@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Year of the Comet",
+    "year": 1992,
+    "cast": [
+      "Tim Daly",
+      "Penelope Ann Miller",
+      "Louis Jourdan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-year-of-the-comet.html"
+}

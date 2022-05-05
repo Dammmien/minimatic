@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Juke Girl",
+    "year": 1942,
+    "cast": [
+      "Ann Sheridan",
+      "Ronald Reagan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/juke-girl.html"
+}

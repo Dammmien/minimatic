@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The White Tower",
+    "year": 1950,
+    "cast": [
+      "Glenn Ford",
+      "Alida Valli"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-white-tower.html"
+}

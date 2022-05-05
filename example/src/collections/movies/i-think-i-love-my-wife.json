@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "I Think I Love My Wife",
+    "year": 2007,
+    "cast": [
+      "Chris Rock",
+      "Kerry Washington",
+      "Gina Torres"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-think-i-love-my-wife.html"
+}

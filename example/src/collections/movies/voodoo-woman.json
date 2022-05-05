@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Voodoo Woman",
+    "year": 1957,
+    "cast": [
+      "Tom Conway",
+      "Marla English",
+      "Mike Connors"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/voodoo-woman.html"
+}

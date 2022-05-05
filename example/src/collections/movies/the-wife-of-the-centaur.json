@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wife of the Centaur",
+    "year": 1924,
+    "cast": [
+      "Eleanor Boardman",
+      "John Gilbert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wife-of-the-centaur.html"
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Vice",
+    "year": 2018,
+    "cast": [
+      "Christian Bale",
+      "Amy Adams",
+      "Steve Carell",
+      "Sam Rockwell",
+      "Alison Pill",
+      "Jesse Plemons",
+      "Lily Rabe",
+      "Bill Pullman",
+      "Tyler Perry"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/vice.html"
+}

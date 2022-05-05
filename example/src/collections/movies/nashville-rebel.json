@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nashville Rebel",
+    "year": 1966,
+    "cast": [
+      "Waylon Jennings",
+      "Loretta Lynn"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/nashville-rebel.html"
+}

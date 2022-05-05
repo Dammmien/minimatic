@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "To Wong Foo, Thanks for Everything! Julie Newmar",
+    "year": 1995,
+    "cast": [
+      "Wesley Snipes",
+      "Patrick Swayze",
+      "John Leguizamo",
+      "Stockard Channing",
+      "Chris Penn",
+      "Blythe Danner",
+      "Arliss Howard",
+      "Julie Newmar"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/to-wong-foo--thanks-for-everything--julie-newmar.html"
+}

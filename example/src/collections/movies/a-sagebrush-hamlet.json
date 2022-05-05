@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Sagebrush Hamlet",
+    "year": 1919,
+    "cast": [
+      "William Desmond",
+      "Marguerite De La Motte"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-sagebrush-hamlet.html"
+}

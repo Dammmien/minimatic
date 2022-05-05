@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "War and Remembrance",
+    "year": 1988,
+    "cast": [
+      "Robert Mitchum",
+      "John Gielgud",
+      "Polly Bergen",
+      "Jane Seymour",
+      "Barry Bostwick",
+      "Hart Bochner",
+      "E.G. Marshall",
+      "Sharon Stone"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/war-and-remembrance.html"
+}

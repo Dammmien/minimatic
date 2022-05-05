@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beau Broadway",
+    "year": 1928,
+    "cast": [
+      "Lew Cody",
+      "Aileen Pringle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beau-broadway.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Prince Valiant",
+    "year": 1954,
+    "cast": [
+      "James Mason",
+      "Janet Leigh",
+      "Robert Wagner"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/prince-valiant.html"
+}

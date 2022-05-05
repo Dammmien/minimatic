@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Beautiful Cheat",
+    "year": 1926,
+    "cast": [
+      "Laura La Plante",
+      "Alexander Carr"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-beautiful-cheat.html"
+}

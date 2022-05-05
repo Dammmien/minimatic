@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Husbands",
+    "year": 1970,
+    "cast": [
+      "Peter Falk",
+      "Ben Gazzara"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/husbands.html"
+}

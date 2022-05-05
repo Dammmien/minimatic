@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Border Brigands",
+    "year": 1935,
+    "cast": [
+      "Buck Jones",
+      "Lona Andre"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/border-brigands.html"
+}

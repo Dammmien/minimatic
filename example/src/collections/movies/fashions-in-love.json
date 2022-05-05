@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fashions in Love",
+    "year": 1929,
+    "cast": [
+      "Adolphe Menjou",
+      "Fay Compton"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/fashions-in-love.html"
+}

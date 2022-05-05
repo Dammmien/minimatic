@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "My Favorite Year",
+    "year": 1982,
+    "cast": [
+      "Peter O'Toole",
+      "Mark Linn-Baker",
+      "Joseph Bologna",
+      "Lainie Kazan",
+      "Jessica Harper",
+      "Bill Macy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-favorite-year.html"
+}

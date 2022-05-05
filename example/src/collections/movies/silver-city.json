@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Silver City",
+    "year": 2004,
+    "cast": [
+      "Danny Huston",
+      "Chris Cooper",
+      "Richard Dreyfuss",
+      "Maria Bello"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/silver-city.html"
+}

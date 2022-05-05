@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Cure",
+    "year": 1995,
+    "cast": [
+      "Brad Renfro",
+      "Joseph Mazzello",
+      "Diana Scarwid",
+      "Annabella Sciorra"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-cure.html"
+}

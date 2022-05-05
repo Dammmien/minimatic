@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Caged Fury",
+    "year": 1948,
+    "cast": [
+      "Richard Denning",
+      "Sheila Ryan",
+      "Mary Beth Hughes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/caged-fury.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Graduation Day",
+    "year": 1981,
+    "cast": [
+      "Christopher George",
+      "Michael Pataki"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/graduation-day.html"
+}

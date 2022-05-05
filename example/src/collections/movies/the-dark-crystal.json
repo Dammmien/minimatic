@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Dark Crystal",
+    "year": 1982,
+    "cast": [
+      "Voices of",
+      "Frank Oz",
+      "Jim Henson"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-dark-crystal.html"
+}

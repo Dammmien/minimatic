@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jungle Flight",
+    "year": 1947,
+    "cast": [
+      "Robert Lowery",
+      "Ann Savage",
+      "Barton MacLane"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/jungle-flight.html"
+}

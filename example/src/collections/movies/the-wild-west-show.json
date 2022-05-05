@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wild West Show",
+    "year": 1928,
+    "cast": [
+      "Hoot Gibson",
+      "Dorothy Gulliver"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-wild-west-show.html"
+}

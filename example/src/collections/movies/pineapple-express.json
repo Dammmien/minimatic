@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pineapple Express",
+    "year": 2008,
+    "cast": [
+      "Seth Rogen",
+      "James Franco"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pineapple-express.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Kettles on Old MacDonald's Farm",
+    "year": 1957,
+    "cast": [
+      "Marjorie Main",
+      "Parker Fennelly",
+      "Gloria Talbott"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-kettles-on-old-macdonald-s-farm.html"
+}

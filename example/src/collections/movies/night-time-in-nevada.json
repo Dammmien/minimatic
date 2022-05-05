@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night Time in Nevada",
+    "year": 1948,
+    "cast": [
+      "Roy Rogers",
+      "Adele Mara"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/night-time-in-nevada.html"
+}

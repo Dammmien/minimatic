@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sporting Goods",
+    "year": 1928,
+    "cast": [
+      "Richard Dix",
+      "Ford Sterling"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sporting-goods.html"
+}

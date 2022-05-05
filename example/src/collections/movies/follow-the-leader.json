@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Follow the Leader",
+    "year": 1944,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Gabriel Dell"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/follow-the-leader.html"
+}

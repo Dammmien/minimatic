@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Rite",
+    "year": 2011,
+    "cast": [
+      "Anthony Hopkins",
+      "Colin O'Donoghue",
+      "Maria Grazia Cucinotta",
+      "Alice Braga",
+      "Ciarán Hinds",
+      "Toby Jones",
+      "Chris Marquette",
+      "Rutger Hauer",
+      "Franco Nero"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-rite.html"
+}

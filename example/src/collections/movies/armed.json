@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Armed",
+    "year": 2018,
+    "cast": [
+      "Mario Van Peebles",
+      "William Fichtner",
+      "Ryan Guzman",
+      "Columbus Short",
+      "Laz Alonso"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/armed.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mrs. Pollifax-Spy",
+    "year": 1971,
+    "cast": [
+      "Rosalind Russell",
+      "Darren McGavin"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/mrs--pollifax-spy.html"
+}

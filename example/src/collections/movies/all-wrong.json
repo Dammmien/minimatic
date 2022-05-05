@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "All Wrong",
+    "year": 1919,
+    "cast": [
+      "Bryant Washburn",
+      "Mildred Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/all-wrong.html"
+}

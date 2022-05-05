@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Open Grave",
+    "year": 2014,
+    "cast": [
+      "Sharlto Copley",
+      "Joseph Morgan",
+      "Josie Ho",
+      "Thomas Kretschmann"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/open-grave.html"
+}

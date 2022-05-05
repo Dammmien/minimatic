@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Destroyer",
+    "year": 2018,
+    "cast": [
+      "Nicole Kidman",
+      "Tatiana Maslany",
+      "Sebastian Stan",
+      "Toby Kebbell",
+      "Scoot McNairy"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/destroyer.html"
+}

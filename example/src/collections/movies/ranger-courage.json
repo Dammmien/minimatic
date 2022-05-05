@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ranger Courage",
+    "year": 1937,
+    "cast": [
+      "Robert Allen",
+      "Walter Miller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ranger-courage.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wrong Woman",
+    "year": 1995,
+    "cast": [
+      "Nancy McKeon",
+      "Chelsea Field"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wrong-woman.html"
+}

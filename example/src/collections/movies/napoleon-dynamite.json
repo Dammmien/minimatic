@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Napoleon Dynamite",
+    "year": 2004,
+    "cast": [
+      "Jon Heder"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/napoleon-dynamite.html"
+}

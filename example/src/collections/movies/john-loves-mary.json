@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "John Loves Mary",
+    "year": 1949,
+    "cast": [
+      "Ronald Reagan",
+      "Jack Carson",
+      "Wayne Morris",
+      "Patricia Neal"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/john-loves-mary.html"
+}

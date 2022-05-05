@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Captain Alvarez",
+    "year": 1914,
+    "cast": [
+      "Edith Storey",
+      "William Desmond Taylor",
+      "George Holt"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/captain-alvarez.html"
+}

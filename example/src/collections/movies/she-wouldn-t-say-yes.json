@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "She Wouldn't Say Yes",
+    "year": 1945,
+    "cast": [
+      "Rosalind Russell",
+      "Lee Bowman",
+      "Adele Jergens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-wouldn-t-say-yes.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Now You See Me",
+    "year": 2013,
+    "cast": [
+      "Jesse Eisenberg",
+      "Mark Ruffalo",
+      "Woody Harrelson",
+      "Mélanie Laurent",
+      "Isla Fisher",
+      "Dave Franco",
+      "Michael Caine",
+      "Morgan Freeman"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/now-you-see-me.html"
+}

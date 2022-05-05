@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "year": 2009,
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Jim Broadbent",
+      "Helena Bonham Carter",
+      "Robbie Coltrane",
+      "Warwick Davis",
+      "Michael Gambon",
+      "Alan Rickman",
+      "Maggie Smith",
+      "Timothy Spall",
+      "David Thewlis",
+      "Julie Walters"
+    ],
+    "genres": [
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/harry-potter-and-the-half-blood-prince.html"
+}

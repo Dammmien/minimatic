@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "First Yank into Tokyo",
+    "year": 1945,
+    "cast": [
+      "Tom Neal",
+      "Barbara Hale"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/first-yank-into-tokyo.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eyes in the Night",
+    "year": 1942,
+    "cast": [
+      "Edward Arnold",
+      "Ann Harding"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/eyes-in-the-night.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Perfect",
+    "year": 1985,
+    "cast": [
+      "John Travolta",
+      "Jamie Lee Curtis",
+      "Jann Wenner",
+      "Marilu Henner",
+      "Laraine Newman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/perfect.html"
+}

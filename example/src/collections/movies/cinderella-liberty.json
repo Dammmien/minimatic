@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cinderella Liberty",
+    "year": 1973,
+    "cast": [
+      "James Caan",
+      "Marsha Mason",
+      "Eli Wallach"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cinderella-liberty.html"
+}

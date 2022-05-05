@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Week-End with Father",
+    "year": 1951,
+    "cast": [
+      "Patricia Neal",
+      "Van Heflin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/week-end-with-father.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ace of Aces",
+    "year": 1933,
+    "cast": [
+      "Richard Dix",
+      "Ralph Bellamy",
+      "Elizabeth Allan"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/ace-of-aces.html"
+}

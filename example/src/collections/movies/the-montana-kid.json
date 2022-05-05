@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Montana Kid",
+    "year": 1931,
+    "cast": [
+      "Bill Cody",
+      "Doris Hill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-montana-kid.html"
+}

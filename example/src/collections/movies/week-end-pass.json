@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Week-End Pass",
+    "year": 1944,
+    "cast": [
+      "Martha O'Driscoll",
+      "Noah Beery Jr."
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/week-end-pass.html"
+}

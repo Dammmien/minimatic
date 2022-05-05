@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Red Clay",
+    "year": 1927,
+    "cast": [
+      "William Desmond",
+      "Marceline Day"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/red-clay.html"
+}

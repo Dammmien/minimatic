@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Parental Guidance",
+    "year": 2012,
+    "cast": [
+      "Billy Crystal",
+      "Bette Midler",
+      "Marisa Tomei",
+      "Tom Everett Scott",
+      "Bailee Madison",
+      "Joshua Rush"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/parental-guidance.html"
+}

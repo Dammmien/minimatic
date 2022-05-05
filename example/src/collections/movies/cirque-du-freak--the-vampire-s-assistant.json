@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Cirque du Freak: The Vampire's Assistant",
+    "year": 2009,
+    "cast": [
+      "John C. Reilly",
+      "Ken Watanabe",
+      "Josh Hutcherson",
+      "Chris Massoglia",
+      "Michael Cerveris",
+      "Ray Stevenson",
+      "Patrick Fugit",
+      "Willem Dafoe",
+      "Salma Hayek"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/cirque-du-freak--the-vampire-s-assistant.html"
+}

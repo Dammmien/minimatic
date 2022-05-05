@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cherry, Harry & Raquel!",
+    "year": 1970,
+    "cast": [
+      "Larissa Ely",
+      "Linda Ashton",
+      "Uschi Digard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cherry--harry---raquel-.html"
+}

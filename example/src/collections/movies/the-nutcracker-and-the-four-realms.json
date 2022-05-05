@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Nutcracker and the Four Realms",
+    "year": 2018,
+    "cast": [
+      "Keira Knightley",
+      "Mackenzie Foy",
+      "Eugenio Derbez",
+      "Matthew Macfadyen",
+      "Richard E. Grant",
+      "Misty Copeland",
+      "Helen Mirren",
+      "Morgan Freeman"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-nutcracker-and-the-four-realms.html"
+}

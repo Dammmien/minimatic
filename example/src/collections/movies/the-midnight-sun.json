@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Midnight Sun",
+    "year": 1926,
+    "cast": [
+      "Laura La Plante",
+      "Pat O'Malley",
+      "Michael Vavitch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-midnight-sun.html"
+}

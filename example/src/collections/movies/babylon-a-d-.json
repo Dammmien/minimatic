@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Babylon A.D.",
+    "year": 2008,
+    "cast": [
+      "Vin Diesel",
+      "Michelle Yeoh",
+      "Melanie Thierry",
+      "Lambert Wilson",
+      "Mark Strong",
+      "Charlotte Rampling",
+      "Gérard Depardieu"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ]
+  },
+  "output": "movies/babylon-a-d-.html"
+}

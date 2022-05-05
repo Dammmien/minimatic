@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Vanity",
+    "year": 1927,
+    "cast": [
+      "Leatrice Joy",
+      "Alan Hale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/vanity.html"
+}

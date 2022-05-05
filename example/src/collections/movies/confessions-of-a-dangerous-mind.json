@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Confessions of a Dangerous Mind",
+    "year": 2002,
+    "cast": [
+      "Sam Rockwell",
+      "Drew Barrymore",
+      "George Clooney",
+      "Julia Roberts"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/confessions-of-a-dangerous-mind.html"
+}

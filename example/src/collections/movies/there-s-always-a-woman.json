@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "There's Always a Woman",
+    "year": 1938,
+    "cast": [
+      "Joan Blondell",
+      "Melvyn Douglas",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/there-s-always-a-woman.html"
+}

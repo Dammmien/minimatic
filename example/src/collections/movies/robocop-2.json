@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "RoboCop 2",
+    "year": 1990,
+    "cast": [
+      "Peter Weller",
+      "Nancy Allen",
+      "Dan O'Herlihy",
+      "Tom Noonan",
+      "Belinda Bauer",
+      "Gabriel Damon"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/robocop-2.html"
+}

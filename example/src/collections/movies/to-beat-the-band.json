@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "To Beat the Band",
+    "year": 1935,
+    "cast": [
+      "Hugh Herbert",
+      "Roger Pryor",
+      "Helen Broderick"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/to-beat-the-band.html"
+}

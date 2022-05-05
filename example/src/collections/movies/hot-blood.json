@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hot Blood",
+    "year": 1956,
+    "cast": [
+      "Jane Russell",
+      "Cornel Wilde",
+      "Joseph Calleia"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hot-blood.html"
+}

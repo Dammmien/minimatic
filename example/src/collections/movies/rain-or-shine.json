@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rain Or Shine",
+    "year": 1930,
+    "cast": [
+      "Louise Fazenda",
+      "Joan Peers",
+      "Joe Cook"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/rain-or-shine.html"
+}

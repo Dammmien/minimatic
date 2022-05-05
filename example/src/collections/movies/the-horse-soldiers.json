@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Horse Soldiers",
+    "year": 1959,
+    "cast": [
+      "John Wayne",
+      "William Holden"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-horse-soldiers.html"
+}

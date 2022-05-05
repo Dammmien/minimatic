@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Funny Games",
+    "year": 2008,
+    "cast": [
+      "Naomi Watts",
+      "Tim Roth",
+      "Michael Pitt",
+      "Brady Corbet"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/funny-games.html"
+}

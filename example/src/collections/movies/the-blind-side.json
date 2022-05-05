@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Blind Side",
+    "year": 2009,
+    "cast": [
+      "Sandra Bullock",
+      "Kathy Bates",
+      "Tim McGraw",
+      "Ray McKinnon",
+      "Quinton Aaron"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-blind-side.html"
+}

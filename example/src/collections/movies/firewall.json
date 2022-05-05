@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Firewall",
+    "year": 2006,
+    "cast": [
+      "Harrison Ford",
+      "Paul Bettany",
+      "Virginia Madsen",
+      "Mary Lynn Rajskub"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/firewall.html"
+}

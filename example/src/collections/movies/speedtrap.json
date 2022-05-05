@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Speedtrap",
+    "year": 1977,
+    "cast": [
+      "Joe Don Baker",
+      "Tyne Daly",
+      "Richard Jaeckel"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/speedtrap.html"
+}

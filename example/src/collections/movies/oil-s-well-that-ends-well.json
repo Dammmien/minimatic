@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Oil's Well That Ends Well",
+    "year": 1958,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/oil-s-well-that-ends-well.html"
+}

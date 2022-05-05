@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rumor Has It...",
+    "year": 2005,
+    "cast": [
+      "Jennifer Aniston",
+      "Kevin Costner",
+      "Shirley MacLaine",
+      "Mark Ruffalo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rumor-has-it---.html"
+}

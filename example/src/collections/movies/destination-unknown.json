@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Destination Unknown",
+    "year": 1933,
+    "cast": [
+      "Pat O'Brien",
+      "Ralph Bellamy",
+      "Alan Hale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/destination-unknown.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Billy Rose's Jumbo",
+    "year": 1962,
+    "cast": [
+      "Doris Day",
+      "Jimmy Durante",
+      "Stephen Boyd",
+      "Martha Raye"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/billy-rose-s-jumbo.html"
+}

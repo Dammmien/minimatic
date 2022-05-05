@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Spitfire",
+    "year": 1924,
+    "cast": [
+      "Betty Blythe",
+      "Lowell Sherman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-spitfire.html"
+}

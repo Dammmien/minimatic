@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Days of Wine and Roses",
+    "year": 1962,
+    "cast": [
+      "Jack Lemmon",
+      "Lee Remick",
+      "Jack Klugman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/days-of-wine-and-roses.html"
+}

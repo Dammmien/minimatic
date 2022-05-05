@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Man of the House",
+    "year": 2005,
+    "cast": [
+      "Tommy Lee Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/man-of-the-house.html"
+}

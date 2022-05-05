@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Arnold",
+    "year": 1973,
+    "cast": [
+      "Stella Stevens",
+      "Roddy McDowall",
+      "Elsa Lanchester",
+      "Shani Wallis"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/arnold.html"
+}

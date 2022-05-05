@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Impossible Years",
+    "year": 1968,
+    "cast": [
+      "David Niven",
+      "Lola Albright",
+      "Ozzie Nelson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-impossible-years.html"
+}

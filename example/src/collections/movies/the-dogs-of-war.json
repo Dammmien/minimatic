@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Dogs of War",
+    "year": 1980,
+    "cast": [
+      "Christopher Walken",
+      "Tom Berenger",
+      "Colin Blakely"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-dogs-of-war.html"
+}

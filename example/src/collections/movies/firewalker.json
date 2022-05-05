@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Firewalker",
+    "year": 1986,
+    "cast": [
+      "Chuck Norris",
+      "Louis Gossett Jr."
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/firewalker.html"
+}

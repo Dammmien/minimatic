@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "House of Dark Shadows",
+    "year": 1970,
+    "cast": [
+      "Jonathan Frid",
+      "Grayson Hall"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/house-of-dark-shadows.html"
+}

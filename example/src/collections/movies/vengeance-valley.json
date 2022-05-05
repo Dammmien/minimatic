@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Vengeance Valley",
+    "year": 1951,
+    "cast": [
+      "Burt Lancaster",
+      "Robert Walker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/vengeance-valley.html"
+}

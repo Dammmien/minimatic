@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Little Night Music",
+    "year": 1977,
+    "cast": [
+      "Elizabeth Taylor",
+      "Diana Rigg",
+      "Len Cariou"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/a-little-night-music.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Who's Your Friend",
+    "year": 1925,
+    "cast": [
+      "Francis X. Bushman Jr.",
+      "Jimmy Aubrey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/who-s-your-friend.html"
+}

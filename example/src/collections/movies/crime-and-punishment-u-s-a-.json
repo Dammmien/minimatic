@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Crime and Punishment U.S.A.",
+    "year": 1959,
+    "cast": [
+      "George Hamilton",
+      "Mary Murphy",
+      "Marian Seldes"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/crime-and-punishment-u-s-a-.html"
+}

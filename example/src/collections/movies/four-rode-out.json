@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Four Rode Out",
+    "year": 1971,
+    "cast": [
+      "Sue Lyon",
+      "Leslie Nielsen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/four-rode-out.html"
+}

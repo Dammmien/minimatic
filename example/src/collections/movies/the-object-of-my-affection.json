@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Object of My Affection",
+    "year": 1998,
+    "cast": [
+      "Jennifer Aniston",
+      "Paul Rudd",
+      "Steve Zahn",
+      "Allison Janney",
+      "Alan Alda"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-object-of-my-affection.html"
+}

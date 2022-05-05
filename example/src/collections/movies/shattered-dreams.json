@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shattered Dreams",
+    "year": 1922,
+    "cast": [
+      "Miss DuPont",
+      "Bertram Grassby"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shattered-dreams.html"
+}

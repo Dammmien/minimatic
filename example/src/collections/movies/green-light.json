@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Green Light",
+    "year": 1937,
+    "cast": [
+      "Errol Flynn",
+      "Anita Louise",
+      "Cedric Hardwicke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/green-light.html"
+}

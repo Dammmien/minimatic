@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Get Shorty",
+    "year": 1995,
+    "cast": [
+      "John Travolta",
+      "Gene Hackman",
+      "Rene Russo",
+      "Danny DeVito",
+      "James Gandolfini",
+      "Delroy Lindo",
+      "David Paymer",
+      "Dennis Farina"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/get-shorty.html"
+}

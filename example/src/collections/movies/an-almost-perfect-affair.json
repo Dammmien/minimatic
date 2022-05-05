@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "An Almost Perfect Affair",
+    "year": 1979,
+    "cast": [
+      "Monica Vitti",
+      "Keith Carradine"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/an-almost-perfect-affair.html"
+}

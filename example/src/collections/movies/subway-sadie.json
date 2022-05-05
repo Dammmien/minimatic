@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Subway Sadie",
+    "year": 1926,
+    "cast": [
+      "Dorothy Mackaill",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/subway-sadie.html"
+}

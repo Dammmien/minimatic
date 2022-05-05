@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Zack and Miri Make a Porno",
+    "year": 2008,
+    "cast": [
+      "Seth Rogen",
+      "Elizabeth Banks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/zack-and-miri-make-a-porno.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sing You Sinners",
+    "year": 1938,
+    "cast": [
+      "Bing Crosby",
+      "Fred MacMurray",
+      "Ellen Drew"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/sing-you-sinners.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Men of the Night",
+    "year": 1934,
+    "cast": [
+      "Bruce Cabot",
+      "Judith Allen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/men-of-the-night.html"
+}

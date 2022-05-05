@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Flame of New Orleans",
+    "year": 1941,
+    "cast": [
+      "Marlene Dietrich",
+      "Mischa Auer"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-flame-of-new-orleans.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mind Your Own Business",
+    "year": 1936,
+    "cast": [
+      "Charles Ruggles",
+      "Alice Brady",
+      "Gene Lockhart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mind-your-own-business.html"
+}

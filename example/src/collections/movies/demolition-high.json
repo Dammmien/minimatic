@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Demolition High",
+    "year": 1996,
+    "cast": [
+      "Corey Haim",
+      "Alan Thicke",
+      "Dick Van Patten"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/demolition-high.html"
+}

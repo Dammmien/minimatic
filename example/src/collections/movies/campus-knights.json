@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Campus Knights",
+    "year": 1929,
+    "cast": [
+      "Raymond McKee",
+      "Shirley Palmer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/campus-knights.html"
+}

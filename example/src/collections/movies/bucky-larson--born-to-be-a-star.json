@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bucky Larson: Born to Be a Star",
+    "year": 2011,
+    "cast": [
+      "Nick Swardson",
+      "Christina Ricci",
+      "Don Johnson",
+      "Stephen Dorff"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bucky-larson--born-to-be-a-star.html"
+}

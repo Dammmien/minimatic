@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Come On, Rangers",
+    "year": 1938,
+    "cast": [
+      "Roy Rogers",
+      "Lynne Roberts"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/come-on--rangers.html"
+}

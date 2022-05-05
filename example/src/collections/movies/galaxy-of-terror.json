@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Galaxy of Terror",
+    "year": 1981,
+    "cast": [
+      "Edward Albert",
+      "Erin Moran",
+      "Ray Walston"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/galaxy-of-terror.html"
+}

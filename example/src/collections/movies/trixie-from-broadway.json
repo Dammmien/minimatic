@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trixie from Broadway",
+    "year": 1919,
+    "cast": [
+      "Margarita Fischer",
+      "Emory Johnson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/trixie-from-broadway.html"
+}

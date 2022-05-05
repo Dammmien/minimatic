@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Goodbye, New York",
+    "year": 1985,
+    "cast": [
+      "Julie Hagerty",
+      "Amos Kollek"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/goodbye--new-york.html"
+}

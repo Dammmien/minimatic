@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cisco Kid",
+    "year": 1931,
+    "cast": [
+      "Warner Baxter",
+      "Edmund Lowe"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-cisco-kid.html"
+}

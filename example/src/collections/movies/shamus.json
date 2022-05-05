@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shamus",
+    "year": 1973,
+    "cast": [
+      "Burt Reynolds",
+      "Dyan Cannon"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/shamus.html"
+}

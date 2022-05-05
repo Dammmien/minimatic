@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Equinox",
+    "year": 1992,
+    "cast": [
+      "Matthew Modine",
+      "Lara Flynn Boyle",
+      "Marisa Tomei"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/equinox.html"
+}

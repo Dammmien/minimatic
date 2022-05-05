@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Danger, Go Slow",
+    "year": 1918,
+    "cast": [
+      "Mae Murray",
+      "Jack Mulhall",
+      "Lon Chaney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/danger--go-slow.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Seven Days Leave",
+    "year": 1930,
+    "cast": [
+      "Gary Cooper",
+      "Beryl Mercer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/seven-days-leave.html"
+}

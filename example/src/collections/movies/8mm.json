@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "8mm",
+    "year": 1999,
+    "cast": [
+      "Nicolas Cage",
+      "Joaquin Phoenix",
+      "James Gandolfini",
+      "Peter Stormare",
+      "Catherine Keener",
+      "Anthony Heald"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/8mm.html"
+}

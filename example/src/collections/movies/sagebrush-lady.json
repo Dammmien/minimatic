@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sagebrush Lady",
+    "year": 1925,
+    "cast": [
+      "Eileen Sedgwick",
+      "Ben Corbett"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sagebrush-lady.html"
+}

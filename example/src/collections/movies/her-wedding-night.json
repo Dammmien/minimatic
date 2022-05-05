@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Her Wedding Night",
+    "year": 1930,
+    "cast": [
+      "Clara Bow",
+      "Ralph Forbes"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/her-wedding-night.html"
+}

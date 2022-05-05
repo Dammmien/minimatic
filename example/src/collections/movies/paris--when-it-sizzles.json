@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Paris, When It Sizzles",
+    "year": 1964,
+    "cast": [
+      "Audrey Hepburn",
+      "William Holden"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/paris--when-it-sizzles.html"
+}

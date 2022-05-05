@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Invitation to Happiness",
+    "year": 1939,
+    "cast": [
+      "Irene Dunne",
+      "Fred MacMurray",
+      "Charlie Ruggles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/invitation-to-happiness.html"
+}

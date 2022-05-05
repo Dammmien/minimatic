@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Show Folks",
+    "year": 1928,
+    "cast": [
+      "Lina Basquette",
+      "Carole Lombard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/show-folks.html"
+}

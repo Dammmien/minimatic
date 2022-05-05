@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hot Lead",
+    "year": 1951,
+    "cast": [
+      "Tim Holt",
+      "Joan Dixon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hot-lead.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Linda, Be Good",
+    "year": 1947,
+    "cast": [
+      "Elyse Knox",
+      "Marie Wilson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/linda--be-good.html"
+}

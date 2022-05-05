@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jane Eyre",
+    "year": 1997,
+    "cast": [
+      "Samantha Morton",
+      "Ciarán Hinds"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jane-eyre.html"
+}

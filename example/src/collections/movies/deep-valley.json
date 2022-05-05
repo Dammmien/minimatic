@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Deep Valley",
+    "year": 1947,
+    "cast": [
+      "Ida Lupino",
+      "Dane Clark",
+      "Fay Bainter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/deep-valley.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bad News Bears",
+    "year": 2005,
+    "cast": [
+      "Billy Bob Thornton",
+      "Greg Kinnear"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bad-news-bears.html"
+}

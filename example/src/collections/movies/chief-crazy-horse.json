@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chief Crazy Horse",
+    "year": 1955,
+    "cast": [
+      "Victor Mature",
+      "Suzan Ball",
+      "John Lund"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/chief-crazy-horse.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Island Women",
+    "year": 1958,
+    "cast": [
+      "Marie Windsor",
+      "Vince Edwards"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/island-women.html"
+}

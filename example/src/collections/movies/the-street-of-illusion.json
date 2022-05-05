@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Street of Illusion",
+    "year": 1928,
+    "cast": [
+      "Virginia Valli",
+      "Ian Keith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-street-of-illusion.html"
+}

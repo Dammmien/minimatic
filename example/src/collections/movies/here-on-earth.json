@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Here on Earth",
+    "year": 2000,
+    "cast": [
+      "Chris Klein",
+      "Leelee Sobieski",
+      "Josh Hartnett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/here-on-earth.html"
+}

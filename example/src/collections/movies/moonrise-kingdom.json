@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Moonrise Kingdom",
+    "year": 2012,
+    "cast": [
+      "Bruce Willis",
+      "Edward Norton",
+      "Bill Murray",
+      "Frances McDormand",
+      "Tilda Swinton",
+      "Jason Schwartzman",
+      "Bob Balaban",
+      "Harvey Keitel",
+      "Marc Rizzo",
+      "Jared Gilman",
+      "Kara Hayward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/moonrise-kingdom.html"
+}

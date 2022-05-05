@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Guadalcanal Diary",
+    "year": 1943,
+    "cast": [
+      "William Bendix",
+      "Richard Conte",
+      "Anthony Quinn"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/guadalcanal-diary.html"
+}

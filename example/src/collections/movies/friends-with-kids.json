@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Friends with Kids",
+    "year": 2012,
+    "cast": [
+      "Adam Scott",
+      "Jennifer Westfeldt",
+      "Jon Hamm",
+      "Kristen Wiig",
+      "Maya Rudolph",
+      "Chris O'Dowd",
+      "Megan Fox",
+      "Edward Burns"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/friends-with-kids.html"
+}

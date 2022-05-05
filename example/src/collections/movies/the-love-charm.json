@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Love Charm",
+    "year": 1921,
+    "cast": [
+      "Wanda Hawley",
+      "Mae Busch",
+      "Sylvia Ashton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-love-charm.html"
+}

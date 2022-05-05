@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hold That Kiss",
+    "year": 1938,
+    "cast": [
+      "Maureen O'Sullivan",
+      "Dennis O'Keefe",
+      "Mickey Rooney"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/hold-that-kiss.html"
+}

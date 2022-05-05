@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Atlas Shrugged: Part I",
+    "year": 2011,
+    "cast": [
+      "Taylor Schilling",
+      "Grant Bowler",
+      "Matthew Marsden",
+      "Edi Gathegi",
+      "Graham Beckel",
+      "Jsu Garcia",
+      "Jon Polito",
+      "Michael Lerner"
+    ],
+    "genres": [
+      "Drama",
+      "Political",
+      "Thriller"
+    ]
+  },
+  "output": "movies/atlas-shrugged--part-i.html"
+}

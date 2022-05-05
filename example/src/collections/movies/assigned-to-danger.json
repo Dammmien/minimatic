@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Assigned to Danger",
+    "year": 1948,
+    "cast": [
+      "Gene Raymond",
+      "Noreen Nash"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/assigned-to-danger.html"
+}

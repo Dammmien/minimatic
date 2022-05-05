@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ham and Eggs at the Front",
+    "year": 1927,
+    "cast": [
+      "Tom Wilson",
+      "Heinie Conklin",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ham-and-eggs-at-the-front.html"
+}

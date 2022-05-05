@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "No Escape",
+    "year": 2015,
+    "cast": [
+      "Lake Bell",
+      "Pierce Brosnan",
+      "Owen Wilson",
+      "Sterling Jerins"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/no-escape.html"
+}

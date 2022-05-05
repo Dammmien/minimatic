@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "There's No Business Like Show Business",
+    "year": 1954,
+    "cast": [
+      "Ethel Merman",
+      "Donald O'Connor",
+      "Marilyn Monroe",
+      "Mitzi Gaynor",
+      "Dan Dailey",
+      "Johnnie Ray"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/there-s-no-business-like-show-business.html"
+}

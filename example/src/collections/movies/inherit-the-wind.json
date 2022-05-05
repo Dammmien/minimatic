@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Inherit the Wind",
+    "year": 1960,
+    "cast": [
+      "Spencer Tracy",
+      "Fredric March",
+      "Gene Kelly",
+      "Harry Morgan",
+      "Claude Akins",
+      "Dick York"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/inherit-the-wind.html"
+}

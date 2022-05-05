@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Thunderbolt and Lightfoot",
+    "year": 1974,
+    "cast": [
+      "Clint Eastwood",
+      "Jeff Bridges",
+      "George Kennedy",
+      "Geoffrey Lewis"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/thunderbolt-and-lightfoot.html"
+}

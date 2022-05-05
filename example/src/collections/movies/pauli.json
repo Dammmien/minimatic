@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pauli",
+    "year": 1998,
+    "cast": [
+      "Jay Mohr",
+      "Tony Shalhoub",
+      "Gena Rowlands"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/pauli.html"
+}

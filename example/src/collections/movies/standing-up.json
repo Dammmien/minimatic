@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Standing Up",
+    "year": 2013,
+    "cast": [
+      "Annalise Basso",
+      "Radha Mitchell",
+      "Chandler Canterbury"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/standing-up.html"
+}

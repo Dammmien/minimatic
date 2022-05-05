@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Castles in the Air",
+    "year": 1919,
+    "cast": [
+      "May Allison",
+      "Clarence Burton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/castles-in-the-air.html"
+}

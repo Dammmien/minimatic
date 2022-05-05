@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mexican Manhunt",
+    "year": 1953,
+    "cast": [
+      "George Brent",
+      "Karen Sharpe"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/mexican-manhunt.html"
+}

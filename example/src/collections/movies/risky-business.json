@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Risky Business",
+    "year": 1983,
+    "cast": [
+      "Tom Cruise",
+      "Rebecca De Mornay"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/risky-business.html"
+}

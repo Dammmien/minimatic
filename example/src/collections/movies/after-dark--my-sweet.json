@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "After Dark, My Sweet",
+    "year": 1990,
+    "cast": [
+      "Jason Patric",
+      "Rachel Ward",
+      "Bruce Dern"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/after-dark--my-sweet.html"
+}

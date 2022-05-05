@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Son of Rusty",
+    "year": 1947,
+    "cast": [
+      "Tom Powers",
+      "Ann Doran"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-son-of-rusty.html"
+}

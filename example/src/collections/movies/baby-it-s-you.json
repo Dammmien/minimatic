@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Baby It's You",
+    "year": 1983,
+    "cast": [
+      "Rosanna Arquette",
+      "Vincent Spano",
+      "Joanna Merlin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/baby-it-s-you.html"
+}

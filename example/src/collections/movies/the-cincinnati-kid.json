@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Cincinnati Kid",
+    "year": 1965,
+    "cast": [
+      "Steve McQueen",
+      "Ann-Margret",
+      "Edward G. Robinson",
+      "Karl Malden",
+      "Tuesday Weld",
+      "Rip Torn",
+      "Cab Calloway",
+      "Joan Blondell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-cincinnati-kid.html"
+}

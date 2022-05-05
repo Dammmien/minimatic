@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Victoria & Abdul",
+    "year": 2017,
+    "cast": [
+      "Judi Dench",
+      "Ali Fazal",
+      "Eddie Izzard",
+      "Tim Pigott-Smith",
+      "Adeel Akhtar"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/victoria---abdul.html"
+}

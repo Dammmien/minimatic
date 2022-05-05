@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rangers of Fortune",
+    "year": 1940,
+    "cast": [
+      "Fred MacMurray",
+      "Albert Dekker",
+      "Patricia Morison"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rangers-of-fortune.html"
+}

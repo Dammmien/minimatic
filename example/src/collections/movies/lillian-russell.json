@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lillian Russell",
+    "year": 1940,
+    "cast": [
+      "Alice Faye",
+      "Don Ameche",
+      "Henry Fonda"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/lillian-russell.html"
+}

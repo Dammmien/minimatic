@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Diving Bell and the Butterfly",
+    "year": 2007,
+    "cast": [
+      "Mathieu Amalric",
+      "Emmanuelle Seigner",
+      "Marie-Josée Croze",
+      "Max von Sydow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-diving-bell-and-the-butterfly.html"
+}

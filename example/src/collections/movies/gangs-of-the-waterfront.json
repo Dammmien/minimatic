@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gangs of the Waterfront",
+    "year": 1945,
+    "cast": [
+      "Stephanie Bachelor",
+      "Robert Armstrong"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/gangs-of-the-waterfront.html"
+}

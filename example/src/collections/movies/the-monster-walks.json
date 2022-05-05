@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Monster Walks",
+    "year": 1932,
+    "cast": [
+      "Rex Lease",
+      "Vera Reynolds",
+      "Sheldon Lewis"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-monster-walks.html"
+}

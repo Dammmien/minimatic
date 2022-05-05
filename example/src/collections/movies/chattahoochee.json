@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Chattahoochee",
+    "year": 1989,
+    "cast": [
+      "Gary Oldman",
+      "Dennis Hopper",
+      "Pamela Reed",
+      "Ned Beatty"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/chattahoochee.html"
+}

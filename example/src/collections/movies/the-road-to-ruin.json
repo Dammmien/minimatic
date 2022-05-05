@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Road to Ruin",
+    "year": 1934,
+    "cast": [
+      "Helen Foster",
+      "Nell O'Day"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-road-to-ruin.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Teen Titans Go! To the Movies",
+    "year": 2018,
+    "cast": [
+      "Scott Menville",
+      "Khary Payton",
+      "Tara Strong",
+      "Greg Cipes",
+      "Hynden Walch",
+      "Will Arnett",
+      "Kristen Bell"
+    ],
+    "genres": [
+      "Animated",
+      "Superhero",
+      "Comedy"
+    ]
+  },
+  "output": "movies/teen-titans-go--to-the-movies.html"
+}

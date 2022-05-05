@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Room",
+    "year": 2003,
+    "cast": [
+      "Tommy Wiseau",
+      "Juliette Danielle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-room.html"
+}

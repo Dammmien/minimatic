@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bee Movie",
+    "year": 2007,
+    "cast": [
+      "Jerry Seinfeld",
+      "Renée Zellweger",
+      "Matthew Broderick"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/bee-movie.html"
+}

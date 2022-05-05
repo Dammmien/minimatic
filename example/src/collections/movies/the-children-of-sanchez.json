@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Children of Sanchez",
+    "year": 1979,
+    "cast": [
+      "Anthony Quinn",
+      "Dolores del Río",
+      "Katy Jurado"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-children-of-sanchez.html"
+}

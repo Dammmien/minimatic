@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dangerous Number",
+    "year": 1937,
+    "cast": [
+      "Robert Young",
+      "Ann Sothern",
+      "Cora Witherspoon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dangerous-number.html"
+}

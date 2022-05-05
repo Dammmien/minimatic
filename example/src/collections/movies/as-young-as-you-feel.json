@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "As Young as You Feel",
+    "year": 1951,
+    "cast": [
+      "Constance Bennett",
+      "Monty Woolley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/as-young-as-you-feel.html"
+}

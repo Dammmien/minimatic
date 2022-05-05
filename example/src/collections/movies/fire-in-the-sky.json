@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fire in the Sky",
+    "year": 1993,
+    "cast": [
+      "D. B. Sweeney",
+      "Robert Patrick",
+      "Craig Sheffer",
+      "James Garner"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/fire-in-the-sky.html"
+}

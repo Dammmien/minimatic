@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Beloved Brute",
+    "year": 1924,
+    "cast": [
+      "Marguerite De La Motte",
+      "Victor McLaglen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-beloved-brute.html"
+}

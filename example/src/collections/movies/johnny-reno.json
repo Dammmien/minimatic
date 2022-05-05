@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Johnny Reno",
+    "year": 1966,
+    "cast": [
+      "Dana Andrews",
+      "Jane Russell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/johnny-reno.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Hour Before Dawn",
+    "year": 1920,
+    "cast": [
+      "H. B. Warner",
+      "Anna Q. Nilsson"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/one-hour-before-dawn.html"
+}

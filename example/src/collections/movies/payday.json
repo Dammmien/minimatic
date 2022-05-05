@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Payday",
+    "year": 1972,
+    "cast": [
+      "Rip Torn",
+      "Ahna Capri"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/payday.html"
+}

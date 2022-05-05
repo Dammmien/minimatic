@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tales from the Darkside: The Movie",
+    "year": 1990,
+    "cast": [
+      "Christian Slater",
+      "Julianne Moore"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/tales-from-the-darkside--the-movie.html"
+}

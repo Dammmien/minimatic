@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Farewell, My Lovely",
+    "year": 1975,
+    "cast": [
+      "Robert Mitchum",
+      "Charlotte Rampling",
+      "John Ireland",
+      "Sylvia Miles",
+      "Harry Dean Stanton"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/farewell--my-lovely.html"
+}

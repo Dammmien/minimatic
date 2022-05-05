@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Journey's End",
+    "year": 1930,
+    "cast": [
+      "Colin Clive",
+      "David Manners"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/journey-s-end.html"
+}

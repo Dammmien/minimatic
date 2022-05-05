@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Suburban Girl",
+    "year": 2007,
+    "cast": [
+      "Sarah Michelle Gellar",
+      "Alec Baldwin",
+      "Maggie Grace",
+      "Chris Carmack"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/suburban-girl.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A Nightmare on Elm Street 3: Dream Warriors",
+    "year": 1987,
+    "cast": [
+      "Heather Langenkamp",
+      "Patricia Arquette",
+      "Robert Englund",
+      "Laurence Fishburne",
+      "John Saxon"
+    ],
+    "genres": [
+      "Slasher"
+    ]
+  },
+  "output": "movies/a-nightmare-on-elm-street-3--dream-warriors.html"
+}

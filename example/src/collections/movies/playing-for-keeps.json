@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Playing for Keeps",
+    "year": 1986,
+    "cast": [
+      "Daniel Jordano",
+      "Matthew Penn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/playing-for-keeps.html"
+}

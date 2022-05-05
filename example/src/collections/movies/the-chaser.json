@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Chaser",
+    "year": 1938,
+    "cast": [
+      "Lewis Stone",
+      "Nat Pendleton",
+      "John Qualen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-chaser.html"
+}

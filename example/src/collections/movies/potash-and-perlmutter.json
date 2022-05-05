@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Potash and Perlmutter",
+    "year": 1923,
+    "cast": [
+      "Martha Mansfield",
+      "Ben Lyon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/potash-and-perlmutter.html"
+}

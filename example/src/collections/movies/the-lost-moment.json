@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lost Moment",
+    "year": 1947,
+    "cast": [
+      "Susan Hayward",
+      "Robert Cummings"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-lost-moment.html"
+}

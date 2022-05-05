@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Closet Land",
+    "year": 1991,
+    "cast": [
+      "Madeleine Stowe",
+      "Alan Rickman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/closet-land.html"
+}

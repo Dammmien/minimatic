@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Silver Horde",
+    "year": 1930,
+    "cast": [
+      "Evelyn Brent",
+      "Joel McCrea",
+      "Jean Arthur"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-silver-horde.html"
+}

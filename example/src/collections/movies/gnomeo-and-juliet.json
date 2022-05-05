@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "Gnomeo and Juliet",
+    "year": 2011,
+    "cast": [
+      "James McAvoy",
+      "Emily Blunt",
+      "Michael Caine",
+      "Maggie Smith",
+      "Jason Statham",
+      "Patrick Stewart",
+      "Ashley Jensen",
+      "Stephen Merchant",
+      "Matt Lucas",
+      "Jim Cummings",
+      "Julie Walters",
+      "Richard Wilson",
+      "Ozzy Osbourne",
+      "Dolly Parton",
+      "Hulk Hogan"
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/gnomeo-and-juliet.html"
+}

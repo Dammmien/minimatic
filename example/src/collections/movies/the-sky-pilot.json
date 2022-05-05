@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sky Pilot",
+    "year": 1921,
+    "cast": [
+      "John Bowers",
+      "Colleen Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sky-pilot.html"
+}

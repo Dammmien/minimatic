@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Daltons' Women",
+    "year": 1950,
+    "cast": [
+      "Lash LaRue",
+      "Jack Holt",
+      "Pamela Blake"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-daltons--women.html"
+}

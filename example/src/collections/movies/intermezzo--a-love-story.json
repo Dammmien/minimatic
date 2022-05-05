@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Intermezzo: A Love Story",
+    "year": 1939,
+    "cast": [
+      "Leslie Howard",
+      "Ingrid Bergman"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/intermezzo--a-love-story.html"
+}

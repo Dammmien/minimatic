@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Drop Dead Gorgeous",
+    "year": 1999,
+    "cast": [
+      "Kirstie Alley",
+      "Ellen Barkin",
+      "Kirsten Dunst",
+      "Denise Richards"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/drop-dead-gorgeous.html"
+}

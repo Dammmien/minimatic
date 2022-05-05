@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A Soldier's Plaything",
+    "year": 1930,
+    "cast": [
+      "Ben Lyon",
+      "Harry Langdon",
+      "Noah Beery"
+    ],
+    "genres": [
+      "War",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-soldier-s-plaything.html"
+}

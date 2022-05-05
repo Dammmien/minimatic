@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Code of the Fearless",
+    "year": 1939,
+    "cast": [
+      "Fred Scott",
+      "Claire Rochelle"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/code-of-the-fearless.html"
+}

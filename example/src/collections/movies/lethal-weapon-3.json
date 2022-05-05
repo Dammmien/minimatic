@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Lethal Weapon 3",
+    "year": 1992,
+    "cast": [
+      "Mel Gibson",
+      "Danny Glover",
+      "Joe Pesci",
+      "Rene Russo"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/lethal-weapon-3.html"
+}

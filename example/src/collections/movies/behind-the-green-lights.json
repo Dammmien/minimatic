@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Behind the Green Lights",
+    "year": 1935,
+    "cast": [
+      "Norman Foster",
+      "Judith Allen"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/behind-the-green-lights.html"
+}

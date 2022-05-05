@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gang Bullets",
+    "year": 1938,
+    "cast": [
+      "Anne Nagel",
+      "Robert Kent"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/gang-bullets.html"
+}

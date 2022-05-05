@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Slam",
+    "year": 1998,
+    "cast": [
+      "Saul Williams",
+      "Bönz Malone",
+      "Sonja Sohn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/slam.html"
+}

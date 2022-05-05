@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pitch Black",
+    "year": 2000,
+    "cast": [
+      "Vin Diesel",
+      "Keith David",
+      "Cole Hauser"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/pitch-black.html"
+}

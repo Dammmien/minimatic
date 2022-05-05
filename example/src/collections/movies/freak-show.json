@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Freak Show",
+    "year": 2018,
+    "cast": [
+      "Alex Lawther",
+      "Abigail Breslin",
+      "Bette Midler",
+      "AnnaSophia Robb",
+      "Ian Nelson",
+      "Lorraine Toussaint",
+      "Laverne Cox"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/freak-show.html"
+}

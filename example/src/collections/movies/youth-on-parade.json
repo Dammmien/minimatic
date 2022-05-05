@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Youth on Parade",
+    "year": 1942,
+    "cast": [
+      "John Hubbard",
+      "Ruth Terry",
+      "Martha O'Driscoll"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/youth-on-parade.html"
+}

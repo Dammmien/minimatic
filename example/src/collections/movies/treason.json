@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Treason",
+    "year": 1933,
+    "cast": [
+      "Buck Jones",
+      "Shirley Grey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/treason.html"
+}

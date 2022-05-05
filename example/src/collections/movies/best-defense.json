@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Best Defense",
+    "year": 1984,
+    "cast": [
+      "Dudley Moore",
+      "Eddie Murphy",
+      "Kate Capshaw",
+      "George Dzundza"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/best-defense.html"
+}

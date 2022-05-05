@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Western Renegades",
+    "year": 1949,
+    "cast": [
+      "Johnny Mack Brown",
+      "Max Terhune"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/western-renegades.html"
+}

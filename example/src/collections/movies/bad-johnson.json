@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bad Johnson",
+    "year": 2014,
+    "cast": [
+      "Cam Gigandet",
+      "Nick Thune",
+      "Jamie Chung",
+      "Katherine Cunningham"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bad-johnson.html"
+}

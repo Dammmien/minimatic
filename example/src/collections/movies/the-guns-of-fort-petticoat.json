@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Guns of Fort Petticoat",
+    "year": 1957,
+    "cast": [
+      "Audie Murphy",
+      "Kathryn Grant"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-guns-of-fort-petticoat.html"
+}

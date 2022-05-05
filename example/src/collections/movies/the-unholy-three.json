@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Unholy Three",
+    "year": 1930,
+    "cast": [
+      "Lon Chaney",
+      "Lila Lee",
+      "Harry Earles"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-unholy-three.html"
+}

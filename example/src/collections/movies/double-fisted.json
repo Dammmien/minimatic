@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Double-Fisted",
+    "year": 1925,
+    "cast": [
+      "Jack Perrin",
+      "Lew Meehan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/double-fisted.html"
+}

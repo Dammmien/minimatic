@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Anesthesia",
+    "year": 2016,
+    "cast": [
+      "Sam Waterston",
+      "Tim Blake Nelson",
+      "Kristen Stewart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/anesthesia.html"
+}

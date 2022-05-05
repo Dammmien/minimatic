@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "I Am Number Four",
+    "year": 2011,
+    "cast": [
+      "Alex Pettyfer",
+      "Timothy Olyphant",
+      "Teresa Palmer",
+      "Dianna Agron",
+      "Callan McAuliffe",
+      "Kevin Durand"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Teen"
+    ]
+  },
+  "output": "movies/i-am-number-four.html"
+}

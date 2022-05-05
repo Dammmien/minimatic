@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cattle Queen of Montana",
+    "year": 1954,
+    "cast": [
+      "Barbara Stanwyck",
+      "Ronald Reagan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cattle-queen-of-montana.html"
+}

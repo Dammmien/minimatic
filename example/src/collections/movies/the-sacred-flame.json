@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sacred Flame",
+    "year": 1929,
+    "cast": [
+      "Pauline Frederick",
+      "Conrad Nagel",
+      "Lila Lee"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-sacred-flame.html"
+}

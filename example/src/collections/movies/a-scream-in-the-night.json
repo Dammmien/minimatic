@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Scream in the Night",
+    "year": 1934,
+    "cast": [
+      "Lon Chaney Jr.",
+      "Sheila Terry"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/a-scream-in-the-night.html"
+}

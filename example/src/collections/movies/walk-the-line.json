@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Walk the Line",
+    "year": 2005,
+    "cast": [
+      "Joaquin Phoenix",
+      "Reese Witherspoon"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/walk-the-line.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Living Ghost",
+    "year": 1942,
+    "cast": [
+      "James Dunn",
+      "Joan Woodbury"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-living-ghost.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Learning to Love",
+    "year": 1925,
+    "cast": [
+      "Constance Talmadge",
+      "Antonio Moreno"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/learning-to-love.html"
+}

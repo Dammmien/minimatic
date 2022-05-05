@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The County Fair",
+    "year": 1932,
+    "cast": [
+      "Hobart Bosworth",
+      "Marion Shilling"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-county-fair.html"
+}

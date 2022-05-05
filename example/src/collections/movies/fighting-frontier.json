@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting Frontier",
+    "year": 1943,
+    "cast": [
+      "Tim Holt",
+      "Cliff Edwards"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fighting-frontier.html"
+}

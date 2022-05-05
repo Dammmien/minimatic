@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Lucky Lady",
+    "year": 1975,
+    "cast": [
+      "Liza Minnelli",
+      "Burt Reynolds",
+      "Gene Hackman"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/lucky-lady.html"
+}

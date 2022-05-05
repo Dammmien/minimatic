@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Father's Son",
+    "year": 1931,
+    "cast": [
+      "Leon Janney",
+      "Irene Rich"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/father-s-son.html"
+}

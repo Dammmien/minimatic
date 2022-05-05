@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Life of Jimmy Dolan",
+    "year": 1933,
+    "cast": [
+      "Douglas Fairbanks Jr.",
+      "Loretta Young"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-life-of-jimmy-dolan.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Death and the Maiden",
+    "year": 1994,
+    "cast": [
+      "Sigourney Weaver",
+      "Ben Kingsley",
+      "Stuart Wilson"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/death-and-the-maiden.html"
+}

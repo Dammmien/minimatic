@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Young One",
+    "year": 1960,
+    "cast": [
+      "Zachary Scott",
+      "Bernie Hamilton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-young-one.html"
+}

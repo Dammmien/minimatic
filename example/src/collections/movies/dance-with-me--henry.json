@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dance with Me, Henry",
+    "year": 1956,
+    "cast": [
+      "Bud Abbott",
+      "and",
+      "Lou Costello"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dance-with-me--henry.html"
+}

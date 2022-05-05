@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dancer of the Nile",
+    "year": 1923,
+    "cast": [
+      "Carmel Myers",
+      "Sam De Grasse"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-dancer-of-the-nile.html"
+}

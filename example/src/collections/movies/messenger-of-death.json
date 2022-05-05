@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Messenger of Death",
+    "year": 1988,
+    "cast": [
+      "Charles Bronson",
+      "Trish Van Devere",
+      "Daniel Benzali"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/messenger-of-death.html"
+}

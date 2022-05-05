@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Bollywood Bride",
+    "year": 2007,
+    "cast": [
+      "Jason Lewis",
+      "Kashmira Shah"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-bollywood-bride.html"
+}

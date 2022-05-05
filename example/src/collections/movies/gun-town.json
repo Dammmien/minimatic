@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gun Town",
+    "year": 1946,
+    "cast": [
+      "Kirby Grant",
+      "Claire Carleton",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gun-town.html"
+}

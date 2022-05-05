@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "South Pacific Trail",
+    "year": 1952,
+    "cast": [
+      "Rex Allen",
+      "Estelita Rodriguez"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/south-pacific-trail.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Little Annie Rooney",
+    "year": 1925,
+    "cast": [
+      "Mary Pickford",
+      "William Haines"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-annie-rooney.html"
+}

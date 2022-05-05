@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Disclosure",
+    "year": 1994,
+    "cast": [
+      "Michael Douglas",
+      "Demi Moore",
+      "Donald Sutherland",
+      "Caroline Goodall",
+      "Dennis Miller"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/disclosure.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Raymie",
+    "year": 1960,
+    "cast": [
+      "David Ladd",
+      "Julie Adams",
+      "Charles Winninger"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/raymie.html"
+}

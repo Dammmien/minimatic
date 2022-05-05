@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Terminal Man",
+    "year": 1974,
+    "cast": [
+      "George Segal",
+      "Joan Hackett"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-terminal-man.html"
+}

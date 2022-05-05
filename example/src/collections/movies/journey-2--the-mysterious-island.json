@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Journey 2: The Mysterious Island",
+    "year": 2012,
+    "cast": [
+      "Dwayne Johnson",
+      "Michael Caine",
+      "Josh Hutcherson",
+      "Vanessa Hudgens",
+      "Luis Guzmán",
+      "Kristin Davis"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ]
+  },
+  "output": "movies/journey-2--the-mysterious-island.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Go for Broke!",
+    "year": 1951,
+    "cast": [
+      "Van Johnson",
+      "Lane Nakano"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/go-for-broke-.html"
+}

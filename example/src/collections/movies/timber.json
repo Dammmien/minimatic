@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Timber",
+    "year": 1942,
+    "cast": [
+      "Marjorie Lord",
+      "Dan Dailey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/timber.html"
+}

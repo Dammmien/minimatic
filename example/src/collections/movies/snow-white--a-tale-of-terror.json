@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Snow White: A Tale of Terror",
+    "year": 1997,
+    "cast": [
+      "Sigourney Weaver",
+      "Monica Keena",
+      "Sam Neill"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/snow-white--a-tale-of-terror.html"
+}

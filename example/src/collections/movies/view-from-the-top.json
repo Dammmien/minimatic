@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "View from the Top",
+    "year": 2003,
+    "cast": [
+      "Gwyneth Paltrow",
+      "Christina Applegate",
+      "Mark Ruffalo",
+      "Kelly Preston",
+      "Rob Lowe",
+      "Candice Bergen",
+      "Mike Myers"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/view-from-the-top.html"
+}

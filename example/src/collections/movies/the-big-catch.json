@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Big Catch",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western",
+      "Short"
+    ]
+  },
+  "output": "movies/the-big-catch.html"
+}

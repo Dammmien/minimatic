@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "THX 1138",
+    "year": 1971,
+    "cast": [
+      "Robert Duvall",
+      "Donald Pleasence",
+      "Ian Wolfe",
+      "Don Pedro Colley"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/thx-1138.html"
+}

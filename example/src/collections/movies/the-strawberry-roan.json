@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Strawberry Roan",
+    "year": 1948,
+    "cast": [
+      "Gene Autry",
+      "Gloria Henry"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-strawberry-roan.html"
+}

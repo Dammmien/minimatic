@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Serious Man",
+    "year": 2009,
+    "cast": [
+      "Michael Stuhlbarg",
+      "Richard Kind"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-serious-man.html"
+}

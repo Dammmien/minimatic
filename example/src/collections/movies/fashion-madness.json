@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fashion Madness",
+    "year": 1928,
+    "cast": [
+      "Claire Windsor",
+      "Reed Howes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fashion-madness.html"
+}

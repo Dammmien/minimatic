@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Wild Irish Rose",
+    "year": 1947,
+    "cast": [
+      "Dennis Morgan",
+      "Arlene Dahl",
+      "Andrea King"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/my-wild-irish-rose.html"
+}

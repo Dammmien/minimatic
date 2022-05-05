@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Reflection of Fear",
+    "year": 1972,
+    "cast": [
+      "Robert Shaw",
+      "Sondra Locke",
+      "Sally Kellerman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-reflection-of-fear.html"
+}

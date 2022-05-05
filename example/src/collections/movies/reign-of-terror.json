@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Reign of Terror",
+    "year": 1949,
+    "cast": [
+      "Robert Cummings",
+      "Arlene Dahl"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/reign-of-terror.html"
+}

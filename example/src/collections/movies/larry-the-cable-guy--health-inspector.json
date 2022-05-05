@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Larry the Cable Guy: Health Inspector",
+    "year": 2006,
+    "cast": [
+      "Larry the Cable Guy",
+      "Iris Bahr",
+      "Bruce Bruce"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/larry-the-cable-guy--health-inspector.html"
+}

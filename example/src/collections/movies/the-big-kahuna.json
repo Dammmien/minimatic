@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Kahuna",
+    "year": 1999,
+    "cast": [
+      "Kevin Spacey",
+      "Danny DeVito",
+      "Peter Facinelli"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-big-kahuna.html"
+}

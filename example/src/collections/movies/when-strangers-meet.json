@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When Strangers Meet",
+    "year": 1934,
+    "cast": [
+      "Richard Cromwell",
+      "Arline Judge"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/when-strangers-meet.html"
+}

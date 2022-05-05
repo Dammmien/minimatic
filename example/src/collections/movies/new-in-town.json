@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "New in Town",
+    "year": 2009,
+    "cast": [
+      "Renée Zellweger",
+      "Harry Connick, Jr."
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/new-in-town.html"
+}

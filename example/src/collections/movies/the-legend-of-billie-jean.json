@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Legend of Billie Jean",
+    "year": 1985,
+    "cast": [
+      "Helen Slater",
+      "Christian Slater",
+      "Keith Gordon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-legend-of-billie-jean.html"
+}

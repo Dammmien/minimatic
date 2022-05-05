@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Second Arrival",
+    "year": 1998,
+    "cast": [
+      "Patrick Muldoon",
+      "Jane Sibbett",
+      "Michael Sarrazin"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-second-arrival.html"
+}

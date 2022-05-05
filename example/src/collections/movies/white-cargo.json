@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "White Cargo",
+    "year": 1942,
+    "cast": [
+      "Hedy Lamarr",
+      "Walter Pidgeon",
+      "Richard Carlson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/white-cargo.html"
+}

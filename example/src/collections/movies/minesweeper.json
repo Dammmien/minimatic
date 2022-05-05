@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Minesweeper",
+    "year": 1943,
+    "cast": [
+      "Richard Arlen",
+      "Jean Parker"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/minesweeper.html"
+}

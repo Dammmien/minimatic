@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bait",
+    "year": 2000,
+    "cast": [
+      "Jamie Foxx",
+      "David Morse",
+      "Kimberly Elise"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/bait.html"
+}

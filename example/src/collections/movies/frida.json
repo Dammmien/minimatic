@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Frida",
+    "year": 2002,
+    "cast": [
+      "Salma Hayek",
+      "Alfred Molina",
+      "Geoffrey Rush"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/frida.html"
+}

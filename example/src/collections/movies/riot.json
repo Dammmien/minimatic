@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riot",
+    "year": 1969,
+    "cast": [
+      "Gene Hackman",
+      "Jim Brown"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/riot.html"
+}

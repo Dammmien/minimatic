@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man with Two Mothers",
+    "year": 1922,
+    "cast": [
+      "Cullen Landis",
+      "Sylvia Breamer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/man-with-two-mothers.html"
+}

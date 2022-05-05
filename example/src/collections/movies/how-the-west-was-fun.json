@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "How the West Was Fun",
+    "year": 1994,
+    "cast": [
+      "Mary-Kate Olsen",
+      "Ashley Olsen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/how-the-west-was-fun.html"
+}

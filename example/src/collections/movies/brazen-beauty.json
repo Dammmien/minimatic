@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Brazen Beauty",
+    "year": 1918,
+    "cast": [
+      "Priscilla Dean",
+      "Gertrude Astor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/brazen-beauty.html"
+}

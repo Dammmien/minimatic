@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wet Hot American Summer",
+    "year": 2001,
+    "cast": [
+      "Janeane Garofalo",
+      "Paul Rudd",
+      "Molly Shannon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wet-hot-american-summer.html"
+}

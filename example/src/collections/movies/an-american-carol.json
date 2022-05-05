@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "An American Carol",
+    "year": 2008,
+    "cast": [
+      "Kevin Farley",
+      "Kelsey Grammer",
+      "Jon Voight"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/an-american-carol.html"
+}

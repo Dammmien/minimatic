@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lure of the Wilderness",
+    "year": 1952,
+    "cast": [
+      "Jean Peters",
+      "Jeffrey Hunter"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/lure-of-the-wilderness.html"
+}

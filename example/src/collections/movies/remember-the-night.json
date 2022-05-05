@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Remember the Night",
+    "year": 1940,
+    "cast": [
+      "Barbara Stanwyck",
+      "Fred MacMurray"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/remember-the-night.html"
+}

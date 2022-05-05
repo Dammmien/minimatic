@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Abbott and Costello in Hollywood",
+    "year": 1945,
+    "cast": [
+      "Abbott and Costello",
+      "Lucille Ball",
+      "Rags Ragland"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/abbott-and-costello-in-hollywood.html"
+}

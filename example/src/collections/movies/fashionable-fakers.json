@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fashionable Fakers",
+    "year": 1923,
+    "cast": [
+      "Johnnie Walker",
+      "J. Farrell MacDonald"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fashionable-fakers.html"
+}

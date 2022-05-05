@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dangerous Passage",
+    "year": 1944,
+    "cast": [
+      "Robert Lowery",
+      "Phyllis Brooks",
+      "Charles Arnt"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/dangerous-passage.html"
+}

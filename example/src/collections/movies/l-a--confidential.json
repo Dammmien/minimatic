@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "L.A. Confidential",
+    "year": 1997,
+    "cast": [
+      "Kevin Spacey",
+      "Russell Crowe",
+      "Guy Pearce",
+      "Kim Basinger",
+      "Danny DeVito",
+      "James Cromwell",
+      "David Strathairn",
+      "Simon Baker"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/l-a--confidential.html"
+}

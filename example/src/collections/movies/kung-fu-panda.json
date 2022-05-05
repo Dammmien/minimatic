@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Kung Fu Panda",
+    "year": 2008,
+    "cast": [
+      "Jack Black",
+      "Jackie Chan",
+      "Dustin Hoffman",
+      "Angelina Jolie",
+      "Lucy Liu",
+      "Seth Rogen"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/kung-fu-panda.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kathleen Mavourneen",
+    "year": 1930,
+    "cast": [
+      "Sally O'Neil",
+      "Charles Delaney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kathleen-mavourneen.html"
+}

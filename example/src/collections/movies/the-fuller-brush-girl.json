@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fuller Brush Girl",
+    "year": 1950,
+    "cast": [
+      "Lucille Ball",
+      "Eddie Albert",
+      "Gale Robbins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fuller-brush-girl.html"
+}

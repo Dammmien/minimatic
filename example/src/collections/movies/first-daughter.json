@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "First Daughter",
+    "year": 2004,
+    "cast": [
+      "Katie Holmes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/first-daughter.html"
+}

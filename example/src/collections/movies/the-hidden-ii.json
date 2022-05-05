@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Hidden II",
+    "year": 1994,
+    "cast": [
+      "Kate Hodge"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-hidden-ii.html"
+}

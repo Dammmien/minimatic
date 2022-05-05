@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Texasville",
+    "year": 1990,
+    "cast": [
+      "Jeff Bridges",
+      "Annie Potts",
+      "Cybill Shepherd",
+      "Cloris Leachman",
+      "Timothy Bottoms",
+      "Eileen Brennan",
+      "Randy Quaid"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/texasville.html"
+}

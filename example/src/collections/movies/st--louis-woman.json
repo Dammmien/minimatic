@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "St. Louis Woman",
+    "year": 1934,
+    "cast": [
+      "Jeanette Loff",
+      "Johnny Mack Brown",
+      "Earle Foxe"
+    ],
+    "genres": [
+      "Musical",
+      "Drama"
+    ]
+  },
+  "output": "movies/st--louis-woman.html"
+}

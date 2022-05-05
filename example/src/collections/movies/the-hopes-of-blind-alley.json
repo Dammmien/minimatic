@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hopes of Blind Alley",
+    "year": 1914,
+    "cast": [
+      "Murdock MacQuarrie",
+      "Pauline Bush"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hopes-of-blind-alley.html"
+}

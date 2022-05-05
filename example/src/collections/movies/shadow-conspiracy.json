@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Shadow Conspiracy",
+    "year": 1997,
+    "cast": [
+      "Charlie Sheen",
+      "Donald Sutherland",
+      "Linda Hamilton",
+      "Sam Waterston",
+      "Stephen Lang",
+      "Ben Gazzara"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shadow-conspiracy.html"
+}

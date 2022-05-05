@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Too Many Crooks",
+    "year": 1919,
+    "cast": [
+      "Gladys Leslie",
+      "Jean Paige"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/too-many-crooks.html"
+}

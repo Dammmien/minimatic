@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Nevada Buckaroo",
+    "year": 1931,
+    "cast": [
+      "Bob Steele",
+      "Ed Brady"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-nevada-buckaroo.html"
+}

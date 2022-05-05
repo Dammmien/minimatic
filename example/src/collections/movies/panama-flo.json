@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Panama Flo",
+    "year": 1932,
+    "cast": [
+      "Helen Twelvetrees",
+      "Charles Bickford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/panama-flo.html"
+}

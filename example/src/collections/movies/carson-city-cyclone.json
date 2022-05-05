@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Carson City Cyclone",
+    "year": 1943,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Lynn Merrick"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/carson-city-cyclone.html"
+}

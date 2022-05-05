@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "An American Werewolf in Paris",
+    "year": 1997,
+    "cast": [
+      "Tom Everett Scott",
+      "Julie Delpy",
+      "Vince Vieluf",
+      "Julie Bowen"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/an-american-werewolf-in-paris.html"
+}

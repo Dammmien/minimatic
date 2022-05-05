@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Little Girl",
+    "year": 1987,
+    "cast": [
+      "James Earl Jones",
+      "Geraldine Page",
+      "Mary Stuart Masterson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-little-girl.html"
+}

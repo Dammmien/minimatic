@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Always a Bridesmaid",
+    "year": 1943,
+    "cast": [
+      "The Andrews Sisters",
+      "Patric Knowles",
+      "Grace McDonald"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/always-a-bridesmaid.html"
+}

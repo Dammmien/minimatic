@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Return of the Whistler",
+    "year": 1948,
+    "cast": [
+      "Lenore Aubert",
+      "Dick Lane"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-return-of-the-whistler.html"
+}

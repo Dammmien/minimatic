@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Krippendorf's Tribe",
+    "year": 1998,
+    "cast": [
+      "Richard Dreyfuss",
+      "Jenna Elfman",
+      "Lily Tomlin",
+      "Natasha Lyonne"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/krippendorf-s-tribe.html"
+}

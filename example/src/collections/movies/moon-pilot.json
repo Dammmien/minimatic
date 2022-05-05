@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Moon Pilot",
+    "year": 1962,
+    "cast": [
+      "Tom Tryon",
+      "Edmond O'Brien",
+      "Dany Saval"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/moon-pilot.html"
+}

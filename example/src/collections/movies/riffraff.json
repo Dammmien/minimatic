@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riffraff",
+    "year": 1947,
+    "cast": [
+      "Pat O'Brien",
+      "Walter Slezak"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/riffraff.html"
+}

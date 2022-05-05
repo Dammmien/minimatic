@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When Hell Broke Loose",
+    "year": 1958,
+    "cast": [
+      "Charles Bronson",
+      "Richard Jaeckel"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/when-hell-broke-loose.html"
+}

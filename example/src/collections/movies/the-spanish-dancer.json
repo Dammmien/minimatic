@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Spanish Dancer",
+    "year": 1923,
+    "cast": [
+      "Pola Negri",
+      "Antonio Moreno",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-spanish-dancer.html"
+}

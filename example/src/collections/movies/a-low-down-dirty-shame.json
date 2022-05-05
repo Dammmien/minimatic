@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Low Down Dirty Shame",
+    "year": 1994,
+    "cast": [
+      "Keenen Ivory Wayans",
+      "Jada Pinkett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-low-down-dirty-shame.html"
+}

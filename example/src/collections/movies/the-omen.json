@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Omen",
+    "year": 2006,
+    "cast": [
+      "Liev Schreiber",
+      "Julia Stiles",
+      "Seamus Davey-Fitzpatrick",
+      "David Thewlis",
+      "Mia Farrow"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-omen.html"
+}

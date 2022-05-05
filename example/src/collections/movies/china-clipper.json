@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "China Clipper",
+    "year": 1936,
+    "cast": [
+      "Pat O'Brien",
+      "Ross Alexander",
+      "Humphrey Bogart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/china-clipper.html"
+}

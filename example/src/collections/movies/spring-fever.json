@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spring Fever",
+    "year": 1927,
+    "cast": [
+      "William Haines",
+      "Joan Crawford"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/spring-fever.html"
+}

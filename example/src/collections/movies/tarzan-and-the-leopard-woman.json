@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tarzan and the Leopard Woman",
+    "year": 1946,
+    "cast": [
+      "Johnny Weissmuller",
+      "Brenda Joyce"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-and-the-leopard-woman.html"
+}

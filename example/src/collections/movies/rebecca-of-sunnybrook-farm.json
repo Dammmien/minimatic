@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rebecca of Sunnybrook Farm",
+    "year": 1938,
+    "cast": [
+      "Shirley Temple",
+      "Randolph Scott",
+      "Helen Westley"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/rebecca-of-sunnybrook-farm.html"
+}

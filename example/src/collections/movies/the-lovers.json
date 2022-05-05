@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Lovers",
+    "year": 2017,
+    "cast": [
+      "Debra Winger",
+      "Tracy Letts",
+      "Aidan Gillen",
+      "Melora Walters",
+      "Tyler Ross",
+      "Jessica Sula"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/the-lovers.html"
+}

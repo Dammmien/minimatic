@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Thief Who Came to Dinner",
+    "year": 1973,
+    "cast": [
+      "Ryan O'Neal",
+      "Jacqueline Bisset",
+      "Warren Oates",
+      "Ned Beatty",
+      "Jill Clayburgh"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-thief-who-came-to-dinner.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Terror Trail",
+    "year": 1946,
+    "cast": [
+      "Charles Starrett",
+      "Barbara Pepper"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/terror-trail.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Let's Fall in Love",
+    "year": 1933,
+    "cast": [
+      "Edmund Lowe",
+      "Ann Sothern"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/let-s-fall-in-love.html"
+}

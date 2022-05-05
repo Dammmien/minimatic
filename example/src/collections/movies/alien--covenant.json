@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Alien: Covenant",
+    "year": 2017,
+    "cast": [
+      "Michael Fassbender",
+      "Katherine Waterston",
+      "Demián Bichir",
+      "Billy Crudup",
+      "Danny McBride",
+      "Jussie Smollett",
+      "Amy Seimetz",
+      "Carmen Ejogo",
+      "Callie Hernandez",
+      "Alex England",
+      "James Franco"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ]
+  },
+  "output": "movies/alien--covenant.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Madame Racketeer",
+    "year": 1932,
+    "cast": [
+      "Alison Skipworth",
+      "Richard Bennett",
+      "George Raft"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/madame-racketeer.html"
+}

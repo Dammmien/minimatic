@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Planes, Trains and Automobiles",
+    "year": 1987,
+    "cast": [
+      "Steve Martin",
+      "John Candy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/planes--trains-and-automobiles.html"
+}

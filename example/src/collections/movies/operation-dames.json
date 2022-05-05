@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Operation Dames",
+    "year": 1959,
+    "cast": [
+      "Eve Meyer"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/operation-dames.html"
+}

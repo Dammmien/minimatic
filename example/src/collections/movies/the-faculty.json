@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Faculty",
+    "year": 1998,
+    "cast": [
+      "Elijah Wood",
+      "Jordana Brewster",
+      "Clea DuVall",
+      "Laura Harris",
+      "Josh Hartnett",
+      "Shawn Hatosy",
+      "Salma Hayek",
+      "Usher Raymond",
+      "Famke Janssen",
+      "Piper Laurie"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-faculty.html"
+}

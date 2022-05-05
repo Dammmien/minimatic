@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Easy to Love",
+    "year": 1953,
+    "cast": [
+      "Esther Williams",
+      "Van Johnson",
+      "Tony Martin"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/easy-to-love.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "East of Fifth Avenue",
+    "year": 1933,
+    "cast": [
+      "Wallace Ford",
+      "Mary Carlisle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/east-of-fifth-avenue.html"
+}

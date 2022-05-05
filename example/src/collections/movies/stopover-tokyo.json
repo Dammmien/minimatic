@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Stopover Tokyo",
+    "year": 1957,
+    "cast": [
+      "Robert Wagner",
+      "Joan Collins",
+      "Edmond O'Brien"
+    ],
+    "genres": [
+      "Spy",
+      "Drama"
+    ]
+  },
+  "output": "movies/stopover-tokyo.html"
+}

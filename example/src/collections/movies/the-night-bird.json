@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Night Bird",
+    "year": 1928,
+    "cast": [
+      "Reginald Denny",
+      "Corliss Palmer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-night-bird.html"
+}

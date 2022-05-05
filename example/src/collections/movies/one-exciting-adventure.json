@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Exciting Adventure",
+    "year": 1934,
+    "cast": [
+      "Binnie Barnes",
+      "Neil Hamilton",
+      "Paul Cavanagh"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-exciting-adventure.html"
+}

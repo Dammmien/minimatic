@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Moonfleet",
+    "year": 1955,
+    "cast": [
+      "George Sanders",
+      "Stewart Granger"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/moonfleet.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tumbling Tumbleweeds",
+    "year": 1935,
+    "cast": [
+      "Gene Autry",
+      "Smiley Burnette",
+      "Lucile Browne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/tumbling-tumbleweeds.html"
+}

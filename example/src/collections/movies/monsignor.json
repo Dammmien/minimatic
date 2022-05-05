@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Monsignor",
+    "year": 1982,
+    "cast": [
+      "Christopher Reeve",
+      "Geneviève Bujold",
+      "Fernando Rey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/monsignor.html"
+}

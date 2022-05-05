@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gun Talk",
+    "year": 1947,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton",
+      "Christine McIntyre"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gun-talk.html"
+}

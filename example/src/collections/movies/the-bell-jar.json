@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bell Jar",
+    "year": 1979,
+    "cast": [
+      "Marilyn Hassett",
+      "Julie Harris",
+      "Jameson Parker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bell-jar.html"
+}

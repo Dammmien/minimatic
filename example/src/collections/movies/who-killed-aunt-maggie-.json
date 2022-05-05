@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Who Killed Aunt Maggie?",
+    "year": 1940,
+    "cast": [
+      "Wendy Barrie",
+      "Mona Barrie",
+      "John Hubbard"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/who-killed-aunt-maggie-.html"
+}

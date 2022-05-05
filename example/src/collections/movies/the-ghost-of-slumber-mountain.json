@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ghost of Slumber Mountain",
+    "year": 1918,
+    "cast": [
+      "Herbert M. Dawley",
+      "Willis O'Brien"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-ghost-of-slumber-mountain.html"
+}

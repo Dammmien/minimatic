@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman's Side",
+    "year": 1922,
+    "cast": [
+      "Katherine MacDonald",
+      "Edmund Burns"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woman-s-side.html"
+}

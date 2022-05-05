@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Atlantic Adventure",
+    "year": 1935,
+    "cast": [
+      "Nancy Carroll",
+      "Lloyd Nolan"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/atlantic-adventure.html"
+}

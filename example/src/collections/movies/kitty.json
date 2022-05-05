@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kitty",
+    "year": 1945,
+    "cast": [
+      "Paulette Goddard",
+      "Ray Milland",
+      "Patric Knowles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kitty.html"
+}

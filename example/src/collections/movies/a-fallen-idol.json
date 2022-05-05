@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Fallen Idol",
+    "year": 1919,
+    "cast": [
+      "Evelyn Nesbit",
+      "Lillian Lawrence"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-fallen-idol.html"
+}

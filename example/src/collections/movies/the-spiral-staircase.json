@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Spiral Staircase",
+    "year": 1975,
+    "cast": [
+      "Jacqueline Bisset",
+      "Christopher Plummer"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-spiral-staircase.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love, Laughs and Lather",
+    "year": 1917,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love--laughs-and-lather.html"
+}

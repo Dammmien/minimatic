@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last Outlaw",
+    "year": 1936,
+    "cast": [
+      "Harry Carey",
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-last-outlaw.html"
+}

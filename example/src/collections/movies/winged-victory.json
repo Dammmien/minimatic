@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Winged Victory",
+    "year": 1944,
+    "cast": [
+      "Lon McCallister",
+      "Jeanne Crain",
+      "Edmond O'Brien",
+      "Judy Holliday"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/winged-victory.html"
+}

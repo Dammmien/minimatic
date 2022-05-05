@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Amorous Adventures of Moll Flanders",
+    "year": 1965,
+    "cast": [
+      "Kim Novak",
+      "Richard Johnson",
+      "Angela Lansbury"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-amorous-adventures-of-moll-flanders.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beware of Blondes",
+    "year": 1928,
+    "cast": [
+      "Dorothy Revier",
+      "Matt Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beware-of-blondes.html"
+}

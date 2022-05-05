@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Murderball",
+    "year": 2005,
+    "cast": [
+      "wheelchair rugby"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/murderball.html"
+}

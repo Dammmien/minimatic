@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Big Top Pee-wee",
+    "year": 1988,
+    "cast": [
+      "Paul Reubens",
+      "Penelope Ann Miller",
+      "Kris Kristofferson",
+      "Valeria Golino"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/big-top-pee-wee.html"
+}

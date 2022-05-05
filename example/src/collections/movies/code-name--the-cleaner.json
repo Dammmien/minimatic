@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Code Name: The Cleaner",
+    "year": 2007,
+    "cast": [
+      "Cedric the Entertainer",
+      "Lucy Liu",
+      "Nicollette Sheridan"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/code-name--the-cleaner.html"
+}

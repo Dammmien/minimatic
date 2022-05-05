@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Screaming Mimi",
+    "year": 1958,
+    "cast": [
+      "Anita Ekberg",
+      "Gypsy Rose Lee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/screaming-mimi.html"
+}

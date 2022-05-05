@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Across the Line",
+    "year": 2000,
+    "cast": [
+      "Brad Johnson",
+      "Adrienne Barbeau",
+      "Brian Bloom"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/across-the-line.html"
+}

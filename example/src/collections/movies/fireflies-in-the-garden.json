@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fireflies in the Garden",
+    "year": 2008,
+    "cast": [
+      "Julia Roberts",
+      "Ryan Reynolds",
+      "Willem Dafoe",
+      "Emily Watson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fireflies-in-the-garden.html"
+}

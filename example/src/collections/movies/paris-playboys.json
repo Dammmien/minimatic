@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Paris Playboys",
+    "year": 1954,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/paris-playboys.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thundering Hoofs",
+    "year": 1924,
+    "cast": [
+      "Fred Thomson",
+      "William Lowery"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/thundering-hoofs.html"
+}

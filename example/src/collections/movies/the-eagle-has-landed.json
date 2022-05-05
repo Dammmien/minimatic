@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Eagle Has Landed",
+    "year": 1976,
+    "cast": [
+      "Michael Caine",
+      "Robert Duvall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-eagle-has-landed.html"
+}

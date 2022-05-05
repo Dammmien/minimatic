@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mystery House",
+    "year": 1938,
+    "cast": [
+      "Dick Purcell",
+      "Ann Sheridan",
+      "Anne Nagel"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/mystery-house.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Riders of the Range",
+    "year": 1949,
+    "cast": [
+      "Tim Holt",
+      "Richard Martin",
+      "Jacqueline White"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/riders-of-the-range.html"
+}

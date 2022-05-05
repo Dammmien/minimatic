@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Castle on the Hudson",
+    "year": 1940,
+    "cast": [
+      "John Garfield",
+      "Ann Sheridan",
+      "Pat O'Brien"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/castle-on-the-hudson.html"
+}

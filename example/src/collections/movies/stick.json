@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Stick",
+    "year": 1985,
+    "cast": [
+      "Burt Reynolds",
+      "Candice Bergen",
+      "Charles Durning",
+      "George Segal"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/stick.html"
+}

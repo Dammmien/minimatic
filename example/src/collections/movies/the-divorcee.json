@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Divorcee",
+    "year": 1930,
+    "cast": [
+      "Norma Shearer",
+      "Chester Morris",
+      "Robert Montgomery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-divorcee.html"
+}

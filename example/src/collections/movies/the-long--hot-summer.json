@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Long, Hot Summer",
+    "year": 1958,
+    "cast": [
+      "Paul Newman",
+      "Orson Welles",
+      "Joanne Woodward",
+      "Angela Lansbury",
+      "Anthony Franciosa",
+      "Lee Remick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-long--hot-summer.html"
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "All the President's Men",
+    "year": 1976,
+    "cast": [
+      "Robert Redford",
+      "Dustin Hoffman",
+      "Jason Robards",
+      "Jack Warden",
+      "Hal Holbrook",
+      "Stephen Collins",
+      "Jane Alexander",
+      "Martin Balsam",
+      "Ned Beatty",
+      "Lindsay Crouse"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/all-the-president-s-men.html"
+}

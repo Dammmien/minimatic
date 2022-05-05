@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mr. Skitch",
+    "year": 1933,
+    "cast": [
+      "Will Rogers",
+      "Rochelle Hudson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--skitch.html"
+}

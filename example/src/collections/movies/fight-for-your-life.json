@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fight for Your Life",
+    "year": 1977,
+    "cast": [
+      "Robert Judd",
+      "William Sanderson"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/fight-for-your-life.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Parisian Love",
+    "year": 1925,
+    "cast": [
+      "Clara Bow",
+      "Donald Keith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/parisian-love.html"
+}

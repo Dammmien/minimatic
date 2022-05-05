@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Singing Kid",
+    "year": 1936,
+    "cast": [
+      "Al Jolson",
+      "Sybil Jason",
+      "Beverly Roberts"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-singing-kid.html"
+}

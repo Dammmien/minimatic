@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Case 39",
+    "year": 2010,
+    "cast": [
+      "Renée Zellweger",
+      "Jodelle Ferland",
+      "Ian McShane",
+      "Bradley Cooper"
+    ],
+    "genres": [
+      "Horror",
+      "Mystery"
+    ]
+  },
+  "output": "movies/case-39.html"
+}

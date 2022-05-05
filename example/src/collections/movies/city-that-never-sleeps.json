@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "City That Never Sleeps",
+    "year": 1953,
+    "cast": [
+      "Gig Young",
+      "William Talman",
+      "Mala Powers",
+      "Paula Raymond",
+      "Chill Wills"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/city-that-never-sleeps.html"
+}

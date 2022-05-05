@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Freddie Steps Out",
+    "year": 1946,
+    "cast": [
+      "Freddie Stewart",
+      "June Preisser"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/freddie-steps-out.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nancy Drew and the Hidden Staircase",
+    "year": 1939,
+    "cast": [
+      "Bonita Granville",
+      "John Litel"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/nancy-drew-and-the-hidden-staircase.html"
+}

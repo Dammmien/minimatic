@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+    "year": 2010,
+    "cast": [
+      "Georgie Henley",
+      "Skandar Keynes",
+      "Ben Barnes",
+      "Liam Neeson",
+      "Will Poulter",
+      "Simon Pegg"
+    ],
+    "genres": [
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-chronicles-of-narnia--the-voyage-of-the-dawn-treader.html"
+}

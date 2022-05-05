@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Man on Fire",
+    "year": 2004,
+    "cast": [
+      "Denzel Washington",
+      "Dakota Fanning",
+      "Christopher Walken",
+      "Giancarlo Giannini",
+      "Radha Mitchell",
+      "Marc Anthony",
+      "Rachel Ticotin",
+      "Mickey Rourke"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/man-on-fire.html"
+}

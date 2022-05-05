@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Merchant of Venice",
+    "year": 2004,
+    "cast": [
+      "Al Pacino",
+      "Jeremy Irons",
+      "Joseph Fiennes",
+      "Lynn Collins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-merchant-of-venice.html"
+}

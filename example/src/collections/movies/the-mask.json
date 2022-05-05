@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Mask",
+    "year": 1994,
+    "cast": [
+      "Jim Carrey",
+      "Cameron Diaz",
+      "Peter Greene",
+      "Ben Stein",
+      "Richard Jeni",
+      "Peter Riegert",
+      "Amy Yasbeck"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-mask.html"
+}

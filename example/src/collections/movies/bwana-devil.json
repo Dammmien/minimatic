@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bwana Devil",
+    "year": 1952,
+    "cast": [
+      "Robert Stack",
+      "Nigel Bruce",
+      "Barbara Britton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bwana-devil.html"
+}

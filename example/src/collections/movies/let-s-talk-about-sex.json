@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Let's Talk About Sex",
+    "year": 1998,
+    "cast": [
+      "Paget Brewster",
+      "James Hyde",
+      "Tina Nguyen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/let-s-talk-about-sex.html"
+}

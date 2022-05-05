@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fast Life",
+    "year": 1932,
+    "cast": [
+      "William Haines",
+      "Madge Evans",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fast-life.html"
+}

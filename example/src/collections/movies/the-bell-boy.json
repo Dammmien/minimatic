@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bell Boy",
+    "year": 1918,
+    "cast": [
+      "Fatty Arbuckle",
+      "Buster Keaton"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/the-bell-boy.html"
+}

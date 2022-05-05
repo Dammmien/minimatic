@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Shop Around the Corner",
+    "year": 1940,
+    "cast": [
+      "James Stewart",
+      "Margaret Sullavan"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-shop-around-the-corner.html"
+}

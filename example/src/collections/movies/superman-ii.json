@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Superman II",
+    "year": 1980,
+    "cast": [
+      "Gene Hackman",
+      "Christopher Reeve",
+      "Margot Kidder",
+      "Terence Stamp",
+      "Sarah Douglas",
+      "Jack O'Halloran",
+      "Clifton James",
+      "Marc McClure",
+      "Valerie Perrine"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/superman-ii.html"
+}

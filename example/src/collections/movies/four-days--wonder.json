@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Four Days' Wonder",
+    "year": 1936,
+    "cast": [
+      "Kenneth Howell",
+      "Martha Sleeper"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/four-days--wonder.html"
+}

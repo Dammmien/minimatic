@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gold Diggers in Paris",
+    "year": 1938,
+    "cast": [
+      "Rudy Vallée",
+      "Rosemary Lane",
+      "Hugh Herbert"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/gold-diggers-in-paris.html"
+}

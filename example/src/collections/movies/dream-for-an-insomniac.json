@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dream for an Insomniac",
+    "year": 1996,
+    "cast": [
+      "Ione Skye",
+      "Jennifer Aniston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dream-for-an-insomniac.html"
+}

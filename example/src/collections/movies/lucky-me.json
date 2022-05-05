@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lucky Me",
+    "year": 1954,
+    "cast": [
+      "Doris Day",
+      "Phil Silvers"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/lucky-me.html"
+}

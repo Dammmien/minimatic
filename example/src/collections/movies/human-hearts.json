@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Human Hearts",
+    "year": 1922,
+    "cast": [
+      "House Peters",
+      "George Hackathorne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/human-hearts.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Miami Expose",
+    "year": 1956,
+    "cast": [
+      "Lee J. Cobb",
+      "Patricia Medina"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/miami-expose.html"
+}

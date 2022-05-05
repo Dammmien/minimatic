@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Gordon's War",
+    "year": 1973,
+    "cast": [
+      "Paul Winfield"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/gordon-s-war.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "God's Little Acre",
+    "year": 1958,
+    "cast": [
+      "Robert Ryan",
+      "Aldo Ray",
+      "Tina Louise"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/god-s-little-acre.html"
+}

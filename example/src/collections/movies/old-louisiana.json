@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Old Louisiana",
+    "year": 1937,
+    "cast": [
+      "Rita Hayworth",
+      "Ramsay Hill",
+      "Allan Cavan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/old-louisiana.html"
+}

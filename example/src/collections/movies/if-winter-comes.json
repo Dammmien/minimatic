@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "If Winter Comes",
+    "year": 1947,
+    "cast": [
+      "Walter Pidgeon",
+      "Deborah Kerr",
+      "Angela Lansbury"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/if-winter-comes.html"
+}

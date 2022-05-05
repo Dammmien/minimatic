@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Topeka Terror",
+    "year": 1945,
+    "cast": [
+      "Allan Lane",
+      "Linda Stirling"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-topeka-terror.html"
+}

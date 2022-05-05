@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Louisiana Purchase",
+    "year": 1941,
+    "cast": [
+      "Bob Hope",
+      "Vera Zorina"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/louisiana-purchase.html"
+}

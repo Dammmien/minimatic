@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sonhos de Peixe",
+    "year": 2006,
+    "cast": [
+      "José Maria Alves",
+      "Phellipe Haagensen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sonhos-de-peixe.html"
+}

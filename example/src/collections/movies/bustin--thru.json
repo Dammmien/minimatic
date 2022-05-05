@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bustin' Thru",
+    "year": 1925,
+    "cast": [
+      "Jack Hoxie",
+      "Helen Lynch"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bustin--thru.html"
+}

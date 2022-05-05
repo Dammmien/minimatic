@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Drums of Jeopardy",
+    "year": 1931,
+    "cast": [
+      "Warner Oland",
+      "June Collyer",
+      "Hale Hamilton"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-drums-of-jeopardy.html"
+}

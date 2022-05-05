@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Slim Princess",
+    "year": 1920,
+    "cast": [
+      "Mabel Normand",
+      "Tully Marshall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-slim-princess.html"
+}

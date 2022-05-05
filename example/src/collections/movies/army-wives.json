@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Army Wives",
+    "year": 1944,
+    "cast": [
+      "Elyse Knox",
+      "Marjorie Rambeau",
+      "Rick Vallin"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/army-wives.html"
+}

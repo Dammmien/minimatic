@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Until They Sail",
+    "year": 1957,
+    "cast": [
+      "Jean Simmons",
+      "Joan Fontaine",
+      "Paul Newman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/until-they-sail.html"
+}

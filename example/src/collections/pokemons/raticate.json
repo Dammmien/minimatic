@@ -1,0 +1,20 @@
+{
+  "id": 20,
+  "name": {
+    "english": "Raticate",
+    "japanese": "ラッタ",
+    "chinese": "拉达",
+    "french": "Rattatac"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "HP": 55,
+    "Attack": 81,
+    "Defense": 60,
+    "Sp. Attack": 50,
+    "Sp. Defense": 70,
+    "Speed": 97
+  }
+}

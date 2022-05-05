@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Celtic Pride",
+    "year": 1996,
+    "cast": [
+      "Damon Wayans",
+      "Daniel Stern",
+      "Dan Aykroyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/celtic-pride.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Super Troopers 2",
+    "year": 2018,
+    "cast": [
+      "Jay Chandrasekhar",
+      "Paul Soter",
+      "Steve Lemme",
+      "Erik Stolhanske",
+      "Kevin Heffernan"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/super-troopers-2.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Rabbit Hole",
+    "year": 2010,
+    "cast": [
+      "Nicole Kidman",
+      "Aaron Eckhart",
+      "Dianne Wiest",
+      "Tammy Blanchard",
+      "Miles Teller",
+      "Giancarlo Esposito",
+      "Jon Tenney",
+      "Sandra Oh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rabbit-hole.html"
+}

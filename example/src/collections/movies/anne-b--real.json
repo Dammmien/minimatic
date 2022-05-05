@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Anne B. Real",
+    "year": 2003,
+    "cast": [
+      "David Zayas",
+      "Carlos Leon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/anne-b--real.html"
+}

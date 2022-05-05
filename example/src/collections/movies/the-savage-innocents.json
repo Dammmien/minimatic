@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Savage Innocents",
+    "year": 1960,
+    "cast": [
+      "Anthony Quinn",
+      "Peter O'Toole",
+      "Yoko Tani"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-savage-innocents.html"
+}

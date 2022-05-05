@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Girls in Chains",
+    "year": 1943,
+    "cast": [
+      "Arline Judge",
+      "Roger Clark"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/girls-in-chains.html"
+}

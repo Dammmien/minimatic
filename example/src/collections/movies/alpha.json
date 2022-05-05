@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Alpha",
+    "year": 2018,
+    "cast": [
+      "Kodi Smit-McPhee",
+      "Leonor Varela",
+      "Jens Hultén"
+    ],
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Drama"
+    ]
+  },
+  "output": "movies/alpha.html"
+}

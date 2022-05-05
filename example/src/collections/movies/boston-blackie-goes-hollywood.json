@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Boston Blackie Goes Hollywood",
+    "year": 1942,
+    "cast": [
+      "Chester Morris",
+      "Constance Worth"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/boston-blackie-goes-hollywood.html"
+}

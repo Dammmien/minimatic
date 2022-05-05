@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Long Day's Journey Into Night",
+    "year": 1996,
+    "cast": [
+      "William Hutt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/long-day-s-journey-into-night.html"
+}

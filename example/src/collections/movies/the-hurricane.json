@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hurricane",
+    "year": 1999,
+    "cast": [
+      "Denzel Washington"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-hurricane.html"
+}

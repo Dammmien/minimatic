@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Days of Heaven",
+    "year": 1978,
+    "cast": [
+      "Richard Gere",
+      "Brooke Adams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/days-of-heaven.html"
+}

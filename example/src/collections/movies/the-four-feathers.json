@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Four Feathers",
+    "year": 2002,
+    "cast": [
+      "Heath Ledger",
+      "Wes Bentley",
+      "Kate Hudson"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/the-four-feathers.html"
+}

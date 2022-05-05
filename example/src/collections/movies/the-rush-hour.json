@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Rush Hour",
+    "year": 1928,
+    "cast": [
+      "Marie Prevost",
+      "Seena Owen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-rush-hour.html"
+}

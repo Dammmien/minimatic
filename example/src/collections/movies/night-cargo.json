@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night Cargo",
+    "year": 1936,
+    "cast": [
+      "Lloyd Hughes",
+      "Julie Bishop"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/night-cargo.html"
+}

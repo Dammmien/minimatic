@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pride of the Legion",
+    "year": 1932,
+    "cast": [
+      "Victor Jory",
+      "Barbara Kent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pride-of-the-legion.html"
+}

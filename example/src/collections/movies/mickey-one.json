@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mickey One",
+    "year": 1965,
+    "cast": [
+      "Warren Beatty",
+      "Franchot Tone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mickey-one.html"
+}

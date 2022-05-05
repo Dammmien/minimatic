@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Miraculous Journey",
+    "year": 1948,
+    "cast": [
+      "Rory Calhoun",
+      "Virginia Grey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/miraculous-journey.html"
+}

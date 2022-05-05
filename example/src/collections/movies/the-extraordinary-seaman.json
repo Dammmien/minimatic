@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Extraordinary Seaman",
+    "year": 1969,
+    "cast": [
+      "David Niven",
+      "Faye Dunaway",
+      "Mickey Rooney",
+      "Alan Alda",
+      "Jack Carter"
+    ],
+    "genres": [
+      "War",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-extraordinary-seaman.html"
+}

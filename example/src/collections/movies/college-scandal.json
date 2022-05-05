@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "College Scandal",
+    "year": 1935,
+    "cast": [
+      "Arline Judge",
+      "Kent Taylor",
+      "Wendy Barrie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/college-scandal.html"
+}

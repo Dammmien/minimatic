@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Shaggy Dog",
+    "year": 2006,
+    "cast": [
+      "Tim Allen",
+      "Kristin Davis",
+      "Spencer Breslin",
+      "Danny Glover",
+      "Robert Downey, Jr."
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-shaggy-dog.html"
+}

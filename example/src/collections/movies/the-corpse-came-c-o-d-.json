@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Corpse Came C.O.D.",
+    "year": 1947,
+    "cast": [
+      "George Brent",
+      "Joan Blondell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-corpse-came-c-o-d-.html"
+}

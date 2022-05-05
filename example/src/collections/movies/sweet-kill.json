@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sweet Kill",
+    "year": 1973,
+    "cast": [
+      "Tab Hunter",
+      "Isabel Jewell",
+      "John Aprea"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/sweet-kill.html"
+}

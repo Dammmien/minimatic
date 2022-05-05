@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sob Sister",
+    "year": 1931,
+    "cast": [
+      "James Dunn",
+      "Linda Watkins"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/sob-sister.html"
+}

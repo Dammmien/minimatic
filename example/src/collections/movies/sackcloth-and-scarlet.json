@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sackcloth and Scarlet",
+    "year": 1925,
+    "cast": [
+      "Alice Terry",
+      "Orville Caldwell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sackcloth-and-scarlet.html"
+}

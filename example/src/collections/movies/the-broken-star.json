@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Broken Star",
+    "year": 1956,
+    "cast": [
+      "Howard Duff",
+      "Lita Baron"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-broken-star.html"
+}

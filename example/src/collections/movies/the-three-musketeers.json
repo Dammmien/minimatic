@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "The Three Musketeers",
+    "year": 2011,
+    "cast": [
+      "Logan Lerman",
+      "Milla Jovovich",
+      "Matthew Macfadyen",
+      "Ray Stevenson",
+      "Luke Evans",
+      "Mads Mikkelsen",
+      "Gabriella Wilde",
+      "James Corden",
+      "Juno Temple",
+      "Freddie Fox",
+      "Til Schweiger",
+      "Orlando Bloom",
+      "Christoph Waltz"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-three-musketeers.html"
+}

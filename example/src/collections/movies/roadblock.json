@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Roadblock",
+    "year": 1951,
+    "cast": [
+      "Charles McGraw",
+      "Joan Dixon"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/roadblock.html"
+}

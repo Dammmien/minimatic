@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "The Gorgeous Hussy",
+    "year": 1936,
+    "cast": [
+      "Joan Crawford",
+      "Robert Taylor",
+      "Lionel Barrymore",
+      "Franchot Tone",
+      "Melvyn Douglas",
+      "James Stewart",
+      "Alison Skipworth",
+      "Beulah Bondi",
+      "(",
+      "Best Supporting Actress",
+      "nominee)"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-gorgeous-hussy.html"
+}

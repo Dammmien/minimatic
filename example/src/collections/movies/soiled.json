@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Soiled",
+    "year": 1925,
+    "cast": [
+      "Kenneth Harlan",
+      "Vivian Martin",
+      "Mildred Harris"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/soiled.html"
+}

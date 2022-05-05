@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "West Point Widow",
+    "year": 1941,
+    "cast": [
+      "Anne Shirley",
+      "Richard Carlson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/west-point-widow.html"
+}

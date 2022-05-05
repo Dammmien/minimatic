@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Racing Romance",
+    "year": 1926,
+    "cast": [
+      "Reed Howes",
+      "Virginia Brown Faire"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/racing-romance.html"
+}

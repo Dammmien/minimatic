@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Hellstrom Chronicle",
+    "year": 1971,
+    "cast": [
+      "Lawrence Pressman"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/the-hellstrom-chronicle.html"
+}

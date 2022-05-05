@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dark Command",
+    "year": 1940,
+    "cast": [
+      "Claire Trevor",
+      "John Wayne",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/dark-command.html"
+}

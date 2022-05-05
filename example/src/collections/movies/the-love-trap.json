@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Love Trap",
+    "year": 1929,
+    "cast": [
+      "Laura La Plante",
+      "Neil Hamilton"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-love-trap.html"
+}

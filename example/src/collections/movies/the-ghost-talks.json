@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ghost Talks",
+    "year": 1929,
+    "cast": [
+      "Helen Twelvetrees",
+      "Charles Eaton"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ghost-talks.html"
+}

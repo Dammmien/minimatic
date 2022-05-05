@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Surprise Package",
+    "year": 1960,
+    "cast": [
+      "Yul Brynner",
+      "Mitzi Gaynor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/surprise-package.html"
+}

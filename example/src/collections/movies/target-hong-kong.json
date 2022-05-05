@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Target Hong Kong",
+    "year": 1953,
+    "cast": [
+      "Richard Denning",
+      "Nancy Gates"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/target-hong-kong.html"
+}

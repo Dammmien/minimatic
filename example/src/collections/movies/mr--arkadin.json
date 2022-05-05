@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mr. Arkadin",
+    "year": 1955,
+    "cast": [
+      "Orson Welles",
+      "Akim Tamiroff"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mr--arkadin.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Abbott and Costello Meet Captain Kidd",
+    "year": 1952,
+    "cast": [
+      "Abbott and Costello",
+      "Charles Laughton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/abbott-and-costello-meet-captain-kidd.html"
+}

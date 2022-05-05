@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Salt Water Tabby",
+    "year": 1947,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/salt-water-tabby.html"
+}

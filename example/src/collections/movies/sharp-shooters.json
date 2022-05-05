@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sharp Shooters",
+    "year": 1928,
+    "cast": [
+      "George O'Brien",
+      "Lois Moran"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sharp-shooters.html"
+}

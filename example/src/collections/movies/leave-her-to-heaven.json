@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Leave Her to Heaven",
+    "year": 1945,
+    "cast": [
+      "Gene Tierney",
+      "Jeanne Crain",
+      "Cornel Wilde",
+      "Vincent Price"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/leave-her-to-heaven.html"
+}

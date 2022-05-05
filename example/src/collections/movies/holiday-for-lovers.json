@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Holiday for Lovers",
+    "year": 1959,
+    "cast": [
+      "Clifton Webb",
+      "Jane Wyman",
+      "Jill St. John"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/holiday-for-lovers.html"
+}

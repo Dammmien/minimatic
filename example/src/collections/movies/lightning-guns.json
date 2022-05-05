@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lightning Guns",
+    "year": 1950,
+    "cast": [
+      "Charles Starrett",
+      "Gloria Henry"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lightning-guns.html"
+}

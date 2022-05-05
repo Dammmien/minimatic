@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Moment to Moment",
+    "year": 1966,
+    "cast": [
+      "Jean Seberg",
+      "Honor Blackman",
+      "Sean Garrison"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/moment-to-moment.html"
+}

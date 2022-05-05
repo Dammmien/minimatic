@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Lonely Hearts",
+    "year": 2006,
+    "cast": [
+      "John Travolta",
+      "Salma Hayek",
+      "Jared Leto",
+      "James Gandolfini"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/lonely-hearts.html"
+}

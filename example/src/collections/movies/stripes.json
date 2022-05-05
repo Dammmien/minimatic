@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Stripes",
+    "year": 1981,
+    "cast": [
+      "Bill Murray",
+      "Harold Ramis",
+      "Warren Oates",
+      "John Candy",
+      "Sean Young",
+      "P.J. Soles",
+      "John Larroquette"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stripes.html"
+}

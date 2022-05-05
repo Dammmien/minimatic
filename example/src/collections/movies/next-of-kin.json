@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Next of Kin",
+    "year": 1989,
+    "cast": [
+      "Patrick Swayze",
+      "Liam Neeson",
+      "Adam Baldwin",
+      "Helen Hunt",
+      "Bill Paxton"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/next-of-kin.html"
+}

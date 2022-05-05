@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brainstorm",
+    "year": 1983,
+    "cast": [
+      "Natalie Wood",
+      "Christopher Walken",
+      "Louise Fletcher"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/brainstorm.html"
+}

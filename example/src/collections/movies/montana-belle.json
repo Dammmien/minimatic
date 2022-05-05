@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Montana Belle",
+    "year": 1952,
+    "cast": [
+      "Jane Russell",
+      "George Brent"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/montana-belle.html"
+}

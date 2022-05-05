@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Me and the Colonel",
+    "year": 1958,
+    "cast": [
+      "Danny Kaye",
+      "Nicole Maurey"
+    ],
+    "genres": [
+      "War",
+      "Comedy"
+    ]
+  },
+  "output": "movies/me-and-the-colonel.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Nuts",
+    "year": 1987,
+    "cast": [
+      "Barbra Streisand",
+      "Richard Dreyfuss",
+      "Karl Malden",
+      "Leslie Nielsen",
+      "Maureen Stapleton",
+      "Robert Webber",
+      "Eli Wallach",
+      "James Whitmore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/nuts.html"
+}

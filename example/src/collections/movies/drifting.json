@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Drifting",
+    "year": 1923,
+    "cast": [
+      "Priscilla Dean",
+      "Matt Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/drifting.html"
+}

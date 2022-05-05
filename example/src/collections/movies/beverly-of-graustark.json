@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beverly of Graustark",
+    "year": 1926,
+    "cast": [
+      "Marion Davies",
+      "Antonio Moreno"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/beverly-of-graustark.html"
+}

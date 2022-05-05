@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "To Hell and Back",
+    "year": 1955,
+    "cast": [
+      "Audie Murphy"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/to-hell-and-back.html"
+}

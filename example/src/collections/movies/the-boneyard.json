@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Boneyard",
+    "year": 1991,
+    "cast": [
+      "Ed Nelson",
+      "Norman Fell"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-boneyard.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pirates of the Skies",
+    "year": 1939,
+    "cast": [
+      "Kent Taylor",
+      "Rochelle Hudson",
+      "Regis Toomey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pirates-of-the-skies.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Date with Your Family",
+    "year": 1950,
+    "cast": [
+      "Ralph Hodges"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/a-date-with-your-family.html"
+}

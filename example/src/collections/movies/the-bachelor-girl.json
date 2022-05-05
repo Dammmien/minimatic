@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bachelor Girl",
+    "year": 1929,
+    "cast": [
+      "William Collier Jr.",
+      "Jacqueline Logan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bachelor-girl.html"
+}

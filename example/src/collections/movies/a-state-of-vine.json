@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A State of Vine",
+    "year": 2007,
+    "cast": [
+      "Wine",
+      "industry"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/a-state-of-vine.html"
+}

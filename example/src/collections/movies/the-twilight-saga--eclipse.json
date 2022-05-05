@@ -1,0 +1,30 @@
+{
+  "data": {
+    "title": "The Twilight Saga: Eclipse",
+    "year": 2010,
+    "cast": [
+      "Kristen Stewart",
+      "Robert Pattinson",
+      "Taylor Lautner",
+      "Ashley Greene",
+      "Peter Facinelli",
+      "Elizabeth Reaser",
+      "Kellan Lutz",
+      "Nikki Reed",
+      "Catalina Sandino Moreno",
+      "Jackson Rathbone",
+      "Bryce Dallas Howard",
+      "Billy Burke",
+      "Jodelle Ferland",
+      "Dakota Fanning",
+      "Xavier Samuel",
+      "Julia Jones",
+      "Jack Huston"
+    ],
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ]
+  },
+  "output": "movies/the-twilight-saga--eclipse.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Rocker",
+    "year": 2008,
+    "cast": [
+      "Rainn Wilson",
+      "Christina Applegate",
+      "Jeff Garlin",
+      "Josh Gad",
+      "Teddy Geiger",
+      "Emma Stone"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-rocker.html"
+}

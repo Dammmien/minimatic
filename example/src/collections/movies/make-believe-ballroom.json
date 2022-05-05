@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Make Believe Ballroom",
+    "year": 1949,
+    "cast": [
+      "Ruth Warrick",
+      "Ron Randell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/make-believe-ballroom.html"
+}

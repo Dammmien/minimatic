@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Flying Irishman",
+    "year": 1939,
+    "cast": [
+      "Douglas Corrigan"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-flying-irishman.html"
+}

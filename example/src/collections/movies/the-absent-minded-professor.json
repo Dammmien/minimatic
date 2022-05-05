@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Absent-Minded Professor",
+    "year": 1961,
+    "cast": [
+      "Fred MacMurray",
+      "Nancy Olson",
+      "Keenan Wynn",
+      "Tommy Kirk"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-absent-minded-professor.html"
+}

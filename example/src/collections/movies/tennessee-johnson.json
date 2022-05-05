@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tennessee Johnson",
+    "year": 1942,
+    "cast": [
+      "Van Heflin",
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/tennessee-johnson.html"
+}

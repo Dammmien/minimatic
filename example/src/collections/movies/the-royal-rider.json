@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Royal Rider",
+    "year": 1929,
+    "cast": [
+      "Ken Maynard",
+      "Olive Hasbrouck"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-royal-rider.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Moonlight on the Prairie",
+    "year": 1935,
+    "cast": [
+      "Dick Foran",
+      "Sheila Bromley",
+      "George E. Stone"
+    ],
+    "genres": [
+      "Western",
+      "Musical"
+    ]
+  },
+  "output": "movies/moonlight-on-the-prairie.html"
+}

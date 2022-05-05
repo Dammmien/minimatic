@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tobruk",
+    "year": 1967,
+    "cast": [
+      "Rock Hudson",
+      "George Peppard"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/tobruk.html"
+}

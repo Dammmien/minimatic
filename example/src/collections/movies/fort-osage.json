@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fort Osage",
+    "year": 1952,
+    "cast": [
+      "Rod Cameron",
+      "Jane Nigh"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fort-osage.html"
+}

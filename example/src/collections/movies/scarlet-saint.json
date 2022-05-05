@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Scarlet Saint",
+    "year": 1925,
+    "cast": [
+      "Mary Astor",
+      "Lloyd Hughes",
+      "Frank Morgan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/scarlet-saint.html"
+}

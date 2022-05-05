@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "His Trysting Place",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Mabel Normand"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/his-trysting-place.html"
+}

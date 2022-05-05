@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Three Faces of Eve",
+    "year": 1957,
+    "cast": [
+      "Joanne Woodward",
+      "Lee J. Cobb"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-three-faces-of-eve.html"
+}

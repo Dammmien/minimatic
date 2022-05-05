@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Breed of the Sea",
+    "year": 1926,
+    "cast": [
+      "Margaret Livingston",
+      "Dorothy Dunbar"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/breed-of-the-sea.html"
+}

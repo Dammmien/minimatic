@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Red Planet",
+    "year": 2000,
+    "cast": [
+      "Val Kilmer",
+      "Carrie-Anne Moss",
+      "Tom Sizemore"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/red-planet.html"
+}

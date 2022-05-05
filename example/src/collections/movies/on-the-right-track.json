@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "On the Right Track",
+    "year": 1981,
+    "cast": [
+      "Gary Coleman",
+      "Michael Lembeck",
+      "Lisa Eilbacher"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/on-the-right-track.html"
+}

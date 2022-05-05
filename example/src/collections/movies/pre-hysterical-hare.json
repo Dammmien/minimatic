@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Pre-Hysterical Hare",
+    "year": 1958,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/pre-hysterical-hare.html"
+}

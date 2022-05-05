@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Fantasies",
+    "year": 1981,
+    "cast": [
+      "Bo Derek"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fantasies.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Discovery",
+    "year": 2017,
+    "cast": [
+      "Jason Segel",
+      "Rooney Mara",
+      "Robert Redford",
+      "Jesse Plemons",
+      "Riley Keough"
+    ],
+    "genres": [
+      "Romance",
+      "Drama",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-discovery.html"
+}

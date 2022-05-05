@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Little Drummer Girl",
+    "year": 1984,
+    "cast": [
+      "Diane Keaton",
+      "Klaus Kinski",
+      "Sami Frey"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-little-drummer-girl.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It Happened on 5th Avenue",
+    "year": 1947,
+    "cast": [
+      "Don DeFore",
+      "Ann Harding",
+      "Charles Ruggles"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-happened-on-5th-avenue.html"
+}

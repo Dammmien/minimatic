@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Golden Yeggs",
+    "year": 1950,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/golden-yeggs.html"
+}

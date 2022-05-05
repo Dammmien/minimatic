@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Hit Parade of 1941",
+    "year": 1940,
+    "cast": [
+      "Kenny Baker",
+      "Frances Langford",
+      "Hugh Herbert",
+      "Ann Miller"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hit-parade-of-1941.html"
+}

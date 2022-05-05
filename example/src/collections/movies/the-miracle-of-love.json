@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Miracle of Love",
+    "year": 1919,
+    "cast": [
+      "Lucy Cotton",
+      "Wyndham Standing"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-miracle-of-love.html"
+}

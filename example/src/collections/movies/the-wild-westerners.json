@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wild Westerners",
+    "year": 1962,
+    "cast": [
+      "James Philbrook",
+      "Nancy Kovack"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-wild-westerners.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Northern Pursuit",
+    "year": 1943,
+    "cast": [
+      "Errol Flynn",
+      "Julie Bishop"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/northern-pursuit.html"
+}

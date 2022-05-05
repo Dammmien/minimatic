@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Easy Living",
+    "year": 1949,
+    "cast": [
+      "Victor Mature",
+      "Lucille Ball",
+      "Lizabeth Scott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/easy-living.html"
+}

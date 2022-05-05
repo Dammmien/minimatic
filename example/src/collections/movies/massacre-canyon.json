@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Massacre Canyon",
+    "year": 1954,
+    "cast": [
+      "Philip Carey",
+      "Audrey Totter"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/massacre-canyon.html"
+}

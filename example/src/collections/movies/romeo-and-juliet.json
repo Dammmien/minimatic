@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Romeo and Juliet",
+    "year": 1936,
+    "cast": [
+      "Norma Shearer",
+      "(",
+      "Best Actress",
+      "nominee)",
+      "Leslie Howard",
+      "John Barrymore",
+      "Basil Rathbone",
+      "(",
+      "Best Supporting Actor",
+      "nominee)"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/romeo-and-juliet.html"
+}

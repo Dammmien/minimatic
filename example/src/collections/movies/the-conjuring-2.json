@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Conjuring 2",
+    "year": 2016,
+    "cast": [
+      "Vera Farmiga",
+      "Patrick Wilson"
+    ],
+    "genres": [
+      "Supernatural",
+      "Horror"
+    ]
+  },
+  "output": "movies/the-conjuring-2.html"
+}

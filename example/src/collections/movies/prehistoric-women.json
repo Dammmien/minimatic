@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prehistoric Women",
+    "year": 1950,
+    "cast": [
+      "Laurette Luez",
+      "Allan Nixon"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/prehistoric-women.html"
+}

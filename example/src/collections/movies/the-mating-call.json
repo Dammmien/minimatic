@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mating Call",
+    "year": 1928,
+    "cast": [
+      "Thomas Meighan",
+      "Evelyn Brent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mating-call.html"
+}

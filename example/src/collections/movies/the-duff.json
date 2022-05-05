@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Duff",
+    "year": 2015,
+    "cast": [
+      "Mae Whitman",
+      "Robbie Amell",
+      "Bella Thorne",
+      "Bianca A. Santos"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-duff.html"
+}

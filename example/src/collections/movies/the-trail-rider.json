@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Trail Rider",
+    "year": 1925,
+    "cast": [
+      "Buck Jones",
+      "Nancy Deaver"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-trail-rider.html"
+}

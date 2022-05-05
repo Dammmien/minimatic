@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Time Chasers",
+    "year": 1994,
+    "cast": [
+      "Matthew Burch"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/time-chasers.html"
+}

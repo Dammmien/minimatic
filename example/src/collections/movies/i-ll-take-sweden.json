@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I'll Take Sweden",
+    "year": 1965,
+    "cast": [
+      "Bob Hope",
+      "Tuesday Weld",
+      "Frankie Avalon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-ll-take-sweden.html"
+}

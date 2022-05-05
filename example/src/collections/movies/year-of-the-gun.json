@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Year of the Gun",
+    "year": 1991,
+    "cast": [
+      "Andrew McCarthy",
+      "Sharon Stone",
+      "Valeria Golino"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/year-of-the-gun.html"
+}

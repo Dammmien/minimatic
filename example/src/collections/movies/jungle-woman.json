@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jungle Woman",
+    "year": 1944,
+    "cast": [
+      "Evelyn Ankers",
+      "J. Carrol Naish"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/jungle-woman.html"
+}

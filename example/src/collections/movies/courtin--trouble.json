@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Courtin' Trouble",
+    "year": 1948,
+    "cast": [
+      "Jimmy Wakely",
+      "Dub Taylor",
+      "Virginia Belmont"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/courtin--trouble.html"
+}

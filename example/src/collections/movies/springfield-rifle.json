@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Springfield Rifle",
+    "year": 1952,
+    "cast": [
+      "Gary Cooper",
+      "Phyllis Thaxter",
+      "Lon Chaney, Jr."
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/springfield-rifle.html"
+}

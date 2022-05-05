@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mysterious Island",
+    "year": 1961,
+    "cast": [
+      "Gary Merrill",
+      "Herbert Lom",
+      "Beth Rogan"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/mysterious-island.html"
+}

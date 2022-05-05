@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Don Juan Quilligan",
+    "year": 1945,
+    "cast": [
+      "William Bendix",
+      "Phil Silvers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/don-juan-quilligan.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Blockers",
+    "year": 2018,
+    "cast": [
+      "Leslie Mann",
+      "Ike Barinholtz",
+      "John Cena",
+      "Kathryn Newton",
+      "Graham Phillips",
+      "June Diane Raphael",
+      "Hannibal Buress",
+      "Sarayu Blue"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blockers.html"
+}

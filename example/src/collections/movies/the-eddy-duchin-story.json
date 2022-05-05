@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Eddy Duchin Story",
+    "year": 1956,
+    "cast": [
+      "Tyrone Power",
+      "Kim Novak"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-eddy-duchin-story.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Nightmare Man",
+    "year": 2006,
+    "cast": [
+      "Gwen Davis"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/nightmare-man.html"
+}

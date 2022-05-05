@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Teaser",
+    "year": 1925,
+    "cast": [
+      "Laura La Plante",
+      "Pat O'Malley",
+      "Hedda Hopper",
+      ".",
+      "Walter McGrail"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-teaser.html"
+}

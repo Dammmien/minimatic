@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Maria's Lovers",
+    "year": 1984,
+    "cast": [
+      "Nastassja Kinski",
+      "John Savage",
+      "Robert Mitchum"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/maria-s-lovers.html"
+}

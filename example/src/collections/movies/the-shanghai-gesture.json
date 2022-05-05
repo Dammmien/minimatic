@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Shanghai Gesture",
+    "year": 1941,
+    "cast": [
+      "Gene Tierney",
+      "Walter Huston",
+      "Victor Mature"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-shanghai-gesture.html"
+}

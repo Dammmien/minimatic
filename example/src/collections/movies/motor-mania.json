@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Motor Mania",
+    "year": 1950,
+    "cast": [
+      "Goofy"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/motor-mania.html"
+}

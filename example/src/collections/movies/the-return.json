@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Return",
+    "year": 2006,
+    "cast": [
+      "Sarah Michelle Gellar",
+      "Peter O'Brien",
+      "Adam Scott"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-return.html"
+}

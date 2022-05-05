@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Armed Response",
+    "year": 2017,
+    "cast": [
+      "Wesley Snipes",
+      "Anne Heche",
+      "Dave Annable",
+      "Seth Rollins",
+      "Gene Simmons",
+      "Mo Gallini"
+    ],
+    "genres": [
+      "Thriller",
+      "Science Fiction",
+      "Action"
+    ]
+  },
+  "output": "movies/armed-response.html"
+}

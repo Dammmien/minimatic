@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Adventures of Don Coyote",
+    "year": 1947,
+    "cast": [
+      "Richard Martin",
+      "Frances Rafferty"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-adventures-of-don-coyote.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Modern Marriage",
+    "year": 1923,
+    "cast": [
+      "Francis X. Bushman",
+      "Beverly Bayne"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/modern-marriage.html"
+}

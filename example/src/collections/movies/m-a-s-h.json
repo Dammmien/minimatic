@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "M\"A*S*H",
+    "year": 1970,
+    "cast": [
+      "Donald Sutherland",
+      "Elliott Gould",
+      "Sally Kellerman",
+      "Tom Skerritt",
+      "Jo Ann Pflug",
+      "John Schuck",
+      "Robert Duvall",
+      "René Auberjonois",
+      "Roger Bowen",
+      "Fred Williamson"
+    ],
+    "genres": [
+      "Comedy",
+      "War"
+    ]
+  },
+  "output": "movies/m-a-s-h.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fires of Faith",
+    "year": 1919,
+    "cast": [
+      "Catherine Calvert",
+      "Eugene O'Brien",
+      "Rubye De Remer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fires-of-faith.html"
+}

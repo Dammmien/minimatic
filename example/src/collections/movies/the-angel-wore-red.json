@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Angel Wore Red",
+    "year": 1960,
+    "cast": [
+      "Ava Gardner",
+      "Dirk Bogarde",
+      "Joseph Cotten"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-angel-wore-red.html"
+}

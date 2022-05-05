@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dark Corners",
+    "year": 2006,
+    "cast": [
+      "Thora Birch",
+      "Toby Stephens",
+      "Christien Anholt"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dark-corners.html"
+}

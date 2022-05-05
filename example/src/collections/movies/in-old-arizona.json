@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "In Old Arizona",
+    "year": 1929,
+    "cast": [
+      "Warner Baxter",
+      "Edmund Lowe"
+    ],
+    "genres": [
+      "Western",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/in-old-arizona.html"
+}

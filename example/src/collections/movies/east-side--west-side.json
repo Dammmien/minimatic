@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "East Side, West Side",
+    "year": 1949,
+    "cast": [
+      "Barbara Stanwyck",
+      "James Mason",
+      "Van Heflin",
+      "Ava Gardner"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/east-side--west-side.html"
+}

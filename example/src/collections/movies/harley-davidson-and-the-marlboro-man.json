@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Harley Davidson and the Marlboro Man",
+    "year": 1991,
+    "cast": [
+      "Mickey Rourke",
+      "Don Johnson",
+      "Tom Sizemore",
+      "Daniel Baldwin",
+      "Chelsea Field",
+      "Vanessa L. Williams",
+      "Giancarlo Esposito",
+      "Tia Carrere"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/harley-davidson-and-the-marlboro-man.html"
+}

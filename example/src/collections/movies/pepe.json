@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pepe",
+    "year": 1960,
+    "cast": [
+      "Cantinflas",
+      "Dan Dailey",
+      "Shirley Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pepe.html"
+}

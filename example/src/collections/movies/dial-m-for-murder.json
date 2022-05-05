@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dial M for Murder",
+    "year": 1954,
+    "cast": [
+      "Grace Kelly",
+      "Ray Milland",
+      "Robert Cummings",
+      "Anthony Dawson",
+      "John Williams"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/dial-m-for-murder.html"
+}

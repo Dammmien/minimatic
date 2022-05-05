@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It's a Bear",
+    "year": 1919,
+    "cast": [
+      "Taylor Holmes",
+      "Vivian Reed"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-a-bear.html"
+}

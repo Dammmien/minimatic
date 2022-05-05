@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "She's So Lovely",
+    "year": 1997,
+    "cast": [
+      "Sean Penn",
+      "Robin Wright Penn",
+      "John Travolta"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/she-s-so-lovely.html"
+}

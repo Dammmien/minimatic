@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Don't Bother to Knock",
+    "year": 1952,
+    "cast": [
+      "Marilyn Monroe",
+      "Richard Widmark",
+      "Anne Bancroft"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/don-t-bother-to-knock.html"
+}

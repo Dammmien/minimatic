@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Manila Calling",
+    "year": 1942,
+    "cast": [
+      "Carole Landis",
+      "Cornel Wilde"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/manila-calling.html"
+}

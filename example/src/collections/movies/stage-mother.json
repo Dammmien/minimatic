@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stage Mother",
+    "year": 1933,
+    "cast": [
+      "Alice Brady",
+      "Maureen O'Sullivan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stage-mother.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Evil Bong",
+    "year": 2006,
+    "cast": [
+      "David Weidoff"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/evil-bong.html"
+}

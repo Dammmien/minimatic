@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Edison, the Man",
+    "year": 1940,
+    "cast": [
+      "Spencer Tracy",
+      "Rita Johnson",
+      "Lynne Overman"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/edison--the-man.html"
+}

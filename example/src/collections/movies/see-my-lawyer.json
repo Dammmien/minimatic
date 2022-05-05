@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "See My Lawyer",
+    "year": 1945,
+    "cast": [
+      "Ole Olsen",
+      "Chic Johnson",
+      "Grace McDonald"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/see-my-lawyer.html"
+}

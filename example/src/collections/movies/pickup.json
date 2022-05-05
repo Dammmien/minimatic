@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pickup",
+    "year": 1951,
+    "cast": [
+      "Hugo Haas",
+      "Beverly Michaels"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/pickup.html"
+}

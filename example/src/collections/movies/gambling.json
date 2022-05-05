@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gambling",
+    "year": 1934,
+    "cast": [
+      "George M. Cohan",
+      "Wynne Gibson"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/gambling.html"
+}

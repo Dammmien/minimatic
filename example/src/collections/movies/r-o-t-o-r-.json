@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "R.O.T.O.R.",
+    "year": 1989,
+    "cast": [
+      "Richard Gesswein",
+      "Jayne Smith"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/r-o-t-o-r-.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kansas",
+    "year": 1988,
+    "cast": [
+      "Matt Dillon",
+      "Andrew McCarthy"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/kansas.html"
+}

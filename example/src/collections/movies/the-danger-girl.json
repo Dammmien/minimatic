@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Danger Girl",
+    "year": 1926,
+    "cast": [
+      "Priscilla Dean",
+      "John Bowers",
+      "Gustav von Seyffertitz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-danger-girl.html"
+}

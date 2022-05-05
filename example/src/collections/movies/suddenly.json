@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Suddenly",
+    "year": 1954,
+    "cast": [
+      "Frank Sinatra",
+      "Sterling Hayden",
+      "Nancy Gates"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/suddenly.html"
+}

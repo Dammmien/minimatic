@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Major Payne",
+    "year": 1995,
+    "cast": [
+      "Damon Wayans",
+      "Karyn Parsons"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/major-payne.html"
+}

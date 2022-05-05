@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Being Julia",
+    "year": 2004,
+    "cast": [
+      "Annette Bening",
+      "Jeremy Irons"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/being-julia.html"
+}

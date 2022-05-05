@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cthulhu",
+    "year": 2007,
+    "cast": [
+      "Tori Spelling",
+      "Cara Buono"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/cthulhu.html"
+}

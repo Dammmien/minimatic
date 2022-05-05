@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Red Kimona",
+    "year": 1925,
+    "cast": [
+      "Priscilla Bonner",
+      "Carl Miller",
+      "Tyrone Power Sr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-red-kimona.html"
+}

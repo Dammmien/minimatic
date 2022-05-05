@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Old Hutch",
+    "year": 1936,
+    "cast": [
+      "Wallace Beery",
+      "Cecilia Parker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/old-hutch.html"
+}

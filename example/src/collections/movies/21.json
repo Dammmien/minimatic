@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "21",
+    "year": 2008,
+    "cast": [
+      "Jim Sturgess",
+      "Kevin Spacey",
+      "Kate Bosworth",
+      "Laurence Fishburne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/21.html"
+}

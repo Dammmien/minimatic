@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cash McCall",
+    "year": 1960,
+    "cast": [
+      "James Garner",
+      "Natalie Wood",
+      "Nina Foch",
+      "E. G. Marshall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cash-mccall.html"
+}

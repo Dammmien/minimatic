@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Third Degree",
+    "year": 1926,
+    "cast": [
+      "Dolores Costello",
+      "Louise Dresser",
+      "Rockliffe Fellowes"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-third-degree.html"
+}

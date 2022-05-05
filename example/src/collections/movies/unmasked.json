@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Unmasked",
+    "year": 1950,
+    "cast": [
+      "Robert Rockwell",
+      "Barbra Fuller"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/unmasked.html"
+}

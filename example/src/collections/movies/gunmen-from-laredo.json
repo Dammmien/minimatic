@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gunmen from Laredo",
+    "year": 1959,
+    "cast": [
+      "Robert Knapp",
+      "Maureen Hingert"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gunmen-from-laredo.html"
+}

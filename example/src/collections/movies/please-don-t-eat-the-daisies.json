@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Please Don't Eat the Daisies",
+    "year": 1960,
+    "cast": [
+      "Doris Day",
+      "David Niven",
+      "Janis Paige"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/please-don-t-eat-the-daisies.html"
+}

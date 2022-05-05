@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "You're Fired",
+    "year": 1919,
+    "cast": [
+      "Wallace Reid",
+      "Wanda Hawley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-re-fired.html"
+}

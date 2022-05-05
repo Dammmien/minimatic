@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Call of the Soul",
+    "year": 1919,
+    "cast": [
+      "Gladys Brockwell",
+      "William Scott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-call-of-the-soul.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Devil's Doorway",
+    "year": 1950,
+    "cast": [
+      "Robert Taylor",
+      "Louis Calhern"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/devil-s-doorway.html"
+}

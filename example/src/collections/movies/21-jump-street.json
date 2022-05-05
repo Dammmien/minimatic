@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "21 Jump Street",
+    "year": 2012,
+    "cast": [
+      "Jonah Hill",
+      "Channing Tatum",
+      "Brie Larson",
+      "Ice Cube",
+      "Ellie Kemper",
+      "Dave Franco",
+      "Rob Riggle",
+      "Johnny Depp"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/21-jump-street.html"
+}

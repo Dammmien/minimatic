@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silver Wings",
+    "year": 1922,
+    "cast": [
+      "Mary Carr",
+      "Percy Helton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/silver-wings.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Where's Poppa?",
+    "year": 1970,
+    "cast": [
+      "George Segal",
+      "Ruth Gordon",
+      "Ron Leibman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/where-s-poppa-.html"
+}

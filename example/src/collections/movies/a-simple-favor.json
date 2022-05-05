@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "A Simple Favor",
+    "year": 2018,
+    "cast": [
+      "Anna Kendrick",
+      "Blake Lively",
+      "Henry Golding",
+      "Andrew Rannells"
+    ],
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-simple-favor.html"
+}

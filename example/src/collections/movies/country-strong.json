@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Country Strong",
+    "year": 2010,
+    "cast": [
+      "Gwyneth Paltrow",
+      "Tim McGraw",
+      "Garrett Hedlund",
+      "Leighton Meester"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/country-strong.html"
+}

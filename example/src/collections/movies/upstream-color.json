@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Upstream Color",
+    "year": 2013,
+    "cast": [
+      "Amy Seimetz",
+      "Shane Carruth",
+      "Andrew Sensenig",
+      "Thiago Martins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/upstream-color.html"
+}

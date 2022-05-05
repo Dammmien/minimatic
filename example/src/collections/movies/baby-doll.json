@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Baby Doll",
+    "year": 1956,
+    "cast": [
+      "Carroll Baker",
+      "Karl Malden",
+      "Eli Wallach",
+      "Mildred Dunnock"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/baby-doll.html"
+}

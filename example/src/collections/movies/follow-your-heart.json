@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Follow Your Heart",
+    "year": 1936,
+    "cast": [
+      "Marion Talley",
+      "Michael Bartlett",
+      "Nigel Bruce"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/follow-your-heart.html"
+}

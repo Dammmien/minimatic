@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Sanitarium",
+    "year": 1910,
+    "cast": [
+      "Fatty Arbuckle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-sanitarium.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In the Headlines",
+    "year": 1929,
+    "cast": [
+      "Grant Withers",
+      "Marian Nixon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/in-the-headlines.html"
+}

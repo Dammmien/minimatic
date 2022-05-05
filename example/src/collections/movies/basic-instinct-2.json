@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Basic Instinct 2",
+    "year": 2006,
+    "cast": [
+      "Sharon Stone",
+      "David Morrissey",
+      "David Thewlis",
+      "Charlotte Rampling"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/basic-instinct-2.html"
+}

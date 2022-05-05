@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Jingle All the Way",
+    "year": 1996,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Sinbad",
+      "Phil Hartman",
+      "Rita Wilson",
+      "Robert Conrad",
+      "Jake Lloyd",
+      "James Belushi"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/jingle-all-the-way.html"
+}

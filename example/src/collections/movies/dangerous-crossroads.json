@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dangerous Crossroads",
+    "year": 1933,
+    "cast": [
+      "Jackie Searl",
+      "Diane Sinclair"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/dangerous-crossroads.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "John Smith",
+    "year": 1922,
+    "cast": [
+      "Eugene O'Brien",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/john-smith.html"
+}

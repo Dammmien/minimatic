@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Relative Strangers",
+    "year": 2006,
+    "cast": [
+      "Ron Livingston",
+      "Danny DeVito",
+      "Neve Campbell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/relative-strangers.html"
+}

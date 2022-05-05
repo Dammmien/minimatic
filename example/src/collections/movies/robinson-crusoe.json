@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Robinson Crusoe",
+    "year": 1997,
+    "cast": [
+      "Pierce Brosnan"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/robinson-crusoe.html"
+}

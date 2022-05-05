@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Death in the Air",
+    "year": 1936,
+    "cast": [
+      "Henry Hall",
+      "Wheeler Oakman",
+      "Leon Ames"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/death-in-the-air.html"
+}

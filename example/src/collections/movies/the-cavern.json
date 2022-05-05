@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Cavern",
+    "year": 1964,
+    "cast": [
+      "John Saxon",
+      "Rosanna Schiaffino",
+      "Brian Aherne",
+      "Larry Hagman"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-cavern.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Life in Ruins",
+    "year": 2009,
+    "cast": [
+      "Nia Vardalos",
+      "Richard Dreyfuss"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-life-in-ruins.html"
+}

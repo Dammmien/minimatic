@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "You're Telling Me!",
+    "year": 1934,
+    "cast": [
+      "W. C. Fields",
+      "Buster Crabbe",
+      "Joan Marsh"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-re-telling-me-.html"
+}

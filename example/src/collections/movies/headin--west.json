@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Headin' West",
+    "year": 1922,
+    "cast": [
+      "Hoot Gibson",
+      "Gertrude Short"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/headin--west.html"
+}

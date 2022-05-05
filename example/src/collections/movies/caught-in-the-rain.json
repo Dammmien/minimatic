@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Caught in the Rain",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Mack Swain",
+      "Alice Davenport"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/caught-in-the-rain.html"
+}

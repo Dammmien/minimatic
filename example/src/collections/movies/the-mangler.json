@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mangler",
+    "year": 1995,
+    "cast": [
+      "Robert Englund",
+      "Ted Levine"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-mangler.html"
+}

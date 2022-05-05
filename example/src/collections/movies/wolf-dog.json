@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wolf Dog",
+    "year": 1958,
+    "cast": [
+      "Allison Hayes",
+      "Jim Davis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wolf-dog.html"
+}

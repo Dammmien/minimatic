@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "White Tiger",
+    "year": 1923,
+    "cast": [
+      "Priscilla Dean",
+      "Matt Moore"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/white-tiger.html"
+}

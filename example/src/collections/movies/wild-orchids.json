@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wild Orchids",
+    "year": 1929,
+    "cast": [
+      "Greta Garbo",
+      "Lewis Stone",
+      "Nils Asther"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/wild-orchids.html"
+}

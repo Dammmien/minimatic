@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Battle Beyond the Stars",
+    "year": 1980,
+    "cast": [
+      "Richard Thomas",
+      "Robert Vaughn"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/battle-beyond-the-stars.html"
+}

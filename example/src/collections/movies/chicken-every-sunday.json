@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chicken Every Sunday",
+    "year": 1949,
+    "cast": [
+      "Dan Dailey",
+      "Celeste Holm",
+      "Colleen Townsend"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/chicken-every-sunday.html"
+}

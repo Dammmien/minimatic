@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "La Bamba",
+    "year": 1987,
+    "cast": [
+      "Lou Diamond Phillips",
+      "Esai Morales",
+      "Rosanna DeSoto",
+      "Elizabeth Peña",
+      "Danielle von Zerneck"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/la-bamba.html"
+}

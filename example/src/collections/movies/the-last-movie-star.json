@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Last Movie Star",
+    "year": 2018,
+    "cast": [
+      "Burt Reynolds",
+      "Ariel Winter",
+      "Clark Duke",
+      "Ellar Coltrane",
+      "Chevy Chase"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-last-movie-star.html"
+}

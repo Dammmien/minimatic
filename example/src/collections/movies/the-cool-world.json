@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cool World",
+    "year": 1963,
+    "cast": [
+      "Yolanda Rodríguez",
+      "Antonio Fargas",
+      "Carl Lee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-cool-world.html"
+}

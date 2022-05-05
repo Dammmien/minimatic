@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Adventures of Captain Fabian",
+    "year": 1951,
+    "cast": [
+      "Errol Flynn",
+      "Micheline Presle"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/adventures-of-captain-fabian.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Saracen Blade",
+    "year": 1954,
+    "cast": [
+      "Ricardo Montalbán",
+      "Betta St. John"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-saracen-blade.html"
+}

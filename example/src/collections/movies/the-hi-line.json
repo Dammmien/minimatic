@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hi-Line",
+    "year": 1999,
+    "cast": [
+      "Rachael Leigh Cook",
+      "Ryan Alosio"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hi-line.html"
+}

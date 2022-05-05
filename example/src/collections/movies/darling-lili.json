@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Darling Lili",
+    "year": 1970,
+    "cast": [
+      "Julie Andrews",
+      "Rock Hudson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/darling-lili.html"
+}

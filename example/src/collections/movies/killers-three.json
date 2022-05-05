@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Killers Three",
+    "year": 1968,
+    "cast": [
+      "Dick Clark",
+      "Robert Walker Jr.",
+      "Merle Haggard"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/killers-three.html"
+}

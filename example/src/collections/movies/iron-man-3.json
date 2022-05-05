@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Iron Man 3",
+    "year": 2013,
+    "cast": [
+      "Robert Downey, Jr.",
+      "Gwyneth Paltrow",
+      "Don Cheadle",
+      "Guy Pearce",
+      "Rebecca Hall",
+      "Stephanie Szostak",
+      "James Badge Dale",
+      "Jon Favreau",
+      "Ben Kingsley"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/iron-man-3.html"
+}

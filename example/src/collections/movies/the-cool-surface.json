@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cool Surface",
+    "year": 1994,
+    "cast": [
+      "Robert Patrick",
+      "Teri Hatcher"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-cool-surface.html"
+}

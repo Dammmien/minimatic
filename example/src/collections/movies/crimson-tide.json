@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Crimson Tide",
+    "year": 1995,
+    "cast": [
+      "Denzel Washington",
+      "Gene Hackman",
+      "James Gandolfini"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/crimson-tide.html"
+}

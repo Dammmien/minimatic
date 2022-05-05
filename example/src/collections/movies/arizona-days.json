@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Arizona Days",
+    "year": 1937,
+    "cast": [
+      "Tex Ritter",
+      "Syd Saylor",
+      "William Faversham"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/arizona-days.html"
+}

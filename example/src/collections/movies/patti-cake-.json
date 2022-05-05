@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Patti Cake$",
+    "year": 2017,
+    "cast": [
+      "Danielle Macdonald",
+      "McCaul Lombardi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/patti-cake-.html"
+}

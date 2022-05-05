@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Just a Woman",
+    "year": 1925,
+    "cast": [
+      "Claire Windsor",
+      "Conway Tearle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/just-a-woman.html"
+}

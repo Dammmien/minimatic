@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Big Trouble in Little China",
+    "year": 1986,
+    "cast": [
+      "Kurt Russell",
+      "Kim Cattrall",
+      "Victor Wong"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/big-trouble-in-little-china.html"
+}

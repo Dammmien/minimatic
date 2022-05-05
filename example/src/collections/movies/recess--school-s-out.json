@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Recess: School's Out",
+    "year": 2001,
+    "cast": [
+      "Rickey D'Shon Collins",
+      "Jason Davis",
+      "Paul Willson"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/recess--school-s-out.html"
+}

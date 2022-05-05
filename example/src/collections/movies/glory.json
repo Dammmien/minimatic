@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Glory",
+    "year": 1989,
+    "cast": [
+      "Matthew Broderick",
+      "Denzel Washington",
+      "Morgan Freeman",
+      "Cary Elwes",
+      "Andre Braugher"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/glory.html"
+}

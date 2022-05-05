@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Rodeo Mixup",
+    "year": 1924,
+    "cast": [
+      "Edmund Cobb",
+      "Florence Gilbert"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-rodeo-mixup.html"
+}

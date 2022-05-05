@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Devil's Cargo",
+    "year": 1948,
+    "cast": [
+      "John Calvert",
+      "Rochelle Hudson"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/devil-s-cargo.html"
+}

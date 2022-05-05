@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Treasure of Matecumbe",
+    "year": 1976,
+    "cast": [
+      "Robert Foxworth",
+      "Joan Hackett",
+      "Peter Ustinov"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/treasure-of-matecumbe.html"
+}

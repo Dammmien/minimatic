@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Around the Bend",
+    "year": 2004,
+    "cast": [
+      "Christopher Walken",
+      "Josh Lucas",
+      "Michael Caine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/around-the-bend.html"
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Cloudy with a Chance of Meatballs 2",
+    "year": 2013,
+    "cast": [
+      "Anna Faris",
+      "Bill Hader",
+      "Andy Samberg",
+      "Kristen Schaal",
+      "James Caan",
+      "Neil Patrick Harris",
+      "Benjamin Bratt",
+      "Terry Crews",
+      "Will Forte"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/cloudy-with-a-chance-of-meatballs-2.html"
+}

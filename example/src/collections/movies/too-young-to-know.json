@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Too Young to Know",
+    "year": 1945,
+    "cast": [
+      "Joan Leslie",
+      "Robert Hutton",
+      "Dolores Moran"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/too-young-to-know.html"
+}

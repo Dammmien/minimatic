@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daughter of Mine",
+    "year": 1919,
+    "cast": [
+      "Madge Kennedy",
+      "John Bowers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/daughter-of-mine.html"
+}

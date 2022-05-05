@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Four Horsemen of the Apocalypse",
+    "year": 1921,
+    "cast": [
+      "Rudolph Valentino"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-four-horsemen-of-the-apocalypse.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Take Shelter",
+    "year": 2011,
+    "cast": [
+      "Michael Shannon",
+      "Jessica Chastain",
+      "Shea Whigham",
+      "Katy Mixon",
+      "Kathy Baker",
+      "Ray McKinnon",
+      "Lisa Gay Hamilton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/take-shelter.html"
+}

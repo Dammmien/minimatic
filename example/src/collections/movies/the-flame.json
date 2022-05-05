@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Flame",
+    "year": 1947,
+    "cast": [
+      "John Carroll",
+      "Vera Ralston",
+      "Robert Paige",
+      "Blanche Yurka",
+      "Broderick Crawford"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-flame.html"
+}

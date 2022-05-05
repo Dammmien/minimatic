@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "American Flyers",
+    "year": 1985,
+    "cast": [
+      "Kevin Costner",
+      "David Marshall Grant",
+      "Rae Dawn Chong",
+      "Alexandra Paul",
+      "Janice Rule",
+      "John Amos"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/american-flyers.html"
+}

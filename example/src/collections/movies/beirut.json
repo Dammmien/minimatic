@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Beirut",
+    "year": 2018,
+    "cast": [
+      "Jon Hamm",
+      "Rosamund Pike",
+      "Dean Norris",
+      "Shea Whigham",
+      "Larry Pine",
+      "Mark Pellegrino"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/beirut.html"
+}

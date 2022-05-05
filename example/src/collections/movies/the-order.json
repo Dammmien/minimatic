@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Order",
+    "year": 2003,
+    "cast": [
+      "Heath Ledger",
+      "Shannyn Sossamon",
+      "Benno Fürmann"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-order.html"
+}

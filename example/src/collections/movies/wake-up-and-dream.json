@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wake Up and Dream",
+    "year": 1946,
+    "cast": [
+      "John Payne",
+      "June Haver"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wake-up-and-dream.html"
+}

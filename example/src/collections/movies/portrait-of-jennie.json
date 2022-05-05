@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Portrait of Jennie",
+    "year": 1948,
+    "cast": [
+      "Jennifer Jones",
+      "Joseph Cotten"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/portrait-of-jennie.html"
+}

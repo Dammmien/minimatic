@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Nacho Libre",
+    "year": 2006,
+    "cast": [
+      "Jack Black"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nacho-libre.html"
+}

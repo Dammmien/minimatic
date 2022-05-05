@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "New York Stories",
+    "year": 1989,
+    "cast": [
+      "Nick Nolte",
+      "Rosanna Arquette",
+      "Giancarlo Giannini",
+      "Talia Shire",
+      "Heather McComb",
+      "Mae Questel",
+      "Woody Allen",
+      "Mia Farrow"
+    ],
+    "genres": []
+  },
+  "output": "movies/new-york-stories.html"
+}

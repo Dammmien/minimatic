@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Repossessed",
+    "year": 1990,
+    "cast": [
+      "Linda Blair",
+      "Leslie Nielsen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/repossessed.html"
+}

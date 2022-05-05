@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "F.T.W.",
+    "year": 1994,
+    "cast": [
+      "Mickey Rourke",
+      "Lori Singer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/f-t-w-.html"
+}

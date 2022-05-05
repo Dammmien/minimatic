@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three on a Ticket",
+    "year": 1947,
+    "cast": [
+      "Hugh Beaumont",
+      "Cheryl Walker"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/three-on-a-ticket.html"
+}

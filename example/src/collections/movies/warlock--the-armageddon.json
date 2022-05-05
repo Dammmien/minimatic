@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Warlock: The Armageddon",
+    "year": 1993,
+    "cast": [
+      "Julian Sands",
+      "Paula Marshall"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/warlock--the-armageddon.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Thin Man",
+    "year": 1934,
+    "cast": [
+      "William Powell",
+      "Myrna Loy",
+      "Maureen O'Sullivan"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-thin-man.html"
+}

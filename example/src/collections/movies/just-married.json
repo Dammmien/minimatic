@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Just Married",
+    "year": 2003,
+    "cast": [
+      "Ashton Kutcher",
+      "Brittany Murphy"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/just-married.html"
+}

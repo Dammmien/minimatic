@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Red State",
+    "year": 2011,
+    "cast": [
+      "Michael Angarano",
+      "Kerry Bishé",
+      "Nicholas Braun",
+      "Kyle Gallner",
+      "Ralph Garman",
+      "John Goodman",
+      "Matt L. Jones",
+      "Melissa Leo",
+      "James Parks",
+      "Michael Parks",
+      "Kevin Pollak",
+      "Haley Ramm",
+      "Stephen Root"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/red-state.html"
+}

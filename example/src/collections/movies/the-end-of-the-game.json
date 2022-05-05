@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The End of the Game",
+    "year": 1919,
+    "cast": [
+      "J. Warren Kerrigan",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-end-of-the-game.html"
+}

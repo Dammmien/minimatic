@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Scorchers",
+    "year": 1991,
+    "cast": [
+      "Faye Dunaway",
+      "James Earl Jones",
+      "Emily Lloyd",
+      "Jennifer Tilly"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/scorchers.html"
+}

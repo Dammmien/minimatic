@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Legend of Hollywood",
+    "year": 1924,
+    "cast": [
+      "Percy Marmont",
+      "Zasu Pitts"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/legend-of-hollywood.html"
+}

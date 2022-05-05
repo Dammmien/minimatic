@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dead Birds",
+    "year": 2004,
+    "cast": [
+      "Henry Thomas",
+      "Nicki Aycox",
+      "Isaiah Washington"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dead-birds.html"
+}

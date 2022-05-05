@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Daylight",
+    "year": 1996,
+    "cast": [
+      "Sylvester Stallone",
+      "Amy Brenneman",
+      "Viggo Mortensen",
+      "Dan Hedaya",
+      "Jay O. Sanders",
+      "Karen Young",
+      "Claire Bloom",
+      "Sage Stallone",
+      "Vanessa Bell Calloway",
+      "Danielle Harris",
+      "Barry Newman",
+      "Stan Shaw"
+    ],
+    "genres": [
+      "Disaster"
+    ]
+  },
+  "output": "movies/daylight.html"
+}

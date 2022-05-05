@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Keane",
+    "year": 2004,
+    "cast": [
+      "Damian Lewis",
+      "Abigail Breslin",
+      "Amy Ryan"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/keane.html"
+}

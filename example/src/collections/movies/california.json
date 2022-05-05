@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "California",
+    "year": 1963,
+    "cast": [
+      "Jock Mahoney",
+      "Faith Domergue"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/california.html"
+}

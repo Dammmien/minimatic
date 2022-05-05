@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "South of Rio",
+    "year": 1949,
+    "cast": [
+      "Monte Hale",
+      "Kay Christopher"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/south-of-rio.html"
+}

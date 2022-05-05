@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wistful Widow of Wagon Gap",
+    "year": 1947,
+    "cast": [
+      "Bud Abbott",
+      "Lou Costello"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-wistful-widow-of-wagon-gap.html"
+}

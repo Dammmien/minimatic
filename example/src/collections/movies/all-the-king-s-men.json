@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "All the King's Men",
+    "year": 2006,
+    "cast": [
+      "Sean Penn",
+      "Jude Law",
+      "Kate Winslet",
+      "Anthony Hopkins",
+      "Mark Ruffalo",
+      "James Gandolfini"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/all-the-king-s-men.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Mr. Hobbs Takes a Vacation",
+    "year": 1962,
+    "cast": [
+      "James Stewart",
+      "Maureen O'Hara",
+      "Fabian",
+      "Reginald Gardiner",
+      "Marie Wilson",
+      "John McGiver"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--hobbs-takes-a-vacation.html"
+}

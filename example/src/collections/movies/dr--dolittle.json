@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dr. Dolittle",
+    "year": 1998,
+    "cast": [
+      "Eddie Murphy",
+      "Ossie Davis",
+      "Richard Schiff"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dr--dolittle.html"
+}

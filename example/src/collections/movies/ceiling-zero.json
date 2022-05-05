@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ceiling Zero",
+    "year": 1936,
+    "cast": [
+      "James Cagney",
+      "Pat O'Brien",
+      "Barton MacLane"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/ceiling-zero.html"
+}

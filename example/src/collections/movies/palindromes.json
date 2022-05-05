@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Palindromes",
+    "year": 2004,
+    "cast": [
+      "Ellen Barkin",
+      "Matthew Faber",
+      "Rachel Corr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/palindromes.html"
+}

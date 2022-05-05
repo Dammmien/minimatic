@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Popular Sin",
+    "year": 1926,
+    "cast": [
+      "Florence Vidor",
+      "Clive Brook",
+      "Greta Nissen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-popular-sin.html"
+}

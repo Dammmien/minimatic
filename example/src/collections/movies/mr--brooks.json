@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mr. Brooks",
+    "year": 2007,
+    "cast": [
+      "Kevin Costner",
+      "Demi Moore",
+      "Dane Cook",
+      "William Hurt"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/mr--brooks.html"
+}

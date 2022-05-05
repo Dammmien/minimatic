@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Passion of Darkly Noon",
+    "year": 1995,
+    "cast": [
+      "Brendan Fraser",
+      "Viggo Mortensen",
+      "Ashley Judd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-passion-of-darkly-noon.html"
+}

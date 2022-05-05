@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "ATM",
+    "year": 2012,
+    "cast": [
+      "Brian Geraghty",
+      "Alice Eve",
+      "Josh Peck",
+      "Mike O'Brian"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/atm.html"
+}

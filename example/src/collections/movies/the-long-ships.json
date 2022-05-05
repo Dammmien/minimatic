@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Long Ships",
+    "year": 1963,
+    "cast": [
+      "Richard Widmark",
+      "Sidney Poitier",
+      "Russ Tamblyn"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-long-ships.html"
+}

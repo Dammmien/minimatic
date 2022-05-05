@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sunlight Jr.",
+    "year": 2013,
+    "cast": [
+      "Norman Reedus",
+      "Naomi Watts",
+      "Matt Dillon",
+      "William Haze"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sunlight-jr-.html"
+}

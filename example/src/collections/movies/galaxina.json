@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Galaxina",
+    "year": 1980,
+    "cast": [
+      "Dorothy Stratten"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/galaxina.html"
+}

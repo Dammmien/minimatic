@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Gamble",
+    "year": 1961,
+    "cast": [
+      "Stephen Boyd",
+      "Juliette Greco",
+      "David Wayne"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-big-gamble.html"
+}

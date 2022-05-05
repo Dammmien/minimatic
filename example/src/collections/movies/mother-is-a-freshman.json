@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mother Is a Freshman",
+    "year": 1949,
+    "cast": [
+      "Loretta Young",
+      "Van Johnson",
+      "Rudy Vallée"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/mother-is-a-freshman.html"
+}

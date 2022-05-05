@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Veiled Woman",
+    "year": 1929,
+    "cast": [
+      "Lia Torá",
+      "Walter McGrail"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-veiled-woman.html"
+}

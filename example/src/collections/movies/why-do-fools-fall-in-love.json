@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Why Do Fools Fall in Love",
+    "year": 1998,
+    "cast": [
+      "Halle Berry",
+      "Vivica A. Fox",
+      "Lela Rochon"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/why-do-fools-fall-in-love.html"
+}

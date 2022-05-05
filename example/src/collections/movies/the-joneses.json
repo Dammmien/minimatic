@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Joneses",
+    "year": 2010,
+    "cast": [
+      "David Duchovny",
+      "Demi Moore",
+      "Amber Heard",
+      "Ben Hollingsworth",
+      "Gary Cole",
+      "Glenne Headly",
+      "Lauren Hutton"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-joneses.html"
+}

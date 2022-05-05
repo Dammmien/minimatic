@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Wild Ride",
+    "year": 1960,
+    "cast": [
+      "Jack Nicholson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wild-ride.html"
+}

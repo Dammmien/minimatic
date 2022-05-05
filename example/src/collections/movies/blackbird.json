@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Blackbird",
+    "year": 2015,
+    "cast": [
+      "Julian Walker",
+      "Mo'Nique",
+      "Isaiah Washington",
+      "Kevin Alessee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blackbird.html"
+}

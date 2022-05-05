@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Perilous Journey",
+    "year": 1953,
+    "cast": [
+      "Vera Ralston",
+      "Scott Brady"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/a-perilous-journey.html"
+}

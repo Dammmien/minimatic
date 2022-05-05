@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "cast": [
+      "Harrison Ford",
+      "Ryan Gosling",
+      "Ana de Armas",
+      "Mackenzie Davis",
+      "Sylvia Hoeks",
+      "Lennie James",
+      "Carla Juri",
+      "Robin Wright",
+      "Dave Bautista",
+      "Jared Leto"
+    ],
+    "genres": [
+      "Noir",
+      "Science Fiction",
+      "Thriller",
+      "Mystery"
+    ]
+  },
+  "output": "movies/blade-runner-2049.html"
+}

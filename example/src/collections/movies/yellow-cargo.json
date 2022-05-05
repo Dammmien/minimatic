@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Yellow Cargo",
+    "year": 1936,
+    "cast": [
+      "Conrad Hunt",
+      "Vince Barnett",
+      "Eleanor Hunt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/yellow-cargo.html"
+}

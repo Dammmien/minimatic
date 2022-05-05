@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nightwatch",
+    "year": 1997,
+    "cast": [
+      "Ewan McGregor",
+      "Patricia Arquette",
+      "Nick Nolte"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/nightwatch.html"
+}

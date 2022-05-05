@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Doctor Takes a Wife",
+    "year": 1940,
+    "cast": [
+      "Loretta Young",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-doctor-takes-a-wife.html"
+}

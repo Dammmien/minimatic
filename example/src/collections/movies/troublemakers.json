@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Troublemakers",
+    "year": 1994,
+    "cast": [
+      "Terence Hill",
+      "Bud Spencer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/troublemakers.html"
+}

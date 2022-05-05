@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strictly Unconventional",
+    "year": 1930,
+    "cast": [
+      "Catherine Dale Owen",
+      "Paul Cavanagh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/strictly-unconventional.html"
+}

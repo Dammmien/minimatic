@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "North of 36",
+    "year": 1924,
+    "cast": [
+      "Jack Holt",
+      "Ernest Torrence",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/north-of-36.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tom and Huck",
+    "year": 1995,
+    "cast": [
+      "Jonathan Taylor Thomas",
+      "Brad Renfro"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/tom-and-huck.html"
+}

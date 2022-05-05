@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dark Hazard",
+    "year": 1934,
+    "cast": [
+      "Edward G. Robinson",
+      "Genevieve Tobin",
+      "Robert Barrat"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dark-hazard.html"
+}

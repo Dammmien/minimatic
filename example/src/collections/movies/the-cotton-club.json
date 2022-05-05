@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "The Cotton Club",
+    "year": 1984,
+    "cast": [
+      "Richard Gere",
+      "Gregory Hines",
+      "Diane Lane",
+      "Lonette McKee",
+      "Bob Hoskins",
+      "James Remar",
+      "Nicolas Cage",
+      "Maurice Hines",
+      "Fred Gwynne",
+      "Gwen Verdon"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/the-cotton-club.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "I Am Michael",
+    "year": 2017,
+    "cast": [
+      "James Franco",
+      "Zachary Quinto",
+      "Emma Roberts",
+      "Charlie Carver"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/i-am-michael.html"
+}

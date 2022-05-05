@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The International",
+    "year": 2009,
+    "cast": [
+      "Clive Owen",
+      "Naomi Watts"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-international.html"
+}

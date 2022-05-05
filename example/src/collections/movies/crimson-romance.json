@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Crimson Romance",
+    "year": 1934,
+    "cast": [
+      "Ben Lyon",
+      "Sari Maritza",
+      "Erich von Stroheim"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/crimson-romance.html"
+}

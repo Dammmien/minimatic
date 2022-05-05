@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Proud American",
+    "year": 2008,
+    "cast": [
+      "the American spirit"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/proud-american.html"
+}

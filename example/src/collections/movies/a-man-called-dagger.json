@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Man Called Dagger",
+    "year": 1968,
+    "cast": [
+      "Terry Moore",
+      "Sue Ane Langdon"
+    ],
+    "genres": [
+      "Spy",
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-man-called-dagger.html"
+}

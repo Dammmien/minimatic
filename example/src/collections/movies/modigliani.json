@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Modigliani",
+    "year": 2004,
+    "cast": [
+      "Andy García"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/modigliani.html"
+}

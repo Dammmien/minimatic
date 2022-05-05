@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "For Singles Only",
+    "year": 1968,
+    "cast": [
+      "Mary Ann Mobley",
+      "Lana Wood",
+      "Milton Berle"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/for-singles-only.html"
+}

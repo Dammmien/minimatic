@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hired Gun",
+    "year": 1957,
+    "cast": [
+      "Rory Calhoun",
+      "Anne Francis",
+      "Chuck Connors"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-hired-gun.html"
+}

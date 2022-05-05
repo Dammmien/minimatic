@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Money Madness",
+    "year": 1948,
+    "cast": [
+      "Hugh Beaumont",
+      "Frances Rafferty"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/money-madness.html"
+}

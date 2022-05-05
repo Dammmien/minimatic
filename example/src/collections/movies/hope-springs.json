@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hope Springs",
+    "year": 2012,
+    "cast": [
+      "Meryl Streep",
+      "Tommy Lee Jones",
+      "Steve Carell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hope-springs.html"
+}

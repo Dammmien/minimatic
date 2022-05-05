@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Hangover",
+    "year": 2009,
+    "cast": [
+      "Bradley Cooper",
+      "Ed Helms",
+      "Zach Galifianakis",
+      "Heather Graham",
+      "Justin Bartha"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-hangover.html"
+}

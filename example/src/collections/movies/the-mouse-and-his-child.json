@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Mouse and His Child",
+    "year": 1977,
+    "cast": [
+      "Voices of",
+      "Cloris Leachman",
+      "Peter Ustinov",
+      "Andy Devine"
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/the-mouse-and-his-child.html"
+}

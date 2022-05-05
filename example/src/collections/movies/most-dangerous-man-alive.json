@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Most Dangerous Man Alive",
+    "year": 1961,
+    "cast": [
+      "Ron Randell",
+      "Debra Paget"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/most-dangerous-man-alive.html"
+}

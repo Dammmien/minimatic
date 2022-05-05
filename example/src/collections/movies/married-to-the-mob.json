@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Married to the Mob",
+    "year": 1988,
+    "cast": [
+      "Michelle Pfeiffer",
+      "Matthew Modine",
+      "Dean Stockwell",
+      "Mercedes Ruehl",
+      "Oliver Platt",
+      "Alec Baldwin",
+      "Nancy Travis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/married-to-the-mob.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Playing with Souls",
+    "year": 1925,
+    "cast": [
+      "Jacqueline Logan",
+      "Mary Astor",
+      "Clive Brook"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/playing-with-souls.html"
+}

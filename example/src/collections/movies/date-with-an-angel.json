@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Date with an Angel",
+    "year": 1987,
+    "cast": [
+      "Michael E. Knight",
+      "Emmanuelle Béart",
+      "David Dukes",
+      "Phoebe Cates"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/date-with-an-angel.html"
+}

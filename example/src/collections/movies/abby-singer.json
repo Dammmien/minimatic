@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Abby Singer",
+    "year": 2003,
+    "cast": [
+      "Clint J. Palmer",
+      "Ryan Williams",
+      "Wendy Buss"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/abby-singer.html"
+}

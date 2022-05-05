@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Glass Slipper",
+    "year": 1955,
+    "cast": [
+      "Leslie Caron",
+      "Michael Wilding"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-glass-slipper.html"
+}

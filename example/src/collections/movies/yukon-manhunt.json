@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yukon Manhunt",
+    "year": 1951,
+    "cast": [
+      "Kirby Grant",
+      "Margaret Field"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/yukon-manhunt.html"
+}

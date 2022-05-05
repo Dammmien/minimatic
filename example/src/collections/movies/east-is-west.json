@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "East Is West",
+    "year": 1930,
+    "cast": [
+      "Edward G. Robinson",
+      "Lupe Vélez",
+      "Lew Ayres"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/east-is-west.html"
+}

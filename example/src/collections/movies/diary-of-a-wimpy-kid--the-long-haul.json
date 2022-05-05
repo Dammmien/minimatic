@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Diary of a Wimpy Kid: The Long Haul",
+    "year": 2017,
+    "cast": [
+      "Jason Ian Drucker",
+      "Owen Asztalo",
+      "Charlie Wright",
+      "Alicia Silverstone",
+      "Tom Everett Scott"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/diary-of-a-wimpy-kid--the-long-haul.html"
+}

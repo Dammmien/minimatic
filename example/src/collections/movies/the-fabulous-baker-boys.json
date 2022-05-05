@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fabulous Baker Boys",
+    "year": 1989,
+    "cast": [
+      "Jeff Bridges",
+      "Beau Bridges",
+      "Michelle Pfeiffer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fabulous-baker-boys.html"
+}

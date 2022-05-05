@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Pentagon Wars",
+    "year": 1998,
+    "cast": [
+      "Kelsey Grammer",
+      "Cary Elwes",
+      "Richard Schiff",
+      "Viola Davis"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-pentagon-wars.html"
+}

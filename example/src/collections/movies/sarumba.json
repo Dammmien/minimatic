@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sarumba",
+    "year": 1950,
+    "cast": [
+      "Michael Whalen",
+      "Doris Dowling"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/sarumba.html"
+}

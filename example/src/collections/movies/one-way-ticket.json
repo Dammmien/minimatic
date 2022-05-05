@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Way Ticket",
+    "year": 1935,
+    "cast": [
+      "Lloyd Nolan",
+      "Walter Connolly"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/one-way-ticket.html"
+}

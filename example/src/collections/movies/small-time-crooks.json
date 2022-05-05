@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Small Time Crooks",
+    "year": 2000,
+    "cast": [
+      "Woody Allen",
+      "Hugh Grant",
+      "Tracey Ullman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/small-time-crooks.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Squid and the Whale",
+    "year": 2005,
+    "cast": [
+      "Laura Linney",
+      "Jeff Daniels",
+      "Jesse Eisenberg",
+      "Owen Kline"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-squid-and-the-whale.html"
+}

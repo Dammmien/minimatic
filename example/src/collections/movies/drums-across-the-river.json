@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Drums Across the River",
+    "year": 1954,
+    "cast": [
+      "Audie Murphy",
+      "Lisa Gaye"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/drums-across-the-river.html"
+}

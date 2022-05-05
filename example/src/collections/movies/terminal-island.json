@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Terminal Island",
+    "year": 1973,
+    "cast": [
+      "Phyllis Davis",
+      "Marta Kristen"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/terminal-island.html"
+}

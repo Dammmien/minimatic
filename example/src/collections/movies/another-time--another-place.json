@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Another Time, Another Place",
+    "year": 1958,
+    "cast": [
+      "Lana Turner",
+      "Barry Sullivan",
+      "Sean Connery",
+      "Glynis Johns"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/another-time--another-place.html"
+}

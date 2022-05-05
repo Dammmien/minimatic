@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hard Contract",
+    "year": 1969,
+    "cast": [
+      "James Coburn",
+      "Lee Remick",
+      "Lilli Palmer"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/hard-contract.html"
+}

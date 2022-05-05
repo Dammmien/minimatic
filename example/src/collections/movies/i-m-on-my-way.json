@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "I'm on My Way",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-m-on-my-way.html"
+}

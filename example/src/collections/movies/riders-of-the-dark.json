@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riders of the Dark",
+    "year": 1928,
+    "cast": [
+      "Tim McCoy",
+      "Dorothy Dwan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/riders-of-the-dark.html"
+}

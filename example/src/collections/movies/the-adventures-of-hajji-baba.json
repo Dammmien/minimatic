@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Adventures of Hajji Baba",
+    "year": 1954,
+    "cast": [
+      "John Derek",
+      "Elaine Stewart"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-adventures-of-hajji-baba.html"
+}

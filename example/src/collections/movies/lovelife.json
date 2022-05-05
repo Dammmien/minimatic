@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lovelife",
+    "year": 1997,
+    "cast": [
+      "Carla Gugino",
+      "Sherilyn Fenn"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/lovelife.html"
+}

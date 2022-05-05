@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Leopard Man",
+    "year": 1943,
+    "cast": [
+      "Dennis O'Keefe",
+      "Margo",
+      "Jean Brooks"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-leopard-man.html"
+}

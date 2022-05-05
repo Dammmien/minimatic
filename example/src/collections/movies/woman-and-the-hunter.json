@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Woman and the Hunter",
+    "year": 1957,
+    "cast": [
+      "Ann Sheridan",
+      "David Farrar"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/woman-and-the-hunter.html"
+}

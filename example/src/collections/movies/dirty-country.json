@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dirty Country",
+    "year": 2007,
+    "cast": [
+      "Life of",
+      "Larry Pierce"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/dirty-country.html"
+}

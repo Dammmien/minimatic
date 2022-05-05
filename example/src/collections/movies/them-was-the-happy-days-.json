@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Them Was the Happy Days!",
+    "year": 1916,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/them-was-the-happy-days-.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lost City",
+    "year": 2005,
+    "cast": [
+      "Andy García",
+      "Dustin Hoffman",
+      "Bill Murray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lost-city.html"
+}

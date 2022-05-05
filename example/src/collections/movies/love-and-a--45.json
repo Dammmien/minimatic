@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love and a .45",
+    "year": 1994,
+    "cast": [
+      "Gil Bellows",
+      "Renée Zellweger"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-and-a--45.html"
+}

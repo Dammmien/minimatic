@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "High Lonesome",
+    "year": 1950,
+    "cast": [
+      "John Drew Barrymore"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/high-lonesome.html"
+}

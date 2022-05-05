@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Forced Vengeance",
+    "year": 1982,
+    "cast": [
+      "Chuck Norris",
+      "David Opatoshu",
+      "Frank Michael Liu"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/forced-vengeance.html"
+}

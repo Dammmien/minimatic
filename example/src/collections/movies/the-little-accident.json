@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Little Accident",
+    "year": 1930,
+    "cast": [
+      "Douglas Fairbanks",
+      "Anita Page",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-little-accident.html"
+}

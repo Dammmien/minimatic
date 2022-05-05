@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Highwayman",
+    "year": 1951,
+    "cast": [
+      "Philip Friend",
+      "Wanda Hendrix"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-highwayman.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ride Him, Cowboy",
+    "year": 1932,
+    "cast": [
+      "John Wayne",
+      "Otis Harlan",
+      "Ruth Hall"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ride-him--cowboy.html"
+}

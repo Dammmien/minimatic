@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Murder of Dr. Harrigan",
+    "year": 1936,
+    "cast": [
+      "Ricardo Cortez",
+      "Kay Linaker",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-murder-of-dr--harrigan.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "San Andreas",
+    "year": 2015,
+    "cast": [
+      "Dwayne Johnson",
+      "Carla Gugino",
+      "Alexandra Daddario"
+    ],
+    "genres": [
+      "Disaster"
+    ]
+  },
+  "output": "movies/san-andreas.html"
+}

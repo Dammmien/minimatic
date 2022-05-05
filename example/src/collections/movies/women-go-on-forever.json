@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Women Go on Forever",
+    "year": 1931,
+    "cast": [
+      "Clara Kimball Young",
+      "Marian Nixon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/women-go-on-forever.html"
+}

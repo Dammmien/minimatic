@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nora Prentiss",
+    "year": 1947,
+    "cast": [
+      "Ann Sheridan",
+      "Kent Smith",
+      "Robert Alda"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/nora-prentiss.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sweet Revenge",
+    "year": 1987,
+    "cast": [
+      "Nancy Allen",
+      "Gina Gershon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sweet-revenge.html"
+}

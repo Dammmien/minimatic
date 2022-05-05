@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bonanza Town",
+    "year": 1951,
+    "cast": [
+      "Charles Starrett",
+      "Myron Healey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bonanza-town.html"
+}

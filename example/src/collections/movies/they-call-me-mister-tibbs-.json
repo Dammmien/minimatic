@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "They Call Me MISTER Tibbs!",
+    "year": 1970,
+    "cast": [
+      "Sidney Poitier",
+      "Martin Landau",
+      "Barbara McNair"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/they-call-me-mister-tibbs-.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Going Berserk",
+    "year": 1983,
+    "cast": [
+      "John Candy",
+      "Eugene Levy",
+      "Pat Hingle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/going-berserk.html"
+}

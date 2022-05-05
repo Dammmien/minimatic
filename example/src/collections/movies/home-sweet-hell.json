@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Home Sweet Hell",
+    "year": 2015,
+    "cast": [
+      "Patrick Wilson",
+      "Katherine Heigl",
+      "Jordana Brewster",
+      "Jim Belushi"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/home-sweet-hell.html"
+}

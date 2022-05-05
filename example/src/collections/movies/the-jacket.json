@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Jacket",
+    "year": 2005,
+    "cast": [
+      "Adrien Brody",
+      "Keira Knightley"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-jacket.html"
+}

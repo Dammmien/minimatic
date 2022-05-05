@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wilderness Trail",
+    "year": 1919,
+    "cast": [
+      "Tom Mix",
+      "Colleen Moore"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-wilderness-trail.html"
+}

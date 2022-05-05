@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gobs and Gals",
+    "year": 1952,
+    "cast": [
+      "Robert Hutton",
+      "Cathy Downs"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gobs-and-gals.html"
+}

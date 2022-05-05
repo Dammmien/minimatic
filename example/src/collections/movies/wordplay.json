@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wordplay",
+    "year": 2006,
+    "cast": [
+      "Will Shortz",
+      "Bill Clinton",
+      "Jon Stewart"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/wordplay.html"
+}

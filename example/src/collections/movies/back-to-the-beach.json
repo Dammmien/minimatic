@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Back to the Beach",
+    "year": 1987,
+    "cast": [
+      "Annette Funicello",
+      "Frankie Avalon",
+      "Bob Denver",
+      "Connie Stevens",
+      "Don Adams",
+      "Paul Reubens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/back-to-the-beach.html"
+}

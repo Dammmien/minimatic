@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Honeymoon Machine",
+    "year": 1961,
+    "cast": [
+      "Steve McQueen",
+      "Jim Hutton",
+      "Paula Prentiss"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-honeymoon-machine.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Amityville Dollhouse",
+    "year": 1996,
+    "cast": [
+      "Robin Thomas",
+      "Starr Andreeff",
+      "Allen Cutler"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/amityville-dollhouse.html"
+}

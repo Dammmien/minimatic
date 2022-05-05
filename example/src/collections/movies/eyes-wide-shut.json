@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Eyes Wide Shut",
+    "year": 1999,
+    "cast": [
+      "Tom Cruise",
+      "Nicole Kidman",
+      "Sydney Pollack"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/eyes-wide-shut.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Best Thief in the World",
+    "year": 2004,
+    "cast": [
+      "Mary-Louise Parker"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-best-thief-in-the-world.html"
+}

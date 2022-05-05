@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Love Hermit",
+    "year": 1916,
+    "cast": [
+      "William Russell",
+      "Charlotte Burton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-love-hermit.html"
+}

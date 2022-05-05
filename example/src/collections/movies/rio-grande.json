@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rio Grande",
+    "year": 1950,
+    "cast": [
+      "John Wayne",
+      "Maureen O'Hara"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rio-grande.html"
+}

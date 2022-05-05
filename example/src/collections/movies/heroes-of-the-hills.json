@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Heroes of the Hills",
+    "year": 1938,
+    "cast": [
+      "Robert Livingston",
+      "Ray Corrigan",
+      "Priscilla Lawson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/heroes-of-the-hills.html"
+}

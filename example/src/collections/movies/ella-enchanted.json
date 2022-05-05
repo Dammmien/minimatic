@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Ella Enchanted",
+    "year": 2004,
+    "cast": [
+      "Anne Hathaway"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/ella-enchanted.html"
+}

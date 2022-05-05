@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Uncommon Valor",
+    "year": 1983,
+    "cast": [
+      "Gene Hackman",
+      "Fred Ward",
+      "Tex Cobb",
+      "Patrick Swayze"
+    ],
+    "genres": [
+      "Action",
+      "War"
+    ]
+  },
+  "output": "movies/uncommon-valor.html"
+}

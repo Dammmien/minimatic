@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Taxi",
+    "year": 2004,
+    "cast": [
+      "Queen Latifah",
+      "Jimmy Fallon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/taxi.html"
+}

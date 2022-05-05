@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Snob",
+    "year": 1924,
+    "cast": [
+      "John Gilbert",
+      "Norma Shearer",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-snob.html"
+}

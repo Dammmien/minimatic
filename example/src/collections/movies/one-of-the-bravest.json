@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One of the Bravest",
+    "year": 1925,
+    "cast": [
+      "Ralph Lewis",
+      "Edward Hearn"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/one-of-the-bravest.html"
+}

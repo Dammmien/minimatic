@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hard-Hittin' Hamilton",
+    "year": 1924,
+    "cast": [
+      "Jay Wilsey",
+      "Hazel Keener"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/hard-hittin--hamilton.html"
+}

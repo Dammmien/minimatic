@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hazard",
+    "year": 1948,
+    "cast": [
+      "Paulette Goddard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hazard.html"
+}

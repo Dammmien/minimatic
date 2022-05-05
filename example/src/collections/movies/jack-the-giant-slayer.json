@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Jack the Giant Slayer",
+    "year": 2013,
+    "cast": [
+      "Nicholas Hoult",
+      "Eleanor Tomlinson",
+      "Stanley Tucci",
+      "Ian McShane",
+      "Bill Nighy",
+      "Ewan McGregor"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/jack-the-giant-slayer.html"
+}

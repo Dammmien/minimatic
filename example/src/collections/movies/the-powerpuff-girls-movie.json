@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Powerpuff Girls Movie",
+    "year": 2002,
+    "cast": [
+      "Cathy Cavadini",
+      "Tara Strong",
+      "E.G. Daily"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-powerpuff-girls-movie.html"
+}

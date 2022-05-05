@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Around the World in 80 Days",
+    "year": 2004,
+    "cast": [
+      "Jackie Chan",
+      "Steve Coogan",
+      "Cécile de France"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/around-the-world-in-80-days.html"
+}

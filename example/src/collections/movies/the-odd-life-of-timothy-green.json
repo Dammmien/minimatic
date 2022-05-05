@@ -1,0 +1,31 @@
+{
+  "data": {
+    "title": "The Odd Life of Timothy Green",
+    "year": 2012,
+    "cast": [
+      "Jennifer Garner",
+      "Joel Edgerton",
+      "CJ Adams",
+      "Ron Livingston",
+      "Dianne Wiest",
+      "Odeya Rush",
+      "Rosemarie DeWitt",
+      "Lin-Manuel Miranda",
+      "M. Emmet Walsh",
+      "Michael Arden",
+      "Lois Smith",
+      "David Morse",
+      "Common",
+      "Rhoda Griffis",
+      "Sharon Morris",
+      "Jason Davis",
+      "Cullen Moss"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-odd-life-of-timothy-green.html"
+}

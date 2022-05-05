@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Man Beast",
+    "year": 1956,
+    "cast": [
+      "Rock Madison",
+      "Asa Maynor",
+      "George Skaff"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/man-beast.html"
+}

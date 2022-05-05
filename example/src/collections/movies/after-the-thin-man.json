@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "After the Thin Man",
+    "year": 1936,
+    "cast": [
+      "William Powell",
+      "Myrna Loy",
+      "James Stewart"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/after-the-thin-man.html"
+}

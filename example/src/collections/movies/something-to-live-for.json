@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Something to Live For",
+    "year": 1952,
+    "cast": [
+      "Joan Fontaine",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/something-to-live-for.html"
+}

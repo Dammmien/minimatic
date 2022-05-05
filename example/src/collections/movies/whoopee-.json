@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Whoopee!",
+    "year": 1930,
+    "cast": [
+      "Eddie Cantor",
+      "Eleanor Hunt",
+      "Ethel Shutta"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/whoopee-.html"
+}

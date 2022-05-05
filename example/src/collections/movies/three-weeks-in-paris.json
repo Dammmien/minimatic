@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Three Weeks in Paris",
+    "year": 1925,
+    "cast": [
+      "Matt Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-weeks-in-paris.html"
+}

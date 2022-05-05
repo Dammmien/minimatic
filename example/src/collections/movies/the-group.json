@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Group",
+    "year": 1966,
+    "cast": [
+      "Candice Bergen",
+      "Joanna Pettet",
+      "Shirley Knight",
+      "Joan Hackett",
+      "Elizabeth Hartman",
+      "Jessica Walter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-group.html"
+}

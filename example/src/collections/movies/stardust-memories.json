@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Stardust Memories",
+    "year": 1980,
+    "cast": [
+      "Woody Allen",
+      "Charlotte Rampling",
+      "Jessica Harper"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/stardust-memories.html"
+}

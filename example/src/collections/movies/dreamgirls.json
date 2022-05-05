@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dreamgirls",
+    "year": 2006,
+    "cast": [
+      "Jamie Foxx",
+      "Beyoncé Knowles",
+      "Eddie Murphy",
+      "Jennifer Hudson",
+      "Anika Noni Rose"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/dreamgirls.html"
+}

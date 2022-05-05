@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pay or Die",
+    "year": 1960,
+    "cast": [
+      "Ernest Borgnine",
+      "Zohra Lampert"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/pay-or-die.html"
+}

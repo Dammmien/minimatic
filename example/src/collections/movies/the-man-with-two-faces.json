@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Man with Two Faces",
+    "year": 1934,
+    "cast": [
+      "Edward G. Robinson",
+      "Mary Astor",
+      "Ricardo Cortez"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-man-with-two-faces.html"
+}

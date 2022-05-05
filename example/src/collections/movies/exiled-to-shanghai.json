@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Exiled to Shanghai",
+    "year": 1937,
+    "cast": [
+      "Wallace Ford",
+      "June Travis",
+      "Dean Jagger"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/exiled-to-shanghai.html"
+}

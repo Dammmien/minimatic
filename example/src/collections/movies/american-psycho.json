@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "American Psycho",
+    "year": 2000,
+    "cast": [
+      "Christian Bale",
+      "Chloë Sevigny",
+      "Willem Dafoe"
+    ],
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ]
+  },
+  "output": "movies/american-psycho.html"
+}

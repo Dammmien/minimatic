@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Forever Young",
+    "year": 1992,
+    "cast": [
+      "Mel Gibson",
+      "Jamie Lee Curtis",
+      "Elijah Wood"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/forever-young.html"
+}

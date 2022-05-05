@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Ted",
+    "year": 2012,
+    "cast": [
+      "Mark Wahlberg",
+      "Mila Kunis",
+      "Seth MacFarlane",
+      "Giovanni Ribisi",
+      "Joel McHale",
+      "Patrick Warburton",
+      "Jessica Stroup",
+      "Laura Vandervoort",
+      "Ralph Garman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ted.html"
+}

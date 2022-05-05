@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "cast": [
+      "Tom Hanks",
+      "Edward Burns",
+      "Matt Damon",
+      "Tom Sizemore",
+      "Dennis Farina",
+      "Ted Danson",
+      "Paul Giamatti",
+      "Bryan Cranston",
+      "Harve Presnell",
+      "Vin Diesel"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/saving-private-ryan.html"
+}

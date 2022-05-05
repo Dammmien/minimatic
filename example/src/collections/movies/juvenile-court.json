@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Juvenile Court",
+    "year": 1938,
+    "cast": [
+      "Paul Kelly",
+      "Rita Hayworth"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/juvenile-court.html"
+}

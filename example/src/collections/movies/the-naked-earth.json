@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Naked Earth",
+    "year": 1958,
+    "cast": [
+      "Richard Todd",
+      "Juliette Gréco"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-naked-earth.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Deal of the Century",
+    "year": 1983,
+    "cast": [
+      "Chevy Chase",
+      "Gregory Hines",
+      "Sigourney Weaver"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/deal-of-the-century.html"
+}

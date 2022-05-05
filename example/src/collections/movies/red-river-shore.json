@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Red River Shore",
+    "year": 1953,
+    "cast": [
+      "Rex Allen",
+      "Lyn Thomas"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/red-river-shore.html"
+}

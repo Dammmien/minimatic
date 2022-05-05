@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wallflower",
+    "year": 1948,
+    "cast": [
+      "Joyce Reynolds",
+      "Janis Paige"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wallflower.html"
+}

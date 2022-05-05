@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Thy Neighbor",
+    "year": 1940,
+    "cast": [
+      "Jack Benny",
+      "Fred Allen",
+      "Mary Martin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-thy-neighbor.html"
+}

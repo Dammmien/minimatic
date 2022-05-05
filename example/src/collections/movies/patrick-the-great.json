@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Patrick the Great",
+    "year": 1945,
+    "cast": [
+      "Donald O'Connor",
+      "Peggy Ryan",
+      "Eve Arden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/patrick-the-great.html"
+}

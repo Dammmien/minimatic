@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Gilded Lily",
+    "year": 1935,
+    "cast": [
+      "Claudette Colbert",
+      "Fred MacMurray",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/the-gilded-lily.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Mississippi Hare",
+    "year": 1949,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/mississippi-hare.html"
+}

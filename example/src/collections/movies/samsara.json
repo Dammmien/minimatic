@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Samsara",
+    "year": 2012,
+    "cast": [
+      "Exploring the wonders of the world from the mundane to the miraculous."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/samsara.html"
+}

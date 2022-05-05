@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Children of Divorce",
+    "year": 1927,
+    "cast": [
+      "Clara Bow",
+      "Esther Ralston",
+      "Gary Cooper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/children-of-divorce.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Denise Calls Up",
+    "year": 1996,
+    "cast": [
+      "Timothy Daly",
+      "Liev Schreiber"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/denise-calls-up.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Second Honeymoon",
+    "year": 1937,
+    "cast": [
+      "Loretta Young",
+      "Tyrone Power",
+      "Claire Trevor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/second-honeymoon.html"
+}

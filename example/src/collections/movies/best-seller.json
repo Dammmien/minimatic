@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Best Seller",
+    "year": 1987,
+    "cast": [
+      "James Woods",
+      "Brian Dennehy",
+      "Victoria Tennant"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/best-seller.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Mac and Me",
+    "year": 1988,
+    "cast": [
+      "Christine Ebersole"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/mac-and-me.html"
+}

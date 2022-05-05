@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Law of the Saddle",
+    "year": 1943,
+    "cast": [
+      "Robert Livingston",
+      "Al St. John"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/law-of-the-saddle.html"
+}

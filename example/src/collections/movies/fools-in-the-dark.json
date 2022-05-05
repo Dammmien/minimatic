@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fools in the Dark",
+    "year": 1924,
+    "cast": [
+      "Patsy Ruth Miller",
+      "Matt Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fools-in-the-dark.html"
+}

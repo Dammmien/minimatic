@@ -1,0 +1,27 @@
+{
+  "data": {
+    "title": "Tombstone",
+    "year": 1993,
+    "cast": [
+      "Kurt Russell",
+      "Val Kilmer",
+      "Dana Delany",
+      "Bill Paxton",
+      "Sam Elliott",
+      "Powers Boothe",
+      "Michael Biehn",
+      "Billy Zane",
+      "Jason Priestley",
+      "Robert John Burke",
+      "Joanna Pacula",
+      "Stephen Lang",
+      "Michael Rooker",
+      "Jon Tenney"
+    ],
+    "genres": [
+      "Western",
+      "Biography"
+    ]
+  },
+  "output": "movies/tombstone.html"
+}

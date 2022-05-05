@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hitler's Madman",
+    "year": 1943,
+    "cast": [
+      "Patricia Morison",
+      "Alan Curtis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hitler-s-madman.html"
+}

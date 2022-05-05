@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "At Sword's Point",
+    "year": 1952,
+    "cast": [
+      "Cornel Wilde",
+      "Maureen O'Hara",
+      "Gladys Cooper"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/at-sword-s-point.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Good Guy",
+    "year": 2010,
+    "cast": [
+      "Scott Porter",
+      "Alexis Bledel",
+      "Bryan Greenberg",
+      "Aaron Yoo",
+      "Anna Chlumsky",
+      "Kate Nauta",
+      "Andrew McCarthy"
+    ],
+    "genres": [
+      "Drama",
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-good-guy.html"
+}

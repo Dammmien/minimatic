@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Collegiate",
+    "year": 1935,
+    "cast": [
+      "Jack Oakie",
+      "Frances Langford",
+      "Betty Grable"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/collegiate.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Forest",
+    "year": 2016,
+    "cast": [
+      "Natalie Dormer",
+      "Taylor Kitsch"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-forest.html"
+}

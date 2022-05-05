@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hidden Gold",
+    "year": 1932,
+    "cast": [
+      "Tom Mix",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hidden-gold.html"
+}

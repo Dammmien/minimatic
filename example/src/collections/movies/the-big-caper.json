@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Big Caper",
+    "year": 1957,
+    "cast": [
+      "Rory Calhoun",
+      "Mary Costa"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-big-caper.html"
+}

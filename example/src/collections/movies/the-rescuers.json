@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Rescuers",
+    "year": 1977,
+    "cast": [
+      "Voices of",
+      "Eva Gabor",
+      "Bob Newhart",
+      "Geraldine Page"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-rescuers.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Spirit of West Point",
+    "year": 1947,
+    "cast": [
+      "Felix Blanchard",
+      "Glenn Davis",
+      "Anne Nagel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-spirit-of-west-point.html"
+}

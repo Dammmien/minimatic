@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Departed",
+    "year": 2006,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson",
+      "Mark Wahlberg",
+      "Alec Baldwin",
+      "Martin Sheen",
+      "Vera Farmiga",
+      "Anthony Anderson",
+      "Ray Winstone"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-departed.html"
+}

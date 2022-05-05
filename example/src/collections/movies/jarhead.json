@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Jarhead",
+    "year": 2005,
+    "cast": [
+      "Jake Gyllenhaal",
+      "Jamie Foxx",
+      "Peter Sarsgaard",
+      "Lucas Black"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/jarhead.html"
+}

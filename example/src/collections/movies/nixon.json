@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Nixon",
+    "year": 1995,
+    "cast": [
+      "Anthony Hopkins",
+      "Joan Allen",
+      "James Woods",
+      "J. T. Walsh",
+      "David Hyde Pierce",
+      "Ed Harris",
+      "Paul Sorvino",
+      "Mary Steenburgen",
+      "Bob Hoskins",
+      "Madeline Kahn"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/nixon.html"
+}

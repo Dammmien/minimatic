@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Tougher They Come",
+    "year": 1950,
+    "cast": [
+      "Wayne Morris",
+      "Preston Foster"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-tougher-they-come.html"
+}

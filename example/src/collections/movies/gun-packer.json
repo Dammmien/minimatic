@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gun Packer",
+    "year": 1938,
+    "cast": [
+      "Jack Randall",
+      "Louise Stanley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gun-packer.html"
+}

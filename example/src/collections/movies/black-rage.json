@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Black Rage",
+    "year": 1972,
+    "cast": [
+      "Ted Cassidy",
+      "Phyllis Robinson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/black-rage.html"
+}

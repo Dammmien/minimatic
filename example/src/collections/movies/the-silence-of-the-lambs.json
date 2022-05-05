@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "cast": [
+      "Anthony Hopkins",
+      "Jodie Foster",
+      "Scott Glenn",
+      "Ted Levine",
+      "Frankie Faison",
+      "Anthony Heald",
+      "Kasi Lemmons",
+      "Diane Baker",
+      "Brooke Smith"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-silence-of-the-lambs.html"
+}

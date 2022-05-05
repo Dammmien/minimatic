@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mary Ryan, Detective",
+    "year": 1949,
+    "cast": [
+      "Marsha Hunt",
+      "John Litel",
+      "June Vincent"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/mary-ryan--detective.html"
+}

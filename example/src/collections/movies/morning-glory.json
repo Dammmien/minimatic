@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Morning Glory",
+    "year": 2010,
+    "cast": [
+      "Rachel McAdams",
+      "Harrison Ford",
+      "Diane Keaton",
+      "Patrick Wilson",
+      "Jeff Goldblum"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/morning-glory.html"
+}

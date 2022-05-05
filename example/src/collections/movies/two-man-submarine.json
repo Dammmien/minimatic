@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Two-Man Submarine",
+    "year": 1944,
+    "cast": [
+      "Tom Neal",
+      "Ann Savage"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/two-man-submarine.html"
+}

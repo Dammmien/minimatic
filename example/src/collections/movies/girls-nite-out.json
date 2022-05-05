@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Girls Nite Out",
+    "year": 1984,
+    "cast": [
+      "Julia Montgomery",
+      "Rutanya Alda"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/girls-nite-out.html"
+}

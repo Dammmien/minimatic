@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Love Pirate",
+    "year": 1923,
+    "cast": [
+      "Melbourne MacDowell",
+      "Carmel Myers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-love-pirate.html"
+}

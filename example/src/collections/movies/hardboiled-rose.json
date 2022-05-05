@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hardboiled Rose",
+    "year": 1929,
+    "cast": [
+      "Myrna Loy",
+      "William Collier Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hardboiled-rose.html"
+}

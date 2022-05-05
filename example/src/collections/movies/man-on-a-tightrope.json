@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Man on a Tightrope",
+    "year": 1953,
+    "cast": [
+      "Fredric March",
+      "Terry Moore",
+      "Gloria Grahame"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/man-on-a-tightrope.html"
+}

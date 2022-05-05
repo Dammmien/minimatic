@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pretty Boy Floyd",
+    "year": 1960,
+    "cast": [
+      "John Ericson",
+      "Barry Newman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pretty-boy-floyd.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Oklahoma Terror",
+    "year": 1939,
+    "cast": [
+      "Virginia Carroll",
+      "Addison Randall"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/oklahoma-terror.html"
+}

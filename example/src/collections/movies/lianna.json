@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lianna",
+    "year": 1983,
+    "cast": [
+      "Linda Griffiths",
+      "Jane Hallaren",
+      "Jon DeVries"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lianna.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Prince Avalanche",
+    "year": 2013,
+    "cast": [
+      "Paul Rudd",
+      "Emile Hirsch",
+      "Lance LeGault"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/prince-avalanche.html"
+}

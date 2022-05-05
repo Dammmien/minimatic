@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Little Witches",
+    "year": 1996,
+    "cast": [
+      "Sheeri Rappaport"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/little-witches.html"
+}

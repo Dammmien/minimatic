@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "New York Minute",
+    "year": 2004,
+    "cast": [
+      "Mary-Kate and Ashley Olsen",
+      "Eugene Levy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/new-york-minute.html"
+}

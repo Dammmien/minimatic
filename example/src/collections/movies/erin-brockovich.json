@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Erin Brockovich",
+    "year": 2000,
+    "cast": [
+      "Julia Roberts",
+      "Albert Finney",
+      "Aaron Eckhart"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/erin-brockovich.html"
+}

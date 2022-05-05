@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Leviathan",
+    "year": 1989,
+    "cast": [
+      "Peter Weller",
+      "Richard Crenna",
+      "Amanda Pays"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/leviathan.html"
+}

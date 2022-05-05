@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Percy",
+    "year": 1925,
+    "cast": [
+      "Charles Ray",
+      "Louise Dresser"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/percy.html"
+}

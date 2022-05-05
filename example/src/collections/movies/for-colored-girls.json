@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "For Colored Girls",
+    "year": 2010,
+    "cast": [
+      "Janet Jackson",
+      "Thandie Newton",
+      "Whoopi Goldberg",
+      "Phylicia Rashad",
+      "Anika Noni Rose",
+      "Loretta Devine",
+      "Kimberly Elise",
+      "Kerry Washington"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/for-colored-girls.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Slight Case of Larceny",
+    "year": 1953,
+    "cast": [
+      "Mickey Rooney",
+      "Elaine Stewart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-slight-case-of-larceny.html"
+}

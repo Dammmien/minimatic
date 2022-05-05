@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "We Own the Night",
+    "year": 2007,
+    "cast": [
+      "Mark Wahlberg",
+      "Joaquin Phoenix",
+      "Eva Mendes",
+      "Robert Duvall"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/we-own-the-night.html"
+}

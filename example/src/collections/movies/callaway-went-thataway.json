@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Callaway Went Thataway",
+    "year": 1951,
+    "cast": [
+      "Fred MacMurray",
+      "Dorothy McGuire"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/callaway-went-thataway.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bloodsport III",
+    "year": 1997,
+    "cast": [
+      "Daniel Bernhardt",
+      "John Rhys-Davies"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/bloodsport-iii.html"
+}

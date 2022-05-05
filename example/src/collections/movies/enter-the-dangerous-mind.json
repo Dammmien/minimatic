@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Enter the Dangerous Mind",
+    "year": 2015,
+    "cast": [
+      "Jake Hoffman",
+      "Nikki Reed",
+      "Scott Bakula",
+      "Gina Rodriguez"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/enter-the-dangerous-mind.html"
+}

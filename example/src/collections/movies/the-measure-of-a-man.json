@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Measure of a Man",
+    "year": 1924,
+    "cast": [
+      "Francis Ford",
+      "Marin Sais"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-measure-of-a-man.html"
+}

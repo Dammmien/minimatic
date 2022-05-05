@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Article 99",
+    "year": 1992,
+    "cast": [
+      "Ray Liotta",
+      "Kiefer Sutherland",
+      "Forest Whitaker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/article-99.html"
+}

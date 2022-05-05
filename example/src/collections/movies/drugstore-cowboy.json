@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Drugstore Cowboy",
+    "year": 1989,
+    "cast": [
+      "Matt Dillon",
+      "Kelly Lynch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/drugstore-cowboy.html"
+}

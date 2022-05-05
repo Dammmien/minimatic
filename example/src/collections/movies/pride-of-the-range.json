@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Pride of the Range",
+    "year": 1910,
+    "cast": [
+      "Tom Mix"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/pride-of-the-range.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eight Below",
+    "year": 2006,
+    "cast": [
+      "Paul Walker",
+      "Bruce Greenwood"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/eight-below.html"
+}

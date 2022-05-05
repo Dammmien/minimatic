@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lightnin'",
+    "year": 1930,
+    "cast": [
+      "Will Rogers",
+      "Louise Dresser",
+      "Joel McCrea"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lightnin-.html"
+}

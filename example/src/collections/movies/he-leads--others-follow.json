@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "He Leads, Others Follow",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/he-leads--others-follow.html"
+}

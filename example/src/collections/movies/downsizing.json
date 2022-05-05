@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Downsizing",
+    "year": 2017,
+    "cast": [
+      "Matt Damon",
+      "Christoph Waltz",
+      "Hong Chau",
+      "Kristen Wiig"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/downsizing.html"
+}

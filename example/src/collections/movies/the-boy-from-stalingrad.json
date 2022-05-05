@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Boy from Stalingrad",
+    "year": 1943,
+    "cast": [
+      "Scotty Beckett",
+      "John Wengraf"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-boy-from-stalingrad.html"
+}

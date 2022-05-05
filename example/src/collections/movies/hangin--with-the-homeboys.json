@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hangin' with the Homeboys",
+    "year": 1991,
+    "cast": [
+      "John Leguizamo",
+      "Mario Joyner",
+      "Doug E. Doug"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hangin--with-the-homeboys.html"
+}

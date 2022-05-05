@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bobbed Hair",
+    "year": 1925,
+    "cast": [
+      "Marie Prevost",
+      "Louise Fazenda"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bobbed-hair.html"
+}

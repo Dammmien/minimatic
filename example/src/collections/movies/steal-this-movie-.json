@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Steal This Movie!",
+    "year": 2000,
+    "cast": [
+      "Vincent D'Onofrio",
+      "Janeane Garofalo"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/steal-this-movie-.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "I Love You to Death",
+    "year": 1990,
+    "cast": [
+      "Kevin Kline",
+      "Tracey Ullman",
+      "River Phoenix",
+      "Joan Plowright",
+      "William Hurt",
+      "Keanu Reeves"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-love-you-to-death.html"
+}

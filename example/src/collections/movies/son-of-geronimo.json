@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Son of Geronimo",
+    "year": 1952,
+    "cast": [
+      "Clayton Moore",
+      "Rodd Redwing"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/son-of-geronimo.html"
+}

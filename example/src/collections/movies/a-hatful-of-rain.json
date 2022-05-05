@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Hatful of Rain",
+    "year": 1957,
+    "cast": [
+      "Eva Marie Saint",
+      "Don Murray",
+      "Tony Franciosa"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-hatful-of-rain.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Unforgiven",
+    "year": 1960,
+    "cast": [
+      "Burt Lancaster",
+      "Audrey Hepburn",
+      "Audie Murphy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-unforgiven.html"
+}

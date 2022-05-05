@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Seven Pounds",
+    "year": 2008,
+    "cast": [
+      "Will Smith",
+      "Rosario Dawson",
+      "Woody Harrelson",
+      "Barry Pepper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/seven-pounds.html"
+}

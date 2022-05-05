@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Affairs of Cellini",
+    "year": 1934,
+    "cast": [
+      "Constance Bennett",
+      "Fredric March",
+      "Fay Wray"
+    ],
+    "genres": [
+      "Historical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-affairs-of-cellini.html"
+}

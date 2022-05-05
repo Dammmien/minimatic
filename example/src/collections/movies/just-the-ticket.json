@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Just the Ticket",
+    "year": 1999,
+    "cast": [
+      "Andy García",
+      "Andie MacDowell"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/just-the-ticket.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Act of Valor",
+    "year": 2012,
+    "cast": [
+      "Active Duty U.S. Navy SEALs",
+      "Roselyn Sánchez",
+      "Jason Cottle",
+      "Alex Veadov",
+      "Nestor Serrano",
+      "Emilio Rivera"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/act-of-valor.html"
+}

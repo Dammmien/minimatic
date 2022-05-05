@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Funny About Love",
+    "year": 1990,
+    "cast": [
+      "Gene Wilder",
+      "Christine Lahti",
+      "Mary Stuart Masterson",
+      "Robert Prosky"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/funny-about-love.html"
+}

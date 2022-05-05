@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "The Mortal Instruments: City of Bones",
+    "year": 2013,
+    "cast": [
+      "Lily Collins",
+      "Jamie Campbell Bower",
+      "Robert Sheehan",
+      "Kevin Zegers",
+      "Lena Headey",
+      "Kevin Durand",
+      "Aidan Turner",
+      "Godfrey Gao",
+      "C. C. H. Pounder",
+      "Jared Harris",
+      "Jonathan Rhys Meyers"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-mortal-instruments--city-of-bones.html"
+}

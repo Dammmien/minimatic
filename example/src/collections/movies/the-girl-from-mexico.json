@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl from Mexico",
+    "year": 1939,
+    "cast": [
+      "Lupe Vélez",
+      "Leon Errol"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-girl-from-mexico.html"
+}

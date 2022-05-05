@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hoosier Holiday",
+    "year": 1943,
+    "cast": [
+      "Dale Evans",
+      "Isabel Randolph"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hoosier-holiday.html"
+}

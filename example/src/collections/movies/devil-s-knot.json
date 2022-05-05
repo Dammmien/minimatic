@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Devil's Knot",
+    "year": 2014,
+    "cast": [
+      "Colin Firth",
+      "Reese Witherspoon",
+      "Kevin Durand",
+      "Dane DeHaan"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/devil-s-knot.html"
+}

@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "The Founder",
+    "year": 2016,
+    "cast": [
+      "Michael Keaton"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-founder.html"
+}

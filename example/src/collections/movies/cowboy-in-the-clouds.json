@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cowboy in the Clouds",
+    "year": 1943,
+    "cast": [
+      "Charles Starrett",
+      "Dub Taylor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cowboy-in-the-clouds.html"
+}

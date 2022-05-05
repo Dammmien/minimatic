@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When Strangers Marry",
+    "year": 1944,
+    "cast": [
+      "Kim Hunter",
+      "Dean Jagger"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/when-strangers-marry.html"
+}

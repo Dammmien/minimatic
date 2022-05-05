@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Racing Lady",
+    "year": 1937,
+    "cast": [
+      "Ann Dvorak",
+      "Smith Ballew",
+      "Harry Carey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/racing-lady.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stranger Than Paradise",
+    "year": 1984,
+    "cast": [
+      "John Lurie",
+      "Eszter Balint",
+      "Richard Edson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stranger-than-paradise.html"
+}

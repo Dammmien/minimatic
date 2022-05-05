@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Speed Wild",
+    "year": 1925,
+    "cast": [
+      "Maurice 'Lefty' Flynn",
+      "Ethel Shannon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/speed-wild.html"
+}

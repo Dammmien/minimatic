@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Clancy's Kitchen",
+    "year": 1996,
+    "cast": [
+      "Mark Aiken",
+      "Indira Varma",
+      "Rocky Marshall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/clancy-s-kitchen.html"
+}

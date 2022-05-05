@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Swan",
+    "year": 1956,
+    "cast": [
+      "Grace Kelly",
+      "Louis Jourdan",
+      "Alec Guinness"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-swan.html"
+}

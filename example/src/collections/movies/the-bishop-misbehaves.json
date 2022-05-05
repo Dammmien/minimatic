@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bishop Misbehaves",
+    "year": 1935,
+    "cast": [
+      "Edmund Gwenn",
+      "Maureen O'Sullivan"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-bishop-misbehaves.html"
+}

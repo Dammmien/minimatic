@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That French Lady",
+    "year": 1924,
+    "cast": [
+      "Shirley Mason",
+      "Theodore von Eltz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/that-french-lady.html"
+}

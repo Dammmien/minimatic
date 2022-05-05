@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Francis Goes to the Races",
+    "year": 1951,
+    "cast": [
+      "Donald O'Connor",
+      "Piper Laurie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/francis-goes-to-the-races.html"
+}

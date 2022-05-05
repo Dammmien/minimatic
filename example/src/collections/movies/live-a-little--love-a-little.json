@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Live a Little, Love a Little",
+    "year": 1968,
+    "cast": [
+      "Elvis Presley",
+      "Michele Carey",
+      "Rudy Vallée"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/live-a-little--love-a-little.html"
+}

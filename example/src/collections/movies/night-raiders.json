@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night Raiders",
+    "year": 1952,
+    "cast": [
+      "Whip Wilson",
+      "Lois Hall"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/night-raiders.html"
+}

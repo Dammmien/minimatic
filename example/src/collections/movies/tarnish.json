@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tarnish",
+    "year": 1924,
+    "cast": [
+      "May McAvoy",
+      "Ronald Colman",
+      "Marie Prevost"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tarnish.html"
+}

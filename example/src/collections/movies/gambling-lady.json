@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gambling Lady",
+    "year": 1934,
+    "cast": [
+      "Barbara Stanwyck",
+      "Pat O'Brien",
+      "Joel McCrea"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gambling-lady.html"
+}

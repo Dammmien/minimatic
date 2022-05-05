@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Perfect Man",
+    "year": 2005,
+    "cast": [
+      "Hilary Duff",
+      "Heather Locklear",
+      "Chris Noth"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-perfect-man.html"
+}

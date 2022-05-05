@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "As the Earth Turns",
+    "year": 1934,
+    "cast": [
+      "Donald Woods",
+      "Jean Muir",
+      "Dorothy Peterson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/as-the-earth-turns.html"
+}

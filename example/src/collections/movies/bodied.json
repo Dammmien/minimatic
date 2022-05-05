@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Bodied",
+    "year": 2018,
+    "cast": [
+      "Calum Worthy",
+      "Jackie Long",
+      "Rory Uphold",
+      "Dumbfoundead",
+      "Walter Perez",
+      "Anthony Michael Hall"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/bodied.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Mona Lisa Smile",
+    "year": 2003,
+    "cast": [
+      "Julia Roberts",
+      "Kirsten Dunst",
+      "Julia Stiles",
+      "Maggie Gyllenhaal",
+      "Ginnifer Goodwin"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/mona-lisa-smile.html"
+}

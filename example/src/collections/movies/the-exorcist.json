@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Exorcist",
+    "year": 1973,
+    "cast": [
+      "Ellen Burstyn",
+      "Linda Blair",
+      "Jason Miller",
+      "Max von Sydow",
+      "Kitty Winn",
+      "Lee J. Cobb"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-exorcist.html"
+}

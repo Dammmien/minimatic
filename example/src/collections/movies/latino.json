@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Latino",
+    "year": 1985,
+    "cast": [
+      "Robert Beltran",
+      "Annette Charles"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/latino.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Laugh and Get Rich",
+    "year": 1931,
+    "cast": [
+      "Hugh Herbert",
+      "Edna May Oliver",
+      "Dorothy Lee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/laugh-and-get-rich.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silver Dollar",
+    "year": 1932,
+    "cast": [
+      "Edward G. Robinson",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/silver-dollar.html"
+}

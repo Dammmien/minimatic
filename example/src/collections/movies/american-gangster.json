@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "American Gangster",
+    "year": 2007,
+    "cast": [
+      "Denzel Washington",
+      "Russell Crowe"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/american-gangster.html"
+}

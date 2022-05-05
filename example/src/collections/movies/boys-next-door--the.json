@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Boys Next Door, The",
+    "year": 1985,
+    "cast": [
+      "Charlie Sheen",
+      "Maxwell Caulfield",
+      "Patti D'Arbanville"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/boys-next-door--the.html"
+}

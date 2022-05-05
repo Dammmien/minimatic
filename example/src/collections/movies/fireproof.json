@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fireproof",
+    "year": 2008,
+    "cast": [
+      "Kirk Cameron",
+      "Erin Bethea"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fireproof.html"
+}

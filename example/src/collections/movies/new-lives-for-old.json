@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "New Lives for Old",
+    "year": 1925,
+    "cast": [
+      "Betty Compson",
+      "Wallace MacDonald"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/new-lives-for-old.html"
+}

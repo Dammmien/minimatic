@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brother Rat",
+    "year": 1938,
+    "cast": [
+      "Wayne Morris",
+      "Ronald Reagan",
+      "Jane Wyman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/brother-rat.html"
+}

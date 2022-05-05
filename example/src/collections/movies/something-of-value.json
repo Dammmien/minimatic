@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Something of Value",
+    "year": 1957,
+    "cast": [
+      "Rock Hudson",
+      "Sidney Poitier",
+      "Dana Wynter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/something-of-value.html"
+}

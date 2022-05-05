@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bullets and Saddles",
+    "year": 1943,
+    "cast": [
+      "Ray \"Crash\" Corrigan",
+      "Julie Duncan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bullets-and-saddles.html"
+}

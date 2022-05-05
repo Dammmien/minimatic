@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Deep Six",
+    "year": 1958,
+    "cast": [
+      "Alan Ladd",
+      "Dianne Foster",
+      "William Bendix"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-deep-six.html"
+}

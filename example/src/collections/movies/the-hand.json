@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hand",
+    "year": 1981,
+    "cast": [
+      "Michael Caine",
+      "Andrea Marcovicci"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-hand.html"
+}

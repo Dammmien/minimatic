@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Knute Rockne, All American",
+    "year": 1940,
+    "cast": [
+      "Pat O'Brien",
+      "Ronald Reagan"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/knute-rockne--all-american.html"
+}

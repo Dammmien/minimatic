@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Jack London",
+    "year": 1943,
+    "cast": [
+      "Michael O'Shea",
+      "Susan Hayward"
+    ],
+    "genres": []
+  },
+  "output": "movies/jack-london.html"
+}

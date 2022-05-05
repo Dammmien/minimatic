@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Ox-Bow Incident",
+    "year": 1943,
+    "cast": [
+      "Henry Fonda",
+      "Dana Andrews",
+      "Mary Beth Hughes",
+      "Anthony Quinn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-ox-bow-incident.html"
+}

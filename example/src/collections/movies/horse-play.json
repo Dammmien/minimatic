@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Horse Play",
+    "year": 1933,
+    "cast": [
+      "Slim Summerville",
+      "Andy Devine",
+      "Leila Hyams"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/horse-play.html"
+}

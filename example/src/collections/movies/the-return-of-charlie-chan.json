@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Return of Charlie Chan",
+    "year": 1973,
+    "cast": [
+      "Ross Martin",
+      "Richard Haydn"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-return-of-charlie-chan.html"
+}

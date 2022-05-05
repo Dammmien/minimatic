@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Plain Clothes",
+    "year": 1988,
+    "cast": [
+      "Arliss Howard",
+      "Suzy Amis",
+      "Seymour Cassel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/plain-clothes.html"
+}

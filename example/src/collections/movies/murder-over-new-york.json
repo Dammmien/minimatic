@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Murder Over New York",
+    "year": 1940,
+    "cast": [
+      "Sidney Toler",
+      "Ricardo Cortez",
+      "Marjorie Weaver"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder-over-new-york.html"
+}

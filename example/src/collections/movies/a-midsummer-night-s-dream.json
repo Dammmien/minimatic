@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A Midsummer Night's Dream",
+    "year": 1999,
+    "cast": [
+      "Kevin Kline",
+      "Michelle Pfeiffer",
+      "Rupert Everett",
+      "Stanley Tucci",
+      "Calista Flockhart",
+      "Anna Friel",
+      "Christian Bale"
+    ],
+    "genres": []
+  },
+  "output": "movies/a-midsummer-night-s-dream.html"
+}

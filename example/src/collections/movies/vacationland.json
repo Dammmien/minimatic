@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Vacationland",
+    "year": 2006,
+    "cast": [
+      "Brad Hallowell",
+      "Gregory J. Lucas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/vacationland.html"
+}

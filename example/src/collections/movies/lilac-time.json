@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lilac Time",
+    "year": 1928,
+    "cast": [
+      "Colleen Moore",
+      "Gary Cooper"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/lilac-time.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Welcome Stranger",
+    "year": 1947,
+    "cast": [
+      "Bing Crosby",
+      "Joan Caulfield"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/welcome-stranger.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Washington Melodrama",
+    "year": 1941,
+    "cast": [
+      "Ann Rutherford",
+      "Frank Morgan",
+      "Dan Dailey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/washington-melodrama.html"
+}

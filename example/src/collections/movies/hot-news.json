@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hot News",
+    "year": 1953,
+    "cast": [
+      "Stanley Clements",
+      "Gloria Henry"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/hot-news.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gangway for Tomorrow",
+    "year": 1943,
+    "cast": [
+      "John Carradine",
+      "Robert Ryan",
+      "Margo Albert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gangway-for-tomorrow.html"
+}

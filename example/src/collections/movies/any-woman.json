@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Any Woman",
+    "year": 1925,
+    "cast": [
+      "Alice Terry",
+      "Donald Reed"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/any-woman.html"
+}

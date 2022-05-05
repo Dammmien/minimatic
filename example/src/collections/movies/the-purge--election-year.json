@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Purge: Election Year",
+    "year": 2016,
+    "cast": [
+      "Frank Grillo",
+      "Elizabeth Mitchell"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-purge--election-year.html"
+}

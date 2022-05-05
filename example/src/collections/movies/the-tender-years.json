@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Tender Years",
+    "year": 1948,
+    "cast": [
+      "Joe E. Brown",
+      "Noreen Nash"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-tender-years.html"
+}

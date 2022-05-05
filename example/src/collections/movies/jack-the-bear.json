@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jack the Bear",
+    "year": 1993,
+    "cast": [
+      "Danny DeVito",
+      "Gary Sinise"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jack-the-bear.html"
+}

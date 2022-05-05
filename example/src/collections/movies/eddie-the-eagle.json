@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Eddie the Eagle",
+    "year": 2016,
+    "cast": [
+      "Taron Egerton",
+      "Hugh Jackman",
+      "Christopher Walken"
+    ],
+    "genres": [
+      "Sports",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/eddie-the-eagle.html"
+}

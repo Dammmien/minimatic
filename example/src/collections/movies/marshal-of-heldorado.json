@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Marshal of Heldorado",
+    "year": 1950,
+    "cast": [
+      "James Ellison",
+      "Russell Hayden",
+      "Julie Adams"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/marshal-of-heldorado.html"
+}

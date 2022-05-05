@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The A-Team",
+    "year": 2010,
+    "cast": [
+      "Liam Neeson",
+      "Bradley Cooper",
+      "Quinton \"Rampage\" Jackson",
+      "Sharlto Copley",
+      "Jessica Biel",
+      "Patrick Wilson",
+      "Brian Bloom"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-a-team.html"
+}

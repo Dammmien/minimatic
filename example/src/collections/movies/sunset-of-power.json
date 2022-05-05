@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sunset of Power",
+    "year": 1936,
+    "cast": [
+      "Buck Jones",
+      "Donald Kirke"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sunset-of-power.html"
+}

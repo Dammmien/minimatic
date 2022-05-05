@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Devil and Max Devlin",
+    "year": 1981,
+    "cast": [
+      "Elliott Gould",
+      "Bill Cosby",
+      "Susan Anspach"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-devil-and-max-devlin.html"
+}

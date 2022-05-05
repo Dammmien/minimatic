@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Garden State",
+    "year": 2004,
+    "cast": [
+      "Zach Braff",
+      "Natalie Portman",
+      "Peter Sarsgaard",
+      "Ian Holm",
+      "Method Man"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/garden-state.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sunset Range",
+    "year": 1935,
+    "cast": [
+      "Hoot Gibson",
+      "Mary Doran"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sunset-range.html"
+}

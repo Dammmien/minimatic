@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Puzzle",
+    "year": 2018,
+    "cast": [
+      "Kelly Macdonald",
+      "Irrfan Khan",
+      "David Denman",
+      "Bubba Weiler",
+      "Austin Abrams",
+      "Liv Hewson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/puzzle.html"
+}

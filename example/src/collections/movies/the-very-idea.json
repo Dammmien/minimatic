@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Very Idea",
+    "year": 1929,
+    "cast": [
+      "Frank Craven",
+      "Hugh Trevor",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-very-idea.html"
+}

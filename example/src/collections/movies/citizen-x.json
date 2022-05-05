@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Citizen X",
+    "year": 1995,
+    "cast": [
+      "Stephen Rea",
+      "Donald Sutherland",
+      "Max von Sydow",
+      "Jeffrey DeMunn"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/citizen-x.html"
+}

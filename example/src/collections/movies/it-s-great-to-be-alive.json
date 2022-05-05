@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It's Great to Be Alive",
+    "year": 1933,
+    "cast": [
+      "Edna May Oliver",
+      "Gloria Stuart",
+      "Raul Roulien"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-great-to-be-alive.html"
+}

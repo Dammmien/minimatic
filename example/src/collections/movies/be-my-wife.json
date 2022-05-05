@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Be My Wife",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/be-my-wife.html"
+}

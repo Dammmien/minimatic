@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Crazy People",
+    "year": 1990,
+    "cast": [
+      "Dudley Moore",
+      "Daryl Hannah",
+      "Paul Reiser",
+      "Mercedes Ruehl",
+      "J.T. Walsh"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/crazy-people.html"
+}

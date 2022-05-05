@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gun Street",
+    "year": 1961,
+    "cast": [
+      "James Brown",
+      "Jean Willes",
+      "John Clarke"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gun-street.html"
+}

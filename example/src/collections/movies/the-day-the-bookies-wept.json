@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Day the Bookies Wept",
+    "year": 1939,
+    "cast": [
+      "Betty Grable"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-day-the-bookies-wept.html"
+}

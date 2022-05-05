@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Desperado",
+    "year": 1995,
+    "cast": [
+      "Antonio Banderas",
+      "Salma Hayek"
+    ],
+    "genres": [
+      "Comedy",
+      "Action"
+    ]
+  },
+  "output": "movies/desperado.html"
+}

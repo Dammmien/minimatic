@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "New York Nights",
+    "year": 1929,
+    "cast": [
+      "Norma Talmadge",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/new-york-nights.html"
+}

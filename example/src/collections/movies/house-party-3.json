@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "House Party 3",
+    "year": 1994,
+    "cast": [
+      "Kid 'n Play",
+      "Bernie Mac"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/house-party-3.html"
+}

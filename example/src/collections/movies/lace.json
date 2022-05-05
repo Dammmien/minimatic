@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Lace",
+    "year": 1984,
+    "cast": [
+      "Phoebe Cates",
+      "Angela Lansbury",
+      "Brooke Adams",
+      "Bess Armstrong",
+      "Anthony Quayle",
+      "Herbert Lom"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lace.html"
+}

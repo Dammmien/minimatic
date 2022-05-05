@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Catch My Smoke",
+    "year": 1922,
+    "cast": [
+      "Tom Mix",
+      "Lillian Rich",
+      "Claude Payton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/catch-my-smoke.html"
+}

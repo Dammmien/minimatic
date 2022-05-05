@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Words and Music",
+    "year": 1948,
+    "cast": [
+      "Mickey Rooney",
+      "Janet Leigh",
+      "Betty Garrett",
+      "June Allyson",
+      "Gene Kelly",
+      "Perry Como"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/words-and-music.html"
+}

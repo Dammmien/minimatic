@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Up from the Beach",
+    "year": 1965,
+    "cast": [
+      "Cliff Robertson",
+      "Red Buttons",
+      "Irina Demick"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/up-from-the-beach.html"
+}

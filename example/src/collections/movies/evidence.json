@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Evidence",
+    "year": 2012,
+    "cast": [
+      "Ryan McCoy",
+      "Brett Rosenberg",
+      "Abigail Richie",
+      "Ashley Bracken",
+      "Zack Fahey",
+      "Blaine Gray"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/evidence.html"
+}

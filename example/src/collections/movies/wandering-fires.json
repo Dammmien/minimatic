@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wandering Fires",
+    "year": 1925,
+    "cast": [
+      "Constance Bennett",
+      "George Hackathorne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wandering-fires.html"
+}

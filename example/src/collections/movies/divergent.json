@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Divergent",
+    "year": 2014,
+    "cast": [
+      "Shailene Woodley",
+      "Theo James",
+      "Ashley Judd",
+      "Jai Courtney",
+      "Zoë Kravitz"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/divergent.html"
+}

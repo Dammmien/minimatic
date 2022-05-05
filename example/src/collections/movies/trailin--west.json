@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Trailin' West",
+    "year": 1936,
+    "cast": [
+      "Dick Foran",
+      "Paula Stone",
+      "Bill Elliott"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/trailin--west.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Legend of Boggy Creek",
+    "year": 1972,
+    "cast": [
+      "William Stumpp"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-legend-of-boggy-creek.html"
+}

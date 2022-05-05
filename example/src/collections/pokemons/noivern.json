@@ -1,0 +1,21 @@
+{
+  "id": 715,
+  "name": {
+    "english": "Noivern",
+    "japanese": "オンバーン",
+    "chinese": "音波龙",
+    "french": "Bruyverne"
+  },
+  "type": [
+    "Flying",
+    "Dragon"
+  ],
+  "base": {
+    "HP": 85,
+    "Attack": 70,
+    "Defense": 80,
+    "Sp. Attack": 97,
+    "Sp. Defense": 80,
+    "Speed": 123
+  }
+}

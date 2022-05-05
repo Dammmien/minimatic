@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Adventures of Don Juan",
+    "year": 1948,
+    "cast": [
+      "Errol Flynn",
+      "Viveca Lindfors"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/adventures-of-don-juan.html"
+}

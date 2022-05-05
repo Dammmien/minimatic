@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Captain Hates the Sea",
+    "year": 1934,
+    "cast": [
+      "Victor McLaglen",
+      "Alison Skipworth",
+      "John Gilbert"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-captain-hates-the-sea.html"
+}

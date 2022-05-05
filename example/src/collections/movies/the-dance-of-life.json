@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Dance of Life",
+    "year": 1929,
+    "cast": [
+      "Hal Skelly",
+      "Nancy Carroll",
+      "Dorothy Revier"
+    ],
+    "genres": [
+      "Adventure",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-dance-of-life.html"
+}

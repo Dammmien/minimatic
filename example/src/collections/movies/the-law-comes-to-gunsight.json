@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Law Comes to Gunsight",
+    "year": 1947,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton",
+      "Reno Browne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-law-comes-to-gunsight.html"
+}

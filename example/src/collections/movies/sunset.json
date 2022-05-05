@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Sunset",
+    "year": 1988,
+    "cast": [
+      "Bruce Willis",
+      "James Garner",
+      "Malcolm McDowell",
+      "Mariel Hemingway",
+      "Kathleen Quinlan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sunset.html"
+}

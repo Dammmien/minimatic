@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Big Hit",
+    "year": 1998,
+    "cast": [
+      "Mark Wahlberg",
+      "Lou Diamond Phillips",
+      "Bokeem Woodbine",
+      "Antonio Sabàto, Jr."
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-big-hit.html"
+}

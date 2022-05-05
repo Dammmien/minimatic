@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "War Hunt",
+    "year": 1962,
+    "cast": [
+      "John Saxon",
+      "Charles Aidman",
+      "Robert Redford"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/war-hunt.html"
+}

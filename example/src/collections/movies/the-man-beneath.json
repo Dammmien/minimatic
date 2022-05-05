@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Man Beneath",
+    "year": 1919,
+    "cast": [
+      "Sessue Hayakawa",
+      "Helen Jerome Eddy",
+      "John Gilbert"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-beneath.html"
+}

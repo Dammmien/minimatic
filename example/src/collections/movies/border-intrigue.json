@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Border Intrigue",
+    "year": 1925,
+    "cast": [
+      "Franklyn Farnum",
+      "Dorothy Wood"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/border-intrigue.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Happy",
+    "year": 1950,
+    "cast": [
+      "Marx Brothers",
+      "Vera-Ellen",
+      "Raymond Burr"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-happy.html"
+}

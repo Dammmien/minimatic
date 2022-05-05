@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Night Spot",
+    "year": 1938,
+    "cast": [
+      "Allan Lane",
+      "Joan Woodbury",
+      "Lee Patrick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/night-spot.html"
+}

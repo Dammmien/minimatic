@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sunshine Trail",
+    "year": 1923,
+    "cast": [
+      "Douglas MacLean",
+      "Edith Roberts"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-sunshine-trail.html"
+}

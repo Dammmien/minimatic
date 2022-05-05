@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Cat and the Mermouse",
+    "year": 1949,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-cat-and-the-mermouse.html"
+}

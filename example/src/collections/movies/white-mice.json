@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "White Mice",
+    "year": 1926,
+    "cast": [
+      "Jacqueline Logan",
+      "William Powell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/white-mice.html"
+}

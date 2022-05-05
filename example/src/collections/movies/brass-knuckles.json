@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brass Knuckles",
+    "year": 1927,
+    "cast": [
+      "Monte Blue",
+      "Betty Bronson"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/brass-knuckles.html"
+}

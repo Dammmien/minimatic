@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yankee Doodle in Berlin",
+    "year": 1919,
+    "cast": [
+      "Bothwell Browne",
+      "Ford Sterling"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/yankee-doodle-in-berlin.html"
+}

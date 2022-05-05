@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "year": 1949,
+    "cast": [
+      "Bing Crosby",
+      "Rhonda Fleming",
+      "Cedric Hardwicke",
+      "William Bendix"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-connecticut-yankee-in-king-arthur-s-court.html"
+}

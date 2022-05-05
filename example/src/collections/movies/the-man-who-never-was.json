@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Who Never Was",
+    "year": 1956,
+    "cast": [
+      "Clifton Webb",
+      "Gloria Grahame"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-who-never-was.html"
+}

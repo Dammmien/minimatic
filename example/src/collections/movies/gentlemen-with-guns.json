@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gentlemen with Guns",
+    "year": 1946,
+    "cast": [
+      "Buster Crabbe",
+      "Al St. John"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/gentlemen-with-guns.html"
+}

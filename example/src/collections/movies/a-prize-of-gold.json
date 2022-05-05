@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Prize of Gold",
+    "year": 1955,
+    "cast": [
+      "Richard Widmark",
+      "Mai Zetterling"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-prize-of-gold.html"
+}

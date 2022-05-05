@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Broken Wing",
+    "year": 1932,
+    "cast": [
+      "Lupe Vélez",
+      "Melvyn Douglas",
+      "Leo Carrillo"
+    ],
+    "genres": [
+      "Drama",
+      "Western"
+    ]
+  },
+  "output": "movies/the-broken-wing.html"
+}

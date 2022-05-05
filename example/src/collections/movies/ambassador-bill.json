@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ambassador Bill",
+    "year": 1931,
+    "cast": [
+      "Will Rogers",
+      "Marguerite Churchill",
+      "Greta Nissen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ambassador-bill.html"
+}

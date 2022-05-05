@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Texas Streak",
+    "year": 1926,
+    "cast": [
+      "Hoot Gibson",
+      "Blanche Mehaffey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-texas-streak.html"
+}

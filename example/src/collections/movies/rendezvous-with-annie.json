@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rendezvous with Annie",
+    "year": 1946,
+    "cast": [
+      "Eddie Albert",
+      "Faye Marlowe",
+      "Gail Patrick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rendezvous-with-annie.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Under Crimson Skies",
+    "year": 1920,
+    "cast": [
+      "Elmo Lincoln",
+      "Mabel Ballin",
+      "Harry von Meter"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/under-crimson-skies.html"
+}

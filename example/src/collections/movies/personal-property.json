@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Personal Property",
+    "year": 1937,
+    "cast": [
+      "Jean Harlow",
+      "Robert Taylor",
+      "E. E. Clive"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/personal-property.html"
+}

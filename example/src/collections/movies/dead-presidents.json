@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dead Presidents",
+    "year": 1995,
+    "cast": [
+      "Larenz Tate",
+      "Keith David",
+      "Chris Tucker"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/dead-presidents.html"
+}

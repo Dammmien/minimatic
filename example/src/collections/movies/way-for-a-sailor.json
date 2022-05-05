@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Way for a Sailor",
+    "year": 1930,
+    "cast": [
+      "John Gilbert",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/way-for-a-sailor.html"
+}

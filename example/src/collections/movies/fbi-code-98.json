@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "FBI Code 98",
+    "year": 1962,
+    "cast": [
+      "Jack Kelly",
+      "Ray Danton"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/fbi-code-98.html"
+}

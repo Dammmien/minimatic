@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Battle Circus",
+    "year": 1953,
+    "cast": [
+      "Humphrey Bogart",
+      "June Allyson",
+      "Robert Keith",
+      "Keenan Wynn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/battle-circus.html"
+}

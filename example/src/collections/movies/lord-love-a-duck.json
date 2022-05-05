@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lord Love a Duck",
+    "year": 1966,
+    "cast": [
+      "Roddy McDowall",
+      "Tuesday Weld",
+      "Lola Albright"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lord-love-a-duck.html"
+}

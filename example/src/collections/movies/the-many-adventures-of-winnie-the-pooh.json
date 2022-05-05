@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Many Adventures of Winnie the Pooh",
+    "year": 1977,
+    "cast": [
+      "Sterling Holloway",
+      "John Fiedler",
+      "Paul Winchell"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-many-adventures-of-winnie-the-pooh.html"
+}

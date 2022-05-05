@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Book of Eli",
+    "year": 2010,
+    "cast": [
+      "Denzel Washington",
+      "Gary Oldman",
+      "Mila Kunis",
+      "Ray Stevenson",
+      "Jennifer Beals",
+      "Frances de la Tour",
+      "Michael Gambon"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-book-of-eli.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Heart of Dixie",
+    "year": 1989,
+    "cast": [
+      "Ally Sheedy",
+      "Virginia Madsen",
+      "Phoebe Cates"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/heart-of-dixie.html"
+}

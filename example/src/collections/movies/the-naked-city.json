@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Naked City",
+    "year": 1948,
+    "cast": [
+      "Barry Fitzgerald",
+      "Howard Duff"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-naked-city.html"
+}

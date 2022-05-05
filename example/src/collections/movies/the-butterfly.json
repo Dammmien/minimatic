@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Butterfly",
+    "year": 1914,
+    "cast": [
+      "Charlotte Burton",
+      "George Field",
+      "Edward Coxen",
+      "Edith Borella",
+      "Jean Durrell",
+      "Ida Lewis",
+      "John Steppling"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-butterfly.html"
+}

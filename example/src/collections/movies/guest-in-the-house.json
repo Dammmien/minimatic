@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Guest in the House",
+    "year": 1944,
+    "cast": [
+      "Anne Baxter",
+      "Ralph Bellamy",
+      "Aline MacMahon"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/guest-in-the-house.html"
+}

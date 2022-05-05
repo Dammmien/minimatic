@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Deepwater",
+    "year": 2005,
+    "cast": [
+      "Lucas Black",
+      "Peter Coyote",
+      "Mia Maestro"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/deepwater.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Massacre",
+    "year": 1956,
+    "cast": [
+      "Dane Clark",
+      "Martha Roth"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/massacre.html"
+}

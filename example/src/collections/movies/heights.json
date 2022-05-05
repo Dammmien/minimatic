@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Heights",
+    "year": 2004,
+    "cast": [
+      "Glenn Close",
+      "Elizabeth Banks",
+      "James Marsden",
+      "Jesse Bradford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/heights.html"
+}

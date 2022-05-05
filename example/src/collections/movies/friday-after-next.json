@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Friday After Next",
+    "year": 2002,
+    "cast": [
+      "Ice Cube",
+      "Mike Epps",
+      "John Witherspoon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/friday-after-next.html"
+}

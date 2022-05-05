@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "King of the Bandits",
+    "year": 1947,
+    "cast": [
+      "Gilbert Roland",
+      "Angela Greene"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/king-of-the-bandits.html"
+}

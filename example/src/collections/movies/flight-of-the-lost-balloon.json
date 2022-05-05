@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flight of the Lost Balloon",
+    "year": 1961,
+    "cast": [
+      "Mala Powers",
+      "Marshall Thompson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/flight-of-the-lost-balloon.html"
+}

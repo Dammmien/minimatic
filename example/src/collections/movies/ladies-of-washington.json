@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ladies of Washington",
+    "year": 1944,
+    "cast": [
+      "Trudy Marshall",
+      "Anthony Quinn",
+      "Sheila Ryan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ladies-of-washington.html"
+}

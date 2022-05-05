@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Branded Sombrero",
+    "year": 1928,
+    "cast": [
+      "Buck Jones",
+      "Leila Hyams"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-branded-sombrero.html"
+}

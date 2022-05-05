@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A River Runs Through It",
+    "year": 1992,
+    "cast": [
+      "Craig Sheffer",
+      "Brad Pitt",
+      "Tom Skerritt",
+      "Brenda Blethyn",
+      "Emily Lloyd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-river-runs-through-it.html"
+}

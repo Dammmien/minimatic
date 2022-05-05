@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Heir-Loons",
+    "year": 1925,
+    "cast": [
+      "Wallace MacDonald",
+      "Edith Roberts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/heir-loons.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Gettysburg",
+    "year": 1993,
+    "cast": [
+      "Tom Berenger",
+      "Jeff Daniels",
+      "Martin Sheen",
+      "Stephen Lang"
+    ],
+    "genres": [
+      "Biography",
+      "War"
+    ]
+  },
+  "output": "movies/gettysburg.html"
+}

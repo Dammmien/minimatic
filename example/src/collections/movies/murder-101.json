@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Murder 101",
+    "year": 2014,
+    "cast": [
+      "Tom Sizemore",
+      "Paige LaPierre",
+      "Randy Irwin",
+      "Jamison Haase"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/murder-101.html"
+}

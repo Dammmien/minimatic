@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Glass Shield",
+    "year": 1995,
+    "cast": [
+      "Ice Cube",
+      "Lori Petty"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-glass-shield.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "County Fair",
+    "year": 1950,
+    "cast": [
+      "Rory Calhoun",
+      "Jane Nigh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/county-fair.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Born to Win",
+    "year": 1971,
+    "cast": [
+      "George Segal",
+      "Paula Prentiss",
+      "Karen Black"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/born-to-win.html"
+}

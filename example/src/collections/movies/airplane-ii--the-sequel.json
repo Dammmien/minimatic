@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Airplane II: The Sequel",
+    "year": 1982,
+    "cast": [
+      "Robert Hays",
+      "Julie Hagerty",
+      "Lloyd Bridges",
+      "Chad Everett",
+      "William Shatner",
+      "Rip Torn",
+      "Sonny Bono"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/airplane-ii--the-sequel.html"
+}

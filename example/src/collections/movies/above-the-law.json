@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Above the Law",
+    "year": 1988,
+    "cast": [
+      "Steven Seagal",
+      "Pam Grier",
+      "Sharon Stone"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/above-the-law.html"
+}

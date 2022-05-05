@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Clearing the Range",
+    "year": 1931,
+    "cast": [
+      "Hoot Gibson",
+      "Sally Eilers",
+      "Hooper Atchley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/clearing-the-range.html"
+}

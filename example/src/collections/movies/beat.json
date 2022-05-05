@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beat",
+    "year": 2000,
+    "cast": [
+      "Courtney Love",
+      "Kiefer Sutherland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beat.html"
+}

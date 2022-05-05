@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Madame Sans-Gêne",
+    "year": 1925,
+    "cast": [
+      "Gloria Swanson",
+      "Madeleine Guitty",
+      "Warwick Ward"
+    ],
+    "genres": [
+      "Historical",
+      "Romance"
+    ]
+  },
+  "output": "movies/madame-sans-g-ne.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Getaway",
+    "year": 2013,
+    "cast": [
+      "Ethan Hawke",
+      "Selena Gomez",
+      "Jon Voight",
+      "Rebecca Budig",
+      "Paul Freeman",
+      "Bruce Payne"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/getaway.html"
+}

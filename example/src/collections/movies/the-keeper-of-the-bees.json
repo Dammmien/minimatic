@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Keeper of the Bees",
+    "year": 1935,
+    "cast": [
+      "Neil Hamilton",
+      "Betty Furness"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-keeper-of-the-bees.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Quebec",
+    "year": 1951,
+    "cast": [
+      "John Drew Barrymore",
+      "Corinne Calvet"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/quebec.html"
+}

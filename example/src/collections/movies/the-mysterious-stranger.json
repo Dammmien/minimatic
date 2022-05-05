@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mysterious Stranger",
+    "year": 1925,
+    "cast": [
+      "Richard Talmadge",
+      "Josef Swickard",
+      "Carmelita Geraghty"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mysterious-stranger.html"
+}

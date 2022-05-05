@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lucky Terror",
+    "year": 1936,
+    "cast": [
+      "Hoot Gibson",
+      "Charles Hill",
+      "Lona Andre"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lucky-terror.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Heidi's Song",
+    "year": 1982,
+    "cast": [
+      "Lorne Greene",
+      "Margery Gray",
+      "Sammy Davis, Jr."
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/heidi-s-song.html"
+}

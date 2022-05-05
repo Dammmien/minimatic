@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Saving Grace",
+    "year": 1986,
+    "cast": [
+      "Tom Conti",
+      "Fernando Rey",
+      "Erland Josephson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/saving-grace.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "White Hunter",
+    "year": 1936,
+    "cast": [
+      "Warner Baxter",
+      "June Lang",
+      "Gail Patrick",
+      "Wilfrid Lawson"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/white-hunter.html"
+}

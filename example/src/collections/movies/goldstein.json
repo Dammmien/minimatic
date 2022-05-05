@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Goldstein",
+    "year": 1965,
+    "cast": [
+      "Lou Gilbert",
+      "Ellen Madison",
+      "Tom Erhart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/goldstein.html"
+}

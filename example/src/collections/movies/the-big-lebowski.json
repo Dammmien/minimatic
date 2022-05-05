@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "cast": [
+      "Jeff Bridges",
+      "John Goodman",
+      "Julianne Moore",
+      "Steve Buscemi",
+      "John Turturro",
+      "Tara Reid",
+      "Ben Gazzara"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-big-lebowski.html"
+}

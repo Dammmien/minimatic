@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Trip to Bountiful",
+    "year": 1985,
+    "cast": [
+      "Geraldine Page",
+      "John Heard",
+      "Rebecca De Mornay"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-trip-to-bountiful.html"
+}

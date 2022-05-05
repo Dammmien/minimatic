@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Alter Egos",
+    "year": 2012,
+    "cast": [
+      "Sean Lennon",
+      "Danny Masterson",
+      "Geneva Carr",
+      "Kris Lemche",
+      "John Ventimiglia",
+      "Christine Evangelista"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/alter-egos.html"
+}

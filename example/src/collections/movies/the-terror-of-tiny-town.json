@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Terror of Tiny Town",
+    "year": 1938,
+    "cast": [
+      "Billy Curtis",
+      "Yvonne Moray"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-terror-of-tiny-town.html"
+}

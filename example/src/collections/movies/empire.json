@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Empire",
+    "year": 2002,
+    "cast": [
+      "John Leguizamo",
+      "Peter Sarsgaard",
+      "Denise Richards",
+      "Delilah Cotto"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/empire.html"
+}

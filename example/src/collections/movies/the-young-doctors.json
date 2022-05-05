@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Young Doctors",
+    "year": 1961,
+    "cast": [
+      "Ben Gazzara",
+      "Fredric March",
+      "Dick Clark"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-young-doctors.html"
+}

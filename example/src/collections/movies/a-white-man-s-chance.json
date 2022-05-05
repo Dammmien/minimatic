@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A White Man's Chance",
+    "year": 1919,
+    "cast": [
+      "J. Warren Kerrigan",
+      "Lillian Walker"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/a-white-man-s-chance.html"
+}

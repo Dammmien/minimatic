@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Continental Divide",
+    "year": 1981,
+    "cast": [
+      "John Belushi",
+      "Blair Brown"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/continental-divide.html"
+}

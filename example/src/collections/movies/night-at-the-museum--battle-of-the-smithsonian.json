@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Night at the Museum: Battle of the Smithsonian",
+    "year": 2009,
+    "cast": [
+      "Ben Stiller",
+      "Dick Van Dyke",
+      "Robin Williams",
+      "Amy Adams",
+      "Hank Azaria",
+      "Owen Wilson",
+      "Steve Coogan",
+      "Jonah Hill",
+      "Ricky Gervais"
+    ],
+    "genres": [
+      "Adventure",
+      "Family"
+    ]
+  },
+  "output": "movies/night-at-the-museum--battle-of-the-smithsonian.html"
+}

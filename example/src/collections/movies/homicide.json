@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Homicide",
+    "year": 1991,
+    "cast": [
+      "Joe Mantegna",
+      "William H. Macy",
+      "Ving Rhames"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/homicide.html"
+}

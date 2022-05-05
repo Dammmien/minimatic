@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "College",
+    "year": 2008,
+    "cast": [
+      "Drake Bell",
+      "Kevin Covais",
+      "Andrew Caldwell",
+      "Haley Bennett"
+    ],
+    "genres": [
+      "Comedy",
+      "Teen"
+    ]
+  },
+  "output": "movies/college.html"
+}

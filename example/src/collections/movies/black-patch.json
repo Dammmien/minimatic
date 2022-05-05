@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Black Patch",
+    "year": 1957,
+    "cast": [
+      "George Montgomery",
+      "Diane Brewster"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/black-patch.html"
+}

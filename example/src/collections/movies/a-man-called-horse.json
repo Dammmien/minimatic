@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Man Called Horse",
+    "year": 1970,
+    "cast": [
+      "Richard Harris"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-man-called-horse.html"
+}

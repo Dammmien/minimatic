@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "West of Arizona",
+    "year": 1925,
+    "cast": [
+      "Pete Morrison",
+      "Beth Darlington"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/west-of-arizona.html"
+}

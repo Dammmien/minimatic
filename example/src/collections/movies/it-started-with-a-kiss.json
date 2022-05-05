@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It Started with a Kiss",
+    "year": 1959,
+    "cast": [
+      "Glenn Ford",
+      "Debbie Reynolds"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-started-with-a-kiss.html"
+}

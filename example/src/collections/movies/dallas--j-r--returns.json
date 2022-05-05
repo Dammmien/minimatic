@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dallas: J.R. Returns",
+    "year": 1996,
+    "cast": [
+      "Larry Hagman",
+      "Patrick Duffy",
+      "Linda Gray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dallas--j-r--returns.html"
+}

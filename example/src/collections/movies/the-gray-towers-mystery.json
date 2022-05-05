@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gray Towers Mystery",
+    "year": 1919,
+    "cast": [
+      "Gladys Leslie",
+      "Frank Morgan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-gray-towers-mystery.html"
+}

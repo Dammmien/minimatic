@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blow",
+    "year": 2001,
+    "cast": [
+      "Johnny Depp",
+      "Penélope Cruz"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/blow.html"
+}

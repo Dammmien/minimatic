@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wild Orchid",
+    "year": 1990,
+    "cast": [
+      "Mickey Rourke",
+      "Carre Otis",
+      "Jacqueline Bisset"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wild-orchid.html"
+}

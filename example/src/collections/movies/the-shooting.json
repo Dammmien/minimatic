@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Shooting",
+    "year": 1967,
+    "cast": [
+      "Warren Oates",
+      "Jack Nicholson",
+      "Millie Perkins"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-shooting.html"
+}

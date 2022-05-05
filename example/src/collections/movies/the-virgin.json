@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Virgin",
+    "year": 1924,
+    "cast": [
+      "Kenneth Harlan",
+      "Dorothy Revier"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-virgin.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "To Each His Own",
+    "year": 1946,
+    "cast": [
+      "Olivia de Havilland",
+      "John Lund",
+      "Roland Culver"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/to-each-his-own.html"
+}

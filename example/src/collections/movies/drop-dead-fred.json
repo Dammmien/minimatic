@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Drop Dead Fred",
+    "year": 1991,
+    "cast": [
+      "Phoebe Cates",
+      "Rik Mayall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/drop-dead-fred.html"
+}

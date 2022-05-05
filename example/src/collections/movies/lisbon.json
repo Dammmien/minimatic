@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lisbon",
+    "year": 1956,
+    "cast": [
+      "Maureen O'Hara",
+      "Yvonne Furneaux"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/lisbon.html"
+}

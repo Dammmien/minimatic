@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Good Shepherd",
+    "year": 2006,
+    "cast": [
+      "Matt Damon",
+      "Angelina Jolie",
+      "Robert De Niro",
+      "Alec Baldwin",
+      "William Hurt",
+      "Michael Gambon",
+      "Timothy Hutton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-good-shepherd.html"
+}

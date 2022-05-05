@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Joy",
+    "year": 2015,
+    "cast": [
+      "Jennifer Lawrence",
+      "Robert De Niro",
+      "Édgar Ramírez"
+    ],
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/joy.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Q&A",
+    "year": 1990,
+    "cast": [
+      "Nick Nolte",
+      "Timothy Hutton",
+      "Armand Assante",
+      "Patrick O'Neal",
+      "Charles S. Dutton",
+      "Lee Richardson"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/q-a.html"
+}

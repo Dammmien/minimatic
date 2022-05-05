@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Love Melvin",
+    "year": 1953,
+    "cast": [
+      "Debbie Reynolds",
+      "Donald O'Connor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-love-melvin.html"
+}

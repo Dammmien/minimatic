@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Guyver",
+    "year": 1990,
+    "cast": [
+      "Mark Hamill",
+      "Vivian Wu"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-guyver.html"
+}

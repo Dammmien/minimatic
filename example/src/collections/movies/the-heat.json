@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Heat",
+    "year": 2013,
+    "cast": [
+      "Sandra Bullock",
+      "Melissa McCarthy",
+      "Demián Bichir",
+      "Marlon Wayans",
+      "Michael Rapaport"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-heat.html"
+}

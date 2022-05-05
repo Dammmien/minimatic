@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Zookeeper's Wife",
+    "year": 2017,
+    "cast": [
+      "Jessica Chastain",
+      "Johan Heldenbergh",
+      "Daniel Brühl",
+      "Michael McElhatton"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-zookeeper-s-wife.html"
+}

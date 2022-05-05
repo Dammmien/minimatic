@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "New Mexico",
+    "year": 1951,
+    "cast": [
+      "Lew Ayres",
+      "Marilyn Maxwell",
+      "Andy Devine"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/new-mexico.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Along the Navajo Trail",
+    "year": 1945,
+    "cast": [
+      "Roy Rogers",
+      "Dale Evans",
+      "Estelita Rodriguez"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/along-the-navajo-trail.html"
+}

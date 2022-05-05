@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Society Lawyer",
+    "year": 1939,
+    "cast": [
+      "Walter Pidgeon",
+      "Virginia Bruce",
+      "Leo Carrillo",
+      "Eduardo Ciannelli"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/society-lawyer.html"
+}

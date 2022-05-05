@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Sun Sets at Dawn",
+    "year": 1950,
+    "cast": [
+      "Walter Reed"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-sun-sets-at-dawn.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blind Date",
+    "year": 1987,
+    "cast": [
+      "Bruce Willis",
+      "Kim Basinger",
+      "John Larroquette"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blind-date.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Brothers",
+    "year": 2001,
+    "cast": [
+      "Morris Chestnut",
+      "D. L. Hughley",
+      "Bill Bellamy",
+      "Shemar Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-brothers.html"
+}

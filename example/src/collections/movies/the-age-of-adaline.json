@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Age of Adaline",
+    "year": 2015,
+    "cast": [
+      "Blake Lively",
+      "Harrison Ford",
+      "Michiel Huisman"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-age-of-adaline.html"
+}

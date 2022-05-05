@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Doctor, You've Got to Be Kidding!",
+    "year": 1967,
+    "cast": [
+      "Sandra Dee",
+      "George Hamilton",
+      "Celeste Holm",
+      "Bill Bixby"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/doctor--you-ve-got-to-be-kidding-.html"
+}

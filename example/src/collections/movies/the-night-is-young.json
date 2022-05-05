@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Night Is Young",
+    "year": 1935,
+    "cast": [
+      "Ramon Novarro",
+      "Evelyn Laye"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-night-is-young.html"
+}

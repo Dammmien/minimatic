@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Hell Baby",
+    "year": 2013,
+    "cast": [
+      "Rob Corddry",
+      "Leslie Bibb",
+      "Keegan-Michael Key",
+      "Riki Lindhome",
+      "Rob Huebel",
+      "Paul Scheer",
+      "Robert Ben Garant",
+      "Thomas Lennon",
+      "Michael Ian Black",
+      "Kumail Nanjiani",
+      "Dave Holmes"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hell-baby.html"
+}

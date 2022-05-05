@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stolen Moments",
+    "year": 1920,
+    "cast": [
+      "Rudolph Valentino",
+      "Marguerite Namara"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stolen-moments.html"
+}

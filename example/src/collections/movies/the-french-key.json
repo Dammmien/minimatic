@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The French Key",
+    "year": 1946,
+    "cast": [
+      "Albert Dekker",
+      "Mike Mazurki",
+      "Evelyn Ankers"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-french-key.html"
+}

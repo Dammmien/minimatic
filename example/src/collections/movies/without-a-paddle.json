@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Without a Paddle",
+    "year": 2004,
+    "cast": [
+      "Matthew Lillard",
+      "Seth Green",
+      "Dax Shepard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/without-a-paddle.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jet Attack",
+    "year": 1958,
+    "cast": [
+      "John Agar",
+      "Audrey Totter"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/jet-attack.html"
+}

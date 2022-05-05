@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Uncle Buck",
+    "year": 1989,
+    "cast": [
+      "John Candy",
+      "Amy Madigan",
+      "Jean Louisa Kelly",
+      "Macaulay Culkin",
+      "Gaby Hoffmann"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/uncle-buck.html"
+}

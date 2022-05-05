@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Want Someone to Eat Cheese With",
+    "year": 2006,
+    "cast": [
+      "Jeff Garlin",
+      "Sarah Silverman",
+      "Bonnie Hunt"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-want-someone-to-eat-cheese-with.html"
+}

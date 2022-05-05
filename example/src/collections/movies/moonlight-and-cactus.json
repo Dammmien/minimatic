@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Moonlight and Cactus",
+    "year": 1944,
+    "cast": [
+      "The Andrews Sisters",
+      "Leo Carrillo"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/moonlight-and-cactus.html"
+}

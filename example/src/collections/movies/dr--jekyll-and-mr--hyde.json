@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dr. Jekyll and Mr. Hyde",
+    "year": 1941,
+    "cast": [
+      "Spencer Tracy",
+      "Ingrid Bergman",
+      "Lana Turner"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dr--jekyll-and-mr--hyde.html"
+}

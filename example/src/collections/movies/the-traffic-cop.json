@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Traffic Cop",
+    "year": 1926,
+    "cast": [
+      "Maurice 'Lefty' Flynn",
+      "Nigel Barrie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-traffic-cop.html"
+}

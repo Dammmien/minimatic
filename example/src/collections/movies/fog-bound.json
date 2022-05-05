@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fog Bound",
+    "year": 1923,
+    "cast": [
+      "Dorothy Dalton",
+      "David Powell",
+      "Martha Mansfield"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fog-bound.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pioneer Justice",
+    "year": 1947,
+    "cast": [
+      "Lash La Rue",
+      "Jennifer Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/pioneer-justice.html"
+}

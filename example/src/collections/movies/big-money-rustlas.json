@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Big Money Rustlas",
+    "year": 2010,
+    "cast": [
+      "Insane Clown Posse",
+      "(",
+      "Violent J",
+      "Shaggy 2 Dope",
+      ")",
+      "Twiztid",
+      "(",
+      "Jamie Madrox",
+      "Monoxide",
+      ")",
+      "Jason Mewes",
+      "Mark Jury"
+    ],
+    "genres": [
+      "Comedy",
+      "Western"
+    ]
+  },
+  "output": "movies/big-money-rustlas.html"
+}

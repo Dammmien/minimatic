@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Penny Serenade",
+    "year": 1941,
+    "cast": [
+      "Irene Dunne",
+      "Cary Grant",
+      "Beulah Bondi",
+      "Edgar Buchanan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/penny-serenade.html"
+}

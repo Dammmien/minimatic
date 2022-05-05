@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bandits of Dark Canyon",
+    "year": 1947,
+    "cast": [
+      "Allan Lane",
+      "Bob Steele"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bandits-of-dark-canyon.html"
+}

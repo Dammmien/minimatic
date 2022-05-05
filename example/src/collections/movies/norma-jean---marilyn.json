@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Norma Jean & Marilyn",
+    "year": 1996,
+    "cast": [
+      "Ashley Judd",
+      "Mira Sorvino"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/norma-jean---marilyn.html"
+}

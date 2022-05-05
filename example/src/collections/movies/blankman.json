@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blankman",
+    "year": 1994,
+    "cast": [
+      "Damon Wayans",
+      "David Alan Grier",
+      "Robin Givens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blankman.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Map of the World",
+    "year": 1999,
+    "cast": [
+      "Sigourney Weaver",
+      "Julianne Moore",
+      "David Strathairn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-map-of-the-world.html"
+}

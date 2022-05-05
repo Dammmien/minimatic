@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hi, Beautiful",
+    "year": 1944,
+    "cast": [
+      "Martha O'Driscoll",
+      "Noah Beery Jr.",
+      "Hattie McDaniel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hi--beautiful.html"
+}

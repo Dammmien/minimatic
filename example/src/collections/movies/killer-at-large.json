@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Killer at Large",
+    "year": 1947,
+    "cast": [
+      "Robert Lowery",
+      "Charles Evans"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/killer-at-large.html"
+}

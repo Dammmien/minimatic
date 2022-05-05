@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Black Lightning",
+    "year": 1924,
+    "cast": [
+      "Clara Bow",
+      "Eddie Phillips"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/black-lightning.html"
+}

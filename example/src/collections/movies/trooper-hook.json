@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trooper Hook",
+    "year": 1957,
+    "cast": [
+      "Joel McCrea",
+      "Barbara Stanwyck"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/trooper-hook.html"
+}

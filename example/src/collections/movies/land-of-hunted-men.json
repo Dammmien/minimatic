@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Land of Hunted Men",
+    "year": 1943,
+    "cast": [
+      "Ray Corrigan",
+      "Max Terhune"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/land-of-hunted-men.html"
+}

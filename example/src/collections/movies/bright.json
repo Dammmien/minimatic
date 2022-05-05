@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Bright",
+    "year": 2017,
+    "cast": [
+      "Will Smith",
+      "Joel Edgerton",
+      "Noomi Rapace",
+      "Lucy Fry",
+      "Edgar Ramirez"
+    ],
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/bright.html"
+}

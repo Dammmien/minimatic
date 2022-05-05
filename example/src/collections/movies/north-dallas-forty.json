@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "North Dallas Forty",
+    "year": 1979,
+    "cast": [
+      "Nick Nolte",
+      "Mac Davis",
+      "G. D. Spradlin",
+      "Charles Durning",
+      "Dabney Coleman",
+      "Dayle Haddon"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/north-dallas-forty.html"
+}

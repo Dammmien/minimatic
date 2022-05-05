@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Seminole Uprising",
+    "year": 1955,
+    "cast": [
+      "George Montgomery",
+      "Karin Booth"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/seminole-uprising.html"
+}

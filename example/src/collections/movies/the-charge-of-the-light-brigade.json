@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Charge of the Light Brigade",
+    "year": 1936,
+    "cast": [
+      "Errol Flynn",
+      "Olivia de Havilland",
+      "Donald Crisp"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-charge-of-the-light-brigade.html"
+}

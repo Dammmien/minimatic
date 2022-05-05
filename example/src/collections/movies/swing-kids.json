@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Swing Kids",
+    "year": 1993,
+    "cast": [
+      "Robert Sean Leonard",
+      "Christian Bale",
+      "Barbara Hershey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/swing-kids.html"
+}

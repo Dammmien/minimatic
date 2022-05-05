@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Won't Play",
+    "year": 1944,
+    "cast": [
+      "Janis Paige",
+      "Dane Clark"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/i-won-t-play.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Business of Love",
+    "year": 1925,
+    "cast": [
+      "Edward Everett Horton",
+      "Barbara Bedford",
+      "Zasu Pitts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-business-of-love.html"
+}

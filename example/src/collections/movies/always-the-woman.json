@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Always the Woman",
+    "year": 1922,
+    "cast": [
+      "Betty Compson",
+      "Emory Johnson"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/always-the-woman.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Foolish Virgin",
+    "year": 1924,
+    "cast": [
+      "Elaine Hammerstein",
+      "Robert Frazer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-foolish-virgin.html"
+}

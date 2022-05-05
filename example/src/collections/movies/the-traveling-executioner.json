@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Traveling Executioner",
+    "year": 1970,
+    "cast": [
+      "Stacy Keach",
+      "Bud Cort",
+      "Marianna Hill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-traveling-executioner.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Someone Like You",
+    "year": 2001,
+    "cast": [
+      "Ashley Judd",
+      "Greg Kinnear",
+      "Hugh Jackman",
+      "Marisa Tomei"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/someone-like-you.html"
+}

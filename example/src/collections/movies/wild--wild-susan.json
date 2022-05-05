@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild, Wild Susan",
+    "year": 1925,
+    "cast": [
+      "Bebe Daniels",
+      "Rod La Rocque"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wild--wild-susan.html"
+}

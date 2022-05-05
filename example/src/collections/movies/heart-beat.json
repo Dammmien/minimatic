@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Heart Beat",
+    "year": 1980,
+    "cast": [
+      "Nick Nolte",
+      "Sissy Spacek",
+      "John Heard"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/heart-beat.html"
+}

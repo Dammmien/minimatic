@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bluebeard's 8th Wife",
+    "year": 1923,
+    "cast": [
+      "Gloria Swanson",
+      "Huntley Gordon"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/bluebeard-s-8th-wife.html"
+}

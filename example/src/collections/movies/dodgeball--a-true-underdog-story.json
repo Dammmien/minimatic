@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "DodgeBall: A True Underdog Story",
+    "year": 2004,
+    "cast": [
+      "Vince Vaughn",
+      "Ben Stiller",
+      "Christine Taylor",
+      "Rip Torn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dodgeball--a-true-underdog-story.html"
+}

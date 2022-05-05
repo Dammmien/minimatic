@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fled",
+    "year": 1996,
+    "cast": [
+      "Laurence Fishburne",
+      "Stephen Baldwin"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/fled.html"
+}

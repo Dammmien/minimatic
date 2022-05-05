@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Funny Face",
+    "year": 1957,
+    "cast": [
+      "Audrey Hepburn",
+      "Fred Astaire",
+      "Kay Thompson"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/funny-face.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Out of the Depths",
+    "year": 1945,
+    "cast": [
+      "Jim Bannon",
+      "Ross Hunter"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/out-of-the-depths.html"
+}

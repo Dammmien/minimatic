@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hoodlum",
+    "year": 1997,
+    "cast": [
+      "Laurence Fishburne",
+      "Tim Roth",
+      "Vanessa Williams",
+      "Andy García"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/hoodlum.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Little Princess",
+    "year": 1995,
+    "cast": [
+      "Liesel Matthews",
+      "Eleanor Bron"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/a-little-princess.html"
+}

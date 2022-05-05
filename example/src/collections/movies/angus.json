@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Angus",
+    "year": 1995,
+    "cast": [
+      "Charlie Talbert",
+      "George C. Scott",
+      "Kathy Bates"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/angus.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Devil May Hare",
+    "year": 1954,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/devil-may-hare.html"
+}

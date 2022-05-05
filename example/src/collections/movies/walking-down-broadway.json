@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Walking Down Broadway",
+    "year": 1938,
+    "cast": [
+      "Claire Trevor",
+      "Leah Ray",
+      "Phyllis Brooks"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/walking-down-broadway.html"
+}

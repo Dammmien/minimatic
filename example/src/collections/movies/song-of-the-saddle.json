@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Song of the Saddle",
+    "year": 1936,
+    "cast": [
+      "Dick Foran",
+      "Alma Lloyd"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/song-of-the-saddle.html"
+}

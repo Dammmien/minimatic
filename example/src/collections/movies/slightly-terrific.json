@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Slightly Terrific",
+    "year": 1944,
+    "cast": [
+      "Leon Errol",
+      "Anne Rooney"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/slightly-terrific.html"
+}

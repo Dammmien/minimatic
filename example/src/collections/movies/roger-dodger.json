@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Roger Dodger",
+    "year": 2002,
+    "cast": [
+      "Campbell Scott",
+      "Jesse Eisenberg",
+      "Isabella Rossellini"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/roger-dodger.html"
+}

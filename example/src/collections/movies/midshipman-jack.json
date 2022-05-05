@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Midshipman Jack",
+    "year": 1933,
+    "cast": [
+      "Bruce Cabot",
+      "Betty Furness"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/midshipman-jack.html"
+}

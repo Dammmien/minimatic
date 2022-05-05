@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Tarnished Angels",
+    "year": 1958,
+    "cast": [
+      "Robert Stack",
+      "Rock Hudson",
+      "Dorothy Malone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-tarnished-angels.html"
+}

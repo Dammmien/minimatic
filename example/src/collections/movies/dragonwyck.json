@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dragonwyck",
+    "year": 1946,
+    "cast": [
+      "Gene Tierney",
+      "Walter Huston",
+      "Vincent Price",
+      "Spring Byington",
+      "Jessica Tandy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dragonwyck.html"
+}

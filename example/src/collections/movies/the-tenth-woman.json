@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Tenth Woman",
+    "year": 1924,
+    "cast": [
+      "Beverly Bayne",
+      "John Roche"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-tenth-woman.html"
+}

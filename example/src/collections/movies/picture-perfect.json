@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Picture Perfect",
+    "year": 1997,
+    "cast": [
+      "Jennifer Aniston",
+      "Jay Mohr",
+      "Kevin Bacon"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/picture-perfect.html"
+}

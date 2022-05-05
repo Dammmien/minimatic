@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Under-Cover Man",
+    "year": 1932,
+    "cast": [
+      "George Raft",
+      "Nancy Carroll"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/under-cover-man.html"
+}

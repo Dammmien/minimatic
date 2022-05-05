@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Red River Range",
+    "year": 1938,
+    "cast": [
+      "John Wayne",
+      "Ray Corrigan",
+      "Max Terhune"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/red-river-range.html"
+}

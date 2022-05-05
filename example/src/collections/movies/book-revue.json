@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Book Revue",
+    "year": 1946,
+    "cast": [],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/book-revue.html"
+}

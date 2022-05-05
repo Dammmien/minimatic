@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Forbidden Jungle",
+    "year": 1950,
+    "cast": [
+      "Don C. Harvey",
+      "Forrest Taylor",
+      "Alyce Lewis"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/forbidden-jungle.html"
+}

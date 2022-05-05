@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ladies of the House",
+    "year": 2014,
+    "cast": [
+      "Michelle Sinclair",
+      "Melodie Sisk",
+      "Samrat Chakrabarti"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-ladies-of-the-house.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Moonshine Trail",
+    "year": 1919,
+    "cast": [
+      "Sylvia Breamer",
+      "Julia Swayne Gordon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-moonshine-trail.html"
+}

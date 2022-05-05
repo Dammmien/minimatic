@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "With These Hands",
+    "year": 1950,
+    "cast": [
+      "Sam Levene"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/with-these-hands.html"
+}

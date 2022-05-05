@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Street of Tears",
+    "year": 1924,
+    "cast": [
+      "Tom Santschi",
+      "Marguerite Clayton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-street-of-tears.html"
+}

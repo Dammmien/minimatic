@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Get Rich or Die Tryin'",
+    "year": 2005,
+    "cast": [
+      "50 Cent",
+      "Terrence Howard"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/get-rich-or-die-tryin-.html"
+}

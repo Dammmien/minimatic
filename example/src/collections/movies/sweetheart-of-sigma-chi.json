@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sweetheart of Sigma Chi",
+    "year": 1946,
+    "cast": [
+      "Phil Regan",
+      "Elyse Knox"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/sweetheart-of-sigma-chi.html"
+}

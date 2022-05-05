@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Rider of Death Valley",
+    "year": 1932,
+    "cast": [
+      "Tom Mix",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-rider-of-death-valley.html"
+}

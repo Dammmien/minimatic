@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Liquid Sky",
+    "year": 1983,
+    "cast": [
+      "Anne Carlisle",
+      "Paula E. Sheppard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/liquid-sky.html"
+}

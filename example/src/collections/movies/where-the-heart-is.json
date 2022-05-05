@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Where the Heart Is",
+    "year": 2000,
+    "cast": [
+      "Natalie Portman",
+      "Ashley Judd",
+      "Stockard Channing",
+      "Joan Cusack",
+      "Keith David",
+      "Sally Field"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/where-the-heart-is.html"
+}

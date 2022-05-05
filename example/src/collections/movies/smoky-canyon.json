@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smoky Canyon",
+    "year": 1952,
+    "cast": [
+      "Charles Starrett",
+      "Jock Mahoney"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/smoky-canyon.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Color Purple, The",
+    "year": 1985,
+    "cast": [
+      "Whoopi Goldberg",
+      "Danny Glover",
+      "Oprah Winfrey",
+      "Margaret Avery",
+      "Laurence Fishburne",
+      "Adolph Caesar",
+      "Rae Dawn Chong"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/color-purple--the.html"
+}

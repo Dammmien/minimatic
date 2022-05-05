@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Garden Party",
+    "year": 2008,
+    "cast": [
+      "Vinessa Shaw",
+      "Willa Holland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/garden-party.html"
+}

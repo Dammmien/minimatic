@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hot Pursuit",
+    "year": 2015,
+    "cast": [
+      "Reese Witherspoon",
+      "Sofía Vergara"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hot-pursuit.html"
+}

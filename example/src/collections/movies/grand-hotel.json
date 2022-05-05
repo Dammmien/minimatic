@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Grand Hotel",
+    "year": 1932,
+    "cast": [
+      "Greta Garbo",
+      "John Barrymore",
+      "Joan Crawford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/grand-hotel.html"
+}

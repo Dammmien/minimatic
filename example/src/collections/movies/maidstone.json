@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Maidstone",
+    "year": 1970,
+    "cast": [
+      "Norman Mailer",
+      "Rip Torn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/maidstone.html"
+}

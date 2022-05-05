@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Cat's Eye",
+    "year": 1985,
+    "cast": [
+      "Drew Barrymore",
+      "James Woods",
+      "Robert Hays",
+      "Alan King"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/cat-s-eye.html"
+}

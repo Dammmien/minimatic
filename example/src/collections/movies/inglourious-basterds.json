@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "cast": [
+      "Brad Pitt",
+      "Mélanie Laurent",
+      "Christoph Waltz",
+      "Daniel Brühl",
+      "Diane Kruger",
+      "Michael Fassbender",
+      "Eli Roth",
+      "Til Schweiger"
+    ],
+    "genres": [
+      "War",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/inglourious-basterds.html"
+}

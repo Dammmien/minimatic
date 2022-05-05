@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Botany Bay",
+    "year": 1953,
+    "cast": [
+      "Alan Ladd",
+      "James Mason",
+      "Patricia Medina"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/botany-bay.html"
+}

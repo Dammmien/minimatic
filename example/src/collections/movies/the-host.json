@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Host",
+    "year": 2013,
+    "cast": [
+      "Saoirse Ronan",
+      "Jake Abel",
+      "Max Irons",
+      "Frances Fisher",
+      "Chandler Canterbury",
+      "Diane Kruger",
+      "William Hurt"
+    ],
+    "genres": [
+      "Romance",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-host.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Four Frightened People",
+    "year": 1934,
+    "cast": [
+      "Claudette Colbert",
+      "Mary Boland",
+      "Herbert Marshall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/four-frightened-people.html"
+}

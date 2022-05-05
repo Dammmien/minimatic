@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Perfect Clue",
+    "year": 1935,
+    "cast": [
+      "David Manners",
+      "Betty Blythe"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-perfect-clue.html"
+}

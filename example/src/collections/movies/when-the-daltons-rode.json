@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When the Daltons Rode",
+    "year": 1940,
+    "cast": [
+      "Randolph Scott",
+      "Kay Francis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/when-the-daltons-rode.html"
+}

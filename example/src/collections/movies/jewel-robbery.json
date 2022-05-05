@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Jewel Robbery",
+    "year": 1932,
+    "cast": [
+      "William Powell",
+      "Kay Francis",
+      "Helen Vinson"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/jewel-robbery.html"
+}

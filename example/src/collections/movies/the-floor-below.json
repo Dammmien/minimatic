@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Floor Below",
+    "year": 1918,
+    "cast": [
+      "Mabel Normand",
+      "Tom Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-floor-below.html"
+}

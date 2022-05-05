@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Romancing the Stone",
+    "year": 1984,
+    "cast": [
+      "Michael Douglas",
+      "Kathleen Turner",
+      "Danny DeVito"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/romancing-the-stone.html"
+}

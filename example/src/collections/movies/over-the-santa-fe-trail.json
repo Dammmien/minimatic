@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Over the Santa Fe Trail",
+    "year": 1947,
+    "cast": [
+      "Ken Curtis",
+      "Jennifer Holt",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/over-the-santa-fe-trail.html"
+}

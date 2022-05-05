@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Undercover Doctor",
+    "year": 1939,
+    "cast": [
+      "Lloyd Nolan",
+      "Janice Logan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/undercover-doctor.html"
+}

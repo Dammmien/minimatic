@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Swingin' Summer",
+    "year": 1965,
+    "cast": [
+      "Raquel Welch",
+      "James Stacy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-swingin--summer.html"
+}

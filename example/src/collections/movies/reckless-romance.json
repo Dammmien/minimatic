@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Reckless Romance",
+    "year": 1924,
+    "cast": [
+      "Harry Myers",
+      "Wanda Hawley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/reckless-romance.html"
+}

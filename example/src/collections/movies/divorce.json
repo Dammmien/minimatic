@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Divorce",
+    "year": 1945,
+    "cast": [
+      "Kay Francis",
+      "Bruce Cabot",
+      "Helen Mack"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/divorce.html"
+}

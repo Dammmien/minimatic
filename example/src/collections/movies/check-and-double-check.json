@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Check and Double Check",
+    "year": 1930,
+    "cast": [
+      "Freeman F. Gosden",
+      "Charles J. Correll",
+      "Duke Ellington"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/check-and-double-check.html"
+}

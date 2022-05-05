@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Day of the Fight",
+    "year": 1951,
+    "cast": [
+      "Walter Cartier"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/day-of-the-fight.html"
+}

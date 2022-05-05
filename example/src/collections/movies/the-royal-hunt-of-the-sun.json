@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Royal Hunt of the Sun",
+    "year": 1969,
+    "cast": [
+      "Robert Shaw",
+      "Christopher Plummer",
+      "Nigel Davenport"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/the-royal-hunt-of-the-sun.html"
+}

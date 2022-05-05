@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smoke Lightning",
+    "year": 1933,
+    "cast": [
+      "George O'Brien",
+      "Nell O'Day"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/smoke-lightning.html"
+}

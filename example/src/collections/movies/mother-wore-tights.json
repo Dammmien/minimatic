@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mother Wore Tights",
+    "year": 1947,
+    "cast": [
+      "Betty Grable",
+      "Dan Dailey",
+      "Mona Freeman"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/mother-wore-tights.html"
+}

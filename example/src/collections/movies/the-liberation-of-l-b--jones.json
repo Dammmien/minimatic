@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Liberation of L.B. Jones",
+    "year": 1970,
+    "cast": [
+      "Roscoe Lee Browne",
+      "Lee J. Cobb",
+      "Lola Falana",
+      "Yaphet Kotto"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-liberation-of-l-b--jones.html"
+}

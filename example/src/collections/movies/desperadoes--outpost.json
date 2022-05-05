@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Desperadoes' Outpost",
+    "year": 1952,
+    "cast": [
+      "Allan Lane",
+      "Eddy Waller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/desperadoes--outpost.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Amityville 3-D",
+    "year": 1983,
+    "cast": [
+      "Tony Roberts",
+      "Tess Harper",
+      "Robert Joy"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/amityville-3-d.html"
+}

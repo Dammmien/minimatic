@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mr. Soft Touch",
+    "year": 1949,
+    "cast": [
+      "Glenn Ford",
+      "Evelyn Keyes"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/mr--soft-touch.html"
+}

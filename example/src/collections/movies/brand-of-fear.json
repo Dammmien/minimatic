@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Brand of Fear",
+    "year": 1949,
+    "cast": [
+      "Jimmy Wakely",
+      "Gail Davis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/brand-of-fear.html"
+}

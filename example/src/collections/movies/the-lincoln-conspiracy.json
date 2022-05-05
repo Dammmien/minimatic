@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lincoln Conspiracy",
+    "year": 1977,
+    "cast": [
+      "Bradford Dillman",
+      "John Anderson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lincoln-conspiracy.html"
+}

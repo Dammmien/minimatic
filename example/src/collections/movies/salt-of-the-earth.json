@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Salt of the Earth",
+    "year": 1954,
+    "cast": [
+      "Rosaura Revueltas",
+      "Will Geer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/salt-of-the-earth.html"
+}

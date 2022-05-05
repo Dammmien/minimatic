@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It Happened to Jane",
+    "year": 1959,
+    "cast": [
+      "Doris Day",
+      "Jack Lemmon",
+      "Ernie Kovacs"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-happened-to-jane.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Aloha, Bobby and Rose",
+    "year": 1975,
+    "cast": [
+      "Paul Le Mat",
+      "Tim McIntire",
+      "Leigh French"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/aloha--bobby-and-rose.html"
+}

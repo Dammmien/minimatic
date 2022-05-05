@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Behold My Wife!",
+    "year": 1934,
+    "cast": [
+      "Sylvia Sidney",
+      "Ann Sheridan",
+      "H. B. Warner"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/behold-my-wife-.html"
+}

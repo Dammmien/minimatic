@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Oklahoma Blues",
+    "year": 1948,
+    "cast": [
+      "Jimmy Wakely",
+      "Dub Taylor",
+      "Virginia Belmont"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/oklahoma-blues.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fear Fighter",
+    "year": 1925,
+    "cast": [
+      "Billy Sullivan",
+      "Ruth Dwyer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fear-fighter.html"
+}

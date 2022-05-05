@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sesame Street Presents Follow That Bird",
+    "year": 1985,
+    "cast": [
+      "Jim Henson",
+      "Frank Oz",
+      "Sandra Bernhard"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/sesame-street-presents-follow-that-bird.html"
+}

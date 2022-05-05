@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Murder in Harlem",
+    "year": 1935,
+    "cast": [
+      "Clarence Brooks",
+      "Dorothy Van Engle",
+      "Alice B. Russell"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder-in-harlem.html"
+}

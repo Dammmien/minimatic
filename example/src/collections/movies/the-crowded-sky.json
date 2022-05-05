@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Crowded Sky",
+    "year": 1960,
+    "cast": [
+      "Dana Andrews",
+      "Rhonda Fleming"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-crowded-sky.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Time to Kill",
+    "year": 1942,
+    "cast": [
+      "Lloyd Nolan",
+      "Heather Angel"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/time-to-kill.html"
+}

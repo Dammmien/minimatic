@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Glass Menagerie",
+    "year": 1987,
+    "cast": [
+      "Joanne Woodward",
+      "John Malkovich",
+      "Karen Allen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-glass-menagerie.html"
+}

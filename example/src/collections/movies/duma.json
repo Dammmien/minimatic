@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Duma",
+    "year": 2005,
+    "cast": [
+      "Alexander Michaletos",
+      "Eamonn Walker",
+      "Campbell Scott",
+      "Hope Davis"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/duma.html"
+}

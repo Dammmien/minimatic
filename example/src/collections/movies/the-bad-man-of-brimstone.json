@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bad Man of Brimstone",
+    "year": 1937,
+    "cast": [
+      "Wallace Beery",
+      "Virginia Bruce",
+      "Lewis Stone"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-bad-man-of-brimstone.html"
+}

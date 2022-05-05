@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Assignment in Brittany",
+    "year": 1943,
+    "cast": [
+      "Jean-Pierre Aumont",
+      "Susan Peters",
+      "Signe Hasso"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/assignment-in-brittany.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Rose Tattoo",
+    "year": 1955,
+    "cast": [
+      "Anna Magnani",
+      "Burt Lancaster"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-rose-tattoo.html"
+}

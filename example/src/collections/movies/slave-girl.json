@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Slave Girl",
+    "year": 1947,
+    "cast": [
+      "Yvonne De Carlo",
+      "George Brent",
+      "Broderick Crawford"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/slave-girl.html"
+}

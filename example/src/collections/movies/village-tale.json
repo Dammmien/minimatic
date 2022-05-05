@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Village Tale",
+    "year": 1935,
+    "cast": [
+      "Randolph Scott",
+      "Kay Johnson",
+      "Robert Barrat"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/village-tale.html"
+}

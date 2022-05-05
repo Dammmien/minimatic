@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Johnny Eager",
+    "year": 1942,
+    "cast": [
+      "Robert Taylor",
+      "Lana Turner"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/johnny-eager.html"
+}

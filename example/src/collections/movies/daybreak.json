@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Daybreak",
+    "year": 1931,
+    "cast": [
+      "Ramon Novarro",
+      "Helen Chandler",
+      "Jean Hersholt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/daybreak.html"
+}

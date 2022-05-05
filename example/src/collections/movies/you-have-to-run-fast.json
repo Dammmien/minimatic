@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "You Have to Run Fast",
+    "year": 1961,
+    "cast": [
+      "Craig Hill",
+      "Grant Richards"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/you-have-to-run-fast.html"
+}

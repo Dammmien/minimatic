@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Man-Proof",
+    "year": 1938,
+    "cast": [
+      "Myrna Loy",
+      "Rosalind Russell",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/man-proof.html"
+}

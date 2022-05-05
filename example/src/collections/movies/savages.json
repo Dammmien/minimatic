@@ -1,0 +1,27 @@
+{
+  "data": {
+    "title": "Savages",
+    "year": 2012,
+    "cast": [
+      "Taylor Kitsch",
+      "Aaron Johnson",
+      "Blake Lively",
+      "Uma Thurman",
+      "Salma Hayek",
+      "Benicio del Toro",
+      "Emile Hirsch",
+      "John Travolta",
+      "Joel David Moore",
+      "Demián Bichir",
+      "Mía Maestro",
+      "Trevor Donovan",
+      "Sandra Echeverría",
+      "Gillian Zinser"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/savages.html"
+}

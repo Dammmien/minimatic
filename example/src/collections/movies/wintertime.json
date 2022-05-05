@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wintertime",
+    "year": 1943,
+    "cast": [
+      "Sonja Henie",
+      "Cesar Romero"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/wintertime.html"
+}

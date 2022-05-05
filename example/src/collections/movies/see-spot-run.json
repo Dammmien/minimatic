@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "See Spot Run",
+    "year": 2001,
+    "cast": [
+      "David Arquette",
+      "Michael Clarke Duncan",
+      "Leslie Bibb"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/see-spot-run.html"
+}

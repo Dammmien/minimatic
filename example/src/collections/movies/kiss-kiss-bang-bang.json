@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kiss Kiss Bang Bang",
+    "year": 2005,
+    "cast": [
+      "Robert Downey, Jr.",
+      "Val Kilmer"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/kiss-kiss-bang-bang.html"
+}

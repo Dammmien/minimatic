@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Isle of Escape",
+    "year": 1930,
+    "cast": [
+      "Monte Blue",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/isle-of-escape.html"
+}

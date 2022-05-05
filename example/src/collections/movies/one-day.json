@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "One Day",
+    "year": 2011,
+    "cast": [
+      "Anne Hathaway",
+      "Jim Sturgess",
+      "Romola Garai",
+      "Rafe Spall",
+      "Ken Stott",
+      "Patricia Clarkson",
+      "Jodie Whittaker",
+      "Jamie Sives",
+      "Georgia King"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/one-day.html"
+}

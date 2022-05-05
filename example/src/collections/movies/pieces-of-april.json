@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Pieces of April",
+    "year": 2003,
+    "cast": [
+      "Katie Holmes",
+      "Derek Luke",
+      "Oliver Platt",
+      "Patricia Clarkson"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/pieces-of-april.html"
+}

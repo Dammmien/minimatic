@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "They Live in Fear",
+    "year": 1944,
+    "cast": [
+      "Otto Kruger",
+      "Clifford Severn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/they-live-in-fear.html"
+}

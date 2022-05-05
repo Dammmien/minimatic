@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Honeymooners",
+    "year": 2005,
+    "cast": [
+      "Cedric the Entertainer",
+      "Mike Epps",
+      "Gabrielle Union",
+      "Regina Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-honeymooners.html"
+}

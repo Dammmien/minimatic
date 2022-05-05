@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bodyhold",
+    "year": 1949,
+    "cast": [
+      "Willard Parker",
+      "Lola Albright",
+      "Hillary Brooke"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/bodyhold.html"
+}

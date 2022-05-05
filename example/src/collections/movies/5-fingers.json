@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "5 Fingers",
+    "year": 1952,
+    "cast": [
+      "James Mason",
+      "Danielle Darrieux",
+      "Walter Hampden",
+      "Herbert Berghof",
+      "Michael Rennie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/5-fingers.html"
+}

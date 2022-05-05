@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Saturday Night Fever",
+    "year": 1977,
+    "cast": [
+      "John Travolta",
+      "Karen Lynn Gorney",
+      "Donna Pescow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/saturday-night-fever.html"
+}

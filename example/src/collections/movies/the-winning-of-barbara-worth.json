@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Winning of Barbara Worth",
+    "year": 1926,
+    "cast": [
+      "Ronald Colman",
+      "Vilma Bánky",
+      "Gary Cooper"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-winning-of-barbara-worth.html"
+}

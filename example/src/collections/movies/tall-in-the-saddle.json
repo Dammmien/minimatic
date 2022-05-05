@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tall in the Saddle",
+    "year": 1944,
+    "cast": [
+      "John Wayne",
+      "Ella Raines",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/tall-in-the-saddle.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gene Krupa Story",
+    "year": 1959,
+    "cast": [
+      "Sal Mineo",
+      "Susan Oliver",
+      "James Darren"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-gene-krupa-story.html"
+}

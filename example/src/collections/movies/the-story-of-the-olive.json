@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Story of the Olive",
+    "year": 1914,
+    "cast": [
+      "Sydney Ayres",
+      "Perry Banks",
+      "Edith Borella",
+      "Caroline Cooke",
+      "Harry von Meter"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-story-of-the-olive.html"
+}

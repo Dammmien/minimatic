@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Road to Romance",
+    "year": 1927,
+    "cast": [
+      "Ramon Novarro",
+      "Marceline Day"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-road-to-romance.html"
+}

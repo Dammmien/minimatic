@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Which Is Witch",
+    "year": 1949,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/which-is-witch.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "West of the Rio Grande",
+    "year": 1944,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton",
+      "Christine McIntyre"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/west-of-the-rio-grande.html"
+}

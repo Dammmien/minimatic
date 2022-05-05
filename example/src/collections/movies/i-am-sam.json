@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Am Sam",
+    "year": 2001,
+    "cast": [
+      "Sean Penn",
+      "Michelle Pfeiffer",
+      "Dakota Fanning"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-am-sam.html"
+}

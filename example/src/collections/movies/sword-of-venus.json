@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sword of Venus",
+    "year": 1953,
+    "cast": [
+      "Robert Clarke",
+      "Dan O'Herlihy"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/sword-of-venus.html"
+}

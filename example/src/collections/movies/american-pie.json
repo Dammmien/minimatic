@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "American Pie",
+    "year": 1999,
+    "cast": [
+      "Jason Biggs",
+      "Seann William Scott",
+      "Tara Reid",
+      "Shannon Elizabeth",
+      "Chris Klein",
+      "Alyson Hannigan",
+      "Thomas Ian Nicholas",
+      "Mena Suvari",
+      "Natasha Lyonne",
+      "Eddie Kaye Thomas",
+      "Eugene Levy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/american-pie.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "First Knight",
+    "year": 1995,
+    "cast": [
+      "Sean Connery",
+      "Richard Gere",
+      "Julia Ormond"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/first-knight.html"
+}

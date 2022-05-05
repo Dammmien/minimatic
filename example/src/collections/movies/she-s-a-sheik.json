@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "She's a Sheik",
+    "year": 1927,
+    "cast": [
+      "Bebe Daniels",
+      "Richard Arlen",
+      "William Powell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-s-a-sheik.html"
+}

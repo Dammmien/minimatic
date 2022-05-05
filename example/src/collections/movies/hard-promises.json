@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hard Promises",
+    "year": 1991,
+    "cast": [
+      "Sissy Spacek",
+      "William Petersen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hard-promises.html"
+}

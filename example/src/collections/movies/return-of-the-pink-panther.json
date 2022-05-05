@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Return of the Pink Panther",
+    "year": 1975,
+    "cast": [
+      "Peter Sellers",
+      "Catherine Schell",
+      "Herbert Lom",
+      "Christopher Plummer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/return-of-the-pink-panther.html"
+}

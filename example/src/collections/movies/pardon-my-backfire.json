@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Pardon My Backfire",
+    "year": 1953,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pardon-my-backfire.html"
+}

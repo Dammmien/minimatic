@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lightkeepers",
+    "year": 2009,
+    "cast": [
+      "Richard Dreyfuss",
+      "Blythe Danner",
+      "Mamie Gummer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-lightkeepers.html"
+}

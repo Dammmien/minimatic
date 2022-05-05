@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Arizona Gunfighter",
+    "year": 1937,
+    "cast": [
+      "Bob Steele",
+      "Jean Carmen",
+      "Ted Adams"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/arizona-gunfighter.html"
+}

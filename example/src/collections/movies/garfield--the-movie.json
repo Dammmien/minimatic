@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Garfield: The Movie",
+    "year": 2004,
+    "cast": [
+      "Bill Murray",
+      "Breckin Meyer",
+      "Jennifer Love Hewitt"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/garfield--the-movie.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bride's Awakening",
+    "year": 1918,
+    "cast": [
+      "Mae Murray",
+      "Lew Cody"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bride-s-awakening.html"
+}

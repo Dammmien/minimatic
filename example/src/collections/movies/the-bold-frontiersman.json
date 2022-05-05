@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bold Frontiersman",
+    "year": 1948,
+    "cast": [
+      "Allan Lane",
+      "Eddy Waller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-bold-frontiersman.html"
+}

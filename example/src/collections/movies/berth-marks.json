@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Berth Marks",
+    "year": 1929,
+    "cast": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "Paulette Goddard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/berth-marks.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Brothers McMullen",
+    "year": 1995,
+    "cast": [
+      "Edward Burns",
+      "Mike McGlone"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-brothers-mcmullen.html"
+}

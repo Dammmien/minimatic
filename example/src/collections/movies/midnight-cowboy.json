@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Midnight Cowboy",
+    "year": 1969,
+    "cast": [
+      "Jon Voight",
+      "Dustin Hoffman",
+      "Brenda Vaccaro",
+      "Sylvia Miles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/midnight-cowboy.html"
+}

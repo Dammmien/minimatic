@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "The Slammin' Salmon",
+    "year": 2009,
+    "cast": [
+      "Michael Clarke Duncan",
+      "Jay Chandrasekhar",
+      "Kevin Heffernan",
+      "Steve Lemme",
+      "Paul Soter",
+      "Erik Stolhanske",
+      "April Bowlby",
+      "Sendhil Ramamurthy",
+      "Lance Henriksen",
+      "Olivia Munn",
+      "Vivica A. Fox",
+      "Morgan Fairchild"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-slammin--salmon.html"
+}

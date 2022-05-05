@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Moss Rose",
+    "year": 1947,
+    "cast": [
+      "Peggy Cummins",
+      "Victor Mature",
+      "Ethel Barrymore"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/moss-rose.html"
+}

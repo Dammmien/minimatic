@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Second Sight",
+    "year": 1989,
+    "cast": [
+      "John Larroquette",
+      "Bronson Pinchot"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/second-sight.html"
+}

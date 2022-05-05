@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dial Red O",
+    "year": 1955,
+    "cast": [
+      "Bill Elliott",
+      "Helene Stanley"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/dial-red-o.html"
+}

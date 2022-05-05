@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sierra",
+    "year": 1950,
+    "cast": [
+      "Audie Murphy",
+      "Wanda Hendrix"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sierra.html"
+}

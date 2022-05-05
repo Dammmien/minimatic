@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Iron Glove",
+    "year": 1954,
+    "cast": [
+      "Robert Stack",
+      "Ursula Thiess"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-iron-glove.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nick Carter, Master Detective",
+    "year": 1939,
+    "cast": [
+      "Walter Pidgeon",
+      "Rita Johnson",
+      "Henry Hull"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/nick-carter--master-detective.html"
+}

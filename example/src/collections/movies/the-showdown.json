@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Showdown",
+    "year": 1950,
+    "cast": [
+      "Walter Brennan",
+      "Marie Windsor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-showdown.html"
+}

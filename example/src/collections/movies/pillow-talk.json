@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pillow Talk",
+    "year": 1959,
+    "cast": [
+      "Doris Day",
+      "Rock Hudson",
+      "Tony Randall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pillow-talk.html"
+}

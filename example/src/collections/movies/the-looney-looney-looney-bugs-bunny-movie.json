@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Looney Looney Looney Bugs Bunny Movie",
+    "year": 1981,
+    "cast": [
+      "Mel Blanc",
+      "June Foray"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-looney-looney-looney-bugs-bunny-movie.html"
+}

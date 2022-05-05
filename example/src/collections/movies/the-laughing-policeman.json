@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Laughing Policeman",
+    "year": 1973,
+    "cast": [
+      "Walter Matthau",
+      "Bruce Dern",
+      "Louis Gossett Jr.",
+      "Joanna Cassidy",
+      "Cathy Lee Crosby"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-laughing-policeman.html"
+}

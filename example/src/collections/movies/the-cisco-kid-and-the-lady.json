@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cisco Kid and the Lady",
+    "year": 1939,
+    "cast": [
+      "Cesar Romero",
+      "Marjorie Weaver"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-cisco-kid-and-the-lady.html"
+}

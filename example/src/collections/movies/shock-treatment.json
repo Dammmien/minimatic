@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Shock Treatment",
+    "year": 1995,
+    "cast": [
+      "Matthew Schultz"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/shock-treatment.html"
+}

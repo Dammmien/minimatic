@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trapped by G-Men",
+    "year": 1937,
+    "cast": [
+      "Jack Holt",
+      "Wynne Gibson"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/trapped-by-g-men.html"
+}

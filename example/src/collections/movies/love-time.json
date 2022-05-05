@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Time",
+    "year": 1934,
+    "cast": [
+      "Pat Paterson",
+      "Nils Asther"
+    ],
+    "genres": [
+      "Historical",
+      "Romance"
+    ]
+  },
+  "output": "movies/love-time.html"
+}

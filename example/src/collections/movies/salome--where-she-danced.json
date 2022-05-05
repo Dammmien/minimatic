@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Salome, Where She Danced",
+    "year": 1945,
+    "cast": [
+      "Yvonne De Carlo",
+      "Rod Cameron",
+      "Walter Slezak"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/salome--where-she-danced.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Enforcer",
+    "year": 1976,
+    "cast": [
+      "Clint Eastwood",
+      "Tyne Daly",
+      "Bradford Dillman"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-enforcer.html"
+}

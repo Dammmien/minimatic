@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Come Again Smith",
+    "year": 1919,
+    "cast": [
+      "J. Warren Kerrigan",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/come-again-smith.html"
+}

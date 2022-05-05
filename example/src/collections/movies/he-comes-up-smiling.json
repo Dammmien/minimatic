@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "He Comes Up Smiling",
+    "year": 1918,
+    "cast": [
+      "Douglas Fairbanks",
+      "Marjorie Daw"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/he-comes-up-smiling.html"
+}

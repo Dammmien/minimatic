@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Seventeen",
+    "year": 1940,
+    "cast": [
+      "Betty Field",
+      "Jackie Cooper"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/seventeen.html"
+}

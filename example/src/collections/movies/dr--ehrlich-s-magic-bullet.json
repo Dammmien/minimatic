@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dr. Ehrlich's Magic Bullet",
+    "year": 1940,
+    "cast": [
+      "Edward G. Robinson",
+      "Ruth Gordon",
+      "Otto Kruger"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/dr--ehrlich-s-magic-bullet.html"
+}

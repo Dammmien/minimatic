@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild Bill Hickok Rides",
+    "year": 1942,
+    "cast": [
+      "Constance Bennett",
+      "Bruce Cabot"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wild-bill-hickok-rides.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Old Swimmin' Hole",
+    "year": 1940,
+    "cast": [
+      "Jackie Moran",
+      "Marcia Mae Jones"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-old-swimmin--hole.html"
+}

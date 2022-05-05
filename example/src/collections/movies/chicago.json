@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Chicago",
+    "year": 2002,
+    "cast": [
+      "Renée Zellweger",
+      "Catherine Zeta-Jones",
+      "Richard Gere",
+      "Queen Latifah",
+      "John C. Reilly",
+      "Taye Diggs"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/chicago.html"
+}

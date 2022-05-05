@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fear in the Night",
+    "year": 1947,
+    "cast": [
+      "DeForest Kelley",
+      "Paul Kelly"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fear-in-the-night.html"
+}

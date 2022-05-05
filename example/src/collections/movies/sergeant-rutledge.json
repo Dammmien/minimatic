@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sergeant Rutledge",
+    "year": 1960,
+    "cast": [
+      "Jeffrey Hunter",
+      "Woody Strode",
+      "Constance Towers"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sergeant-rutledge.html"
+}

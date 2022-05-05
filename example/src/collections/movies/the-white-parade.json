@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The White Parade",
+    "year": 1934,
+    "cast": [
+      "Loretta Young",
+      "John Boles",
+      "Dorothy Wilson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-white-parade.html"
+}

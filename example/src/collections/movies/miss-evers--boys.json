@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Miss Evers' Boys",
+    "year": 1997,
+    "cast": [
+      "Alfre Woodard",
+      "Laurence Fishburne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/miss-evers--boys.html"
+}

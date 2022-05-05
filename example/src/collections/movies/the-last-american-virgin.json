@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last American Virgin",
+    "year": 1982,
+    "cast": [
+      "Lawrence Monoson",
+      "Diane Franklin",
+      "Steve Antin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-last-american-virgin.html"
+}

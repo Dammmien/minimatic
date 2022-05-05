@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "All Over the Guy",
+    "year": 2001,
+    "cast": [
+      "Sasha Alexander",
+      "Dan Bucatinsky",
+      "Adam Goldberg"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/all-over-the-guy.html"
+}

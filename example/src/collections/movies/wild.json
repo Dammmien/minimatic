@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wild",
+    "year": 2014,
+    "cast": [
+      "Reese Witherspoon",
+      "Laura Dern",
+      "Thomas Sadoski",
+      "Michiel Huisman"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/wild.html"
+}

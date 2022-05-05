@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Stop Making Sense",
+    "year": 1984,
+    "cast": [
+      "Talking Heads"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/stop-making-sense.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A House Divided",
+    "year": 1931,
+    "cast": [
+      "Walter Huston",
+      "Helen Chandler"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-house-divided.html"
+}

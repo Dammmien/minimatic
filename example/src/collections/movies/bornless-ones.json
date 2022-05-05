@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Bornless Ones",
+    "year": 2017,
+    "cast": [
+      "Michael Johnston",
+      "Margaret Judson",
+      "Bobby T",
+      "Lana Titova",
+      "Victoria Clare",
+      "Devin Goodsell",
+      "Gwen Holloway",
+      "Mark Furze",
+      "Greg Travis",
+      "Nick Saso",
+      "Rob Tepper",
+      "David Banks"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/bornless-ones.html"
+}

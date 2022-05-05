@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Houseguest",
+    "year": 1995,
+    "cast": [
+      "Sinbad",
+      "Phil Hartman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/houseguest.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ne'er Do-Well",
+    "year": 1923,
+    "cast": [
+      "Thomas Meighan",
+      "Lila Lee",
+      "Gertrude Astor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ne-er-do-well.html"
+}

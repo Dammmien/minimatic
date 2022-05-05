@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Meet Dave",
+    "year": 2008,
+    "cast": [
+      "Eddie Murphy",
+      "Gabrielle Union",
+      "Elizabeth Banks",
+      "Ed Helms"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/meet-dave.html"
+}

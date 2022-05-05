@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Eyes of the World",
+    "year": 1930,
+    "cast": [
+      "Eulalie Jensen",
+      "Hugh Huntley",
+      "Una Merkel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-eyes-of-the-world.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Burn 'Em Up O'Connor",
+    "year": 1939,
+    "cast": [
+      "Dennis O'Keefe",
+      "Cecilia Parker",
+      "Nat Pendleton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/burn--em-up-o-connor.html"
+}

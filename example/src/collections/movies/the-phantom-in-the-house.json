@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Phantom in the House",
+    "year": 1929,
+    "cast": [
+      "Ricardo Cortez",
+      "Nancy Welford"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-phantom-in-the-house.html"
+}

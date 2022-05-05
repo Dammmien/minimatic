@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "House of Strangers",
+    "year": 1949,
+    "cast": [
+      "Edward G. Robinson",
+      "Susan Hayward",
+      "Richard Conte",
+      "Efrem Zimbalist Jr."
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/house-of-strangers.html"
+}

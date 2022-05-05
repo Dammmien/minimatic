@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Woman's Man",
+    "year": 1934,
+    "cast": [
+      "John Halliday",
+      "Marguerite De La Motte"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-woman-s-man.html"
+}

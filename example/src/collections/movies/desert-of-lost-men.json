@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Desert of Lost Men",
+    "year": 1951,
+    "cast": [
+      "Allan Lane",
+      "Mary Ellen Kay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/desert-of-lost-men.html"
+}

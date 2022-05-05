@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Only 38",
+    "year": 1923,
+    "cast": [
+      "May McAvoy",
+      "Lois Wilson",
+      "Elliott Dexter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/only-38.html"
+}

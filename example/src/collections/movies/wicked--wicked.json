@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wicked, Wicked",
+    "year": 1973,
+    "cast": [
+      "David Bailey",
+      "Tiffany Bolling"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/wicked--wicked.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Was a Convict",
+    "year": 1939,
+    "cast": [
+      "Barton MacLane",
+      "Beverly Roberts"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/i-was-a-convict.html"
+}

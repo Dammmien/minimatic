@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Marked Men",
+    "year": 1940,
+    "cast": [
+      "Warren Hull",
+      "Isabel Jewell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/marked-men.html"
+}

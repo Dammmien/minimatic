@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Children of the Night",
+    "year": 1991,
+    "cast": [
+      "Ami Dolenz",
+      "Karen Black"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/children-of-the-night.html"
+}

@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Bowling Alley Cat",
+    "year": 1942,
+    "cast": [],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/the-bowling-alley-cat.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Go West, Young Man",
+    "year": 1936,
+    "cast": [
+      "Mae West",
+      "Warren William",
+      "Alice Brady"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/go-west--young-man.html"
+}

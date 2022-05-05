@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Top Dog",
+    "year": 1995,
+    "cast": [
+      "Chuck Norris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/top-dog.html"
+}

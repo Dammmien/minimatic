@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sundown Trail",
+    "year": 1919,
+    "cast": [
+      "Monroe Salisbury",
+      "Carl Stockdale"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-sundown-trail.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fool's Luck",
+    "year": 1926,
+    "cast": [
+      "Lupino Lane",
+      "George Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fool-s-luck.html"
+}

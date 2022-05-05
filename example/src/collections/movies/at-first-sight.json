@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "At First Sight",
+    "year": 1999,
+    "cast": [
+      "Val Kilmer",
+      "Mira Sorvino",
+      "Kelly McGillis",
+      "Nathan Lane",
+      "Steven Weber"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/at-first-sight.html"
+}

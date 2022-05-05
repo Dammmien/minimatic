@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Les Misérables",
+    "year": 1998,
+    "cast": [
+      "Liam Neeson",
+      "Geoffrey Rush",
+      "Uma Thurman",
+      "Claire Danes"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/les-mis-rables.html"
+}

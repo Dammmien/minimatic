@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Honeymoon Hotel",
+    "year": 1964,
+    "cast": [
+      "Robert Goulet",
+      "Robert Morse",
+      "Nancy Kwan",
+      "Jill St. John",
+      "Elsa Lanchester",
+      "Anne Helm"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/honeymoon-hotel.html"
+}

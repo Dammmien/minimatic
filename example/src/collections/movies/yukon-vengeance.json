@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yukon Vengeance",
+    "year": 1954,
+    "cast": [
+      "Kirby Grant",
+      "Mary Ellen Kay"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/yukon-vengeance.html"
+}

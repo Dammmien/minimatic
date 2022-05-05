@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Substance of Fire",
+    "year": 1996,
+    "cast": [
+      "Ron Rifkin",
+      "Sarah Jessica Parker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-substance-of-fire.html"
+}

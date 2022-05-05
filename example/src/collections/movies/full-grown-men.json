@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Full Grown Men",
+    "year": 2006,
+    "cast": [
+      "Matt McGrath",
+      "Judah Friedlander",
+      "Alan Cumming"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/full-grown-men.html"
+}

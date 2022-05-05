@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Wake Up Screaming",
+    "year": 1941,
+    "cast": [
+      "Betty Grable",
+      "Victor Mature",
+      "Carole Landis"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/i-wake-up-screaming.html"
+}

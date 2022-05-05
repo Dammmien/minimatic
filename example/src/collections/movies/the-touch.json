@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Touch",
+    "year": 1971,
+    "cast": [
+      "Elliott Gould",
+      "Bibi Andersson",
+      "Max von Sydow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-touch.html"
+}

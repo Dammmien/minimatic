@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mystic",
+    "year": 1925,
+    "cast": [
+      "Aileen Pringle",
+      "Conway Tearle"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-mystic.html"
+}

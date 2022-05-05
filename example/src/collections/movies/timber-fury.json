@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Timber Fury",
+    "year": 1950,
+    "cast": [
+      "David Bruce",
+      "Laura Lee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/timber-fury.html"
+}

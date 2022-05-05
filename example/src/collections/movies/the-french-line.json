@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The French Line",
+    "year": 1954,
+    "cast": [
+      "Jane Russell",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-french-line.html"
+}

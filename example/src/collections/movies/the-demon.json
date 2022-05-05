@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Demon",
+    "year": 1926,
+    "cast": [
+      "Jack Hoxie",
+      "Lola Todd"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-demon.html"
+}

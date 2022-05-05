@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Air Mail",
+    "year": 1925,
+    "cast": [
+      "Warner Baxter",
+      "Billie Dove",
+      "Douglas Fairbanks Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-air-mail.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Tummy Trouble",
+    "year": 1989,
+    "cast": [
+      "Roger Rabbit"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/tummy-trouble.html"
+}

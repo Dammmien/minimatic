@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Atomic Blonde",
+    "year": 2017,
+    "cast": [
+      "Charlize Theron",
+      "James McAvoy",
+      "John Goodman",
+      "Sofia Boutella",
+      "Toby Jones",
+      "Eddie Marsan"
+    ],
+    "genres": [
+      "Spy",
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/atomic-blonde.html"
+}

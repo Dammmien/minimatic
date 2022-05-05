@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Tequila Sunrise",
+    "year": 1988,
+    "cast": [
+      "Mel Gibson",
+      "Michelle Pfeiffer",
+      "Kurt Russell",
+      "Raul Julia",
+      "J.T. Walsh",
+      "Arliss Howard"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/tequila-sunrise.html"
+}

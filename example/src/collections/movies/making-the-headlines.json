@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Making the Headlines",
+    "year": 1938,
+    "cast": [
+      "Jack Holt",
+      "Beverly Roberts"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/making-the-headlines.html"
+}

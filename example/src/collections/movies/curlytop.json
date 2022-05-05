@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Curlytop",
+    "year": 1924,
+    "cast": [
+      "Shirley Mason",
+      "Warner Oland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/curlytop.html"
+}

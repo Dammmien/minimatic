@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Thunderhead, Son of Flicka",
+    "year": 1945,
+    "cast": [
+      "Roddy McDowall",
+      "Preston Foster",
+      "Rita Johnson"
+    ],
+    "genres": [
+      "Family",
+      "Drama"
+    ]
+  },
+  "output": "movies/thunderhead--son-of-flicka.html"
+}

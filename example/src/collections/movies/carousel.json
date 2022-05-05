@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Carousel",
+    "year": 1956,
+    "cast": [
+      "Shirley Jones",
+      "Gordon MacRae"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/carousel.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Michael",
+    "year": 1996,
+    "cast": [
+      "John Travolta",
+      "Andie MacDowell",
+      "William Hurt",
+      "Bob Hoskins"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/michael.html"
+}

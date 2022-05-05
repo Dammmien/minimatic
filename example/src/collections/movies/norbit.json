@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Norbit",
+    "year": 2007,
+    "cast": [
+      "Eddie Murphy",
+      "Thandie Newton",
+      "Cuba Gooding, Jr."
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/norbit.html"
+}

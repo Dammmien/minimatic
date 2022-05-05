@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "High Tide",
+    "year": 1947,
+    "cast": [
+      "Lee Tracy",
+      "Julie Bishop"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/high-tide.html"
+}

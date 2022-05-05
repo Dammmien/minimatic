@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Heat's On",
+    "year": 1943,
+    "cast": [
+      "Mae West",
+      "Victor Moore"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-heat-s-on.html"
+}

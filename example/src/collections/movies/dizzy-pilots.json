@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dizzy Pilots",
+    "year": 1943,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/dizzy-pilots.html"
+}

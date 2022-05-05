@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dentist 2",
+    "year": 1998,
+    "cast": [
+      "Corbin Bernsen",
+      "Jillian McWhirter"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-dentist-2.html"
+}

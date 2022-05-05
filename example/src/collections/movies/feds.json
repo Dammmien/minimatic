@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Feds",
+    "year": 1988,
+    "cast": [
+      "Rebecca De Mornay",
+      "Mary Gross"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/feds.html"
+}

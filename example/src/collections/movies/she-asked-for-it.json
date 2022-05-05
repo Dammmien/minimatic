@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "She Asked for It",
+    "year": 1937,
+    "cast": [
+      "William Gargan",
+      "Vivienne Osborne"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-asked-for-it.html"
+}

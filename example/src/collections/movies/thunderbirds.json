@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thunderbirds",
+    "year": 1952,
+    "cast": [
+      "John Derek",
+      "John Drew Barrymore"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/thunderbirds.html"
+}

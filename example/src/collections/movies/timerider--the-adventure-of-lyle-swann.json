@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Timerider: The Adventure of Lyle Swann",
+    "year": 1982,
+    "cast": [
+      "Fred Ward",
+      "Belinda Bauer",
+      "Peter Coyote"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/timerider--the-adventure-of-lyle-swann.html"
+}

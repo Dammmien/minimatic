@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jim Bludso",
+    "year": 1917,
+    "cast": [
+      "Wilfred Lucas",
+      "Olga Grey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jim-bludso.html"
+}

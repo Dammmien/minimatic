@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Gemini",
+    "year": 2018,
+    "cast": [
+      "Lola Kirke",
+      "Zoë Kravitz",
+      "Greta Lee",
+      "Michelle Forbes",
+      "Nelson Franklin",
+      "Reeve Carney",
+      "Jessica Parker Kennedy",
+      "James Ransone",
+      "Ricki Lake",
+      "John Cho"
+    ],
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  "output": "movies/gemini.html"
+}

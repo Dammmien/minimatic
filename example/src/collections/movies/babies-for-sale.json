@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Babies for Sale",
+    "year": 1940,
+    "cast": [
+      "Rochelle Hudson",
+      "Glenn Ford",
+      "Miles Mander"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/babies-for-sale.html"
+}

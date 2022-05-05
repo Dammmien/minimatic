@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ma and Pa Kettle at Home",
+    "year": 1954,
+    "cast": [
+      "Marjorie Main",
+      "Percy Kilbride",
+      "Alan Mowbray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ma-and-pa-kettle-at-home.html"
+}

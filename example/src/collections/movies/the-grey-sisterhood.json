@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Grey Sisterhood",
+    "year": 1916,
+    "cast": [
+      "William Garwood",
+      "Stella LeSaint",
+      "Ogden Crane"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-grey-sisterhood.html"
+}

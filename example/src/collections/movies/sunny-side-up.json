@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Sunny Side Up",
+    "year": 1929,
+    "cast": [
+      "Janet Gaynor",
+      "Marjorie White"
+    ],
+    "genres": [
+      "Romance",
+      "Musical",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/sunny-side-up.html"
+}

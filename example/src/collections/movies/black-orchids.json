@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Black Orchids",
+    "year": 1917,
+    "cast": [
+      "Cleo Madison",
+      "Francis McDonald"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/black-orchids.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "King David",
+    "year": 1985,
+    "cast": [
+      "Richard Gere",
+      "Edward Woodward",
+      "Alice Krige"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/king-david.html"
+}

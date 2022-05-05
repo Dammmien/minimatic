@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Descendants",
+    "year": 2011,
+    "cast": [
+      "George Clooney",
+      "Shailene Woodley",
+      "Beau Bridges",
+      "Judy Greer",
+      "Matthew Lillard"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-descendants.html"
+}

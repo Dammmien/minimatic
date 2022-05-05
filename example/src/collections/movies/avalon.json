@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Avalon",
+    "year": 1990,
+    "cast": [
+      "Aidan Quinn",
+      "Armin Mueller-Stahl",
+      "Joan Plowright",
+      "Elizabeth Perkins",
+      "Kevin Pollak"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/avalon.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "No Time to Marry",
+    "year": 1938,
+    "cast": [
+      "Richard Arlen",
+      "Mary Astor",
+      "Virginia Dale"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/no-time-to-marry.html"
+}

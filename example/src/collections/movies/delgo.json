@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Delgo",
+    "year": 2008,
+    "cast": [
+      "Freddie Prinze, Jr.",
+      "Jennifer Love Hewitt",
+      "Anne Bancroft"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/delgo.html"
+}

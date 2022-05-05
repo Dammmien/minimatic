@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Splendid Hazard",
+    "year": 1920,
+    "cast": [
+      "Henry B. Walthall",
+      "Rosemary Theby"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-splendid-hazard.html"
+}

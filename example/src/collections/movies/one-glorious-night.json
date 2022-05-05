@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Glorious Night",
+    "year": 1924,
+    "cast": [
+      "Elaine Hammerstein",
+      "Alan Roscoe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/one-glorious-night.html"
+}

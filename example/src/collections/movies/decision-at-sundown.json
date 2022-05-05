@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Decision at Sundown",
+    "year": 1957,
+    "cast": [
+      "Randolph Scott",
+      "John Carroll",
+      "Karen Steele"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/decision-at-sundown.html"
+}

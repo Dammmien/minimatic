@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Son of No One",
+    "year": 2011,
+    "cast": [
+      "Channing Tatum",
+      "Tracy Morgan",
+      "Katie Holmes",
+      "Ray Liotta",
+      "Juliette Binoche",
+      "Al Pacino"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-son-of-no-one.html"
+}

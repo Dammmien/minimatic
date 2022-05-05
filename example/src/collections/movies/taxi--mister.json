@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Taxi, Mister",
+    "year": 1943,
+    "cast": [
+      "William Bendix",
+      "Grace Bradley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/taxi--mister.html"
+}

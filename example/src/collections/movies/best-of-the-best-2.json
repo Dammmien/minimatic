@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Best of the Best 2",
+    "year": 1993,
+    "cast": [
+      "Eric Roberts",
+      "Chris Penn"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/best-of-the-best-2.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "New Orleans",
+    "year": 1947,
+    "cast": [
+      "Arturo de Córdova",
+      "Dorothy Patrick",
+      "Marjorie Lord"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/new-orleans.html"
+}

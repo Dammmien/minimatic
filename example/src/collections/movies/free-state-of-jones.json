@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Free State of Jones",
+    "year": 2016,
+    "cast": [
+      "Matthew McConaughey",
+      "Gugu Mbatha-Raw"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/free-state-of-jones.html"
+}

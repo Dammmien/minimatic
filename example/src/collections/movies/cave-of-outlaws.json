@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cave of Outlaws",
+    "year": 1951,
+    "cast": [
+      "Macdonald Carey",
+      "Alexis Smith"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cave-of-outlaws.html"
+}

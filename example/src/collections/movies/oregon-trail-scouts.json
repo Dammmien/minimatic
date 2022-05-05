@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Oregon Trail Scouts",
+    "year": 1947,
+    "cast": [
+      "Allan Lane",
+      "Martha Wentworth"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/oregon-trail-scouts.html"
+}

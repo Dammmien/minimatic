@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Public Eye",
+    "year": 1992,
+    "cast": [
+      "Joe Pesci",
+      "Barbara Hershey",
+      "Stanley Tucci"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-public-eye.html"
+}

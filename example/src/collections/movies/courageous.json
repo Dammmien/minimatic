@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Courageous",
+    "year": 2011,
+    "cast": [
+      "Alex Kendrick",
+      "Ken Bevel",
+      "Kevin Downes",
+      "Ben Davies",
+      "Renee Jewell",
+      "Elanor Brown",
+      "Robert Amaya",
+      "Angelita Nelson",
+      "David Howze",
+      "Tony \"T.C.\" Stallings"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/courageous.html"
+}

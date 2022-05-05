@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Four-Footed Ranger",
+    "year": 1928,
+    "cast": [
+      "Edmund Cobb",
+      "Marjorie Bonner"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-four-footed-ranger.html"
+}

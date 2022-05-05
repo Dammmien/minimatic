@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Maniac Cop 2",
+    "year": 1990,
+    "cast": [
+      "Robert Davi",
+      "Laurene Landon",
+      "Robert Z'Dar",
+      "Bruce Campbell",
+      "Michael Lerner",
+      "Leo Rossi"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/maniac-cop-2.html"
+}

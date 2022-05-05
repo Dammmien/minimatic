@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hear My Song",
+    "year": 1991,
+    "cast": [
+      "Adrian Dunbar",
+      "David McCallum",
+      "Ned Beatty"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hear-my-song.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Boys on the Side",
+    "year": 1995,
+    "cast": [
+      "Whoopi Goldberg",
+      "Mary-Louise Parker",
+      "Drew Barrymore",
+      "Matthew McConaughey",
+      "James Remar"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/boys-on-the-side.html"
+}

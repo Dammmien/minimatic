@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The People's Enemy",
+    "year": 1935,
+    "cast": [
+      "Melvyn Douglas",
+      "Preston Foster",
+      "Lila Lee"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-people-s-enemy.html"
+}

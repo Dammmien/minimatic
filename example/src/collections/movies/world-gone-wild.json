@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "World Gone Wild",
+    "year": 1988,
+    "cast": [
+      "Bruce Dern",
+      "Michael Paré",
+      "Catherine Mary Stewart"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/world-gone-wild.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Trouble Man",
+    "year": 1972,
+    "cast": [
+      "Robert Hooks",
+      "Paula Kelly"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/trouble-man.html"
+}

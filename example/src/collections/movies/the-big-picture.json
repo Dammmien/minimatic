@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Big Picture",
+    "year": 1989,
+    "cast": [
+      "Kevin Bacon",
+      "Martin Short",
+      "Teri Hatcher",
+      "J.T. Walsh",
+      "Michael McKean",
+      "Jennifer Jason Leigh"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-big-picture.html"
+}

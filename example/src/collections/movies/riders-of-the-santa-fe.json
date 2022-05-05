@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riders of the Santa Fe",
+    "year": 1944,
+    "cast": [
+      "Rod Cameron",
+      "Jennifer Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/riders-of-the-santa-fe.html"
+}

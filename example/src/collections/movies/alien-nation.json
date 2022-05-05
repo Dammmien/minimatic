@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Alien Nation",
+    "year": 1988,
+    "cast": [
+      "James Caan",
+      "Mandy Patinkin",
+      "Terence Stamp"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/alien-nation.html"
+}

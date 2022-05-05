@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bandbox",
+    "year": 1919,
+    "cast": [
+      "Doris Kenyon",
+      "Gretchen Hartman"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-bandbox.html"
+}

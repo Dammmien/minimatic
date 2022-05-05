@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dangerous to Know",
+    "year": 1938,
+    "cast": [
+      "Anna May Wong",
+      "Akim Tamiroff",
+      "Gail Patrick"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/dangerous-to-know.html"
+}

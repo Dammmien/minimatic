@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Youth in Oregon",
+    "year": 2017,
+    "cast": [
+      "Frank Langella",
+      "Billy Crudup",
+      "Christina Applegate",
+      "Nicola Peltz",
+      "Josh Lucas",
+      "Mary Kay Place",
+      "Alex Shaffer"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/youth-in-oregon.html"
+}

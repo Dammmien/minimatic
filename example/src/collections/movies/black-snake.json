@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Black Snake",
+    "year": 1973,
+    "cast": [
+      "David Prowse",
+      "Anouska Hempel"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/black-snake.html"
+}

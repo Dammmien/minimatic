@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gunga Din",
+    "year": 1939,
+    "cast": [
+      "Cary Grant",
+      "Victor McLaglen",
+      "Douglas Fairbanks Jr.",
+      "Sam Jaffe"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/gunga-din.html"
+}

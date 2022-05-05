@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hugo Pool",
+    "year": 1997,
+    "cast": [
+      "Alyssa Milano",
+      "Patrick Dempsey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hugo-pool.html"
+}

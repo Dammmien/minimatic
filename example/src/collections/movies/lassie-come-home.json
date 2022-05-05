@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lassie Come Home",
+    "year": 1943,
+    "cast": [
+      "Roddy McDowall",
+      "Donald Crisp",
+      "May Whitty"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/lassie-come-home.html"
+}

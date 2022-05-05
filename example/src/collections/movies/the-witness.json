@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Witness",
+    "year": 1992,
+    "cast": [
+      "Gary Sinise"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/the-witness.html"
+}

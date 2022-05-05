@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Change of Seasons",
+    "year": 1980,
+    "cast": [
+      "Shirley MacLaine",
+      "Anthony Hopkins",
+      "Bo Derek"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/a-change-of-seasons.html"
+}

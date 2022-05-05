@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "White Oleander",
+    "year": 2002,
+    "cast": [
+      "Alison Lohman",
+      "Michelle Pfeiffer",
+      "Robin Wright",
+      "Renée Zellweger"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/white-oleander.html"
+}

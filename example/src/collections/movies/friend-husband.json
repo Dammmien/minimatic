@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Friend Husband",
+    "year": 1918,
+    "cast": [
+      "Madge Kennedy",
+      "Rockliffe Fellowes"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/friend-husband.html"
+}

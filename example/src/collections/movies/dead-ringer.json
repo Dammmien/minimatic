@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dead Ringer",
+    "year": 1964,
+    "cast": [
+      "Bette Davis",
+      "Karl Malden",
+      "Peter Lawford"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dead-ringer.html"
+}

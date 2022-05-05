@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Kinsey",
+    "year": 2004,
+    "cast": [
+      "Liam Neeson",
+      "Laura Linney",
+      "Peter Sarsgaard",
+      "Timothy Hutton",
+      "Chris O'Donnell",
+      "Oliver Platt"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/kinsey.html"
+}

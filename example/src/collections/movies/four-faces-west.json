@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Four Faces West",
+    "year": 1948,
+    "cast": [
+      "Joel McCrea",
+      "Frances Dee",
+      "Charles Bickford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/four-faces-west.html"
+}

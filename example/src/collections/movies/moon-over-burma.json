@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Moon Over Burma",
+    "year": 1940,
+    "cast": [
+      "Dorothy Lamour",
+      "Robert Preston"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/moon-over-burma.html"
+}

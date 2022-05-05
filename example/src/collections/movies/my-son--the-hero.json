@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Son, the Hero",
+    "year": 1943,
+    "cast": [
+      "Patsy Kelly",
+      "Roscoe Karns"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-son--the-hero.html"
+}

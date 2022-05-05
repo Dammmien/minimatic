@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Don't Cost a Thing",
+    "year": 2003,
+    "cast": [
+      "Nick Cannon",
+      "Christina Milian"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-don-t-cost-a-thing.html"
+}

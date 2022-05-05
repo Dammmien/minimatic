@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Song to Song",
+    "year": 2017,
+    "cast": [
+      "Ryan Gosling",
+      "Michael Fassbender",
+      "Rooney Mara",
+      "Natalie Portman",
+      "Christian Bale",
+      "Cate Blanchett",
+      "Benicio del Toro",
+      "Val Kilmer"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/song-to-song.html"
+}

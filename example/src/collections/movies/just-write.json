@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Just Write",
+    "year": 1997,
+    "cast": [
+      "Sherilyn Fenn",
+      "Jeremy Piven"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/just-write.html"
+}

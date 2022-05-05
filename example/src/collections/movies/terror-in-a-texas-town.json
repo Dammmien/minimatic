@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Terror in a Texas Town",
+    "year": 1958,
+    "cast": [
+      "Sterling Hayden",
+      "Sebastian Cabot"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/terror-in-a-texas-town.html"
+}

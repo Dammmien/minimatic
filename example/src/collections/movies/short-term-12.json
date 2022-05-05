@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Short Term 12",
+    "year": 2013,
+    "cast": [
+      "Brie Larson",
+      "John Gallagher, Jr.",
+      "Kaitlyn Dever",
+      "Rami Malek"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/short-term-12.html"
+}

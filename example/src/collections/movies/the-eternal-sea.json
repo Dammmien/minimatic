@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Eternal Sea",
+    "year": 1955,
+    "cast": [
+      "Sterling Hayden",
+      "Alexis Smith"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-eternal-sea.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Raffles",
+    "year": 1939,
+    "cast": [
+      "David Niven",
+      "Olivia De Havilland"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/raffles.html"
+}

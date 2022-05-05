@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Breathless Moment",
+    "year": 1924,
+    "cast": [
+      "William Desmond",
+      "Charlotte Merriam"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-breathless-moment.html"
+}

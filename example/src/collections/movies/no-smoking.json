@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "No Smoking",
+    "year": 1951,
+    "cast": [
+      "Goofy"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/no-smoking.html"
+}

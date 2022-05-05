@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Killer Inside Me",
+    "year": 2010,
+    "cast": [
+      "Casey Affleck",
+      "Kate Hudson",
+      "Jessica Alba",
+      "Ned Beatty",
+      "Elias Koteas",
+      "Tom Bower",
+      "Simon Baker",
+      "Bill Pullman"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-killer-inside-me.html"
+}

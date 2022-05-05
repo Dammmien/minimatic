@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beyond the Forest",
+    "year": 1949,
+    "cast": [
+      "Bette Davis",
+      "Joseph Cotten",
+      "Ruth Roman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beyond-the-forest.html"
+}

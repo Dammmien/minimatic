@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Macumba Love",
+    "year": 1960,
+    "cast": [
+      "Walter Reed",
+      "Ziva Rodann"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/macumba-love.html"
+}

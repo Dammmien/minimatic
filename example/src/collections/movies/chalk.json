@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Chalk",
+    "year": 2006,
+    "cast": [
+      "Chris Mass"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/chalk.html"
+}

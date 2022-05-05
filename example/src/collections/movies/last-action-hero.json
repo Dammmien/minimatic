@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Last Action Hero",
+    "year": 1993,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Austin O'Brien",
+      "Charles Dance",
+      "Anthony Quinn",
+      "F. Murray Abraham",
+      "Mercedes Ruehl",
+      "Tom Noonan",
+      "Robert Prosky",
+      "Art Carney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/last-action-hero.html"
+}

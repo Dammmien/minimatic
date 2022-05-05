@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Apology for Murder",
+    "year": 1945,
+    "cast": [
+      "Ann Savage",
+      "Hugh Beaumont"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/apology-for-murder.html"
+}

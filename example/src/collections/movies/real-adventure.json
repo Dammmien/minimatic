@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Real Adventure",
+    "year": 1922,
+    "cast": [
+      "Florence Vidor",
+      "Clyde Fillmore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/real-adventure.html"
+}

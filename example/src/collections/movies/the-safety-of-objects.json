@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Safety of Objects",
+    "year": 2001,
+    "cast": [
+      "Glenn Close",
+      "Dermot Mulroney",
+      "Patricia Clarkson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-safety-of-objects.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Gilda Live",
+    "year": 1980,
+    "cast": [
+      "Gilda Radner"
+    ],
+    "genres": [
+      "Performance"
+    ]
+  },
+  "output": "movies/gilda-live.html"
+}

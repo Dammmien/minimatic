@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sweet Insanity",
+    "year": 2006,
+    "cast": [
+      "Rebekah Isaacs",
+      "Mackenzie Firgens"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/sweet-insanity.html"
+}

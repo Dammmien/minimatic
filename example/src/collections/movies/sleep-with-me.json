@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sleep with Me",
+    "year": 1994,
+    "cast": [
+      "Meg Tilly",
+      "Eric Stoltz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sleep-with-me.html"
+}

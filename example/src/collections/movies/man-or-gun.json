@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man or Gun",
+    "year": 1958,
+    "cast": [
+      "Macdonald Carey",
+      "Audrey Totter"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/man-or-gun.html"
+}

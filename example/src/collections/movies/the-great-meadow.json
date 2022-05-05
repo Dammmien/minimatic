@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Meadow",
+    "year": 1931,
+    "cast": [
+      "Johnny Mack Brown",
+      "Eleanor Boardman"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-great-meadow.html"
+}

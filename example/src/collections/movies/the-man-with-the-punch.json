@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Man with the Punch",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-man-with-the-punch.html"
+}

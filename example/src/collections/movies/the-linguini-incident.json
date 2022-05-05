@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Linguini Incident",
+    "year": 1991,
+    "cast": [
+      "David Bowie",
+      "Rosanna Arquette"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-linguini-incident.html"
+}

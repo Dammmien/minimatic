@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shipmates Forever",
+    "year": 1935,
+    "cast": [
+      "Dick Powell",
+      "Ruby Keeler"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/shipmates-forever.html"
+}

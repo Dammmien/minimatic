@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fools Rush In",
+    "year": 1997,
+    "cast": [
+      "Matthew Perry",
+      "Salma Hayek"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/fools-rush-in.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Straight Is the Way",
+    "year": 1934,
+    "cast": [
+      "Franchot Tone",
+      "May Robson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/straight-is-the-way.html"
+}

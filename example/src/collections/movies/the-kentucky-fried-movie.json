@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Kentucky Fried Movie",
+    "year": 1977,
+    "cast": [
+      "Donald Sutherland",
+      "Henry Gibson",
+      "Uschi Digard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-kentucky-fried-movie.html"
+}

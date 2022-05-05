@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Separate Tables",
+    "year": 1958,
+    "cast": [
+      "David Niven",
+      "Deborah Kerr",
+      "Burt Lancaster",
+      "Wendy Hiller",
+      "Gladys Cooper",
+      "Rita Hayworth"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/separate-tables.html"
+}

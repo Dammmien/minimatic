@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "She-Wolf of London",
+    "year": 1946,
+    "cast": [
+      "June Lockhart",
+      "Don Porter"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/she-wolf-of-london.html"
+}

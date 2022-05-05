@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Dangerous Maid",
+    "year": 1923,
+    "cast": [
+      "Constance Talmadge",
+      "Conway Tearle",
+      "Charles K. Gerrard"
+    ],
+    "genres": [
+      "Historical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-dangerous-maid.html"
+}

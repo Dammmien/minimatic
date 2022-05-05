@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dr. Jekyll and Ms. Hyde",
+    "year": 1995,
+    "cast": [
+      "Tim Daly",
+      "Sean Young"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dr--jekyll-and-ms--hyde.html"
+}

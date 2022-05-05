@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Mr. Nobody",
+    "year": 1941,
+    "cast": [
+      "Eddie Albert",
+      "Joan Leslie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-great-mr--nobody.html"
+}

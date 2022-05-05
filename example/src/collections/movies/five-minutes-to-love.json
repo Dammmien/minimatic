@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Five Minutes to Love",
+    "year": 1963,
+    "cast": [
+      "Rue McLanahan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/five-minutes-to-love.html"
+}

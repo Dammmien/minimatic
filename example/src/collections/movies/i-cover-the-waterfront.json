@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Cover the Waterfront",
+    "year": 1933,
+    "cast": [
+      "Claudette Colbert",
+      "Ben Lyon",
+      "Ernest Torrence"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-cover-the-waterfront.html"
+}

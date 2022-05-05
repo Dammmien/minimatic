@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Heart of New York",
+    "year": 1932,
+    "cast": [
+      "George Sidney",
+      "Ruth Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-heart-of-new-york.html"
+}

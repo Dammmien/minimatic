@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Thor",
+    "year": 2011,
+    "cast": [
+      "Chris Hemsworth",
+      "Natalie Portman",
+      "Tom Hiddleston",
+      "Stellan Skarsgård",
+      "Colm Feore",
+      "Ray Stevenson",
+      "Idris Elba",
+      "Kat Dennings",
+      "Rene Russo",
+      "Anthony Hopkins"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/thor.html"
+}

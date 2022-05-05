@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "This Woman is Dangerous",
+    "year": 1952,
+    "cast": [
+      "Joan Crawford",
+      "Dennis Morgan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/this-woman-is-dangerous.html"
+}

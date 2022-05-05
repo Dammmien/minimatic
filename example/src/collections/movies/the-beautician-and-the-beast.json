@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Beautician and the Beast",
+    "year": 1997,
+    "cast": [
+      "Fran Drescher",
+      "Timothy Dalton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-beautician-and-the-beast.html"
+}

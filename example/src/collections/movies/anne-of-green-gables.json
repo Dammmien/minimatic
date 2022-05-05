@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Anne of Green Gables",
+    "year": 1934,
+    "cast": [
+      "Anne Shirley",
+      "Helen Westley",
+      "O. P. Heggie"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/anne-of-green-gables.html"
+}

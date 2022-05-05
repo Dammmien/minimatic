@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hollow Man 2",
+    "year": 2006,
+    "cast": [
+      "Christian Slater",
+      "Peter Facinelli",
+      "Laura Regan"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/hollow-man-2.html"
+}

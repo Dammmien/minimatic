@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "McQ",
+    "year": 1974,
+    "cast": [
+      "John Wayne",
+      "Eddie Albert",
+      "Al Lettieri"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/mcq.html"
+}

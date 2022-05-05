@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Santa Fe Marshal",
+    "year": 1940,
+    "cast": [
+      "William Boyd",
+      "Bernadene Hayes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/santa-fe-marshal.html"
+}

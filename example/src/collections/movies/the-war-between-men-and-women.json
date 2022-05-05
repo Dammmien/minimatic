@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The War Between Men and Women",
+    "year": 1972,
+    "cast": [
+      "Jack Lemmon",
+      "Barbara Harris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-war-between-men-and-women.html"
+}

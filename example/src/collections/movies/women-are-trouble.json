@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Women Are Trouble",
+    "year": 1936,
+    "cast": [
+      "Stuart Erwin",
+      "Florence Rice"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/women-are-trouble.html"
+}

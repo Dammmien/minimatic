@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Confidence",
+    "year": 2003,
+    "cast": [
+      "Edward Burns",
+      "Rachel Weisz",
+      "Dustin Hoffman",
+      "Andy García",
+      "Paul Giamatti",
+      "Robert Forster"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/confidence.html"
+}

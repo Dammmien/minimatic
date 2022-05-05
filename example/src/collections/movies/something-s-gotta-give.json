@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Something's Gotta Give",
+    "year": 2003,
+    "cast": [
+      "Jack Nicholson",
+      "Diane Keaton",
+      "Keanu Reeves",
+      "Amanda Peet",
+      "Frances McDormand",
+      "Jon Favreau"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/something-s-gotta-give.html"
+}

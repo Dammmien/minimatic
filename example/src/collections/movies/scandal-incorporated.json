@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scandal Incorporated",
+    "year": 1956,
+    "cast": [
+      "Robert Hutton",
+      "Patricia Wright"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/scandal-incorporated.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sea Wolves",
+    "year": 1980,
+    "cast": [
+      "Roger Moore",
+      "Gregory Peck"
+    ],
+    "genres": [
+      "Action",
+      "War"
+    ]
+  },
+  "output": "movies/the-sea-wolves.html"
+}

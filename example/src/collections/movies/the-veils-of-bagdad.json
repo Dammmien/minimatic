@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Veils of Bagdad",
+    "year": 1953,
+    "cast": [
+      "Victor Mature",
+      "Mari Blanchard"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-veils-of-bagdad.html"
+}

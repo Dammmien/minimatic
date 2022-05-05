@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kiss Me, Kate",
+    "year": 1953,
+    "cast": [
+      "Kathryn Grayson",
+      "Howard Keel",
+      "Ann Miller"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/kiss-me--kate.html"
+}

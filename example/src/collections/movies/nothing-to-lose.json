@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nothing to Lose",
+    "year": 1997,
+    "cast": [
+      "Martin Lawrence",
+      "Tim Robbins",
+      "Kelly Preston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nothing-to-lose.html"
+}

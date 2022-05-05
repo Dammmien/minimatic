@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Gunfighter",
+    "year": 1950,
+    "cast": [
+      "Gregory Peck",
+      "Helen Westcott",
+      "Karl Malden",
+      "Millard Mitchell",
+      "Skip Homeier"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-gunfighter.html"
+}

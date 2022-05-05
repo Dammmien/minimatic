@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Conflict",
+    "year": 1945,
+    "cast": [
+      "Humphrey Bogart",
+      "Alexis Smith",
+      "Sydney Greenstreet"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/conflict.html"
+}

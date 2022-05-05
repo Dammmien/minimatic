@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Shot Jesse James",
+    "year": 1949,
+    "cast": [
+      "Preston Foster",
+      "John Ireland"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/i-shot-jesse-james.html"
+}

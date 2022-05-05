@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Foolish Matrons",
+    "year": 1921,
+    "cast": [
+      "Hobart Bosworth",
+      "Doris May"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-foolish-matrons.html"
+}

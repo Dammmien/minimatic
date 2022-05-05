@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Young Millionaire",
+    "year": 1912,
+    "cast": [
+      "Earle Foxe",
+      "Alice Joyce"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-young-millionaire.html"
+}

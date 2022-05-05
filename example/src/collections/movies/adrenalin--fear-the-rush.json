@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Adrenalin: Fear the Rush",
+    "year": 1996,
+    "cast": [
+      "Christopher Lambert",
+      "Natasha Henstridge"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/adrenalin--fear-the-rush.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Own True Love",
+    "year": 1949,
+    "cast": [
+      "Phyllis Calvert",
+      "Melvyn Douglas",
+      "Wanda Hendrix"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-own-true-love.html"
+}

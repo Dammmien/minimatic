@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Broken Fetters",
+    "year": 1916,
+    "cast": [
+      "Kittens Reichert",
+      "Violet Mersereau"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/broken-fetters.html"
+}

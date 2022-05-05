@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smuggler's Gold",
+    "year": 1951,
+    "cast": [
+      "Cameron Mitchell",
+      "Amanda Blake"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/smuggler-s-gold.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "After.Life",
+    "year": 2009,
+    "cast": [
+      "Christina Ricci",
+      "Liam Neeson",
+      "Justin Long",
+      "Celia Weston"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/after-life.html"
+}

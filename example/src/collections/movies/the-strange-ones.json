@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Strange Ones",
+    "year": 2018,
+    "cast": [
+      "Alex Pettyfer",
+      "James Freedson-Jackson",
+      "Emily Althaus",
+      "Gene Jones",
+      "Owen Campbell",
+      "Tobias Campbell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-strange-ones.html"
+}

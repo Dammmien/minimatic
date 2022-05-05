@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mystery Liner",
+    "year": 1934,
+    "cast": [
+      "Noah Beery",
+      "Astrid Allwyn"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/mystery-liner.html"
+}

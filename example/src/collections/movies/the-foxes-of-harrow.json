@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Foxes of Harrow",
+    "year": 1947,
+    "cast": [
+      "Rex Harrison",
+      "Maureen O'Hara"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-foxes-of-harrow.html"
+}

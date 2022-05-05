@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Swamp Fire",
+    "year": 1946,
+    "cast": [
+      "Johnny Weissmuller",
+      "Buster Crabbe"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/swamp-fire.html"
+}

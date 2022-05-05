@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Africa Speaks!",
+    "year": 1930,
+    "cast": [
+      "Paul Hoefler",
+      "Lowell Thomas"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/africa-speaks-.html"
+}

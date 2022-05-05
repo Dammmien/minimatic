@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Last Shift",
+    "year": 2014,
+    "cast": [
+      "Juliana Harkavy",
+      "Joshua Mikel",
+      "Hank Stone"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/last-shift.html"
+}

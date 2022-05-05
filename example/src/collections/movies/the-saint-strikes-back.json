@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Saint Strikes Back",
+    "year": 1939,
+    "cast": [
+      "George Sanders",
+      "Wendy Barrie"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-saint-strikes-back.html"
+}

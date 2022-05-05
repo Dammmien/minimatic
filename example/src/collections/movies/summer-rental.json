@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Summer Rental",
+    "year": 1985,
+    "cast": [
+      "John Candy",
+      "Richard Crenna",
+      "Rip Torn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/summer-rental.html"
+}

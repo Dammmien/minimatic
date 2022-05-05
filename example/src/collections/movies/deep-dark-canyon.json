@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Deep Dark Canyon",
+    "year": 2012,
+    "cast": [
+      "Ted Levine",
+      "Spencer Treat Clark",
+      "Nick Eversman",
+      "Martin Starr",
+      "Matthew Lillard"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/deep-dark-canyon.html"
+}

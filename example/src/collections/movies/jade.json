@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Jade",
+    "year": 1995,
+    "cast": [
+      "David Caruso",
+      "Chazz Palminteri",
+      "Linda Fiorentino",
+      "Angie Everhart",
+      "Michael Biehn",
+      "Richard Crenna"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/jade.html"
+}

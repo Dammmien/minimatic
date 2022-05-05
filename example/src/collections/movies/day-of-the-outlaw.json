@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Day of the Outlaw",
+    "year": 1959,
+    "cast": [
+      "Robert Ryan",
+      "Burl Ives",
+      "Tina Louise"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/day-of-the-outlaw.html"
+}

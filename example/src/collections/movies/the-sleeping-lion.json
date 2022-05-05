@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sleeping Lion",
+    "year": 1919,
+    "cast": [
+      "Monroe Salisbury",
+      "Rhea Mitchell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-sleeping-lion.html"
+}

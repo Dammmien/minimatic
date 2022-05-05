@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gone in 60 Seconds",
+    "year": 2000,
+    "cast": [
+      "Nicolas Cage",
+      "Giovanni Ribisi",
+      "Angelina Jolie",
+      "Robert Duvall"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/gone-in-60-seconds.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The White Heather",
+    "year": 1919,
+    "cast": [
+      "Holmes Herbert",
+      "Ben Alexander"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-white-heather.html"
+}

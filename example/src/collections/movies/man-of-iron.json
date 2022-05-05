@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man of Iron",
+    "year": 1935,
+    "cast": [
+      "Barton MacLane",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/man-of-iron.html"
+}

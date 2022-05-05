@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No Man of Her Own",
+    "year": 1950,
+    "cast": [
+      "Barbara Stanwyck",
+      "John Lund"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/no-man-of-her-own.html"
+}

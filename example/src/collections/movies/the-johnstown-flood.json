@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Johnstown Flood",
+    "year": 1926,
+    "cast": [
+      "George O'Brien",
+      "Janet Gaynor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-johnstown-flood.html"
+}

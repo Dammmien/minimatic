@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man Friday",
+    "year": 1975,
+    "cast": [
+      "Peter O'Toole",
+      "Richard Roundtree"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/man-friday.html"
+}

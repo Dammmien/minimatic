@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1989,
+    "cast": [
+      "Harrison Ford",
+      "Sean Connery",
+      "Denholm Elliott",
+      "Alison Doody",
+      "Julian Glover",
+      "John Rhys-Davies",
+      "River Phoenix"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/indiana-jones-and-the-last-crusade.html"
+}

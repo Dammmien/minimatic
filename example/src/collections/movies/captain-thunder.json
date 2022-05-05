@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Captain Thunder",
+    "year": 1930,
+    "cast": [
+      "Fay Wray",
+      "Victor Varconi"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/captain-thunder.html"
+}

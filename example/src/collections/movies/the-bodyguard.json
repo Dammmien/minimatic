@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bodyguard",
+    "year": 1992,
+    "cast": [
+      "Kevin Costner",
+      "Whitney Houston"
+    ],
+    "genres": [
+      "Crime",
+      "Romance"
+    ]
+  },
+  "output": "movies/the-bodyguard.html"
+}

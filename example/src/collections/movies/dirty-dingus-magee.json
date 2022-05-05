@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dirty Dingus Magee",
+    "year": 1970,
+    "cast": [
+      "Frank Sinatra",
+      "George Kennedy",
+      "Anne Jackson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/dirty-dingus-magee.html"
+}

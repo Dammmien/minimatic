@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Thief in Paradise",
+    "year": 1925,
+    "cast": [
+      "Doris Kenyon",
+      "Ronald Colman",
+      "Aileen Pringle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-thief-in-paradise.html"
+}

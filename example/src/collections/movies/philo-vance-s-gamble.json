@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Philo Vance's Gamble",
+    "year": 1947,
+    "cast": [
+      "Alan Curtis",
+      "Vivian Austin",
+      "Tala Birell"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/philo-vance-s-gamble.html"
+}

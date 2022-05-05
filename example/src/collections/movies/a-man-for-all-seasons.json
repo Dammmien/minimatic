@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Man for All Seasons",
+    "year": 1988,
+    "cast": [
+      "Charlton Heston",
+      "John Gielgud",
+      "Vanessa Redgrave"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/a-man-for-all-seasons.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bad Medicine",
+    "year": 1985,
+    "cast": [
+      "Steve Guttenberg",
+      "Alan Arkin",
+      "Julie Hagerty",
+      "Curtis Armstrong"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bad-medicine.html"
+}

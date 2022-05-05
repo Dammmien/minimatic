@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ranchers and Rascals",
+    "year": 1925,
+    "cast": [
+      "Leo D. Maloney",
+      "Josephine Hill"
+    ],
+    "genres": [
+      "Comedy",
+      "Western"
+    ]
+  },
+  "output": "movies/ranchers-and-rascals.html"
+}

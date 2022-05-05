@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lightning Rider",
+    "year": 1924,
+    "cast": [
+      "Harry Carey",
+      "Virginia Brown Faire"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-lightning-rider.html"
+}

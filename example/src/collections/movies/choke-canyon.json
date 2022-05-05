@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Choke Canyon",
+    "year": 1986,
+    "cast": [
+      "Stephen Collins",
+      "Bo Svenson",
+      "Lance Henriksen"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/choke-canyon.html"
+}

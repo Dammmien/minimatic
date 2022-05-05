@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Day on Fire",
+    "year": 2006,
+    "cast": [
+      "Olympia Dukakis",
+      "Carmen Chaplin",
+      "Martin Donovan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/day-on-fire.html"
+}

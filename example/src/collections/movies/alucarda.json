@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Alucarda",
+    "year": 1978,
+    "cast": [
+      "Tina Romero",
+      "Susana Kamin",
+      "Claudio Brook"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/alucarda.html"
+}

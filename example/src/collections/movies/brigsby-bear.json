@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Brigsby Bear",
+    "year": 2017,
+    "cast": [
+      "Kyle Mooney",
+      "Mark Hamill",
+      "Claire Danes",
+      "Greg Kinnear",
+      "Andy Samberg",
+      "Matt Walsh",
+      "Michaela Watkins",
+      "Beck Bennett"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/brigsby-bear.html"
+}

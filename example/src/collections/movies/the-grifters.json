@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Grifters",
+    "year": 1990,
+    "cast": [
+      "John Cusack",
+      "Anjelica Huston",
+      "Annette Bening"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-grifters.html"
+}

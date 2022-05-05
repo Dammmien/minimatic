@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Black Sunday",
+    "year": 1977,
+    "cast": [
+      "Robert Shaw",
+      "Bruce Dern",
+      "Marthe Keller"
+    ],
+    "genres": []
+  },
+  "output": "movies/black-sunday.html"
+}

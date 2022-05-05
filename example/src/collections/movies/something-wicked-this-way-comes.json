@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Something Wicked This Way Comes",
+    "year": 1983,
+    "cast": [
+      "Jonathan Pryce",
+      "Jason Robards",
+      "Pam Grier"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/something-wicked-this-way-comes.html"
+}

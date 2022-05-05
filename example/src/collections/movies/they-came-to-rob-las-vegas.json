@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "They Came to Rob Las Vegas",
+    "year": 1968,
+    "cast": [
+      "Gary Lockwood",
+      "Elke Sommer",
+      "Lee J. Cobb"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/they-came-to-rob-las-vegas.html"
+}

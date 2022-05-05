@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Dawn Patrol",
+    "year": 1938,
+    "cast": [
+      "Errol Flynn",
+      "Basil Rathbone",
+      "David Niven"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-dawn-patrol.html"
+}

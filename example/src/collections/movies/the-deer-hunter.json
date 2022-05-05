@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Deer Hunter",
+    "year": 1978,
+    "cast": [
+      "Robert De Niro",
+      "Christopher Walken",
+      "Meryl Streep",
+      "John Savage",
+      "John Cazale"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/the-deer-hunter.html"
+}

@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Chicken Ranch",
+    "year": 1983,
+    "cast": [],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/chicken-ranch.html"
+}

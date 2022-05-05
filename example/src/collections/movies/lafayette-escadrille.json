@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lafayette Escadrille",
+    "year": 1958,
+    "cast": [
+      "Tab Hunter",
+      "David Janssen",
+      "Will Hutchins"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/lafayette-escadrille.html"
+}

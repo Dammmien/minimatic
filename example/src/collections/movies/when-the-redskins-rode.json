@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When the Redskins Rode",
+    "year": 1951,
+    "cast": [
+      "Jon Hall",
+      "Mary Castle"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/when-the-redskins-rode.html"
+}

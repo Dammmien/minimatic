@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Vigilante",
+    "year": 1947,
+    "cast": [
+      "Ralph Byrd"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-vigilante.html"
+}

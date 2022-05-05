@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Counterfeit",
+    "year": 1936,
+    "cast": [
+      "Lloyd Nolan",
+      "Chester Morris",
+      "George McKay"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/counterfeit.html"
+}

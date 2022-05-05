@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Leave It to Susan",
+    "year": 1919,
+    "cast": [
+      "Madge Kennedy",
+      "Wallace MacDonald"
+    ],
+    "genres": [
+      "Comedy",
+      "Western"
+    ]
+  },
+  "output": "movies/leave-it-to-susan.html"
+}

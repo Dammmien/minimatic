@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Covenant",
+    "year": 2006,
+    "cast": [
+      "Steven Strait",
+      "Sebastian Stan",
+      "Laura Ramsey",
+      "Taylor Kitsch"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-covenant.html"
+}

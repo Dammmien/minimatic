@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rage at Dawn",
+    "year": 1955,
+    "cast": [
+      "Randolph Scott",
+      "Forrest Tucker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rage-at-dawn.html"
+}

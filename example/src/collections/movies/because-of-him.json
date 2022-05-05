@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Because of Him",
+    "year": 1946,
+    "cast": [
+      "Deanna Durbin",
+      "Charles Laughton"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/because-of-him.html"
+}

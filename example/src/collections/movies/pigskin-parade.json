@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Pigskin Parade",
+    "year": 1936,
+    "cast": [
+      "Stuart Erwin",
+      "(",
+      "Best Supporting Actor",
+      "nominee)",
+      "Patsy Kelly",
+      "Jack Haley"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/pigskin-parade.html"
+}

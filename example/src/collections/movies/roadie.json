@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Roadie",
+    "year": 1980,
+    "cast": [
+      "Art Carney",
+      "Meat Loaf"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/roadie.html"
+}

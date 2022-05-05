@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bullets or Ballots",
+    "year": 1936,
+    "cast": [
+      "Edward G. Robinson",
+      "Barton MacLane",
+      "Humphrey Bogart"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/bullets-or-ballots.html"
+}

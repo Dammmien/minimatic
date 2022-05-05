@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In His Brother's Place",
+    "year": 1919,
+    "cast": [
+      "Hale Hamilton",
+      "Marguerite Snow"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/in-his-brother-s-place.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Nickel Ride",
+    "year": 1974,
+    "cast": [
+      "Jason Miller",
+      "Linda Haynes"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-nickel-ride.html"
+}

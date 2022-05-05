@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Spring Madness",
+    "year": 1938,
+    "cast": [
+      "Maureen O'Sullivan",
+      "Lew Ayres",
+      "Burgess Meredith"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/spring-madness.html"
+}

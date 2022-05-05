@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "West of the Pecos",
+    "year": 1945,
+    "cast": [
+      "Robert Mitchum",
+      "Barbara Hale"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/west-of-the-pecos.html"
+}

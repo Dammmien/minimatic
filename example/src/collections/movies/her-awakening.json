@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Her Awakening",
+    "year": 1911,
+    "cast": [
+      "Mabel Normand",
+      "Harry Hyde"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/her-awakening.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Once Upon a Time",
+    "year": 1944,
+    "cast": [
+      "Cary Grant",
+      "Janet Blair"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/once-upon-a-time.html"
+}

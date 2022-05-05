@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "An American Werewolf in London",
+    "year": 1981,
+    "cast": [
+      "David Naughton",
+      "Griffin Dunne"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/an-american-werewolf-in-london.html"
+}

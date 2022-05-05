@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Storm Fear",
+    "year": 1955,
+    "cast": [
+      "Cornel Wilde",
+      "Jean Wallace",
+      "Lee Grant"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/storm-fear.html"
+}

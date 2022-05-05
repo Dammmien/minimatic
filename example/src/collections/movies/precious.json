@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Precious",
+    "year": 2009,
+    "cast": [
+      "Mo'Nique",
+      "Paula Patton",
+      "Mariah Carey",
+      "Lenny Kravitz",
+      "Sherri Shepherd",
+      "Gabourey Sidibe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/precious.html"
+}

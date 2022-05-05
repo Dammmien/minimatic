@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Burning Up Broadway",
+    "year": 1928,
+    "cast": [
+      "Helene Costello",
+      "Robert Frazer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/burning-up-broadway.html"
+}

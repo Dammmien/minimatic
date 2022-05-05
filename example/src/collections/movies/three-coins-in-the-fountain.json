@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Three Coins in the Fountain",
+    "year": 1954,
+    "cast": [
+      "Clifton Webb",
+      "Dorothy McGuire",
+      "Jean Peters",
+      "Rossano Brazzi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/three-coins-in-the-fountain.html"
+}

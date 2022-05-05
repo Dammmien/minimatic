@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Here Comes the Navy",
+    "year": 1934,
+    "cast": [
+      "James Cagney",
+      "Pat O'Brien",
+      "Gloria Stuart"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/here-comes-the-navy.html"
+}

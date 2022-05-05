@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Seventh Day",
+    "year": 1922,
+    "cast": [
+      "Richard Barthelmess",
+      "Frank Losee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-seventh-day.html"
+}

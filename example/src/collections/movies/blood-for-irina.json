@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Blood for Irina",
+    "year": 2012,
+    "cast": [
+      "Shauna Henry",
+      "Carrie Gemmell",
+      "David Goodfellow",
+      "Andre Becker",
+      "Mark Goodfellow"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/blood-for-irina.html"
+}

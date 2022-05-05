@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chain of Evidence",
+    "year": 1957,
+    "cast": [
+      "Bill Elliott",
+      "Jimmy Lydon"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/chain-of-evidence.html"
+}

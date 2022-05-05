@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Jazz Girl",
+    "year": 1926,
+    "cast": [
+      "Gaston Glass",
+      "Edith Roberts"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-jazz-girl.html"
+}

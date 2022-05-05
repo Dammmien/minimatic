@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Crime Wave",
+    "year": 1954,
+    "cast": [
+      "Sterling Hayden",
+      "Gene Nelson",
+      "Ted de Corsia",
+      "Phyllis Kirk"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/crime-wave.html"
+}

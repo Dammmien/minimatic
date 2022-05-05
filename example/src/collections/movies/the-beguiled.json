@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Beguiled",
+    "year": 2017,
+    "cast": [
+      "Colin Farrell",
+      "Nicole Kidman",
+      "Kirsten Dunst",
+      "Elle Fanning",
+      "Angourie Rice",
+      "Oona Laurence"
+    ],
+    "genres": [
+      "Drama",
+      "Western"
+    ]
+  },
+  "output": "movies/the-beguiled.html"
+}

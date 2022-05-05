@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Decoding Annie Parker",
+    "year": 2014,
+    "cast": [
+      "Samantha Morton",
+      "Helen Hunt",
+      "Aaron Paul"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/decoding-annie-parker.html"
+}

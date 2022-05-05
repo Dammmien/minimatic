@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Vintage",
+    "year": 1957,
+    "cast": [
+      "Pier Angeli",
+      "Mel Ferrer",
+      "John Kerr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-vintage.html"
+}

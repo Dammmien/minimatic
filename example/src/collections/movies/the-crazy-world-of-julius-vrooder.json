@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Crazy World of Julius Vrooder",
+    "year": 1974,
+    "cast": [
+      "Timothy Bottoms",
+      "Barbara Hershey",
+      "Albert Salmi",
+      "George Marshall"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-crazy-world-of-julius-vrooder.html"
+}

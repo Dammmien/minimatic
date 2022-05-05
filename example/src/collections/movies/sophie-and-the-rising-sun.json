@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Sophie and the Rising Sun",
+    "year": 2017,
+    "cast": [
+      "Julianne Nicholson",
+      "Margo Martindale",
+      "Lorraine Toussaint",
+      "Takashi Yamaguchi",
+      "Diane Ladd"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/sophie-and-the-rising-sun.html"
+}

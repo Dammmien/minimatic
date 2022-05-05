@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Big Mommas: Like Father, Like Son",
+    "year": 2011,
+    "cast": [
+      "Martin Lawrence",
+      "Brandon T. Jackson",
+      "Jessica Lucas",
+      "Tony Curran",
+      "Faizon Love",
+      "Sherri Shepherd",
+      "Portia Doubleday"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/big-mommas--like-father--like-son.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Top Banana",
+    "year": 1954,
+    "cast": [
+      "Phil Silvers",
+      "Rose Marie"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/top-banana.html"
+}

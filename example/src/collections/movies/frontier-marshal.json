@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Frontier Marshal",
+    "year": 1939,
+    "cast": [
+      "Randolph Scott",
+      "Nancy Kelly",
+      "Cesar Romero"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/frontier-marshal.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Twelve Hours to Kill",
+    "year": 1960,
+    "cast": [
+      "Nico Minardos",
+      "Barbara Eden",
+      "Russ Conway"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/twelve-hours-to-kill.html"
+}

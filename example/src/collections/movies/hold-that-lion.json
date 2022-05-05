@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hold That Lion",
+    "year": 1926,
+    "cast": [
+      "Douglas MacLean",
+      "Walter Hiers",
+      "Constance Howard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hold-that-lion.html"
+}

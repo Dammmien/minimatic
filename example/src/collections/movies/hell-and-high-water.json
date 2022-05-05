@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell and High Water",
+    "year": 1954,
+    "cast": [
+      "Richard Widmark",
+      "Bella Darvi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hell-and-high-water.html"
+}

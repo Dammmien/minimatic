@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Kiss the Sky",
+    "year": 1999,
+    "cast": [
+      "William Petersen",
+      "Gary Cole",
+      "Sheryl Lee",
+      "Terence Stamp"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kiss-the-sky.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Let's Go",
+    "year": 1923,
+    "cast": [
+      "Richard Talmadge",
+      "Eileen Percy"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/let-s-go.html"
+}

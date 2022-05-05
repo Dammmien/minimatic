@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Resident Evil: Extinction",
+    "year": 2007,
+    "cast": [
+      "Milla Jovovich",
+      "Ali Larter"
+    ],
+    "genres": [
+      "Action",
+      "Horror"
+    ]
+  },
+  "output": "movies/resident-evil--extinction.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Abby",
+    "year": 1974,
+    "cast": [
+      "Carol Speed",
+      "Juanita Moore"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/abby.html"
+}

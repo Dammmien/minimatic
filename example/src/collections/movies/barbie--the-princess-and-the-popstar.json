@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Barbie: The Princess and the Popstar",
+    "year": 2012,
+    "cast": [
+      "Kelly Sheridan",
+      "Ellie King",
+      "Jonathan Holmes",
+      "Allison Warnyca"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/barbie--the-princess-and-the-popstar.html"
+}

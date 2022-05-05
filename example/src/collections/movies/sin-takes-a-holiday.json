@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sin Takes a Holiday",
+    "year": 1930,
+    "cast": [
+      "Constance Bennett",
+      "Basil Rathbone"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/sin-takes-a-holiday.html"
+}

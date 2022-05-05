@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Just One of the Guys",
+    "year": 1985,
+    "cast": [
+      "Joyce Hyser",
+      "Sherilyn Fenn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/just-one-of-the-guys.html"
+}

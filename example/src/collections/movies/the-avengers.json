@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "The Avengers",
+    "year": 2012,
+    "cast": [
+      "Robert Downey, Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth",
+      "Scarlett Johansson",
+      "Jeremy Renner",
+      "Tom Hiddleston",
+      "Clark Gregg",
+      "Cobie Smulders",
+      "Stellan Skarsgård",
+      "Samuel L. Jackson"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/the-avengers.html"
+}

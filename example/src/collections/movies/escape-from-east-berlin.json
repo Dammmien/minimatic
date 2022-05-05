@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Escape from East Berlin",
+    "year": 1962,
+    "cast": [
+      "Don Murray",
+      "Christine Kaufmann",
+      "Werner Klemperer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/escape-from-east-berlin.html"
+}

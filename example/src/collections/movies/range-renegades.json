@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Range Renegades",
+    "year": 1948,
+    "cast": [
+      "Jimmy Wakely",
+      "Dub Taylor",
+      "Jennifer Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/range-renegades.html"
+}

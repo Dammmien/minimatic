@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Scarlet Empress",
+    "year": 1934,
+    "cast": [
+      "Marlene Dietrich",
+      "John Lodge",
+      "Sam Jaffe"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-scarlet-empress.html"
+}

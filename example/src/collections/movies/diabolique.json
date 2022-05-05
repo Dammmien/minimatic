@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Diabolique",
+    "year": 1996,
+    "cast": [
+      "Sharon Stone",
+      "Isabelle Adjani",
+      "Chazz Palminteri",
+      "Kathy Bates"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/diabolique.html"
+}

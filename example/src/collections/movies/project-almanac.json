@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Project Almanac",
+    "year": 2015,
+    "cast": [
+      "Sofia Black D'Elia",
+      "Jonny Weston",
+      "Allen Evangelista",
+      "Virginia Gardner"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/project-almanac.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Adult Beginners",
+    "year": 2015,
+    "cast": [
+      "Nick Kroll",
+      "Rose Byrne",
+      "Bobby Cannavale",
+      "Joel McHale"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/adult-beginners.html"
+}

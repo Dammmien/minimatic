@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Bruce Willis",
+      "Uma Thurman",
+      "Ving Rhames",
+      "Harvey Keitel",
+      "Christopher Walken",
+      "Amanda Plummer",
+      "Tim Roth",
+      "Frank Whaley",
+      "Eric Stoltz"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/pulp-fiction.html"
+}

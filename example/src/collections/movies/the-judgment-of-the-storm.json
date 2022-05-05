@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Judgment of the Storm",
+    "year": 1924,
+    "cast": [
+      "Lloyd Hughes",
+      "Lucille Ricksen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-judgment-of-the-storm.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rose of the West",
+    "year": 1919,
+    "cast": [
+      "Madlaine Traverse",
+      "Tom Santschi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rose-of-the-west.html"
+}

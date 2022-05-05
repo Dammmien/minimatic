@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dead Man's Gold",
+    "year": 1948,
+    "cast": [
+      "Lash La Rue",
+      "Al St. John",
+      "Peggy Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/dead-man-s-gold.html"
+}

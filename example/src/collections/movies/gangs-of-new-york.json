@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Gangs of New York",
+    "year": 2002,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Daniel Day-Lewis",
+      "Cameron Diaz",
+      "Liam Neeson",
+      "Henry Thomas",
+      "Jim Broadbent",
+      "Brendan Gleeson"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/gangs-of-new-york.html"
+}

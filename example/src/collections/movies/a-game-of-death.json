@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Game of Death",
+    "year": 1945,
+    "cast": [
+      "Audrey Long",
+      "John Loder"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/a-game-of-death.html"
+}

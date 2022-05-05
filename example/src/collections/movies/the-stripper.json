@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Stripper",
+    "year": 1963,
+    "cast": [
+      "Joanne Woodward",
+      "Richard Beymer",
+      "Claire Trevor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-stripper.html"
+}

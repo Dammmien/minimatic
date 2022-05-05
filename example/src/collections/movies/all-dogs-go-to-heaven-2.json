@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "All Dogs Go to Heaven 2",
+    "year": 1996,
+    "cast": [
+      "Ernest Borgnine",
+      "Bebe Neuwirth",
+      "Charlie Sheen",
+      "Dom DeLuise",
+      "Sheena Easton"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/all-dogs-go-to-heaven-2.html"
+}

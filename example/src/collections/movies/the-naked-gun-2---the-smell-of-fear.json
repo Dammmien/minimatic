@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Naked Gun 2½: The Smell of Fear",
+    "year": 1991,
+    "cast": [
+      "Leslie Nielsen",
+      "Priscilla Presley",
+      "George Kennedy",
+      "O. J. Simpson",
+      "Robert Goulet"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-naked-gun-2---the-smell-of-fear.html"
+}

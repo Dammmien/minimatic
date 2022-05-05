@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Man Called Sarge",
+    "year": 1990,
+    "cast": [
+      "Gary Kroeger",
+      "Marc Singer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-man-called-sarge.html"
+}

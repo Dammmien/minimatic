@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chinese Coffee",
+    "year": 2000,
+    "cast": [
+      "Al Pacino",
+      "Jerry Orbach"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/chinese-coffee.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Story of Temple Drake",
+    "year": 1933,
+    "cast": [
+      "Miriam Hopkins",
+      "Jack La Rue"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-story-of-temple-drake.html"
+}

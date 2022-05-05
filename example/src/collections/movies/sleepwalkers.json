@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sleepwalkers",
+    "year": 1992,
+    "cast": [
+      "Brian Krause",
+      "Alice Krige",
+      "Madchen Amick"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/sleepwalkers.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Stage Fright",
+    "year": 2014,
+    "cast": [
+      "Allie MacDonald",
+      "Minnie Driver",
+      "Meat Loaf",
+      "Brandon Uranowitz"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/stage-fright.html"
+}

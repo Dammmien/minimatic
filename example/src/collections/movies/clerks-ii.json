@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Clerks II",
+    "year": 2006,
+    "cast": [
+      "Brian O'Halloran",
+      "Jeff Anderson",
+      "Rosario Dawson",
+      "Jason Mewes",
+      "Kevin Smith",
+      "Trevor Fehrman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/clerks-ii.html"
+}

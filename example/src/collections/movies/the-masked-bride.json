@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Masked Bride",
+    "year": 1925,
+    "cast": [
+      "Mae Murray",
+      "Francis X. Bushman"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-masked-bride.html"
+}

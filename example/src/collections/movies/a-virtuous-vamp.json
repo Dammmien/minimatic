@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Virtuous Vamp",
+    "year": 1919,
+    "cast": [
+      "Constance Talmadge",
+      "Conway Tearle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-virtuous-vamp.html"
+}

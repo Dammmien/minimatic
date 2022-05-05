@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ladies to Board",
+    "year": 1924,
+    "cast": [
+      "Tom Mix",
+      "Gertrude Olmstead"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ladies-to-board.html"
+}

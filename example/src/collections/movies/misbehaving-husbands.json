@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Misbehaving Husbands",
+    "year": 1940,
+    "cast": [
+      "Betty Blythe",
+      "Harry Langdon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/misbehaving-husbands.html"
+}

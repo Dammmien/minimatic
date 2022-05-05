@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Petticoat Fever",
+    "year": 1936,
+    "cast": [
+      "Robert Montgomery",
+      "Myrna Loy",
+      "Reginald Owen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/petticoat-fever.html"
+}

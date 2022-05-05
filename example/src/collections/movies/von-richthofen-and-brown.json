@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Von Richthofen and Brown",
+    "year": 1971,
+    "cast": [
+      "John Phillip Law",
+      "Don Stroud"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/von-richthofen-and-brown.html"
+}

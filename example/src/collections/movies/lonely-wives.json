@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lonely Wives",
+    "year": 1931,
+    "cast": [
+      "Edward Everett Horton",
+      "Laura La Plante",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lonely-wives.html"
+}

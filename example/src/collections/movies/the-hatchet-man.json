@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hatchet Man",
+    "year": 1932,
+    "cast": [
+      "Edward G. Robinson",
+      "Loretta Young"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-hatchet-man.html"
+}

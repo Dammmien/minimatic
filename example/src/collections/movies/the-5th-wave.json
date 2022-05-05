@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The 5th Wave",
+    "year": 2016,
+    "cast": [
+      "Chloë Grace Moretz",
+      "Liev Schreiber"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-5th-wave.html"
+}

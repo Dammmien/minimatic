@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lost Money",
+    "year": 1919,
+    "cast": [
+      "Madlaine Traverse",
+      "Henry Hebert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lost-money.html"
+}

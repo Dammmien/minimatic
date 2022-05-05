@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Twelve O'Clock High",
+    "year": 1949,
+    "cast": [
+      "Gregory Peck",
+      "Gary Merrill",
+      "Dean Jagger"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/twelve-o-clock-high.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Guttersnipe",
+    "year": 1922,
+    "cast": [
+      "Gladys Walton",
+      "Jack Perrin"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-guttersnipe.html"
+}

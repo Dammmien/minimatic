@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Right Stuff",
+    "year": 1983,
+    "cast": [
+      "Ed Harris",
+      "Scott Glenn",
+      "Dennis Quaid",
+      "Fred Ward",
+      "Sam Shepard",
+      "Charles Frank",
+      "Lance Henriksen"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-right-stuff.html"
+}

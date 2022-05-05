@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lords of the Deep",
+    "year": 1989,
+    "cast": [
+      "Bradford Dillman",
+      "Priscilla Barnes"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/lords-of-the-deep.html"
+}

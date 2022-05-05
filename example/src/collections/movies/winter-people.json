@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Winter People",
+    "year": 1989,
+    "cast": [
+      "Kurt Russell",
+      "Kelly McGillis",
+      "Lloyd Bridges"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/winter-people.html"
+}

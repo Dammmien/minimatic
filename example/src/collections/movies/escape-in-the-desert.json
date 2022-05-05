@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Escape in the Desert",
+    "year": 1945,
+    "cast": [
+      "Jean Sullivan",
+      "Philip Dorn",
+      "Irene Manning"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/escape-in-the-desert.html"
+}

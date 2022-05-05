@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Edge of Darkness",
+    "year": 2010,
+    "cast": [
+      "Mel Gibson",
+      "Ray Winstone",
+      "Danny Huston",
+      "Bojana Novakovic",
+      "Shawn Roberts",
+      "Gbenga Akinnagbe"
+    ],
+    "genres": [
+      "Action",
+      "Drama"
+    ]
+  },
+  "output": "movies/edge-of-darkness.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Signpost to Murder",
+    "year": 1964,
+    "cast": [
+      "Joanne Woodward",
+      "Stuart Whitman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/signpost-to-murder.html"
+}

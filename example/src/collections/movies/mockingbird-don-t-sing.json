@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mockingbird Don't Sing",
+    "year": 2001,
+    "cast": [
+      "Tarra Steele",
+      "Melissa Errico",
+      "Sean Young",
+      "Kim Darby"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mockingbird-don-t-sing.html"
+}

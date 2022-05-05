@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Coneheads",
+    "year": 1993,
+    "cast": [
+      "Dan Aykroyd",
+      "Jane Curtin",
+      "Michelle Burke"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/coneheads.html"
+}

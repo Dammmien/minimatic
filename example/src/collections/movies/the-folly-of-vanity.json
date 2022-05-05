@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Folly of Vanity",
+    "year": 1924,
+    "cast": [
+      "Billie Dove",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-folly-of-vanity.html"
+}

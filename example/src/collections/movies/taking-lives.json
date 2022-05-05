@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Taking Lives",
+    "year": 2004,
+    "cast": [
+      "Angelina Jolie",
+      "Ethan Hawke",
+      "Kiefer Sutherland",
+      "Olivier Martinez",
+      "Gena Rowlands"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/taking-lives.html"
+}

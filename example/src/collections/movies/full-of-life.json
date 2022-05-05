@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Full of Life",
+    "year": 1956,
+    "cast": [
+      "Judy Holliday",
+      "Richard Conte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/full-of-life.html"
+}

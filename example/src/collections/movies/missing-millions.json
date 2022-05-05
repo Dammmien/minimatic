@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Missing Millions",
+    "year": 1922,
+    "cast": [
+      "Alice Brady",
+      "David Powell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/missing-millions.html"
+}

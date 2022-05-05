@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Next Corner",
+    "year": 1924,
+    "cast": [
+      "Dorothy Mackaill",
+      "Lon Chaney",
+      "Conway Tearle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-next-corner.html"
+}

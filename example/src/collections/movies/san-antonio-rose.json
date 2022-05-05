@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "San Antonio Rose",
+    "year": 1941,
+    "cast": [
+      "Jane Frazee",
+      "Eve Arden"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/san-antonio-rose.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wine, Women and Song",
+    "year": 1933,
+    "cast": [
+      "Lilyan Tashman",
+      "Lew Cody"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wine--women-and-song.html"
+}

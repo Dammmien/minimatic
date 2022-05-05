@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Living Idol",
+    "year": 1957,
+    "cast": [
+      "Steve Forrest",
+      "Liliane Montevecchi"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-living-idol.html"
+}

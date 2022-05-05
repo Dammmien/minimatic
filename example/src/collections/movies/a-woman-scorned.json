@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Woman Scorned",
+    "year": 1999,
+    "cast": [
+      "Marcia Johnson"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/a-woman-scorned.html"
+}

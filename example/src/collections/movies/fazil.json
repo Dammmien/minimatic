@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fazil",
+    "year": 1928,
+    "cast": [
+      "Charles Farrell",
+      "Greta Nissen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fazil.html"
+}

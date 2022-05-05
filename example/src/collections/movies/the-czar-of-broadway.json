@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Czar of Broadway",
+    "year": 1930,
+    "cast": [
+      "John Wray",
+      "Betty Compson",
+      "Claud Allister"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-czar-of-broadway.html"
+}

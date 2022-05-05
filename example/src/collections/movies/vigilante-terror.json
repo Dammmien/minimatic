@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Vigilante Terror",
+    "year": 1953,
+    "cast": [
+      "Wild Bill Elliott",
+      "Mary Ellen Kay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/vigilante-terror.html"
+}

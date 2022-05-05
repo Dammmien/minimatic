@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silent Men",
+    "year": 1933,
+    "cast": [
+      "Tim McCoy",
+      "J. Carrol Naish"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/silent-men.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Temptress",
+    "year": 1926,
+    "cast": [
+      "Greta Garbo",
+      "Antonio Moreno"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-temptress.html"
+}

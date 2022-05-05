@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Interrupted Melody",
+    "year": 1955,
+    "cast": [
+      "Glenn Ford",
+      "Eleanor Parker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/interrupted-melody.html"
+}

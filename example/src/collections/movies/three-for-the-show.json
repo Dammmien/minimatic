@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three for the Show",
+    "year": 1955,
+    "cast": [
+      "Betty Grable",
+      "Jack Lemmon",
+      "Gower Champion"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/three-for-the-show.html"
+}

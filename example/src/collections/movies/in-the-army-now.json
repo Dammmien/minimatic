@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In the Army Now",
+    "year": 1994,
+    "cast": [
+      "Pauly Shore",
+      "Andy Dick",
+      "Lori Petty"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/in-the-army-now.html"
+}

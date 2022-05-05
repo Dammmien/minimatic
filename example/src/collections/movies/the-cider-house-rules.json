@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Cider House Rules",
+    "year": 1999,
+    "cast": [
+      "Tobey Maguire",
+      "Michael Caine",
+      "Charlize Theron",
+      "Paul Rudd",
+      "Delroy Lindo",
+      "Jane Alexander",
+      "Kathy Baker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-cider-house-rules.html"
+}

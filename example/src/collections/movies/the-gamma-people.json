@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gamma People",
+    "year": 1955,
+    "cast": [
+      "Paul Douglas",
+      "Eva Bartok"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-gamma-people.html"
+}

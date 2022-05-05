@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "55 Days at Peking",
+    "year": 1963,
+    "cast": [
+      "Charlton Heston",
+      "Ava Gardner",
+      "David Niven"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/55-days-at-peking.html"
+}

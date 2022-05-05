@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Prowler",
+    "year": 1981,
+    "cast": [
+      "Vicky Dawson",
+      "Christopher Goutman"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-prowler.html"
+}

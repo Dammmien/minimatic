@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Flamarion",
+    "year": 1945,
+    "cast": [
+      "Eric von Stroheim",
+      "Mary Beth Hughes"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-great-flamarion.html"
+}

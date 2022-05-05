@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "P.U.N.K.S.",
+    "year": 1999,
+    "cast": [
+      "Tim Redwine",
+      "Jessica Alba",
+      "Brandon Baker"
+    ],
+    "genres": [
+      "Teen",
+      "Comedy"
+    ]
+  },
+  "output": "movies/p-u-n-k-s-.html"
+}

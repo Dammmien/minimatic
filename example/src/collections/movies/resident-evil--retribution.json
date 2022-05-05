@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Resident Evil: Retribution",
+    "year": 2012,
+    "cast": [
+      "Milla Jovovich",
+      "Michelle Rodriguez",
+      "Kevin Durand",
+      "Sienna Guillory",
+      "Shawn Roberts",
+      "Aryana Engineer",
+      "Colin Salmon",
+      "Johann Urb",
+      "Boris Kodjoe",
+      "Li Bingbing",
+      "Oded Fehr",
+      "Mika Nakashima"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/resident-evil--retribution.html"
+}

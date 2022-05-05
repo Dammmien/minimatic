@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pirates of the Sky",
+    "year": 1926,
+    "cast": [
+      "Wanda Hawley",
+      "Crauford Kent"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/pirates-of-the-sky.html"
+}

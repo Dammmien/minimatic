@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One More Time",
+    "year": 1970,
+    "cast": [
+      "Sammy Davis, Jr.",
+      "Peter Lawford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-more-time.html"
+}

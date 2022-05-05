@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Road to Utopia",
+    "year": 1946,
+    "cast": [
+      "Bing Crosby",
+      "Bob Hope",
+      "Dorothy Lamour"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/road-to-utopia.html"
+}

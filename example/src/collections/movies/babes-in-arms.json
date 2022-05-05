@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Babes in Arms",
+    "year": 1939,
+    "cast": [
+      "Mickey Rooney",
+      "Judy Garland",
+      "Charles Winninger",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/babes-in-arms.html"
+}

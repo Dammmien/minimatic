@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Before Breakfast",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/before-breakfast.html"
+}

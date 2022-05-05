@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hit Parade of 1951",
+    "year": 1950,
+    "cast": [
+      "Marie McDonald",
+      "John Carroll"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hit-parade-of-1951.html"
+}

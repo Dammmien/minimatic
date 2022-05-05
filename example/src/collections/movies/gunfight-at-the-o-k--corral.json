@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Gunfight at the O.K. Corral",
+    "year": 1957,
+    "cast": [
+      "Kirk Douglas",
+      "Burt Lancaster",
+      "DeForest Kelley",
+      "Rhonda Fleming",
+      "Jo Van Fleet",
+      "Dennis Hopper"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gunfight-at-the-o-k--corral.html"
+}

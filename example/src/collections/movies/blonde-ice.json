@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blonde Ice",
+    "year": 1948,
+    "cast": [
+      "Robert Paige",
+      "Leslie Brooks"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/blonde-ice.html"
+}

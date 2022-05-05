@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Coins in the Fountain",
+    "year": 1990,
+    "cast": [
+      "Loni Anderson",
+      "Stepfanie Kramer"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/coins-in-the-fountain.html"
+}

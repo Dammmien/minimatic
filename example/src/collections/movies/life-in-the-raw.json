@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Life in the Raw",
+    "year": 1933,
+    "cast": [
+      "George O'Brien",
+      "Claire Trevor",
+      "Greta Nissen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/life-in-the-raw.html"
+}

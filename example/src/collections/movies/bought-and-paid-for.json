@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bought and Paid For",
+    "year": 1922,
+    "cast": [
+      "Agnes Ayres",
+      "Jack Holt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bought-and-paid-for.html"
+}

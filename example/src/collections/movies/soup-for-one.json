@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Soup for One",
+    "year": 1982,
+    "cast": [
+      "Saul Rubinek",
+      "Marcia Strassman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/soup-for-one.html"
+}

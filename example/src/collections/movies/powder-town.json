@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Powder Town",
+    "year": 1942,
+    "cast": [
+      "Edmond O'Brien",
+      "Victor McLaglen",
+      "June Havoc"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/powder-town.html"
+}

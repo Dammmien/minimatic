@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Atomic Train",
+    "year": 1999,
+    "cast": [
+      "Rob Lowe",
+      "Kristin Davis",
+      "Esai Morales",
+      "John Finn"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/atomic-train.html"
+}

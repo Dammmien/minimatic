@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Deadline at Dawn",
+    "year": 1946,
+    "cast": [
+      "Susan Hayward",
+      "Paul Lukas",
+      "Bill Williams"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/deadline-at-dawn.html"
+}

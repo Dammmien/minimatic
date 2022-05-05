@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Private Lives of Adam and Eve",
+    "year": 1960,
+    "cast": [
+      "Mickey Rooney",
+      "Mamie Van Doren",
+      "Mel Tormé",
+      "Tuesday Weld",
+      "Fay Spain",
+      "Paul Anka"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-private-lives-of-adam-and-eve.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Frankenstein Meets the Wolf Man",
+    "year": 1943,
+    "cast": [
+      "Lon Chaney Jr.",
+      "Bela Lugosi"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/frankenstein-meets-the-wolf-man.html"
+}

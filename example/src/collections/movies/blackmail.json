@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blackmail",
+    "year": 1947,
+    "cast": [
+      "Ricardo Cortez",
+      "Adele Mara"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/blackmail.html"
+}

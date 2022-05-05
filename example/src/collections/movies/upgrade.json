@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Upgrade",
+    "year": 2018,
+    "cast": [
+      "Logan Marshall-Green",
+      "Betty Gabriel",
+      "Harrison Gilbertson",
+      "Benedict Hardie"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Action"
+    ]
+  },
+  "output": "movies/upgrade.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Caught in the Fog",
+    "year": 1928,
+    "cast": [
+      "May McAvoy",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/caught-in-the-fog.html"
+}

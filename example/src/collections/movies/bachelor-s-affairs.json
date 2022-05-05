@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bachelor's Affairs",
+    "year": 1932,
+    "cast": [
+      "Adolphe Menjou",
+      "Minna Gombell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bachelor-s-affairs.html"
+}

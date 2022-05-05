@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Notorious Affair",
+    "year": 1930,
+    "cast": [
+      "Billie Dove",
+      "Basil Rathbone",
+      "Kay Francis"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/a-notorious-affair.html"
+}

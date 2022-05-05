@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Charlie Chan at the Olympics",
+    "year": 1937,
+    "cast": [
+      "Warner Oland",
+      "Katherine DeMille"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/charlie-chan-at-the-olympics.html"
+}

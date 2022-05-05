@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Ed",
+    "year": 1996,
+    "cast": [
+      "Matt LeBlanc"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ed.html"
+}

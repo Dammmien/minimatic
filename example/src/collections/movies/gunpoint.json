@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gunpoint",
+    "year": 1966,
+    "cast": [
+      "Audie Murphy",
+      "Joan Staley",
+      "Warren Stevens"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gunpoint.html"
+}

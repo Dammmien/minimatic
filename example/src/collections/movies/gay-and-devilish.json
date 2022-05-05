@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gay and Devilish",
+    "year": 1922,
+    "cast": [
+      "Doris May",
+      "Cullen Landis"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/gay-and-devilish.html"
+}

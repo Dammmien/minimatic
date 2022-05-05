@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Woman on the Beach",
+    "year": 1947,
+    "cast": [
+      "Joan Bennett",
+      "Robert Ryan",
+      "Charles Bickford"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-woman-on-the-beach.html"
+}

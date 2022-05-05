@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It Must Be Love",
+    "year": 1926,
+    "cast": [
+      "Colleen Moore",
+      "Jean Hersholt"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-must-be-love.html"
+}

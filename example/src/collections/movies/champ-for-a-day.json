@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Champ for a Day",
+    "year": 1953,
+    "cast": [
+      "Alex Nicol",
+      "Audrey Totter",
+      "Charles Winninger"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/champ-for-a-day.html"
+}

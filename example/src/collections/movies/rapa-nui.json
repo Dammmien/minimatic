@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rapa Nui",
+    "year": 1994,
+    "cast": [
+      "Jason Scott Lee",
+      "Esai Morales",
+      "Sandrine Holt"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/rapa-nui.html"
+}

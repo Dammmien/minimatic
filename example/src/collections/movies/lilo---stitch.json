@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lilo & Stitch",
+    "year": 2002,
+    "cast": [
+      "Daveigh Chase",
+      "Chris Sanders",
+      "Tia Carrere"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/lilo---stitch.html"
+}

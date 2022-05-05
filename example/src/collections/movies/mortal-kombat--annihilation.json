@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mortal Kombat: Annihilation",
+    "year": 1997,
+    "cast": [
+      "Robin Shou",
+      "Talisa Soto",
+      "Sandra Hess",
+      "James Remar"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/mortal-kombat--annihilation.html"
+}

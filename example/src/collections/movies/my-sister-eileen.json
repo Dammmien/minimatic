@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Sister Eileen",
+    "year": 1955,
+    "cast": [
+      "Betty Garrett",
+      "Janet Leigh"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/my-sister-eileen.html"
+}

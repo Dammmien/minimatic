@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Men of Texas",
+    "year": 1942,
+    "cast": [
+      "Robert Stack",
+      "Jackie Cooper",
+      "Broderick Crawford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/men-of-texas.html"
+}

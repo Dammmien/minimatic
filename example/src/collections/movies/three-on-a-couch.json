@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three on a Couch",
+    "year": 1966,
+    "cast": [
+      "Jerry Lewis",
+      "Janet Leigh",
+      "Mary Ann Mobley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-on-a-couch.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sundowners",
+    "year": 1960,
+    "cast": [
+      "Deborah Kerr",
+      "Robert Mitchum"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sundowners.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sprung",
+    "year": 1997,
+    "cast": [
+      "Tisha Campbell",
+      "Paula Jai Parker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sprung.html"
+}

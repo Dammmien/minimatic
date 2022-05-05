@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Baby Driver",
+    "year": 2017,
+    "cast": [
+      "Ansel Elgort",
+      "Lily James",
+      "Jamie Foxx",
+      "Jon Hamm",
+      "Kevin Spacey",
+      "Jon Bernthal",
+      "Eiza González"
+    ],
+    "genres": [
+      "Comedy",
+      "Action",
+      "Crime"
+    ]
+  },
+  "output": "movies/baby-driver.html"
+}

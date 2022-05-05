@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Synthetic Sin",
+    "year": 1929,
+    "cast": [
+      "Colleen Moore",
+      "Antonio Moreno"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/synthetic-sin.html"
+}

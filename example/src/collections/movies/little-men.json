@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Little Men",
+    "year": 1940,
+    "cast": [
+      "Kay Francis",
+      "Jack Oakie",
+      "Ann Gillis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-men.html"
+}

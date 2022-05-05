@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Teen Wolf",
+    "year": 1985,
+    "cast": [
+      "Michael J. Fox",
+      "Susan Ursitti",
+      "Jay Tarses"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/teen-wolf.html"
+}

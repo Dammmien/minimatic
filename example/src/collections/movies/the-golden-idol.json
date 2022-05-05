@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Golden Idol",
+    "year": 1954,
+    "cast": [
+      "Johnny Sheffield",
+      "Anne Kimbell"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-golden-idol.html"
+}

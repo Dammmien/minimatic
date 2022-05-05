@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Champagne Charlie",
+    "year": 1936,
+    "cast": [
+      "Paul Cavanagh",
+      "Thomas Beck"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/champagne-charlie.html"
+}

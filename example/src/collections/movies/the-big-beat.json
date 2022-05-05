@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Big Beat",
+    "year": 1958,
+    "cast": [
+      "William Reynolds",
+      "Andra Martin"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-big-beat.html"
+}

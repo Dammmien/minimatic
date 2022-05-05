@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Reptilicus",
+    "year": 1961,
+    "cast": [
+      "Carl Ottosen"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/reptilicus.html"
+}

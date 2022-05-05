@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bad Dreams",
+    "year": 1988,
+    "cast": [
+      "Jennifer Rubin"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/bad-dreams.html"
+}

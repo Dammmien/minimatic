@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Morocco",
+    "year": 1930,
+    "cast": [
+      "Marlene Dietrich",
+      "Gary Cooper",
+      "Adolphe Menjou"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/morocco.html"
+}

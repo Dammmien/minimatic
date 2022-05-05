@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "You Ought to Be in Pictures",
+    "year": 1940,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/you-ought-to-be-in-pictures.html"
+}

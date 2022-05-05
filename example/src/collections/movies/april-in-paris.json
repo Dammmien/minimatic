@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "April in Paris",
+    "year": 1952,
+    "cast": [
+      "Ray Bolger",
+      "Doris Day"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/april-in-paris.html"
+}

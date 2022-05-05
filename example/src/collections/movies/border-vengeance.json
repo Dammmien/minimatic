@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Border Vengeance",
+    "year": 1925,
+    "cast": [
+      "Jack Perrin",
+      "Josephine Hill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/border-vengeance.html"
+}

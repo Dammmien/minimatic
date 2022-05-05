@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Steel Trap",
+    "year": 1952,
+    "cast": [
+      "Joseph Cotten",
+      "Teresa Wright"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-steel-trap.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blaze",
+    "year": 1989,
+    "cast": [
+      "Paul Newman",
+      "Lolita Davidovich"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/blaze.html"
+}

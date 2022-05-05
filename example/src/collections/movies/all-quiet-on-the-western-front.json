@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "All Quiet on the Western Front",
+    "year": 1930,
+    "cast": [
+      "Lew Ayres",
+      "Louis Wolheim",
+      "Arnold Lucy"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/all-quiet-on-the-western-front.html"
+}

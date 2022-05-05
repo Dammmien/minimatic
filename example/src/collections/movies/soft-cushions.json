@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Soft Cushions",
+    "year": 1927,
+    "cast": [
+      "Douglas MacLean",
+      "Sue Carol"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/soft-cushions.html"
+}

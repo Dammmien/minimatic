@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Land of the Lost",
+    "year": 2009,
+    "cast": [
+      "Will Ferrell",
+      "Danny McBride",
+      "Anna Friel",
+      "Jorma Taccone"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/land-of-the-lost.html"
+}

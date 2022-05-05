@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wind Chill",
+    "year": 2007,
+    "cast": [
+      "Emily Blunt",
+      "Ashton Holmes"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/wind-chill.html"
+}

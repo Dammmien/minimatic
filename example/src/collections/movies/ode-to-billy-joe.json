@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ode to Billy Joe",
+    "year": 1976,
+    "cast": [
+      "Robby Benson",
+      "Glynnis O'Connor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ode-to-billy-joe.html"
+}

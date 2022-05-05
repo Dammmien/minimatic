@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wake of the Red Witch",
+    "year": 1948,
+    "cast": [
+      "John Wayne",
+      "Gail Russell"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/wake-of-the-red-witch.html"
+}

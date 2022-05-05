@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Marjorie Morningstar",
+    "year": 1958,
+    "cast": [
+      "Natalie Wood",
+      "Gene Kelly",
+      "Claire Trevor",
+      "Ed Wynn",
+      "Carolyn Jones",
+      "Martin Milner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/marjorie-morningstar.html"
+}

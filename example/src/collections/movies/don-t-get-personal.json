@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Don't Get Personal",
+    "year": 1942,
+    "cast": [
+      "Jane Frazee",
+      "Anne Gwynne"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/don-t-get-personal.html"
+}

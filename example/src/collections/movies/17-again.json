@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "17 Again",
+    "year": 2009,
+    "cast": [
+      "Zac Efron",
+      "Leslie Mann",
+      "Thomas Lennon",
+      "Matthew Perry",
+      "Melora Hardin",
+      "Michelle Trachtenberg",
+      "Sterling Knight"
+    ],
+    "genres": [
+      "Comedy",
+      "Teen"
+    ]
+  },
+  "output": "movies/17-again.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Teresa's Tattoo",
+    "year": 1994,
+    "cast": [
+      "C. Thomas Howell",
+      "Lou Diamond Phillips",
+      "Melissa Etheridge"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/teresa-s-tattoo.html"
+}

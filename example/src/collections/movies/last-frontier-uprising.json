@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Last Frontier Uprising",
+    "year": 1947,
+    "cast": [
+      "Monte Hale",
+      "Lorna Gray"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/last-frontier-uprising.html"
+}

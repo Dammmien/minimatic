@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Children of the Corn",
+    "year": 1984,
+    "cast": [
+      "Peter Horton",
+      "Linda Hamilton"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/children-of-the-corn.html"
+}

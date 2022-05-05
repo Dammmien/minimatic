@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blind Dating",
+    "year": 2006,
+    "cast": [
+      "Chris Pine",
+      "Eddie Kaye Thomas",
+      "Anjali Jay"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blind-dating.html"
+}

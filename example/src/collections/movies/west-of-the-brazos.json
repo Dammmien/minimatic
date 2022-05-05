@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "West of the Brazos",
+    "year": 1950,
+    "cast": [
+      "James Ellison",
+      "Russell Hayden",
+      "Julie Adams"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/west-of-the-brazos.html"
+}

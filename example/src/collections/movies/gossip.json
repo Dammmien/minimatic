@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Gossip",
+    "year": 2000,
+    "cast": [
+      "James Marsden",
+      "Lena Headey",
+      "Norman Reedus",
+      "Kate Hudson",
+      "Marisa Coughlan",
+      "Joshua Jackson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gossip.html"
+}

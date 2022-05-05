@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Farewell to the King",
+    "year": 1989,
+    "cast": [
+      "Nick Nolte",
+      "Nigel Havers",
+      "Frank McRae"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/farewell-to-the-king.html"
+}

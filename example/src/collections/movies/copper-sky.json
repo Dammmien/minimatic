@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Copper Sky",
+    "year": 1957,
+    "cast": [
+      "Jeff Morrow",
+      "Coleen Gray"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/copper-sky.html"
+}

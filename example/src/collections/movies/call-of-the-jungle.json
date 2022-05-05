@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Call of the Jungle",
+    "year": 1944,
+    "cast": [
+      "Ann Corio",
+      "James Bush",
+      "John Davidson"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/call-of-the-jungle.html"
+}

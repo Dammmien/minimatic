@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Question of Honor",
+    "year": 1922,
+    "cast": [
+      "Anita Stewart",
+      "Edward Hearn"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/a-question-of-honor.html"
+}

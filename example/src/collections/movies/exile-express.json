@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Exile Express",
+    "year": 1939,
+    "cast": [
+      "Anna Sten",
+      "Alan Marshal"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/exile-express.html"
+}

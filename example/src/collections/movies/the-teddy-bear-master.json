@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Teddy Bear Master",
+    "year": 2006,
+    "cast": [
+      "Isaac Imel"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-teddy-bear-master.html"
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Last Stand",
+    "year": 2013,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Forest Whitaker",
+      "Johnny Knoxville",
+      "Rodrigo Santoro",
+      "Jaimie Alexander",
+      "Luis Guzmán",
+      "Eduardo Noriega",
+      "Peter Stormare",
+      "Zach Gilford",
+      "Genesis Rodriguez"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-last-stand.html"
+}

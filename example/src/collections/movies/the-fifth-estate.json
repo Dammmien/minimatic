@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Fifth Estate",
+    "year": 2013,
+    "cast": [
+      "Benedict Cumberbatch",
+      "Daniel Brühl",
+      "Anthony Mackie",
+      "David Thewlis",
+      "Alicia Vikander",
+      "Stanley Tucci",
+      "Laura Linney"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-fifth-estate.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Young Widow",
+    "year": 1946,
+    "cast": [
+      "Jane Russell",
+      "Louis Hayward",
+      "Faith Domergue",
+      "Marie Wilson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/young-widow.html"
+}

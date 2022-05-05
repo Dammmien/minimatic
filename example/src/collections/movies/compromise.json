@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Compromise",
+    "year": 1925,
+    "cast": [
+      "Irene Rich",
+      "Clive Brook",
+      "Louise Fazenda"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/compromise.html"
+}

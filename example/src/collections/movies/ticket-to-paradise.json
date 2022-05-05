@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ticket to Paradise",
+    "year": 1936,
+    "cast": [
+      "Roger Pryor",
+      "Wendy Barrie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ticket-to-paradise.html"
+}

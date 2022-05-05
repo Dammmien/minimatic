@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "King Creole",
+    "year": 1958,
+    "cast": [
+      "Elvis Presley",
+      "Vic Morrow",
+      "Dean Jagger",
+      "Carolyn Jones",
+      "Walter Matthau"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/king-creole.html"
+}

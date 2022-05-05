@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bringin' Home the Bacon",
+    "year": 1924,
+    "cast": [
+      "Jay Wilsey",
+      "Jean Arthur"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bringin--home-the-bacon.html"
+}

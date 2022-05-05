@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Westward Passage",
+    "year": 1932,
+    "cast": [
+      "Ann Harding",
+      "Laurence Olivier"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/westward-passage.html"
+}

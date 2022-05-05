@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The New York Hat",
+    "year": 1912,
+    "cast": [
+      "Mary Pickford",
+      "Lionel Barrymore",
+      "Lillian Gish"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-new-york-hat.html"
+}

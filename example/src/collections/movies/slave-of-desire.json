@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Slave of Desire",
+    "year": 1923,
+    "cast": [
+      "George Walsh",
+      "Bessie Love",
+      "Carmel Myers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/slave-of-desire.html"
+}

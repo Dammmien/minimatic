@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Ship of Fools",
+    "year": 1965,
+    "cast": [
+      "Vivien Leigh",
+      "Simone Signoret",
+      "Lee Marvin",
+      "José Ferrer",
+      "Oskar Werner",
+      "Elizabeth Ashley",
+      "George Segal"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ship-of-fools.html"
+}

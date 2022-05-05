@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Devil on Wheels",
+    "year": 1947,
+    "cast": [
+      "Darryl Hickman",
+      "Terry Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-devil-on-wheels.html"
+}

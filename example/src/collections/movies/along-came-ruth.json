@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Along Came Ruth",
+    "year": 1924,
+    "cast": [
+      "Viola Dana",
+      "Walter Hiers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/along-came-ruth.html"
+}

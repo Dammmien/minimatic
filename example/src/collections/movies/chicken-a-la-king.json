@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chicken A La King",
+    "year": 1928,
+    "cast": [
+      "Nancy Carroll",
+      "George Meeker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/chicken-a-la-king.html"
+}

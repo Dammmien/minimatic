@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Too Many Husbands",
+    "year": 1940,
+    "cast": [
+      "Jean Arthur",
+      "Fred MacMurray",
+      "Melvyn Douglas"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/too-many-husbands.html"
+}

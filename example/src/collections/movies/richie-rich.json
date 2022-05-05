@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Richie Rich",
+    "year": 1994,
+    "cast": [
+      "Macaulay Culkin",
+      "John Larroquette"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/richie-rich.html"
+}

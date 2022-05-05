@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "3:15",
+    "year": 1986,
+    "cast": [
+      "Adam Baldwin",
+      "Jesse Aragon",
+      "René Auberjonois"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/3-15.html"
+}

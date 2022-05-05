@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "This Is Cinerama",
+    "year": 1952,
+    "cast": [
+      "Lowell Thomas"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/this-is-cinerama.html"
+}

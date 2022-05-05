@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Last Exorcism",
+    "year": 2010,
+    "cast": [
+      "Patrick Fabian",
+      "Iris Bahr",
+      "Louis Herthum",
+      "Ashley Bell",
+      "Jamie Alyson Caulde",
+      "Tony Bentley",
+      "Shanna Forrestall",
+      "Allen Boudreaux",
+      "Caleb Landry Jones"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-last-exorcism.html"
+}

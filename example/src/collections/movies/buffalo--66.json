@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Buffalo '66",
+    "year": 1998,
+    "cast": [
+      "Vincent Gallo",
+      "Christina Ricci",
+      "Ben Gazzara"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/buffalo--66.html"
+}

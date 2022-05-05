@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Detectives",
+    "year": 1928,
+    "cast": [
+      "Karl Dane",
+      "George K. Arthur",
+      "Marceline Day"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/detectives.html"
+}

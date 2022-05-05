@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Victor",
+    "year": 1923,
+    "cast": [
+      "Herbert Rawlinson",
+      "Dorothy Manners"
+    ],
+    "genres": [
+      "Sports",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-victor.html"
+}

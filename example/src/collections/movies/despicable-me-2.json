@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Despicable Me 2",
+    "year": 2013,
+    "cast": [
+      "Steve Carell",
+      "Kristen Wiig",
+      "Miranda Cosgrove",
+      "Russell Brand",
+      "Pierre Coffin",
+      "Benjamin Bratt",
+      "Steve Coogan",
+      "Ken Jeong",
+      "Kristen Schaal",
+      "Moisés Arias",
+      "Javier Bardem"
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/despicable-me-2.html"
+}

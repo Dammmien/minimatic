@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Elf-Man",
+    "year": 2012,
+    "cast": [
+      "Wee Man",
+      "Jeffrey Combs",
+      "Mackenzie Astin",
+      "Carly Robell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/elf-man.html"
+}

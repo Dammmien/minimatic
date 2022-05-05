@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Scorpio",
+    "year": 1973,
+    "cast": [
+      "Burt Lancaster",
+      "Alain Delon",
+      "Paul Scofield"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/scorpio.html"
+}

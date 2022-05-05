@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Suddenly, It's Spring",
+    "year": 1947,
+    "cast": [
+      "Paulette Goddard",
+      "Fred MacMurray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/suddenly--it-s-spring.html"
+}

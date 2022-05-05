@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Night at the Ritz",
+    "year": 1935,
+    "cast": [
+      "William Gargan",
+      "Patricia Ellis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-night-at-the-ritz.html"
+}

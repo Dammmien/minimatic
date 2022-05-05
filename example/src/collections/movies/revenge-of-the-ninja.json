@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Revenge of the Ninja",
+    "year": 1983,
+    "cast": [
+      "Sho Kosugi",
+      "Arthur Roberts"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/revenge-of-the-ninja.html"
+}

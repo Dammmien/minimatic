@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Reckless Youth",
+    "year": 1922,
+    "cast": [
+      "Elaine Hammerstein",
+      "Niles Welch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/reckless-youth.html"
+}

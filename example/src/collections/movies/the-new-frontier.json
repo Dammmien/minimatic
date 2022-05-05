@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The New Frontier",
+    "year": 1935,
+    "cast": [
+      "John Wayne",
+      "Muriel Evans"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-new-frontier.html"
+}

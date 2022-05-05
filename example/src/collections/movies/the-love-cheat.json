@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Love Cheat",
+    "year": 1919,
+    "cast": [
+      "June Caprice",
+      "Creighton Hale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-love-cheat.html"
+}

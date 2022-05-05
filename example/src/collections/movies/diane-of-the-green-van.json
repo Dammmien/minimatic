@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Diane of the Green Van",
+    "year": 1919,
+    "cast": [
+      "Nigel Barrie",
+      "Alma Rubens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/diane-of-the-green-van.html"
+}

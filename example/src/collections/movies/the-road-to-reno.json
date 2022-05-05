@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Road to Reno",
+    "year": 1938,
+    "cast": [
+      "Randolph Scott",
+      "Hope Hampton",
+      "Glenda Farrell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-road-to-reno.html"
+}

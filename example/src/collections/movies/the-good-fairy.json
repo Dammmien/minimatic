@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Good Fairy",
+    "year": 1935,
+    "cast": [
+      "Margaret Sullavan",
+      "Herbert Marshall",
+      "Frank Morgan"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-good-fairy.html"
+}

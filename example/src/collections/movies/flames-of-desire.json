@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flames of Desire",
+    "year": 1924,
+    "cast": [
+      "Wyndham Standing",
+      "Diana Miller"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flames-of-desire.html"
+}

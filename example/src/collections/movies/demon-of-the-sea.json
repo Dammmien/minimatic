@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Demon of the Sea",
+    "year": 1931,
+    "cast": [
+      "William Dieterle",
+      "Lissy Arna"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/demon-of-the-sea.html"
+}

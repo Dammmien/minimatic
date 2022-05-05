@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cairo",
+    "year": 1963,
+    "cast": [
+      "George Sanders",
+      "Richard Johnson"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/cairo.html"
+}

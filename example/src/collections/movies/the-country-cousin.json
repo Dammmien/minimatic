@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Country Cousin",
+    "year": 1919,
+    "cast": [
+      "Elaine Hammerstein",
+      "Lumsden Hare"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-country-cousin.html"
+}

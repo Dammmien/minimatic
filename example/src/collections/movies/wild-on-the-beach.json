@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wild on the Beach",
+    "year": 1965,
+    "cast": [
+      "Frankie Randall",
+      "Sherry Jackson",
+      "Cher",
+      "Sonny Bono"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wild-on-the-beach.html"
+}

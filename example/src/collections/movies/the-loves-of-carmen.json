@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Loves of Carmen",
+    "year": 1948,
+    "cast": [
+      "Rita Hayworth",
+      "Glenn Ford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-loves-of-carmen.html"
+}

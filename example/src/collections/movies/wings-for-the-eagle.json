@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wings for the Eagle",
+    "year": 1942,
+    "cast": [
+      "Ann Sheridan",
+      "Dennis Morgan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wings-for-the-eagle.html"
+}

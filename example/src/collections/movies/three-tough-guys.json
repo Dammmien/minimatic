@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Tough Guys",
+    "year": 1974,
+    "cast": [
+      "Lino Ventura",
+      "Isaac Hayes",
+      "Fred Williamson"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/three-tough-guys.html"
+}

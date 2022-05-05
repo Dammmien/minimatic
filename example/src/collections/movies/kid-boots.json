@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kid Boots",
+    "year": 1926,
+    "cast": [
+      "Eddie Cantor",
+      "Clara Bow",
+      "Billie Dove"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kid-boots.html"
+}

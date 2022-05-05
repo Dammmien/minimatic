@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Return of the Jedi",
+    "year": 1983,
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Billy Dee Williams"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/return-of-the-jedi.html"
+}

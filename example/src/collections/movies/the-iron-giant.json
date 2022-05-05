@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Iron Giant",
+    "year": 1999,
+    "cast": [
+      "Jennifer Aniston",
+      "Harry Connick Jr.",
+      "Vin Diesel"
+    ],
+    "genres": [
+      "Animated",
+      "Science Fiction",
+      "Drama",
+      "Family"
+    ]
+  },
+  "output": "movies/the-iron-giant.html"
+}

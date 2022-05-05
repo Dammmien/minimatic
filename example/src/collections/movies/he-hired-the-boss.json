@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "He Hired the Boss",
+    "year": 1943,
+    "cast": [
+      "Stuart Erwin",
+      "Evelyn Venable",
+      "Vivian Blaine"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/he-hired-the-boss.html"
+}

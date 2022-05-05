@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Breaking Point",
+    "year": 1976,
+    "cast": [
+      "Bo Svenson",
+      "Robert Culp",
+      "John Colicos"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/breaking-point.html"
+}

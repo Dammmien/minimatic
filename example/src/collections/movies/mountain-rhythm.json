@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mountain Rhythm",
+    "year": 1943,
+    "cast": [
+      "Sally Payne",
+      "Weaver Brothers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mountain-rhythm.html"
+}

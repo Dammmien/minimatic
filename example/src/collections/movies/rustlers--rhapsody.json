@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Rustlers' Rhapsody",
+    "year": 1985,
+    "cast": [
+      "Tom Berenger",
+      "Marilu Henner",
+      "Sela Ward",
+      "Patrick Wayne",
+      "Andy Griffith"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/rustlers--rhapsody.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Manhattan Madness",
+    "year": 1925,
+    "cast": [
+      "Jack Dempsey",
+      "Estelle Taylor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/manhattan-madness.html"
+}

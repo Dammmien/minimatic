@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Meet Danny Wilson",
+    "year": 1952,
+    "cast": [
+      "Frank Sinatra",
+      "Shelley Winters",
+      "Alex Nicol",
+      "Raymond Burr"
+    ],
+    "genres": [
+      "Musical",
+      "Drama"
+    ]
+  },
+  "output": "movies/meet-danny-wilson.html"
+}

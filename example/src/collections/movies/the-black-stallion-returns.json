@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Black Stallion Returns",
+    "year": 1983,
+    "cast": [
+      "Kelly Reno",
+      "Vincent Spano",
+      "Teri Garr"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-black-stallion-returns.html"
+}

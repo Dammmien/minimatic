@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "An Innocent Adventuress",
+    "year": 1919,
+    "cast": [
+      "Vivian Martin",
+      "Lloyd Hughes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/an-innocent-adventuress.html"
+}

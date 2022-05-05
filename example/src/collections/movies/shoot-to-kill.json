@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Shoot to Kill",
+    "year": 1988,
+    "cast": [
+      "Sidney Poitier",
+      "Tom Berenger",
+      "Kirstie Alley"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/shoot-to-kill.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Teenagers from Outer Space",
+    "year": 1959,
+    "cast": [
+      "Dawn Bender",
+      "Bryan Grant"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/teenagers-from-outer-space.html"
+}

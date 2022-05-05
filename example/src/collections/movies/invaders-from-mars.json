@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Invaders from Mars",
+    "year": 1986,
+    "cast": [
+      "Karen Black",
+      "Hunter Carson",
+      "Timothy Bottoms",
+      "Laraine Newman"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/invaders-from-mars.html"
+}

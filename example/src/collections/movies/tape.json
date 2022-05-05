@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tape",
+    "year": 2001,
+    "cast": [
+      "Ethan Hawke",
+      "Robert Sean Leonard",
+      "Uma Thurman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tape.html"
+}

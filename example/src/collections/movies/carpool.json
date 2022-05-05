@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Carpool",
+    "year": 1996,
+    "cast": [
+      "Tom Arnold",
+      "David Paymer",
+      "Rhea Perlman",
+      "Rachael Leigh Cook",
+      "Rod Steiger"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/carpool.html"
+}

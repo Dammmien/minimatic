@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mr. Wong, Detective",
+    "year": 1938,
+    "cast": [
+      "Boris Karloff",
+      "Evelyn Brent",
+      "Grant Withers"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/mr--wong--detective.html"
+}

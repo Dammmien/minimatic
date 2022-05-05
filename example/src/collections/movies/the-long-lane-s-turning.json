@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Long Lane's Turning",
+    "year": 1919,
+    "cast": [
+      "Henry B. Walthall",
+      "Mary Charleson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-long-lane-s-turning.html"
+}

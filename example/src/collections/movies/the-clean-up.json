@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Clean-Up",
+    "year": 1923,
+    "cast": [
+      "Herbert Rawlinson",
+      "Claire Adams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-clean-up.html"
+}

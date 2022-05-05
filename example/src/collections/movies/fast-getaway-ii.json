@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fast Getaway II",
+    "year": 1994,
+    "cast": [
+      "Corey Haim",
+      "Cynthia Rothrock",
+      "Leo Rossi"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/fast-getaway-ii.html"
+}

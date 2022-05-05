@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Backdraft",
+    "year": 1991,
+    "cast": [
+      "Kurt Russell",
+      "William Baldwin",
+      "Robert De Niro",
+      "Scott Glenn",
+      "Donald Sutherland",
+      "Jennifer Jason Leigh",
+      "Rebecca De Mornay"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/backdraft.html"
+}

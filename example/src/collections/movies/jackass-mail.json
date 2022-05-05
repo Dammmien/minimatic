@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jackass Mail",
+    "year": 1942,
+    "cast": [
+      "Wallace Beery",
+      "Marjorie Main"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/jackass-mail.html"
+}

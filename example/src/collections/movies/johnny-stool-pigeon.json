@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Johnny Stool Pigeon",
+    "year": 1949,
+    "cast": [
+      "Shelley Winters",
+      "Howard Duff",
+      "Dan Duryea"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/johnny-stool-pigeon.html"
+}

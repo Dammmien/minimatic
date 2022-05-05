@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jungle Patrol",
+    "year": 1948,
+    "cast": [
+      "Kristine Miller",
+      "Arthur Franz"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/jungle-patrol.html"
+}

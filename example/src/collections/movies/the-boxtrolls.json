@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Boxtrolls",
+    "year": 2014,
+    "cast": [
+      "Elle Fanning",
+      "Toni Collette",
+      "Isaac Hempstead-Wright",
+      "Simon Pegg",
+      "Nick Frost"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-boxtrolls.html"
+}

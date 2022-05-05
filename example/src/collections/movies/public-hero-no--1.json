@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Public Hero No. 1",
+    "year": 1935,
+    "cast": [
+      "Jean Arthur",
+      "Lionel Barrymore",
+      "Joseph Calleia"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/public-hero-no--1.html"
+}

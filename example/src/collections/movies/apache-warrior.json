@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Apache Warrior",
+    "year": 1957,
+    "cast": [
+      "Keith Larsen",
+      "Jim Davis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/apache-warrior.html"
+}

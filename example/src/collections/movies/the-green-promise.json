@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Green Promise",
+    "year": 1948,
+    "cast": [
+      "Marguerite Chapman",
+      "Walter Brennan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-green-promise.html"
+}

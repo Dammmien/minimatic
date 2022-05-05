@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "El Impostor",
+    "year": 1931,
+    "cast": [
+      "Juan Torena",
+      "Blanca Castejon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/el-impostor.html"
+}

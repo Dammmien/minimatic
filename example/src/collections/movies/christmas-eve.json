@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Christmas Eve",
+    "year": 1947,
+    "cast": [
+      "George Raft",
+      "Randolph Scott",
+      "Joan Blondell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/christmas-eve.html"
+}

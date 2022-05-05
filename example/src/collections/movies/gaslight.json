@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gaslight",
+    "year": 1944,
+    "cast": [
+      "Charles Boyer",
+      "Ingrid Bergman",
+      "Angela Lansbury"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/gaslight.html"
+}

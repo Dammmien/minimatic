@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hearts in Dixie",
+    "year": 1929,
+    "cast": [
+      "Clarence Muse",
+      "Stepin Fetchit"
+    ],
+    "genres": [
+      "Musical",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hearts-in-dixie.html"
+}

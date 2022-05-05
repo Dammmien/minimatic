@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bombay Clipper",
+    "year": 1941,
+    "cast": [
+      "William Gargan",
+      "Irene Hervey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bombay-clipper.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fletch",
+    "year": 1985,
+    "cast": [
+      "Chevy Chase",
+      "Joe Don Baker",
+      "Dana Wheeler-Nicholson",
+      "Geena Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fletch.html"
+}

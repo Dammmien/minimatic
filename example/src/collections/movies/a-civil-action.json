@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "A Civil Action",
+    "year": 1998,
+    "cast": [
+      "John Travolta",
+      "Robert Duvall",
+      "William H. Macy",
+      "Tony Shalhoub",
+      "Kathleen Quinlan",
+      "John Lithgow",
+      "Dan Hedaya",
+      "Sydney Pollack",
+      "James Gandolfini"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-civil-action.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Multiplicity",
+    "year": 1996,
+    "cast": [
+      "Michael Keaton",
+      "Andie MacDowell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/multiplicity.html"
+}

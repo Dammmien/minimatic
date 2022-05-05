@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bashful Bachelor",
+    "year": 1942,
+    "cast": [
+      "Lum and Abner",
+      "ZaSu Pitts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bashful-bachelor.html"
+}

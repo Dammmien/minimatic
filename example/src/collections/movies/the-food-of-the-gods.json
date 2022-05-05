@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Food of the Gods",
+    "year": 1976,
+    "cast": [
+      "Marjoe Gortner",
+      "Pamela Franklin",
+      "Ida Lupino"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-food-of-the-gods.html"
+}

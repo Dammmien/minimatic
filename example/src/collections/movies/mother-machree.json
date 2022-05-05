@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mother Machree",
+    "year": 1928,
+    "cast": [
+      "Belle Bennett",
+      "Neil Hamilton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mother-machree.html"
+}

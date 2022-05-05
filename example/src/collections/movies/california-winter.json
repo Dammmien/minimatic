@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "California Winter",
+    "year": 2012,
+    "cast": [
+      "Michael Ironside",
+      "Rutina Wesley",
+      "Erick Avari",
+      "Elizabeth Dominguez",
+      "Laura Cerón",
+      "Sean Patrick Murphy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/california-winter.html"
+}

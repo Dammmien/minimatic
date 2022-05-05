@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Velvet Smooth",
+    "year": 1976,
+    "cast": [
+      "Michael L. Fink",
+      "Johnnie Hill"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/velvet-smooth.html"
+}

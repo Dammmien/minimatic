@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The American President",
+    "year": 1995,
+    "cast": [
+      "Michael Douglas",
+      "Annette Bening",
+      "Martin Sheen",
+      "Michael J. Fox",
+      "Samantha Mathis",
+      "Richard Dreyfuss"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-american-president.html"
+}

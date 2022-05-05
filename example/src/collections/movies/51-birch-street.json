@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "51 Birch Street",
+    "year": 2005,
+    "cast": [
+      "love",
+      "marriage",
+      "fidelity and a",
+      "suburban",
+      "family"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/51-birch-street.html"
+}

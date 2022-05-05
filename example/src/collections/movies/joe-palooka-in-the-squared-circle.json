@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Joe Palooka in The Squared Circle",
+    "year": 1950,
+    "cast": [
+      "Joe Kirkwood",
+      "James Gleason",
+      "Lois Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/joe-palooka-in-the-squared-circle.html"
+}

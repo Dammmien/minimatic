@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Aurora: Operation Intercept",
+    "year": 1995,
+    "cast": [
+      "Bruce Payne",
+      "Lance Henriksen"
+    ],
+    "genres": [
+      "Spy",
+      "Thriller"
+    ]
+  },
+  "output": "movies/aurora--operation-intercept.html"
+}

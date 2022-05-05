@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sky Riders",
+    "year": 1976,
+    "cast": [
+      "James Coburn",
+      "Susannah York",
+      "Robert Culp"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/sky-riders.html"
+}

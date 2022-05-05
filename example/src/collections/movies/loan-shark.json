@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Loan Shark",
+    "year": 1952,
+    "cast": [
+      "George Raft",
+      "Dorothy Hart"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/loan-shark.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bugs Bunny's 3rd Movie: 1001 Rabbit Tales",
+    "year": 1982,
+    "cast": [
+      "Mel Blanc",
+      "June Foray"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/bugs-bunny-s-3rd-movie--1001-rabbit-tales.html"
+}

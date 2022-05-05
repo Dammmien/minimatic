@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hollywood or Bust",
+    "year": 1956,
+    "cast": [
+      "Dean Martin",
+      "Jerry Lewis",
+      "Anita Ekberg"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hollywood-or-bust.html"
+}

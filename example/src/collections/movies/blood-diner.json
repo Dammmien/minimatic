@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Blood Diner",
+    "year": 1987,
+    "cast": [
+      "Rick Burks"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/blood-diner.html"
+}

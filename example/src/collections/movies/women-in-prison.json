@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Women in Prison",
+    "year": 1938,
+    "cast": [
+      "Scott Kolk",
+      "Mayo Methot"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/women-in-prison.html"
+}

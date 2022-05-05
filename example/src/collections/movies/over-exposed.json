@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Over-Exposed",
+    "year": 1956,
+    "cast": [
+      "Cleo Moore",
+      "Richard Crenna"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/over-exposed.html"
+}

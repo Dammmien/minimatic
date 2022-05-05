@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Expendables 3",
+    "year": 2014,
+    "cast": [
+      "Sylvester Stallone",
+      "Jason Statham",
+      "Antonio Banderas",
+      "Arnold Schwarzenegger"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-expendables-3.html"
+}

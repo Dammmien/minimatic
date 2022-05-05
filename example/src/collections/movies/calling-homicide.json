@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Calling Homicide",
+    "year": 1956,
+    "cast": [
+      "Bill Elliott",
+      "Kathleen Case"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/calling-homicide.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Salesman",
+    "year": 1969,
+    "cast": [
+      "Paul Brennan"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/salesman.html"
+}

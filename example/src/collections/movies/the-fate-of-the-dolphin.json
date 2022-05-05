@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fate of the Dolphin",
+    "year": 1916,
+    "cast": [
+      "Perry Banks",
+      "Edward Coxen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fate-of-the-dolphin.html"
+}

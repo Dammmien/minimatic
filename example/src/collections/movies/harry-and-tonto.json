@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Harry and Tonto",
+    "year": 1974,
+    "cast": [
+      "Art Carney",
+      "Ellen Burstyn",
+      "Larry Hagman"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/harry-and-tonto.html"
+}

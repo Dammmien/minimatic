@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Liberty Heights",
+    "year": 1999,
+    "cast": [
+      "Adrien Brody",
+      "Ben Foster",
+      "Orlando Jones"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/liberty-heights.html"
+}

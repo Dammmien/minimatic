@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Juvenile Jungle",
+    "year": 1958,
+    "cast": [
+      "Rebecca Welles",
+      "Corey Allen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/juvenile-jungle.html"
+}

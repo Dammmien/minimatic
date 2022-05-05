@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "California Conquest",
+    "year": 1952,
+    "cast": [
+      "Cornel Wilde",
+      "Teresa Wright"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/california-conquest.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Story of Louis Pasteur",
+    "year": 1936,
+    "cast": [
+      "Paul Muni",
+      "(",
+      "Academy Award for Best Actor",
+      ")",
+      "Josephine Hutchinson",
+      "Anita Louise"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-story-of-louis-pasteur.html"
+}

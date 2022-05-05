@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Inventing the Abbotts",
+    "year": 1997,
+    "cast": [
+      "Liv Tyler",
+      "Jennifer Connelly",
+      "Joaquin Phoenix",
+      "Billy Crudup",
+      "Joanna Going"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/inventing-the-abbotts.html"
+}

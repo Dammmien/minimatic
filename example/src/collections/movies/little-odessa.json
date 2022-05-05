@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Little Odessa",
+    "year": 1994,
+    "cast": [
+      "Tim Roth",
+      "Edward Furlong",
+      "Moira Kelly",
+      "Vanessa Redgrave",
+      "Maximilian Schell"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/little-odessa.html"
+}

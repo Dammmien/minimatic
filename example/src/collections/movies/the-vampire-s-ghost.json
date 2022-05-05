@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Vampire's Ghost",
+    "year": 1945,
+    "cast": [
+      "John Abbott",
+      "Adele Mara",
+      "Peggy Stewart"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-vampire-s-ghost.html"
+}

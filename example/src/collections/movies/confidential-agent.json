@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Confidential Agent",
+    "year": 1945,
+    "cast": [
+      "Charles Boyer",
+      "Lauren Bacall"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/confidential-agent.html"
+}

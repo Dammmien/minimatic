@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Friends with Money",
+    "year": 2006,
+    "cast": [
+      "Jennifer Aniston",
+      "Joan Cusack",
+      "Catherine Keener",
+      "Frances McDormand"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/friends-with-money.html"
+}

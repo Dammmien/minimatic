@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Nickelodeon",
+    "year": 1976,
+    "cast": [
+      "Ryan O'Neal",
+      "Burt Reynolds",
+      "Tatum O'Neal",
+      "Stella Stevens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nickelodeon.html"
+}

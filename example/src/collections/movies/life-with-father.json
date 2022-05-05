@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Life with Father",
+    "year": 1947,
+    "cast": [
+      "William Powell",
+      "Irene Dunne",
+      "Elizabeth Taylor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/life-with-father.html"
+}

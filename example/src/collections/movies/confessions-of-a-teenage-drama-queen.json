@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Confessions of a Teenage Drama Queen",
+    "year": 2004,
+    "cast": [
+      "Lindsay Lohan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/confessions-of-a-teenage-drama-queen.html"
+}

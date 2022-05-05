@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pursuit of Happyness",
+    "year": 2006,
+    "cast": [
+      "Will Smith",
+      "Jaden Smith"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-pursuit-of-happyness.html"
+}

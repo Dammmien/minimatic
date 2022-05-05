@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Racing for Life",
+    "year": 1924,
+    "cast": [
+      "Eva Novak",
+      "William Fairbanks"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/racing-for-life.html"
+}

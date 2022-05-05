@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Maker of Men",
+    "year": 1931,
+    "cast": [
+      "Jack Holt",
+      "Joan Marsh",
+      "John Wayne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/maker-of-men.html"
+}

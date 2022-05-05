@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Green Years",
+    "year": 1946,
+    "cast": [
+      "Charles Coburn",
+      "Tom Drake",
+      "Beverly Tyler"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-green-years.html"
+}

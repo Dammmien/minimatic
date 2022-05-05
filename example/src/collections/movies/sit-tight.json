@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sit Tight",
+    "year": 1931,
+    "cast": [
+      "Winnie Lightner",
+      "Joe E. Brown"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/sit-tight.html"
+}

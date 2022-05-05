@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Revolt of the Zombies",
+    "year": 1936,
+    "cast": [
+      "Dean Jagger",
+      "Dorothy Stone",
+      "Roy D'Arcy"
+    ],
+    "genres": [
+      "Drama",
+      "Horror"
+    ]
+  },
+  "output": "movies/revolt-of-the-zombies.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Man's Favorite Sport?",
+    "year": 1964,
+    "cast": [
+      "Rock Hudson",
+      "Paula Prentiss",
+      "Maria Perschy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/man-s-favorite-sport-.html"
+}

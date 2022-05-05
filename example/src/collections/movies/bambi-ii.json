@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bambi II",
+    "year": 2006,
+    "cast": [
+      "Alexander Gould",
+      "Patrick Stewart",
+      "Brendon Baerg"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/bambi-ii.html"
+}

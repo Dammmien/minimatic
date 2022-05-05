@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "That Night",
+    "year": 1992,
+    "cast": [
+      "C. Thomas Howell",
+      "Juliette Lewis",
+      "Eliza Dushku"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/that-night.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nanking",
+    "year": 2007,
+    "cast": [
+      "the 1937",
+      "Nanking Massacre"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/nanking.html"
+}

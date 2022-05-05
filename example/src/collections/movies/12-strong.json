@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "12 Strong",
+    "year": 2018,
+    "cast": [
+      "Chris Hemsworth",
+      "Michael Shannon",
+      "Michael Peña",
+      "Navid Negahban",
+      "Trevante Rhodes",
+      "Geoff Stults",
+      "Thad Luckinbill",
+      "Elsa Pataky",
+      "Rob Riggle",
+      "William Fichtner"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/12-strong.html"
+}

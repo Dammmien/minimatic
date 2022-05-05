@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Crimes and Misdemeanors",
+    "year": 1989,
+    "cast": [
+      "Martin Landau",
+      "Woody Allen",
+      "Mia Farrow",
+      "Alan Alda",
+      "Anjelica Huston",
+      "Sam Waterston",
+      "Jerry Orbach"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/crimes-and-misdemeanors.html"
+}

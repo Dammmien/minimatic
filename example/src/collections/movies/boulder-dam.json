@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Boulder Dam",
+    "year": 1936,
+    "cast": [
+      "Ross Alexander",
+      "Patricia Ellis",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/boulder-dam.html"
+}

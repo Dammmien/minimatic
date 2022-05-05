@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Midnight Man",
+    "year": 1974,
+    "cast": [
+      "Burt Lancaster",
+      "Susan Clark"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-midnight-man.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Act of Love",
+    "year": 1953,
+    "cast": [
+      "Kirk Douglas",
+      "Dany Robin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/act-of-love.html"
+}

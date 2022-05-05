@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Guns a Poppin",
+    "year": 1957,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/guns-a-poppin.html"
+}

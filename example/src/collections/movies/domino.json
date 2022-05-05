@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Domino",
+    "year": 2005,
+    "cast": [
+      "Keira Knightley",
+      "Mickey Rourke",
+      "Edgar Ramirez",
+      "Lucy Liu",
+      "Jacqueline Bisset",
+      "Delroy Lindo"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/domino.html"
+}

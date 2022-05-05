@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kronos",
+    "year": 1957,
+    "cast": [
+      "Jeff Morrow",
+      "Barbara Lawrence"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/kronos.html"
+}

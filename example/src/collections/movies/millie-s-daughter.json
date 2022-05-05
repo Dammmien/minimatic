@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Millie's Daughter",
+    "year": 1947,
+    "cast": [
+      "Gladys George",
+      "Paul Campbell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/millie-s-daughter.html"
+}

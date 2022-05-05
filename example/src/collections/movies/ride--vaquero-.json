@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ride, Vaquero!",
+    "year": 1953,
+    "cast": [
+      "Robert Taylor",
+      "Ava Gardner",
+      "Howard Keel",
+      "Anthony Quinn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ride--vaquero-.html"
+}

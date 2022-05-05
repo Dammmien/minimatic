@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gay Vagabond",
+    "year": 1941,
+    "cast": [
+      "Roscoe Karns",
+      "Ruth Donnelly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-gay-vagabond.html"
+}

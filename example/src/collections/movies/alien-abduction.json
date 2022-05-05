@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Alien Abduction",
+    "year": 2014,
+    "cast": [
+      "Katherine Sigismund",
+      "Corey Eid",
+      "Riley Polanski",
+      "Jeff Bowser"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/alien-abduction.html"
+}

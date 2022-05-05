@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "El Dorado",
+    "year": 1966,
+    "cast": [
+      "John Wayne",
+      "Robert Mitchum",
+      "James Caan",
+      "Charlene Holt",
+      "Ed Asner",
+      "Michele Carey",
+      "Christopher George",
+      "Arthur Hunnicutt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/el-dorado.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Richest Girl in the World",
+    "year": 1934,
+    "cast": [
+      "Miriam Hopkins",
+      "Fay Wray",
+      "Joel McCrea"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-richest-girl-in-the-world.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gone Girl",
+    "year": 2014,
+    "cast": [
+      "Ben Affleck",
+      "Rosamund Pike",
+      "Neil Patrick Harris",
+      "Tyler Perry"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/gone-girl.html"
+}

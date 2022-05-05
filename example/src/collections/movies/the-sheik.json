@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sheik",
+    "year": 1921,
+    "cast": [
+      "Rudolph Valentino",
+      "Agnes Ayres"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-sheik.html"
+}

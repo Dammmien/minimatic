@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Silver Lining",
+    "year": 1932,
+    "cast": [
+      "Maureen O'Sullivan",
+      "Betty Compson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-silver-lining.html"
+}

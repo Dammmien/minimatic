@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "10th & Wolf",
+    "year": 2006,
+    "cast": [
+      "James Marsden",
+      "Giovanni Ribisi"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/10th---wolf.html"
+}

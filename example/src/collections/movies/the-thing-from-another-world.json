@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Thing from Another World",
+    "year": 1951,
+    "cast": [
+      "Kenneth Tobey",
+      "Margaret Sheridan",
+      "Dewey Martin",
+      "James Arness"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-thing-from-another-world.html"
+}

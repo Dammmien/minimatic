@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Roll on Texas Moon",
+    "year": 1946,
+    "cast": [
+      "Roy Rogers",
+      "Dale Evans",
+      "Dennis Hoey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/roll-on-texas-moon.html"
+}

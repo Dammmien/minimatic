@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "George White's 1935 Scandals",
+    "year": 1935,
+    "cast": [
+      "Alice Faye",
+      "Eleanor Powell"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/george-white-s-1935-scandals.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Super Ex-Girlfriend",
+    "year": 2006,
+    "cast": [
+      "Uma Thurman",
+      "Luke Wilson",
+      "Anna Faris"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/my-super-ex-girlfriend.html"
+}

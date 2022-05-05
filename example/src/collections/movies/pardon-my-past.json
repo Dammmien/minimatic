@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pardon My Past",
+    "year": 1945,
+    "cast": [
+      "Fred MacMurray",
+      "Marguerite Chapman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pardon-my-past.html"
+}

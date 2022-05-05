@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blind Justice",
+    "year": 1994,
+    "cast": [
+      "Armand Assante",
+      "Elisabeth Shue"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blind-justice.html"
+}

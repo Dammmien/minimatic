@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "It's a Wild Life",
+    "year": 1918,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-a-wild-life.html"
+}

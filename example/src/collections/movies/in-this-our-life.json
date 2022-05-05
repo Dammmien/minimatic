@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In This Our Life",
+    "year": 1942,
+    "cast": [
+      "Bette Davis",
+      "Olivia de Havilland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/in-this-our-life.html"
+}

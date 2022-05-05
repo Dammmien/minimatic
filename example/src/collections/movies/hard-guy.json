@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hard Guy",
+    "year": 1941,
+    "cast": [
+      "Jack LaRue",
+      "Mary Healy"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/hard-guy.html"
+}

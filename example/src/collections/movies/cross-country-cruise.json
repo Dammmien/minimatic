@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cross Country Cruise",
+    "year": 1934,
+    "cast": [
+      "Lew Ayres",
+      "June Knight",
+      "Alice White"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/cross-country-cruise.html"
+}

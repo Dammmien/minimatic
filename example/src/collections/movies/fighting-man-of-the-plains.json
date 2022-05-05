@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting Man of the Plains",
+    "year": 1949,
+    "cast": [
+      "Randolph Scott",
+      "Jane Nigh"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fighting-man-of-the-plains.html"
+}

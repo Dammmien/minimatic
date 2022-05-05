@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wings of the Hawk",
+    "year": 1953,
+    "cast": [
+      "Van Heflin",
+      "Julie Adams"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wings-of-the-hawk.html"
+}

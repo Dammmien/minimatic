@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Saint's Double Trouble",
+    "year": 1940,
+    "cast": [
+      "George Sanders",
+      "Helene Whitney"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-saint-s-double-trouble.html"
+}

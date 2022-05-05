@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Guns of the Timberland",
+    "year": 1960,
+    "cast": [
+      "Alan Ladd",
+      "Jeanne Crain",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/guns-of-the-timberland.html"
+}

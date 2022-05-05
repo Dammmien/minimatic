@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Leech Woman",
+    "year": 1960,
+    "cast": [
+      "Grant Williams",
+      "Coleen Gray",
+      "Phillip Terry",
+      "Gloria Talbott"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-leech-woman.html"
+}

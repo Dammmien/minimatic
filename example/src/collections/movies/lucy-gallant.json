@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lucy Gallant",
+    "year": 1955,
+    "cast": [
+      "Jane Wyman",
+      "Charlton Heston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lucy-gallant.html"
+}

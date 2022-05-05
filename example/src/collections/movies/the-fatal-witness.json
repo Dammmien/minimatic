@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fatal Witness",
+    "year": 1945,
+    "cast": [
+      "Evelyn Ankers",
+      "Richard Fraser",
+      "Barbara Everest"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-fatal-witness.html"
+}

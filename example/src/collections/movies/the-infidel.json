@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Infidel",
+    "year": 1922,
+    "cast": [
+      "Katherine MacDonald",
+      "Robert Ellis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-infidel.html"
+}

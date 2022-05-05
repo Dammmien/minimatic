@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Homer and Eddie",
+    "year": 1989,
+    "cast": [
+      "Whoopi Goldberg",
+      "Jim Belushi"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/homer-and-eddie.html"
+}

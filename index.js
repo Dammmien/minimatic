@@ -74,7 +74,7 @@ module.exports = class Minimatic {
       ...this.importMap(collection.imports || {}),
       ...collection,
       ...this.importMap(page.imports || {}),
-      ...page
+      ...page.data
     };
 
     const partials = this.importMap({
@@ -83,22 +83,22 @@ module.exports = class Minimatic {
       ...(page.partials || {})
     });
 
-    const template = this.importFile(collection.template);
+    const template = this.importFile(`templates/${collection.template}`);
 
     fs.mkdirSync(path.dirname(`${this.output}/${page.output}`), { recursive: true });
-    fs.writeFileSync(`${this.output}/${page.output}`, mustache.render(template, data, partials));
+    fs.writeFileSync(`${this.output}/${page.output}`, template(data, partials));
   }
 
   renderCollectionsPages() {
-    for (const collectionPath in this.config.collections) {
-      this.importDirectory(collectionPath).forEach(page => {
+    this.config.collections.forEach(collection => {
+      this.importDirectory(collection.folder).forEach(page => {
         try {
-          this.renderPage(this.config.collections[collectionPath], page);
+          this.renderPage(collection, page);
         } catch (error) {
           console.log('\x1b[31m%s\x1b[0m', `Error during processing ${this.output}/${page.output}: ${error.message}`);
         }
       });
-    }
+    })
   }
 
   async build(watch, serve) {

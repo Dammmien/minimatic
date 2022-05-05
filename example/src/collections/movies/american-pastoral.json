@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "American Pastoral",
+    "year": 2016,
+    "cast": [
+      "Ewan McGregor",
+      "Jennifer Connelly"
+    ],
+    "genres": []
+  },
+  "output": "movies/american-pastoral.html"
+}

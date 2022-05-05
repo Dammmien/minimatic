@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rock-A-Bye Baby",
+    "year": 1958,
+    "cast": [
+      "Jerry Lewis",
+      "Marilyn Maxwell",
+      "Connie Stevens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rock-a-bye-baby.html"
+}

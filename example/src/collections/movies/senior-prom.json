@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Senior Prom",
+    "year": 1958,
+    "cast": [
+      "Jill Corey",
+      "Paul Hampton"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/senior-prom.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That's Him",
+    "year": 1918,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-s-him.html"
+}

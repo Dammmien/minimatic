@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Gun Is Quick",
+    "year": 1957,
+    "cast": [
+      "Robert Bray",
+      "Whitney Blake"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/my-gun-is-quick.html"
+}

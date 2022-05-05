@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sharkfighters",
+    "year": 1956,
+    "cast": [
+      "Victor Mature",
+      "Karen Steele"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-sharkfighters.html"
+}

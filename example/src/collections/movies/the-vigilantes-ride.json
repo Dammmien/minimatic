@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Vigilantes Ride",
+    "year": 1943,
+    "cast": [
+      "Russell Hayden",
+      "Dub Taylor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-vigilantes-ride.html"
+}

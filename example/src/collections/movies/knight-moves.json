@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Knight Moves",
+    "year": 1992,
+    "cast": [
+      "Christopher Lambert",
+      "Diane Lane"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/knight-moves.html"
+}

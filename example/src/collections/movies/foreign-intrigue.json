@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Foreign Intrigue",
+    "year": 1956,
+    "cast": [
+      "Robert Mitchum",
+      "Geneviève Page",
+      "Ingrid Thulin"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/foreign-intrigue.html"
+}

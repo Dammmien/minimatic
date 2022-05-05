@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mighty Barnum",
+    "year": 1934,
+    "cast": [
+      "Wallace Beery",
+      "Adolphe Menjou",
+      "Virginia Bruce"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-mighty-barnum.html"
+}

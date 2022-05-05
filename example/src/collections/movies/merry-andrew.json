@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Merry Andrew",
+    "year": 1958,
+    "cast": [
+      "Danny Kaye",
+      "Pier Angeli"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/merry-andrew.html"
+}

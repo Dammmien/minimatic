@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bloodlust!",
+    "year": 1961,
+    "cast": [
+      "Robert Reed",
+      "June Kenney"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/bloodlust-.html"
+}

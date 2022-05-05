@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Parent Trap",
+    "year": 1998,
+    "cast": [
+      "Lindsay Lohan",
+      "Dennis Quaid",
+      "Natasha Richardson",
+      "Elaine Hendrix"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-parent-trap.html"
+}

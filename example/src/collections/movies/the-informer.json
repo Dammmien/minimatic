@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Informer",
+    "year": 1935,
+    "cast": [
+      "Victor McLaglen",
+      "Preston Foster",
+      "Donald Meek"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-informer.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Galloping Kid",
+    "year": 1922,
+    "cast": [
+      "Hoot Gibson",
+      "Edna Murphy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-galloping-kid.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Black Belt Jones",
+    "year": 1974,
+    "cast": [
+      "Jim Kelly",
+      "Gloria Hendry"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/black-belt-jones.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Class",
+    "year": 1983,
+    "cast": [
+      "Jacqueline Bisset",
+      "Rob Lowe",
+      "Andrew McCarthy",
+      "Cliff Robertson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/class.html"
+}

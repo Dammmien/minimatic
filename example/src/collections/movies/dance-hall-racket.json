@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dance Hall Racket",
+    "year": 1953,
+    "cast": [
+      "Timothy Farrell",
+      "Lenny Bruce"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dance-hall-racket.html"
+}

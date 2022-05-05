@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Outbreak",
+    "year": 1995,
+    "cast": [
+      "Dustin Hoffman",
+      "Rene Russo",
+      "Morgan Freeman",
+      "Donald Sutherland",
+      "Cuba Gooding Jr.",
+      "Kevin Spacey",
+      "Patrick Dempsey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/outbreak.html"
+}

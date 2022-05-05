@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Auntie Mame",
+    "year": 1958,
+    "cast": [
+      "Rosalind Russell",
+      "Coral Browne",
+      "Forrest Tucker",
+      "Peggy Cass",
+      "Roger Smith"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/auntie-mame.html"
+}

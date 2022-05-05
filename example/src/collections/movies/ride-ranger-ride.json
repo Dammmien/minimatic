@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ride Ranger Ride",
+    "year": 1936,
+    "cast": [
+      "Gene Autry",
+      "Kay Hughes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ride-ranger-ride.html"
+}

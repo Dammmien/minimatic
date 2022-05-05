@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "For the Love of Rusty",
+    "year": 1947,
+    "cast": [
+      "Tom Powers",
+      "Ann Doran"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/for-the-love-of-rusty.html"
+}

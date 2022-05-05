@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Big Operator",
+    "year": 1959,
+    "cast": [
+      "Mickey Rooney",
+      "Steve Cochran",
+      "Mamie Van Doren"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-big-operator.html"
+}

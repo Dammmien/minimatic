@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dangerous Blonde",
+    "year": 1924,
+    "cast": [
+      "Laura La Plante",
+      "Edward Hearn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-dangerous-blonde.html"
+}

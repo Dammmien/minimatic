@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cry Baby Killer",
+    "year": 1958,
+    "cast": [
+      "Harry Lauter",
+      "Jack Nicholson",
+      "Carolyn Mitchell"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-cry-baby-killer.html"
+}

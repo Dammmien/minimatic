@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fraidy Cat",
+    "year": 1942,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/fraidy-cat.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Cherokee Kid",
+    "year": 1996,
+    "cast": [
+      "Sinbad",
+      "James Coburn",
+      "Burt Reynolds",
+      "Gregory Hines"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-cherokee-kid.html"
+}

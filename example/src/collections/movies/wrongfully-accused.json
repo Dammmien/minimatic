@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wrongfully Accused",
+    "year": 1998,
+    "cast": [
+      "Leslie Nielsen",
+      "Richard Crenna",
+      "Melinda McGraw",
+      "Kelly Le Brock"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wrongfully-accused.html"
+}

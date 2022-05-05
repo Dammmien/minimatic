@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hideaway",
+    "year": 1995,
+    "cast": [
+      "Jeff Goldblum",
+      "Christine Lahti",
+      "Alicia Silverstone"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hideaway.html"
+}

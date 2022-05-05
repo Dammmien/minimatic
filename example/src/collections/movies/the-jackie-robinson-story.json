@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Jackie Robinson Story",
+    "year": 1950,
+    "cast": [
+      "Jackie Robinson",
+      "Ruby Dee"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-jackie-robinson-story.html"
+}

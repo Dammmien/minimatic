@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Are You Listening?",
+    "year": 1932,
+    "cast": [
+      "William Haines",
+      "Madge Evans",
+      "Anita Page"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/are-you-listening-.html"
+}

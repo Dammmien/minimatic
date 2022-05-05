@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "His Brother's Wife",
+    "year": 1936,
+    "cast": [
+      "Robert Taylor",
+      "Barbara Stanwyck",
+      "Jean Hersholt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/his-brother-s-wife.html"
+}

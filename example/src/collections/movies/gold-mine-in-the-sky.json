@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gold Mine in the Sky",
+    "year": 1938,
+    "cast": [
+      "Gene Autry",
+      "Carol Hughes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gold-mine-in-the-sky.html"
+}

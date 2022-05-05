@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "For Love of Ivy",
+    "year": 1968,
+    "cast": [
+      "Sidney Poitier",
+      "Abbey Lincoln",
+      "Beau Bridges"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/for-love-of-ivy.html"
+}

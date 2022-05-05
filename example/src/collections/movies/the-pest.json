@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pest",
+    "year": 1997,
+    "cast": [
+      "John Leguizamo",
+      "Freddy Rodriguez"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-pest.html"
+}

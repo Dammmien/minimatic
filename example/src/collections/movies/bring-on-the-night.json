@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bring on the Night",
+    "year": 1985,
+    "cast": [
+      "Sting",
+      "Branford Marsalis"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/bring-on-the-night.html"
+}

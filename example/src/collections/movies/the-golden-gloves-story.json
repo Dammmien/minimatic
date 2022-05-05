@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Golden Gloves Story",
+    "year": 1950,
+    "cast": [
+      "James Dunn",
+      "Dewey Martin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-golden-gloves-story.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "4 for Texas",
+    "year": 1963,
+    "cast": [
+      "Frank Sinatra",
+      "Dean Martin",
+      "Anita Ekberg",
+      "Ursula Andress",
+      "Charles Bronson"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/4-for-texas.html"
+}

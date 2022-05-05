@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wallflowers",
+    "year": 1928,
+    "cast": [
+      "Hugh Trevor",
+      "Mabel Julienne Scott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wallflowers.html"
+}

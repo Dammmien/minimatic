@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "How Green Was My Valley",
+    "year": 1941,
+    "cast": [
+      "Walter Pidgeon",
+      "Maureen O'Hara",
+      "Roddy McDowall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/how-green-was-my-valley.html"
+}

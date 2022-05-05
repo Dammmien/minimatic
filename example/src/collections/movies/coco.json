@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Coco",
+    "year": 2017,
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael García Bernal",
+      "Benjamin Bratt",
+      "Renée Victor",
+      "Ana Ofelia Murguia",
+      "Edward James Olmos"
+    ],
+    "genres": [
+      "Animated",
+      "Musical",
+      "Fantasy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/coco.html"
+}

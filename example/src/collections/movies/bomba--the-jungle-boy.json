@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bomba, the Jungle Boy",
+    "year": 1949,
+    "cast": [
+      "Johnny Sheffield",
+      "Peggy Ann Garner"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/bomba--the-jungle-boy.html"
+}

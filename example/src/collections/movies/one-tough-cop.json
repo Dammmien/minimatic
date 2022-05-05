@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Tough Cop",
+    "year": 1998,
+    "cast": [
+      "Stephen Baldwin",
+      "Chris Penn",
+      "Gina Gershon"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/one-tough-cop.html"
+}

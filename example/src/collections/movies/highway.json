@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Highway",
+    "year": 2002,
+    "cast": [
+      "Jared Leto",
+      "Jake Gyllenhaal",
+      "Selma Blair"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/highway.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Every Little Step",
+    "year": 2009,
+    "cast": [
+      "The casting of the 2006",
+      "Broadway",
+      "revival",
+      "of",
+      "A Chorus Line"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/every-little-step.html"
+}

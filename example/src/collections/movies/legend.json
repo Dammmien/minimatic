@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Legend",
+    "year": 1985,
+    "cast": [
+      "Tom Cruise",
+      "Mia Sara",
+      "Tim Curry"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/legend.html"
+}

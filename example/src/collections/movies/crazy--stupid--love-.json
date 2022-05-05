@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Crazy, Stupid, Love.",
+    "year": 2011,
+    "cast": [
+      "Steve Carell",
+      "Ryan Gosling",
+      "Julianne Moore",
+      "Emma Stone",
+      "John Carroll Lynch",
+      "Marisa Tomei",
+      "Kevin Bacon",
+      "Analeigh Tipton",
+      "Liza Lapira",
+      "Joey King",
+      "Mekia Cox"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/crazy--stupid--love-.html"
+}

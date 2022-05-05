@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hate",
+    "year": 1922,
+    "cast": [
+      "Alice Lake",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/hate.html"
+}

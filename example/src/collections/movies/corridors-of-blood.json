@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Corridors of Blood",
+    "year": 1958,
+    "cast": [
+      "Boris Karloff",
+      "Betta St. John"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/corridors-of-blood.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pirates of Capri",
+    "year": 1949,
+    "cast": [
+      "Louis Hayward",
+      "Binnie Barnes",
+      "Mariella Lotti"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-pirates-of-capri.html"
+}

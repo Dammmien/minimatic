@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Life and Times of Grizzly Adams",
+    "year": 1974,
+    "cast": [
+      "Dan Haggerty",
+      "Denver Pyle"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-life-and-times-of-grizzly-adams.html"
+}

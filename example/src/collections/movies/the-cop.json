@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cop",
+    "year": 1928,
+    "cast": [
+      "William Boyd",
+      "Jacqueline Logan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-cop.html"
+}

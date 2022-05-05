@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sky Full of Moon",
+    "year": 1952,
+    "cast": [
+      "Carleton Carpenter",
+      "Jan Sterling"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sky-full-of-moon.html"
+}

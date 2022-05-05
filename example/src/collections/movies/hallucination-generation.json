@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hallucination Generation",
+    "year": 1966,
+    "cast": [
+      "George Montgomery",
+      "Marianne Kanter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hallucination-generation.html"
+}

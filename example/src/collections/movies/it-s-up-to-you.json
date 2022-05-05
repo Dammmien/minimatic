@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "It's Up to You",
+    "year": 1936,
+    "cast": [
+      "Erville Alderson",
+      "Betty Blythe",
+      "James P. Burtis"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/it-s-up-to-you.html"
+}

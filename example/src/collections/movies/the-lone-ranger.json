@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "The Lone Ranger",
+    "year": 2013,
+    "cast": [
+      "Armie Hammer",
+      "Johnny Depp",
+      "William Fichtner",
+      "Tom Wilkinson",
+      "Barry Pepper",
+      "Helena Bonham Carter",
+      "Ruth Wilson",
+      "James Badge Dale",
+      "Mason Cook"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ]
+  },
+  "output": "movies/the-lone-ranger.html"
+}

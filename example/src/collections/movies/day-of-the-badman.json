@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Day of the Badman",
+    "year": 1958,
+    "cast": [
+      "Fred MacMurray",
+      "Joan Weldon",
+      "John Ericson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/day-of-the-badman.html"
+}

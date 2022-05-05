@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Remember My Name",
+    "year": 1978,
+    "cast": [
+      "Geraldine Chaplin",
+      "Anthony Perkins",
+      "Moses Gunn"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/remember-my-name.html"
+}

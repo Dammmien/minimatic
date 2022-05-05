@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Passion of Ayn Rand",
+    "year": 1999,
+    "cast": [
+      "Helen Mirren",
+      "Eric Stoltz",
+      "Peter Fonda"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-passion-of-ayn-rand.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Desire in the Dust",
+    "year": 1960,
+    "cast": [
+      "Raymond Burr",
+      "Martha Hyer",
+      "Joan Bennett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/desire-in-the-dust.html"
+}

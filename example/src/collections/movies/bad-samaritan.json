@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Bad Samaritan",
+    "year": 2018,
+    "cast": [
+      "David Tennant",
+      "Robert Sheehan",
+      "Carlito Olivero",
+      "Kerry Condon",
+      "Jacqueline Byers"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/bad-samaritan.html"
+}

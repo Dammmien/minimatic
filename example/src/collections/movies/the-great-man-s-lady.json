@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Man's Lady",
+    "year": 1942,
+    "cast": [
+      "Barbara Stanwyck",
+      "Joel McCrea",
+      "Brian Donlevy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-great-man-s-lady.html"
+}

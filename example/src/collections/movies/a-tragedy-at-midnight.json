@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Tragedy at Midnight",
+    "year": 1942,
+    "cast": [
+      "John Howard",
+      "Margaret Lindsay",
+      "Mona Barrie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-tragedy-at-midnight.html"
+}

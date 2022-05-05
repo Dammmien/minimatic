@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Begins at 20",
+    "year": 1936,
+    "cast": [
+      "Hugh Herbert",
+      "Patricia Ellis",
+      "Warren Hull"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-begins-at-20.html"
+}

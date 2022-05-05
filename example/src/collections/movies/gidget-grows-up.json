@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gidget Grows Up",
+    "year": 1969,
+    "cast": [
+      "Karen Valentine",
+      "Robert Cummings",
+      "Nina Foch"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gidget-grows-up.html"
+}

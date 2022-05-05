@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eden and Return",
+    "year": 1921,
+    "cast": [
+      "Doris May",
+      "Emmett King"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/eden-and-return.html"
+}

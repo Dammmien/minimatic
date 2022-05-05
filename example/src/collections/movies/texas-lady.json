@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Texas Lady",
+    "year": 1955,
+    "cast": [
+      "Claudette Colbert",
+      "Barry Sullivan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/texas-lady.html"
+}

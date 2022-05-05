@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Satan Bug",
+    "year": 1965,
+    "cast": [
+      "George Maharis",
+      "Anne Francis"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-satan-bug.html"
+}

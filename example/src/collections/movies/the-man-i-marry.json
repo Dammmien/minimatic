@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man I Marry",
+    "year": 1936,
+    "cast": [
+      "Doris Nolan",
+      "Nigel Bruce"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-i-marry.html"
+}

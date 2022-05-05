@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Gentleman After Dark",
+    "year": 1942,
+    "cast": [
+      "Miriam Hopkins",
+      "Brian Donlevy"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/a-gentleman-after-dark.html"
+}

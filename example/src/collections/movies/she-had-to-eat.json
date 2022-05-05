@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "She Had to Eat",
+    "year": 1937,
+    "cast": [
+      "Rochelle Hudson",
+      "Jack Haley",
+      "Eugene Pallette"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-had-to-eat.html"
+}

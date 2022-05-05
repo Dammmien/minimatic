@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bride of the Gorilla",
+    "year": 1951,
+    "cast": [
+      "Raymond Burr",
+      "Lon Chaney Jr.",
+      "Barbara Payton"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/bride-of-the-gorilla.html"
+}

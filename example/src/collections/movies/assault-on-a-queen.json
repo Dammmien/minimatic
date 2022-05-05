@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Assault on a Queen",
+    "year": 1966,
+    "cast": [
+      "Frank Sinatra",
+      "Virna Lisi",
+      "Tony Franciosa",
+      "Richard Conte"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/assault-on-a-queen.html"
+}

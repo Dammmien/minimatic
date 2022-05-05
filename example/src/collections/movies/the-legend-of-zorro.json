@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Legend of Zorro",
+    "year": 2005,
+    "cast": [
+      "Antonio Banderas",
+      "Catherine Zeta-Jones"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-legend-of-zorro.html"
+}

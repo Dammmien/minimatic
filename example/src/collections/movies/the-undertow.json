@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Undertow",
+    "year": 1916,
+    "cast": [
+      "Franklin Ritchie",
+      "Helene Rosson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-undertow.html"
+}

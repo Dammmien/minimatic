@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Fury",
+    "year": 1978,
+    "cast": [
+      "Kirk Douglas",
+      "Amy Irving",
+      "John Cassavetes",
+      "Andrew Stevens",
+      "Charles Durning",
+      "Carrie Snodgress"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-fury.html"
+}

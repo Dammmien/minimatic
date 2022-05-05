@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Ninotchka",
+    "year": 1939,
+    "cast": [
+      "Greta Garbo",
+      "Melvyn Douglas",
+      "Ina Claire",
+      "Bela Lugosi"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/ninotchka.html"
+}

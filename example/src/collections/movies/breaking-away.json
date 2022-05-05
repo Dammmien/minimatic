@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Breaking Away",
+    "year": 1979,
+    "cast": [
+      "Dennis Christopher",
+      "Dennis Quaid",
+      "Daniel Stern",
+      "Jackie Earle Haley",
+      "Paul Dooley",
+      "Barbara Barrie"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/breaking-away.html"
+}

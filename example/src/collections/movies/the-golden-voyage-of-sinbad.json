@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Golden Voyage of Sinbad",
+    "year": 1973,
+    "cast": [
+      "John Phillip Law",
+      "Caroline Munro"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-golden-voyage-of-sinbad.html"
+}

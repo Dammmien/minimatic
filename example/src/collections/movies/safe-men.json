@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Safe Men",
+    "year": 1998,
+    "cast": [
+      "Sam Rockwell",
+      "Steve Zahn",
+      "Michael Lerner",
+      "Paul Giamatti"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/safe-men.html"
+}

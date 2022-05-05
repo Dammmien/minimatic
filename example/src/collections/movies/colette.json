@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Colette",
+    "year": 2018,
+    "cast": [
+      "Keira Knightley",
+      "Dominic West"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/colette.html"
+}

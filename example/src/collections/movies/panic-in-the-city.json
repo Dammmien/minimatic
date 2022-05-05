@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Panic in the City",
+    "year": 1968,
+    "cast": [
+      "Howard Duff",
+      "Linda Cristal",
+      "Anne Jeffreys"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/panic-in-the-city.html"
+}

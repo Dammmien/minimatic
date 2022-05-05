@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tango Tangles",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Fatty Arbuckle",
+      "Ford Sterling"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tango-tangles.html"
+}

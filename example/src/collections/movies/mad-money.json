@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mad Money",
+    "year": 2008,
+    "cast": [
+      "Diane Keaton",
+      "Queen Latifah",
+      "Katie Holmes"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/mad-money.html"
+}

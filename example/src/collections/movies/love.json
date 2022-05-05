@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love",
+    "year": 1920,
+    "cast": [
+      "Louise Glaum",
+      "James Kirkwood Sr."
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/love.html"
+}

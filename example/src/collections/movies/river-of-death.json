@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "River of Death",
+    "year": 1989,
+    "cast": [
+      "Michael Dudikoff",
+      "Robert Vaughn",
+      "and",
+      "Donald Pleasence"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/river-of-death.html"
+}

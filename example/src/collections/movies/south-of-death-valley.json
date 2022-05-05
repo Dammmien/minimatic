@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "South of Death Valley",
+    "year": 1949,
+    "cast": [
+      "Charles Starrett",
+      "Gail Davis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/south-of-death-valley.html"
+}

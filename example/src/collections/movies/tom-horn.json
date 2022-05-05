@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tom Horn",
+    "year": 1980,
+    "cast": [
+      "Steve McQueen",
+      "Linda Evans",
+      "Richard Farnsworth"
+    ],
+    "genres": [
+      "Western",
+      "Biography"
+    ]
+  },
+  "output": "movies/tom-horn.html"
+}

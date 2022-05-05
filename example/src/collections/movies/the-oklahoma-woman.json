@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Oklahoma Woman",
+    "year": 1956,
+    "cast": [
+      "Peggie Castle",
+      "Richard Denning"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-oklahoma-woman.html"
+}

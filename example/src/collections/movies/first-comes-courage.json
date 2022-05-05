@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "First Comes Courage",
+    "year": 1943,
+    "cast": [
+      "Merle Oberon",
+      "Brian Aherne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/first-comes-courage.html"
+}

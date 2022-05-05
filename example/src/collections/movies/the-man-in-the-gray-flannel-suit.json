@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Man in the Gray Flannel Suit",
+    "year": 1956,
+    "cast": [
+      "Gregory Peck",
+      "Jennifer Jones",
+      "Keenan Wynn",
+      "Lee J. Cobb"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-in-the-gray-flannel-suit.html"
+}

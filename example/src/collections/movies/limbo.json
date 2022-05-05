@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Limbo",
+    "year": 1972,
+    "cast": [
+      "Kathleen Nolan",
+      "Kate Jackson",
+      "Stuart Margolin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/limbo.html"
+}

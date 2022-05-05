@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Duke Comes Back",
+    "year": 1937,
+    "cast": [
+      "Allan Lane",
+      "Heather Angel",
+      "Genevieve Tobin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-duke-comes-back.html"
+}

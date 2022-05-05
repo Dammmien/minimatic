@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Can This Be Dixie?",
+    "year": 1936,
+    "cast": [
+      "Jane Withers",
+      "Slim Summerville",
+      "Hattie McDaniel"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/can-this-be-dixie-.html"
+}

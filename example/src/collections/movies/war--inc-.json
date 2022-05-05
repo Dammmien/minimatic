@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "War, Inc.",
+    "year": 2008,
+    "cast": [
+      "John Cusack",
+      "Hilary Duff",
+      "Marisa Tomei",
+      "Joan Cusack"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/war--inc-.html"
+}

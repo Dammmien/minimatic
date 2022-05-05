@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Shattered",
+    "year": 1991,
+    "cast": [
+      "Tom Berenger",
+      "Greta Scacchi",
+      "Bob Hoskins",
+      "Joanne Whalley",
+      "Corbin Bernsen"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/shattered.html"
+}

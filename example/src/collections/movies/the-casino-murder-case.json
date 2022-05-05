@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Casino Murder Case",
+    "year": 1935,
+    "cast": [
+      "Paul Lukas",
+      "Alison Skipworth",
+      "Rosalind Russell"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-casino-murder-case.html"
+}

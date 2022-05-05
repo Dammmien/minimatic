@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Auction Block",
+    "year": 1926,
+    "cast": [
+      "Charles Ray",
+      "Eleanor Boardman",
+      "Sally O'Neil"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-auction-block.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No Man's Law",
+    "year": 1925,
+    "cast": [
+      "Bob Custer",
+      "Ethan Laidlaw"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/no-man-s-law.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Pitch Perfect 2",
+    "year": 2015,
+    "cast": [
+      "Anna Kendrick",
+      "Skylar Astin",
+      "Rebel Wilson",
+      "Brittany Snow",
+      "Ester Dean"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pitch-perfect-2.html"
+}

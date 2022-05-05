@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Parasite",
+    "year": 1925,
+    "cast": [
+      "Owen Moore",
+      "Madge Bellamy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-parasite.html"
+}

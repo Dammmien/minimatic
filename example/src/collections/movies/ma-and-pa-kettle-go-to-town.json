@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ma and Pa Kettle Go to Town",
+    "year": 1950,
+    "cast": [
+      "Marjorie Main",
+      "Percy Kilbride"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ma-and-pa-kettle-go-to-town.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Patient in Room 18",
+    "year": 1938,
+    "cast": [
+      "Ann Sheridan",
+      "Patric Knowles"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-patient-in-room-18.html"
+}

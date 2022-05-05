@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Forbidden Paradise",
+    "year": 1924,
+    "cast": [
+      "Pola Negri",
+      "Rod La Rocque",
+      "Adolphe Menjou"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/forbidden-paradise.html"
+}

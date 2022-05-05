@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Property Man",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Phyllis Allen",
+      "Alice Davenport"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-property-man.html"
+}

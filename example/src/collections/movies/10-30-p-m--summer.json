@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "10:30 P.M. Summer",
+    "year": 1966,
+    "cast": [
+      "Melina Mercouri",
+      "Romy Schneider",
+      "Peter Finch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/10-30-p-m--summer.html"
+}

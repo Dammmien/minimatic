@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Little Monsters",
+    "year": 1989,
+    "cast": [
+      "Fred Savage",
+      "Daniel Stern"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-monsters.html"
+}

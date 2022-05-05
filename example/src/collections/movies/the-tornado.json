@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Tornado",
+    "year": 1924,
+    "cast": [
+      "House Peters",
+      "Ruth Clifford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-tornado.html"
+}

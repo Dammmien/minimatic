@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Song of Songs",
+    "year": 1933,
+    "cast": [
+      "Marlene Dietrich",
+      "Brian Aherne"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-song-of-songs.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Let's Try Again",
+    "year": 1934,
+    "cast": [
+      "Clive Brook",
+      "Diana Wynyard",
+      "Helen Vinson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/let-s-try-again.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stolen Holiday",
+    "year": 1937,
+    "cast": [
+      "Kay Francis",
+      "Claude Rains",
+      "Ian Hunter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stolen-holiday.html"
+}

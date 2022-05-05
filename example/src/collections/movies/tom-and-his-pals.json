@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tom and His Pals",
+    "year": 1926,
+    "cast": [
+      "Tom Tyler",
+      "Doris Hill"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/tom-and-his-pals.html"
+}

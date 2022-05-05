@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fire and Ice",
+    "year": 1983,
+    "cast": [
+      "Randy Norton",
+      "Cynthia Leake",
+      "Steve Sandor"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/fire-and-ice.html"
+}

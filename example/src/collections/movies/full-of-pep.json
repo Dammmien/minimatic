@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Full of Pep",
+    "year": 1919,
+    "cast": [
+      "Hale Hamilton",
+      "Alice Lake"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/full-of-pep.html"
+}

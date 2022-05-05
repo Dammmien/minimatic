@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Colors",
+    "year": 1988,
+    "cast": [
+      "Sean Penn",
+      "Robert Duvall",
+      "María Conchita Alonso"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/colors.html"
+}

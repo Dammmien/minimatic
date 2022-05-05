@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Call of the Yukon",
+    "year": 1938,
+    "cast": [
+      "Richard Arlen",
+      "Beverly Roberts",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/call-of-the-yukon.html"
+}

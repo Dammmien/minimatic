@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Arsène Lupin Returns",
+    "year": 1938,
+    "cast": [
+      "Melvyn Douglas",
+      "Virginia Bruce",
+      "Warren William"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/ars-ne-lupin-returns.html"
+}

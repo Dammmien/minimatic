@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Cars 3",
+    "year": 2017,
+    "cast": [
+      "Owen Wilson",
+      "Larry the Cable Guy",
+      "Bonnie Hunt",
+      "Cheech Marin",
+      "Michael Wallis",
+      "Cristela Alonzo",
+      "Armie Hammer",
+      "Paul Dooley"
+    ],
+    "genres": [
+      "Animated",
+      "Sports",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/cars-3.html"
+}

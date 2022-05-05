@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sunday Bloody Sunday",
+    "year": 1971,
+    "cast": [
+      "Glenda Jackson",
+      "Peter Finch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sunday-bloody-sunday.html"
+}

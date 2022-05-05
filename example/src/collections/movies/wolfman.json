@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wolfman",
+    "year": 1979,
+    "cast": [
+      "Earl Owensby",
+      "Ed Grady"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/wolfman.html"
+}

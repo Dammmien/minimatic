@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Thunder in the East",
+    "year": 1952,
+    "cast": [
+      "Allan Ladd",
+      "Deborah Kerr",
+      "Charles Boyer"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/thunder-in-the-east.html"
+}

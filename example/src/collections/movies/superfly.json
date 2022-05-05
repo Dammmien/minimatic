@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Superfly",
+    "year": 2018,
+    "cast": [
+      "Trevor Jackson",
+      "Jason Mitchell",
+      "Michael K. Williams",
+      "Esai Morales"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/superfly.html"
+}

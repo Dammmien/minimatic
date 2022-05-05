@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Meet Joe Black",
+    "year": 1998,
+    "cast": [
+      "Brad Pitt",
+      "Anthony Hopkins",
+      "Claire Forlani",
+      "Jake Weber",
+      "Jeffrey Tambor",
+      "Marcia Gay Harden"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/meet-joe-black.html"
+}

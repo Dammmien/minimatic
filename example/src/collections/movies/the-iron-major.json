@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Iron Major",
+    "year": 1943,
+    "cast": [
+      "Pat O'Brien",
+      "Ruth Warrick"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-iron-major.html"
+}

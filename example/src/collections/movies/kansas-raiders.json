@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kansas Raiders",
+    "year": 1950,
+    "cast": [
+      "Audie Murphy",
+      "Brian Donlevy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/kansas-raiders.html"
+}

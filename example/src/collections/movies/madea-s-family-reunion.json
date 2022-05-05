@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Madea's Family Reunion",
+    "year": 2006,
+    "cast": [
+      "Tyler Perry",
+      "Blair Underwood",
+      "Lynn Whitfield",
+      "Boris Kodjoe"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/madea-s-family-reunion.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Disorderly Conduct",
+    "year": 1932,
+    "cast": [
+      "Spencer Tracy",
+      "Sally Eilers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/disorderly-conduct.html"
+}

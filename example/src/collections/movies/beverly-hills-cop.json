@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Beverly Hills Cop",
+    "year": 1984,
+    "cast": [
+      "Eddie Murphy",
+      "Judge Reinhold",
+      "John Ashton",
+      "Lisa Eilbacher",
+      "Bronson Pinchot",
+      "Ronny Cox"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/beverly-hills-cop.html"
+}

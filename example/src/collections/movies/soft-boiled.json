@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Soft Boiled",
+    "year": 1923,
+    "cast": [
+      "Tom Mix",
+      "Billie Dove"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/soft-boiled.html"
+}

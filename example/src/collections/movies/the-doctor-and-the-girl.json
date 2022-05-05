@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Doctor and the Girl",
+    "year": 1949,
+    "cast": [
+      "Glenn Ford",
+      "Gloria DeHaven"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-doctor-and-the-girl.html"
+}

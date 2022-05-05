@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ghost-Town Gold",
+    "year": 1936,
+    "cast": [
+      "Robert Livingston",
+      "Ray Corrigan",
+      "Max Terhune"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ghost-town-gold.html"
+}

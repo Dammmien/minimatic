@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Awful Truth",
+    "year": 1937,
+    "cast": [
+      "Cary Grant",
+      "Irene Dunne",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-awful-truth.html"
+}

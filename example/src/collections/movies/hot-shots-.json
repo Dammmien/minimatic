@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Hot Shots!",
+    "year": 1991,
+    "cast": [
+      "Charlie Sheen",
+      "Cary Elwes",
+      "Valeria Golino",
+      "Jon Cryer",
+      "Lloyd Bridges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hot-shots-.html"
+}

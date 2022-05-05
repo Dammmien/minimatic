@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The World of Suzie Wong",
+    "year": 1960,
+    "cast": [
+      "William Holden",
+      "Nancy Kwan",
+      "Sylvia Syms"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-world-of-suzie-wong.html"
+}

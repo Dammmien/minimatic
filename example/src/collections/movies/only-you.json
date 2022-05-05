@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Only You",
+    "year": 1994,
+    "cast": [
+      "Marisa Tomei",
+      "Robert Downey, Jr.",
+      "Bonnie Hunt"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/only-you.html"
+}

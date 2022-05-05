@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Mallrats",
+    "year": 1995,
+    "cast": [
+      "Shannen Doherty",
+      "Jeremy London",
+      "Jason Lee",
+      "Claire Forlani",
+      "Jason Mewes",
+      "Kevin Smith",
+      "Ben Affleck",
+      "Joey Lauren Adams",
+      "Michael Rooker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mallrats.html"
+}

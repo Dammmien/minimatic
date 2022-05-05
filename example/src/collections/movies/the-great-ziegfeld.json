@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Great Ziegfeld",
+    "year": 1936,
+    "cast": [
+      "William Powell",
+      "Myrna Loy",
+      "Luise Rainer",
+      "(",
+      "Academy Award for Best Actress",
+      ")"
+    ],
+    "genres": [
+      "Musical",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-great-ziegfeld.html"
+}

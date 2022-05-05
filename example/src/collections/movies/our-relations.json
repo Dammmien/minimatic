@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Our Relations",
+    "year": 1936,
+    "cast": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "Alan Hale"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/our-relations.html"
+}

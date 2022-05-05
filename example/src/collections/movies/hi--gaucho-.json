@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hi, Gaucho!",
+    "year": 1935,
+    "cast": [
+      "John Carroll",
+      "Steffi Duna",
+      "Rod La Rocque",
+      "Montagu Love"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hi--gaucho-.html"
+}

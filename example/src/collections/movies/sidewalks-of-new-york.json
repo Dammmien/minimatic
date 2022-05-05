@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Sidewalks of New York",
+    "year": 2001,
+    "cast": [
+      "Edward Burns",
+      "Rosario Dawson",
+      "Dennis Farina",
+      "Heather Graham",
+      "David Krumholtz",
+      "Brittany Murphy",
+      "Stanley Tucci"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sidewalks-of-new-york.html"
+}

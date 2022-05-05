@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Westward Trail",
+    "year": 1948,
+    "cast": [
+      "Eddie Dean",
+      "Roscoe Ates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-westward-trail.html"
+}

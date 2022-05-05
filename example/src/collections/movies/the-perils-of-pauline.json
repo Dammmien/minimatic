@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Perils of Pauline",
+    "year": 1947,
+    "cast": [
+      "Betty Hutton",
+      "John Lund"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-perils-of-pauline.html"
+}

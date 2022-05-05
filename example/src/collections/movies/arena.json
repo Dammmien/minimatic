@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Arena",
+    "year": 1989,
+    "cast": [
+      "Paul Satterfield",
+      "Hamilton Camp"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/arena.html"
+}

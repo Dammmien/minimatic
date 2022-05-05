@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "3 Bad Men",
+    "year": 1926,
+    "cast": [
+      "George O'Brien",
+      "Olive Borden"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/3-bad-men.html"
+}

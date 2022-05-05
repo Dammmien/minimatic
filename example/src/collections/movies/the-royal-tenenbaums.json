@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Royal Tenenbaums",
+    "year": 2001,
+    "cast": [
+      "Gene Hackman",
+      "Anjelica Huston",
+      "Gwyneth Paltrow",
+      "Ben Stiller",
+      "Luke Wilson",
+      "Owen Wilson",
+      "Danny Glover",
+      "Bill Murray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-royal-tenenbaums.html"
+}

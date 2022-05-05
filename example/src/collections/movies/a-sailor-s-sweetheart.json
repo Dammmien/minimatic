@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Sailor's Sweetheart",
+    "year": 1927,
+    "cast": [
+      "Louise Fazenda",
+      "Clyde Cook",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-sailor-s-sweetheart.html"
+}

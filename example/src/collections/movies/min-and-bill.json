@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Min and Bill",
+    "year": 1930,
+    "cast": [
+      "Marie Dressler",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/min-and-bill.html"
+}

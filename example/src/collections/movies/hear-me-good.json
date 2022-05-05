@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hear Me Good",
+    "year": 1957,
+    "cast": [
+      "Hal March",
+      "Merry Anders"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hear-me-good.html"
+}

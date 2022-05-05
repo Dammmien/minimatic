@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Half Shot at Sunrise",
+    "year": 1930,
+    "cast": [
+      "Bert Wheeler",
+      "Robert Woolsey",
+      "Dorothy Lee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/half-shot-at-sunrise.html"
+}

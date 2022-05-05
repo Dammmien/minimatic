@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "My Favorite Martian",
+    "year": 1999,
+    "cast": [
+      "Christopher Lloyd",
+      "Jeff Daniels",
+      "Elizabeth Hurley",
+      "Daryl Hannah",
+      "Wallace Shawn",
+      "Ray Walston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-favorite-martian.html"
+}

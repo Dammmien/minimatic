@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Clara's Heart",
+    "year": 1988,
+    "cast": [
+      "Whoopi Goldberg",
+      "Kathleen Quinlan",
+      "Neil Patrick Harris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/clara-s-heart.html"
+}

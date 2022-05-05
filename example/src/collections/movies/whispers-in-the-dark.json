@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Whispers in the Dark",
+    "year": 1992,
+    "cast": [
+      "Annabella Sciorra",
+      "Jamey Sheridan",
+      "Alan Alda",
+      "John Leguizamo",
+      "Anthony LaPaglia",
+      "Jill Clayburgh",
+      "Deborah Kara Unger"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/whispers-in-the-dark.html"
+}

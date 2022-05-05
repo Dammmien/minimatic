@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brother John",
+    "year": 1971,
+    "cast": [
+      "Sidney Poitier",
+      "Will Geer",
+      "Bradford Dillman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/brother-john.html"
+}

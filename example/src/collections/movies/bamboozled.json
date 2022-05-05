@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Bamboozled",
+    "year": 2000,
+    "cast": [
+      "Damon Wayans",
+      "Jada Pinkett Smith",
+      "Savion Glover",
+      "Michael Rapaport",
+      "Tommy Davidson"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/bamboozled.html"
+}

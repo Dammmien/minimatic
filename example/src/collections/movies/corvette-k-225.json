@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Corvette K-225",
+    "year": 1943,
+    "cast": [
+      "Randolph Scott",
+      "Ella Raines"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/corvette-k-225.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gangster",
+    "year": 1947,
+    "cast": [
+      "Barry Sullivan",
+      "Belita"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-gangster.html"
+}

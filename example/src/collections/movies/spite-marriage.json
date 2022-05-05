@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Spite Marriage",
+    "year": 1929,
+    "cast": [
+      "Buster Keaton",
+      "Dorothy Sebastian"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/spite-marriage.html"
+}

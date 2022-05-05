@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Ritz",
+    "year": 1976,
+    "cast": [
+      "Rita Moreno",
+      "F. Murray Abraham",
+      "Kaye Ballard",
+      "Jerry Stiller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ritz.html"
+}

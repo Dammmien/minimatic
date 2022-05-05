@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gun Smugglers",
+    "year": 1948,
+    "cast": [
+      "Tim Holt",
+      "Martha Hyer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gun-smugglers.html"
+}

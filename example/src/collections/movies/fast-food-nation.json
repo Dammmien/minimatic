@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fast Food Nation",
+    "year": 2006,
+    "cast": [
+      "Greg Kinnear",
+      "Wilmer Valderrama",
+      "Avril Lavigne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fast-food-nation.html"
+}

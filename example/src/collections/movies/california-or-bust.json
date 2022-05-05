@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "California or Bust",
+    "year": 1927,
+    "cast": [
+      "George O'Hara",
+      "Helen Foster"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/california-or-bust.html"
+}

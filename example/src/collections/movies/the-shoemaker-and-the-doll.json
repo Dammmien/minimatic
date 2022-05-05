@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Shoemaker and the Doll",
+    "year": 1913,
+    "cast": [
+      "William Garwood"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-shoemaker-and-the-doll.html"
+}

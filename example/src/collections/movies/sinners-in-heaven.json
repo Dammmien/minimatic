@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sinners in Heaven",
+    "year": 1924,
+    "cast": [
+      "Bebe Daniels",
+      "Richard Dix"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sinners-in-heaven.html"
+}

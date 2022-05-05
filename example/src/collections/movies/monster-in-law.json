@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Monster-in-Law",
+    "year": 2005,
+    "cast": [
+      "Jennifer Lopez",
+      "Jane Fonda",
+      "Michael Vartan",
+      "Wanda Sykes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/monster-in-law.html"
+}

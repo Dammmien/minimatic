@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Susan Slade",
+    "year": 1961,
+    "cast": [
+      "Troy Donahue",
+      "Connie Stevens",
+      "Dorothy McGuire"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/susan-slade.html"
+}

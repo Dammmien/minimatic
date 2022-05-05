@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Five Guns to Tombstone",
+    "year": 1960,
+    "cast": [
+      "James Brown",
+      "Walter Coy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/five-guns-to-tombstone.html"
+}

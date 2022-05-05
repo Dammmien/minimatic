@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "About Schmidt",
+    "year": 2002,
+    "cast": [
+      "Jack Nicholson",
+      "Kathy Bates",
+      "Hope Davis",
+      "Len Cariou",
+      "Dermot Mulroney",
+      "June Squibb"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/about-schmidt.html"
+}

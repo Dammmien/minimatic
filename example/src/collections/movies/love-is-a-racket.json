@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love Is a Racket",
+    "year": 1932,
+    "cast": [
+      "Douglas Fairbanks Jr.",
+      "Ann Dvorak"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-is-a-racket.html"
+}

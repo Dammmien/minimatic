@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "In Caliente",
+    "year": 1935,
+    "cast": [
+      "Dolores del Río",
+      "Pat O'Brien",
+      "Edward Everett Horton"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/in-caliente.html"
+}

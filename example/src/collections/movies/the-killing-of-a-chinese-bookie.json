@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Killing of a Chinese Bookie",
+    "year": 1976,
+    "cast": [
+      "Ben Gazzara",
+      "Timothy Carey",
+      "Seymour Cassel"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-killing-of-a-chinese-bookie.html"
+}

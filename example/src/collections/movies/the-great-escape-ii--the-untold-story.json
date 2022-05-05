@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Escape II: The Untold Story",
+    "year": 1988,
+    "cast": [
+      "Christopher Reeve",
+      "Ian McShane",
+      "Donald Pleasence"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-great-escape-ii--the-untold-story.html"
+}

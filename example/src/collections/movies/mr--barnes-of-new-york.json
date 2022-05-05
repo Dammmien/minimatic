@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mr. Barnes of New York",
+    "year": 1922,
+    "cast": [
+      "Tom Moore",
+      "Anna Lehr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mr--barnes-of-new-york.html"
+}

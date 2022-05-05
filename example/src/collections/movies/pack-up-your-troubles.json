@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pack Up Your Troubles",
+    "year": 1932,
+    "cast": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "Don Dillaway"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pack-up-your-troubles.html"
+}

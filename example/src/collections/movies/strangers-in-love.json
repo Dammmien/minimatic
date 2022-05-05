@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strangers in Love",
+    "year": 1932,
+    "cast": [
+      "Fredric March",
+      "Kay Francis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/strangers-in-love.html"
+}

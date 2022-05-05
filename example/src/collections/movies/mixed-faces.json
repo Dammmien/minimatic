@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mixed Faces",
+    "year": 1922,
+    "cast": [
+      "William Russell",
+      "Renee Adoree",
+      "DeWitt Jennings"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mixed-faces.html"
+}

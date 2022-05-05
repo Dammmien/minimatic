@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Isle of Retribution",
+    "year": 1926,
+    "cast": [
+      "Lillian Rich",
+      "Victor McLaglen"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-isle-of-retribution.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Joe the King",
+    "year": 1999,
+    "cast": [
+      "Noah Fleiss",
+      "Val Kilmer",
+      "Karen Young",
+      "Ethan Hawke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/joe-the-king.html"
+}

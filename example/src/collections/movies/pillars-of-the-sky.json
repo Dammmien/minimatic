@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pillars of the Sky",
+    "year": 1956,
+    "cast": [
+      "Jeff Chandler",
+      "Dorothy Malone"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/pillars-of-the-sky.html"
+}

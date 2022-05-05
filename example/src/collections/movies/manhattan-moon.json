@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Manhattan Moon",
+    "year": 1935,
+    "cast": [
+      "Ricardo Cortez",
+      "Dorothy Page",
+      "Hugh O'Connell"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/manhattan-moon.html"
+}

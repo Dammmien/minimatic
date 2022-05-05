@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Miracle in Harlem",
+    "year": 1948,
+    "cast": [
+      "Sheila Guyse"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/miracle-in-harlem.html"
+}

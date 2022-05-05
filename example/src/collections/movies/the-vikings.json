@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Vikings",
+    "year": 1958,
+    "cast": [
+      "Kirk Douglas",
+      "Tony Curtis",
+      "Ernest Borgnine",
+      "Janet Leigh",
+      "James Donald"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-vikings.html"
+}

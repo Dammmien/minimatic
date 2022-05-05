@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Patent Leather Kid",
+    "year": 1927,
+    "cast": [
+      "Richard Barthelmess",
+      "Molly O'Day"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-patent-leather-kid.html"
+}

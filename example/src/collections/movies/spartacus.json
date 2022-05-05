@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Spartacus",
+    "year": 1960,
+    "cast": [
+      "Kirk Douglas",
+      "Laurence Olivier",
+      "Jean Simmons",
+      "Tony Curtis",
+      "Peter Ustinov",
+      "Charles Laughton",
+      "John Gavin",
+      "Woody Strode",
+      "John Ireland",
+      "John Dall"
+    ],
+    "genres": []
+  },
+  "output": "movies/spartacus.html"
+}

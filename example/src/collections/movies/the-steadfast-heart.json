@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Steadfast Heart",
+    "year": 1923,
+    "cast": [
+      "Marguerite Courtot",
+      "Miriam Battista"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-steadfast-heart.html"
+}

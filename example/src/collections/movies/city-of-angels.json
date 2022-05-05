@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "City of Angels",
+    "year": 1998,
+    "cast": [
+      "Nicolas Cage",
+      "Meg Ryan",
+      "Andre Braugher",
+      "Dennis Franz"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/city-of-angels.html"
+}

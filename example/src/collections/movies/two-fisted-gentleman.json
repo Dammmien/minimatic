@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Two-Fisted Gentleman",
+    "year": 1936,
+    "cast": [
+      "James Dunn",
+      "June Clayworth",
+      "Muriel Evans"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/two-fisted-gentleman.html"
+}

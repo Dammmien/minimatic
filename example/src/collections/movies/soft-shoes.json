@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Soft Shoes",
+    "year": 1925,
+    "cast": [
+      "Harry Carey",
+      "Lillian Rich"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/soft-shoes.html"
+}

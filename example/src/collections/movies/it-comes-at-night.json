@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "It Comes at Night",
+    "year": 2017,
+    "cast": [
+      "Joel Edgerton",
+      "Riley Keough",
+      "Christopher Abbott",
+      "Kelvin Harrison Jr.",
+      "Carmen Ejogo"
+    ],
+    "genres": [
+      "Horror",
+      "Mystery"
+    ]
+  },
+  "output": "movies/it-comes-at-night.html"
+}

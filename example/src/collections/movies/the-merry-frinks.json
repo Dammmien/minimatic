@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Merry Frinks",
+    "year": 1934,
+    "cast": [
+      "Aline MacMahon",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-merry-frinks.html"
+}

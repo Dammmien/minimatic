@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Cowboys & Aliens",
+    "year": 2011,
+    "cast": [
+      "Daniel Craig",
+      "Harrison Ford",
+      "Olivia Wilde",
+      "Ana de la Reguera",
+      "Sam Rockwell",
+      "Adam Beach",
+      "Paul Dano",
+      "Noah Ringer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cowboys---aliens.html"
+}

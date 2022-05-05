@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Aces and Eights",
+    "year": 1936,
+    "cast": [
+      "Tim McCoy",
+      "Luana Walters",
+      "Rex Lease"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/aces-and-eights.html"
+}

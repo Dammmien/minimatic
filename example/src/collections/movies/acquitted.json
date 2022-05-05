@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Acquitted",
+    "year": 1929,
+    "cast": [
+      "Lloyd Hughes",
+      "Margaret Livingston"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/acquitted.html"
+}

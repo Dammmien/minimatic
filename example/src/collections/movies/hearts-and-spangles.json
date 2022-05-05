@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hearts and Spangles",
+    "year": 1926,
+    "cast": [
+      "Wanda Hawley",
+      "Robert Gordon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hearts-and-spangles.html"
+}

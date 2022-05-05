@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Field of Dreams",
+    "year": 1989,
+    "cast": [
+      "Kevin Costner",
+      "Amy Madigan",
+      "James Earl Jones",
+      "Ray Liotta",
+      "Burt Lancaster",
+      "Timothy Busfield",
+      "Gaby Hoffmann"
+    ],
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/field-of-dreams.html"
+}

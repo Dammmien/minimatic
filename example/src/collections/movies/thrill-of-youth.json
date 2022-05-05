@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thrill of Youth",
+    "year": 1932,
+    "cast": [
+      "June Clyde",
+      "Dorothy Peterson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thrill-of-youth.html"
+}

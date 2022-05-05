@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bucking the Barrier",
+    "year": 1923,
+    "cast": [
+      "Dustin Farnum",
+      "Arline Pretty"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bucking-the-barrier.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Tarzan Goes to India",
+    "year": 1962,
+    "cast": [
+      "Jock Mahoney"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-goes-to-india.html"
+}

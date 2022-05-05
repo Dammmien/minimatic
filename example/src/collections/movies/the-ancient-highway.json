@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ancient Highway",
+    "year": 1925,
+    "cast": [
+      "Jack Holt",
+      "Billie Dove",
+      "Montagu Love"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-ancient-highway.html"
+}

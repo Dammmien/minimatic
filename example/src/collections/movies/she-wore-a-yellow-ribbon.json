@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "She Wore a Yellow Ribbon",
+    "year": 1949,
+    "cast": [
+      "John Wayne",
+      "Joanne Dru",
+      "Ben Johnson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/she-wore-a-yellow-ribbon.html"
+}

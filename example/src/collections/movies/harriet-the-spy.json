@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Harriet the Spy",
+    "year": 1996,
+    "cast": [
+      "Michelle Trachtenberg",
+      "Rosie O'Donnell"
+    ],
+    "genres": [
+      "Family",
+      "Mystery"
+    ]
+  },
+  "output": "movies/harriet-the-spy.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blue Valentine",
+    "year": 2010,
+    "cast": [
+      "Ryan Gosling",
+      "Michelle Williams"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/blue-valentine.html"
+}

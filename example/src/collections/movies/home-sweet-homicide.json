@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Home Sweet Homicide",
+    "year": 1946,
+    "cast": [
+      "Peggy Ann Garner",
+      "Randolph Scott"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/home-sweet-homicide.html"
+}

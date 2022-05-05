@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Boys of the City",
+    "year": 1940,
+    "cast": [
+      "Bobby Jordan",
+      "Leo Gorcey",
+      "Hal E. Chester"
+    ],
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ]
+  },
+  "output": "movies/boys-of-the-city.html"
+}

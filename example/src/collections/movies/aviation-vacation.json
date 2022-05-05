@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Aviation Vacation",
+    "year": 1941,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/aviation-vacation.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Top Hat",
+    "year": 1935,
+    "cast": [
+      "Fred Astaire",
+      "Ginger Rogers",
+      "Edward Everett Horton"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/top-hat.html"
+}

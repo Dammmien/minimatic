@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Flaming Forest",
+    "year": 1926,
+    "cast": [
+      "Antonio Moreno",
+      "Renée Adorée"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-flaming-forest.html"
+}

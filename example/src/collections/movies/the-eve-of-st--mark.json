@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Eve of St. Mark",
+    "year": 1944,
+    "cast": [
+      "Anne Baxter",
+      "Michael O'Shea",
+      "Vincent Price"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-eve-of-st--mark.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Losers",
+    "year": 2010,
+    "cast": [
+      "Jeffrey Dean Morgan",
+      "Zoe Saldana",
+      "Chris Evans",
+      "Idris Elba",
+      "Columbus Short",
+      "Oscar Janaeda",
+      "Jason Patric"
+    ],
+    "genres": [
+      "Action",
+      "Comedy",
+      "Superhero"
+    ]
+  },
+  "output": "movies/the-losers.html"
+}

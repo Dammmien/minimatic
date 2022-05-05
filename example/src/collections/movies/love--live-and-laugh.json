@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Love, Live and Laugh",
+    "year": 1929,
+    "cast": [
+      "George Jessel",
+      "Lila Lee",
+      "John Loder"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/love--live-and-laugh.html"
+}

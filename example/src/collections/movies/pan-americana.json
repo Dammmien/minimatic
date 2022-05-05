@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pan-Americana",
+    "year": 1945,
+    "cast": [
+      "Phillip Terry",
+      "Eve Arden"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/pan-americana.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "How Stella Got Her Groove Back",
+    "year": 1998,
+    "cast": [
+      "Angela Bassett",
+      "Taye Diggs",
+      "Whoopi Goldberg",
+      "Regina King"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/how-stella-got-her-groove-back.html"
+}

@@ -1,0 +1,32 @@
+{
+  "data": {
+    "title": "Valentine's Day",
+    "year": 2010,
+    "cast": [
+      "Jessica Alba",
+      "Kathy Bates",
+      "Jessica Biel",
+      "Bradley Cooper",
+      "Eric Dane",
+      "Patrick Dempsey",
+      "Héctor Elizondo",
+      "Jamie Foxx",
+      "Jennifer Garner",
+      "Topher Grace",
+      "Anne Hathaway",
+      "Ashton Kutcher",
+      "Queen Latifah",
+      "Taylor Lautner",
+      "George Lopez",
+      "Shirley MacLaine",
+      "Emma Roberts",
+      "Julia Roberts",
+      "Taylor Swift"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/valentine-s-day.html"
+}

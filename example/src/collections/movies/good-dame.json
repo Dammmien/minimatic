@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Good Dame",
+    "year": 1934,
+    "cast": [
+      "Sylvia Sidney",
+      "Fredric March"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/good-dame.html"
+}

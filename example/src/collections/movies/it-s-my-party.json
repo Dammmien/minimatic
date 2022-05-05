@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "It's My Party",
+    "year": 1996,
+    "cast": [
+      "Eric Roberts",
+      "Olivia Newton-John",
+      "Margaret Cho",
+      "Marlee Matlin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/it-s-my-party.html"
+}

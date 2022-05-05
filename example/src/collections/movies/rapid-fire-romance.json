@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rapid Fire Romance",
+    "year": 1926,
+    "cast": [
+      "Billy Sullivan",
+      "Marjorie Bonner"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/rapid-fire-romance.html"
+}

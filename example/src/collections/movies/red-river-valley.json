@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Red River Valley",
+    "year": 1941,
+    "cast": [
+      "Roy Rogers",
+      "Gabby Hayes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/red-river-valley.html"
+}

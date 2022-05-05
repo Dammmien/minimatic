@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Come September",
+    "year": 1961,
+    "cast": [
+      "Rock Hudson",
+      "Gina Lollobrigida",
+      "Bobby Darin",
+      "Sandra Dee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/come-september.html"
+}

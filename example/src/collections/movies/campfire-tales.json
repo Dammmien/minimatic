@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Campfire Tales",
+    "year": 1997,
+    "cast": [
+      "Gunnar Hansen"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/campfire-tales.html"
+}

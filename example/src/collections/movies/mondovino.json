@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mondovino",
+    "year": 2004,
+    "cast": [
+      "the impact of the",
+      "globalization of wine"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/mondovino.html"
+}

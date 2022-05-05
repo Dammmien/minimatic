@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Small Town Boy",
+    "year": 1937,
+    "cast": [
+      "Stuart Erwin",
+      "Joyce Compton",
+      "Dorothy Appleby"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/small-town-boy.html"
+}

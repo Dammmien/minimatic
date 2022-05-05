@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Whistlin' Dan",
+    "year": 1932,
+    "cast": [
+      "Ken Maynard",
+      "Joyzelle Joyner"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/whistlin--dan.html"
+}

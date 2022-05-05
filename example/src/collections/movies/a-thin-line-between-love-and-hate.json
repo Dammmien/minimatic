@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Thin Line Between Love and Hate",
+    "year": 1996,
+    "cast": [
+      "Martin Lawrence",
+      "Lynn Whitfield"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-thin-line-between-love-and-hate.html"
+}

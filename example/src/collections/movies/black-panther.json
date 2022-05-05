@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Black Panther",
+    "year": 2018,
+    "cast": [
+      "Chadwick Boseman",
+      "Michael B. Jordan",
+      "Lupita Nyong'o",
+      "Danai Gurira",
+      "Martin Freeman",
+      "Daniel Kaluuya",
+      "Letitia Wright",
+      "Winston Duke",
+      "Angela Bassett",
+      "Forest Whitaker",
+      "Andy Serkis"
+    ],
+    "genres": [
+      "Superhero",
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/black-panther.html"
+}

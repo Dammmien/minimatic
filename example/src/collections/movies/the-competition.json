@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Competition",
+    "year": 1980,
+    "cast": [
+      "Richard Dreyfuss",
+      "Amy Irving",
+      "Lee Remick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-competition.html"
+}

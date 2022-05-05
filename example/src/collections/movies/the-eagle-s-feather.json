@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Eagle's Feather",
+    "year": 1923,
+    "cast": [
+      "James Kirkwood",
+      "Mary Alden"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-eagle-s-feather.html"
+}

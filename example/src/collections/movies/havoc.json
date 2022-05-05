@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Havoc",
+    "year": 1925,
+    "cast": [
+      "Madge Bellamy",
+      "George O'Brien"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/havoc.html"
+}

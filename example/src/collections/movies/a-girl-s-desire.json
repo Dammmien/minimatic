@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Girl's Desire",
+    "year": 1922,
+    "cast": [
+      "Alice Calhoun",
+      "Warner Baxter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-girl-s-desire.html"
+}

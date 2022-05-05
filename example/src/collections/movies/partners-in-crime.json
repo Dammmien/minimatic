@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Partners in Crime",
+    "year": 1937,
+    "cast": [
+      "Lynne Overman",
+      "Roscoe Karns",
+      "Anthony Quinn"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/partners-in-crime.html"
+}

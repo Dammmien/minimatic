@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pittsburgh",
+    "year": 1942,
+    "cast": [
+      "John Wayne",
+      "Marlene Dietrich",
+      "Randolph Scott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pittsburgh.html"
+}

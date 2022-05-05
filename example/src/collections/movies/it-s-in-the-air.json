@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It's in the Air",
+    "year": 1935,
+    "cast": [
+      "Jack Benny",
+      "Una Merkel",
+      "Mary Carlisle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-in-the-air.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Madonna of the Streets",
+    "year": 1930,
+    "cast": [
+      "Evelyn Brent",
+      "Robert Ames"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/madonna-of-the-streets.html"
+}

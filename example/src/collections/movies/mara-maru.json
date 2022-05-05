@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mara Maru",
+    "year": 1952,
+    "cast": [
+      "Errol Flynn",
+      "Ruth Roman"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/mara-maru.html"
+}

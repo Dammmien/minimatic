@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Lovesong",
+    "year": 2017,
+    "cast": [
+      "Jena Malone",
+      "Riley Keough",
+      "Brooklyn Decker",
+      "Amy Seimetz",
+      "Marshall Chapman",
+      "Ryan Eggold",
+      "Rosanna Arquette"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lovesong.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Beautiful Boy",
+    "year": 2018,
+    "cast": [
+      "Steve Carell",
+      "Timothée Chalamet",
+      "Maura Tierney",
+      "Amy Ryan"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/beautiful-boy.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Clockers",
+    "year": 1995,
+    "cast": [
+      "Harvey Keitel",
+      "John Turturro",
+      "Delroy Lindo",
+      "Mekhi Phifer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/clockers.html"
+}

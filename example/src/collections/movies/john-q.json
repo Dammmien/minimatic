@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "John Q",
+    "year": 2002,
+    "cast": [
+      "Denzel Washington",
+      "Robert Duvall",
+      "James Woods",
+      "Anne Heche",
+      "Ray Liotta"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/john-q.html"
+}

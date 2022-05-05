@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Keyhole",
+    "year": 1933,
+    "cast": [
+      "Kay Francis",
+      "George Brent",
+      "Glenda Farrell"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-keyhole.html"
+}

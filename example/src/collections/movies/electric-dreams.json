@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Electric Dreams",
+    "year": 1984,
+    "cast": [
+      "Lenny Von Dohlen",
+      "Virginia Madsen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/electric-dreams.html"
+}

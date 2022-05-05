@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Edge of the City",
+    "year": 1957,
+    "cast": [
+      "John Cassavetes",
+      "Sidney Poitier",
+      "Jack Warden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/edge-of-the-city.html"
+}

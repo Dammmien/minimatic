@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Bugs Bunny and the Three Bears",
+    "year": 1944,
+    "cast": [
+      "Merrie Melodies"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/bugs-bunny-and-the-three-bears.html"
+}

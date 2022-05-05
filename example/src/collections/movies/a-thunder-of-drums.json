@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Thunder of Drums",
+    "year": 1961,
+    "cast": [
+      "Richard Boone",
+      "George Hamilton",
+      "Luana Patten"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-thunder-of-drums.html"
+}

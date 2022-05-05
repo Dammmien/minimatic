@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Making the Grade",
+    "year": 1984,
+    "cast": [
+      "Judd Nelson",
+      "Gordon Jump"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/making-the-grade.html"
+}

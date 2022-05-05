@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wyoming Roundup",
+    "year": 1952,
+    "cast": [
+      "Whip Wilson",
+      "Phyllis Coates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wyoming-roundup.html"
+}

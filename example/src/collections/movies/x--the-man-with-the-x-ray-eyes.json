@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "X: The Man with the X-ray Eyes",
+    "year": 1963,
+    "cast": [
+      "Ray Milland",
+      "Diana Van der Vlis",
+      "Don Rickles"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/x--the-man-with-the-x-ray-eyes.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Driver",
+    "year": 1978,
+    "cast": [
+      "Ryan O'Neal",
+      "Bruce Dern",
+      "Isabelle Adjani"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-driver.html"
+}

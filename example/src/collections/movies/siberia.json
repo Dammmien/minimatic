@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Siberia",
+    "year": 1926,
+    "cast": [
+      "Alma Rubens",
+      "Edmund Lowe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/siberia.html"
+}

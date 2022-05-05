@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Calling All Curs",
+    "year": 1939,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/calling-all-curs.html"
+}

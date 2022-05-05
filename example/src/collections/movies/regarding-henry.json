@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Regarding Henry",
+    "year": 1991,
+    "cast": [
+      "Harrison Ford",
+      "Annette Bening",
+      "Donald Moffat",
+      "Bill Nunn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/regarding-henry.html"
+}

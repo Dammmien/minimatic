@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One of the Finest",
+    "year": 1919,
+    "cast": [
+      "Tom Moore",
+      "Seena Owen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-of-the-finest.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Introduce Me",
+    "year": 1925,
+    "cast": [
+      "Douglas MacLean",
+      "Anne Cornwall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/introduce-me.html"
+}

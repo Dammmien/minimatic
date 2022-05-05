@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "American Made",
+    "year": 2017,
+    "cast": [
+      "Tom Cruise",
+      "Domhnall Gleeson",
+      "Sarah Wright",
+      "Jayma Mays",
+      "Jesse Plemons"
+    ],
+    "genres": [
+      "Biography",
+      "Action",
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Historical",
+      "Thriller"
+    ]
+  },
+  "output": "movies/american-made.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Caught Short",
+    "year": 1930,
+    "cast": [
+      "Marie Dressler",
+      "Polly Moran",
+      "Anita Page"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/caught-short.html"
+}

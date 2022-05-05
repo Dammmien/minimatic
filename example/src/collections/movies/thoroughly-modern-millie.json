@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Thoroughly Modern Millie",
+    "year": 1967,
+    "cast": [
+      "Julie Andrews",
+      "Mary Tyler Moore",
+      "Carol Channing"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/thoroughly-modern-millie.html"
+}

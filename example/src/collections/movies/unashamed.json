@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Unashamed",
+    "year": 1932,
+    "cast": [
+      "Helen Twelvetrees",
+      "Robert Young"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/unashamed.html"
+}

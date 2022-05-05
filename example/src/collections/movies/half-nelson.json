@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Half Nelson",
+    "year": 2006,
+    "cast": [
+      "Ryan Gosling",
+      "Shareeka Epps"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/half-nelson.html"
+}

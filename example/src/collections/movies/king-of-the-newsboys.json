@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "King of the Newsboys",
+    "year": 1938,
+    "cast": [
+      "Lew Ayres",
+      "Helen Mack",
+      "Victor Varconi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/king-of-the-newsboys.html"
+}

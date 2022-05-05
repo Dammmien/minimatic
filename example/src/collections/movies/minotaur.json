@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Minotaur",
+    "year": 2006,
+    "cast": [
+      "Tom Hardy",
+      "Tony Todd",
+      "Rutger Hauer"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/minotaur.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No Sad Songs for Me",
+    "year": 1950,
+    "cast": [
+      "Margaret Sullavan",
+      "Wendell Corey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/no-sad-songs-for-me.html"
+}

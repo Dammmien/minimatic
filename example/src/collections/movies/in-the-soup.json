@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In the Soup",
+    "year": 1992,
+    "cast": [
+      "Steve Buscemi",
+      "Jennifer Beals",
+      "Seymour Cassel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/in-the-soup.html"
+}

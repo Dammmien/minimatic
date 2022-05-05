@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Miss Susie Slagle's",
+    "year": 1946,
+    "cast": [
+      "Veronica Lake",
+      "Sonny Tufts",
+      "Joan Caulfield"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/miss-susie-slagle-s.html"
+}

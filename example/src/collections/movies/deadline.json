@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Deadline",
+    "year": 2012,
+    "cast": [
+      "Eric Roberts",
+      "Steve Talley",
+      "J.D. Souther",
+      "David Dwyer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/deadline.html"
+}

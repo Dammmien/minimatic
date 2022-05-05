@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Golden Needles",
+    "year": 1974,
+    "cast": [
+      "Joe Don Baker",
+      "Elizabeth Ashley"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/golden-needles.html"
+}

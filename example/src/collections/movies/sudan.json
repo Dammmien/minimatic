@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sudan",
+    "year": 1945,
+    "cast": [
+      "Maria Montez",
+      "Jon Hall"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/sudan.html"
+}

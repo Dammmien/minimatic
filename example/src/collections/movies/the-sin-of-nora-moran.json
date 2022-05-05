@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sin of Nora Moran",
+    "year": 1933,
+    "cast": [
+      "Zita Johann",
+      "John Miljan"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sin-of-nora-moran.html"
+}

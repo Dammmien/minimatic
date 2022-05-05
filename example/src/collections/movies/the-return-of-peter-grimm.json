@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Return of Peter Grimm",
+    "year": 1935,
+    "cast": [
+      "Lionel Barrymore",
+      "Helen Mack",
+      "Edward Ellis",
+      "Donald Meek"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-return-of-peter-grimm.html"
+}

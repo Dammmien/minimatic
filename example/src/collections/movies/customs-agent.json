@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Customs Agent",
+    "year": 1950,
+    "cast": [
+      "William Eythe",
+      "Marjorie Reynolds"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/customs-agent.html"
+}

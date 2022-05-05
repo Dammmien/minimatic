@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Devil Dogs of the Air",
+    "year": 1935,
+    "cast": [
+      "James Cagney",
+      "Pat O'Brien",
+      "Margaret Lindsay"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/devil-dogs-of-the-air.html"
+}

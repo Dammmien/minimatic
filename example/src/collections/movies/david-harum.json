@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "David Harum",
+    "year": 1934,
+    "cast": [
+      "Will Rogers",
+      "Louise Dresser"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/david-harum.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Man Who Lived Twice",
+    "year": 1936,
+    "cast": [
+      "Ralph Bellamy",
+      "Thurston Hall",
+      "Isabel Jewell"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-man-who-lived-twice.html"
+}

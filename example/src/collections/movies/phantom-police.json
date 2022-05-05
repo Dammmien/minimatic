@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Phantom Police",
+    "year": 1926,
+    "cast": [
+      "Herbert Rawlinson",
+      "Purnell Pratt"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/phantom-police.html"
+}

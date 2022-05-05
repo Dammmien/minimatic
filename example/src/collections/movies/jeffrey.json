@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jeffrey",
+    "year": 1995,
+    "cast": [
+      "Steven Weber",
+      "Patrick Stewart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jeffrey.html"
+}

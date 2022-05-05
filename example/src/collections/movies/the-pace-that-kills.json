@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pace That Kills",
+    "year": 1935,
+    "cast": [
+      "Sheila Bromley",
+      "Lois January",
+      "Charles Delaney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-pace-that-kills.html"
+}

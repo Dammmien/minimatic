@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stablemates",
+    "year": 1938,
+    "cast": [
+      "Wallace Beery",
+      "Mickey Rooney",
+      "Arthur Hohl"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stablemates.html"
+}

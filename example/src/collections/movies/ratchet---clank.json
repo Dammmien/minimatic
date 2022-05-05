@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ratchet & Clank",
+    "year": 2016,
+    "cast": [
+      "Paul Giamatti",
+      "John Goodman",
+      "Bella Thorne"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/ratchet---clank.html"
+}

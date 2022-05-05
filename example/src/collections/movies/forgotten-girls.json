@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Forgotten Girls",
+    "year": 1940,
+    "cast": [
+      "Louise Platt",
+      "Donald Woods"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/forgotten-girls.html"
+}

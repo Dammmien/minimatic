@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ghost of Hidden Valley",
+    "year": 1946,
+    "cast": [
+      "Buster Crabbe",
+      "Al St. John"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/ghost-of-hidden-valley.html"
+}

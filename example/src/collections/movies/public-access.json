@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Public Access",
+    "year": 1993,
+    "cast": [
+      "Ron Marquette",
+      "Dina Brooks"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/public-access.html"
+}

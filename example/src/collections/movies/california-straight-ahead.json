@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "California Straight Ahead",
+    "year": 1937,
+    "cast": [
+      "John Wayne",
+      "Louise Latimer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/california-straight-ahead.html"
+}

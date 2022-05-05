@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Truth About Spring",
+    "year": 1965,
+    "cast": [
+      "Hayley Mills",
+      "John Mills"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-truth-about-spring.html"
+}

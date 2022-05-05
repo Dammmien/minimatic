@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I'll Get You for This",
+    "year": 1951,
+    "cast": [
+      "George Raft",
+      "Coleen Gray"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/i-ll-get-you-for-this.html"
+}

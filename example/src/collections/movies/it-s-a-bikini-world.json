@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It's a Bikini World",
+    "year": 1967,
+    "cast": [
+      "Deborah Walley",
+      "Tommy Kirk",
+      "Bobby Pickett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-a-bikini-world.html"
+}

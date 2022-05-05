@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Witness",
+    "year": 1985,
+    "cast": [
+      "Harrison Ford",
+      "Kelly McGillis",
+      "Lukas Haas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/witness.html"
+}

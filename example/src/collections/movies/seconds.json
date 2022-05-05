@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Seconds",
+    "year": 1966,
+    "cast": [
+      "Rock Hudson",
+      "Murray Hamilton",
+      "John Randolph",
+      "Salome Jens",
+      "Jeff Corey"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/seconds.html"
+}

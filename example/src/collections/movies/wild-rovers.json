@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Wild Rovers",
+    "year": 1971,
+    "cast": [
+      "William Holden",
+      "Ryan O'Neal",
+      "Karl Malden",
+      "Joe Don Baker",
+      "Tom Skerritt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wild-rovers.html"
+}

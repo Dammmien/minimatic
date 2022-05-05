@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The V.I.P.s",
+    "year": 1963,
+    "cast": [
+      "Elizabeth Taylor",
+      "Richard Burton",
+      "Rod Taylor",
+      "Maggie Smith",
+      "Louis Jourdan",
+      "Margaret Rutherford",
+      "Elsa Martinelli",
+      "Orson Welles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-v-i-p-s.html"
+}

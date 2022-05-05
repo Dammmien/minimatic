@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Melting Pot",
+    "year": 1998,
+    "cast": [
+      "Paul Rodriguez",
+      "CCH Pounder",
+      "Cliff Robertson"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/melting-pot.html"
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Quest for Camelot",
+    "year": 1998,
+    "cast": [
+      "Voices of",
+      "Gary Oldman",
+      "Don Rickles",
+      "Pierce Brosnan",
+      "Eric Idle",
+      "Jane Seymour",
+      "Gabriel Byrne",
+      "Cary Elwes",
+      "Bronson Pinchot",
+      "John Gielgud"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/quest-for-camelot.html"
+}

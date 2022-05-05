@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gigi",
+    "year": 1958,
+    "cast": [
+      "Leslie Caron",
+      "Louis Jourdan",
+      "Maurice Chevalier",
+      "Hermione Gingold"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/gigi.html"
+}

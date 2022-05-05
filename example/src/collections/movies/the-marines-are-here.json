@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Marines are Here",
+    "year": 1938,
+    "cast": [
+      "Gordon Oliver",
+      "June Travis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-marines-are-here.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man Made Monster",
+    "year": 1941,
+    "cast": [
+      "Lon Chaney Jr.",
+      "Lionel Atwill"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/man-made-monster.html"
+}

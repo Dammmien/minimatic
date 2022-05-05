@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Man Votes",
+    "year": 1939,
+    "cast": [
+      "John Barrymore",
+      "Virginia Weidler"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-great-man-votes.html"
+}

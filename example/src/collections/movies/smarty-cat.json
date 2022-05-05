@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Smarty Cat",
+    "year": 1954,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/smarty-cat.html"
+}

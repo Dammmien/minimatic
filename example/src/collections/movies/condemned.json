@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Condemned",
+    "year": 1929,
+    "cast": [
+      "Ronald Colman",
+      "Ann Harding",
+      "Dudley Digges"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/condemned.html"
+}

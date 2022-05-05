@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I, Mobster",
+    "year": 1958,
+    "cast": [
+      "Steve Cochran",
+      "Celia Lovsky"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/i--mobster.html"
+}

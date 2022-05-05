@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sender",
+    "year": 1982,
+    "cast": [
+      "Kathryn Harrold",
+      "Paul Freeman"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-sender.html"
+}

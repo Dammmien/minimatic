@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Night Parade",
+    "year": 1929,
+    "cast": [
+      "Aileen Pringle",
+      "Hugh Trevor",
+      "Dorothy Gulliver"
+    ],
+    "genres": [
+      "Sport",
+      "Drama"
+    ]
+  },
+  "output": "movies/night-parade.html"
+}

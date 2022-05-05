@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lottery Lover",
+    "year": 1935,
+    "cast": [
+      "Lew Ayres",
+      "Pat Paterson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lottery-lover.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Uptown New York",
+    "year": 1932,
+    "cast": [
+      "Jack Oakie",
+      "Shirley Grey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/uptown-new-york.html"
+}

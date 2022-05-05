@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Man Godfrey",
+    "year": 1957,
+    "cast": [
+      "June Allyson",
+      "David Niven"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-man-godfrey.html"
+}

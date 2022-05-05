@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wicked Woman",
+    "year": 1953,
+    "cast": [
+      "Beverly Michaels",
+      "Richard Egan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wicked-woman.html"
+}

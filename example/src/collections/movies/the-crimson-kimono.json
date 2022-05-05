@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Crimson Kimono",
+    "year": 1959,
+    "cast": [
+      "Victoria Shaw",
+      "Glenn Corbett",
+      "James Shigeta"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-crimson-kimono.html"
+}

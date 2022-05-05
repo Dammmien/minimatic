@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nobody Runs Forever",
+    "year": 1968,
+    "cast": [
+      "Rod Taylor",
+      "Christopher Plummer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/nobody-runs-forever.html"
+}

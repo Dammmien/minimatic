@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ladies They Talk About",
+    "year": 1933,
+    "cast": [
+      "Barbara Stanwyck",
+      "Preston Foster"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ladies-they-talk-about.html"
+}

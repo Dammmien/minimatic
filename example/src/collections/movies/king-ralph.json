@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "King Ralph",
+    "year": 1991,
+    "cast": [
+      "John Goodman",
+      "Peter O'Toole",
+      "John Hurt"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/king-ralph.html"
+}

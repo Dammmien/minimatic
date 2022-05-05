@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Filly Brown",
+    "year": 2012,
+    "cast": [
+      "Jenni Rivera",
+      "Lou Diamond Phillips",
+      "Edward James Olmos",
+      "Emilio Rivera"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/filly-brown.html"
+}

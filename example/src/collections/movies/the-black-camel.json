@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Black Camel",
+    "year": 1931,
+    "cast": [
+      "Warner Oland",
+      "Sally Eilers",
+      "Bela Lugosi"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-black-camel.html"
+}

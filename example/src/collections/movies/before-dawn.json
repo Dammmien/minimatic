@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Before Dawn",
+    "year": 1933,
+    "cast": [
+      "Dorothy Wilson",
+      "Warner Oland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/before-dawn.html"
+}

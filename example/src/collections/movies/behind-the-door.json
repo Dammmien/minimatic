@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Behind the Door",
+    "year": 1919,
+    "cast": [
+      "Hobart Bosworth",
+      "Jane Novak",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/behind-the-door.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fast and Fearless",
+    "year": 1924,
+    "cast": [
+      "Jay Wilsey",
+      "Jean Arthur"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fast-and-fearless.html"
+}

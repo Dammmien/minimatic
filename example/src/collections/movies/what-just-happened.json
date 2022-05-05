@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "What Just Happened",
+    "year": 2008,
+    "cast": [
+      "Robert De Niro",
+      "Sean Penn",
+      "Catherine Keener",
+      "John Turturro",
+      "Kristen Stewart",
+      "Stanley Tucci",
+      "Bruce Willis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/what-just-happened.html"
+}

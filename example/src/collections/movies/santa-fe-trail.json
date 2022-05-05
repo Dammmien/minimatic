@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Santa Fe Trail",
+    "year": 1940,
+    "cast": [
+      "Errol Flynn",
+      "Olivia de Havilland"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/santa-fe-trail.html"
+}

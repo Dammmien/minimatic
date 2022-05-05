@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Truth or Dare",
+    "year": 2018,
+    "cast": [
+      "Lucy Hale",
+      "Tyler Posey",
+      "Violett Beane",
+      "Nolan Gerard Funk",
+      "Hayden Szeto",
+      "Sophia Taylor Ali"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/truth-or-dare.html"
+}

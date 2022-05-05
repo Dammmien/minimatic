@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Honest Hutch",
+    "year": 1920,
+    "cast": [
+      "Will Rogers",
+      "Mary Alden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/honest-hutch.html"
+}

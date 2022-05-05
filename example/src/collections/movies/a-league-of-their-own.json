@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "A League of Their Own",
+    "year": 1992,
+    "cast": [
+      "Geena Davis",
+      "Tom Hanks",
+      "Madonna",
+      "Lori Petty",
+      "Rosie O'Donnell",
+      "David Strathairn",
+      "Jon Lovitz",
+      "Bill Pullman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-league-of-their-own.html"
+}

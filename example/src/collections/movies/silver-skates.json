@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Silver Skates",
+    "year": 1943,
+    "cast": [
+      "Kenny Baker",
+      "Belita",
+      "Patricia Morison"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/silver-skates.html"
+}

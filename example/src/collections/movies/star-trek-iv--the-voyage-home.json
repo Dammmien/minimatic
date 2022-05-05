@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Star Trek IV: The Voyage Home",
+    "year": 1986,
+    "cast": [
+      "William Shatner",
+      "Leonard Nimoy",
+      "DeForest Kelley",
+      "James Doohan",
+      "Nichelle Nichols",
+      "George Takei",
+      "Catherine Hicks",
+      "Walter Koenig",
+      "Robin Curtis",
+      "Mark Lenard",
+      "Brock Peters"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/star-trek-iv--the-voyage-home.html"
+}

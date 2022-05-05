@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Casino Jack",
+    "year": 2010,
+    "cast": [
+      "Kevin Spacey",
+      "Barry Pepper",
+      "Kelly Preston",
+      "Jon Lovitz",
+      "Rachelle Lefevre",
+      "Daniel Kash",
+      "Graham Greene",
+      "Maury Chaykin"
+    ],
+    "genres": [
+      "Political",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/casino-jack.html"
+}

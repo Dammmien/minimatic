@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Despicable Me",
+    "year": 2010,
+    "cast": [
+      "Steve Carell",
+      "Miranda Cosgrove",
+      "Jason Segel",
+      "Russell Brand",
+      "Kristen Wiig",
+      "Will Arnett",
+      "Ken Jeong",
+      "Danny McBride",
+      "Julie Andrews"
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/despicable-me.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Torn Curtain",
+    "year": 1966,
+    "cast": [
+      "Paul Newman",
+      "Julie Andrews",
+      "Lila Kedrova"
+    ],
+    "genres": [
+      "Spy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/torn-curtain.html"
+}

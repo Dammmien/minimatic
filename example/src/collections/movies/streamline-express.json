@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Streamline Express",
+    "year": 1935,
+    "cast": [
+      "Victor Jory",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/streamline-express.html"
+}

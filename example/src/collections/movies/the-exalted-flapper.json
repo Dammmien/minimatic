@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Exalted Flapper",
+    "year": 1929,
+    "cast": [
+      "Sue Carol",
+      "Irene Rich"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-exalted-flapper.html"
+}

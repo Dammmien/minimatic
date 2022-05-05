@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shadowed",
+    "year": 1946,
+    "cast": [
+      "Anita Louise",
+      "Lloyd Corrigan"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/shadowed.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Come Fill the Cup",
+    "year": 1951,
+    "cast": [
+      "James Cagney",
+      "Gig Young"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/come-fill-the-cup.html"
+}

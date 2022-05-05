@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Barnacle Bill",
+    "year": 1941,
+    "cast": [
+      "Wallace Beery",
+      "Marjorie Main"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/barnacle-bill.html"
+}

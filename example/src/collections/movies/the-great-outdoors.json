@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Outdoors",
+    "year": 1988,
+    "cast": [
+      "Dan Aykroyd",
+      "John Candy",
+      "Annette Bening"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-great-outdoors.html"
+}

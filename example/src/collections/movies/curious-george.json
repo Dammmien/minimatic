@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Curious George",
+    "year": 2006,
+    "cast": [
+      "Will Ferrell",
+      "Drew Barrymore",
+      "David Cross",
+      "Eugene Levy"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/curious-george.html"
+}

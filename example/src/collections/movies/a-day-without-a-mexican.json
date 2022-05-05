@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Day Without a Mexican",
+    "year": 2004,
+    "cast": [
+      "Yareli Arizmendi",
+      "John Getz",
+      "Maureen Flannigan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-day-without-a-mexican.html"
+}

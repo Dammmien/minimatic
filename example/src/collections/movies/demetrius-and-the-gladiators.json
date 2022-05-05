@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Demetrius and the Gladiators",
+    "year": 1954,
+    "cast": [
+      "Victor Mature",
+      "Susan Hayward",
+      "Michael Rennie",
+      "Debra Paget",
+      "Anne Bancroft"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/demetrius-and-the-gladiators.html"
+}

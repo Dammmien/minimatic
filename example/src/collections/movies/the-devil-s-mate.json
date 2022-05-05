@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Devil's Mate",
+    "year": 1933,
+    "cast": [
+      "Peggy Shannon",
+      "Preston Foster"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-devil-s-mate.html"
+}

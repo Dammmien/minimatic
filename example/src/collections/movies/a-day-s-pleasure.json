@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "A Day's Pleasure",
+    "year": 1919,
+    "cast": [
+      "Charlie Chaplin",
+      "Edna Purviance"
+    ],
+    "genres": []
+  },
+  "output": "movies/a-day-s-pleasure.html"
+}

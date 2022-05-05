@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Timecode",
+    "year": 2000,
+    "cast": [
+      "Salma Hayek",
+      "Stellan Skarsgård",
+      "Holly Hunter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/timecode.html"
+}

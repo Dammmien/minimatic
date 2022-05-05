@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Sinbad",
+    "year": 1992,
+    "cast": [],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/sinbad.html"
+}

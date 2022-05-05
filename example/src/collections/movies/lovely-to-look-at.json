@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lovely to Look At",
+    "year": 1952,
+    "cast": [
+      "Kathryn Grayson",
+      "Red Skelton",
+      "Howard Keel"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/lovely-to-look-at.html"
+}

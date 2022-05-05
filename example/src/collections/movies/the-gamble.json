@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gamble",
+    "year": 1916,
+    "cast": [
+      "Harold Lockwood",
+      "May Allison"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-gamble.html"
+}

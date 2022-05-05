@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dancing in Manhattan",
+    "year": 1944,
+    "cast": [
+      "Frederick Brady",
+      "Jeff Donnell",
+      "William Wright"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/dancing-in-manhattan.html"
+}

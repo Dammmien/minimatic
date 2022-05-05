@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Husband Hunters",
+    "year": 1927,
+    "cast": [
+      "Mae Busch",
+      "Charles Delaney",
+      "Jean Arthur"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/husband-hunters.html"
+}

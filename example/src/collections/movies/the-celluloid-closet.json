@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Celluloid Closet",
+    "year": 1995,
+    "cast": [
+      "Lily Tomlin",
+      "(narrator)"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-celluloid-closet.html"
+}

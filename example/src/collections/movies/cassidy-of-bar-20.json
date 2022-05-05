@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cassidy of Bar 20",
+    "year": 1938,
+    "cast": [
+      "William Boyd",
+      "Russell Hayden",
+      "Nora Lane"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cassidy-of-bar-20.html"
+}

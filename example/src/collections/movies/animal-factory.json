@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Animal Factory",
+    "year": 2000,
+    "cast": [
+      "Willem Dafoe",
+      "Edward Furlong",
+      "Mickey Rourke"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/animal-factory.html"
+}

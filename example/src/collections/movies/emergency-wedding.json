@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Emergency Wedding",
+    "year": 1950,
+    "cast": [
+      "Barbara Hale",
+      "Larry Parks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/emergency-wedding.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Melody Man",
+    "year": 1930,
+    "cast": [
+      "John St. Polis",
+      "Alice Day"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-melody-man.html"
+}

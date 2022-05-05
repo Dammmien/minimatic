@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hood of Horror",
+    "year": 2006,
+    "cast": [
+      "Snoop Dogg",
+      "Ernie Hudson",
+      "Danny Trejo"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/hood-of-horror.html"
+}

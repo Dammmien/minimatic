@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Harpoon",
+    "year": 1948,
+    "cast": [
+      "John Bromfield",
+      "James Cardwell"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/harpoon.html"
+}

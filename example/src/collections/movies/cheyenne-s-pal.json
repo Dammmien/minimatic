@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cheyenne's Pal",
+    "year": 1917,
+    "cast": [
+      "Harry Carey",
+      "Gertrude Astor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cheyenne-s-pal.html"
+}

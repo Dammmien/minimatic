@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Bridal Suite",
+    "year": 1939,
+    "cast": [
+      "Annabella",
+      "Robert Young",
+      "Walter Connolly",
+      "Reginald Owen"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/bridal-suite.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One A.M.",
+    "year": 1916,
+    "cast": [
+      "Charlie Chaplin"
+    ],
+    "genres": [
+      "Short",
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-a-m-.html"
+}

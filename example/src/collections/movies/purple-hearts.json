@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Purple Hearts",
+    "year": 1984,
+    "cast": [
+      "Ken Wahl",
+      "Cheryl Ladd"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/purple-hearts.html"
+}

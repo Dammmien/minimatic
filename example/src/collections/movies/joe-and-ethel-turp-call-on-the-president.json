@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Joe and Ethel Turp Call on the President",
+    "year": 1939,
+    "cast": [
+      "Ann Sothern",
+      "Lewis Stone",
+      "Walter Brennan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/joe-and-ethel-turp-call-on-the-president.html"
+}

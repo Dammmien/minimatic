@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Spark",
+    "year": 2017,
+    "cast": [
+      "Jace Norman",
+      "Jessica Biel",
+      "Susan Sarandon",
+      "Patrick Stewart",
+      "Hilary Swank"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Animated",
+      "Comedy"
+    ]
+  },
+  "output": "movies/spark.html"
+}

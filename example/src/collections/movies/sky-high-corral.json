@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sky High Corral",
+    "year": 1926,
+    "cast": [
+      "Art Acord",
+      "Marguerite Clayton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sky-high-corral.html"
+}

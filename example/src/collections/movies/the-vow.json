@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Vow",
+    "year": 2012,
+    "cast": [
+      "Channing Tatum",
+      "Rachel McAdams",
+      "Sam Neill",
+      "Scott Speedman",
+      "and",
+      "Jessica Lange"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-vow.html"
+}

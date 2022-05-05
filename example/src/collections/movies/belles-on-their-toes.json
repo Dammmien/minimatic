@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Belles on Their Toes",
+    "year": 1952,
+    "cast": [
+      "Jeanne Crain",
+      "Myrna Loy",
+      "Debra Paget"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/belles-on-their-toes.html"
+}

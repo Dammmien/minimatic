@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Western Code",
+    "year": 1932,
+    "cast": [
+      "Tim McCoy",
+      "Nora Lane"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-western-code.html"
+}

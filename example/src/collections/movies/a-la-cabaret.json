@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A La Cabaret",
+    "year": 1916,
+    "cast": [
+      "Ora Carew",
+      "Joseph Belmont",
+      "Blanche Payson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-la-cabaret.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Out All Night",
+    "year": 1933,
+    "cast": [
+      "Slim Summerville",
+      "ZaSu Pitts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/out-all-night.html"
+}

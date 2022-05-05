@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Music from Another Room",
+    "year": 1998,
+    "cast": [
+      "Jude Law",
+      "Jennifer Tilly",
+      "Gretchen Mol",
+      "Martha Plimpton"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/music-from-another-room.html"
+}

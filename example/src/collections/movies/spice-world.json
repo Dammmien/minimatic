@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Spice World",
+    "year": 1998,
+    "cast": [
+      "Spice Girls",
+      "Richard E. Grant",
+      "Alan Cumming",
+      "George Wendt",
+      "Roger Moore"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/spice-world.html"
+}

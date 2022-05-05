@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Name Is Julia Ross",
+    "year": 1945,
+    "cast": [
+      "Nina Foch",
+      "Dame May Whitty"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/my-name-is-julia-ross.html"
+}

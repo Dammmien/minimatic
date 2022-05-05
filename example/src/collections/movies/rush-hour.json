@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rush Hour",
+    "year": 1998,
+    "cast": [
+      "Jackie Chan",
+      "Chris Tucker",
+      "Tom Wilkinson"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/rush-hour.html"
+}

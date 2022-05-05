@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Five and Ten",
+    "year": 1931,
+    "cast": [
+      "Marion Davies",
+      "Leslie Howard",
+      "Irene Rich"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/five-and-ten.html"
+}

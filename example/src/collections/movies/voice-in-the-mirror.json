@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Voice in the Mirror",
+    "year": 1958,
+    "cast": [
+      "Richard Egan",
+      "Julie London",
+      "Walter Matthau"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/voice-in-the-mirror.html"
+}

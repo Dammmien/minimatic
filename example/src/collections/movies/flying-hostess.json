@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flying Hostess",
+    "year": 1936,
+    "cast": [
+      "William Gargan",
+      "Judith Barrett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flying-hostess.html"
+}

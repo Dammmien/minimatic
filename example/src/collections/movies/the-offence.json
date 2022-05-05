@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Offence",
+    "year": 1972,
+    "cast": [
+      "Sean Connery",
+      "Trevor Howard",
+      "Vivien Merchant"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-offence.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ninety and Nine",
+    "year": 1922,
+    "cast": [
+      "Warner Baxter",
+      "Colleen Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-ninety-and-nine.html"
+}

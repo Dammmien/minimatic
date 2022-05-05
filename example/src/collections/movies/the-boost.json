@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Boost",
+    "year": 1988,
+    "cast": [
+      "James Woods",
+      "Sean Young"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-boost.html"
+}

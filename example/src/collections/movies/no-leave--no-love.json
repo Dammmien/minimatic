@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No Leave, No Love",
+    "year": 1946,
+    "cast": [
+      "Van Johnson",
+      "Patricia Kirkwood"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/no-leave--no-love.html"
+}

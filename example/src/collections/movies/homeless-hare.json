@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Homeless Hare",
+    "year": 1950,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/homeless-hare.html"
+}

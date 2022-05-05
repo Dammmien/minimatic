@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild Horse Round-Up",
+    "year": 1936,
+    "cast": [
+      "Kermit Maynard",
+      "Beth Marion"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wild-horse-round-up.html"
+}

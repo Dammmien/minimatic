@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Trouble in Paradise",
+    "year": 1932,
+    "cast": [
+      "Miriam Hopkins",
+      "Kay Francis",
+      "Herbert Marshall"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/trouble-in-paradise.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Nurse from Brooklyn",
+    "year": 1938,
+    "cast": [
+      "Sally Eilers",
+      "Paul Kelly"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-nurse-from-brooklyn.html"
+}

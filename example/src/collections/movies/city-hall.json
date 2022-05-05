@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "City Hall",
+    "year": 1996,
+    "cast": [
+      "Al Pacino",
+      "John Cusack",
+      "Bridget Fonda",
+      "Danny Aiello",
+      "Martin Landau",
+      "Tony Franciosa"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/city-hall.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fall Time",
+    "year": 1995,
+    "cast": [
+      "Mickey Rourke",
+      "David Arquette",
+      "Stephen Baldwin"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/fall-time.html"
+}

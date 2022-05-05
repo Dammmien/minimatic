@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bootlegger's Daughter",
+    "year": 1922,
+    "cast": [
+      "Enid Bennett",
+      "Fred Niblo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bootlegger-s-daughter.html"
+}

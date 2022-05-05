@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Principal",
+    "year": 1987,
+    "cast": [
+      "James Belushi",
+      "Louis Gossett Jr.",
+      "Rae Dawn Chong"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-principal.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Number One",
+    "year": 1969,
+    "cast": [
+      "Charlton Heston",
+      "Jessica Walter",
+      "Bruce Dern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/number-one.html"
+}

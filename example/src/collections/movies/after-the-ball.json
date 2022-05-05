@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "After the Ball",
+    "year": 1932,
+    "cast": [
+      "Esther Ralston",
+      "Basil Rathbone"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/after-the-ball.html"
+}

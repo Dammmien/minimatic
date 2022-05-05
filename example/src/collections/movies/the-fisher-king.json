@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Fisher King",
+    "year": 1991,
+    "cast": [
+      "Robin Williams",
+      "Jeff Bridges",
+      "Mercedes Ruehl",
+      "Amanda Plummer"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fisher-king.html"
+}

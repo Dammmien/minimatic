@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Story of Esther Costello",
+    "year": 1957,
+    "cast": [
+      "Joan Crawford",
+      "Rossano Brazzi",
+      "Heather Sears"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-story-of-esther-costello.html"
+}

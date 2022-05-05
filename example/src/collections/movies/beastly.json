@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Beastly",
+    "year": 2011,
+    "cast": [
+      "Vanessa Hudgens",
+      "Alex Pettyfer",
+      "Mary-Kate Olsen",
+      "Peter Krause",
+      "Lisa Gay Hamilton",
+      "Neil Patrick Harris"
+    ],
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ]
+  },
+  "output": "movies/beastly.html"
+}

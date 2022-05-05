@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Teacher",
+    "year": 2013,
+    "cast": [
+      "Lindsay Burdge",
+      "Will Brittain",
+      "Jennifer Prediger",
+      "Jonny Mars"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-teacher.html"
+}

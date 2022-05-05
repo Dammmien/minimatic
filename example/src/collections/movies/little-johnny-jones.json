@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Little Johnny Jones",
+    "year": 1929,
+    "cast": [
+      "Alice Day",
+      "Edward Buzzell"
+    ],
+    "genres": [
+      "Sport",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-johnny-jones.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chicken Chaser",
+    "year": 1914,
+    "cast": [
+      "Fatty Arbuckle",
+      "Gordon Griffith"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/chicken-chaser.html"
+}

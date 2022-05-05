@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Blue Veil",
+    "year": 1951,
+    "cast": [
+      "Jane Wyman",
+      "Charles Laughton",
+      "Joan Blondell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-blue-veil.html"
+}

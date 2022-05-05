@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "God Is My Co-Pilot",
+    "year": 1945,
+    "cast": [
+      "Dennis Morgan",
+      "Dane Clark",
+      "Raymond Massey"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/god-is-my-co-pilot.html"
+}

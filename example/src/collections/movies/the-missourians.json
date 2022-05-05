@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Missourians",
+    "year": 1950,
+    "cast": [
+      "Monte Hale",
+      "Lyn Thomas"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-missourians.html"
+}

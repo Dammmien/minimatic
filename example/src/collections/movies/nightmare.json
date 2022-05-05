@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nightmare",
+    "year": 1956,
+    "cast": [
+      "Edward G. Robinson",
+      "Kevin McCarthy",
+      "Connie Russell"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/nightmare.html"
+}

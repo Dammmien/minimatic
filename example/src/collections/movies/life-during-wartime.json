@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Life During Wartime",
+    "year": 2009,
+    "cast": [
+      "Ally Sheedy",
+      "Gaby Hoffmann"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/life-during-wartime.html"
+}

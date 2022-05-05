@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Domestics",
+    "year": 2018,
+    "cast": [
+      "Tyler Hoechlin",
+      "Kate Bosworth",
+      "Lance Reddick",
+      "Sonoya Mizuno",
+      "Dana Gourrier",
+      "Thomas Francis Murray",
+      "David Dastmalchian"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-domestics.html"
+}

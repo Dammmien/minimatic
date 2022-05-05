@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three in the Attic",
+    "year": 1968,
+    "cast": [
+      "Christopher Jones",
+      "Yvette Mimieux"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/three-in-the-attic.html"
+}

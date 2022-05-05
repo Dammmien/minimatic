@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Happily N'Ever After",
+    "year": 2007,
+    "cast": [
+      "Sarah Michelle Gellar",
+      "Freddie Prinze Jr.",
+      "Andy Dick",
+      "Wallace Shawn"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/happily-n-ever-after.html"
+}

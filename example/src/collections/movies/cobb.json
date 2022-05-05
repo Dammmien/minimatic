@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cobb",
+    "year": 1994,
+    "cast": [
+      "Tommy Lee Jones",
+      "Robert Wuhl",
+      "Lolita Davidovich"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/cobb.html"
+}

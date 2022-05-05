@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Fallen Sparrow",
+    "year": 1943,
+    "cast": [
+      "Maureen O'Hara",
+      "John Garfield",
+      "Walter Slezak",
+      "Patricia Morison"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fallen-sparrow.html"
+}

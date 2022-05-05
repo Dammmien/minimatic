@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Jeff, Who Lives at Home",
+    "year": 2012,
+    "cast": [
+      "Jason Segel",
+      "Ed Helms",
+      "Susan Sarandon",
+      "Judy Greer",
+      "Rae Dawn Chong"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/jeff--who-lives-at-home.html"
+}

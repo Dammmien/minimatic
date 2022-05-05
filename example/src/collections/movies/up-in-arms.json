@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Up in Arms",
+    "year": 1944,
+    "cast": [
+      "Danny Kaye",
+      "Dinah Shore",
+      "Dana Andrews"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/up-in-arms.html"
+}

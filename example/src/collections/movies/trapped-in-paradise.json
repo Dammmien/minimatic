@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Trapped in Paradise",
+    "year": 1994,
+    "cast": [
+      "Nicolas Cage",
+      "Jon Lovitz",
+      "Dana Carvey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/trapped-in-paradise.html"
+}

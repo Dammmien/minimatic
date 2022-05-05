@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Fifth Element",
+    "year": 1997,
+    "cast": [
+      "Bruce Willis",
+      "Gary Oldman",
+      "Milla Jovovich",
+      "Chris Tucker",
+      "Ian Holm",
+      "Luke Perry"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-fifth-element.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Captain Lightfoot",
+    "year": 1955,
+    "cast": [
+      "Rock Hudson",
+      "Barbara Rush",
+      "Jeff Morrow"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/captain-lightfoot.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The End",
+    "year": 1978,
+    "cast": [
+      "Burt Reynolds",
+      "Dom DeLuise",
+      "Sally Field"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-end.html"
+}

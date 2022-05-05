@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sunday Dinner for a Soldier",
+    "year": 1944,
+    "cast": [
+      "Anne Baxter",
+      "John Hodiak"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/sunday-dinner-for-a-soldier.html"
+}

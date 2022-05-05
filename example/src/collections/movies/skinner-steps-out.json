@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Skinner Steps Out",
+    "year": 1929,
+    "cast": [
+      "Glenn Tryon",
+      "Merna Kennedy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/skinner-steps-out.html"
+}

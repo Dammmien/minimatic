@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The House on Sorority Row",
+    "year": 1983,
+    "cast": [
+      "Kathryn McNeil",
+      "Eileen Davidson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-house-on-sorority-row.html"
+}

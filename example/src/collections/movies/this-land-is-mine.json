@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "This Land Is Mine",
+    "year": 1943,
+    "cast": [
+      "Charles Laughton",
+      "Maureen O'Hara"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/this-land-is-mine.html"
+}

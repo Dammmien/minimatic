@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "White Thunder",
+    "year": 1925,
+    "cast": [
+      "Yakima Canutt",
+      "Lew Meehan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/white-thunder.html"
+}

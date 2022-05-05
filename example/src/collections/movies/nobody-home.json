@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nobody Home",
+    "year": 1919,
+    "cast": [
+      "Dorothy Gish",
+      "George Fawcett",
+      "Ralph Graves"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nobody-home.html"
+}

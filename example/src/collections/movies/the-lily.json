@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lily",
+    "year": 1926,
+    "cast": [
+      "Belle Bennett",
+      "Ian Keith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lily.html"
+}

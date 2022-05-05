@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hud",
+    "year": 1963,
+    "cast": [
+      "Paul Newman",
+      "Melvyn Douglas",
+      "Patricia Neal",
+      "Brandon deWilde"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hud.html"
+}

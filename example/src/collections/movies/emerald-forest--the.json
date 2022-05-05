@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Emerald Forest, The",
+    "year": 1985,
+    "cast": [
+      "Powers Boothe",
+      "Charley Boorman",
+      "Meg Foster"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/emerald-forest--the.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bulldog Drummond's Revenge",
+    "year": 1937,
+    "cast": [
+      "John Barrymore",
+      "John Howard",
+      "Louise Campbell"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/bulldog-drummond-s-revenge.html"
+}

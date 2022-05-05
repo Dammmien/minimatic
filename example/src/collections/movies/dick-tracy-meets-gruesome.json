@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dick Tracy Meets Gruesome",
+    "year": 1947,
+    "cast": [
+      "Ralph Byrd",
+      "Anne Gwynne",
+      "Boris Karloff"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/dick-tracy-meets-gruesome.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Am a Fugitive from a Chain Gang",
+    "year": 1932,
+    "cast": [
+      "Paul Muni",
+      "Glenda Farrell",
+      "Allen Jenkins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-am-a-fugitive-from-a-chain-gang.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bachelor of Arts",
+    "year": 1934,
+    "cast": [
+      "Anita Louise",
+      "Mae Marsh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bachelor-of-arts.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Moment of Danger",
+    "year": 1960,
+    "cast": [
+      "Trevor Howard",
+      "Dorothy Dandridge"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/moment-of-danger.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "36 Hours",
+    "year": 1965,
+    "cast": [
+      "James Garner",
+      "Rod Taylor",
+      "Eva Marie Saint"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/36-hours.html"
+}

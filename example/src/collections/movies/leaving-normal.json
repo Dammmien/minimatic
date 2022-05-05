@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Leaving Normal",
+    "year": 1992,
+    "cast": [
+      "Meg Tilly",
+      "Christine Lahti",
+      "Patrika Darbo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/leaving-normal.html"
+}

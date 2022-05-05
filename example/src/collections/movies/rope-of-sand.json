@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rope of Sand",
+    "year": 1949,
+    "cast": [
+      "Burt Lancaster",
+      "Paul Henreid",
+      "Claude Rains"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/rope-of-sand.html"
+}

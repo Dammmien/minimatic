@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Seduction",
+    "year": 1982,
+    "cast": [
+      "Morgan Fairchild",
+      "Andrew Stevens",
+      "Colleen Camp"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-seduction.html"
+}

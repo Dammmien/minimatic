@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shed No Tears",
+    "year": 1948,
+    "cast": [
+      "June Vincent",
+      "Wallace Ford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shed-no-tears.html"
+}

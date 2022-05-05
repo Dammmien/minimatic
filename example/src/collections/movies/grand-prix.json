@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Grand Prix",
+    "year": 1966,
+    "cast": [
+      "James Garner",
+      "Toshirō Mifune",
+      "Yves Montand",
+      "Eva Marie Saint",
+      "Brian Bedford",
+      "Jessica Walter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/grand-prix.html"
+}

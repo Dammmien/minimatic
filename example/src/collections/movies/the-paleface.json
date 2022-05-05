@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Paleface",
+    "year": 1948,
+    "cast": [
+      "Bob Hope",
+      "Jane Russell"
+    ],
+    "genres": [
+      "Comedy",
+      "Western"
+    ]
+  },
+  "output": "movies/the-paleface.html"
+}

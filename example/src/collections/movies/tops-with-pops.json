@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Tops with Pops",
+    "year": 1957,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/tops-with-pops.html"
+}

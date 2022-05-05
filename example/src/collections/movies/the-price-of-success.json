@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Price of Success",
+    "year": 1925,
+    "cast": [
+      "Alice Lake",
+      "Lee Shumway"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-price-of-success.html"
+}

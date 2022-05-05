@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cocktail",
+    "year": 1988,
+    "cast": [
+      "Tom Cruise",
+      "Bryan Brown",
+      "Elisabeth Shue"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/cocktail.html"
+}

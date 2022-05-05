@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Simply Irresistible",
+    "year": 1999,
+    "cast": [
+      "Sarah Michelle Gellar",
+      "Sean Patrick Flanery",
+      "Patricia Clarkson"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/simply-irresistible.html"
+}

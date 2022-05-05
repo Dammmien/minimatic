@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Charlie Chan's Greatest Case",
+    "year": 1933,
+    "cast": [
+      "Warner Oland",
+      "Heather Angel"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/charlie-chan-s-greatest-case.html"
+}

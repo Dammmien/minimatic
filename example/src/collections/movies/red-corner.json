@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Red Corner",
+    "year": 1997,
+    "cast": [
+      "Richard Gere",
+      "Bai Ling"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/red-corner.html"
+}

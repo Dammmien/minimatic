@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Saint-Ex",
+    "year": 1997,
+    "cast": [
+      "Bruno Ganz",
+      "Miranda Richardson"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/saint-ex.html"
+}

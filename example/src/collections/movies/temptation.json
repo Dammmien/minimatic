@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Temptation",
+    "year": 1946,
+    "cast": [
+      "Merle Oberon",
+      "George Brent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/temptation.html"
+}

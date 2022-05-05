@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Master Gunfighter",
+    "year": 1975,
+    "cast": [
+      "Tom Laughlin",
+      "Ron O'Neal"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-master-gunfighter.html"
+}

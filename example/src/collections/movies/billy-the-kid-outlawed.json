@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Billy the Kid Outlawed",
+    "year": 1940,
+    "cast": [
+      "Bob Steele",
+      "Louise Currie",
+      "Al St. John",
+      "Carleton Young"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/billy-the-kid-outlawed.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "White Heat",
+    "year": 1949,
+    "cast": [
+      "James Cagney",
+      "Virginia Mayo",
+      "Edmond O'Brien",
+      "Steve Cochran"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/white-heat.html"
+}

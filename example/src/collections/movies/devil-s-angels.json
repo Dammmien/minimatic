@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Devil's Angels",
+    "year": 1967,
+    "cast": [
+      "John Cassavetes",
+      "Beverly Adams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/devil-s-angels.html"
+}

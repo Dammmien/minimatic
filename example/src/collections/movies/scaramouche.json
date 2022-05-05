@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scaramouche",
+    "year": 1952,
+    "cast": [
+      "Stewart Granger",
+      "Janet Leigh"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/scaramouche.html"
+}

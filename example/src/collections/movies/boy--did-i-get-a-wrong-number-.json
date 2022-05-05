@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Boy, Did I Get a Wrong Number!",
+    "year": 1966,
+    "cast": [
+      "Bob Hope",
+      "Elke Sommer",
+      "Phyllis Diller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/boy--did-i-get-a-wrong-number-.html"
+}

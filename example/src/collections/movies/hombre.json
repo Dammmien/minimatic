@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Hombre",
+    "year": 1967,
+    "cast": [
+      "Paul Newman",
+      "Richard Boone",
+      "Fredric March",
+      "Diane Cilento",
+      "Barbara Rush",
+      "Martin Balsam",
+      "Margaret Blye"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hombre.html"
+}

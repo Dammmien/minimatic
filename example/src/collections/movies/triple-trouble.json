@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Triple Trouble",
+    "year": 1950,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/triple-trouble.html"
+}

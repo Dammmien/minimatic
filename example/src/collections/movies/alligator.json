@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Alligator",
+    "year": 1980,
+    "cast": [
+      "Robert Forster",
+      "Robin Riker"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/alligator.html"
+}

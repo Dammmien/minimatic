@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sitting on the Moon",
+    "year": 1936,
+    "cast": [
+      "Roger Pryor",
+      "Grace Bradley"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/sitting-on-the-moon.html"
+}

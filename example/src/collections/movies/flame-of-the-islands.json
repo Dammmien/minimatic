@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flame of the Islands",
+    "year": 1956,
+    "cast": [
+      "Yvonne De Carlo",
+      "Howard Duff",
+      "Zachary Scott"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/flame-of-the-islands.html"
+}

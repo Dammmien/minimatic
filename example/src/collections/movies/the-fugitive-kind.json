@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fugitive Kind",
+    "year": 1959,
+    "cast": [
+      "Marlon Brando",
+      "Joanne Woodward",
+      "Anna Magnani"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fugitive-kind.html"
+}

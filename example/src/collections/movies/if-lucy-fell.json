@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "If Lucy Fell",
+    "year": 1996,
+    "cast": [
+      "Sarah Jessica Parker",
+      "Elle Macpherson"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/if-lucy-fell.html"
+}

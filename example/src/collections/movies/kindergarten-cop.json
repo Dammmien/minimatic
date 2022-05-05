@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Kindergarten Cop",
+    "year": 1990,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Penelope Ann Miller",
+      "Pamela Reed",
+      "Linda Hunt",
+      "Richard Tyson",
+      "Carroll Baker"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/kindergarten-cop.html"
+}

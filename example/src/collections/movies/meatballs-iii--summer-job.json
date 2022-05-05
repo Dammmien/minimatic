@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Meatballs III: Summer Job",
+    "year": 1987,
+    "cast": [
+      "Patrick Dempsey",
+      "Sally Kellerman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/meatballs-iii--summer-job.html"
+}

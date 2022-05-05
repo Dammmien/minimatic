@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Willie & Phil",
+    "year": 1980,
+    "cast": [
+      "Margot Kidder",
+      "Michael Ontkean",
+      "Ray Sharkey"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/willie---phil.html"
+}

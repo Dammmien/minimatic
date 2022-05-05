@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Coming Soon",
+    "year": 1999,
+    "cast": [
+      "Bonnie Root",
+      "Gaby Hoffmann",
+      "Mia Farrow"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/coming-soon.html"
+}

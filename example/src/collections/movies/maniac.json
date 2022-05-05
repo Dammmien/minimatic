@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Maniac",
+    "year": 1963,
+    "cast": [
+      "Kerwin Mathews",
+      "Nadia Gray",
+      "Donald Houston"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/maniac.html"
+}

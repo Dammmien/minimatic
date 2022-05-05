@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Stupids",
+    "year": 1996,
+    "cast": [
+      "Tom Arnold",
+      "Jessica Lundy",
+      "Bug Hall",
+      "Mark Metcalf"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-stupids.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fall Guy",
+    "year": 1947,
+    "cast": [
+      "Leo Penn",
+      "Teala Loring"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fall-guy.html"
+}

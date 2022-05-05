@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Susan Lenox (Her Fall and Rise)",
+    "year": 1931,
+    "cast": [
+      "Clark Gable",
+      "Greta Garbo",
+      "Jean Hersholt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/susan-lenox--her-fall-and-rise-.html"
+}

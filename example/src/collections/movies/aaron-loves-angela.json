@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Aaron Loves Angela",
+    "year": 1975,
+    "cast": [
+      "Moses Gunn",
+      "Irene Cara"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/aaron-loves-angela.html"
+}

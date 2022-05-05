@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hula-La-La",
+    "year": 1951,
+    "cast": [
+      "Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hula-la-la.html"
+}

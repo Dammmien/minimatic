@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Young Dr. Kildare",
+    "year": 1938,
+    "cast": [
+      "Lew Ayres",
+      "Lionel Barrymore",
+      "Emma Dunn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/young-dr--kildare.html"
+}

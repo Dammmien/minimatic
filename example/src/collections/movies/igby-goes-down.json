@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Igby Goes Down",
+    "year": 2002,
+    "cast": [
+      "Kieran Culkin",
+      "Claire Danes",
+      "Jeff Goldblum",
+      "Susan Sarandon"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/igby-goes-down.html"
+}

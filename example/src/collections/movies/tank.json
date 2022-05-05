@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tank",
+    "year": 1984,
+    "cast": [
+      "James Garner",
+      "C. Thomas Howell",
+      "Shirley Jones"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tank.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Rebound",
+    "year": 2010,
+    "cast": [
+      "Catherine Zeta-Jones",
+      "Justin Bartha",
+      "Jordan Carlos",
+      "Kelly Gould",
+      "Art Garfunkel"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-rebound.html"
+}

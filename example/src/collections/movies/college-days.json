@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "College Days",
+    "year": 1926,
+    "cast": [
+      "Marceline Day",
+      "Charles Delaney"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/college-days.html"
+}

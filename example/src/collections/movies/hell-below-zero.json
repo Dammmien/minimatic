@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hell Below Zero",
+    "year": 1954,
+    "cast": [
+      "Alan Ladd",
+      "Stanley Baker",
+      "Joan Tetzel"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/hell-below-zero.html"
+}

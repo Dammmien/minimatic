@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ben-Hur: A Tale of the Christ",
+    "year": 1925,
+    "cast": [
+      "Ramón Novarro",
+      "Francis X. Bushman",
+      "May McAvoy",
+      "Betty Bronson"
+    ],
+    "genres": []
+  },
+  "output": "movies/ben-hur--a-tale-of-the-christ.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Appointment With Death",
+    "year": 1988,
+    "cast": [
+      "Peter Ustinov",
+      "Lauren Bacall",
+      "Carrie Fisher",
+      "John Gielgud",
+      "Piper Laurie",
+      "Hayley Mills",
+      "Jenny Seagrove",
+      "Nicholas Guest",
+      "David Soul"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/appointment-with-death.html"
+}

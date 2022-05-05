@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last Run",
+    "year": 1971,
+    "cast": [
+      "George C. Scott",
+      "Tony Musante",
+      "Trish Van Devere"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-last-run.html"
+}

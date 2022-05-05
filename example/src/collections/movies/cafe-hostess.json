@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cafe Hostess",
+    "year": 1940,
+    "cast": [
+      "Preston Foster",
+      "Ann Dvorak",
+      "Douglas Fowley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cafe-hostess.html"
+}

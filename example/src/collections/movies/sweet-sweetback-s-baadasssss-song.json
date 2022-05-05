@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sweet Sweetback's Baadasssss Song",
+    "year": 1971,
+    "cast": [
+      "Melvin Van Peebles",
+      "John Amos"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/sweet-sweetback-s-baadasssss-song.html"
+}

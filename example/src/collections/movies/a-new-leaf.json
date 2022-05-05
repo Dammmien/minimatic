@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A New Leaf",
+    "year": 1971,
+    "cast": [
+      "Walter Matthau",
+      "Elaine May",
+      "James Coco",
+      "Jack Weston",
+      "Doris Roberts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-new-leaf.html"
+}

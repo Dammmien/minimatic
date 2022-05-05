@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Naughty Nineties",
+    "year": 1945,
+    "cast": [
+      "Abbott and Costello",
+      "Alan Curtis",
+      "Lois Collier"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-naughty-nineties.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Song of the Eagle",
+    "year": 1933,
+    "cast": [
+      "Charles Bickford",
+      "Richard Arlen",
+      "Mary Brian"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/song-of-the-eagle.html"
+}

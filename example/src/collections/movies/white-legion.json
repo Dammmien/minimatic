@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "White Legion",
+    "year": 1936,
+    "cast": [
+      "Ian Keith",
+      "Tala Birell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/white-legion.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Interview",
+    "year": 2007,
+    "cast": [
+      "Steve Buscemi",
+      "Sienna Miller"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/interview.html"
+}

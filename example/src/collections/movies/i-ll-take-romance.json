@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "I'll Take Romance",
+    "year": 1937,
+    "cast": [
+      "Grace Moore",
+      "Melvyn Douglas",
+      "Stuart Erwin"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-ll-take-romance.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "China Venture",
+    "year": 1953,
+    "cast": [
+      "Edmond O'Brien",
+      "Barry Sullivan",
+      "Jocelyn Brando"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/china-venture.html"
+}

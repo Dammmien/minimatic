@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Rink",
+    "year": 1916,
+    "cast": [
+      "Charlie Chaplin",
+      "Edna Purviance"
+    ],
+    "genres": [
+      "Short",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-rink.html"
+}

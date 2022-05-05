@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Crazy Mama",
+    "year": 1975,
+    "cast": [
+      "Cloris Leachman",
+      "Stuart Whitman",
+      "Ann Sothern",
+      "Donny Most",
+      "Linda Purl"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/crazy-mama.html"
+}

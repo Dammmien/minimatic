@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "3 Nights in the Desert",
+    "year": 2015,
+    "cast": [
+      "Wes Bentley",
+      "Vincent Piazza",
+      "Amber Tamblyn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/3-nights-in-the-desert.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Roadside",
+    "year": 2013,
+    "cast": [
+      "Ace Marrero",
+      "Erin Stegeman",
+      "Katie Stegeman"
+    ],
+    "genres": [
+      "Mystery",
+      "Drama"
+    ]
+  },
+  "output": "movies/roadside.html"
+}

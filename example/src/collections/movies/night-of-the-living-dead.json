@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Night of the Living Dead",
+    "year": 1990,
+    "cast": [
+      "Tony Todd"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/night-of-the-living-dead.html"
+}

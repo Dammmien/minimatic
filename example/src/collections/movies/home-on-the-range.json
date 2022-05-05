@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Home on the Range",
+    "year": 2004,
+    "cast": [
+      "Roseanne Barr",
+      "Judi Dench",
+      "Jennifer Tilly",
+      "Cuba Gooding, Jr.",
+      "Randy Quaid"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/home-on-the-range.html"
+}

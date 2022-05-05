@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Week Ends Only",
+    "year": 1932,
+    "cast": [
+      "Joan Bennett",
+      "Ben Lyon"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/week-ends-only.html"
+}

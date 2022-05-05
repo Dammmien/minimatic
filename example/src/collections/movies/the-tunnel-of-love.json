@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Tunnel of Love",
+    "year": 1958,
+    "cast": [
+      "Doris Day",
+      "Richard Widmark"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-tunnel-of-love.html"
+}

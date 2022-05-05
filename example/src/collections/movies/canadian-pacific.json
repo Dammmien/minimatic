@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Canadian Pacific",
+    "year": 1949,
+    "cast": [
+      "Randolph Scott",
+      "Jane Wyatt",
+      "J. Carrol Naish"
+    ],
+    "genres": []
+  },
+  "output": "movies/canadian-pacific.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Battling Bunyan",
+    "year": 1924,
+    "cast": [
+      "Wesley Barry",
+      "Frank Campeau"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/battling-bunyan.html"
+}

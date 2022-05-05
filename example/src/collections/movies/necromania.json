@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Necromania",
+    "year": 1971,
+    "cast": [
+      "Maria Arnold",
+      "Ed Wood"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/necromania.html"
+}

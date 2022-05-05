@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Chase",
+    "year": 1994,
+    "cast": [
+      "Charlie Sheen",
+      "Kristy Swanson"
+    ],
+    "genres": [
+      "Comedy",
+      "Action"
+    ]
+  },
+  "output": "movies/the-chase.html"
+}

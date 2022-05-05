@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Swiss Tour",
+    "year": 1950,
+    "cast": [
+      "Cornel Wilde",
+      "Josette Day",
+      "Simone Signoret"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/swiss-tour.html"
+}

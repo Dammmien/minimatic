@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "O'Malley of the Mounted",
+    "year": 1936,
+    "cast": [
+      "George O'Brien",
+      "Irene Ware"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/o-malley-of-the-mounted.html"
+}

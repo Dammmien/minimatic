@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Peacock Feathers",
+    "year": 1925,
+    "cast": [
+      "Jacqueline Logan",
+      "Cullen Landis",
+      "Ward Crane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/peacock-feathers.html"
+}

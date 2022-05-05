@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The House on Skull Mountain",
+    "year": 1974,
+    "cast": [
+      "Victor French"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-house-on-skull-mountain.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Save the Tiger",
+    "year": 1973,
+    "cast": [
+      "Jack Lemmon",
+      "Jack Gilford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/save-the-tiger.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Over the Wall",
+    "year": 1938,
+    "cast": [
+      "Dick Foran",
+      "John Litel",
+      "Veda Ann Borg"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/over-the-wall.html"
+}

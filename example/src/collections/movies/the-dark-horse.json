@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Dark Horse",
+    "year": 1946,
+    "cast": [
+      "Phillip Terry",
+      "Ann Savage",
+      "Allen Jenkins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-dark-horse.html"
+}

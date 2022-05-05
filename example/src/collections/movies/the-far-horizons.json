@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Far Horizons",
+    "year": 1955,
+    "cast": [
+      "Fred MacMurray",
+      "Charlton Heston"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/the-far-horizons.html"
+}

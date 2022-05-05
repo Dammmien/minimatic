@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Unfair Sex",
+    "year": 1926,
+    "cast": [
+      "Hope Hampton",
+      "Holbrook Blinn",
+      "Nita Naldi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-unfair-sex.html"
+}

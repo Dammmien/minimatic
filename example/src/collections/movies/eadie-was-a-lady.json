@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eadie Was a Lady",
+    "year": 1945,
+    "cast": [
+      "Ann Miller",
+      "Jeff Donnell"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/eadie-was-a-lady.html"
+}

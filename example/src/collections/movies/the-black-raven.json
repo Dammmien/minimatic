@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Black Raven",
+    "year": 1943,
+    "cast": [
+      "Wanda McKay",
+      "George Zucco"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-black-raven.html"
+}

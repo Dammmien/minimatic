@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Watcher in the Woods",
+    "year": 1980,
+    "cast": [
+      "Carroll Baker",
+      "Bette Davis"
+    ],
+    "genres": [
+      "Fantasy",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-watcher-in-the-woods.html"
+}

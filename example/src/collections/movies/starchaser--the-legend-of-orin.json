@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Starchaser: The Legend of Orin",
+    "year": 1985,
+    "cast": [
+      "Joe Colligan",
+      "Carmen Argenziano"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/starchaser--the-legend-of-orin.html"
+}

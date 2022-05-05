@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blue Canadian Rockies",
+    "year": 1952,
+    "cast": [
+      "Gene Autry",
+      "Gail Davis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/blue-canadian-rockies.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Galloping On",
+    "year": 1925,
+    "cast": [
+      "Hal Taliaferro",
+      "Slim Whitaker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/galloping-on.html"
+}

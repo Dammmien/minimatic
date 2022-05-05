@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Parenthood",
+    "year": 1989,
+    "cast": [
+      "Steve Martin",
+      "Mary Steenburgen",
+      "Dianne Wiest",
+      "Keanu Reeves",
+      "Martha Plimpton",
+      "Jason Robards",
+      "Rick Moranis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/parenthood.html"
+}

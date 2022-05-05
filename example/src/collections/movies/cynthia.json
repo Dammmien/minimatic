@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cynthia",
+    "year": 1947,
+    "cast": [
+      "Elizabeth Taylor",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cynthia.html"
+}

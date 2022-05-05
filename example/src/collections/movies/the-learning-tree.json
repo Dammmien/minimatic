@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Learning Tree",
+    "year": 1969,
+    "cast": [
+      "Kyle Johnson",
+      "Malcolm Atterbury",
+      "Dana Elcar"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-learning-tree.html"
+}

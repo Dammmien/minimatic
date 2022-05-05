@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell's Highroad",
+    "year": 1925,
+    "cast": [
+      "Leatrice Joy",
+      "Edmund Burns"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hell-s-highroad.html"
+}

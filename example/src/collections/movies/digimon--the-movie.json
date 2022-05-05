@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Digimon: The Movie",
+    "year": 2000,
+    "cast": [
+      "Lara Jill Miller",
+      "Joshua Seth",
+      "Bob Glouberman"
+    ],
+    "genres": [
+      "Animated",
+      "Adventure"
+    ]
+  },
+  "output": "movies/digimon--the-movie.html"
+}

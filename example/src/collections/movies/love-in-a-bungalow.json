@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love in a Bungalow",
+    "year": 1937,
+    "cast": [
+      "Nan Grey",
+      "Kent Taylor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-in-a-bungalow.html"
+}

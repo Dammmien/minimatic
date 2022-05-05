@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cannes Man",
+    "year": 1996,
+    "cast": [
+      "Francesco Quinn",
+      "Seymour Cassel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cannes-man.html"
+}

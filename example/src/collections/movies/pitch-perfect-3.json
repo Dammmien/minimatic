@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Pitch Perfect 3",
+    "year": 2017,
+    "cast": [
+      "Anna Kendrick",
+      "Anna Camp",
+      "Rebel Wilson",
+      "Brittany Snow",
+      "Hailee Steinfeld",
+      "Alexis Knapp",
+      "Ester Dean",
+      "Hana Mae Lee",
+      "Chrissie Fit",
+      "Kelley Jakle",
+      "Shelley Regner"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/pitch-perfect-3.html"
+}

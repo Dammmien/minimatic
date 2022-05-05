@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Exclusive Story",
+    "year": 1936,
+    "cast": [
+      "Franchot Tone",
+      "Madge Evans",
+      "Joseph Calleia"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/exclusive-story.html"
+}

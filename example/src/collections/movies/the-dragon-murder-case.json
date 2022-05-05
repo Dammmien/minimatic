@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dragon Murder Case",
+    "year": 1934,
+    "cast": [
+      "Warren William",
+      "Margaret Lindsay"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-dragon-murder-case.html"
+}

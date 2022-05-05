@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "North by Northwest",
+    "year": 1959,
+    "cast": [
+      "Cary Grant",
+      "Eva Marie Saint",
+      "James Mason",
+      "Martin Landau",
+      "Leo G. Carroll",
+      "Jessie Royce Landis"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/north-by-northwest.html"
+}

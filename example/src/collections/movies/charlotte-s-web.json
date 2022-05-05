@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Charlotte's Web",
+    "year": 2006,
+    "cast": [
+      "Dakota Fanning",
+      "Dominic Scott Kay",
+      "Julia Roberts",
+      "Steve Buscemi"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/charlotte-s-web.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "All-American Sweetheart",
+    "year": 1937,
+    "cast": [
+      "Patricia Farr",
+      "Scott Kolk"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/all-american-sweetheart.html"
+}

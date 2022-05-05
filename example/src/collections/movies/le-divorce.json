@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Le Divorce",
+    "year": 2003,
+    "cast": [
+      "Kate Hudson",
+      "Naomi Watts"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/le-divorce.html"
+}

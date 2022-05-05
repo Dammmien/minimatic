@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Uptight",
+    "year": 1968,
+    "cast": [
+      "Ruby Dee",
+      "Raymond St. Jacques",
+      "Max Julien"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/uptight.html"
+}

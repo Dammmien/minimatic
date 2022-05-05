@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Unstoppable",
+    "year": 2010,
+    "cast": [
+      "Denzel Washington",
+      "Chris Pine",
+      "Rosario Dawson"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/unstoppable.html"
+}

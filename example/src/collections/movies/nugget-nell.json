@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nugget Nell",
+    "year": 1919,
+    "cast": [
+      "Dorothy Gish",
+      "David Butler"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nugget-nell.html"
+}

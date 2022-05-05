@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Smoke Signals",
+    "year": 1998,
+    "cast": [
+      "Adam Beach",
+      "Irene Bedard",
+      "Gary Farmer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/smoke-signals.html"
+}

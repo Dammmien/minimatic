@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Geronimo",
+    "year": 1939,
+    "cast": [
+      "Preston Foster",
+      "Ellen Drew",
+      "Andy Devine"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/geronimo.html"
+}

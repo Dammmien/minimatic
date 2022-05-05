@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Imaginary Crimes",
+    "year": 1994,
+    "cast": [
+      "Harvey Keitel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/imaginary-crimes.html"
+}

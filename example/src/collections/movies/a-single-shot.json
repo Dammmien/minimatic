@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "A Single Shot",
+    "year": 2013,
+    "cast": [
+      "Sam Rockwell",
+      "Jeffrey Wright",
+      "Kelly Reilly",
+      "Jason Isaacs",
+      "Joe Anderson",
+      "Ophelia Lovibond"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/a-single-shot.html"
+}

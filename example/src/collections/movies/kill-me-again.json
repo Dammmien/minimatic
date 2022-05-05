@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Kill Me Again",
+    "year": 1989,
+    "cast": [
+      "Val Kilmer",
+      "Joanne Whalley",
+      "Michael Madsen"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/kill-me-again.html"
+}

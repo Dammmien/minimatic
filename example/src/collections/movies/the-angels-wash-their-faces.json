@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Angels Wash Their Faces",
+    "year": 1939,
+    "cast": [
+      "Ann Sheridan",
+      "Ronald Reagan",
+      "Billy Halop",
+      "Bernard Punsly",
+      "Leo Gorcey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-angels-wash-their-faces.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pine Canyon is Burning",
+    "year": 1977,
+    "cast": [
+      "Kent McCord",
+      "Megan McCord",
+      "Shane Sinutko"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pine-canyon-is-burning.html"
+}

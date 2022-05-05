@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Boggs Steps Out",
+    "year": 1938,
+    "cast": [
+      "Stuart Erwin",
+      "Helen Chandler",
+      "Tully Marshall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--boggs-steps-out.html"
+}

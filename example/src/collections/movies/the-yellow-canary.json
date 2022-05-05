@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Yellow Canary",
+    "year": 1963,
+    "cast": [
+      "Pat Boone",
+      "Barbara Eden",
+      "Steve Forrest"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-yellow-canary.html"
+}

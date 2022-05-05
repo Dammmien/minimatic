@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Blind Goddess",
+    "year": 1926,
+    "cast": [
+      "Jack Holt",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-blind-goddess.html"
+}

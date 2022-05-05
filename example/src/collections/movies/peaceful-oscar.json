@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Peaceful Oscar",
+    "year": 1927,
+    "cast": [
+      "Lloyd Hamilton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/peaceful-oscar.html"
+}

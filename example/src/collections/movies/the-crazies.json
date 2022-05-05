@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Crazies",
+    "year": 2010,
+    "cast": [
+      "Timothy Olyphant",
+      "Radha Mitchell",
+      "Joe Anderson",
+      "Danielle Panabaker"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-crazies.html"
+}

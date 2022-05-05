@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Choose Me",
+    "year": 1984,
+    "cast": [
+      "Keith Carradine",
+      "Lesley Ann Warren",
+      "Geneviève Bujold",
+      "Rae Dawn Chong"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/choose-me.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Radio City Revels",
+    "year": 1938,
+    "cast": [
+      "Jack Oakie",
+      "Bob Burns",
+      "Ann Miller"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/radio-city-revels.html"
+}

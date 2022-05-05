@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Eternal City",
+    "year": 1923,
+    "cast": [
+      "Lionel Barrymore",
+      "Bert Lytell",
+      "Barbara La Marr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-eternal-city.html"
+}

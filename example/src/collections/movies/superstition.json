@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Superstition",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/superstition.html"
+}

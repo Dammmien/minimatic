@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Midnight Run for Your Life",
+    "year": 1994,
+    "cast": [
+      "Christopher McDonald",
+      "Melora Walters"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/midnight-run-for-your-life.html"
+}

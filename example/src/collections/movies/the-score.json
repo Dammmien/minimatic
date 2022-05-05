@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Score",
+    "year": 2001,
+    "cast": [
+      "Robert De Niro",
+      "Edward Norton",
+      "Marlon Brando",
+      "Angela Bassett"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-score.html"
+}

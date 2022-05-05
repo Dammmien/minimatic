@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cinema Europe: The Other Hollywood",
+    "year": 1996,
+    "cast": [
+      "Kenneth Branagh",
+      "(narrator)"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/cinema-europe--the-other-hollywood.html"
+}

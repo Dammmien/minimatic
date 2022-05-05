@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Brothers Solomon",
+    "year": 2007,
+    "cast": [
+      "Will Arnett",
+      "Will Forte",
+      "Chi McBride",
+      "Kristen Wiig",
+      "Malin Åkerman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-brothers-solomon.html"
+}

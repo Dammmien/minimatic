@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Isn't Life Wonderful",
+    "year": 1924,
+    "cast": [
+      "Carol Dempster",
+      "Neil Hamilton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/isn-t-life-wonderful.html"
+}

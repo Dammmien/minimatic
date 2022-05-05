@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Meet Me at the Fair",
+    "year": 1953,
+    "cast": [
+      "Dan Dailey",
+      "Diana Lynn",
+      "Hugh O'Brian"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/meet-me-at-the-fair.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Midnight Message",
+    "year": 1926,
+    "cast": [
+      "Wanda Hawley",
+      "Mary Carr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-midnight-message.html"
+}

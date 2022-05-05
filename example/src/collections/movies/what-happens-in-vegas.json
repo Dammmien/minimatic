@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "What Happens in Vegas",
+    "year": 2008,
+    "cast": [
+      "Cameron Diaz",
+      "Ashton Kutcher",
+      "Dennis Farina"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/what-happens-in-vegas.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Transatlantic Merry-Go-Round",
+    "year": 1934,
+    "cast": [
+      "Jack Benny",
+      "Nancy Carroll",
+      "Sydney Howard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/transatlantic-merry-go-round.html"
+}

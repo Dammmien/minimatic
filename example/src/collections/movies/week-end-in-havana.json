@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Week-End in Havana",
+    "year": 1941,
+    "cast": [
+      "Alice Faye",
+      "Carmen Miranda"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/week-end-in-havana.html"
+}

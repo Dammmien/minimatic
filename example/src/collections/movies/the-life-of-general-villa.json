@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Life of General Villa",
+    "year": 1914,
+    "cast": [
+      "Pancho Villa",
+      "Irene Hunt",
+      "Raoul Walsh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-life-of-general-villa.html"
+}

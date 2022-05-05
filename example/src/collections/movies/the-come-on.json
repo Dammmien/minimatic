@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Come On",
+    "year": 1956,
+    "cast": [
+      "Anne Baxter",
+      "Sterling Hayden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-come-on.html"
+}

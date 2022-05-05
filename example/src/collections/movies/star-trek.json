@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Star Trek",
+    "year": 2009,
+    "cast": [
+      "Chris Pine",
+      "Zachary Quinto",
+      "Karl Urban",
+      "Simon Pegg",
+      "Zoe Saldana",
+      "John Cho",
+      "Ben Cross",
+      "Anton Yelchin",
+      "Winona Ryder",
+      "Eric Bana",
+      "Leonard Nimoy"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/star-trek.html"
+}

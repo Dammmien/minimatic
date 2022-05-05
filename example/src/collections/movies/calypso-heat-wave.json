@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Calypso Heat Wave",
+    "year": 1957,
+    "cast": [
+      "Johnny Desmond",
+      "Merry Anders"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/calypso-heat-wave.html"
+}

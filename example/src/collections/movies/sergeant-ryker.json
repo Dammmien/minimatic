@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sergeant Ryker",
+    "year": 1968,
+    "cast": [
+      "Lee Marvin",
+      "Bradford Dillman",
+      "Vera Miles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sergeant-ryker.html"
+}

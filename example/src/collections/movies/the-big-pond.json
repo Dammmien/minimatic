@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Pond",
+    "year": 1930,
+    "cast": [
+      "Maurice Chevalier",
+      "Claudette Colbert"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-big-pond.html"
+}

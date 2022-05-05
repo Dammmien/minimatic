@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tarzan, the Ape Man",
+    "year": 1981,
+    "cast": [
+      "Bo Derek",
+      "Richard Harris",
+      "John Phillip Law",
+      "Miles O'Keeffe"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan--the-ape-man.html"
+}

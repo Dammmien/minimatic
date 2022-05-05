@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Gifted",
+    "year": 2017,
+    "cast": [
+      "Chris Evans",
+      "Mckenna Grace",
+      "Jenny Slate",
+      "Lindsay Duncan",
+      "Octavia Spencer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gifted.html"
+}

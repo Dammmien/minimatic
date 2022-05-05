@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Four from Nowhere",
+    "year": 1925,
+    "cast": [
+      "Peggy O'Day",
+      "Philip Ford"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-four-from-nowhere.html"
+}

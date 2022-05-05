@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Light of the Western Stars",
+    "year": 1918,
+    "cast": [
+      "Dustin Farnum",
+      "Winifred Kingston"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-light-of-the-western-stars.html"
+}

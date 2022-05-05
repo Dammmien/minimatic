@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Loren Cass",
+    "year": 2006,
+    "cast": [
+      "Kayla Tabish",
+      "Travis Maynard",
+      "Lewis Brogan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/loren-cass.html"
+}

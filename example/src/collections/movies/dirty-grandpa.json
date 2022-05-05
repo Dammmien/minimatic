@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dirty Grandpa",
+    "year": 2016,
+    "cast": [
+      "Zac Efron",
+      "Robert De Niro"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dirty-grandpa.html"
+}

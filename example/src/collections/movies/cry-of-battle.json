@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cry of Battle",
+    "year": 1963,
+    "cast": [
+      "Van Heflin",
+      "Rita Moreno"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/cry-of-battle.html"
+}

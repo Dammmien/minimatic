@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rustlers' Ranch",
+    "year": 1926,
+    "cast": [
+      "Art Acord",
+      "Olive Hasbrouck"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rustlers--ranch.html"
+}

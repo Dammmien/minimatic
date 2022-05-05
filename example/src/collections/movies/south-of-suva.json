@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "South of Suva",
+    "year": 1922,
+    "cast": [
+      "Mary Miles Minter",
+      "Winifred Bryson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/south-of-suva.html"
+}

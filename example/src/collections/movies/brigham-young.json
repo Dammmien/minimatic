@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brigham Young",
+    "year": 1940,
+    "cast": [
+      "Tyrone Power",
+      "Linda Darnell",
+      "Dean Jagger"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/brigham-young.html"
+}

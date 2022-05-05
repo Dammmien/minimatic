@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jaguar Lives!",
+    "year": 1979,
+    "cast": [
+      "Christopher Lee",
+      "Barbara Bach",
+      "Capucine"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/jaguar-lives-.html"
+}

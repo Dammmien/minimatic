@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "20,000 Years in Sing Sing",
+    "year": 1932,
+    "cast": [
+      "Spencer Tracy",
+      "Bette Davis",
+      "Arthur Byron"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/20-000-years-in-sing-sing.html"
+}

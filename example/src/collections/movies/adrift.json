@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Adrift",
+    "year": 2018,
+    "cast": [
+      "Shailene Woodley",
+      "Sam Claflin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/adrift.html"
+}

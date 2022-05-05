@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bare Fists",
+    "year": 1919,
+    "cast": [
+      "Harry Carey",
+      "Betty Schade"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bare-fists.html"
+}

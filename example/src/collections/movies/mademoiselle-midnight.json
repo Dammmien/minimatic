@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mademoiselle Midnight",
+    "year": 1924,
+    "cast": [
+      "Mae Murray",
+      "Monte Blue"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mademoiselle-midnight.html"
+}

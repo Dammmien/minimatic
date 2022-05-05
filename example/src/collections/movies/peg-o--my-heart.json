@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Peg o' My Heart",
+    "year": 1933,
+    "cast": [
+      "Marion Davies",
+      "Onslow Stevens"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/peg-o--my-heart.html"
+}

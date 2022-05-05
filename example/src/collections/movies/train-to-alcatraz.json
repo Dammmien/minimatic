@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Train to Alcatraz",
+    "year": 1948,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Janet Martin"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/train-to-alcatraz.html"
+}

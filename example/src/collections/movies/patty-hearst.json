@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Patty Hearst",
+    "year": 1988,
+    "cast": [
+      "Natasha Richardson",
+      "William Forsythe",
+      "Ving Rhames",
+      "Frances Fisher",
+      "Dana Delany"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/patty-hearst.html"
+}

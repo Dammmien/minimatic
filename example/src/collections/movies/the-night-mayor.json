@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Night Mayor",
+    "year": 1932,
+    "cast": [
+      "Lee Tracy",
+      "Evalyn Knapp"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-night-mayor.html"
+}

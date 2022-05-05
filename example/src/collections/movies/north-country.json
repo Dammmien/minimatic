@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "North Country",
+    "year": 2005,
+    "cast": [
+      "Charlize Theron",
+      "Frances McDormand",
+      "Sissy Spacek",
+      "Sean Bean"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/north-country.html"
+}

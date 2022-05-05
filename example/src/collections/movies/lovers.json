@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lovers",
+    "year": 1927,
+    "cast": [
+      "Ramon Novarro",
+      "Alice Terry"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/lovers.html"
+}

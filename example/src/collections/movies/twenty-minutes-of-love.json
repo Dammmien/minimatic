@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Twenty Minutes of Love",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Minta Durfee",
+      "Edgar Kennedy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/twenty-minutes-of-love.html"
+}

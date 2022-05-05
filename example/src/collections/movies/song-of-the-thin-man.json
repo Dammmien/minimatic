@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Song of the Thin Man",
+    "year": 1947,
+    "cast": [
+      "William Powell",
+      "Myrna Loy",
+      "Patricia Morison"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/song-of-the-thin-man.html"
+}

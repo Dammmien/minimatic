@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Narrow Corner",
+    "year": 1933,
+    "cast": [
+      "Douglas Fairbanks",
+      "Patricia Ellis",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-narrow-corner.html"
+}

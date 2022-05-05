@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Notorious Lone Wolf",
+    "year": 1946,
+    "cast": [
+      "Gerald Mohr",
+      "Janis Carter",
+      "Eric Blore"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-notorious-lone-wolf.html"
+}

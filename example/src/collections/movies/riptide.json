@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Riptide",
+    "year": 1934,
+    "cast": [
+      "Norma Shearer",
+      "Robert Montgomery",
+      "Herbert Marshall"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/riptide.html"
+}

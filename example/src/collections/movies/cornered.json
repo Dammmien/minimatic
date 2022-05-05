@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cornered",
+    "year": 1945,
+    "cast": [
+      "Dick Powell",
+      "Walter Slezak"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/cornered.html"
+}

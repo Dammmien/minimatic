@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Wonderful Night",
+    "year": 1922,
+    "cast": [
+      "Herbert Rawlinson",
+      "Lillian Rich"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/one-wonderful-night.html"
+}

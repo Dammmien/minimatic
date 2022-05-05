@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In Name Only",
+    "year": 1939,
+    "cast": [
+      "Carole Lombard",
+      "Cary Grant",
+      "Kay Francis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/in-name-only.html"
+}

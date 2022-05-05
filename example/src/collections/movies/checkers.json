@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Checkers",
+    "year": 1937,
+    "cast": [
+      "Jane Withers",
+      "Stuart Erwin",
+      "Una Merkel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/checkers.html"
+}

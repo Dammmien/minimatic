@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Video from Hell",
+    "year": 1987,
+    "cast": [],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/video-from-hell.html"
+}

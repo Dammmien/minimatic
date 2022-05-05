@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Family Troubles",
+    "year": 1943,
+    "cast": [
+      "Our Gang"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/family-troubles.html"
+}

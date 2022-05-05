@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The House of the Spirits",
+    "year": 1993,
+    "cast": [
+      "Meryl Streep",
+      "Jeremy Irons",
+      "Glenn Close",
+      "Winona Ryder",
+      "Antonio Banderas",
+      "Vanessa Redgrave",
+      "Armin Mueller-Stahl",
+      "María Conchita Alonso",
+      "Vincent Gallo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-house-of-the-spirits.html"
+}

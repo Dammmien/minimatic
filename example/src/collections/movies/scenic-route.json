@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scenic Route",
+    "year": 2013,
+    "cast": [
+      "Josh Duhamel",
+      "Dan Fogler"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/scenic-route.html"
+}

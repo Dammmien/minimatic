@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Girls Can Play",
+    "year": 1937,
+    "cast": [
+      "Julie Bishop",
+      "Charles Quigley",
+      "Rita Hayworth"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/girls-can-play.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Rescuers Down Under",
+    "year": 1990,
+    "cast": [
+      "voices of",
+      "Bob Newhart",
+      "Eva Gabor",
+      "John Candy",
+      "George C. Scott"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-rescuers-down-under.html"
+}

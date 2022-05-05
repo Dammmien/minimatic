@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lucky Devil",
+    "year": 1925,
+    "cast": [
+      "Richard Dix",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lucky-devil.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "New Jersey Drive",
+    "year": 1995,
+    "cast": [
+      "Sharron Corley",
+      "Gabriel Casseus"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/new-jersey-drive.html"
+}

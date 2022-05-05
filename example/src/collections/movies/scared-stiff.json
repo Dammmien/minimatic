@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Scared Stiff",
+    "year": 1953,
+    "cast": [
+      "Dean Martin",
+      "Jerry Lewis",
+      "Lizabeth Scott",
+      "Carmen Miranda"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/scared-stiff.html"
+}

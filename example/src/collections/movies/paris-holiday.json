@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paris Holiday",
+    "year": 1958,
+    "cast": [
+      "Bob Hope",
+      "Fernandel",
+      "Anita Ekberg"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/paris-holiday.html"
+}

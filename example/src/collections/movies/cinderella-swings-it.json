@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cinderella Swings It",
+    "year": 1943,
+    "cast": [
+      "Gloria Warren",
+      "Guy Kibbee",
+      "Helen Parrish"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/cinderella-swings-it.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Assassination",
+    "year": 1987,
+    "cast": [
+      "Charles Bronson",
+      "Jill Ireland",
+      "Stephen Elliott",
+      "Michael Ansara"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/assassination.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lust for Life",
+    "year": 1956,
+    "cast": [
+      "Kirk Douglas",
+      "Anthony Quinn"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/lust-for-life.html"
+}

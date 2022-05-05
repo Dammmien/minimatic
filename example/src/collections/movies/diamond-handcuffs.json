@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Diamond Handcuffs",
+    "year": 1928,
+    "cast": [
+      "Eleanor Boardman",
+      "Lawrence Gray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/diamond-handcuffs.html"
+}

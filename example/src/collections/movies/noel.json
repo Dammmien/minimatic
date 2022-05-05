@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Noel",
+    "year": 2004,
+    "cast": [
+      "Susan Sarandon",
+      "Alan Arkin",
+      "Penélope Cruz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/noel.html"
+}

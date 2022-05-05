@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hello Mary Lou: Prom Night II",
+    "year": 1987,
+    "cast": [
+      "Michael Ironside",
+      "Lisa Schrage"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/hello-mary-lou--prom-night-ii.html"
+}

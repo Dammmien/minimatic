@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Five Came Back",
+    "year": 1939,
+    "cast": [
+      "Chester Morris",
+      "Lucille Ball",
+      "Wendy Barrie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/five-came-back.html"
+}

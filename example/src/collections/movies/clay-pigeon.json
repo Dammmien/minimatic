@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Clay Pigeon",
+    "year": 1971,
+    "cast": [
+      "Telly Savalas",
+      "Burgess Meredith"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/clay-pigeon.html"
+}

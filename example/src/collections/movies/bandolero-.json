@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bandolero!",
+    "year": 1968,
+    "cast": [
+      "James Stewart",
+      "Dean Martin",
+      "Raquel Welch"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bandolero-.html"
+}

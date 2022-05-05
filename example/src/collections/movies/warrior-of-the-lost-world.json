@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Warrior of the Lost World",
+    "year": 1983,
+    "cast": [
+      "Donald Pleasence",
+      "Persis Khambatta",
+      "Fred Williamson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/warrior-of-the-lost-world.html"
+}

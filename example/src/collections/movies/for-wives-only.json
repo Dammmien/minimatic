@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "For Wives Only",
+    "year": 1926,
+    "cast": [
+      "Marie Prevost",
+      "Victor Varconi",
+      "Charles K. Gerrard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/for-wives-only.html"
+}

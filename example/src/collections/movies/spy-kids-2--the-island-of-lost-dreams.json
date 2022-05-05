@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Spy Kids 2: The Island of Lost Dreams",
+    "year": 2002,
+    "cast": [
+      "Alexa Vega",
+      "Emily Osment",
+      "Daryl Sabara",
+      "Antonio Banderas"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/spy-kids-2--the-island-of-lost-dreams.html"
+}

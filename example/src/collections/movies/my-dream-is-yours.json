@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Dream Is Yours",
+    "year": 1949,
+    "cast": [
+      "Doris Day",
+      "Jack Carson",
+      "Eve Arden"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/my-dream-is-yours.html"
+}

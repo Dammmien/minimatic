@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Beast of Borneo",
+    "year": 1934,
+    "cast": [
+      "Eugene Sigaloff",
+      "Mae Stuart"
+    ],
+    "genres": [
+      "Drama",
+      "Horror"
+    ]
+  },
+  "output": "movies/the-beast-of-borneo.html"
+}

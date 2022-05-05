@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Hoax",
+    "year": 2007,
+    "cast": [
+      "Richard Gere",
+      "Alfred Molina",
+      "Marcia Gay Harden",
+      "Stanley Tucci",
+      "Hope Davis"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-hoax.html"
+}

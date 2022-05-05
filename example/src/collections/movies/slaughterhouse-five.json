@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Slaughterhouse-Five",
+    "year": 1972,
+    "cast": [
+      "Michael Sacks",
+      "Valerie Perrine"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ]
+  },
+  "output": "movies/slaughterhouse-five.html"
+}

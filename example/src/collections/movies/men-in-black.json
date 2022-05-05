@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Men in Black",
+    "year": 1997,
+    "cast": [
+      "Will Smith",
+      "Tommy Lee Jones",
+      "Vincent D'Onofrio",
+      "Linda Fiorentino",
+      "Rip Torn",
+      "Tony Shalhoub"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/men-in-black.html"
+}

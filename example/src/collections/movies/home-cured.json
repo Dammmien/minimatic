@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Home Cured",
+    "year": 1926,
+    "cast": [
+      "Johnny Arthur",
+      "Virginia Vance",
+      "George Davis",
+      "Glen Cavender"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/home-cured.html"
+}

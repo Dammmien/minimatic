@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Night for Crime",
+    "year": 1943,
+    "cast": [
+      "Glenda Farrell",
+      "Lyle Talbot",
+      "Lina Basquette"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/a-night-for-crime.html"
+}

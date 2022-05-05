@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Diary of Anne Frank",
+    "year": 1959,
+    "cast": [
+      "Joseph Schildkraut",
+      "Ed Wynn",
+      "Shelley Winters",
+      "Millie Perkins",
+      "Richard Beymer",
+      "Diane Baker"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-diary-of-anne-frank.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The West Side Waltz",
+    "year": 1995,
+    "cast": [
+      "Shirley MacLaine",
+      "Liza Minnelli",
+      "Kathy Bates"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-west-side-waltz.html"
+}

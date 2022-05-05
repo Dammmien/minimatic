@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "See No Evil, Hear No Evil",
+    "year": 1989,
+    "cast": [
+      "Gene Wilder",
+      "Richard Pryor",
+      "Joan Severance",
+      "Kevin Spacey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/see-no-evil--hear-no-evil.html"
+}

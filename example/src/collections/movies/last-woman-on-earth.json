@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Last Woman on Earth",
+    "year": 1960,
+    "cast": [
+      "Betsy Jones-Moreland",
+      "Antony Carbone",
+      "Robert Towne"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/last-woman-on-earth.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Checking Out",
+    "year": 1989,
+    "cast": [
+      "Jeff Daniels",
+      "Melanie Mayron"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/checking-out.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Untamed Fury",
+    "year": 1947,
+    "cast": [
+      "Steve Pendleton",
+      "Mikel Conrad"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/untamed-fury.html"
+}

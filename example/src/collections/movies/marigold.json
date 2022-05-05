@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Marigold",
+    "year": 2007,
+    "cast": [
+      "Salman Khan",
+      "Ali Larter"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/marigold.html"
+}

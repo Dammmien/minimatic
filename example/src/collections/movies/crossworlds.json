@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Crossworlds",
+    "year": 1996,
+    "cast": [
+      "Rutger Hauer",
+      "Josh Charles",
+      "Andrea Roth",
+      "Stuart Wilson",
+      "Jack Black"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/crossworlds.html"
+}

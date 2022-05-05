@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mountain Justice",
+    "year": 1937,
+    "cast": [
+      "Josephine Hutchinson",
+      "Guy Kibbee",
+      "George Brent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mountain-justice.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blues Busters",
+    "year": 1950,
+    "cast": [
+      "Bowery Boys",
+      "Adele Jergens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blues-busters.html"
+}

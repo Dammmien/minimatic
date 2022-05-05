@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "You Can't Buy Everything",
+    "year": 1934,
+    "cast": [
+      "May Robson",
+      "Jean Parker",
+      "Lewis Stone"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/you-can-t-buy-everything.html"
+}

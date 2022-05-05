@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Marry Me",
+    "year": 1925,
+    "cast": [
+      "Florence Vidor",
+      "Edward Everett Horton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/marry-me.html"
+}

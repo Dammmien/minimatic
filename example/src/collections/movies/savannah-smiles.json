@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Savannah Smiles",
+    "year": 1982,
+    "cast": [
+      "Mark Miller",
+      "Donovan Scott"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/savannah-smiles.html"
+}

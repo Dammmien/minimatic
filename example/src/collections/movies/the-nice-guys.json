@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Nice Guys",
+    "year": 2016,
+    "cast": [
+      "Russell Crowe",
+      "Ryan Gosling"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-nice-guys.html"
+}

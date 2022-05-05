@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Last of the Buccaneers",
+    "year": 1950,
+    "cast": [
+      "Paul Henried",
+      "Mary Anderson"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/last-of-the-buccaneers.html"
+}

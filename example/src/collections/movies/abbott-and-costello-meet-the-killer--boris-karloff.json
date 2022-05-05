@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Abbott and Costello Meet the Killer, Boris Karloff",
+    "year": 1949,
+    "cast": [
+      "Bud Abbott",
+      "Lou Costello",
+      "Boris Karloff"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/abbott-and-costello-meet-the-killer--boris-karloff.html"
+}

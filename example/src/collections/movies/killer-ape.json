@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Killer Ape",
+    "year": 1953,
+    "cast": [
+      "Johnny Weissmuller",
+      "Carol Thurston"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/killer-ape.html"
+}

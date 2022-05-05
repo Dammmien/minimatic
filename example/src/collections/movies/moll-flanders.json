@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Moll Flanders",
+    "year": 1996,
+    "cast": [
+      "Robin Wright Penn",
+      "Morgan Freeman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/moll-flanders.html"
+}

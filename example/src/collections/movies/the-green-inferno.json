@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Green Inferno",
+    "year": 2013,
+    "cast": [
+      "Lorenza Izzo",
+      "Ariel Levy",
+      "Sky Ferreira",
+      "Daryl Sabara",
+      "Kirby Bliss Blanton"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-green-inferno.html"
+}

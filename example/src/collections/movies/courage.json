@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Courage",
+    "year": 1930,
+    "cast": [
+      "Belle Bennett",
+      "Marian Nixon",
+      "Blanche Friderici"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/courage.html"
+}

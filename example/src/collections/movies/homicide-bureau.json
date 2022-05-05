@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Homicide Bureau",
+    "year": 1939,
+    "cast": [
+      "Bruce Cabot",
+      "Rita Hayworth",
+      "Marc Lawrence"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/homicide-bureau.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Distant Thunder",
+    "year": 1978,
+    "cast": [
+      "Patty Dunning"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-distant-thunder.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Magnificent Obsession",
+    "year": 1954,
+    "cast": [
+      "Rock Hudson",
+      "Jane Wyman",
+      "Agnes Moorehead",
+      "Otto Kruger",
+      "Barbara Rush"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/magnificent-obsession.html"
+}

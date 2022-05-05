@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blood Arrow",
+    "year": 1958,
+    "cast": [
+      "Phyllis Coates",
+      "Scott Brady"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/blood-arrow.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Record City",
+    "year": 1978,
+    "cast": [
+      "Ed Begley Jr.",
+      "Jack Carter",
+      "Ruth Buzzi"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/record-city.html"
+}

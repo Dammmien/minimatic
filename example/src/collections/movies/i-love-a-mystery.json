@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Love a Mystery",
+    "year": 1945,
+    "cast": [
+      "George Macready",
+      "Nina Foch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-love-a-mystery.html"
+}

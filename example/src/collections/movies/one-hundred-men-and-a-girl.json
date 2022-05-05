@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "One Hundred Men and a Girl",
+    "year": 1937,
+    "cast": [
+      "Deanna Durbin",
+      "Adolphe Menjou",
+      "Alice Brady"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-hundred-men-and-a-girl.html"
+}

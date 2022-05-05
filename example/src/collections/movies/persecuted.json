@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Persecuted",
+    "year": 2014,
+    "cast": [
+      "James Remar",
+      "Bruce Davison",
+      "Dean Stockwell",
+      "Raoul Trujillo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/persecuted.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Bouncing Cats",
+    "year": 2010,
+    "cast": [
+      "Crazy Legs",
+      "Abraham \"Abramz\" Tekya",
+      "Common",
+      "Mos Def",
+      "will.i.am",
+      "K'naan"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/bouncing-cats.html"
+}

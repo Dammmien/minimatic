@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Magnolia",
+    "year": 1999,
+    "cast": [
+      "Tom Cruise",
+      "Julianne Moore",
+      "Philip Seymour Hoffman",
+      "Philip Baker Hall",
+      "John C. Reilly",
+      "William H. Macy",
+      "Jason Robards",
+      "Jeremy Blackman",
+      "Melora Walters",
+      "Melinda Dillon",
+      "Henry Gibson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/magnolia.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "High Spirits",
+    "year": 1988,
+    "cast": [
+      "Peter O'Toole",
+      "Daryl Hannah",
+      "Steve Guttenberg",
+      "Beverly D'Angelo",
+      "Liam Neeson",
+      "Peter Gallagher",
+      "Jennifer Tilly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/high-spirits.html"
+}

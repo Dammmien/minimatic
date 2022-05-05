@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Seven Thieves",
+    "year": 1960,
+    "cast": [
+      "Edward G. Robinson",
+      "Rod Steiger",
+      "Joan Collins"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/seven-thieves.html"
+}

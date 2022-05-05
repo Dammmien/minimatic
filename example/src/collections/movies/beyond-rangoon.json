@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Beyond Rangoon",
+    "year": 1995,
+    "cast": [
+      "Patricia Arquette",
+      "Frances McDormand",
+      "Johnny Cheah",
+      "Adelle Lutz"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/beyond-rangoon.html"
+}

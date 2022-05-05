@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blonde for a Day",
+    "year": 1946,
+    "cast": [
+      "Hugh Beaumont",
+      "Kathryn Adams"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/blonde-for-a-day.html"
+}

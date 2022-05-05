@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dangerous Traffic",
+    "year": 1926,
+    "cast": [
+      "Ralph Bushman",
+      "Mildred Harris",
+      "Tom London"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dangerous-traffic.html"
+}

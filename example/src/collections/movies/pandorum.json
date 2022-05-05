@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pandorum",
+    "year": 2009,
+    "cast": [
+      "Dennis Quaid",
+      "Ben Foster"
+    ],
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/pandorum.html"
+}

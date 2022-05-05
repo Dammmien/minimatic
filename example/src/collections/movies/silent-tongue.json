@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silent Tongue",
+    "year": 1994,
+    "cast": [
+      "Richard Harris",
+      "River Phoenix"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/silent-tongue.html"
+}

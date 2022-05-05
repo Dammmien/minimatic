@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Helen's Babies",
+    "year": 1924,
+    "cast": [
+      "Baby Peggy",
+      "Edward Everett Horton",
+      "Clara Bow"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/helen-s-babies.html"
+}

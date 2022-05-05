@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nana",
+    "year": 1934,
+    "cast": [
+      "Anna Sten",
+      "Lionel Atwill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/nana.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Loft",
+    "year": 2015,
+    "cast": [
+      "Karl Urban",
+      "Wentworth Miller",
+      "James Marsden"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-loft.html"
+}

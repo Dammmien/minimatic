@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dragon Eyes",
+    "year": 2012,
+    "cast": [
+      "Cung Le",
+      "Peter Weller",
+      "Jean-Claude Van Damme",
+      "Crystal Mantecon",
+      "Kristopher Van Varenberg"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/dragon-eyes.html"
+}

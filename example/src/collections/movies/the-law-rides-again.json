@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Law Rides Again",
+    "year": 1943,
+    "cast": [
+      "Ken Maynard",
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-law-rides-again.html"
+}

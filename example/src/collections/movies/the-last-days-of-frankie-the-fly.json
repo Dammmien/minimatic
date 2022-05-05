@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last Days of Frankie the Fly",
+    "year": 1996,
+    "cast": [
+      "Dennis Hopper",
+      "Daryl Hannah",
+      "Michael Madsen"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-last-days-of-frankie-the-fly.html"
+}

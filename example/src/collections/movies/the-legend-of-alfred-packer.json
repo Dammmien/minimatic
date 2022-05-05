@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Legend of Alfred Packer",
+    "year": 1980,
+    "cast": [
+      "Patrick Day"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-legend-of-alfred-packer.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Advance to the Rear",
+    "year": 1964,
+    "cast": [
+      "Glenn Ford",
+      "Stella Stevens",
+      "Melvyn Douglas"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/advance-to-the-rear.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Jolson Story",
+    "year": 1946,
+    "cast": [
+      "Larry Parks",
+      "William Demarest"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-jolson-story.html"
+}

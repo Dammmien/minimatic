@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Out o' Luck",
+    "year": 1921,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/out-o--luck.html"
+}

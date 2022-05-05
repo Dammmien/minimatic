@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Garden of Allah",
+    "year": 1936,
+    "cast": [
+      "Marlene Dietrich",
+      "Charles Boyer",
+      "Basil Rathbone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-garden-of-allah.html"
+}

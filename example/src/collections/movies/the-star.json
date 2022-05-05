@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "The Star",
+    "year": 2017,
+    "cast": [
+      "Steven Yeun",
+      "Gina Rodriguez",
+      "Zachary Levi",
+      "Keegan-Michael Key",
+      "Kelly Clarkson",
+      "Patricia Heaton",
+      "Kristin Chenoweth",
+      "Tracy Morgan",
+      "Tyler Perry",
+      "Oprah Winfrey"
+    ],
+    "genres": [
+      "Animated",
+      "Adventure",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-star.html"
+}

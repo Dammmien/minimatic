@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gay Diplomat",
+    "year": 1931,
+    "cast": [
+      "Ivan Lebedeff",
+      "Genevieve Tobin"
+    ],
+    "genres": [
+      "Spy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-gay-diplomat.html"
+}

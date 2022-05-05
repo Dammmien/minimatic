@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Hairspray",
+    "year": 2007,
+    "cast": [
+      "John Travolta",
+      "Michelle Pfeiffer",
+      "Christopher Walken",
+      "Amanda Bynes",
+      "James Marsden",
+      "Queen Latifah",
+      "Brittany Snow",
+      "Zac Efron",
+      "Elijah Kelley",
+      "Allison Janney",
+      "Nikki Blonsky"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hairspray.html"
+}

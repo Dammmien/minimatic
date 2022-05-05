@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dance, Girl, Dance",
+    "year": 1940,
+    "cast": [
+      "Maureen O'Hara",
+      "Louis Hayward",
+      "Lucille Ball"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/dance--girl--dance.html"
+}

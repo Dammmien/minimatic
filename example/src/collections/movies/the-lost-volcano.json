@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lost Volcano",
+    "year": 1950,
+    "cast": [
+      "Johnny Sheffield",
+      "Elena Verdugo"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-lost-volcano.html"
+}

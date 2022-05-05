@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Venus in the East",
+    "year": 1919,
+    "cast": [
+      "Bryant Washburn",
+      "Margery Wilson",
+      "Anna Q. Nilsson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/venus-in-the-east.html"
+}

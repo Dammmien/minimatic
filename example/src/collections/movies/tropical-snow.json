@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tropical Snow",
+    "year": 1989,
+    "cast": [
+      "Jsu Garcia",
+      "Madeleine Stowe",
+      "David Carradine"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/tropical-snow.html"
+}

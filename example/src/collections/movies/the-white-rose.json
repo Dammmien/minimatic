@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The White Rose",
+    "year": 1923,
+    "cast": [
+      "Carol Dempster",
+      "Mae Marsh",
+      "Ivor Novello"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-white-rose.html"
+}

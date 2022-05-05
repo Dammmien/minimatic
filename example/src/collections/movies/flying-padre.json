@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Flying Padre",
+    "year": 1951,
+    "cast": [
+      "Fred Stadmueller"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/flying-padre.html"
+}

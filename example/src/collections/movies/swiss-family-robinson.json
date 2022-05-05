@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Swiss Family Robinson",
+    "year": 1960,
+    "cast": [
+      "John Mills",
+      "Dorothy McGuire",
+      "Tommy Kirk"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/swiss-family-robinson.html"
+}

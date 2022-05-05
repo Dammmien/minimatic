@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Outlaw Stallion",
+    "year": 1954,
+    "cast": [
+      "Philip Carey",
+      "Dorothy Patrick"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-outlaw-stallion.html"
+}

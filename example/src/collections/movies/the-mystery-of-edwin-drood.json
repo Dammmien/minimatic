@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Mystery of Edwin Drood",
+    "year": 1935,
+    "cast": [
+      "Claude Rains",
+      "Douglass Montgomery",
+      "E. E. Clive"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-mystery-of-edwin-drood.html"
+}

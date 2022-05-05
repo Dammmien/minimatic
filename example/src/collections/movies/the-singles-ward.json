@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Singles Ward",
+    "year": 2002,
+    "cast": [
+      "Will Swenson",
+      "Connie Young",
+      "Daryn Tufts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-singles-ward.html"
+}

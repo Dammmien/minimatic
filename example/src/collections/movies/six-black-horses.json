@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Six Black Horses",
+    "year": 1962,
+    "cast": [
+      "Audie Murphy",
+      "Joan O'Brien"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/six-black-horses.html"
+}

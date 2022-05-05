@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "On Record",
+    "year": 1917,
+    "cast": [
+      "Mae Murray",
+      "Tom Forman"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/on-record.html"
+}

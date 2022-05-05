@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rough Shoot",
+    "year": 1953,
+    "cast": [
+      "Joel McCrea",
+      "Evelyn Keyes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rough-shoot.html"
+}

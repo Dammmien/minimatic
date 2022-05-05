@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mardi Gras",
+    "year": 1958,
+    "cast": [
+      "Pat Boone",
+      "Christine Carère"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/mardi-gras.html"
+}

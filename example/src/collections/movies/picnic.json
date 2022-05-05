@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Picnic",
+    "year": 1955,
+    "cast": [
+      "William Holden",
+      "Kim Novak",
+      "Rosalind Russell",
+      "Susan Strasberg",
+      "Cliff Robertson",
+      "Betty Field"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/picnic.html"
+}

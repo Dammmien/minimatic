@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "White Sands",
+    "year": 1992,
+    "cast": [
+      "Willem Dafoe",
+      "Mary Elizabeth Mastrantonio",
+      "Mickey Rourke",
+      "Samuel L. Jackson"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/white-sands.html"
+}

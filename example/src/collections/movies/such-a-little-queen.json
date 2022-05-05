@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Such a Little Queen",
+    "year": 1914,
+    "cast": [
+      "Mary Pickford",
+      "Harold Lockwood"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/such-a-little-queen.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Big Chance",
+    "year": 1933,
+    "cast": [
+      "John Darrow",
+      "Mickey Rooney",
+      "Natalie Moorhead"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-big-chance.html"
+}

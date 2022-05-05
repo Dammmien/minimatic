@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spinout",
+    "year": 1966,
+    "cast": [
+      "Elvis Presley",
+      "Shelley Fabares"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/spinout.html"
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Red Hook Summer",
+    "year": 2012,
+    "cast": [
+      "Clarke Peters",
+      "Nate Parker",
+      "Thomas Jefferson Byrd",
+      "introducing Toni Lysaith and Jules Brown",
+      "Heather Simms",
+      "James Ransone",
+      "De'Adre Aziza",
+      "Isiah Whitlock, Jr.",
+      "Spike Lee"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/red-hook-summer.html"
+}

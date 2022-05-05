@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Klondike Kate",
+    "year": 1943,
+    "cast": [
+      "Ann Savage",
+      "Tom Neal",
+      "Glenda Farrell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/klondike-kate.html"
+}

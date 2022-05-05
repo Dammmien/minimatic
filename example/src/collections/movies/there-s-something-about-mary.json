@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "There's Something About Mary",
+    "year": 1998,
+    "cast": [
+      "Ben Stiller",
+      "Cameron Diaz",
+      "Matt Dillon",
+      "Keith David",
+      "Markie Post"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/there-s-something-about-mary.html"
+}

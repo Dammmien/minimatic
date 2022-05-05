@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Free Jimmy",
+    "year": 2006,
+    "cast": [
+      "Jeremy Price",
+      "Woody Harrelson",
+      "Simon Pegg",
+      "Phil Daniels"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/free-jimmy.html"
+}

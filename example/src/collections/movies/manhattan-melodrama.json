@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Manhattan Melodrama",
+    "year": 1934,
+    "cast": [
+      "Clark Gable",
+      "William Powell",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/manhattan-melodrama.html"
+}

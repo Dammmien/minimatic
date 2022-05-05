@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Life with Billy",
+    "year": 1994,
+    "cast": [
+      "Stephen McHattie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/life-with-billy.html"
+}

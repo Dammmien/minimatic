@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "28 Hotel Rooms",
+    "year": 2012,
+    "cast": [
+      "Marin Ireland",
+      "Chris Messina",
+      "Robert Deamer",
+      "Brett Collier"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/28-hotel-rooms.html"
+}

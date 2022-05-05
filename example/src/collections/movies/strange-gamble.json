@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strange Gamble",
+    "year": 1948,
+    "cast": [
+      "William Boyd",
+      "Elaine Riley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/strange-gamble.html"
+}

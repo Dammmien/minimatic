@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Class of Miss MacMichael",
+    "year": 1978,
+    "cast": [
+      "Glenda Jackson",
+      "Oliver Reed",
+      "Rosalind Cash"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-class-of-miss-macmichael.html"
+}

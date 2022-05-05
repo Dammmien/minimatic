@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tomorrow, the World!",
+    "year": 1944,
+    "cast": [
+      "Fredric March",
+      "Betty Field",
+      "Agnes Moorehead"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tomorrow--the-world-.html"
+}

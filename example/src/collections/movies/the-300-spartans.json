@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The 300 Spartans",
+    "year": 1962,
+    "cast": [
+      "Richard Egan",
+      "Diane Baker"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-300-spartans.html"
+}

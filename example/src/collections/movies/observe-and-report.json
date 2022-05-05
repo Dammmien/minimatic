@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Observe and Report",
+    "year": 2009,
+    "cast": [
+      "Seth Rogen",
+      "Anna Faris",
+      "Michael Peña",
+      "Ray Liotta"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/observe-and-report.html"
+}

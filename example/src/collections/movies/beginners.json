@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Beginners",
+    "year": 2011,
+    "cast": [
+      "Ewan McGregor",
+      "Christopher Plummer",
+      "Mélanie Laurent",
+      "Goran Višnjić",
+      "Kai Lennox",
+      "Mary Page Keller",
+      "Keegan Boos"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beginners.html"
+}

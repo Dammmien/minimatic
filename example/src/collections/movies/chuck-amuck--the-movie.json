@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Chuck Amuck: The Movie",
+    "year": 1991,
+    "cast": [
+      "Chuck Jones"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/chuck-amuck--the-movie.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "First Descent",
+    "year": 2005,
+    "cast": [
+      "snowboarding",
+      "in the 1980s"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/first-descent.html"
+}

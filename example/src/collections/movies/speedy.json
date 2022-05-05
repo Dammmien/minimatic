@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Speedy",
+    "year": 1928,
+    "cast": [
+      "Harold Lloyd",
+      "Ann Christy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/speedy.html"
+}

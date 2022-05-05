@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Believed in You",
+    "year": 1934,
+    "cast": [
+      "Rosemary Ames",
+      "John Boles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-believed-in-you.html"
+}

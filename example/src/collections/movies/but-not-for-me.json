@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "But Not for Me",
+    "year": 1959,
+    "cast": [
+      "Clark Gable",
+      "Carroll Baker",
+      "Lilli Palmer",
+      "Lee J. Cobb"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/but-not-for-me.html"
+}

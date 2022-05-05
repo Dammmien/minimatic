@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Archeologist",
+    "year": 1914,
+    "cast": [
+      "Charlotte Burton",
+      "Edward Coxen",
+      "George Field",
+      "Winifred Greenwood",
+      "John Steppling"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-archeologist.html"
+}

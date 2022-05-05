@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Two-Faced Woman",
+    "year": 1941,
+    "cast": [
+      "Greta Garbo"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/two-faced-woman.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wife Takes a Flyer",
+    "year": 1942,
+    "cast": [
+      "Joan Bennett",
+      "Franchot Tone"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-wife-takes-a-flyer.html"
+}

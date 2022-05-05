@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Open Season",
+    "year": 2006,
+    "cast": [
+      "Martin Lawrence",
+      "Ashton Kutcher",
+      "Debra Messing",
+      "Gary Sinise"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/open-season.html"
+}

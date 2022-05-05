@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Opened by Mistake",
+    "year": 1940,
+    "cast": [
+      "Charles Ruggles",
+      "Janice Logan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/opened-by-mistake.html"
+}

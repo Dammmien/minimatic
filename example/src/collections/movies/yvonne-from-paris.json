@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yvonne from Paris",
+    "year": 1919,
+    "cast": [
+      "Mary Miles Minter",
+      "Vera Lewis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/yvonne-from-paris.html"
+}

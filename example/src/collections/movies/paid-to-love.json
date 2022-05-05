@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Paid to Love",
+    "year": 1927,
+    "cast": [
+      "George O'Brien",
+      "Virginia Valli"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/paid-to-love.html"
+}

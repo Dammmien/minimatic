@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It Came from Outer Space",
+    "year": 1953,
+    "cast": [
+      "Richard Carlson",
+      "Barbara Rush"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/it-came-from-outer-space.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Legion of Terror",
+    "year": 1936,
+    "cast": [
+      "Bruce Cabot",
+      "Ward Bond",
+      "Marguerite Churchill"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/legion-of-terror.html"
+}

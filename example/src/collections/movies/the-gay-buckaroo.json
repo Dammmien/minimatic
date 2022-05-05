@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gay Buckaroo",
+    "year": 1932,
+    "cast": [
+      "Hoot Gibson",
+      "Roy D'Arcy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-gay-buckaroo.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "American Movie",
+    "year": 1999,
+    "cast": [
+      "Mark Borchardt",
+      "Tom Schimmels"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/american-movie.html"
+}

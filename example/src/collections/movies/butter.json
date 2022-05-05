@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Butter",
+    "year": 2012,
+    "cast": [
+      "Jennifer Garner",
+      "Ty Burrell",
+      "Olivia Wilde",
+      "Rob Corddry",
+      "Ashley Greene",
+      "Alicia Silverstone",
+      "Yara Shahidi",
+      "Hugh Jackman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/butter.html"
+}

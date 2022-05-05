@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Song of Love",
+    "year": 1947,
+    "cast": [
+      "Katharine Hepburn",
+      "Paul Henreid",
+      "Robert Walker"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/song-of-love.html"
+}

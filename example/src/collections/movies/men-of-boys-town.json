@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Men of Boys Town",
+    "year": 1941,
+    "cast": [
+      "Spencer Tracy",
+      "Mickey Rooney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/men-of-boys-town.html"
+}

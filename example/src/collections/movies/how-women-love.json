@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "How Women Love",
+    "year": 1922,
+    "cast": [
+      "Betty Blythe",
+      "Gladys Hulette"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/how-women-love.html"
+}

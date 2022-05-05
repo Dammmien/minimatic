@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Too Much Sun",
+    "year": 1990,
+    "cast": [
+      "Robert Downey, Jr.",
+      "Eric Idle",
+      "Ralph Macchio"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/too-much-sun.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Kind Lady",
+    "year": 1951,
+    "cast": [
+      "Ethel Barrymore",
+      "Maurice Evans",
+      "Keenan Wynn",
+      "Angela Lansbury"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kind-lady.html"
+}

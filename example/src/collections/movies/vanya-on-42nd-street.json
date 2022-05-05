@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Vanya on 42nd Street",
+    "year": 1994,
+    "cast": [
+      "Julianne Moore",
+      "George Gaynes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/vanya-on-42nd-street.html"
+}

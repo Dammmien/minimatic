@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Drag-Net",
+    "year": 1936,
+    "cast": [
+      "Rod La Rocque",
+      "Marian Nixon",
+      "Betty Compson"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-drag-net.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Between Us",
+    "year": 2017,
+    "cast": [
+      "Olivia Thirlby",
+      "Ben Feldman",
+      "Adam Goldberg",
+      "Analeigh Tipton",
+      "Scott Haze",
+      "Peter Bogdanovich",
+      "Lesley Ann Warren"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/between-us.html"
+}

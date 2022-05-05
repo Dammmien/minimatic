@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Johnny One-Eye",
+    "year": 1950,
+    "cast": [
+      "Pat O'Brien",
+      "Wayne Morris",
+      "Dolores Moran"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/johnny-one-eye.html"
+}

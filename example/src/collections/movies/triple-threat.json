@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Triple Threat",
+    "year": 1948,
+    "cast": [
+      "Gloria Henry",
+      "Mary Stuart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/triple-threat.html"
+}

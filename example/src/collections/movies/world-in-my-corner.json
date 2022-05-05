@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "World in My Corner",
+    "year": 1956,
+    "cast": [
+      "Audie Murphy",
+      "Barbara Rush"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/world-in-my-corner.html"
+}

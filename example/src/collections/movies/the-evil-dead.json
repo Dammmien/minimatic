@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Evil Dead",
+    "year": 1981,
+    "cast": [
+      "Bruce Campbell",
+      "Ellen Sandweiss"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-evil-dead.html"
+}

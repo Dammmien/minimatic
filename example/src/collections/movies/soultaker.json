@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Soultaker",
+    "year": 1990,
+    "cast": [
+      "Joe Estevez"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/soultaker.html"
+}

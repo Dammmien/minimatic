@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Conversation",
+    "year": 1974,
+    "cast": [
+      "Gene Hackman",
+      "John Cazale",
+      "Cindy Williams",
+      "Frederic Forrest",
+      "Harrison Ford",
+      "Robert Duvall"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-conversation.html"
+}

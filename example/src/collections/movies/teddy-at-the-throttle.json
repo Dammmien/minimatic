@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Teddy at the Throttle",
+    "year": 1917,
+    "cast": [
+      "Gloria Swanson",
+      "Bobby Vernon",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/teddy-at-the-throttle.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Love Has Many Faces",
+    "year": 1965,
+    "cast": [
+      "Lana Turner",
+      "Cliff Robertson",
+      "Hugh O'Brian",
+      "Ruth Roman",
+      "Stefanie Powers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-has-many-faces.html"
+}

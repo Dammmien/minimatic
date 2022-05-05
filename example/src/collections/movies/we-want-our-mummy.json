@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "We Want Our Mummy",
+    "year": 1939,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/we-want-our-mummy.html"
+}

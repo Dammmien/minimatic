@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Annapolis Farewell",
+    "year": 1935,
+    "cast": [
+      "Guy Standing",
+      "Richard Cromwell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/annapolis-farewell.html"
+}

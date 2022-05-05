@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fear-Bound",
+    "year": 1925,
+    "cast": [
+      "Marjorie Daw",
+      "Niles Welch"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fear-bound.html"
+}

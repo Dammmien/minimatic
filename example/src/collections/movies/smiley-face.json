@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smiley Face",
+    "year": 2007,
+    "cast": [
+      "Anna Faris",
+      "John Krasinski"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/smiley-face.html"
+}

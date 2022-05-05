@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Big City Blues",
+    "year": 1932,
+    "cast": [
+      "Eric Linden",
+      "Joan Blondell",
+      "Walter Catlett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/big-city-blues.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Last Days of Pompeii",
+    "year": 1935,
+    "cast": [
+      "Preston Foster",
+      "Basil Rathbone",
+      "Alan Hale"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-last-days-of-pompeii.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Riding Tornado",
+    "year": 1932,
+    "cast": [
+      "Tim McCoy",
+      "Shirley Grey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-riding-tornado.html"
+}

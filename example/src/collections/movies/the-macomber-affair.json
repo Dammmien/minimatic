@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Macomber Affair",
+    "year": 1947,
+    "cast": [
+      "Gregory Peck",
+      "Joan Bennett",
+      "Robert Preston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-macomber-affair.html"
+}

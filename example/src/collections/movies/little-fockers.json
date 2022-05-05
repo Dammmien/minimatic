@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Little Fockers",
+    "year": 2010,
+    "cast": [
+      "Robert De Niro",
+      "Ben Stiller",
+      "Owen Wilson",
+      "Blythe Danner",
+      "Teri Polo",
+      "Jessica Alba",
+      "Laura Dern",
+      "Harvey Keitel",
+      "Dustin Hoffman",
+      "Barbra Streisand"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-fockers.html"
+}

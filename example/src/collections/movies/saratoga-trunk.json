@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Saratoga Trunk",
+    "year": 1945,
+    "cast": [
+      "Gary Cooper",
+      "Ingrid Bergman",
+      "Flora Robson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/saratoga-trunk.html"
+}

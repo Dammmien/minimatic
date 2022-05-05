@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Broadminded",
+    "year": 1931,
+    "cast": [
+      "Joe E. Brown",
+      "Marjorie White",
+      "Bela Lugosi"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/broadminded.html"
+}

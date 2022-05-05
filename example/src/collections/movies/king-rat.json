@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "King Rat",
+    "year": 1965,
+    "cast": [
+      "George Segal",
+      "Tom Courtenay",
+      "James Fox"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/king-rat.html"
+}

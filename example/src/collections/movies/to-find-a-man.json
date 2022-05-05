@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "To Find a Man",
+    "year": 1972,
+    "cast": [
+      "Pamela Sue Martin",
+      "Darren O'Connor",
+      "Tom Bosley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/to-find-a-man.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "George Wallace",
+    "year": 1997,
+    "cast": [
+      "Gary Sinise",
+      "Mare Winningham",
+      "Angelina Jolie"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/george-wallace.html"
+}

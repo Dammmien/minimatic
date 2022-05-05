@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Midnight Lace",
+    "year": 1960,
+    "cast": [
+      "Doris Day",
+      "Rex Harrison",
+      "John Gavin",
+      "Roddy McDowall",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/midnight-lace.html"
+}

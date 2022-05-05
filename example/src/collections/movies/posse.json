@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Posse",
+    "year": 1993,
+    "cast": [
+      "Mario Van Peebles",
+      "Stephen Baldwin",
+      "Tone Loc",
+      "Blair Underwood",
+      "Billy Zane"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/posse.html"
+}

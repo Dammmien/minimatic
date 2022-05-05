@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Cookie",
+    "year": 1989,
+    "cast": [
+      "Peter Falk",
+      "Dianne Wiest",
+      "Emily Lloyd",
+      "Jerry Lewis"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/cookie.html"
+}

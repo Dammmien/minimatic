@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cohen and Tate",
+    "year": 1989,
+    "cast": [
+      "Roy Scheider",
+      "Adam Baldwin",
+      "Harley Cross"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/cohen-and-tate.html"
+}

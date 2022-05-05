@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Don't Shoot",
+    "year": 1922,
+    "cast": [
+      "Herbert Rawlinson",
+      "Edna Murphy"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/don-t-shoot.html"
+}

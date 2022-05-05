@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The End of Innocence",
+    "year": 1990,
+    "cast": [
+      "Dyan Cannon",
+      "John Heard",
+      "Rebecca Schaeffer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-end-of-innocence.html"
+}

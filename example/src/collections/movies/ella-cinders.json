@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ella Cinders",
+    "year": 1926,
+    "cast": [
+      "Colleen Moore",
+      "Lloyd Hughes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ella-cinders.html"
+}

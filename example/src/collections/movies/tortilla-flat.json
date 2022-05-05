@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tortilla Flat",
+    "year": 1942,
+    "cast": [
+      "Spencer Tracy",
+      "Hedy Lamarr",
+      "John Garfield"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/tortilla-flat.html"
+}

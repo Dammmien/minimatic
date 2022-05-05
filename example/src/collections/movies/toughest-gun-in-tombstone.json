@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Toughest Gun in Tombstone",
+    "year": 1958,
+    "cast": [
+      "George Montgomery",
+      "Beverly Tyler"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/toughest-gun-in-tombstone.html"
+}

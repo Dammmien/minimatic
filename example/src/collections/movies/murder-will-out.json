@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Murder Will Out",
+    "year": 1930,
+    "cast": [
+      "Jack Mulhall",
+      "Lila Lee",
+      "Noah Beery"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder-will-out.html"
+}

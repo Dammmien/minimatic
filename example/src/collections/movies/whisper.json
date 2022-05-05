@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Whisper",
+    "year": 2007,
+    "cast": [
+      "Josh Holloway",
+      "Blake Woodruff"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/whisper.html"
+}

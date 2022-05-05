@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Something Wild",
+    "year": 1986,
+    "cast": [
+      "Jeff Daniels",
+      "Melanie Griffith",
+      "Ray Liotta"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/something-wild.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Simpsons Movie",
+    "year": 2007,
+    "cast": [
+      "Dan Castellaneta",
+      "Julie Kavner",
+      "Nancy Cartwright",
+      "Yeardley Smith"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-simpsons-movie.html"
+}

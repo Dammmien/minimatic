@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Twilight Zone: The Movie",
+    "year": 1983,
+    "cast": [
+      "Vic Morrow",
+      "John Lithgow",
+      "Kathleen Quinlan",
+      "Scatman Crothers",
+      "Kevin McCarthy",
+      "Dan Aykroyd",
+      "Albert Brooks"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/twilight-zone--the-movie.html"
+}

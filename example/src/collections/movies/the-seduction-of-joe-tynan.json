@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Seduction of Joe Tynan",
+    "year": 1979,
+    "cast": [
+      "Alan Alda",
+      "Meryl Streep",
+      "Rip Torn",
+      "Barbara Harris",
+      "Melvyn Douglas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-seduction-of-joe-tynan.html"
+}

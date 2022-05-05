@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Little Shop of Horrors",
+    "year": 1960,
+    "cast": [
+      "Jonathan Haze",
+      "Jackie Joseph",
+      "Mel Welles",
+      "Dick Miller",
+      "Jack Nicholson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-little-shop-of-horrors.html"
+}

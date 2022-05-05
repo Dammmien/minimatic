@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Turning the Tables",
+    "year": 1919,
+    "cast": [
+      "Dorothy Gish",
+      "Raymond Cannon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/turning-the-tables.html"
+}

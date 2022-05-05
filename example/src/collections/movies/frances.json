@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Frances",
+    "year": 1982,
+    "cast": [
+      "Jessica Lange",
+      "Kim Stanley",
+      "Sam Shepard"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/frances.html"
+}

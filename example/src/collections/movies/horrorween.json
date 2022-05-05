@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Horrorween",
+    "year": 2009,
+    "cast": [
+      "Chuck Lamb",
+      "Ed Meyer",
+      "Tila Tequila"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/horrorween.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Someone to Love",
+    "year": 1987,
+    "cast": [
+      "Orson Welles",
+      "Andrea Marcovicci",
+      "Sally Kellerman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/someone-to-love.html"
+}

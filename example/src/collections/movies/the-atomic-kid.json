@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Atomic Kid",
+    "year": 1954,
+    "cast": [
+      "Mickey Rooney",
+      "Robert Strauss",
+      "Elaine Devry"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-atomic-kid.html"
+}

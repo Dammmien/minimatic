@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ruby Cairo",
+    "year": 1993,
+    "cast": [
+      "Andie MacDowell",
+      "Liam Neeson",
+      "Viggo Mortensen"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/ruby-cairo.html"
+}

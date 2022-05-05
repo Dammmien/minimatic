@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "What Happened to Jones",
+    "year": 1926,
+    "cast": [
+      "Reginald Denny",
+      "Marian Nixon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/what-happened-to-jones.html"
+}

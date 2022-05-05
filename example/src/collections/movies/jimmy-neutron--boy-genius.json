@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jimmy Neutron: Boy Genius",
+    "year": 2001,
+    "cast": [
+      "Megan Cavanagh",
+      "Mark DeCarlo",
+      "Debi Derryberry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/jimmy-neutron--boy-genius.html"
+}

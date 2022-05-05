@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Draftee Daffy",
+    "year": 1945,
+    "cast": [
+      "Daffy Duck"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/draftee-daffy.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "If Beale Street Could Talk",
+    "year": 2018,
+    "cast": [
+      "Kiki Layne",
+      "Stephan James",
+      "Teyonah Parris",
+      "Regina King",
+      "Dave Franco",
+      "Ed Skrein",
+      "Diego Luna",
+      "Emily Rios"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/if-beale-street-could-talk.html"
+}

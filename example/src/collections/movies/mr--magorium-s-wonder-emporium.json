@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mr. Magorium's Wonder Emporium",
+    "year": 2007,
+    "cast": [
+      "Dustin Hoffman",
+      "Natalie Portman",
+      "Jason Bateman",
+      "Zach Mills"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/mr--magorium-s-wonder-emporium.html"
+}

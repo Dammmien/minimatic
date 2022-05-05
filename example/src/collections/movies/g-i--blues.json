@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "G.I. Blues",
+    "year": 1960,
+    "cast": [
+      "Elvis Presley",
+      "Juliet Prowse",
+      "Robert Ivers"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/g-i--blues.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crime Takes a Holiday",
+    "year": 1938,
+    "cast": [
+      "Jack Holt",
+      "Marcia Ralston"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/crime-takes-a-holiday.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Down Three Dark Streets",
+    "year": 1954,
+    "cast": [
+      "Broderick Crawford",
+      "Ruth Roman"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/down-three-dark-streets.html"
+}

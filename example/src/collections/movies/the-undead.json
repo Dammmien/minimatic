@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Undead",
+    "year": 1957,
+    "cast": [
+      "Pamela Duncan",
+      "Allison Hayes"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-undead.html"
+}

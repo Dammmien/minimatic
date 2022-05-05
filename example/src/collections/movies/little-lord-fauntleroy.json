@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Little Lord Fauntleroy",
+    "year": 1936,
+    "cast": [
+      "Freddie Bartholomew",
+      "C. Aubrey Smith",
+      "Mickey Rooney"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/little-lord-fauntleroy.html"
+}

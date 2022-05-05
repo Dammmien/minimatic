@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strange Wives",
+    "year": 1934,
+    "cast": [
+      "Roger Pryor",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/strange-wives.html"
+}

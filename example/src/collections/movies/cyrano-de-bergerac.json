@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cyrano de Bergerac",
+    "year": 1950,
+    "cast": [
+      "José Ferrer",
+      "Mala Powers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cyrano-de-bergerac.html"
+}

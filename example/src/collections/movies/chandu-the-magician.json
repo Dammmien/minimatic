@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chandu the Magician",
+    "year": 1932,
+    "cast": [
+      "Edmund Lowe",
+      "Bela Lugosi"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/chandu-the-magician.html"
+}

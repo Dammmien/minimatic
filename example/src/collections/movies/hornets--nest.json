@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hornets’ Nest",
+    "year": 1970,
+    "cast": [
+      "Rock Hudson",
+      "Sylvia Koscina",
+      "Sergio Fantoni"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/hornets--nest.html"
+}

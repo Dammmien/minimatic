@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Goodbye, Mr. Chips",
+    "year": 1969,
+    "cast": [
+      "Peter O'Toole",
+      "Petula Clark"
+    ],
+    "genres": [
+      "Musical",
+      "Drama"
+    ]
+  },
+  "output": "movies/goodbye--mr--chips.html"
+}

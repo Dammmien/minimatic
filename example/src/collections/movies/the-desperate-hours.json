@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Desperate Hours",
+    "year": 1955,
+    "cast": [
+      "Humphrey Bogart",
+      "Fredric March",
+      "Gig Young",
+      "Arthur Kennedy",
+      "Martha Scott"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-desperate-hours.html"
+}

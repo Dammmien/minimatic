@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Murder by an Aristocrat",
+    "year": 1936,
+    "cast": [
+      "Lyle Talbot",
+      "Marguerite Churchill",
+      "Claire Dodd"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder-by-an-aristocrat.html"
+}

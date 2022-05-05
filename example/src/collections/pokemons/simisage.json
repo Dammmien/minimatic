@@ -1,0 +1,20 @@
+{
+  "id": 512,
+  "name": {
+    "english": "Simisage",
+    "japanese": "ヤナッキー",
+    "chinese": "花椰猿",
+    "french": "Feuiloutan"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "HP": 75,
+    "Attack": 98,
+    "Defense": 63,
+    "Sp. Attack": 98,
+    "Sp. Defense": 63,
+    "Speed": 101
+  }
+}

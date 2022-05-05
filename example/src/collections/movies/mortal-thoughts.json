@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mortal Thoughts",
+    "year": 1991,
+    "cast": [
+      "Demi Moore",
+      "Glenne Headly",
+      "Harvey Keitel",
+      "Bruce Willis"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/mortal-thoughts.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Heritage of the Desert",
+    "year": 1932,
+    "cast": [
+      "Randolph Scott",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/heritage-of-the-desert.html"
+}

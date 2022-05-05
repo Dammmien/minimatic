@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Twenty Dollars a Week",
+    "year": 1935,
+    "cast": [
+      "James Murray",
+      "Dorothy Revier",
+      "William Worthington"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/twenty-dollars-a-week.html"
+}

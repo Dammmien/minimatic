@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chickie",
+    "year": 1925,
+    "cast": [
+      "Dorothy Mackaill",
+      "John Bowers",
+      "Hobart Bosworth"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/chickie.html"
+}

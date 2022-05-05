@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bela Lugosi Meets a Brooklyn Gorilla",
+    "year": 1952,
+    "cast": [
+      "Bela Lugosi",
+      "Duke Mitchell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bela-lugosi-meets-a-brooklyn-gorilla.html"
+}

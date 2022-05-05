@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Proxy",
+    "year": 2013,
+    "cast": [
+      "Alexia Rasmussen",
+      "Joe Swanberg",
+      "Alexa Havins",
+      "Kristina Klebe",
+      "Jim Dougherty"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/proxy.html"
+}

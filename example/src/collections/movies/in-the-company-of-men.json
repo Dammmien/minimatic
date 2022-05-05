@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In the Company of Men",
+    "year": 1997,
+    "cast": [
+      "Aaron Eckhart",
+      "Matt Molloy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/in-the-company-of-men.html"
+}

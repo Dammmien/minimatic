@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Press Start",
+    "year": 2007,
+    "cast": [
+      "Joshua Stafford",
+      "Daniel Pesina"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/press-start.html"
+}

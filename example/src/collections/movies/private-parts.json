@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Private Parts",
+    "year": 1997,
+    "cast": [
+      "Howard Stern",
+      "Robin Quivers",
+      "Mary McCormack",
+      "Paul Giamatti",
+      "Allison Janney"
+    ],
+    "genres": [
+      "Biography",
+      "Comedy"
+    ]
+  },
+  "output": "movies/private-parts.html"
+}

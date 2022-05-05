@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Evil Dead II",
+    "year": 1987,
+    "cast": [
+      "Bruce Campbell"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/evil-dead-ii.html"
+}

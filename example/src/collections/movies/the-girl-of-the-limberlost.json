@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl of the Limberlost",
+    "year": 1945,
+    "cast": [
+      "Ruth Nelson",
+      "Gloria Holden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-girl-of-the-limberlost.html"
+}

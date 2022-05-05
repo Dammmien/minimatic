@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It's a Small World",
+    "year": 1950,
+    "cast": [
+      "Lorraine Miller",
+      "Will Geer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/it-s-a-small-world.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Crooked Road",
+    "year": 1940,
+    "cast": [
+      "Edmund Lowe",
+      "Irene Hervey",
+      "Henry Wilcoxon"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-crooked-road.html"
+}

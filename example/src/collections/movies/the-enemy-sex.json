@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Enemy Sex",
+    "year": 1924,
+    "cast": [
+      "Betty Compson",
+      "Percy Marmont"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-enemy-sex.html"
+}

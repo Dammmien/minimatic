@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daring Game",
+    "year": 1968,
+    "cast": [
+      "Lloyd Bridges",
+      "Joan Blackman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/daring-game.html"
+}

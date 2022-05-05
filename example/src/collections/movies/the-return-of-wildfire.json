@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Return of Wildfire",
+    "year": 1948,
+    "cast": [
+      "Richard Arlen",
+      "Patricia Morison",
+      "Mary Beth Hughes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-return-of-wildfire.html"
+}

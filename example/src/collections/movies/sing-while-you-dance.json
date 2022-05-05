@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sing While You Dance",
+    "year": 1946,
+    "cast": [
+      "Ellen Drew",
+      "Kirby Grant"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/sing-while-you-dance.html"
+}

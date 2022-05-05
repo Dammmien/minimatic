@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two Weeks",
+    "year": 2006,
+    "cast": [
+      "Sally Field",
+      "Ben Chaplin"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/two-weeks.html"
+}

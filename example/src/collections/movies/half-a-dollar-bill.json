@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Half-A-Dollar-Bill",
+    "year": 1924,
+    "cast": [
+      "Anna Q. Nilsson",
+      "William P. Carleton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/half-a-dollar-bill.html"
+}

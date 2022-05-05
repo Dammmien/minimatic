@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "C.H.U.D.",
+    "year": 1984,
+    "cast": [
+      "John Heard",
+      "Daniel Stern"
+    ],
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/c-h-u-d-.html"
+}

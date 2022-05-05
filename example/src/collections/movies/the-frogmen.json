@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Frogmen",
+    "year": 1951,
+    "cast": [
+      "Richard Widmark",
+      "Dana Andrews"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-frogmen.html"
+}

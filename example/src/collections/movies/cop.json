@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cop",
+    "year": 1988,
+    "cast": [
+      "James Woods",
+      "Lesley Ann Warren",
+      "Charles Durning"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/cop.html"
+}

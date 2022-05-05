@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Harry Tracy",
+    "year": 1982,
+    "cast": [
+      "Bruce Dern",
+      "Helen Shaver"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/harry-tracy.html"
+}

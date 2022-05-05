@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sons of the Legion",
+    "year": 1938,
+    "cast": [
+      "Lynne Overman",
+      "Evelyn Keyes",
+      "Tim Holt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sons-of-the-legion.html"
+}

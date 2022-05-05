@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Babe Ruth Story",
+    "year": 1948,
+    "cast": [
+      "William Bendix",
+      "Claire Trevor",
+      "Charles Bickford"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-babe-ruth-story.html"
+}

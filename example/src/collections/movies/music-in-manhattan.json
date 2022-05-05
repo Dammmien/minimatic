@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Music in Manhattan",
+    "year": 1944,
+    "cast": [
+      "Anne Shirley",
+      "Dennis Day"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/music-in-manhattan.html"
+}

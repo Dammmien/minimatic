@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Heroes of Telemark",
+    "year": 1965,
+    "cast": [
+      "Kirk Douglas",
+      "Richard Harris",
+      "Michael Redgrave"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-heroes-of-telemark.html"
+}

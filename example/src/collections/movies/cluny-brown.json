@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cluny Brown",
+    "year": 1946,
+    "cast": [
+      "Charles Boyer",
+      "Jennifer Jones",
+      "Peter Lawford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cluny-brown.html"
+}

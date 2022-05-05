@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Footlight Glamour",
+    "year": 1943,
+    "cast": [
+      "Penny Singleton",
+      "Arthur Lake",
+      "Ann Savage"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/footlight-glamour.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kicking & Screaming",
+    "year": 2005,
+    "cast": [
+      "Will Ferrell",
+      "Robert Duvall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kicking---screaming.html"
+}

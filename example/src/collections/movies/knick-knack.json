@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Knick Knack",
+    "year": 1989,
+    "cast": [],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/knick-knack.html"
+}

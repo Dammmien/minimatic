@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Painters Painting",
+    "year": 1972,
+    "cast": [
+      "Andy Warhol",
+      "Willem de Kooning"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/painters-painting.html"
+}

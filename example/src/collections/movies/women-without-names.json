@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Women Without Names",
+    "year": 1940,
+    "cast": [
+      "Ellen Drew",
+      "Fay Helm",
+      "Judith Barrett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/women-without-names.html"
+}

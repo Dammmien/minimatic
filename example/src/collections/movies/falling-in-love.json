@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Falling in Love",
+    "year": 1984,
+    "cast": [
+      "Robert De Niro",
+      "Meryl Streep",
+      "Harvey Keitel"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/falling-in-love.html"
+}

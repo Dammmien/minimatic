@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Redemption",
+    "year": 1930,
+    "cast": [
+      "John Gilbert",
+      "Renée Adorée",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/redemption.html"
+}

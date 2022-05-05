@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Happy Anniversary",
+    "year": 1959,
+    "cast": [
+      "David Niven",
+      "Mitzi Gaynor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/happy-anniversary.html"
+}

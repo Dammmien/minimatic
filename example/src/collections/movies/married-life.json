@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Married Life",
+    "year": 2007,
+    "cast": [
+      "Chris Cooper",
+      "Patricia Clarkson",
+      "Pierce Brosnan",
+      "Rachel McAdams"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/married-life.html"
+}

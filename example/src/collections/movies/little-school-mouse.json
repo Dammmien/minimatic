@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Little School Mouse",
+    "year": 1954,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/little-school-mouse.html"
+}

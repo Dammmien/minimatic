@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man from Planet X",
+    "year": 1951,
+    "cast": [
+      "Robert Clarke",
+      "Margaret Field"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-man-from-planet-x.html"
+}

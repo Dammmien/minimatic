@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Charter Pilot",
+    "year": 1940,
+    "cast": [
+      "Lloyd Nolan",
+      "Lynn Bari",
+      "Arleen Whelan"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/charter-pilot.html"
+}

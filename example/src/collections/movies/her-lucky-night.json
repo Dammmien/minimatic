@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Her Lucky Night",
+    "year": 1945,
+    "cast": [
+      "Martha O'Driscoll",
+      "Andrews Sisters"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/her-lucky-night.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "On the High Seas",
+    "year": 1922,
+    "cast": [
+      "Dorothy Dalton",
+      "Jack Holt"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/on-the-high-seas.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Racketeers of the Range",
+    "year": 1939,
+    "cast": [
+      "Marjorie Reynolds",
+      "Chill Wills"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/racketeers-of-the-range.html"
+}

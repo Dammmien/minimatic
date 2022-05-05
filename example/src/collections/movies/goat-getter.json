@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Goat Getter",
+    "year": 1925,
+    "cast": [
+      "Billy Sullivan",
+      "Kathleen Myers"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/goat-getter.html"
+}

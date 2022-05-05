@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Thick as Thieves",
+    "year": 1998,
+    "cast": [
+      "Alec Baldwin",
+      "Andre Braugher",
+      "Rebecca De Mornay"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/thick-as-thieves.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Youth Takes a Fling",
+    "year": 1938,
+    "cast": [
+      "Joel McCrea",
+      "Andrea Leeds",
+      "Frank Jenks",
+      "Dorothea Kent"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/youth-takes-a-fling.html"
+}

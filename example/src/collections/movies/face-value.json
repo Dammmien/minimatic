@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Face Value",
+    "year": 1918,
+    "cast": [
+      "Mae Murray",
+      "Wheeler Oakman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/face-value.html"
+}

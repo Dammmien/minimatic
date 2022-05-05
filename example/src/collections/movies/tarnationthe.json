@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Tarnationthe",
+    "year": 2003,
+    "cast": [
+      "the life of Jonathan Caouette"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/tarnationthe.html"
+}

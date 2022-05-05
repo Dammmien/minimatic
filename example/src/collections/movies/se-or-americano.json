@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Señor Americano",
+    "year": 1929,
+    "cast": [
+      "Ken Maynard",
+      "Kathryn Crawford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/se-or-americano.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "What a Way to Go!",
+    "year": 1964,
+    "cast": [
+      "Shirley MacLaine",
+      "Dean Martin",
+      "Paul Newman",
+      "Robert Mitchum",
+      "Robert Cummings",
+      "Dick Van Dyke",
+      "Gene Kelly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/what-a-way-to-go-.html"
+}

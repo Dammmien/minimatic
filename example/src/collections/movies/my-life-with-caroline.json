@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Life with Caroline",
+    "year": 1941,
+    "cast": [
+      "Ronald Colman",
+      "Anna Lee",
+      "Charles Winninger"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-life-with-caroline.html"
+}

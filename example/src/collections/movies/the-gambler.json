@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gambler",
+    "year": 1974,
+    "cast": [
+      "James Caan",
+      "Lauren Hutton",
+      "Paul Sorvino"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-gambler.html"
+}

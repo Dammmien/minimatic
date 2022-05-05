@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Personal Best",
+    "year": 1982,
+    "cast": [
+      "Mariel Hemingway",
+      "Scott Glenn",
+      "Patrice Donnelly"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/personal-best.html"
+}

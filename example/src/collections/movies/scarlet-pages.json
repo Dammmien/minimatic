@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Scarlet Pages",
+    "year": 1930,
+    "cast": [
+      "Elsie Ferguson",
+      "John Halliday",
+      "Grant Withers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/scarlet-pages.html"
+}

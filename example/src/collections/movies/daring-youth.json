@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Daring Youth",
+    "year": 1924,
+    "cast": [
+      "Bebe Daniels",
+      "Norman Kerry",
+      "Lee Moran"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/daring-youth.html"
+}

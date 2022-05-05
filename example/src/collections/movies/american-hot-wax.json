@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "American Hot Wax",
+    "year": 1978,
+    "cast": [
+      "Tim McIntire",
+      "Fran Drescher",
+      "Jay Leno",
+      "Laraine Newman",
+      "Chuck Berry"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/american-hot-wax.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hearts Aflame",
+    "year": 1923,
+    "cast": [
+      "Frank Keenan",
+      "Anna Q. Nilsson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hearts-aflame.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Merry Mix Up",
+    "year": 1957,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-merry-mix-up.html"
+}

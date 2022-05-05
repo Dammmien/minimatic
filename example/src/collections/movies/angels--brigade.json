@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Angels' Brigade",
+    "year": 1979,
+    "cast": [
+      "Sylvia Anderson",
+      "Peter Lawford",
+      "Jim Backus",
+      "Jack Palance"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/angels--brigade.html"
+}

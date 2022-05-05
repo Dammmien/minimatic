@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Iron Mistress",
+    "year": 1952,
+    "cast": [
+      "Alan Ladd",
+      "Virginia Mayo"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-iron-mistress.html"
+}

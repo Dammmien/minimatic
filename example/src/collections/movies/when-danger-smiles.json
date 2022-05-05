@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When Danger Smiles",
+    "year": 1922,
+    "cast": [
+      "Edith Johnson",
+      "James Farley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/when-danger-smiles.html"
+}

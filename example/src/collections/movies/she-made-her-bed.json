@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "She Made Her Bed",
+    "year": 1934,
+    "cast": [
+      "Richard Arlen",
+      "Sally Eilers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-made-her-bed.html"
+}

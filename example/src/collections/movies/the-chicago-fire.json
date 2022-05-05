@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "The Chicago Fire",
+    "year": 1904,
+    "cast": [],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-chicago-fire.html"
+}

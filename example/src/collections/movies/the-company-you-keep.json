@@ -1,0 +1,27 @@
+{
+  "data": {
+    "title": "The Company You Keep",
+    "year": 2013,
+    "cast": [
+      "Robert Redford",
+      "Shia LaBeouf",
+      "Julie Christie",
+      "Sam Elliott",
+      "Jackie Evancho",
+      "Brendan Gleeson",
+      "Terrence Howard",
+      "Richard Jenkins",
+      "Anna Kendrick",
+      "Brit Marling",
+      "Stanley Tucci",
+      "Nick Nolte",
+      "Chris Cooper",
+      "Susan Sarandon"
+    ],
+    "genres": [
+      "Political",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-company-you-keep.html"
+}

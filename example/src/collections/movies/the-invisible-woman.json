@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Invisible Woman",
+    "year": 1940,
+    "cast": [
+      "Virginia Bruce",
+      "John Barrymore",
+      "John Howard"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-invisible-woman.html"
+}

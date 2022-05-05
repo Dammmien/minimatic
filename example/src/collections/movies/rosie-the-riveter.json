@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rosie the Riveter",
+    "year": 1944,
+    "cast": [
+      "Frank Albertson",
+      "Jane Frazee"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/rosie-the-riveter.html"
+}

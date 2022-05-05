@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sherlock Brown",
+    "year": 1922,
+    "cast": [
+      "Bert Lytell",
+      "Sylvia Breamer",
+      "Theodore von Eltz"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/sherlock-brown.html"
+}

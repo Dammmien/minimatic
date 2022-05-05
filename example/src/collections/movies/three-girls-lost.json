@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Girls Lost",
+    "year": 1931,
+    "cast": [
+      "Loretta Young",
+      "John Wayne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/three-girls-lost.html"
+}

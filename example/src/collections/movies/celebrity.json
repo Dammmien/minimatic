@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Celebrity",
+    "year": 1998,
+    "cast": [
+      "Kenneth Branagh",
+      "Judy Davis",
+      "Bebe Neuwirth",
+      "Charlize Theron",
+      "Leonardo DiCaprio"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/celebrity.html"
+}

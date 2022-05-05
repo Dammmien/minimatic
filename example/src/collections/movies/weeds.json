@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Weeds",
+    "year": 1987,
+    "cast": [
+      "Nick Nolte",
+      "Ernie Hudson",
+      "William Forsythe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/weeds.html"
+}

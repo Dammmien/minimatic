@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Caprice",
+    "year": 1967,
+    "cast": [
+      "Doris Day",
+      "Richard Harris",
+      "Irene Tsu"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/caprice.html"
+}

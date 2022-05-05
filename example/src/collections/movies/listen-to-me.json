@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Listen to Me",
+    "year": 1989,
+    "cast": [
+      "Kirk Cameron",
+      "Jami Gertz",
+      "Roy Scheider",
+      "Christopher Atkins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/listen-to-me.html"
+}

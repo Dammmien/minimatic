@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Recruit",
+    "year": 2003,
+    "cast": [
+      "Al Pacino",
+      "Colin Farrell",
+      "Bridget Moynahan"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-recruit.html"
+}

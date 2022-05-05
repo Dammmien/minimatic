@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bloodhounds of the North",
+    "year": 1913,
+    "cast": [
+      "Murdock MacQuarrie",
+      "Pauline Bush"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bloodhounds-of-the-north.html"
+}

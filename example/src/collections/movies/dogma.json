@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Dogma",
+    "year": 1999,
+    "cast": [
+      "Ben Affleck",
+      "Matt Damon",
+      "Linda Fiorentino",
+      "Salma Hayek",
+      "Jason Lee",
+      "Alan Rickman",
+      "Chris Rock",
+      "Kevin Smith"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dogma.html"
+}

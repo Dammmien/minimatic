@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mister Cory",
+    "year": 1957,
+    "cast": [
+      "Tony Curtis",
+      "Martha Hyer",
+      "Charles Bickford",
+      "Kathryn Grant"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/mister-cory.html"
+}

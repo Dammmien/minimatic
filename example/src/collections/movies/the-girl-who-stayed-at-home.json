@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl Who Stayed at Home",
+    "year": 1919,
+    "cast": [
+      "Adolf Lestina",
+      "Carol Dempster"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-girl-who-stayed-at-home.html"
+}

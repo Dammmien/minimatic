@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Who Paid",
+    "year": 1922,
+    "cast": [
+      "Wilfred Lytell",
+      "Norma Shearer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-who-paid.html"
+}

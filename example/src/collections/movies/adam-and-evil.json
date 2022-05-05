@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Adam and Evil",
+    "year": 1927,
+    "cast": [
+      "Lew Cody",
+      "Aileen Pringle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/adam-and-evil.html"
+}

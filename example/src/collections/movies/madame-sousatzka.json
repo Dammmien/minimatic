@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Madame Sousatzka",
+    "year": 1988,
+    "cast": [
+      "Shirley MacLaine",
+      "Navin Chowdhry",
+      "Shabana Azmi",
+      "Twiggy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/madame-sousatzka.html"
+}

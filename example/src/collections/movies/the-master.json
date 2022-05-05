@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Master",
+    "year": 2012,
+    "cast": [
+      "Joaquin Phoenix",
+      "Philip Seymour Hoffman",
+      "Amy Adams",
+      "Laura Dern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-master.html"
+}

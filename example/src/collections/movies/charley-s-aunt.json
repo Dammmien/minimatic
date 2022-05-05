@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Charley's Aunt",
+    "year": 1930,
+    "cast": [
+      "Charles Ruggles",
+      "Hugh Williams"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/charley-s-aunt.html"
+}

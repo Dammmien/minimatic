@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "RocketMan",
+    "year": 1997,
+    "cast": [
+      "Harland Williams",
+      "Jessica Lundy",
+      "William Sadler"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rocketman.html"
+}

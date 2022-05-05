@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sunny Side of the Street",
+    "year": 1951,
+    "cast": [
+      "Frankie Laine",
+      "Audrey Long"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sunny-side-of-the-street.html"
+}

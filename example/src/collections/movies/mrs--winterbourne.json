@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mrs. Winterbourne",
+    "year": 1996,
+    "cast": [
+      "Shirley MacLaine",
+      "Brendan Fraser",
+      "Ricki Lake"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mrs--winterbourne.html"
+}

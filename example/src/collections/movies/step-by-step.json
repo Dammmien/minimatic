@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Step by Step",
+    "year": 1946,
+    "cast": [
+      "Lawrence Tierney",
+      "Anne Jeffreys"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/step-by-step.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Arizona Whirlwind",
+    "year": 1944,
+    "cast": [
+      "Ken Maynard",
+      "Hoot Gibson",
+      "Bob Steele"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/arizona-whirlwind.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Elvis & Nixon",
+    "year": 2016,
+    "cast": [
+      "Kevin Spacey",
+      "Michael Shannon"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/elvis---nixon.html"
+}

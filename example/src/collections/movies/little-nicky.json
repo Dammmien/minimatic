@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Little Nicky",
+    "year": 2000,
+    "cast": [
+      "Adam Sandler",
+      "Patricia Arquette",
+      "Harvey Keitel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-nicky.html"
+}

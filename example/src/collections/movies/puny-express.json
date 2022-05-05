@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Puny Express",
+    "year": 1950,
+    "cast": [
+      "Woody the Woodpecker"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/puny-express.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Poltergeist",
+    "year": 2015,
+    "cast": [
+      "Sam Rockwell",
+      "Jared Harris",
+      "Rosemarie DeWitt",
+      "Saxon Sharbino"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/poltergeist.html"
+}

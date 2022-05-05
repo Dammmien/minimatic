@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Mean Creek",
+    "year": 2004,
+    "cast": [
+      "Rory Culkin",
+      "Trevor Morgan",
+      "Scott Mechlowicz",
+      "Carly Schroeder",
+      "Josh Peck"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mean-creek.html"
+}

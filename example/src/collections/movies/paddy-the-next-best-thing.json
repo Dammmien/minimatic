@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Paddy the Next Best Thing",
+    "year": 1933,
+    "cast": [
+      "Janet Gaynor",
+      "Warner Baxter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/paddy-the-next-best-thing.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Son of Monte Cristo",
+    "year": 1940,
+    "cast": [
+      "Louis Hayward",
+      "Joan Bennett",
+      "George Sanders"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-son-of-monte-cristo.html"
+}

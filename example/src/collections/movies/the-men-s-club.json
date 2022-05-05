@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Men's Club",
+    "year": 1986,
+    "cast": [
+      "Roy Scheider",
+      "Harvey Keitel",
+      "Frank Langella",
+      "Treat Williams",
+      "Jennifer Jason Leigh",
+      "Stockard Channing"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-men-s-club.html"
+}

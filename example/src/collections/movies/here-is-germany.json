@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Here Is Germany",
+    "year": 1945,
+    "cast": [],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/here-is-germany.html"
+}

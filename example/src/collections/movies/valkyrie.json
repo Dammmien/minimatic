@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Valkyrie",
+    "year": 2008,
+    "cast": [
+      "Tom Cruise",
+      "Kenneth Branagh",
+      "Eddie Izzard",
+      "Bill Nighy"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/valkyrie.html"
+}

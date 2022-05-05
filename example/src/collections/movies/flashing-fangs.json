@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flashing Fangs",
+    "year": 1926,
+    "cast": [
+      "Lotus Thompson",
+      "Eddy Chandler"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/flashing-fangs.html"
+}

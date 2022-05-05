@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Laurel Canyon",
+    "year": 2002,
+    "cast": [
+      "Frances McDormand",
+      "Christian Bale",
+      "Kate Beckinsalee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/laurel-canyon.html"
+}

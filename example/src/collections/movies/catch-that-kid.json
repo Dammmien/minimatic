@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Catch That Kid",
+    "year": 2004,
+    "cast": [
+      "Kristen Stewart",
+      "Corbin Bleu",
+      "Max Thieriot"
+    ],
+    "genres": [
+      "Crime",
+      "Family"
+    ]
+  },
+  "output": "movies/catch-that-kid.html"
+}

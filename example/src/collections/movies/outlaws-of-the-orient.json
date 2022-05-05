@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Outlaws of the Orient",
+    "year": 1937,
+    "cast": [
+      "Jack Holt",
+      "Mae Clark",
+      "Harold Huber"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/outlaws-of-the-orient.html"
+}

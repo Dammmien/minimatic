@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Marie, Ltd.",
+    "year": 1919,
+    "cast": [
+      "Alice Brady",
+      "Frank Losee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/marie--ltd-.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Unconquered Bandit",
+    "year": 1935,
+    "cast": [
+      "Tom Tyler",
+      "William Gould"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/unconquered-bandit.html"
+}

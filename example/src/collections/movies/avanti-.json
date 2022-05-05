@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Avanti!",
+    "year": 1972,
+    "cast": [
+      "Jack Lemmon",
+      "Juliet Mills",
+      "Clive Revill"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/avanti-.html"
+}

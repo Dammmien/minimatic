@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "All in a Night's Work",
+    "year": 1961,
+    "cast": [
+      "Dean Martin",
+      "Shirley MacLaine",
+      "Cliff Robertson"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/all-in-a-night-s-work.html"
+}

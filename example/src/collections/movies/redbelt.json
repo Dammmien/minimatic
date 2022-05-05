@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Redbelt",
+    "year": 2008,
+    "cast": [
+      "Chiwetel Ejiofor",
+      "Tim Allen",
+      "Alice Braga",
+      "Randy Couture",
+      "Ricky Jay",
+      "Joe Mantegna",
+      "Emily Mortimer",
+      "David Paymer",
+      "Rebecca Pidgeon",
+      "Rodrigo Santoro"
+    ],
+    "genres": [
+      "Drama",
+      "Martial Arts"
+    ]
+  },
+  "output": "movies/redbelt.html"
+}

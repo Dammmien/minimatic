@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sleep, My Love",
+    "year": 1948,
+    "cast": [
+      "Claudette Colbert",
+      "Don Ameche",
+      "Robert Cummings"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sleep--my-love.html"
+}

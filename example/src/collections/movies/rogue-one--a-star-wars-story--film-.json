@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Rogue One: A Star Wars Story (film)",
+    "year": 2016,
+    "cast": [
+      "Diego Luna"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/rogue-one--a-star-wars-story--film-.html"
+}

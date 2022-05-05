@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cardinal Richelieu",
+    "year": 1935,
+    "cast": [
+      "George Arliss",
+      "Maureen O'Sullivan",
+      "Cesar Romero"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/cardinal-richelieu.html"
+}

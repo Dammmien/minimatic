@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Lady Bird",
+    "year": 2017,
+    "cast": [
+      "Saoirse Ronan",
+      "Laurie Metcalf",
+      "Tracy Letts",
+      "Lucas Hedges",
+      "Timothée Chalamet",
+      "Beanie Feldstein",
+      "Stephen McKinley Henderson",
+      "Lois Smith"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/lady-bird.html"
+}

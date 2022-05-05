@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The St. Valentine's Day Massacre",
+    "year": 1967,
+    "cast": [
+      "Jason Robards",
+      "George Segal",
+      "Ralph Meeker",
+      "Jean Hale"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-st--valentine-s-day-massacre.html"
+}

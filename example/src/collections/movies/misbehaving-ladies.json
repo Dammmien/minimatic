@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Misbehaving Ladies",
+    "year": 1931,
+    "cast": [
+      "Lila Lee",
+      "Ben Lyon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/misbehaving-ladies.html"
+}

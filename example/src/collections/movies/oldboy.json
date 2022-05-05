@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Oldboy",
+    "year": 2013,
+    "cast": [
+      "Josh Brolin",
+      "Elizabeth Olsen",
+      "Sharlto Copley"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/oldboy.html"
+}

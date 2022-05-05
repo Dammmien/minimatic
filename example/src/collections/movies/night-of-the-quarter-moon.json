@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night of the Quarter Moon",
+    "year": 1959,
+    "cast": [
+      "Julie London",
+      "Dean Jones"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/night-of-the-quarter-moon.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Ernest Goes to Camp",
+    "year": 1987,
+    "cast": [
+      "Jim Varney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ernest-goes-to-camp.html"
+}

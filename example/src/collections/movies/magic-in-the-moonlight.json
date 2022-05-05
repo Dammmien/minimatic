@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Magic in the Moonlight",
+    "year": 2014,
+    "cast": [
+      "Colin Firth",
+      "Emma Stone",
+      "Hamish Linklater",
+      "Jacki Weaver"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/magic-in-the-moonlight.html"
+}

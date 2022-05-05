@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fandango",
+    "year": 1985,
+    "cast": [
+      "Kevin Costner",
+      "Judd Nelson",
+      "Sam Robards",
+      "Suzy Amis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fandango.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dear White People",
+    "year": 2014,
+    "cast": [
+      "Tyler James Williams",
+      "Dennis Haysbert",
+      "Tessa Thompson",
+      "Kyle Gallner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dear-white-people.html"
+}

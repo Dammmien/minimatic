@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sorority House",
+    "year": 1939,
+    "cast": [
+      "Anne Shirley",
+      "James Ellison"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sorority-house.html"
+}

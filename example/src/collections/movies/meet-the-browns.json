@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Meet the Browns",
+    "year": 2008,
+    "cast": [
+      "Tyler Perry",
+      "Angela Bassett",
+      "Jenifer Lewis",
+      "Rick Fox"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/meet-the-browns.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Devil is a Woman",
+    "year": 1935,
+    "cast": [
+      "Marlene Dietrich",
+      "Lionel Atwill",
+      "Cesar Romero"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-devil-is-a-woman.html"
+}

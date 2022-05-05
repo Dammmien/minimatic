@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Scarlet Coat",
+    "year": 1955,
+    "cast": [
+      "Cornel Wilde",
+      "Michael Wilding",
+      "Anne Francis"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/the-scarlet-coat.html"
+}

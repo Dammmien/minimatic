@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Young and Willing",
+    "year": 1943,
+    "cast": [
+      "William Holden",
+      "Susan Hayward"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/young-and-willing.html"
+}

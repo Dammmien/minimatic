@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Man's Navy",
+    "year": 1945,
+    "cast": [
+      "Wallace Beery",
+      "Tom Drake",
+      "Jan Clayton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/this-man-s-navy.html"
+}

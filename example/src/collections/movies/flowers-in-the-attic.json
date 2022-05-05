@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flowers in the Attic",
+    "year": 1987,
+    "cast": [
+      "Louise Fletcher",
+      "Victoria Tennant",
+      "Kristy Swanson"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/flowers-in-the-attic.html"
+}

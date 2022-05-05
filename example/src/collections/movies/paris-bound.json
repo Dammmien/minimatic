@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Paris Bound",
+    "year": 1929,
+    "cast": [
+      "Ann Harding",
+      "Fredric March"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/paris-bound.html"
+}

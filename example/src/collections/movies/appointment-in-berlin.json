@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Appointment in Berlin",
+    "year": 1943,
+    "cast": [
+      "George Sanders",
+      "Marguerite Chapman"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/appointment-in-berlin.html"
+}

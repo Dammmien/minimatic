@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Revolutionary",
+    "year": 1970,
+    "cast": [
+      "Jon Voight",
+      "Seymour Cassel",
+      "Robert Duvall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-revolutionary.html"
+}

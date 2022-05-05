@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Portrait of a Mobster",
+    "year": 1961,
+    "cast": [
+      "Vic Morrow",
+      "Leslie Parrish"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/portrait-of-a-mobster.html"
+}

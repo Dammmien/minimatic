@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Shanghai",
+    "year": 1935,
+    "cast": [
+      "Loretta Young",
+      "Charles Boyer",
+      "Warner Oland"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/shanghai.html"
+}

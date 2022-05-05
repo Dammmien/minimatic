@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Heading West",
+    "year": 1946,
+    "cast": [
+      "Charles Starrett",
+      "Smiley Burnette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/heading-west.html"
+}

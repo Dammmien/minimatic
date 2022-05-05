@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "Friends with Benefits",
+    "year": 2011,
+    "cast": [
+      "Justin Timberlake",
+      "Mila Kunis",
+      "Patricia Clarkson",
+      "Jenna Elfman",
+      "Bryan Greenberg",
+      "Richard Jenkins",
+      "Woody Harrelson",
+      "Emma Stone",
+      "Nolan Gould",
+      "Jason Segel",
+      "Rashida Jones",
+      "Andy Samberg",
+      "Shaun White"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/friends-with-benefits.html"
+}

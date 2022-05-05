@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ann Carver's Profession",
+    "year": 1933,
+    "cast": [
+      "Fay Wray",
+      "Gene Raymond"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ann-carver-s-profession.html"
+}

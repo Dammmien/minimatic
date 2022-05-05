@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hitchhike to Happiness",
+    "year": 1945,
+    "cast": [
+      "Al Pearce",
+      "Dale Evans"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hitchhike-to-happiness.html"
+}

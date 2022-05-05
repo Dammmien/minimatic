@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Winged Horseman",
+    "year": 1929,
+    "cast": [
+      "Hoot Gibson",
+      "Ruth Elder"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-winged-horseman.html"
+}

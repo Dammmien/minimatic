@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Regular Fellow",
+    "year": 1925,
+    "cast": [
+      "Raymond Griffith",
+      "Mary Brian",
+      "Tyrone Power Sr"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-regular-fellow.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Road to Hong Kong",
+    "year": 1962,
+    "cast": [
+      "Bob Hope",
+      "Bing Crosby",
+      "Joan Collins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-road-to-hong-kong.html"
+}

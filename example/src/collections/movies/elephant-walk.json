@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Elephant Walk",
+    "year": 1954,
+    "cast": [
+      "Elizabeth Taylor",
+      "Dana Andrews",
+      "Peter Finch"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/elephant-walk.html"
+}

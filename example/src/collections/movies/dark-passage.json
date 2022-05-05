@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dark Passage",
+    "year": 1947,
+    "cast": [
+      "Humphrey Bogart",
+      "Lauren Bacall"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/dark-passage.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Little Rascals",
+    "year": 1994,
+    "cast": [
+      "Bug Hall",
+      "Travis Tedford",
+      "Reba McEntire",
+      "Whoopi Goldberg",
+      "Mel Brooks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-little-rascals.html"
+}

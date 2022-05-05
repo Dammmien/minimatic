@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Searchers",
+    "year": 1956,
+    "cast": [
+      "John Wayne",
+      "Jeffrey Hunter",
+      "Vera Miles",
+      "Ward Bond",
+      "Ken Curtis",
+      "Natalie Wood"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-searchers.html"
+}

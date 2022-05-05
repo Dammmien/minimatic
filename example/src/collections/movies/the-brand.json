@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Brand",
+    "year": 1919,
+    "cast": [
+      "Russell Simpson",
+      "Robert McKim"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-brand.html"
+}

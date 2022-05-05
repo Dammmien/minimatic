@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Night at the Golden Eagle",
+    "year": 2002,
+    "cast": [
+      "Donnie Mantemarano",
+      "Vinny Argiro",
+      "Natasha Lyonne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/night-at-the-golden-eagle.html"
+}

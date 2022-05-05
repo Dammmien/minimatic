@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Cleanse",
+    "year": 2018,
+    "cast": [
+      "Johnny Galecki",
+      "Anna Friel",
+      "Oliver Platt",
+      "Anjelica Huston"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/the-cleanse.html"
+}

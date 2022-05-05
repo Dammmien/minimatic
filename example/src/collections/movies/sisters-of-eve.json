@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sisters of Eve",
+    "year": 1928,
+    "cast": [
+      "Anita Stewart",
+      "Betty Blythe"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/sisters-of-eve.html"
+}

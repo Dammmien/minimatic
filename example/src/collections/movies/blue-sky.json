@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blue Sky",
+    "year": 1994,
+    "cast": [
+      "Jessica Lange",
+      "Tommy Lee Jones"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blue-sky.html"
+}

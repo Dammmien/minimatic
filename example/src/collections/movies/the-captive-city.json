@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Captive City",
+    "year": 1962,
+    "cast": [
+      "David Niven",
+      "Ben Gazzara",
+      "Martin Balsam",
+      "Lea Massari"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-captive-city.html"
+}

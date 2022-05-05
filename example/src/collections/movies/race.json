@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Race",
+    "year": 2016,
+    "cast": [
+      "Stephan James",
+      "Jason Sudeikis",
+      "Jeremy Irons"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/race.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "High Gear",
+    "year": 1933,
+    "cast": [
+      "James Murray",
+      "Joan Marsh",
+      "Theodore von Eltz"
+    ],
+    "genres": [
+      "Adventure",
+      "Drama"
+    ]
+  },
+  "output": "movies/high-gear.html"
+}

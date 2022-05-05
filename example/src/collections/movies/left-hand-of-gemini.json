@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Left Hand of Gemini",
+    "year": 1972,
+    "cast": [
+      "Ian McShane",
+      "Richard Egan"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/left-hand-of-gemini.html"
+}

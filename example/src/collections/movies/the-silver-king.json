@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Silver King",
+    "year": 1919,
+    "cast": [
+      "William Faversham",
+      "Barbara Castleton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-silver-king.html"
+}

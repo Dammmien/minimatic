@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bright Victory",
+    "year": 1951,
+    "cast": [
+      "Arthur Kennedy",
+      "Peggy Dow",
+      "Julia Adams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bright-victory.html"
+}

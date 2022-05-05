@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Band of Angels",
+    "year": 1957,
+    "cast": [
+      "Clark Gable",
+      "Sidney Poitier",
+      "Yvonne DeCarlo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/band-of-angels.html"
+}

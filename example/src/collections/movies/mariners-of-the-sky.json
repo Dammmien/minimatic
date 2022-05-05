@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mariners of the Sky",
+    "year": 1936,
+    "cast": [
+      "William Gargan",
+      "Claire Dodd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mariners-of-the-sky.html"
+}

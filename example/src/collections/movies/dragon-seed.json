@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dragon Seed",
+    "year": 1944,
+    "cast": [
+      "Katharine Hepburn",
+      "Walter Huston"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/dragon-seed.html"
+}

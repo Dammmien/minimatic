@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Drag Me to Hell",
+    "year": 2009,
+    "cast": [
+      "Alison Lohman",
+      "Justin Long",
+      "Lorna Raver",
+      "Dileep Rao",
+      "David Paymer",
+      "Adriana Barraza"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/drag-me-to-hell.html"
+}

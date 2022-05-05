@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Texas Bad Man",
+    "year": 1953,
+    "cast": [
+      "Wayne Morris",
+      "Elaine Riley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/texas-bad-man.html"
+}

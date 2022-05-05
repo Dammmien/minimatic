@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Shock",
+    "year": 1923,
+    "cast": [
+      "Lon Chaney",
+      "Virginia Valli"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-shock.html"
+}

@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "G.I. Joe: The Rise of Cobra",
+    "year": 2009,
+    "cast": [
+      "Dennis Quaid",
+      "Channing Tatum",
+      "Marlon Wayans",
+      "Saïd Taghmaoui",
+      "Jonathan Pryce",
+      "Rachel Nichols",
+      "Sienna Miller",
+      "Lee Byung-hun",
+      "Joseph Gordon-Levitt",
+      "Christopher Eccleston",
+      "Adewale Akinnuoye-Agbaje"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/g-i--joe--the-rise-of-cobra.html"
+}

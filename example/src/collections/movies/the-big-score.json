@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Score",
+    "year": 1983,
+    "cast": [
+      "Fred Williamson",
+      "Richard Roundtree",
+      "John Saxon"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-big-score.html"
+}

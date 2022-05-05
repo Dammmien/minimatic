@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "The Thin Red Line",
+    "year": 1998,
+    "cast": [
+      "Sean Penn",
+      "Adrien Brody",
+      "Jim Caviezel",
+      "Ben Chaplin",
+      "George Clooney",
+      "John Cusack",
+      "Woody Harrelson",
+      "Elias Koteas",
+      "Jared Leto",
+      "Nick Nolte",
+      "John C. Reilly",
+      "John Travolta"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/the-thin-red-line.html"
+}

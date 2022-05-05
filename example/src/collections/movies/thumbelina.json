@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Thumbelina",
+    "year": 1994,
+    "cast": [],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/thumbelina.html"
+}

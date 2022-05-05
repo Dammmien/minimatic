@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Popstar",
+    "year": 2005,
+    "cast": [
+      "Aaron Carter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/popstar.html"
+}

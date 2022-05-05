@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Song of the Caballero",
+    "year": 1930,
+    "cast": [
+      "Ken Maynard",
+      "Doris Hill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/song-of-the-caballero.html"
+}

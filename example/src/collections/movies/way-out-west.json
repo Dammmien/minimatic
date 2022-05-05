@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Way Out West",
+    "year": 1937,
+    "cast": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "James Finlayson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/way-out-west.html"
+}

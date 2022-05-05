@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lillo of the Sulu Seas",
+    "year": 1916,
+    "cast": [
+      "Harold Lockwood",
+      "May Allison"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/lillo-of-the-sulu-seas.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Good Gracious, Annabelle",
+    "year": 1919,
+    "cast": [
+      "Billie Burke",
+      "Herbert Rawlinson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/good-gracious--annabelle.html"
+}

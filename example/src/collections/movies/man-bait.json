@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man Bait",
+    "year": 1927,
+    "cast": [
+      "Marie Prevost",
+      "Douglas Fairbanks Jr."
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/man-bait.html"
+}

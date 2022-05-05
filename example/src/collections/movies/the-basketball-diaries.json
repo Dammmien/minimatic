@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Basketball Diaries",
+    "year": 1995,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Lorraine Bracco"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-basketball-diaries.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Fractured Leghorn",
+    "year": 1950,
+    "cast": [
+      "Foghorn Leghorn"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/a-fractured-leghorn.html"
+}

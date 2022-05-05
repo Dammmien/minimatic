@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Affairs of Susan",
+    "year": 1945,
+    "cast": [
+      "Joan Fontaine",
+      "George Brent",
+      "Dennis O'Keefe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-affairs-of-susan.html"
+}

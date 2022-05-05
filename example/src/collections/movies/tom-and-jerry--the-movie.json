@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Tom and Jerry: The Movie",
+    "year": 1993,
+    "cast": [
+      "Richard Kind",
+      "Dana Hill",
+      "Anndi McAfee",
+      "Tony Jay",
+      "Rip Taylor"
+    ],
+    "genres": [
+      "Animated",
+      "Musical"
+    ]
+  },
+  "output": "movies/tom-and-jerry--the-movie.html"
+}

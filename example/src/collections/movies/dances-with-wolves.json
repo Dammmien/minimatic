@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dances with Wolves",
+    "year": 1990,
+    "cast": [
+      "Kevin Costner",
+      "Mary McDonnell",
+      "Graham Greene"
+    ],
+    "genres": [
+      "Drama",
+      "Western"
+    ]
+  },
+  "output": "movies/dances-with-wolves.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The White Outlaw",
+    "year": 1925,
+    "cast": [
+      "Jack Hoxie",
+      "Marceline Day"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-white-outlaw.html"
+}

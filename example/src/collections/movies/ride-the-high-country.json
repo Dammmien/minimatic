@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Ride the High Country",
+    "year": 1962,
+    "cast": [
+      "Joel McCrea",
+      "Randolph Scott",
+      "Mariette Hartley",
+      "James Drury",
+      "Warren Oates",
+      "R. G. Armstrong",
+      "L. Q. Jones"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ride-the-high-country.html"
+}

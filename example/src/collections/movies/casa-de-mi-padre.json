@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Casa de Mi Padre",
+    "year": 2012,
+    "cast": [
+      "Will Ferrell",
+      "Gael García Bernal",
+      "Diego Luna",
+      "introducing",
+      "Génesis Rodríguez",
+      "with",
+      "Pedro Armendáriz",
+      "and",
+      "Nick Offerman",
+      "Efren Ramirez",
+      "Adrian Martinez",
+      "Héctor Jiménez"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/casa-de-mi-padre.html"
+}

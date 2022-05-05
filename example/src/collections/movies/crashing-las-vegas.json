@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Crashing Las Vegas",
+    "year": 1956,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Mary Castle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/crashing-las-vegas.html"
+}

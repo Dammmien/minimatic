@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scudda Hoo! Scudda Hay!",
+    "year": 1948,
+    "cast": [
+      "June Haver",
+      "Lon McCallister"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/scudda-hoo--scudda-hay-.html"
+}

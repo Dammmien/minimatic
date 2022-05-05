@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Imaginary Heroes",
+    "year": 2004,
+    "cast": [
+      "Sigourney Weaver",
+      "Emile Hirsch",
+      "Jeff Daniels"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/imaginary-heroes.html"
+}

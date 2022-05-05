@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tarzan's Three Challenges",
+    "year": 1963,
+    "cast": [
+      "Jock Mahoney",
+      "Woody Strode"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-s-three-challenges.html"
+}

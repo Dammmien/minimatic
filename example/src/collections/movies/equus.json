@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Equus",
+    "year": 1977,
+    "cast": [
+      "Richard Burton",
+      "Peter Firth",
+      "Joan Plowright"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/equus.html"
+}

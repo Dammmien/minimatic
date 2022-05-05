@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cocaine Cowboys",
+    "year": 2006,
+    "cast": [
+      "cocaine",
+      "in Miami during 1970s and 1980s"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/cocaine-cowboys.html"
+}

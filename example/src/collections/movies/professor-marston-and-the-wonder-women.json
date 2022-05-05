@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Professor Marston and the Wonder Women",
+    "year": 2017,
+    "cast": [
+      "Luke Evans",
+      "Rebecca Hall",
+      "Bella Heathcote",
+      "Connie Britton",
+      "Oliver Platt"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/professor-marston-and-the-wonder-women.html"
+}

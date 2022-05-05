@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Happy Feeling",
+    "year": 1958,
+    "cast": [
+      "Debbie Reynolds",
+      "Curd Jürgens",
+      "John Saxon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/this-happy-feeling.html"
+}

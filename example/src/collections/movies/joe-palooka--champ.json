@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Joe Palooka, Champ",
+    "year": 1946,
+    "cast": [
+      "Leon Errol",
+      "Joe Kirkwood",
+      "Elyse Knox"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/joe-palooka--champ.html"
+}

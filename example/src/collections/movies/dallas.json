@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dallas",
+    "year": 1950,
+    "cast": [
+      "Gary Cooper",
+      "Ruth Roman",
+      "Raymond Massey",
+      "Steve Cochran",
+      "Reed Hadley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/dallas.html"
+}

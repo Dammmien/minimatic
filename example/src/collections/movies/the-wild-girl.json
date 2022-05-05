@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Wild Girl",
+    "year": 1917,
+    "cast": [
+      "Eva Tanguay",
+      "Thomas J. Moore"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-wild-girl.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Temporary Marriage",
+    "year": 1923,
+    "cast": [
+      "Kenneth Harlan",
+      "Mildred Davis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/temporary-marriage.html"
+}

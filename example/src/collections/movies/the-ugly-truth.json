@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ugly Truth",
+    "year": 2009,
+    "cast": [
+      "Katherine Heigl",
+      "Gerard Butler"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ugly-truth.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Generation X",
+    "year": 1996,
+    "cast": [
+      "Matt Frewer",
+      "Finola Hughes"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/generation-x.html"
+}

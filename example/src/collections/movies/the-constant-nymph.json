@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Constant Nymph",
+    "year": 1943,
+    "cast": [
+      "Charles Boyer",
+      "Joan Fontaine",
+      "Peter Lorre"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-constant-nymph.html"
+}

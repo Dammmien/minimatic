@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ready for Love",
+    "year": 1934,
+    "cast": [
+      "Richard Arlen",
+      "Ida Lupino",
+      "Marjorie Rambeau"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/ready-for-love.html"
+}

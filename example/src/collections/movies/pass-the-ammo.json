@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pass the Ammo",
+    "year": 1988,
+    "cast": [
+      "Bill Paxton",
+      "Tim Curry"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pass-the-ammo.html"
+}

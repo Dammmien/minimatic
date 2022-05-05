@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ever Since Eve",
+    "year": 1937,
+    "cast": [
+      "Marion Davies",
+      "Robert Montgomery"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/ever-since-eve.html"
+}

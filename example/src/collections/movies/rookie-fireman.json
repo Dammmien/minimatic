@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rookie Fireman",
+    "year": 1950,
+    "cast": [
+      "Bill Williams",
+      "Barton MacLane",
+      "Marjorie Reynolds"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rookie-fireman.html"
+}

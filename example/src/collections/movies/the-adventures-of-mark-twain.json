@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Adventures of Mark Twain",
+    "year": 1985,
+    "cast": [
+      "James Whitmore"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-adventures-of-mark-twain.html"
+}

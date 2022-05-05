@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Ruling Voice",
+    "year": 1931,
+    "cast": [
+      "Walter Huston",
+      "Loretta Young",
+      "Dudley Digges"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-ruling-voice.html"
+}

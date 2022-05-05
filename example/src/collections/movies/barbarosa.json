@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Barbarosa",
+    "year": 1982,
+    "cast": [
+      "Willie Nelson",
+      "Gary Busey",
+      "Isela Vega"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/barbarosa.html"
+}

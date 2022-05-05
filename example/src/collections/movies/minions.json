@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Minions",
+    "year": 2015,
+    "cast": [
+      "Sandra Bullock",
+      "Jon Hamm",
+      "Michael Keaton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/minions.html"
+}

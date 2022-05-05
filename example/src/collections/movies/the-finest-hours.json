@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Finest Hours",
+    "year": 2016,
+    "cast": [
+      "Chris Pine",
+      "Casey Affleck"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-finest-hours.html"
+}

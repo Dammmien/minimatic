@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thomas & the Magic Railroad",
+    "year": 2000,
+    "cast": [
+      "Alec Baldwin",
+      "Peter Fonda",
+      "Mara Wilson"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/thomas---the-magic-railroad.html"
+}

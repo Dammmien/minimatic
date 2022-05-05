@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Comic",
+    "year": 1969,
+    "cast": [
+      "Dick Van Dyke",
+      "Mickey Rooney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-comic.html"
+}

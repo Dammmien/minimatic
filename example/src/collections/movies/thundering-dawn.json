@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thundering Dawn",
+    "year": 1923,
+    "cast": [
+      "J. Warren Kerrigan",
+      "Anna Q. Nilsson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thundering-dawn.html"
+}

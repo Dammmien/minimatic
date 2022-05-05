@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "We Have Our Moments",
+    "year": 1937,
+    "cast": [
+      "Sally Eilers",
+      "James Dunn",
+      "David Niven"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/we-have-our-moments.html"
+}

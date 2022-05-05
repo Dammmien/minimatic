@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The River Pirate",
+    "year": 1928,
+    "cast": [
+      "Victor McLaglen",
+      "Lois Moran"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-river-pirate.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Sanctum",
+    "year": 2011,
+    "cast": [
+      "Richard Roxburgh",
+      "Rhys Wakefield",
+      "Alice Parkinson",
+      "Dan Wyllie",
+      "Ioan Gruffudd"
+    ],
+    "genres": [
+      "Adventure",
+      "Disaster"
+    ]
+  },
+  "output": "movies/sanctum.html"
+}

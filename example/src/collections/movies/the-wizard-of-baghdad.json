@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wizard of Baghdad",
+    "year": 1961,
+    "cast": [
+      "Dick Shawn",
+      "Diane Baker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-wizard-of-baghdad.html"
+}

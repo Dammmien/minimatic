@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Walk Don't Run",
+    "year": 1966,
+    "cast": [
+      "Cary Grant",
+      "Samantha Eggar",
+      "Jim Hutton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/walk-don-t-run.html"
+}

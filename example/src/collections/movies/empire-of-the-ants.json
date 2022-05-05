@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Empire of the Ants",
+    "year": 1977,
+    "cast": [
+      "Joan Collins",
+      "Albert Salmi"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/empire-of-the-ants.html"
+}

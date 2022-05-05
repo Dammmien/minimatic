@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Cowboy",
+    "year": 1958,
+    "cast": [
+      "Glenn Ford",
+      "Jack Lemmon",
+      "Anna Kashfi",
+      "Brian Donlevy",
+      "Richard Jaeckel",
+      "Dick York"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cowboy.html"
+}

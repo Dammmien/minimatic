@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Another Man's Wife",
+    "year": 1924,
+    "cast": [
+      "James Kirkwood",
+      "Lila Lee",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/another-man-s-wife.html"
+}

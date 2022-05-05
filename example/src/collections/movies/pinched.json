@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Pinched",
+    "year": 1917,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pinched.html"
+}

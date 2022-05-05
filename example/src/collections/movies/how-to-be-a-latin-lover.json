@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "How to Be a Latin Lover",
+    "year": 2017,
+    "cast": [
+      "Eugenio Derbez",
+      "Salma Hayek",
+      "Raphael Alejandro",
+      "Rob Lowe",
+      "Kristen Bell",
+      "Raquel Welch",
+      "Rob Riggle",
+      "Renée Taylor",
+      "Rob Huebel",
+      "Michaela Watkins",
+      "Linda Lavin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/how-to-be-a-latin-lover.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Annie Get Your Gun",
+    "year": 1950,
+    "cast": [
+      "Betty Hutton",
+      "Howard Keel"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/annie-get-your-gun.html"
+}

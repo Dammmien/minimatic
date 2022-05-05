@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Midnight Mary",
+    "year": 1933,
+    "cast": [
+      "Loretta Young",
+      "Franchot Tone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/midnight-mary.html"
+}

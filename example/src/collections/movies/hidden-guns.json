@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hidden Guns",
+    "year": 1956,
+    "cast": [
+      "Bruce Bennett",
+      "Richard Arlen",
+      "Angie Dickinson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hidden-guns.html"
+}

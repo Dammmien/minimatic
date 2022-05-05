@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Incredible Hulk Returns",
+    "year": 1988,
+    "cast": [
+      "Bill Bixby",
+      "Lou Ferrigno",
+      "Lee Purcell",
+      "Steve Levitt",
+      "Jack Colvin",
+      "Erik Kramer"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-incredible-hulk-returns.html"
+}

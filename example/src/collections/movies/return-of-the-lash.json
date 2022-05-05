@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Return of the Lash",
+    "year": 1947,
+    "cast": [
+      "Lash La Rue",
+      "Al St. John"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/return-of-the-lash.html"
+}

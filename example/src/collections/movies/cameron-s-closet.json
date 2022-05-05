@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cameron's Closet",
+    "year": 1989,
+    "cast": [
+      "Scott Curtis",
+      "Cotter Smith",
+      "Tab Hunter"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/cameron-s-closet.html"
+}

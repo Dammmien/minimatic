@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Magnificent Matador",
+    "year": 1955,
+    "cast": [
+      "Maureen O'Hara",
+      "Anthony Quinn",
+      "Richard Denning",
+      "Lola Albright"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-magnificent-matador.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wages of Virtue",
+    "year": 1924,
+    "cast": [
+      "Gloria Swanson",
+      "Ben Lyon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wages-of-virtue.html"
+}

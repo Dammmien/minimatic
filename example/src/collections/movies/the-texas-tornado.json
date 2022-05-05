@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Texas Tornado",
+    "year": 1928,
+    "cast": [
+      "Tom Tyler",
+      "Frankie Darro"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-texas-tornado.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Beau James",
+    "year": 1957,
+    "cast": [
+      "Bob Hope",
+      "Vera Miles",
+      "Alexis Smith"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/beau-james.html"
+}

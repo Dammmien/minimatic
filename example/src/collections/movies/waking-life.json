@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Waking Life",
+    "year": 2001,
+    "cast": [
+      "Ethan Hawke",
+      "Julie Delpy",
+      "Wiley Wiggins"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/waking-life.html"
+}

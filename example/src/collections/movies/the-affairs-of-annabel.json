@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Affairs of Annabel",
+    "year": 1938,
+    "cast": [
+      "Lucille Ball",
+      "Jack Oakie",
+      "Bradley Page"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-affairs-of-annabel.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Viennese Nights",
+    "year": 1930,
+    "cast": [
+      "Vivienne Segal",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/viennese-nights.html"
+}

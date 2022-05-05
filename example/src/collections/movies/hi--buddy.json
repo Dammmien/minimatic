@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hi, Buddy",
+    "year": 1943,
+    "cast": [
+      "Dick Foran",
+      "Harriet Nelson",
+      "Marjorie Lord"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hi--buddy.html"
+}

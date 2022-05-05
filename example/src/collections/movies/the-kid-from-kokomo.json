@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Kid from Kokomo",
+    "year": 1939,
+    "cast": [
+      "Pat O'Brien",
+      "Wayne Morris",
+      "Joan Blondell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-kid-from-kokomo.html"
+}

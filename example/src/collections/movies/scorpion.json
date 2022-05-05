@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scorpion",
+    "year": 1986,
+    "cast": [
+      "Tonny Tulleners",
+      "Don Murray"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/scorpion.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last Unicorn",
+    "year": 1982,
+    "cast": [
+      "Mia Farrow",
+      "Alan Arkin",
+      "Jeff Bridges"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-last-unicorn.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Critic's Choice",
+    "year": 1963,
+    "cast": [
+      "Bob Hope",
+      "Lucille Ball",
+      "Marilyn Maxwell",
+      "Rip Torn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/critic-s-choice.html"
+}

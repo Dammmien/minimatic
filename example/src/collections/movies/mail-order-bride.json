@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mail Order Bride",
+    "year": 1964,
+    "cast": [
+      "Buddy Ebsen",
+      "Keir Dullea",
+      "Lois Nettleton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/mail-order-bride.html"
+}

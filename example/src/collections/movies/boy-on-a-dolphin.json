@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Boy on a Dolphin",
+    "year": 1957,
+    "cast": [
+      "Alan Ladd",
+      "Sophia Loren"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/boy-on-a-dolphin.html"
+}

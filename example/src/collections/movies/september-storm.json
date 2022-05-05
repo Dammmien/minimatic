@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "September Storm",
+    "year": 1960,
+    "cast": [
+      "Joanne Dru",
+      "Mark Stevens",
+      "Robert Strauss"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/september-storm.html"
+}

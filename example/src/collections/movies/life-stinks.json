@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Life Stinks",
+    "year": 1991,
+    "cast": [
+      "Mel Brooks",
+      "Lesley Ann Warren",
+      "Howard Morris",
+      "Jeffrey Tambor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/life-stinks.html"
+}

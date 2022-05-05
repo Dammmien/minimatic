@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "V for Vendetta",
+    "year": 2006,
+    "cast": [
+      "Natalie Portman",
+      "Hugo Weaving",
+      "Stephen Rea",
+      "John Hurt"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/v-for-vendetta.html"
+}

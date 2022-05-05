@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "To Trap a Spy",
+    "year": 1964,
+    "cast": [
+      "Robert Vaughn",
+      "David McCallum"
+    ],
+    "genres": [
+      "Spy",
+      "Drama"
+    ]
+  },
+  "output": "movies/to-trap-a-spy.html"
+}

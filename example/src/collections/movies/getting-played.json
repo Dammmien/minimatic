@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Getting Played",
+    "year": 2005,
+    "cast": [
+      "Vivica A. Fox",
+      "Bill Bellamy",
+      "Carmen Electra",
+      "Stacey Dash"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/getting-played.html"
+}

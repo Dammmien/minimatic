@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riders of the Black Hills",
+    "year": 1938,
+    "cast": [
+      "Robert Livingston",
+      "Ray Corrigan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/riders-of-the-black-hills.html"
+}

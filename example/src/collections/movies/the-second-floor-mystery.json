@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Second Floor Mystery",
+    "year": 1930,
+    "cast": [
+      "Grant Withers",
+      "Loretta Young",
+      "H. B. Warner"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-second-floor-mystery.html"
+}

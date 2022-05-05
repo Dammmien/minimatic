@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Captain John Smith and Pocahontas",
+    "year": 1953,
+    "cast": [
+      "Anthony Dexter",
+      "Jody Lawrance"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/captain-john-smith-and-pocahontas.html"
+}

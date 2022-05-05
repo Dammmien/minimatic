@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Adventures of the Masked Phantom",
+    "year": 1939,
+    "cast": [
+      "Monte Rawlins",
+      "Betty Burgess"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/adventures-of-the-masked-phantom.html"
+}

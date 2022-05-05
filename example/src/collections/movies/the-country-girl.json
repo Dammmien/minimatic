@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Country Girl",
+    "year": 1954,
+    "cast": [
+      "Bing Crosby",
+      "Grace Kelly",
+      "William Holden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-country-girl.html"
+}

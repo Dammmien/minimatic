@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Timber Queen",
+    "year": 1922,
+    "cast": [
+      "Ruth Roland",
+      "Bruce Gordon"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-timber-queen.html"
+}

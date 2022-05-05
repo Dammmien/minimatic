@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Martian",
+    "year": 2015,
+    "cast": [
+      "Matt Damon"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-martian.html"
+}

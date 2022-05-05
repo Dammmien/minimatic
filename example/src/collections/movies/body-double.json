@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Body Double",
+    "year": 1984,
+    "cast": [
+      "Craig Wasson",
+      "Melanie Griffith",
+      "Gregg Henry",
+      "Deborah Shelton"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/body-double.html"
+}

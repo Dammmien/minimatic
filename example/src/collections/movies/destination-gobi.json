@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Destination Gobi",
+    "year": 1953,
+    "cast": [
+      "Richard Widmark",
+      "Don Taylor"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/destination-gobi.html"
+}

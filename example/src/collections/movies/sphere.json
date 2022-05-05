@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sphere",
+    "year": 1998,
+    "cast": [
+      "Dustin Hoffman",
+      "Sharon Stone",
+      "Samuel L. Jackson",
+      "Liev Schreiber"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/sphere.html"
+}

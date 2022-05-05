@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gun the Man Down",
+    "year": 1956,
+    "cast": [
+      "James Arness",
+      "Angie Dickinson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gun-the-man-down.html"
+}

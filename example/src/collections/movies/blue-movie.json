@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blue Movie",
+    "year": 1969,
+    "cast": [
+      "Viva",
+      "Louis Waldon"
+    ],
+    "genres": [
+      "Erotic"
+    ]
+  },
+  "output": "movies/blue-movie.html"
+}

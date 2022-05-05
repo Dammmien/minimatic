@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cyclone",
+    "year": 1987,
+    "cast": [
+      "Heather Thomas",
+      "Jeffrey Combs",
+      "Martin Landau"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/cyclone.html"
+}

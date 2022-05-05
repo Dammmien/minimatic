@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stark Fear",
+    "year": 1962,
+    "cast": [
+      "Skip Homeier",
+      "Beverly Garland"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/stark-fear.html"
+}

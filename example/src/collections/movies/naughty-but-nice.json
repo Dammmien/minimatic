@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Naughty but Nice",
+    "year": 1939,
+    "cast": [
+      "Dick Powell",
+      "Ann Sheridan",
+      "Gale Page"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/naughty-but-nice.html"
+}

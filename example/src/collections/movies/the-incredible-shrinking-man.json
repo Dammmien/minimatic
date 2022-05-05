@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Incredible Shrinking Man",
+    "year": 1957,
+    "cast": [
+      "Grant Williams",
+      "Randy Stuart"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-incredible-shrinking-man.html"
+}

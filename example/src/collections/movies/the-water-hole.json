@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Water Hole",
+    "year": 1928,
+    "cast": [
+      "Jack Holt",
+      "Nancy Carroll"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-water-hole.html"
+}

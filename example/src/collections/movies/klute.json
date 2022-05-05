@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Klute",
+    "year": 1971,
+    "cast": [
+      "Jane Fonda",
+      "Donald Sutherland",
+      "Roy Scheider"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/klute.html"
+}

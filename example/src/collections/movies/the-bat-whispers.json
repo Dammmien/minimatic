@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Bat Whispers",
+    "year": 1930,
+    "cast": [
+      "Chester Morris",
+      "Maude Eburne",
+      "Chance Ward"
+    ],
+    "genres": [
+      "Mystery",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bat-whispers.html"
+}

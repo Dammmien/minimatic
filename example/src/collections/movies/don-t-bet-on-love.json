@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Don't Bet on Love",
+    "year": 1933,
+    "cast": [
+      "Lew Ayres",
+      "Ginger Rogers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/don-t-bet-on-love.html"
+}

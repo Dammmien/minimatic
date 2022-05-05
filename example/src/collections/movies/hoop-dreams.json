@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Hoop Dreams",
+    "year": 1994,
+    "cast": [],
+    "genres": [
+      "Documentary",
+      "Sports"
+    ]
+  },
+  "output": "movies/hoop-dreams.html"
+}

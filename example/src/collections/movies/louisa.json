@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Louisa",
+    "year": 1950,
+    "cast": [
+      "Ronald Reagan",
+      "Spring Byington"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/louisa.html"
+}

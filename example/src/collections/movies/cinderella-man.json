@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Cinderella Man",
+    "year": 2005,
+    "cast": [
+      "Russell Crowe",
+      "Renée Zellweger",
+      "Paul Giamatti",
+      "Bruce McGill",
+      "Craig Bierko"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/cinderella-man.html"
+}

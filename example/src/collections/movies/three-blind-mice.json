@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Blind Mice",
+    "year": 1938,
+    "cast": [
+      "Loretta Young",
+      "Joel McCrea",
+      "David Niven"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-blind-mice.html"
+}

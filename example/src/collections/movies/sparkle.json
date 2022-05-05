@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Sparkle",
+    "year": 2012,
+    "cast": [
+      "Jordin Sparks",
+      "Whitney Houston",
+      "Derek Luke",
+      "Mike Epps",
+      "Carmen Ejogo",
+      "Tika Sumpter",
+      "Omari Hardwick",
+      "Cee Lo Green"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/sparkle.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Magic of Belle Isle",
+    "year": 2012,
+    "cast": [
+      "Morgan Freeman",
+      "Virginia Madsen",
+      "Kenan Thompson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-magic-of-belle-isle.html"
+}

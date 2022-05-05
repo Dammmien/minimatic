@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The People Under the Stairs",
+    "year": 1991,
+    "cast": [
+      "Everett McGill",
+      "Ving Rhames",
+      "Brandon Adams"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-people-under-the-stairs.html"
+}

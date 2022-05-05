@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Escape to Witch Mountain",
+    "year": 1995,
+    "cast": [
+      "Robert Vaughn",
+      "Elisabeth Moss"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/escape-to-witch-mountain.html"
+}

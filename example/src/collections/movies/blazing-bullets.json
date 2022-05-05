@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blazing Bullets",
+    "year": 1951,
+    "cast": [
+      "Johnny Mack Brown",
+      "Lois Hall"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/blazing-bullets.html"
+}

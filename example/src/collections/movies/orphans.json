@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Orphans",
+    "year": 1987,
+    "cast": [
+      "Albert Finney",
+      "Matthew Modine"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/orphans.html"
+}

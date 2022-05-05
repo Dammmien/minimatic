@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mask of Murder",
+    "year": 1985,
+    "cast": [
+      "Rod Taylor",
+      "Valerie Perrine",
+      "Christopher Lee"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/mask-of-murder.html"
+}

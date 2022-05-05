@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Our Hospitality",
+    "year": 1923,
+    "cast": [
+      "Buster Keaton",
+      "Natalie Talmadge"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/our-hospitality.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "On the Fire",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/on-the-fire.html"
+}

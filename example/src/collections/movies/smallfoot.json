@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Smallfoot",
+    "year": 2018,
+    "cast": [
+      "Channing Tatum",
+      "James Corden",
+      "Zendaya",
+      "Common",
+      "LeBron James",
+      "Gina Rodriguez",
+      "Danny DeVito",
+      "Yara Shahidi",
+      "Ely Henry",
+      "Jimmy Tatro"
+    ],
+    "genres": [
+      "Animated",
+      "Fantasy",
+      "Comedy"
+    ]
+  },
+  "output": "movies/smallfoot.html"
+}

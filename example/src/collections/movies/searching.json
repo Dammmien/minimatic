@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Searching",
+    "year": 2018,
+    "cast": [
+      "John Cho",
+      "Debra Messing"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/searching.html"
+}

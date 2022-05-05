@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Rio Conchos",
+    "year": 1964,
+    "cast": [
+      "Stuart Whitman",
+      "Richard Boone",
+      "Tony Franciosa",
+      "Edmond O'Brien",
+      "Jim Brown"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rio-conchos.html"
+}

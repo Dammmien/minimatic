@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "State of Play",
+    "year": 2009,
+    "cast": [
+      "Russell Crowe",
+      "Ben Affleck",
+      "Rachel McAdams",
+      "Helen Mirren"
+    ],
+    "genres": [
+      "Political",
+      "Thriller"
+    ]
+  },
+  "output": "movies/state-of-play.html"
+}

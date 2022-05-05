@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Come to the Stable",
+    "year": 1949,
+    "cast": [
+      "Loretta Young",
+      "Celeste Holm",
+      "Hugh Marlowe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/come-to-the-stable.html"
+}

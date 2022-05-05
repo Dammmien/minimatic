@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kings Row",
+    "year": 1942,
+    "cast": [
+      "Ann Sheridan",
+      "Ronald Reagan",
+      "Robert Cummings"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kings-row.html"
+}

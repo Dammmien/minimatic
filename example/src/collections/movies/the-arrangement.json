@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Arrangement",
+    "year": 1969,
+    "cast": [
+      "Kirk Douglas",
+      "Faye Dunaway",
+      "Deborah Kerr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-arrangement.html"
+}

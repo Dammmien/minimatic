@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cattle Empire",
+    "year": 1958,
+    "cast": [
+      "Joel McCrea",
+      "Phyllis Coates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cattle-empire.html"
+}

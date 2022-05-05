@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Waitress!",
+    "year": 1981,
+    "cast": [
+      "Jim Harris",
+      "[Carol Drake"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/waitress-.html"
+}

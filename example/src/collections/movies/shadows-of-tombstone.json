@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shadows of Tombstone",
+    "year": 1953,
+    "cast": [
+      "Rex Allen",
+      "Jeanne Cooper"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/shadows-of-tombstone.html"
+}

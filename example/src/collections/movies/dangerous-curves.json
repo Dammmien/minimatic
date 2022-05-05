@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dangerous Curves",
+    "year": 1988,
+    "cast": [
+      "Tate Donovan",
+      "Grant Heslov",
+      "Robert Stack"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dangerous-curves.html"
+}

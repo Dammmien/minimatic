@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fearless Fagan",
+    "year": 1952,
+    "cast": [
+      "Janet Leigh",
+      "Carleton Carpenter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fearless-fagan.html"
+}

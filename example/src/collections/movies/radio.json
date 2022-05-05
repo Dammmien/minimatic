@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Radio",
+    "year": 2003,
+    "cast": [
+      "Ed Harris",
+      "Cuba Gooding, Jr.",
+      "Debra Winger"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/radio.html"
+}

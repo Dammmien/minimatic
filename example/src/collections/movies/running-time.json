@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Running Time",
+    "year": 1997,
+    "cast": [
+      "Bruce Campbell"
+    ],
+    "genres": []
+  },
+  "output": "movies/running-time.html"
+}

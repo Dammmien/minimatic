@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tension",
+    "year": 1950,
+    "cast": [
+      "Richard Basehart",
+      "Audrey Totter",
+      "Barry Sullivan",
+      "Cyd Charisse"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/tension.html"
+}

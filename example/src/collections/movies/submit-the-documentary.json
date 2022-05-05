@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Submit the Documentary",
+    "year": 2013,
+    "cast": [
+      "Goes into the world of cyberbullying."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/submit-the-documentary.html"
+}

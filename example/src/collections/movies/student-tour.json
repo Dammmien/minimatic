@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Student Tour",
+    "year": 1934,
+    "cast": [
+      "Jimmy Durante",
+      "Maxine Doyle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/student-tour.html"
+}

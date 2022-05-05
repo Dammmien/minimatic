@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Red Salute",
+    "year": 1935,
+    "cast": [
+      "Barbara Stanwyck",
+      "Robert Young",
+      "Purnell Pratt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/red-salute.html"
+}

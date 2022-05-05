@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man from Yesterday",
+    "year": 1932,
+    "cast": [
+      "Claudette Colbert",
+      "Clive Brook"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-from-yesterday.html"
+}

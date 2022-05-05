@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Basket Case 2",
+    "year": 1990,
+    "cast": [
+      "Annie Ross"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/basket-case-2.html"
+}

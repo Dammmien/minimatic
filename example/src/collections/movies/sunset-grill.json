@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sunset Grill",
+    "year": 1993,
+    "cast": [
+      "Peter Weller",
+      "Lori Singer",
+      "Stacy Keach"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/sunset-grill.html"
+}

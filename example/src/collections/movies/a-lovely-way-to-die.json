@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Lovely Way to Die",
+    "year": 1968,
+    "cast": [
+      "Kirk Douglas",
+      "Sylvia Koscina",
+      "Eli Wallach"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-lovely-way-to-die.html"
+}

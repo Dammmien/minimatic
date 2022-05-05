@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Americanization of Emily",
+    "year": 1964,
+    "cast": [
+      "Julie Andrews",
+      "James Garner",
+      "James Coburn",
+      "Melvyn Douglas"
+    ],
+    "genres": [
+      "War",
+      "Satire"
+    ]
+  },
+  "output": "movies/the-americanization-of-emily.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "B*A*P*S",
+    "year": 1997,
+    "cast": [
+      "Halle Berry",
+      "Martin Landau"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/b-a-p-s.html"
+}

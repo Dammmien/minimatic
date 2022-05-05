@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Master Mind",
+    "year": 1914,
+    "cast": [
+      "Edmund Breese",
+      "Fred Montague",
+      "Jane Darwell"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-master-mind.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Needful Things",
+    "year": 1993,
+    "cast": [
+      "Ed Harris",
+      "Max von Sydow",
+      "Bonnie Bedelia",
+      "Amanda Plummer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/needful-things.html"
+}

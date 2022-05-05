@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Beautiful Bismark",
+    "year": 1913,
+    "cast": [
+      "William Garwood"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beautiful-bismark.html"
+}

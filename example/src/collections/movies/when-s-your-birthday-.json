@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When's Your Birthday?",
+    "year": 1937,
+    "cast": [
+      "Joe E. Brown",
+      "Marian Marsh"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/when-s-your-birthday-.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mother O' Mine",
+    "year": 1921,
+    "cast": [
+      "Lloyd Hughes",
+      "Betty Ross Clarke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mother-o--mine.html"
+}

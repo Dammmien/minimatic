@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rasputin: Dark Servant of Destiny",
+    "year": 1996,
+    "cast": [
+      "Alan Rickman",
+      "Greta Scacchi",
+      "Ian McKellen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rasputin--dark-servant-of-destiny.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Tooth Will Out",
+    "year": 1951,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-tooth-will-out.html"
+}

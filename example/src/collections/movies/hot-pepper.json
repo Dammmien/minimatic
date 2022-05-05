@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hot Pepper",
+    "year": 1933,
+    "cast": [
+      "Lupe Vélez",
+      "Edmund Lowe",
+      "Victor McLaglen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hot-pepper.html"
+}

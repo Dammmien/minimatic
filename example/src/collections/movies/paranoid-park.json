@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paranoid Park",
+    "year": 2007,
+    "cast": [
+      "Gabe Nevins",
+      "Jake Miller",
+      "Taylor Momsen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/paranoid-park.html"
+}

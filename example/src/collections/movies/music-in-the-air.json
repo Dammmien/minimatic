@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Music in the Air",
+    "year": 1934,
+    "cast": [
+      "Gloria Swanson",
+      "John Boles"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/music-in-the-air.html"
+}

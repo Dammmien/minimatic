@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Night We Called it a Day",
+    "year": 2003,
+    "cast": [
+      "Dennis Hopper",
+      "Joel Edgerton",
+      "Melanie Griffith"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-night-we-called-it-a-day.html"
+}

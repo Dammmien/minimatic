@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "High Diving Hare",
+    "year": 1949,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/high-diving-hare.html"
+}

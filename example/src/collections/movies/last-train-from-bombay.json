@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Last Train from Bombay",
+    "year": 1952,
+    "cast": [
+      "Jon Hall",
+      "Lisa Ferraday"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/last-train-from-bombay.html"
+}

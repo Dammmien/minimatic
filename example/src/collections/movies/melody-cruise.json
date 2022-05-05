@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Melody Cruise",
+    "year": 1933,
+    "cast": [
+      "June Brewster",
+      "Shirley Chambers"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/melody-cruise.html"
+}

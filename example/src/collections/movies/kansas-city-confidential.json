@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kansas City Confidential",
+    "year": 1952,
+    "cast": [
+      "John Payne",
+      "Coleen Gray"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/kansas-city-confidential.html"
+}

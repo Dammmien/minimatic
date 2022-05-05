@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Twilight in the Sierras",
+    "year": 1950,
+    "cast": [
+      "Roy Rogers",
+      "Dale Evans"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/twilight-in-the-sierras.html"
+}

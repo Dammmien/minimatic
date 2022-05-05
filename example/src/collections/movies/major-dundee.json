@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Major Dundee",
+    "year": 1965,
+    "cast": [
+      "Charlton Heston",
+      "Richard Harris",
+      "James Coburn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/major-dundee.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fools Highway",
+    "year": 1924,
+    "cast": [
+      "Mary Philbin",
+      "Pat O'Malley"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/fools-highway.html"
+}

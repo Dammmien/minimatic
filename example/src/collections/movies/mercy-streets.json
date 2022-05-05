@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mercy Streets",
+    "year": 2000,
+    "cast": [
+      "Eric Roberts",
+      "Cynthia Watros",
+      "Stacy Keach"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/mercy-streets.html"
+}

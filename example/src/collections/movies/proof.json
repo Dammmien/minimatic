@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Proof",
+    "year": 2005,
+    "cast": [
+      "Gwyneth Paltrow",
+      "Anthony Hopkins",
+      "Jake Gyllenhaal",
+      "Hope Davis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/proof.html"
+}

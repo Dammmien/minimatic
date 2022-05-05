@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Tall Men",
+    "year": 1955,
+    "cast": [
+      "Clark Gable",
+      "Jane Russell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-tall-men.html"
+}

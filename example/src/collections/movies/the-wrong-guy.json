@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Wrong Guy",
+    "year": 1997,
+    "cast": [
+      "Dave Foley",
+      "Jennifer Tilly",
+      "David Higgins",
+      "Colm Feore"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-wrong-guy.html"
+}

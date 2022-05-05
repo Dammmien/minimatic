@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Demolition University",
+    "year": 1997,
+    "cast": [
+      "Corey Haim",
+      "Ami Dolenz",
+      "Laraine Newman"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/demolition-university.html"
+}

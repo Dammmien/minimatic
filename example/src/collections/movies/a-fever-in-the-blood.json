@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Fever in the Blood",
+    "year": 1961,
+    "cast": [
+      "Efrem Zimbalist Jr.",
+      "Angie Dickinson",
+      "Don Ameche"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-fever-in-the-blood.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Journey for Margaret",
+    "year": 1942,
+    "cast": [
+      "Robert Young",
+      "Laraine Day",
+      "Fay Bainter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/journey-for-margaret.html"
+}

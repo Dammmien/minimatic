@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jimmy and Judy",
+    "year": 2006,
+    "cast": [
+      "Edward Furlong",
+      "Rachael Bella"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/jimmy-and-judy.html"
+}

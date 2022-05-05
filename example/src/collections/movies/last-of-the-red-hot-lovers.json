@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Last of the Red Hot Lovers",
+    "year": 1972,
+    "cast": [
+      "Alan Arkin",
+      "Sally Kellerman",
+      "Paula Prentiss"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/last-of-the-red-hot-lovers.html"
+}

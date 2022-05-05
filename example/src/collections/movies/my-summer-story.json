@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Summer Story",
+    "year": 1994,
+    "cast": [
+      "Charles Grodin",
+      "Mary Steenburgen",
+      "Kieran Culkin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-summer-story.html"
+}

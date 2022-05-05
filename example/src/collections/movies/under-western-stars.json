@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Under Western Stars",
+    "year": 1938,
+    "cast": [
+      "Roy Rogers",
+      "Carol Hughes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/under-western-stars.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "On Line",
+    "year": 2002,
+    "cast": [
+      "Josh Hamilton",
+      "Harold Perrineau",
+      "Vanessa Ferlito"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/on-line.html"
+}

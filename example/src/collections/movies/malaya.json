@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Malaya",
+    "year": 1949,
+    "cast": [
+      "Spencer Tracy",
+      "James Stewart",
+      "Sydney Greenstreet"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/malaya.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Robin and the 7 Hoods",
+    "year": 1964,
+    "cast": [
+      "Frank Sinatra",
+      "Dean Martin",
+      "Sammy Davis, Jr.",
+      "Barbara Rush",
+      "Peter Falk",
+      "Bing Crosby"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/robin-and-the-7-hoods.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Room for One More",
+    "year": 1952,
+    "cast": [
+      "Cary Grant",
+      "Betsy Drake"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/room-for-one-more.html"
+}

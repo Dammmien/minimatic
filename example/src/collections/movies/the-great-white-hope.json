@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great White Hope",
+    "year": 1970,
+    "cast": [
+      "James Earl Jones",
+      "Jane Alexander"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-great-white-hope.html"
+}

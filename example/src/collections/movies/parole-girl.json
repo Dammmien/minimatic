@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Parole Girl",
+    "year": 1933,
+    "cast": [
+      "Mae Clarke",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/parole-girl.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ask Father",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ask-father.html"
+}

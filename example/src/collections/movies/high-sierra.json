@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "High Sierra",
+    "year": 1941,
+    "cast": [
+      "Ida Lupino",
+      "Humphrey Bogart",
+      "Joan Leslie",
+      "Arthur Kennedy",
+      "Cornel Wilde"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/high-sierra.html"
+}

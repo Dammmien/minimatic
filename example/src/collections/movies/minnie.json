@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Minnie",
+    "year": 1922,
+    "cast": [
+      "Leatrice Joy",
+      "Matt Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/minnie.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Love You Again",
+    "year": 1940,
+    "cast": [
+      "William Powell",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-love-you-again.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Chasing Danger",
+    "year": 1939,
+    "cast": [
+      "Preston Foster",
+      "Lynn Bari",
+      "Wally Vernon",
+      "Henry Wilcoxon"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/chasing-danger.html"
+}

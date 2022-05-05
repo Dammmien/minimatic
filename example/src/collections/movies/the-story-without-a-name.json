@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Story Without a Name",
+    "year": 1924,
+    "cast": [
+      "Agnes Ayres",
+      "Antonio Moreno"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-story-without-a-name.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gattaca",
+    "year": 1997,
+    "cast": [
+      "Ethan Hawke",
+      "Uma Thurman",
+      "Jude Law"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/gattaca.html"
+}

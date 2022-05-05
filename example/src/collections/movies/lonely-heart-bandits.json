@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lonely Heart Bandits",
+    "year": 1950,
+    "cast": [
+      "Barbra Fuller",
+      "Dorothy Patrick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lonely-heart-bandits.html"
+}

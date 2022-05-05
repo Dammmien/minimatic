@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love at Large",
+    "year": 1990,
+    "cast": [
+      "Tom Berenger",
+      "Elizabeth Perkins",
+      "Anne Archer"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/love-at-large.html"
+}

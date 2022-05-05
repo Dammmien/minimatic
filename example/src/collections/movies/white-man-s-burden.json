@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "White Man's Burden",
+    "year": 1995,
+    "cast": [
+      "John Travolta",
+      "Harry Belafonte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/white-man-s-burden.html"
+}

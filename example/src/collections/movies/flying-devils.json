@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flying Devils",
+    "year": 1933,
+    "cast": [
+      "Bruce Cabot",
+      "Arline Judge",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/flying-devils.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Drifters",
+    "year": 1919,
+    "cast": [
+      "J. Warren Kerrigan",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-drifters.html"
+}

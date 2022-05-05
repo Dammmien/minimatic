@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sound City",
+    "year": 2013,
+    "cast": [
+      "The history of Los Angeles recording studio",
+      "Sound City Studios",
+      "."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/sound-city.html"
+}

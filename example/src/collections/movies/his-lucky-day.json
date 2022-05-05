@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "His Lucky Day",
+    "year": 1929,
+    "cast": [
+      "Reginald Denny",
+      "Lorayne Du Val"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/his-lucky-day.html"
+}

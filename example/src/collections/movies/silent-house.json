@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Silent House",
+    "year": 2012,
+    "cast": [
+      "Elizabeth Olsen",
+      "Adam Trese",
+      "Eric Sheffer Stevens",
+      "Julia Taylor Ross",
+      "Haley Murphy"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/silent-house.html"
+}

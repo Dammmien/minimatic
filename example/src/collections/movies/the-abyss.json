@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Abyss",
+    "year": 1989,
+    "cast": [
+      "Ed Harris",
+      "Mary Elizabeth Mastrantonio",
+      "Michael Biehn"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-abyss.html"
+}

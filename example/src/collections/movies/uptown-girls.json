@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Uptown Girls",
+    "year": 2003,
+    "cast": [
+      "Brittany Murphy",
+      "Dakota Fanning",
+      "Heather Locklear"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/uptown-girls.html"
+}

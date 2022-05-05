@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Modern Matrimony",
+    "year": 1923,
+    "cast": [
+      "Owen Moore",
+      "Alice Lake"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/modern-matrimony.html"
+}

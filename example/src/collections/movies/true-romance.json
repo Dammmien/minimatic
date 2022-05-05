@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "True Romance",
+    "year": 1993,
+    "cast": [
+      "Christian Slater",
+      "Patricia Arquette",
+      "Dennis Hopper",
+      "Val Kilmer",
+      "Gary Oldman",
+      "Brad Pitt",
+      "Christopher Walken",
+      "Bronson Pinchot",
+      "James Gandolfini"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/true-romance.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ghost Goes Wild",
+    "year": 1947,
+    "cast": [
+      "Anne Gwynne",
+      "James Ellison"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ghost-goes-wild.html"
+}

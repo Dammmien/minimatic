@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Main Street Lawyer",
+    "year": 1939,
+    "cast": [
+      "Anita Louise"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/main-street-lawyer.html"
+}

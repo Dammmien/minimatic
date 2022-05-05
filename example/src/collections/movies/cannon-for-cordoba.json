@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cannon for Cordoba",
+    "year": 1970,
+    "cast": [
+      "George Peppard",
+      "Raf Vallone"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cannon-for-cordoba.html"
+}

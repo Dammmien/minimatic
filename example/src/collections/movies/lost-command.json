@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lost Command",
+    "year": 1966,
+    "cast": [
+      "Anthony Quinn",
+      "Claudia Cardinale",
+      "Alain Delon"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/lost-command.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Snow Day",
+    "year": 2000,
+    "cast": [
+      "Chevy Chase",
+      "Chris Elliott",
+      "Mark Webber"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/snow-day.html"
+}

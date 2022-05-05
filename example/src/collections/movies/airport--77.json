@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Airport '77",
+    "year": 1977,
+    "cast": [
+      "Jack Lemmon",
+      "Brenda Vaccaro",
+      "James Stewart",
+      "Lee Grant",
+      "George Kennedy",
+      "Joseph Cotten",
+      "Olivia de Havilland",
+      "Christopher Lee",
+      "Darren McGavin"
+    ],
+    "genres": [
+      "Disaster"
+    ]
+  },
+  "output": "movies/airport--77.html"
+}

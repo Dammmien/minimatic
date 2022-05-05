@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two Rode Together",
+    "year": 1961,
+    "cast": [
+      "James Stewart",
+      "Richard Widmark",
+      "Shirley Jones"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/two-rode-together.html"
+}

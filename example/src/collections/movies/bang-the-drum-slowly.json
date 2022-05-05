@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bang the Drum Slowly",
+    "year": 1973,
+    "cast": [
+      "Robert De Niro",
+      "Michael Moriarty",
+      "Vincent Gardenia",
+      "Phil Foster"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bang-the-drum-slowly.html"
+}

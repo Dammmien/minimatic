@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Greyhound Limited",
+    "year": 1929,
+    "cast": [
+      "Monte Blue",
+      "Edna Murphy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-greyhound-limited.html"
+}

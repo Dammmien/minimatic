@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Manhattan Tower",
+    "year": 1932,
+    "cast": [
+      "Mary Brian",
+      "Irene Rich"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/manhattan-tower.html"
+}

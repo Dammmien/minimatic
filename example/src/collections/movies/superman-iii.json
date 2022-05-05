@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Superman III",
+    "year": 1983,
+    "cast": [
+      "Christopher Reeve",
+      "Richard Pryor",
+      "Robert Vaughn",
+      "Annette O'Toole"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/superman-iii.html"
+}

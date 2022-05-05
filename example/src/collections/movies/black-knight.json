@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Black Knight",
+    "year": 2001,
+    "cast": [
+      "Martin Lawrence"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/black-knight.html"
+}

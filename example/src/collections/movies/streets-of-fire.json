@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Streets of Fire",
+    "year": 1984,
+    "cast": [
+      "Michael Paré",
+      "Diane Lane",
+      "Rick Moranis",
+      "Amy Madigan",
+      "Willem Dafoe"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/streets-of-fire.html"
+}

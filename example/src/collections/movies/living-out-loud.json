@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Living Out Loud",
+    "year": 1998,
+    "cast": [
+      "Holly Hunter",
+      "Queen Latifah",
+      "Danny DeVito"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/living-out-loud.html"
+}

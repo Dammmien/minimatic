@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Last Shot",
+    "year": 2004,
+    "cast": [
+      "Matthew Broderick",
+      "Alec Baldwin",
+      "Toni Collette",
+      "Calista Flockhart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-last-shot.html"
+}

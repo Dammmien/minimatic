@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Poolhall Junkies",
+    "year": 2003,
+    "cast": [
+      "Mars Callahan",
+      "Chazz Palminteri",
+      "Rod Steiger",
+      "Michael Rosenbaum"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/poolhall-junkies.html"
+}

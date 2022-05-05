@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Invisible Man Returns",
+    "year": 1940,
+    "cast": [
+      "Cedric Hardwicke",
+      "Vincent Price",
+      "Nan Grey"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-invisible-man-returns.html"
+}

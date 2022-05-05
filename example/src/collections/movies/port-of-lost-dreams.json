@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Port of Lost Dreams",
+    "year": 1934,
+    "cast": [
+      "William Boyd",
+      "George F. Marion",
+      "Lola Lane"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/port-of-lost-dreams.html"
+}

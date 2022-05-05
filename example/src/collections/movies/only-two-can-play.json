@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Only Two Can Play",
+    "year": 1962,
+    "cast": [
+      "Peter Sellers",
+      "Mai Zetterling"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/only-two-can-play.html"
+}

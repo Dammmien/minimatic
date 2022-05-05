@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Justice of the Range",
+    "year": 1935,
+    "cast": [
+      "Ward Bond",
+      "Gabby Hayes",
+      "Tim McCoy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/justice-of-the-range.html"
+}

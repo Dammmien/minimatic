@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "From Justin to Kelly",
+    "year": 2003,
+    "cast": [
+      "Justin Guarini",
+      "Kelly Clarkson"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/from-justin-to-kelly.html"
+}

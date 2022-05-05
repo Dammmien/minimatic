@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Nancy Drew... Detective",
+    "year": 1938,
+    "cast": [
+      "Bonita Granville",
+      "John Litel",
+      "Frank Orth"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/nancy-drew----detective.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dead End",
+    "year": 1937,
+    "cast": [
+      "Sylvia Sidney",
+      "Joel McCrea",
+      "Humphrey Bogart"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/dead-end.html"
+}

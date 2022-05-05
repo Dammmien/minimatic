@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "I Spit on Your Grave",
+    "year": 1978,
+    "cast": [
+      "Camille Keaton"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/i-spit-on-your-grave.html"
+}

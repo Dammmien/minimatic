@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Battle of Britain",
+    "year": 1943,
+    "cast": [
+      "Narrated by",
+      "Walter Huston"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-battle-of-britain.html"
+}

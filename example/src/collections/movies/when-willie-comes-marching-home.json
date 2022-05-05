@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When Willie Comes Marching Home",
+    "year": 1950,
+    "cast": [
+      "Dan Dailey",
+      "Corinne Calvet"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/when-willie-comes-marching-home.html"
+}

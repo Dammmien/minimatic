@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Patchwork Girl of Oz",
+    "year": 1914,
+    "cast": [
+      "Violet MacMillan",
+      "Pierre Couderc"
+    ],
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-patchwork-girl-of-oz.html"
+}

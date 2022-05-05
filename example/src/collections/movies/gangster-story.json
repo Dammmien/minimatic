@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gangster Story",
+    "year": 1959,
+    "cast": [
+      "Walter Matthau",
+      "Carol Grace"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/gangster-story.html"
+}

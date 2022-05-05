@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mephisto Waltz",
+    "year": 1971,
+    "cast": [
+      "Alan Alda",
+      "Jacqueline Bisset",
+      "Barbara Parkins"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-mephisto-waltz.html"
+}

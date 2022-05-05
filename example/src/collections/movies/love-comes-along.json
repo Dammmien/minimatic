@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Comes Along",
+    "year": 1930,
+    "cast": [
+      "Bebe Daniels",
+      "Montagu Love"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/love-comes-along.html"
+}

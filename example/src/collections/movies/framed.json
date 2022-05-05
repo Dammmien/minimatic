@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Framed",
+    "year": 1975,
+    "cast": [
+      "Joe Don Baker",
+      "Conny Van Dyke",
+      "John Marley"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/framed.html"
+}

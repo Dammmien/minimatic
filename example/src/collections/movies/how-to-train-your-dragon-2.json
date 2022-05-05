@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "How to Train Your Dragon 2",
+    "year": 2014,
+    "cast": [
+      "Jay Baruchel",
+      "Cate Blanchett",
+      "Gerard Butler",
+      "Jonah Hill"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/how-to-train-your-dragon-2.html"
+}

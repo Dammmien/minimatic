@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strange Holiday",
+    "year": 1945,
+    "cast": [
+      "Claude Rains",
+      "Barbara Bates"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/strange-holiday.html"
+}

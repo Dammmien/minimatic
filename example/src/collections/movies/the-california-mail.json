@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The California Mail",
+    "year": 1929,
+    "cast": [
+      "Ken Maynard",
+      "Dorothy Dwan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-california-mail.html"
+}

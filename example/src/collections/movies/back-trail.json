@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Back Trail",
+    "year": 1948,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton",
+      "Mildred Coles"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/back-trail.html"
+}

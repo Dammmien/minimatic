@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It Happened in New York",
+    "year": 1935,
+    "cast": [
+      "Gertrude Michael",
+      "Heather Angel",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-happened-in-new-york.html"
+}

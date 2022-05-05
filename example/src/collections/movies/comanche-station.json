@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Comanche Station",
+    "year": 1960,
+    "cast": [
+      "Randolph Scott",
+      "Nancy Gates",
+      "Claude Akins"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/comanche-station.html"
+}

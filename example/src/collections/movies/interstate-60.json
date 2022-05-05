@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Interstate 60",
+    "year": 2002,
+    "cast": [
+      "James Marsden",
+      "Gary Oldman",
+      "Amy Smart"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/interstate-60.html"
+}

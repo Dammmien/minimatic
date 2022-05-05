@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Texas Across the River",
+    "year": 1966,
+    "cast": [
+      "Dean Martin",
+      "Alain Delon",
+      "Joey Bishop"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/texas-across-the-river.html"
+}

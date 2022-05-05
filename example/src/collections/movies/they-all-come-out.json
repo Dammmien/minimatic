@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "They All Come Out",
+    "year": 1939,
+    "cast": [
+      "Rita Johnson",
+      "Tom Neal"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/they-all-come-out.html"
+}

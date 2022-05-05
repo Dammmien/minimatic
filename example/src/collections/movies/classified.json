@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Classified",
+    "year": 1925,
+    "cast": [
+      "Corinne Griffith",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/classified.html"
+}

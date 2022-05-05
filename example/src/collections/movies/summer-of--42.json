@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Summer of '42",
+    "year": 1971,
+    "cast": [
+      "Jennifer O'Neill",
+      "Gary Grimes",
+      "Jerry Houser"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/summer-of--42.html"
+}

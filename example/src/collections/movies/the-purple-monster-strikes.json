@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Purple Monster Strikes",
+    "year": 1945,
+    "cast": [
+      "Dennis Moore"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-purple-monster-strikes.html"
+}

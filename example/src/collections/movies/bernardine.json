@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bernardine",
+    "year": 1957,
+    "cast": [
+      "Pat Boone",
+      "Terry Moore",
+      "Dean Jagger"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/bernardine.html"
+}

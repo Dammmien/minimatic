@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Under Western Skies",
+    "year": 1945,
+    "cast": [
+      "Martha O'Driscoll",
+      "Noah Beery Jr."
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/under-western-skies.html"
+}

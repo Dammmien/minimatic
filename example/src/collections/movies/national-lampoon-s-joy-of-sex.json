@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "National Lampoon's Joy of Sex",
+    "year": 1984,
+    "cast": [
+      "Cameron Dye",
+      "Colleen Camp",
+      "Ernie Hudson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/national-lampoon-s-joy-of-sex.html"
+}

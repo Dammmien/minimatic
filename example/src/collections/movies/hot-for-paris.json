@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hot for Paris",
+    "year": 1929,
+    "cast": [
+      "Victor McLaglen",
+      "Fifi D'Orsay"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hot-for-paris.html"
+}

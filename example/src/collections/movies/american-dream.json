@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "American Dream",
+    "year": 1990,
+    "cast": [
+      "proposed strike at",
+      "Hormel Foods"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/american-dream.html"
+}

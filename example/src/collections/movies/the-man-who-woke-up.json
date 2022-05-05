@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Man Who Woke Up",
+    "year": 1921,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-man-who-woke-up.html"
+}

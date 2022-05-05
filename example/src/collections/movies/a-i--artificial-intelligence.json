@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A.I. Artificial Intelligence",
+    "year": 2001,
+    "cast": [
+      "Jude Law",
+      "Haley Joel Osment",
+      "William Hurt",
+      "Frances O'Connor",
+      "Sam Robards"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/a-i--artificial-intelligence.html"
+}

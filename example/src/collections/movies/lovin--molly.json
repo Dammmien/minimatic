@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lovin' Molly",
+    "year": 1974,
+    "cast": [
+      "Blythe Danner",
+      "Anthony Perkins",
+      "Beau Bridges"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lovin--molly.html"
+}

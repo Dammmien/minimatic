@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Stand by Me",
+    "year": 1986,
+    "cast": [
+      "Wil Wheaton",
+      "River Phoenix",
+      "Corey Feldman",
+      "Jerry O'Connell",
+      "Kiefer Sutherland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stand-by-me.html"
+}

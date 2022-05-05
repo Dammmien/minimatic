@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Adventures of Tom Sawyer",
+    "year": 1938,
+    "cast": [
+      "Tommy Kelly",
+      "Jackie Moran",
+      "Victor Jory"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-adventures-of-tom-sawyer.html"
+}

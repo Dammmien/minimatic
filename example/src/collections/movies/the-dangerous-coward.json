@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dangerous Coward",
+    "year": 1924,
+    "cast": [
+      "Fred Thomson",
+      "Hazel Keener"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-dangerous-coward.html"
+}

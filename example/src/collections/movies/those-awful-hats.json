@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Those Awful Hats",
+    "year": 1909,
+    "cast": [
+      "Mack Sennett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/those-awful-hats.html"
+}

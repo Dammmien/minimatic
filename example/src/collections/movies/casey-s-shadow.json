@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Casey's Shadow",
+    "year": 1978,
+    "cast": [
+      "Walter Matthau",
+      "Alexis Smith",
+      "Murray Hamilton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/casey-s-shadow.html"
+}

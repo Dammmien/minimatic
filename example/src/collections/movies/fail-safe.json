@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Fail-Safe",
+    "year": 1964,
+    "cast": [
+      "Henry Fonda",
+      "Walter Matthau",
+      "Fritz Weaver",
+      "Frank Overton",
+      "Dan O'Herlihy",
+      "Larry Hagman"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/fail-safe.html"
+}

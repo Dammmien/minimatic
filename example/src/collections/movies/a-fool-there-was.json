@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Fool There Was",
+    "year": 1922,
+    "cast": [
+      "Estelle Taylor",
+      "Lewis Stone",
+      "Irene Rich"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-fool-there-was.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jack's Back",
+    "year": 1988,
+    "cast": [
+      "James Spader",
+      "Cynthia Gibb"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/jack-s-back.html"
+}

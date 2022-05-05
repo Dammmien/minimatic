@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Kid from Spain",
+    "year": 1932,
+    "cast": [
+      "Eddie Cantor",
+      "Lyda Roberti"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-kid-from-spain.html"
+}

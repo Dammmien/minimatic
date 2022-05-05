@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Clown",
+    "year": 1953,
+    "cast": [
+      "Red Skelton",
+      "Jane Greer",
+      "Tim Considine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-clown.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Doll Squad",
+    "year": 1973,
+    "cast": [
+      "Francine York",
+      "Anthony Eisley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-doll-squad.html"
+}

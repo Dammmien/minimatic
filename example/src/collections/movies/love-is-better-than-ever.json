@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love Is Better Than Ever",
+    "year": 1952,
+    "cast": [
+      "Elizabeth Taylor",
+      "Larry Parks"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/love-is-better-than-ever.html"
+}

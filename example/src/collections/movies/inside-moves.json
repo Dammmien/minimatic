@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Inside Moves",
+    "year": 1980,
+    "cast": [
+      "David Morse",
+      "John Savage",
+      "Diana Scarwid",
+      "Harold Russell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/inside-moves.html"
+}

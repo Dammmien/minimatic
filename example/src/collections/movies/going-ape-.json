@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Going Ape!",
+    "year": 1981,
+    "cast": [
+      "Tony Danza",
+      "Jessica Walter",
+      "Danny DeVito"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/going-ape-.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Alexander's Ragtime Band",
+    "year": 1938,
+    "cast": [
+      "Don Ameche",
+      "Tyrone Power",
+      "Ethel Merman"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/alexander-s-ragtime-band.html"
+}

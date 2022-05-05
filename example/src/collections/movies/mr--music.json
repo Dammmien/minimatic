@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mr. Music",
+    "year": 1950,
+    "cast": [
+      "Bing Crosby",
+      "Nancy Olson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mr--music.html"
+}

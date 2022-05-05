@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Forward Pass",
+    "year": 1929,
+    "cast": [
+      "Douglas Fairbanks Jr.",
+      "Loretta Young"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-forward-pass.html"
+}

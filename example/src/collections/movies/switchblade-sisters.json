@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Switchblade Sisters",
+    "year": 1975,
+    "cast": [
+      "Robbie Lee",
+      "Joanne Nail"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/switchblade-sisters.html"
+}

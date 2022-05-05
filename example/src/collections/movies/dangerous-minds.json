@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dangerous Minds",
+    "year": 1995,
+    "cast": [
+      "Michelle Pfeiffer",
+      "George Dzundza"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/dangerous-minds.html"
+}

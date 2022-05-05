@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Gunfight",
+    "year": 1971,
+    "cast": [
+      "Kirk Douglas",
+      "Johnny Cash"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-gunfight.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stampede Thunder",
+    "year": 1925,
+    "cast": [
+      "Pete Morrison",
+      "Betty Goodwin"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/stampede-thunder.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hearts of Fire",
+    "year": 1987,
+    "cast": [
+      "Bob Dylan",
+      "Rupert Everett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hearts-of-fire.html"
+}

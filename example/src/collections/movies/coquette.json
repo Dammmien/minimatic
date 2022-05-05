@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Coquette",
+    "year": 1929,
+    "cast": [
+      "Mary Pickford",
+      "Johnny Mack Brown",
+      "Matt Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/coquette.html"
+}

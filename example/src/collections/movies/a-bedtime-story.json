@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Bedtime Story",
+    "year": 1933,
+    "cast": [
+      "Maurice Chevalier",
+      "Edward Everett Horton",
+      "Helen Twelvetrees"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/a-bedtime-story.html"
+}

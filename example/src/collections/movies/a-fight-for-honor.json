@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Fight for Honor",
+    "year": 1924,
+    "cast": [
+      "William Fairbanks",
+      "Eva Novak"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/a-fight-for-honor.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Water for Elephants",
+    "year": 2011,
+    "cast": [
+      "Robert Pattinson",
+      "Reese Witherspoon",
+      "Christoph Waltz",
+      "Hal Holbrook"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/water-for-elephants.html"
+}

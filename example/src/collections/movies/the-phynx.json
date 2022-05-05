@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Phynx",
+    "year": 1970,
+    "cast": [
+      "Joan Blondell",
+      "Ultra Violet"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-phynx.html"
+}

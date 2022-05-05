@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mackintosh Man",
+    "year": 1973,
+    "cast": [
+      "Paul Newman",
+      "James Mason"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-mackintosh-man.html"
+}

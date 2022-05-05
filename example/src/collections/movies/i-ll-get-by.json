@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I'll Get By",
+    "year": 1950,
+    "cast": [
+      "June Haver",
+      "William Lundigan"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/i-ll-get-by.html"
+}

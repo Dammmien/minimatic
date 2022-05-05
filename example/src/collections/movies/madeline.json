@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Madeline",
+    "year": 1998,
+    "cast": [
+      "Frances McDormand",
+      "Nigel Hawthorne",
+      "Hatty Jones"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/madeline.html"
+}

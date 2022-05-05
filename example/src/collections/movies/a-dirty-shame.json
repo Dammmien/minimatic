@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Dirty Shame",
+    "year": 2004,
+    "cast": [
+      "Tracey Ullman",
+      "Johnny Knoxville",
+      "Selma Blair",
+      "Chris Isaak"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-dirty-shame.html"
+}

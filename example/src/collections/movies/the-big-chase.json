@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Chase",
+    "year": 1954,
+    "cast": [
+      "Glenn Langan",
+      "Adele Jergens",
+      "Lon Chaney Jr."
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-big-chase.html"
+}

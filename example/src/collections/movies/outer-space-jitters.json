@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Outer Space Jitters",
+    "year": 1957,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/outer-space-jitters.html"
+}

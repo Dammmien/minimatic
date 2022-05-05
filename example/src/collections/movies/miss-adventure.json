@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Miss Adventure",
+    "year": 1919,
+    "cast": [
+      "Peggy Hyland",
+      "Gertrude Messinger"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/miss-adventure.html"
+}

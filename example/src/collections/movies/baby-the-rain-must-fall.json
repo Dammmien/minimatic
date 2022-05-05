@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Baby the Rain Must Fall",
+    "year": 1965,
+    "cast": [
+      "Steve McQueen",
+      "Lee Remick",
+      "Don Murray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/baby-the-rain-must-fall.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Cabin in the Sky",
+    "year": 1943,
+    "cast": [
+      "Ethel Waters",
+      "Eddie \"Rochester\" Anderson",
+      "Lena Horne",
+      "Louis Armstrong"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/cabin-in-the-sky.html"
+}

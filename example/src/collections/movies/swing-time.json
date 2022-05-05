@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Swing Time",
+    "year": 1936,
+    "cast": [
+      "Fred Astaire",
+      "Ginger Rogers",
+      "Victor Moore"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/swing-time.html"
+}

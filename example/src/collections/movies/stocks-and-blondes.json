@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stocks and Blondes",
+    "year": 1928,
+    "cast": [
+      "Gertrude Astor",
+      "Jacqueline Logan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stocks-and-blondes.html"
+}

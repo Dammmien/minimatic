@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Passport Husband",
+    "year": 1938,
+    "cast": [
+      "Stuart Erwin",
+      "Pauline Moore",
+      "Joan Woodbury"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/passport-husband.html"
+}

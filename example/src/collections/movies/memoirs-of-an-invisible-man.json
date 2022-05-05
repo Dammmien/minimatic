@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Memoirs of an Invisible Man",
+    "year": 1992,
+    "cast": [
+      "Chevy Chase",
+      "Daryl Hannah",
+      "Sam Neill"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/memoirs-of-an-invisible-man.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Keep",
+    "year": 1983,
+    "cast": [
+      "Scott Glenn",
+      "Jürgen Prochnow",
+      "Ian McKellen"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-keep.html"
+}

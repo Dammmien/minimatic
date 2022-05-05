@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Devil to Pay!",
+    "year": 1930,
+    "cast": [
+      "Ronald Colman",
+      "Loretta Young",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-devil-to-pay-.html"
+}

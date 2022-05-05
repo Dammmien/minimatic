@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Where Love Has Gone",
+    "year": 1964,
+    "cast": [
+      "Susan Hayward",
+      "Bette Davis",
+      "Joey Heatherton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/where-love-has-gone.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Little Twirps",
+    "year": 1943,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/three-little-twirps.html"
+}

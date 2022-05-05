@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Teeth",
+    "year": 1924,
+    "cast": [
+      "Tom Mix",
+      "Lucien Littlefield"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/teeth.html"
+}

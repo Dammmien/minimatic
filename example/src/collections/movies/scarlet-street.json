@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scarlet Street",
+    "year": 1945,
+    "cast": [
+      "Edward G. Robinson",
+      "Joan Bennett"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/scarlet-street.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Indiscreet",
+    "year": 1958,
+    "cast": [
+      "Ingrid Bergman",
+      "Cary Grant"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/indiscreet.html"
+}

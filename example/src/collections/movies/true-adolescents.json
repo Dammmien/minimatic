@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "True Adolescents",
+    "year": 2009,
+    "cast": [
+      "Mark Duplass",
+      "Bret Loehr",
+      "Melissa Leo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/true-adolescents.html"
+}

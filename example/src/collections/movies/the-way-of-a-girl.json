@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Way of a Girl",
+    "year": 1925,
+    "cast": [
+      "Eleanor Boardman",
+      "Matt Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-way-of-a-girl.html"
+}

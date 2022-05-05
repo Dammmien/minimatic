@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Matchstick Men",
+    "year": 2003,
+    "cast": [
+      "Nicolas Cage",
+      "Sam Rockwell",
+      "Alison Lohman"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/matchstick-men.html"
+}

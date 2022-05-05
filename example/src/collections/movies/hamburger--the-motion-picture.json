@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hamburger: The Motion Picture",
+    "year": 1986,
+    "cast": [
+      "Leigh McCloskey",
+      "Dick Butkus"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hamburger--the-motion-picture.html"
+}

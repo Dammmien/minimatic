@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Outlaw Brother",
+    "year": 1951,
+    "cast": [
+      "Mickey Rooney",
+      "Wanda Hendrix"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/my-outlaw-brother.html"
+}

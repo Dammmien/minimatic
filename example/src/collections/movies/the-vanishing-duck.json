@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Vanishing Duck",
+    "year": 1957,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-vanishing-duck.html"
+}

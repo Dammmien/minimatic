@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Trail of the Vigilantes",
+    "year": 1940,
+    "cast": [
+      "Franchot Tone",
+      "Warren William",
+      "Broderick Crawford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/trail-of-the-vigilantes.html"
+}

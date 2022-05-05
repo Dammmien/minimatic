@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beyond Reason",
+    "year": 1977,
+    "cast": [
+      "Telly Savalas",
+      "Diana Muldaur"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beyond-reason.html"
+}

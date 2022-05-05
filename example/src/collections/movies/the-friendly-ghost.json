@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Friendly Ghost",
+    "year": 1945,
+    "cast": [
+      "Casper"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-friendly-ghost.html"
+}

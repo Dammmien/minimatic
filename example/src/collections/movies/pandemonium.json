@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pandemonium",
+    "year": 1982,
+    "cast": [
+      "Tom Smothers",
+      "Paul Reubens",
+      "Carol Kane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pandemonium.html"
+}

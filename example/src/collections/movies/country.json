@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Country",
+    "year": 1984,
+    "cast": [
+      "Jessica Lange",
+      "Sam Shepard",
+      "Wilford Brimley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/country.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Camp Takota",
+    "year": 2014,
+    "cast": [
+      "Grace Helbig",
+      "Hannah Hart",
+      "Mamrie Hart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/camp-takota.html"
+}

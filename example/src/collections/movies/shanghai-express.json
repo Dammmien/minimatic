@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Shanghai Express",
+    "year": 1932,
+    "cast": [
+      "Marlene Dietrich",
+      "Anna May Wong",
+      "Clive Brook"
+    ],
+    "genres": [
+      "Adventure",
+      "Drama"
+    ]
+  },
+  "output": "movies/shanghai-express.html"
+}

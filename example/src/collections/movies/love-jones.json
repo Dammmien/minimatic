@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love Jones",
+    "year": 1997,
+    "cast": [
+      "Larenz Tate",
+      "Nia Long"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-jones.html"
+}

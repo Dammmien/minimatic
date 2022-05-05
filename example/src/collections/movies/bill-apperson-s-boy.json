@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bill Apperson's Boy",
+    "year": 1919,
+    "cast": [
+      "Jack Pickford",
+      "Russell Simpson",
+      "Gloria Hope"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bill-apperson-s-boy.html"
+}

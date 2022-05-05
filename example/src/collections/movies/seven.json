@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Seven",
+    "year": 1995,
+    "cast": [
+      "Brad Pitt",
+      "Morgan Freeman",
+      "Kevin Spacey",
+      "Gwyneth Paltrow"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/seven.html"
+}

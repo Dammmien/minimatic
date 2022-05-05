@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Wild Bunch",
+    "year": 1969,
+    "cast": [
+      "William Holden",
+      "Ernest Borgnine",
+      "Warren Oates",
+      "Robert Ryan",
+      "Edmond O'Brien",
+      "Ben Johnson",
+      "Jaime Sánchez",
+      "Emilio Fernández"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-wild-bunch.html"
+}

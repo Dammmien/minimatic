@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Saint Jack",
+    "year": 1979,
+    "cast": [
+      "Ben Gazzara",
+      "Denholm Elliott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/saint-jack.html"
+}

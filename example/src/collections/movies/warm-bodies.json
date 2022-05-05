@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Warm Bodies",
+    "year": 2013,
+    "cast": [
+      "Nicholas Hoult",
+      "Teresa Palmer",
+      "Rob Corddry",
+      "Dave Franco",
+      "Analeigh Tipton",
+      "Cory Hardrict",
+      "and",
+      "John Malkovich"
+    ],
+    "genres": [
+      "Horror",
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/warm-bodies.html"
+}

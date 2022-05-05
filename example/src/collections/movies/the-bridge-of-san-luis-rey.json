@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bridge of San Luis Rey",
+    "year": 1944,
+    "cast": [
+      "Lynn Bari",
+      "Akim Tamiroff"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bridge-of-san-luis-rey.html"
+}

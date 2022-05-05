@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gun Runners",
+    "year": 1958,
+    "cast": [
+      "Audie Murphy",
+      "Eddie Albert",
+      "Patricia Owens"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-gun-runners.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Denial",
+    "year": 1990,
+    "cast": [
+      "Robin Wright",
+      "Jason Patric",
+      "Rae Dawn Chong"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/denial.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Adventures of Frank and Jesse James",
+    "year": 1948,
+    "cast": [
+      "Clayton Moore",
+      "Noel Neill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/adventures-of-frank-and-jesse-james.html"
+}

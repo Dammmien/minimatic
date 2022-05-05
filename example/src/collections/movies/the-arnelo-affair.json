@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Arnelo Affair",
+    "year": 1947,
+    "cast": [
+      "John Hodiak",
+      "Frances Gifford"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-arnelo-affair.html"
+}

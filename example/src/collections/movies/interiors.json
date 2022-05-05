@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Interiors",
+    "year": 1978,
+    "cast": [
+      "Geraldine Page",
+      "Diane Keaton",
+      "Maureen Stapleton",
+      "Mary Beth Hurt",
+      "Richard Jordan",
+      "E. G. Marshall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/interiors.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jet Storm",
+    "year": 1959,
+    "cast": [
+      "Richard Attenborough",
+      "Stanley Baker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jet-storm.html"
+}

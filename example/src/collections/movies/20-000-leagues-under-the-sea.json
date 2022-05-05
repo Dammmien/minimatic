@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "20,000 Leagues Under the Sea",
+    "year": 1997,
+    "cast": [
+      "Michael Caine",
+      "Patrick Dempsey"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/20-000-leagues-under-the-sea.html"
+}

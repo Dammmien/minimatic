@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "365 Nights in Hollywood",
+    "year": 1934,
+    "cast": [
+      "Alice Faye",
+      "Grant Mitchell",
+      "James Dunn"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/365-nights-in-hollywood.html"
+}

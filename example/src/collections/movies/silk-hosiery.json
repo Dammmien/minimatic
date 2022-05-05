@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silk Hosiery",
+    "year": 1920,
+    "cast": [
+      "Enid Bennett",
+      "Geoffrey Webb"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/silk-hosiery.html"
+}

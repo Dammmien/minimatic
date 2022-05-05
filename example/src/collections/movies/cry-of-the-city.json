@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cry of the City",
+    "year": 1948,
+    "cast": [
+      "Victor Mature",
+      "Richard Conte"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/cry-of-the-city.html"
+}

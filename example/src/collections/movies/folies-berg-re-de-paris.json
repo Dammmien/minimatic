@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Folies Bergère de Paris",
+    "year": 1935,
+    "cast": [
+      "Maurice Chevalier",
+      "Merle Oberon",
+      "Ann Sothern"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/folies-berg-re-de-paris.html"
+}

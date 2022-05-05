@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "School Daze",
+    "year": 1988,
+    "cast": [
+      "Laurence Fishburne",
+      "Giancarlo Esposito",
+      "Tisha Campbell",
+      "Ossie Davis",
+      "Spike Lee"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/school-daze.html"
+}

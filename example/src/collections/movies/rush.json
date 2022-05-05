@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rush",
+    "year": 1991,
+    "cast": [
+      "Jason Patric",
+      "Jennifer Jason Leigh",
+      "Sam Elliott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rush.html"
+}

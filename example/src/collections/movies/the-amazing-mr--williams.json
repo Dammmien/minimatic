@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Amazing Mr. Williams",
+    "year": 1939,
+    "cast": [
+      "Melvyn Douglas",
+      "Joan Blondell",
+      "Clarence Kolb",
+      "Ruth Donnelly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-amazing-mr--williams.html"
+}

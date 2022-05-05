@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ride Beyond Vengeance",
+    "year": 1966,
+    "cast": [
+      "Chuck Connors",
+      "Kathryn Hays",
+      "Bill Bixby"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ride-beyond-vengeance.html"
+}

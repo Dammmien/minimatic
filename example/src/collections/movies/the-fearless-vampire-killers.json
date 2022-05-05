@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fearless Vampire Killers",
+    "year": 1967,
+    "cast": [
+      "Sharon Tate",
+      "Roman Polanski"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fearless-vampire-killers.html"
+}

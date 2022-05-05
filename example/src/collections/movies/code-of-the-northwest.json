@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Code of the Northwest",
+    "year": 1926,
+    "cast": [
+      "Tom London",
+      "Shirley Palmer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/code-of-the-northwest.html"
+}

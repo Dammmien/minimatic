@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Abandoned Mine",
+    "year": 2013,
+    "cast": [
+      "Alex Vega",
+      "Reiley McClendon",
+      "Saige Thompson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/abandoned-mine.html"
+}

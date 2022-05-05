@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "George White's Scandals",
+    "year": 1945,
+    "cast": [
+      "Joan Davis",
+      "Jack Haley"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/george-white-s-scandals.html"
+}

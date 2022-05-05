@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Timber Queen",
+    "year": 1944,
+    "cast": [
+      "Mary Beth Hughes",
+      "Richard Arlen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/timber-queen.html"
+}

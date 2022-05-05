@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pygmy Island",
+    "year": 1950,
+    "cast": [
+      "Johnny Weissmuller",
+      "Ann Savage"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/pygmy-island.html"
+}

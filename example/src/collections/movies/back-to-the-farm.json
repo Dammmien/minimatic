@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Back to the Farm",
+    "year": 1914,
+    "cast": [
+      "Herbert Tracey",
+      "Royal Byron",
+      "Eloise Willard",
+      "Mabel Paige",
+      "Oliver Hardy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/back-to-the-farm.html"
+}

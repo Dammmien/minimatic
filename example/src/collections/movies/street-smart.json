@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Street Smart",
+    "year": 1987,
+    "cast": [
+      "Christopher Reeve",
+      "Morgan Freeman",
+      "Kathy Baker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/street-smart.html"
+}

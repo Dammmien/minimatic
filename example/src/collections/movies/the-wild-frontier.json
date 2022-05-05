@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wild Frontier",
+    "year": 1947,
+    "cast": [
+      "Allan Lane",
+      "Jack Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-wild-frontier.html"
+}

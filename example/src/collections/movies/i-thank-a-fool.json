@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Thank a Fool",
+    "year": 1962,
+    "cast": [
+      "Susan Hayward",
+      "Peter Finch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-thank-a-fool.html"
+}

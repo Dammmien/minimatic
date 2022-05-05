@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mo' Money",
+    "year": 1992,
+    "cast": [
+      "Damon Wayans",
+      "Marlon Wayans",
+      "Stacey Dash"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mo--money.html"
+}

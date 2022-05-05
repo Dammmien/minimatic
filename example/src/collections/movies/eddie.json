@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Eddie",
+    "year": 1996,
+    "cast": [
+      "Whoopi Goldberg",
+      "Frank Langella",
+      "Dennis Farina"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/eddie.html"
+}

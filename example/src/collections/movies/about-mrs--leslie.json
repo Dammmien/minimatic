@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "About Mrs. Leslie",
+    "year": 1954,
+    "cast": [
+      "Shirley Booth",
+      "Robert Ryan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/about-mrs--leslie.html"
+}

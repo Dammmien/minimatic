@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "This Film Is Not Yet Rated",
+    "year": 2006,
+    "cast": [
+      "Motion Picture Association of America",
+      "rating system"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/this-film-is-not-yet-rated.html"
+}

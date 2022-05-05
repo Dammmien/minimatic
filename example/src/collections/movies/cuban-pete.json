@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cuban Pete",
+    "year": 1946,
+    "cast": [
+      "Desi Arnaz",
+      "Joan Fulton",
+      "Don Porter"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/cuban-pete.html"
+}

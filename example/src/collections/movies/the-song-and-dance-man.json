@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Song and Dance Man",
+    "year": 1926,
+    "cast": [
+      "Tom Moore",
+      "Bessie Love"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-song-and-dance-man.html"
+}

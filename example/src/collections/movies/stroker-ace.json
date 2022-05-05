@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Stroker Ace",
+    "year": 1983,
+    "cast": [
+      "Burt Reynolds",
+      "Jim Nabors",
+      "Ned Beatty",
+      "Loni Anderson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stroker-ace.html"
+}

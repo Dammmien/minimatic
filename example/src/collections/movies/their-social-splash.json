@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Their Social Splash",
+    "year": 1915,
+    "cast": [
+      "Slim Summerville",
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/their-social-splash.html"
+}

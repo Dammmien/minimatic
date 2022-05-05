@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Agnes of God",
+    "year": 1985,
+    "cast": [
+      "Jane Fonda",
+      "Anne Bancroft",
+      "Meg Tilly"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/agnes-of-god.html"
+}

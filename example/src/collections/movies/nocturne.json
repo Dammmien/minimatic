@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nocturne",
+    "year": 1946,
+    "cast": [
+      "George Raft",
+      "Lynn Bari",
+      "Virginia Huston"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/nocturne.html"
+}

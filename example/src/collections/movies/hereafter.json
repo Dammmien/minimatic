@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Hereafter",
+    "year": 2010,
+    "cast": [
+      "Matt Damon",
+      "Cécile de France",
+      "Bryce Dallas Howard",
+      "Lyndsey Marshal",
+      "Jay Mohr",
+      "Thierry Neuvic",
+      "Jenifer Lewis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hereafter.html"
+}

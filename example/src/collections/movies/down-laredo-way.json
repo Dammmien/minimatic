@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Down Laredo Way",
+    "year": 1953,
+    "cast": [
+      "Rex Allen",
+      "Dona Drake"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/down-laredo-way.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Warrens of Virginia",
+    "year": 1924,
+    "cast": [
+      "George Backus",
+      "Rosemary Hill"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/the-warrens-of-virginia.html"
+}

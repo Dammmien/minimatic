@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Footsteps in the Dark",
+    "year": 1941,
+    "cast": [
+      "Errol Flynn",
+      "Brenda Marshall",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/footsteps-in-the-dark.html"
+}

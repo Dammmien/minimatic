@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hollywood Revue of 1929",
+    "year": 1929,
+    "cast": [
+      "Conrad Nagel",
+      "Jack Benny"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-hollywood-revue-of-1929.html"
+}

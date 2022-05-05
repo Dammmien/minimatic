@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Boyz n the Hood",
+    "year": 1991,
+    "cast": [
+      "Ice Cube",
+      "Cuba Gooding, Jr.",
+      "Morris Chestnut",
+      "Laurence Fishburne",
+      "Angela Bassett",
+      "Nia Long"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/boyz-n-the-hood.html"
+}

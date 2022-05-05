@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Two Weeks to Live",
+    "year": 1943,
+    "cast": [
+      "Franklin Pangborn",
+      "Kay Linaker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/two-weeks-to-live.html"
+}

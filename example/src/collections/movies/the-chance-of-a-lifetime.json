@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Chance of a Lifetime",
+    "year": 1943,
+    "cast": [
+      "Chester Morris",
+      "Erik Rolf",
+      "Jeanne Bates"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-chance-of-a-lifetime.html"
+}

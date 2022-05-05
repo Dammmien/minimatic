@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Motorcycle Diaries",
+    "year": 2004,
+    "cast": [
+      "Gael García Bernal",
+      "Rodrigo de la Serna"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-motorcycle-diaries.html"
+}

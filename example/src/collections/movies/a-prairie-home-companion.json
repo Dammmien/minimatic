@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "A Prairie Home Companion",
+    "year": 2006,
+    "cast": [
+      "Garrison Keillor",
+      "Woody Harrelson",
+      "Tommy Lee Jones",
+      "Kevin Kline",
+      "Lindsay Lohan",
+      "Meryl Streep"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-prairie-home-companion.html"
+}

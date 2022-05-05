@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Andy Hardy Meets Debutante",
+    "year": 1940,
+    "cast": [
+      "Lewis Stone",
+      "Mickey Rooney",
+      "Cecilia Parker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/andy-hardy-meets-debutante.html"
+}

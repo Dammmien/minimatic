@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It Ain't Hay",
+    "year": 1943,
+    "cast": [
+      "Abbott and Costello",
+      "Grace McDonald"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-ain-t-hay.html"
+}

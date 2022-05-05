@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mandingo",
+    "year": 1975,
+    "cast": [
+      "James Mason",
+      "Susan George",
+      "Ken Norton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mandingo.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell's Crossroads",
+    "year": 1957,
+    "cast": [
+      "Peggie Castle",
+      "Robert Vaughn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hell-s-crossroads.html"
+}

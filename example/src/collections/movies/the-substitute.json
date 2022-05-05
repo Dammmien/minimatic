@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Substitute",
+    "year": 1996,
+    "cast": [
+      "Tom Berenger",
+      "Ernie Hudson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-substitute.html"
+}

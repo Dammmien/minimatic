@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thirty Day Princess",
+    "year": 1934,
+    "cast": [
+      "Cary Grant",
+      "Sylvia Sidney",
+      "Edward Arnold"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/thirty-day-princess.html"
+}

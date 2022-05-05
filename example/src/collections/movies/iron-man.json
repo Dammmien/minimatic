@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Iron Man",
+    "year": 2008,
+    "cast": [
+      "Robert Downey, Jr.",
+      "Terrence Howard",
+      "Gwyneth Paltrow",
+      "Jeff Bridges"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/iron-man.html"
+}

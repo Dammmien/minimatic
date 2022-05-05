@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The In-Laws",
+    "year": 2003,
+    "cast": [
+      "Michael Douglas",
+      "Albert Brooks",
+      "David Suchet",
+      "Candice Bergen",
+      "Ryan Reynolds",
+      "Robin Tunney"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-in-laws.html"
+}

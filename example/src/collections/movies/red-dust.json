@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Red Dust",
+    "year": 1932,
+    "cast": [
+      "Clark Gable",
+      "Jean Harlow",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/red-dust.html"
+}

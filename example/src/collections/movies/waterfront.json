@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Waterfront",
+    "year": 1944,
+    "cast": [
+      "J. Carrol Naish",
+      "Maris Wrixon"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/waterfront.html"
+}

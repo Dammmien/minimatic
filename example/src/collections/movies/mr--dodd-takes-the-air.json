@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mr. Dodd Takes the Air",
+    "year": 1937,
+    "cast": [
+      "Kenny Baker",
+      "Frank McHugh",
+      "Alice Brady"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--dodd-takes-the-air.html"
+}

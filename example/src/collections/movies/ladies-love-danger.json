@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ladies Love Danger",
+    "year": 1935,
+    "cast": [
+      "Mona Barrie",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ladies-love-danger.html"
+}

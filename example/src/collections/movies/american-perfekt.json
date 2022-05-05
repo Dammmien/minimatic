@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "American Perfekt",
+    "year": 1997,
+    "cast": [
+      "Fairuza Balk",
+      "Robert Forster",
+      "Amanda Plummer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/american-perfekt.html"
+}

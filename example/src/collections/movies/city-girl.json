@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "City Girl",
+    "year": 1938,
+    "cast": [
+      "Phyllis Brooks",
+      "Ricardo Cortez"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/city-girl.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Blackfish",
+    "year": 2013,
+    "cast": [
+      "Focuses on an",
+      "orca",
+      "held at",
+      "SeaWorld",
+      "and the dangers of it being kept in captivity."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/blackfish.html"
+}

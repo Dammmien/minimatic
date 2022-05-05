@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Geisha Boy",
+    "year": 1958,
+    "cast": [
+      "Jerry Lewis",
+      "Sessue Hayakawa",
+      "Suzanne Pleshette"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-geisha-boy.html"
+}

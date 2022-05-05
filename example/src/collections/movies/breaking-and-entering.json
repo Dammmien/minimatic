@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Breaking and Entering",
+    "year": 2006,
+    "cast": [
+      "Jude Law",
+      "Juliette Binoche",
+      "Robni Wright Penn"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/breaking-and-entering.html"
+}

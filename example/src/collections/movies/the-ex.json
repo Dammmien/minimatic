@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Ex",
+    "year": 2007,
+    "cast": [
+      "Zach Braff",
+      "Amanda Peet",
+      "Jason Bateman",
+      "Charles Grodin",
+      "Mia Farrow",
+      "Donal Logue",
+      "Amy Poehler",
+      "Amy Adams",
+      "Fred Armisen"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ex.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flaming Gold",
+    "year": 1933,
+    "cast": [
+      "William Boyd",
+      "Pat O'Brien",
+      "Mae Clarke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flaming-gold.html"
+}

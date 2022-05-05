@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bloody Mama",
+    "year": 1970,
+    "cast": [
+      "Shelley Winters",
+      "Bruce Dern",
+      "Don Stroud"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/bloody-mama.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "6 Day Bike Rider",
+    "year": 1934,
+    "cast": [
+      "Joe E. Brown",
+      "Maxine Doyle",
+      "Frank McHugh"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/6-day-bike-rider.html"
+}

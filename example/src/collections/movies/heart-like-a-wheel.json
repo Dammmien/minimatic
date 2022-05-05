@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Heart Like a Wheel",
+    "year": 1983,
+    "cast": [
+      "Bonnie Bedelia",
+      "Beau Bridges"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/heart-like-a-wheel.html"
+}

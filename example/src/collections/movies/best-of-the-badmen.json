@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Best of the Badmen",
+    "year": 1951,
+    "cast": [
+      "Robert Ryan",
+      "Robert Preston"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/best-of-the-badmen.html"
+}

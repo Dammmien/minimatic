@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Maid's Night Out",
+    "year": 1938,
+    "cast": [
+      "Joan Fontaine",
+      "Allan Lane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/maid-s-night-out.html"
+}

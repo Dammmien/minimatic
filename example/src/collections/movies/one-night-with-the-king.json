@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "One Night with the King",
+    "year": 2006,
+    "cast": [
+      "Tiffany Dupont"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/one-night-with-the-king.html"
+}

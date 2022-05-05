@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Oklahoma Territory",
+    "year": 1960,
+    "cast": [
+      "Bill Williams",
+      "Gloria Talbott",
+      "Ted de Corsia"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/oklahoma-territory.html"
+}

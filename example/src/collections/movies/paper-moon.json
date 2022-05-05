@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paper Moon",
+    "year": 1973,
+    "cast": [
+      "Ryan O'Neal",
+      "Tatum O'Neal",
+      "Madeline Kahn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/paper-moon.html"
+}

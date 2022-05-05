@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Taps",
+    "year": 1981,
+    "cast": [
+      "George C. Scott",
+      "Timothy Hutton",
+      "Ronny Cox",
+      "Sean Penn",
+      "Tom Cruise"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/taps.html"
+}

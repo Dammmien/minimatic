@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Legacy",
+    "year": 2000,
+    "cast": [
+      "life in",
+      "Chicago",
+      "ghettos"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/legacy.html"
+}

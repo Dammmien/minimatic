@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "The Help",
+    "year": 2011,
+    "cast": [
+      "Jessica Chastain",
+      "Viola Davis",
+      "Bryce Dallas Howard",
+      "Allison Janney",
+      "Octavia Spencer",
+      "Emma Stone",
+      "Anna Camp",
+      "Dana Ivey",
+      "Leslie Jordan",
+      "Brian Kerwin",
+      "Chris Lowell",
+      "David Oyelowo",
+      "Sissy Spacek",
+      "Cicely Tyson",
+      "Mike Vogel"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-help.html"
+}

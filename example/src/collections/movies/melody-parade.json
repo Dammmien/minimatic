@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Melody Parade",
+    "year": 1943,
+    "cast": [
+      "Mary Beth Hughes",
+      "Eddie Quillan"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/melody-parade.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pacifier",
+    "year": 2005,
+    "cast": [
+      "Vin Diesel",
+      "Lauren Graham",
+      "Faith Ford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-pacifier.html"
+}

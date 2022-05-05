@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Real Life",
+    "year": 1979,
+    "cast": [
+      "Albert Brooks",
+      "Charles Grodin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/real-life.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Toxic Avenger",
+    "year": 1984,
+    "cast": [
+      "Mitch Cohen"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/the-toxic-avenger.html"
+}

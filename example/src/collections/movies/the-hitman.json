@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hitman",
+    "year": 1991,
+    "cast": [
+      "Chuck Norris",
+      "Michael Parks"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-hitman.html"
+}

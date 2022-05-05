@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Life 101",
+    "year": 1995,
+    "cast": [
+      "Corey Haim",
+      "Ami Dolenz"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/life-101.html"
+}

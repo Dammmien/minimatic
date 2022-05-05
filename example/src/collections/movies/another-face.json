@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Another Face",
+    "year": 1935,
+    "cast": [
+      "Wallace Ford",
+      "Brian Donlevy",
+      "Phyllis Brooks"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/another-face.html"
+}

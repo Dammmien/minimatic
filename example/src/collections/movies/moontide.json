@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Moontide",
+    "year": 1942,
+    "cast": [
+      "Jean Gabin",
+      "Ida Lupino",
+      "Claude Rains"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/moontide.html"
+}

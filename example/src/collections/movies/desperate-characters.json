@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Desperate Characters",
+    "year": 1971,
+    "cast": [
+      "Shirley MacLaine",
+      "Kenneth Mars"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/desperate-characters.html"
+}

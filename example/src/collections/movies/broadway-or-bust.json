@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Broadway or Bust",
+    "year": 1924,
+    "cast": [
+      "Hoot Gibson",
+      "Gertrude Astor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/broadway-or-bust.html"
+}

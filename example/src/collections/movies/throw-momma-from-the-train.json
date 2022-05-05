@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Throw Momma from the Train",
+    "year": 1987,
+    "cast": [
+      "Billy Crystal",
+      "Danny DeVito",
+      "Anne Ramsey",
+      "Kate Mulgrew"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/throw-momma-from-the-train.html"
+}

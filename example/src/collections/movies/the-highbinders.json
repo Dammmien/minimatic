@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Highbinders",
+    "year": 1926,
+    "cast": [
+      "Marjorie Daw",
+      "George Hackathorne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-highbinders.html"
+}

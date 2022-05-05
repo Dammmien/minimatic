@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dangerous Millions",
+    "year": 1946,
+    "cast": [
+      "Kent Taylor",
+      "Dona Drake"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/dangerous-millions.html"
+}

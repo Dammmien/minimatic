@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Skateland",
+    "year": 2011,
+    "cast": [
+      "Shiloh Fernandez",
+      "Ashley Greene",
+      "Heath Freeman",
+      "Brett Cullen",
+      "James LeGros",
+      "Melinda McGraw",
+      "Taylor Handley",
+      "Haley Ramm"
+    ],
+    "genres": [
+      "Drama",
+      "Teen"
+    ]
+  },
+  "output": "movies/skateland.html"
+}

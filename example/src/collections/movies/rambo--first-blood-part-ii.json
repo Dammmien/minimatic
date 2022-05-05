@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rambo: First Blood Part II",
+    "year": 1985,
+    "cast": [
+      "Sylvester Stallone",
+      "Julia Nickson-Soul",
+      "Charles Napier",
+      "Richard Crenna"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/rambo--first-blood-part-ii.html"
+}

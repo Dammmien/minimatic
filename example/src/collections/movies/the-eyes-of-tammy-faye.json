@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Eyes of Tammy Faye",
+    "year": 2000,
+    "cast": [
+      "Tammy Faye Bakker",
+      "RuPaul"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-eyes-of-tammy-faye.html"
+}

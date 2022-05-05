@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Scrambled Brains",
+    "year": 1951,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/scrambled-brains.html"
+}

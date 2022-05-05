@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hitman",
+    "year": 2007,
+    "cast": [
+      "Timothy Olyphant",
+      "Dougray Scott",
+      "Olga Kurylenko",
+      "Robert Knepper"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/hitman.html"
+}

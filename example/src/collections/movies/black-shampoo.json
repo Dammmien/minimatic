@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Black Shampoo",
+    "year": 1976,
+    "cast": [
+      "John R. Daniels",
+      "Tanya Boyd",
+      "Joe Ortiz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/black-shampoo.html"
+}

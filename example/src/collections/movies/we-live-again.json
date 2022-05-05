@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "We Live Again",
+    "year": 1934,
+    "cast": [
+      "Anna Sten",
+      "Fredric March",
+      "C. Aubrey Smith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/we-live-again.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Beat the Devil",
+    "year": 1953,
+    "cast": [
+      "Humphrey Bogart",
+      "Jennifer Jones",
+      "Gina Lollobrigida",
+      "Peter Lorre"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/beat-the-devil.html"
+}

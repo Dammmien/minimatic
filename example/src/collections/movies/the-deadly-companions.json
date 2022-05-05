@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Deadly Companions",
+    "year": 1961,
+    "cast": [
+      "Maureen O'Hara",
+      "Brian Keith",
+      "Chill Wills"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-deadly-companions.html"
+}

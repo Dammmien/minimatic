@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Once in a Blue Moon",
+    "year": 1935,
+    "cast": [
+      "Jimmy Savo",
+      "Cecilia Loftus",
+      "George Mitchell"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/once-in-a-blue-moon.html"
+}

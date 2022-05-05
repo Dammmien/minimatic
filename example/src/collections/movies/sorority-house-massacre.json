@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sorority House Massacre",
+    "year": 1987,
+    "cast": [
+      "Angela O'Neill",
+      "Wendy Martel"
+    ],
+    "genres": [
+      "Slasher"
+    ]
+  },
+  "output": "movies/sorority-house-massacre.html"
+}

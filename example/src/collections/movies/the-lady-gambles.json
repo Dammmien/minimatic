@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lady Gambles",
+    "year": 1949,
+    "cast": [
+      "Barbara Stanwyck",
+      "Robert Preston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lady-gambles.html"
+}

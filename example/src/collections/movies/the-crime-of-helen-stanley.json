@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Crime of Helen Stanley",
+    "year": 1934,
+    "cast": [
+      "Ralph Bellamy",
+      "Shirley Grey",
+      "Gail Patrick"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-crime-of-helen-stanley.html"
+}

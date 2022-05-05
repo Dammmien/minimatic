@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Greatest Movie Ever Sold",
+    "year": 2011,
+    "cast": [
+      "A documentary about branding",
+      "advertising and product placement that is financed and made possible by brands",
+      "advertising and product placement."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-greatest-movie-ever-sold.html"
+}

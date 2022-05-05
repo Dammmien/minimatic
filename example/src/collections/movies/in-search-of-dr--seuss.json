@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In Search of Dr. Seuss",
+    "year": 1994,
+    "cast": [
+      "Kathy Najimy",
+      "Christopher Lloyd"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/in-search-of-dr--seuss.html"
+}

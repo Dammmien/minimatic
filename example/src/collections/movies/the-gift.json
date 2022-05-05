@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Gift",
+    "year": 2000,
+    "cast": [
+      "Cate Blanchett",
+      "Giovanni Ribisi",
+      "Keanu Reeves",
+      "Katie Holmes",
+      "Greg Kinnear",
+      "Hilary Swank"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-gift.html"
+}

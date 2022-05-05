@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Waterworld",
+    "year": 1995,
+    "cast": [
+      "Kevin Costner",
+      "Dennis Hopper",
+      "Jeanne Tripplehorn",
+      "Tina Majorino"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/waterworld.html"
+}

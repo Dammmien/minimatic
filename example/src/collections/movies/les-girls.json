@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Les Girls",
+    "year": 1957,
+    "cast": [
+      "Mitzi Gaynor",
+      "Gene Kelly"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/les-girls.html"
+}

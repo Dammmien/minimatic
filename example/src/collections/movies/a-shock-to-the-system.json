@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Shock to the System",
+    "year": 1990,
+    "cast": [
+      "Michael Caine",
+      "Elizabeth McGovern",
+      "Swoosie Kurtz"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/a-shock-to-the-system.html"
+}

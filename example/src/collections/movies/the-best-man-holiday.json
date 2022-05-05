@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Best Man Holiday",
+    "year": 2013,
+    "cast": [
+      "Morris Chestnut",
+      "Taye Diggs",
+      "Regina Hall",
+      "Terrence Howard",
+      "Sanaa Lathan",
+      "Nia Long",
+      "Harold Perrineau",
+      "Monica Calhoun",
+      "Melissa De Sousa"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-best-man-holiday.html"
+}

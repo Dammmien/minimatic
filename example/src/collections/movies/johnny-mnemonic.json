@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Johnny Mnemonic",
+    "year": 1995,
+    "cast": [
+      "Keanu Reeves",
+      "Dolph Lundgren",
+      "Dina Meyer",
+      "Ice-T"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/johnny-mnemonic.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stolen Summer",
+    "year": 2002,
+    "cast": [
+      "Adiel Stein",
+      "Aidan Quinn",
+      "Bonnie Hunt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stolen-summer.html"
+}

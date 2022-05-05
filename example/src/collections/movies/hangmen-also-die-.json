@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hangmen Also Die!",
+    "year": 1943,
+    "cast": [
+      "Hans Heinrich von Twardowski",
+      "Brian Donlevy",
+      "Walter Brennan"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/hangmen-also-die-.html"
+}

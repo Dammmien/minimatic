@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Monster Mash",
+    "year": 1995,
+    "cast": [
+      "Bobby Pickett"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/monster-mash.html"
+}

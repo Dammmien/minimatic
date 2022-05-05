@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Lost World: Jurassic Park",
+    "year": 1997,
+    "cast": [
+      "Jeff Goldblum",
+      "Julianne Moore",
+      "Pete Postlethwaite",
+      "Arliss Howard",
+      "Richard Attenborough"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-lost-world--jurassic-park.html"
+}

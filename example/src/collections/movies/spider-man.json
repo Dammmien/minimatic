@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Spider-Man",
+    "year": 2002,
+    "cast": [
+      "Tobey Maguire",
+      "Willem Dafoe",
+      "Kirsten Dunst",
+      "James Franco",
+      "Cliff Robertson",
+      "Rosemary Harris",
+      "J. K. Simmons"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/spider-man.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bob Roberts",
+    "year": 1992,
+    "cast": [
+      "Tim Robbins",
+      "Giancarlo Esposito",
+      "Fred Ward"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bob-roberts.html"
+}

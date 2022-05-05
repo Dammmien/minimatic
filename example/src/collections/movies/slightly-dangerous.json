@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Slightly Dangerous",
+    "year": 1943,
+    "cast": [
+      "Lana Turner",
+      "Robert Young"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/slightly-dangerous.html"
+}

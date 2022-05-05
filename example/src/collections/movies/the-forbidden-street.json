@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Forbidden Street",
+    "year": 1949,
+    "cast": [
+      "Maureen O'Hara",
+      "Dana Andrews"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-forbidden-street.html"
+}

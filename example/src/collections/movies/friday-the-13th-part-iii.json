@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Friday the 13th Part III",
+    "year": 1982,
+    "cast": [
+      "Dana Kimmell",
+      "Larry Zerner"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/friday-the-13th-part-iii.html"
+}

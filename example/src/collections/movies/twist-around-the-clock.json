@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Twist Around the Clock",
+    "year": 1961,
+    "cast": [
+      "Chubby Checker",
+      "Dion DiMucci"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/twist-around-the-clock.html"
+}

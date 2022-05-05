@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silent Witness",
+    "year": 1943,
+    "cast": [
+      "Frank Albertson",
+      "Maris Wrixon"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/silent-witness.html"
+}

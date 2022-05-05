@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Stepfather",
+    "year": 2009,
+    "cast": [
+      "Penn Badgley",
+      "Dylan Walsh",
+      "Amber Heard",
+      "Sela Ward",
+      "Jon Tenney"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-stepfather.html"
+}

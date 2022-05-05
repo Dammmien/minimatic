@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Green Zone",
+    "year": 2010,
+    "cast": [
+      "Matt Damon",
+      "Greg Kinnear",
+      "Brendan Gleeson",
+      "Amy Ryan",
+      "Khalid Abdalla",
+      "Jason Isaacs"
+    ],
+    "genres": [
+      "Action",
+      "Spy"
+    ]
+  },
+  "output": "movies/green-zone.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Black Fist",
+    "year": 1975,
+    "cast": [
+      "Richard Lawson",
+      "Dabney Coleman"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/black-fist.html"
+}

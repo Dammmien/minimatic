@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "C-Man",
+    "year": 1949,
+    "cast": [
+      "Dean Jagger",
+      "John Carradine"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/c-man.html"
+}

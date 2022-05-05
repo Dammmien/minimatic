@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Winter Guest",
+    "year": 1997,
+    "cast": [
+      "Emma Thompson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-winter-guest.html"
+}

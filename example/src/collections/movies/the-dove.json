@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dove",
+    "year": 1974,
+    "cast": [
+      "Joseph Bottoms",
+      "Dabney Coleman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-dove.html"
+}

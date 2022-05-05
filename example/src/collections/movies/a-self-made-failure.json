@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Self-Made Failure",
+    "year": 1924,
+    "cast": [
+      "Lloyd Hamilton",
+      "Ben Alexander",
+      "Matt Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-self-made-failure.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Last of Sheila",
+    "year": 1973,
+    "cast": [
+      "James Coburn",
+      "Raquel Welch",
+      "Dyan Cannon",
+      "James Mason",
+      "Joan Hackett",
+      "Richard Benjamin",
+      "Ian McShane"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-last-of-sheila.html"
+}

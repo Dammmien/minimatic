@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The New Janitor",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Jess Dandy",
+      "John T. Dillon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-new-janitor.html"
+}

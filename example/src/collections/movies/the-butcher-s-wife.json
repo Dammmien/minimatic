@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Butcher's Wife",
+    "year": 1991,
+    "cast": [
+      "Demi Moore",
+      "Jeff Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-butcher-s-wife.html"
+}

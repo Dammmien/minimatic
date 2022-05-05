@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Turn to the Right",
+    "year": 1922,
+    "cast": [
+      "Alice Terry",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/turn-to-the-right.html"
+}

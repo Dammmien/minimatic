@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Son Is Guilty",
+    "year": 1939,
+    "cast": [
+      "Bruce Cabot",
+      "Glenn Ford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-son-is-guilty.html"
+}

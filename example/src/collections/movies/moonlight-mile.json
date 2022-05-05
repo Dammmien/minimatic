@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Moonlight Mile",
+    "year": 2002,
+    "cast": [
+      "Jake Gyllenhaal",
+      "Dustin Hoffman",
+      "Susan Sarandon"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/moonlight-mile.html"
+}

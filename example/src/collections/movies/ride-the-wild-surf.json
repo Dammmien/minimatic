@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ride the Wild Surf",
+    "year": 1964,
+    "cast": [
+      "Fabian",
+      "Shelley Fabares",
+      "Tab Hunter"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/ride-the-wild-surf.html"
+}

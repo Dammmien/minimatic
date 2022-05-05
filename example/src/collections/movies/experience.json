@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Experience",
+    "year": 1921,
+    "cast": [
+      "Richard Barthelmess",
+      "Reginald Denny"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/experience.html"
+}

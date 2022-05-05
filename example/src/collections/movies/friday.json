@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Friday",
+    "year": 1995,
+    "cast": [
+      "Ice Cube",
+      "Chris Tucker"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/friday.html"
+}

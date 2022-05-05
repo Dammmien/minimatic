@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Carbon Copy",
+    "year": 1981,
+    "cast": [
+      "George Segal",
+      "Susan Saint James",
+      "Denzel Washington"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/carbon-copy.html"
+}

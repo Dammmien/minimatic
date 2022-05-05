@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pleasure Cruise",
+    "year": 1933,
+    "cast": [
+      "Genevieve Tobin",
+      "Roland Young",
+      "Ralph Forbes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pleasure-cruise.html"
+}

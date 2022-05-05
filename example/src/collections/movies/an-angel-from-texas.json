@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "An Angel from Texas",
+    "year": 1940,
+    "cast": [
+      "Eddie Albert",
+      "Rosemary Lane",
+      "Wayne Morris",
+      "Jane Wyman",
+      "Ronald Reagan"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/an-angel-from-texas.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Border Patrolman",
+    "year": 1936,
+    "cast": [
+      "George O'Brien",
+      "Polly Ann Young",
+      "Mary Doran"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-border-patrolman.html"
+}

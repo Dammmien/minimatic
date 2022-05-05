@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hold On!",
+    "year": 1966,
+    "cast": [
+      "Peter Noone",
+      "Shelley Fabares"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hold-on-.html"
+}

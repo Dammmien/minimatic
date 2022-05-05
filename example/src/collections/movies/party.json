@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Party",
+    "year": 1994,
+    "cast": [
+      "Gary Coleman",
+      "Floyd Harden"
+    ],
+    "genres": []
+  },
+  "output": "movies/party.html"
+}

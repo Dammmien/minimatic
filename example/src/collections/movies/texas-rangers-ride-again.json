@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Texas Rangers Ride Again",
+    "year": 1940,
+    "cast": [
+      "Ellen Drew",
+      "John Howard"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/texas-rangers-ride-again.html"
+}

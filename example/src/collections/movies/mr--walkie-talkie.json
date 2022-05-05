@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Walkie Talkie",
+    "year": 1952,
+    "cast": [
+      "William Tracy",
+      "Joe Sawyer",
+      "Margia Dean"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--walkie-talkie.html"
+}

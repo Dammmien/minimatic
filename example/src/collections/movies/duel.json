@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Duel",
+    "year": 1971,
+    "cast": [
+      "Dennis Weaver",
+      "Jacqueline Scott"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/duel.html"
+}

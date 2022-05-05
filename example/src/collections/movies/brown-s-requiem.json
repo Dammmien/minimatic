@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brown's Requiem",
+    "year": 1998,
+    "cast": [
+      "Michael Rooker",
+      "Selma Blair",
+      "Will Sasso"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/brown-s-requiem.html"
+}

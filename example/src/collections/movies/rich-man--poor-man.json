@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Rich Man, Poor Man",
+    "year": 1976,
+    "cast": [
+      "Nick Nolte",
+      "Peter Strauss",
+      "Susan Blakely",
+      "Ed Asner",
+      "Robert Reed",
+      "Fionnula Flanagan",
+      "Van Johnson",
+      "Bill Bixby",
+      "Kim Darby",
+      "Kay Lenz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rich-man--poor-man.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Others",
+    "year": 2001,
+    "cast": [
+      "Nicole Kidman",
+      "Alakina Mann",
+      "Christopher Eccleston"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-others.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Lemon Sisters",
+    "year": 1990,
+    "cast": [
+      "Diane Keaton",
+      "Carol Kane",
+      "Kathryn Grody",
+      "Aidan Quinn",
+      "Elliott Gould",
+      "Ruben Blades"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lemon-sisters.html"
+}

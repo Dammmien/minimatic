@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Pathology",
+    "year": 2008,
+    "cast": [
+      "Milo Ventimiglia",
+      "Michael Weston",
+      "Alyssa Milano",
+      "Lauren Lee Smith"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/pathology.html"
+}

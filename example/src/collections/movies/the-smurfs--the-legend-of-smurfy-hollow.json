@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Smurfs: The Legend of Smurfy Hollow",
+    "year": 2013,
+    "cast": [
+      "Fred Armisen",
+      "Melissa Sturm",
+      "Jack Angel",
+      "Alan Cumming",
+      "Anton Yelchin",
+      "Hank Azaria",
+      "Tom Kane"
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/the-smurfs--the-legend-of-smurfy-hollow.html"
+}

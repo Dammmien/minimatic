@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It's a Great Life",
+    "year": 1943,
+    "cast": [
+      "Penny Singleton",
+      "Arthur Lake"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-a-great-life.html"
+}

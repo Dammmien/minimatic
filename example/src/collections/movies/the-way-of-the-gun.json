@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Way of the Gun",
+    "year": 2000,
+    "cast": [
+      "Benicio del Toro",
+      "Ryan Phillippe"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-way-of-the-gun.html"
+}

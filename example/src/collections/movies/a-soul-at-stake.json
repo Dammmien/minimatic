@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Soul at Stake",
+    "year": 1916,
+    "cast": [
+      "Andrew Arbuckle",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-soul-at-stake.html"
+}

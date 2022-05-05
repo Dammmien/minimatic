@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "She Love Me Not",
+    "year": 1934,
+    "cast": [
+      "Miriam Hopkins",
+      "Bing Crosby",
+      "Kitty Carlisle"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-love-me-not.html"
+}

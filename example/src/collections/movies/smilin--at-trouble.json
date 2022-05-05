@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smilin' at Trouble",
+    "year": 1925,
+    "cast": [
+      "Maurice \"Lefty\" Flynn",
+      "Helen Lynch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/smilin--at-trouble.html"
+}

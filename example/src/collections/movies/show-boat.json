@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Show Boat",
+    "year": 1951,
+    "cast": [
+      "Howard Keel",
+      "Kathryn Grayson",
+      "Ava Gardner",
+      "Gower Champion",
+      "Marge Champion",
+      "Joe E. Brown"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/show-boat.html"
+}

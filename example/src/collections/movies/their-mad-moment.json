@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Their Mad Moment",
+    "year": 1931,
+    "cast": [
+      "Dorothy Mackaill",
+      "Warner Baxter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/their-mad-moment.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Austin Powers: International Man of Mystery",
+    "year": 1997,
+    "cast": [
+      "Mike Myers",
+      "Elizabeth Hurley",
+      "Michael York",
+      "Robert Wagner",
+      "Seth Green",
+      "Mindy Sterling",
+      "Mimi Rogers"
+    ],
+    "genres": [
+      "Spy",
+      "Comedy"
+    ]
+  },
+  "output": "movies/austin-powers--international-man-of-mystery.html"
+}

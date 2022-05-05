@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Skullduggery",
+    "year": 1970,
+    "cast": [
+      "Burt Reynolds",
+      "Susan Clark"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/skullduggery.html"
+}

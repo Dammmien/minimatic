@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Marlowe",
+    "year": 1969,
+    "cast": [
+      "James Garner",
+      "Rita Moreno",
+      "Gayle Hunnicutt",
+      "Carroll O'Connor",
+      "Bruce Lee"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/marlowe.html"
+}

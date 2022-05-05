@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last Ride",
+    "year": 1944,
+    "cast": [
+      "Eleanor Parker",
+      "Richard Travis"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-last-ride.html"
+}

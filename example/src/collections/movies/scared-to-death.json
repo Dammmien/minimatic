@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Scared to Death",
+    "year": 1947,
+    "cast": [
+      "Bela Lugosi",
+      "George Zucco",
+      "Molly Lamont"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/scared-to-death.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Year of the Fish",
+    "year": 2007,
+    "cast": [
+      "Tsai Chin",
+      "Ken Leung"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/year-of-the-fish.html"
+}

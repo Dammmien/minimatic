@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Crime School",
+    "year": 1938,
+    "cast": [
+      "Humphrey Bogart",
+      "Gale Page",
+      "Billy Halop"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/crime-school.html"
+}

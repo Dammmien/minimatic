@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Unpardonable Sin",
+    "year": 1919,
+    "cast": [
+      "Blanche Sweet",
+      "Mary Alden",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-unpardonable-sin.html"
+}

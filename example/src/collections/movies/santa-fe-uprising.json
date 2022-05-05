@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Santa Fe Uprising",
+    "year": 1946,
+    "cast": [
+      "Allan Lane",
+      "Martha Wentworth"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/santa-fe-uprising.html"
+}

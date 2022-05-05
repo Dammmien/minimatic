@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two Minutes to Play",
+    "year": 1936,
+    "cast": [
+      "Bruce Bennett",
+      "Edward Nugent",
+      "Betty Compson"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/two-minutes-to-play.html"
+}

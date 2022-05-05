@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Just Pals",
+    "year": 1920,
+    "cast": [
+      "Buck Jones",
+      "Helen Ferguson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/just-pals.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Way Street",
+    "year": 1950,
+    "cast": [
+      "James Mason",
+      "Märta Torén"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/one-way-street.html"
+}

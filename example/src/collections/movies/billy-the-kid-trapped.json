@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Billy the Kid Trapped",
+    "year": 1942,
+    "cast": [
+      "Buster Crabbe",
+      "Anne Jeffreys"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/billy-the-kid-trapped.html"
+}

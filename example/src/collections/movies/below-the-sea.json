@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Below the Sea",
+    "year": 1933,
+    "cast": [
+      "Ralph Bellamy",
+      "Fay Wray",
+      "Frederick Vodeding"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/below-the-sea.html"
+}

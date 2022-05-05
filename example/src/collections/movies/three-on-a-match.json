@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Three on a Match",
+    "year": 1932,
+    "cast": [
+      "Joan Blondell",
+      "Bette Davis",
+      "Humphrey Bogart"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/three-on-a-match.html"
+}

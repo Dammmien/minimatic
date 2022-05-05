@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The People Next Door",
+    "year": 1970,
+    "cast": [
+      "Eli Wallach",
+      "Julie Harris",
+      "Deborah Winters"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-people-next-door.html"
+}

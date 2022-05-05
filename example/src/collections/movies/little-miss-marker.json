@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Little Miss Marker",
+    "year": 1980,
+    "cast": [
+      "Walter Matthau",
+      "Julie Andrews",
+      "Bob Newhart",
+      "Tony Curtis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-miss-marker.html"
+}

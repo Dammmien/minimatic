@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Florentine Dagger",
+    "year": 1935,
+    "cast": [
+      "Donald Woods",
+      "Margaret Lindsay"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-florentine-dagger.html"
+}

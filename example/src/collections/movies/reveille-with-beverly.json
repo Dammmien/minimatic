@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Reveille with Beverly",
+    "year": 1943,
+    "cast": [
+      "Ann Miller",
+      "Franklin Pangborn",
+      "Larry Parks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/reveille-with-beverly.html"
+}

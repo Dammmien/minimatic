@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Born to Battle",
+    "year": 1935,
+    "cast": [
+      "Tom Tyler",
+      "Jean Carmen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/born-to-battle.html"
+}

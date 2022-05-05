@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Charlie Countryman",
+    "year": 2013,
+    "cast": [
+      "Shia LaBeouf",
+      "Evan Rachel Wood",
+      "Mads Mikkelsen",
+      "Rupert Grint",
+      "Vincent D'Onofrio",
+      "Melissa Leo"
+    ],
+    "genres": [
+      "Action",
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/charlie-countryman.html"
+}

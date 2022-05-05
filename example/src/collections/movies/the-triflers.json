@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Triflers",
+    "year": 1924,
+    "cast": [
+      "Mae Busch",
+      "Elliott Dexter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-triflers.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lucky Horseshoe",
+    "year": 1925,
+    "cast": [
+      "Tom Mix",
+      "Billie Dove"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-lucky-horseshoe.html"
+}

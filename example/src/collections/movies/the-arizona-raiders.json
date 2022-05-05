@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Arizona Raiders",
+    "year": 1936,
+    "cast": [
+      "Buster Crabbe",
+      "Raymond Hatton",
+      "Marsha Hunt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-arizona-raiders.html"
+}

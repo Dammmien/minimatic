@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Web",
+    "year": 1947,
+    "cast": [
+      "Vincent Price",
+      "Edmond O'Brien"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-web.html"
+}

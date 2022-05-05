@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No Place to Go",
+    "year": 1939,
+    "cast": [
+      "Dennis Morgan",
+      "Gloria Dickson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/no-place-to-go.html"
+}

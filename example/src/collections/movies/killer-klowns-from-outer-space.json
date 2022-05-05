@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Killer Klowns from Outer Space",
+    "year": 1988,
+    "cast": [
+      "Grant Cramer"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/killer-klowns-from-outer-space.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wiser Sex",
+    "year": 1932,
+    "cast": [
+      "Claudette Colbert",
+      "Melvyn Douglas"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-wiser-sex.html"
+}

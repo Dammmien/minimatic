@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Roman",
+    "year": 2006,
+    "cast": [
+      "Lucky McKee",
+      "Kristen Bell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/roman.html"
+}

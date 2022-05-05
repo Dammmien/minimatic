@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Vengeance of Durand",
+    "year": 1919,
+    "cast": [
+      "Alice Joyce",
+      "Gustav von Seyffertitz",
+      "Percy Marmont"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-vengeance-of-durand.html"
+}

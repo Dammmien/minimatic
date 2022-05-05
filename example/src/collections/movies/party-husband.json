@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Party Husband",
+    "year": 1931,
+    "cast": [
+      "Dorothy Mackaill",
+      "James Rennie",
+      "Dorothy Peterson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/party-husband.html"
+}

@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Hare Lift",
+    "year": 1952,
+    "cast": [],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/hare-lift.html"
+}

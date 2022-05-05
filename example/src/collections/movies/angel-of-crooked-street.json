@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Angel of Crooked Street",
+    "year": 1922,
+    "cast": [
+      "Alice Calhoun",
+      "William McCall"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/angel-of-crooked-street.html"
+}

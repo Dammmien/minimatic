@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Monsieur Verdoux",
+    "year": 1947,
+    "cast": [
+      "Charles Chaplin",
+      "Martha Raye",
+      "William Frawley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/monsieur-verdoux.html"
+}

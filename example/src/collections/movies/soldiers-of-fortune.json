@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Soldiers of Fortune",
+    "year": 1919,
+    "cast": [
+      "Wallace Beery",
+      "Ogden Crane"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/soldiers-of-fortune.html"
+}

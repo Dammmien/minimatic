@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Drums of Tahiti",
+    "year": 1954,
+    "cast": [
+      "Patricia Medina",
+      "Dennis O'Keefe"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/drums-of-tahiti.html"
+}

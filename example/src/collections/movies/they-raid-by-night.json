@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "They Raid by Night",
+    "year": 1942,
+    "cast": [
+      "Lyle Talbot",
+      "June Duprez"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/they-raid-by-night.html"
+}

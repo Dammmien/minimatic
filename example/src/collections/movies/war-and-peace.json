@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "War and Peace",
+    "year": 1956,
+    "cast": [
+      "Audrey Hepburn",
+      "Henry Fonda",
+      "Mel Ferrer",
+      "Vittorio Gassman",
+      "Herbert Lom",
+      "Anita Ekberg",
+      "Helmut Dantine",
+      "May Britt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/war-and-peace.html"
+}

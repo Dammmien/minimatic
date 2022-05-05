@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Outlaw Trail",
+    "year": 1944,
+    "cast": [
+      "Hoot Gibson",
+      "Bob Steele"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/outlaw-trail.html"
+}

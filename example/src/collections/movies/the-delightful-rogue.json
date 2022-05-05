@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Delightful Rogue",
+    "year": 1929,
+    "cast": [
+      "Rod La Rocque",
+      "Rita La Roy"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-delightful-rogue.html"
+}

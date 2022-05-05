@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Live My Life",
+    "year": 1935,
+    "cast": [
+      "Joan Crawford",
+      "Brian Aherne"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/i-live-my-life.html"
+}

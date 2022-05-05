@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tall Tale",
+    "year": 1995,
+    "cast": [
+      "Patrick Swayze",
+      "Oliver Platt",
+      "Scott Glenn",
+      "Nick Stahl"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/tall-tale.html"
+}

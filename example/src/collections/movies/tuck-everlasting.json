@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tuck Everlasting",
+    "year": 2002,
+    "cast": [
+      "Alexis Bledel",
+      "Jonathan Jackson",
+      "William Hurt",
+      "Sissy Spacek"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tuck-everlasting.html"
+}

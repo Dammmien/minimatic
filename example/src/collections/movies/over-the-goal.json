@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Over the Goal",
+    "year": 1937,
+    "cast": [
+      "William Hopper",
+      "June Travis"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/over-the-goal.html"
+}

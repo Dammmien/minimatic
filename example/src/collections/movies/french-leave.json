@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "French Leave",
+    "year": 1948,
+    "cast": [
+      "Jackie Cooper",
+      "Renee Godfrey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/french-leave.html"
+}

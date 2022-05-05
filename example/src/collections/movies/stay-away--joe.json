@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stay Away, Joe",
+    "year": 1968,
+    "cast": [
+      "Elvis Presley",
+      "Burgess Meredith",
+      "Katy Jurado"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/stay-away--joe.html"
+}

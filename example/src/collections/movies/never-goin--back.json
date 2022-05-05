@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Never Goin' Back",
+    "year": 2018,
+    "cast": [
+      "Maia Mitchell",
+      "Camila Morrone",
+      "Kyle Mooney",
+      "Joel Allen",
+      "Kendal Smith",
+      "Matthew Holcomb"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/never-goin--back.html"
+}

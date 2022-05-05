@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Parlor, Bedroom and Bath",
+    "year": 1931,
+    "cast": [
+      "Buster Keaton",
+      "Charlotte Greenwood",
+      "Reginald Denny"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/parlor--bedroom-and-bath.html"
+}

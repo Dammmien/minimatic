@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I'll Fix It",
+    "year": 1934,
+    "cast": [
+      "Jack Holt",
+      "Mona Barrie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-ll-fix-it.html"
+}

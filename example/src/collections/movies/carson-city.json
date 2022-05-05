@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Carson City",
+    "year": 1952,
+    "cast": [
+      "Randolph Scott",
+      "Raymond Massey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/carson-city.html"
+}

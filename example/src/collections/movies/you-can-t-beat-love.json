@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "You Can't Beat Love",
+    "year": 1937,
+    "cast": [
+      "Preston Foster",
+      "Joan Fontaine",
+      "Herbert Mundin"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-can-t-beat-love.html"
+}

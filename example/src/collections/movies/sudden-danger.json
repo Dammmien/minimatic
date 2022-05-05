@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sudden Danger",
+    "year": 1955,
+    "cast": [
+      "Bill Elliott",
+      "Beverly Garland"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/sudden-danger.html"
+}

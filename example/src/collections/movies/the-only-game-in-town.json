@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Only Game in Town",
+    "year": 1970,
+    "cast": [
+      "Elizabeth Taylor",
+      "Warren Beatty"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-only-game-in-town.html"
+}

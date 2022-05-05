@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ace of Spades",
+    "year": 1925,
+    "cast": [
+      "William Desmond",
+      "Mary McAllister"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/ace-of-spades.html"
+}

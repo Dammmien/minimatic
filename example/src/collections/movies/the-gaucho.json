@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gaucho",
+    "year": 1927,
+    "cast": [
+      "Douglas Fairbanks",
+      "Lupe Velez"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-gaucho.html"
+}

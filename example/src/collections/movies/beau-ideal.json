@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beau Ideal",
+    "year": 1931,
+    "cast": [
+      "Ralph Forbes",
+      "Loretta Young"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/beau-ideal.html"
+}

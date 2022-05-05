@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Storm Warning",
+    "year": 1951,
+    "cast": [
+      "Ronald Reagan",
+      "Doris Day",
+      "Ginger Rogers"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/storm-warning.html"
+}

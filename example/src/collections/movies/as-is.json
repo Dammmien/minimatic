@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "As Is",
+    "year": 1986,
+    "cast": [
+      "Colleen Dewhurst",
+      "Robert Carradine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/as-is.html"
+}

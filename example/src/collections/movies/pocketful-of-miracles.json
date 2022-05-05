@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Pocketful of Miracles",
+    "year": 1961,
+    "cast": [
+      "Bette Davis",
+      "Glenn Ford",
+      "Hope Lange",
+      "Peter Falk",
+      "Arthur O'Connell",
+      "Ann-Margret"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pocketful-of-miracles.html"
+}

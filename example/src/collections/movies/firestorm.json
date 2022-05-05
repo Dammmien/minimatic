@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Firestorm",
+    "year": 1998,
+    "cast": [
+      "Howie Long",
+      "Scott Glenn",
+      "William Forsythe",
+      "Suzy Amis"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/firestorm.html"
+}

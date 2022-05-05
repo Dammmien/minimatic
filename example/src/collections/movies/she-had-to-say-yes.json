@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "She Had to Say Yes",
+    "year": 1933,
+    "cast": [
+      "Loretta Young",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/she-had-to-say-yes.html"
+}

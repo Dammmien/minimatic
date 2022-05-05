@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Highway Dragnet",
+    "year": 1954,
+    "cast": [
+      "Richard Conte",
+      "Joan Bennett",
+      "Wanda Hendrix"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/highway-dragnet.html"
+}

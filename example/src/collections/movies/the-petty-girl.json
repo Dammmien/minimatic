@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Petty Girl",
+    "year": 1950,
+    "cast": [
+      "Robert Cummings",
+      "Joan Caulfield"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-petty-girl.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Waxwork II: Lost in Time",
+    "year": 1992,
+    "cast": [
+      "Bruce Campbell"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/waxwork-ii--lost-in-time.html"
+}

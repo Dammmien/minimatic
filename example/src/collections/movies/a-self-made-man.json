@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Self-Made Man",
+    "year": 1922,
+    "cast": [
+      "William Russell",
+      "Renee Adoree"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-self-made-man.html"
+}

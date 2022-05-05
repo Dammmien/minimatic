@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Loser",
+    "year": 2000,
+    "cast": [
+      "Jason Biggs",
+      "Mena Suvari",
+      "Greg Kinnear"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/loser.html"
+}

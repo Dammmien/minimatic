@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Adam's Rib",
+    "year": 1949,
+    "cast": [
+      "Spencer Tracy",
+      "Katharine Hepburn",
+      "David Wayne",
+      "Tom Ewell",
+      "Jean Hagen",
+      "Judy Holliday"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/adam-s-rib.html"
+}

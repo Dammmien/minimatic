@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Commando",
+    "year": 1985,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Rae Dawn Chong",
+      "Dan Hedaya",
+      "Vernon Wells",
+      "Bill Duke",
+      "David Patrick Kelly"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/commando.html"
+}

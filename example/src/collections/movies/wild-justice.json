@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild Justice",
+    "year": 1925,
+    "cast": [
+      "Frank Hagney",
+      "George Sherwood"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/wild-justice.html"
+}

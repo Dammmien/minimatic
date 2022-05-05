@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Blade: Trinity",
+    "year": 2004,
+    "cast": [
+      "Wesley Snipes",
+      "Jessica Biel",
+      "Ryan Reynolds",
+      "Kris Kristofferson",
+      "Dominic Purcell",
+      "Parker Posey",
+      "Triple H"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/blade--trinity.html"
+}

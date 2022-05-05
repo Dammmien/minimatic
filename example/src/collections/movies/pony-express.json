@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pony Express",
+    "year": 1953,
+    "cast": [
+      "Charlton Heston",
+      "Rhonda Fleming",
+      "Forrest Tucker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/pony-express.html"
+}

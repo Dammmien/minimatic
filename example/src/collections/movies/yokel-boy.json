@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yokel Boy",
+    "year": 1942,
+    "cast": [
+      "Joan Davis",
+      "Albert Dekker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/yokel-boy.html"
+}

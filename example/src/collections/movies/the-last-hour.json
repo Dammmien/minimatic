@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last Hour",
+    "year": 1923,
+    "cast": [
+      "Milton Sills",
+      "Carmel Myers"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-last-hour.html"
+}

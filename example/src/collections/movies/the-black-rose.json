@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Black Rose",
+    "year": 1950,
+    "cast": [
+      "Tyrone Power",
+      "Orson Welles"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/the-black-rose.html"
+}

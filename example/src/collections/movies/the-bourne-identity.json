@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Bourne Identity",
+    "year": 2002,
+    "cast": [
+      "Matt Damon",
+      "Franka Potente",
+      "Chris Cooper",
+      "Clive Owen",
+      "Brian Cox",
+      "Julia Stiles"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-bourne-identity.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fear and Desire",
+    "year": 1953,
+    "cast": [
+      "Frank Silvera",
+      "Paul Mazursky"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fear-and-desire.html"
+}

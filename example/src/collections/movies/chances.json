@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chances",
+    "year": 1931,
+    "cast": [
+      "Douglas Fairbanks Jr.",
+      "Rose Hobart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/chances.html"
+}

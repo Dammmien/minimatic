@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Nurse Betty",
+    "year": 2000,
+    "cast": [
+      "Morgan Freeman",
+      "Renée Zellweger",
+      "Chris Rock",
+      "Greg Kinnear"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nurse-betty.html"
+}

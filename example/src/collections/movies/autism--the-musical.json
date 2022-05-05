@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Autism: The Musical",
+    "year": 2007,
+    "cast": [
+      "Six months in the lives of five children with",
+      "autism",
+      "in Los Angeles"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/autism--the-musical.html"
+}

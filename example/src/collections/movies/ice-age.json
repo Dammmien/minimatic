@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ice Age",
+    "year": 2002,
+    "cast": [
+      "Ray Romano",
+      "John Leguizamo",
+      "Denis Leary"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/ice-age.html"
+}

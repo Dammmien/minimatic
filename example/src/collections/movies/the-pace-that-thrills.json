@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pace That Thrills",
+    "year": 1952,
+    "cast": [
+      "Bill Williams",
+      "Frank McHugh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-pace-that-thrills.html"
+}

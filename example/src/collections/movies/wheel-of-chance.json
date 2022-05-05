@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wheel of Chance",
+    "year": 1928,
+    "cast": [
+      "Richard Barthelmess",
+      "Bodil Rosing"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wheel-of-chance.html"
+}

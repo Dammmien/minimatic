@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Streets of Shanghai",
+    "year": 1927,
+    "cast": [
+      "Pauline Starke",
+      "Kenneth Harlan",
+      "Eddie Gribbon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/streets-of-shanghai.html"
+}

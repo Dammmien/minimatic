@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting Lawman",
+    "year": 1953,
+    "cast": [
+      "Wayne Morris",
+      "Virginia Grey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fighting-lawman.html"
+}

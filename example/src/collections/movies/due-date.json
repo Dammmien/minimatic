@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Due Date",
+    "year": 2010,
+    "cast": [
+      "Robert Downey Jr.",
+      "Zach Galifianakis",
+      "Michelle Monaghan",
+      "Juliette Lewis",
+      "Jamie Foxx",
+      "RZA",
+      "Alan Arkin",
+      "Matt Walsh",
+      "Danny McBride"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/due-date.html"
+}

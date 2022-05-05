@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Giant",
+    "year": 1998,
+    "cast": [
+      "Billy Crystal",
+      "Gheorghe Mureșan",
+      "Kathleen Quinlan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-giant.html"
+}

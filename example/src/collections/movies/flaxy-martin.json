@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flaxy Martin",
+    "year": 1949,
+    "cast": [
+      "Virginia Mayo",
+      "Dorothy Malone",
+      "Zachary Scott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flaxy-martin.html"
+}

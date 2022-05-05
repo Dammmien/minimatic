@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "True Heaven",
+    "year": 1929,
+    "cast": [
+      "George O'Brien",
+      "Lois Moran"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/true-heaven.html"
+}

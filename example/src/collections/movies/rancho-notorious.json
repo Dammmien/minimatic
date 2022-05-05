@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rancho Notorious",
+    "year": 1952,
+    "cast": [
+      "Marlene Dietrich",
+      "Arthur Kennedy",
+      "Mel Ferrer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rancho-notorious.html"
+}

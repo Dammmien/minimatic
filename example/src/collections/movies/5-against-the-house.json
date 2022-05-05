@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "5 Against the House",
+    "year": 1955,
+    "cast": [
+      "Kim Novak",
+      "Brian Keith"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/5-against-the-house.html"
+}

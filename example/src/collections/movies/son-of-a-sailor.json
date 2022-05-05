@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Son of a Sailor",
+    "year": 1933,
+    "cast": [
+      "Joe E. Brown",
+      "Jean Muir",
+      "Frank McHugh"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/son-of-a-sailor.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Street Fighter",
+    "year": 1994,
+    "cast": [
+      "Jean-Claude Van Damme",
+      "Raúl Juliá",
+      "Ming-Na Wen",
+      "Kylie Minogue",
+      "Damian Chapa",
+      "Byron Mann",
+      "Wes Studi"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/street-fighter.html"
+}

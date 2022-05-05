@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wizard of the Saddle",
+    "year": 1928,
+    "cast": [
+      "Buzz Barton",
+      "Milburn Morante"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wizard-of-the-saddle.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Look Who's Talking",
+    "year": 1989,
+    "cast": [
+      "John Travolta",
+      "Kirstie Alley",
+      "Olympia Dukakis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/look-who-s-talking.html"
+}

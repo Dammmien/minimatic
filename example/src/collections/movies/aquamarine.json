@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Aquamarine",
+    "year": 2006,
+    "cast": [
+      "Emma Roberts",
+      "Sara Paxton",
+      "JoJo"
+    ],
+    "genres": [
+      "Fantasy",
+      "Teen"
+    ]
+  },
+  "output": "movies/aquamarine.html"
+}

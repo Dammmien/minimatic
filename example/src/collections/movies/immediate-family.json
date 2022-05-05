@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Immediate Family",
+    "year": 1989,
+    "cast": [
+      "Glenn Close",
+      "James Woods",
+      "Mary Stuart Masterson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/immediate-family.html"
+}

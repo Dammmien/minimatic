@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "A.X.L.",
+    "year": 2018,
+    "cast": [
+      "Alex Neustaedter",
+      "Becky G",
+      "Alex MacNicoll",
+      "Thomas Jane",
+      "Lou Taylor Pucci",
+      "Patricia de Leon"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ]
+  },
+  "output": "movies/a-x-l-.html"
+}

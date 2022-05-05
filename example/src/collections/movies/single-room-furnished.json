@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Single Room Furnished",
+    "year": 1968,
+    "cast": [
+      "Jayne Mansfield"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/single-room-furnished.html"
+}

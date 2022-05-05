@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Devil-May-Care",
+    "year": 1929,
+    "cast": [
+      "Ramón Novarro",
+      "Dorothy Jordan"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/devil-may-care.html"
+}

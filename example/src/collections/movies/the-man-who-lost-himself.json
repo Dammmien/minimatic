@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Who Lost Himself",
+    "year": 1941,
+    "cast": [
+      "Brian Aherne",
+      "Kay Francis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-who-lost-himself.html"
+}

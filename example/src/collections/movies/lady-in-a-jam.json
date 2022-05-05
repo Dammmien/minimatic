@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady in a Jam",
+    "year": 1942,
+    "cast": [
+      "Irene Dunne",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lady-in-a-jam.html"
+}

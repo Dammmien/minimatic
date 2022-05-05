@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Grand Jury",
+    "year": 1936,
+    "cast": [
+      "Fred Stone",
+      "Louise Latimer",
+      "Owen Davis Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/grand-jury.html"
+}

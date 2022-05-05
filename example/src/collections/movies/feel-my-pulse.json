@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Feel My Pulse",
+    "year": 1928,
+    "cast": [
+      "Bebe Daniels",
+      "Richard Arlen",
+      "William Powell"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/feel-my-pulse.html"
+}

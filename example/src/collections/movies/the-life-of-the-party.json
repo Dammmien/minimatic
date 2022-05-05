@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Life of the Party",
+    "year": 1937,
+    "cast": [
+      "Billy Gilbert",
+      "Franklin Pangborn",
+      "Ann Miller"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-life-of-the-party.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bad Boy",
+    "year": 1949,
+    "cast": [
+      "Audie Murphy",
+      "Jane Wyatt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bad-boy.html"
+}

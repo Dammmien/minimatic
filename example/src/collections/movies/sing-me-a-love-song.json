@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sing Me a Love Song",
+    "year": 1936,
+    "cast": [
+      "James Melton",
+      "Patricia Ellis",
+      "ZaSu Pitts"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/sing-me-a-love-song.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Great Expectations",
+    "year": 1998,
+    "cast": [
+      "Ethan Hawke",
+      "Gwyneth Paltrow",
+      "Chris Cooper",
+      "Hank Azaria"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/great-expectations.html"
+}

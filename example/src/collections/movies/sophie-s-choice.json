@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sophie's Choice",
+    "year": 1982,
+    "cast": [
+      "Meryl Streep",
+      "Kevin Kline",
+      "Peter MacNicol"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sophie-s-choice.html"
+}

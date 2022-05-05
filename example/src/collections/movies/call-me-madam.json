@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Call Me Madam",
+    "year": 1953,
+    "cast": [
+      "Ethel Merman",
+      "Donald O'Connor",
+      "Vera-Ellen",
+      "Billy De Wolfe"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/call-me-madam.html"
+}

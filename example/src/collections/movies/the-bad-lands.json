@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bad Lands",
+    "year": 1925,
+    "cast": [
+      "Harry Carey",
+      "Wilfred Lucas"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-bad-lands.html"
+}

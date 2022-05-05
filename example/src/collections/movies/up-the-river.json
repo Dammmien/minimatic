@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Up the River",
+    "year": 1938,
+    "cast": [
+      "Preston Foster",
+      "Arthur Treacher",
+      "Phyllis Brooks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/up-the-river.html"
+}

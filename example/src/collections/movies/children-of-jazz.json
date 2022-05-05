@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Children of Jazz",
+    "year": 1923,
+    "cast": [
+      "Theodore Kosloff",
+      "Ricardo Cortez",
+      "Eileen Percy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/children-of-jazz.html"
+}

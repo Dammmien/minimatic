@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Virgin of Stamboul",
+    "year": 1920,
+    "cast": [
+      "Priscilla Dean",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-virgin-of-stamboul.html"
+}

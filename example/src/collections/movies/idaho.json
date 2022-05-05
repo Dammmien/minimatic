@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Idaho",
+    "year": 1943,
+    "cast": [
+      "Roy Rogers",
+      "Virginia Grey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/idaho.html"
+}

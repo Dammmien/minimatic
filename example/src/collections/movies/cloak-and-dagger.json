@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cloak and Dagger",
+    "year": 1946,
+    "cast": [
+      "Gary Cooper",
+      "Lilli Palmer",
+      "Robert Alda"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/cloak-and-dagger.html"
+}

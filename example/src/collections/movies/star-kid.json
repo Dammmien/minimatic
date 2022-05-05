@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Star Kid",
+    "year": 1997,
+    "cast": [
+      "Joseph Mazzello",
+      "Richard Gilliland"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/star-kid.html"
+}

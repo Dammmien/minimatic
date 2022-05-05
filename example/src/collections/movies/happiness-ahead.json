@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Happiness Ahead",
+    "year": 1934,
+    "cast": [
+      "Dick Powell",
+      "Josephine Hutchinson",
+      "Allen Jenkins"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/happiness-ahead.html"
+}

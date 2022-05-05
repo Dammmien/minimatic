@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Return to Paradise",
+    "year": 1998,
+    "cast": [
+      "Vince Vaughn",
+      "Joaquin Phoenix",
+      "Vera Farmiga"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/return-to-paradise.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bowery Champs",
+    "year": 1944,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Gabriel Dell"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/bowery-champs.html"
+}

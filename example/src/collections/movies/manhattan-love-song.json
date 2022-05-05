@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Manhattan Love Song",
+    "year": 1934,
+    "cast": [
+      "Robert Armstrong",
+      "Dixie Lee"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/manhattan-love-song.html"
+}

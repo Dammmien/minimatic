@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dick Turpin",
+    "year": 1925,
+    "cast": [
+      "Tom Mix",
+      "Philo McCullough"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/dick-turpin.html"
+}

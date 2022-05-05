@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Heat Lightning",
+    "year": 1934,
+    "cast": [
+      "Aline MacMahon",
+      "Ann Dvorak",
+      "Preston Foster"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/heat-lightning.html"
+}

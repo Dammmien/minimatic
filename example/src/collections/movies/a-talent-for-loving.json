@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Talent for Loving",
+    "year": 1969,
+    "cast": [
+      "Richard Widmark",
+      "Cesar Romero",
+      "Caroline Munro"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-talent-for-loving.html"
+}

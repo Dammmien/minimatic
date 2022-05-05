@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "An American Crime",
+    "year": 2007,
+    "cast": [
+      "Ellen Page",
+      "Catherine Keener"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/an-american-crime.html"
+}

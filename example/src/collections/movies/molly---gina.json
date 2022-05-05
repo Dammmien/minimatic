@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Molly & Gina",
+    "year": 1994,
+    "cast": [
+      "Frances Fisher",
+      "Peter Fonda"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/molly---gina.html"
+}

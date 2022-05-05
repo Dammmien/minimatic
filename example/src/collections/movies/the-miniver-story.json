@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Miniver Story",
+    "year": 1950,
+    "cast": [
+      "Greer Garson",
+      "Walter Pidgeon",
+      "Leo Genn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-miniver-story.html"
+}

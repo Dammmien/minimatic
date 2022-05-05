@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Devil's Rejects",
+    "year": 2005,
+    "cast": [
+      "Sid Haig",
+      "Bill Moseley",
+      "Sherri Moon",
+      "William Forsythe"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-devil-s-rejects.html"
+}

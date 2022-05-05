@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "You Said a Mouthful",
+    "year": 1932,
+    "cast": [
+      "Joe E. Brown",
+      "Ginger Rogers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-said-a-mouthful.html"
+}

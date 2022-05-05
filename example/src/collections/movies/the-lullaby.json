@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lullaby",
+    "year": 1924,
+    "cast": [
+      "Jane Novak",
+      "Robert Anderson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lullaby.html"
+}

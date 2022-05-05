@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Live Fast, Die Young",
+    "year": 1958,
+    "cast": [
+      "Mary Murphy",
+      "Norma Eberhardt",
+      "Mike Connors"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/live-fast--die-young.html"
+}

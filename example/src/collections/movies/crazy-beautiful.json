@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Crazy/Beautiful",
+    "year": 2001,
+    "cast": [
+      "Kirsten Dunst",
+      "Jay Hernandez",
+      "Bruce Davison"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/crazy-beautiful.html"
+}

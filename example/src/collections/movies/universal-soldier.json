@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Universal Soldier",
+    "year": 1992,
+    "cast": [
+      "Jean-Claude Van Damme",
+      "Dolph Lundgren",
+      "Ally Walker"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/universal-soldier.html"
+}

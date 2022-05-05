@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Little Murders",
+    "year": 1971,
+    "cast": [
+      "Elliott Gould",
+      "Marcia Rodd",
+      "Doris Roberts",
+      "Elizabeth Wilson",
+      "Vincent Gardenia"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-murders.html"
+}

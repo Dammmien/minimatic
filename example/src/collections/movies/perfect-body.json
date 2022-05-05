@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Perfect Body",
+    "year": 1997,
+    "cast": [
+      "Amy Jo Johnson",
+      "Cathy Rigby"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/perfect-body.html"
+}

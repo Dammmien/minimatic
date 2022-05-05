@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Snafu",
+    "year": 1945,
+    "cast": [
+      "Robert Benchley",
+      "Barbara Jo Allen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/snafu.html"
+}

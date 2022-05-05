@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "True to Life",
+    "year": 1943,
+    "cast": [
+      "Mary Martin",
+      "Dick Powell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/true-to-life.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lost Boundaries",
+    "year": 1949,
+    "cast": [
+      "Beatrice Pearson",
+      "Mel Ferrer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lost-boundaries.html"
+}

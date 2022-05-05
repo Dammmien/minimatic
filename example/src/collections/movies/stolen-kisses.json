@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stolen Kisses",
+    "year": 1929,
+    "cast": [
+      "May McAvoy",
+      "Hallam Cooley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stolen-kisses.html"
+}

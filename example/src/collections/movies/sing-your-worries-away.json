@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sing Your Worries Away",
+    "year": 1942,
+    "cast": [
+      "Buddy Ebsen",
+      "Patsy Kelly",
+      "Bert Lahr"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/sing-your-worries-away.html"
+}

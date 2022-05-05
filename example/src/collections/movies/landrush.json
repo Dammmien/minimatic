@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Landrush",
+    "year": 1946,
+    "cast": [
+      "Charles Starrett",
+      "Smiley Burnette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/landrush.html"
+}

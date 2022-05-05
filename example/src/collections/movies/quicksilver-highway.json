@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Quicksilver Highway",
+    "year": 1997,
+    "cast": [
+      "Christopher Lloyd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/quicksilver-highway.html"
+}

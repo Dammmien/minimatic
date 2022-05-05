@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jive Junction",
+    "year": 1943,
+    "cast": [
+      "Dickie Moore",
+      "Tina Thayer"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/jive-junction.html"
+}

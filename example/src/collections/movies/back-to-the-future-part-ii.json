@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Back to the Future Part II",
+    "year": 1989,
+    "cast": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Comedy"
+    ]
+  },
+  "output": "movies/back-to-the-future-part-ii.html"
+}

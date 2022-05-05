@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "On with the Show",
+    "year": 1921,
+    "cast": [
+      "Baby Peggy"
+    ],
+    "genres": []
+  },
+  "output": "movies/on-with-the-show.html"
+}

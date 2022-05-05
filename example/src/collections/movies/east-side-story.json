@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "East Side Story",
+    "year": 2006,
+    "cast": [
+      "René Alvarado",
+      "Steve Callahan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/east-side-story.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Snake Pit",
+    "year": 1948,
+    "cast": [
+      "Olivia de Havilland",
+      "Leo Genn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-snake-pit.html"
+}

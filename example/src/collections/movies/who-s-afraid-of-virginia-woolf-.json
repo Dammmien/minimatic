@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Who's Afraid of Virginia Woolf?",
+    "year": 1966,
+    "cast": [
+      "Elizabeth Taylor",
+      "Richard Burton",
+      "Sandy Dennis",
+      "George Segal"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/who-s-afraid-of-virginia-woolf-.html"
+}

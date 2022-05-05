@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nancy from Nowhere",
+    "year": 1922,
+    "cast": [
+      "Bebe Daniels",
+      "Eddie Sutherland"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/nancy-from-nowhere.html"
+}

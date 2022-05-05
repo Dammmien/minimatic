@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Our Better Selves",
+    "year": 1919,
+    "cast": [
+      "Fannie Ward",
+      "Lew Cody"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/our-better-selves.html"
+}

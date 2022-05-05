@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hi, Neighbor",
+    "year": 1942,
+    "cast": [
+      "Jean Parker",
+      "Janet Beecher"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hi--neighbor.html"
+}

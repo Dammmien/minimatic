@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Titus",
+    "year": 1999,
+    "cast": [
+      "Anthony Hopkins",
+      "Jessica Lange",
+      "Alan Cumming"
+    ],
+    "genres": []
+  },
+  "output": "movies/titus.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Arthur 2: On the Rocks",
+    "year": 1988,
+    "cast": [
+      "Dudley Moore",
+      "Liza Minnelli",
+      "John Gielgud",
+      "Geraldine Fitzgerald",
+      "Kathy Bates"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/arthur-2--on-the-rocks.html"
+}

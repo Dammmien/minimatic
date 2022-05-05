@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Second Chance",
+    "year": 2006,
+    "cast": [
+      "Michael W. Smith",
+      "Jeff Obafemi Carr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-second-chance.html"
+}

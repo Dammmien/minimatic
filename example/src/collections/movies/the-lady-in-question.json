@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lady in Question",
+    "year": 1940,
+    "cast": [
+      "Glenn Ford",
+      "Rita Hayworth"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-lady-in-question.html"
+}

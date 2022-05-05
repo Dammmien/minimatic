@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Maisie",
+    "year": 1939,
+    "cast": [
+      "Robert Young",
+      "Ann Sothern",
+      "Ruth Hussey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/maisie.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Shoes of the Fisherman",
+    "year": 1968,
+    "cast": [
+      "Anthony Quinn",
+      "Laurence Olivier",
+      "David Janssen",
+      "Oskar Werner",
+      "Leo McKern",
+      "John Gielgud"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-shoes-of-the-fisherman.html"
+}

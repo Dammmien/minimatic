@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sheriff of Cimarron",
+    "year": 1945,
+    "cast": [
+      "Sunset Carson",
+      "Linda Stirling"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sheriff-of-cimarron.html"
+}

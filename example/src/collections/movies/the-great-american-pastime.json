@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great American Pastime",
+    "year": 1956,
+    "cast": [
+      "Tom Ewell",
+      "Ann Miller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-great-american-pastime.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Other Side of Midnight",
+    "year": 1977,
+    "cast": [
+      "Marie-France Pisier",
+      "Susan Sarandon",
+      "John Beck",
+      "Clu Gulager",
+      "Michael Lerner",
+      "Raf Vallone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-other-side-of-midnight.html"
+}

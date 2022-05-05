@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Off the Highway",
+    "year": 1925,
+    "cast": [
+      "William V. Mong",
+      "Marguerite De La Motte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/off-the-highway.html"
+}

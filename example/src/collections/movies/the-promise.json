@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Promise",
+    "year": 2017,
+    "cast": [
+      "Oscar Isaac",
+      "Charlotte Le Bon",
+      "Christian Bale",
+      "Daniel Giménez Cacho",
+      "Shohreh Aghdashloo",
+      "Rade Šerbedžija"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-promise.html"
+}

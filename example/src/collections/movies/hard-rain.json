@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hard Rain",
+    "year": 1998,
+    "cast": [
+      "Morgan Freeman",
+      "Christian Slater",
+      "Randy Quaid",
+      "Minnie Driver"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/hard-rain.html"
+}

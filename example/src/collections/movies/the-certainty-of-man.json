@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Certainty of Man",
+    "year": 1914,
+    "cast": [
+      "Charlotte Burton",
+      "Sydney Ayres",
+      "Chick Morrison"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-certainty-of-man.html"
+}

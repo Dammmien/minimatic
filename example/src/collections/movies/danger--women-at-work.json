@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Danger! Women at Work",
+    "year": 1943,
+    "cast": [
+      "Patsy Kelly",
+      "Mary Brian",
+      "Isabel Jewell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/danger--women-at-work.html"
+}

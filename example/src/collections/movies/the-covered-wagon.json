@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Covered Wagon",
+    "year": 1923,
+    "cast": [
+      "J. Warren Kerrigan",
+      "Lois Wilson",
+      "Alan Hale"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-covered-wagon.html"
+}

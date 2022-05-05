@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thunder Island",
+    "year": 1963,
+    "cast": [
+      "Gene Nelson",
+      "Fay Spain"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thunder-island.html"
+}

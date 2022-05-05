@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The End of Violence",
+    "year": 1997,
+    "cast": [
+      "Bill Pullman",
+      "Andie MacDowell",
+      "Gabriel Byrne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-end-of-violence.html"
+}

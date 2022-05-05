@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mysterious Avenger",
+    "year": 1936,
+    "cast": [
+      "Charles Starrett",
+      "Joan Perry"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-mysterious-avenger.html"
+}

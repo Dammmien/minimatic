@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dogfight",
+    "year": 1991,
+    "cast": [
+      "River Phoenix",
+      "Lili Taylor"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/dogfight.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lights of the Desert",
+    "year": 1922,
+    "cast": [
+      "Shirley Mason",
+      "Allan Forrest"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lights-of-the-desert.html"
+}

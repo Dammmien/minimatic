@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man from Colorado",
+    "year": 1948,
+    "cast": [
+      "William Holden",
+      "Glenn Ford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-man-from-colorado.html"
+}

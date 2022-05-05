@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love That Brute",
+    "year": 1950,
+    "cast": [
+      "Jean Peters",
+      "Paul Douglas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-that-brute.html"
+}

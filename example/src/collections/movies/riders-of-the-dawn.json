@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riders of the Dawn",
+    "year": 1945,
+    "cast": [
+      "Jimmy Wakely",
+      "Sarah Padden"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/riders-of-the-dawn.html"
+}

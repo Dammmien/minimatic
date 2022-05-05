@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Kick-Off",
+    "year": 1926,
+    "cast": [
+      "George Walsh",
+      "Leila Hyams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-kick-off.html"
+}

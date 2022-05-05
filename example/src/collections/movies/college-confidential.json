@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "College Confidential",
+    "year": 1960,
+    "cast": [
+      "Steve Allen",
+      "Mamie Van Doren",
+      "Herbert Marshall",
+      "Jayne Meadows"
+    ],
+    "genres": [
+      "Teen"
+    ]
+  },
+  "output": "movies/college-confidential.html"
+}

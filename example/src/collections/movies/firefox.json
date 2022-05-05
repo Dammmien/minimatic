@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Firefox",
+    "year": 1982,
+    "cast": [
+      "Clint Eastwood",
+      "Nigel Hawthorne"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/firefox.html"
+}

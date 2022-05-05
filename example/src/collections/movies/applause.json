@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Applause",
+    "year": 1929,
+    "cast": [
+      "Helen Morgan",
+      "Joan Peers"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/applause.html"
+}

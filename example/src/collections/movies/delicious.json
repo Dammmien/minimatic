@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Delicious",
+    "year": 1931,
+    "cast": [
+      "Janet Gaynor",
+      "Charles Farrell",
+      "Virginia Cherrill"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/delicious.html"
+}

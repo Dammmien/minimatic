@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Sugar Hill",
+    "year": 1994,
+    "cast": [
+      "Wesley Snipes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sugar-hill.html"
+}

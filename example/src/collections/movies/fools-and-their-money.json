@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fools and Their Money",
+    "year": 1919,
+    "cast": [
+      "Emmy Wehlen",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fools-and-their-money.html"
+}

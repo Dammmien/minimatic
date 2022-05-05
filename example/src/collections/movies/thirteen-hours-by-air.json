@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thirteen Hours by Air",
+    "year": 1936,
+    "cast": [
+      "Fred MacMurray",
+      "Joan Bennett",
+      "ZaSu Pitts"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thirteen-hours-by-air.html"
+}

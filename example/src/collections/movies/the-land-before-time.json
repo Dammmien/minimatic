@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Land Before Time",
+    "year": 1988,
+    "cast": [
+      "Gabriel Damon",
+      "Candace Hutson",
+      "Judith Barsi",
+      "Will Ryan",
+      "Helen Shaver"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-land-before-time.html"
+}

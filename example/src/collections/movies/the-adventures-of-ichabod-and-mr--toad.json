@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Adventures of Ichabod and Mr. Toad",
+    "year": 1949,
+    "cast": [
+      "Bing Crosby",
+      "Eric Blore",
+      "Basil Rathbone"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-adventures-of-ichabod-and-mr--toad.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Joy Ride",
+    "year": 2001,
+    "cast": [
+      "Paul Walker",
+      "Steve Zahn",
+      "Leelee Sobieski"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/joy-ride.html"
+}

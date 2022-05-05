@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Without Love",
+    "year": 1945,
+    "cast": [
+      "Spencer Tracy",
+      "Katharine Hepburn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/without-love.html"
+}

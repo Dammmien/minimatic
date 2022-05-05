@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bulldog Drummond",
+    "year": 1929,
+    "cast": [
+      "Ronald Colman",
+      "Claud Allister",
+      "Lawrence Grant",
+      "Montagu Love"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bulldog-drummond.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last of the Fast Guns",
+    "year": 1958,
+    "cast": [
+      "Jock Mahoney",
+      "Gilbert Roland",
+      "Linda Cristal"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-last-of-the-fast-guns.html"
+}

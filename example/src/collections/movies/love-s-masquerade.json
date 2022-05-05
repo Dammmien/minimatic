@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love's Masquerade",
+    "year": 1922,
+    "cast": [
+      "Conway Tearle",
+      "Winifred Westover"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-s-masquerade.html"
+}

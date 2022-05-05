@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Henry and Dizzy",
+    "year": 1942,
+    "cast": [
+      "Jimmy Lydon",
+      "Mary Anderson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/henry-and-dizzy.html"
+}

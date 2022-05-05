@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "California Suite",
+    "year": 1978,
+    "cast": [
+      "Jane Fonda",
+      "Alan Alda",
+      "Maggie Smith",
+      "Michael Caine",
+      "Bill Cosby",
+      "Richard Pryor",
+      "Walter Matthau"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/california-suite.html"
+}

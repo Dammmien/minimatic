@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "UFO: Target Earth",
+    "year": 1974,
+    "cast": [
+      "Nick Plakias",
+      "Cynthia Cline"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/ufo--target-earth.html"
+}

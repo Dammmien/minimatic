@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The African Queen",
+    "year": 1951,
+    "cast": [
+      "Humphrey Bogart",
+      "Katharine Hepburn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-african-queen.html"
+}

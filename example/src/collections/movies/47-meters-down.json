@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "47 Meters Down",
+    "year": 2017,
+    "cast": [
+      "Mandy Moore",
+      "Claire Holt",
+      "Matthew Modine"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/47-meters-down.html"
+}

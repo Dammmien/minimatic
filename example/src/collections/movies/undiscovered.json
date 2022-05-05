@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Undiscovered",
+    "year": 2005,
+    "cast": [
+      "Pell James",
+      "Steven Strait",
+      "Ashlee Simpson",
+      "Kip Pardue"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/undiscovered.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Visiting Hours",
+    "year": 1982,
+    "cast": [
+      "Michael Ironside",
+      "Lee Grant"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/visiting-hours.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Brooklyn's Finest",
+    "year": 2010,
+    "cast": [
+      "Richard Gere",
+      "Don Cheadle",
+      "Ethan Hawke",
+      "Wesley Snipes"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/brooklyn-s-finest.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Case of the Black Cat",
+    "year": 1936,
+    "cast": [
+      "Ricardo Cortez",
+      "June Travis",
+      "Guy Usher"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-case-of-the-black-cat.html"
+}

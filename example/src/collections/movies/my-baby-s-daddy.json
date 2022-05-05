@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "My Baby's Daddy",
+    "year": 2004,
+    "cast": [
+      "Eddie Griffin",
+      "Anthony Anderson",
+      "Michael Imperioli",
+      "Method Man"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-baby-s-daddy.html"
+}

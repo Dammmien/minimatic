@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Song of Mexico",
+    "year": 1945,
+    "cast": [
+      "Adele Mara",
+      "Edgar Barrier"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/song-of-mexico.html"
+}

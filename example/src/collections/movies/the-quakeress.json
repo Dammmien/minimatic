@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Quakeress",
+    "year": 1913,
+    "cast": [
+      "Louise Glaum"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-quakeress.html"
+}

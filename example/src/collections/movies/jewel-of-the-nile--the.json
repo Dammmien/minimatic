@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jewel of the Nile, The",
+    "year": 1985,
+    "cast": [
+      "Kathleen Turner",
+      "Michael Douglas",
+      "Danny DeVito"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/jewel-of-the-nile--the.html"
+}

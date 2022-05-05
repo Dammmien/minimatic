@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Two Mules for Sister Sara",
+    "year": 1970,
+    "cast": [
+      "Clint Eastwood",
+      "Shirley MacLaine"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/two-mules-for-sister-sara.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rune",
+    "year": 2006,
+    "cast": [
+      "Anna Bäumer",
+      "Bill Wise"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rune.html"
+}

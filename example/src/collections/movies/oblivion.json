@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Oblivion",
+    "year": 2013,
+    "cast": [
+      "Tom Cruise",
+      "Olga Kurylenko",
+      "Andrea Riseborough",
+      "Morgan Freeman",
+      "Nikolaj Coster-Waldau",
+      "Melissa Leo",
+      "Zoë Bell"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/oblivion.html"
+}

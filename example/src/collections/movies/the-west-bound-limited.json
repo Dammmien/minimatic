@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The West~Bound Limited",
+    "year": 1923,
+    "cast": [
+      "Ralph Lewis",
+      "Claire McDowell",
+      "Ella Hall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-west-bound-limited.html"
+}

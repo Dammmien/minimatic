@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Mud",
+    "year": 2013,
+    "cast": [
+      "Matthew McConaughey",
+      "Tye Sheridan",
+      "Sam Shepard",
+      "Michael Shannon",
+      "Joe Don Baker",
+      "Ray McKinnon",
+      "Sarah Paulson",
+      "Paul Sparks",
+      "Jacob Lofland",
+      "Reese Witherspoon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mud.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Summertree",
+    "year": 1971,
+    "cast": [
+      "Michael Douglas",
+      "Brenda Vaccaro"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/summertree.html"
+}

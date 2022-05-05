@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The White Desert",
+    "year": 1925,
+    "cast": [
+      "Claire Windsor",
+      "Robert Frazer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-white-desert.html"
+}

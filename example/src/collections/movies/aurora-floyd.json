@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Aurora Floyd",
+    "year": 1912,
+    "cast": [
+      "William Garwood",
+      "Florence La Badie",
+      "Harry Benham"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/aurora-floyd.html"
+}

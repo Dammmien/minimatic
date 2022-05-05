@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Changing Lanes",
+    "year": 2002,
+    "cast": [
+      "Ben Affleck",
+      "Samuel L. Jackson",
+      "Toni Collette"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/changing-lanes.html"
+}

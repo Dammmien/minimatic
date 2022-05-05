@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Flirting with Fate",
+    "year": 1938,
+    "cast": [
+      "Joe E. Brown",
+      "Beverly Roberts",
+      "Wynne Gibson",
+      "Steffi Duna"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/flirting-with-fate.html"
+}

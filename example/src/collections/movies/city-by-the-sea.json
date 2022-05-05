@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "City by the Sea",
+    "year": 2002,
+    "cast": [
+      "Robert De Niro",
+      "James Franco",
+      "Eliza Dushku",
+      "Frances McDormand"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/city-by-the-sea.html"
+}

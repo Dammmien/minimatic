@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Is a Ball",
+    "year": 1963,
+    "cast": [
+      "Glenn Ford",
+      "Hope Lange",
+      "Telly Savalas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-is-a-ball.html"
+}

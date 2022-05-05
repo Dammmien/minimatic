@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Denver and Rio Grande",
+    "year": 1952,
+    "cast": [
+      "Edmond O'Brien",
+      "Sterling Hayden",
+      "Dean Jagger"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/denver-and-rio-grande.html"
+}

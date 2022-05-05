@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild Gold",
+    "year": 1934,
+    "cast": [
+      "John Boles",
+      "Claire Trevor"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/wild-gold.html"
+}

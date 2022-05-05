@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Old Kentucky Home",
+    "year": 1938,
+    "cast": [
+      "Evelyn Venable",
+      "Grant Richards"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/my-old-kentucky-home.html"
+}

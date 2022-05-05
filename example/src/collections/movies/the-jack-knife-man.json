@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Jack-Knife Man",
+    "year": 1920,
+    "cast": [
+      "F. A. Turner",
+      "Harry Todd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-jack-knife-man.html"
+}

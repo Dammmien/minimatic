@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Men of Zanzibar",
+    "year": 1922,
+    "cast": [
+      "William Russell",
+      "Ruth Renick"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-men-of-zanzibar.html"
+}

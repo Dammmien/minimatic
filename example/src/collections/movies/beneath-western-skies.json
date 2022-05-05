@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beneath Western Skies",
+    "year": 1944,
+    "cast": [
+      "Robert Livingston",
+      "Smiley Burnette",
+      "Effie Laird"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/beneath-western-skies.html"
+}

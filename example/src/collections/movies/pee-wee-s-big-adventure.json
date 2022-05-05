@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Pee-wee's Big Adventure",
+    "year": 1985,
+    "cast": [
+      "Paul Reubens",
+      "Elizabeth Daily",
+      "Mark Holton",
+      "Jan Hooks",
+      "Morgan Fairchild",
+      "James Brolin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pee-wee-s-big-adventure.html"
+}

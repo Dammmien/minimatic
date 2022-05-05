@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Upside of Anger",
+    "year": 2005,
+    "cast": [
+      "Joan Allen",
+      "Kevin Costner",
+      "Erika Christensen",
+      "Evan Rachel Wood",
+      "Keri Russell",
+      "Alicia Witt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-upside-of-anger.html"
+}

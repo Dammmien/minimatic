@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Harry and the Hendersons",
+    "year": 1987,
+    "cast": [
+      "John Lithgow",
+      "Melinda Dillon",
+      "Don Ameche"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/harry-and-the-hendersons.html"
+}

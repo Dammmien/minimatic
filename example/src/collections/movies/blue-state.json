@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blue State",
+    "year": 2007,
+    "cast": [
+      "Anna Paquin",
+      "Breckin Meyer"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/blue-state.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Duel on the Mississippi",
+    "year": 1955,
+    "cast": [
+      "Lex Barker",
+      "Patricia Medina"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/duel-on-the-mississippi.html"
+}

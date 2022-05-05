@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spencer's Mountain",
+    "year": 1963,
+    "cast": [
+      "Henry Fonda",
+      "Maureen O'Hara"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/spencer-s-mountain.html"
+}

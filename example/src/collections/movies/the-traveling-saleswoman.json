@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Traveling Saleswoman",
+    "year": 1950,
+    "cast": [
+      "Joan Davis",
+      "Andy Devine",
+      "Adele Jergens"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-traveling-saleswoman.html"
+}

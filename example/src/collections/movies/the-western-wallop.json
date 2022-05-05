@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Western Wallop",
+    "year": 1924,
+    "cast": [
+      "Jack Hoxie",
+      "Margaret Landis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-western-wallop.html"
+}

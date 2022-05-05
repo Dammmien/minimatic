@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thumb Tripping",
+    "year": 1972,
+    "cast": [
+      "Bruce Dern",
+      "Meg Foster"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thumb-tripping.html"
+}

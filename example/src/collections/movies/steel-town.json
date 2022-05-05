@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Steel Town",
+    "year": 1952,
+    "cast": [
+      "John Lund",
+      "Ann Sheridan",
+      "Howard Duff"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/steel-town.html"
+}

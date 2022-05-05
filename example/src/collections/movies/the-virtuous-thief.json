@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Virtuous Thief",
+    "year": 1919,
+    "cast": [
+      "Enid Bennett",
+      "Niles Welch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-virtuous-thief.html"
+}

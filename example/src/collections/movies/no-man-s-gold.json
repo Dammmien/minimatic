@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No Man's Gold",
+    "year": 1926,
+    "cast": [
+      "Tom Mix",
+      "Eva Novak"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/no-man-s-gold.html"
+}

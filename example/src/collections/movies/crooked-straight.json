@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crooked Straight",
+    "year": 1919,
+    "cast": [
+      "Charles Ray",
+      "Wade Boteler"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/crooked-straight.html"
+}

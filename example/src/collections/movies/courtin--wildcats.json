@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Courtin' Wildcats",
+    "year": 1929,
+    "cast": [
+      "Hoot Gibson",
+      "Harry Todd"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/courtin--wildcats.html"
+}

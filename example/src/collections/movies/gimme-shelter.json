@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Gimme Shelter",
+    "year": 1970,
+    "cast": [
+      "The Rolling Stones"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/gimme-shelter.html"
+}

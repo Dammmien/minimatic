@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Public Defender",
+    "year": 1931,
+    "cast": [
+      "Richard Dix",
+      "Shirley Grey"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-public-defender.html"
+}

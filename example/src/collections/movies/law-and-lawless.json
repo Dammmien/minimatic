@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Law and Lawless",
+    "year": 1932,
+    "cast": [
+      "Jack Hoxie",
+      "Julian Rivero"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/law-and-lawless.html"
+}

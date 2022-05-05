@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Where the Red Fern Grows",
+    "year": 1974,
+    "cast": [
+      "James Whitmore",
+      "Beverly Garland"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/where-the-red-fern-grows.html"
+}

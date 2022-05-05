@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Waiting Game",
+    "year": 1999,
+    "cast": [
+      "Will Arnett",
+      "Dwight Ewell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-waiting-game.html"
+}

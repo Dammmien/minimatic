@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Robin and Marian",
+    "year": 1976,
+    "cast": [
+      "Sean Connery",
+      "Audrey Hepburn"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/robin-and-marian.html"
+}

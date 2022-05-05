@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Young and the Brave",
+    "year": 1963,
+    "cast": [
+      "Rory Calhoun",
+      "William Bendix"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-young-and-the-brave.html"
+}

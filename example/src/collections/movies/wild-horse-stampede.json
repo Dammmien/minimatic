@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wild Horse Stampede",
+    "year": 1943,
+    "cast": [
+      "Ken Maynard",
+      "Hoot Gibson",
+      "Betty Miles"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wild-horse-stampede.html"
+}

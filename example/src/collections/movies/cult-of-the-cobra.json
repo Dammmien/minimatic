@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cult of the Cobra",
+    "year": 1955,
+    "cast": [
+      "Faith Domergue",
+      "Richard Long"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/cult-of-the-cobra.html"
+}

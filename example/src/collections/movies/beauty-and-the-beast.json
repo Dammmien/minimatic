@@ -1,0 +1,27 @@
+{
+  "data": {
+    "title": "Beauty and the Beast",
+    "year": 2017,
+    "cast": [
+      "Emma Watson",
+      "Dan Stevens",
+      "Luke Evans",
+      "Ewan McGregor",
+      "Ian McKellen",
+      "Emma Thompson",
+      "Kevin Kline",
+      "Stanley Tucci",
+      "Josh Gad",
+      "Audra McDonald",
+      "Gugu Mbatha-Raw"
+    ],
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Musical",
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/beauty-and-the-beast.html"
+}

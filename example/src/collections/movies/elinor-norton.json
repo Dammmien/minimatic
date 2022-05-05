@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Elinor Norton",
+    "year": 1934,
+    "cast": [
+      "Claire Trevor",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/elinor-norton.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Six-Gun Serenade",
+    "year": 1947,
+    "cast": [
+      "Jimmy Wakely",
+      "Kay Morley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/six-gun-serenade.html"
+}

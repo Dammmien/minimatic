@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Dead Pit",
+    "year": 1989,
+    "cast": [
+      "Jeremy Slate"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-dead-pit.html"
+}

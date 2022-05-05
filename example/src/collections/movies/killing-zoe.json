@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Killing Zoe",
+    "year": 1994,
+    "cast": [
+      "Eric Stoltz",
+      "Julie Delpy"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/killing-zoe.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Face at the Window",
+    "year": 1913,
+    "cast": [
+      "Earle Foxe",
+      "Irene Boyle",
+      "Stuart Holmes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-face-at-the-window.html"
+}

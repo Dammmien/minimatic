@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tenth Avenue Angel",
+    "year": 1948,
+    "cast": [
+      "Margaret O'Brien",
+      "Angela Lansbury"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tenth-avenue-angel.html"
+}

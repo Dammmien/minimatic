@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bridge",
+    "year": 2006,
+    "cast": [
+      "suicide",
+      "at",
+      "Golden Gate Bridge"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-bridge.html"
+}

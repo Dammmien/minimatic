@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Double Team",
+    "year": 1997,
+    "cast": [
+      "Jean-Claude Van Damme",
+      "Dennis Rodman",
+      "Mickey Rourke"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/double-team.html"
+}

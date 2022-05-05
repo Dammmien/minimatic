@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Key",
+    "year": 1958,
+    "cast": [
+      "Sophia Loren",
+      "William Holden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-key.html"
+}

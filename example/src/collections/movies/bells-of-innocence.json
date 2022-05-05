@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bells of Innocence",
+    "year": 2003,
+    "cast": [
+      "Mike Norris",
+      "Marshall R. Teague",
+      "Chuck Norris"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/bells-of-innocence.html"
+}

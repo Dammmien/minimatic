@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Bucket of Blood",
+    "year": 1995,
+    "cast": [
+      "Anthony Michael Hall",
+      "Paul Bartel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-bucket-of-blood.html"
+}

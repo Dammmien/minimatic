@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Blue Chips",
+    "year": 1994,
+    "cast": [
+      "Nick Nolte",
+      "Mary McDonnell",
+      "Shaquille O'Neal",
+      "Alfre Woodard",
+      "Ed O'Neill",
+      "J. T. Walsh"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/blue-chips.html"
+}

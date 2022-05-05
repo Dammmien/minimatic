@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Diamond Frontier",
+    "year": 1940,
+    "cast": [
+      "Victor McLaglen",
+      "John Loder",
+      "Anne Nagel"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/diamond-frontier.html"
+}

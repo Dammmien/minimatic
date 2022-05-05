@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bad Lieutenant",
+    "year": 1992,
+    "cast": [
+      "Harvey Keitel",
+      "Victor Argo"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/bad-lieutenant.html"
+}

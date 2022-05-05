@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rough Riders of Durango",
+    "year": 1951,
+    "cast": [
+      "Allan Lane",
+      "Aline Towne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rough-riders-of-durango.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dear Ruth",
+    "year": 1947,
+    "cast": [
+      "Joan Caulfield",
+      "William Holden",
+      "Mona Freeman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dear-ruth.html"
+}

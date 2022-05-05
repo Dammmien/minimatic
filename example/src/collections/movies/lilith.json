@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lilith",
+    "year": 1964,
+    "cast": [
+      "Warren Beatty",
+      "Jean Seberg",
+      "Peter Fonda"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lilith.html"
+}

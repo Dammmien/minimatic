@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Family Man",
+    "year": 2000,
+    "cast": [
+      "Nicolas Cage",
+      "Téa Leoni",
+      "Don Cheadle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-family-man.html"
+}

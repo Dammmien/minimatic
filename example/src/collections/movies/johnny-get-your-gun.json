@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Johnny Get Your Gun",
+    "year": 1919,
+    "cast": [
+      "Fred Stone",
+      "James Cruze"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/johnny-get-your-gun.html"
+}

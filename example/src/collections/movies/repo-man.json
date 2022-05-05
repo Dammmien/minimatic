@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Repo Man",
+    "year": 1984,
+    "cast": [
+      "Emilio Estevez",
+      "Harry Dean Stanton",
+      "Tracey Walter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/repo-man.html"
+}

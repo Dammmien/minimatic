@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "From Nine to Nine",
+    "year": 1936,
+    "cast": [
+      "Ruth Roland",
+      "Roland Drew"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/from-nine-to-nine.html"
+}

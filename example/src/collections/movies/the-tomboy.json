@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Tomboy",
+    "year": 1924,
+    "cast": [
+      "Herbert Rawlinson",
+      "Dorothy Devore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-tomboy.html"
+}

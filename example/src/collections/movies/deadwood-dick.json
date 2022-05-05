@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Deadwood Dick",
+    "year": 1940,
+    "cast": [
+      "Don Douglas",
+      "Lorna Gray",
+      "Harry Harvey",
+      "Marin Sais"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/deadwood-dick.html"
+}

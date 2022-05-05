@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Firefly",
+    "year": 1937,
+    "cast": [
+      "Jeanette MacDonald",
+      "Allan Jones",
+      "Warren William"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/the-firefly.html"
+}

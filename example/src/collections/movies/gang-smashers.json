@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gang Smashers",
+    "year": 1938,
+    "cast": [
+      "Nina Mae McKinney",
+      "Mantan Moreland"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/gang-smashers.html"
+}

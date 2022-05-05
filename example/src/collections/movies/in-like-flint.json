@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "In Like Flint",
+    "year": 1967,
+    "cast": [
+      "James Coburn",
+      "Lee J. Cobb",
+      "Anna Lee",
+      "Jean Hale"
+    ],
+    "genres": [
+      "Spy",
+      "Satire"
+    ]
+  },
+  "output": "movies/in-like-flint.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Young Ideas",
+    "year": 1943,
+    "cast": [
+      "Susan Peters",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/young-ideas.html"
+}

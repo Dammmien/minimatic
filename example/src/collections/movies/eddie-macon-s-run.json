@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Eddie Macon's Run",
+    "year": 1983,
+    "cast": [
+      "Kirk Douglas",
+      "John Schneider",
+      "Lee Purcell"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/eddie-macon-s-run.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In the Good Old Summertime",
+    "year": 1949,
+    "cast": [
+      "Judy Garland",
+      "Van Johnson",
+      "Buster Keaton"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/in-the-good-old-summertime.html"
+}

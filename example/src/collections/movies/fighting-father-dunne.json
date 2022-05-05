@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting Father Dunne",
+    "year": 1948,
+    "cast": [
+      "Pat O'Brien",
+      "Una O'Connor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fighting-father-dunne.html"
+}

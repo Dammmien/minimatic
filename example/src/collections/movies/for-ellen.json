@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "For Ellen",
+    "year": 2012,
+    "cast": [
+      "Paul Dano",
+      "Jon Heder",
+      "Jena Malone",
+      "Margarita Levieva",
+      "Shaylena Mandigo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/for-ellen.html"
+}

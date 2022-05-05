@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blazing the Western Trail",
+    "year": 1945,
+    "cast": [
+      "Charles Starrett",
+      "Dub Taylor",
+      "Carole Mathews"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/blazing-the-western-trail.html"
+}

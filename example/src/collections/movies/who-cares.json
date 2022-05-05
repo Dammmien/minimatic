@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Who Cares",
+    "year": 1925,
+    "cast": [
+      "Dorothy Devore",
+      "William Haines"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/who-cares.html"
+}

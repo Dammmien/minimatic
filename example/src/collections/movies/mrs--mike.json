@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mrs. Mike",
+    "year": 1949,
+    "cast": [
+      "Dick Powell",
+      "Evelyn Keyes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mrs--mike.html"
+}

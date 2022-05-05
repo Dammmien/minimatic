@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Woman Rebels",
+    "year": 1936,
+    "cast": [
+      "Katharine Hepburn",
+      "Herbert Marshall",
+      "Elizabeth Allan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-woman-rebels.html"
+}

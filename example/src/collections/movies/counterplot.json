@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Counterplot",
+    "year": 1959,
+    "cast": [
+      "Forrest Tucker",
+      "Allison Hayes"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/counterplot.html"
+}

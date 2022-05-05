@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kiss and Make-Up",
+    "year": 1934,
+    "cast": [
+      "Cary Grant",
+      "Genevieve Tobin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kiss-and-make-up.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Women of Glamour",
+    "year": 1937,
+    "cast": [
+      "Virginia Bruce",
+      "Melvyn Douglas",
+      "Reginald Denny"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/women-of-glamour.html"
+}

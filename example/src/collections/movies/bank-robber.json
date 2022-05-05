@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bank Robber",
+    "year": 1993,
+    "cast": [
+      "Patrick Dempsey",
+      "Lisa Bonet",
+      "Judge Reinhold"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/bank-robber.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Oklahoma Crude",
+    "year": 1973,
+    "cast": [
+      "George C. Scott",
+      "Faye Dunaway",
+      "John Mills"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/oklahoma-crude.html"
+}

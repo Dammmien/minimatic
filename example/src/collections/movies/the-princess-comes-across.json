@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Princess Comes Across",
+    "year": 1936,
+    "cast": [
+      "Carole Lombard",
+      "Fred MacMurray"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-princess-comes-across.html"
+}

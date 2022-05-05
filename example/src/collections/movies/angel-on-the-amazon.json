@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Angel on the Amazon",
+    "year": 1948,
+    "cast": [
+      "George Brent",
+      "Vera Ralston",
+      "Brian Aherne",
+      "Constance Bennett"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/angel-on-the-amazon.html"
+}

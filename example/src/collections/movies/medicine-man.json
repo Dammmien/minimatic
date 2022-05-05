@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Medicine Man",
+    "year": 1992,
+    "cast": [
+      "Sean Connery",
+      "Lorraine Bracco"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/medicine-man.html"
+}

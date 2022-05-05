@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lawless Nineties",
+    "year": 1936,
+    "cast": [
+      "John Wayne",
+      "Ann Rutherford",
+      "Gabby Hayes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-lawless-nineties.html"
+}

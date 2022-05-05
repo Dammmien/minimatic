@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Outlaw Josey Wales",
+    "year": 1976,
+    "cast": [
+      "Clint Eastwood",
+      "Chief Dan George",
+      "Sam Bottoms",
+      "John Vernon",
+      "Bill McKinney",
+      "Sondra Locke",
+      "Joyce Jameson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-outlaw-josey-wales.html"
+}

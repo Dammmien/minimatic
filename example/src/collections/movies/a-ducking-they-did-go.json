@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Ducking They Did Go",
+    "year": 1939,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/a-ducking-they-did-go.html"
+}

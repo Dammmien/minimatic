@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Backstabbing for Beginners",
+    "year": 2018,
+    "cast": [
+      "Ben Kingsley",
+      "Theo James",
+      "Jacqueline Bisset"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/backstabbing-for-beginners.html"
+}

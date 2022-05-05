@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Georgia",
+    "year": 1995,
+    "cast": [
+      "Jennifer Jason Leigh",
+      "Mare Winningham"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/georgia.html"
+}

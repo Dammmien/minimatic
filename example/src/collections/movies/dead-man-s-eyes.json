@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dead Man's Eyes",
+    "year": 1944,
+    "cast": [
+      "Lon Chaney Jr.",
+      "Jean Parker"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dead-man-s-eyes.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Invisible Invaders",
+    "year": 1959,
+    "cast": [
+      "John Agar",
+      "Jean Byron"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/invisible-invaders.html"
+}

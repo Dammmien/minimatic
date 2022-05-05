@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bachelor Brides",
+    "year": 1926,
+    "cast": [
+      "Rod La Rocque",
+      "Eulalie Jensen"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/bachelor-brides.html"
+}

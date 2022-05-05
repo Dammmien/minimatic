@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ex-Lady",
+    "year": 1933,
+    "cast": [
+      "Bette Davis",
+      "Gene Raymond",
+      "Claire Dodd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ex-lady.html"
+}

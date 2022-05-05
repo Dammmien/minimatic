@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Me, Natalie",
+    "year": 1969,
+    "cast": [
+      "Patty Duke",
+      "James Farantino"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/me--natalie.html"
+}

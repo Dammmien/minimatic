@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Hologram for the King",
+    "year": 2016,
+    "cast": [
+      "Tom Hanks",
+      "Ben Whishaw"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-hologram-for-the-king.html"
+}

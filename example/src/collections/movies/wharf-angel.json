@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wharf Angel",
+    "year": 1934,
+    "cast": [
+      "Victor McLaglen",
+      "Dorothy Dell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wharf-angel.html"
+}

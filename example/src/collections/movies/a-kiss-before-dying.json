@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A Kiss Before Dying",
+    "year": 1991,
+    "cast": [
+      "Matt Dillon",
+      "Sean Young",
+      "Max von Sydow",
+      "Diane Ladd",
+      "James Russo"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/a-kiss-before-dying.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Prince of Pilsen",
+    "year": 1926,
+    "cast": [
+      "Anita Stewart",
+      "Allan Forrest"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-prince-of-pilsen.html"
+}

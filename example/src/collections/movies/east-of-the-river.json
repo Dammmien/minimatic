@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "East of the River",
+    "year": 1940,
+    "cast": [
+      "John Garfield",
+      "Marjorie Rambeau"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/east-of-the-river.html"
+}

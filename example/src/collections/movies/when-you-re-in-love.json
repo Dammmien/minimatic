@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "When You're in Love",
+    "year": 1937,
+    "cast": [
+      "Cary Grant",
+      "Grace Moore",
+      "Aline MacMahon"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/when-you-re-in-love.html"
+}

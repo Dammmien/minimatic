@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Picture Brides",
+    "year": 1933,
+    "cast": [
+      "Dorothy Mackaill",
+      "Regis Toomey"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/picture-brides.html"
+}

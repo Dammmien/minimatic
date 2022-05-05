@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Code of the Cactus",
+    "year": 1939,
+    "cast": [
+      "Tim McCoy",
+      "Ben Corbett",
+      "Dorothy Short"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/code-of-the-cactus.html"
+}

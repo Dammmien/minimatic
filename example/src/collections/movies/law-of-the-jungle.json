@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Law of the Jungle",
+    "year": 1942,
+    "cast": [
+      "Arline Judge"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/law-of-the-jungle.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When I Came Home",
+    "year": 2006,
+    "cast": [
+      "the",
+      "homeless veterans in the United States"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/when-i-came-home.html"
+}

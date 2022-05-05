@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Big",
+    "year": 1988,
+    "cast": [
+      "Tom Hanks",
+      "Elizabeth Perkins",
+      "Robert Loggia",
+      "John Heard",
+      "Jared Rushton",
+      "Mercedes Ruehl"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/big.html"
+}

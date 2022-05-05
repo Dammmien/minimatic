@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "No Minor Vices",
+    "year": 1948,
+    "cast": [
+      "Dana Andrews",
+      "Lilli Palmer",
+      "Louis Jourdan"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/no-minor-vices.html"
+}

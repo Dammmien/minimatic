@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Goofy Movie",
+    "year": 1995,
+    "cast": [
+      "voices of",
+      "Jason Marsden",
+      "Pauly Shore"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/a-goofy-movie.html"
+}

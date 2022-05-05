@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Single Standard",
+    "year": 1929,
+    "cast": [
+      "Greta Garbo",
+      "Nils Asther",
+      "Johnny Mack Brown"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-single-standard.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lady in Scarlet",
+    "year": 1935,
+    "cast": [
+      "Reginald Denny",
+      "Patricia Farr",
+      "Jamison Thomas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-lady-in-scarlet.html"
+}

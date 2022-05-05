@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stolen Love",
+    "year": 1928,
+    "cast": [
+      "Marceline Day",
+      "Rex Lease"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stolen-love.html"
+}

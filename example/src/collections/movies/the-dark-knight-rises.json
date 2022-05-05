@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Dark Knight Rises",
+    "year": 2012,
+    "cast": [
+      "Christian Bale",
+      "Michael Caine",
+      "Gary Oldman",
+      "Tom Hardy",
+      "Anne Hathaway",
+      "Marion Cotillard",
+      "Joseph Gordon-Levitt",
+      "Morgan Freeman"
+    ],
+    "genres": [
+      "Crime",
+      "Drama",
+      "Superhero"
+    ]
+  },
+  "output": "movies/the-dark-knight-rises.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Lucky One",
+    "year": 2012,
+    "cast": [
+      "Zac Efron",
+      "Taylor Schilling",
+      "Jay R. Ferguson",
+      "Blythe Danner"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lucky-one.html"
+}

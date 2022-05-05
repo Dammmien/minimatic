@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Baron of Arizona",
+    "year": 1950,
+    "cast": [
+      "Vincent Price",
+      "Ellen Drew"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-baron-of-arizona.html"
+}

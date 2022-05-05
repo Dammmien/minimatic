@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "9/11",
+    "year": 2017,
+    "cast": [
+      "Charlie Sheen",
+      "Whoopi Goldberg"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/9-11.html"
+}

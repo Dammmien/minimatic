@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shortbus",
+    "year": 2006,
+    "cast": [
+      "Sook-Yin Lee"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/shortbus.html"
+}

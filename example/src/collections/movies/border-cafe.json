@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Border Cafe",
+    "year": 1937,
+    "cast": [
+      "George Irving",
+      "Harry Carey",
+      "Leona Roberts"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/border-cafe.html"
+}

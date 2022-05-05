@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thrilling Youth",
+    "year": 1926,
+    "cast": [
+      "Billy West",
+      "Gloria Grey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/thrilling-youth.html"
+}

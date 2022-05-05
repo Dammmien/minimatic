@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Flying Saucer",
+    "year": 1950,
+    "cast": [
+      "Mikel Conrad"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-flying-saucer.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mare Nostrum",
+    "year": 1926,
+    "cast": [
+      "Antonio Moreno",
+      "Alice Terry"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/mare-nostrum.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Thelma & Louise",
+    "year": 1991,
+    "cast": [
+      "Susan Sarandon",
+      "Geena Davis",
+      "Harvey Keitel",
+      "Michael Madsen",
+      "Brad Pitt",
+      "Christopher McDonald",
+      "Stephen Tobolowsky"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thelma---louise.html"
+}

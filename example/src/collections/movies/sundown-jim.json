@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sundown Jim",
+    "year": 1942,
+    "cast": [
+      "John Kimbrough",
+      "Arleen Whelan",
+      "Virginia Gilmore"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sundown-jim.html"
+}

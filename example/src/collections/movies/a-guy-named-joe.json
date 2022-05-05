@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Guy Named Joe",
+    "year": 1943,
+    "cast": [
+      "Spencer Tracy",
+      "Irene Dunne",
+      "Van Johnson"
+    ],
+    "genres": [
+      "Romance",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/a-guy-named-joe.html"
+}

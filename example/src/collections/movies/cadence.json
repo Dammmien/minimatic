@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cadence",
+    "year": 1990,
+    "cast": [
+      "Charlie Sheen",
+      "Martin Sheen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cadence.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Can't Hardly Wait",
+    "year": 1998,
+    "cast": [
+      "Jennifer Love Hewitt",
+      "Ethan Embry",
+      "Charlie Korsmo",
+      "Lauren Ambrose",
+      "Peter Facinelli",
+      "Seth Green"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/can-t-hardly-wait.html"
+}

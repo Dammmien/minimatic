@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Home of Our Own",
+    "year": 1993,
+    "cast": [
+      "Kathy Bates",
+      "Edward Furlong"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-home-of-our-own.html"
+}

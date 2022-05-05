@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Eyewitness",
+    "year": 1981,
+    "cast": [
+      "William Hurt",
+      "Sigourney Weaver",
+      "James Woods",
+      "Christopher Plummer"
+    ],
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  "output": "movies/eyewitness.html"
+}

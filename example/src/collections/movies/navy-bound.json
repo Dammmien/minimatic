@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Navy Bound",
+    "year": 1951,
+    "cast": [
+      "Tom Neal",
+      "Regis Toomey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/navy-bound.html"
+}

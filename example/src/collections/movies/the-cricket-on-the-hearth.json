@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cricket on the Hearth",
+    "year": 1923,
+    "cast": [
+      "Josef Swickard",
+      "Fritzi Ridgeway",
+      "Virginia Brown Faire"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-cricket-on-the-hearth.html"
+}

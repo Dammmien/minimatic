@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Escaped from the Gestapo",
+    "year": 1943,
+    "cast": [
+      "Dean Jagger",
+      "John Carradine",
+      "Mary Brian"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/i-escaped-from-the-gestapo.html"
+}

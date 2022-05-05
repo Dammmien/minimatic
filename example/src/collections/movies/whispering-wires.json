@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Whispering Wires",
+    "year": 1926,
+    "cast": [
+      "Anita Stewart",
+      "Edmund Burns"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/whispering-wires.html"
+}

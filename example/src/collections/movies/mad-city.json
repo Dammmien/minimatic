@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Mad City",
+    "year": 1997,
+    "cast": [
+      "Dustin Hoffman",
+      "John Travolta",
+      "Mia Kirshner",
+      "Alan Alda"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/mad-city.html"
+}

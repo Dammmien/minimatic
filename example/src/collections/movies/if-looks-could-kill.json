@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "If Looks Could Kill",
+    "year": 1991,
+    "cast": [
+      "Richard Grieco",
+      "Linda Hunt",
+      "Roger Rees",
+      "Gabrielle Anwar",
+      "Roger Daltrey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/if-looks-could-kill.html"
+}

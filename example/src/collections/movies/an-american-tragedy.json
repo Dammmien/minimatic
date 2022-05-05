@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "An American Tragedy",
+    "year": 1931,
+    "cast": [
+      "Sylvia Sidney",
+      "Phillips Holmes",
+      "Frances Dee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/an-american-tragedy.html"
+}

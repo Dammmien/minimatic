@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Boston Strangler",
+    "year": 1968,
+    "cast": [
+      "Tony Curtis",
+      "Henry Fonda",
+      "George Kennedy"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-boston-strangler.html"
+}

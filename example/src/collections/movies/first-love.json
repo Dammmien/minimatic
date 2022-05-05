@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "First Love",
+    "year": 1977,
+    "cast": [
+      "William Katt",
+      "Susan Dey",
+      "Beverly D'Angelo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/first-love.html"
+}

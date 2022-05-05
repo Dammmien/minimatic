@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Adorable Deceiver",
+    "year": 1926,
+    "cast": [
+      "Alberta Vaughn",
+      "Frank Leigh"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-adorable-deceiver.html"
+}

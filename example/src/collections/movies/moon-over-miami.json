@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Moon Over Miami",
+    "year": 1941,
+    "cast": [
+      "Betty Grable",
+      "Don Ameche"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/moon-over-miami.html"
+}

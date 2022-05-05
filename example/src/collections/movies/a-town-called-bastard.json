@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Town Called Bastard",
+    "year": 1971,
+    "cast": [
+      "Robert Shaw",
+      "Stella Stevens",
+      "Telly Savalas"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-town-called-bastard.html"
+}

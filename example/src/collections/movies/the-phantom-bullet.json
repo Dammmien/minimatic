@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Phantom Bullet",
+    "year": 1926,
+    "cast": [
+      "Hoot Gibson",
+      "Eileen Percy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-phantom-bullet.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flashpoint",
+    "year": 1984,
+    "cast": [
+      "Kris Kristofferson",
+      "Treat Williams"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/flashpoint.html"
+}

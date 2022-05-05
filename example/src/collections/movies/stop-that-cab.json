@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Stop That Cab",
+    "year": 1951,
+    "cast": [
+      "Sid Melton",
+      "Iris Adrian",
+      "Marjorie Lord"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/stop-that-cab.html"
+}

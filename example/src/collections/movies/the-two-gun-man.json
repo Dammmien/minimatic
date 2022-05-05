@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Two-Gun Man",
+    "year": 1926,
+    "cast": [
+      "Fred Thomson",
+      "Olive Hasbrouck"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-two-gun-man.html"
+}

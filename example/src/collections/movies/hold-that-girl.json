@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hold That Girl",
+    "year": 1934,
+    "cast": [
+      "James Dunn",
+      "Claire Trevor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hold-that-girl.html"
+}

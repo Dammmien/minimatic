@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bullfighter and the Lady",
+    "year": 1951,
+    "cast": [
+      "Robert Stack",
+      "Joy Page",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bullfighter-and-the-lady.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pacific Liner",
+    "year": 1939,
+    "cast": [
+      "Victor McLaglen",
+      "Wendy Barrie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pacific-liner.html"
+}

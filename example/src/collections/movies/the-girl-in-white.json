@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl in White",
+    "year": 1952,
+    "cast": [
+      "June Allyson",
+      "Arthur Kennedy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-girl-in-white.html"
+}

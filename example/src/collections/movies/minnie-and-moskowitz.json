@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Minnie and Moskowitz",
+    "year": 1971,
+    "cast": [
+      "John Cassavetes",
+      "Gena Rowlands",
+      "Seymour Cassel"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/minnie-and-moskowitz.html"
+}

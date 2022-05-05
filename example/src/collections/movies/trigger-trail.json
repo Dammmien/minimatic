@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trigger Trail",
+    "year": 1944,
+    "cast": [
+      "Rod Cameron",
+      "Vivian Austin"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/trigger-trail.html"
+}

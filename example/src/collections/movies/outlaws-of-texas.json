@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Outlaws of Texas",
+    "year": 1950,
+    "cast": [
+      "Whip Wilson",
+      "Andy Clyde",
+      "Phyllis Coates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/outlaws-of-texas.html"
+}

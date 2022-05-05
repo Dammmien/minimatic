@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Cocoon",
+    "year": 1985,
+    "cast": [
+      "Don Ameche",
+      "Wilford Brimley",
+      "Hume Cronyn",
+      "Jessica Tandy",
+      "Maureen Stapleton",
+      "Steve Guttenberg",
+      "Brian Dennehy"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/cocoon.html"
+}

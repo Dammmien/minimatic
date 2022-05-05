@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Fired Up!",
+    "year": 2009,
+    "cast": [
+      "Nick D'Agosto",
+      "Eric Christian Olsen",
+      "Sarah Roemer",
+      "AnnaLynne McCord",
+      "Molly Sims",
+      "John Michael Higgins"
+    ],
+    "genres": [
+      "Comedy",
+      "Teen"
+    ]
+  },
+  "output": "movies/fired-up-.html"
+}

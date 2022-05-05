@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Goodbye To All That",
+    "year": 2014,
+    "cast": [
+      "Paul Schneider",
+      "Melanie Lynskey",
+      "Anna Camp"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/goodbye-to-all-that.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Mysterious Miss X",
+    "year": 1939,
+    "cast": [
+      "Mary Hart"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-mysterious-miss-x.html"
+}

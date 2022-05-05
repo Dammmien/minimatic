@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tightrope",
+    "year": 1984,
+    "cast": [
+      "Clint Eastwood",
+      "Geneviève Bujold",
+      "Dan Hedaya"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/tightrope.html"
+}

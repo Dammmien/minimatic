@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Our Miss Brooks",
+    "year": 1956,
+    "cast": [
+      "Eve Arden",
+      "Gale Gordon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/our-miss-brooks.html"
+}

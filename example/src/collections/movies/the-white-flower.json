@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The White Flower",
+    "year": 1923,
+    "cast": [
+      "Betty Compson",
+      "Edmund Lowe"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-white-flower.html"
+}

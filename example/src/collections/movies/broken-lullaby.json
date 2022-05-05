@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Broken Lullaby",
+    "year": 1932,
+    "cast": [
+      "Lionel Barrymore",
+      "Nancy Carroll"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/broken-lullaby.html"
+}

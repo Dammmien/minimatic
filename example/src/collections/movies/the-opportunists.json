@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Opportunists",
+    "year": 2000,
+    "cast": [
+      "Christopher Walken",
+      "Vera Farmiga",
+      "Cyndi Lauper"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-opportunists.html"
+}

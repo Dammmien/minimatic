@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mojave Firebrand",
+    "year": 1944,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Anne Jeffreys"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/mojave-firebrand.html"
+}

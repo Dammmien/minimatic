@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Top of New York",
+    "year": 1922,
+    "cast": [
+      "May McAvoy",
+      "Walter McGrail"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-top-of-new-york.html"
+}

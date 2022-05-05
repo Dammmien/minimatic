@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Made in Paris",
+    "year": 1966,
+    "cast": [
+      "Louis Jourdan",
+      "Ann-Margret",
+      "Richard Crenna"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/made-in-paris.html"
+}

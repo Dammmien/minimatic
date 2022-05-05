@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love! Valour! Compassion!",
+    "year": 1997,
+    "cast": [
+      "Jason Alexander",
+      "John Glover"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love--valour--compassion-.html"
+}

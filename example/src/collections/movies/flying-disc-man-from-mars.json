@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flying Disc Man from Mars",
+    "year": 1950,
+    "cast": [
+      "Walter Reed",
+      "Lois Collier"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/flying-disc-man-from-mars.html"
+}

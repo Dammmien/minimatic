@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stage Door Canteen",
+    "year": 1943,
+    "cast": [
+      "Cheryl Walker",
+      "Lon McCallister"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/stage-door-canteen.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "New York Town",
+    "year": 1941,
+    "cast": [
+      "Fred MacMurray",
+      "Mary Martin"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/new-york-town.html"
+}

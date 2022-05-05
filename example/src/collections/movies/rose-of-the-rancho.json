@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rose of the Rancho",
+    "year": 1936,
+    "cast": [
+      "John Boles",
+      "Gladys Swarthout",
+      "Charles Bickford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rose-of-the-rancho.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Slaughter on Tenth Avenue",
+    "year": 1957,
+    "cast": [
+      "Richard Egan",
+      "Jan Sterling",
+      "Dan Duryea",
+      "Julie Adams",
+      "Walter Matthau"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/slaughter-on-tenth-avenue.html"
+}

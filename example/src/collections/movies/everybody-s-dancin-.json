@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Everybody's Dancin'",
+    "year": 1950,
+    "cast": [
+      "Spade Cooley",
+      "Barbara Woodell"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/everybody-s-dancin-.html"
+}

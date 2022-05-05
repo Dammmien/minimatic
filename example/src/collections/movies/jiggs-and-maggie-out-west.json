@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jiggs and Maggie Out West",
+    "year": 1950,
+    "cast": [
+      "Joe Yule",
+      "Renie Riano"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/jiggs-and-maggie-out-west.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "No Way Out",
+    "year": 1987,
+    "cast": [
+      "Kevin Costner",
+      "Gene Hackman",
+      "Sean Young",
+      "Will Patton",
+      "George Dzundza",
+      "Howard Duff",
+      "Iman"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/no-way-out.html"
+}

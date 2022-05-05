@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fascinating Youth",
+    "year": 1926,
+    "cast": [
+      "Charles \"Buddy\" Rogers",
+      "Thelma Todd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fascinating-youth.html"
+}

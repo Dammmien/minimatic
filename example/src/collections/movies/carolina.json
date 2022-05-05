@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Carolina",
+    "year": 2003,
+    "cast": [
+      "Julia Stiles",
+      "Shirley MacLaine",
+      "Alessandro Nivola"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/carolina.html"
+}

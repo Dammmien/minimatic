@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Glorious Day",
+    "year": 1922,
+    "cast": [
+      "Will Rogers",
+      "Lila Lee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-glorious-day.html"
+}

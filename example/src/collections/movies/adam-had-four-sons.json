@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Adam Had Four Sons",
+    "year": 1941,
+    "cast": [
+      "Ingrid Bergman",
+      "Warner Baxter",
+      "Susan Hayward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/adam-had-four-sons.html"
+}

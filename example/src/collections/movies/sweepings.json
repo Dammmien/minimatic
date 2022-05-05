@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sweepings",
+    "year": 1933,
+    "cast": [
+      "Lionel Barrymore",
+      "Gloria Stuart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sweepings.html"
+}

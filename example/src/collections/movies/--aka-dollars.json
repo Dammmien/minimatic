@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "$ aka Dollars",
+    "year": 1971,
+    "cast": [
+      "Warren Beatty",
+      "Goldie Hawn"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/--aka-dollars.html"
+}

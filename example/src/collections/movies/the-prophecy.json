@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Prophecy",
+    "year": 1995,
+    "cast": [
+      "Christopher Walken",
+      "Elias Koteas",
+      "Virginia Madsen",
+      "Eric Stoltz"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-prophecy.html"
+}

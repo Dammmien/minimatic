@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Peter Pan",
+    "year": 2003,
+    "cast": [
+      "Jeremy Sumpter",
+      "Rachel Hurd-Wood",
+      "Jason Isaacs",
+      "Ludivine Sagnier"
+    ],
+    "genres": [
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/peter-pan.html"
+}

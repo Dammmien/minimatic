@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Master and Commander: The Far Side of the World",
+    "year": 2003,
+    "cast": [
+      "Russell Crowe",
+      "Paul Bettany"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/master-and-commander--the-far-side-of-the-world.html"
+}

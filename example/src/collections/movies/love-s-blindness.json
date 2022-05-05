@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love's Blindness",
+    "year": 1926,
+    "cast": [
+      "Pauline Starke",
+      "Antonio Moreno",
+      "Lilyan Tashman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-s-blindness.html"
+}

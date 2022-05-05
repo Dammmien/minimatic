@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Gloria",
+    "year": 1999,
+    "cast": [
+      "Sharon Stone",
+      "Jeremy Northam",
+      "Cathy Moriarty",
+      "George C. Scott"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/gloria.html"
+}

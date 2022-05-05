@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Amigos",
+    "year": 1986,
+    "cast": [
+      "Steve Martin",
+      "Chevy Chase",
+      "Martin Short"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-amigos.html"
+}

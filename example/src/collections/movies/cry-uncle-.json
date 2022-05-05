@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cry Uncle!",
+    "year": 1971,
+    "cast": [
+      "Allen Garfield",
+      "Marcia Jean Kurtz"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cry-uncle-.html"
+}

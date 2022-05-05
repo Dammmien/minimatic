@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Reprisal!",
+    "year": 1956,
+    "cast": [
+      "Guy Madison",
+      "Felicia Farr",
+      "Kathryn Grant"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/reprisal-.html"
+}

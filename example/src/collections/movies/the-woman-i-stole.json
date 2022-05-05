@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman I Stole",
+    "year": 1933,
+    "cast": [
+      "Jack Holt",
+      "Fay Wray"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-woman-i-stole.html"
+}

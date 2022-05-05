@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mr. Reckless",
+    "year": 1948,
+    "cast": [
+      "William Eythe",
+      "Barbara Britton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mr--reckless.html"
+}

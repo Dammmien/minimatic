@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Barefoot in the Park",
+    "year": 1967,
+    "cast": [
+      "Robert Redford",
+      "Jane Fonda",
+      "Mildred Natwick",
+      "Charles Boyer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/barefoot-in-the-park.html"
+}

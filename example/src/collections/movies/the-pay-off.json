@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pay Off",
+    "year": 1942,
+    "cast": [
+      "Lee Tracy",
+      "Tom Brown"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-pay-off.html"
+}

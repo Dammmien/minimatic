@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Teahouse of the August Moon",
+    "year": 1956,
+    "cast": [
+      "Marlon Brando",
+      "Glenn Ford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-teahouse-of-the-august-moon.html"
+}

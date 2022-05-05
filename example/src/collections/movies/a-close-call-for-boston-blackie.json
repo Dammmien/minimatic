@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Close Call for Boston Blackie",
+    "year": 1946,
+    "cast": [
+      "Chester Morris",
+      "Lynn Merrick"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/a-close-call-for-boston-blackie.html"
+}

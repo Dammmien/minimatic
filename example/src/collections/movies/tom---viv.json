@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tom & Viv",
+    "year": 1994,
+    "cast": [
+      "Willem Dafoe",
+      "Miranda Richardson",
+      "Rosemary Harris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tom---viv.html"
+}

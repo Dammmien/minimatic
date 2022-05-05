@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Showgirls",
+    "year": 1995,
+    "cast": [
+      "Elizabeth Berkley",
+      "Kyle MacLachlan",
+      "Gina Gershon",
+      "Glenn Plummer",
+      "Robert Davi",
+      "Alan Rachins",
+      "Gina Ravera"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/showgirls.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Rocket Gibraltar",
+    "year": 1988,
+    "cast": [
+      "Burt Lancaster",
+      "Suzy Amis",
+      "Patricia Clarkson",
+      "Frances Conroy",
+      "Sinead Cusack",
+      "John Glover",
+      "Bill Pullman",
+      "Kevin Spacey",
+      "Macaulay Culkin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rocket-gibraltar.html"
+}

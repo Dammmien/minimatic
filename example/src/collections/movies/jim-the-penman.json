@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jim the Penman",
+    "year": 1921,
+    "cast": [
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/jim-the-penman.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Commitments",
+    "year": 1991,
+    "cast": [
+      "Colm Meaney",
+      "Robert Arkins"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-commitments.html"
+}

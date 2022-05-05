@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Journey to the Center of Time",
+    "year": 1967,
+    "cast": [
+      "Scott Brady",
+      "Anthony Eisley",
+      "Gigi Perreau"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/journey-to-the-center-of-time.html"
+}

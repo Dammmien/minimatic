@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Fault in Our Stars",
+    "year": 2014,
+    "cast": [
+      "Shailene Woodley",
+      "Ansel Elgort",
+      "Nat Wolff",
+      "Laura Dern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fault-in-our-stars.html"
+}

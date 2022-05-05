@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Alexander Hamilton",
+    "year": 1931,
+    "cast": [
+      "George Arliss",
+      "Doris Kenyon",
+      "Montagu Love"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/alexander-hamilton.html"
+}

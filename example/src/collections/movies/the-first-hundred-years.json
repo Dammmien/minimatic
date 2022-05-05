@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The First Hundred Years",
+    "year": 1938,
+    "cast": [
+      "Robert Montgomery",
+      "Virginia Bruce",
+      "Warren William"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-first-hundred-years.html"
+}

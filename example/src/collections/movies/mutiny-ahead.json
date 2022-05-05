@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mutiny Ahead",
+    "year": 1935,
+    "cast": [
+      "Neil Hamilton",
+      "Kathleen Burke",
+      "Leon Ames"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/mutiny-ahead.html"
+}

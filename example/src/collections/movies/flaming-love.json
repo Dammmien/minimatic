@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flaming Love",
+    "year": 1925,
+    "cast": [
+      "Eugene O'Brien",
+      "Mae Busch"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/flaming-love.html"
+}

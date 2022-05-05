@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cavalcade of the West",
+    "year": 1936,
+    "cast": [
+      "Hoot Gibson",
+      "Rex Lease",
+      "Marion Shilling"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cavalcade-of-the-west.html"
+}

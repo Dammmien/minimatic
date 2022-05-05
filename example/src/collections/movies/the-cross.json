@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Cross",
+    "year": 2009,
+    "cast": [
+      "Arthur Blessitt"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-cross.html"
+}

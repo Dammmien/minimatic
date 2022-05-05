@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell Ship Mutiny",
+    "year": 1957,
+    "cast": [
+      "Jon Hall",
+      "Roberta Haynes"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/hell-ship-mutiny.html"
+}

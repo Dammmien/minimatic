@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Broadway Serenade",
+    "year": 1939,
+    "cast": [
+      "Jeanette MacDonald",
+      "Lew Ayres"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/broadway-serenade.html"
+}

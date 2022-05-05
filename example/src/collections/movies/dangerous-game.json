@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dangerous Game",
+    "year": 1993,
+    "cast": [
+      "Harvey Keitel",
+      "Madonna",
+      "James Russo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dangerous-game.html"
+}

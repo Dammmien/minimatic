@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Caught Plastered",
+    "year": 1931,
+    "cast": [
+      "Bert Wheeler",
+      "Robert Woolsey",
+      "Dorothy Lee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/caught-plastered.html"
+}

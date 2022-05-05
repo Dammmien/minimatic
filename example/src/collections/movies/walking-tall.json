@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Walking Tall",
+    "year": 2004,
+    "cast": [
+      "Dwayne Johnson"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/walking-tall.html"
+}

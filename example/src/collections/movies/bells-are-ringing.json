@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bells Are Ringing",
+    "year": 1960,
+    "cast": [
+      "Judy Holliday",
+      "Dean Martin"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/bells-are-ringing.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Midnight Life",
+    "year": 1928,
+    "cast": [
+      "Francis X. Bushman",
+      "Gertrude Olmstead"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/midnight-life.html"
+}

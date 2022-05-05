@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Game of Death",
+    "year": 2010,
+    "cast": [
+      "Wesley Snipes",
+      "Zoë Bell",
+      "Gary Daniels",
+      "Robert Davi",
+      "Ernie Hudson",
+      "Jaime Moyer",
+      "Frank Zieger"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/game-of-death.html"
+}

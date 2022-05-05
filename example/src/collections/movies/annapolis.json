@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Annapolis",
+    "year": 2006,
+    "cast": [
+      "James Franco",
+      "Tyrese Gibson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/annapolis.html"
+}

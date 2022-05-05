@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Night After Night",
+    "year": 1932,
+    "cast": [
+      "George Raft",
+      "Constance Cummings",
+      "Mae West"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/night-after-night.html"
+}

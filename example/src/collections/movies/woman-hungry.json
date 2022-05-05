@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Woman Hungry",
+    "year": 1931,
+    "cast": [
+      "Sidney Blackmer",
+      "Lila Lee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/woman-hungry.html"
+}

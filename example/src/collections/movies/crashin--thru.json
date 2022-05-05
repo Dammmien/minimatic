@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crashin' Thru",
+    "year": 1923,
+    "cast": [
+      "Harry Carey",
+      "Cullen Landis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/crashin--thru.html"
+}

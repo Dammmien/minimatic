@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Station West",
+    "year": 1948,
+    "cast": [
+      "Dick Powell",
+      "Jane Greer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/station-west.html"
+}

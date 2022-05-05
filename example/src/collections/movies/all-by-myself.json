@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "All by Myself",
+    "year": 1943,
+    "cast": [
+      "Rosemary Lane",
+      "Evelyn Ankers",
+      "Patric Knowles"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/all-by-myself.html"
+}

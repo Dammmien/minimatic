@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Across the Rio Grande",
+    "year": 1949,
+    "cast": [
+      "Jimmy Wakely",
+      "Reno Browne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/across-the-rio-grande.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Harmony Trail",
+    "year": 1944,
+    "cast": [
+      "Ken Maynard",
+      "Eddie Dean",
+      "Gene Alsace"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/harmony-trail.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Max Payne",
+    "year": 2008,
+    "cast": [
+      "Mark Wahlberg",
+      "Mila Kunis",
+      "Beau Bridges",
+      "Ludacris",
+      "Chris O'Donnell",
+      "Donal Logue",
+      "Olga Kurylenko"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/max-payne.html"
+}

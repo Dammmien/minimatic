@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Transatlantic",
+    "year": 1931,
+    "cast": [
+      "Edmund Lowe",
+      "Myrna Loy",
+      "John Halliday"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/transatlantic.html"
+}

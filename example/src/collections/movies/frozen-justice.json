@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Frozen Justice",
+    "year": 1929,
+    "cast": [
+      "Lenore Ulric",
+      "Robert Frazer",
+      "Louis Wolheim"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/frozen-justice.html"
+}

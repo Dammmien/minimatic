@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Little Nellie Kelly",
+    "year": 1940,
+    "cast": [
+      "Judy Garland",
+      "George Murphy"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-nellie-kelly.html"
+}

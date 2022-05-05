@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Men and Women",
+    "year": 1925,
+    "cast": [
+      "Richard Dix",
+      "Claire Adams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/men-and-women.html"
+}

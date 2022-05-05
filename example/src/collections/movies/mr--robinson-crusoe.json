@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mr. Robinson Crusoe",
+    "year": 1932,
+    "cast": [
+      "Douglas Fairbanks",
+      "William Farnum"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/mr--robinson-crusoe.html"
+}

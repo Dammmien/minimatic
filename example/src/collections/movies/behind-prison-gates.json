@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Behind Prison Gates",
+    "year": 1939,
+    "cast": [
+      "Brian Donlevy",
+      "Julie Bishop"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/behind-prison-gates.html"
+}

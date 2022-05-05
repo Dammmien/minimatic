@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jealousy",
+    "year": 1945,
+    "cast": [
+      "John Loder",
+      "Jane Randolph"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/jealousy.html"
+}

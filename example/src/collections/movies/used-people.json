@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Used People",
+    "year": 1992,
+    "cast": [
+      "Shirley MacLaine",
+      "Marcello Mastroianni",
+      "Kathy Bates",
+      "Jessica Tandy",
+      "Marcia Gay Harden"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/used-people.html"
+}

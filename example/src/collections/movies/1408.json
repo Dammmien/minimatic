@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "1408",
+    "year": 2007,
+    "cast": [
+      "John Cusack",
+      "Samuel L. Jackson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/1408.html"
+}

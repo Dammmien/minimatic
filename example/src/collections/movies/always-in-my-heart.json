@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Always in My Heart",
+    "year": 1942,
+    "cast": [
+      "Kay Francis",
+      "Walter Huston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/always-in-my-heart.html"
+}

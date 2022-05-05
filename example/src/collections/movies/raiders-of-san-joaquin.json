@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Raiders of San Joaquin",
+    "year": 1943,
+    "cast": [
+      "Johnny Mack Brown",
+      "Jennifer Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/raiders-of-san-joaquin.html"
+}

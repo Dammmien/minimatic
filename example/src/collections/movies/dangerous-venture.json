@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dangerous Venture",
+    "year": 1947,
+    "cast": [
+      "William Boyd",
+      "Andy Clyde"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/dangerous-venture.html"
+}

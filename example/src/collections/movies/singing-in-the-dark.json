@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Singing in the Dark",
+    "year": 1956,
+    "cast": [
+      "Moishe Oysher",
+      "Joey Adams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/singing-in-the-dark.html"
+}

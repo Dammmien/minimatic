@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Right to Love",
+    "year": 1930,
+    "cast": [
+      "Ruth Chatterton",
+      "Paul Lukas",
+      "Irving Pachel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-right-to-love.html"
+}

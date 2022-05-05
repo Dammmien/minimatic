@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I'm Dangerous Tonight",
+    "year": 1990,
+    "cast": [
+      "Mädchen Amick",
+      "as Mädchen Amick"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/i-m-dangerous-tonight.html"
+}

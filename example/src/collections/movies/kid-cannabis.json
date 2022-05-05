@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Kid Cannabis",
+    "year": 2014,
+    "cast": [
+      "Jonathan Daniel Brown",
+      "Kenny Wormald",
+      "Amanda Tapping",
+      "Aaron Yoo"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/kid-cannabis.html"
+}

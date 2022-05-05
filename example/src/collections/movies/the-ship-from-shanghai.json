@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ship from Shanghai",
+    "year": 1930,
+    "cast": [
+      "Conrad Nagel",
+      "Kay Johnson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-ship-from-shanghai.html"
+}

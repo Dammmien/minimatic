@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "War Arrow",
+    "year": 1954,
+    "cast": [
+      "Maureen O'Hara",
+      "Jeff Chandler"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/war-arrow.html"
+}

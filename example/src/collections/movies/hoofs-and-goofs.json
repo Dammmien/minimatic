@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hoofs and Goofs",
+    "year": 1957,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hoofs-and-goofs.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Used Cars",
+    "year": 1980,
+    "cast": [
+      "Kurt Russell",
+      "Jack Warden",
+      "Gerrit Graham"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/used-cars.html"
+}

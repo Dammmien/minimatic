@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "City Limits",
+    "year": 1934,
+    "cast": [
+      "Frank Craven",
+      "Sally Blane",
+      "Claude Gillingwater"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/city-limits.html"
+}

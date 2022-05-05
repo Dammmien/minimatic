@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Astro Boy",
+    "year": 2009,
+    "cast": [
+      "Freddie Highmore",
+      "Nicolas Cage",
+      "Donald Sutherland",
+      "Nathan Lane",
+      "Bill Nighy",
+      "Eugene Levy",
+      "Kristen Bell"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/astro-boy.html"
+}

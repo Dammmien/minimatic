@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "It Came from Somewhere Else",
+    "year": 1988,
+    "cast": [
+      "William Vanarsdale"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-came-from-somewhere-else.html"
+}

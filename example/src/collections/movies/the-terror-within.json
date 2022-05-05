@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Terror Within",
+    "year": 1989,
+    "cast": [
+      "George Kennedy",
+      "Andrew Stevens"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-terror-within.html"
+}

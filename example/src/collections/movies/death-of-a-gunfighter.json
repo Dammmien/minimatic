@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Death of a Gunfighter",
+    "year": 1969,
+    "cast": [
+      "Richard Widmark",
+      "Lena Horne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/death-of-a-gunfighter.html"
+}

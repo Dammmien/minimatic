@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Puritan Passions",
+    "year": 1923,
+    "cast": [
+      "Glenn Hunter",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/puritan-passions.html"
+}

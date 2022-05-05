@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Man in the Saddle",
+    "year": 1951,
+    "cast": [
+      "Randolph Scott",
+      "Joan Leslie",
+      "Ellen Drew"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/man-in-the-saddle.html"
+}

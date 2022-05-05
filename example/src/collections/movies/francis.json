@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Francis",
+    "year": 1950,
+    "cast": [
+      "Donald O'Connor",
+      "Patricia Medina"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/francis.html"
+}

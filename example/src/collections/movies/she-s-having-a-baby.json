@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "She's Having a Baby",
+    "year": 1988,
+    "cast": [
+      "Kevin Bacon",
+      "Elizabeth McGovern",
+      "Alec Baldwin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-s-having-a-baby.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Remember Pearl Harbor",
+    "year": 1942,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Fay McKenzie"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/remember-pearl-harbor.html"
+}

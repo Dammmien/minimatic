@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Law's Lash",
+    "year": 1928,
+    "cast": [
+      "Robert Ellis",
+      "Mary Mayberry"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-law-s-lash.html"
+}

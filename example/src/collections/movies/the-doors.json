@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Doors",
+    "year": 1991,
+    "cast": [
+      "Val Kilmer",
+      "Meg Ryan",
+      "Kyle MacLachlan",
+      "Kathleen Quinlan",
+      "Frank Whaley",
+      "Kevin Dillon",
+      "Josh Evans",
+      "Billy Idol"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-doors.html"
+}

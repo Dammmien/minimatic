@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fit to Be Tied",
+    "year": 1952,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/fit-to-be-tied.html"
+}

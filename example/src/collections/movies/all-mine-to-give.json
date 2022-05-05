@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "All Mine to Give",
+    "year": 1957,
+    "cast": [
+      "Glynis Johns",
+      "Cameron Mitchell",
+      "Patty McCormack"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/all-mine-to-give.html"
+}

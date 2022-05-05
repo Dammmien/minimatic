@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Park Avenue Logger",
+    "year": 1937,
+    "cast": [
+      "George O'Brien",
+      "Beatrice Roberts",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/park-avenue-logger.html"
+}

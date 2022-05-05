@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Herbie Rides Again",
+    "year": 1974,
+    "cast": [
+      "Helen Hayes",
+      "Ken Berry"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/herbie-rides-again.html"
+}

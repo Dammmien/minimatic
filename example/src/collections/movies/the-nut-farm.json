@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Nut Farm",
+    "year": 1935,
+    "cast": [
+      "Betty Alden",
+      "Oscar Apfel",
+      "Wallace Ford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-nut-farm.html"
+}

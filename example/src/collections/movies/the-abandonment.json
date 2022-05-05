@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Abandonment",
+    "year": 1916,
+    "cast": [
+      "Forrest Taylor",
+      "Harry von Meter",
+      "Helene Rosson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-abandonment.html"
+}

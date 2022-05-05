@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Air Robbery",
+    "year": 1919,
+    "cast": [
+      "Ormer Locklear",
+      "Allan Forrest"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-great-air-robbery.html"
+}

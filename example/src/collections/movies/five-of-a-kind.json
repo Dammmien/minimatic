@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Five of a Kind",
+    "year": 1938,
+    "cast": [
+      "Jean Hersholt",
+      "Claire Trevor",
+      "Cesar Romero"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/five-of-a-kind.html"
+}

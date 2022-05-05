@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Quiet Cool",
+    "year": 1986,
+    "cast": [
+      "James Remar",
+      "Daphne Ashbrook",
+      "Nick Cassavetes"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/quiet-cool.html"
+}

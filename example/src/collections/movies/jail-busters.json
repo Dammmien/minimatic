@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jail Busters",
+    "year": 1955,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/jail-busters.html"
+}

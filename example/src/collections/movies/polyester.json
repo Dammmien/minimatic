@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Polyester",
+    "year": 1981,
+    "cast": [
+      "Divine",
+      "Tab Hunter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/polyester.html"
+}

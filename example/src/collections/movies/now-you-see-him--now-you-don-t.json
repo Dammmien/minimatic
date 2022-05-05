@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Now You See Him, Now You Don't",
+    "year": 1972,
+    "cast": [
+      "Kurt Russell",
+      "Joe Flynn"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Comedy"
+    ]
+  },
+  "output": "movies/now-you-see-him--now-you-don-t.html"
+}

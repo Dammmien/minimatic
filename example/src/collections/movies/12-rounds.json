@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "12 Rounds",
+    "year": 2009,
+    "cast": [
+      "John Cena",
+      "Ashley Scott",
+      "Steve Harris",
+      "Aidan Gillen",
+      "Brian J. White",
+      "Taylor Cole"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/12-rounds.html"
+}

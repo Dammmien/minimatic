@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sweet and Low-Down",
+    "year": 1944,
+    "cast": [
+      "Linda Darnell",
+      "Benny Goodman"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/sweet-and-low-down.html"
+}

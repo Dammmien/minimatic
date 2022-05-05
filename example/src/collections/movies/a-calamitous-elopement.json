@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Calamitous Elopement",
+    "year": 1908,
+    "cast": [
+      "Harry Solter",
+      "Linda Arvidson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-calamitous-elopement.html"
+}

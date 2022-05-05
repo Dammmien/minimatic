@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Four Guns to the Border",
+    "year": 1954,
+    "cast": [
+      "Rory Calhoun",
+      "Colleen Miller",
+      "Nina Foch"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/four-guns-to-the-border.html"
+}

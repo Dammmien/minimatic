@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Young Eagles",
+    "year": 1930,
+    "cast": [
+      "Jean Arthur",
+      "Charles Rogers",
+      "Paul Lukas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/young-eagles.html"
+}

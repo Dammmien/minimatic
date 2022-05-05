@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lonely Man",
+    "year": 1957,
+    "cast": [
+      "Jack Palance",
+      "Anthony Perkins"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-lonely-man.html"
+}

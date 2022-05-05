@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Baby Mine",
+    "year": 1928,
+    "cast": [
+      "Karl Dane",
+      "George K. Arthur",
+      "Charlotte Greenwood"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/baby-mine.html"
+}

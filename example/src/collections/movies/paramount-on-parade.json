@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paramount on Parade",
+    "year": 1930,
+    "cast": [
+      "Jean Arthur",
+      "Maurice Chevalier",
+      "Gary Cooper"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/paramount-on-parade.html"
+}

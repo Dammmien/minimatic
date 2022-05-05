@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Wabbit Twouble",
+    "year": 1941,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/wabbit-twouble.html"
+}

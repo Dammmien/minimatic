@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Adventurers",
+    "year": 1970,
+    "cast": [
+      "Bekim Fehmiu",
+      "Candice Bergen",
+      "Charles Aznavour",
+      "Olivia de Havilland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-adventurers.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Blonde Cobra",
+    "year": 1963,
+    "cast": [
+      "Jack Smith"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/blonde-cobra.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Spaceballs",
+    "year": 1987,
+    "cast": [
+      "John Candy",
+      "Bill Pullman",
+      "Rick Moranis",
+      "Joan Rivers",
+      "Daphne Zuniga",
+      "Mel Brooks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/spaceballs.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Six Pack",
+    "year": 1982,
+    "cast": [
+      "Kenny Rogers",
+      "Diane Lane",
+      "Barry Corbin",
+      "Erin Gray",
+      "Terry Kiser",
+      "Anthony Michael Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/six-pack.html"
+}

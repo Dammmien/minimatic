@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "As You Like It",
+    "year": 2006,
+    "cast": [
+      "Kevin Kline",
+      "Bryce Dallas Howard",
+      "Alfred Molina"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/as-you-like-it.html"
+}

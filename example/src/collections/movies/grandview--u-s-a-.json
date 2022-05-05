@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Grandview, U.S.A.",
+    "year": 1984,
+    "cast": [
+      "Jamie Lee Curtis",
+      "Patrick Swayze",
+      "C. Thomas Howell",
+      "Jennifer Jason Leigh",
+      "Troy Donahue",
+      "Carole Cook"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/grandview--u-s-a-.html"
+}

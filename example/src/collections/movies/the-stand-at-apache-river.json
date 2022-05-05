@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Stand at Apache River",
+    "year": 1953,
+    "cast": [
+      "Stephen McNally",
+      "Julie Adams"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-stand-at-apache-river.html"
+}

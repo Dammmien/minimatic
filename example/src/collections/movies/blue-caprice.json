@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Blue Caprice",
+    "year": 2013,
+    "cast": [
+      "Isaiah Washington",
+      "Tequan Richmond",
+      "Joey Lauren Adams",
+      "Tim Blake Nelson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blue-caprice.html"
+}

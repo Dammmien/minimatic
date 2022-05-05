@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Frisco Jenny",
+    "year": 1932,
+    "cast": [
+      "Ruth Chatterton",
+      "Louis Calhern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/frisco-jenny.html"
+}

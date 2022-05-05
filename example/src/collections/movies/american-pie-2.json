@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "American Pie 2",
+    "year": 2001,
+    "cast": [
+      "Jason Biggs",
+      "Shannon Elizabeth",
+      "Chris Klein",
+      "Alyson Hannigan",
+      "Seann William Scott",
+      "Tara Reid",
+      "Eugene Levy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/american-pie-2.html"
+}

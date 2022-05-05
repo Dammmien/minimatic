@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Passion's Pathway",
+    "year": 1924,
+    "cast": [
+      "Estelle Taylor",
+      "Wilfred Lucas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/passion-s-pathway.html"
+}

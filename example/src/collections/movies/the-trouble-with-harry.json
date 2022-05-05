@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Trouble with Harry",
+    "year": 1955,
+    "cast": [
+      "Shirley MacLaine",
+      "John Forsythe",
+      "Jerry Mathers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-trouble-with-harry.html"
+}

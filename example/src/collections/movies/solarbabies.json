@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Solarbabies",
+    "year": 1986,
+    "cast": [
+      "Jason Patric",
+      "Jami Gertz",
+      "Lukas Haas"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/solarbabies.html"
+}

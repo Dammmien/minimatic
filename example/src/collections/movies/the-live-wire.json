@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Live Wire",
+    "year": 1935,
+    "cast": [
+      "Richard Talmadge",
+      "Alberta Vaughn"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-live-wire.html"
+}

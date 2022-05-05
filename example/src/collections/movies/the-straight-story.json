@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Straight Story",
+    "year": 1999,
+    "cast": [
+      "Richard Farnsworth",
+      "Sissy Spacek",
+      "Harry Dean Stanton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-straight-story.html"
+}

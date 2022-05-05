@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chinese Box",
+    "year": 1997,
+    "cast": [
+      "Jeremy Irons",
+      "Gong Li"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/chinese-box.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pinocchio",
+    "year": 2002,
+    "cast": [
+      "Roberto Benigni",
+      "Nicoletta Braschi",
+      "Kim Rossi Stuart"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/pinocchio.html"
+}

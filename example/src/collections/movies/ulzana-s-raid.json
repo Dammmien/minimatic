@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ulzana's Raid",
+    "year": 1972,
+    "cast": [
+      "Burt Lancaster",
+      "Bruce Davison",
+      "Richard Jaeckel"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ulzana-s-raid.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jungle Manhunt",
+    "year": 1951,
+    "cast": [
+      "Johnny Weissmuller",
+      "Sheila Ryan"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/jungle-manhunt.html"
+}

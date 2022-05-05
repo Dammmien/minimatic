@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Carriers",
+    "year": 2009,
+    "cast": [
+      "Lou Taylor Pucci",
+      "Chris Pine",
+      "Piper Perabo",
+      "Emily VanCamp",
+      "Christopher Meloni"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/carriers.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Farmer in the Dell",
+    "year": 1936,
+    "cast": [
+      "Frank Albertson",
+      "Moroni Olsen",
+      "Lucille Ball"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-farmer-in-the-dell.html"
+}

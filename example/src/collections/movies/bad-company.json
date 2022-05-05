@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bad Company",
+    "year": 2002,
+    "cast": [
+      "Anthony Hopkins",
+      "Chris Rock"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/bad-company.html"
+}

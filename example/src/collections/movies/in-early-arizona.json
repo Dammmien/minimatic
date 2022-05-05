@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In Early Arizona",
+    "year": 1938,
+    "cast": [
+      "Bill Elliott",
+      "Dorothy Gulliver"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/in-early-arizona.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Homegrown",
+    "year": 1998,
+    "cast": [
+      "John Lithgow",
+      "Billy Bob Thornton",
+      "Hank Azaria",
+      "Kelly Lynch"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/homegrown.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Vicki",
+    "year": 1953,
+    "cast": [
+      "Jeanne Crain",
+      "Jean Peters",
+      "Richard Boone"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/vicki.html"
+}

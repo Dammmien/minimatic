@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "For Another Woman",
+    "year": 1924,
+    "cast": [
+      "Kenneth Harlan",
+      "Florence Billings"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/for-another-woman.html"
+}

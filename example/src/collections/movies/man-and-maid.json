@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man and Maid",
+    "year": 1925,
+    "cast": [
+      "Lew Cody",
+      "Renée Adorée"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/man-and-maid.html"
+}

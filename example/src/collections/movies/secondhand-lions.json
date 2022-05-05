@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Secondhand Lions",
+    "year": 2003,
+    "cast": [
+      "Michael Caine",
+      "Robert Duvall",
+      "Haley Joel Osment"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/secondhand-lions.html"
+}

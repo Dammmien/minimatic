@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sudden Death",
+    "year": 1995,
+    "cast": [
+      "Jean-Claude Van Damme",
+      "Powers Boothe",
+      "Dorian Harewood"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/sudden-death.html"
+}

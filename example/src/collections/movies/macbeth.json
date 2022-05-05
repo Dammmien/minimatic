@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Macbeth",
+    "year": 1948,
+    "cast": [
+      "Orson Welles",
+      "Jeanette Nolan",
+      "Dan O'Herlihy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/macbeth.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cannibal Attack",
+    "year": 1954,
+    "cast": [
+      "Johnny Weissmuller",
+      "Judy Walsh"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/cannibal-attack.html"
+}

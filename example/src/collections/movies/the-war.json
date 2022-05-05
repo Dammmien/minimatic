@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The War",
+    "year": 1994,
+    "cast": [
+      "Kevin Costner",
+      "Elijah Wood",
+      "Christine Baranski"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-war.html"
+}

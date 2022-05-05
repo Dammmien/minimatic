@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great McGinty",
+    "year": 1940,
+    "cast": [
+      "Brian Donlevy",
+      "Muriel Angelus",
+      "Akim Tamiroff"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-great-mcginty.html"
+}

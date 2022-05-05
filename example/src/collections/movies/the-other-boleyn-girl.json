@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Other Boleyn Girl",
+    "year": 2008,
+    "cast": [
+      "Natalie Portman",
+      "Scarlett Johansson",
+      "Eric Bana"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-other-boleyn-girl.html"
+}

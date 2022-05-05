@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Song of the Gringo",
+    "year": 1936,
+    "cast": [
+      "Tex Ritter",
+      "Joan Woodbury",
+      "Monte Blue"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/song-of-the-gringo.html"
+}

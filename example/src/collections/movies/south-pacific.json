@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "South Pacific",
+    "year": 1958,
+    "cast": [
+      "Mitzi Gaynor",
+      "Rossano Brazzi",
+      "John Kerr",
+      "France Nuyen",
+      "Juanita Hall",
+      "Ray Walston"
+    ],
+    "genres": [
+      "Musical",
+      "War"
+    ]
+  },
+  "output": "movies/south-pacific.html"
+}

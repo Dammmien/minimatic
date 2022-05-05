@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Midstream",
+    "year": 1929,
+    "cast": [
+      "Ricardo Cortez",
+      "Claire Windsor",
+      "Montagu Love"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/midstream.html"
+}

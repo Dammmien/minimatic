@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Carefree",
+    "year": 1938,
+    "cast": [
+      "Fred Astaire",
+      "Ginger Rogers",
+      "Jack Carson"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/carefree.html"
+}

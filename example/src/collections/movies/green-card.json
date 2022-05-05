@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Green Card",
+    "year": 1990,
+    "cast": [
+      "Andie MacDowell",
+      "Gérard Depardieu"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/green-card.html"
+}

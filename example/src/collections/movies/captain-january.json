@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Captain January",
+    "year": 1936,
+    "cast": [
+      "Shirley Temple",
+      "Buddy Ebsen",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/captain-january.html"
+}

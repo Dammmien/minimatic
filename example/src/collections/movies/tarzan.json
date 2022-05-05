@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Tarzan",
+    "year": 1999,
+    "cast": [
+      "Tony Goldwyn",
+      "Minnie Driver",
+      "Glenn Close",
+      "Rosie O'Donnell",
+      "Brian Blessed",
+      "Nigel Hawthorne",
+      "Lance Henriksen",
+      "Wayne Knight"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/tarzan.html"
+}

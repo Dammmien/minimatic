@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Overlord",
+    "year": 2018,
+    "cast": [
+      "Jovan Adepo",
+      "Wyatt Russell",
+      "Jacob Anderson",
+      "Dominic Applewhite",
+      "Pilou Asbæk",
+      "Iain De Caestecker",
+      "John Magaro",
+      "Mathilde Ollivier",
+      "Bokeem Woodbine"
+    ],
+    "genres": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/overlord.html"
+}

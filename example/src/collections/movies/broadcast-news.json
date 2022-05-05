@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Broadcast News",
+    "year": 1987,
+    "cast": [
+      "William Hurt",
+      "Albert Brooks",
+      "Holly Hunter",
+      "Joan Cusack",
+      "Robert Prosky",
+      "Lois Chiles",
+      "Jack Nicholson"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/broadcast-news.html"
+}

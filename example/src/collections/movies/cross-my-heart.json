@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cross My Heart",
+    "year": 1987,
+    "cast": [
+      "Martin Short",
+      "Annette O'Toole",
+      "Paul Reiser"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/cross-my-heart.html"
+}

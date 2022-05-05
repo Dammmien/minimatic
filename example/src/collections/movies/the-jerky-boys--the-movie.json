@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Jerky Boys: The Movie",
+    "year": 1995,
+    "cast": [
+      "The Jerky Boys",
+      "Alan Arkin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-jerky-boys--the-movie.html"
+}

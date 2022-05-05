@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Blood Work",
+    "year": 2002,
+    "cast": [
+      "Clint Eastwood",
+      "Jeff Daniels",
+      "Anjelica Huston",
+      "Wanda De Jesus"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/blood-work.html"
+}

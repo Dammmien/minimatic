@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "New York Confidential",
+    "year": 1955,
+    "cast": [
+      "Broderick Crawford",
+      "Richard Conte"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/new-york-confidential.html"
+}

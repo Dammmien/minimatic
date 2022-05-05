@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Russkies",
+    "year": 1987,
+    "cast": [
+      "Joaquin Phoenix",
+      "Peter Billingsley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/russkies.html"
+}

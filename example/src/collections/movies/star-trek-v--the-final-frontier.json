@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Star Trek V: The Final Frontier",
+    "year": 1989,
+    "cast": [
+      "William Shatner",
+      "Leonard Nimoy",
+      "DeForest Kelley",
+      "Nichelle Nichols",
+      "George Takei",
+      "James Doohan",
+      "Laurence Luckinbill"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/star-trek-v--the-final-frontier.html"
+}

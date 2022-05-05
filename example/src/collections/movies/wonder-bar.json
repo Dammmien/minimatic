@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wonder Bar",
+    "year": 1934,
+    "cast": [
+      "Al Jolson",
+      "Dolores del Río",
+      "Kay Francis"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/wonder-bar.html"
+}

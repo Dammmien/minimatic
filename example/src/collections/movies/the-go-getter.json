@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Go-Getter",
+    "year": 2007,
+    "cast": [
+      "Lou Taylor Pucci",
+      "Zooey Deschanel",
+      "Jena Malone"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-go-getter.html"
+}

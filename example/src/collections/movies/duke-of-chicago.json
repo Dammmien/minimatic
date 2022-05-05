@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Duke of Chicago",
+    "year": 1949,
+    "cast": [
+      "Audrey Long",
+      "Grant Withers"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/duke-of-chicago.html"
+}

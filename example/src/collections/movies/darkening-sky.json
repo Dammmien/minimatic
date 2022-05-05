@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Darkening Sky",
+    "year": 2010,
+    "cast": [
+      "Rider Strong",
+      "Danica Stewart"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/darkening-sky.html"
+}

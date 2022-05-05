@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Christmas Evil",
+    "year": 1980,
+    "cast": [
+      "Brandon Maggart"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/christmas-evil.html"
+}

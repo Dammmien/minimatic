@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Moonrise",
+    "year": 1948,
+    "cast": [
+      "Gail Russell",
+      "Dane Clark"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/moonrise.html"
+}

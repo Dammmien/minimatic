@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rabid",
+    "year": 1977,
+    "cast": [
+      "Marilyn Chambers",
+      "Joe Silver",
+      "Howard Ryshpan"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/rabid.html"
+}

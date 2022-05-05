@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Tale of Despereaux",
+    "year": 2008,
+    "cast": [
+      "Matthew Broderick",
+      "Emma Watson",
+      "Dustin Hoffman",
+      "Robbie Coltrane"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-tale-of-despereaux.html"
+}

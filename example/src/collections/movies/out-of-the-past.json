@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Out of the Past",
+    "year": 1947,
+    "cast": [
+      "Robert Mitchum",
+      "Jane Greer",
+      "Kirk Douglas",
+      "Rhonda Fleming",
+      "Steve Brodie"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/out-of-the-past.html"
+}

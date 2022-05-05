@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Star Wars: The Clone Wars",
+    "year": 2008,
+    "cast": [
+      "James Arnold Taylor",
+      "Matt Lanter",
+      "Ashley Eckstein",
+      "Tom Kane"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/star-wars--the-clone-wars.html"
+}

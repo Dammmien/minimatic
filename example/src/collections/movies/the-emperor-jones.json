@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Emperor Jones",
+    "year": 1933,
+    "cast": [
+      "Paul Robeson",
+      "Frank H. Wilson",
+      "Dudley Digges"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-emperor-jones.html"
+}

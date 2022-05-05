@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Deerslayer",
+    "year": 1943,
+    "cast": [
+      "Jean Parker",
+      "Larry Parks",
+      "Yvonne DeCarlo"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/deerslayer.html"
+}

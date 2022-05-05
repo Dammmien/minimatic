@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Facts of Life",
+    "year": 1960,
+    "cast": [
+      "Bob Hope",
+      "Lucille Ball",
+      "Ruth Hussey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-facts-of-life.html"
+}

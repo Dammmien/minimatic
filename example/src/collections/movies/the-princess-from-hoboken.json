@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Princess from Hoboken",
+    "year": 1927,
+    "cast": [
+      "Edmund Burns",
+      "Blanche Mehaffey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-princess-from-hoboken.html"
+}

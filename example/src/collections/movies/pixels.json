@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Pixels",
+    "year": 2015,
+    "cast": [
+      "Adam Sandler",
+      "Kevin James",
+      "Peter Dinklage",
+      "Josh Gad"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy"
+    ]
+  },
+  "output": "movies/pixels.html"
+}

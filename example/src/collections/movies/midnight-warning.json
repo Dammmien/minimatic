@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Midnight Warning",
+    "year": 1932,
+    "cast": [
+      "William Boyd",
+      "Claudia Dell"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/midnight-warning.html"
+}

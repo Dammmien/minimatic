@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Shadow Man",
+    "year": 1988,
+    "cast": [
+      "Tom Hulce"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shadow-man.html"
+}

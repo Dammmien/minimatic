@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Spirit of Notre Dame",
+    "year": 1931,
+    "cast": [
+      "Lew Ayres",
+      "Sally Blane",
+      "William Bakewell"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/the-spirit-of-notre-dame.html"
+}

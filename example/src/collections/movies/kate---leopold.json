@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Kate & Leopold",
+    "year": 2001,
+    "cast": [
+      "Meg Ryan",
+      "Hugh Jackman",
+      "Liev Schreiber",
+      "Breckin Meyer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kate---leopold.html"
+}

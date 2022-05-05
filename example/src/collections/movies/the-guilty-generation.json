@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Guilty Generation",
+    "year": 1931,
+    "cast": [
+      "Leo Carillo",
+      "Constance Cummings",
+      "Robert Young"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-guilty-generation.html"
+}

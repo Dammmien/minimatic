@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "S*H*E",
+    "year": 1980,
+    "cast": [
+      "Omar Sharif",
+      "Anita Ekberg",
+      "Cornelia Sharpe"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/s-h-e.html"
+}

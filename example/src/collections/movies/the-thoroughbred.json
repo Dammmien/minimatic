@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Thoroughbred",
+    "year": 1925,
+    "cast": [
+      "Theodore von Eltz",
+      "Gladys Hulette"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/the-thoroughbred.html"
+}

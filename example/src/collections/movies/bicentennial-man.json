@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Bicentennial Man",
+    "year": 1999,
+    "cast": [
+      "Robin Williams",
+      "Sam Neill",
+      "Embeth Davidtz",
+      "Oliver Platt",
+      "Wendy Crewson",
+      "Hallie Kate Eisenberg"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/bicentennial-man.html"
+}

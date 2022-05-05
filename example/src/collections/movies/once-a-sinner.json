@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Once a Sinner",
+    "year": 1931,
+    "cast": [
+      "Dorothy Mackaill",
+      "Joel McCrea"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/once-a-sinner.html"
+}

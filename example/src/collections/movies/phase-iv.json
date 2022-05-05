@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Phase IV",
+    "year": 1974,
+    "cast": [
+      "Michael Murphy",
+      "Nigel Davenport"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/phase-iv.html"
+}

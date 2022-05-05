@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Canyon Crossroads",
+    "year": 1955,
+    "cast": [
+      "Richard Basehart",
+      "Phyllis Kirk"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/canyon-crossroads.html"
+}

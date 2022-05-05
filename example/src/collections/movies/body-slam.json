@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Body Slam",
+    "year": 1987,
+    "cast": [
+      "Dirk Benedict",
+      "Roddy Piper",
+      "Tanya Roberts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/body-slam.html"
+}

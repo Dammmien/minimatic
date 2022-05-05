@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Let 'Em Have It",
+    "year": 1935,
+    "cast": [
+      "Richard Arlen",
+      "Virginia Bruce"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/let--em-have-it.html"
+}

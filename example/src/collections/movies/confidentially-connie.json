@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Confidentially Connie",
+    "year": 1953,
+    "cast": [
+      "Van Johnson",
+      "Janet Leigh",
+      "Louis Calhern"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/confidentially-connie.html"
+}

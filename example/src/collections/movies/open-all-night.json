@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Open All Night",
+    "year": 1924,
+    "cast": [
+      "Viola Dana",
+      "Jetta Goudal",
+      "Raymond Griffith"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/open-all-night.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Broken Arrow",
+    "year": 1996,
+    "cast": [
+      "John Travolta",
+      "Christian Slater",
+      "Samantha Mathis"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/broken-arrow.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Guns of Hate",
+    "year": 1948,
+    "cast": [
+      "Tim Holt",
+      "Nan Leslie"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/guns-of-hate.html"
+}

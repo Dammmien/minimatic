@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The City of Comrades",
+    "year": 1919,
+    "cast": [
+      "Tom Moore",
+      "Seena Owen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-city-of-comrades.html"
+}

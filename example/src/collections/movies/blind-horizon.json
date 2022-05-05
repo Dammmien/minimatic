@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blind Horizon",
+    "year": 2003,
+    "cast": [
+      "Val Kilmer",
+      "Neve Campbell",
+      "Sam Shepard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blind-horizon.html"
+}

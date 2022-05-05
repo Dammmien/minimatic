@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "From Headquarters",
+    "year": 1933,
+    "cast": [
+      "George Brent",
+      "Margaret Lindsay"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/from-headquarters.html"
+}

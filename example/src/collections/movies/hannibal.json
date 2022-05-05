@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Hannibal",
+    "year": 2001,
+    "cast": [
+      "Anthony Hopkins",
+      "Julianne Moore",
+      "Gary Oldman",
+      "Giancarlo Giannini",
+      "Ray Liotta"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/hannibal.html"
+}

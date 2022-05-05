@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Merrily We Live",
+    "year": 1938,
+    "cast": [
+      "Constance Bennett",
+      "Billie Burke",
+      "Brian Aherne"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/merrily-we-live.html"
+}

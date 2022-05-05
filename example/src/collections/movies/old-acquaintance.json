@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Old Acquaintance",
+    "year": 1943,
+    "cast": [
+      "Bette Davis",
+      "Miriam Hopkins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/old-acquaintance.html"
+}

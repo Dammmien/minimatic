@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Moonlight in Havana",
+    "year": 1942,
+    "cast": [
+      "Allan Jones",
+      "Jane Frazee",
+      "Marjorie Lord"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/moonlight-in-havana.html"
+}

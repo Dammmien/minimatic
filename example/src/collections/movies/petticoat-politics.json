@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Petticoat Politics",
+    "year": 1941,
+    "cast": [
+      "Ruth Donnelly",
+      "Roscoe Karns"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/petticoat-politics.html"
+}

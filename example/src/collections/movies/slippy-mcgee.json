@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Slippy McGee",
+    "year": 1948,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Dale Evans"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/slippy-mcgee.html"
+}

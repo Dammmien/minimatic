@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Night Message",
+    "year": 1924,
+    "cast": [
+      "Howard Truesdale",
+      "Gladys Hulette"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-night-message.html"
+}

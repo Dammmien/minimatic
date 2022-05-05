@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sea Hornet",
+    "year": 1951,
+    "cast": [
+      "Rod Cameron",
+      "Adele Mara"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-sea-hornet.html"
+}

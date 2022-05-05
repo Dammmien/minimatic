@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Phantom City",
+    "year": 1928,
+    "cast": [
+      "Ken Maynard",
+      "Eugenia Gilbert"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-phantom-city.html"
+}

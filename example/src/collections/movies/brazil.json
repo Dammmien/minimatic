@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Brazil",
+    "year": 1985,
+    "cast": [
+      "Jonathan Pryce",
+      "Kim Greist",
+      "Michael Palin",
+      "Robert De Niro",
+      "Katherine Helmond"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/brazil.html"
+}

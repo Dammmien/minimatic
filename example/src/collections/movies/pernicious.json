@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Pernicious",
+    "year": 2014,
+    "cast": [
+      "Ciara Hanna",
+      "Emily O'Brien",
+      "Jackie Moore",
+      "Russell Geoffrey"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/pernicious.html"
+}

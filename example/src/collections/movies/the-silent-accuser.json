@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Silent Accuser",
+    "year": 1924,
+    "cast": [
+      "Eleanor Boardman",
+      "Raymond McKee"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-silent-accuser.html"
+}

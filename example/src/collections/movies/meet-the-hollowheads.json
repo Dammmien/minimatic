@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Meet the Hollowheads",
+    "year": 1989,
+    "cast": [
+      "Juliette Lewis",
+      "John Glover"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/meet-the-hollowheads.html"
+}

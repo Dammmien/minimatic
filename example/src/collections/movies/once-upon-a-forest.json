@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Once Upon a Forest",
+    "year": 1993,
+    "cast": [
+      "Michael Crawford",
+      "Ellen Blain"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/once-upon-a-forest.html"
+}

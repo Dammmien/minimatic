@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Children of Dreams",
+    "year": 1931,
+    "cast": [
+      "Tom Patricola",
+      "Marion Byron"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/children-of-dreams.html"
+}

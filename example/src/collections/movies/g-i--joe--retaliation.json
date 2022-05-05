@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "G.I. Joe: Retaliation",
+    "year": 2013,
+    "cast": [
+      "D. J. Cotrona",
+      "Lee Byung-hun",
+      "Adrianne Palicki",
+      "Ray Park",
+      "Jonathan Pryce",
+      "Ray Stevenson",
+      "Channing Tatum",
+      "Bruce Willis",
+      "Dwayne Johnson"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/g-i--joe--retaliation.html"
+}

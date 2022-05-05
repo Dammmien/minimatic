@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Any Given Sunday",
+    "year": 1999,
+    "cast": [
+      "Al Pacino",
+      "Dennis Quaid",
+      "Cameron Diaz",
+      "Jamie Foxx",
+      "James Woods",
+      "LL Cool J",
+      "John C. McGinley",
+      "Ann-Margret"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/any-given-sunday.html"
+}

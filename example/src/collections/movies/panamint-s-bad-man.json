@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Panamint's Bad Man",
+    "year": 1938,
+    "cast": [
+      "Smith Ballew",
+      "Evelyn Daw",
+      "Noah Beery"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/panamint-s-bad-man.html"
+}

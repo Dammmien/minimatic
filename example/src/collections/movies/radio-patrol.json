@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Radio Patrol",
+    "year": 1932,
+    "cast": [
+      "Robert Armstrong",
+      "Lila Lee",
+      "June Clyde"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/radio-patrol.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Disaster",
+    "year": 1948,
+    "cast": [
+      "Richard Denning",
+      "Trudy Marshall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/disaster.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "21 Grams",
+    "year": 2003,
+    "cast": [
+      "Sean Penn",
+      "Naomi Watts",
+      "Benicio del Toro"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/21-grams.html"
+}

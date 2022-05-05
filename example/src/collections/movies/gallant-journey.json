@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gallant Journey",
+    "year": 1946,
+    "cast": [
+      "Glenn Ford",
+      "Janet Blair",
+      "Charlie Ruggles"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/gallant-journey.html"
+}

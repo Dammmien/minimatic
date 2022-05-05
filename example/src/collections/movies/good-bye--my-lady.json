@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Good-bye, My Lady",
+    "year": 1956,
+    "cast": [
+      "Brandon deWilde",
+      "Walter Brennan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/good-bye--my-lady.html"
+}

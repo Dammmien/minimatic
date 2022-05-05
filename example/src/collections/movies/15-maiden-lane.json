@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "15 Maiden Lane",
+    "year": 1936,
+    "cast": [
+      "Claire Trevor",
+      "Cesar Romero",
+      "Lloyd Nolan"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/15-maiden-lane.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cry Vengeance",
+    "year": 1954,
+    "cast": [
+      "Mark Stevens",
+      "Skip Homeier",
+      "Martha Hyer"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/cry-vengeance.html"
+}

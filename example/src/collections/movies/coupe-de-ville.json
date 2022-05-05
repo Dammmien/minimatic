@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Coupe de Ville",
+    "year": 1990,
+    "cast": [
+      "Daniel Stern",
+      "Patrick Dempsey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/coupe-de-ville.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "An Arcadian Maid",
+    "year": 1910,
+    "cast": [
+      "Mary Pickford",
+      "Mack Sennett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/an-arcadian-maid.html"
+}

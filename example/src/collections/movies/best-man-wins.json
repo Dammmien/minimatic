@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Best Man Wins",
+    "year": 1948,
+    "cast": [
+      "Anna Lee",
+      "Edgar Buchanan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/best-man-wins.html"
+}

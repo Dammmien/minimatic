@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hall Pass",
+    "year": 2011,
+    "cast": [
+      "Owen Wilson",
+      "Jason Sudeikis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hall-pass.html"
+}

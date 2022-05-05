@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Congo",
+    "year": 1995,
+    "cast": [
+      "Dylan Walsh",
+      "Laura Linney",
+      "Ernie Hudson",
+      "Tim Curry",
+      "Grant Heslov",
+      "Joe Don Baker"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ]
+  },
+  "output": "movies/congo.html"
+}

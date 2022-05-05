@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mexican Spitfire at Sea",
+    "year": 1942,
+    "cast": [
+      "Lupe Vélez",
+      "Leon Errol"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mexican-spitfire-at-sea.html"
+}

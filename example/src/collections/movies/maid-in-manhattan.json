@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Maid in Manhattan",
+    "year": 2002,
+    "cast": [
+      "Jennifer Lopez",
+      "Ralph Fiennes",
+      "Natasha Richardson"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/maid-in-manhattan.html"
+}

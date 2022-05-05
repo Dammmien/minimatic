@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Bring Me the Head of Alfredo Garcia",
+    "year": 1974,
+    "cast": [
+      "Warren Oates",
+      "Isela Vega",
+      "Helmut Dantine",
+      "Robert Webber",
+      "Gig Young"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/bring-me-the-head-of-alfredo-garcia.html"
+}

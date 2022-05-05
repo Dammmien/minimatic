@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Emperor Waltz",
+    "year": 1948,
+    "cast": [
+      "Bing Crosby",
+      "Joan Fontaine"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-emperor-waltz.html"
+}

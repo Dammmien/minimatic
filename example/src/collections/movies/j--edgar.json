@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "J. Edgar",
+    "year": 2011,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Naomi Watts",
+      "Armie Hammer",
+      "Josh Lucas",
+      "and",
+      "Judi Dench",
+      "Damon Herriman",
+      "Ed Westwick",
+      "Jeffrey Donovan",
+      "Ken Howard",
+      "Stephen Root",
+      "Denis O'Hare",
+      "Geoff Pierson",
+      "Lea Thompson",
+      "Gunner Wright"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/j--edgar.html"
+}

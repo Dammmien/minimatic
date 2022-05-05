@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Partners of the Plains",
+    "year": 1938,
+    "cast": [
+      "William Boyd",
+      "Russell Hayden",
+      "Gwen Gaze"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/partners-of-the-plains.html"
+}

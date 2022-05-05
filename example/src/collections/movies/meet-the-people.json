@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Meet the People",
+    "year": 1944,
+    "cast": [
+      "Lucille Ball",
+      "Dick Powell"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/meet-the-people.html"
+}

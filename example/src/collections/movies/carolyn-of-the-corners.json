@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Carolyn of the Corners",
+    "year": 1919,
+    "cast": [
+      "Bessie Love",
+      "Charlotte Mineau"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/carolyn-of-the-corners.html"
+}

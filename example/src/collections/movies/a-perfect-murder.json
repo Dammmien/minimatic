@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Perfect Murder",
+    "year": 1998,
+    "cast": [
+      "Michael Douglas",
+      "Gwyneth Paltrow",
+      "Viggo Mortensen",
+      "David Suchet"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/a-perfect-murder.html"
+}

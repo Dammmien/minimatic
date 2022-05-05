@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The 'Burbs",
+    "year": 1989,
+    "cast": [
+      "Tom Hanks",
+      "Bruce Dern",
+      "Carrie Fisher",
+      "Rick Ducommun",
+      "Corey Feldman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the--burbs.html"
+}

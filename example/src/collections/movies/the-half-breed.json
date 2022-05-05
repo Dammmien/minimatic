@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Half-Breed",
+    "year": 1952,
+    "cast": [
+      "Robert Young",
+      "Janis Carter"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-half-breed.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hearts in Exile",
+    "year": 1929,
+    "cast": [
+      "Dolores Costello",
+      "Grant Withers"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/hearts-in-exile.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strangers in the Night",
+    "year": 1944,
+    "cast": [
+      "William Terry",
+      "Virginia Grey"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/strangers-in-the-night.html"
+}

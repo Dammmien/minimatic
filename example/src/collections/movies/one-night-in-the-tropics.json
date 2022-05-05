@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Night in the Tropics",
+    "year": 1940,
+    "cast": [
+      "Abbott and Costello",
+      "Nancy Kelly",
+      "Allan Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-night-in-the-tropics.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Slim Fingers",
+    "year": 1929,
+    "cast": [
+      "Bill Cody",
+      "Duane Thompson"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/slim-fingers.html"
+}

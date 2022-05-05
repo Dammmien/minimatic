@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Feather in Her Hat",
+    "year": 1935,
+    "cast": [
+      "Pauline Lord",
+      "Basil Rathbone",
+      "Louis Hayward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-feather-in-her-hat.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love and Learn",
+    "year": 1947,
+    "cast": [
+      "Jack Carson",
+      "Martha Vickers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-and-learn.html"
+}

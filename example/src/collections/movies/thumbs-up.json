@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thumbs Up",
+    "year": 1943,
+    "cast": [
+      "Brenda Joyce",
+      "Richard Fraser"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/thumbs-up.html"
+}

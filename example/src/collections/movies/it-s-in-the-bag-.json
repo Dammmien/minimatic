@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It's in the Bag!",
+    "year": 1945,
+    "cast": [
+      "Fred Allen",
+      "Jack Benny",
+      "Don Ameche"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-in-the-bag-.html"
+}

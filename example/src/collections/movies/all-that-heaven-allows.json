@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "All That Heaven Allows",
+    "year": 1955,
+    "cast": [
+      "Jane Wyman",
+      "Rock Hudson"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/all-that-heaven-allows.html"
+}

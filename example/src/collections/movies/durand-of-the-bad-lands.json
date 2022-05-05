@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Durand of the Bad Lands",
+    "year": 1925,
+    "cast": [
+      "Buck Jones",
+      "Marian Nixon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/durand-of-the-bad-lands.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Crazy on the Outside",
+    "year": 2010,
+    "cast": [
+      "Tim Allen",
+      "Sigourney Weaver",
+      "Jeanne Tripplehorn",
+      "J. K. Simmons",
+      "Julie Bowen",
+      "Kelsey Grammer",
+      "Ray Liotta"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/crazy-on-the-outside.html"
+}

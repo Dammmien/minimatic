@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Black Magic",
+    "year": 1949,
+    "cast": [
+      "Orson Welles",
+      "Nancy Guild"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/black-magic.html"
+}

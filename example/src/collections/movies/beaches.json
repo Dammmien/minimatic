@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Beaches",
+    "year": 1988,
+    "cast": [
+      "Bette Midler",
+      "Barbara Hershey",
+      "John Heard",
+      "James Read",
+      "Lainie Kazan",
+      "Spalding Gray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beaches.html"
+}

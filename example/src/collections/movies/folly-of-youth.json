@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Folly of Youth",
+    "year": 1925,
+    "cast": [
+      "Gaston Glass",
+      "Noah Beery",
+      "Gertrude Astor"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/folly-of-youth.html"
+}

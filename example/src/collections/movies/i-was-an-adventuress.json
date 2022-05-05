@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Was an Adventuress",
+    "year": 1940,
+    "cast": [
+      "Vera Zorina",
+      "Richard Greene"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-was-an-adventuress.html"
+}

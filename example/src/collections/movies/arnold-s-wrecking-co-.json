@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Arnold's Wrecking Co.",
+    "year": 1973,
+    "cast": [
+      "Barbara Hencheck"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/arnold-s-wrecking-co-.html"
+}

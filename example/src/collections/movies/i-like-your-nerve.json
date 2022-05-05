@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Like Your Nerve",
+    "year": 1931,
+    "cast": [
+      "Douglas Fairbanks Jr.",
+      "Loretta Young"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-like-your-nerve.html"
+}

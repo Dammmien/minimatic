@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spook Chasers",
+    "year": 1957,
+    "cast": [
+      "Huntz Hall",
+      "Stanley Clements"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/spook-chasers.html"
+}

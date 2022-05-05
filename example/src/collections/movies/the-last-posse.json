@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last Posse",
+    "year": 1953,
+    "cast": [
+      "Broderick Crawford",
+      "Wanda Hendrix",
+      "John Derek"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-last-posse.html"
+}

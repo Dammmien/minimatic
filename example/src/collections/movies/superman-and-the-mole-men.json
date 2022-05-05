@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Superman and the Mole Men",
+    "year": 1951,
+    "cast": [
+      "George Reeves",
+      "Phyllis Coates"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/superman-and-the-mole-men.html"
+}

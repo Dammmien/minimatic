@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Mutiny on the Bounty",
+    "year": 1962,
+    "cast": [
+      "Marlon Brando",
+      "Trevor Howard",
+      "Richard Harris",
+      "Richard Haydn",
+      "Hugh Griffith"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/mutiny-on-the-bounty.html"
+}

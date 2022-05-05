@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder in Times Square",
+    "year": 1943,
+    "cast": [
+      "Edmund Lowe",
+      "Marguerite Chapman"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder-in-times-square.html"
+}

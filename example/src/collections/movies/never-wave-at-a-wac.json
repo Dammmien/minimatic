@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Never Wave at a WAC",
+    "year": 1953,
+    "cast": [
+      "Rosalind Russell",
+      "Paul Douglas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/never-wave-at-a-wac.html"
+}

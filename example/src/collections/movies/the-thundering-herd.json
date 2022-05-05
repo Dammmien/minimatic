@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Thundering Herd",
+    "year": 1933,
+    "cast": [
+      "Randolph Scott",
+      "Judith Allen",
+      "Buster Crabbe"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-thundering-herd.html"
+}

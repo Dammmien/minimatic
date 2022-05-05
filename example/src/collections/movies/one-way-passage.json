@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Way Passage",
+    "year": 1932,
+    "cast": [
+      "William Powell",
+      "Kay Francis",
+      "Aline MacMahon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/one-way-passage.html"
+}

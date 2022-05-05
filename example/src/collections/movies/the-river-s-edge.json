@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The River's Edge",
+    "year": 1957,
+    "cast": [
+      "Anthony Quinn",
+      "Ray Milland",
+      "Debra Paget"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-river-s-edge.html"
+}

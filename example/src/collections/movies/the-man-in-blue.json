@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man in Blue",
+    "year": 1937,
+    "cast": [
+      "Robert Wilcox",
+      "Nan Grey"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-man-in-blue.html"
+}

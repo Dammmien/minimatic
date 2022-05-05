@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Spirit of St. Louis",
+    "year": 1957,
+    "cast": [
+      "James Stewart"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-spirit-of-st--louis.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Taxi Driver",
+    "year": 1976,
+    "cast": [
+      "Robert De Niro",
+      "Jodie Foster",
+      "Cybill Shepherd",
+      "Harvey Keitel",
+      "Peter Boyle",
+      "Albert Brooks"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/taxi-driver.html"
+}

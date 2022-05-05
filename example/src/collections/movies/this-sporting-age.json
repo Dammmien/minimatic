@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "This Sporting Age",
+    "year": 1932,
+    "cast": [
+      "Jack Holt",
+      "Evalyn Knapp"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/this-sporting-age.html"
+}

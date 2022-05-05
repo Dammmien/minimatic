@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Racing Blood",
+    "year": 1954,
+    "cast": [
+      "Bill Williams",
+      "Jean Porter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/racing-blood.html"
+}

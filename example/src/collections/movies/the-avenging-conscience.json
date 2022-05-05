@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Avenging Conscience",
+    "year": 1914,
+    "cast": [
+      "Henry B. Walthall",
+      "Blanche Sweet"
+    ],
+    "genres": [
+      "Drama",
+      "Horror"
+    ]
+  },
+  "output": "movies/the-avenging-conscience.html"
+}

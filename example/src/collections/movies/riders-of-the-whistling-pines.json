@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riders of the Whistling Pines",
+    "year": 1949,
+    "cast": [
+      "Gene Autry",
+      "Patricia Barry"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/riders-of-the-whistling-pines.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Desperate Hours",
+    "year": 1990,
+    "cast": [
+      "Anthony Hopkins",
+      "Mickey Rourke",
+      "Mimi Rogers",
+      "Kelly Lynch",
+      "Lindsay Crouse",
+      "David Morse",
+      "Elias Koteas",
+      "Shawnee Smith"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/desperate-hours.html"
+}

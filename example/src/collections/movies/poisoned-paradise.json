@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Poisoned Paradise",
+    "year": 1924,
+    "cast": [
+      "Kenneth Harlan",
+      "Clara Bow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/poisoned-paradise.html"
+}

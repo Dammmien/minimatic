@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "All Around Frying Pan",
+    "year": 1925,
+    "cast": [
+      "Fred Thomson",
+      "Clara Horton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/all-around-frying-pan.html"
+}

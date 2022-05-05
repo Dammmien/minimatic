@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The New Teacher",
+    "year": 1922,
+    "cast": [
+      "Shirley Mason",
+      "Allan Forrest"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-new-teacher.html"
+}

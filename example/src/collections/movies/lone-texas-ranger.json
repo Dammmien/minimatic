@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lone Texas Ranger",
+    "year": 1945,
+    "cast": [
+      "Wild Bill Elliott",
+      "Helen Talbot"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lone-texas-ranger.html"
+}

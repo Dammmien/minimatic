@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Eating Raoul",
+    "year": 1982,
+    "cast": [
+      "Paul Bartel",
+      "Mary Woronov",
+      "Robert Beltran"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/eating-raoul.html"
+}

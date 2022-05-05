@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Near Dark",
+    "year": 1987,
+    "cast": [
+      "Adrian Pasdar",
+      "Jenny Wright",
+      "Bill Paxton"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/near-dark.html"
+}

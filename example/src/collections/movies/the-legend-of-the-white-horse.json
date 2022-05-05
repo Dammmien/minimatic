@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Legend of the White Horse",
+    "year": 1987,
+    "cast": [
+      "Christopher Lloyd",
+      "Dee Wallace",
+      "Christopher Stone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-legend-of-the-white-horse.html"
+}

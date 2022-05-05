@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "F.I.S.T.",
+    "year": 1978,
+    "cast": [
+      "Sylvester Stallone",
+      "Rod Steiger",
+      "Melinda Dillon",
+      "Brian Dennehy",
+      "Kevin Conway",
+      "Peter Boyle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/f-i-s-t-.html"
+}

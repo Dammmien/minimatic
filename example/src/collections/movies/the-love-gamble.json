@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Love Gamble",
+    "year": 1925,
+    "cast": [
+      "Lillian Rich",
+      "Robert Frazer",
+      "Pauline Garon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-love-gamble.html"
+}

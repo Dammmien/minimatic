@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "She's All That",
+    "year": 1999,
+    "cast": [
+      "Freddie Prinze Jr.",
+      "Rachael Leigh Cook",
+      "Matthew Lillard",
+      "Paul Walker",
+      "Jodi Lyn O'Keefe",
+      "Kieran Culkin",
+      "Anna Paquin"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-s-all-that.html"
+}

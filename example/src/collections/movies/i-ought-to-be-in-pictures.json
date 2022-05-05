@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Ought to Be in Pictures",
+    "year": 1982,
+    "cast": [
+      "Walter Matthau",
+      "Ann-Margret",
+      "Dinah Manoff"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-ought-to-be-in-pictures.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Prometheus",
+    "year": 2012,
+    "cast": [
+      "Noomi Rapace",
+      "Michael Fassbender",
+      "Guy Pearce",
+      "Idris Elba",
+      "Logan Marshall-Green",
+      "Charlize Theron"
+    ],
+    "genres": [
+      "Action",
+      "Horror",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/prometheus.html"
+}

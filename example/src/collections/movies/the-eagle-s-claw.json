@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Eagle's Claw",
+    "year": 1924,
+    "cast": [
+      "Guinn \"Big Boy\" Williams",
+      "Lew Meehan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-eagle-s-claw.html"
+}

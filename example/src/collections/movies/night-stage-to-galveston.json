@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night Stage to Galveston",
+    "year": 1952,
+    "cast": [
+      "Gene Autry",
+      "Virginia Huston"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/night-stage-to-galveston.html"
+}

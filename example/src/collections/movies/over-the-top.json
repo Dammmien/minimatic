@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Over the Top",
+    "year": 1987,
+    "cast": [
+      "Sylvester Stallone",
+      "Robert Loggia",
+      "David Mendenhall",
+      "Susan Blakely"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/over-the-top.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Knockout Kid",
+    "year": 1925,
+    "cast": [
+      "Jack Perrin",
+      "Eva Thatcher"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-knockout-kid.html"
+}

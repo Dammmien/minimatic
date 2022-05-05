@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Van Helsing",
+    "year": 2004,
+    "cast": [
+      "Hugh Jackman",
+      "Kate Beckinsale",
+      "Richard Roxburgh",
+      "David Wenham",
+      "Will Kemp",
+      "Kevin J. O'Connor",
+      "Shuler Hensley"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/van-helsing.html"
+}

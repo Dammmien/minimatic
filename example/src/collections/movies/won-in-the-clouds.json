@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Won in the Clouds",
+    "year": 1928,
+    "cast": [
+      "Al Wilson",
+      "Helen Foster"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/won-in-the-clouds.html"
+}

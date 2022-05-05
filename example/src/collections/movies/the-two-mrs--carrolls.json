@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Two Mrs. Carrolls",
+    "year": 1947,
+    "cast": [
+      "Barbara Stanwyck",
+      "Humphrey Bogart",
+      "Alexis Smith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-two-mrs--carrolls.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Beverly Hills Cop II",
+    "year": 1987,
+    "cast": [
+      "Eddie Murphy",
+      "Judge Reinhold",
+      "Brigitte Nielsen",
+      "Jürgen Prochnow",
+      "Ronny Cox",
+      "John Ashton"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/beverly-hills-cop-ii.html"
+}

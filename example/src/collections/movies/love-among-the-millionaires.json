@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love Among the Millionaires",
+    "year": 1930,
+    "cast": [
+      "Clara Bow",
+      "Stuart Erwin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-among-the-millionaires.html"
+}

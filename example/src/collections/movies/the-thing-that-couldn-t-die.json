@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Thing That Couldn't Die",
+    "year": 1958,
+    "cast": [
+      "William Reynolds",
+      "Andra Martin"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-thing-that-couldn-t-die.html"
+}

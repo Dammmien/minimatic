@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Brewster McCloud",
+    "year": 1970,
+    "cast": [
+      "Bud Cort",
+      "Sally Kellerman",
+      "Shelley Duvall"
+    ],
+    "genres": [
+      "Fantasy",
+      "Comedy"
+    ]
+  },
+  "output": "movies/brewster-mccloud.html"
+}

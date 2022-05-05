@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Who Framed Roger Rabbit",
+    "year": 1988,
+    "cast": [
+      "Bob Hoskins",
+      "Joanna Cassidy",
+      "Christopher Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/who-framed-roger-rabbit.html"
+}

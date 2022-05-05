@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silent Sanderson",
+    "year": 1925,
+    "cast": [
+      "Harry Carey",
+      "Trilby Clark"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/silent-sanderson.html"
+}

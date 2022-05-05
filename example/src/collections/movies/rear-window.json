@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Rear Window",
+    "year": 1954,
+    "cast": [
+      "Grace Kelly",
+      "James Stewart",
+      "Thelma Ritter",
+      "Wendell Corey",
+      "Raymond Burr"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/rear-window.html"
+}

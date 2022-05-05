@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "3000 Miles to Graceland",
+    "year": 2001,
+    "cast": [
+      "Kurt Russell",
+      "Kevin Costner",
+      "Courteney Cox",
+      "Christian Slater",
+      "David Arquette",
+      "Kevin Pollak",
+      "Howie Long",
+      "Ice-T"
+    ],
+    "genres": [
+      "Action",
+      "Crime"
+    ]
+  },
+  "output": "movies/3000-miles-to-graceland.html"
+}

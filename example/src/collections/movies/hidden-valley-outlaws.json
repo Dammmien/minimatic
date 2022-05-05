@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hidden Valley Outlaws",
+    "year": 1944,
+    "cast": [
+      "Bill Elliott",
+      "George \"Gabby\" Hayes",
+      "Anne Jeffreys"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hidden-valley-outlaws.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Impossible Catherine",
+    "year": 1919,
+    "cast": [
+      "Virginia Pearson",
+      "William B. Davidson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/impossible-catherine.html"
+}

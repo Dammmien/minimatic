@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fig Leaves",
+    "year": 1926,
+    "cast": [
+      "George O'Brien",
+      "Olive Borden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fig-leaves.html"
+}

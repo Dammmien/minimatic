@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Masterson of Kansas",
+    "year": 1954,
+    "cast": [
+      "George Montgomery",
+      "Nancy Gates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/masterson-of-kansas.html"
+}

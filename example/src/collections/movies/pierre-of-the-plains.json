@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Pierre of the Plains",
+    "year": 1942,
+    "cast": [
+      "Ruth Hussey",
+      "Bruce Cabot",
+      "Reginald Owen",
+      "Evelyn Ankers"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/pierre-of-the-plains.html"
+}

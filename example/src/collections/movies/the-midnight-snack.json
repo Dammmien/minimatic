@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Midnight Snack",
+    "year": 1941,
+    "cast": [],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/the-midnight-snack.html"
+}

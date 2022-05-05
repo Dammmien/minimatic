@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Should a Woman Tell?",
+    "year": 1919,
+    "cast": [
+      "Alice Lake",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/should-a-woman-tell-.html"
+}

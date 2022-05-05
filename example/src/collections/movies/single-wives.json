@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Single Wives",
+    "year": 1924,
+    "cast": [
+      "Corinne Griffith",
+      "Milton Sills"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/single-wives.html"
+}

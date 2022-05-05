@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tarzan's Hidden Jungle",
+    "year": 1955,
+    "cast": [
+      "Gordon Scott",
+      "Vera Miles"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-s-hidden-jungle.html"
+}

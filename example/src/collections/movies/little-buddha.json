@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Little Buddha",
+    "year": 1994,
+    "cast": [
+      "Keanu Reeves",
+      "Bridget Fonda",
+      "Chris Isaak"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-buddha.html"
+}

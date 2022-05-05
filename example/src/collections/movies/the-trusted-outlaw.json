@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Trusted Outlaw",
+    "year": 1937,
+    "cast": [
+      "Bob Steele",
+      "Lois January",
+      "Joan Barclay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-trusted-outlaw.html"
+}

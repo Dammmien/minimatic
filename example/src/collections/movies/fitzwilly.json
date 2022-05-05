@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fitzwilly",
+    "year": 1967,
+    "cast": [
+      "Dick Van Dyke",
+      "Barbara Feldon",
+      "Edith Evans"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fitzwilly.html"
+}

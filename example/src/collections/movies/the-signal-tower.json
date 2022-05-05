@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Signal Tower",
+    "year": 1924,
+    "cast": [
+      "Virginia Valli",
+      "Rockliffe Fellowes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-signal-tower.html"
+}

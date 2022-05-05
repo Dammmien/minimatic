@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Bellyfruit",
+    "year": 1999,
+    "cast": [
+      "Michael Peña"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bellyfruit.html"
+}

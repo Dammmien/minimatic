@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rustlers",
+    "year": 1949,
+    "cast": [
+      "Tim Holt",
+      "Richard Martin",
+      "Martha Hyer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rustlers.html"
+}

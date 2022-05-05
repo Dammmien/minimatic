@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Murphy's Law",
+    "year": 1986,
+    "cast": [
+      "Charles Bronson",
+      "Kathleen Wilhoite",
+      "Carrie Snodgress"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/murphy-s-law.html"
+}

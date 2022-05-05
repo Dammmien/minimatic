@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Interpreter",
+    "year": 2005,
+    "cast": [
+      "Nicole Kidman",
+      "Sean Penn"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-interpreter.html"
+}

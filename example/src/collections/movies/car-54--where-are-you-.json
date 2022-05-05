@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Car 54, Where Are You?",
+    "year": 1994,
+    "cast": [
+      "John C. McGinley",
+      "David Johansen",
+      "Fran Drescher",
+      "Rosie O'Donnell",
+      "Nipsey Russell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/car-54--where-are-you-.html"
+}

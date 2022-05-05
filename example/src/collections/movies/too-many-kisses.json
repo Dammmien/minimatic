@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Too Many Kisses",
+    "year": 1925,
+    "cast": [
+      "Richard Dix",
+      "Frances Howard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/too-many-kisses.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Knightriders",
+    "year": 1981,
+    "cast": [
+      "Ed Harris",
+      "Tom Savini"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/knightriders.html"
+}

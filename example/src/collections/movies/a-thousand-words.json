@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "A Thousand Words",
+    "year": 2012,
+    "cast": [
+      "Eddie Murphy",
+      "Kerry Washington",
+      "Cliff Curtis",
+      "Clark Duke",
+      "Allison Janney",
+      "Ariel Winter",
+      "Steve Little",
+      "John Witherspoon",
+      "Jack McBrayer"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-thousand-words.html"
+}

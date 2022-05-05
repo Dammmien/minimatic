@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Young Buffalo Bill",
+    "year": 1940,
+    "cast": [
+      "Roy Rogers",
+      "Pauline Moore"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/young-buffalo-bill.html"
+}

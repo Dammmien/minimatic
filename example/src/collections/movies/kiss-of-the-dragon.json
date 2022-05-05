@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kiss of the Dragon",
+    "year": 2001,
+    "cast": [
+      "Jet Li",
+      "Bridget Fonda",
+      "Tchéky Karyo"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/kiss-of-the-dragon.html"
+}

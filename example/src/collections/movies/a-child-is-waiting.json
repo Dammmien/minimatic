@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Child Is Waiting",
+    "year": 1963,
+    "cast": [
+      "Burt Lancaster",
+      "Judy Garland",
+      "Gena Rowlands"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-child-is-waiting.html"
+}

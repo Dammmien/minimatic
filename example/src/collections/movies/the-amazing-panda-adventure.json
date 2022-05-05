@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Amazing Panda Adventure",
+    "year": 1995,
+    "cast": [
+      "Stephen Lang",
+      "Ryan Slater",
+      "Yi Ding"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-amazing-panda-adventure.html"
+}

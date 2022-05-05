@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Transamerica",
+    "year": 2005,
+    "cast": [
+      "Felicity Huffman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/transamerica.html"
+}

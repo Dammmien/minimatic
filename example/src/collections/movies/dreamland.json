@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dreamland",
+    "year": 2006,
+    "cast": [
+      "Agnes Bruckner",
+      "Kelli Garner",
+      "Justin Long"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dreamland.html"
+}

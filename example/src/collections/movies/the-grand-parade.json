@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Grand Parade",
+    "year": 1930,
+    "cast": [
+      "Helen Twelvetrees",
+      "Fred Scott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-grand-parade.html"
+}

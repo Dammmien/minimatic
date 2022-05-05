@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strike It Rich",
+    "year": 1990,
+    "cast": [
+      "Robert Lindsay",
+      "Molly Ringwald"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/strike-it-rich.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The White Black Sheep",
+    "year": 1926,
+    "cast": [
+      "Richard Barthelmess",
+      "Patsy Ruth Miller",
+      "Constance Howard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-white-black-sheep.html"
+}

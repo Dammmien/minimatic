@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Return to Treasure Island",
+    "year": 1954,
+    "cast": [
+      "Tab Hunter",
+      "Dawn Addams",
+      "Porter Hall"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/return-to-treasure-island.html"
+}

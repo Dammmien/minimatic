@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Roughshod",
+    "year": 1949,
+    "cast": [
+      "Gloria Grahame",
+      "Robert Sterling"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/roughshod.html"
+}

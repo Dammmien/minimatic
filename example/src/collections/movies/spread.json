@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Spread",
+    "year": 2009,
+    "cast": [
+      "Ashton Kutcher",
+      "Anne Heche",
+      "Margarita Levieva",
+      "Sebastian Stan",
+      "Rachel Blanchard",
+      "María Conchita Alonso"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/spread.html"
+}

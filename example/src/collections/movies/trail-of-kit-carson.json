@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trail of Kit Carson",
+    "year": 1945,
+    "cast": [
+      "Allan Lane",
+      "Helen Talbot"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/trail-of-kit-carson.html"
+}

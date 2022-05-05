@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beyond the Stars",
+    "year": 1989,
+    "cast": [
+      "Christian Slater",
+      "Martin Sheen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beyond-the-stars.html"
+}

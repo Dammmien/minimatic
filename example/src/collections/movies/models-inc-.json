@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Models Inc.",
+    "year": 1952,
+    "cast": [
+      "Howard Duff",
+      "Coleen Gray"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/models-inc-.html"
+}

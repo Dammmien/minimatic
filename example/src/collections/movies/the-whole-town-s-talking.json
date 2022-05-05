@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Whole Town's Talking",
+    "year": 1935,
+    "cast": [
+      "Edward G. Robinson",
+      "Jean Arthur",
+      "Arthur Byron"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-whole-town-s-talking.html"
+}

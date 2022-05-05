@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Desert Bride",
+    "year": 1928,
+    "cast": [
+      "Betty Compson",
+      "Allan Forrest"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-desert-bride.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Blue Cat Blues",
+    "year": 1956,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/blue-cat-blues.html"
+}

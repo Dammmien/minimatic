@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Souls for Sale",
+    "year": 1923,
+    "cast": [
+      "Richard Dix",
+      "Eleanor Boardman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/souls-for-sale.html"
+}

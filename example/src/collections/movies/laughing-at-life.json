@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Laughing at Life",
+    "year": 1933,
+    "cast": [
+      "Victor McLaglen",
+      "Conchita Montenegro"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/laughing-at-life.html"
+}

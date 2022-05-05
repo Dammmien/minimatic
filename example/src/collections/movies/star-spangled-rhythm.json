@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Star Spangled Rhythm",
+    "year": 1943,
+    "cast": [
+      "Victor Moore",
+      "Betty Hutton"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/star-spangled-rhythm.html"
+}

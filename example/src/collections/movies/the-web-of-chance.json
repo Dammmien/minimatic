@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Web of Chance",
+    "year": 1919,
+    "cast": [
+      "Peggy Hyland",
+      "Harry Hamm"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-web-of-chance.html"
+}

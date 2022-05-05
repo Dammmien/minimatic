@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spy Game",
+    "year": 2001,
+    "cast": [
+      "Robert Redford",
+      "Brad Pitt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/spy-game.html"
+}

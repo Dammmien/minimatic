@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Streets of San Francisco",
+    "year": 1949,
+    "cast": [
+      "Robert Armstrong",
+      "Mae Clarke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/streets-of-san-francisco.html"
+}

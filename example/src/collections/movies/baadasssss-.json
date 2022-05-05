@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "BAADASSSSS!",
+    "year": 2003,
+    "cast": [
+      "Mario Van Peebles",
+      "Adam West"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/baadasssss-.html"
+}

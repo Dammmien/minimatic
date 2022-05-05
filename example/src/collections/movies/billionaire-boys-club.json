@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Billionaire Boys Club",
+    "year": 2018,
+    "cast": [
+      "Ansel Elgort",
+      "Taron Egerton",
+      "Kevin Spacey",
+      "Jeremy Irvine",
+      "Cary Elwes",
+      "Emma Roberts",
+      "Billie Lourd",
+      "Suki Waterhouse",
+      "Judd Nelson"
+    ],
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/billionaire-boys-club.html"
+}

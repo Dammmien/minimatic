@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Crossfire",
+    "year": 1947,
+    "cast": [
+      "Robert Young",
+      "Robert Mitchum",
+      "Robert Ryan"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/crossfire.html"
+}

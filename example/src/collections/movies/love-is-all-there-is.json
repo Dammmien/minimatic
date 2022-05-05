@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Love Is All There Is",
+    "year": 1996,
+    "cast": [
+      "Angelina Jolie",
+      "Paul Sorvino",
+      "Barbara Carrera",
+      "Lainie Kazan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-is-all-there-is.html"
+}

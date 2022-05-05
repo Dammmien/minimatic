@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Apache Ambush",
+    "year": 1955,
+    "cast": [
+      "Bill Williams",
+      "Richard Jaeckel"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/apache-ambush.html"
+}

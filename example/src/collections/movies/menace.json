@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Menace",
+    "year": 1934,
+    "cast": [
+      "Gertrude Michael",
+      "Paul Cavanagh"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/menace.html"
+}

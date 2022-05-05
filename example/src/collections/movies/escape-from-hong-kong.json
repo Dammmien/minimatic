@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Escape from Hong Kong",
+    "year": 1942,
+    "cast": [
+      "Marjorie Lord",
+      "Leo Carrillo"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/escape-from-hong-kong.html"
+}

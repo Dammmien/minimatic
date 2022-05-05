@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Arena",
+    "year": 1974,
+    "cast": [
+      "Pam Grier",
+      "Margaret Markov"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-arena.html"
+}

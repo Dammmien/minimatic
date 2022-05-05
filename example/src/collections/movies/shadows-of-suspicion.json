@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shadows of Suspicion",
+    "year": 1919,
+    "cast": [
+      "Harold Lockwood",
+      "Naomi Childers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shadows-of-suspicion.html"
+}

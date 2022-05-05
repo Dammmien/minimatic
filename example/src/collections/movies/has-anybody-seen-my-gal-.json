@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Has Anybody Seen My Gal?",
+    "year": 1952,
+    "cast": [
+      "Piper Laurie",
+      "Rock Hudson"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/has-anybody-seen-my-gal-.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Buster and Billie",
+    "year": 1974,
+    "cast": [
+      "Jan-Michael Vincent",
+      "Pamela Sue Martin",
+      "Joan Goodfellow"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/buster-and-billie.html"
+}

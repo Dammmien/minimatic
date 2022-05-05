@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Stoker",
+    "year": 1932,
+    "cast": [
+      "Monte Blue",
+      "Dorothy Burgess"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-stoker.html"
+}

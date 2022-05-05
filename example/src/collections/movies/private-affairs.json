@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Private Affairs",
+    "year": 1940,
+    "cast": [
+      "Nancy Kelly",
+      "Roland Young",
+      "Robert Cummings"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/private-affairs.html"
+}

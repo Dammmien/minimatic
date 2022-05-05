@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Out of the Fog",
+    "year": 1941,
+    "cast": [
+      "Ida Lupino",
+      "John Garfield",
+      "Eddie Albert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/out-of-the-fog.html"
+}

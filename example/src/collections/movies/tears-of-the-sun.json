@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tears of the Sun",
+    "year": 2003,
+    "cast": [
+      "Bruce Willis",
+      "Monica Bellucci",
+      "Cole Hauser"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/tears-of-the-sun.html"
+}

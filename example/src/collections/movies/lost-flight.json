@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lost Flight",
+    "year": 1969,
+    "cast": [
+      "Lloyd Bridges",
+      "Bobby Van",
+      "Anne Francis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lost-flight.html"
+}

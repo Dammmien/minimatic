@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Submarine Alert",
+    "year": 1943,
+    "cast": [
+      "Richard Arlen",
+      "Wendy Barrie"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/submarine-alert.html"
+}

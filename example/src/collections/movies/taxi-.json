@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Taxi!",
+    "year": 1932,
+    "cast": [
+      "James Cagney",
+      "Loretta Young"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/taxi-.html"
+}

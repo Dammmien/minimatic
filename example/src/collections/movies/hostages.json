@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hostages",
+    "year": 1943,
+    "cast": [
+      "Luise Rainer",
+      "William Bendix"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/hostages.html"
+}

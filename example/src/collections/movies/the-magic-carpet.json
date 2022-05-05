@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Magic Carpet",
+    "year": 1951,
+    "cast": [
+      "Lucille Ball",
+      "John Agar"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-magic-carpet.html"
+}

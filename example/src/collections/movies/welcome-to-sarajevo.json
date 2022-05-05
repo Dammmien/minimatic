@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Welcome to Sarajevo",
+    "year": 1997,
+    "cast": [
+      "Stephen Dillane",
+      "Woody Harrelson",
+      "Marisa Tomei"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/welcome-to-sarajevo.html"
+}

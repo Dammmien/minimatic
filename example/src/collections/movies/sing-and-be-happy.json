@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sing and Be Happy",
+    "year": 1937,
+    "cast": [
+      "Tony Martin",
+      "Leah Ray",
+      "Joan Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sing-and-be-happy.html"
+}

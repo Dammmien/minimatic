@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The High Powered Rifle",
+    "year": 1960,
+    "cast": [
+      "Allison Hayes",
+      "Willard Parker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-high-powered-rifle.html"
+}

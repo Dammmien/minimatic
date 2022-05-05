@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Plastic Age",
+    "year": 1925,
+    "cast": [
+      "Clara Bow",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-plastic-age.html"
+}

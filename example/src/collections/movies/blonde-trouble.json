@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blonde Trouble",
+    "year": 1937,
+    "cast": [
+      "Eleanore Whitney",
+      "Johnny Downs"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blonde-trouble.html"
+}

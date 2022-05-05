@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Boys Town",
+    "year": 1938,
+    "cast": [
+      "Spencer Tracy",
+      "Mickey Rooney",
+      "Henry Hull"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/boys-town.html"
+}

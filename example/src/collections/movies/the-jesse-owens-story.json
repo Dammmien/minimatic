@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Jesse Owens Story",
+    "year": 1984,
+    "cast": [
+      "Dorian Harewood",
+      "Dan Ammerman"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-jesse-owens-story.html"
+}

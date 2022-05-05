@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sinners' Holiday",
+    "year": 1930,
+    "cast": [
+      "Grant Withers",
+      "Evalyn Knapp"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sinners--holiday.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Brain That Wouldn't Die",
+    "year": 1962,
+    "cast": [
+      "Jason Evers",
+      "Virginia Leith"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-brain-that-wouldn-t-die.html"
+}

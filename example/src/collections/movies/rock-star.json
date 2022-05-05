@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rock Star",
+    "year": 2001,
+    "cast": [
+      "Mark Wahlberg",
+      "Jennifer Aniston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rock-star.html"
+}

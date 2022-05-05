@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smudge",
+    "year": 1922,
+    "cast": [
+      "Charles Ray",
+      "Ora Carew"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/smudge.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lieutenant Wore Skirts",
+    "year": 1956,
+    "cast": [
+      "Tom Ewell",
+      "Sheree North"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-lieutenant-wore-skirts.html"
+}

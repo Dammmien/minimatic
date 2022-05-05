@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "River's End",
+    "year": 1940,
+    "cast": [
+      "Dennis Morgan",
+      "Elizabeth Inglis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/river-s-end.html"
+}

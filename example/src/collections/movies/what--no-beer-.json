@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "What! No Beer?",
+    "year": 1933,
+    "cast": [
+      "Buster Keaton",
+      "Jimmy Durante"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/what--no-beer-.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Aerial Gunner",
+    "year": 1943,
+    "cast": [
+      "Chester Morris",
+      "Richard Arlen"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/aerial-gunner.html"
+}

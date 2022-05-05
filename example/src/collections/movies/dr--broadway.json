@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dr. Broadway",
+    "year": 1942,
+    "cast": [
+      "Macdonald Carey",
+      "Jean Phillips"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/dr--broadway.html"
+}

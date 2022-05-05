@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Purple V",
+    "year": 1943,
+    "cast": [
+      "John Archer",
+      "Peter Lawford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-purple-v.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "So Dark the Night",
+    "year": 1946,
+    "cast": [
+      "Steven Geray",
+      "Micheline Cheirel"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/so-dark-the-night.html"
+}

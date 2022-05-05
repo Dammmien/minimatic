@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Miles from Home",
+    "year": 1988,
+    "cast": [
+      "Richard Gere",
+      "Kevin Anderson",
+      "John Malkovich",
+      "Brian Dennehy",
+      "Penelope Ann Miller",
+      "Helen Hunt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/miles-from-home.html"
+}

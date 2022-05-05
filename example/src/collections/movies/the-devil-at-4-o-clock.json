@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Devil at 4 O'Clock",
+    "year": 1961,
+    "cast": [
+      "Spencer Tracy",
+      "Frank Sinatra",
+      "Grégoire Aslan"
+    ],
+    "genres": [
+      "Disaster"
+    ]
+  },
+  "output": "movies/the-devil-at-4-o-clock.html"
+}

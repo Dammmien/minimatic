@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Book of Shadows: Blair Witch 2",
+    "year": 2000,
+    "cast": [
+      "Kim Director",
+      "Jeffrey Donovan",
+      "Erica Leerhsen"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/book-of-shadows--blair-witch-2.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Anna",
+    "year": 1987,
+    "cast": [
+      "Sally Kirkland",
+      "Paulina Porizkova",
+      "Robert Fields"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/anna.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Robin Hood of Texas",
+    "year": 1947,
+    "cast": [
+      "Gene Autry",
+      "Lynne Roberts",
+      "Adele Mara"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/robin-hood-of-texas.html"
+}

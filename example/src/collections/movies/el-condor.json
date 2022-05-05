@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "El Condor",
+    "year": 1970,
+    "cast": [
+      "Jim Brown",
+      "Lee Van Cleef"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/el-condor.html"
+}

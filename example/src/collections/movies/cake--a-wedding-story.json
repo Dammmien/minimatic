@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Cake: A Wedding Story",
+    "year": 2007,
+    "cast": [
+      "G. W. Bailey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cake--a-wedding-story.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Friday the 13th",
+    "year": 2009,
+    "cast": [
+      "Jared Padalecki",
+      "Danielle Panabaker",
+      "Aaron Yoo",
+      "Amanda Righetti"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/friday-the-13th.html"
+}

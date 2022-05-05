@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Clear the Decks",
+    "year": 1929,
+    "cast": [
+      "Reginald Denny",
+      "Olive Hasbrouck"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/clear-the-decks.html"
+}

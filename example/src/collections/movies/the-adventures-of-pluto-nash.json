@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "The Adventures of Pluto Nash",
+    "year": 2002,
+    "cast": [
+      "Eddie Murphy",
+      "Randy Quaid",
+      "Rosario Dawson",
+      "Joe Pantoliano",
+      "Peter Boyle",
+      "Pam Grier",
+      "James Rebhorn",
+      "Jay Mohr",
+      "Burt Young",
+      "John Cleese"
+    ],
+    "genres": [
+      "Comedy",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-adventures-of-pluto-nash.html"
+}

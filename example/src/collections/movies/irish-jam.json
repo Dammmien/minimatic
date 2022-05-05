@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Irish Jam",
+    "year": 2006,
+    "cast": [
+      "Eddie Griffin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/irish-jam.html"
+}

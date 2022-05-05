@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Powdersmoke Range",
+    "year": 1935,
+    "cast": [
+      "Harry Carey",
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/powdersmoke-range.html"
+}

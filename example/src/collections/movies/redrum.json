@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Redrum",
+    "year": 2007,
+    "cast": [
+      "Kenny Young",
+      "Jill Marie Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/redrum.html"
+}

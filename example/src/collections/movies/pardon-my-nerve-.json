@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pardon My Nerve!",
+    "year": 1922,
+    "cast": [
+      "Buck Jones",
+      "Mae Busch"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/pardon-my-nerve-.html"
+}

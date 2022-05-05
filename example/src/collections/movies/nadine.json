@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nadine",
+    "year": 1987,
+    "cast": [
+      "Kim Basinger",
+      "Jeff Bridges",
+      "Rip Torn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nadine.html"
+}

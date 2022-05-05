@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Unchastened Woman",
+    "year": 1925,
+    "cast": [
+      "Theda Bara",
+      "Wyndham Standing"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-unchastened-woman.html"
+}

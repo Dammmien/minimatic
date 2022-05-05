@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Get Over It",
+    "year": 2001,
+    "cast": [
+      "Kirsten Dunst",
+      "Ben Foster",
+      "Sisqó",
+      "Shane West",
+      "Colin Hanks",
+      "Martin Short",
+      "Carmen Electra"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/get-over-it.html"
+}

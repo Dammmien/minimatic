@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Love Master",
+    "year": 1924,
+    "cast": [
+      "Lillian Rich",
+      "Strongheart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-love-master.html"
+}

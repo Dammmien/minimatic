@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Late Shift",
+    "year": 1996,
+    "cast": [
+      "John Michael Higgins",
+      "Daniel Roebuck",
+      "Treat Williams",
+      "Kathy Bates",
+      "Bob Balaban",
+      "Rich Little"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-late-shift.html"
+}

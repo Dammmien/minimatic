@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Twenty-One",
+    "year": 1923,
+    "cast": [
+      "Richard Barthelmess",
+      "Dorothy Mackaill"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/twenty-one.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl Most Likely",
+    "year": 1958,
+    "cast": [
+      "Jane Powell",
+      "Cliff Robertson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-girl-most-likely.html"
+}

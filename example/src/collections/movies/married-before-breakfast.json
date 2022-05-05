@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Married Before Breakfast",
+    "year": 1937,
+    "cast": [
+      "Robert Young",
+      "Florence Rice",
+      "Barnett Parker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/married-before-breakfast.html"
+}

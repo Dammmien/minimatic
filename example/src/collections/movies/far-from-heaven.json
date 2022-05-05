@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Far from Heaven",
+    "year": 2002,
+    "cast": [
+      "Julianne Moore",
+      "Dennis Quaid",
+      "Dennis Haysbert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/far-from-heaven.html"
+}

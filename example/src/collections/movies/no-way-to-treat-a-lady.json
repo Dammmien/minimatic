@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "No Way to Treat a Lady",
+    "year": 1968,
+    "cast": [
+      "Rod Steiger",
+      "Lee Remick",
+      "George Segal"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/no-way-to-treat-a-lady.html"
+}

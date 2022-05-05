@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Charge of the Gauchos",
+    "year": 1928,
+    "cast": [
+      "Francis X. Bushman",
+      "Jacqueline Logan"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/the-charge-of-the-gauchos.html"
+}

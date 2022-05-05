@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hiding Out",
+    "year": 1987,
+    "cast": [
+      "Jon Cryer",
+      "Annabeth Gish"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hiding-out.html"
+}

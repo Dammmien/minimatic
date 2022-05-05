@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "White Room",
+    "year": 1990,
+    "cast": [
+      "Kate Nelligan",
+      "Margot Kidder"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/white-room.html"
+}

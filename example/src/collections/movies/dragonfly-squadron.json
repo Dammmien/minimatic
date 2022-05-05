@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dragonfly Squadron",
+    "year": 1954,
+    "cast": [
+      "John Hodiak",
+      "Barbara Britton"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/dragonfly-squadron.html"
+}

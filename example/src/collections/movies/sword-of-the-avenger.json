@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Sword of the Avenger",
+    "year": 1948,
+    "cast": [
+      "Sigrid Gurie"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/sword-of-the-avenger.html"
+}

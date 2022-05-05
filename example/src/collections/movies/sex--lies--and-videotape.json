@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sex, Lies, and Videotape",
+    "year": 1989,
+    "cast": [
+      "James Spader",
+      "Andie MacDowell",
+      "Peter Gallagher",
+      "Laura San Giacomo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sex--lies--and-videotape.html"
+}

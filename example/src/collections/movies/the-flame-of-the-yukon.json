@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Flame of the Yukon",
+    "year": 1926,
+    "cast": [
+      "Seena Owen",
+      "Matthew Betz"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-flame-of-the-yukon.html"
+}

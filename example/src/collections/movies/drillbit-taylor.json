@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Drillbit Taylor",
+    "year": 2008,
+    "cast": [
+      "Owen Wilson",
+      "Troy Gentile",
+      "Nate Hartley",
+      "David Dorfman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/drillbit-taylor.html"
+}

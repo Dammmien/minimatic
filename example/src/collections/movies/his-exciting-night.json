@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "His Exciting Night",
+    "year": 1938,
+    "cast": [
+      "Charles Ruggles",
+      "Marion Martin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/his-exciting-night.html"
+}

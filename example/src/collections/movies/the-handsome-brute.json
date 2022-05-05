@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Handsome Brute",
+    "year": 1925,
+    "cast": [
+      "William Fairbanks",
+      "Virginia Lee Corbin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-handsome-brute.html"
+}

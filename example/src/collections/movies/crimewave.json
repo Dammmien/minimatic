@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crimewave",
+    "year": 1985,
+    "cast": [
+      "Louise Lasser",
+      "Bruce Campbell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/crimewave.html"
+}

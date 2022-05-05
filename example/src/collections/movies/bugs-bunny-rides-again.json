@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bugs Bunny Rides Again",
+    "year": 1948,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/bugs-bunny-rides-again.html"
+}

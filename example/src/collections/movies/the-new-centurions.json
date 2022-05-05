@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The New Centurions",
+    "year": 1972,
+    "cast": [
+      "George C. Scott",
+      "Stacy Keach"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-new-centurions.html"
+}

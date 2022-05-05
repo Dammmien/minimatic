@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Elmer's Candid Camera",
+    "year": 1940,
+    "cast": [
+      "Mel Blanc",
+      "Arthur Q. Bryan"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/elmer-s-candid-camera.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Prisoners",
+    "year": 2013,
+    "cast": [
+      "Hugh Jackman",
+      "Jake Gyllenhaal",
+      "Viola Davis",
+      "Maria Bello",
+      "Terrence Howard",
+      "Melissa Leo",
+      "Paul Dano"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/prisoners.html"
+}

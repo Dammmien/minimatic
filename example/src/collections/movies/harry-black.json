@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Harry Black",
+    "year": 1958,
+    "cast": [
+      "Stewart Granger",
+      "Barbara Rush"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/harry-black.html"
+}

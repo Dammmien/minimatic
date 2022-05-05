@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Crossing",
+    "year": 2000,
+    "cast": [
+      "Jeff Daniels",
+      "Roger Rees",
+      "Sebastian Roché",
+      "Steven McCarthy"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-crossing.html"
+}

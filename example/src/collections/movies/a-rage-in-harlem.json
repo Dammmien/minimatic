@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Rage in Harlem",
+    "year": 1991,
+    "cast": [
+      "Forest Whitaker",
+      "Gregory Hines",
+      "Robin Givens"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-rage-in-harlem.html"
+}

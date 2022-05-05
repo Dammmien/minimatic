@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Longest Ride",
+    "year": 2015,
+    "cast": [
+      "Scott Eastwood",
+      "Britt Robertson",
+      "Alan Alda",
+      "Oona Chaplin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-longest-ride.html"
+}

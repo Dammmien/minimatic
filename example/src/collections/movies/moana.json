@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Moana",
+    "year": 2016,
+    "cast": [
+      "Auli'i Cravalho",
+      "Dwayne Johnson"
+    ],
+    "genres": [
+      "Family",
+      "Animated"
+    ]
+  },
+  "output": "movies/moana.html"
+}

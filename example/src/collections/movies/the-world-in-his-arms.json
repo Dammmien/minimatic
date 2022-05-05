@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The World in His Arms",
+    "year": 1952,
+    "cast": [
+      "Gregory Peck",
+      "Ann Blyth"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-world-in-his-arms.html"
+}

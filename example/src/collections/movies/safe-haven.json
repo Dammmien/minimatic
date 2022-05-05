@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Safe Haven",
+    "year": 2013,
+    "cast": [
+      "Josh Duhamel",
+      "Julianne Hough",
+      "Cobie Smulders",
+      "David Lyons"
+    ],
+    "genres": [
+      "Romance",
+      "Thriller"
+    ]
+  },
+  "output": "movies/safe-haven.html"
+}

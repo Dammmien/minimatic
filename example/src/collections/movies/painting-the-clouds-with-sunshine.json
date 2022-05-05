@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Painting the Clouds with Sunshine",
+    "year": 1951,
+    "cast": [
+      "Dennis Morgan",
+      "Virginia Mayo",
+      "Gene Nelson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/painting-the-clouds-with-sunshine.html"
+}

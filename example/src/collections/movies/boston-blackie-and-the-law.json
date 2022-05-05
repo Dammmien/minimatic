@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Boston Blackie and the Law",
+    "year": 1946,
+    "cast": [
+      "Chester Morris",
+      "Trudy Marshall",
+      "Constance Dowling"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/boston-blackie-and-the-law.html"
+}

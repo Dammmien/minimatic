@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Passed Away",
+    "year": 1992,
+    "cast": [
+      "Bob Hoskins",
+      "William Petersen",
+      "Maureen Stapleton",
+      "Frances McDormand",
+      "Nancy Travis",
+      "Tim Curry",
+      "Blair Brown",
+      "Pamela Reed",
+      "Peter Riegert",
+      "Jack Warden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/passed-away.html"
+}

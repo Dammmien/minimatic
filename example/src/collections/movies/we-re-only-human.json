@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "We're Only Human",
+    "year": 1935,
+    "cast": [
+      "Preston Foster",
+      "Jane Wyatt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/we-re-only-human.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Dinner with Andre",
+    "year": 1981,
+    "cast": [
+      "Andre Gregory",
+      "Wallace Shawn"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/my-dinner-with-andre.html"
+}

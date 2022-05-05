@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Behind the Gun",
+    "year": 1953,
+    "cast": [
+      "Randolph Scott",
+      "Patrice Wymore"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-man-behind-the-gun.html"
+}

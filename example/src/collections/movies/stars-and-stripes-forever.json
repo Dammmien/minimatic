@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Stars and Stripes Forever",
+    "year": 1952,
+    "cast": [
+      "Clifton Webb",
+      "Robert Wagner",
+      "Debra Paget"
+    ],
+    "genres": [
+      "Musical",
+      "Biography"
+    ]
+  },
+  "output": "movies/stars-and-stripes-forever.html"
+}

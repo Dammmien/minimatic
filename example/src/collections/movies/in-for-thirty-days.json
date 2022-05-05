@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In for Thirty Days",
+    "year": 1919,
+    "cast": [
+      "May Allison",
+      "Robert Ellis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/in-for-thirty-days.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "And One Was Beautiful",
+    "year": 1940,
+    "cast": [
+      "Robert Cummings",
+      "Laraine Day",
+      "Jean Muir"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/and-one-was-beautiful.html"
+}

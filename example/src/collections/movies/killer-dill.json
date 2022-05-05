@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Killer Dill",
+    "year": 1947,
+    "cast": [
+      "Stuart Erwin",
+      "Anne Gwynne",
+      "Mike Mazurki"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/killer-dill.html"
+}

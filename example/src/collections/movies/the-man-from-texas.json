@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man from Texas",
+    "year": 1948,
+    "cast": [
+      "James Craig",
+      "Lynn Bari"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-man-from-texas.html"
+}

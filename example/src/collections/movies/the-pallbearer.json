@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pallbearer",
+    "year": 1996,
+    "cast": [
+      "David Schwimmer",
+      "Gwyneth Paltrow",
+      "Barbara Hershey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-pallbearer.html"
+}

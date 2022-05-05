@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Flipped",
+    "year": 2010,
+    "cast": [
+      "Madeline Carroll",
+      "Rebecca De Mornay",
+      "Anthony Edwards",
+      "John Mahoney",
+      "Callan McAuliffe",
+      "Penelope Ann Miller",
+      "Aidan Quinn",
+      "Kevin Weisman"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/flipped.html"
+}

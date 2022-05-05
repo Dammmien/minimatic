@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild Thing",
+    "year": 1987,
+    "cast": [
+      "Robert Knepper",
+      "Kathleen Quinlan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wild-thing.html"
+}

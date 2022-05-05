@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Batman Revealed",
+    "year": 2012,
+    "cast": [
+      "David Stewart III",
+      "Chris Clark",
+      "Derek Mindler",
+      "Timothy Nugent",
+      "Jeff Trently",
+      "Jack Pinto",
+      "Tom Scholl"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/batman-revealed.html"
+}

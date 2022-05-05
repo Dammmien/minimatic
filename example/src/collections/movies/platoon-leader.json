@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Platoon Leader",
+    "year": 1988,
+    "cast": [
+      "Michael Dudikoff",
+      "Michael DeLorenzo"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/platoon-leader.html"
+}

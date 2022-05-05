@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Screaming Skull",
+    "year": 1958,
+    "cast": [
+      "John Hudson",
+      "Peggy Webber"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-screaming-skull.html"
+}

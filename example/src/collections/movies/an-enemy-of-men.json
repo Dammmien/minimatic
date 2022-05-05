@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "An Enemy of Men",
+    "year": 1925,
+    "cast": [
+      "Dorothy Revier",
+      "Cullen Landis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/an-enemy-of-men.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Calamity Jane",
+    "year": 1953,
+    "cast": [
+      "Doris Day",
+      "Howard Keel"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/calamity-jane.html"
+}

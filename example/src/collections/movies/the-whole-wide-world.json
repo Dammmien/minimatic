@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Whole Wide World",
+    "year": 1996,
+    "cast": [
+      "Renée Zellweger",
+      "Vincent D'Onofrio"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-whole-wide-world.html"
+}

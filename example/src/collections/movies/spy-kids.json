@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Spy Kids",
+    "year": 2001,
+    "cast": [
+      "Alexa Vega",
+      "Daryl Sabara",
+      "Antonio Banderas",
+      "Carla Gugino",
+      "Alan Cumming",
+      "Danny Trejo",
+      "Cheech Marin"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/spy-kids.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "O'Shaughnessy's Boy",
+    "year": 1935,
+    "cast": [
+      "Wallace Beery",
+      "Leona Maricle",
+      "Jackie Cooper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/o-shaughnessy-s-boy.html"
+}

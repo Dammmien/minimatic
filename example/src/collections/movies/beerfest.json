@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beerfest",
+    "year": 2006,
+    "cast": [
+      "Paul Soter",
+      "Erik Stolhanske"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/beerfest.html"
+}

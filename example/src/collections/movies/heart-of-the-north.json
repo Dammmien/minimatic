@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Heart of the North",
+    "year": 1938,
+    "cast": [
+      "Dick Foran",
+      "Gale Page",
+      "Allen Jenkins"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/heart-of-the-north.html"
+}

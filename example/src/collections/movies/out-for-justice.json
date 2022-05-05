@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Out for Justice",
+    "year": 1991,
+    "cast": [
+      "Steven Seagal",
+      "William Forsythe",
+      "Jerry Orbach"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/out-for-justice.html"
+}

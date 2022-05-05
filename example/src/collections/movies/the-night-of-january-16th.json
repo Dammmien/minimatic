@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Night of January 16th",
+    "year": 1941,
+    "cast": [
+      "Robert Preston",
+      "Ellen Drew"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-night-of-january-16th.html"
+}

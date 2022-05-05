@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Dark Water",
+    "year": 2005,
+    "cast": [
+      "Jennifer Connelly"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dark-water.html"
+}

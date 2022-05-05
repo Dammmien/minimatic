@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Come Morning",
+    "year": 2012,
+    "cast": [
+      "Michael Ray Davis",
+      "Thor Wahlestedt",
+      "Elise Rovinsky",
+      "Thomas Moore",
+      "Blake Logan"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/come-morning.html"
+}

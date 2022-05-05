@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Soloist",
+    "year": 2009,
+    "cast": [
+      "Jamie Foxx",
+      "Robert Downey, Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-soloist.html"
+}

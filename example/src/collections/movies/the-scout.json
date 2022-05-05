@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Scout",
+    "year": 1994,
+    "cast": [
+      "Albert Brooks",
+      "Brendan Fraser",
+      "Dianne Wiest"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-scout.html"
+}

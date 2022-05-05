@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "House of Horror",
+    "year": 1929,
+    "cast": [
+      "Louise Fazenda",
+      "Thelma Todd"
+    ],
+    "genres": [
+      "Mystery",
+      "Comedy"
+    ]
+  },
+  "output": "movies/house-of-horror.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The House of Tomorrow",
+    "year": 2018,
+    "cast": [
+      "Asa Butterfield",
+      "Nick Offerman",
+      "Ellen Burstyn",
+      "Alex Wolff",
+      "Maude Apatow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-house-of-tomorrow.html"
+}

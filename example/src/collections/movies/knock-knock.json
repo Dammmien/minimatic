@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Knock Knock",
+    "year": 2007,
+    "cast": [
+      "Nicole Abisinio"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/knock-knock.html"
+}

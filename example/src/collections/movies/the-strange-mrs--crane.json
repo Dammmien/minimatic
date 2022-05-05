@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Strange Mrs. Crane",
+    "year": 1948,
+    "cast": [
+      "Marjorie Lord",
+      "Robert Shayne"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-strange-mrs--crane.html"
+}

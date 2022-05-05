@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "What Every Woman Knows",
+    "year": 1934,
+    "cast": [
+      "Helen Hayes",
+      "Madge Evans",
+      "Dudley Digges"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/what-every-woman-knows.html"
+}

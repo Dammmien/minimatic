@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Silver Treasure",
+    "year": 1926,
+    "cast": [
+      "George O'Brien",
+      "Helena D'Algy"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-silver-treasure.html"
+}

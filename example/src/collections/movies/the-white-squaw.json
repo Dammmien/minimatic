@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The White Squaw",
+    "year": 1956,
+    "cast": [
+      "David Brian",
+      "May Wynn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-white-squaw.html"
+}

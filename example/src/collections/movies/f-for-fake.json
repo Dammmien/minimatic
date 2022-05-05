@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "F for Fake",
+    "year": 1974,
+    "cast": [
+      "Orson Welles",
+      "Joseph Cotten"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/f-for-fake.html"
+}

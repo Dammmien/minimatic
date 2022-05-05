@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "El Paso",
+    "year": 1949,
+    "cast": [
+      "John Payne",
+      "Gail Russell",
+      "Sterling Hayden"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/el-paso.html"
+}

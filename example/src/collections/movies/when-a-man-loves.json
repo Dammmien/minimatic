@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "When a Man Loves",
+    "year": 1927,
+    "cast": [
+      "John Barrymore",
+      "Dolores Costello"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/when-a-man-loves.html"
+}

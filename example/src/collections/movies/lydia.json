@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lydia",
+    "year": 1941,
+    "cast": [
+      "Merle Oberon",
+      "Joseph Cotton",
+      "Edna May Oliver"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lydia.html"
+}

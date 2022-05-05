@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "On Thin Ice",
+    "year": 1925,
+    "cast": [
+      "Tom Moore",
+      "Edith Roberts"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/on-thin-ice.html"
+}

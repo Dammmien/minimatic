@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Duchess and the Dirtwater Fox",
+    "year": 1976,
+    "cast": [
+      "Goldie Hawn",
+      "George Segal"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-duchess-and-the-dirtwater-fox.html"
+}

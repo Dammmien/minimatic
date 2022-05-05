@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Walking My Baby Back Home",
+    "year": 1953,
+    "cast": [
+      "Donald O'Connor",
+      "Janet Leigh",
+      "Buddy Hackett"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/walking-my-baby-back-home.html"
+}

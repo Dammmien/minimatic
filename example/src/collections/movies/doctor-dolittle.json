@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Doctor Dolittle",
+    "year": 1967,
+    "cast": [
+      "Rex Harrison",
+      "Samantha Eggar",
+      "Anthony Newley"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/doctor-dolittle.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That Devil Quemado",
+    "year": 1925,
+    "cast": [
+      "Fred Thomson",
+      "Nola Luxford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/that-devil-quemado.html"
+}

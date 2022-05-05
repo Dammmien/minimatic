@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Christine Jorgensen Story",
+    "year": 1970,
+    "cast": [
+      "John Hansen"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-christine-jorgensen-story.html"
+}

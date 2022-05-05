@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Common Clay",
+    "year": 1930,
+    "cast": [
+      "Constance Bennett",
+      "Lew Ayres"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/common-clay.html"
+}

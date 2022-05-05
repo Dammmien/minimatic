@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Slicked-up Pup",
+    "year": 1951,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/slicked-up-pup.html"
+}

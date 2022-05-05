@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Just Between Friends",
+    "year": 1986,
+    "cast": [
+      "Mary Tyler Moore",
+      "Christine Lahti",
+      "Ted Danson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/just-between-friends.html"
+}

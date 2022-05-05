@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Joe's Apartment",
+    "year": 1996,
+    "cast": [
+      "Jerry O'Connell",
+      "Megan Ward"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/joe-s-apartment.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Apache War Smoke",
+    "year": 1952,
+    "cast": [
+      "Gilbert Roland",
+      "Glenda Farrell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/apache-war-smoke.html"
+}

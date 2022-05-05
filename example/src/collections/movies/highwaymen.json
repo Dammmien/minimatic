@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Highwaymen",
+    "year": 2004,
+    "cast": [
+      "Jim Caviezel",
+      "Rhona Mitra",
+      "Colm Feore"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/highwaymen.html"
+}

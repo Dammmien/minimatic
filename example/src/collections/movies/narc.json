@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Narc",
+    "year": 2002,
+    "cast": [
+      "Jason Patric",
+      "Ray Liotta",
+      "Chi McBride"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/narc.html"
+}

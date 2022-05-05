@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Face of Marble",
+    "year": 1946,
+    "cast": [
+      "John Carradine",
+      "Claudia Drake"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-face-of-marble.html"
+}

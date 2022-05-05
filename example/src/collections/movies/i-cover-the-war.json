@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "I Cover the War",
+    "year": 1937,
+    "cast": [
+      "John Wayne",
+      "Gwen Gaze"
+    ],
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/i-cover-the-war.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Poor Little Rich Girl",
+    "year": 1936,
+    "cast": [
+      "Shirley Temple",
+      "Alice Faye",
+      "Jack Haley"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/poor-little-rich-girl.html"
+}

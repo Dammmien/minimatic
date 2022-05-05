@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Goddess",
+    "year": 1958,
+    "cast": [
+      "Kim Stanley",
+      "Lloyd Bridges"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-goddess.html"
+}

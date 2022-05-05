@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Between Two Worlds",
+    "year": 1944,
+    "cast": [
+      "John Garfield",
+      "Paul Henreid",
+      "Eleanor Parker"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/between-two-worlds.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dream of Love",
+    "year": 1928,
+    "cast": [
+      "Joan Crawford",
+      "Nils Asther"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/dream-of-love.html"
+}

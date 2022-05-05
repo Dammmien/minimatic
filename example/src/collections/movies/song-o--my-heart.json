@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Song o' My Heart",
+    "year": 1930,
+    "cast": [
+      "John McCormack",
+      "Maureen O'Sullivan"
+    ],
+    "genres": [
+      "Musical",
+      "Drama"
+    ]
+  },
+  "output": "movies/song-o--my-heart.html"
+}

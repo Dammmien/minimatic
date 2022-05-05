@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mighty Lak' a Rose",
+    "year": 1923,
+    "cast": [
+      "James Rennie",
+      "Dorothy Mackaill",
+      "Anders Randolf"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mighty-lak--a-rose.html"
+}

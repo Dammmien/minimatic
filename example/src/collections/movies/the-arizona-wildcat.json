@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Arizona Wildcat",
+    "year": 1939,
+    "cast": [
+      "Jane Withers",
+      "Leo Carrillo"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-arizona-wildcat.html"
+}

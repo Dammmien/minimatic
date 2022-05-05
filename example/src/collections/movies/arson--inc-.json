@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Arson, Inc.",
+    "year": 1949,
+    "cast": [
+      "Robert Lowery",
+      "Anne Gwynne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/arson--inc-.html"
+}

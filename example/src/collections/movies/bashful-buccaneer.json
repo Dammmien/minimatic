@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bashful Buccaneer",
+    "year": 1925,
+    "cast": [
+      "Reed Howes",
+      "Dorothy Dwan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bashful-buccaneer.html"
+}

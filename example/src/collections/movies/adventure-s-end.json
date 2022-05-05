@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Adventure's End",
+    "year": 1937,
+    "cast": [
+      "John Wayne",
+      "Diana Gibson",
+      "Montagu Love"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/adventure-s-end.html"
+}

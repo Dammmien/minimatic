@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Get-Away",
+    "year": 1941,
+    "cast": [
+      "Robert Sterling",
+      "Donna Reed"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-get-away.html"
+}

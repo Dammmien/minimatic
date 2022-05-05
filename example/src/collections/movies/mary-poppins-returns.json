@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Mary Poppins Returns",
+    "year": 2018,
+    "cast": [
+      "Emily Blunt",
+      "Lin-Manuel Miranda",
+      "Ben Whishaw",
+      "Emily Mortimer",
+      "Julie Walters",
+      "Colin Firth",
+      "Meryl Streep",
+      "Dick Van Dyke",
+      "Angela Lansbury"
+    ],
+    "genres": [
+      "Musical",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/mary-poppins-returns.html"
+}

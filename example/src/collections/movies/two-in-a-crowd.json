@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two in a Crowd",
+    "year": 1936,
+    "cast": [
+      "Joan Bennett",
+      "Joel McCrea",
+      "Elisha Cook Jr."
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/two-in-a-crowd.html"
+}

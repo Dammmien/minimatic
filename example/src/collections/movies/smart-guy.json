@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smart Guy",
+    "year": 1943,
+    "cast": [
+      "Rick Vallin",
+      "Veda Ann Borg"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/smart-guy.html"
+}

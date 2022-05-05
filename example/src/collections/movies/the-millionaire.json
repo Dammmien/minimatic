@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Millionaire",
+    "year": 1931,
+    "cast": [
+      "George Arliss",
+      "James Cagney",
+      "Noah Beery"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-millionaire.html"
+}

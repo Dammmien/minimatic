@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fast Forward",
+    "year": 1985,
+    "cast": [
+      "Tamara Mark",
+      "Monique Cintron"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/fast-forward.html"
+}

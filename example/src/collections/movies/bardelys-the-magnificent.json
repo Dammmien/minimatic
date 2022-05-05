@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bardelys the Magnificent",
+    "year": 1926,
+    "cast": [
+      "John Gilbert",
+      "Eleanor Boardman"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/bardelys-the-magnificent.html"
+}

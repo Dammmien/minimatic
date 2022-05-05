@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Carpetbaggers",
+    "year": 1964,
+    "cast": [
+      "George Peppard",
+      "Carroll Baker",
+      "Alan Ladd",
+      "Elizabeth Ashley",
+      "Robert Cummings",
+      "Martha Hyer",
+      "Martin Balsam"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-carpetbaggers.html"
+}

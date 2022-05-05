@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Never Die Alone",
+    "year": 2004,
+    "cast": [
+      "DMX",
+      "David Arquette"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/never-die-alone.html"
+}

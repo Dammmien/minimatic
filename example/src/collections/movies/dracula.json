@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dracula",
+    "year": 1979,
+    "cast": [
+      "Frank Langella",
+      "Laurence Olivier"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dracula.html"
+}

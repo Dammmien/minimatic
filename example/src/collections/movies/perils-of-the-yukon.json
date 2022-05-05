@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Perils of the Yukon",
+    "year": 1922,
+    "cast": [
+      "William Desmond",
+      "Laura La Plante"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/perils-of-the-yukon.html"
+}

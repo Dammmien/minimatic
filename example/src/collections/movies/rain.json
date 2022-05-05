@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rain",
+    "year": 1932,
+    "cast": [
+      "Joan Crawford",
+      "Walter Huston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rain.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Down with Love",
+    "year": 2003,
+    "cast": [
+      "Ewan McGregor",
+      "Renée Zellweger",
+      "David Hyde Pierce"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/down-with-love.html"
+}

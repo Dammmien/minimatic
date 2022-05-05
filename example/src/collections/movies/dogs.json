@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Dogs",
+    "year": 1976,
+    "cast": [],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dogs.html"
+}

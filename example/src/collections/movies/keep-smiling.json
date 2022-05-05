@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Keep Smiling",
+    "year": 1925,
+    "cast": [
+      "Monty Banks",
+      "Robert Edeson",
+      "Anne Cornwall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/keep-smiling.html"
+}

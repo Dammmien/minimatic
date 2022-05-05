@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "True Colors",
+    "year": 1991,
+    "cast": [
+      "John Cusack",
+      "James Spader",
+      "Richard Widmark"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/true-colors.html"
+}

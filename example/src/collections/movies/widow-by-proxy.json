@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Widow by Proxy",
+    "year": 1919,
+    "cast": [
+      "Marguerite Clark",
+      "Agnes Vernon",
+      "Nigel Barrie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/widow-by-proxy.html"
+}

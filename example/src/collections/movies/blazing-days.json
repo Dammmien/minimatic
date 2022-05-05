@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blazing Days",
+    "year": 1927,
+    "cast": [
+      "Fred Humes",
+      "Ena Gregory"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/blazing-days.html"
+}

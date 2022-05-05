@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Decameron Nights",
+    "year": 1953,
+    "cast": [
+      "Joan Fontaine",
+      "Louis Jourdan"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/decameron-nights.html"
+}

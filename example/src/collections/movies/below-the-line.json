@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Below the Line",
+    "year": 1925,
+    "cast": [
+      "John Harron",
+      "June Marlowe"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/below-the-line.html"
+}

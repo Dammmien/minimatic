@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Any Wife",
+    "year": 1922,
+    "cast": [
+      "Pearl White",
+      "Holmes Herbert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/any-wife.html"
+}

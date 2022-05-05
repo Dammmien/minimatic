@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "You Never Can Tell",
+    "year": 1951,
+    "cast": [
+      "Dick Powell",
+      "Peggy Dow"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-never-can-tell.html"
+}

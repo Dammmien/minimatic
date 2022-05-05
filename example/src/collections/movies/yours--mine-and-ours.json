@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yours, Mine and Ours",
+    "year": 2005,
+    "cast": [
+      "Dennis Quaid",
+      "Rene Russo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/yours--mine-and-ours.html"
+}

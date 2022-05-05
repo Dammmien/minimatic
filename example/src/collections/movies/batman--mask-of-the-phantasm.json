@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Batman: Mask of the Phantasm",
+    "year": 1993,
+    "cast": [
+      "Voices of",
+      "Kevin Conroy",
+      "Dana Delany"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/batman--mask-of-the-phantasm.html"
+}

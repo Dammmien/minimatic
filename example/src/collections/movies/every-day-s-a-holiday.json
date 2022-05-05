@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Every Day's a Holiday",
+    "year": 1937,
+    "cast": [
+      "Mae West",
+      "Edmund Lowe",
+      "Louis Armstrong"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/every-day-s-a-holiday.html"
+}

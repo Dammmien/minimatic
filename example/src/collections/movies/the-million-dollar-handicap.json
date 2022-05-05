@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Million Dollar Handicap",
+    "year": 1925,
+    "cast": [
+      "Edmund Burns",
+      "Ralph Lewis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-million-dollar-handicap.html"
+}

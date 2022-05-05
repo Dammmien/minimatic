@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Roger Touhy, Gangster",
+    "year": 1944,
+    "cast": [
+      "Preston Foster",
+      "Victor McLaglen",
+      "Lois Andrews"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/roger-touhy--gangster.html"
+}

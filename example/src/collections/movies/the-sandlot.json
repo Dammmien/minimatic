@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sandlot",
+    "year": 1993,
+    "cast": [
+      "Karen Allen",
+      "Denis Leary",
+      "James Earl Jones"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-sandlot.html"
+}

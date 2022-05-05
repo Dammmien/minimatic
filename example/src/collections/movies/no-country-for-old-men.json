@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "cast": [
+      "Josh Brolin",
+      "Tommy Lee Jones",
+      "Javier Bardem",
+      "Woody Harrelson",
+      "Kelly Macdonald",
+      "Tess Harper",
+      "Barry Corbin"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/no-country-for-old-men.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Girl from Chicago",
+    "year": 1932,
+    "cast": [
+      "Grace Smith",
+      "Carl Mahon",
+      "Juano Hernandez"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-girl-from-chicago.html"
+}

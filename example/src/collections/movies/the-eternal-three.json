@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Eternal Three",
+    "year": 1923,
+    "cast": [
+      "Hobart Bosworth",
+      "Claire Windsor",
+      "Bessie Love"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-eternal-three.html"
+}

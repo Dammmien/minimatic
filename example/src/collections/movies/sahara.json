@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sahara",
+    "year": 2005,
+    "cast": [
+      "Matthew McConaughey",
+      "Steve Zahn",
+      "Penélope Cruz"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/sahara.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fury of the Jungle",
+    "year": 1933,
+    "cast": [
+      "Donald Cook",
+      "Peggy Shannon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fury-of-the-jungle.html"
+}

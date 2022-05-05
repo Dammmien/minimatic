@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Soldiers of the Storm",
+    "year": 1933,
+    "cast": [
+      "Regis Toomey",
+      "Anita Page"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/soldiers-of-the-storm.html"
+}

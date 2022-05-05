@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Dog Day Afternoon",
+    "year": 1975,
+    "cast": [
+      "Al Pacino",
+      "John Cazale",
+      "Charles Durning",
+      "Chris Sarandon",
+      "James Broderick"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/dog-day-afternoon.html"
+}

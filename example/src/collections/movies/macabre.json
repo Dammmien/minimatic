@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Macabre",
+    "year": 1958,
+    "cast": [
+      "William Prince",
+      "Christine White"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/macabre.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Hot Tub Time Machine",
+    "year": 2010,
+    "cast": [
+      "John Cusack",
+      "Rob Corddry",
+      "Craig Robinson",
+      "Clark Duke",
+      "Crispin Glover",
+      "Lizzy Caplan",
+      "Chevy Chase"
+    ],
+    "genres": [
+      "Comedy",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/hot-tub-time-machine.html"
+}

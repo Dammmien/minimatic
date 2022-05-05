@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Golden Gallows",
+    "year": 1922,
+    "cast": [
+      "Miss DuPont",
+      "Edwin Stevens",
+      "Eve Southern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-golden-gallows.html"
+}

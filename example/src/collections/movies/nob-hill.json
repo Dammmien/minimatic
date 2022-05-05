@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nob Hill",
+    "year": 1945,
+    "cast": [
+      "George Raft",
+      "Joan Bennett",
+      "Vivian Blaine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/nob-hill.html"
+}

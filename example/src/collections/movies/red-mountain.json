@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Red Mountain",
+    "year": 1951,
+    "cast": [
+      "Alan Ladd",
+      "Lizabeth Scott",
+      "Arthur Kennedy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/red-mountain.html"
+}

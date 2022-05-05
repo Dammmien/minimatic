@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "3 Women",
+    "year": 1977,
+    "cast": [
+      "Shelley Duvall",
+      "Sissy Spacek",
+      "Janice Rule"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/3-women.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Control",
+    "year": 2007,
+    "cast": [
+      "Sam Riley",
+      "Samantha Morton",
+      "Alexandra Maria Lara"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/control.html"
+}

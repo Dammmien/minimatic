@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Two-Gun Gussie",
+    "year": 1918,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/two-gun-gussie.html"
+}

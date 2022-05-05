@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Clean, Shaven",
+    "year": 1994,
+    "cast": [
+      "Peter Greene"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/clean--shaven.html"
+}

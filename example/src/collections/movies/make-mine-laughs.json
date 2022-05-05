@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Make Mine Laughs",
+    "year": 1949,
+    "cast": [
+      "Ray Bolger",
+      "Joan Davis",
+      "Dennis Day"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/make-mine-laughs.html"
+}

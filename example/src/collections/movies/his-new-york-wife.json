@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "His New York Wife",
+    "year": 1926,
+    "cast": [
+      "Alice Day",
+      "Theodore von Eltz",
+      "Ethel Clayton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/his-new-york-wife.html"
+}

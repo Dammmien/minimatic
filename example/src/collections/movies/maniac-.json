@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Maniac!",
+    "year": 1980,
+    "cast": [
+      "Caroline Munro",
+      "Joe Spinell"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/maniac-.html"
+}

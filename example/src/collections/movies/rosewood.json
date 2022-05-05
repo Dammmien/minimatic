@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Rosewood",
+    "year": 1997,
+    "cast": [
+      "Jon Voight",
+      "Ving Rhames",
+      "Don Cheadle",
+      "Bruce McGill",
+      "Loren Dean",
+      "Esther Rolle",
+      "Elise Neal"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rosewood.html"
+}

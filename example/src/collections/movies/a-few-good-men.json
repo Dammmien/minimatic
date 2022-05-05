@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A Few Good Men",
+    "year": 1992,
+    "cast": [
+      "Tom Cruise",
+      "Demi Moore",
+      "Jack Nicholson",
+      "Kiefer Sutherland",
+      "Kevin Bacon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-few-good-men.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lullaby of Broadway",
+    "year": 1951,
+    "cast": [
+      "Doris Day",
+      "Gene Nelson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/lullaby-of-broadway.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gold Diggers of 1933",
+    "year": 1933,
+    "cast": [
+      "Warren Williams",
+      "Ginger Rogers",
+      "Aline MacMahon"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/gold-diggers-of-1933.html"
+}

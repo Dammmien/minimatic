@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Falling Hare",
+    "year": 1943,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/falling-hare.html"
+}

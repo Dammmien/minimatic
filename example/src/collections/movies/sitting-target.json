@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sitting Target",
+    "year": 1972,
+    "cast": [
+      "Oliver Reed",
+      "Jill St. John"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sitting-target.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Want You",
+    "year": 1951,
+    "cast": [
+      "Dana Andrews",
+      "Dorothy McGuire"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/i-want-you.html"
+}

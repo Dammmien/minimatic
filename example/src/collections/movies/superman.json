@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Superman",
+    "year": 1978,
+    "cast": [
+      "Marlon Brando",
+      "Gene Hackman",
+      "Christopher Reeve",
+      "Margot Kidder",
+      "Jackie Cooper",
+      "Ned Beatty",
+      "Valerie Perrine",
+      "Glenn Ford",
+      "Phyllis Thaxter",
+      "Susannah York",
+      "Jeff East"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/superman.html"
+}

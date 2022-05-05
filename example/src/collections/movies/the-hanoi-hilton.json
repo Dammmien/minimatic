@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hanoi Hilton",
+    "year": 1987,
+    "cast": [
+      "Michael Moriarty",
+      "Paul Le Mat"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hanoi-hilton.html"
+}

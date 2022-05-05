@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Everybody Does It",
+    "year": 1949,
+    "cast": [
+      "Paul Douglas",
+      "Linda Darnell",
+      "Celeste Holm"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/everybody-does-it.html"
+}

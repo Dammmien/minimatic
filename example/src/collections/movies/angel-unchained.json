@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Angel Unchained",
+    "year": 1970,
+    "cast": [
+      "Larry Bishop",
+      "Tyne Daly",
+      "Aldo Ray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/angel-unchained.html"
+}

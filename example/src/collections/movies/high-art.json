@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "High Art",
+    "year": 1998,
+    "cast": [
+      "Radha Mitchell",
+      "Ally Sheedy",
+      "Patricia Clarkson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/high-art.html"
+}

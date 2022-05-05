@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "We Are Marshall",
+    "year": 2006,
+    "cast": [
+      "Matthew McConaughey",
+      "Matthew Fox",
+      "Anthony Mackie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/we-are-marshall.html"
+}

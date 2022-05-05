@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Pilot",
+    "year": 1935,
+    "cast": [
+      "Richard Talmadge",
+      "Gertrude Messinger"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-fighting-pilot.html"
+}

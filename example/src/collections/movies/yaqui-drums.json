@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yaqui Drums",
+    "year": 1956,
+    "cast": [
+      "Rod Cameron",
+      "Mary Castle"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/yaqui-drums.html"
+}

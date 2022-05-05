@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bad Seed, The",
+    "year": 1985,
+    "cast": [
+      "Blair Brown",
+      "Lynn Redgrave",
+      "David Carradine"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/bad-seed--the.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Nostalgia",
+    "year": 2018,
+    "cast": [
+      "Jon Hamm",
+      "Nick Offerman",
+      "Amber Tamblyn",
+      "Patton Oswalt",
+      "Catherine Keener",
+      "Ellen Burstyn",
+      "Bruce Dern",
+      "John Ortiz",
+      "James LeGros"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/nostalgia.html"
+}

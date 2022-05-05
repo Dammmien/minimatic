@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cripple Creek",
+    "year": 1952,
+    "cast": [
+      "George Montgomery",
+      "Richard Egan",
+      "Karin Booth"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cripple-creek.html"
+}

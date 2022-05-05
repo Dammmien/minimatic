@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Somebody Killed Her Husband",
+    "year": 1978,
+    "cast": [
+      "Farrah Fawcett",
+      "Jeff Bridges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/somebody-killed-her-husband.html"
+}

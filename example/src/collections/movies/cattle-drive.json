@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cattle Drive",
+    "year": 1951,
+    "cast": [
+      "Joel McCrea",
+      "Dean Stockwell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cattle-drive.html"
+}

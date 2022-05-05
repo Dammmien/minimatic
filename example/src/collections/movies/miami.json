@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Miami",
+    "year": 1924,
+    "cast": [
+      "Betty Compson",
+      "Lawford Davidson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/miami.html"
+}

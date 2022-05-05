@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Land of the Long Shadows",
+    "year": 1917,
+    "cast": [
+      "Jack Gardner",
+      "Ruth King"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-land-of-the-long-shadows.html"
+}

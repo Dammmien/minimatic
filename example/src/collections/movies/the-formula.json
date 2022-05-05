@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Formula",
+    "year": 1980,
+    "cast": [
+      "George C. Scott",
+      "Marlon Brando"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-formula.html"
+}

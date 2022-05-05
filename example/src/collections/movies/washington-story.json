@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Washington Story",
+    "year": 1952,
+    "cast": [
+      "Van Johnson",
+      "Patricia Neal"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/washington-story.html"
+}

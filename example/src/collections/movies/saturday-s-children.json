@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Saturday's Children",
+    "year": 1940,
+    "cast": [
+      "John Garfield",
+      "Anne Shirley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/saturday-s-children.html"
+}

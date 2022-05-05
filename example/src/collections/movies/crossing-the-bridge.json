@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Crossing the Bridge",
+    "year": 1992,
+    "cast": [
+      "Josh Charles",
+      "Jason Gedrick",
+      "Stephen Baldwin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/crossing-the-bridge.html"
+}

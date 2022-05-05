@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pentathlon",
+    "year": 1994,
+    "cast": [
+      "Dolph Lundgren"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/pentathlon.html"
+}

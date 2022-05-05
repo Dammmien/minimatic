@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hold That Line",
+    "year": 1952,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Veda Ann Borg"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hold-that-line.html"
+}

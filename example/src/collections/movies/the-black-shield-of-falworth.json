@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Black Shield of Falworth",
+    "year": 1954,
+    "cast": [
+      "Tony Curtis",
+      "Janet Leigh"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-black-shield-of-falworth.html"
+}

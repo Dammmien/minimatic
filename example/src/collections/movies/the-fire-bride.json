@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fire Bride",
+    "year": 1922,
+    "cast": [
+      "Ruth Renick",
+      "Edward Hearn"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-fire-bride.html"
+}

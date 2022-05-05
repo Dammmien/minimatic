@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "D3: The Mighty Ducks",
+    "year": 1996,
+    "cast": [
+      "Emilio Estevez",
+      "Joshua Jackson"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/d3--the-mighty-ducks.html"
+}

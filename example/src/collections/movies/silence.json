@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silence",
+    "year": 1931,
+    "cast": [
+      "Clive Brook",
+      "Peggy Shannon"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/silence.html"
+}

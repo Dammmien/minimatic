@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Look Who's Talking Too",
+    "year": 1990,
+    "cast": [
+      "John Travolta",
+      "Kirstie Alley",
+      "Bruce Willis",
+      "Roseanne Barr",
+      "Olympia Dukakis",
+      "Elias Koteas",
+      "Damon Wayans"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/look-who-s-talking-too.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Falcon's Alibi",
+    "year": 1946,
+    "cast": [
+      "Tom Conway",
+      "Rita Corday"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-falcon-s-alibi.html"
+}

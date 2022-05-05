@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hard Boiled Mahoney",
+    "year": 1947,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Teala Loring"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hard-boiled-mahoney.html"
+}

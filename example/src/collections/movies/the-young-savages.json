@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Young Savages",
+    "year": 1961,
+    "cast": [
+      "Burt Lancaster",
+      "Dina Merrill",
+      "Shelley Winters"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-young-savages.html"
+}

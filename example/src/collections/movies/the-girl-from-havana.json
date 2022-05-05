@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl from Havana",
+    "year": 1929,
+    "cast": [
+      "Lola Lane",
+      "Paul Page"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-girl-from-havana.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Unknown Love",
+    "year": 1919,
+    "cast": [
+      "Dolores Cassinelli",
+      "E.K. Lincoln"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/unknown-love.html"
+}

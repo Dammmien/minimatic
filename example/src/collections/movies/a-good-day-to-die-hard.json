@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "A Good Day to Die Hard",
+    "year": 2013,
+    "cast": [
+      "Bruce Willis",
+      "Jai Courtney",
+      "Sebastian Koch",
+      "Mary Elizabeth Winstead",
+      "Yuliya Snigir",
+      "Radivoje Bukvić",
+      "Cole Hauser",
+      "Amaury Nolasco"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/a-good-day-to-die-hard.html"
+}

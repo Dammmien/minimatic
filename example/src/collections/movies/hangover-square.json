@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hangover Square",
+    "year": 1945,
+    "cast": [
+      "Laird Cregar",
+      "Linda Darnell",
+      "George Sanders"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hangover-square.html"
+}

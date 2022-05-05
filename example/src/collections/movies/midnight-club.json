@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Midnight Club",
+    "year": 1933,
+    "cast": [
+      "George Raft",
+      "Clive Brook",
+      "Alison Skipworth"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/midnight-club.html"
+}

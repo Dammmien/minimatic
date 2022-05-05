@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Starman",
+    "year": 1984,
+    "cast": [
+      "Jeff Bridges",
+      "Karen Allen",
+      "Charles Martin Smith"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/starman.html"
+}

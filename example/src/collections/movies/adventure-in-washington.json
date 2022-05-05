@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Adventure in Washington",
+    "year": 1941,
+    "cast": [
+      "Herbert Marshall",
+      "Virginia Bruce"
+    ],
+    "genres": []
+  },
+  "output": "movies/adventure-in-washington.html"
+}

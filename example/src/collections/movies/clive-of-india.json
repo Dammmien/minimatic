@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Clive of India",
+    "year": 1935,
+    "cast": [
+      "Ronald Colman",
+      "Loretta Young",
+      "Colin Clive"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/clive-of-india.html"
+}

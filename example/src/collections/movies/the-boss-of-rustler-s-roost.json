@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Boss of Rustler's Roost",
+    "year": 1928,
+    "cast": [
+      "Don Coleman",
+      "Ben Corbett"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-boss-of-rustler-s-roost.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Demon Island",
+    "year": 2002,
+    "cast": [
+      "Nicholas Brendon",
+      "Jaime Pressly",
+      "Eugene Byrd"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/demon-island.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Boss",
+    "year": 2016,
+    "cast": [
+      "Melissa McCarthy",
+      "Kristen Bell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-boss.html"
+}

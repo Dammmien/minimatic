@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Firecreek",
+    "year": 1968,
+    "cast": [
+      "James Stewart",
+      "Henry Fonda",
+      "Inger Stevens",
+      "Jacqueline Scott",
+      "Gary Lockwood"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/firecreek.html"
+}

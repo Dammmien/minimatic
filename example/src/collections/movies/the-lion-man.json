@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lion Man",
+    "year": 1936,
+    "cast": [
+      "Jon Hall",
+      "Kathleen Burke"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-lion-man.html"
+}

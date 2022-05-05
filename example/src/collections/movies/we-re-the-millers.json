@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "We're the Millers",
+    "year": 2013,
+    "cast": [
+      "Jason Sudeikis",
+      "Jennifer Aniston",
+      "Emma Roberts",
+      "Will Poulter",
+      "Ed Helms",
+      "Nick Offerman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/we-re-the-millers.html"
+}

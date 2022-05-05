@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bonds of Honor",
+    "year": 1919,
+    "cast": [
+      "Sessue Hayakawa",
+      "Marin Sais"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bonds-of-honor.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Something Always Happens",
+    "year": 1928,
+    "cast": [
+      "Esther Ralston",
+      "Neil Hamilton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/something-always-happens.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "This Is America",
+    "year": 1933,
+    "cast": [
+      "Alois Havrilla (narrator)"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/this-is-america.html"
+}

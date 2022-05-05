@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Da",
+    "year": 1988,
+    "cast": [
+      "Barnard Hughes",
+      "Martin Sheen",
+      "William Hickey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/da.html"
+}

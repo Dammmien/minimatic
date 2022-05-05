@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Glass Lips",
+    "year": 2007,
+    "cast": [
+      "Patryk Czajka",
+      "Joanna Litwin",
+      "Grzegorz Przybyl"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/glass-lips.html"
+}

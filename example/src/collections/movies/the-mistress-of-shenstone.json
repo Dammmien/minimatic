@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mistress of Shenstone",
+    "year": 1921,
+    "cast": [
+      "Pauline Frederick",
+      "Roy Stewart"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-mistress-of-shenstone.html"
+}

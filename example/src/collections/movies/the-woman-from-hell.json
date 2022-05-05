@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman from Hell",
+    "year": 1929,
+    "cast": [
+      "Mary Astor",
+      "Robert Armstrong"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woman-from-hell.html"
+}

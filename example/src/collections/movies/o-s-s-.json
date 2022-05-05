@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "O.S.S.",
+    "year": 1946,
+    "cast": [
+      "Alan Ladd",
+      "Geraldine Fitzgerald",
+      "Patric Knowles"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/o-s-s-.html"
+}

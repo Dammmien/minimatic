@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl-Woman",
+    "year": 1919,
+    "cast": [
+      "Gladys Leslie",
+      "Maurice Costello"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-girl-woman.html"
+}

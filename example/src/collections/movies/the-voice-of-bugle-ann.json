@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Voice of Bugle Ann",
+    "year": 1936,
+    "cast": [
+      "Lionel Barrymore",
+      "Maureen O'Sullivan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-voice-of-bugle-ann.html"
+}

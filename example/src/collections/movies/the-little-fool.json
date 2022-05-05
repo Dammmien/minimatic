@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Little Fool",
+    "year": 1921,
+    "cast": [
+      "Milton Sills",
+      "Nigel Barrie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-little-fool.html"
+}

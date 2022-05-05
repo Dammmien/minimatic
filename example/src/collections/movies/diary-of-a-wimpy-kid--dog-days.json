@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Diary of a Wimpy Kid: Dog Days",
+    "year": 2012,
+    "cast": [
+      "Zachary Gordon",
+      "Steve Zahn",
+      "Robert Capron",
+      "Devon Bostick",
+      "Rachael Harris",
+      "Connor Fielding",
+      "Owen Fielding",
+      "Peyton List",
+      "Karan Brar",
+      "Melissa Roxburgh",
+      "Grayson Russell",
+      "Laine MacNeil",
+      "Sachin Tyler Sadachcharan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/diary-of-a-wimpy-kid--dog-days.html"
+}

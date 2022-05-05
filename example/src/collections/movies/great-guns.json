@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Great Guns",
+    "year": 1941,
+    "cast": [
+      "Laurel and Hardy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/great-guns.html"
+}

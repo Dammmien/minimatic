@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Mr. Deeds Goes to Town",
+    "year": 1936,
+    "cast": [
+      "Gary Cooper",
+      "(",
+      "Best Actor",
+      "nominee)",
+      "Jean Arthur",
+      "Lionel Stander"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/mr--deeds-goes-to-town.html"
+}

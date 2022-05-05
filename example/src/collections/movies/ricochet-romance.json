@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ricochet Romance",
+    "year": 1954,
+    "cast": [
+      "Marjorie Main",
+      "Chill Wills"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/ricochet-romance.html"
+}

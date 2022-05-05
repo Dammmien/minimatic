@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Yes Man",
+    "year": 2008,
+    "cast": [
+      "Jim Carrey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/yes-man.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Swim Girl, Swim",
+    "year": 1927,
+    "cast": [
+      "Bebe Daniels",
+      "James Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/swim-girl--swim.html"
+}

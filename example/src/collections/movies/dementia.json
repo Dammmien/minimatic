@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Dementia",
+    "year": 1955,
+    "cast": [
+      "Adrienne Barrett"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dementia.html"
+}

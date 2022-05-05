@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Eyes of Julia Deep",
+    "year": 1918,
+    "cast": [
+      "Mary Miles Minter",
+      "Allan Forrest"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-eyes-of-julia-deep.html"
+}

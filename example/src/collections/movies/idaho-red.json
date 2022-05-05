@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Idaho Red",
+    "year": 1929,
+    "cast": [
+      "Tom Tyler",
+      "Patricia Caron"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/idaho-red.html"
+}

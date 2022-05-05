@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "We Can't Have Everything",
+    "year": 1918,
+    "cast": [
+      "Kathlyn Williams",
+      "Elliott Dexter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/we-can-t-have-everything.html"
+}

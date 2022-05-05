@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Perfect Flapper",
+    "year": 1924,
+    "cast": [
+      "Colleen Moore",
+      "Syd Chaplin",
+      "Phyllis Haver"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-perfect-flapper.html"
+}

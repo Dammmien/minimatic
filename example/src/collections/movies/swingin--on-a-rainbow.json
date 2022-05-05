@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Swingin' on a Rainbow",
+    "year": 1945,
+    "cast": [
+      "Jane Frazee",
+      "Harry Langdon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/swingin--on-a-rainbow.html"
+}

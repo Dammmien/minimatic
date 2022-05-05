@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Russia House",
+    "year": 1990,
+    "cast": [
+      "Sean Connery",
+      "Michelle Pfeiffer",
+      "Roy Scheider",
+      "James Fox",
+      "Klaus Maria Brandauer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-russia-house.html"
+}

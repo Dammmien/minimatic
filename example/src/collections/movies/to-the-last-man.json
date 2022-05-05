@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "To the Last Man",
+    "year": 1933,
+    "cast": [
+      "Randolph Scott",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/to-the-last-man.html"
+}

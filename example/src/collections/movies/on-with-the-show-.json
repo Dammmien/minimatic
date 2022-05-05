@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "On with the Show!",
+    "year": 1929,
+    "cast": [
+      "Joe E. Brown",
+      "Betty Compson"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/on-with-the-show-.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Smokey Roadblock",
+    "year": 1977,
+    "cast": [
+      "Henry Fonda",
+      "Eileen Brennan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-great-smokey-roadblock.html"
+}

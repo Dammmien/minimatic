@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "'Fast Bullets",
+    "year": 1936,
+    "cast": [
+      "Tom Tyler",
+      "Rex Lease"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/-fast-bullets.html"
+}

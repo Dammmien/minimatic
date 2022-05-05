@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blue Grass of Kentucky",
+    "year": 1950,
+    "cast": [
+      "Bill Williams",
+      "Jane Nigh",
+      "Ralph Morgan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/blue-grass-of-kentucky.html"
+}

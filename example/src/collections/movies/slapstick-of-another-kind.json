@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Slapstick of Another Kind",
+    "year": 1984,
+    "cast": [
+      "Jerry Lewis",
+      "Madeline Kahn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/slapstick-of-another-kind.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Law Abiding Citizen",
+    "year": 2009,
+    "cast": [
+      "Gerard Butler",
+      "Jamie Foxx",
+      "Colm Meaney",
+      "Bruce McGill",
+      "Regina Hall",
+      "Viola Davis"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/law-abiding-citizen.html"
+}

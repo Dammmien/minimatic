@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hushed Hour",
+    "year": 1919,
+    "cast": [
+      "Blanche Sweet",
+      "Milton Sills"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hushed-hour.html"
+}

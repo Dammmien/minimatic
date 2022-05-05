@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Junior",
+    "year": 1994,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Danny DeVito",
+      "Emma Thompson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/junior.html"
+}

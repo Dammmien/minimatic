@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Caught in a Cabaret",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Mabel Normand",
+      "Edgar Kennedy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/caught-in-a-cabaret.html"
+}

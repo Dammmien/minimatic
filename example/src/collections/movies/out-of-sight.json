@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Out of Sight",
+    "year": 1998,
+    "cast": [
+      "George Clooney",
+      "Jennifer Lopez",
+      "Don Cheadle",
+      "Ving Rhames",
+      "Dennis Farina",
+      "Albert Brooks",
+      "Steve Zahn",
+      "Isaiah Washington",
+      "Catherine Keener"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/out-of-sight.html"
+}

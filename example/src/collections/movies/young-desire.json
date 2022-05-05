@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Young Desire",
+    "year": 1930,
+    "cast": [
+      "Mary Nolan",
+      "William Janney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/young-desire.html"
+}

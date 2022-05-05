@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Opportunity Knocks",
+    "year": 1990,
+    "cast": [
+      "Dana Carvey",
+      "Robert Loggia"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/opportunity-knocks.html"
+}

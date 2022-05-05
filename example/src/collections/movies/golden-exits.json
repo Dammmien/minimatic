@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Golden Exits",
+    "year": 2018,
+    "cast": [
+      "Emily Browning",
+      "Adam Horowitz",
+      "Mary-Louise Parker",
+      "Jason Schwartzman",
+      "Chloë Sevigny",
+      "Analeigh Tipton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/golden-exits.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sylvia Scarlett",
+    "year": 1935,
+    "cast": [
+      "Katharine Hepburn",
+      "Cary Grant",
+      "Edmund Gwenn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sylvia-scarlett.html"
+}

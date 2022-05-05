@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mars Needs Women",
+    "year": 1967,
+    "cast": [
+      "Tommy Kirk",
+      "Yvonne Craig"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/mars-needs-women.html"
+}

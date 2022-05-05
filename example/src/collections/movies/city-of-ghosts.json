@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "City of Ghosts",
+    "year": 2002,
+    "cast": [
+      "Matt Dillon",
+      "James Caan",
+      "Natascha McElhone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/city-of-ghosts.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Awakenings",
+    "year": 1990,
+    "cast": [
+      "Robert De Niro",
+      "Robin Williams",
+      "Penelope Ann Miller",
+      "John Heard",
+      "Julie Kavner",
+      "Ruth Nelson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/awakenings.html"
+}

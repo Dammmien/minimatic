@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Texas Chainsaw 3D",
+    "year": 2013,
+    "cast": [
+      "Alexandra Daddario",
+      "Dan Yeager",
+      "Tremaine 'Trey Songz' Neverson",
+      "Tania Raymonde",
+      "Keram Malicki-Sánchez",
+      "Thom Barry",
+      "Paul Rae",
+      "and",
+      "Bill Moseley"
+    ],
+    "genres": [
+      "Slasher"
+    ]
+  },
+  "output": "movies/texas-chainsaw-3d.html"
+}

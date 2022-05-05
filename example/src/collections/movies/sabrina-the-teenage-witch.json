@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Sabrina the Teenage Witch",
+    "year": 1996,
+    "cast": [
+      "Melissa Joan Hart"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/sabrina-the-teenage-witch.html"
+}

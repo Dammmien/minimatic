@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Indigo",
+    "year": 2003,
+    "cast": [
+      "Neale Donald Walsch",
+      "Dane Bowman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/indigo.html"
+}

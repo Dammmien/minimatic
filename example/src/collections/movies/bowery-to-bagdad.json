@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bowery to Bagdad",
+    "year": 1955,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Eric Blore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bowery-to-bagdad.html"
+}

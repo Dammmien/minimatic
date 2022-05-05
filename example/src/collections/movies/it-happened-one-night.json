@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "It Happened One Night",
+    "year": 1934,
+    "cast": [
+      "Claudette Colbert",
+      "Clark Gable",
+      "Roscoe Karns"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/it-happened-one-night.html"
+}

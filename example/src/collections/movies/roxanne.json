@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Roxanne",
+    "year": 1987,
+    "cast": [
+      "Steve Martin",
+      "Daryl Hannah",
+      "Rick Rossovich",
+      "Shelley Duvall",
+      "Fred Willard",
+      "Michael J. Pollard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/roxanne.html"
+}

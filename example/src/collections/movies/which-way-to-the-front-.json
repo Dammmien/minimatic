@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Which Way to the Front?",
+    "year": 1970,
+    "cast": [
+      "Jerry Lewis",
+      "Jan Murray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/which-way-to-the-front-.html"
+}

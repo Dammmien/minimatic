@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Casper: A Spirited Beginning",
+    "year": 1997,
+    "cast": [
+      "Steve Guttenberg",
+      "Lori Loughlin",
+      "Rodney Dangerfield"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/casper--a-spirited-beginning.html"
+}

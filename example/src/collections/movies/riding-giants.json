@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riding Giants",
+    "year": 2004,
+    "cast": [
+      "The art of",
+      "big wave surfing"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/riding-giants.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Song Without End",
+    "year": 1960,
+    "cast": [
+      "Dirk Bogarde",
+      "Capucine",
+      "Patricia Morison"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/song-without-end.html"
+}

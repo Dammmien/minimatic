@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Time Out of Mind",
+    "year": 1947,
+    "cast": [
+      "Phyllis Calvert",
+      "Robert Hutton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/time-out-of-mind.html"
+}

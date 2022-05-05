@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cruel, Cruel Love",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Edgar Kennedy",
+      "Minta Durfee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cruel--cruel-love.html"
+}

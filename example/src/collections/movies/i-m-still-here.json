@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I'm Still Here",
+    "year": 2010,
+    "cast": [
+      "Tumultuous year in the life of actor",
+      "Joaquin Phoenix",
+      "as he attempts to reinvent himself as a hip-hop artist."
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/i-m-still-here.html"
+}

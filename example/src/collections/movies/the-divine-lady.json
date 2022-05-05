@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Divine Lady",
+    "year": 1929,
+    "cast": [
+      "Corinne Griffith",
+      "Victor Varconi"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/the-divine-lady.html"
+}

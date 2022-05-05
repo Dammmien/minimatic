@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Song of the City",
+    "year": 1937,
+    "cast": [
+      "Margaret Lindsay",
+      "Dean Jagger",
+      "Nat Pendleton"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/song-of-the-city.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Smoking Guns",
+    "year": 1934,
+    "cast": [
+      "Ken Maynard",
+      "Gloria Shea",
+      "Walter Miller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/smoking-guns.html"
+}

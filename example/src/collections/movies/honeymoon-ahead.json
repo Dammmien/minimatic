@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Honeymoon Ahead",
+    "year": 1945,
+    "cast": [
+      "Allan Jones",
+      "Grace McDonald"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/honeymoon-ahead.html"
+}

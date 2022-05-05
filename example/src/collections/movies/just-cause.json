@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Just Cause",
+    "year": 1995,
+    "cast": [
+      "Sean Connery",
+      "Laurence Fishburne",
+      "Kate Capshaw",
+      "Blair Underwood"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/just-cause.html"
+}

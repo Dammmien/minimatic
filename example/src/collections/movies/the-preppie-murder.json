@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Preppie Murder",
+    "year": 1989,
+    "cast": [
+      "William Baldwin",
+      "Lara Flynn Boyle",
+      "Danny Aiello",
+      "Joanna Kerns",
+      "William Devane"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-preppie-murder.html"
+}

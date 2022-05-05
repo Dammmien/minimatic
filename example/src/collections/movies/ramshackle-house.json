@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ramshackle House",
+    "year": 1924,
+    "cast": [
+      "Betty Compson",
+      "John Davidson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ramshackle-house.html"
+}

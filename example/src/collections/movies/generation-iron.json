@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Generation Iron",
+    "year": 2013,
+    "cast": [
+      "Follows bodybuilders as they train and compete for",
+      "Mr. Olympia",
+      "."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/generation-iron.html"
+}

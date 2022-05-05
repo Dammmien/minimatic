@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Renegade Ranger",
+    "year": 1938,
+    "cast": [
+      "George O'Brien",
+      "Rita Hayworth",
+      "Tim Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-renegade-ranger.html"
+}

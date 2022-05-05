@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Air Up There",
+    "year": 1994,
+    "cast": [
+      "Kevin Bacon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-air-up-there.html"
+}

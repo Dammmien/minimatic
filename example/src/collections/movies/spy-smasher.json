@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spy Smasher",
+    "year": 1942,
+    "cast": [
+      "Kane Richmond",
+      "Marguerite Chapman"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/spy-smasher.html"
+}

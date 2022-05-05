@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mad Holiday",
+    "year": 1936,
+    "cast": [
+      "Edmund Lowe",
+      "Elissa Landi",
+      "ZaSu Pitts"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/mad-holiday.html"
+}

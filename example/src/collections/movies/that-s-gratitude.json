@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That's Gratitude",
+    "year": 1934,
+    "cast": [
+      "Arthur Byron",
+      "Mary Carlisle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-s-gratitude.html"
+}

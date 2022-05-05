@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Arson Squad",
+    "year": 1945,
+    "cast": [
+      "Frank Albertson",
+      "Robert Armstrong"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/arson-squad.html"
+}

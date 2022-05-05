@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Famous Mrs. Fair",
+    "year": 1923,
+    "cast": [
+      "Myrtle Stedman",
+      "Huntley Gordon",
+      "Marguerite De La Motte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-famous-mrs--fair.html"
+}

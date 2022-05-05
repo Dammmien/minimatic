@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Baby Maker",
+    "year": 1970,
+    "cast": [
+      "Barbara Hershey",
+      "Collin Wilcox Paxton",
+      "Scott Glenn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-baby-maker.html"
+}

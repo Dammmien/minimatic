@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Summer Magic",
+    "year": 1963,
+    "cast": [
+      "Hayley Mills",
+      "Burl Ives"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/summer-magic.html"
+}

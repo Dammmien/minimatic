@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thief of Damascus",
+    "year": 1952,
+    "cast": [
+      "Paul Henreid",
+      "John Sutton",
+      "Jeff Donnell"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/thief-of-damascus.html"
+}

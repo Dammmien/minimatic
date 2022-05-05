@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Strange Affair of Uncle Harry",
+    "year": 1945,
+    "cast": [
+      "George Sanders",
+      "Geraldine Fitzgerald",
+      "Ella Raines"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-strange-affair-of-uncle-harry.html"
+}

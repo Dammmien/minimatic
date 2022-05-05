@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "National Lampoon's Vacation",
+    "year": 1983,
+    "cast": [
+      "Chevy Chase",
+      "Beverly D'Angelo",
+      "Randy Quaid",
+      "John Candy",
+      "Anthony Michael Hall",
+      "Dana Barron"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/national-lampoon-s-vacation.html"
+}

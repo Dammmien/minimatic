@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Horsing Around",
+    "year": 1957,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/horsing-around.html"
+}

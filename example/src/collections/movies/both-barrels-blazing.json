@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Both Barrels Blazing",
+    "year": 1945,
+    "cast": [
+      "Charles Starrett",
+      "Dub Taylor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/both-barrels-blazing.html"
+}

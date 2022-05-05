@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Devil With Women",
+    "year": 1930,
+    "cast": [
+      "Victor McLaglen",
+      "Humphrey Bogart",
+      "Mona Maris"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/a-devil-with-women.html"
+}

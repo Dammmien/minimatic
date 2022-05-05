@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Another Thin Man",
+    "year": 1939,
+    "cast": [
+      "William Powell",
+      "Myrna Loy",
+      "Virginia Grey",
+      "Otto Kruger"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/another-thin-man.html"
+}

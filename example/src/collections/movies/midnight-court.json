@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Midnight Court",
+    "year": 1937,
+    "cast": [
+      "Ann Dvorak",
+      "Carlyle Moore Jr.",
+      "John Litel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/midnight-court.html"
+}

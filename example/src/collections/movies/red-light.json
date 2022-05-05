@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Red Light",
+    "year": 1949,
+    "cast": [
+      "George Raft",
+      "Virginia Mayo",
+      "Raymond Burr"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/red-light.html"
+}

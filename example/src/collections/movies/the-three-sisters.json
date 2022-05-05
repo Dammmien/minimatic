@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Three Sisters",
+    "year": 1966,
+    "cast": [
+      "Sandy Dennis",
+      "Geraldine Page",
+      "Kim Stanley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-three-sisters.html"
+}

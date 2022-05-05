@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Trouble for Two",
+    "year": 1936,
+    "cast": [
+      "Robert Montgomery",
+      "Rosalind Russell",
+      "Frank Morgan",
+      "Reginald Owen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/trouble-for-two.html"
+}

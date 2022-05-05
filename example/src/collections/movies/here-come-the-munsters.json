@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Here Come The Munsters",
+    "year": 1995,
+    "cast": [
+      "Edward Herrmann",
+      "Veronica Hamel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/here-come-the-munsters.html"
+}

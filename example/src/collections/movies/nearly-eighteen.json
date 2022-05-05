@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nearly Eighteen",
+    "year": 1943,
+    "cast": [
+      "Gale Storm",
+      "Rick Vallin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nearly-eighteen.html"
+}

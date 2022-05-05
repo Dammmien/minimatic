@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Behind the Curtain",
+    "year": 1924,
+    "cast": [
+      "Lucille Ricksen",
+      "John Harron"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/behind-the-curtain.html"
+}

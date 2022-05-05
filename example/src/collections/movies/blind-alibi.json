@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blind Alibi",
+    "year": 1938,
+    "cast": [
+      "Richard Dix",
+      "Whitney Bourne",
+      "Eduardo Ciannelli"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blind-alibi.html"
+}

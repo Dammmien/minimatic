@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Am an American Soldier",
+    "year": 2007,
+    "cast": [
+      "The",
+      "Iraq War"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/i-am-an-american-soldier.html"
+}

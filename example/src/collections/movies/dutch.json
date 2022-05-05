@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dutch",
+    "year": 1991,
+    "cast": [
+      "Ed O'Neill",
+      "Ethan Embry",
+      "JoBeth Williams",
+      "Christopher McDonald"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dutch.html"
+}

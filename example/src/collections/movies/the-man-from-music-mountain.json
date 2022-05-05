@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man from Music Mountain",
+    "year": 1943,
+    "cast": [
+      "Roy Rogers",
+      "Ann Gillis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-man-from-music-mountain.html"
+}

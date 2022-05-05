@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Nevadan",
+    "year": 1950,
+    "cast": [
+      "Randolph Scott",
+      "Dorothy Malone"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-nevadan.html"
+}

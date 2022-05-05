@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "And Baby Makes Three",
+    "year": 1949,
+    "cast": [
+      "Barbara Hale",
+      "Robert Young"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/and-baby-makes-three.html"
+}

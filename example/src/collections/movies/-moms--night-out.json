@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "'Moms' Night Out",
+    "year": 2014,
+    "cast": [
+      "Sarah Drew",
+      "Sean Astin",
+      "Patricia Heaton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/-moms--night-out.html"
+}

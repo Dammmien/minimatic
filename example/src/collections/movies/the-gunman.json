@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Gunman",
+    "year": 2015,
+    "cast": [
+      "Sean Penn",
+      "Idris Elba",
+      "Peter Franzén",
+      "Mark Schardan"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-gunman.html"
+}

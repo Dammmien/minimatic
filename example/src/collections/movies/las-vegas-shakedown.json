@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Las Vegas Shakedown",
+    "year": 1955,
+    "cast": [
+      "Dennis O'Keefe",
+      "Coleen Gray"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/las-vegas-shakedown.html"
+}

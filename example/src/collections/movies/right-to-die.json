@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Right to Die",
+    "year": 1987,
+    "cast": [
+      "Raquel Welch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/right-to-die.html"
+}

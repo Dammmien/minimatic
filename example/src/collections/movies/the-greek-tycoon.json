@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Greek Tycoon",
+    "year": 1978,
+    "cast": [
+      "Anthony Quinn",
+      "Jacqueline Bisset"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-greek-tycoon.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Like It That Way",
+    "year": 1934,
+    "cast": [
+      "Gloria Stuart",
+      "Marian Marsh"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/i-like-it-that-way.html"
+}

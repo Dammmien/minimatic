@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bloodbrothers",
+    "year": 1978,
+    "cast": [
+      "Paul Sorvino",
+      "Tony Lo Bianco",
+      "Richard Gere"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bloodbrothers.html"
+}

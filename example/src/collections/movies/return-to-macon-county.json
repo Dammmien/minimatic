@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Return to Macon County",
+    "year": 1975,
+    "cast": [
+      "Nick Nolte",
+      "Don Johnson",
+      "Robin Mattson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/return-to-macon-county.html"
+}

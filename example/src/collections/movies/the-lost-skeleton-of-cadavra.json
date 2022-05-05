@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lost Skeleton of Cadavra",
+    "year": 2001,
+    "cast": [
+      "Fay Masterson",
+      "Andrew Parks",
+      "Susan McConnell"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-lost-skeleton-of-cadavra.html"
+}

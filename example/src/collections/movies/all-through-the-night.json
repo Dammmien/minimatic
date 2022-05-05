@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "All Through the Night",
+    "year": 1941,
+    "cast": [
+      "Humphrey Bogart",
+      "Kaaren Verne",
+      "Conrad Veidt",
+      "Jane Darwell"
+    ],
+    "genres": [
+      "Mystery",
+      "Comedy"
+    ]
+  },
+  "output": "movies/all-through-the-night.html"
+}

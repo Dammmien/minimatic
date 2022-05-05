@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Belle of the Yukon",
+    "year": 1944,
+    "cast": [
+      "Randolph Scott",
+      "Gypsy Rose Lee",
+      "Dinah Shore"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/belle-of-the-yukon.html"
+}

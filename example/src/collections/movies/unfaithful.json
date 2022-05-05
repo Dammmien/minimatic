@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Unfaithful",
+    "year": 2002,
+    "cast": [
+      "Diane Lane",
+      "Richard Gere",
+      "Olivier Martinez"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/unfaithful.html"
+}

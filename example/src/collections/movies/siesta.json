@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Siesta",
+    "year": 1987,
+    "cast": [
+      "Ellen Barkin",
+      "Gabriel Byrne",
+      "Jodie Foster",
+      "Grace Jones",
+      "Isabella Rossellini",
+      "Julian Sands",
+      "Alexei Sayle",
+      "Martin Sheen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/siesta.html"
+}

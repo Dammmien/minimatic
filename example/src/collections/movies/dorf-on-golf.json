@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Dorf on Golf",
+    "year": 1987,
+    "cast": [
+      "Tim Conway"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dorf-on-golf.html"
+}

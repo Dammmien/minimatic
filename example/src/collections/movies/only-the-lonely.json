@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Only the Lonely",
+    "year": 1991,
+    "cast": [
+      "John Candy",
+      "Maureen O'Hara",
+      "Ally Sheedy",
+      "Anthony Quinn",
+      "James Belushi"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/only-the-lonely.html"
+}

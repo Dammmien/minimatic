@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hurricane Smith",
+    "year": 1952,
+    "cast": [
+      "Yvonne de Carlo",
+      "John Ireland",
+      "Forrest Tucker"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/hurricane-smith.html"
+}

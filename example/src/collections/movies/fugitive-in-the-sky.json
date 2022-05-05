@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fugitive in the Sky",
+    "year": 1936,
+    "cast": [
+      "Jean Muir",
+      "Warren Hull"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fugitive-in-the-sky.html"
+}

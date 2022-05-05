@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Country Doctor",
+    "year": 1936,
+    "cast": [
+      "Jean Hersholt",
+      "Jane Darwell",
+      "John Qualen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-country-doctor.html"
+}

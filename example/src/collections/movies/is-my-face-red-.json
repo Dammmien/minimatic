@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Is My Face Red?",
+    "year": 1932,
+    "cast": [
+      "Helen Twelvetrees",
+      "Ricardo Cortez",
+      "Jill Esmond"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/is-my-face-red-.html"
+}

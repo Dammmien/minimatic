@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Arctic Tale",
+    "year": 2007,
+    "cast": [
+      "The life cycle of a",
+      "walrus",
+      "and a",
+      "polar bear",
+      ". Narrated by",
+      "Queen Latifah",
+      "."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/arctic-tale.html"
+}

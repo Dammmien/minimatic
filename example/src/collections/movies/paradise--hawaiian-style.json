@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paradise, Hawaiian Style",
+    "year": 1966,
+    "cast": [
+      "Elvis Presley",
+      "James Shigeta",
+      "Irene Tsu"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/paradise--hawaiian-style.html"
+}

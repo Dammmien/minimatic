@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Touch of Venus",
+    "year": 1948,
+    "cast": [
+      "Robert Walker",
+      "Ava Gardner"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-touch-of-venus.html"
+}

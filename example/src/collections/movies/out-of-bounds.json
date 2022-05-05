@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Out of Bounds",
+    "year": 1986,
+    "cast": [
+      "Anthony Michael Hall",
+      "Jenny Wright",
+      "Jeff Kober"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/out-of-bounds.html"
+}

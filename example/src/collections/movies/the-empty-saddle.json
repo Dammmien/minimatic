@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Empty Saddle",
+    "year": 1925,
+    "cast": [
+      "Pete Morrison",
+      "Lew Meehan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-empty-saddle.html"
+}

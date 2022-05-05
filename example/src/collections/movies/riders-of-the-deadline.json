@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riders of the Deadline",
+    "year": 1943,
+    "cast": [
+      "William Boyd",
+      "Robert Mitchum"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/riders-of-the-deadline.html"
+}

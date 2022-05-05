@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lost Man",
+    "year": 1969,
+    "cast": [
+      "Sidney Poitier",
+      "Joanna Shimkus"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lost-man.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ace of Cactus Range",
+    "year": 1924,
+    "cast": [
+      "Art Mix",
+      "Virginia Warwick"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ace-of-cactus-range.html"
+}

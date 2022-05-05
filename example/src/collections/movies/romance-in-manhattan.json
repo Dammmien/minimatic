@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Romance in Manhattan",
+    "year": 1935,
+    "cast": [
+      "Ginger Rogers",
+      "Francis Lederer",
+      "Jimmy Butler"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/romance-in-manhattan.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bride of the Desert",
+    "year": 1929,
+    "cast": [
+      "Alice Calhoun",
+      "LeRoy Mason"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bride-of-the-desert.html"
+}

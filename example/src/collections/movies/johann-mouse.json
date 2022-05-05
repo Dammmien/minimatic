@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Johann Mouse",
+    "year": 1953,
+    "cast": [],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/johann-mouse.html"
+}

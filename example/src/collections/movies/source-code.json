@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Source Code",
+    "year": 2011,
+    "cast": [
+      "Jake Gyllenhaal",
+      "Michelle Monaghan",
+      "Vera Farmiga",
+      "Jeffrey Wright"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ]
+  },
+  "output": "movies/source-code.html"
+}

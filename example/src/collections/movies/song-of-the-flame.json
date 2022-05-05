@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Song of the Flame",
+    "year": 1930,
+    "cast": [
+      "Alexander Gray",
+      "Bernice Claire",
+      "Noah Beery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/song-of-the-flame.html"
+}

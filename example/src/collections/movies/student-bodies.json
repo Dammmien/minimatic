@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Student Bodies",
+    "year": 1981,
+    "cast": [
+      "Kristen Riter",
+      "Matt Goldsby"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/student-bodies.html"
+}

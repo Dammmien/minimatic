@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trail of the Yukon",
+    "year": 1949,
+    "cast": [
+      "Kirby Grant",
+      "Suzanne Dalbert"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/trail-of-the-yukon.html"
+}

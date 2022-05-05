@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brooding Eyes",
+    "year": 1926,
+    "cast": [
+      "Lionel Barrymore",
+      "Ruth Clifford",
+      "Montagu Love"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/brooding-eyes.html"
+}

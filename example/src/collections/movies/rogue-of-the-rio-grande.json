@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rogue of the Rio Grande",
+    "year": 1930,
+    "cast": [
+      "José Bohr",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rogue-of-the-rio-grande.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Snowden",
+    "year": 2016,
+    "cast": [
+      "Joseph Gordon-Levitt",
+      "Shailene Woodley",
+      "Zachary Quinto"
+    ],
+    "genres": []
+  },
+  "output": "movies/snowden.html"
+}

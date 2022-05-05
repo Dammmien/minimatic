@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Matter of Morals",
+    "year": 1961,
+    "cast": [
+      "Maj-Britt Nilsson",
+      "Mogens Wieth",
+      "Eva Dahlbeck"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-matter-of-morals.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Safety Not Guaranteed",
+    "year": 2012,
+    "cast": [
+      "Aubrey Plaza",
+      "Mark Duplass",
+      "Jake Johnson",
+      "Karan Soni",
+      "Jenica Bergere",
+      "Kristen Bell",
+      "Jeff Garlin",
+      "Mary Lynn Rajskub"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/safety-not-guaranteed.html"
+}

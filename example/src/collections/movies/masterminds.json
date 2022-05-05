@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Masterminds",
+    "year": 2016,
+    "cast": [
+      "Zach Galifianakis",
+      "Kristen Wiig"
+    ],
+    "genres": []
+  },
+  "output": "movies/masterminds.html"
+}

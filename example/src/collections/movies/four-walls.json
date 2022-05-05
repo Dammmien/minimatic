@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Four Walls",
+    "year": 1928,
+    "cast": [
+      "John Gilbert",
+      "Joan Crawford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/four-walls.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Humming Bird",
+    "year": 1924,
+    "cast": [
+      "Gloria Swanson",
+      "Edmund Burns"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-humming-bird.html"
+}

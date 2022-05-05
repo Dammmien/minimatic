@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Splash",
+    "year": 1984,
+    "cast": [
+      "Daryl Hannah",
+      "Tom Hanks",
+      "John Candy",
+      "Eugene Levy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/splash.html"
+}

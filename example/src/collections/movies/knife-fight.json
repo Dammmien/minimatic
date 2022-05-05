@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Knife Fight",
+    "year": 2013,
+    "cast": [
+      "Rob Lowe",
+      "Julie Bowen",
+      "Saffron Burrows",
+      "Jamie Chung",
+      "David Harbour",
+      "Eric McCormack",
+      "Jennifer Morrison",
+      "Carrie-Anne Moss",
+      "Richard Schiff",
+      "Amanda Crew",
+      "Shirley Manson",
+      "Davey Havok"
+    ],
+    "genres": [
+      "Political",
+      "Thriller"
+    ]
+  },
+  "output": "movies/knife-fight.html"
+}

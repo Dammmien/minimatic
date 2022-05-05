@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Toys",
+    "year": 1992,
+    "cast": [
+      "Robin Williams",
+      "Joan Cusack",
+      "LL Cool J",
+      "Robin Wright",
+      "Michael Gambon",
+      "Donald O'Connor"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/toys.html"
+}

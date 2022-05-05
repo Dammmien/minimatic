@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Testosterone",
+    "year": 2003,
+    "cast": [
+      "David Sutcliffe",
+      "Antonio Sabàto, Jr."
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/testosterone.html"
+}

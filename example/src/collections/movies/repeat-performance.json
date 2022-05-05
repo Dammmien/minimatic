@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Repeat Performance",
+    "year": 1947,
+    "cast": [
+      "Louis Hayward",
+      "Joan Leslie"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/repeat-performance.html"
+}

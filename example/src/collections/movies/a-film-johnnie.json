@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Film Johnnie",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Fatty Arbuckle",
+      "Mabel Normand"
+    ],
+    "genres": []
+  },
+  "output": "movies/a-film-johnnie.html"
+}

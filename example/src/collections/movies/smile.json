@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Smile",
+    "year": 2005,
+    "cast": [
+      "Sean Astin",
+      "Mika Boorem",
+      "Yi Ding",
+      "Beau Bridges"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/smile.html"
+}

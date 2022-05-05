@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nanny McPhee",
+    "year": 2005,
+    "cast": [
+      "Emma Thompson",
+      "Colin Firth"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/nanny-mcphee.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mule Train",
+    "year": 1950,
+    "cast": [
+      "Gene Autry",
+      "Sheila Ryan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/mule-train.html"
+}

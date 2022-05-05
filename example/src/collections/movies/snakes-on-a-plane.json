@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Snakes on a Plane",
+    "year": 2006,
+    "cast": [
+      "Samuel L. Jackson",
+      "Julianna Margulies",
+      "Taylor Kitsch",
+      "Kenan Thompson"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/snakes-on-a-plane.html"
+}

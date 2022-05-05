@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Kid from Left Field",
+    "year": 1953,
+    "cast": [
+      "Dan Dailey",
+      "Anne Bancroft"
+    ],
+    "genres": [
+      "Sports",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-kid-from-left-field.html"
+}

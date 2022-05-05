@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "I Saw the Light",
+    "year": 2016,
+    "cast": [
+      "Tom Hiddleston",
+      "Elizabeth Olsen",
+      "Cherry Jones",
+      "Bradley Whitford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-saw-the-light.html"
+}

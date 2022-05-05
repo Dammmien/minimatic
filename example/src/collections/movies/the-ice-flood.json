@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ice Flood",
+    "year": 1926,
+    "cast": [
+      "Kenneth Harlan",
+      "Viola Dana"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-ice-flood.html"
+}

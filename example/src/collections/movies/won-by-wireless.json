@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Won by Wireless",
+    "year": 1911,
+    "cast": [
+      "William Garwood"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/won-by-wireless.html"
+}

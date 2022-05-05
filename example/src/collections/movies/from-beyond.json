@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "From Beyond",
+    "year": 1986,
+    "cast": [
+      "Jeffrey Combs",
+      "Barbara Crampton",
+      "Ken Foree"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/from-beyond.html"
+}

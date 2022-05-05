@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Molly's Game",
+    "year": 2017,
+    "cast": [
+      "Jessica Chastain",
+      "Idris Elba",
+      "Kevin Costner",
+      "Brian d'Arcy James",
+      "Michael Cera",
+      "Chris O'Dowd",
+      "Bill Camp",
+      "Jeremy Strong"
+    ],
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/molly-s-game.html"
+}

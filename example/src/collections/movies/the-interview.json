@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Interview",
+    "year": 2014,
+    "cast": [
+      "James Franco",
+      "Seth Rogen",
+      "Lizzy Caplan",
+      "Randall Park"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-interview.html"
+}

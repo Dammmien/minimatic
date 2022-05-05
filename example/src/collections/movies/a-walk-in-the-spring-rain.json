@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Walk in the Spring Rain",
+    "year": 1970,
+    "cast": [
+      "Ingrid Bergman",
+      "Anthony Quinn"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/a-walk-in-the-spring-rain.html"
+}

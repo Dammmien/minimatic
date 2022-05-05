@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lightning Romance",
+    "year": 1924,
+    "cast": [
+      "Reed Howes",
+      "Ethel Shannon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lightning-romance.html"
+}

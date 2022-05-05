@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It Could Happen to You",
+    "year": 1994,
+    "cast": [
+      "Nicolas Cage",
+      "Bridget Fonda",
+      "Rosie Perez"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/it-could-happen-to-you.html"
+}

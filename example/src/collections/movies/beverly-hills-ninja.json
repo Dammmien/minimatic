@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beverly Hills Ninja",
+    "year": 1997,
+    "cast": [
+      "Chris Farley",
+      "Nicollette Sheridan",
+      "Robin Shou"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/beverly-hills-ninja.html"
+}

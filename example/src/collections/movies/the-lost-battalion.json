@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lost Battalion",
+    "year": 1919,
+    "cast": [
+      "Helen Ferguson",
+      "Gaston Glass"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-lost-battalion.html"
+}

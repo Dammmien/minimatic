@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Good Doctor",
+    "year": 2011,
+    "cast": [
+      "Orlando Bloom",
+      "Riley Keough",
+      "Taraji P. Henson",
+      "Rob Morrow",
+      "Michael Peña"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-good-doctor.html"
+}

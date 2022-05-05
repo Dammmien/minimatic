@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trifling with Honor",
+    "year": 1923,
+    "cast": [
+      "Rockliffe Fellowes",
+      "Fritzi Ridgeway"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/trifling-with-honor.html"
+}

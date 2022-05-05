@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blind Man's Eyes",
+    "year": 1919,
+    "cast": [
+      "Bert Lytell",
+      "Frank Currier",
+      "Naomi Childers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blind-man-s-eyes.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "All I Desire",
+    "year": 1953,
+    "cast": [
+      "Barbara Stanwyck",
+      "Richard Carlson",
+      "Lyle Bettger",
+      "Lori Nelson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/all-i-desire.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cowboy and the Lady",
+    "year": 1938,
+    "cast": [
+      "Gary Cooper",
+      "Merle Oberon"
+    ],
+    "genres": [
+      "Western",
+      "Romance"
+    ]
+  },
+  "output": "movies/the-cowboy-and-the-lady.html"
+}

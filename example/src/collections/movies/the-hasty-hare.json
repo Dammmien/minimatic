@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hasty Hare",
+    "year": 1952,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/the-hasty-hare.html"
+}

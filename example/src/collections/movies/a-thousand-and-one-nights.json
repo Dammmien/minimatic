@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Thousand and One Nights",
+    "year": 1945,
+    "cast": [
+      "Cornel Wilde",
+      "Phil Silvers"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/a-thousand-and-one-nights.html"
+}

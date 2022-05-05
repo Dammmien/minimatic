@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Perfect Specimen",
+    "year": 1937,
+    "cast": [
+      "Errol Flynn",
+      "Joan Blondell",
+      "Hugh Herbert"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-perfect-specimen.html"
+}

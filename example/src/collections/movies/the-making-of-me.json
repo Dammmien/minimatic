@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Making of Me",
+    "year": 1989,
+    "cast": [
+      "Martin Short"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/the-making-of-me.html"
+}

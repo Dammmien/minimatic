@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Family Weekend",
+    "year": 2013,
+    "cast": [
+      "Olesya Ruin",
+      "Kristin Chenoweth",
+      "Matthew Modine",
+      "Joey King",
+      "Shirley Jones"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/family-weekend.html"
+}

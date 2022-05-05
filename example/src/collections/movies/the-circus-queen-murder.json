@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Circus Queen Murder",
+    "year": 1933,
+    "cast": [
+      "Adolphe Menjou",
+      "Donald Cook",
+      "Greta Nissen"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-circus-queen-murder.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Upper World",
+    "year": 1934,
+    "cast": [
+      "Ginger Rogers",
+      "Warren William",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/upper-world.html"
+}

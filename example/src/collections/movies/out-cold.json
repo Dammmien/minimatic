@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Out Cold",
+    "year": 2001,
+    "cast": [
+      "Jason London",
+      "Lee Majors",
+      "Zach Galifianakis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/out-cold.html"
+}

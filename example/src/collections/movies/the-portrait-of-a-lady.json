@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Portrait of a Lady",
+    "year": 1996,
+    "cast": [
+      "Nicole Kidman",
+      "John Malkovich",
+      "Barbara Hershey",
+      "Christian Bale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-portrait-of-a-lady.html"
+}

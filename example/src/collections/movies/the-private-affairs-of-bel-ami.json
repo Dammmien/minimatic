@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Private Affairs of Bel Ami",
+    "year": 1947,
+    "cast": [
+      "George Sanders",
+      "Angela Lansbury",
+      "Ann Dvorak"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-private-affairs-of-bel-ami.html"
+}

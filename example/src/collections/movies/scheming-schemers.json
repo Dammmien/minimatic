@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Scheming Schemers",
+    "year": 1956,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/scheming-schemers.html"
+}

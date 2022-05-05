@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Creaking Stairs",
+    "year": 1919,
+    "cast": [
+      "Herbert Prior",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/creaking-stairs.html"
+}

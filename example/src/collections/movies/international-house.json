@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "International House",
+    "year": 1933,
+    "cast": [
+      "W. C. Fields",
+      "Stuart Erwin",
+      "George Burns"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/international-house.html"
+}

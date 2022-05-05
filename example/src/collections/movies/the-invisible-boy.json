@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Invisible Boy",
+    "year": 1957,
+    "cast": [
+      "Richard Eyer",
+      "Diane Brewster"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-invisible-boy.html"
+}

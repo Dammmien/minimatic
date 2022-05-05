@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cake",
+    "year": 2015,
+    "cast": [
+      "Jennifer Aniston",
+      "Sam Worthington",
+      "Anna Kendrick",
+      "Adriana Barraza"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cake.html"
+}

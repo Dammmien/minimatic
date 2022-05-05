@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ghosts on the Loose",
+    "year": 1943,
+    "cast": [
+      "East Side Kids",
+      "Bela Lugosi",
+      "Ava Gardner"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/ghosts-on-the-loose.html"
+}

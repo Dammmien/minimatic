@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Safe at Home!",
+    "year": 1962,
+    "cast": [
+      "Mickey Mantle",
+      "Roger Maris",
+      "William Frawley"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/safe-at-home-.html"
+}

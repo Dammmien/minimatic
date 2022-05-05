@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Swing Shift",
+    "year": 1984,
+    "cast": [
+      "Goldie Hawn",
+      "Kurt Russell",
+      "Christine Lahti",
+      "Ed Harris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/swing-shift.html"
+}

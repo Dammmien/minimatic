@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "White Boy Rick",
+    "year": 2018,
+    "cast": [
+      "Matthew McConaughey",
+      "Richie Merritt",
+      "Bel Powley",
+      "Jennifer Jason Leigh",
+      "Brian Tyree Henry",
+      "Rory Cochrane",
+      "RJ Cyler",
+      "Jonathan Majors",
+      "Eddie Marsan",
+      "Bruce Dern",
+      "Piper Laurie"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/white-boy-rick.html"
+}

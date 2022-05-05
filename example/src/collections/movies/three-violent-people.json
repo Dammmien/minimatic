@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Three Violent People",
+    "year": 1957,
+    "cast": [
+      "Charlton Heston",
+      "Anne Baxter",
+      "Gilbert Roland",
+      "Tom Tryon",
+      "Elaine Stritch"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/three-violent-people.html"
+}

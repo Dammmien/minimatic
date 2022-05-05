@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Playing God",
+    "year": 1997,
+    "cast": [
+      "David Duchovny",
+      "Timothy Hutton",
+      "Angelina Jolie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/playing-god.html"
+}

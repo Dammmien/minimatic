@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bargain",
+    "year": 1931,
+    "cast": [
+      "Evalyn Knapp",
+      "Lewis Stone",
+      "Doris Kenyon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bargain.html"
+}

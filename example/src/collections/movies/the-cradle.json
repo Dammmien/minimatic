@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cradle",
+    "year": 1922,
+    "cast": [
+      "Ethel Clayton",
+      "Charles Meredith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-cradle.html"
+}

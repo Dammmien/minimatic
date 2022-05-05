@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Youth in Revolt",
+    "year": 2010,
+    "cast": [
+      "Michael Cera",
+      "Portia Doubleday",
+      "Jean Smart",
+      "Mary Kay Place",
+      "Justin Long",
+      "Ray Liotta",
+      "Steve Buscemi",
+      "Zach Galifianakis",
+      "Ari Graynor",
+      "Fred Willard"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/youth-in-revolt.html"
+}

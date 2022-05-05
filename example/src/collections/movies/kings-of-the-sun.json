@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kings of the Sun",
+    "year": 1963,
+    "cast": [
+      "Yul Brynner",
+      "George Chakiris"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/kings-of-the-sun.html"
+}

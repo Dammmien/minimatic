@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "That's What I Am",
+    "year": 2011,
+    "cast": [
+      "Ed Harris",
+      "Chase Ellison",
+      "Molly Parker",
+      "Daniel Roebuck",
+      "Randy Orton",
+      "Daniel Yelsky",
+      "Alexander Walters",
+      "Mia Rose Frampton",
+      "Amy Madigan"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/that-s-what-i-am.html"
+}

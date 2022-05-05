@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fifteen Wives",
+    "year": 1934,
+    "cast": [
+      "Conway Tearle",
+      "Natalie Moorhead"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/fifteen-wives.html"
+}

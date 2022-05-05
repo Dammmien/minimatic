@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Social Error",
+    "year": 1935,
+    "cast": [
+      "Gertrude Messinger",
+      "Monte Blue"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/social-error.html"
+}

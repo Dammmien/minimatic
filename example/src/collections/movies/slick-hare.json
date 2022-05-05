@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Slick Hare",
+    "year": 1947,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/slick-hare.html"
+}

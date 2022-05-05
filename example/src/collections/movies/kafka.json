@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Kafka",
+    "year": 1991,
+    "cast": [
+      "Jeremy Irons",
+      "Alec Guinness",
+      "Theresa Russell",
+      "Ian Holm"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/kafka.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell's Belles",
+    "year": 1969,
+    "cast": [
+      "Jeremy Slate",
+      "Jocelyn Lane"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/hell-s-belles.html"
+}

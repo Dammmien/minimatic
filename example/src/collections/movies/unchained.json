@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Unchained",
+    "year": 1955,
+    "cast": [
+      "Barbara Hale",
+      "Elroy Hirsch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/unchained.html"
+}

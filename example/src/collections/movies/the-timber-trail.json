@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Timber Trail",
+    "year": 1948,
+    "cast": [
+      "Monte Hale",
+      "Lynne Roberts"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-timber-trail.html"
+}

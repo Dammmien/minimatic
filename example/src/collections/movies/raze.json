@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Raze",
+    "year": 2014,
+    "cast": [
+      "Zoë Bell",
+      "Rachel Nichols",
+      "Tracie Thoms"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/raze.html"
+}

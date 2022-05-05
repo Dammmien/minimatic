@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The General Died at Dawn",
+    "year": 1936,
+    "cast": [
+      "Gary Cooper",
+      "Madeleine Carroll",
+      "Akim Tamiroff",
+      "(",
+      "Best Supporting Actor",
+      "nominee)"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-general-died-at-dawn.html"
+}

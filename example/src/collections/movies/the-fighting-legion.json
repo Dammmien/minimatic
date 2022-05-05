@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Legion",
+    "year": 1930,
+    "cast": [
+      "Ken Maynard",
+      "Dorothy Dwan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fighting-legion.html"
+}

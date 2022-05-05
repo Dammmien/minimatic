@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Life Begins for Andy Hardy",
+    "year": 1941,
+    "cast": [
+      "Lewis Stone",
+      "Mickey Rooney",
+      "Fay Holden"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/life-begins-for-andy-hardy.html"
+}

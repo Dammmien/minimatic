@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Anchors Aweigh",
+    "year": 1945,
+    "cast": [
+      "Frank Sinatra",
+      "Kathryn Grayson",
+      "Gene Kelly"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/anchors-aweigh.html"
+}

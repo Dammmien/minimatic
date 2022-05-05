@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stepfather II",
+    "year": 1989,
+    "cast": [
+      "Terry O'Quinn",
+      "Meg Foster"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/stepfather-ii.html"
+}

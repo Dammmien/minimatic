@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Strong Man",
+    "year": 1926,
+    "cast": [
+      "Harry Langdon",
+      "Priscilla Bonner",
+      "Gertrude Astor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-strong-man.html"
+}

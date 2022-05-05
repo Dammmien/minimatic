@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Here Come the Girls",
+    "year": 1953,
+    "cast": [
+      "Bob Hope",
+      "Rosemary Clooney",
+      "Tony Martin",
+      "Arlene Dahl"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/here-come-the-girls.html"
+}

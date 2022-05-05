@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Blue",
+    "year": 1988,
+    "cast": [
+      "Rosanna Arquette",
+      "Jean-Marc Barr",
+      "Jean Reno"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-big-blue.html"
+}

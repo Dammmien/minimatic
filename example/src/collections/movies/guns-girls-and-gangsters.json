@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Guns Girls and Gangsters",
+    "year": 1959,
+    "cast": [
+      "Mamie Van Doren",
+      "Lee Van Cleef"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/guns-girls-and-gangsters.html"
+}

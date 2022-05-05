@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Looking for Mr. Goodbar",
+    "year": 1977,
+    "cast": [
+      "Diane Keaton",
+      "Tuesday Weld",
+      "Richard Gere"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/looking-for-mr--goodbar.html"
+}

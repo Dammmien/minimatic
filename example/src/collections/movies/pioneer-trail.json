@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pioneer Trail",
+    "year": 1938,
+    "cast": [
+      "Jack Luden",
+      "Joan Barclay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/pioneer-trail.html"
+}

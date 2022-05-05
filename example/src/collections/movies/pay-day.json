@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pay Day",
+    "year": 1922,
+    "cast": [
+      "Charlie Chaplin",
+      "Phyllis Allen",
+      "Mack Swain"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pay-day.html"
+}

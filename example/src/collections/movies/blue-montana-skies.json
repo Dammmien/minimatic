@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blue Montana Skies",
+    "year": 1939,
+    "cast": [
+      "Gene Autry",
+      "Smiley Burnette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/blue-montana-skies.html"
+}

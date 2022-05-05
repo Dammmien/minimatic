@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Physical Evidence",
+    "year": 1989,
+    "cast": [
+      "Burt Reynolds",
+      "Theresa Russell",
+      "Ned Beatty"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/physical-evidence.html"
+}

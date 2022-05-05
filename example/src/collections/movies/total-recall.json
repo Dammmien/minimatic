@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Total Recall",
+    "year": 2012,
+    "cast": [
+      "Colin Farrell",
+      "Kate Beckinsale",
+      "Jessica Biel",
+      "Bryan Cranston",
+      "John Cho",
+      "and",
+      "Bill Nighy",
+      "Bokeem Woodbine"
+    ],
+    "genres": [
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/total-recall.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Emma",
+    "year": 1996,
+    "cast": [
+      "Gwyneth Paltrow",
+      "Ewan McGregor",
+      "Jeremy Northam"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/emma.html"
+}

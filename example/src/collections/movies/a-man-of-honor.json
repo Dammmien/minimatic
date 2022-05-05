@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Man of Honor",
+    "year": 1919,
+    "cast": [
+      "Harold Lockwood",
+      "Bessie Eyton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-man-of-honor.html"
+}

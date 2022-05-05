@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ouija",
+    "year": 2014,
+    "cast": [
+      "Ana Coto",
+      "Olivia Cooke",
+      "Daren Kagasoff",
+      "Bianca A. Santos"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/ouija.html"
+}

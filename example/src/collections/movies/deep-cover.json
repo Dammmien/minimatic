@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Deep Cover",
+    "year": 1992,
+    "cast": [
+      "Laurence Fishburne",
+      "Jeff Goldblum"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/deep-cover.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Duped",
+    "year": 1925,
+    "cast": [
+      "William Desmond",
+      "Helen Holmes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/duped.html"
+}

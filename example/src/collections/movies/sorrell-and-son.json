@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Sorrell and Son",
+    "year": 1927,
+    "cast": [
+      "H. B. Warner",
+      "Anna Q. Nilsson",
+      "Louis Wolheim",
+      "Alice Joyce",
+      "Nils Asther",
+      "Mary Nolan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sorrell-and-son.html"
+}

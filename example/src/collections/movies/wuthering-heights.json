@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Wuthering Heights",
+    "year": 1939,
+    "cast": [
+      "Merle Oberon",
+      "Laurence Olivier",
+      "David Niven",
+      "Flora Robson"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/wuthering-heights.html"
+}

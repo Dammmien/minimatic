@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love, Honor and Goodbye",
+    "year": 1945,
+    "cast": [
+      "Virginia Bruce",
+      "Nils Asther"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love--honor-and-goodbye.html"
+}

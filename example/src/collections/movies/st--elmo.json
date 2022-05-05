@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "St. Elmo",
+    "year": 1923,
+    "cast": [
+      "John Gilbert",
+      "Barbara La Marr",
+      "Bessie Love"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/st--elmo.html"
+}

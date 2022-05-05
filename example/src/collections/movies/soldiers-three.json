@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Soldiers Three",
+    "year": 1951,
+    "cast": [
+      "Stewart Granger",
+      "Walter Pidgeon",
+      "David Niven",
+      "Robert Newton",
+      "Greta Gynt"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/soldiers-three.html"
+}

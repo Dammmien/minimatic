@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Five Days One Summer",
+    "year": 1982,
+    "cast": [
+      "Sean Connery",
+      "Betsy Brantley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/five-days-one-summer.html"
+}

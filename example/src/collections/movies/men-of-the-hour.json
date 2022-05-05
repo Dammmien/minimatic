@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Men of the Hour",
+    "year": 1935,
+    "cast": [
+      "Richard Cromwell",
+      "Billie Seward",
+      "Wallace Ford"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/men-of-the-hour.html"
+}

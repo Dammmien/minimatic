@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Struggle",
+    "year": 1931,
+    "cast": [
+      "Hal Skelly",
+      "Zita Johann"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-struggle.html"
+}

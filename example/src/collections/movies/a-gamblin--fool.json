@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Gamblin' Fool",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-gamblin--fool.html"
+}

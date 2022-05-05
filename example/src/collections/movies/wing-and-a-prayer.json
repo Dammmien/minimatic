@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wing and a Prayer",
+    "year": 1944,
+    "cast": [
+      "Don Ameche",
+      "Dana Andrews",
+      "Cedric Hardwicke"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/wing-and-a-prayer.html"
+}

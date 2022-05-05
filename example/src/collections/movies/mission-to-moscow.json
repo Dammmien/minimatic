@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mission to Moscow",
+    "year": 1943,
+    "cast": [
+      "Walter Huston",
+      "Ann Harding",
+      "Oskar Homolka"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/mission-to-moscow.html"
+}

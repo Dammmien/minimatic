@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Foot in Hell",
+    "year": 1960,
+    "cast": [
+      "Alan Ladd",
+      "Dan O'Herlihy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/one-foot-in-hell.html"
+}

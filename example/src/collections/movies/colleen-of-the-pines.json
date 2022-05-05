@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Colleen of the Pines",
+    "year": 1922,
+    "cast": [
+      "Jane Novak",
+      "Edward Hearn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/colleen-of-the-pines.html"
+}

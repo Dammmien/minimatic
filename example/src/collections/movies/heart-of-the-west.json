@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Heart of the West",
+    "year": 1936,
+    "cast": [
+      "William Boyd",
+      "James Ellison"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/heart-of-the-west.html"
+}

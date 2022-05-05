@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Great Debaters",
+    "year": 2007,
+    "cast": [
+      "Denzel Washington",
+      "Forest Whitaker",
+      "Nate Parker",
+      "Jurnee Smollet",
+      "Denzel Whitaker",
+      "John Heard",
+      "Kimberly Elise"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-great-debaters.html"
+}

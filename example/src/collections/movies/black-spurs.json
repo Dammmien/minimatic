@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Black Spurs",
+    "year": 1965,
+    "cast": [
+      "Rory Calhoun",
+      "Terry Moore",
+      "Linda Darnell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/black-spurs.html"
+}

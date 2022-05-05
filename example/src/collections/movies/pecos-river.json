@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pecos River",
+    "year": 1951,
+    "cast": [
+      "Charles Starrett",
+      "Jock Mahoney"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/pecos-river.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Meet the Blacks",
+    "year": 2016,
+    "cast": [
+      "Mike Epps",
+      "Gary Owen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/meet-the-blacks.html"
+}

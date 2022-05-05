@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A River Made to Drown In",
+    "year": 1997,
+    "cast": [
+      "Michael Imperioli",
+      "Richard Chamberlain"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-river-made-to-drown-in.html"
+}

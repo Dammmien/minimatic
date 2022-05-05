@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Country Kid",
+    "year": 1923,
+    "cast": [
+      "Wesley Barry",
+      "Spec O'Donnell",
+      "Bruce Guerin"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-country-kid.html"
+}

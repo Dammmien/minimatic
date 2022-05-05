@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Undying Monster",
+    "year": 1942,
+    "cast": [
+      "James Ellison"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-undying-monster.html"
+}

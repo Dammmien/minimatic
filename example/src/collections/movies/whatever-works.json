@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Whatever Works",
+    "year": 2009,
+    "cast": [
+      "Larry David",
+      "Evan Rachel Wood",
+      "Patricia Clarkson",
+      "Ed Begley, Jr.",
+      "Conleth Hill",
+      "Michael McKean"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/whatever-works.html"
+}

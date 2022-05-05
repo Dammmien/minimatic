@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Adventure Island",
+    "year": 1947,
+    "cast": [
+      "Rhonda Fleming",
+      "Rory Calhoun"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/adventure-island.html"
+}

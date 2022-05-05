@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "These Thousand Hills",
+    "year": 1959,
+    "cast": [
+      "Don Murray",
+      "Richard Egan",
+      "Lee Remick",
+      "Patricia Owens"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/these-thousand-hills.html"
+}

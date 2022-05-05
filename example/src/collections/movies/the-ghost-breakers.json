@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Ghost Breakers",
+    "year": 1940,
+    "cast": [
+      "Bob Hope",
+      "Paulette Goddard",
+      "Richard Carlson",
+      "Anthony Quinn"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ghost-breakers.html"
+}

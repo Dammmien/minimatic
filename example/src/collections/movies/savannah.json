@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Savannah",
+    "year": 2013,
+    "cast": [
+      "Jim Caviezel",
+      "Jaimie Alexander",
+      "Chiwetel Ejiofor",
+      "Jack McBrayer",
+      "Sam Shepard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/savannah.html"
+}

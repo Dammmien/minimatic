@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Life with Feathers",
+    "year": 1945,
+    "cast": [
+      "Tweety",
+      "Sylvester"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/life-with-feathers.html"
+}

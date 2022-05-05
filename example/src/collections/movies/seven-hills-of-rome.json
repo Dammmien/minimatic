@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Seven Hills of Rome",
+    "year": 1958,
+    "cast": [
+      "Mario Lanza",
+      "Peggie Castle"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/seven-hills-of-rome.html"
+}

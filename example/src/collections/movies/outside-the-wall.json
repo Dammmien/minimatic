@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Outside the Wall",
+    "year": 1950,
+    "cast": [
+      "Richard Basehart",
+      "Marilyn Maxwell"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/outside-the-wall.html"
+}

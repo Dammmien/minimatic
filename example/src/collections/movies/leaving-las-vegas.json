@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Leaving Las Vegas",
+    "year": 1995,
+    "cast": [
+      "Nicolas Cage",
+      "Elisabeth Shue"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/leaving-las-vegas.html"
+}

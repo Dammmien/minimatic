@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wyoming Mail",
+    "year": 1950,
+    "cast": [
+      "Stephen McNally",
+      "Alexis Smith"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wyoming-mail.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hell with Heroes",
+    "year": 1968,
+    "cast": [
+      "Rod Taylor",
+      "Claudia Cardinale"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-hell-with-heroes.html"
+}

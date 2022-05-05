@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Creature from Black Lake",
+    "year": 1976,
+    "cast": [
+      "Jack Elam"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/creature-from-black-lake.html"
+}

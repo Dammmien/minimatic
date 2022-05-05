@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Prescription for Romance",
+    "year": 1937,
+    "cast": [
+      "Wendy Barrie",
+      "Kent Taylor",
+      "Mischa Auer"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/prescription-for-romance.html"
+}

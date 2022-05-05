@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cohen Saves the Flag",
+    "year": 1913,
+    "cast": [
+      "Ford Sterling",
+      "Mabel Normand"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cohen-saves-the-flag.html"
+}

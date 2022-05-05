@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Rider",
+    "year": 2018,
+    "cast": [
+      "Brady Jandreau"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-rider.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Good Sport",
+    "year": 1931,
+    "cast": [
+      "Linda Watkins",
+      "John Boles",
+      "Greta Nissen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/good-sport.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Keeper of the Bees",
+    "year": 1947,
+    "cast": [
+      "Gloria Henry",
+      "Jane Darwell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/keeper-of-the-bees.html"
+}

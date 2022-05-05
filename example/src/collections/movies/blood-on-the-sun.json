@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blood on the Sun",
+    "year": 1945,
+    "cast": [
+      "James Cagney",
+      "Sylvia Sidney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blood-on-the-sun.html"
+}

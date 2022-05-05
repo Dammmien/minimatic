@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Carey Treatment",
+    "year": 1972,
+    "cast": [
+      "James Coburn",
+      "Jennifer O'Neill"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-carey-treatment.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flamingo Road",
+    "year": 1949,
+    "cast": [
+      "Joan Crawford",
+      "Zachary Scott",
+      "Sydney Greenstreet"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flamingo-road.html"
+}

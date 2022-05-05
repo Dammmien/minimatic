@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Heading for Heaven",
+    "year": 1947,
+    "cast": [
+      "Stuart Erwin",
+      "Glenda Farrell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/heading-for-heaven.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bostonians",
+    "year": 1984,
+    "cast": [
+      "Christopher Reeve",
+      "Vanessa Redgrave",
+      "Jessica Tandy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bostonians.html"
+}

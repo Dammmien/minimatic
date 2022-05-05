@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Shorts",
+    "year": 2009,
+    "cast": [
+      "Jon Cryer",
+      "William H. Macy",
+      "Leslie Mann",
+      "James Spader",
+      "Jimmy Bennett",
+      "Kat Dennings"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/shorts.html"
+}

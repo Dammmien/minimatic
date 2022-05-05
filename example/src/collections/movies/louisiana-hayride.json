@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Louisiana Hayride",
+    "year": 1944,
+    "cast": [
+      "Judy Canova",
+      "Ross Hunter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/louisiana-hayride.html"
+}

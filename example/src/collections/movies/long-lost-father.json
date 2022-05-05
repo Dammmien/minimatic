@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Long Lost Father",
+    "year": 1934,
+    "cast": [
+      "John Barrymore",
+      "Helen Chandler"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/long-lost-father.html"
+}

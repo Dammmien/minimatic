@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Flourish",
+    "year": 2006,
+    "cast": [
+      "Jennifer Morrison",
+      "Jesse Spencer",
+      "Leighton Meester"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/flourish.html"
+}

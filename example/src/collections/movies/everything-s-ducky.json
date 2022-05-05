@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Everything's Ducky",
+    "year": 1961,
+    "cast": [
+      "Buddy Hackett",
+      "Mickey Rooney",
+      "Jackie Cooper"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/everything-s-ducky.html"
+}

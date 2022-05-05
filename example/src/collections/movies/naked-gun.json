@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Naked Gun",
+    "year": 1956,
+    "cast": [
+      "Willard Parker",
+      "Mara Corday"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/naked-gun.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gaiety Girl",
+    "year": 1924,
+    "cast": [
+      "Mary Philbin",
+      "William Haines"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-gaiety-girl.html"
+}

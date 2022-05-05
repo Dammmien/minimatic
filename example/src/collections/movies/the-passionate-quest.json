@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Passionate Quest",
+    "year": 1926,
+    "cast": [
+      "May McAvoy",
+      "Willard Louis",
+      "Louise Fazenda"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-passionate-quest.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Timer",
+    "year": 1932,
+    "cast": [
+      "Ben Lyon",
+      "Constance Cummings",
+      "Thelma Todd"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/the-big-timer.html"
+}

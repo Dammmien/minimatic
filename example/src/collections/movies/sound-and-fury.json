@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sound and Fury",
+    "year": 2000,
+    "cast": [
+      "conflict between",
+      "cochlear implants",
+      "deaf identity"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/sound-and-fury.html"
+}

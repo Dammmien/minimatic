@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Red Rider",
+    "year": 1925,
+    "cast": [
+      "Jack Hoxie",
+      "Mary McAllister"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-red-rider.html"
+}

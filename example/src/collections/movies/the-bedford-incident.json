@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Bedford Incident",
+    "year": 1965,
+    "cast": [
+      "Richard Widmark",
+      "Sidney Poitier",
+      "Martin Balsam",
+      "Wally Cox"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bedford-incident.html"
+}

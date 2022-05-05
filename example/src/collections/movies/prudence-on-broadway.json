@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prudence on Broadway",
+    "year": 1919,
+    "cast": [
+      "Olive Thomas",
+      "Francis McDonald"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/prudence-on-broadway.html"
+}

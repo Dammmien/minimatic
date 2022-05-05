@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beau Brummel",
+    "year": 1924,
+    "cast": [
+      "John Barrymore",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/beau-brummel.html"
+}

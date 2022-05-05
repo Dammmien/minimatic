@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Pink Panther",
+    "year": 2006,
+    "cast": [
+      "Steve Martin",
+      "Beyoncé Knowles",
+      "Kevin Kline",
+      "Kristin Chenoweth"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-pink-panther.html"
+}

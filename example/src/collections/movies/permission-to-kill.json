@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Permission to Kill",
+    "year": 1975,
+    "cast": [
+      "Dirk Bogarde",
+      "Ava Gardner"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/permission-to-kill.html"
+}

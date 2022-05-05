@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Quarterback",
+    "year": 1940,
+    "cast": [
+      "Wayne Morris",
+      "Virginia Dale",
+      "Lillian Cornell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-quarterback.html"
+}

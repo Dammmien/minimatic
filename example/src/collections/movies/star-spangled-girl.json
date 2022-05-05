@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Star Spangled Girl",
+    "year": 1971,
+    "cast": [
+      "Sandy Duncan",
+      "Tony Roberts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/star-spangled-girl.html"
+}

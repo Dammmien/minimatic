@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Westworld",
+    "year": 1973,
+    "cast": [
+      "Yul Brynner",
+      "Richard Benjamin",
+      "James Brolin"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/westworld.html"
+}

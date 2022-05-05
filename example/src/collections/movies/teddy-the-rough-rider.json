@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Teddy the Rough Rider",
+    "year": 1940,
+    "cast": [
+      "Sidney Blackmer",
+      "Pierre Watkin",
+      "Arthur Loft"
+    ],
+    "genres": [
+      "Short",
+      "Drama"
+    ]
+  },
+  "output": "movies/teddy-the-rough-rider.html"
+}

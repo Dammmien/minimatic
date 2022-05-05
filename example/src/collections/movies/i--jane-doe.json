@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I, Jane Doe",
+    "year": 1948,
+    "cast": [
+      "Vera Ralston",
+      "Ruth Hussey"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/i--jane-doe.html"
+}

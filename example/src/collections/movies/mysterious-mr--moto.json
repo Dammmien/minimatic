@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mysterious Mr. Moto",
+    "year": 1938,
+    "cast": [
+      "Peter Lorre",
+      "Mary Maguire",
+      "Henry Wilcoxon"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/mysterious-mr--moto.html"
+}

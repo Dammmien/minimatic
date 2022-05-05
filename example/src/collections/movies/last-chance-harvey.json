@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Last Chance Harvey",
+    "year": 2008,
+    "cast": [
+      "Dustin Hoffman",
+      "Emma Thompson",
+      "Eileen Atkins",
+      "Kathy Baker",
+      "James Brolin"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/last-chance-harvey.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Under the Big Top",
+    "year": 1938,
+    "cast": [
+      "Marjorie Main",
+      "Anne Nagel",
+      "Jack La Rue"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/under-the-big-top.html"
+}

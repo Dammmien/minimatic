@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Speed Reporter",
+    "year": 1936,
+    "cast": [
+      "Richard Talmadge",
+      "Luana Walters"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-speed-reporter.html"
+}

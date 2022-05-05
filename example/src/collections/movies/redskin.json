@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Redskin",
+    "year": 1929,
+    "cast": [
+      "Richard Dix",
+      "Jane Novak"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/redskin.html"
+}

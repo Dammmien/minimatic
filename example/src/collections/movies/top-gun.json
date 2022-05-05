@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Top Gun",
+    "year": 1986,
+    "cast": [
+      "Tom Cruise",
+      "Kelly McGillis",
+      "Anthony Edwards",
+      "Val Kilmer",
+      "Meg Ryan",
+      "Tom Skerritt",
+      "Michael Ironside",
+      "Tim Robbins"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/top-gun.html"
+}

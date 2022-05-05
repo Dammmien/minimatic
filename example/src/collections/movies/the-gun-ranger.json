@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gun Ranger",
+    "year": 1936,
+    "cast": [
+      "Bob Steele",
+      "Eleanor Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-gun-ranger.html"
+}

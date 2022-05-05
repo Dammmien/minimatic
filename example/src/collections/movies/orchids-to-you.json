@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Orchids to You",
+    "year": 1935,
+    "cast": [
+      "John Boles",
+      "Jean Muir",
+      "Charles Butterworth"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/orchids-to-you.html"
+}

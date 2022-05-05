@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Inside the Lines",
+    "year": 1930,
+    "cast": [
+      "Betty Compson",
+      "Montagu Love",
+      "Betty Carter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/inside-the-lines.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "7 Women",
+    "year": 1966,
+    "cast": [
+      "Anne Bancroft",
+      "Sue Lyon",
+      "Margaret Leighton",
+      "Betty Field",
+      "Flora Robson",
+      "Mildred Dunnock",
+      "Eddie Albert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/7-women.html"
+}

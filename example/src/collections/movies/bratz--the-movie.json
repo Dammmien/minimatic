@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Bratz: The Movie",
+    "year": 2007,
+    "cast": [
+      "Nathalia Ramos",
+      "Skyler Shaye",
+      "Logan Browning",
+      "Janel Parrish",
+      "Chelsea Staub",
+      "Lainie Kazan",
+      "Jon Voight"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/bratz--the-movie.html"
+}

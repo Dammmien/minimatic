@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "North of Nome",
+    "year": 1936,
+    "cast": [
+      "Jack Holt",
+      "Evelyn Venable"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/north-of-nome.html"
+}

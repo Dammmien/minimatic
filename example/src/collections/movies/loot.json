@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Loot",
+    "year": 1919,
+    "cast": [
+      "Ora Carew",
+      "Joseph W. Girard"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/loot.html"
+}

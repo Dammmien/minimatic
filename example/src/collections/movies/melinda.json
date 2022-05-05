@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Melinda",
+    "year": 1972,
+    "cast": [
+      "Calvin Lockhart",
+      "Vonetta McGee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/melinda.html"
+}

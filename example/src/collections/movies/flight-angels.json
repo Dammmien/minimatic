@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flight Angels",
+    "year": 1940,
+    "cast": [
+      "Virginia Bruce",
+      "Jane Wyman",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flight-angels.html"
+}

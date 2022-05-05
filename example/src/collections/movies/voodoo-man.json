@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Voodoo Man",
+    "year": 1944,
+    "cast": [
+      "Bela Lugosi",
+      "John Carradine",
+      "George Zucco"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/voodoo-man.html"
+}

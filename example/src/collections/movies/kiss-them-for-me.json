@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Kiss Them for Me",
+    "year": 1957,
+    "cast": [
+      "Cary Grant",
+      "Suzy Parker",
+      "Jayne Mansfield",
+      "Ray Walston",
+      "Larry Blyden",
+      "Werner Klemperer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kiss-them-for-me.html"
+}

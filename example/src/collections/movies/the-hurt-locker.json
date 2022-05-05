@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Hurt Locker",
+    "year": 2009,
+    "cast": [
+      "Jeremy Renner",
+      "Anthony Mackie",
+      "Brian Geraghty",
+      "Evangeline Lilly",
+      "Ralph Fiennes",
+      "David Morse",
+      "Guy Pearce"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-hurt-locker.html"
+}

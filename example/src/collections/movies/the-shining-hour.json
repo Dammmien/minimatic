@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Shining Hour",
+    "year": 1938,
+    "cast": [
+      "Joan Crawford",
+      "Margaret Sullavan",
+      "Melvyn Douglas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-shining-hour.html"
+}

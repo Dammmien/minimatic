@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Man Who Saw Tomorrow",
+    "year": 1981,
+    "cast": [
+      "Orson Welles"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-man-who-saw-tomorrow.html"
+}

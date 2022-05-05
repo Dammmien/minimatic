@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Prairie Pirate",
+    "year": 1925,
+    "cast": [
+      "Harry Carey",
+      "Robert Edeson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-prairie-pirate.html"
+}

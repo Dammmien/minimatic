@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Just Friends",
+    "year": 2005,
+    "cast": [
+      "Ryan Reynolds",
+      "Amy Smart",
+      "Anna Faris",
+      "Chris Klein"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/just-friends.html"
+}

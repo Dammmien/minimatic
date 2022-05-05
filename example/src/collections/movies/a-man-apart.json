@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Man Apart",
+    "year": 2003,
+    "cast": [
+      "Vin Diesel",
+      "Larenz Tate",
+      "Timothy Olyphant"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/a-man-apart.html"
+}

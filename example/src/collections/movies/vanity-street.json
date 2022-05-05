@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Vanity Street",
+    "year": 1932,
+    "cast": [
+      "Charles Bickford",
+      "Helen Chandler"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/vanity-street.html"
+}

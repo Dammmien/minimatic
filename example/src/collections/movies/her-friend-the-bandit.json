@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Her Friend the Bandit",
+    "year": 1914,
+    "cast": [
+      "Charles Chaplin",
+      "Mabel Normand",
+      "Charles Murray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/her-friend-the-bandit.html"
+}

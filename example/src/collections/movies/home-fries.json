@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Home Fries",
+    "year": 1998,
+    "cast": [
+      "Drew Barrymore",
+      "Luke Wilson",
+      "Catherine O'Hara",
+      "Jake Busey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/home-fries.html"
+}

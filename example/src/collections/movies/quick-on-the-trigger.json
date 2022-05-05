@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Quick on the Trigger",
+    "year": 1948,
+    "cast": [
+      "Charles Starrett",
+      "Smiley Burnette",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/quick-on-the-trigger.html"
+}

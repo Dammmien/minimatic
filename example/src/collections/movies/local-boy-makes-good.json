@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Local Boy Makes Good",
+    "year": 1931,
+    "cast": [
+      "Joe E. Brown",
+      "Dorothy Lee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/local-boy-makes-good.html"
+}

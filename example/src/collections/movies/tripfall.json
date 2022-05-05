@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tripfall",
+    "year": 2000,
+    "cast": [
+      "Eric Roberts",
+      "John Ritter",
+      "Rachel Hunter"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/tripfall.html"
+}

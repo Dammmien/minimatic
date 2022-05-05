@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Sleep",
+    "year": 1946,
+    "cast": [
+      "Humphrey Bogart",
+      "Lauren Bacall",
+      "Martha Vickers"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-big-sleep.html"
+}

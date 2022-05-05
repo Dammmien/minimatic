@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "True Heart Susie",
+    "year": 1919,
+    "cast": [
+      "Lillian Gish",
+      "Bobby Harron"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/true-heart-susie.html"
+}

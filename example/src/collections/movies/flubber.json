@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flubber",
+    "year": 1997,
+    "cast": [
+      "Robin Williams"
+    ],
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/flubber.html"
+}

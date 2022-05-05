@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The House of the Seven Gables",
+    "year": 1940,
+    "cast": [
+      "George Sanders",
+      "Margaret Lindsay",
+      "Nan Grey",
+      "Vincent Price",
+      "Dick Foran"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-house-of-the-seven-gables.html"
+}

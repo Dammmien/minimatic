@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Without a Country",
+    "year": 1925,
+    "cast": [
+      "Edward Hearn",
+      "Pauline Starke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-without-a-country.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Little Darlings",
+    "year": 1980,
+    "cast": [
+      "Tatum O'Neal",
+      "Kristy McNichol",
+      "Matt Dillon",
+      "Armand Assante",
+      "Cynthia Nixon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-darlings.html"
+}

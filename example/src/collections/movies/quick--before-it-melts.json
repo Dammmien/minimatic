@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Quick, Before It Melts",
+    "year": 1964,
+    "cast": [
+      "Robert Morse",
+      "George Maharis",
+      "Anjanette Comer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/quick--before-it-melts.html"
+}

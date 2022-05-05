@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Women's Prison",
+    "year": 1955,
+    "cast": [
+      "Ida Lupino",
+      "Jan Sterling",
+      "Audrey Totter"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/women-s-prison.html"
+}

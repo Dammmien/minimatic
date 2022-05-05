@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Life at the Top",
+    "year": 1965,
+    "cast": [
+      "Laurence Harvey",
+      "Jean Simmons",
+      "Honor Blackman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/life-at-the-top.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Power",
+    "year": 1929,
+    "cast": [
+      "Minna Gombell",
+      "Herschel Mayall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-great-power.html"
+}

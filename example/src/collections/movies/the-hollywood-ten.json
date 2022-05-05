@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "The Hollywood Ten",
+    "year": 1950,
+    "cast": [],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-hollywood-ten.html"
+}

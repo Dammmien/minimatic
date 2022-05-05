@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fatal Attraction",
+    "year": 1987,
+    "cast": [
+      "Michael Douglas",
+      "Glenn Close",
+      "Anne Archer"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/fatal-attraction.html"
+}

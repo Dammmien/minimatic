@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stand Up and Cheer!",
+    "year": 1934,
+    "cast": [
+      "Warner Baxter",
+      "Madge Evans",
+      "Shirley Temple"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/stand-up-and-cheer-.html"
+}

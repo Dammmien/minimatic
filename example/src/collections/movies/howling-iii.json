@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Howling III",
+    "year": 1987,
+    "cast": [
+      "Barry Otto"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/howling-iii.html"
+}

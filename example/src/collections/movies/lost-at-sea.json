@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lost at Sea",
+    "year": 1926,
+    "cast": [
+      "Huntley Gordon",
+      "Lowell Sherman",
+      "Jane Novak"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lost-at-sea.html"
+}

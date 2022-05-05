@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mailman",
+    "year": 1923,
+    "cast": [
+      "Ralph Lewis",
+      "Johnnie Walker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mailman.html"
+}

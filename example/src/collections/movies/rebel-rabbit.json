@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Rebel Rabbit",
+    "year": 1949,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/rebel-rabbit.html"
+}

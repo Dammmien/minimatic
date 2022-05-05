@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Johnny Be Good",
+    "year": 1988,
+    "cast": [
+      "Anthony Michael Hall",
+      "Robert Downey, Jr.",
+      "Uma Thurman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/johnny-be-good.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Frankenstein's Daughter",
+    "year": 1958,
+    "cast": [
+      "John Ashley"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/frankenstein-s-daughter.html"
+}

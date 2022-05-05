@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Radioland Murders",
+    "year": 1994,
+    "cast": [
+      "Mary Stuart Masterson",
+      "Brian Benben"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/radioland-murders.html"
+}

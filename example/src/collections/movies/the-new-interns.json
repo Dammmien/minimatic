@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The New Interns",
+    "year": 1964,
+    "cast": [
+      "Michael Callan",
+      "Dean Jones",
+      "Telly Savalas",
+      "Barbara Eden",
+      "Inger Stevens",
+      "George Segal"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-new-interns.html"
+}

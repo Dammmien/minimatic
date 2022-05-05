@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man of the World",
+    "year": 1931,
+    "cast": [
+      "William Powell",
+      "Carole Lombard"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/man-of-the-world.html"
+}

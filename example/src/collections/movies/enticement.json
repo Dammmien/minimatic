@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Enticement",
+    "year": 1925,
+    "cast": [
+      "Mary Astor",
+      "Clive Brook"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/enticement.html"
+}

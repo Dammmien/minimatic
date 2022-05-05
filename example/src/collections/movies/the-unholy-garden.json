@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Unholy Garden",
+    "year": 1931,
+    "cast": [
+      "Ronald Colman",
+      "Fay Wray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-unholy-garden.html"
+}

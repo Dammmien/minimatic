@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Far Out Man",
+    "year": 1990,
+    "cast": [
+      "Tommy Chong",
+      "Rae Dawn Chong"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/far-out-man.html"
+}

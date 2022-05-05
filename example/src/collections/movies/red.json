@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Red",
+    "year": 2010,
+    "cast": [
+      "Bruce Willis",
+      "Morgan Freeman",
+      "John Malkovich",
+      "Helen Mirren",
+      "Karl Urban",
+      "Mary-Louise Parker",
+      "Brian Cox",
+      "Julian McMahon",
+      "Richard Dreyfuss"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/red.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Alias the Night Wind",
+    "year": 1923,
+    "cast": [
+      "William Russell",
+      "Wade Boteler"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/alias-the-night-wind.html"
+}

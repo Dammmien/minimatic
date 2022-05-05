@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Loving Annabelle",
+    "year": 2006,
+    "cast": [
+      "Diane Gaidry",
+      "Erin Kelly"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/loving-annabelle.html"
+}

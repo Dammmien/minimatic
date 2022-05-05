@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Garden of the Moon",
+    "year": 1938,
+    "cast": [
+      "Pat O'Brien",
+      "Rudy Vallée",
+      "Johnnie Davis"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/garden-of-the-moon.html"
+}

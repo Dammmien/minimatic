@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fourth War",
+    "year": 1990,
+    "cast": [
+      "Roy Scheider",
+      "Jürgen Prochnow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fourth-war.html"
+}

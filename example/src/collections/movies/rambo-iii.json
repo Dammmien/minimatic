@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Rambo III",
+    "year": 1988,
+    "cast": [
+      "Sylvester Stallone"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/rambo-iii.html"
+}

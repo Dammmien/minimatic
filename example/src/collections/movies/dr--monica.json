@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dr. Monica",
+    "year": 1934,
+    "cast": [
+      "Kay Francis",
+      "Warren William",
+      "Jean Muir"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dr--monica.html"
+}

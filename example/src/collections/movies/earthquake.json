@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Earthquake",
+    "year": 1974,
+    "cast": [
+      "Charlton Heston",
+      "Ava Gardner",
+      "Richard Roundtree",
+      "George Kennedy",
+      "Geneviève Bujold",
+      "Lorne Greene",
+      "Marjoe Gortner",
+      "Victoria Principal"
+    ],
+    "genres": [
+      "Disaster"
+    ]
+  },
+  "output": "movies/earthquake.html"
+}

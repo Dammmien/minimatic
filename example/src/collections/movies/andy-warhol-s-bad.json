@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Andy Warhol's Bad",
+    "year": 1977,
+    "cast": [
+      "Susan Tyrrell",
+      "Carroll Baker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/andy-warhol-s-bad.html"
+}

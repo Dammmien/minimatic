@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Together Again",
+    "year": 1944,
+    "cast": [
+      "Irene Dunne",
+      "Charles Boyer"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/together-again.html"
+}

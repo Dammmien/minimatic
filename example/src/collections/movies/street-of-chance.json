@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Street of Chance",
+    "year": 1942,
+    "cast": [
+      "Burgess Meredith",
+      "Claire Trevor"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/street-of-chance.html"
+}

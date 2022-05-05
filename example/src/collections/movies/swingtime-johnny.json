@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Swingtime Johnny",
+    "year": 1944,
+    "cast": [
+      "Harriet Hilliard",
+      "The Andrews Sisters"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/swingtime-johnny.html"
+}

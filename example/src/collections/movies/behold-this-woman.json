@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Behold This Woman",
+    "year": 1924,
+    "cast": [
+      "Irene Rich",
+      "Marguerite De La Motte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/behold-this-woman.html"
+}

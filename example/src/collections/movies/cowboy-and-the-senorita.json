@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cowboy and the Senorita",
+    "year": 1944,
+    "cast": [
+      "Roy Rogers",
+      "Trigger",
+      "Mary Lee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cowboy-and-the-senorita.html"
+}

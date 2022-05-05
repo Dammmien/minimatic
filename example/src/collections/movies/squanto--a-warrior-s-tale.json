@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Squanto: A Warrior's Tale",
+    "year": 1994,
+    "cast": [
+      "Adam Beach",
+      "Sheldon Peters"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/squanto--a-warrior-s-tale.html"
+}

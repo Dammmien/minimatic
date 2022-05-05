@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Local Color",
+    "year": 2006,
+    "cast": [
+      "Armin Mueller-Stahl",
+      "Trevor Morgan",
+      "Ray Liotta"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/local-color.html"
+}

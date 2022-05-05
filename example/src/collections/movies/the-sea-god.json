@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sea God",
+    "year": 1930,
+    "cast": [
+      "Richard Arlen",
+      "Fay Wray"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-sea-god.html"
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "Arthur Christmas",
+    "year": 2011,
+    "cast": [
+      "James McAvoy",
+      "Hugh Laurie",
+      "Bill Nighy",
+      "Jim Broadbent",
+      "Imelda Staunton",
+      "Ashley Jensen",
+      "Will Sasso",
+      "Ramona Marquez",
+      "Iain McKee",
+      "Joan Cusack",
+      "Robbie Coltrane",
+      "Michael Palin",
+      "Dominic West",
+      "Andy Serkis"
+    ],
+    "genres": [
+      "Animated",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/arthur-christmas.html"
+}

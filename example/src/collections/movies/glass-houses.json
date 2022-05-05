@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Glass Houses",
+    "year": 1922,
+    "cast": [
+      "Viola Dana",
+      "Gaston Glass"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/glass-houses.html"
+}

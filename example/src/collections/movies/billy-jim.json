@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Billy Jim",
+    "year": 1922,
+    "cast": [
+      "Fred Stone",
+      "Billy Bletcher"
+    ],
+    "genres": [
+      "Comedy",
+      "Western"
+    ]
+  },
+  "output": "movies/billy-jim.html"
+}

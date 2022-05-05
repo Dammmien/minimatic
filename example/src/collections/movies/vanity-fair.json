@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Vanity Fair",
+    "year": 2004,
+    "cast": [
+      "Reese Witherspoon",
+      "Jonathan Rhys Meyers",
+      "James Purefoy"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/vanity-fair.html"
+}

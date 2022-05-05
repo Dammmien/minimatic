@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Quiet Man",
+    "year": 1952,
+    "cast": [
+      "Maureen O'Hara",
+      "John Wayne"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-quiet-man.html"
+}

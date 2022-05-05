@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Last Detail",
+    "year": 1973,
+    "cast": [
+      "Jack Nicholson",
+      "Otis Young",
+      "Randy Quaid"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-last-detail.html"
+}

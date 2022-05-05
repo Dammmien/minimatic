@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gold Rush",
+    "year": 1925,
+    "cast": [
+      "Charlie Chaplin",
+      "Georgia Hale"
+    ],
+    "genres": [
+      "Comedy",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-gold-rush.html"
+}

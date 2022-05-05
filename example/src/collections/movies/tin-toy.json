@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Tin Toy",
+    "year": 1988,
+    "cast": [],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/tin-toy.html"
+}

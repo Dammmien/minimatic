@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Love Captive",
+    "year": 1934,
+    "cast": [
+      "Gloria Stuart",
+      "Nils Asther"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-love-captive.html"
+}

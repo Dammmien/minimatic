@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "7th Cavalry",
+    "year": 1956,
+    "cast": [
+      "Randolph Scott",
+      "Barbara Hale"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/7th-cavalry.html"
+}

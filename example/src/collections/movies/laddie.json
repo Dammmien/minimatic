@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Laddie",
+    "year": 1940,
+    "cast": [
+      "Tim Holt",
+      "Virginia Gilmore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/laddie.html"
+}

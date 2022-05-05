@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder on the Waterfront",
+    "year": 1943,
+    "cast": [
+      "Warren Douglas",
+      "Ruth Ford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/murder-on-the-waterfront.html"
+}

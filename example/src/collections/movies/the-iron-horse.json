@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Iron Horse",
+    "year": 1924,
+    "cast": [
+      "George O'Brien",
+      "Madge Bellamy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-iron-horse.html"
+}

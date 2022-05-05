@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "West of El Dorado",
+    "year": 1949,
+    "cast": [
+      "Johnny Mack Brown",
+      "Max Terhune",
+      "Reno Browne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/west-of-el-dorado.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Passage to India",
+    "year": 1984,
+    "cast": [
+      "Judy Davis",
+      "Peggy Ashcroft",
+      "Alec Guinness"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-passage-to-india.html"
+}

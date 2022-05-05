@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "This Is Where I Leave You",
+    "year": 2014,
+    "cast": [
+      "Jason Bateman",
+      "Tina Fey",
+      "Adam Driver",
+      "Rose Byrne"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/this-is-where-i-leave-you.html"
+}

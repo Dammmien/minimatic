@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Woman Next Door",
+    "year": 1919,
+    "cast": [
+      "Ethel Clayton",
+      "Emory Johnson",
+      "Noah Beery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woman-next-door.html"
+}

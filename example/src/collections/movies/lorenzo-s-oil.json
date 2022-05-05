@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lorenzo's Oil",
+    "year": 1992,
+    "cast": [
+      "Nick Nolte",
+      "Susan Sarandon"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/lorenzo-s-oil.html"
+}

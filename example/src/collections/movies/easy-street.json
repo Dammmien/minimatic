@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Easy Street",
+    "year": 1917,
+    "cast": [
+      "Charlie Chaplin",
+      "Edna Purviance"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/easy-street.html"
+}

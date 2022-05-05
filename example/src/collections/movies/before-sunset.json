@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Before Sunset",
+    "year": 2004,
+    "cast": [
+      "Ethan Hawke",
+      "Julie Delpy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/before-sunset.html"
+}

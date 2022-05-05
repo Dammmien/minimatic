@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Forever After",
+    "year": 1926,
+    "cast": [
+      "Lloyd Hughes",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/forever-after.html"
+}

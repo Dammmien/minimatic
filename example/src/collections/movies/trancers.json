@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trancers",
+    "year": 1985,
+    "cast": [
+      "Tim Thomerson",
+      "Helen Hunt"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/trancers.html"
+}

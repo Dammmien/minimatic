@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Crank: High Voltage",
+    "year": 2009,
+    "cast": [
+      "Jason Statham",
+      "Amy Smart",
+      "Clifton Collins, Jr.",
+      "Efren Ramirez",
+      "Dwight Yoakam",
+      "Reno Wilson",
+      "Bai Ling",
+      "David Carradine"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/crank--high-voltage.html"
+}

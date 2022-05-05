@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jesse James Meets Frankenstein's Daughter",
+    "year": 1966,
+    "cast": [
+      "John Lupton",
+      "Narda Onyx"
+    ],
+    "genres": [
+      "Western",
+      "Horror"
+    ]
+  },
+  "output": "movies/jesse-james-meets-frankenstein-s-daughter.html"
+}

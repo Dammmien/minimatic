@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Espionage",
+    "year": 1937,
+    "cast": [
+      "Edmund Lowe",
+      "Madge Evans",
+      "Paul Lukas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/espionage.html"
+}

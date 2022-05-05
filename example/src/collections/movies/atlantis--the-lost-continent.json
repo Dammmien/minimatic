@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Atlantis, the Lost Continent",
+    "year": 1961,
+    "cast": [
+      "John Dall",
+      "Edward Platt"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/atlantis--the-lost-continent.html"
+}

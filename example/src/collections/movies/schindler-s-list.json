@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Schindler's List",
+    "year": 1993,
+    "cast": [
+      "Liam Neeson",
+      "Ralph Fiennes",
+      "Ben Kingsley",
+      "Caroline Goodall",
+      "Jonathan Sagall",
+      "Embeth Davidtz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/schindler-s-list.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two in Revolt",
+    "year": 1936,
+    "cast": [
+      "John Arledge",
+      "Louise Latimer",
+      "Moroni Olsen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/two-in-revolt.html"
+}

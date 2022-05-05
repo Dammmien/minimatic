@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Chapman Report",
+    "year": 1962,
+    "cast": [
+      "Shelley Winters",
+      "Jane Fonda",
+      "Claire Bloom"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-chapman-report.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Daring Young Man",
+    "year": 1935,
+    "cast": [
+      "James Dunn",
+      "Mae Clarke",
+      "Neil Hamilton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-daring-young-man.html"
+}

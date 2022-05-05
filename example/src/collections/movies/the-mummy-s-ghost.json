@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mummy's Ghost",
+    "year": 1944,
+    "cast": [
+      "Lon Chaney",
+      "John Carradine",
+      "Ramsay Ames"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-mummy-s-ghost.html"
+}

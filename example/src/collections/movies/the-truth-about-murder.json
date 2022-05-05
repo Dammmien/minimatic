@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Truth About Murder",
+    "year": 1946,
+    "cast": [
+      "Bonita Granville",
+      "Rita Corday"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-truth-about-murder.html"
+}

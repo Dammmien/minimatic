@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Full Speed",
+    "year": 1925,
+    "cast": [
+      "Jay Wilsey",
+      "Slim Whitaker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/full-speed.html"
+}

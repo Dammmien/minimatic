@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Atlantic Flight",
+    "year": 1937,
+    "cast": [
+      "Dick Merrill",
+      "Jack Lambie",
+      "Paula Stone"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/atlantic-flight.html"
+}

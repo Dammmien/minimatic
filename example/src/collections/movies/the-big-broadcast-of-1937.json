@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Big Broadcast of 1937",
+    "year": 1936,
+    "cast": [
+      "Jack Benny",
+      "George Burns",
+      "Gracie Allen"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/the-big-broadcast-of-1937.html"
+}

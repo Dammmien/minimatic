@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Payment Deferred",
+    "year": 1932,
+    "cast": [
+      "Charles Laughton",
+      "Maureen O'Sullivan"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/payment-deferred.html"
+}

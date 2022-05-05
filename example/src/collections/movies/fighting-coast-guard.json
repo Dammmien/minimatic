@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting Coast Guard",
+    "year": 1951,
+    "cast": [
+      "Forrest Tucker",
+      "Ella Raines"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/fighting-coast-guard.html"
+}

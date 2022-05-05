@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Texas Trail",
+    "year": 1925,
+    "cast": [
+      "Harry Carey",
+      "Ethel Shannon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-texas-trail.html"
+}

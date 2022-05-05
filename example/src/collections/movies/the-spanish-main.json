@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Spanish Main",
+    "year": 1945,
+    "cast": [
+      "Maureen O'Hara",
+      "Paul Henreid"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-spanish-main.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "On a Clear Day You Can See Forever",
+    "year": 1970,
+    "cast": [
+      "Barbra Streisand",
+      "Yves Montand",
+      "Jack Nicholson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/on-a-clear-day-you-can-see-forever.html"
+}

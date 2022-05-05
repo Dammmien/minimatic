@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Letter from an Unknown Woman",
+    "year": 1948,
+    "cast": [
+      "Joan Fontaine",
+      "Louis Jourdan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/letter-from-an-unknown-woman.html"
+}

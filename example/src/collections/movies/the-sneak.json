@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sneak",
+    "year": 1919,
+    "cast": [
+      "Gladys Brockwell",
+      "William Scott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sneak.html"
+}

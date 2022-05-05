@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "In the Name of the Father",
+    "year": 1993,
+    "cast": [
+      "Daniel Day-Lewis",
+      "Emma Thompson",
+      "Pete Postlethwaite"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/in-the-name-of-the-father.html"
+}

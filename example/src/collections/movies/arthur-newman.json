@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Arthur Newman",
+    "year": 2013,
+    "cast": [
+      "Colin Firth",
+      "Emily Blunt",
+      "Anne Heche",
+      "Sterling Beaumon",
+      "Nicole LaLiberte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/arthur-newman.html"
+}

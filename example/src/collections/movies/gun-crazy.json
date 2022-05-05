@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gun Crazy",
+    "year": 1950,
+    "cast": [
+      "Peggy Cummins",
+      "John Dall"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/gun-crazy.html"
+}

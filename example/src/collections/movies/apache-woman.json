@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Apache Woman",
+    "year": 1955,
+    "cast": [
+      "Joan Taylor",
+      "Lloyd Bridges"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/apache-woman.html"
+}

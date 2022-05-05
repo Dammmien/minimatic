@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "8 Million Ways to Die",
+    "year": 1986,
+    "cast": [
+      "Jeff Bridges",
+      "Rosanna Arquette",
+      "Andy García"
+    ],
+    "genres": [
+      "Thriller",
+      "Crime"
+    ]
+  },
+  "output": "movies/8-million-ways-to-die.html"
+}

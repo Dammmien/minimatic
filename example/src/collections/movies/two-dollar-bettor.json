@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Two-Dollar Bettor",
+    "year": 1951,
+    "cast": [
+      "Steve Brodie",
+      "Marie Windsor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/two-dollar-bettor.html"
+}

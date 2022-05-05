@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Life of Riley",
+    "year": 1949,
+    "cast": [
+      "William Bendix",
+      "Rosemary DeCamp"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-life-of-riley.html"
+}

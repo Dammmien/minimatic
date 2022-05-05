@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Crimson Runner",
+    "year": 1925,
+    "cast": [
+      "Priscilla Dean",
+      "Bernard Siegel",
+      "Alan Hale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-crimson-runner.html"
+}

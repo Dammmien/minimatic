@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hitch-Hiker",
+    "year": 1953,
+    "cast": [
+      "Edmond O'Brien",
+      "William Talman",
+      "Frank Lovejoy"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-hitch-hiker.html"
+}

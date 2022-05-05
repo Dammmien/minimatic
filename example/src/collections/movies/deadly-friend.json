@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Deadly Friend",
+    "year": 1986,
+    "cast": [
+      "Kristy Swanson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/deadly-friend.html"
+}

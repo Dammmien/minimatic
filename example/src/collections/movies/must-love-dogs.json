@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Must Love Dogs",
+    "year": 2005,
+    "cast": [
+      "Diane Lane",
+      "John Cusack"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/must-love-dogs.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Edge",
+    "year": 1926,
+    "cast": [
+      "Kenneth Harlan",
+      "Patsy Ruth Miller"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-fighting-edge.html"
+}

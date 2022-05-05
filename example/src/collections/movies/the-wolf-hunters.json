@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wolf Hunters",
+    "year": 1949,
+    "cast": [
+      "Kirby Grant",
+      "Jan Clayton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-wolf-hunters.html"
+}

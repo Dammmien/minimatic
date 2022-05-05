@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Vera Cruz",
+    "year": 1954,
+    "cast": [
+      "Gary Cooper",
+      "Burt Lancaster",
+      "Ernest Borgnine",
+      "Cesar Romero",
+      "Sara Montiel",
+      "Denise Darcel"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/vera-cruz.html"
+}

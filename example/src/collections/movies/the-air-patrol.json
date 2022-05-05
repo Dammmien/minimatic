@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Air Patrol",
+    "year": 1928,
+    "cast": [
+      "Al Wilson",
+      "Elsa Benham"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-air-patrol.html"
+}

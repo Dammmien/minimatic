@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Terminator Genisys",
+    "year": 2015,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Emilia Clarke",
+      "Jai Courtney"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/terminator-genisys.html"
+}

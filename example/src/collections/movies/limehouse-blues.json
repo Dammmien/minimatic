@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Limehouse Blues",
+    "year": 1934,
+    "cast": [
+      "George Raft",
+      "Jean Parker",
+      "Anna May Wong"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/limehouse-blues.html"
+}

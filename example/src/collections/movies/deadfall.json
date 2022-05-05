@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Deadfall",
+    "year": 2012,
+    "cast": [
+      "Eric Bana",
+      "Olivia Wilde",
+      "Jason Cavalier",
+      "Charlie Hunnam",
+      "Kris Kristofferson",
+      "Alain Goulem"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/deadfall.html"
+}

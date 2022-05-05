@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Tin Star",
+    "year": 1957,
+    "cast": [
+      "Henry Fonda",
+      "Anthony Perkins",
+      "Betsy Palmer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-tin-star.html"
+}

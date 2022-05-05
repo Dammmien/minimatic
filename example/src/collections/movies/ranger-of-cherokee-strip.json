@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ranger of Cherokee Strip",
+    "year": 1949,
+    "cast": [
+      "Monte Hale",
+      "Paul Hurst"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ranger-of-cherokee-strip.html"
+}

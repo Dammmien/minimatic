@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Treasure of Ruby Hills",
+    "year": 1955,
+    "cast": [
+      "Zachary Scott",
+      "Carole Mathews"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/treasure-of-ruby-hills.html"
+}

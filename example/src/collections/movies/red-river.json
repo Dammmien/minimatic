@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Red River",
+    "year": 1948,
+    "cast": [
+      "John Wayne",
+      "Montgomery Clift",
+      "Walter Brennan",
+      "Joanne Dru",
+      "John Ireland"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/red-river.html"
+}

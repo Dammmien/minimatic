@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Miracle Woman",
+    "year": 1931,
+    "cast": [
+      "Barbara Stanwyck",
+      "David Manners",
+      "Sam Hardy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-miracle-woman.html"
+}

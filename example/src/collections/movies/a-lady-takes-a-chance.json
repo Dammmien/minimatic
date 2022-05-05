@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Lady Takes a Chance",
+    "year": 1943,
+    "cast": [
+      "Jean Arthur",
+      "John Wayne",
+      "Phil Silvers"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-lady-takes-a-chance.html"
+}

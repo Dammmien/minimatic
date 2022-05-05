@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Star Trek Nemesis",
+    "year": 2002,
+    "cast": [
+      "Patrick Stewart",
+      "Jonathan Frakes",
+      "Brent Spiner",
+      "LeVar Burton",
+      "Michael Dorn",
+      "Gates McFadden",
+      "Marina Sirtis",
+      "Tom Hardy"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/star-trek-nemesis.html"
+}

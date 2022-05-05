@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Danger Quest",
+    "year": 1926,
+    "cast": [
+      "Reed Howes",
+      "Ethel Shannon"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/danger-quest.html"
+}

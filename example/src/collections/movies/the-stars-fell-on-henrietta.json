@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Stars Fell on Henrietta",
+    "year": 1995,
+    "cast": [
+      "Robert Duvall",
+      "Aidan Quinn",
+      "Brian Dennehy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-stars-fell-on-henrietta.html"
+}

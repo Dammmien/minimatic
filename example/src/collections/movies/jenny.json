@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jenny",
+    "year": 1970,
+    "cast": [
+      "Marlo Thomas",
+      "Alan Alda"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jenny.html"
+}

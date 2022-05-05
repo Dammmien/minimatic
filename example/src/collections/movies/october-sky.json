@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "October Sky",
+    "year": 1999,
+    "cast": [
+      "Jake Gyllenhaal",
+      "Chris Cooper",
+      "Laura Dern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/october-sky.html"
+}

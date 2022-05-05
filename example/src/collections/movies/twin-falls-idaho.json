@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Twin Falls Idaho",
+    "year": 1999,
+    "cast": [
+      "Mark Polish",
+      "Michael Polish",
+      "Michele Hicks"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/twin-falls-idaho.html"
+}

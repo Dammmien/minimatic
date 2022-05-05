@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Before Midnight",
+    "year": 2013,
+    "cast": [
+      "Ethan Hawke",
+      "Julie Delpy"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/before-midnight.html"
+}

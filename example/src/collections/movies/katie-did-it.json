@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Katie Did It",
+    "year": 1951,
+    "cast": [
+      "Ann Blyth",
+      "Mark Stevens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/katie-did-it.html"
+}

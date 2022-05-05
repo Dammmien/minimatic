@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three of a Kind",
+    "year": 1944,
+    "cast": [
+      "Billy Gilbert",
+      "June Lang"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-of-a-kind.html"
+}

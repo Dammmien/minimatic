@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Home in Indiana",
+    "year": 1944,
+    "cast": [
+      "Walter Brennan",
+      "Lon McCallister",
+      "Jeanne Crain"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/home-in-indiana.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "6,000 Enemies",
+    "year": 1939,
+    "cast": [
+      "Walter Pidgeon",
+      "Rita Johnson",
+      "Paul Kelly",
+      "Nat Pendleton"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/6-000-enemies.html"
+}

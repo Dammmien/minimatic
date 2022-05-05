@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Incredible Journey",
+    "year": 1963,
+    "cast": [
+      "Emile Genest",
+      "John Drainie"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-incredible-journey.html"
+}

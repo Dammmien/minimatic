@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hold That Hypnotist",
+    "year": 1957,
+    "cast": [
+      "Huntz Hall",
+      "Stanley Clements",
+      "Jane Nigh"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hold-that-hypnotist.html"
+}

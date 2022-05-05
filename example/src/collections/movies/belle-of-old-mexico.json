@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Belle of Old Mexico",
+    "year": 1950,
+    "cast": [
+      "Estelita Rodriguez",
+      "Robert Rockwell"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/belle-of-old-mexico.html"
+}

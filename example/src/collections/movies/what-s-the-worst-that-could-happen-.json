@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "What's the Worst That Could Happen?",
+    "year": 2001,
+    "cast": [
+      "Martin Lawrence",
+      "Danny DeVito",
+      "Bernie Mac"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/what-s-the-worst-that-could-happen-.html"
+}

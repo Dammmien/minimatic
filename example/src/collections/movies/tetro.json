@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Tetro",
+    "year": 2009,
+    "cast": [
+      "Vincent Gallo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tetro.html"
+}

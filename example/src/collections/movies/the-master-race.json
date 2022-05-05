@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Master Race",
+    "year": 1944,
+    "cast": [
+      "George Coulouris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-master-race.html"
+}

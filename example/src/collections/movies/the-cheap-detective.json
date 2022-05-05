@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Cheap Detective",
+    "year": 1978,
+    "cast": [
+      "Peter Falk",
+      "Ann-Margret",
+      "Sid Caesar",
+      "Dom DeLuise",
+      "Stockard Channing",
+      "Louise Fletcher",
+      "Marsha Mason"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-cheap-detective.html"
+}

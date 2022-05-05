@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Dark Mirror",
+    "year": 1946,
+    "cast": [
+      "Olivia de Havilland",
+      "Lew Ayres",
+      "Thomas Mitchell"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-dark-mirror.html"
+}

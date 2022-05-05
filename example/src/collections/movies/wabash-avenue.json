@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wabash Avenue",
+    "year": 1950,
+    "cast": [
+      "Betty Grable",
+      "Victor Mature",
+      "Phil Harris"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/wabash-avenue.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gotcha!",
+    "year": 1985,
+    "cast": [
+      "Anthony Edwards",
+      "Linda Fiorentino"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gotcha-.html"
+}

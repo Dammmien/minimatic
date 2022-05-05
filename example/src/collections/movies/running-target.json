@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Running Target",
+    "year": 1956,
+    "cast": [
+      "Doris Dowling"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/running-target.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Conrack",
+    "year": 1974,
+    "cast": [
+      "Jon Voight",
+      "Paul Winfield"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/conrack.html"
+}

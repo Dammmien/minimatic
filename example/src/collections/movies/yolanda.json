@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yolanda",
+    "year": 1924,
+    "cast": [
+      "Marion Davies",
+      "Lyn Harding"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/yolanda.html"
+}

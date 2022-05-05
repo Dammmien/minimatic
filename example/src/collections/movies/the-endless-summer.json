@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Endless Summer",
+    "year": 1966,
+    "cast": [
+      "Robert August",
+      "Mike Hynson"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-endless-summer.html"
+}

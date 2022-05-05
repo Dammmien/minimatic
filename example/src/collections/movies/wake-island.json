@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wake Island",
+    "year": 1942,
+    "cast": [
+      "Brian Donlevy",
+      "Robert Preston"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/wake-island.html"
+}

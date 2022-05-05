@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "State's Attorney",
+    "year": 1932,
+    "cast": [
+      "John Barrymore",
+      "Helen Twelvetrees",
+      "William Boyd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/state-s-attorney.html"
+}

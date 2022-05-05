@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Play Girl",
+    "year": 1928,
+    "cast": [
+      "Madge Bellamy",
+      "Johnny Mack Brown"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-play-girl.html"
+}

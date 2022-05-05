@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sir Lumberjack",
+    "year": 1926,
+    "cast": [
+      "Maurice 'Lefty' Flynn",
+      "Kathleen Myers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sir-lumberjack.html"
+}

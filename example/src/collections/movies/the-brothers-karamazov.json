@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Brothers Karamazov",
+    "year": 1958,
+    "cast": [
+      "Yul Brynner",
+      "Maria Schell",
+      "Claire Bloom",
+      "Lee J. Cobb"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-brothers-karamazov.html"
+}

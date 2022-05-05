@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Underworld Story",
+    "year": 1950,
+    "cast": [
+      "Dan Duryea",
+      "Herbert Marshall",
+      "Gale Storm"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-underworld-story.html"
+}

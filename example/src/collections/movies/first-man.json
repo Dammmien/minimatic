@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "First Man",
+    "year": 2018,
+    "cast": [
+      "Ryan Gosling",
+      "Claire Foy",
+      "Jason Clarke",
+      "Kyle Chandler",
+      "Corey Stoll",
+      "Ciaran Hinds",
+      "Christopher Abbott",
+      "Patrick Fugit",
+      "Lukas Haas"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/first-man.html"
+}

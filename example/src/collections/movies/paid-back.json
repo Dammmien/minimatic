@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paid Back",
+    "year": 1922,
+    "cast": [
+      "Gladys Brockwell",
+      "Mahlon Hamilton",
+      "Stuart Holmes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/paid-back.html"
+}

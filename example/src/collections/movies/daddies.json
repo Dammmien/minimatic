@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daddies",
+    "year": 1924,
+    "cast": [
+      "Mae Marsh",
+      "Harry Myers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/daddies.html"
+}

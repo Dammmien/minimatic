@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Homeward Bound: The Incredible Journey",
+    "year": 1993,
+    "cast": [
+      "Don Ameche",
+      "Michael J. Fox",
+      "Sally Field",
+      "Benj Thall"
+    ],
+    "genres": [
+      "Adventure",
+      "Family"
+    ]
+  },
+  "output": "movies/homeward-bound--the-incredible-journey.html"
+}

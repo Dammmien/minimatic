@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "No Strings Attached",
+    "year": 2011,
+    "cast": [
+      "Natalie Portman",
+      "Ashton Kutcher",
+      "Cary Elwes",
+      "Kevin Kline",
+      "Greta Gerwig",
+      "Lake Bell",
+      "Chris \"Ludacris\" Bridges"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/no-strings-attached.html"
+}

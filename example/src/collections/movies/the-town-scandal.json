@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Town Scandal",
+    "year": 1923,
+    "cast": [
+      "Gladys Walton",
+      "Edward Hearn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-town-scandal.html"
+}

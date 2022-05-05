@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Here Comes Elmer",
+    "year": 1943,
+    "cast": [
+      "Al Pearce",
+      "Dale Evans",
+      "Gloria Stuart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/here-comes-elmer.html"
+}

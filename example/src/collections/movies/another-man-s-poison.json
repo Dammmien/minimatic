@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Another Man's Poison",
+    "year": 1951,
+    "cast": [
+      "Bette Davis",
+      "Gary Merrill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/another-man-s-poison.html"
+}

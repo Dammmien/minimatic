@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Blank Generation",
+    "year": 1976,
+    "cast": [
+      "Richard Hell",
+      "Patti Smith Group",
+      "Ramones",
+      "Television"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-blank-generation.html"
+}

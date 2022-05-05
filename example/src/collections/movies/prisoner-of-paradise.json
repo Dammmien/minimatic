@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prisoner of Paradise",
+    "year": 2002,
+    "cast": [
+      "the life of",
+      "Kurt Gerron"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/prisoner-of-paradise.html"
+}

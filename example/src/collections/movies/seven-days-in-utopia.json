@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Seven Days in Utopia",
+    "year": 2011,
+    "cast": [
+      "Robert Duvall",
+      "Lucas Black",
+      "Melissa Leo",
+      "Deborah Ann Woll",
+      "Brian Geraghty",
+      "Joseph Lyle Taylor",
+      "Jerry Ferrara",
+      "K. J. Choi",
+      "Kathy Baker"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/seven-days-in-utopia.html"
+}

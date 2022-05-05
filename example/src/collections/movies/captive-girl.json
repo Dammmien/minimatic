@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Captive Girl",
+    "year": 1950,
+    "cast": [
+      "Johnny Weissmuller",
+      "Buster Crabbe"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/captive-girl.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jenny Lind",
+    "year": 1932,
+    "cast": [
+      "Grace Moore",
+      "Andre Luguet"
+    ],
+    "genres": [
+      "Musical",
+      "Biography"
+    ]
+  },
+  "output": "movies/jenny-lind.html"
+}

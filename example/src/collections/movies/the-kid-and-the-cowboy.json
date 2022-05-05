@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Kid and the Cowboy",
+    "year": 1919,
+    "cast": [
+      "Art Acord"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-kid-and-the-cowboy.html"
+}

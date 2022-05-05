@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Magic Town",
+    "year": 1947,
+    "cast": [
+      "James Stewart",
+      "Jane Wyman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/magic-town.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Blood and Sand",
+    "year": 1941,
+    "cast": [
+      "Tyrone Power",
+      "Linda Darnell",
+      "Rita Hayworth",
+      "Alla Nazimova"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blood-and-sand.html"
+}

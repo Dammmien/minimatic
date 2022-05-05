@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Behind the Evidence",
+    "year": 1935,
+    "cast": [
+      "Norman Foster",
+      "Sheila Bromley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/behind-the-evidence.html"
+}

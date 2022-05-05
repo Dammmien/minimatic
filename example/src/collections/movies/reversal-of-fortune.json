@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Reversal of Fortune",
+    "year": 1990,
+    "cast": [
+      "Jeremy Irons",
+      "Glenn Close",
+      "Ron Silver"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/reversal-of-fortune.html"
+}

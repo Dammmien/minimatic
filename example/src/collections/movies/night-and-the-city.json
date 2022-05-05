@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Night and the City",
+    "year": 1992,
+    "cast": [
+      "Robert De Niro",
+      "Jessica Lange",
+      "Alan King"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/night-and-the-city.html"
+}

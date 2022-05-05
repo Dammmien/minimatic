@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Light of Western Stars",
+    "year": 1930,
+    "cast": [
+      "Richard Arlen",
+      "Mary Brian"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-light-of-western-stars.html"
+}

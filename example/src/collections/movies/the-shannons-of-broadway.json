@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Shannons of Broadway",
+    "year": 1929,
+    "cast": [
+      "James Gleason",
+      "Lucile Gleason",
+      "Mary Philbin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-shannons-of-broadway.html"
+}

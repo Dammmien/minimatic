@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Kidnapped",
+    "year": 1995,
+    "cast": [
+      "Armand Assante"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/kidnapped.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Second Choice",
+    "year": 1930,
+    "cast": [
+      "Dolores Costello",
+      "Chester Morris"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/second-choice.html"
+}

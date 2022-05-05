@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Luke's Late Lunchers",
+    "year": 1916,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Short",
+      "Comedy"
+    ]
+  },
+  "output": "movies/luke-s-late-lunchers.html"
+}

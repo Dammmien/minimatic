@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Movie Movie",
+    "year": 1978,
+    "cast": [
+      "George C. Scott",
+      "Art Carney",
+      "Ann Reinking",
+      "Harry Hamlin",
+      "Trish Van Devere",
+      "Barry Bostwick",
+      "Red Buttons"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/movie-movie.html"
+}

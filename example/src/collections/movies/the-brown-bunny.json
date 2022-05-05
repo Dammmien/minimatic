@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Brown Bunny",
+    "year": 2003,
+    "cast": [
+      "Vincent Gallo",
+      "Chloë Sevigny"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-brown-bunny.html"
+}

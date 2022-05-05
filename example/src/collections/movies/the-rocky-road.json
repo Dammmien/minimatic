@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Rocky Road",
+    "year": 1910,
+    "cast": [
+      "Frank Powell",
+      "Stephanie Longfellow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-rocky-road.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mrs. Parkington",
+    "year": 1944,
+    "cast": [
+      "Greer Garson",
+      "Walter Pidgeon",
+      "Edward Arnold"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mrs--parkington.html"
+}

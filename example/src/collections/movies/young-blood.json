@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Young Blood",
+    "year": 1932,
+    "cast": [
+      "Bob Steele",
+      "Helen Foster"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/young-blood.html"
+}

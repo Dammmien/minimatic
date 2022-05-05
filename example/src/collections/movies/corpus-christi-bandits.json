@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Corpus Christi Bandits",
+    "year": 1945,
+    "cast": [
+      "Allan Lane",
+      "Helen Talbot"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/corpus-christi-bandits.html"
+}

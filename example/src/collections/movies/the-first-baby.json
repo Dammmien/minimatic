@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The First Baby",
+    "year": 1936,
+    "cast": [
+      "Marjorie Gateson",
+      "Shirley Deane",
+      "Hattie McDaniel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-first-baby.html"
+}

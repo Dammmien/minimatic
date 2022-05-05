@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Across the Badlands",
+    "year": 1950,
+    "cast": [
+      "Charles Starrett",
+      "Smiley Burnette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/across-the-badlands.html"
+}

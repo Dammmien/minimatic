@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flawless",
+    "year": 1999,
+    "cast": [
+      "Robert De Niro",
+      "Philip Seymour Hoffman",
+      "Chris Bauer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flawless.html"
+}

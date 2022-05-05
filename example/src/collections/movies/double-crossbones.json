@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Double Crossbones",
+    "year": 1951,
+    "cast": [
+      "Donald O'Connor",
+      "Helena Carter"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/double-crossbones.html"
+}

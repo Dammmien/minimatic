@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Circus Mystery",
+    "year": 1925,
+    "cast": [
+      "Joe Bonomo",
+      "Louise Lorraine"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-great-circus-mystery.html"
+}

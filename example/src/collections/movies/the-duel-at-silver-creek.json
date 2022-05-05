@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Duel at Silver Creek",
+    "year": 1952,
+    "cast": [
+      "Audie Murphy",
+      "Faith Domergue"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-duel-at-silver-creek.html"
+}

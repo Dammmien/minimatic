@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Follow Thru",
+    "year": 1930,
+    "cast": [
+      "Buddy Rogers",
+      "Nancy Carroll"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/follow-thru.html"
+}

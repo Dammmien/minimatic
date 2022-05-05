@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "What They Had",
+    "year": 2018,
+    "cast": [
+      "Hilary Swank",
+      "Michael Shannon",
+      "Robert Forster",
+      "Blythe Danner",
+      "Taissa Farmiga",
+      "Josh Lucas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/what-they-had.html"
+}

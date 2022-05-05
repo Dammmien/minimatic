@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wild and Woolly",
+    "year": 1937,
+    "cast": [
+      "Jane Withers",
+      "Walter Brennan",
+      "Lon Chaney Jr."
+    ],
+    "genres": [
+      "Comedy",
+      "Western"
+    ]
+  },
+  "output": "movies/wild-and-woolly.html"
+}

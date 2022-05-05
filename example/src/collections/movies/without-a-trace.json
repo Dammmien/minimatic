@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Without a Trace",
+    "year": 1983,
+    "cast": [
+      "Kate Nelligan",
+      "Judd Hirsch",
+      "David Dukes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/without-a-trace.html"
+}

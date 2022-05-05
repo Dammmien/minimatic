@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Runaway Brain",
+    "year": 1995,
+    "cast": [
+      "Mickey Mouse"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/runaway-brain.html"
+}

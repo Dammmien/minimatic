@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "23 Paces to Baker Street",
+    "year": 1956,
+    "cast": [
+      "Van Johnson",
+      "Vera Miles"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/23-paces-to-baker-street.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Lone Wolf in Paris",
+    "year": 1938,
+    "cast": [
+      "Francis Lederer",
+      "Frances Drake",
+      "Walter Kingsford"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-lone-wolf-in-paris.html"
+}

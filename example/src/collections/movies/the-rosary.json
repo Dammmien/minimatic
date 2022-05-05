@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Rosary",
+    "year": 1922,
+    "cast": [
+      "Lewis Stone",
+      "Jane Novak",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-rosary.html"
+}

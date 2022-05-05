@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Criminal Law",
+    "year": 1989,
+    "cast": [
+      "Gary Oldman",
+      "Kevin Bacon",
+      "Tess Harper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/criminal-law.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tonight at Twelve",
+    "year": 1929,
+    "cast": [
+      "Madge Bellamy",
+      "Robert Ellis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tonight-at-twelve.html"
+}

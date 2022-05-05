@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Caribbean Gold",
+    "year": 1952,
+    "cast": [
+      "Arlene Dahl",
+      "John Payne"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/caribbean-gold.html"
+}

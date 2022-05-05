@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Signal",
+    "year": 2014,
+    "cast": [
+      "Brenton Thwaites",
+      "Laurence Fishburne",
+      "Olivia Cooke",
+      "Beau Knapp"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-signal.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Easter Yeggs",
+    "year": 1947,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/easter-yeggs.html"
+}

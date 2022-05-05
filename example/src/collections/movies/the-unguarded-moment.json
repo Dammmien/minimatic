@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Unguarded Moment",
+    "year": 1956,
+    "cast": [
+      "Esther Williams",
+      "George Nader",
+      "John Saxon",
+      "Edward Andrews"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-unguarded-moment.html"
+}

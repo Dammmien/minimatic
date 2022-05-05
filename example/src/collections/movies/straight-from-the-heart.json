@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Straight from the Heart",
+    "year": 1935,
+    "cast": [
+      "Mary Astor",
+      "Roger Pryor",
+      "Juanita Quigley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/straight-from-the-heart.html"
+}

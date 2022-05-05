@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wandering Husbands",
+    "year": 1924,
+    "cast": [
+      "James Kirkwood",
+      "Lila Lee",
+      "Margaret Livingston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wandering-husbands.html"
+}

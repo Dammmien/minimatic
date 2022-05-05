@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Copying Beethoven",
+    "year": 2006,
+    "cast": [
+      "Ed Harris",
+      "Diane Kruger"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/copying-beethoven.html"
+}

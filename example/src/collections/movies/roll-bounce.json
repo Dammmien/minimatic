@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Roll Bounce",
+    "year": 2005,
+    "cast": [
+      "Bow Wow",
+      "Meagan Good",
+      "Wesley Jonathan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/roll-bounce.html"
+}

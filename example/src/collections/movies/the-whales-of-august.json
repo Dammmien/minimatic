@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Whales of August",
+    "year": 1987,
+    "cast": [
+      "Bette Davis",
+      "Lillian Gish",
+      "Vincent Price",
+      "Ann Sothern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-whales-of-august.html"
+}

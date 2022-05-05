@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Man to Remember",
+    "year": 1938,
+    "cast": [
+      "Anne Shirley",
+      "Edward Ellis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-man-to-remember.html"
+}

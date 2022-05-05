@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Honor Bound",
+    "year": 1928,
+    "cast": [
+      "George O'Brien",
+      "Estelle Taylor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/honor-bound.html"
+}

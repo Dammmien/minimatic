@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Tiger Walks",
+    "year": 1964,
+    "cast": [
+      "Brian Keith",
+      "Vera Miles",
+      "Sabu"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/a-tiger-walks.html"
+}

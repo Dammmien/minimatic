@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Speedy Meade",
+    "year": 1919,
+    "cast": [
+      "Katherine MacDonald",
+      "Claire Adams"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/speedy-meade.html"
+}

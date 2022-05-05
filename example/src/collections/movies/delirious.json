@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Delirious",
+    "year": 1991,
+    "cast": [
+      "John Candy",
+      "Mariel Hemingway",
+      "Emma Samms"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/delirious.html"
+}

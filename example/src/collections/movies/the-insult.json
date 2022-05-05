@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Insult",
+    "year": 2018,
+    "cast": [
+      "Adel Karam",
+      "Camille Salameh",
+      "Kamel El Basha"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-insult.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Frisco Kid",
+    "year": 1935,
+    "cast": [
+      "James Cagney",
+      "Ricardo Cortez",
+      "Margaret Lindsay"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/frisco-kid.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Billy Bathgate",
+    "year": 1991,
+    "cast": [
+      "Dustin Hoffman",
+      "Bruce Willis",
+      "Nicole Kidman",
+      "Steven Hill",
+      "Loren Dean"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/billy-bathgate.html"
+}

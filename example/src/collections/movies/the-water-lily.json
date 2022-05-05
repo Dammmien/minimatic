@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Water Lily",
+    "year": 1919,
+    "cast": [
+      "Alice Mann",
+      "Donald Hall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-water-lily.html"
+}

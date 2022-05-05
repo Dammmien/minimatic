@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl in 419",
+    "year": 1933,
+    "cast": [
+      "Gloria Stuart",
+      "David Manners"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-girl-in-419.html"
+}

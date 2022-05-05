@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Little Vampire",
+    "year": 2000,
+    "cast": [
+      "Jonathan Lipnicki",
+      "Richard E. Grant",
+      "Rollo Weeks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-little-vampire.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Men Are Like That",
+    "year": 1930,
+    "cast": [
+      "Hal Skelly",
+      "Doris Hill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/men-are-like-that.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nate and Hayes",
+    "year": 1983,
+    "cast": [
+      "Tommy Lee Jones",
+      "Michael O'Keefe"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/nate-and-hayes.html"
+}

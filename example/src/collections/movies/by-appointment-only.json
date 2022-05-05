@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "By Appointment Only",
+    "year": 1933,
+    "cast": [
+      "Aileen Pringle",
+      "Lew Cody"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/by-appointment-only.html"
+}

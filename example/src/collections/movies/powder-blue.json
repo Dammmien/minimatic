@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Powder Blue",
+    "year": 2009,
+    "cast": [
+      "Jessica Biel",
+      "Ray Liotta",
+      "Eddie Redmayne",
+      "Forest Whitaker",
+      "Kris Kristofferson",
+      "Lisa Kudrow",
+      "Patrick Swayze"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/powder-blue.html"
+}

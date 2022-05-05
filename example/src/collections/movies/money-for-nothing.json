@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Money for Nothing",
+    "year": 1993,
+    "cast": [
+      "John Cusack",
+      "Debi Mazar",
+      "Michael Madsen"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/money-for-nothing.html"
+}

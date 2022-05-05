@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Spirit",
+    "year": 2008,
+    "cast": [
+      "Gabriel Macht",
+      "Samuel L. Jackson",
+      "Scarlett Johansson",
+      "Eva Mendes",
+      "Paz Vega",
+      "Dan Lauria"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-spirit.html"
+}

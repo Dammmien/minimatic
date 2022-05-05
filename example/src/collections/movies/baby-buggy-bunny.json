@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Baby Buggy Bunny",
+    "year": 1954,
+    "cast": [
+      "Mel Blanc"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/baby-buggy-bunny.html"
+}

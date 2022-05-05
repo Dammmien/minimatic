@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting Bill Carson",
+    "year": 1945,
+    "cast": [
+      "Buster Crabbe",
+      "Kay Hughes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fighting-bill-carson.html"
+}

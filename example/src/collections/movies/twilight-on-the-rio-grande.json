@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Twilight on the Rio Grande",
+    "year": 1947,
+    "cast": [
+      "Gene Autry",
+      "Adele Mara"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/twilight-on-the-rio-grande.html"
+}

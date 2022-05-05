@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Always a Bride",
+    "year": 1940,
+    "cast": [
+      "Rosemary Lane",
+      "George Reeves",
+      "John Eldredge"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/always-a-bride.html"
+}

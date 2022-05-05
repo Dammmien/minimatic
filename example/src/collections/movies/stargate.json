@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stargate",
+    "year": 1994,
+    "cast": [
+      "Kurt Russell",
+      "James Spader",
+      "Jaye Davidson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/stargate.html"
+}

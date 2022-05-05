@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Krush Groove",
+    "year": 1985,
+    "cast": [
+      "Run D.M.C.",
+      "Sheila E.",
+      "Blair Underwood"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/krush-groove.html"
+}

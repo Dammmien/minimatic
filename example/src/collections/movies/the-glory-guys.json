@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Glory Guys",
+    "year": 1965,
+    "cast": [
+      "Tom Tryon",
+      "Harve Presnell",
+      "Senta Berger",
+      "James Caan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-glory-guys.html"
+}

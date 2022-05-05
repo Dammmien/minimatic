@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man in Possession",
+    "year": 1931,
+    "cast": [
+      "Robert Montgomery",
+      "Charlotte Greenwood"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-man-in-possession.html"
+}

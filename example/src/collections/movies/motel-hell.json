@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Motel Hell",
+    "year": 1980,
+    "cast": [
+      "Rory Calhoun"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/motel-hell.html"
+}

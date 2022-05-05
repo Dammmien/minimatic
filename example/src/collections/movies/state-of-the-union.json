@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "State of the Union",
+    "year": 1948,
+    "cast": [
+      "Spencer Tracy",
+      "Katharine Hepburn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/state-of-the-union.html"
+}

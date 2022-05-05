@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Car Wash",
+    "year": 1976,
+    "cast": [
+      "Antonio Fargas",
+      "Franklyn Ajaye",
+      "George Carlin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/car-wash.html"
+}

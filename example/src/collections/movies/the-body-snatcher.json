@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Body Snatcher",
+    "year": 1945,
+    "cast": [
+      "Boris Karloff",
+      "Bela Lugosi"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-body-snatcher.html"
+}

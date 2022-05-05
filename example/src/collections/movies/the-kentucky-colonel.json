@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Kentucky Colonel",
+    "year": 1920,
+    "cast": [
+      "Joseph J. Dowling",
+      "Frederick Vroom"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-kentucky-colonel.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wind Across the Everglades",
+    "year": 1958,
+    "cast": [
+      "Burl Ives",
+      "Christopher Plummer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wind-across-the-everglades.html"
+}

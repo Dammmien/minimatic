@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Little Indian",
+    "year": 1973,
+    "cast": [
+      "James Garner",
+      "Pat Hingle",
+      "Vera Miles"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/one-little-indian.html"
+}

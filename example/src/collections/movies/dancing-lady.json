@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dancing Lady",
+    "year": 1933,
+    "cast": [
+      "Joan Crawford",
+      "Clark Gable",
+      "Fred Astaire"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/dancing-lady.html"
+}

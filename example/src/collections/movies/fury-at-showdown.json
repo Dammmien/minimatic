@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fury at Showdown",
+    "year": 1957,
+    "cast": [
+      "John Derek",
+      "Carolyn Craig"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fury-at-showdown.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flipper's New Adventure",
+    "year": 1964,
+    "cast": [
+      "Luke Halpin",
+      "Francesca Annis",
+      "Pamela Franklin"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/flipper-s-new-adventure.html"
+}

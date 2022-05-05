@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sky Captain and the World of Tomorrow",
+    "year": 2004,
+    "cast": [
+      "Jude Law",
+      "Gwyneth Paltrow",
+      "Angelina Jolie"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/sky-captain-and-the-world-of-tomorrow.html"
+}

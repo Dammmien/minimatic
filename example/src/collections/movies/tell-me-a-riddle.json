@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tell Me a Riddle",
+    "year": 1980,
+    "cast": [
+      "Melvyn Douglas",
+      "Lila Kedrova",
+      "Brooke Adams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tell-me-a-riddle.html"
+}

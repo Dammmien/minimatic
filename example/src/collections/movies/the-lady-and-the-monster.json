@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lady and the Monster",
+    "year": 1944,
+    "cast": [
+      "Vera Ralston",
+      "Erich von Stroheim",
+      "Richard Arlen"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-lady-and-the-monster.html"
+}

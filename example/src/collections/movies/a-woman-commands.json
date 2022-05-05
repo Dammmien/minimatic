@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Woman Commands",
+    "year": 1932,
+    "cast": [
+      "Pola Negri",
+      "Roland Young",
+      "Basil Rathbone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-woman-commands.html"
+}

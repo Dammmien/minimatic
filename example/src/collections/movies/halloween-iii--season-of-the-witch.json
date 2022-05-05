@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Halloween III: Season of the Witch",
+    "year": 1982,
+    "cast": [
+      "Dan O'Herlihy",
+      "Stacey Nelkin"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/halloween-iii--season-of-the-witch.html"
+}

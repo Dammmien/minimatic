@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Grandad of Races",
+    "year": 1950,
+    "cast": [
+      "Art Gilmore"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/grandad-of-races.html"
+}

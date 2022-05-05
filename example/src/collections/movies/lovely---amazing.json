@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lovely & Amazing",
+    "year": 2001,
+    "cast": [
+      "Brenda Blethyn",
+      "Catherine Keener",
+      "Emily Mortimer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lovely---amazing.html"
+}

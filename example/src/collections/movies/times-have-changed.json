@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Times Have Changed",
+    "year": 1923,
+    "cast": [
+      "William Russell",
+      "Mabel Julienne Scott"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/times-have-changed.html"
+}

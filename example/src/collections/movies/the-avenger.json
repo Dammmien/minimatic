@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Avenger",
+    "year": 1933,
+    "cast": [
+      "Ralph Forbes",
+      "Adrienne Ames",
+      "Charlotte Merriam"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-avenger.html"
+}

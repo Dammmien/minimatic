@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "FM",
+    "year": 1978,
+    "cast": [
+      "Alex Karras",
+      "Cleavon Little",
+      "Martin Mull",
+      "Michael Brandon",
+      "Eileen Brennan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fm.html"
+}

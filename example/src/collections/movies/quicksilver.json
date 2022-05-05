@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Quicksilver",
+    "year": 1986,
+    "cast": [
+      "Kevin Bacon",
+      "Jami Gertz",
+      "Paul Rodriguez"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/quicksilver.html"
+}

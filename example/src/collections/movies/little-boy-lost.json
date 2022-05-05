@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Little Boy Lost",
+    "year": 1953,
+    "cast": [
+      "Bing Crosby",
+      "Claude Dauphin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-boy-lost.html"
+}

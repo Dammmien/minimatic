@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gangster Wars",
+    "year": 1981,
+    "cast": [
+      "Michael Nouri",
+      "Joe Penny",
+      "Madeleine Stowe"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/gangster-wars.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Just Neighbors",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd",
+      "Snub Pollard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/just-neighbors.html"
+}

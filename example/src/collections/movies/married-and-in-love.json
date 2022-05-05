@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Married and in Love",
+    "year": 1940,
+    "cast": [
+      "Barbara Read",
+      "Helen Vinson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/married-and-in-love.html"
+}

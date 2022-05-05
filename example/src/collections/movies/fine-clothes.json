@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fine Clothes",
+    "year": 1925,
+    "cast": [
+      "Lewis Stone",
+      "Percy Marmont",
+      "Alma Rubens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fine-clothes.html"
+}

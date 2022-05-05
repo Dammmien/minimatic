@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Firing Line",
+    "year": 1919,
+    "cast": [
+      "Irene Castle",
+      "Isabel West",
+      "Vernon Steele"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-firing-line.html"
+}

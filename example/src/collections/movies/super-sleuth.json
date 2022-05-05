@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Super-Sleuth",
+    "year": 1937,
+    "cast": [
+      "Jack Oakie",
+      "Ann Sothern",
+      "Paul Guilfoyle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/super-sleuth.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man in the Attic",
+    "year": 1953,
+    "cast": [
+      "Jack Palance",
+      "Constance Smith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/man-in-the-attic.html"
+}

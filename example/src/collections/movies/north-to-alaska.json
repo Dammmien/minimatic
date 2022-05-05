@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "North to Alaska",
+    "year": 1960,
+    "cast": [
+      "John Wayne",
+      "Stewart Granger",
+      "Capucine",
+      "Fabian",
+      "Ernie Kovacs",
+      "Mickey Shaughnessy"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/north-to-alaska.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Protector, The",
+    "year": 1985,
+    "cast": [
+      "Jackie Chan",
+      "Danny Aiello"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/protector--the.html"
+}

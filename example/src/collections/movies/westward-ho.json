@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Westward Ho",
+    "year": 1935,
+    "cast": [
+      "John Wayne",
+      "Sheila Bromley",
+      "Hank Bell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/westward-ho.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lovers Lane",
+    "year": 1999,
+    "cast": [
+      "Erin J. Dean",
+      "Riley Smith",
+      "Sarah Lancaster"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/lovers-lane.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Pork Chop Hill",
+    "year": 1959,
+    "cast": [
+      "Gregory Peck",
+      "Woody Strode",
+      "Rip Torn",
+      "George Peppard"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/pork-chop-hill.html"
+}

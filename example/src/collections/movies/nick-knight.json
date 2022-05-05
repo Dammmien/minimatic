@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Nick Knight",
+    "year": 1989,
+    "cast": [
+      "Rick Springfield"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/nick-knight.html"
+}

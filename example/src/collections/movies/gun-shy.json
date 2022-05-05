@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gun Shy",
+    "year": 2017,
+    "cast": [
+      "Antonio Banderas",
+      "Olga Kurylenko"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/gun-shy.html"
+}

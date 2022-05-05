@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Ladies and Gentlemen: The Rolling Stones",
+    "year": 1974,
+    "cast": [
+      "The Rolling Stones"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/ladies-and-gentlemen--the-rolling-stones.html"
+}

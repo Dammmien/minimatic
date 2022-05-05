@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Careless Lady",
+    "year": 1932,
+    "cast": [
+      "Joan Bennett",
+      "John Boles"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/careless-lady.html"
+}

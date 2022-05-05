@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Matrix",
+    "year": 1999,
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving",
+      "Joe Pantoliano"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-matrix.html"
+}

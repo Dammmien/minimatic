@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Players Club",
+    "year": 1998,
+    "cast": [
+      "Bernie Mac",
+      "Ice Cube",
+      "LisaRaye"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-players-club.html"
+}

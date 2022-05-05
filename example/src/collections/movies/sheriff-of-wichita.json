@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sheriff of Wichita",
+    "year": 1949,
+    "cast": [
+      "Allan Lane",
+      "Lyn Wilde"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sheriff-of-wichita.html"
+}

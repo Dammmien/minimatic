@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Too Much Harmony",
+    "year": 1933,
+    "cast": [
+      "Bing Crosby",
+      "Jack Oakie"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/too-much-harmony.html"
+}

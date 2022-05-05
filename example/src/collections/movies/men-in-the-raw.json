@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Men in the Raw",
+    "year": 1923,
+    "cast": [
+      "Jack Hoxie",
+      "Marguerite Clayton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/men-in-the-raw.html"
+}

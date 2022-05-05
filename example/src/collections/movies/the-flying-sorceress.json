@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Flying Sorceress",
+    "year": 1956,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-flying-sorceress.html"
+}

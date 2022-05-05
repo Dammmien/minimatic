@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Abominable",
+    "year": 2006,
+    "cast": [
+      "Matt McCoy",
+      "Jeffrey Combs"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/abominable.html"
+}

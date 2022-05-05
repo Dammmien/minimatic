@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tearing Through",
+    "year": 1925,
+    "cast": [
+      "Richard Talmadge",
+      "Kathryn McGuire"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/tearing-through.html"
+}

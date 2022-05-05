@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Going Hollywood",
+    "year": 1933,
+    "cast": [
+      "Bing Crosby",
+      "Marion Davies",
+      "Ned Sparks"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/going-hollywood.html"
+}

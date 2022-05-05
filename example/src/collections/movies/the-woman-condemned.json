@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Woman Condemned",
+    "year": 1934,
+    "cast": [
+      "Claudia Dell",
+      "Lola Lane",
+      "Jason Robards Sr."
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-woman-condemned.html"
+}

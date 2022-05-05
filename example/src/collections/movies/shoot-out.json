@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Shoot Out",
+    "year": 1971,
+    "cast": [
+      "Gregory Peck",
+      "James Gregory",
+      "Patricia Quinn",
+      "Jeff Corey",
+      "Susan Tyrrell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/shoot-out.html"
+}

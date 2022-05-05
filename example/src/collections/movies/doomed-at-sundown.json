@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Doomed at Sundown",
+    "year": 1937,
+    "cast": [
+      "Bob Steele",
+      "Warner Richmond"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/doomed-at-sundown.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Delightfully Dangerous",
+    "year": 1945,
+    "cast": [
+      "Jane Powell",
+      "Ralph Bellamy",
+      "Constance Moore"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/delightfully-dangerous.html"
+}

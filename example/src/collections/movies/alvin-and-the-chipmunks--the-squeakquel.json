@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Alvin and the Chipmunks: The Squeakquel",
+    "year": 2009,
+    "cast": [
+      "Jason Lee",
+      "David Cross",
+      "Zachary Levi",
+      "Justin Long",
+      "Matthew Gray Gubler",
+      "Jesse McCartney",
+      "Anna Faris",
+      "Christina Applegate",
+      "Amy Poehler"
+    ],
+    "genres": [
+      "Family",
+      "Musical"
+    ]
+  },
+  "output": "movies/alvin-and-the-chipmunks--the-squeakquel.html"
+}

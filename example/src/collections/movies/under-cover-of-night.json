@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Under Cover of Night",
+    "year": 1937,
+    "cast": [
+      "Edmund Lowe",
+      "Florence Rice"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/under-cover-of-night.html"
+}

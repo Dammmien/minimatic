@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Eight Seven",
+    "year": 1997,
+    "cast": [
+      "Samuel L. Jackson",
+      "John Heard"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/one-eight-seven.html"
+}

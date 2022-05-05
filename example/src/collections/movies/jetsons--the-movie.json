@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Jetsons: The Movie",
+    "year": 1990,
+    "cast": [],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/jetsons--the-movie.html"
+}

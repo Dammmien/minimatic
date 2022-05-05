@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Murder at Glen Athol",
+    "year": 1936,
+    "cast": [
+      "John Miljan",
+      "Irene Ware",
+      "Iris Adrian"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder-at-glen-athol.html"
+}

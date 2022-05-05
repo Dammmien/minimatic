@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Original Sin",
+    "year": 2001,
+    "cast": [
+      "Antonio Banderas",
+      "Angelina Jolie",
+      "Thomas Jane"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/original-sin.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mad Whirl",
+    "year": 1925,
+    "cast": [
+      "May McAvoy",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mad-whirl.html"
+}

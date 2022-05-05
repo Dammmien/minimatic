@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Corruptor",
+    "year": 1999,
+    "cast": [
+      "Chow Yun-fat",
+      "Mark Wahlberg",
+      "Ric Young"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-corruptor.html"
+}

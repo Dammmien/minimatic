@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Independence Day",
+    "year": 1996,
+    "cast": [
+      "Will Smith",
+      "Bill Pullman",
+      "Jeff Goldblum",
+      "Mary McDonnell",
+      "Margaret Colin",
+      "Judd Hirsch",
+      "Randy Quaid",
+      "Robert Loggia",
+      "James Rebhorn",
+      "Harvey Fierstein",
+      "Vivica A. Fox",
+      "Harry Connick Jr."
+    ],
+    "genres": [
+      "Disaster",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/independence-day.html"
+}

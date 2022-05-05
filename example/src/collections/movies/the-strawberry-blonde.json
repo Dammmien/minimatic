@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Strawberry Blonde",
+    "year": 1941,
+    "cast": [
+      "James Cagney",
+      "Olivia de Havilland",
+      "Rita Hayworth"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-strawberry-blonde.html"
+}

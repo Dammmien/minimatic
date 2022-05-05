@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Out of the Black",
+    "year": 2001,
+    "cast": [
+      "Tyler Christopher",
+      "Sally Kirkland",
+      "Jason Widener"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/out-of-the-black.html"
+}

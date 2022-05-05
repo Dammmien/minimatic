@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lilly Turner",
+    "year": 1933,
+    "cast": [
+      "Ruth Chatterton",
+      "Frank McHugh",
+      "Robert Barrat"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lilly-turner.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pretty Smooth",
+    "year": 1919,
+    "cast": [
+      "Priscilla Dean",
+      "Francis McDonald"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pretty-smooth.html"
+}

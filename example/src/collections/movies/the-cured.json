@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cured",
+    "year": 2018,
+    "cast": [
+      "Ellen Page",
+      "Sam Keeley",
+      "Tom Vaughan-Lawlor"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-cured.html"
+}

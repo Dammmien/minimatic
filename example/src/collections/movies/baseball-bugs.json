@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Baseball Bugs",
+    "year": 1946,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/baseball-bugs.html"
+}

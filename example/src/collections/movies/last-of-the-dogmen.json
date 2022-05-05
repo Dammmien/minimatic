@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Last of the Dogmen",
+    "year": 1995,
+    "cast": [
+      "Tom Berenger",
+      "Barbara Hershey"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/last-of-the-dogmen.html"
+}

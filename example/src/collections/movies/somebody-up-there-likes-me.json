@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Somebody Up There Likes Me",
+    "year": 1956,
+    "cast": [
+      "Paul Newman",
+      "Pier Angeli",
+      "Sal Mineo"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/somebody-up-there-likes-me.html"
+}

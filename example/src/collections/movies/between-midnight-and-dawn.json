@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Between Midnight and Dawn",
+    "year": 1950,
+    "cast": [
+      "Edmond O'Brien",
+      "Gale Storm",
+      "Mark Stevens",
+      "Gale Robbins"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/between-midnight-and-dawn.html"
+}

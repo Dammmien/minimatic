@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fight for Freedom",
+    "year": 1908,
+    "cast": [
+      "Florence Auer",
+      "John G. Adolfi"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fight-for-freedom.html"
+}

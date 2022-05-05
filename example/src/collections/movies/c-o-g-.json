@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "C.O.G.",
+    "year": 2013,
+    "cast": [
+      "Jonathan Groff",
+      "Denis O'Hare",
+      "Casey Wilson",
+      "Dean Stockwell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/c-o-g-.html"
+}

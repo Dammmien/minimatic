@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Oh, What a Night",
+    "year": 1992,
+    "cast": [
+      "Corey Haim",
+      "Robbie Coltrane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/oh--what-a-night.html"
+}

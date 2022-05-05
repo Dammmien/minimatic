@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love's Greatest Mistake",
+    "year": 1927,
+    "cast": [
+      "Evelyn Brent",
+      "William Powell",
+      "James Hall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-s-greatest-mistake.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "East of Suez",
+    "year": 1925,
+    "cast": [
+      "Pola Negri",
+      "Edmund Lowe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/east-of-suez.html"
+}

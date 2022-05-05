@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Macon County Line",
+    "year": 1974,
+    "cast": [
+      "Max Baer Jr.",
+      "Alan Vint"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/macon-county-line.html"
+}

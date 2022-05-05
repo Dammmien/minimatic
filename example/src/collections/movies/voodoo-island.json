@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Voodoo Island",
+    "year": 1957,
+    "cast": [
+      "Boris Karloff",
+      "Jean Engstrom"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/voodoo-island.html"
+}

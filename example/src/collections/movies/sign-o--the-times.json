@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Sign o' the Times",
+    "year": 1987,
+    "cast": [
+      "Prince"
+    ],
+    "genres": [
+      "Performance"
+    ]
+  },
+  "output": "movies/sign-o--the-times.html"
+}

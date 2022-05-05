@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "To Please a Lady",
+    "year": 1950,
+    "cast": [
+      "Clark Gable",
+      "Barbara Stanwyck",
+      "Adolphe Menjou"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/to-please-a-lady.html"
+}

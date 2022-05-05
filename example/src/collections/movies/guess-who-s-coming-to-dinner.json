@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Guess Who's Coming to Dinner",
+    "year": 1967,
+    "cast": [
+      "Spencer Tracy",
+      "Katharine Hepburn",
+      "Sidney Poitier"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/guess-who-s-coming-to-dinner.html"
+}

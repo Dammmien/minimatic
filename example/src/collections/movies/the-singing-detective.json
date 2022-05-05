@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Singing Detective",
+    "year": 2003,
+    "cast": [
+      "Robert Downey, Jr.",
+      "Robin Wright Penn",
+      "Mel Gibson"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-singing-detective.html"
+}

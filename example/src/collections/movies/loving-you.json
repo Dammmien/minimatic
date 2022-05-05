@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Loving You",
+    "year": 1957,
+    "cast": [
+      "Elvis Presley",
+      "Lizabeth Scott",
+      "Wendell Corey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/loving-you.html"
+}

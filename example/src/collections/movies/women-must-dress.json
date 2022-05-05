@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Women Must Dress",
+    "year": 1935,
+    "cast": [
+      "Minna Gombell",
+      "Lenita Lane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/women-must-dress.html"
+}

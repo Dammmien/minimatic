@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Lord Jeff",
+    "year": 1938,
+    "cast": [
+      "Freddie Bartholomew",
+      "Mickey Rooney",
+      "Charles Coburn"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/lord-jeff.html"
+}

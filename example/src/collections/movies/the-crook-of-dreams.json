@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Crook of Dreams",
+    "year": 1919,
+    "cast": [
+      "Louise Huff",
+      "Virginia Hammond",
+      "Frank Mayo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-crook-of-dreams.html"
+}

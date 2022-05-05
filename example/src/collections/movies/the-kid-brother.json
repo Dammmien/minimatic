@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Kid Brother",
+    "year": 1927,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-kid-brother.html"
+}

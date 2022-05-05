@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cold Feet",
+    "year": 1989,
+    "cast": [
+      "Keith Carradine",
+      "Sally Kirkland",
+      "Tom Waits"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cold-feet.html"
+}

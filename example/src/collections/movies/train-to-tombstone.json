@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Train to Tombstone",
+    "year": 1950,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Judith Allen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/train-to-tombstone.html"
+}

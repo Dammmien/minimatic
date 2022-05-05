@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beware Spooks!",
+    "year": 1939,
+    "cast": [
+      "Joe E. Brown",
+      "Mary Carlisle",
+      "Clarence Kolb"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/beware-spooks-.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Falling from Grace",
+    "year": 1992,
+    "cast": [
+      "John Mellencamp",
+      "Mariel Hemingway",
+      "Kay Lenz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/falling-from-grace.html"
+}

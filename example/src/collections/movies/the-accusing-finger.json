@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Accusing Finger",
+    "year": 1936,
+    "cast": [
+      "Paul Kelly",
+      "Kent Taylor",
+      "Marsha Hunt"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-accusing-finger.html"
+}

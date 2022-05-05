@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The One I Love",
+    "year": 2014,
+    "cast": [
+      "Mark Duplass",
+      "Ted Danson",
+      "Elisabeth Moss"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-one-i-love.html"
+}

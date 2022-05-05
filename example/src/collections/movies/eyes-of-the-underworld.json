@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eyes of the Underworld",
+    "year": 1942,
+    "cast": [
+      "Richard Dix",
+      "Don Porter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/eyes-of-the-underworld.html"
+}

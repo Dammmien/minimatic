@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Girl o' My Dreams",
+    "year": 1934,
+    "cast": [
+      "Mary Carlisle",
+      "Sterling Holloway"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/girl-o--my-dreams.html"
+}

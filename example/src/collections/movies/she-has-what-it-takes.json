@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "She Has What It Takes",
+    "year": 1943,
+    "cast": [
+      "Jinx Falkenburg",
+      "Tom Neal",
+      "Constance Worth"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/she-has-what-it-takes.html"
+}

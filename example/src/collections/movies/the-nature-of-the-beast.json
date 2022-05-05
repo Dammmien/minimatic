@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Nature of the Beast",
+    "year": 1995,
+    "cast": [
+      "Eric Roberts",
+      "Lance Henriksen"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-nature-of-the-beast.html"
+}

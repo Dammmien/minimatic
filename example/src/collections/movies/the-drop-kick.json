@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Drop Kick",
+    "year": 1927,
+    "cast": [
+      "Richard Barthelmess",
+      "Barbara Kent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-drop-kick.html"
+}

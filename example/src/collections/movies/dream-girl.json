@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dream Girl",
+    "year": 1948,
+    "cast": [
+      "Betty Hutton",
+      "Patric Knowles",
+      "Virginia Field"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dream-girl.html"
+}

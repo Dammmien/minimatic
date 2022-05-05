@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cheyenne",
+    "year": 1947,
+    "cast": [
+      "Jane Wyman",
+      "Dennis Morgan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cheyenne.html"
+}

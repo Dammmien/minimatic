@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The War Tapes",
+    "year": 2006,
+    "cast": [
+      "the",
+      "2003 invasion of Iraq",
+      "in the prospective of the soldiers"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-war-tapes.html"
+}

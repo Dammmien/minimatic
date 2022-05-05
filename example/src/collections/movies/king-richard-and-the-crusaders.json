@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "King Richard and the Crusaders",
+    "year": 1954,
+    "cast": [
+      "Rex Harrison",
+      "Virginia Mayo",
+      "George Sanders"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/king-richard-and-the-crusaders.html"
+}

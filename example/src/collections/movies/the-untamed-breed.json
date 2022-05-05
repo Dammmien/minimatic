@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Untamed Breed",
+    "year": 1948,
+    "cast": [
+      "Sonny Tufts",
+      "Barbara Britton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-untamed-breed.html"
+}

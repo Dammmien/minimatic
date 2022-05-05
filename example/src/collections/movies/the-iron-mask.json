@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Iron Mask",
+    "year": 1929,
+    "cast": [
+      "Douglas Fairbanks",
+      "Belle Bennett"
+    ],
+    "genres": [
+      "Romance",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-iron-mask.html"
+}

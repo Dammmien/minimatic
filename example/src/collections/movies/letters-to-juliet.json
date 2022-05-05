@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Letters to Juliet",
+    "year": 2010,
+    "cast": [
+      "Amanda Seyfried",
+      "Chris Egan",
+      "Vanessa Redgrave",
+      "Gael García Bernal",
+      "Franco Nero"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/letters-to-juliet.html"
+}

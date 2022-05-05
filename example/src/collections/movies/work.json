@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Work",
+    "year": 1915,
+    "cast": [
+      "Charles Chaplin",
+      "Edna Purviance"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/work.html"
+}

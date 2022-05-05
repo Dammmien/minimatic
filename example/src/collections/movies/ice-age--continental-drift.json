@@ -1,0 +1,38 @@
+{
+  "data": {
+    "title": "Ice Age: Continental Drift",
+    "year": 2012,
+    "cast": [
+      "Ray Romano",
+      "John Leguizamo",
+      "Denis Leary",
+      "Queen Latifah",
+      "Seann William Scott",
+      "Josh Peck",
+      "Chris Wedge",
+      "Jennifer Lopez",
+      "Keke Palmer",
+      "Aziz Ansari",
+      "Drake",
+      "Jeremy Renner",
+      "Wanda Sykes",
+      "Matt Bennett",
+      "Nicki Minaj",
+      "Ester Dean",
+      "Rebel Wilson",
+      "Joy Behar",
+      "Nick Frost",
+      "J. B. Smoove",
+      "Heather Morris",
+      "Josh Gad",
+      "Alan Tudyk",
+      "Kunal Nayyar",
+      "Alain Chabat"
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/ice-age--continental-drift.html"
+}

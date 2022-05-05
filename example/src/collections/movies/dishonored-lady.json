@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dishonored Lady",
+    "year": 1947,
+    "cast": [
+      "Hedy Lamarr",
+      "Dennis O'Keefe",
+      "John Loder"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/dishonored-lady.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Goodbye Lover",
+    "year": 1998,
+    "cast": [
+      "Patricia Arquette",
+      "Dermot Mulroney",
+      "Mary-Louise Parker",
+      "Ellen DeGeneres"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/goodbye-lover.html"
+}

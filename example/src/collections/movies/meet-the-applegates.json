@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Meet the Applegates",
+    "year": 1991,
+    "cast": [
+      "Ed Begley, Jr.",
+      "Stockard Channing",
+      "Dabney Coleman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/meet-the-applegates.html"
+}

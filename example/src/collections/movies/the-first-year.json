@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The First Year",
+    "year": 1932,
+    "cast": [
+      "Janet Gaynor",
+      "Charles Farrell"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-first-year.html"
+}

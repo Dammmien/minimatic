@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Death Wish V: The Face of Death",
+    "year": 1994,
+    "cast": [
+      "Charles Bronson",
+      "Michael Parks"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/death-wish-v--the-face-of-death.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ride in the Whirlwind",
+    "year": 1965,
+    "cast": [
+      "Jack Nicholson",
+      "Millie Perkins",
+      "Harry Dean Stanton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ride-in-the-whirlwind.html"
+}

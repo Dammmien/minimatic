@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "13 Hours by Air",
+    "year": 1936,
+    "cast": [
+      "Fred MacMurray",
+      "Joan Bennett",
+      "Brian Donlevy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/13-hours-by-air.html"
+}

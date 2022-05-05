@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Consenting Adults",
+    "year": 1992,
+    "cast": [
+      "Kevin Kline",
+      "Mary Elizabeth Mastrantonio",
+      "Kevin Spacey",
+      "Rebecca Miller",
+      "Forest Whitaker"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/consenting-adults.html"
+}

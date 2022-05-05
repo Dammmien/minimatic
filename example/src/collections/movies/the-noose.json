@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Noose",
+    "year": 1928,
+    "cast": [
+      "Richard Barthelmess",
+      "Montagu Love"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-noose.html"
+}

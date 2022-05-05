@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Desert Nights",
+    "year": 1929,
+    "cast": [
+      "John Gilbert",
+      "Ernest Torrence"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/desert-nights.html"
+}

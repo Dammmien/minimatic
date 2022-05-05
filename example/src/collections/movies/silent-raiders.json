@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silent Raiders",
+    "year": 1954,
+    "cast": [
+      "Richard Bartlett",
+      "Dean Fredericks"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/silent-raiders.html"
+}

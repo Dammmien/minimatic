@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "If I'm Lucky",
+    "year": 1946,
+    "cast": [
+      "Vivian Blaine",
+      "Perry Como"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/if-i-m-lucky.html"
+}

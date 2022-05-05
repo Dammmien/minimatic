@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spotlight Scandals",
+    "year": 1943,
+    "cast": [
+      "Billy Gilbert",
+      "Iris Adrian"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/spotlight-scandals.html"
+}

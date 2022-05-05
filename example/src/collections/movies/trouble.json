@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Trouble",
+    "year": 1922,
+    "cast": [
+      "Jackie Coogan",
+      "Wallace Beery",
+      "Gloria Hope"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/trouble.html"
+}

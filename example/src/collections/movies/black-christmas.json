@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Black Christmas",
+    "year": 2006,
+    "cast": [
+      "Katie Cassidy",
+      "Michelle Trachtenberg",
+      "Kristen Cloke",
+      "Crystal Lowe"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/black-christmas.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Theodora Goes Wild",
+    "year": 1936,
+    "cast": [
+      "Irene Dunne",
+      "(",
+      "Best Actress",
+      "nominee)",
+      "Melvyn Douglas",
+      "Thurston Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/theodora-goes-wild.html"
+}

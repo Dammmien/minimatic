@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Black and White",
+    "year": 1999,
+    "cast": [
+      "Robert Downey Jr.",
+      "Gaby Hoffmann",
+      "Jared Leto"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/black-and-white.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mystery Science Theater 3000: The Movie",
+    "year": 1996,
+    "cast": [
+      "Mike Nelson"
+    ],
+    "genres": [
+      "Comedy",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/mystery-science-theater-3000--the-movie.html"
+}

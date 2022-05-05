@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Happening",
+    "year": 2008,
+    "cast": [
+      "Mark Wahlberg",
+      "Zooey Deschanel",
+      "John Leguizamo",
+      "Betty Buckley"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-happening.html"
+}

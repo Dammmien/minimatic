@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Young Tom Edison",
+    "year": 1940,
+    "cast": [
+      "Mickey Rooney",
+      "Fay Bainter",
+      "George Bancroft"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/young-tom-edison.html"
+}

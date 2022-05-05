@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Land of the Dead",
+    "year": 2005,
+    "cast": [
+      "Simon Baker",
+      "John Leguizamo",
+      "Dennis Hopper",
+      "Asia Argento"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/land-of-the-dead.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When a Man Sees Red",
+    "year": 1934,
+    "cast": [
+      "Buck Jones",
+      "Dorothy Revier"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/when-a-man-sees-red.html"
+}

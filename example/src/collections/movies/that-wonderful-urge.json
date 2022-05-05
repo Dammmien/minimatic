@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That Wonderful Urge",
+    "year": 1948,
+    "cast": [
+      "Tyrone Power",
+      "Gene Tierney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-wonderful-urge.html"
+}

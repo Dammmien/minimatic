@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Excision",
+    "year": 2012,
+    "cast": [
+      "AnnaLynne McCord",
+      "Traci Lords",
+      "Ariel Winter",
+      "Roger Bart",
+      "Jeremy Sumpter",
+      "Malcolm McDowell"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/excision.html"
+}

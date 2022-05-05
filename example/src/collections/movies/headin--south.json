@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Headin' South",
+    "year": 1918,
+    "cast": [
+      "Douglas Fairbanks",
+      "Katherine MacDonald"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/headin--south.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Conspiracy",
+    "year": 1939,
+    "cast": [
+      "Allan Lane",
+      "Linda Hayes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/conspiracy.html"
+}

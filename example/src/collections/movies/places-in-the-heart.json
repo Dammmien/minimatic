@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Places in the Heart",
+    "year": 1984,
+    "cast": [
+      "Sally Field",
+      "John Malkovich",
+      "Danny Glover",
+      "Lindsay Crouse",
+      "Ed Harris",
+      "Amy Madigan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/places-in-the-heart.html"
+}

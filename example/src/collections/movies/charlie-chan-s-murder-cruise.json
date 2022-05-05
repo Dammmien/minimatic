@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Charlie Chan's Murder Cruise",
+    "year": 1940,
+    "cast": [
+      "Sidney Toler",
+      "Marjorie Weaver",
+      "Lionel Atwill"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/charlie-chan-s-murder-cruise.html"
+}

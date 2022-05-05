@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Missing Mouse",
+    "year": 1953,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-missing-mouse.html"
+}

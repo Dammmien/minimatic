@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Children of Pleasure",
+    "year": 1930,
+    "cast": [
+      "Lawrence Gray",
+      "Wynne Gibson"
+    ],
+    "genres": [
+      "Romance",
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/children-of-pleasure.html"
+}

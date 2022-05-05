@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Libeled Lady",
+    "year": 1936,
+    "cast": [
+      "Jean Harlow",
+      "William Powell",
+      "Spencer Tracy"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/libeled-lady.html"
+}

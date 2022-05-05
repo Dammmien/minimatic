@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Honey, We Shrunk Ourselves",
+    "year": 1997,
+    "cast": [
+      "Rick Moranis"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/honey--we-shrunk-ourselves.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder with Pictures",
+    "year": 1936,
+    "cast": [
+      "Lew Ayres",
+      "Gail Patrick"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder-with-pictures.html"
+}

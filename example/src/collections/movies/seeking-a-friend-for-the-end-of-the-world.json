@@ -1,0 +1,27 @@
+{
+  "data": {
+    "title": "Seeking a Friend for the End of the World",
+    "year": 2012,
+    "cast": [
+      "Steve Carell",
+      "Keira Knightley",
+      "Adam Brody",
+      "Derek Luke",
+      "William Petersen",
+      "Connie Britton",
+      "Patton Oswalt",
+      "Melanie Lynskey",
+      "Rob Corddry",
+      "Melinda Dillon",
+      "Rob Huebel",
+      "Gillian Jacobs",
+      "T. J. Miller",
+      "Amy Schumer",
+      "Jim O'Heir"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/seeking-a-friend-for-the-end-of-the-world.html"
+}

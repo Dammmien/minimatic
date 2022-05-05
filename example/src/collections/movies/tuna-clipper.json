@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tuna Clipper",
+    "year": 1949,
+    "cast": [
+      "Roddy McDowall",
+      "Elena Verdugo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tuna-clipper.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tammy and the Doctor",
+    "year": 1963,
+    "cast": [
+      "Sandra Dee",
+      "Peter Fonda"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/tammy-and-the-doctor.html"
+}

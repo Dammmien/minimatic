@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mike Hammer: Murder Takes All",
+    "year": 1989,
+    "cast": [
+      "Stacy Keach",
+      "Lynda Carter"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/mike-hammer--murder-takes-all.html"
+}

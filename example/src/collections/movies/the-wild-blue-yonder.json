@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Wild Blue Yonder",
+    "year": 1951,
+    "cast": [
+      "Wendell Corey",
+      "Vera Ralston",
+      "Forrest Tucker"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wild-blue-yonder.html"
+}

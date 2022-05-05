@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Air Hawks",
+    "year": 1935,
+    "cast": [
+      "Ralph Bellamy",
+      "Tala Birell",
+      "Douglass Dumbrille"
+    ],
+    "genres": [
+      "Drama",
+      "Action"
+    ]
+  },
+  "output": "movies/air-hawks.html"
+}

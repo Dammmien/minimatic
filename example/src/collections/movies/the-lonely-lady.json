@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Lonely Lady",
+    "year": 1983,
+    "cast": [
+      "Pia Zadora",
+      "Lloyd Bochner",
+      "Joseph Cali",
+      "Bibi Besch",
+      "Anthony Holland",
+      "Ray Liotta"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lonely-lady.html"
+}

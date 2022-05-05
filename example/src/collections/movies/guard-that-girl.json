@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Guard That Girl",
+    "year": 1935,
+    "cast": [
+      "Florence Rice",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/guard-that-girl.html"
+}

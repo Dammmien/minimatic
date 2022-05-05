@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Human Comedy",
+    "year": 1943,
+    "cast": [
+      "Mickey Rooney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-human-comedy.html"
+}

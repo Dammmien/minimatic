@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hair Show",
+    "year": 2004,
+    "cast": [
+      "Kellita Smith",
+      "Mo'Nique",
+      "David Ramsey",
+      "Gina Torres"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hair-show.html"
+}

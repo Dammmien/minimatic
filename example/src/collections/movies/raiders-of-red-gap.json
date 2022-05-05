@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Raiders of Red Gap",
+    "year": 1943,
+    "cast": [
+      "Robert Livingston",
+      "Myrna Dell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/raiders-of-red-gap.html"
+}

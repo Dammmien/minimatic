@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Charlie Chan at the Opera",
+    "year": 1936,
+    "cast": [
+      "Warner Oland",
+      "Keye Luke",
+      "Boris Karloff"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/charlie-chan-at-the-opera.html"
+}

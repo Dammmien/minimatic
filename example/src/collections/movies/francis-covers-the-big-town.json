@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Francis Covers the Big Town",
+    "year": 1953,
+    "cast": [
+      "Donald O'Connor",
+      "Yvette Duguay"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/francis-covers-the-big-town.html"
+}

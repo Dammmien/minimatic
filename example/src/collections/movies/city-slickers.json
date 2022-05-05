@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "City Slickers",
+    "year": 1991,
+    "cast": [
+      "Billy Crystal",
+      "Daniel Stern",
+      "Bruno Kirby",
+      "Patricia Wettig",
+      "Helen Slater",
+      "Jack Palance"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/city-slickers.html"
+}

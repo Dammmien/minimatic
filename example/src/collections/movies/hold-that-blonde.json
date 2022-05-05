@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hold That Blonde",
+    "year": 1945,
+    "cast": [
+      "Eddie Bracken",
+      "Veronica Lake",
+      "Albert Dekker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hold-that-blonde.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fort Yuma",
+    "year": 1955,
+    "cast": [
+      "Peter Graves",
+      "Joan Vohs"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fort-yuma.html"
+}

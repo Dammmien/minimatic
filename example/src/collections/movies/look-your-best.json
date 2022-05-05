@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Look Your Best",
+    "year": 1923,
+    "cast": [
+      "Colleen Moore",
+      "Antonio Moreno"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/look-your-best.html"
+}

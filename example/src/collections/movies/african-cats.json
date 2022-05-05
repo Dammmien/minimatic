@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "African Cats",
+    "year": 2011,
+    "cast": [
+      "Centers around two families of lions and cheetahs who teach their cubs the ways of the wild in surviving the African savannah. Narrated by",
+      "Samuel L. Jackson"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/african-cats.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hangman's House",
+    "year": 1928,
+    "cast": [
+      "Victor McLaglen",
+      "June Collyer"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/hangman-s-house.html"
+}

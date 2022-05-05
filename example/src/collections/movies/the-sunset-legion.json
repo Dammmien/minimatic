@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sunset Legion",
+    "year": 1928,
+    "cast": [
+      "Fred Thomson",
+      "Edna Murphy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-sunset-legion.html"
+}

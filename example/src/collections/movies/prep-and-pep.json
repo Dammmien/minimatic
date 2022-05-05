@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prep and Pep",
+    "year": 1928,
+    "cast": [
+      "David Rollins",
+      "Nancy Drexel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/prep-and-pep.html"
+}

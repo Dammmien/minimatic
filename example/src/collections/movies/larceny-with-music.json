@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Larceny with Music",
+    "year": 1943,
+    "cast": [
+      "Kitty Carlisle",
+      "Allan Jones",
+      "Lee Patrick"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/larceny-with-music.html"
+}

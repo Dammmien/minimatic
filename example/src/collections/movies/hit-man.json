@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hit Man",
+    "year": 1972,
+    "cast": [
+      "Bernie Casey",
+      "Pam Grier"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/hit-man.html"
+}

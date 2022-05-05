@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Loving Couples",
+    "year": 1980,
+    "cast": [
+      "Shirley MacLaine",
+      "James Coburn",
+      "Susan Sarandon"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/loving-couples.html"
+}

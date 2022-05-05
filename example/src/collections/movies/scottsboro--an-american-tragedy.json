@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Scottsboro: An American Tragedy",
+    "year": 2000,
+    "cast": [
+      "the",
+      "Scottsboro Boys",
+      "case"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/scottsboro--an-american-tragedy.html"
+}

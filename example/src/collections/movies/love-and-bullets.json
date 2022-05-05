@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love and Bullets",
+    "year": 1979,
+    "cast": [
+      "Charles Bronson",
+      "Jill Ireland"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/love-and-bullets.html"
+}

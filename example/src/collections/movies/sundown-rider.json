@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sundown Rider",
+    "year": 1932,
+    "cast": [
+      "Buck Jones",
+      "Barbara Weeks"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sundown-rider.html"
+}

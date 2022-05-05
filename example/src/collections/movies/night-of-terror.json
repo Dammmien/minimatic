@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night of Terror",
+    "year": 1933,
+    "cast": [
+      "Bela Lugosi",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/night-of-terror.html"
+}

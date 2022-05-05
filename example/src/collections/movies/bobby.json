@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Bobby",
+    "year": 2006,
+    "cast": [
+      "Harry Belafonte",
+      "Joy Bryant",
+      "Nick Cannon",
+      "Laurence Fishburne",
+      "Anthony Hopkins",
+      "Helen Hunt",
+      "Ashton Kutcher",
+      "Shia LaBeouf",
+      "Lindsay Lohan",
+      "Demi Moore",
+      "Christian Slater",
+      "Martin Sheen",
+      "Sharon Stone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bobby.html"
+}

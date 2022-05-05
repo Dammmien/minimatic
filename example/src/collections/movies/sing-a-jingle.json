@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sing a Jingle",
+    "year": 1944,
+    "cast": [
+      "Allan Jones",
+      "June Vincent"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/sing-a-jingle.html"
+}

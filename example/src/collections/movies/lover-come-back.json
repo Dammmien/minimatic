@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Lover Come Back",
+    "year": 1961,
+    "cast": [
+      "Doris Day",
+      "Rock Hudson",
+      "Tony Randall",
+      "Edie Adams"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/lover-come-back.html"
+}

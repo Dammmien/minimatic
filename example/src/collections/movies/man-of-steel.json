@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Man of Steel",
+    "year": 2013,
+    "cast": [
+      "Henry Cavill",
+      "Amy Adams",
+      "Michael Shannon",
+      "Kevin Costner",
+      "Diane Lane",
+      "Laurence Fishburne",
+      "Antje Traue",
+      "Ayelet Zurer",
+      "Russell Crowe"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/man-of-steel.html"
+}

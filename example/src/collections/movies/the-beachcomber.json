@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Beachcomber",
+    "year": 1915,
+    "cast": [
+      "Hobart Bosworth"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-beachcomber.html"
+}

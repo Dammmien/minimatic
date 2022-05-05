@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "She Wants Me",
+    "year": 2013,
+    "cast": [
+      "Josh Gad",
+      "Kristen Ruhlin",
+      "Charlie Sheen",
+      "Hilary Duff"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-wants-me.html"
+}

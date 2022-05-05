@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blazing Stewardesses",
+    "year": 1975,
+    "cast": [
+      "Yvonne De Carlo",
+      "Regina Carrol"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blazing-stewardesses.html"
+}

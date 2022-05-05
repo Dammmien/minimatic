@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mister Frost",
+    "year": 1990,
+    "cast": [
+      "Jeff Goldblum",
+      "Kathy Baker",
+      "Alan Bates"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/mister-frost.html"
+}

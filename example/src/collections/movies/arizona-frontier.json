@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Arizona Frontier",
+    "year": 1940,
+    "cast": [
+      "Tex Ritter"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/arizona-frontier.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Royal Flash",
+    "year": 1975,
+    "cast": [
+      "Oliver Reed",
+      "Malcolm McDowell"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/royal-flash.html"
+}

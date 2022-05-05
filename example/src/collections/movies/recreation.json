@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Recreation",
+    "year": 1914,
+    "cast": [
+      "Charles Chaplin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/recreation.html"
+}

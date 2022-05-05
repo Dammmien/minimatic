@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Zenobia",
+    "year": 1939,
+    "cast": [
+      "Oliver Hardy",
+      "Harry Langdon",
+      "Billie Burke"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/zenobia.html"
+}

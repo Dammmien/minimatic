@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "King of the Herd",
+    "year": 1929,
+    "cast": [
+      "Raymond McKee",
+      "Nola Luxford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/king-of-the-herd.html"
+}

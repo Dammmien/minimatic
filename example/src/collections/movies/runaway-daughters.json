@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Runaway Daughters",
+    "year": 1956,
+    "cast": [
+      "Marla English",
+      "Mary Ellen Kay",
+      "Anna Sten"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/runaway-daughters.html"
+}

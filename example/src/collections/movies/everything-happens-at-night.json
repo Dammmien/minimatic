@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Everything Happens at Night",
+    "year": 1939,
+    "cast": [
+      "Sonja Henie",
+      "Ray Milland",
+      "Robert Cummings"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/everything-happens-at-night.html"
+}

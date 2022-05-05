@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Testament",
+    "year": 1983,
+    "cast": [
+      "Jane Alexander",
+      "William Devane",
+      "Roxana Zal"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/testament.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Childish Things",
+    "year": 1969,
+    "cast": [
+      "Don Murray",
+      "Linda Evans"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/childish-things.html"
+}

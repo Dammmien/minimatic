@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "50/50",
+    "year": 2011,
+    "cast": [
+      "Joseph Gordon-Levitt",
+      "Seth Rogen",
+      "Anna Kendrick",
+      "Bryce Dallas Howard",
+      "Anjelica Huston"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/50-50.html"
+}

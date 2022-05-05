@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Adventurer",
+    "year": 1924,
+    "cast": [
+      "Pat O'Malley",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fighting-adventurer.html"
+}

@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Pete's Dragon",
+    "year": 2016,
+    "cast": [
+      "Bryce Dallas Howard"
+    ],
+    "genres": []
+  },
+  "output": "movies/pete-s-dragon.html"
+}

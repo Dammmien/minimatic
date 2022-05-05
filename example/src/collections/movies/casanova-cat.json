@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Casanova Cat",
+    "year": 1951,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/casanova-cat.html"
+}

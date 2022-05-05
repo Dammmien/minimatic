@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chained",
+    "year": 1934,
+    "cast": [
+      "Joan Crawford",
+      "Clark Gable",
+      "Otto Kruger"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/chained.html"
+}

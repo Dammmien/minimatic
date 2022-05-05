@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rendezvous 24",
+    "year": 1946,
+    "cast": [
+      "William Gargan",
+      "Maria Palmer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rendezvous-24.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dust Be My Destiny",
+    "year": 1939,
+    "cast": [
+      "John Garfield",
+      "Priscilla Lane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dust-be-my-destiny.html"
+}

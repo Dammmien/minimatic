@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Battle at Apache Pass",
+    "year": 1952,
+    "cast": [
+      "John Lund",
+      "Jeff Chandler"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-battle-at-apache-pass.html"
+}

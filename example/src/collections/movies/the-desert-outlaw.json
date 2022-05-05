@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Desert Outlaw",
+    "year": 1924,
+    "cast": [
+      "Buck Jones",
+      "Evelyn Brent"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-desert-outlaw.html"
+}

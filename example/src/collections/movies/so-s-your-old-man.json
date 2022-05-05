@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "So's Your Old Man",
+    "year": 1926,
+    "cast": [
+      "W. C. Fields",
+      "Alice Joyce"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/so-s-your-old-man.html"
+}

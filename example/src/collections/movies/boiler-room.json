@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Boiler Room",
+    "year": 2000,
+    "cast": [
+      "Giovanni Ribisi",
+      "Nia Long",
+      "Vin Diesel",
+      "Ben Affleck"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/boiler-room.html"
+}

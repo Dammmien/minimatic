@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tentacles of the North",
+    "year": 1926,
+    "cast": [
+      "Gaston Glass",
+      "Alice Calhoun",
+      "Joseph W. Girard"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tentacles-of-the-north.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Sunday in New York",
+    "year": 1963,
+    "cast": [
+      "Jane Fonda",
+      "Rod Taylor",
+      "Cliff Robertson",
+      "Robert Culp"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/sunday-in-new-york.html"
+}

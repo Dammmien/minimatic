@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Summer of Sam",
+    "year": 1999,
+    "cast": [
+      "John Leguizamo",
+      "Adrien Brody",
+      "Mira Sorvino",
+      "Jennifer Esposito"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/summer-of-sam.html"
+}

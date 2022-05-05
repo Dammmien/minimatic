@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lure of the Wild",
+    "year": 1925,
+    "cast": [
+      "Jane Novak",
+      "Alan Roscoe"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-lure-of-the-wild.html"
+}

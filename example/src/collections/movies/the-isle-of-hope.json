@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Isle of Hope",
+    "year": 1925,
+    "cast": [
+      "Richard Talmadge",
+      "Helen Ferguson"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-isle-of-hope.html"
+}

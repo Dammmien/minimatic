@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Magician",
+    "year": 1926,
+    "cast": [
+      "Alice Terry",
+      "Paul Wegener"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-magician.html"
+}

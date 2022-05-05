@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Raw Justice",
+    "year": 1994,
+    "cast": [
+      "Pamela Anderson",
+      "Robert Hays"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/raw-justice.html"
+}

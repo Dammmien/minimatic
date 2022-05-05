@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stuck",
+    "year": 2007,
+    "cast": [
+      "Mena Suvari",
+      "Stephen Rea"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/stuck.html"
+}

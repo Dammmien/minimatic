@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "State Penitentiary",
+    "year": 1950,
+    "cast": [
+      "Warner Baxter",
+      "Onslow Stevens",
+      "Karin Booth"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/state-penitentiary.html"
+}

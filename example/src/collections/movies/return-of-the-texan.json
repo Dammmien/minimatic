@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Return of the Texan",
+    "year": 1952,
+    "cast": [
+      "Dale Robertson",
+      "Joanne Dru",
+      "Walter Brennan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/return-of-the-texan.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Locomotive Chase",
+    "year": 1956,
+    "cast": [
+      "Fess Parker",
+      "Jeffrey Hunter"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-great-locomotive-chase.html"
+}

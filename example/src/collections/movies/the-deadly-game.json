@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Deadly Game",
+    "year": 1941,
+    "cast": [
+      "Charles Farrell",
+      "June Lang"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-deadly-game.html"
+}

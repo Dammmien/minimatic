@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Expert",
+    "year": 1932,
+    "cast": [
+      "Charles Sale",
+      "Dickie Moore",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-expert.html"
+}

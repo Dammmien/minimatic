@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Girl with Ideas",
+    "year": 1937,
+    "cast": [
+      "Wendy Barrie",
+      "Walter Pidgeon",
+      "Kent Taylor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-girl-with-ideas.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Boys Don't Cry",
+    "year": 1999,
+    "cast": [
+      "Hilary Swank",
+      "Chloë Sevigny"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/boys-don-t-cry.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The North Avenue Irregulars",
+    "year": 1979,
+    "cast": [
+      "Edward Herrmann",
+      "Cloris Leachman",
+      "Susan Clark",
+      "Karen Valentine"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/the-north-avenue-irregulars.html"
+}

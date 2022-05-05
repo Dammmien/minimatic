@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Home Town Story",
+    "year": 1951,
+    "cast": [
+      "Jeffrey Lynn",
+      "Marjorie Reynolds"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/home-town-story.html"
+}

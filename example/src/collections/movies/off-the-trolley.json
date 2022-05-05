@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Off the Trolley",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/off-the-trolley.html"
+}

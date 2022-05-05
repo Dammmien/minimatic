@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Live Wire",
+    "year": 1992,
+    "cast": [
+      "Pierce Brosnan",
+      "Ron Silver",
+      "Ben Cross",
+      "Lisa Eilbacher"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/live-wire.html"
+}

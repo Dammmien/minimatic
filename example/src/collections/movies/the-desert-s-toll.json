@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Desert's Toll",
+    "year": 1926,
+    "cast": [
+      "Francis McDonald",
+      "Kathleen Key",
+      "Anna May Wong"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-desert-s-toll.html"
+}

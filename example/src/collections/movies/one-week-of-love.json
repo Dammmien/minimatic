@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Week of Love",
+    "year": 1922,
+    "cast": [
+      "Elaine Hammerstein",
+      "Conway Tearle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/one-week-of-love.html"
+}

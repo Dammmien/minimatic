@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Broken Hearts Club: A Romantic Comedy",
+    "year": 2000,
+    "cast": [
+      "Ben Weber",
+      "Timothy Olyphant",
+      "Zach Braff"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-broken-hearts-club--a-romantic-comedy.html"
+}

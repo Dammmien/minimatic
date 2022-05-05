@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "White Squall",
+    "year": 1996,
+    "cast": [
+      "Jeff Bridges",
+      "Ryan Phillippe",
+      "Scott Wolf"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/white-squall.html"
+}

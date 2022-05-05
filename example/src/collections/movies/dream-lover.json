@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dream Lover",
+    "year": 1994,
+    "cast": [
+      "James Spader",
+      "Mädchen Amick"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/dream-lover.html"
+}

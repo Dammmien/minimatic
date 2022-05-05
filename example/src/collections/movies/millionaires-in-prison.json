@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Millionaires in Prison",
+    "year": 1940,
+    "cast": [
+      "Lee Tracy",
+      "Linda Hayes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/millionaires-in-prison.html"
+}

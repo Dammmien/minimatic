@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Hunter",
+    "year": 1930,
+    "cast": [
+      "Rin Tin Tin",
+      "Nora Lane"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-man-hunter.html"
+}

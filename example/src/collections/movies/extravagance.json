@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Extravagance",
+    "year": 1930,
+    "cast": [
+      "June Collyer",
+      "Lloyd Hughes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/extravagance.html"
+}

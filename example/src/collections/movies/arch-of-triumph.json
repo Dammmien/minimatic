@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Arch of Triumph",
+    "year": 1948,
+    "cast": [
+      "Ingrid Bergman",
+      "Charles Boyer",
+      "Charles Laughton"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/arch-of-triumph.html"
+}

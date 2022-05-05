@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Disconnect",
+    "year": 2013,
+    "cast": [
+      "Jason Bateman",
+      "Hope Davis",
+      "Frank Grillo",
+      "Michael Nyqvist",
+      "Paula Patton",
+      "Andrea Riseborough",
+      "Alexander Skarsgård",
+      "Max Thieriot",
+      "Colin Ford",
+      "Jonah Bobo"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/disconnect.html"
+}

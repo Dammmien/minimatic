@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Our Idiot Brother",
+    "year": 2011,
+    "cast": [
+      "Paul Rudd",
+      "Elizabeth Banks",
+      "Zooey Deschanel",
+      "Emily Mortimer",
+      "Steve Coogan",
+      "Hugh Dancy",
+      "Kathryn Hahn",
+      "Rashida Jones",
+      "Shirley Knight",
+      "T. J. Miller",
+      "Adam Scott"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/our-idiot-brother.html"
+}

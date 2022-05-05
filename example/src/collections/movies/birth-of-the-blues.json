@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Birth of the Blues",
+    "year": 1941,
+    "cast": [
+      "Bing Crosby",
+      "Mary Martin"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/birth-of-the-blues.html"
+}

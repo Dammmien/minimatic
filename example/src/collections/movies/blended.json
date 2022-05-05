@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Blended",
+    "year": 2014,
+    "cast": [
+      "Adam Sandler",
+      "Drew Barrymore",
+      "Bella Thorne",
+      "Emma Fuhrmann"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/blended.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ballad of Jack and Rose",
+    "year": 2005,
+    "cast": [
+      "Daniel Day-Lewis",
+      "Camilla Belle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-ballad-of-jack-and-rose.html"
+}

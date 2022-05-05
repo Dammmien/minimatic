@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Looking for Trouble",
+    "year": 1934,
+    "cast": [
+      "Spencer Tracy",
+      "Constance Cummings"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/looking-for-trouble.html"
+}

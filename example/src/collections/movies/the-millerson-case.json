@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Millerson Case",
+    "year": 1947,
+    "cast": [
+      "Warner Baxter",
+      "Nancy Saunders"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-millerson-case.html"
+}

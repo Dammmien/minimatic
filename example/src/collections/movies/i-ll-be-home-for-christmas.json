@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I'll Be Home For Christmas",
+    "year": 1998,
+    "cast": [
+      "Jonathan Taylor Thomas",
+      "Gary Cole",
+      "Jessica Biel"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/i-ll-be-home-for-christmas.html"
+}

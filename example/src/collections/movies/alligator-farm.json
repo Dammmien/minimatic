@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Alligator Farm",
+    "year": 1904,
+    "cast": [],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/alligator-farm.html"
+}

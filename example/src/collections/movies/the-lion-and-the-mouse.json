@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lion and the Mouse",
+    "year": 1928,
+    "cast": [
+      "May McAvoy",
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lion-and-the-mouse.html"
+}

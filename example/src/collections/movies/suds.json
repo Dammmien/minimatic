@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Suds",
+    "year": 1920,
+    "cast": [
+      "Mary Pickford",
+      "Albert Austin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/suds.html"
+}

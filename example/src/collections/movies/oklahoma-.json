@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Oklahoma!",
+    "year": 1955,
+    "cast": [
+      "Gordon MacRae",
+      "Shirley Jones",
+      "Rod Steiger",
+      "Gloria Grahame",
+      "Gene Nelson",
+      "Eddie Albert"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/oklahoma-.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Matador",
+    "year": 2005,
+    "cast": [
+      "Pierce Brosnan",
+      "Greg Kinnear",
+      "Hope Davis",
+      "Philip Baker Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-matador.html"
+}

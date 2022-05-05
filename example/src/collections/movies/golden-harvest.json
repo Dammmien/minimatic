@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Golden Harvest",
+    "year": 1933,
+    "cast": [
+      "Richard Arlen",
+      "Genevieve Tobin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/golden-harvest.html"
+}

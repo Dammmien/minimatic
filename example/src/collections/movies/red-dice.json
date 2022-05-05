@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Red Dice",
+    "year": 1926,
+    "cast": [
+      "Rod La Rocque",
+      "Marguerite De La Motte",
+      "Gustav von Seyffertitz"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/red-dice.html"
+}

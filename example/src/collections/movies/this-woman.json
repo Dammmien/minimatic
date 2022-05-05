@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "This Woman",
+    "year": 1924,
+    "cast": [
+      "Irene Rich",
+      "Ricardo Cortez"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/this-woman.html"
+}

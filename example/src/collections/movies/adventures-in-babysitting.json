@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Adventures in Babysitting",
+    "year": 1987,
+    "cast": [
+      "Elisabeth Shue",
+      "Maia Brewton",
+      "Keith Coogan",
+      "Anthony Rapp",
+      "Vincent D'Onofrio",
+      "Penelope Ann Miller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/adventures-in-babysitting.html"
+}

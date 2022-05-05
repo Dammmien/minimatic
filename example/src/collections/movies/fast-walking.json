@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fast-Walking",
+    "year": 1982,
+    "cast": [
+      "James Woods",
+      "Tim McIntire",
+      "Kay Lenz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fast-walking.html"
+}

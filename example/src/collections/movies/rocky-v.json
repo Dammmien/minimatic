@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Rocky V",
+    "year": 1990,
+    "cast": [
+      "Sylvester Stallone",
+      "Talia Shire",
+      "Burt Young",
+      "Tommy Morrison",
+      "Richard Gant",
+      "Sage Stallone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rocky-v.html"
+}

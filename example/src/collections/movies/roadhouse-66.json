@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Roadhouse 66",
+    "year": 1984,
+    "cast": [
+      "Willem Dafoe",
+      "Judge Reinhold"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/roadhouse-66.html"
+}

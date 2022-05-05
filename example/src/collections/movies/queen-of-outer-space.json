@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Queen of Outer Space",
+    "year": 1958,
+    "cast": [
+      "Zsa Zsa Gabor",
+      "Eric Fleming"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/queen-of-outer-space.html"
+}

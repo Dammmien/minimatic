@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jeremy",
+    "year": 1973,
+    "cast": [
+      "Robby Benson",
+      "Glynnis O'Connor"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/jeremy.html"
+}

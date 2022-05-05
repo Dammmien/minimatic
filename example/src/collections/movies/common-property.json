@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Common Property",
+    "year": 1919,
+    "cast": [
+      "Nell Craig",
+      "Colleen Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/common-property.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Power of the Whistler",
+    "year": 1945,
+    "cast": [
+      "Richard Dix",
+      "Janis Carter"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-power-of-the-whistler.html"
+}

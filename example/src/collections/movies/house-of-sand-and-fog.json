@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "House of Sand and Fog",
+    "year": 2003,
+    "cast": [
+      "Jennifer Connelly",
+      "Ben Kingsley",
+      "Shohreh Agdashloo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/house-of-sand-and-fog.html"
+}

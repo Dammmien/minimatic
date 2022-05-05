@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strange Intruder",
+    "year": 1956,
+    "cast": [
+      "Ida Lupino",
+      "Edmund Purdom"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/strange-intruder.html"
+}

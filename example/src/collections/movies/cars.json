@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Cars",
+    "year": 2006,
+    "cast": [
+      "Paul Newman",
+      "Owen Wilson",
+      "Larry the Cable Guy",
+      "Tony Shalhoub",
+      "Bonnie Hunt"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/cars.html"
+}

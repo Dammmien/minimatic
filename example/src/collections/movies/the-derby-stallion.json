@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Derby Stallion",
+    "year": 2005,
+    "cast": [
+      "Zac Efron",
+      "Bill Cobbs",
+      "Crystal Hunt",
+      "Rob Pinkston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-derby-stallion.html"
+}

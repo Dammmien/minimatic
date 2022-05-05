@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "True as Steel",
+    "year": 1924,
+    "cast": [
+      "Aileen Pringle",
+      "Huntley Gordon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/true-as-steel.html"
+}

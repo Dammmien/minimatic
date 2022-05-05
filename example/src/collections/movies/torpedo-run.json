@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Torpedo Run",
+    "year": 1958,
+    "cast": [
+      "Glenn Ford",
+      "Ernest Borgnine",
+      "Diane Brewster"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/torpedo-run.html"
+}

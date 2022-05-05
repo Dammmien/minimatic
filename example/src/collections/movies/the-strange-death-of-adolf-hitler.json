@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Strange Death of Adolf Hitler",
+    "year": 1943,
+    "cast": [
+      "Ludwig Donath",
+      "Gale Sondergaard"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-strange-death-of-adolf-hitler.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Please Stand By",
+    "year": 2018,
+    "cast": [
+      "Dakota Fanning",
+      "Toni Collette",
+      "Alice Eve"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/please-stand-by.html"
+}

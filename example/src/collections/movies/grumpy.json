@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Grumpy",
+    "year": 1930,
+    "cast": [
+      "Cyril Maude",
+      "Frances Dade"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/grumpy.html"
+}

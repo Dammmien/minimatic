@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Blair Witch",
+    "year": 2016,
+    "cast": [
+      "Valorie Curry"
+    ],
+    "genres": []
+  },
+  "output": "movies/blair-witch.html"
+}

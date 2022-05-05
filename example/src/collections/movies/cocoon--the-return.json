@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Cocoon: The Return",
+    "year": 1988,
+    "cast": [
+      "Don Ameche",
+      "Hume Cronyn",
+      "Wilford Brimley",
+      "Steve Guttenberg",
+      "Jessica Tandy",
+      "Maureen Stapleton",
+      "Tahnee Welch",
+      "Barret Oliver",
+      "Courteney Cox"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/cocoon--the-return.html"
+}

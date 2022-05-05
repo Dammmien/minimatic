@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Baby Blue Marine",
+    "year": 1976,
+    "cast": [
+      "Jan-Michael Vincent",
+      "Glynnis O'Connor",
+      "Katherine Helmond",
+      "Richard Gere"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/baby-blue-marine.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Long Kiss Goodnight",
+    "year": 1996,
+    "cast": [
+      "Geena Davis",
+      "Samuel L. Jackson",
+      "Craig Bierko",
+      "David Morse",
+      "Brian Cox"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-long-kiss-goodnight.html"
+}

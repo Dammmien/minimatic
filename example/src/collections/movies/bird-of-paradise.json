@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bird of Paradise",
+    "year": 1951,
+    "cast": [
+      "Debra Paget",
+      "Louis Jourdan",
+      "Jeff Chandler"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bird-of-paradise.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Ripley's Game",
+    "year": 2004,
+    "cast": [
+      "John Malkovich",
+      "Dougray Scott",
+      "Ray Winstone",
+      "Chiara Caselli",
+      "Lena Headey"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/ripley-s-game.html"
+}

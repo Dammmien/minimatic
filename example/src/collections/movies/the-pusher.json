@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pusher",
+    "year": 1960,
+    "cast": [
+      "Robert Lansing",
+      "Felice Orlandi"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-pusher.html"
+}

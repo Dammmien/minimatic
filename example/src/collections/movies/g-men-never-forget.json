@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "G-Men Never Forget",
+    "year": 1948,
+    "cast": [
+      "Clayton Moore"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/g-men-never-forget.html"
+}

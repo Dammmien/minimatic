@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Adventurous Blonde",
+    "year": 1937,
+    "cast": [
+      "Glenda Farrell",
+      "Barton MacLane",
+      "Anne Nagel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-adventurous-blonde.html"
+}

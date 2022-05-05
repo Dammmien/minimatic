@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Night Owl",
+    "year": 1926,
+    "cast": [
+      "Reed Howes",
+      "Gladys Hulette"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-night-owl.html"
+}

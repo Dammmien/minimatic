@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rules of Engagement",
+    "year": 2000,
+    "cast": [
+      "Tommy Lee Jones",
+      "Samuel L. Jackson",
+      "Guy Pearce"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/rules-of-engagement.html"
+}

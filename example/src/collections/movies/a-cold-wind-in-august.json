@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Cold Wind in August",
+    "year": 1961,
+    "cast": [
+      "Lola Albright",
+      "Scott Marlowe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-cold-wind-in-august.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Kid Millions",
+    "year": 1934,
+    "cast": [
+      "Eddie Cantor",
+      "Ann Sothern",
+      "Ethel Merman"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/kid-millions.html"
+}

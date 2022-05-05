@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bush Pilot",
+    "year": 1947,
+    "cast": [
+      "Rochelle Hudson",
+      "Jack La Rue"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bush-pilot.html"
+}

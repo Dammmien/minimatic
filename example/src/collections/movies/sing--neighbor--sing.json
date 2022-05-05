@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sing, Neighbor, Sing",
+    "year": 1944,
+    "cast": [
+      "Ruth Terry",
+      "Roy Acuff"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/sing--neighbor--sing.html"
+}

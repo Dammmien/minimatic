@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "She Creature",
+    "year": 2001,
+    "cast": [
+      "Rufus Sewell",
+      "Carla Gugino",
+      "Rya Kihlstedt"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/she-creature.html"
+}

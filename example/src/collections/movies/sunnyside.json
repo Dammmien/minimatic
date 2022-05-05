@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sunnyside",
+    "year": 1919,
+    "cast": [
+      "Charlie Chaplin",
+      "Edna Purviance"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sunnyside.html"
+}

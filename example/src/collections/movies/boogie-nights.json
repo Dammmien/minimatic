@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Boogie Nights",
+    "year": 1997,
+    "cast": [
+      "Mark Wahlberg",
+      "Burt Reynolds",
+      "Julianne Moore",
+      "John C. Reilly",
+      "Don Cheadle",
+      "Philip Seymour Hoffman",
+      "Heather Graham",
+      "Thomas Jane",
+      "William H. Macy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/boogie-nights.html"
+}

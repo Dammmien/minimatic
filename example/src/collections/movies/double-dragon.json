@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Double Dragon",
+    "year": 1994,
+    "cast": [
+      "Mark Dacascos",
+      "Scott Wolf",
+      "Robert Patrick",
+      "Alyssa Milano"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/double-dragon.html"
+}

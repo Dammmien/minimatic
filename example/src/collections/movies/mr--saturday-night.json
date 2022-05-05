@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Saturday Night",
+    "year": 1992,
+    "cast": [
+      "Billy Crystal",
+      "David Paymer",
+      "Julie Warner"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--saturday-night.html"
+}

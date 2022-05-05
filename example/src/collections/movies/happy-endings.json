@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Happy Endings",
+    "year": 2005,
+    "cast": [
+      "Lisa Kudrow",
+      "Tom Arnold",
+      "Steve Coogan",
+      "Maggie Gyllenhaal"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/happy-endings.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Stranger in My Arms",
+    "year": 1959,
+    "cast": [
+      "Jeff Chandler",
+      "June Allyson",
+      "Mary Astor"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-stranger-in-my-arms.html"
+}

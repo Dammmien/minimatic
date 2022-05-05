@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gun Glory",
+    "year": 1957,
+    "cast": [
+      "Stewart Granger",
+      "Rhonda Fleming"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gun-glory.html"
+}

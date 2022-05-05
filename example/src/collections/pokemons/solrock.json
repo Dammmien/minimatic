@@ -1,0 +1,21 @@
+{
+  "id": 338,
+  "name": {
+    "english": "Solrock",
+    "japanese": "ソルロック",
+    "chinese": "太阳岩",
+    "french": "Solaroc"
+  },
+  "type": [
+    "Rock",
+    "Psychic"
+  ],
+  "base": {
+    "HP": 90,
+    "Attack": 95,
+    "Defense": 85,
+    "Sp. Attack": 55,
+    "Sp. Defense": 65,
+    "Speed": 70
+  }
+}

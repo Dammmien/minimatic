@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Claudia and David",
+    "year": 1946,
+    "cast": [
+      "Dorothy McGuire",
+      "Robert Young",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/claudia-and-david.html"
+}

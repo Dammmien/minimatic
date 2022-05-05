@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gentleman Misbehaves",
+    "year": 1946,
+    "cast": [
+      "Osa Massen",
+      "Hillary Brooke"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-gentleman-misbehaves.html"
+}

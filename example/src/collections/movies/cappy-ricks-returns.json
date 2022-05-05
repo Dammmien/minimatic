@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cappy Ricks Returns",
+    "year": 1935,
+    "cast": [
+      "Robert McWade",
+      "Ray Walker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cappy-ricks-returns.html"
+}

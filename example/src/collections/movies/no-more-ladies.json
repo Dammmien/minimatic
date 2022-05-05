@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "No More Ladies",
+    "year": 1935,
+    "cast": [
+      "Joan Crawford",
+      "Robert Montgomery",
+      "Joan Fontaine"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/no-more-ladies.html"
+}

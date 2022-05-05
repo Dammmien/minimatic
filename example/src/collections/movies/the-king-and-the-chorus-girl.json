@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The King and the Chorus Girl",
+    "year": 1937,
+    "cast": [
+      "Joan Blondell",
+      "Fernand Gravey",
+      "Edward Everett Horton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-king-and-the-chorus-girl.html"
+}

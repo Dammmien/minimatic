@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lady of the Harem",
+    "year": 1926,
+    "cast": [
+      "Ernest Torrence",
+      "Greta Nissen",
+      "Louise Fazenda"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-lady-of-the-harem.html"
+}

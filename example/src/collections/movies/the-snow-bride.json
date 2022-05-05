@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Snow Bride",
+    "year": 1923,
+    "cast": [
+      "Alice Brady",
+      "Maurice \"Lefty\" Flynn"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-snow-bride.html"
+}

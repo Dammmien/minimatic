@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gilded Butterfly",
+    "year": 1926,
+    "cast": [
+      "Alma Rubens",
+      "Bert Lytell",
+      "Huntley Gordon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-gilded-butterfly.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Detention of the Dead",
+    "year": 2012,
+    "cast": [
+      "Jacob Zachar",
+      "Alexa Nikolas",
+      "Christa B. Allen",
+      "Jayson Blair"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/detention-of-the-dead.html"
+}

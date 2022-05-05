@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Rawhide Kid",
+    "year": 1928,
+    "cast": [
+      "Hoot Gibson",
+      "Georgia Hale"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-rawhide-kid.html"
+}

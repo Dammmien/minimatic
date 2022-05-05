@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "More American Graffiti",
+    "year": 1979,
+    "cast": [
+      "Ron Howard",
+      "Candy Clark",
+      "Paul LeMat"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/more-american-graffiti.html"
+}

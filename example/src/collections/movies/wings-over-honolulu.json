@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wings over Honolulu",
+    "year": 1937,
+    "cast": [
+      "Wendy Barrie",
+      "Ray Milland",
+      "William Gargan"
+    ],
+    "genres": [
+      "War",
+      "Romance"
+    ]
+  },
+  "output": "movies/wings-over-honolulu.html"
+}

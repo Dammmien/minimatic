@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Animalympics",
+    "year": 1980,
+    "cast": [
+      "Billy Crystal"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/animalympics.html"
+}

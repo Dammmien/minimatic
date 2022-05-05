@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gun Brothers",
+    "year": 1956,
+    "cast": [
+      "Buster Crabbe",
+      "Ann Robinson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gun-brothers.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Peacock Alley",
+    "year": 1930,
+    "cast": [
+      "Mae Murray",
+      "Jason Robards Sr."
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/peacock-alley.html"
+}

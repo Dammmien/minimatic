@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bells",
+    "year": 1926,
+    "cast": [
+      "Lionel Barrymore",
+      "Caroline Frances Cooke"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-bells.html"
+}

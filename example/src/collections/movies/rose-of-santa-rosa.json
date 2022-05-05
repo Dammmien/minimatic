@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rose of Santa Rosa",
+    "year": 1947,
+    "cast": [
+      "Patricia Barry",
+      "Eduardo Noriega"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rose-of-santa-rosa.html"
+}

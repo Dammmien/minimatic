@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hurricane Island",
+    "year": 1951,
+    "cast": [
+      "Jon Hall",
+      "Marie Windsor"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/hurricane-island.html"
+}

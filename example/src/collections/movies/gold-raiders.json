@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gold Raiders",
+    "year": 1951,
+    "cast": [
+      "George O'Brien",
+      "Sheila Ryan"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/gold-raiders.html"
+}

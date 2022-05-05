@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sword and the Sorcerer",
+    "year": 1982,
+    "cast": [
+      "Lee Horsley",
+      "Kathleen Beller"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-sword-and-the-sorcerer.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gaucho Serenade",
+    "year": 1940,
+    "cast": [
+      "Gene Autry",
+      "June Storey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gaucho-serenade.html"
+}

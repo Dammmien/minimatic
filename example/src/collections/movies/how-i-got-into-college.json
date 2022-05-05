@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "How I Got into College",
+    "year": 1989,
+    "cast": [
+      "Anthony Edwards",
+      "Lara Flynn Boyle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/how-i-got-into-college.html"
+}

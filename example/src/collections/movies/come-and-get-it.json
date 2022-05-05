@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Come and Get It",
+    "year": 1936,
+    "cast": [
+      "Edward Arnold",
+      "Joel McCrea",
+      "Frances Farmer",
+      "Walter Brennan",
+      "(",
+      "Academy Award for Best Supporting Actor",
+      ")"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/come-and-get-it.html"
+}

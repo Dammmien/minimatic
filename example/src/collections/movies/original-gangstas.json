@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Original Gangstas",
+    "year": 1996,
+    "cast": [
+      "Fred Williamson",
+      "Pam Grier",
+      "Jim Brown"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/original-gangstas.html"
+}

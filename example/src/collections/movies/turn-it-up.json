@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Turn It Up",
+    "year": 2000,
+    "cast": [
+      "Pras",
+      "Ja Rule"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/turn-it-up.html"
+}

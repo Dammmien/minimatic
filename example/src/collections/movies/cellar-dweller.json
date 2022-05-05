@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Cellar Dweller",
+    "year": 1988,
+    "cast": [
+      "Debrah Farentino"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/cellar-dweller.html"
+}

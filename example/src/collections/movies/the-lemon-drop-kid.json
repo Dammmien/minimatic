@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lemon Drop Kid",
+    "year": 1951,
+    "cast": [
+      "Bob Hope",
+      "Marilyn Maxwell",
+      "William Frawley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-lemon-drop-kid.html"
+}

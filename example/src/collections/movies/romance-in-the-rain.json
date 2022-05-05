@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Romance in the Rain",
+    "year": 1934,
+    "cast": [
+      "Heather Angel",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/romance-in-the-rain.html"
+}

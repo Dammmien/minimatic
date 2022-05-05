@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Private Detective",
+    "year": 1939,
+    "cast": [
+      "Jane Wyman",
+      "Dick Foran"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/private-detective.html"
+}

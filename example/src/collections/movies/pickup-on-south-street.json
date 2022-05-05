@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pickup on South Street",
+    "year": 1953,
+    "cast": [
+      "Richard Widmark",
+      "Jean Peters",
+      "Thelma Ritter"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/pickup-on-south-street.html"
+}

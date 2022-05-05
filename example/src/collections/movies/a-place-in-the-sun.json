@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A Place in the Sun",
+    "year": 1951,
+    "cast": [
+      "Elizabeth Taylor",
+      "Montgomery Clift",
+      "Shelley Winters",
+      "Raymond Burr",
+      "Anne Revere"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-place-in-the-sun.html"
+}

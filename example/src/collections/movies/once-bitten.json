@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Once Bitten",
+    "year": 1985,
+    "cast": [
+      "Lauren Hutton",
+      "Jim Carrey",
+      "Cleavon Little"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/once-bitten.html"
+}

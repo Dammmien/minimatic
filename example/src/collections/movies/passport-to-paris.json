@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Passport to Paris",
+    "year": 1999,
+    "cast": [
+      "Mary-Kate Olsen",
+      "Ashley Olsen"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/passport-to-paris.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ready, Willing and Able",
+    "year": 1937,
+    "cast": [
+      "Ruby Keeler",
+      "Wini Shaw",
+      "Carol Hughes"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/ready--willing-and-able.html"
+}

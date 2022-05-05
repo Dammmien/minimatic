@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Her Minor Thing",
+    "year": 2005,
+    "cast": [
+      "Estella Warren",
+      "Christian Kane",
+      "Michael Weatherly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/her-minor-thing.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Son of the Sahara",
+    "year": 1924,
+    "cast": [
+      "Bert Lytell",
+      "Claire Windsor"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/a-son-of-the-sahara.html"
+}

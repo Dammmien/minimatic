@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Harriet Craig",
+    "year": 1950,
+    "cast": [
+      "Joan Crawford",
+      "Wendell Corey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/harriet-craig.html"
+}

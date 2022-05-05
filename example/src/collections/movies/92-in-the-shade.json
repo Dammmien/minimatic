@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "92 in the Shade",
+    "year": 1975,
+    "cast": [
+      "Peter Fonda",
+      "Margot Kidder",
+      "Warren Oates",
+      "Elizabeth Ashley",
+      "Burgess Meredith",
+      "Harry Dean Stanton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/92-in-the-shade.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "year": 2017,
+    "cast": [
+      "Frances McDormand",
+      "Woody Harrelson",
+      "Sam Rockwell",
+      "John Hawkes",
+      "Peter Dinklage"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/three-billboards-outside-ebbing--missouri.html"
+}

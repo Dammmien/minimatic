@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Object of Beauty",
+    "year": 1991,
+    "cast": [
+      "John Malkovich",
+      "Andie MacDowell",
+      "Lolita Davidovich"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-object-of-beauty.html"
+}

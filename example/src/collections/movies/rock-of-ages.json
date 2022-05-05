@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Rock of Ages",
+    "year": 2012,
+    "cast": [
+      "Julianne Hough",
+      "Diego Boneta",
+      "Russell Brand",
+      "Paul Giamatti",
+      "Catherine Zeta-Jones",
+      "Malin Åkerman",
+      "Mary J. Blige",
+      "Alec Baldwin",
+      "Tom Cruise"
+    ],
+    "genres": [
+      "Musical",
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/rock-of-ages.html"
+}

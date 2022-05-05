@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fashion Model",
+    "year": 1945,
+    "cast": [
+      "Robert Lowery",
+      "Marjorie Weaver",
+      "Tim Ryan"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/fashion-model.html"
+}

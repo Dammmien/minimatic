@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rough, Tough and Ready",
+    "year": 1945,
+    "cast": [
+      "Chester Morris",
+      "Victor McLaglen",
+      "Jean Rogers",
+      "Veda Ann Borg"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/rough--tough-and-ready.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Parachute Battalion",
+    "year": 1941,
+    "cast": [
+      "Robert Preston",
+      "Nancy Kelly",
+      "Edmond O'Brien",
+      "Harry Carey",
+      "Buddy Ebsen"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/parachute-battalion.html"
+}

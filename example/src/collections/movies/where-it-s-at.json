@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Where It's At",
+    "year": 1969,
+    "cast": [
+      "David Janssen",
+      "Don Rickles",
+      "Rosemary Forsyth"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/where-it-s-at.html"
+}

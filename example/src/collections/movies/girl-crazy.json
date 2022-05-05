@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Girl Crazy",
+    "year": 1943,
+    "cast": [
+      "Mickey Rooney",
+      "Judy Garland"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/girl-crazy.html"
+}

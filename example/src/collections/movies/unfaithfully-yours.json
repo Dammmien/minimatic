@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Unfaithfully Yours",
+    "year": 1984,
+    "cast": [
+      "Dudley Moore",
+      "Nastassja Kinski",
+      "Armand Assante",
+      "Albert Brooks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/unfaithfully-yours.html"
+}

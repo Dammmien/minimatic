@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Give Us Wings",
+    "year": 1940,
+    "cast": [
+      "Billy Halop",
+      "Huntz Hall",
+      "Gabriel Dell"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/give-us-wings.html"
+}

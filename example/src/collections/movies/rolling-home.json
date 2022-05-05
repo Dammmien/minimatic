@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rolling Home",
+    "year": 1946,
+    "cast": [
+      "Jean Parker",
+      "Pamela Blake"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rolling-home.html"
+}

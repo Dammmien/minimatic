@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sabaka",
+    "year": 1955,
+    "cast": [
+      "Boris Karloff",
+      "Reginald Denny"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/sabaka.html"
+}

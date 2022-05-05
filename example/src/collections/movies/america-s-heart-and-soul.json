@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "America's Heart and Soul",
+    "year": 2004,
+    "cast": [
+      "George Woodard"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/america-s-heart-and-soul.html"
+}

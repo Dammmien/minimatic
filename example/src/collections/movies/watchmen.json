@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Watchmen",
+    "year": 2009,
+    "cast": [
+      "Jeffrey Dean Morgan",
+      "Matthew Goode",
+      "Patrick Wilson",
+      "Malin Åkerman",
+      "Billy Crudup",
+      "Jackie Earl Haley",
+      "Carla Gugino"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/watchmen.html"
+}

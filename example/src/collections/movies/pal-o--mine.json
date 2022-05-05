@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pal o' Mine",
+    "year": 1924,
+    "cast": [
+      "Irene Rich",
+      "Josef Swickard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pal-o--mine.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mayor of 44th Street",
+    "year": 1942,
+    "cast": [
+      "George Murphy",
+      "Anne Shirley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-mayor-of-44th-street.html"
+}

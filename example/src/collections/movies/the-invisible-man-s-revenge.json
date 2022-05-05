@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Invisible Man's Revenge",
+    "year": 1944,
+    "cast": [
+      "Jon Hall",
+      "John Carradine"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-invisible-man-s-revenge.html"
+}

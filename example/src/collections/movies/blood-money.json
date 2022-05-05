@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Blood Money",
+    "year": 2017,
+    "cast": [
+      "John Cusack",
+      "Ellar Coltrane",
+      "Willa Fitzgerald",
+      "Jacob Artist"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/blood-money.html"
+}

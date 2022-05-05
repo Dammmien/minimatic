@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Den",
+    "year": 2001,
+    "cast": [
+      "Greg Arce",
+      "Stephanie Rettig",
+      "Lee Schall",
+      "Dana J. Ryan"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/den.html"
+}

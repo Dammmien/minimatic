@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blind Adventure",
+    "year": 1933,
+    "cast": [
+      "Robert Armstrong",
+      "Helen Mack"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/blind-adventure.html"
+}

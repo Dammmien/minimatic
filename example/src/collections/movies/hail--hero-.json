@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hail, Hero!",
+    "year": 1969,
+    "cast": [
+      "Michael Douglas",
+      "Teresa Wright"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hail--hero-.html"
+}

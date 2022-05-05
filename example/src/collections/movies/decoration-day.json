@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Decoration Day",
+    "year": 1990,
+    "cast": [
+      "James Garner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/decoration-day.html"
+}

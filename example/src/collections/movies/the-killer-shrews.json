@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Killer Shrews",
+    "year": 1959,
+    "cast": [
+      "Ken Curtis",
+      "James Best"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-killer-shrews.html"
+}

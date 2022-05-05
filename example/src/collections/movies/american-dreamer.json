@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "American Dreamer",
+    "year": 1984,
+    "cast": [
+      "Tom Conti",
+      "JoBeth Williams",
+      "Giancarlo Giannini"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/american-dreamer.html"
+}

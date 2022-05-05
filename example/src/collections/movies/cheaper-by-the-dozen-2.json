@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Cheaper by the Dozen 2",
+    "year": 2005,
+    "cast": [
+      "Steve Martin",
+      "Bonnie Hunt",
+      "Hilary Duff",
+      "Tom Welling",
+      "Piper Perabo",
+      "Eugene Levy",
+      "Carmen Electra"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cheaper-by-the-dozen-2.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hawaiian Buckaroo",
+    "year": 1938,
+    "cast": [
+      "Smith Ballew",
+      "Evalyn Knapp"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hawaiian-buckaroo.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Broken Commandments",
+    "year": 1919,
+    "cast": [
+      "Gladys Brockwell",
+      "Tom Santschi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-broken-commandments.html"
+}

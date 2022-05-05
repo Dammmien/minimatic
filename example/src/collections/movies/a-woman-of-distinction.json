@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Woman of Distinction",
+    "year": 1950,
+    "cast": [
+      "Rosalind Russell",
+      "Ray Milland",
+      "Edmund Gwenn"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-woman-of-distinction.html"
+}

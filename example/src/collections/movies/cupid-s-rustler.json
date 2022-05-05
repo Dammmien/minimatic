@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cupid's Rustler",
+    "year": 1924,
+    "cast": [
+      "Edmund Cobb",
+      "Florence Gilbert",
+      "Janet Gaynor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cupid-s-rustler.html"
+}

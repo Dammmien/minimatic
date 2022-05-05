@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Judgment Night",
+    "year": 1993,
+    "cast": [
+      "Emilio Estevez",
+      "Cuba Gooding, Jr.",
+      "Denis Leary",
+      "Jeremy Piven",
+      "Stephen Dorff",
+      "Peter Greene",
+      "Everlast"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/judgment-night.html"
+}

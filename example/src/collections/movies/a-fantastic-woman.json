@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Fantastic Woman",
+    "year": 2018,
+    "cast": [
+      "Daniela Vega",
+      "Francisco Reyes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-fantastic-woman.html"
+}

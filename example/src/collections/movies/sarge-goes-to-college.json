@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sarge Goes to College",
+    "year": 1947,
+    "cast": [
+      "Freddie Stewart",
+      "June Preisser",
+      "Frankie Darro"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sarge-goes-to-college.html"
+}

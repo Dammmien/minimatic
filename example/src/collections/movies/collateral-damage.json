@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Collateral Damage",
+    "year": 2002,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Elias Koteas",
+      "Francesca Neri",
+      "Cliff Curtis",
+      "John Leguizamo",
+      "John Turturro"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/collateral-damage.html"
+}

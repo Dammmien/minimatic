@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Spender",
+    "year": 1919,
+    "cast": [
+      "Bert Lytell",
+      "William V. Mong"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-spender.html"
+}

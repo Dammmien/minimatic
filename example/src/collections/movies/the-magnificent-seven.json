@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Magnificent Seven",
+    "year": 2016,
+    "cast": [
+      "Denzel Washington",
+      "Chris Pratt"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-magnificent-seven.html"
+}

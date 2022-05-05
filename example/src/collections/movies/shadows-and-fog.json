@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Shadows and Fog",
+    "year": 1991,
+    "cast": [
+      "Woody Allen",
+      "John Cusack",
+      "Mia Farrow",
+      "Jodie Foster",
+      "Kathy Bates",
+      "John Malkovich",
+      "Madonna",
+      "Lily Tomlin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/shadows-and-fog.html"
+}

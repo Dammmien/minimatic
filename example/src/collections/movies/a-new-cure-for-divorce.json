@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A New Cure for Divorce",
+    "year": 1912,
+    "cast": [
+      "William Garwood",
+      "Mignon Anderson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-new-cure-for-divorce.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Charlie Chan Carries On",
+    "year": 1931,
+    "cast": [
+      "Warner Oland",
+      "John Garrick"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/charlie-chan-carries-on.html"
+}

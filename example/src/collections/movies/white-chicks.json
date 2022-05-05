@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "White Chicks",
+    "year": 2004,
+    "cast": [
+      "Shawn Wayans",
+      "Marlon Wayans"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/white-chicks.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eat a Bowl of Tea",
+    "year": 1989,
+    "cast": [
+      "Cora Miao",
+      "Russel Wong"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/eat-a-bowl-of-tea.html"
+}

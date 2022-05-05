@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Docks of New Orleans",
+    "year": 1948,
+    "cast": [
+      "Roland Winters",
+      "Virginia Dale"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/docks-of-new-orleans.html"
+}

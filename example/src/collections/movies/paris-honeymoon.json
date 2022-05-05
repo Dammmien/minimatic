@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Paris Honeymoon",
+    "year": 1939,
+    "cast": [
+      "Bing Crosby",
+      "Shirley Ross"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/paris-honeymoon.html"
+}

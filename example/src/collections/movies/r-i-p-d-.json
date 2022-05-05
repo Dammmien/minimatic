@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "R.I.P.D.",
+    "year": 2013,
+    "cast": [
+      "Jeff Bridges",
+      "Ryan Reynolds",
+      "Kevin Bacon",
+      "Mary-Louise Parker",
+      "Stephanie Szostak"
+    ],
+    "genres": [
+      "Supernatural"
+    ]
+  },
+  "output": "movies/r-i-p-d-.html"
+}

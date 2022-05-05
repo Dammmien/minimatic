@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild Oats Lane",
+    "year": 1926,
+    "cast": [
+      "Viola Dana",
+      "Robert Agnew"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wild-oats-lane.html"
+}

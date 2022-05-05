@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Some Girls",
+    "year": 1988,
+    "cast": [
+      "Patrick Dempsey",
+      "Jennifer Connelly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/some-girls.html"
+}

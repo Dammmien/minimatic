@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Beyond Tomorrow",
+    "year": 1940,
+    "cast": [
+      "Jean Parker",
+      "Harry Carey",
+      "C. Aubrey Smith",
+      "Charles Winninger",
+      "Richard Carlson"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/beyond-tomorrow.html"
+}

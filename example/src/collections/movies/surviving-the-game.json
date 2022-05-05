@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Surviving the Game",
+    "year": 1994,
+    "cast": [
+      "Ice-T",
+      "Rutger Hauer",
+      "Gary Busey",
+      "Charles S. Dutton",
+      "F. Murray Abraham",
+      "John C. McGinley",
+      "William McNamara"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/surviving-the-game.html"
+}

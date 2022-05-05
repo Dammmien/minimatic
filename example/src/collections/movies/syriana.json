@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Syriana",
+    "year": 2005,
+    "cast": [
+      "George Clooney",
+      "Matt Damon",
+      "Jeffrey Wright"
+    ],
+    "genres": [
+      "Political",
+      "Thriller"
+    ]
+  },
+  "output": "movies/syriana.html"
+}

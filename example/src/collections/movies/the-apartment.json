@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Apartment",
+    "year": 1960,
+    "cast": [
+      "Jack Lemmon",
+      "Shirley MacLaine",
+      "Fred MacMurray",
+      "Ray Walston",
+      "Jack Kruschen",
+      "Edie Adams"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-apartment.html"
+}

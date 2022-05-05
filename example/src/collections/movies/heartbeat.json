@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Heartbeat",
+    "year": 1946,
+    "cast": [
+      "Ginger Rogers",
+      "Jean-Pierre Aumont"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/heartbeat.html"
+}

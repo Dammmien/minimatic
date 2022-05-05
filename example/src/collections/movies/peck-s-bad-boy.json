@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Peck's Bad Boy",
+    "year": 1934,
+    "cast": [
+      "Jackie Cooper",
+      "Thomas Meighan",
+      "Dorothy Peterson"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/peck-s-bad-boy.html"
+}

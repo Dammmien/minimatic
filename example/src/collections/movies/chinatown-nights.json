@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chinatown Nights",
+    "year": 1929,
+    "cast": [
+      "Wallace Beery",
+      "Florence Vidor",
+      "Warner Oland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/chinatown-nights.html"
+}

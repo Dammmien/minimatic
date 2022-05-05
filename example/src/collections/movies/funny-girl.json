@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Funny Girl",
+    "year": 1968,
+    "cast": [
+      "Barbra Streisand",
+      "Omar Sharif",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/funny-girl.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rafter Romance",
+    "year": 1933,
+    "cast": [
+      "Ginger Rogers",
+      "Norman Foster",
+      "George Sidney"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/rafter-romance.html"
+}

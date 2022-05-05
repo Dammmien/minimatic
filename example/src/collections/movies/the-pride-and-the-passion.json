@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pride and the Passion",
+    "year": 1957,
+    "cast": [
+      "Cary Grant",
+      "Frank Sinatra",
+      "Sophia Loren"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-pride-and-the-passion.html"
+}

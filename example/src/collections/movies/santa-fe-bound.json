@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Santa Fe Bound",
+    "year": 1936,
+    "cast": [
+      "Tom Tyler",
+      "Richard Cramer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/santa-fe-bound.html"
+}

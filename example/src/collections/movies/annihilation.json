@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Annihilation",
+    "year": 2018,
+    "cast": [
+      "Natalie Portman",
+      "Jennifer Jason Leigh",
+      "Gina Rodriguez",
+      "Tessa Thompson",
+      "Tuva Novotny",
+      "Oscar Isaac"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Fantasy",
+      "Action",
+      "Horror"
+    ]
+  },
+  "output": "movies/annihilation.html"
+}

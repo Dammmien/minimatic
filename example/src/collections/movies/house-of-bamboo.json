@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "House of Bamboo",
+    "year": 1955,
+    "cast": [
+      "Robert Ryan",
+      "Robert Stack"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/house-of-bamboo.html"
+}

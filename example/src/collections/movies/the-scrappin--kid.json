@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Scrappin' Kid",
+    "year": 1926,
+    "cast": [
+      "Art Acord",
+      "Edmund Cobb"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-scrappin--kid.html"
+}

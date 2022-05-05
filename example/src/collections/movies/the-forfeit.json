@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Forfeit",
+    "year": 1919,
+    "cast": [
+      "House Peters",
+      "Hector V. Sarno"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-forfeit.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Naked Man",
+    "year": 1998,
+    "cast": [
+      "Michael Rapaport",
+      "Michael Jeter",
+      "Rachael Leigh Cook",
+      "Arija Bareikis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-naked-man.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wizard of Speed and Time",
+    "year": 1989,
+    "cast": [
+      "Mike Jittlov",
+      "Paige Moore"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-wizard-of-speed-and-time.html"
+}

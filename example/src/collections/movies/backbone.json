@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Backbone",
+    "year": 1923,
+    "cast": [
+      "Edith Roberts",
+      "Alfred Lunt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/backbone.html"
+}

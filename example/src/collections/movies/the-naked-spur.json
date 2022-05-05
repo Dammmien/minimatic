@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Naked Spur",
+    "year": 1953,
+    "cast": [
+      "James Stewart",
+      "Janet Leigh",
+      "Robert Ryan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-naked-spur.html"
+}

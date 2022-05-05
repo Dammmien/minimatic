@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tammy and the Bachelor",
+    "year": 1957,
+    "cast": [
+      "Debbie Reynolds",
+      "Walter Brennan",
+      "Leslie Nielsen"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/tammy-and-the-bachelor.html"
+}

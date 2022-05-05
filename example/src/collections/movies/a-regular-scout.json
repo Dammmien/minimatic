@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Regular Scout",
+    "year": 1926,
+    "cast": [
+      "Fred Thomson",
+      "Olive Hasbrouck"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-regular-scout.html"
+}

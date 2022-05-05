@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fun Down There",
+    "year": 1988,
+    "cast": [
+      "Michael Waite",
+      "Yvonne Fisher"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fun-down-there.html"
+}

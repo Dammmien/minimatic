@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dixiana",
+    "year": 1930,
+    "cast": [
+      "Bebe Daniels",
+      "Bert Wheeler"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/dixiana.html"
+}

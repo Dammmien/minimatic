@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Prescott Kid",
+    "year": 1934,
+    "cast": [
+      "Tim McCoy",
+      "Sheila Mannors"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-prescott-kid.html"
+}

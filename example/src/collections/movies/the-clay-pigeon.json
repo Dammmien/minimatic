@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Clay Pigeon",
+    "year": 1949,
+    "cast": [
+      "Barbara Hale",
+      "Bill Williams"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-clay-pigeon.html"
+}

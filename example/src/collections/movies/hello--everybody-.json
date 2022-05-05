@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hello, Everybody!",
+    "year": 1933,
+    "cast": [
+      "Kate Smith",
+      "Randolph Scott"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hello--everybody-.html"
+}

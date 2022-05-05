@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Angel's Dance",
+    "year": 1999,
+    "cast": [
+      "James Belushi",
+      "Sheryl Lee",
+      "Kyle Chandler"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/angel-s-dance.html"
+}

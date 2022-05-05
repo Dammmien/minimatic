@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "52nd Street",
+    "year": 1937,
+    "cast": [
+      "Dorothy Peterson",
+      "Kenny Baker",
+      "ZaSu Pitts"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/52nd-street.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Humpday",
+    "year": 2009,
+    "cast": [
+      "Mark Duplass",
+      "Joshua Leonard",
+      "Alycia Delmore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/humpday.html"
+}

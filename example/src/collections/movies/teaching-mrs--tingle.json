@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Teaching Mrs. Tingle",
+    "year": 1999,
+    "cast": [
+      "Helen Mirren",
+      "Katie Holmes",
+      "Barry Watson",
+      "Marisa Coughlan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/teaching-mrs--tingle.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Happy Land",
+    "year": 1943,
+    "cast": [
+      "Don Ameche",
+      "Frances Dee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/happy-land.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Ambassador",
+    "year": 1984,
+    "cast": [
+      "Robert Mitchum",
+      "Ellen Burstyn",
+      "Donald Pleasence",
+      "Rock Hudson"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-ambassador.html"
+}

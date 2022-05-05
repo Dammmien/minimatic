@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hard, Fast and Beautiful",
+    "year": 1951,
+    "cast": [
+      "Claire Trevor",
+      "Sally Forrest"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/hard--fast-and-beautiful.html"
+}

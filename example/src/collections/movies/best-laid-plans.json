@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Best Laid Plans",
+    "year": 1999,
+    "cast": [
+      "Reese Witherspoon",
+      "Alessandro Nivola",
+      "Josh Brolin"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/best-laid-plans.html"
+}

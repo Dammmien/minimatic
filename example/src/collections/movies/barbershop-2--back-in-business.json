@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Barbershop 2: Back in Business",
+    "year": 2004,
+    "cast": [
+      "Ice Cube",
+      "Cedric the Entertainer",
+      "Queen Latifah"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/barbershop-2--back-in-business.html"
+}

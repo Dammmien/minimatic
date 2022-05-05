@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "U-571",
+    "year": 2000,
+    "cast": [
+      "Matthew McConaughey",
+      "Harvey Keitel",
+      "Jon Bon Jovi"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/u-571.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tropical Nights",
+    "year": 1928,
+    "cast": [
+      "Patsy Ruth Miller",
+      "Malcolm McGregor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tropical-nights.html"
+}

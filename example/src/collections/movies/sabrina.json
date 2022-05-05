@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Sabrina",
+    "year": 1995,
+    "cast": [
+      "Harrison Ford",
+      "Julia Ormond",
+      "Greg Kinnear",
+      "Nancy Marchand",
+      "Lauren Holly",
+      "John Wood",
+      "Richard Crenna",
+      "Angie Dickinson"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/sabrina.html"
+}

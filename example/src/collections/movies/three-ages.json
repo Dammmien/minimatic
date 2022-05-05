@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Ages",
+    "year": 1923,
+    "cast": [
+      "Buster Keaton",
+      "Margaret Leahy",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-ages.html"
+}

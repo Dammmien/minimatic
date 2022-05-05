@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Unsupersize Me",
+    "year": 2013,
+    "cast": [
+      "Centers around healthy eating and exercise."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/unsupersize-me.html"
+}

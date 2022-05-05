@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hasty Heart",
+    "year": 1949,
+    "cast": [
+      "Ronald Reagan",
+      "Patricia Neal",
+      "Richard Todd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hasty-heart.html"
+}

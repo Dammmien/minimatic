@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Star Maker",
+    "year": 1939,
+    "cast": [
+      "Bing Crosby",
+      "Louise Campbell"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-star-maker.html"
+}

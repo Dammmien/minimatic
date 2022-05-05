@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Girl from Jones Beach",
+    "year": 1949,
+    "cast": [
+      "Ronald Reagan",
+      "Virginia Mayo",
+      "Eddie Bracken"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-girl-from-jones-beach.html"
+}

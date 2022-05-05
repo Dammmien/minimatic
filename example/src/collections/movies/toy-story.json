@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Toy Story",
+    "year": 1995,
+    "cast": [
+      "Tim Allen",
+      "Tom Hanks",
+      "(voices)"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/toy-story.html"
+}

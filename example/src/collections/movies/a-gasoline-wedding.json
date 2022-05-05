@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Gasoline Wedding",
+    "year": 1918,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-gasoline-wedding.html"
+}

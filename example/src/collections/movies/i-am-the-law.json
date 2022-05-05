@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "I Am the Law",
+    "year": 1938,
+    "cast": [
+      "Edward G. Robinson",
+      "Otto Kruger",
+      "Barbara O'Neil"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/i-am-the-law.html"
+}

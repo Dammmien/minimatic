@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Contraband",
+    "year": 2012,
+    "cast": [
+      "Mark Wahlberg",
+      "Kate Beckinsale",
+      "Ben Foster",
+      "Giovanni Ribisi",
+      "Caleb Landry Jones",
+      "Lukas Haas",
+      "Diego Luna",
+      "J. K. Simmons"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/contraband.html"
+}

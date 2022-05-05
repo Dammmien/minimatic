@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "China Moon",
+    "year": 1994,
+    "cast": [
+      "Ed Harris",
+      "Madeleine Stowe",
+      "Benicio del Toro",
+      "Charles Dance"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/china-moon.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Some Kind of Monster",
+    "year": 2004,
+    "cast": [
+      "the band",
+      "Metallica"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/some-kind-of-monster.html"
+}

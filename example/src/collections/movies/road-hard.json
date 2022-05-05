@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Road Hard",
+    "year": 2015,
+    "cast": [
+      "Adam Carolla",
+      "David Koechner",
+      "Diane Farr",
+      "Jay Mohr",
+      "David Alan Grier"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/road-hard.html"
+}

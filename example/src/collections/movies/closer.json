@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Closer",
+    "year": 2004,
+    "cast": [
+      "Julia Roberts",
+      "Jude Law",
+      "Natalie Portman",
+      "Clive Owen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/closer.html"
+}

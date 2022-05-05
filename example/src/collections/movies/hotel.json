@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Hotel",
+    "year": 1967,
+    "cast": [
+      "Rod Taylor",
+      "Karl Malden",
+      "Merle Oberon",
+      "Melvyn Douglas",
+      "Michael Rennie",
+      "Catherine Spaak",
+      "Richard Conte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hotel.html"
+}

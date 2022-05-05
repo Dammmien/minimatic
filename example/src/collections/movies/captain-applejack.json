@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Captain Applejack",
+    "year": 1931,
+    "cast": [
+      "Mary Brian",
+      "Kay Strozzi",
+      "John Halliday"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/captain-applejack.html"
+}

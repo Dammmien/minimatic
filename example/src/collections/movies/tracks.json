@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tracks",
+    "year": 1976,
+    "cast": [
+      "Dennis Hopper",
+      "Dean Stockwell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tracks.html"
+}

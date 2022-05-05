@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "What Women Want",
+    "year": 2000,
+    "cast": [
+      "Mel Gibson",
+      "Helen Hunt",
+      "Marisa Tomei",
+      "Alan Alda"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/what-women-want.html"
+}

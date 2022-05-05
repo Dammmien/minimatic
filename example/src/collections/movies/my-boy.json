@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Boy",
+    "year": 1921,
+    "cast": [
+      "Jackie Coogan",
+      "Mathilde Brundage"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-boy.html"
+}

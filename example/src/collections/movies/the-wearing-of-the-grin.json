@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Wearing of the Grin",
+    "year": 1951,
+    "cast": [
+      "Porky Pig"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-wearing-of-the-grin.html"
+}

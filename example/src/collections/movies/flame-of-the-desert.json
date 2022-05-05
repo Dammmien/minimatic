@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flame of the Desert",
+    "year": 1919,
+    "cast": [
+      "Geraldine Farrar",
+      "Lou Tellegen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flame-of-the-desert.html"
+}

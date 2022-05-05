@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Beowulf",
+    "year": 2007,
+    "cast": [
+      "Ray Winstone",
+      "Anthony Hopkins",
+      "John Malkovich",
+      "Robin Wright Penn",
+      "Angelina Jolie"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/beowulf.html"
+}

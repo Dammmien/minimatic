@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dave",
+    "year": 1993,
+    "cast": [
+      "Kevin Kline",
+      "Sigourney Weaver",
+      "Frank Langella",
+      "Ving Rhames",
+      "Ben Kingsley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dave.html"
+}

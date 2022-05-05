@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dumb and Dumberer: When Harry Met Lloyd",
+    "year": 2003,
+    "cast": [
+      "Derek Richardson",
+      "Eric Christian Olsen",
+      "Eugene Levy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dumb-and-dumberer--when-harry-met-lloyd.html"
+}

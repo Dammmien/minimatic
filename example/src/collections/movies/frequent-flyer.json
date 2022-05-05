@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Frequent Flyer",
+    "year": 1996,
+    "cast": [
+      "Jack Wagner",
+      "Joan Severance"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/frequent-flyer.html"
+}

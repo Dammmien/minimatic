@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big House",
+    "year": 1930,
+    "cast": [
+      "Wallace Beery",
+      "Robert Montgomery",
+      "Lewis Stone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-big-house.html"
+}

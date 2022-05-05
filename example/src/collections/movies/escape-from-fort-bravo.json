@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Escape from Fort Bravo",
+    "year": 1953,
+    "cast": [
+      "William Holden",
+      "Eleanor Parker",
+      "John Forsythe"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/escape-from-fort-bravo.html"
+}

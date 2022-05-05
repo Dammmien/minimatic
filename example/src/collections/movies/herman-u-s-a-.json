@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Herman U.S.A.",
+    "year": 2001,
+    "cast": [
+      "Michael O'Keefe",
+      "Kevin Chamberlin"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/herman-u-s-a-.html"
+}

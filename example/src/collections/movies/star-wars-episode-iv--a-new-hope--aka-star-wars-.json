@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Star Wars Episode IV: A New Hope (aka Star Wars)",
+    "year": 1977,
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Alec Guinness"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/star-wars-episode-iv--a-new-hope--aka-star-wars-.html"
+}

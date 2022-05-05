@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dear Diary",
+    "year": 1996,
+    "cast": [
+      "Bebe Neuwirth",
+      "Bruce Altman"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/dear-diary.html"
+}

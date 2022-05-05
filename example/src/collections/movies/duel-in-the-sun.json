@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Duel in the Sun",
+    "year": 1946,
+    "cast": [
+      "Gregory Peck",
+      "Joseph Cotten",
+      "Jennifer Jones",
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/duel-in-the-sun.html"
+}

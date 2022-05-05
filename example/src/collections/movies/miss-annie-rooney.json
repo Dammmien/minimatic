@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Miss Annie Rooney",
+    "year": 1942,
+    "cast": [
+      "Shirley Temple",
+      "Dickie Moore",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/miss-annie-rooney.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hateship, Loveship",
+    "year": 2013,
+    "cast": [
+      "Kristen Wiig",
+      "Hailee Steinfeld",
+      "Guy Pearce",
+      "Nick Nolte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hateship--loveship.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Devil's Circus",
+    "year": 1926,
+    "cast": [
+      "Norma Shearer",
+      "Charles Emmett Mack",
+      "Carmel Myers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-devil-s-circus.html"
+}

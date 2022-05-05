@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Baby Geniuses",
+    "year": 1999,
+    "cast": [
+      "Kathleen Turner",
+      "Christopher Lloyd",
+      "Peter MacNicol",
+      "Kim Cattrall",
+      "Ruby Dee",
+      "Dom DeLuise"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/baby-geniuses.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "King of New York",
+    "year": 1990,
+    "cast": [
+      "Christopher Walken",
+      "Wesley Snipes",
+      "Laurence Fishburne",
+      "Victor Argo",
+      "David Caruso"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/king-of-new-york.html"
+}

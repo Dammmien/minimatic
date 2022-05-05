@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Coach Carter",
+    "year": 2005,
+    "cast": [
+      "Samuel L. Jackson",
+      "Rob Brown",
+      "Ashanti",
+      "Channing Tatum"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/coach-carter.html"
+}

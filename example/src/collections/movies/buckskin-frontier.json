@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Buckskin Frontier",
+    "year": 1943,
+    "cast": [
+      "Richard Dix",
+      "Jane Wyatt",
+      "Lee J. Cobb"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/buckskin-frontier.html"
+}

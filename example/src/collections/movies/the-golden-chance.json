@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Golden Chance",
+    "year": 1915,
+    "cast": [
+      "Cleo Ridgely",
+      "Wallace Reid"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-golden-chance.html"
+}

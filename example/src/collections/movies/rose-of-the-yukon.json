@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rose of the Yukon",
+    "year": 1949,
+    "cast": [
+      "Myrna Dell",
+      "Steve Brodie"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rose-of-the-yukon.html"
+}

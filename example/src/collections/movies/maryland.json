@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Maryland",
+    "year": 1940,
+    "cast": [
+      "Walter Brennan",
+      "Fay Bainter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/maryland.html"
+}

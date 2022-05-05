@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Star Trek Beyond",
+    "year": 2016,
+    "cast": [
+      "Chris Pine",
+      "Zachary Quinto",
+      "Idris Elba"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/star-trek-beyond.html"
+}

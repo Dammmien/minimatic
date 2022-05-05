@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A Dog's Purpose",
+    "year": 2017,
+    "cast": [
+      "Britt Robertson",
+      "Dennis Quaid",
+      "Josh Gad",
+      "Peggy Lipton",
+      "Juliet Rylance"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/a-dog-s-purpose.html"
+}

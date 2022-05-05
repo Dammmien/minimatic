@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mississippi Gambler",
+    "year": 1953,
+    "cast": [
+      "Tyrone Power",
+      "Piper Laurie",
+      "Julie Adams"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-mississippi-gambler.html"
+}

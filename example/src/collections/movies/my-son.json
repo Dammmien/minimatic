@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Son",
+    "year": 1925,
+    "cast": [
+      "Alla Nazimova",
+      "Jack Pickford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-son.html"
+}

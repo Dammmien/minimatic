@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cyclone Cavalier",
+    "year": 1925,
+    "cast": [
+      "Reed Howes",
+      "Carmelita Geraghty"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cyclone-cavalier.html"
+}

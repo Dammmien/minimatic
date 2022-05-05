@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Law of the Sea",
+    "year": 1932,
+    "cast": [
+      "William Farnum",
+      "Priscilla Dean",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/law-of-the-sea.html"
+}

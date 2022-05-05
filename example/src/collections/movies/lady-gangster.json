@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady Gangster",
+    "year": 1942,
+    "cast": [
+      "Faye Emerson",
+      "Julie Bishop"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/lady-gangster.html"
+}

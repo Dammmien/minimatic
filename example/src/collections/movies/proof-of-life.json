@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Proof of Life",
+    "year": 2000,
+    "cast": [
+      "Russell Crowe",
+      "Meg Ryan",
+      "David Morse"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/proof-of-life.html"
+}

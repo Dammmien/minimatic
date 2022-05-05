@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "West Side Story",
+    "year": 1961,
+    "cast": [
+      "Richard Beymer",
+      "Natalie Wood",
+      "Rita Moreno",
+      "Russ Tamblyn",
+      "George Chakiris",
+      "Simon Oakland"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/west-side-story.html"
+}

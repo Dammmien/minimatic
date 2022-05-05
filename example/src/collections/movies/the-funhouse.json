@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Funhouse",
+    "year": 1981,
+    "cast": [
+      "Elizabeth Berridge",
+      "Jack McDermott"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-funhouse.html"
+}

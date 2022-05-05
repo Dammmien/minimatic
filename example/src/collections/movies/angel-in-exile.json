@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Angel in Exile",
+    "year": 1948,
+    "cast": [
+      "John Carroll",
+      "Adele Mara"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/angel-in-exile.html"
+}

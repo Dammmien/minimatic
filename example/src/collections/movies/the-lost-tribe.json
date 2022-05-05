@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lost Tribe",
+    "year": 1949,
+    "cast": [
+      "Johnny Weissmuller",
+      "Elena Verdugo"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-lost-tribe.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "West Point",
+    "year": 1928,
+    "cast": [
+      "William Haines",
+      "Joan Crawford"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/west-point.html"
+}

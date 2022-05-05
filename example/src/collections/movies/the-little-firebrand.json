@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Little Firebrand",
+    "year": 1926,
+    "cast": [
+      "George Fawcett",
+      "Lou Tellegen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-little-firebrand.html"
+}

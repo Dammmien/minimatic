@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Smoke",
+    "year": 1995,
+    "cast": [
+      "Harvey Keitel",
+      "William Hurt",
+      "Stockard Channing",
+      "Forest Whitaker",
+      "Ashley Judd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/smoke.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wrestling Ernest Hemingway",
+    "year": 1993,
+    "cast": [
+      "Robert Duvall",
+      "Richard Harris",
+      "Shirley MacLaine",
+      "Sandra Bullock"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wrestling-ernest-hemingway.html"
+}

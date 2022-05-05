@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cracked Nuts",
+    "year": 1931,
+    "cast": [
+      "Bert Wheeler",
+      "Dorothy Lee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cracked-nuts.html"
+}

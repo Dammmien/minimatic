@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Silence",
+    "year": 2018,
+    "cast": [
+      "Miranda Otto",
+      "Stanley Tucci",
+      "John Corbett"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-silence.html"
+}

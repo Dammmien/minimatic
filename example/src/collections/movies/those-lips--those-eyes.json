@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Those Lips, Those Eyes",
+    "year": 1980,
+    "cast": [
+      "Frank Langella",
+      "Glynnis O'Connor",
+      "Tom Hulce"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/those-lips--those-eyes.html"
+}

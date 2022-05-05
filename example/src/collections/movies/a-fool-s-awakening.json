@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Fool's Awakening",
+    "year": 1924,
+    "cast": [
+      "Mary Alden",
+      "Lionel Belmore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-fool-s-awakening.html"
+}

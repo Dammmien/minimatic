@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "3 Godfathers",
+    "year": 1948,
+    "cast": [
+      "John Wayne",
+      "Harry Carey Jr.",
+      "Pedro Armendáriz",
+      "Mae Marsh"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/3-godfathers.html"
+}

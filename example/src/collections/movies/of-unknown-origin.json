@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Of Unknown Origin",
+    "year": 1983,
+    "cast": [
+      "Peter Weller",
+      "Jennifer Dale"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/of-unknown-origin.html"
+}

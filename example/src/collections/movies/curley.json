@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Curley",
+    "year": 1947,
+    "cast": [
+      "Frances Rafferty",
+      "Billy Gray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/curley.html"
+}

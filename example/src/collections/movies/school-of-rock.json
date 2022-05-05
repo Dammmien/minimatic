@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "School of Rock",
+    "year": 2003,
+    "cast": [
+      "Jack Black",
+      "Joan Cusack",
+      "Mike White",
+      "Sarah Silverman"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/school-of-rock.html"
+}

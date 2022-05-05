@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cape Canaveral Monsters",
+    "year": 1960,
+    "cast": [
+      "Scott Peters",
+      "Jason Johnson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-cape-canaveral-monsters.html"
+}

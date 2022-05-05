@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wolf's Clothing",
+    "year": 1927,
+    "cast": [
+      "Monte Blue",
+      "Patsy Ruth Miller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wolf-s-clothing.html"
+}

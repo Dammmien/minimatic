@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cause for Alarm!",
+    "year": 1951,
+    "cast": [
+      "Loretta Young",
+      "Bruce Cowling"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/cause-for-alarm-.html"
+}

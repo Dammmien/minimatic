@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Oklahoma Justice",
+    "year": 1951,
+    "cast": [
+      "Johnny Mack Brown",
+      "Phyllis Coates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/oklahoma-justice.html"
+}

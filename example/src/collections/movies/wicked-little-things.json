@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wicked Little Things",
+    "year": 2006,
+    "cast": [
+      "Lori Heuring",
+      "Scout Taylor-Compton",
+      "Chloë Grace Moretz"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/wicked-little-things.html"
+}

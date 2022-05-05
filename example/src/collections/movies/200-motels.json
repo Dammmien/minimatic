@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "200 Motels",
+    "year": 1971,
+    "cast": [
+      "Frank Zappa",
+      "Ringo Starr",
+      "Theodore Bikel"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/200-motels.html"
+}

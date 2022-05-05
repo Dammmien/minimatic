@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Grail",
+    "year": 1923,
+    "cast": [
+      "Dustin Farnum",
+      "Peggy Shaw"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-grail.html"
+}

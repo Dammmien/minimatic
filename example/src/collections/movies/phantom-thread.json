@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Phantom Thread",
+    "year": 2017,
+    "cast": [
+      "Daniel Day-Lewis",
+      "Lesley Manville",
+      "Richard Graham",
+      "Vicky Krieps"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/phantom-thread.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Madigan's Millions",
+    "year": 1968,
+    "cast": [
+      "Dustin Hoffman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/madigan-s-millions.html"
+}

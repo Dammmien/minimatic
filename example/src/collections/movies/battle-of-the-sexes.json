@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Battle of the Sexes",
+    "year": 2017,
+    "cast": [
+      "Emma Stone",
+      "Steve Carell",
+      "Andrea Riseborough",
+      "Elisabeth Shue",
+      "Austin Stowell",
+      "Sarah Silverman",
+      "Alan Cumming"
+    ],
+    "genres": [
+      "Biography",
+      "Sports",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/battle-of-the-sexes.html"
+}

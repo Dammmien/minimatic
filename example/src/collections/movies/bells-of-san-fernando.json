@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bells of San Fernando",
+    "year": 1947,
+    "cast": [
+      "Gloria Warren",
+      "Donald Woods"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bells-of-san-fernando.html"
+}

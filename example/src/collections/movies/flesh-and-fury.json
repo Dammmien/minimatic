@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flesh and Fury",
+    "year": 1952,
+    "cast": [
+      "Tony Curtis",
+      "Jan Sterling",
+      "Mona Freeman"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/flesh-and-fury.html"
+}

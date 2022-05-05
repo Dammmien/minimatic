@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Sweet Hearts Dance",
+    "year": 1988,
+    "cast": [
+      "Don Johnson",
+      "Susan Sarandon",
+      "Jeff Daniels",
+      "Elizabeth Perkins"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/sweet-hearts-dance.html"
+}

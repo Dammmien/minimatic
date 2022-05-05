@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Last Man Standing",
+    "year": 1996,
+    "cast": [
+      "Bruce Willis",
+      "Christopher Walken",
+      "Bruce Dern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/last-man-standing.html"
+}

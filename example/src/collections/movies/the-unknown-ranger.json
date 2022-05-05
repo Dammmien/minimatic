@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Unknown Ranger",
+    "year": 1936,
+    "cast": [
+      "Walter Miller",
+      "Bud Osborne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-unknown-ranger.html"
+}

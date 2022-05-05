@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Go West, Young Lady",
+    "year": 1941,
+    "cast": [
+      "Ann Miller",
+      "Glenn Ford"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/go-west--young-lady.html"
+}

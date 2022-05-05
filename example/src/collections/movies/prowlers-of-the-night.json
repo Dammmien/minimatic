@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prowlers of the Night",
+    "year": 1926,
+    "cast": [
+      "Fred Humes",
+      "Barbara Kent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/prowlers-of-the-night.html"
+}

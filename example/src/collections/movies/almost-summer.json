@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Almost Summer",
+    "year": 1978,
+    "cast": [
+      "Bruno Kirby",
+      "Lee Purcell",
+      "Didi Conn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/almost-summer.html"
+}

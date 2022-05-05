@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sure Thing",
+    "year": 1985,
+    "cast": [
+      "John Cusack",
+      "Daphne Zuniga",
+      "Nicollette Sheridan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-sure-thing.html"
+}

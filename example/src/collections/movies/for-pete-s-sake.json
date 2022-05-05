@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "For Pete's Sake",
+    "year": 1974,
+    "cast": [
+      "Barbra Streisand",
+      "Michael Sarrazin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/for-pete-s-sake.html"
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "Hugo",
+    "year": 2011,
+    "cast": [
+      "Ben Kingsley",
+      "Sacha Baron Cohen",
+      "Asa Butterfield",
+      "Chloë Grace Moretz",
+      "Ray Winstone",
+      "Emily Mortimer",
+      "and",
+      "Jude Law",
+      "Christopher Lee",
+      "Helen McCrory",
+      "Michael Stuhlbarg",
+      "Marco Aponte",
+      "Frances de la Tour",
+      "Richard Griffiths",
+      "Johnny Depp"
+    ],
+    "genres": [
+      "Adventure",
+      "Drama"
+    ]
+  },
+  "output": "movies/hugo.html"
+}

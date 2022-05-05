@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Crosby Case",
+    "year": 1934,
+    "cast": [
+      "Wynne Gibson",
+      "Onslow Stevens"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-crosby-case.html"
+}

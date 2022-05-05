@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "From Dusk Till Dawn",
+    "year": 1996,
+    "cast": [
+      "George Clooney",
+      "Quentin Tarantino",
+      "Harvey Keitel",
+      "Juliette Lewis",
+      "Salma Hayek",
+      "Fred Williamson",
+      "Cheech Marin"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/from-dusk-till-dawn.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Who's Harry Crumb?",
+    "year": 1989,
+    "cast": [
+      "John Candy",
+      "Annie Potts",
+      "Shawnee Smith"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/who-s-harry-crumb-.html"
+}

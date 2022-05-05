@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Joan of Ozark",
+    "year": 1942,
+    "cast": [
+      "Judy Canova",
+      "Joe E. Brown"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/joan-of-ozark.html"
+}

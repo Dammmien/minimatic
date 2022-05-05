@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Alice in Wonderland",
+    "year": 2010,
+    "cast": [
+      "Johnny Depp",
+      "Anne Hathaway",
+      "Helena Bonham Carter",
+      "Mia Wasikowska",
+      "Alan Rickman",
+      "Crispin Glover",
+      "Stephen Fry",
+      "Michael Sheen",
+      "Christopher Lee"
+    ],
+    "genres": [
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/alice-in-wonderland.html"
+}

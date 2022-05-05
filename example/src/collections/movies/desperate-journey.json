@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Desperate Journey",
+    "year": 1942,
+    "cast": [
+      "Errol Flynn",
+      "Ronald Reagan"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/desperate-journey.html"
+}

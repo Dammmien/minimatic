@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trouble in Morocco",
+    "year": 1937,
+    "cast": [
+      "Jack Holt",
+      "Mae Clarke"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/trouble-in-morocco.html"
+}

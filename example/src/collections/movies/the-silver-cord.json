@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Silver Cord",
+    "year": 1933,
+    "cast": [
+      "Irene Dunne",
+      "Joel McCrea"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-silver-cord.html"
+}

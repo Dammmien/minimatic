@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Edge of Doom",
+    "year": 1950,
+    "cast": [
+      "Dana Andrews",
+      "Farley Granger",
+      "Joan Evans"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/edge-of-doom.html"
+}

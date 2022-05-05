@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ladies Must Love",
+    "year": 1933,
+    "cast": [
+      "June Knight",
+      "Neil Hamilton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ladies-must-love.html"
+}

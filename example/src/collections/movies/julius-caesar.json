@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Julius Caesar",
+    "year": 1953,
+    "cast": [
+      "Marlon Brando",
+      "James Mason",
+      "John Gielgud",
+      "Greer Garson",
+      "Deborah Kerr",
+      "Louis Calhern",
+      "Edmond O'Brien"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/julius-caesar.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beckoning Roads",
+    "year": 1919,
+    "cast": [
+      "Bessie Barriscale",
+      "Niles Welch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beckoning-roads.html"
+}

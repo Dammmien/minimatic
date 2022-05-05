@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Mucho Mouse",
+    "year": 1956,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/mucho-mouse.html"
+}

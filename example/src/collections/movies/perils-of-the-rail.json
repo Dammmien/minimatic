@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Perils of the Rail",
+    "year": 1925,
+    "cast": [
+      "Helen Holmes",
+      "Edward Hearn",
+      "Wilfrid North"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/perils-of-the-rail.html"
+}

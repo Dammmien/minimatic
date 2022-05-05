@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bridges of Madison County",
+    "year": 1995,
+    "cast": [
+      "Clint Eastwood",
+      "Meryl Streep"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bridges-of-madison-county.html"
+}

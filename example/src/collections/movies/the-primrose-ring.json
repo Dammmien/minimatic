@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Primrose Ring",
+    "year": 1917,
+    "cast": [
+      "Mae Murray",
+      "Tom Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-primrose-ring.html"
+}

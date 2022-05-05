@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gay Caballero",
+    "year": 1932,
+    "cast": [
+      "George O'Brien",
+      "Victor McLaglen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-gay-caballero.html"
+}

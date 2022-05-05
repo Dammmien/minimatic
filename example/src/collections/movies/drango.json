@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Drango",
+    "year": 1957,
+    "cast": [
+      "Jeff Chandler",
+      "Joanne Dru",
+      "Julie London",
+      "Donald Crisp"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/drango.html"
+}

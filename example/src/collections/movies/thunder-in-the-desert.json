@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thunder in the Desert",
+    "year": 1938,
+    "cast": [
+      "Bob Steele",
+      "Louise Stanley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/thunder-in-the-desert.html"
+}

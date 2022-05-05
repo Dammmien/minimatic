@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dirty Dancing",
+    "year": 1987,
+    "cast": [
+      "Patrick Swayze",
+      "Jennifer Grey",
+      "Jerry Orbach",
+      "Cynthia Rhodes",
+      "Jack Weston"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/dirty-dancing.html"
+}

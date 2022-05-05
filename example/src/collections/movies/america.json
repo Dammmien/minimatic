@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "America",
+    "year": 1924,
+    "cast": [
+      "Carol Dempster",
+      "Neil Hamilton"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/america.html"
+}

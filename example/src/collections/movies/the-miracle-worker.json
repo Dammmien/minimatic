@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Miracle Worker",
+    "year": 1962,
+    "cast": [
+      "Anne Bancroft",
+      "Patty Duke",
+      "Victor Jory"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-miracle-worker.html"
+}

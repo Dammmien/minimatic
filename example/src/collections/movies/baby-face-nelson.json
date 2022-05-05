@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Baby Face Nelson",
+    "year": 1957,
+    "cast": [
+      "Mickey Rooney",
+      "Carolyn Jones",
+      "Cedric Hardwicke"
+    ],
+    "genres": [
+      "Biography",
+      "Crime"
+    ]
+  },
+  "output": "movies/baby-face-nelson.html"
+}

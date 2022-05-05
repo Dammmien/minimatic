@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Tell It to a Star",
+    "year": 1945,
+    "cast": [
+      "Ruth Terry"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/tell-it-to-a-star.html"
+}

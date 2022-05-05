@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The President's Mystery",
+    "year": 1936,
+    "cast": [
+      "Henry Wilcoxon",
+      "Sidney Blackmer",
+      "Betty Furness"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-president-s-mystery.html"
+}

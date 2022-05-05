@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Head of State",
+    "year": 2003,
+    "cast": [
+      "Chris Rock",
+      "Bernie Mac",
+      "Tracy Morgan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/head-of-state.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Bridges at Toko-Ri",
+    "year": 1954,
+    "cast": [
+      "William Holden",
+      "Grace Kelly",
+      "Fredric March",
+      "Mickey Rooney",
+      "Earl Holliman"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-bridges-at-toko-ri.html"
+}

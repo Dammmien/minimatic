@@ -1,0 +1,35 @@
+{
+  "data": {
+    "title": "Atlas Shrugged: Part II",
+    "year": 2012,
+    "cast": [
+      "Samantha Mathis",
+      "Jason Beghe",
+      "Esai Morales",
+      "Patrick Fabian",
+      "Kim Rhodes",
+      "Richard T. Jones",
+      "D. B. Sweeney",
+      "Paul McCrane",
+      "John Rubinstein",
+      "Robert Picardo",
+      "Ray Wise",
+      "Diedrich Bader",
+      "Bug Hall",
+      "Arye Gross",
+      "Rex Linn",
+      "Larisa Oleynik",
+      "Thomas F. Wilson",
+      "Teller",
+      "Sean Hannity",
+      "Juan Williams",
+      "Bob Beckel",
+      "Tamara Holder"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/atlas-shrugged--part-ii.html"
+}

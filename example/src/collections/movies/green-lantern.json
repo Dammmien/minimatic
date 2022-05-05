@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Green Lantern",
+    "year": 2011,
+    "cast": [
+      "Ryan Reynolds",
+      "Blake Lively",
+      "Peter Sarsgaard",
+      "Mark Strong",
+      "Angela Bassett",
+      "and",
+      "Tim Robbins",
+      "Temuera Morrison",
+      "Taika Waititi",
+      "Geoffrey Rush",
+      "Michael Clarke Duncan"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/green-lantern.html"
+}

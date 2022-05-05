@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mannequin",
+    "year": 1987,
+    "cast": [
+      "Andrew McCarthy",
+      "Kim Cattrall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mannequin.html"
+}

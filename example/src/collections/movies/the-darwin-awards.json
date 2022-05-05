@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Darwin Awards",
+    "year": 2006,
+    "cast": [
+      "Joseph Fiennes",
+      "Winona Ryder",
+      "David Arquette"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-darwin-awards.html"
+}

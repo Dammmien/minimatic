@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Romance",
+    "year": 1919,
+    "cast": [
+      "Harold Lockwood",
+      "Rubye De Remer"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-great-romance.html"
+}

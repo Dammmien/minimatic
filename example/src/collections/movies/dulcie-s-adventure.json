@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dulcie's Adventure",
+    "year": 1916,
+    "cast": [
+      "Mary Miles Minter",
+      "Bessie Banks",
+      "Marie Van Tassell",
+      "Harry von Meter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dulcie-s-adventure.html"
+}

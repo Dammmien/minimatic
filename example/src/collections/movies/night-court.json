@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Night Court",
+    "year": 1932,
+    "cast": [
+      "Walter Huston",
+      "Anita Page",
+      "Phillips Holmes"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/night-court.html"
+}

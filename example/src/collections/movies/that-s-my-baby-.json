@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That's My Baby!",
+    "year": 1944,
+    "cast": [
+      "Richard Arlen",
+      "Ellen Drew"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-s-my-baby-.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ship of Souls",
+    "year": 1925,
+    "cast": [
+      "Bert Lytell",
+      "Lillian Rich",
+      "Gertrude Astor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-ship-of-souls.html"
+}

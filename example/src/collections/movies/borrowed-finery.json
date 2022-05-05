@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Borrowed Finery",
+    "year": 1925,
+    "cast": [
+      "Louise Lorraine",
+      "Ward Crane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/borrowed-finery.html"
+}

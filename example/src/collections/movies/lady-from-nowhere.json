@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady from Nowhere",
+    "year": 1936,
+    "cast": [
+      "Mary Astor",
+      "Charles Quigley"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/lady-from-nowhere.html"
+}

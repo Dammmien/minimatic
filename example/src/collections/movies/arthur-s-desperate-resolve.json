@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Arthur's Desperate Resolve",
+    "year": 1916,
+    "cast": [
+      "William Garwood",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/arthur-s-desperate-resolve.html"
+}

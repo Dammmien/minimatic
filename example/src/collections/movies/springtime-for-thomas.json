@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Springtime for Thomas",
+    "year": 1946,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/springtime-for-thomas.html"
+}

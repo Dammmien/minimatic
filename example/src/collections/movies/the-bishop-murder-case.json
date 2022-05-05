@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Bishop Murder Case",
+    "year": 1930,
+    "cast": [
+      "Basil Rathbone",
+      "Leila Hyams",
+      "Roland Young"
+    ],
+    "genres": [
+      "Mystery",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bishop-murder-case.html"
+}

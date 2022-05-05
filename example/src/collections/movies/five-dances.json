@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Five Dances",
+    "year": 2013,
+    "cast": [
+      "Ryan Steele",
+      "Reed Luplau",
+      "Catherine Miller",
+      "Kimye Corwin"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/five-dances.html"
+}

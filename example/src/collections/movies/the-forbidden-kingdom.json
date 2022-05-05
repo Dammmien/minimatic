@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Forbidden Kingdom",
+    "year": 2008,
+    "cast": [
+      "Jackie Chan",
+      "Jet Li",
+      "Michael Angarano",
+      "Liu Yifei"
+    ],
+    "genres": [
+      "Martial Arts"
+    ]
+  },
+  "output": "movies/the-forbidden-kingdom.html"
+}

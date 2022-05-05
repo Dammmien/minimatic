@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Manhunter",
+    "year": 1986,
+    "cast": [
+      "William Petersen",
+      "Dennis Farina",
+      "Brian Cox",
+      "Joan Allen",
+      "Tom Noonan",
+      "Kim Greist",
+      "Stephen Lang"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/manhunter.html"
+}

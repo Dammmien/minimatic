@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "The Wonderful Wizard of Oz",
+    "year": 1910,
+    "cast": [
+      "Bebe Daniels"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-wonderful-wizard-of-oz.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jury Duty",
+    "year": 1995,
+    "cast": [
+      "Pauly Shore",
+      "Tia Carrere",
+      "Abe Vigoda"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/jury-duty.html"
+}

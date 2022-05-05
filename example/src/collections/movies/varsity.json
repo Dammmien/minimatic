@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Varsity",
+    "year": 1928,
+    "cast": [
+      "Charles \"Buddy\" Rogers",
+      "Mary Brian"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/varsity.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rascal",
+    "year": 1969,
+    "cast": [
+      "Bill Mumy",
+      "Steve Forrest"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/rascal.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Death Valley",
+    "year": 1946,
+    "cast": [
+      "Robert Lowery",
+      "Nat Pendleton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/death-valley.html"
+}

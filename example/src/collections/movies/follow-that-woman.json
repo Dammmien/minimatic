@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Follow That Woman",
+    "year": 1945,
+    "cast": [
+      "William Gargan",
+      "Nancy Kelly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/follow-that-woman.html"
+}

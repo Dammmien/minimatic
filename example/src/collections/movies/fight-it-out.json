@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Fight It Out",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fight-it-out.html"
+}

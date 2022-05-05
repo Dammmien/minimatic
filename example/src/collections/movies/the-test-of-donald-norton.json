@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Test of Donald Norton",
+    "year": 1926,
+    "cast": [
+      "George Walsh",
+      "Tyrone Power Sr",
+      "Eugenia Gilbert"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-test-of-donald-norton.html"
+}

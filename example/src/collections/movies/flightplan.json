@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flightplan",
+    "year": 2005,
+    "cast": [
+      "Jodie Foster",
+      "Peter Sarsgaard",
+      "Sean Bean"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/flightplan.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Doomed Battalion",
+    "year": 1932,
+    "cast": [
+      "Luis Trenker",
+      "Tala Birell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/doomed-battalion.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Ticket to New Year's",
+    "year": 1996,
+    "cast": [
+      "Grateful Dead"
+    ],
+    "genres": [
+      "Performance"
+    ]
+  },
+  "output": "movies/ticket-to-new-year-s.html"
+}

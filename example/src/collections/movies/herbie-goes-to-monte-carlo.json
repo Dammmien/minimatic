@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Herbie Goes to Monte Carlo",
+    "year": 1977,
+    "cast": [
+      "Dean Jones",
+      "Don Knotts",
+      "Julie Sommars"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/herbie-goes-to-monte-carlo.html"
+}

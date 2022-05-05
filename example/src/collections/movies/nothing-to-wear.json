@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nothing to Wear",
+    "year": 1928,
+    "cast": [
+      "Jacqueline Logan",
+      "Theodore von Eltz"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nothing-to-wear.html"
+}

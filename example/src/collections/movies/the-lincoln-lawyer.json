@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "The Lincoln Lawyer",
+    "year": 2011,
+    "cast": [
+      "Matthew McConaughey",
+      "Marisa Tomei",
+      "Ryan Phillippe",
+      "Josh Lucas",
+      "John Leguizamo",
+      "Michael Peña",
+      "Frances Fisher",
+      "Bob Gunton",
+      "Bryan Cranston",
+      "William H. Macy"
+    ],
+    "genres": [
+      "Mystery",
+      "Suspense",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-lincoln-lawyer.html"
+}

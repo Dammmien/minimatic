@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Song of the Sierras",
+    "year": 1946,
+    "cast": [
+      "Jimmy Wakely",
+      "Jack Baxley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/song-of-the-sierras.html"
+}

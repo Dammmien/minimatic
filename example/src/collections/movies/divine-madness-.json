@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Divine Madness!",
+    "year": 1980,
+    "cast": [
+      "Bette Midler"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/divine-madness-.html"
+}

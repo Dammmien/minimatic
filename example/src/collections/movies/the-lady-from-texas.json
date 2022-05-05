@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lady from Texas",
+    "year": 1951,
+    "cast": [
+      "Howard Duff",
+      "Mona Freeman"
+    ],
+    "genres": [
+      "Comedy",
+      "Western"
+    ]
+  },
+  "output": "movies/the-lady-from-texas.html"
+}

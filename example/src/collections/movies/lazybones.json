@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lazybones",
+    "year": 1925,
+    "cast": [
+      "Madge Bellamy",
+      "Buck Jones",
+      "ZaSu Pitts"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/lazybones.html"
+}

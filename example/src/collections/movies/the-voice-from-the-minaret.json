@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Voice from the Minaret",
+    "year": 1923,
+    "cast": [
+      "Norma Talmadge",
+      "Eugene O'Brien"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-voice-from-the-minaret.html"
+}

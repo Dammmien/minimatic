@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Asteroid",
+    "year": 1997,
+    "cast": [
+      "Michael Biehn",
+      "Annabella Sciorra",
+      "Zachary Charles",
+      "Don Franklin",
+      "Carlos Gómez",
+      "Michael Weatherly",
+      "Anne-Marie Johnson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/asteroid.html"
+}

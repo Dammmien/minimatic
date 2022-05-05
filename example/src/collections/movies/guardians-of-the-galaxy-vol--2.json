@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "Guardians of the Galaxy Vol. 2",
+    "year": 2017,
+    "cast": [
+      "Chris Pratt",
+      "Zoe Saldana",
+      "Dave Bautista",
+      "Vin Diesel",
+      "Bradley Cooper",
+      "Michael Rooker",
+      "Karen Gillan",
+      "Sean Gunn",
+      "Pom Klementieff",
+      "Elizabeth Debicki",
+      "Chris Sullivan",
+      "Sylvester Stallone",
+      "Kurt Russell"
+    ],
+    "genres": [
+      "Superhero",
+      "Comedy",
+      "Adventure",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/guardians-of-the-galaxy-vol--2.html"
+}

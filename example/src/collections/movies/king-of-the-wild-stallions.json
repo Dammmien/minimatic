@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "King of the Wild Stallions",
+    "year": 1959,
+    "cast": [
+      "George Montgomery",
+      "Diane Brewster",
+      "Edgar Buchanan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/king-of-the-wild-stallions.html"
+}

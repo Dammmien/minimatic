@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "August: Osage County",
+    "year": 2013,
+    "cast": [
+      "Meryl Streep",
+      "Julia Roberts",
+      "Ewan McGregor",
+      "Chris Cooper",
+      "Abigail Breslin",
+      "Benedict Cumberbatch",
+      "Juliette Lewis",
+      "Margo Martindale",
+      "Dermot Mulroney",
+      "Julianne Nicholson",
+      "Sam Shepard",
+      "Misty Upham"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/august--osage-county.html"
+}

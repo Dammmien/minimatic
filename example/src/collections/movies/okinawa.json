@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Okinawa",
+    "year": 1952,
+    "cast": [
+      "Pat O'Brien",
+      "Cameron Mitchell"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/okinawa.html"
+}

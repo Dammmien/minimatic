@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "My Soul to Take",
+    "year": 2010,
+    "cast": [
+      "Max Thieriot",
+      "Denzel Whitaker",
+      "Raúl Esparza",
+      "Shareeka Epps",
+      "Zena Grey",
+      "Trevor St. John"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/my-soul-to-take.html"
+}

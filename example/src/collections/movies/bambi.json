@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Bambi",
+    "year": 1942,
+    "cast": [],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/bambi.html"
+}

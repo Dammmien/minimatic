@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hotel for Women",
+    "year": 1939,
+    "cast": [
+      "Ann Sothern",
+      "Linda Darnell",
+      "James Ellison"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hotel-for-women.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Within the Law",
+    "year": 1939,
+    "cast": [
+      "Ruth Hussey",
+      "Tom Neal"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/within-the-law.html"
+}

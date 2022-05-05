@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Okay, America!",
+    "year": 1932,
+    "cast": [
+      "Lew Ayres",
+      "Maureen O'Sullivan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/okay--america-.html"
+}

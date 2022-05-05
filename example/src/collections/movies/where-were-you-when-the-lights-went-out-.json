@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Where Were You When the Lights Went Out?",
+    "year": 1968,
+    "cast": [
+      "Doris Day",
+      "Robert Morse",
+      "Patrick O'Neal"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/where-were-you-when-the-lights-went-out-.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "East of Eden",
+    "year": 1955,
+    "cast": [
+      "Julie Harris",
+      "James Dean",
+      "Raymond Massey",
+      "Burl Ives",
+      "Richard Davalos",
+      "Jo Van Fleet",
+      "Albert Dekker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/east-of-eden.html"
+}

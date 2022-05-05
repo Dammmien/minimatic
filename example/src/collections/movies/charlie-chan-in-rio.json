@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Charlie Chan in Rio",
+    "year": 1941,
+    "cast": [
+      "Sidney Toler",
+      "Victor Sen Yung",
+      "Kay Linaker"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/charlie-chan-in-rio.html"
+}

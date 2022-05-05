@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Lover, My Son",
+    "year": 1970,
+    "cast": [
+      "Romy Schneider",
+      "Dennis Waterman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-lover--my-son.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Glass House",
+    "year": 2001,
+    "cast": [
+      "Leelee Sobieski",
+      "Diane Lane",
+      "Stellan Skarsgård"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-glass-house.html"
+}

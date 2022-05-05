@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In the Next Room",
+    "year": 1930,
+    "cast": [
+      "Jack Mulhall",
+      "Alice Day"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/in-the-next-room.html"
+}

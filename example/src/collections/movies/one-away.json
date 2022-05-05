@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Away",
+    "year": 1976,
+    "cast": [
+      "Elke Sommer",
+      "Bradford Dillman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/one-away.html"
+}

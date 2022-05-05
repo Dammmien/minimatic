@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Woman's Faith",
+    "year": 1925,
+    "cast": [
+      "Alma Rubens",
+      "Percy Marmont",
+      "Jean Hersholt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-woman-s-faith.html"
+}

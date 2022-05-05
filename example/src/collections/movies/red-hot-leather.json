@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Red Hot Leather",
+    "year": 1926,
+    "cast": [
+      "Jack Hoxie",
+      "Ena Gregory"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/red-hot-leather.html"
+}

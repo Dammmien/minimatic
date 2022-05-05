@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Bad Girls",
+    "year": 1994,
+    "cast": [
+      "Madeleine Stowe",
+      "Mary Stuart Masterson",
+      "Andie MacDowell",
+      "Drew Barrymore",
+      "Dermot Mulroney"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bad-girls.html"
+}

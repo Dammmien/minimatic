@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tuff Turf",
+    "year": 1985,
+    "cast": [
+      "James Spader",
+      "Robert Downey Jr.",
+      "Kim Richards"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tuff-turf.html"
+}

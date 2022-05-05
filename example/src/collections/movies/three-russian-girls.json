@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Russian Girls",
+    "year": 1943,
+    "cast": [
+      "Anna Sten",
+      "Kent Smith"
+    ],
+    "genres": [
+      "War",
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-russian-girls.html"
+}

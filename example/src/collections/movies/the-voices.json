@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Voices",
+    "year": 2015,
+    "cast": [
+      "Ryan Reynolds",
+      "Anna Kendrick",
+      "Gemma Arterton",
+      "Jacki Weaver"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-voices.html"
+}

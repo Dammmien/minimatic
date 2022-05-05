@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Is Guilty",
+    "year": 1934,
+    "cast": [
+      "Ralph Bellamy",
+      "Shirley Grey"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/one-is-guilty.html"
+}

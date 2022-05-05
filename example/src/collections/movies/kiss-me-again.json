@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kiss Me Again",
+    "year": 1931,
+    "cast": [
+      "Edward Everett Horton",
+      "June Collyer",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kiss-me-again.html"
+}

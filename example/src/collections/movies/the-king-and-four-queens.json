@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The King and Four Queens",
+    "year": 1956,
+    "cast": [
+      "Clark Gable",
+      "Eleanor Parker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-king-and-four-queens.html"
+}

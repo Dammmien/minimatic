@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cheyenne Takes Over",
+    "year": 1947,
+    "cast": [
+      "Lash La Rue",
+      "Al St. John",
+      "Nancy Gates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cheyenne-takes-over.html"
+}

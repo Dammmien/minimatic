@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Just Tony",
+    "year": 1922,
+    "cast": [
+      "Tom Mix",
+      "Claire Adams"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/just-tony.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Virginia City",
+    "year": 1940,
+    "cast": [
+      "Errol Flynn",
+      "Miriam Hopkins",
+      "Randolph Scott",
+      "Humphrey Bogart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/virginia-city.html"
+}

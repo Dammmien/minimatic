@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Neighbors",
+    "year": 2014,
+    "cast": [
+      "Seth Rogen",
+      "Zac Efron",
+      "Rose Byrne",
+      "Dave Franco"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/neighbors.html"
+}

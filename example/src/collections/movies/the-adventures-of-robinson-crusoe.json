@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Adventures of Robinson Crusoe",
+    "year": 1922,
+    "cast": [
+      "Harry Myers",
+      "Noble Johnson"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-adventures-of-robinson-crusoe.html"
+}

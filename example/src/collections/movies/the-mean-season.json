@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Mean Season",
+    "year": 1985,
+    "cast": [
+      "Kurt Russell",
+      "Mariel Hemingway",
+      "Richard Jordan"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mean-season.html"
+}

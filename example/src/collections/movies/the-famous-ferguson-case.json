@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Famous Ferguson Case",
+    "year": 1932,
+    "cast": [
+      "Joan Blondell",
+      "Grant Mitchell"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-famous-ferguson-case.html"
+}

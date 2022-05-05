@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nights in Rodanthe",
+    "year": 2008,
+    "cast": [
+      "Richard Gere",
+      "Diane Lane"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/nights-in-rodanthe.html"
+}

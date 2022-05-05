@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cannery Row",
+    "year": 1982,
+    "cast": [
+      "Nick Nolte",
+      "Debra Winger"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cannery-row.html"
+}

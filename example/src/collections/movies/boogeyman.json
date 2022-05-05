@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Boogeyman",
+    "year": 2005,
+    "cast": [
+      "Barry Watson",
+      "Emily Deschanel",
+      "Lucy Lawless"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/boogeyman.html"
+}

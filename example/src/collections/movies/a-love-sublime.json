@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Love Sublime",
+    "year": 1917,
+    "cast": [
+      "Wilfred Lucas",
+      "Carmel Myers"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/a-love-sublime.html"
+}

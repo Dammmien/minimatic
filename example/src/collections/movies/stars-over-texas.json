@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stars Over Texas",
+    "year": 1946,
+    "cast": [
+      "Eddie Dean",
+      "Roscoe Ates",
+      "Shirley Patterson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/stars-over-texas.html"
+}

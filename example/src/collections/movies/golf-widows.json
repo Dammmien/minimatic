@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Golf Widows",
+    "year": 1928,
+    "cast": [
+      "Vera Reynolds",
+      "Harrison Ford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/golf-widows.html"
+}

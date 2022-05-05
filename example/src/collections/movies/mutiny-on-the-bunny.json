@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Mutiny on the Bunny",
+    "year": 1950,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/mutiny-on-the-bunny.html"
+}

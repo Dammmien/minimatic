@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Nanny McPhee Returns",
+    "year": 2010,
+    "cast": [
+      "Emma Thompson",
+      "Maggie Gyllenhaal",
+      "Rhys Ifans",
+      "Maggie Smith",
+      "Ralph Fiennes",
+      "Ewan McGregor"
+    ],
+    "genres": [
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/nanny-mcphee-returns.html"
+}

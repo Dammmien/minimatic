@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Ghost Rider",
+    "year": 2007,
+    "cast": [
+      "Nicolas Cage",
+      "Eva Mendes",
+      "Wes Bentley",
+      "Sam Elliott",
+      "Peter Fonda"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/ghost-rider.html"
+}

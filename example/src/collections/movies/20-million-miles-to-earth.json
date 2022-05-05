@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "20 Million Miles to Earth",
+    "year": 1957,
+    "cast": [
+      "William Hopper",
+      "Joan Taylor",
+      "Frank Puglia"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/20-million-miles-to-earth.html"
+}

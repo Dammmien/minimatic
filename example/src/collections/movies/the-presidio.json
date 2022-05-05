@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Presidio",
+    "year": 1988,
+    "cast": [
+      "Sean Connery",
+      "Mark Harmon",
+      "Meg Ryan"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-presidio.html"
+}

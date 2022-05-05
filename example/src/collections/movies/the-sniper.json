@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sniper",
+    "year": 1952,
+    "cast": [
+      "Adolphe Menjou",
+      "Arthur Franz"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-sniper.html"
+}

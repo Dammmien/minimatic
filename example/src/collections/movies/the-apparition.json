@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Apparition",
+    "year": 2012,
+    "cast": [
+      "Ashley Greene",
+      "Sebastian Stan",
+      "Tom Felton",
+      "Julianna Guill",
+      "Luke Pasqualino",
+      "Suzanne Ford"
+    ],
+    "genres": [
+      "Supernatural",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-apparition.html"
+}

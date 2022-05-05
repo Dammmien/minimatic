@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ride a Crooked Mile",
+    "year": 1938,
+    "cast": [
+      "Frances Farmer",
+      "Akim Tamiroff",
+      "Lynne Overman"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ride-a-crooked-mile.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Best Things in Life Are Free",
+    "year": 1956,
+    "cast": [
+      "Gordon MacRae",
+      "Ernest Borgnine",
+      "Dan Duryea",
+      "Sheree North"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-best-things-in-life-are-free.html"
+}

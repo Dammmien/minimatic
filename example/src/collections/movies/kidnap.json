@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Kidnap",
+    "year": 2017,
+    "cast": [
+      "Halle Berry",
+      "Sage Correa",
+      "Lew Temple",
+      "Chris McGinn"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/kidnap.html"
+}

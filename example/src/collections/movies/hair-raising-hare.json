@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hair-Raising Hare",
+    "year": 1946,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/hair-raising-hare.html"
+}

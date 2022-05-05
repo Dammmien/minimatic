@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Yellow Fin",
+    "year": 1951,
+    "cast": [
+      "Wayne Morris",
+      "Lorna Gray",
+      "Gloria Henry"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/yellow-fin.html"
+}

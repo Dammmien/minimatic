@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Andy Hardy Comes Home",
+    "year": 1958,
+    "cast": [
+      "Mickey Rooney",
+      "Patricia Breslin",
+      "Fay Holden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/andy-hardy-comes-home.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Black Caesar",
+    "year": 1973,
+    "cast": [
+      "Fred Williamson",
+      "Gloria Hendry"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/black-caesar.html"
+}

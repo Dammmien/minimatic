@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Next Time I Marry",
+    "year": 1938,
+    "cast": [
+      "Lucille Ball",
+      "James Ellison",
+      "Mantan Moreland"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/next-time-i-marry.html"
+}

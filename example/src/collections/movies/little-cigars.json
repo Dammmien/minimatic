@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Little Cigars",
+    "year": 1973,
+    "cast": [
+      "Angel Tompkins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-cigars.html"
+}

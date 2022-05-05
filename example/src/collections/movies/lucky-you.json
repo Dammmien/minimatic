@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lucky You",
+    "year": 2007,
+    "cast": [
+      "Eric Bana",
+      "Drew Barrymore",
+      "Robert Duvall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lucky-you.html"
+}

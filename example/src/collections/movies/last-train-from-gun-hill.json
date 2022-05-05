@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Last Train from Gun Hill",
+    "year": 1959,
+    "cast": [
+      "Kirk Douglas",
+      "Anthony Quinn",
+      "Carolyn Jones"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/last-train-from-gun-hill.html"
+}

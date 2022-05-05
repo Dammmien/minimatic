@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Rampage",
+    "year": 2018,
+    "cast": [
+      "Dwayne Johnson",
+      "Naomie Harris",
+      "Malin Åkerman",
+      "Jake Lacy",
+      "Marley Shelton",
+      "Joe Manganiello",
+      "Jeffrey Dean Morgan"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/rampage.html"
+}

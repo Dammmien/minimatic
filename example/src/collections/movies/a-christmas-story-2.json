@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A Christmas Story 2",
+    "year": 2012,
+    "cast": [
+      "Braeden Lemasters",
+      "Daniel Stern",
+      "Stacey Travis",
+      "Valin Shinyei",
+      "David W. Thompson"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/a-christmas-story-2.html"
+}

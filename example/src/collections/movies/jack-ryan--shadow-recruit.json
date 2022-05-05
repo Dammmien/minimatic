@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Jack Ryan: Shadow Recruit",
+    "year": 2014,
+    "cast": [
+      "Chris Pine",
+      "Keira Knightley",
+      "Kevin Costner",
+      "Kenneth Branagh"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/jack-ryan--shadow-recruit.html"
+}

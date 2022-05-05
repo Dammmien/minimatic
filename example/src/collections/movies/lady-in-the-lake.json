@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady in the Lake",
+    "year": 1947,
+    "cast": [
+      "Robert Montgomery",
+      "Audrey Totter"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/lady-in-the-lake.html"
+}

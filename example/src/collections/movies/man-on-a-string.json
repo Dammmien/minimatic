@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man on a String",
+    "year": 1960,
+    "cast": [
+      "Ernest Borgnine",
+      "Kerwin Mathews"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/man-on-a-string.html"
+}

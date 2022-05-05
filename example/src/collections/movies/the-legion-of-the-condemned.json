@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Legion of the Condemned",
+    "year": 1928,
+    "cast": [
+      "Fay Wray",
+      "Gary Cooper"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-legion-of-the-condemned.html"
+}

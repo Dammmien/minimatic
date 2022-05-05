@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tomorrow and Tomorrow",
+    "year": 1932,
+    "cast": [
+      "Ruth Chatterton",
+      "Paul Lukas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tomorrow-and-tomorrow.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Dangerous Woman",
+    "year": 1993,
+    "cast": [
+      "Debra Winger",
+      "Gabriel Byrne",
+      "Barbara Hershey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-dangerous-woman.html"
+}

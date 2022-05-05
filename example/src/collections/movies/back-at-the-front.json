@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Back at the Front",
+    "year": 1952,
+    "cast": [
+      "Tom Ewell",
+      "Harvey Lembeck"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/back-at-the-front.html"
+}

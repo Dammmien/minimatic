@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A Thousand Acres",
+    "year": 1997,
+    "cast": [
+      "Jessica Lange",
+      "Michelle Pfeiffer",
+      "Jennifer Jason Leigh",
+      "Jason Robards",
+      "Colin Firth"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-thousand-acres.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hero at Large",
+    "year": 1980,
+    "cast": [
+      "Anne Archer",
+      "John Ritter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hero-at-large.html"
+}

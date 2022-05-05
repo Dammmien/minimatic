@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Red Man and the Child",
+    "year": 1908,
+    "cast": [
+      "Charles Inslee",
+      "John Tansey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-red-man-and-the-child.html"
+}

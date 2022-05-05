@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Burned at the Stake",
+    "year": 1981,
+    "cast": [
+      "Susan Swift",
+      "Albert Salmi",
+      "Guy Stockwell"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/burned-at-the-stake.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Silent Vow",
+    "year": 1922,
+    "cast": [
+      "Edith Johnson",
+      "Dorothy Dwan"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-silent-vow.html"
+}

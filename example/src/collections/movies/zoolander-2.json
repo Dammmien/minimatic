@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Zoolander 2",
+    "year": 2016,
+    "cast": [
+      "Ben Stiller",
+      "Owen Wilson",
+      "Penélope Cruz",
+      "Kristen Wiig"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/zoolander-2.html"
+}

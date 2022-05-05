@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Phaedra",
+    "year": 1962,
+    "cast": [
+      "Melina Mercouri",
+      "Anthony Perkins",
+      "Raf Vallone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/phaedra.html"
+}

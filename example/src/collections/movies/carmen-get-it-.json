@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Carmen Get It!",
+    "year": 1962,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/carmen-get-it-.html"
+}

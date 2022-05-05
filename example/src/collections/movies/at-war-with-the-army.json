@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "At War with the Army",
+    "year": 1950,
+    "cast": [
+      "Dean Martin",
+      "Jerry Lewis",
+      "Polly Bergen"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/at-war-with-the-army.html"
+}

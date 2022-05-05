@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Eden",
+    "year": 2012,
+    "cast": [
+      "Jamie Chung",
+      "Matt O'Leary",
+      "Beau Bridges",
+      "Scott Mechlowicz"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/eden.html"
+}

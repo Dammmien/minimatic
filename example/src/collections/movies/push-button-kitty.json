@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Push-Button Kitty",
+    "year": 1952,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/push-button-kitty.html"
+}

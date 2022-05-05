@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Ghost of Zorro",
+    "year": 1949,
+    "cast": [
+      "Clayton Moore",
+      "Pamela Blake"
+    ],
+    "genres": []
+  },
+  "output": "movies/ghost-of-zorro.html"
+}

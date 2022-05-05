@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Annie Hall",
+    "year": 1977,
+    "cast": [
+      "Woody Allen",
+      "Diane Keaton"
+    ],
+    "genres": []
+  },
+  "output": "movies/annie-hall.html"
+}

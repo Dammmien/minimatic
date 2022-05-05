@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Drawing the Line",
+    "year": 1915,
+    "cast": [
+      "Lillian Buckingham"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/drawing-the-line.html"
+}

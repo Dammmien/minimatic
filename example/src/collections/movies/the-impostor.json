@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Impostor",
+    "year": 1944,
+    "cast": [
+      "Jean Gabin",
+      "Richard Whorf",
+      "Ellen Drew"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-impostor.html"
+}

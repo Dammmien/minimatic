@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Zarkorr! The Invader",
+    "year": 1996,
+    "cast": [
+      "Franklin A. Vallette",
+      "Don Yanan",
+      "Peter Looney",
+      "Dyer McHenry",
+      "Rees Christian Pugh",
+      "Torie Lynch",
+      "Stan Chambers",
+      "Elizabeth Anderson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/zarkorr--the-invader.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wet Paint",
+    "year": 1926,
+    "cast": [
+      "Raymond Griffith",
+      "Helene Costello",
+      "Bryant Washburn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wet-paint.html"
+}

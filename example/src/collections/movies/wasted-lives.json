@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wasted Lives",
+    "year": 1925,
+    "cast": [
+      "Cullen Landis",
+      "Edith Roberts"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wasted-lives.html"
+}

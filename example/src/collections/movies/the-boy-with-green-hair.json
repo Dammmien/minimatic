@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Boy with Green Hair",
+    "year": 1948,
+    "cast": [
+      "Dean Stockwell",
+      "Pat O'Brien",
+      "Barbara Hale"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-boy-with-green-hair.html"
+}

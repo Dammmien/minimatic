@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Soul Man",
+    "year": 1986,
+    "cast": [
+      "C. Thomas Howell",
+      "Rae Dawn Chong",
+      "James Earl Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/soul-man.html"
+}

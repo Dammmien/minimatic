@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yesterday's Wife",
+    "year": 1923,
+    "cast": [
+      "Irene Rich",
+      "Eileen Percy"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/yesterday-s-wife.html"
+}

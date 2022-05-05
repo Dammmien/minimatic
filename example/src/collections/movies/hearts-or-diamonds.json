@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hearts or Diamonds",
+    "year": 1918,
+    "cast": [
+      "William Russell",
+      "Charlotte Burton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hearts-or-diamonds.html"
+}

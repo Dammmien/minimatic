@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Game's Up",
+    "year": 1919,
+    "cast": [
+      "Albert Ray",
+      "Ruth Clifford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-game-s-up.html"
+}

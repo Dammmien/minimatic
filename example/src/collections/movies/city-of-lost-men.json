@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "City of Lost Men",
+    "year": 1940,
+    "cast": [
+      "William \"Stage\" Boyd",
+      "Kane Richmond",
+      "Claudia Dell"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/city-of-lost-men.html"
+}

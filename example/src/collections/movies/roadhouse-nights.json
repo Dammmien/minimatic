@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Roadhouse Nights",
+    "year": 1930,
+    "cast": [
+      "Helen Morgan",
+      "Charles Ruggles"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/roadhouse-nights.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Car 99",
+    "year": 1935,
+    "cast": [
+      "Fred MacMurray",
+      "Ann Sheridan",
+      "Guy Standing"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/car-99.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sincerely Yours",
+    "year": 1955,
+    "cast": [
+      "Liberace",
+      "Joanne Dru",
+      "Dorothy Malone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sincerely-yours.html"
+}

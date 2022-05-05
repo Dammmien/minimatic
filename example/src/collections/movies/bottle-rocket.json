@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bottle Rocket",
+    "year": 1996,
+    "cast": [
+      "Luke Wilson",
+      "Owen Wilson",
+      "James Caan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bottle-rocket.html"
+}

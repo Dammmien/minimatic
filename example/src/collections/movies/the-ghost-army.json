@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Ghost Army",
+    "year": 2013,
+    "cast": [
+      "A secret U.S. army unit set to misdirect Nazi Germany."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-ghost-army.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Wrong",
+    "year": 2013,
+    "cast": [
+      "Jack Plotnick",
+      "Éric Judor",
+      "Alexis Dziena",
+      "Steve Little",
+      "and",
+      "William Fichtner"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wrong.html"
+}

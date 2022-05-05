@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Orca",
+    "year": 1977,
+    "cast": [
+      "Richard Harris",
+      "Charlotte Rampling",
+      "Bo Derek"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/orca.html"
+}

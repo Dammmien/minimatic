@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Greatest Story Ever Told",
+    "year": 1965,
+    "cast": [
+      "Max von Sydow",
+      "Charlton Heston",
+      "José Ferrer",
+      "Claude Rains",
+      "Angela Lansbury",
+      "David McCallum",
+      "Martin Landau",
+      "Ed Wynn",
+      "Telly Savalas",
+      "Sidney Poitier",
+      "John Wayne"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-greatest-story-ever-told.html"
+}

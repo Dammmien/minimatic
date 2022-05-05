@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Contest",
+    "year": 2013,
+    "cast": [
+      "Kenton Duty",
+      "Daniel Flaherty",
+      "Katherine McNamara",
+      "Mary Beth Peil"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/contest.html"
+}

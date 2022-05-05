@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "First Lady",
+    "year": 1937,
+    "cast": [
+      "Kay Francis",
+      "Verree Teasdale",
+      "Walter Connolly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/first-lady.html"
+}

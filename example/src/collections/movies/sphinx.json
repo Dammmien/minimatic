@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sphinx",
+    "year": 1981,
+    "cast": [
+      "Frank Langella",
+      "Lesley-Anne Down",
+      "John Gielgud"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/sphinx.html"
+}

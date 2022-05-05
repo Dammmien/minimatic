@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Destination Moon",
+    "year": 1950,
+    "cast": [
+      "Dick Wesson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/destination-moon.html"
+}

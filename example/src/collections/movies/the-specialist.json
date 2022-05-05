@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Specialist",
+    "year": 1994,
+    "cast": [
+      "Sylvester Stallone",
+      "Sharon Stone",
+      "James Woods",
+      "Rod Steiger",
+      "Eric Roberts"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-specialist.html"
+}

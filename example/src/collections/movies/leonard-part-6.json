@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Leonard Part 6",
+    "year": 1987,
+    "cast": [
+      "Bill Cosby",
+      "Joe Don Baker",
+      "Gloria Foster"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/leonard-part-6.html"
+}

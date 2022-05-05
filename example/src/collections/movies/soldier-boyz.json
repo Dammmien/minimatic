@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Soldier Boyz",
+    "year": 1995,
+    "cast": [
+      "Michael Dudikoff"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/soldier-boyz.html"
+}

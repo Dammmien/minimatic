@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Chimpanzee",
+    "year": 2012,
+    "cast": [
+      "A young",
+      "chimpanzee",
+      "named Oscar finds himself alone in the African forests until he is adopted by another chimpanzee. Narrated by",
+      "Tim Allen",
+      "."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/chimpanzee.html"
+}

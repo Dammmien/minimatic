@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Damaged Lives",
+    "year": 1933,
+    "cast": [
+      "Lyman Williams",
+      "Diane Sinclair",
+      "Jason Robards Sr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/damaged-lives.html"
+}

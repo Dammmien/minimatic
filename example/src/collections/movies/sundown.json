@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sundown",
+    "year": 1941,
+    "cast": [
+      "Gene Tierney",
+      "Bruce Cabot",
+      "George Sanders"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sundown.html"
+}

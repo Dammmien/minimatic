@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Seven Sinners",
+    "year": 1940,
+    "cast": [
+      "Marlene Dietrich",
+      "John Wayne"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/seven-sinners.html"
+}

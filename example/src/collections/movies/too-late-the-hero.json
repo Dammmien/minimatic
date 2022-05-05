@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Too Late the Hero",
+    "year": 1970,
+    "cast": [
+      "Michael Caine",
+      "Cliff Robertson",
+      "Henry Fonda"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/too-late-the-hero.html"
+}

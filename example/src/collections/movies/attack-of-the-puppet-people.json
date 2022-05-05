@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Attack of the Puppet People",
+    "year": 1958,
+    "cast": [
+      "John Agar",
+      "June Kenney"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/attack-of-the-puppet-people.html"
+}

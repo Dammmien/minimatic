@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Only Living Boy in New York",
+    "year": 2017,
+    "cast": [
+      "Callum Turner",
+      "Kate Beckinsale",
+      "Pierce Brosnan",
+      "Cynthia Nixon",
+      "Jeff Bridges",
+      "Kiersey Clemons",
+      "Debi Mazar",
+      "Bill Camp",
+      "Tate Donovan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-only-living-boy-in-new-york.html"
+}

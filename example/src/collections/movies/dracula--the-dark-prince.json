@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dracula: The Dark Prince",
+    "year": 2013,
+    "cast": [
+      "Luke Roberts",
+      "Jon Voight",
+      "Kelly Wenham"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dracula--the-dark-prince.html"
+}

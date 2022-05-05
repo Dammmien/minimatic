@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Morning After",
+    "year": 1986,
+    "cast": [
+      "Jane Fonda",
+      "Jeff Bridges",
+      "Raúl Juliá"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-morning-after.html"
+}

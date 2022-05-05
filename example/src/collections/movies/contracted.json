@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Contracted",
+    "year": 2013,
+    "cast": [
+      "Najarra Townsend",
+      "Alice Macdonald",
+      "Katie Stegeman",
+      "Caroline Williams"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/contracted.html"
+}

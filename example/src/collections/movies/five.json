@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Five",
+    "year": 1951,
+    "cast": [
+      "Susan Douglas Rubeš",
+      "William Phipps"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/five.html"
+}

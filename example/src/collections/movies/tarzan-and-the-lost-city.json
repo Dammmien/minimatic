@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tarzan and the Lost City",
+    "year": 1998,
+    "cast": [
+      "Casper Van Dien",
+      "Jane March",
+      "Ian Roberts"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-and-the-lost-city.html"
+}

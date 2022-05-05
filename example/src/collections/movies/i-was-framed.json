@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Was Framed",
+    "year": 1942,
+    "cast": [
+      "Julie Bishop",
+      "Tod Andrews"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/i-was-framed.html"
+}

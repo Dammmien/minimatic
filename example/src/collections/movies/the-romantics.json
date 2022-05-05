@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "The Romantics",
+    "year": 2010,
+    "cast": [
+      "Katie Holmes",
+      "Josh Duhamel",
+      "Anna Paquin",
+      "Malin Åkerman",
+      "Adam Brody",
+      "Dianna Agron",
+      "Jeremy Strong",
+      "Rebecca Lawrence",
+      "Candice Bergen",
+      "Elijah Wood"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-romantics.html"
+}

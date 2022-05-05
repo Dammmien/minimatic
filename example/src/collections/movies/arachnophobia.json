@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Arachnophobia",
+    "year": 1990,
+    "cast": [
+      "Jeff Daniels",
+      "John Goodman",
+      "Harley Jane Kozak",
+      "Julian Sands"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/arachnophobia.html"
+}

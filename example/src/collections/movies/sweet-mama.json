@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sweet Mama",
+    "year": 1930,
+    "cast": [
+      "Alice White",
+      "David Manners"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sweet-mama.html"
+}

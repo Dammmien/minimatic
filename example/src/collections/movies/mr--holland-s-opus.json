@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Mr. Holland's Opus",
+    "year": 1995,
+    "cast": [
+      "Richard Dreyfuss",
+      "Glenne Headly",
+      "Jay Thomas",
+      "Olympia Dukakis",
+      "Terrence Howard",
+      "Alicia Witt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mr--holland-s-opus.html"
+}

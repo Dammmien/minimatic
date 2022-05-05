@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Clancy Street Boys",
+    "year": 1943,
+    "cast": [
+      "East Side Kids",
+      "Amelita Ward",
+      "Noah Beery"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/clancy-street-boys.html"
+}

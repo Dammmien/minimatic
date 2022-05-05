@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Midas Run",
+    "year": 1969,
+    "cast": [
+      "Richard Crenna",
+      "Anne Heywood",
+      "Fred Astaire"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/midas-run.html"
+}

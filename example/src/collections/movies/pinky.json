@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pinky",
+    "year": 1949,
+    "cast": [
+      "Jeanne Crain",
+      "Ethel Barrymore",
+      "Ethel Waters"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pinky.html"
+}

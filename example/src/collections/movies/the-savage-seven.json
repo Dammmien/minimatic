@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Savage Seven",
+    "year": 1968,
+    "cast": [
+      "Robert Walker Jr.",
+      "Larry Bishop"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-savage-seven.html"
+}

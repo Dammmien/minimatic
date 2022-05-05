@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ice Castles",
+    "year": 1978,
+    "cast": [
+      "Lynn-Holly Johnson",
+      "Robby Benson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ice-castles.html"
+}

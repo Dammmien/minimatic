@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cinderfella",
+    "year": 1960,
+    "cast": [
+      "Jerry Lewis",
+      "Ed Wynn",
+      "Anna Maria Alberghetti"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/cinderfella.html"
+}

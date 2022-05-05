@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "The Nut Job 2: Nutty by Nature",
+    "year": 2017,
+    "cast": [
+      "Will Arnett",
+      "Katherine Heigl",
+      "Maya Rudolph",
+      "Sebastian Maniscalco",
+      "Kari Wahlgren",
+      "Bobby Moynihan",
+      "Isabela Moner",
+      "Bobby Cannavale",
+      "Gabriel Iglesias",
+      "Jeff Dunham",
+      "Peter Stormare"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-nut-job-2--nutty-by-nature.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Murder in the Air",
+    "year": 1940,
+    "cast": [
+      "Ronald Reagan",
+      "John Litel",
+      "Lya Lys"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/murder-in-the-air.html"
+}

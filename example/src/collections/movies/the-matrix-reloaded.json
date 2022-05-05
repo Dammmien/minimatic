@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Matrix Reloaded",
+    "year": 2003,
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-matrix-reloaded.html"
+}

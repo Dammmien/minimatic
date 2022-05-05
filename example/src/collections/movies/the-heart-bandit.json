@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Heart Bandit",
+    "year": 1924,
+    "cast": [
+      "Viola Dana",
+      "Milton Sills"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-heart-bandit.html"
+}

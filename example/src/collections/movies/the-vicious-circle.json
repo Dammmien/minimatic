@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Vicious Circle",
+    "year": 1948,
+    "cast": [
+      "Conrad Nagel",
+      "Fritz Kortner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-vicious-circle.html"
+}

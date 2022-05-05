@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "You Don't Mess with the Zohan",
+    "year": 2008,
+    "cast": [
+      "Adam Sandler",
+      "John Turturro",
+      "Emmanuelle Chriqui",
+      "Nick Swardson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-don-t-mess-with-the-zohan.html"
+}

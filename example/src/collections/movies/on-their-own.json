@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "On Their Own",
+    "year": 1940,
+    "cast": [
+      "Spring Byington",
+      "June Carlson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/on-their-own.html"
+}

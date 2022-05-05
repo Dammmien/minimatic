@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Mad Doctor of Market Street",
+    "year": 1942,
+    "cast": [
+      "Lionel Atwill",
+      "Anne Nagel",
+      "Claire Dodd",
+      "Una Merkel"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-mad-doctor-of-market-street.html"
+}

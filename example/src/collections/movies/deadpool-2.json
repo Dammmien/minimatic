@@ -1,0 +1,31 @@
+{
+  "data": {
+    "title": "Deadpool 2",
+    "year": 2018,
+    "cast": [
+      "Ryan Reynolds",
+      "Josh Brolin",
+      "Zazie Beetz",
+      "Julian Dennison",
+      "Morena Baccarin",
+      "T. J. Miller",
+      "Brianna Hildebrand",
+      "Stefan Kapičić",
+      "Jack Kesy",
+      "Leslie Uggams",
+      "Karan Soni",
+      "Shioli Kutsuna",
+      "Eddie Marsan",
+      "Terry Crews",
+      "Bill Skarsgård",
+      "Lewis Tan",
+      "Rob Delaney"
+    ],
+    "genres": [
+      "Superhero",
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/deadpool-2.html"
+}

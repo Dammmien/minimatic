@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Brain Damage",
+    "year": 1988,
+    "cast": [
+      "Rick Hearst"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/brain-damage.html"
+}

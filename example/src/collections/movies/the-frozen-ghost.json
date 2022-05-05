@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Frozen Ghost",
+    "year": 1945,
+    "cast": [
+      "Lon Chaney Jr.",
+      "Elena Verdugo",
+      "Evelyn Ankers",
+      "Douglas Dumbrille"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-frozen-ghost.html"
+}

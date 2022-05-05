@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hawk Is Dying",
+    "year": 2006,
+    "cast": [
+      "Paul Giamatti",
+      "Michelle Williams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hawk-is-dying.html"
+}

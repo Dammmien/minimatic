@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Higher Learning",
+    "year": 1995,
+    "cast": [
+      "Omar Epps",
+      "Kristy Swanson",
+      "Ice Cube",
+      "Jennifer Connelly",
+      "Michael Rapaport",
+      "Laurence Fishburne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/higher-learning.html"
+}

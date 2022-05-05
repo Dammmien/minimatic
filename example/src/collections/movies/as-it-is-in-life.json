@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "As It Is In Life",
+    "year": 1910,
+    "cast": [
+      "George Nichols",
+      "Gladys Egan",
+      "Mary Pickford"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/as-it-is-in-life.html"
+}

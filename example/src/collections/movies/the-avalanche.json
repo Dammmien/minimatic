@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Avalanche",
+    "year": 1919,
+    "cast": [
+      "Elsie Ferguson",
+      "Lumsden Hare"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-avalanche.html"
+}

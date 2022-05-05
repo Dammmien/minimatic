@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Slender Man",
+    "year": 2018,
+    "cast": [
+      "Joey King",
+      "Julia Goldani Telles",
+      "Jaz Sinclair",
+      "Annalise Basso",
+      "Javier Botet"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/slender-man.html"
+}

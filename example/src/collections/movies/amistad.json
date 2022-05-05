@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Amistad",
+    "year": 1997,
+    "cast": [
+      "Morgan Freeman",
+      "Anthony Hopkins",
+      "Djimon Hounsou",
+      "Matthew McConaughey",
+      "Stellan Skarsgård",
+      "Anna Paquin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/amistad.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Rocket Man",
+    "year": 1954,
+    "cast": [
+      "Charles Coburn",
+      "Anne Francis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-rocket-man.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bonds of Love",
+    "year": 1919,
+    "cast": [
+      "Pauline Frederick",
+      "Percy Standing"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/bonds-of-love.html"
+}

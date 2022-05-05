@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Face of Love",
+    "year": 2013,
+    "cast": [
+      "Robin Williams",
+      "Annette Bening",
+      "Ed Harris",
+      "Amy Brenneman",
+      "Jess Weixler",
+      "Linda Park"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-face-of-love.html"
+}

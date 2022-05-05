@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Listen Lester",
+    "year": 1924,
+    "cast": [
+      "Louise Fazenda",
+      "Harry Myers"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/listen-lester.html"
+}

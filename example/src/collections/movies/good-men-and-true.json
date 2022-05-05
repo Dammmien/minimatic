@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Good Men and True",
+    "year": 1922,
+    "cast": [
+      "Harry Carey",
+      "Vola Vale"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/good-men-and-true.html"
+}

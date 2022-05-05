@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ambush",
+    "year": 1950,
+    "cast": [
+      "Robert Taylor",
+      "John Hodiak",
+      "Arlene Dahl"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ambush.html"
+}

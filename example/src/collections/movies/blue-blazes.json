@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blue Blazes",
+    "year": 1926,
+    "cast": [
+      "Pete Morrison",
+      "Jim Welch"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/blue-blazes.html"
+}

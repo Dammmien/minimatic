@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Gandhi",
+    "year": 1982,
+    "cast": [
+      "Ben Kingsley",
+      "Edward Fox",
+      "John Gielgud",
+      "Trevor Howard",
+      "John Mills",
+      "Martin Sheen",
+      "Candice Bergen"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/gandhi.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mad About Music",
+    "year": 1938,
+    "cast": [
+      "Deanna Durbin",
+      "Herbert Marshall",
+      "William Frawley"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/mad-about-music.html"
+}

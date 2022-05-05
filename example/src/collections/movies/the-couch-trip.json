@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Couch Trip",
+    "year": 1988,
+    "cast": [
+      "Dan Aykroyd",
+      "Charles Grodin",
+      "Walter Matthau",
+      "Donna Dixon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-couch-trip.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Jamesy Boy",
+    "year": 2014,
+    "cast": [
+      "Spencer Lofranco",
+      "Mary-Louise Parker",
+      "Taissa Farmiga",
+      "James Woods"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jamesy-boy.html"
+}

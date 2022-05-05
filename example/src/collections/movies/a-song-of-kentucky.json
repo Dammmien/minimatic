@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Song of Kentucky",
+    "year": 1929,
+    "cast": [
+      "Lois Moran",
+      "Joseph Wagstaff"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/a-song-of-kentucky.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gray Horizon",
+    "year": 1919,
+    "cast": [
+      "Sessue Hayakawa",
+      "Eileen Percy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-gray-horizon.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sailors' Wives",
+    "year": 1928,
+    "cast": [
+      "Mary Astor",
+      "Lloyd Hughes"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/sailors--wives.html"
+}

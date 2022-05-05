@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In the Mix",
+    "year": 2005,
+    "cast": [
+      "Usher",
+      "Emmanuelle Chriqui",
+      "Chazz Palminteri"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/in-the-mix.html"
+}

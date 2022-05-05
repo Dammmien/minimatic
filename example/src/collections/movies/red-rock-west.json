@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Red Rock West",
+    "year": 1993,
+    "cast": [
+      "Nicolas Cage",
+      "Dennis Hopper",
+      "Lara Flynn Boyle"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/red-rock-west.html"
+}

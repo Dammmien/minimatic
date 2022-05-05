@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sons of the Pioneers",
+    "year": 1942,
+    "cast": [
+      "Roy Rogers",
+      "George \"Gabby\" Hayes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sons-of-the-pioneers.html"
+}

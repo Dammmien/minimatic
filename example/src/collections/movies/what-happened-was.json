@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "What Happened Was",
+    "year": 1994,
+    "cast": [
+      "Tom Noonan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/what-happened-was.html"
+}

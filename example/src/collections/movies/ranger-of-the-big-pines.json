@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ranger of the Big Pines",
+    "year": 1925,
+    "cast": [
+      "Kenneth Harlan",
+      "Eugene Pallette",
+      "Helene Costello"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ranger-of-the-big-pines.html"
+}

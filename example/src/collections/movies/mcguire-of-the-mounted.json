@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "McGuire of the Mounted",
+    "year": 1923,
+    "cast": [
+      "William Desmond",
+      "Louise Lorraine"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/mcguire-of-the-mounted.html"
+}

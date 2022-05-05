@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Northwest Territory",
+    "year": 1951,
+    "cast": [
+      "Kirby Grant",
+      "Gloria Saunders"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/northwest-territory.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Star for a Night",
+    "year": 1936,
+    "cast": [
+      "Claire Trevor",
+      "Jane Darwell",
+      "Dean Jagger"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/star-for-a-night.html"
+}

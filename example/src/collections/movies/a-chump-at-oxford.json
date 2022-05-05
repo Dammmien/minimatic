@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Chump at Oxford",
+    "year": 1940,
+    "cast": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "Forrester Harvey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-chump-at-oxford.html"
+}

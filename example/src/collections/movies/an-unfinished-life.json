@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "An Unfinished Life",
+    "year": 2005,
+    "cast": [
+      "Robert Redford",
+      "Jennifer Lopez",
+      "Morgan Freeman",
+      "Josh Lucas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/an-unfinished-life.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Women",
+    "year": 1924,
+    "cast": [
+      "May McAvoy",
+      "Pauline Frederick",
+      "Marie Prevost"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/three-women.html"
+}

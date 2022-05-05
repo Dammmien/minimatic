@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Could Go On Singing",
+    "year": 1963,
+    "cast": [
+      "Judy Garland",
+      "Dirk Bogarde"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-could-go-on-singing.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gates of Brass",
+    "year": 1919,
+    "cast": [
+      "Frank Keenan",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/gates-of-brass.html"
+}

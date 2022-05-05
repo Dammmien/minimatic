@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Icebound",
+    "year": 1924,
+    "cast": [
+      "Richard Dix",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/icebound.html"
+}

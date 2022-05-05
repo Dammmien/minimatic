@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Court-Martial of Billy Mitchell",
+    "year": 1955,
+    "cast": [
+      "Gary Cooper",
+      "Rod Steiger",
+      "Charles Bickford",
+      "Elizabeth Montgomery"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-court-martial-of-billy-mitchell.html"
+}

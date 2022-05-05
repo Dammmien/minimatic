@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Star Trek VI: The Undiscovered Country",
+    "year": 1991,
+    "cast": [
+      "William Shatner",
+      "Leonard Nimoy",
+      "Christopher Plummer",
+      "Kim Cattrall",
+      "David Warner",
+      "Iman",
+      "Brock Peters",
+      "DeForest Kelley",
+      "Nichelle Nichols"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/star-trek-vi--the-undiscovered-country.html"
+}

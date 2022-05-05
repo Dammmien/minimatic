@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Way of a Gaucho",
+    "year": 1952,
+    "cast": [
+      "Gene Tierney",
+      "Rory Calhoun"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/way-of-a-gaucho.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Jewel Robber",
+    "year": 1950,
+    "cast": [
+      "David Brian",
+      "Marjorie Reynolds"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-great-jewel-robber.html"
+}

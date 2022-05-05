@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mean Streets",
+    "year": 1973,
+    "cast": [
+      "Robert De Niro",
+      "Harvey Keitel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mean-streets.html"
+}

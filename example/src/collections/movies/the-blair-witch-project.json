@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Blair Witch Project",
+    "year": 1999,
+    "cast": [
+      "Heather Donahue",
+      "Joshua Leonard",
+      "Michael C. Williams"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-blair-witch-project.html"
+}

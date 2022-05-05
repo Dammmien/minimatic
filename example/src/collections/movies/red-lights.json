@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Red Lights",
+    "year": 2012,
+    "cast": [
+      "Cillian Murphy",
+      "Sigourney Weaver",
+      "Toby Jones",
+      "Joely Richardson",
+      "Elizabeth Olsen",
+      "and",
+      "Robert De Niro",
+      "Leonardo Sbaraglia",
+      "Burn Gorman",
+      "Karen David",
+      "Craig Roberts"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/red-lights.html"
+}

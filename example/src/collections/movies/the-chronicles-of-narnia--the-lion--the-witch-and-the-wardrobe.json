@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "year": 2005,
+    "cast": [
+      "William Mosely",
+      "Anna Popplewell",
+      "Skandar Keynes",
+      "Georgie Henley"
+    ],
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-chronicles-of-narnia--the-lion--the-witch-and-the-wardrobe.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Green Eyes",
+    "year": 1934,
+    "cast": [
+      "Shirley Grey",
+      "Charles Starrett"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/green-eyes.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Rancho Deluxe",
+    "year": 1975,
+    "cast": [
+      "Jeff Bridges",
+      "Sam Waterston",
+      "Elizabeth Ashley",
+      "Harry Dean Stanton",
+      "Clifton James",
+      "Slim Pickens"
+    ],
+    "genres": [
+      "Comedy",
+      "Western"
+    ]
+  },
+  "output": "movies/rancho-deluxe.html"
+}

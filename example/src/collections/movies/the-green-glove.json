@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Green Glove",
+    "year": 1952,
+    "cast": [
+      "Glenn Ford",
+      "Geraldine Brooks",
+      "Cedric Hardwicke"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-green-glove.html"
+}

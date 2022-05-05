@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Strong Boy",
+    "year": 1929,
+    "cast": [
+      "Victor McLaglen",
+      "Leatrice Joy"
+    ],
+    "genres": [
+      "Crime",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/strong-boy.html"
+}

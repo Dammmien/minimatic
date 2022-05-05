@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Weakness",
+    "year": 1933,
+    "cast": [
+      "Lilian Harvey",
+      "Lew Ayres"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/my-weakness.html"
+}

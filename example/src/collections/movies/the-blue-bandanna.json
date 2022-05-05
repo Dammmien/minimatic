@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Blue Bandanna",
+    "year": 1919,
+    "cast": [
+      "William Desmond",
+      "Russell Simpson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-blue-bandanna.html"
+}

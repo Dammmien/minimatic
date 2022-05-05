@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "A Mighty Wind",
+    "year": 2003,
+    "cast": [
+      "Catherine O'Hara",
+      "Eugene Levy",
+      "Michael McKean",
+      "Harry Shearer",
+      "Bob Balaban",
+      "Parker Posey"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/a-mighty-wind.html"
+}

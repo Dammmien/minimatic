@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Blindspotting",
+    "year": 2018,
+    "cast": [
+      "Janina Gavankar",
+      "Ethan Embry",
+      "Daveed Diggs",
+      "Rafael Casal",
+      "Wayne Knight"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blindspotting.html"
+}

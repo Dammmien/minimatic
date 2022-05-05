@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stagecoach to Fury",
+    "year": 1956,
+    "cast": [
+      "Forrest Tucker",
+      "Mari Blanchard"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/stagecoach-to-fury.html"
+}

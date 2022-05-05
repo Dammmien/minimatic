@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dumbo",
+    "year": 1941,
+    "cast": [
+      "Edward Brophy",
+      "Herman Bing"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/dumbo.html"
+}

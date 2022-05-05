@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Doughnuts and Society",
+    "year": 1936,
+    "cast": [
+      "Maude Eburne",
+      "Louise Fazenda",
+      "Franklin Pangborn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/doughnuts-and-society.html"
+}

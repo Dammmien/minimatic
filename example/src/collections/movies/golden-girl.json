@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Golden Girl",
+    "year": 1951,
+    "cast": [
+      "Mitzi Gaynor",
+      "Dale Robertson",
+      "Una Merkel"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/golden-girl.html"
+}

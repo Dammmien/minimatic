@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cargo to Capetown",
+    "year": 1950,
+    "cast": [
+      "Broderick Crawford",
+      "John Ireland",
+      "Ellen Drew"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cargo-to-capetown.html"
+}

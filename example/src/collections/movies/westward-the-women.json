@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Westward the Women",
+    "year": 1951,
+    "cast": [
+      "Robert Taylor",
+      "Denise Darcel",
+      "John McIntire"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/westward-the-women.html"
+}

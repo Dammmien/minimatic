@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Trial by Jury",
+    "year": 1994,
+    "cast": [
+      "Joanne Whalley-Kilmer",
+      "Armand Assante",
+      "Gabriel Byrne",
+      "William Hurt"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/trial-by-jury.html"
+}

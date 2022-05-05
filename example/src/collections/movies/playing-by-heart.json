@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Playing by Heart",
+    "year": 1998,
+    "cast": [
+      "Angelina Jolie",
+      "Sean Connery",
+      "Gena Rowlands",
+      "Gillian Anderson",
+      "Dennis Quaid",
+      "Ryan Phillippe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/playing-by-heart.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Outlaws of the Plains",
+    "year": 1946,
+    "cast": [
+      "Buster Crabbe",
+      "Al St. John",
+      "Bud Osborne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/outlaws-of-the-plains.html"
+}

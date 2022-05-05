@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tales of Terror",
+    "year": 1962,
+    "cast": [
+      "Vincent Price",
+      "Peter Lorre",
+      "Basil Rathbone"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/tales-of-terror.html"
+}

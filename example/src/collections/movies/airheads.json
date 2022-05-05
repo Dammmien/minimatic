@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Airheads",
+    "year": 1994,
+    "cast": [
+      "Brendan Fraser",
+      "Adam Sandler",
+      "Steve Buscemi"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/airheads.html"
+}

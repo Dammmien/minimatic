@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bachelor Party",
+    "year": 1957,
+    "cast": [
+      "Don Murray",
+      "Eddie Albert",
+      "Carolyn Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bachelor-party.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fighting Back",
+    "year": 1982,
+    "cast": [
+      "Tom Skerritt",
+      "Patti LuPone",
+      "Michael Sarrazin"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/fighting-back.html"
+}

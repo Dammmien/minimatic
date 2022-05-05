@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cinderella Jones",
+    "year": 1946,
+    "cast": [
+      "Joan Leslie",
+      "Robert Alda"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/cinderella-jones.html"
+}

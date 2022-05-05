@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Dear John",
+    "year": 2010,
+    "cast": [
+      "Channing Tatum",
+      "Amanda Seyfried",
+      "Henry Thomas",
+      "Scott Porter",
+      "Richard Jenkins"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/dear-john.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scandal",
+    "year": 1929,
+    "cast": [
+      "Laura La Plante",
+      "John Boles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/scandal.html"
+}

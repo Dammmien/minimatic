@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beyond the Purple Hills",
+    "year": 1950,
+    "cast": [
+      "Gene Autry",
+      "Jo-Carroll Dennison"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/beyond-the-purple-hills.html"
+}

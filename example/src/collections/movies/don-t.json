@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Don't",
+    "year": 1925,
+    "cast": [
+      "Sally O'Neil",
+      "Bert Roach"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/don-t.html"
+}

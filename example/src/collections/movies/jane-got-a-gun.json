@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jane Got a Gun",
+    "year": 2016,
+    "cast": [
+      "Natalie Portman",
+      "Joel Edgerton"
+    ],
+    "genres": [
+      "Action",
+      "Western"
+    ]
+  },
+  "output": "movies/jane-got-a-gun.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Endless Night",
+    "year": 1972,
+    "cast": [
+      "Hayley Mills",
+      "Britt Eklund"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/endless-night.html"
+}

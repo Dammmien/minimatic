@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Montana",
+    "year": 1998,
+    "cast": [
+      "Kyra Sedgwick",
+      "Stanley Tucci",
+      "Robin Tunney",
+      "Robbie Coltrane"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/montana.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gold Fever",
+    "year": 1952,
+    "cast": [
+      "Ralph Morgan",
+      "Gene Roth"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gold-fever.html"
+}

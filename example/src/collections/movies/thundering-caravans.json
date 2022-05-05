@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thundering Caravans",
+    "year": 1952,
+    "cast": [
+      "Allan Lane",
+      "Mona Knox"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/thundering-caravans.html"
+}

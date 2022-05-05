@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Scarlet Pumpernickel",
+    "year": 1950,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-scarlet-pumpernickel.html"
+}

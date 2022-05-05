@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Baby Face",
+    "year": 1933,
+    "cast": [
+      "Barbara Stanwyck",
+      "George Brent",
+      "Donald Cook"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/baby-face.html"
+}

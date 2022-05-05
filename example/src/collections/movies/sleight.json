@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Sleight",
+    "year": 2017,
+    "cast": [
+      "Jacob Latimore",
+      "Seychelle Gabriel",
+      "Dulé Hill",
+      "Storm Reid",
+      "Sasheer Zamata",
+      "Michael Villar"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ]
+  },
+  "output": "movies/sleight.html"
+}

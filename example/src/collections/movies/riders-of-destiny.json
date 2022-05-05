@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riders of Destiny",
+    "year": 1933,
+    "cast": [
+      "John Wayne",
+      "Cecilia Parker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/riders-of-destiny.html"
+}

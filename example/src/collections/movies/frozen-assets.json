@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Frozen Assets",
+    "year": 1992,
+    "cast": [
+      "Shelley Long",
+      "Corbin Bernsen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/frozen-assets.html"
+}

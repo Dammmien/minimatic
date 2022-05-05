@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sun Shines Bright",
+    "year": 1953,
+    "cast": [
+      "Charles Winninger",
+      "Arleen Whelan",
+      "Stepin Fetchit"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-sun-shines-bright.html"
+}

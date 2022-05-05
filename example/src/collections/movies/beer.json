@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beer",
+    "year": 1985,
+    "cast": [
+      "Rip Torn",
+      "Loretta Swit",
+      "David Alan Grier"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/beer.html"
+}

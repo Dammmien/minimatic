@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hook, Line & Sinker",
+    "year": 1969,
+    "cast": [
+      "Jerry Lewis",
+      "Peter Lawford",
+      "Anne Francis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hook--line---sinker.html"
+}

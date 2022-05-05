@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ice Pirates",
+    "year": 1984,
+    "cast": [
+      "Robert Urich",
+      "Mary Crosby",
+      "Anjelica Huston"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-ice-pirates.html"
+}

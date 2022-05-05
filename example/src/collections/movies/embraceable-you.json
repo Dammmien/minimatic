@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Embraceable You",
+    "year": 1948,
+    "cast": [
+      "Dane Clark",
+      "Geraldine Brooks"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/embraceable-you.html"
+}

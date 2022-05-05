@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Richelieu",
+    "year": 1914,
+    "cast": [
+      "Murdock MacQuarrie",
+      "William C. Dowlan"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/richelieu.html"
+}

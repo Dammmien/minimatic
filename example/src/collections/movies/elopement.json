@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Elopement",
+    "year": 1951,
+    "cast": [
+      "Clifton Webb",
+      "William Lundigan",
+      "Anne Francis",
+      "Charles Bickford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/elopement.html"
+}

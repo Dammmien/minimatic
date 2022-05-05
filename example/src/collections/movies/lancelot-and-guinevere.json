@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lancelot and Guinevere",
+    "year": 1963,
+    "cast": [
+      "Cornel Wilde",
+      "Jean Wallace"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/lancelot-and-guinevere.html"
+}

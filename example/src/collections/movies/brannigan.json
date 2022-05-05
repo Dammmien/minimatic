@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Brannigan",
+    "year": 1975,
+    "cast": [
+      "John Wayne",
+      "Richard Attenborough",
+      "John Vernon",
+      "Judy Geeson",
+      "Mel Ferrer"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/brannigan.html"
+}

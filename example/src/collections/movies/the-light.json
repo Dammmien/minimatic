@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Light",
+    "year": 1919,
+    "cast": [
+      "Theda Bara",
+      "Robert D. Walker"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-light.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two for the Money",
+    "year": 2005,
+    "cast": [
+      "Al Pacino",
+      "Matthew McConaughey",
+      "Rene Russo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/two-for-the-money.html"
+}

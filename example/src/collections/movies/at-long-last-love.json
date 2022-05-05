@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "At Long Last Love",
+    "year": 1975,
+    "cast": [
+      "Burt Reynolds",
+      "Cybill Shepherd",
+      "Madeline Kahn",
+      "Duilio Del Prete",
+      "Eileen Brennan",
+      "John Hillerman"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/at-long-last-love.html"
+}

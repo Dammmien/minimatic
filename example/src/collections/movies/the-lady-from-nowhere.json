@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lady from Nowhere",
+    "year": 1931,
+    "cast": [
+      "Alice Day",
+      "John Holland"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-lady-from-nowhere.html"
+}

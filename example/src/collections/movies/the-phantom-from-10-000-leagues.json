@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Phantom from 10,000 Leagues",
+    "year": 1955,
+    "cast": [
+      "Kent Taylor",
+      "Cathy Downs"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-phantom-from-10-000-leagues.html"
+}

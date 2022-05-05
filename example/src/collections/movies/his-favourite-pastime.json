@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "His Favourite Pastime",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Fatty Arbuckle",
+      "Viola Barry"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/his-favourite-pastime.html"
+}

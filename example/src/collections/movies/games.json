@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Games",
+    "year": 1967,
+    "cast": [
+      "Simone Signoret",
+      "James Caan",
+      "Katharine Ross"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/games.html"
+}

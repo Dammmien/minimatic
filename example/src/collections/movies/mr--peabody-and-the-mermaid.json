@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Peabody and the Mermaid",
+    "year": 1948,
+    "cast": [
+      "William Powell",
+      "Ann Blyth",
+      "Andrea King"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--peabody-and-the-mermaid.html"
+}

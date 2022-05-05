@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bal Tabarin",
+    "year": 1952,
+    "cast": [
+      "Claire Carleton",
+      "Muriel Lawrence",
+      "Steve Brodie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bal-tabarin.html"
+}

@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "A Tale of Two Kitties",
+    "year": 1942,
+    "cast": [],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/a-tale-of-two-kitties.html"
+}

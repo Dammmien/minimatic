@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Love Racket",
+    "year": 1929,
+    "cast": [
+      "Dorothy Mackaill",
+      "Sidney Blackmer"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-love-racket.html"
+}

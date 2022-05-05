@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Border Devils",
+    "year": 1932,
+    "cast": [
+      "Gabby Hayes",
+      "Kathleen Collins",
+      "Harry Carey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/border-devils.html"
+}

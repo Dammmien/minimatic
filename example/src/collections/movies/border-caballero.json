@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Border Caballero",
+    "year": 1936,
+    "cast": [
+      "Tim McCoy",
+      "Lois January"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/border-caballero.html"
+}

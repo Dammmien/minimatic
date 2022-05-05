@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Monsters vs. Aliens",
+    "year": 2009,
+    "cast": [
+      "Reese Witherspoon",
+      "Seth Rogen",
+      "Hugh Laurie",
+      "Rainn Wilson",
+      "Kiefer Sutherland",
+      "Will Arnett",
+      "Stephen Colbert",
+      "Paul Rudd"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/monsters-vs--aliens.html"
+}

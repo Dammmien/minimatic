@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Baby Face Harrington",
+    "year": 1935,
+    "cast": [
+      "Charles Butterworth",
+      "Una Merkel",
+      "Nat Pendleton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/baby-face-harrington.html"
+}

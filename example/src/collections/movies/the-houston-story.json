@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Houston Story",
+    "year": 1956,
+    "cast": [
+      "Barbara Hale",
+      "Gene Barry"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-houston-story.html"
+}

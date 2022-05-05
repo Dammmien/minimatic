@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mr. Moto's Gamble",
+    "year": 1938,
+    "cast": [
+      "Peter Lorre",
+      "Keye Luke",
+      "Douglas Fowley"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/mr--moto-s-gamble.html"
+}

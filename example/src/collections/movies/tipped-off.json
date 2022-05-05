@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Tipped Off",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/tipped-off.html"
+}

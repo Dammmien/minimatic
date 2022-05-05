@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "True to the Navy",
+    "year": 1930,
+    "cast": [
+      "Fredric March",
+      "Clara Bow",
+      "Harry Green"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/true-to-the-navy.html"
+}

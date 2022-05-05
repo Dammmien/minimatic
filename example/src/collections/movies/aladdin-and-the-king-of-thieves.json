@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Aladdin and the King of Thieves",
+    "year": 1996,
+    "cast": [
+      "Scott Weinger",
+      "Robin Williams",
+      "John Rhys-Davies"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/aladdin-and-the-king-of-thieves.html"
+}

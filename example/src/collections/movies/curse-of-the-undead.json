@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Curse of the Undead",
+    "year": 1959,
+    "cast": [
+      "Eric Fleming",
+      "Kathleen Crowley"
+    ],
+    "genres": [
+      "Western",
+      "Horror"
+    ]
+  },
+  "output": "movies/curse-of-the-undead.html"
+}

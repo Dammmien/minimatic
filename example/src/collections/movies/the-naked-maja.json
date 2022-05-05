@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Naked Maja",
+    "year": 1958,
+    "cast": [
+      "Ava Gardner",
+      "Anthony Franciosa"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-naked-maja.html"
+}

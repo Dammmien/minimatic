@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Satan Never Sleeps",
+    "year": 1962,
+    "cast": [
+      "William Holden",
+      "Clifton Webb",
+      "France Nuyen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/satan-never-sleeps.html"
+}

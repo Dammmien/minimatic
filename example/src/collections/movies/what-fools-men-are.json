@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "What Fools Men Are",
+    "year": 1922,
+    "cast": [
+      "Faire Binney",
+      "Lucy Fox"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/what-fools-men-are.html"
+}

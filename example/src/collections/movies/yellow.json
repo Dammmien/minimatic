@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Yellow",
+    "year": 2006,
+    "cast": [
+      "Roselyn Sánchez",
+      "Bill Duke",
+      "D. B. Sweeney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/yellow.html"
+}

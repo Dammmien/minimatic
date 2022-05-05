@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cat from Outer Space",
+    "year": 1978,
+    "cast": [
+      "Sandy Duncan",
+      "Roddy McDowall",
+      "Ken Berry"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-cat-from-outer-space.html"
+}

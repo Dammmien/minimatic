@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fugitive from Sonora",
+    "year": 1943,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Lynn Merrick"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fugitive-from-sonora.html"
+}

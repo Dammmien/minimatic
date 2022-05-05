@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Roommate",
+    "year": 2011,
+    "cast": [
+      "Leighton Meester",
+      "Minka Kelly",
+      "Cam Gigandet",
+      "Aly Michalka",
+      "Danneel Harris",
+      "Frances Fisher",
+      "Billy Zane"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-roommate.html"
+}

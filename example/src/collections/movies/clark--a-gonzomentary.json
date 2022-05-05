@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Clark: A Gonzomentary",
+    "year": 2013,
+    "cast": [
+      "William Clark",
+      "James Curcio",
+      "David Proch"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/clark--a-gonzomentary.html"
+}

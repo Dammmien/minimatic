@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Worth Winning",
+    "year": 1989,
+    "cast": [
+      "Mark Harmon",
+      "Madeleine Stowe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/worth-winning.html"
+}

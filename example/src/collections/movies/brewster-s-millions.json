@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brewster's Millions",
+    "year": 1985,
+    "cast": [
+      "Richard Pryor",
+      "John Candy",
+      "Lonette McKee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/brewster-s-millions.html"
+}

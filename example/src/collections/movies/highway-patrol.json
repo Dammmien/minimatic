@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Highway Patrol",
+    "year": 1938,
+    "cast": [
+      "Robert Paige",
+      "Julie Bishop"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/highway-patrol.html"
+}

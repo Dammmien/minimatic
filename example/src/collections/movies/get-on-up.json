@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Get on Up",
+    "year": 2014,
+    "cast": [
+      "Chadwick Boseman",
+      "Nelsan Ellis",
+      "Dan Aykroyd",
+      "Octavia Spencer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/get-on-up.html"
+}

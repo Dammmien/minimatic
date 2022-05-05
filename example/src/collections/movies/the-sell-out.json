@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sell Out",
+    "year": 1976,
+    "cast": [
+      "Richard Widmark",
+      "Oliver Reed"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sell-out.html"
+}

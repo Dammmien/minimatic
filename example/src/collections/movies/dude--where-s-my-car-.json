@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dude, Where's My Car?",
+    "year": 2000,
+    "cast": [
+      "Ashton Kutcher",
+      "Seann William Scott"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dude--where-s-my-car-.html"
+}

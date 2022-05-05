@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Lonely Are the Brave",
+    "year": 1962,
+    "cast": [
+      "Kirk Douglas",
+      "Walter Matthau",
+      "Gena Rowlands",
+      "Carroll O'Connor",
+      "George Kennedy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lonely-are-the-brave.html"
+}

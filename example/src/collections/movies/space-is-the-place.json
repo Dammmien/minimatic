@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Space Is the Place",
+    "year": 1974,
+    "cast": [
+      "Sun Ra"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/space-is-the-place.html"
+}

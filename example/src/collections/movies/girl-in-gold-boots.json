@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Girl in Gold Boots",
+    "year": 1969,
+    "cast": [
+      "Bara Byrnes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/girl-in-gold-boots.html"
+}

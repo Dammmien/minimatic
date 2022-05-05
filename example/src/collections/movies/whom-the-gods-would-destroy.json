@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Whom the Gods Would Destroy",
+    "year": 1919,
+    "cast": [
+      "Jack Mulhall",
+      "Pauline Starke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/whom-the-gods-would-destroy.html"
+}

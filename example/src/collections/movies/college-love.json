@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "College Love",
+    "year": 1929,
+    "cast": [
+      "George J. Lewis",
+      "Dorothy Gulliver"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/college-love.html"
+}

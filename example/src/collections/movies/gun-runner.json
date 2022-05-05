@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gun Runner",
+    "year": 1949,
+    "cast": [
+      "Jimmy Wakely",
+      "Noel Neill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gun-runner.html"
+}

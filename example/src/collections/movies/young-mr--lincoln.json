@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Young Mr. Lincoln",
+    "year": 1939,
+    "cast": [
+      "Henry Fonda",
+      "Alice Brady"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/young-mr--lincoln.html"
+}

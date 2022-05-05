@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Trainwreck",
+    "year": 2015,
+    "cast": [
+      "Amy Schumer",
+      "Tilda Swinton",
+      "Bill Hader",
+      "Daniel Radcliffe",
+      "Colin Quinn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/trainwreck.html"
+}

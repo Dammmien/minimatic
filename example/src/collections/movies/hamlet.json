@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hamlet",
+    "year": 2000,
+    "cast": [
+      "Ethan Hawke",
+      "Diane Venora",
+      "Julia Stiles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hamlet.html"
+}

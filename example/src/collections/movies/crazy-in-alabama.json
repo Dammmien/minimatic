@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Crazy in Alabama",
+    "year": 1999,
+    "cast": [
+      "Melanie Griffith",
+      "Lucas Black",
+      "David Morse",
+      "Meat Loaf Aday"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/crazy-in-alabama.html"
+}

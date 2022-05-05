@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Captain's Courage",
+    "year": 1926,
+    "cast": [
+      "Ashton Dearholt",
+      "Dorothy Dwan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-captain-s-courage.html"
+}

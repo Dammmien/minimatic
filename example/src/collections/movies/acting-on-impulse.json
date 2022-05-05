@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Acting on Impulse",
+    "year": 1993,
+    "cast": [
+      "C. Thomas Howell",
+      "Linda Fiorentino",
+      "Nancy Allen"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/acting-on-impulse.html"
+}

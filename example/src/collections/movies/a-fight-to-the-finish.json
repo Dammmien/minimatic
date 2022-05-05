@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Fight to the Finish",
+    "year": 1937,
+    "cast": [
+      "Don Terry",
+      "Rosalind Keith",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-fight-to-the-finish.html"
+}

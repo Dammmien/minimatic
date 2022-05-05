@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Woman's Devotion",
+    "year": 1956,
+    "cast": [
+      "Janice Rule",
+      "Ralph Meeker"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/a-woman-s-devotion.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Pirates of Penzance",
+    "year": 1983,
+    "cast": [
+      "Kevin Kline",
+      "Linda Ronstadt",
+      "Angela Lansbury"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-pirates-of-penzance.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Laid to Rest",
+    "year": 2009,
+    "cast": [
+      "Bobbi Sue Luther",
+      "Kevin Gage",
+      "Sean Whalen",
+      "Johnathon Schaech",
+      "Thomas Dekker",
+      "Nick Principe",
+      "Richard Lynch",
+      "Lena Headey"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/laid-to-rest.html"
+}

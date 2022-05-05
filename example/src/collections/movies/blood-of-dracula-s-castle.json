@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blood of Dracula's Castle",
+    "year": 1969,
+    "cast": [
+      "John Carradine",
+      "Robert Dix"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/blood-of-dracula-s-castle.html"
+}

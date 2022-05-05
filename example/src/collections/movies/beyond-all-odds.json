@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beyond All Odds",
+    "year": 1926,
+    "cast": [
+      "Eileen Sedgwick",
+      "Lew Meehan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beyond-all-odds.html"
+}

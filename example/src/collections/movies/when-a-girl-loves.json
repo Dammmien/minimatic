@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When a Girl Loves",
+    "year": 1924,
+    "cast": [
+      "Agnes Ayres",
+      "Percy Marmont"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/when-a-girl-loves.html"
+}

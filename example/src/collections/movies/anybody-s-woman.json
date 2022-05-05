@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Anybody's Woman",
+    "year": 1930,
+    "cast": [
+      "Ruth Chatterton",
+      "Paul Lukas",
+      "Clive Brook"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/anybody-s-woman.html"
+}

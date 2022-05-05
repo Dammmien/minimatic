@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Soup to Nuts",
+    "year": 1930,
+    "cast": [
+      "Ted Healy",
+      "Shemp Howard",
+      "Frances McCoy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/soup-to-nuts.html"
+}

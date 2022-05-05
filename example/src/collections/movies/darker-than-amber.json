@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Darker than Amber",
+    "year": 1970,
+    "cast": [
+      "Rod Taylor",
+      "Theodore Bikel",
+      "Suzy Kendall"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/darker-than-amber.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cruisin' Down the River",
+    "year": 1953,
+    "cast": [
+      "Dick Haymes",
+      "Audrey Totter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cruisin--down-the-river.html"
+}

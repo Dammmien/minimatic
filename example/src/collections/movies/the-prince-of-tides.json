@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Prince of Tides",
+    "year": 1991,
+    "cast": [
+      "Nick Nolte",
+      "Barbra Streisand",
+      "Blythe Danner",
+      "Melinda Dillon",
+      "Kate Nelligan",
+      "George Carlin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-prince-of-tides.html"
+}

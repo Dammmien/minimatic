@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tea and Sympathy",
+    "year": 1956,
+    "cast": [
+      "Deborah Kerr",
+      "John Kerr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tea-and-sympathy.html"
+}

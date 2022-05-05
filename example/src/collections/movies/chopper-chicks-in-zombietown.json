@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chopper Chicks in Zombietown",
+    "year": 1991,
+    "cast": [
+      "Vicki Frederick",
+      "Billy Bob Thornton"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/chopper-chicks-in-zombietown.html"
+}

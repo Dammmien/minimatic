@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Garden of Evil",
+    "year": 1954,
+    "cast": [
+      "Gary Cooper",
+      "Susan Hayward",
+      "Richard Widmark"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/garden-of-evil.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chu Chu and the Philly Flash",
+    "year": 1981,
+    "cast": [
+      "Alan Arkin",
+      "Carol Burnett",
+      "Jack Warden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/chu-chu-and-the-philly-flash.html"
+}

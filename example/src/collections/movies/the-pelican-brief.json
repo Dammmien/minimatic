@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Pelican Brief",
+    "year": 1993,
+    "cast": [
+      "Julia Roberts",
+      "Denzel Washington",
+      "John Lithgow",
+      "Sam Shepard",
+      "Tony Goldwyn",
+      "John Heard",
+      "James B. Sikking",
+      "William Atherton"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-pelican-brief.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "So Red the Rose",
+    "year": 1935,
+    "cast": [
+      "Walter Connolly",
+      "Margaret Sullavan",
+      "Randolph Scott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/so-red-the-rose.html"
+}

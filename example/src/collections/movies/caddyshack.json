@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Caddyshack",
+    "year": 1980,
+    "cast": [
+      "Chevy Chase",
+      "Rodney Dangerfield",
+      "Bill Murray",
+      "Ted Knight",
+      "Michael O'Keefe",
+      "Cindy Morgan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/caddyshack.html"
+}

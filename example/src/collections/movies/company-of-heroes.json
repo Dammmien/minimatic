@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Company of Heroes",
+    "year": 2013,
+    "cast": [
+      "Tom Sizemore",
+      "Chad Michael Collins",
+      "Vinnie Jones",
+      "Dimitri Diatchenko",
+      "Neal McDonough",
+      "Jürgen Prochnow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/company-of-heroes.html"
+}

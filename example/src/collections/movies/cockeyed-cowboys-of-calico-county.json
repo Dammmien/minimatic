@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cockeyed Cowboys of Calico County",
+    "year": 1970,
+    "cast": [
+      "Dan Blocker",
+      "Nanette Fabray",
+      "Jim Backus"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/cockeyed-cowboys-of-calico-county.html"
+}

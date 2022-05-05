@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "20,000 Men a Year",
+    "year": 1939,
+    "cast": [
+      "Randolph Scott",
+      "Preston Foster",
+      "Margaret Lindsay"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/20-000-men-a-year.html"
+}

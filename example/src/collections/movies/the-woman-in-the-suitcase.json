@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman in the Suitcase",
+    "year": 1920,
+    "cast": [
+      "Enid Bennett",
+      "William Conklin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woman-in-the-suitcase.html"
+}

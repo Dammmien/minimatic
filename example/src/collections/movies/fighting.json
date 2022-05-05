@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting",
+    "year": 2009,
+    "cast": [
+      "Channing Tatum",
+      "Terrence Howard"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/fighting.html"
+}

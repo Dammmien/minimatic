@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Numbered Men",
+    "year": 1930,
+    "cast": [
+      "Bernice Claire",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/numbered-men.html"
+}

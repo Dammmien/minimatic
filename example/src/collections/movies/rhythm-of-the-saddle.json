@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rhythm of the Saddle",
+    "year": 1938,
+    "cast": [
+      "Gene Autry",
+      "Peggy Moran"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rhythm-of-the-saddle.html"
+}

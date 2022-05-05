@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hit Parade of 1937",
+    "year": 1937,
+    "cast": [
+      "Louise Henry",
+      "Phil Regan",
+      "Duke Ellington"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hit-parade-of-1937.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Five Summer Stories",
+    "year": 1972,
+    "cast": [
+      "Eddie Aikau"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/five-summer-stories.html"
+}

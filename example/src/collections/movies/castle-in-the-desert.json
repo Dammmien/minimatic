@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Castle in the Desert",
+    "year": 1942,
+    "cast": [
+      "Sidney Toler",
+      "Arleen Whelan"
+    ],
+    "genres": []
+  },
+  "output": "movies/castle-in-the-desert.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Leadbelly",
+    "year": 1976,
+    "cast": [
+      "Roger E. Mosley"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/leadbelly.html"
+}

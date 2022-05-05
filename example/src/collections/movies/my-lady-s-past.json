@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Lady's Past",
+    "year": 1929,
+    "cast": [
+      "Belle Bennett",
+      "Joe E. Brown",
+      "Alma Bennett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-lady-s-past.html"
+}

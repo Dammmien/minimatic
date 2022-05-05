@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Polly of the Circus",
+    "year": 1932,
+    "cast": [
+      "Marion Davies",
+      "Clark Gable"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/polly-of-the-circus.html"
+}

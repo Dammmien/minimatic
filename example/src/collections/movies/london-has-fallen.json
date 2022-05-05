@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "London Has Fallen",
+    "year": 2016,
+    "cast": [
+      "Gerard Butler",
+      "Aaron Eckhart"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/london-has-fallen.html"
+}

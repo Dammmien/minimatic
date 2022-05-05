@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bonnie Bonnie Lassie",
+    "year": 1919,
+    "cast": [
+      "Mary MacLaren",
+      "Spottiswoode Aitken"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bonnie-bonnie-lassie.html"
+}

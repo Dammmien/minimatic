@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Pilot No. 5",
+    "year": 1943,
+    "cast": [
+      "Gene Kelly",
+      "Franchot Tone",
+      "Van Johnson",
+      "Marsha Hunt"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/pilot-no--5.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mantrap",
+    "year": 1943,
+    "cast": [
+      "Henry Stephenson",
+      "Lloyd Corrigan",
+      "Dorothy Lovett"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-mantrap.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bachelor Flat",
+    "year": 1962,
+    "cast": [
+      "Terry-Thomas",
+      "Tuesday Weld",
+      "Celeste Holm"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bachelor-flat.html"
+}

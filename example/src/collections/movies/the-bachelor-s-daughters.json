@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bachelor's Daughters",
+    "year": 1946,
+    "cast": [
+      "Claire Trevor",
+      "Gail Russell",
+      "Ann Dvorak"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bachelor-s-daughters.html"
+}

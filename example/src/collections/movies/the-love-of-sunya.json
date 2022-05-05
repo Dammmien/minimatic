@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Love of Sunya",
+    "year": 1927,
+    "cast": [
+      "Gloria Swanson",
+      "John Boles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-love-of-sunya.html"
+}

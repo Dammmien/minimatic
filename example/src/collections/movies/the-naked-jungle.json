@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Naked Jungle",
+    "year": 1954,
+    "cast": [
+      "Charlton Heston",
+      "Eleanor Parker"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-naked-jungle.html"
+}

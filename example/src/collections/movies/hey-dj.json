@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hey DJ",
+    "year": 2003,
+    "cast": [
+      "Charlotte Lewis",
+      "Tina Wiseman",
+      "Terry Camilleri",
+      "Jon Jacobs"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hey-dj.html"
+}

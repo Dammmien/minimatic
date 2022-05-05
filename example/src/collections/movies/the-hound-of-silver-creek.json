@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hound of Silver Creek",
+    "year": 1928,
+    "cast": [
+      "Edmund Cobb",
+      "Gloria Grey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-hound-of-silver-creek.html"
+}

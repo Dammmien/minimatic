@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Father Figures",
+    "year": 2017,
+    "cast": [
+      "Owen Wilson",
+      "Ed Helms",
+      "J. K. Simmons",
+      "Terry Bradshaw",
+      "Ving Rhames",
+      "Katt Williams",
+      "Retta",
+      "June Squibb",
+      "Glenn Close"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/father-figures.html"
+}

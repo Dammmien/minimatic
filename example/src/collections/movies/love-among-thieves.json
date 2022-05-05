@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love Among Thieves",
+    "year": 1987,
+    "cast": [
+      "Audrey Hepburn",
+      "Robert Wagner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-among-thieves.html"
+}

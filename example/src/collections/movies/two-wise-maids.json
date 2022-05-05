@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two Wise Maids",
+    "year": 1937,
+    "cast": [
+      "Alison Skipworth",
+      "Peggy Moran",
+      "Donald Cook"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/two-wise-maids.html"
+}

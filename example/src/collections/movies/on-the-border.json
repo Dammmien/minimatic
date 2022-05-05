@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "On the Border",
+    "year": 1930,
+    "cast": [
+      "Rin Tin Tin",
+      "Armida"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/on-the-border.html"
+}

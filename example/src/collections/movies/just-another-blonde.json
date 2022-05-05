@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Just Another Blonde",
+    "year": 1926,
+    "cast": [
+      "Dorothy Mackaill",
+      "Jack Mulhall",
+      "Louise Brooks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/just-another-blonde.html"
+}

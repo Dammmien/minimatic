@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Homebreaker",
+    "year": 1919,
+    "cast": [
+      "Dorothy Dalton",
+      "Douglas MacLean"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-homebreaker.html"
+}

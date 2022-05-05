@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Summer Holiday",
+    "year": 1948,
+    "cast": [
+      "Mickey Rooney",
+      "Gloria DeHaven"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/summer-holiday.html"
+}

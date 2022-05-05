@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Earth to Echo",
+    "year": 2014,
+    "cast": [
+      "Teo Halm",
+      "Reese Hartwig",
+      "Jason Gray-Stanford"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/earth-to-echo.html"
+}

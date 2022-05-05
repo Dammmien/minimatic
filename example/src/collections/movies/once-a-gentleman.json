@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Once a Gentleman",
+    "year": 1930,
+    "cast": [
+      "Edward Everett Horton",
+      "Lois Wilson",
+      "Francis X. Bushman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/once-a-gentleman.html"
+}

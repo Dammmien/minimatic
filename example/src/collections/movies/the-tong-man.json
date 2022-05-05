@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Tong Man",
+    "year": 1919,
+    "cast": [
+      "Sessue Hayakawa",
+      "Helen Jerome Eddy"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-tong-man.html"
+}

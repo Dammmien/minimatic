@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Pink Panther 2",
+    "year": 2009,
+    "cast": [
+      "Steve Martin",
+      "Jean Reno",
+      "Alfred Molina",
+      "Emily Mortimer",
+      "Aishwarya Rai"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-pink-panther-2.html"
+}

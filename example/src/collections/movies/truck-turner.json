@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Truck Turner",
+    "year": 1974,
+    "cast": [
+      "Isaac Hayes",
+      "Yaphet Kotto"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/truck-turner.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "We Are Not Alone",
+    "year": 1939,
+    "cast": [
+      "Jane Bryan",
+      "Paul Muni"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/we-are-not-alone.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Life at Stake",
+    "year": 1954,
+    "cast": [
+      "Angela Lansbury",
+      "Keith Andes",
+      "Douglas Dumbrille"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/a-life-at-stake.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Ghost Rider: Spirit of Vengeance",
+    "year": 2012,
+    "cast": [
+      "Nicolas Cage",
+      "Ciarán Hinds",
+      "Violante Placido",
+      "Johnny Whitworth",
+      "Christopher Lambert",
+      "Idris Elba"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/ghost-rider--spirit-of-vengeance.html"
+}

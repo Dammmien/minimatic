@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Future World",
+    "year": 2018,
+    "cast": [
+      "James Franco",
+      "Suki Waterhouse",
+      "Jeffrey Wahlberg",
+      "Margarita Levieva",
+      "Snoop Dogg",
+      "George Lewis Jr.",
+      "Method Man",
+      "Lucy Liu",
+      "Milla Jovovich"
+    ],
+    "genres": [
+      "Thriller",
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/future-world.html"
+}

@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Birth of a Nation",
+    "year": 1915,
+    "cast": [
+      "Lillian Gish",
+      "Mae Marsh"
+    ],
+    "genres": []
+  },
+  "output": "movies/birth-of-a-nation.html"
+}

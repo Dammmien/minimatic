@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Extract",
+    "year": 2009,
+    "cast": [
+      "Jason Bateman",
+      "Mila Kunis",
+      "Kristen Wiig",
+      "J. K. Simmons",
+      "Ben Affleck"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/extract.html"
+}

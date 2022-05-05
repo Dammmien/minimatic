@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jaws 3-D",
+    "year": 1983,
+    "cast": [
+      "Bess Armstrong",
+      "Dennis Quaid",
+      "Louis Gossett, Jr."
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/jaws-3-d.html"
+}

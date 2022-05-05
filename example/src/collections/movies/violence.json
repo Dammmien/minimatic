@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Violence",
+    "year": 1947,
+    "cast": [
+      "Nancy Coleman",
+      "Michael O'Shea"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/violence.html"
+}

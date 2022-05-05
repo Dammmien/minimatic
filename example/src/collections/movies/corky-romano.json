@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Corky Romano",
+    "year": 2001,
+    "cast": [
+      "Chris Kattan",
+      "Peter Falk",
+      "Fred Ward"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/corky-romano.html"
+}

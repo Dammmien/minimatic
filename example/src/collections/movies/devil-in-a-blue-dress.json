@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Devil in a Blue Dress",
+    "year": 1995,
+    "cast": [
+      "Denzel Washington",
+      "Tom Sizemore",
+      "Don Cheadle",
+      "Jennifer Beals",
+      "Terry Kinney",
+      "Albert Hall"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/devil-in-a-blue-dress.html"
+}

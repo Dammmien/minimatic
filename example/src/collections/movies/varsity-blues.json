@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Varsity Blues",
+    "year": 1999,
+    "cast": [
+      "James Van Der Beek",
+      "Jon Voight",
+      "Paul Walker",
+      "Amy Smart",
+      "Scott Caan",
+      "Ron Lester",
+      "Ali Larter",
+      "Eliel Swinton"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/varsity-blues.html"
+}

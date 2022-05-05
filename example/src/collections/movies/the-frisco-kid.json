@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Frisco Kid",
+    "year": 1979,
+    "cast": [
+      "Gene Wilder",
+      "Harrison Ford"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-frisco-kid.html"
+}

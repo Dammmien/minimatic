@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gildersleeve's Ghost",
+    "year": 1944,
+    "cast": [
+      "Harold Peary",
+      "Marion Martin",
+      "Richard LeGrand"
+    ],
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/gildersleeve-s-ghost.html"
+}

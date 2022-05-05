@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Party Girl",
+    "year": 1995,
+    "cast": [
+      "Parker Posey",
+      "Liev Schreiber"
+    ],
+    "genres": []
+  },
+  "output": "movies/party-girl.html"
+}

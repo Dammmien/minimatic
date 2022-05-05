@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "French Connection II",
+    "year": 1975,
+    "cast": [
+      "Gene Hackman",
+      "Fernando Rey"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/french-connection-ii.html"
+}

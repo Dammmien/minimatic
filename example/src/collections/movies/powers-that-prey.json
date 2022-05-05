@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Powers That Prey",
+    "year": 1918,
+    "cast": [
+      "Mary Miles Minter",
+      "Allan Forrest"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/powers-that-prey.html"
+}

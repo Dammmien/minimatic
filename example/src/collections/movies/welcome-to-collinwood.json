@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Welcome to Collinwood",
+    "year": 2002,
+    "cast": [
+      "William H. Macy",
+      "Isaiah Washington",
+      "Michael Jeter"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/welcome-to-collinwood.html"
+}

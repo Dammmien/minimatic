@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Butterfly Effect",
+    "year": 2004,
+    "cast": [
+      "Ashton Kutcher",
+      "Amy Smart",
+      "Elden Henson",
+      "William Lee Scott",
+      "Melora Walters",
+      "Eric Stoltz",
+      "Ethan Suplee",
+      "Logan Lerman"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-butterfly-effect.html"
+}

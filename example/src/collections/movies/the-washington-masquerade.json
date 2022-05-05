@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Washington Masquerade",
+    "year": 1932,
+    "cast": [
+      "Lionel Barrymore",
+      "Karen Morley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-washington-masquerade.html"
+}

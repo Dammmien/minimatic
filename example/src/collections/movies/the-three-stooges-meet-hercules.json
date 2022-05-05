@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Three Stooges Meet Hercules",
+    "year": 1962,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-three-stooges-meet-hercules.html"
+}

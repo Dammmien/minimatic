@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Poetic Justice",
+    "year": 1993,
+    "cast": [
+      "Janet Jackson",
+      "Tupac Shakur",
+      "Regina King",
+      "Joe Torry",
+      "Tyra Ferrell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/poetic-justice.html"
+}

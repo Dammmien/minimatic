@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Trip",
+    "year": 1967,
+    "cast": [
+      "Peter Fonda",
+      "Susan Strasberg",
+      "Dennis Hopper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-trip.html"
+}

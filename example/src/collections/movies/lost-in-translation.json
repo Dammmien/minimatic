@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lost in Translation",
+    "year": 2003,
+    "cast": [
+      "Bill Murray",
+      "Scarlett Johansson"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/lost-in-translation.html"
+}

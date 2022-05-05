@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In Good Company",
+    "year": 2004,
+    "cast": [
+      "Dennis Quaid",
+      "Scarlett Johansson",
+      "Topher Grace"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/in-good-company.html"
+}

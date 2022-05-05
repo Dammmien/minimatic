@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In Hollywood with Potash and Perlmutter",
+    "year": 1924,
+    "cast": [
+      "Vera Gordon",
+      "Betty Blythe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/in-hollywood-with-potash-and-perlmutter.html"
+}

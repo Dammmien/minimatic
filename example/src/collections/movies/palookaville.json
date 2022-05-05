@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Palookaville",
+    "year": 1995,
+    "cast": [
+      "William Forsythe",
+      "Frances McDormand"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/palookaville.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The House of Rothschild",
+    "year": 1934,
+    "cast": [
+      "George Arliss",
+      "Boris Karloff",
+      "Loretta Young"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-house-of-rothschild.html"
+}

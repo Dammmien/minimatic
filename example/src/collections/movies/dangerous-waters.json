@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dangerous Waters",
+    "year": 1936,
+    "cast": [
+      "Robert Armstrong",
+      "Jack Holt",
+      "Edwin Maxwell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dangerous-waters.html"
+}

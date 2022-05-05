@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Times Square Playboy",
+    "year": 1936,
+    "cast": [
+      "Gene Lockhart",
+      "Warren William",
+      "June Travis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/times-square-playboy.html"
+}

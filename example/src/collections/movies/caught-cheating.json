@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Caught Cheating",
+    "year": 1931,
+    "cast": [
+      "Charles Murray",
+      "Dorothy Christy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/caught-cheating.html"
+}

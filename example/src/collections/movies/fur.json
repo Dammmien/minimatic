@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fur",
+    "year": 2006,
+    "cast": [
+      "Nicole Kidman",
+      "Robert Downey, Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fur.html"
+}

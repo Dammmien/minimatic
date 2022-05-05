@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Island of Lost Souls",
+    "year": 1932,
+    "cast": [
+      "Charles Laughton",
+      "Richard Arlen",
+      "Bela Lugosi"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/island-of-lost-souls.html"
+}

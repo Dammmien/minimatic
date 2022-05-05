@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Affairs of Anatol",
+    "year": 1921,
+    "cast": [
+      "Wallace Reid",
+      "Gloria Swanson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-affairs-of-anatol.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Powder River Rustlers",
+    "year": 1949,
+    "cast": [
+      "Allan Lane",
+      "Eddy Waller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/powder-river-rustlers.html"
+}

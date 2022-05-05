@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Face to Face",
+    "year": 1952,
+    "cast": [
+      "James Mason",
+      "Robert Preston",
+      "Gene Lockhart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/face-to-face.html"
+}

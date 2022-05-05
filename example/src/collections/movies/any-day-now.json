@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Any Day Now",
+    "year": 2012,
+    "cast": [
+      "Alan Cumming",
+      "Garret Dillahunt",
+      "Gregg Henry",
+      "Jamie Anne Allman",
+      "Chris Mulkey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/any-day-now.html"
+}

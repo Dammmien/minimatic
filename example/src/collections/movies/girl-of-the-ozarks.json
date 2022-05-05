@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Girl of the Ozarks",
+    "year": 1936,
+    "cast": [
+      "Virginia Weidler",
+      "Henrietta Crosman",
+      "Leif Erickson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/girl-of-the-ozarks.html"
+}

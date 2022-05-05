@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Boxer",
+    "year": 1997,
+    "cast": [
+      "Daniel Day-Lewis",
+      "Emily Watson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-boxer.html"
+}

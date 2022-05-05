@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ice Princess",
+    "year": 2005,
+    "cast": [
+      "Michelle Trachtenberg",
+      "Hayden Panettiere",
+      "Kim Cattrall",
+      "Joan Cusack"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ice-princess.html"
+}

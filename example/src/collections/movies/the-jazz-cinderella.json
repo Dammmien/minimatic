@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Jazz Cinderella",
+    "year": 1930,
+    "cast": [
+      "Myrna Loy",
+      "Nancy Welford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-jazz-cinderella.html"
+}

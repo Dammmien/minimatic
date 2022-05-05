@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Jory",
+    "year": 1973,
+    "cast": [
+      "Robby Benson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/jory.html"
+}

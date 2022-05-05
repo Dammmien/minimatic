@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tomahawk Trail",
+    "year": 1957,
+    "cast": [
+      "Chuck Connors",
+      "Susan Cummings"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/tomahawk-trail.html"
+}

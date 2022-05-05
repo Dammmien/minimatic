@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nine-Tenths of the Law",
+    "year": 1919,
+    "cast": [
+      "Mitchell Lewis",
+      "Jimsy Maye"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/nine-tenths-of-the-law.html"
+}

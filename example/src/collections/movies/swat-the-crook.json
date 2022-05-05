@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Swat the Crook",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd",
+      "Snub Pollard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/swat-the-crook.html"
+}

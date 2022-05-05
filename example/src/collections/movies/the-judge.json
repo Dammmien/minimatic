@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Judge",
+    "year": 2014,
+    "cast": [
+      "Robert Downey, Jr.",
+      "Robert Duvall",
+      "Vera Farmiga",
+      "Billy Bob Thornton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-judge.html"
+}

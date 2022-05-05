@@ -1,0 +1,33 @@
+{
+  "data": {
+    "title": "Scream 4",
+    "year": 2011,
+    "cast": [
+      "Neve Campbell",
+      "Courteney Cox",
+      "David Arquette",
+      "Emma Roberts",
+      "Hayden Panettiere",
+      "Anthony Anderson",
+      "Alison Brie",
+      "Adam Brody",
+      "Rory Culkin",
+      "Marielle Jaffe",
+      "Erik Knudsen",
+      "Mary McDonnell",
+      "Brittany Robertson",
+      "Marley Shelton",
+      "Aimee Teegarden",
+      "Nico Tortorella",
+      "Anna Paquin",
+      "Kristen Bell",
+      "Shenae Grimes",
+      "Lucy Hale"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/scream-4.html"
+}

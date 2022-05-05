@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Breaking Point",
+    "year": 1950,
+    "cast": [
+      "John Garfield",
+      "Patricia Neal"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-breaking-point.html"
+}

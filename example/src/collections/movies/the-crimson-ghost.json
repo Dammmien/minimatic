@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Crimson Ghost",
+    "year": 1946,
+    "cast": [
+      "Charles Quigley",
+      "Linda Stirling"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-crimson-ghost.html"
+}

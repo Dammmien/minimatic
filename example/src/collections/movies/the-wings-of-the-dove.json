@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wings of the Dove",
+    "year": 1997,
+    "cast": [
+      "Helena Bonham Carter",
+      "Linus Roache",
+      "Alison Elliott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wings-of-the-dove.html"
+}

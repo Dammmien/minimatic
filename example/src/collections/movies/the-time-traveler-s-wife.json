@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Time Traveler's Wife",
+    "year": 2009,
+    "cast": [
+      "Eric Bana",
+      "Rachel McAdams"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-time-traveler-s-wife.html"
+}

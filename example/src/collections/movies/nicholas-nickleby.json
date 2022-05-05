@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Nicholas Nickleby",
+    "year": 2002,
+    "cast": [
+      "Charlie Hunnam",
+      "Christopher Plummer",
+      "Jamie Bell",
+      "Anne Hathaway"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/nicholas-nickleby.html"
+}

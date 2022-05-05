@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dizzy Dames",
+    "year": 1935,
+    "cast": [
+      "Marjorie Rambeau",
+      "Florine McKinney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dizzy-dames.html"
+}

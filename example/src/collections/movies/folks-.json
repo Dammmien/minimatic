@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Folks!",
+    "year": 1992,
+    "cast": [
+      "Tom Selleck",
+      "Don Ameche",
+      "Anne Jackson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/folks-.html"
+}

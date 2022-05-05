@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Emperor's Candlesticks",
+    "year": 1937,
+    "cast": [
+      "William Powell",
+      "Luise Rainer",
+      "Robert Young",
+      "Maureen O'Sullivan",
+      "Frank Morgan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-emperor-s-candlesticks.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Phantom Valley",
+    "year": 1948,
+    "cast": [
+      "Charles Starrett",
+      "Smiley Burnette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/phantom-valley.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Iron Sheriff",
+    "year": 1957,
+    "cast": [
+      "Sterling Hayden",
+      "Constance Ford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-iron-sheriff.html"
+}

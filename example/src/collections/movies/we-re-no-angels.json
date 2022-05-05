@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "We're No Angels",
+    "year": 1989,
+    "cast": [
+      "Sean Penn",
+      "Robert De Niro",
+      "Demi Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/we-re-no-angels.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Bad Ass",
+    "year": 2012,
+    "cast": [
+      "Danny Trejo",
+      "Charles S. Dutton",
+      "Ron Perlman",
+      "Shalim Ortiz",
+      "Jillian Murray",
+      "Winter Ave Zoli",
+      "Richard Riehle"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/bad-ass.html"
+}

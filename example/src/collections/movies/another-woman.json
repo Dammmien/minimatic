@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Another Woman",
+    "year": 1988,
+    "cast": [
+      "Mia Farrow",
+      "Gena Rowlands",
+      "Gene Hackman",
+      "Ian Holm"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/another-woman.html"
+}

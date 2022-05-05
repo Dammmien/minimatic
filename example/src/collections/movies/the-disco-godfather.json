@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Disco Godfather",
+    "year": 1979,
+    "cast": [
+      "Rudy Ray Moore",
+      "Carol Speed"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-disco-godfather.html"
+}

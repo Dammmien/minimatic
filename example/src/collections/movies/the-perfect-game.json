@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Perfect Game",
+    "year": 2010,
+    "cast": [
+      "Clifton Collins Jr.",
+      "Cheech Marin",
+      "Emilie de Ravin",
+      "Moisés Arias",
+      "Jake T. Austin",
+      "Jansen Panettiere",
+      "Lou Gossett Jr.",
+      "Bruce McGill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-perfect-game.html"
+}

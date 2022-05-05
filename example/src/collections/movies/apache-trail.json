@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Apache Trail",
+    "year": 1942,
+    "cast": [
+      "Lloyd Nolan",
+      "Donna Reed",
+      "Ann Ayars"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/apache-trail.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Trail Beyond",
+    "year": 1934,
+    "cast": [
+      "John Wayne",
+      "Verna Hillie",
+      "Noah Beery Sr."
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-trail-beyond.html"
+}

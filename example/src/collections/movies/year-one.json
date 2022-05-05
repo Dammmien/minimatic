@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Year One",
+    "year": 2009,
+    "cast": [
+      "Jack Black",
+      "Michael Cera",
+      "Oliver Platt",
+      "Hank Azaria",
+      "David Cross",
+      "Olivia Wilde",
+      "June Raphael",
+      "Juno Temple",
+      "Christopher Mintz-Plasse"
+    ],
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ]
+  },
+  "output": "movies/year-one.html"
+}

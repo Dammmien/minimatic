@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bedtime Story",
+    "year": 1964,
+    "cast": [
+      "Marlon Brando",
+      "David Niven",
+      "Shirley Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bedtime-story.html"
+}

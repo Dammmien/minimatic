@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Christopher Bean",
+    "year": 1933,
+    "cast": [
+      "Marie Dressler",
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/christopher-bean.html"
+}

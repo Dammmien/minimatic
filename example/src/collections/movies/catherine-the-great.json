@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Catherine the Great",
+    "year": 1995,
+    "cast": [
+      "Catherine Zeta-Jones",
+      "Jeanne Moreau"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/catherine-the-great.html"
+}

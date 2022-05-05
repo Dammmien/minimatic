@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pope Joan",
+    "year": 1972,
+    "cast": [
+      "Liv Ullmann",
+      "Olivia de Havilland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pope-joan.html"
+}

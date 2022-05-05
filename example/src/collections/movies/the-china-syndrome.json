@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The China Syndrome",
+    "year": 1979,
+    "cast": [
+      "Jane Fonda",
+      "Jack Lemmon",
+      "Michael Douglas"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-china-syndrome.html"
+}

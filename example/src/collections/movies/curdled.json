@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Curdled",
+    "year": 1996,
+    "cast": [
+      "Angela Jones",
+      "William Baldwin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/curdled.html"
+}

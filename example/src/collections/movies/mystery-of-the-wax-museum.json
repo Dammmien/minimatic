@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mystery of the Wax Museum",
+    "year": 1933,
+    "cast": [
+      "Lionel Atwill",
+      "Fay Wray",
+      "Glenda Farrell"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/mystery-of-the-wax-museum.html"
+}

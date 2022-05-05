@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "To Catch a Thief",
+    "year": 1955,
+    "cast": [
+      "Cary Grant",
+      "Grace Kelly"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/to-catch-a-thief.html"
+}

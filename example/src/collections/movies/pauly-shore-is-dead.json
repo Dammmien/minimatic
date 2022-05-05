@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Pauly Shore Is Dead",
+    "year": 2003,
+    "cast": [
+      "Pauly Shore"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/pauly-shore-is-dead.html"
+}

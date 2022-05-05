@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "For Beauty's Sake",
+    "year": 1941,
+    "cast": [
+      "Marjorie Weaver",
+      "Joan Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/for-beauty-s-sake.html"
+}

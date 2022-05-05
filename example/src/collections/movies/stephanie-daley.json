@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stephanie Daley",
+    "year": 2006,
+    "cast": [
+      "Amber Tamblyn",
+      "Tilda Swinton",
+      "Timothy Hutton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stephanie-daley.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Boy from Indiana",
+    "year": 1950,
+    "cast": [
+      "Lon McCallister",
+      "Lois Butler",
+      "Billie Burke"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/the-boy-from-indiana.html"
+}

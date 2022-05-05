@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder in the Blue Room",
+    "year": 1944,
+    "cast": [
+      "Anne Gwynne",
+      "John Litel"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder-in-the-blue-room.html"
+}

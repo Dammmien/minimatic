@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Kiss Me, Stupid",
+    "year": 1964,
+    "cast": [
+      "Dean Martin",
+      "Kim Novak",
+      "Ray Walston",
+      "Cliff Osmond",
+      "Felicia Farr"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kiss-me--stupid.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Death Race 2000",
+    "year": 1975,
+    "cast": [
+      "David Carradine",
+      "Sylvester Stallone"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/death-race-2000.html"
+}

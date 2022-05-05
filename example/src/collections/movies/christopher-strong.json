@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Christopher Strong",
+    "year": 1933,
+    "cast": [
+      "Katharine Hepburn",
+      "Colin Clive"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/christopher-strong.html"
+}

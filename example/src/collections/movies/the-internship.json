@@ -1,0 +1,27 @@
+{
+  "data": {
+    "title": "The Internship",
+    "year": 2013,
+    "cast": [
+      "Vince Vaughn",
+      "Owen Wilson",
+      "Dylan O'Brien",
+      "Rose Byrne",
+      "Jessica Szohr",
+      "Max Minghella",
+      "Aasif Mandvi",
+      "John Goodman",
+      "Will Ferrell",
+      "JoAnna Garcia",
+      "Eric Andre",
+      "Josh Brener",
+      "Tiya Sircar",
+      "Tobit Raphael",
+      "Josh Gad"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-internship.html"
+}

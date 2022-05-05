@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "College Humor",
+    "year": 1933,
+    "cast": [
+      "Bing Crosby",
+      "Jack Oakie",
+      "Mary Carlisle"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/college-humor.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Broadway Bill",
+    "year": 1934,
+    "cast": [
+      "Myrna Loy",
+      "Warner Baxter",
+      "Walter Connolly"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/broadway-bill.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Face Behind the Mask",
+    "year": 1941,
+    "cast": [
+      "Peter Lorre"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-face-behind-the-mask.html"
+}

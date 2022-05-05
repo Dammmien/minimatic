@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wide Open",
+    "year": 1930,
+    "cast": [
+      "Edward Everett Horton",
+      "Patsy Ruth Miller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wide-open.html"
+}

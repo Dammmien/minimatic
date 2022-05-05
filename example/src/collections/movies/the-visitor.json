@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Visitor",
+    "year": 1979,
+    "cast": [
+      "Glenn Ford",
+      "Shelley Winters",
+      "Steve Somers"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-visitor.html"
+}

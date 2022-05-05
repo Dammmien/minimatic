@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gallant Legion",
+    "year": 1948,
+    "cast": [
+      "Wild Bill Elliott",
+      "Lorna Gray"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-gallant-legion.html"
+}

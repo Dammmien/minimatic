@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Want My Man",
+    "year": 1925,
+    "cast": [
+      "Doris Kenyon",
+      "Milton Sills",
+      "Phyllis Haver"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/i-want-my-man.html"
+}

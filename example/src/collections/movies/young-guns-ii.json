@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Young Guns II",
+    "year": 1990,
+    "cast": [
+      "Emilio Estevez",
+      "Kiefer Sutherland",
+      "Lou Diamond Phillips",
+      "Christian Slater",
+      "William Petersen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/young-guns-ii.html"
+}

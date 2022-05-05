@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ziegfeld Follies",
+    "year": 1945,
+    "cast": [
+      "Fred Astaire",
+      "Lucille Ball",
+      "Judy Garland"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/ziegfeld-follies.html"
+}

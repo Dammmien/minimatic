@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Many Rivers to Cross",
+    "year": 1955,
+    "cast": [
+      "Robert Taylor",
+      "Eleanor Parker"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/many-rivers-to-cross.html"
+}

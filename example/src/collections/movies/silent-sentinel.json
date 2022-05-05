@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Silent Sentinel",
+    "year": 1929,
+    "cast": [
+      "Gareth Hughes",
+      "Josephine Hill"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/silent-sentinel.html"
+}

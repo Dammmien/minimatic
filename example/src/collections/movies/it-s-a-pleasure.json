@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It's a Pleasure",
+    "year": 1945,
+    "cast": [
+      "Sonja Henie",
+      "Michael O'Shea"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/it-s-a-pleasure.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "West of the Law",
+    "year": 1926,
+    "cast": [
+      "Neva Gerber",
+      "Ashton Dearholt",
+      "Hal Walters"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/west-of-the-law.html"
+}

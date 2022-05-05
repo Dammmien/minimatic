@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hitch",
+    "year": 2005,
+    "cast": [
+      "Will Smith",
+      "Kevin James",
+      "Eva Mendes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hitch.html"
+}

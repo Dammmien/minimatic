@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "At the Foot of the Ladder",
+    "year": 1912,
+    "cast": [
+      "Mignon Anderson",
+      "William Garwood"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/at-the-foot-of-the-ladder.html"
+}

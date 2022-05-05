@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fantastic Four: Rise of the Silver Surfer",
+    "year": 2007,
+    "cast": [
+      "Ioan Gruffudd",
+      "Jessica Alba",
+      "Chris Evans",
+      "Michael Chiklis"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/fantastic-four--rise-of-the-silver-surfer.html"
+}

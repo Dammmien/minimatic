@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bill & Ted's Excellent Adventure",
+    "year": 1989,
+    "cast": [
+      "Keanu Reeves",
+      "Alex Winter",
+      "George Carlin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bill---ted-s-excellent-adventure.html"
+}

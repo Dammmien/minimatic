@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "What About Bob?",
+    "year": 1991,
+    "cast": [
+      "Bill Murray",
+      "Richard Dreyfuss",
+      "Julie Hagerty",
+      "Charlie Korsmo",
+      "Kathryn Erbe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/what-about-bob-.html"
+}

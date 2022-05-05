@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Problem Child",
+    "year": 1990,
+    "cast": [
+      "John Ritter",
+      "Jack Warden",
+      "Michael Oliver",
+      "Gilbert Gottfried",
+      "Amy Yasbeck",
+      "Michael Richards"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/problem-child.html"
+}

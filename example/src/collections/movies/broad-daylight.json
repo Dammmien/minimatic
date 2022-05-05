@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Broad Daylight",
+    "year": 1922,
+    "cast": [
+      "Lois Wilson",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/broad-daylight.html"
+}

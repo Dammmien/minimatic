@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Kid from Brooklyn",
+    "year": 1946,
+    "cast": [
+      "Danny Kaye",
+      "Virginia Mayo",
+      "Vera-Ellen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-kid-from-brooklyn.html"
+}

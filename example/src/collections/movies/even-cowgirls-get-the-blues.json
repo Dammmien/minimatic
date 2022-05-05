@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Even Cowgirls Get the Blues",
+    "year": 1994,
+    "cast": [
+      "Uma Thurman",
+      "Lorraine Bracco",
+      "Angie Dickinson",
+      "Pat Morita",
+      "Keanu Reeves",
+      "John Hurt",
+      "Rain Phoenix",
+      "Roseanne Barr",
+      "Ed Begley, Jr."
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/even-cowgirls-get-the-blues.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Captain of the Guard",
+    "year": 1930,
+    "cast": [
+      "Laura La Plante",
+      "John Boles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/captain-of-the-guard.html"
+}

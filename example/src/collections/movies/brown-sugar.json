@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brown Sugar",
+    "year": 2002,
+    "cast": [
+      "Taye Diggs",
+      "Sanaa Lathan",
+      "Mos Def"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/brown-sugar.html"
+}

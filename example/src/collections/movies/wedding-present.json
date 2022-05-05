@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wedding Present",
+    "year": 1936,
+    "cast": [
+      "Cary Grant",
+      "Joan Bennett",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wedding-present.html"
+}

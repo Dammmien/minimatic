@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Chances Are",
+    "year": 1989,
+    "cast": [
+      "Cybill Shepherd",
+      "Robert Downey, Jr.",
+      "Ryan O'Neal",
+      "Mary Stuart Masterson"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/chances-are.html"
+}

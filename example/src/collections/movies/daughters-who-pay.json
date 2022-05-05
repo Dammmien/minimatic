@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daughters Who Pay",
+    "year": 1925,
+    "cast": [
+      "Marguerite De La Motte",
+      "John Bowers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/daughters-who-pay.html"
+}

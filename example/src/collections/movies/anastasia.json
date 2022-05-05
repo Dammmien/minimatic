@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Anastasia",
+    "year": 1997,
+    "cast": [
+      "Meg Ryan",
+      "John Cusack",
+      "Kelsey Grammer",
+      "Hank Azaria",
+      "Christopher Lloyd",
+      "Angela Lansbury",
+      "(voices)"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/anastasia.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sinner or Saint",
+    "year": 1923,
+    "cast": [
+      "Betty Blythe",
+      "William P. Carleton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sinner-or-saint.html"
+}

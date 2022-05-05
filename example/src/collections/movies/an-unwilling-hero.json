@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "An Unwilling Hero",
+    "year": 1921,
+    "cast": [
+      "Will Rogers",
+      "Molly Malone"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/an-unwilling-hero.html"
+}

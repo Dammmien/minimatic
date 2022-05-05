@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It Is the Law",
+    "year": 1924,
+    "cast": [
+      "Arthur Hohl",
+      "Herbert Heyes"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/it-is-the-law.html"
+}

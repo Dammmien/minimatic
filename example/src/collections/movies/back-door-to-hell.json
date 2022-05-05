@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Back Door to Hell",
+    "year": 1964,
+    "cast": [
+      "Jimmie Rodgers",
+      "Jack Nicholson"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/back-door-to-hell.html"
+}

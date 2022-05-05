@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Some More of Samoa",
+    "year": 1941,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/some-more-of-samoa.html"
+}

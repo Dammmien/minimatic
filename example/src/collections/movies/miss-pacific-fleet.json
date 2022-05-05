@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Miss Pacific Fleet",
+    "year": 1935,
+    "cast": [
+      "Joan Blondell",
+      "Glenda Farrell",
+      "Hugh Herbert"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/miss-pacific-fleet.html"
+}

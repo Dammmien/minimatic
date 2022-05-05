@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Like Crazy",
+    "year": 2011,
+    "cast": [
+      "Anton Yelchin",
+      "Felicity Jones",
+      "Jennifer Lawrence",
+      "Charlie Bewley",
+      "Alex Kingston",
+      "Oliver Muirhead",
+      "Finola Hughes",
+      "Chris Messina",
+      "Ben York Jones",
+      "Jamie Thomas King"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/like-crazy.html"
+}

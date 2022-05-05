@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Captive of Billy the Kid",
+    "year": 1952,
+    "cast": [
+      "Allan Lane",
+      "Grant Withers",
+      "Penny Edwards"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/captive-of-billy-the-kid.html"
+}

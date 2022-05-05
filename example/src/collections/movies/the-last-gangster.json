@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Last Gangster",
+    "year": 1937,
+    "cast": [
+      "Edward G. Robinson",
+      "James Stewart",
+      "Douglas Scott"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-last-gangster.html"
+}

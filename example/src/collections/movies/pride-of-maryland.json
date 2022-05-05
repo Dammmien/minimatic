@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pride of Maryland",
+    "year": 1951,
+    "cast": [
+      "Peggy Stewart",
+      "Stanley Clements"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pride-of-maryland.html"
+}

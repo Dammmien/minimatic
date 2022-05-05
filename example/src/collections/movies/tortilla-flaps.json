@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Tortilla Flaps",
+    "year": 1958,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/tortilla-flaps.html"
+}

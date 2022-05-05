@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "True Nobility",
+    "year": 1916,
+    "cast": [
+      "Helene Rosson",
+      "Forrest Taylor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/true-nobility.html"
+}

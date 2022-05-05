@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Harmony at Home",
+    "year": 1930,
+    "cast": [
+      "Marguerite Churchill",
+      "Charlotte Henry"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/harmony-at-home.html"
+}

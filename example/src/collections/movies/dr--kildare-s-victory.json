@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dr. Kildare's Victory",
+    "year": 1942,
+    "cast": [
+      "Lew Ayres",
+      "Ann Ayars"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dr--kildare-s-victory.html"
+}

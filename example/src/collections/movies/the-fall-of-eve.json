@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fall of Eve",
+    "year": 1929,
+    "cast": [
+      "Patsy Ruth Miller",
+      "Ford Sterling"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fall-of-eve.html"
+}

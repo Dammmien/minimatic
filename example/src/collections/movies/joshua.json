@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Joshua",
+    "year": 2007,
+    "cast": [
+      "Sam Rockwell",
+      "Vera Farmiga"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/joshua.html"
+}

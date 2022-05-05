@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prince of the Plains",
+    "year": 1949,
+    "cast": [
+      "Monte Hale",
+      "Paul Hurst"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/prince-of-the-plains.html"
+}

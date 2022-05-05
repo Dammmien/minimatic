@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "City Without Men",
+    "year": 1943,
+    "cast": [
+      "Linda Darnell",
+      "Glenda Farrell"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/city-without-men.html"
+}

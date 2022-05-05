@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Friendly Persuasion",
+    "year": 1956,
+    "cast": [
+      "Gary Cooper",
+      "Dorothy McGuire",
+      "Anthony Perkins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/friendly-persuasion.html"
+}

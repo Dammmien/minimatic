@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pearl of Death",
+    "year": 1944,
+    "cast": [
+      "Basil Rathbone",
+      "Nigel Bruce",
+      "Evelyn Ankers"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-pearl-of-death.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Is There Life Out There?",
+    "year": 1994,
+    "cast": [
+      "Reba McEntire",
+      "Keith Carradine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/is-there-life-out-there-.html"
+}

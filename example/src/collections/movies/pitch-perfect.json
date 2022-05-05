@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "Pitch Perfect",
+    "year": 2012,
+    "cast": [
+      "Anna Kendrick",
+      "Brittany Snow",
+      "Anna Camp",
+      "Rebel Wilson",
+      "Christopher Mintz-Plasse",
+      "Skylar Astin",
+      "Freddie Stroma",
+      "Alexis Knapp",
+      "Adam DeVine",
+      "Ester Dean",
+      "Brock Kelly",
+      "Elizabeth Banks",
+      "John Michael Higgins"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/pitch-perfect.html"
+}

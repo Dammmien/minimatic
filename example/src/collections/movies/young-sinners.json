@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Young Sinners",
+    "year": 1931,
+    "cast": [
+      "Thomas Meighan",
+      "Dorothy Jordan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/young-sinners.html"
+}

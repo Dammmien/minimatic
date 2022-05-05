@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Adventure in Iraq",
+    "year": 1943,
+    "cast": [
+      "Ruth Ford",
+      "John Loder"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/adventure-in-iraq.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting Mustang",
+    "year": 1948,
+    "cast": [
+      "Sunset Carson",
+      "Lee Roberts"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fighting-mustang.html"
+}

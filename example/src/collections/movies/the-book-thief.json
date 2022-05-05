@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Book Thief",
+    "year": 2013,
+    "cast": [
+      "Sophie Nélisse",
+      "Geoffrey Rush",
+      "Emily Watson",
+      "Ben Schnetzer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-book-thief.html"
+}

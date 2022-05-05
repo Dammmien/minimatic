@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Triple Justice",
+    "year": 1940,
+    "cast": [
+      "George O'Brien",
+      "Virginia Vale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/triple-justice.html"
+}

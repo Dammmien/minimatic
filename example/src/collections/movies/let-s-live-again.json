@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Let's Live Again",
+    "year": 1948,
+    "cast": [
+      "Hillary Brooke",
+      "Diana Douglas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-s-live-again.html"
+}

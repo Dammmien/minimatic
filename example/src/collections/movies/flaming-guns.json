@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flaming Guns",
+    "year": 1932,
+    "cast": [
+      "Tom Mix",
+      "Ruth Hall"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/flaming-guns.html"
+}

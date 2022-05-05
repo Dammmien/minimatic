@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Big Boy",
+    "year": 1930,
+    "cast": [
+      "Al Jolson",
+      "Lloyd Hughes",
+      "Claudia Dell"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/big-boy.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Crime Doctor",
+    "year": 1934,
+    "cast": [
+      "Otto Kruger",
+      "Karen Morley"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-crime-doctor.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Swamp Water",
+    "year": 1941,
+    "cast": [
+      "Walter Brennan",
+      "Walter Huston",
+      "Anne Baxter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/swamp-water.html"
+}

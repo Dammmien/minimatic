@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Clash by Night",
+    "year": 1952,
+    "cast": [
+      "Barbara Stanwyck",
+      "Robert Ryan",
+      "Paul Douglas",
+      "Keith Andes",
+      "Marilyn Monroe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/clash-by-night.html"
+}

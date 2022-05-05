@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lost Continent",
+    "year": 1951,
+    "cast": [
+      "Cesar Romero",
+      "Hillary Brooke"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/lost-continent.html"
+}

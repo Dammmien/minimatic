@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Lawless Street",
+    "year": 1955,
+    "cast": [
+      "Randolph Scott",
+      "Angela Lansbury"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-lawless-street.html"
+}

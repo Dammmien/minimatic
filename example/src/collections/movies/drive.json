@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Drive",
+    "year": 2011,
+    "cast": [
+      "Ryan Gosling",
+      "Carey Mulligan",
+      "Bryan Cranston",
+      "Christina Hendricks",
+      "Ron Perlman",
+      "Oscar Isaac",
+      "Albert Brooks"
+    ],
+    "genres": [
+      "Action",
+      "Drama"
+    ]
+  },
+  "output": "movies/drive.html"
+}

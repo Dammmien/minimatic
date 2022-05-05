@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Beauty Shoppers",
+    "year": 1927,
+    "cast": [
+      "Mae Busch",
+      "Doris Hill"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-beauty-shoppers.html"
+}

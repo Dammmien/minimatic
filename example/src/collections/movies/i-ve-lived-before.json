@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I've Lived Before",
+    "year": 1956,
+    "cast": [
+      "Jock Mahoney",
+      "Leigh Snowden",
+      "Ann Harding"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-ve-lived-before.html"
+}

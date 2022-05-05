@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Battle Cry",
+    "year": 1955,
+    "cast": [
+      "Van Heflin",
+      "Aldo Ray",
+      "James Whitmore",
+      "Tab Hunter",
+      "Mona Freeman",
+      "Anne Francis"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/battle-cry.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gang in Blue",
+    "year": 1996,
+    "cast": [
+      "Mario van Peebles",
+      "Josh Brolin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gang-in-blue.html"
+}

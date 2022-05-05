@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell-Ship Morgan",
+    "year": 1936,
+    "cast": [
+      "George Bancroft",
+      "Ann Sothern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hell-ship-morgan.html"
+}

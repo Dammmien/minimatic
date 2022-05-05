@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Casablanca",
+    "year": 1942,
+    "cast": [
+      "Humphrey Bogart",
+      "Ingrid Bergman",
+      "Claude Rains",
+      "Paul Henreid",
+      "Dooley Wilson",
+      "Peter Lorre"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/casablanca.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "He's My Guy",
+    "year": 1943,
+    "cast": [
+      "Dick Foran",
+      "Irene Hervey",
+      "Joan Davis"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/he-s-my-guy.html"
+}

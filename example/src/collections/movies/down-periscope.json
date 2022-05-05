@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Down Periscope",
+    "year": 1996,
+    "cast": [
+      "Kelsey Grammer",
+      "Lauren Holly",
+      "Rip Torn",
+      "Bruce Dern",
+      "William H. Macy",
+      "Rob Schneider"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/down-periscope.html"
+}

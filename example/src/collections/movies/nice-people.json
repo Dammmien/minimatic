@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nice People",
+    "year": 1922,
+    "cast": [
+      "Wallace Reid",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/nice-people.html"
+}

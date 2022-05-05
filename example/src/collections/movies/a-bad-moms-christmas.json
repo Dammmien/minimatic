@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "A Bad Moms Christmas",
+    "year": 2017,
+    "cast": [
+      "Mila Kunis",
+      "Kristen Bell",
+      "Kathryn Hahn",
+      "Jay Hernandez",
+      "Susan Sarandon",
+      "Christine Baranski"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-bad-moms-christmas.html"
+}

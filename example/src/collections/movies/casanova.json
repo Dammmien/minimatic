@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Casanova",
+    "year": 2005,
+    "cast": [
+      "Heath Ledger",
+      "Jeremy Irons",
+      "Sienna Miller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/casanova.html"
+}

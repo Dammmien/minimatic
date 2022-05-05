@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Excess Baggage",
+    "year": 1997,
+    "cast": [
+      "Alicia Silverstone",
+      "Benicio del Toro",
+      "Christopher Walken",
+      "Harry Connick, Jr."
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/excess-baggage.html"
+}

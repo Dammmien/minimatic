@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Johns",
+    "year": 1996,
+    "cast": [
+      "Lukas Haas",
+      "David Arquette"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/johns.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Vanishing of Sidney Hall",
+    "year": 2018,
+    "cast": [
+      "Logan Lerman",
+      "Elle Fanning",
+      "Michelle Monaghan",
+      "Nathan Lane",
+      "Kyle Chandler"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-vanishing-of-sidney-hall.html"
+}

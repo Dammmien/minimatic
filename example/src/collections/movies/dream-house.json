@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "Dream House",
+    "year": 2011,
+    "cast": [
+      "Daniel Craig",
+      "Naomi Watts",
+      "Rachel Weisz",
+      "Marton Csokas",
+      "Elias Koteas",
+      "Jane Alexander",
+      "Taylor Geare",
+      "Rachel G. Fox",
+      "Mark Wilson",
+      "Jonathan Potts",
+      "Lynne Griffin",
+      "Gregory Smith",
+      "Chris Owens",
+      "Sarah Gadon"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dream-house.html"
+}

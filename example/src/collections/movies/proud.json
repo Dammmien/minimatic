@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Proud",
+    "year": 2004,
+    "cast": [
+      "Reggie Austin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/proud.html"
+}

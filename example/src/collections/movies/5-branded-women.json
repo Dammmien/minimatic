@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "5 Branded Women",
+    "year": 1960,
+    "cast": [
+      "Silvana Mangano",
+      "Jeanne Moreau",
+      "Vera Miles",
+      "Barbara Bel Geddes",
+      "Carla Gravina"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/5-branded-women.html"
+}

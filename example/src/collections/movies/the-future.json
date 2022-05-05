@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Future",
+    "year": 2011,
+    "cast": [
+      "Hamish Linklater",
+      "Miranda July",
+      "David Warshofsky",
+      "Isabella Acres",
+      "Joe Putterlik"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-future.html"
+}

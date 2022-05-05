@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gone in the Night",
+    "year": 1996,
+    "cast": [
+      "Shannen Doherty",
+      "Kevin Dillon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gone-in-the-night.html"
+}

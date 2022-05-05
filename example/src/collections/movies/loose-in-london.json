@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Loose in London",
+    "year": 1953,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/loose-in-london.html"
+}

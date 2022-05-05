@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dangerous Paradise",
+    "year": 1920,
+    "cast": [
+      "Louise Huff",
+      "Harry Benham"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-dangerous-paradise.html"
+}

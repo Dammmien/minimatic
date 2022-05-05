@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rough Night in Jericho",
+    "year": 1967,
+    "cast": [
+      "Dean Martin",
+      "George Peppard",
+      "Jean Simmons"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rough-night-in-jericho.html"
+}

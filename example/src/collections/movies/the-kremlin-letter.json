@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Kremlin Letter",
+    "year": 1970,
+    "cast": [
+      "Richard Boone",
+      "Max von Sydow"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-kremlin-letter.html"
+}

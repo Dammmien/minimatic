@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Invincible Six",
+    "year": 1970,
+    "cast": [
+      "Stuart Whitman",
+      "Elke Sommer",
+      "Curd Jürgens"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-invincible-six.html"
+}

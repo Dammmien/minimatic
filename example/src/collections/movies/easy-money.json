@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Easy Money",
+    "year": 1983,
+    "cast": [
+      "Rodney Dangerfield",
+      "Joe Pesci",
+      "Jennifer Jason Leigh"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/easy-money.html"
+}

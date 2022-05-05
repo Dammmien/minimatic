@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Reunion",
+    "year": 1936,
+    "cast": [
+      "Jean Hersholt",
+      "Rochelle Hudson",
+      "The",
+      "Dionne Quintuplets"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/reunion.html"
+}

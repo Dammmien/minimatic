@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Overland Stage Raiders",
+    "year": 1938,
+    "cast": [
+      "John Wayne",
+      "Ray Corrigan",
+      "Louise Brooks"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/overland-stage-raiders.html"
+}

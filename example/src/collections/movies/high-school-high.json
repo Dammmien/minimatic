@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "High School High",
+    "year": 1996,
+    "cast": [
+      "Jon Lovitz",
+      "Tia Carrere",
+      "Louise Fletcher"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/high-school-high.html"
+}

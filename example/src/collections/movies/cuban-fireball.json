@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cuban Fireball",
+    "year": 1951,
+    "cast": [
+      "Estelita Rodriguez",
+      "Warren Douglas"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/cuban-fireball.html"
+}

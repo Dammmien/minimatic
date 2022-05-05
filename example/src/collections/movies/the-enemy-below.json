@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Enemy Below",
+    "year": 1957,
+    "cast": [
+      "Robert Mitchum",
+      "Curt Jürgens",
+      "Theodore Bikel"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-enemy-below.html"
+}

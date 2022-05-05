@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Space Chimps",
+    "year": 2008,
+    "cast": [
+      "Cheryl Hines",
+      "Stanley Tucci",
+      "Kenan Thompson",
+      "Andy Samberg"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/space-chimps.html"
+}

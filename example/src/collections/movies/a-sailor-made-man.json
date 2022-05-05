@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Sailor-Made Man",
+    "year": 1921,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-sailor-made-man.html"
+}

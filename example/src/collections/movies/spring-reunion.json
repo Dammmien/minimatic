@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Spring Reunion",
+    "year": 1957,
+    "cast": [
+      "Betty Hutton",
+      "Dana Andrews",
+      "Jean Hagen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/spring-reunion.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Insignificance",
+    "year": 1985,
+    "cast": [
+      "Theresa Russell",
+      "Tony Curtis",
+      "Gary Busey"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/insignificance.html"
+}

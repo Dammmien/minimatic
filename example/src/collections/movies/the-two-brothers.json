@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Two Brothers",
+    "year": 1910,
+    "cast": [
+      "Arthur V. Johnson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-two-brothers.html"
+}

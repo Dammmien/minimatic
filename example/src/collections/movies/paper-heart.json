@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Paper Heart",
+    "year": 2009,
+    "cast": [
+      "Charlyne Yi",
+      "Michael Cera"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/paper-heart.html"
+}

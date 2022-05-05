@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Beatriz at Dinner",
+    "year": 2017,
+    "cast": [
+      "Salma Hayek",
+      "Chloë Sevigny",
+      "Connie Britton",
+      "John Lithgow",
+      "Jay Duplass",
+      "David Warshofsky",
+      "Amy Landecker",
+      "John Early"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/beatriz-at-dinner.html"
+}

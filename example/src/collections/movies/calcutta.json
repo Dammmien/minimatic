@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Calcutta",
+    "year": 1947,
+    "cast": [
+      "Alan Ladd",
+      "Gail Russell",
+      "June Duprez"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/calcutta.html"
+}

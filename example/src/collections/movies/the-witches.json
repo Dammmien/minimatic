@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Witches",
+    "year": 1990,
+    "cast": [
+      "Anjelica Huston",
+      "Mai Zetterling"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-witches.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jaws: The Revenge",
+    "year": 1987,
+    "cast": [
+      "Lorraine Gary",
+      "Michael Caine",
+      "Mario Van Peebles"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/jaws--the-revenge.html"
+}

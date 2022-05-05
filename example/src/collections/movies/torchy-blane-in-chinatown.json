@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Torchy Blane in Chinatown",
+    "year": 1939,
+    "cast": [
+      "Glenda Farrell",
+      "Barton MacLane"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/torchy-blane-in-chinatown.html"
+}

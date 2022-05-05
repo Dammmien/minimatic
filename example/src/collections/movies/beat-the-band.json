@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Beat the Band",
+    "year": 1947,
+    "cast": [
+      "Frances Langford"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/beat-the-band.html"
+}

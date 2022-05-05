@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Torch",
+    "year": 1950,
+    "cast": [
+      "Paulette Goddard",
+      "Pedro Armendáriz",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-torch.html"
+}

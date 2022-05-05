@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rugrats Go Wild",
+    "year": 2003,
+    "cast": [
+      "Elizabeth Daily",
+      "Nancy Cartwright",
+      "Dionne Quan"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/rugrats-go-wild.html"
+}

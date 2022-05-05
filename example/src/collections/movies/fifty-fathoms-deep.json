@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fifty Fathoms Deep",
+    "year": 1931,
+    "cast": [
+      "Jack Holt",
+      "Richard Cromwell"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/fifty-fathoms-deep.html"
+}

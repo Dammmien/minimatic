@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Babe",
+    "year": 1992,
+    "cast": [
+      "John Goodman",
+      "Kelly McGillis",
+      "Trini Alvarado"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-babe.html"
+}

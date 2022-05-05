@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "So This Is Paris",
+    "year": 1955,
+    "cast": [
+      "Tony Curtis",
+      "Gloria DeHaven"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/so-this-is-paris.html"
+}

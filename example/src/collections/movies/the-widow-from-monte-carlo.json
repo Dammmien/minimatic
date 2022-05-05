@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Widow from Monte Carlo",
+    "year": 1936,
+    "cast": [
+      "Dolores del Río",
+      "Warren William",
+      "Colin Clive"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-widow-from-monte-carlo.html"
+}

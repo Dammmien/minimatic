@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Encounter Point",
+    "year": 2006,
+    "cast": [
+      "violence in",
+      "Israel",
+      "between",
+      "Israelis",
+      "and",
+      "Palestinians"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/encounter-point.html"
+}

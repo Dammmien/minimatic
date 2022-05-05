@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Justin Bieber's Believe",
+    "year": 2013,
+    "cast": [
+      "Focuses on Justin Bieber's rise to fame."
+    ],
+    "genres": [
+      "Biography",
+      "Documentary"
+    ]
+  },
+  "output": "movies/justin-bieber-s-believe.html"
+}

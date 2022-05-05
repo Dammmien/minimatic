@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Two Weeks in Another Town",
+    "year": 1962,
+    "cast": [
+      "Kirk Douglas",
+      "Edward G. Robinson",
+      "Cyd Charisse",
+      "Claire Trevor",
+      "George Hamilton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/two-weeks-in-another-town.html"
+}

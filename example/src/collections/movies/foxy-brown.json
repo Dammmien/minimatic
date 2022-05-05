@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Foxy Brown",
+    "year": 1974,
+    "cast": [
+      "Pam Grier",
+      "Antonio Fargas"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/foxy-brown.html"
+}

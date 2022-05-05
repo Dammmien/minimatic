@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Grasshopper",
+    "year": 1969,
+    "cast": [
+      "Jacqueline Bisset",
+      "Jim Brown",
+      "Joseph Cotten"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-grasshopper.html"
+}

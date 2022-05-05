@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Cellular",
+    "year": 2004,
+    "cast": [
+      "Kim Basinger",
+      "Chris Evans",
+      "Jason Statham",
+      "William H. Macy"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/cellular.html"
+}

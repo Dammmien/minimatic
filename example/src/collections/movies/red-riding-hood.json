@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Red Riding Hood",
+    "year": 2011,
+    "cast": [
+      "Amanda Seyfried",
+      "Gary Oldman",
+      "Billy Burke",
+      "Shiloh Fernandez",
+      "Max Irons",
+      "Virginia Madsen",
+      "Lukas Haas",
+      "Julie Christie"
+    ],
+    "genres": [
+      "Fantasy",
+      "Romance",
+      "Horror"
+    ]
+  },
+  "output": "movies/red-riding-hood.html"
+}

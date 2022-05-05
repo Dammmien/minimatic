@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Once a Doctor",
+    "year": 1937,
+    "cast": [
+      "Jean Muir",
+      "Donald Woods"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/once-a-doctor.html"
+}

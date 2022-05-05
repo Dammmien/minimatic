@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fast and Furious",
+    "year": 1939,
+    "cast": [
+      "Ann Sothern",
+      "Franchot Tone"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/fast-and-furious.html"
+}

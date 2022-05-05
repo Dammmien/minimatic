@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Stork Club",
+    "year": 1945,
+    "cast": [
+      "Betty Hutton",
+      "Barry Fitzgerald"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-stork-club.html"
+}

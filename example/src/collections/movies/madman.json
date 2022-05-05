@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Madman",
+    "year": 1982,
+    "cast": [
+      "Gaylen Ross",
+      "Harriet Bass"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/madman.html"
+}

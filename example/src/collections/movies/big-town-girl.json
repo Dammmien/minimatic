@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Big Town Girl",
+    "year": 1937,
+    "cast": [
+      "Claire Trevor",
+      "Donald Woods",
+      "Spencer Charters"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/big-town-girl.html"
+}

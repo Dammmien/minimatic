@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gravy Train",
+    "year": 1974,
+    "cast": [
+      "Stacy Keach",
+      "Margot Kidder"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-gravy-train.html"
+}

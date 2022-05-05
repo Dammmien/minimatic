@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Missing Links",
+    "year": 1916,
+    "cast": [
+      "Thomas Jefferson",
+      "Elmer Clifton",
+      "Robert Harron"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-missing-links.html"
+}

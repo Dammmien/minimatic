@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Queen of the Stardust Ballroom",
+    "year": 1975,
+    "cast": [
+      "Maureen Stapleton",
+      "Charles Durning"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/queen-of-the-stardust-ballroom.html"
+}

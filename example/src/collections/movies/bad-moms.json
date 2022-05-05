@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bad Moms",
+    "year": 2016,
+    "cast": [
+      "Kristen Bell",
+      "Mila Kunis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bad-moms.html"
+}

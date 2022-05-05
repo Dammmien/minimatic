@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tenderloin",
+    "year": 1928,
+    "cast": [
+      "Dolores Costello",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/tenderloin.html"
+}

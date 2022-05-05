@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night of the Demon",
+    "year": 1980,
+    "cast": [
+      "Joy Allen",
+      "Bob Collins"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/night-of-the-demon.html"
+}

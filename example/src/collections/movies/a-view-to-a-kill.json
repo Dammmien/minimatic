@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A View to a Kill",
+    "year": 1985,
+    "cast": [
+      "Roger Moore",
+      "Christopher Walken",
+      "Grace Jones",
+      "Tanya Roberts"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/a-view-to-a-kill.html"
+}

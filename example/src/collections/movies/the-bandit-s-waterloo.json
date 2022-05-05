@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bandit's Waterloo",
+    "year": 1908,
+    "cast": [
+      "Charles Inslee",
+      "Linda Arvidson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bandit-s-waterloo.html"
+}

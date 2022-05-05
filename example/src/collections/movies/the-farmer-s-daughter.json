@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Farmer's Daughter",
+    "year": 1947,
+    "cast": [
+      "Loretta Young",
+      "Joseph Cotten"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-farmer-s-daughter.html"
+}

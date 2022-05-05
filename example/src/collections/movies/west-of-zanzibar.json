@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "West of Zanzibar",
+    "year": 1928,
+    "cast": [
+      "Lon Chaney",
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/west-of-zanzibar.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Men Must Fight",
+    "year": 1933,
+    "cast": [
+      "Diana Wynyard",
+      "Lewis Stone",
+      "Phillips Holmes"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/men-must-fight.html"
+}

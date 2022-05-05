@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Whispering Smith",
+    "year": 1948,
+    "cast": [
+      "Alan Ladd",
+      "Robert Preston",
+      "Brenda Marshall"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/whispering-smith.html"
+}

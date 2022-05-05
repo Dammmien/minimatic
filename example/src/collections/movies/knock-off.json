@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Knock Off",
+    "year": 1998,
+    "cast": [
+      "Jean-Claude Van Damme",
+      "Rob Schneider",
+      "Lela Rochon"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/knock-off.html"
+}

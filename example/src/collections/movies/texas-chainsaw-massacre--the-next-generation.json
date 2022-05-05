@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Texas Chainsaw Massacre: The Next Generation",
+    "year": 1994,
+    "cast": [
+      "Renée Zellweger",
+      "Matthew McConaughey"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/texas-chainsaw-massacre--the-next-generation.html"
+}

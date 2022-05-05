@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rock 'n' Roll High School",
+    "year": 1979,
+    "cast": [
+      "P. J. Soles",
+      "Mary Woronov",
+      "Ramones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rock--n--roll-high-school.html"
+}

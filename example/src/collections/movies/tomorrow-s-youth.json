@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tomorrow's Youth",
+    "year": 1934,
+    "cast": [
+      "Dickie Moore",
+      "Gloria Shea"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tomorrow-s-youth.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strange Interlude",
+    "year": 1932,
+    "cast": [
+      "Norma Shearer",
+      "Clark Gable"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/strange-interlude.html"
+}

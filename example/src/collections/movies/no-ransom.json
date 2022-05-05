@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "No Ransom",
+    "year": 1934,
+    "cast": [
+      "Leila Hyams",
+      "Phillips Holmes",
+      "Jack La Rue"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/no-ransom.html"
+}

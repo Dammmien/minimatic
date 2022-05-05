@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Super",
+    "year": 2011,
+    "cast": [
+      "Rainn Wilson",
+      "Ellen Page",
+      "Liv Tyler",
+      "Kevin Bacon",
+      "Nathan Fillion",
+      "Gregg Henry",
+      "Michael Rooker",
+      "Andre Royo",
+      "Sean Gunn",
+      "Stephen Blackehart",
+      "Linda Cardellini"
+    ],
+    "genres": [
+      "Comedy",
+      "Superhero"
+    ]
+  },
+  "output": "movies/super.html"
+}

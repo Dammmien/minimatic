@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Spoilers",
+    "year": 1955,
+    "cast": [
+      "Anne Baxter",
+      "Jeff Chandler"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-spoilers.html"
+}

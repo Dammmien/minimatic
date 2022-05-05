@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "My Entire High School Sinking Into the Sea",
+    "year": 2017,
+    "cast": [
+      "Jason Schwartzman",
+      "Reggie Watts",
+      "Lena Dunham",
+      "Maya Rudolph",
+      "Susan Sarandon",
+      "Thomas Jay Ryan",
+      "Alex Karpovsky",
+      "John Cameron Mitchell"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-entire-high-school-sinking-into-the-sea.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mansion of Aching Hearts",
+    "year": 1925,
+    "cast": [
+      "Ethel Clayton",
+      "Barbara Bedford",
+      "Priscilla Bonner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mansion-of-aching-hearts.html"
+}

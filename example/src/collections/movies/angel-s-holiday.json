@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Angel's Holiday",
+    "year": 1937,
+    "cast": [
+      "Jane Withers",
+      "Joan Davis",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/angel-s-holiday.html"
+}

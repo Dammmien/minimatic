@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dead Solid Perfect",
+    "year": 1988,
+    "cast": [
+      "Randy Quaid",
+      "Kathryn Harrold",
+      "Corinne Bohrer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dead-solid-perfect.html"
+}

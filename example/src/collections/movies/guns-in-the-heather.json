@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Guns in the Heather",
+    "year": 1969,
+    "cast": [
+      "Kurt Russell",
+      "Glenn Corbett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/guns-in-the-heather.html"
+}

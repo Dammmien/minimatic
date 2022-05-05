@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "I Can Do Bad All By Myself",
+    "year": 2009,
+    "cast": [
+      "Tyler Perry",
+      "Taraji P. Henson",
+      "Mary J. Blige",
+      "Adam Rodríguez",
+      "Brian White",
+      "Gladys Knight",
+      "Pastor Marvin Winans"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/i-can-do-bad-all-by-myself.html"
+}

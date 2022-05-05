@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That's My Gal",
+    "year": 1947,
+    "cast": [
+      "Lynne Roberts",
+      "Don Barry"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-s-my-gal.html"
+}

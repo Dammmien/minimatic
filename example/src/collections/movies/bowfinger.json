@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bowfinger",
+    "year": 1999,
+    "cast": [
+      "Steve Martin",
+      "Eddie Murphy",
+      "Heather Graham"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bowfinger.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Kiss Me Quick!",
+    "year": 1964,
+    "cast": [
+      "Frank Coe"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/kiss-me-quick-.html"
+}

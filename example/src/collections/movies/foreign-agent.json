@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Foreign Agent",
+    "year": 1942,
+    "cast": [
+      "John Shelton",
+      "Gale Storm",
+      "Ivan Lebedeff"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/foreign-agent.html"
+}

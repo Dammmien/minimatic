@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jason and the Argonauts",
+    "year": 1963,
+    "cast": [
+      "Todd Armstrong",
+      "Nancy Kovack",
+      "Honor Blackman"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/jason-and-the-argonauts.html"
+}

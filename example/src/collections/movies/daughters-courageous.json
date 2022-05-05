@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Daughters Courageous",
+    "year": 1939,
+    "cast": [
+      "John Garfield",
+      "Claude Rains",
+      "Fay Bainter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/daughters-courageous.html"
+}

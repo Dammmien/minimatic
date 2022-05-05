@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Beginning or the End",
+    "year": 1947,
+    "cast": [
+      "Brian Donlevy",
+      "Hume Cronyn",
+      "Beverly Tyler"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-beginning-or-the-end.html"
+}

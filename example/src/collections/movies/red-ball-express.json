@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Red Ball Express",
+    "year": 1952,
+    "cast": [
+      "Jeff Chandler",
+      "Alex Nicol",
+      "Sidney Poitier"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/red-ball-express.html"
+}

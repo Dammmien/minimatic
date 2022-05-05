@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fearless",
+    "year": 1993,
+    "cast": [
+      "Jeff Bridges",
+      "Isabella Rossellini",
+      "Rosie Perez"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fearless.html"
+}

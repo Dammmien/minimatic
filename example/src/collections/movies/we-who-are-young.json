@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "We Who Are Young",
+    "year": 1940,
+    "cast": [
+      "Lana Turner",
+      "Gene Lockhart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/we-who-are-young.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "God's Pocket",
+    "year": 2014,
+    "cast": [
+      "Philip Seymour Hoffman",
+      "Richard Jenkins",
+      "Christina Hendricks",
+      "Caleb Landry Jones"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/god-s-pocket.html"
+}

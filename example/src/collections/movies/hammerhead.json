@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hammerhead",
+    "year": 1968,
+    "cast": [
+      "Vince Edwards",
+      "Diana Dors"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/hammerhead.html"
+}

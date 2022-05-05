@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Standing Room Only",
+    "year": 1944,
+    "cast": [
+      "Fred MacMurray",
+      "Paulette Goddard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/standing-room-only.html"
+}

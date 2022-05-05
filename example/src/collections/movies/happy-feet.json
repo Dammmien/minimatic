@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Happy Feet",
+    "year": 2006,
+    "cast": [
+      "Elijah Wood",
+      "Robin Williams",
+      "Brittany Murphy",
+      "Hugh Jackman"
+    ],
+    "genres": [
+      "Animated",
+      "Musical"
+    ]
+  },
+  "output": "movies/happy-feet.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Pawn",
+    "year": 2013,
+    "cast": [
+      "Jessica Szohr",
+      "Nikki Reed",
+      "Sean Faris",
+      "Forest Whitaker"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/pawn.html"
+}

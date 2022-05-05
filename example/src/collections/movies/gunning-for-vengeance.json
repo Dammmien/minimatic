@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gunning for Vengeance",
+    "year": 1946,
+    "cast": [
+      "Charles Starrett",
+      "Smiley Burnette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gunning-for-vengeance.html"
+}

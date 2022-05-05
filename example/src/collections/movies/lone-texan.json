@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lone Texan",
+    "year": 1959,
+    "cast": [
+      "Willard Parker",
+      "Audrey Dalton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lone-texan.html"
+}

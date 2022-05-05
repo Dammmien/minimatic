@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Kiss of Death",
+    "year": 1995,
+    "cast": [
+      "David Caruso",
+      "Nicolas Cage",
+      "Samuel L. Jackson",
+      "Helen Hunt",
+      "Kathryn Erbe",
+      "Michael Rapaport",
+      "Ving Rhames",
+      "Anne Meara",
+      "Stanley Tucci"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/kiss-of-death.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Leprechaun: Origins",
+    "year": 2014,
+    "cast": [
+      "Dylan Postl",
+      "Stephanie Bennett",
+      "Bruce Blain",
+      "Adam Boys"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/leprechaun--origins.html"
+}

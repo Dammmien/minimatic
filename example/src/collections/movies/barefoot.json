@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Barefoot",
+    "year": 2014,
+    "cast": [
+      "Evan Rachel Wood",
+      "Scott Speedman",
+      "Treat Williams",
+      "J. K. Simmons"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/barefoot.html"
+}

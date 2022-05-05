@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Haunted Mansion",
+    "year": 2003,
+    "cast": [
+      "Eddie Murphy"
+    ],
+    "genres": [
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-haunted-mansion.html"
+}

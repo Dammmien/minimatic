@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Last of the Redskins",
+    "year": 1947,
+    "cast": [
+      "Jon Hall",
+      "Evelyn Ankers",
+      "Julie Bishop"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/last-of-the-redskins.html"
+}

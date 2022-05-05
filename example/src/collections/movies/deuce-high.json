@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Deuce High",
+    "year": 1926,
+    "cast": [
+      "Jay Wilsey",
+      "Alma Rayford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/deuce-high.html"
+}

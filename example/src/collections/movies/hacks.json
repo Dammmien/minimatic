@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hacks",
+    "year": 1997,
+    "cast": [
+      "Stephen Rea",
+      "Illeana Douglas",
+      "John Ritter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hacks.html"
+}

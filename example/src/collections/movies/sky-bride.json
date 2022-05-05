@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sky Bride",
+    "year": 1932,
+    "cast": [
+      "Richard Arlen",
+      "Jack Oakie",
+      "Virginia Bruce"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sky-bride.html"
+}

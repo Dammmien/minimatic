@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Captain Newman, M.D.",
+    "year": 1963,
+    "cast": [
+      "Gregory Peck",
+      "Angie Dickinson",
+      "Tony Curtis",
+      "Eddie Albert",
+      "Robert Duvall",
+      "Larry Storch",
+      "Bobby Darin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/captain-newman--m-d-.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Straight from the Shoulder",
+    "year": 1936,
+    "cast": [
+      "Ralph Bellamy",
+      "Katherine Locke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/straight-from-the-shoulder.html"
+}

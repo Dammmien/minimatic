@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Valley of the Giants",
+    "year": 1938,
+    "cast": [
+      "Claire Trevor",
+      "Wayne Morris",
+      "Charles Bickford"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/valley-of-the-giants.html"
+}

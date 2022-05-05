@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Amazing Wife",
+    "year": 1919,
+    "cast": [
+      "Mary MacLaren",
+      "Frank Mayo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-amazing-wife.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Bride of the Monster",
+    "year": 1955,
+    "cast": [
+      "Bela Lugosi"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/bride-of-the-monster.html"
+}

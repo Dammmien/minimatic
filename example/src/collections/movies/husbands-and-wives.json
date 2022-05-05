@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Husbands and Wives",
+    "year": 1992,
+    "cast": [
+      "Woody Allen",
+      "Mia Farrow",
+      "Judy Davis",
+      "Sydney Pollack",
+      "Juliette Lewis",
+      "Liam Neeson",
+      "Blythe Danner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/husbands-and-wives.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Delta Factor",
+    "year": 1970,
+    "cast": [
+      "Christopher George",
+      "Yvette Mimieux",
+      "Yvonne De Carlo"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-delta-factor.html"
+}

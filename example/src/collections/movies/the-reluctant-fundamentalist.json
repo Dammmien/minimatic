@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Reluctant Fundamentalist",
+    "year": 2012,
+    "cast": [
+      "Riz Ahmed",
+      "Kate Hudson",
+      "Liev Schreiber",
+      "Kiefer Sutherland",
+      "Om Puri",
+      "Shabana Azmi"
+    ],
+    "genres": [
+      "Political",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-reluctant-fundamentalist.html"
+}

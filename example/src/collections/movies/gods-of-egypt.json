@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gods of Egypt",
+    "year": 2016,
+    "cast": [
+      "Nicolaj Coster-Waldau",
+      "Gerard Butler",
+      "Brenton Thwaites"
+    ],
+    "genres": [
+      "Fantasy",
+      "Action"
+    ]
+  },
+  "output": "movies/gods-of-egypt.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Halloween",
+    "year": 2018,
+    "cast": [
+      "Jamie Lee Curtis",
+      "Judy Greer",
+      "Andi Matichak",
+      "Will Patton",
+      "Virginia Gardner",
+      "Nick Castle",
+      "James Jude Courtney"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/halloween.html"
+}

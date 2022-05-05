@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Rogue's Romance",
+    "year": 1919,
+    "cast": [
+      "Earle Williams",
+      "Harry von Meter"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-rogue-s-romance.html"
+}

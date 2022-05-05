@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chasing Liberty",
+    "year": 2004,
+    "cast": [
+      "Mandy Moore",
+      "Matthew Goode",
+      "Mark Harmon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/chasing-liberty.html"
+}

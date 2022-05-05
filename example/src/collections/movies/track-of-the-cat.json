@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Track of the Cat",
+    "year": 1954,
+    "cast": [
+      "Robert Mitchum",
+      "Teresa Wright"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/track-of-the-cat.html"
+}

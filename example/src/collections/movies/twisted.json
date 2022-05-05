@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Twisted",
+    "year": 2004,
+    "cast": [
+      "Ashley Judd",
+      "Samuel L. Jackson",
+      "Andy García"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/twisted.html"
+}

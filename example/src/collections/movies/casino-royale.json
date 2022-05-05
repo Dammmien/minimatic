@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Casino Royale",
+    "year": 2006,
+    "cast": [
+      "Daniel Craig",
+      "Eva Green",
+      "Mads Mikkelsen",
+      "Judi Dench",
+      "Giancarlo Giannini",
+      "Jeffrey Wright"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/casino-royale.html"
+}

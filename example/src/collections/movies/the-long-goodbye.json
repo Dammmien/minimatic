@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Long Goodbye",
+    "year": 1973,
+    "cast": [
+      "Elliott Gould",
+      "Sterling Hayden",
+      "Henry Gibson",
+      "Nina van Pallandt",
+      "Jim Bouton",
+      "Mark Rydell"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-long-goodbye.html"
+}

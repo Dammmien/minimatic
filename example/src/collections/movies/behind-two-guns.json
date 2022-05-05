@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Behind Two Guns",
+    "year": 1924,
+    "cast": [
+      "Otto Lederer",
+      "Marin Sais"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/behind-two-guns.html"
+}

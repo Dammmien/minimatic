@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cobra Strikes",
+    "year": 1948,
+    "cast": [
+      "Sheila Ryan",
+      "Richard Fraser",
+      "Leslie Brooks"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-cobra-strikes.html"
+}

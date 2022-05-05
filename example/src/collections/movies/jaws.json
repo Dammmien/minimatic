@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Jaws",
+    "year": 1975,
+    "cast": [
+      "Roy Scheider",
+      "Robert Shaw",
+      "Richard Dreyfuss"
+    ],
+    "genres": [
+      "Thriller",
+      "Adventure"
+    ]
+  },
+  "output": "movies/jaws.html"
+}

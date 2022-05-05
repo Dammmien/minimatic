@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Silent Watcher",
+    "year": 1924,
+    "cast": [
+      "Glenn Hunter",
+      "Bessie Love"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-silent-watcher.html"
+}

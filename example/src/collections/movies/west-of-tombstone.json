@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "West of Tombstone",
+    "year": 1942,
+    "cast": [
+      "Charles Starrett",
+      "Marcella Martin"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/west-of-tombstone.html"
+}

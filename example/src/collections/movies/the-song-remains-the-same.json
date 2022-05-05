@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Song Remains the Same",
+    "year": 1976,
+    "cast": [
+      "Led Zeppelin"
+    ],
+    "genres": [
+      "Performance"
+    ]
+  },
+  "output": "movies/the-song-remains-the-same.html"
+}

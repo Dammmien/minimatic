@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Arizona to Broadway",
+    "year": 1933,
+    "cast": [
+      "James Dunn",
+      "Joan Bennett",
+      "Herbert Mundin"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/arizona-to-broadway.html"
+}

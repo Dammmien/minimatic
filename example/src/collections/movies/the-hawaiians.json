@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Hawaiians",
+    "year": 1970,
+    "cast": [
+      "Charlton Heston",
+      "Tina Chen",
+      "Geraldine Chaplin",
+      "John Phillip Law"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hawaiians.html"
+}

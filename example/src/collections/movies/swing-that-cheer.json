@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Swing That Cheer",
+    "year": 1938,
+    "cast": [
+      "Tom Brown",
+      "Robert Wilcox",
+      "Constance Moore"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Sport"
+    ]
+  },
+  "output": "movies/swing-that-cheer.html"
+}

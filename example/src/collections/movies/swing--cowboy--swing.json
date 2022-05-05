@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Swing, Cowboy, Swing",
+    "year": 1946,
+    "cast": [
+      "Max Terhune",
+      "I. Stanford Jolley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/swing--cowboy--swing.html"
+}

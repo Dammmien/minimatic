@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "S.W.A.T.",
+    "year": 2003,
+    "cast": [
+      "Samuel L. Jackson",
+      "Colin Farrell",
+      "Michelle Rodriguez",
+      "LL Cool J"
+    ],
+    "genres": [
+      "Action",
+      "Crime"
+    ]
+  },
+  "output": "movies/s-w-a-t-.html"
+}

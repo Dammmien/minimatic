@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Desert Patrol",
+    "year": 1938,
+    "cast": [
+      "Bob Steele",
+      "Rex Lease"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/desert-patrol.html"
+}

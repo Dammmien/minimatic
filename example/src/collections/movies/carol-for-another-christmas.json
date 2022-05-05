@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Carol for Another Christmas",
+    "year": 1964,
+    "cast": [
+      "Peter Sellers",
+      "Sterling Hayden",
+      "Britt Ekland",
+      "Robert Shaw",
+      "Ben Gazzara",
+      "Eva Marie Saint"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/carol-for-another-christmas.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hold That Ghost",
+    "year": 1941,
+    "cast": [
+      "Abbott and Costello"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hold-that-ghost.html"
+}

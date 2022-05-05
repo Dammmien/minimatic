@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Nightmare on Elm Street 4: The Dream Master",
+    "year": 1988,
+    "cast": [
+      "Robert Englund"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/a-nightmare-on-elm-street-4--the-dream-master.html"
+}

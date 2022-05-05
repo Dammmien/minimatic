@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prancer",
+    "year": 1989,
+    "cast": [
+      "Rebecca Harrell",
+      "Sam Elliott"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/prancer.html"
+}

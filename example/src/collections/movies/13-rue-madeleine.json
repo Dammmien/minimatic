@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "13 Rue Madeleine",
+    "year": 1947,
+    "cast": [
+      "James Cagney",
+      "Richard Conte",
+      "Annabella"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/13-rue-madeleine.html"
+}

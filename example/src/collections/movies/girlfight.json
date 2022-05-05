@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Girlfight",
+    "year": 2000,
+    "cast": [
+      "Michelle Rodriguez",
+      "Paul Calderón"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/girlfight.html"
+}

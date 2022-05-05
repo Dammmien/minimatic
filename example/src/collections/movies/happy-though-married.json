@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Happy Though Married",
+    "year": 1919,
+    "cast": [
+      "Enid Bennett",
+      "Hallam Cooley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/happy-though-married.html"
+}

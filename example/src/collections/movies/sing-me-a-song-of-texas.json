@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sing Me a Song of Texas",
+    "year": 1945,
+    "cast": [
+      "Rosemary Lane",
+      "Tom Tyler"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sing-me-a-song-of-texas.html"
+}

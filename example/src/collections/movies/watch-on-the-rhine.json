@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Watch on the Rhine",
+    "year": 1943,
+    "cast": [
+      "Bette Davis",
+      "Paul Lukas",
+      "Geraldine Fitzgerald"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/watch-on-the-rhine.html"
+}

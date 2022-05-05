@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tough Enough",
+    "year": 1983,
+    "cast": [
+      "Dennis Quaid",
+      "Pam Grier",
+      "Stan Shaw",
+      "Warren Oates"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tough-enough.html"
+}

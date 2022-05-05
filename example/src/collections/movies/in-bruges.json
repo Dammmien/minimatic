@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In Bruges",
+    "year": 2008,
+    "cast": [
+      "Colin Farrell",
+      "Brendan Gleeson",
+      "Ralph Fiennes"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/in-bruges.html"
+}

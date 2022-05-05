@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lost Lagoon",
+    "year": 1958,
+    "cast": [
+      "Jeffrey Lynn",
+      "Peter Donat"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lost-lagoon.html"
+}

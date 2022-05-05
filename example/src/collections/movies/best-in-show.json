@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Best in Show",
+    "year": 2000,
+    "cast": [
+      "Parker Posey",
+      "Michael McKean",
+      "Catherine O'Hara",
+      "Eugene Levy",
+      "Michael Hitchcock",
+      "Jennifer Coolidge"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/best-in-show.html"
+}

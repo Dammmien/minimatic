@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Mountains of the Moon",
+    "year": 1990,
+    "cast": [
+      "Patrick Bergin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mountains-of-the-moon.html"
+}

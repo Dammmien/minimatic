@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Isle of Lost Ships",
+    "year": 1929,
+    "cast": [
+      "Jason Robards",
+      "Virginia Valli"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-isle-of-lost-ships.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Balalaika",
+    "year": 1939,
+    "cast": [
+      "Nelson Eddy",
+      "Ilona Massey",
+      "Charles Ruggles",
+      "Frank Morgan"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/balalaika.html"
+}

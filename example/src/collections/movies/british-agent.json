@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "British Agent",
+    "year": 1934,
+    "cast": [
+      "Leslie Howard",
+      "Kay Francis",
+      "Cesar Romero"
+    ],
+    "genres": [
+      "Spy",
+      "Drama"
+    ]
+  },
+  "output": "movies/british-agent.html"
+}

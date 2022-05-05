@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "True Grit",
+    "year": 2010,
+    "cast": [
+      "Jeff Bridges",
+      "Matt Damon",
+      "Josh Brolin",
+      "Barry Pepper",
+      "Hailee Steinfeld"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/true-grit.html"
+}

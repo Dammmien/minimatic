@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Anderson Tapes",
+    "year": 1971,
+    "cast": [
+      "Sean Connery",
+      "Dyan Cannon",
+      "Christopher Walken",
+      "Martin Balsam",
+      "Alan King"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-anderson-tapes.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Boy and His Dog",
+    "year": 1975,
+    "cast": [
+      "Don Johnson",
+      "Susanne Benton",
+      "Jason Robards"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/a-boy-and-his-dog.html"
+}

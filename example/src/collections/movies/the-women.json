@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Women",
+    "year": 2008,
+    "cast": [
+      "Meg Ryan",
+      "Annette Bening",
+      "Eva Mendes",
+      "Debra Messing",
+      "Jada Pinkett Smith"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-women.html"
+}

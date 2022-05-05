@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Square Dance Katy",
+    "year": 1950,
+    "cast": [
+      "Barbara Jo Allen",
+      "Jimmie Davis"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/square-dance-katy.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Little Big Horn",
+    "year": 1951,
+    "cast": [
+      "Lloyd Bridges",
+      "Marie Windsor",
+      "John Ireland"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/little-big-horn.html"
+}

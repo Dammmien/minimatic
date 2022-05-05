@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man Who Fights Alone",
+    "year": 1924,
+    "cast": [
+      "William Farnum",
+      "Lois Wilson",
+      "Edward Everett Horton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-who-fights-alone.html"
+}

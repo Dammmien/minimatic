@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Arizona Trail",
+    "year": 1943,
+    "cast": [
+      "Tex Ritter",
+      "Fuzzy Knight"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/arizona-trail.html"
+}

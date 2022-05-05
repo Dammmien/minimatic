@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Trilogy",
+    "year": 1969,
+    "cast": [
+      "Geraldine Page",
+      "Maureen Stapleton",
+      "Mildred Natwick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/trilogy.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kentucky Kernels",
+    "year": 1934,
+    "cast": [
+      "Bert Wheeler",
+      "Robert Woolsey",
+      "Mary Carlisle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kentucky-kernels.html"
+}

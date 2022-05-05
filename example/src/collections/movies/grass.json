@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Grass",
+    "year": 1925,
+    "cast": [
+      "Merian C. Cooper",
+      "Ernest B. Schoedsack",
+      "Marguerite Harrison"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/grass.html"
+}

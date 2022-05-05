@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Her First Mate",
+    "year": 1933,
+    "cast": [
+      "Slim Summerville",
+      "ZaSu Pitts",
+      "Una Merkel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/her-first-mate.html"
+}

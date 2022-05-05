@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Family Plot",
+    "year": 1976,
+    "cast": [
+      "Karen Black",
+      "Bruce Dern",
+      "Barbara Harris",
+      "William Devane",
+      "Cathleen Nesbitt",
+      "Ed Lauter"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/family-plot.html"
+}

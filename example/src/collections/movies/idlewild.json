@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Idlewild",
+    "year": 2006,
+    "cast": [
+      "André Benjamin",
+      "Big Boi"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/idlewild.html"
+}

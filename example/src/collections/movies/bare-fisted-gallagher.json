@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bare-Fisted Gallagher",
+    "year": 1919,
+    "cast": [
+      "William Desmond",
+      "Agnes Vernon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bare-fisted-gallagher.html"
+}

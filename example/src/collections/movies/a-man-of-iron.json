@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Man of Iron",
+    "year": 1925,
+    "cast": [
+      "Lionel Barrymore",
+      "Mildred Harris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-man-of-iron.html"
+}

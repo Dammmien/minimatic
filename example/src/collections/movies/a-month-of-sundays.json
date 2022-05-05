@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Month of Sundays",
+    "year": 2001,
+    "cast": [
+      "Corina Marie",
+      "Rod Steiger",
+      "Michael Paré"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-month-of-sundays.html"
+}

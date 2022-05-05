@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tarzan Triumphs",
+    "year": 1943,
+    "cast": [
+      "Johnny Weissmuller",
+      "Frances Gifford"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-triumphs.html"
+}

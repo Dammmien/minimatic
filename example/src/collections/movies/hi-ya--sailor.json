@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hi'ya, Sailor",
+    "year": 1943,
+    "cast": [
+      "Donald Woods",
+      "Elyse Knox"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hi-ya--sailor.html"
+}

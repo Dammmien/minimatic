@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Poppy",
+    "year": 1936,
+    "cast": [
+      "W. C. Fields",
+      "Rochelle Hudson",
+      "Richard Cromwell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/poppy.html"
+}

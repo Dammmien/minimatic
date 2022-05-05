@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Love Auction",
+    "year": 1919,
+    "cast": [
+      "Virginia Pearson",
+      "Hugh Thompson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-love-auction.html"
+}

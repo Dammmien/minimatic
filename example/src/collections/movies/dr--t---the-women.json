@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Dr. T & the Women",
+    "year": 2000,
+    "cast": [
+      "Richard Gere",
+      "Helen Hunt",
+      "Farrah Fawcett",
+      "Laura Dern",
+      "Shelley Long",
+      "Tara Reid",
+      "Kate Hudson"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/dr--t---the-women.html"
+}

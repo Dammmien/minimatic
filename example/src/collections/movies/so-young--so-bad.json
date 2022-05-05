@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "So Young, So Bad",
+    "year": 1950,
+    "cast": [
+      "Paul Henreid",
+      "Catherine McLeod"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/so-young--so-bad.html"
+}

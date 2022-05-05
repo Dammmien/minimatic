@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That Night!",
+    "year": 1957,
+    "cast": [
+      "John Beal",
+      "Augusta Dabney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/that-night-.html"
+}

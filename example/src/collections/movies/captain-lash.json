@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Captain Lash",
+    "year": 1929,
+    "cast": [
+      "Victor McLaglen",
+      "Claire Windsor"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/captain-lash.html"
+}

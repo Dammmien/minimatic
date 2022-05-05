@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wolf Riders",
+    "year": 1935,
+    "cast": [
+      "Jack Perrin",
+      "Lafe McKee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wolf-riders.html"
+}

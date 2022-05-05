@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Public Opinion",
+    "year": 1935,
+    "cast": [
+      "Lois Wilson",
+      "Shirley Grey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/public-opinion.html"
+}

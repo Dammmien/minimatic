@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mama Steps Out",
+    "year": 1937,
+    "cast": [
+      "Alice Brady",
+      "Gene Lockhart",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mama-steps-out.html"
+}

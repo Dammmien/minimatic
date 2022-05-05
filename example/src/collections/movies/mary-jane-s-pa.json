@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mary Jane's Pa",
+    "year": 1935,
+    "cast": [
+      "Aline MacMahon",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mary-jane-s-pa.html"
+}

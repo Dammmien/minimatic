@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sonora Stagecoach",
+    "year": 1944,
+    "cast": [
+      "Bob Steele",
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sonora-stagecoach.html"
+}

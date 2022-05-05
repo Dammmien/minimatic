@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Grim Game",
+    "year": 1919,
+    "cast": [
+      "Harry Houdini",
+      "Thomas Jefferson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-grim-game.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Slanderers",
+    "year": 1924,
+    "cast": [
+      "Johnnie Walker",
+      "Gladys Hulette"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-slanderers.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Specials",
+    "year": 2000,
+    "cast": [
+      "Thomas Haden Church",
+      "Rob Lowe",
+      "Jamie Kennedy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-specials.html"
+}

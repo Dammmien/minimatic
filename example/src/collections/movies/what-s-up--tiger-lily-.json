@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "What's Up, Tiger Lily?",
+    "year": 1966,
+    "cast": [
+      "Woody Allen",
+      "Louise Lasser",
+      "Tatsuya Mihashi"
+    ],
+    "genres": [
+      "Comedy",
+      "Satire"
+    ]
+  },
+  "output": "movies/what-s-up--tiger-lily-.html"
+}

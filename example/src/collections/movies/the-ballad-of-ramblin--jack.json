@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Ballad of Ramblin' Jack",
+    "year": 2000,
+    "cast": [
+      "Ramblin' Jack Elliott"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-ballad-of-ramblin--jack.html"
+}

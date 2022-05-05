@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tarzan and the Mermaids",
+    "year": 1948,
+    "cast": [
+      "Johnny Weissmuller",
+      "Brenda Joyce",
+      "Linda Christian",
+      "Andrea Palma"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-and-the-mermaids.html"
+}

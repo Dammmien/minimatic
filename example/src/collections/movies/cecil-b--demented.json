@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Cecil B. Demented",
+    "year": 2000,
+    "cast": [
+      "Melanie Griffith",
+      "Stephen Dorff",
+      "Alicia Witt",
+      "Adrian Grenier",
+      "Maggie Gyllenhaal"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cecil-b--demented.html"
+}

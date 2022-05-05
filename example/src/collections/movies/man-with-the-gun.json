@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man with the Gun",
+    "year": 1955,
+    "cast": [
+      "Robert Mitchum",
+      "Jan Sterling"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/man-with-the-gun.html"
+}

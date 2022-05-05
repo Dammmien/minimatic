@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shantytown",
+    "year": 1943,
+    "cast": [
+      "Mary Lee",
+      "Marjorie Lord"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/shantytown.html"
+}

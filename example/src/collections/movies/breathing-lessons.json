@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Breathing Lessons",
+    "year": 1994,
+    "cast": [
+      "James Garner",
+      "Joanne Woodward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/breathing-lessons.html"
+}

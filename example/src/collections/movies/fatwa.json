@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fatwa",
+    "year": 2006,
+    "cast": [
+      "Lauren Holly",
+      "Lacey Chabert",
+      "John Doman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fatwa.html"
+}

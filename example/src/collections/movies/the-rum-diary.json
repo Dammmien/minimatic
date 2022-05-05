@@ -1,0 +1,27 @@
+{
+  "data": {
+    "title": "The Rum Diary",
+    "year": 2011,
+    "cast": [
+      "Johnny Depp",
+      "Aaron Eckhart",
+      "Michael Rispoli",
+      "Amber Heard",
+      "Richard Jenkins",
+      "and",
+      "Giovanni Ribisi",
+      "Amaury Nolasco",
+      "Marshall Bell",
+      "Bill Smitrovich",
+      "Julian Holloway",
+      "Karen Austin",
+      "Jason Smith"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-rum-diary.html"
+}

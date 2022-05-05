@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ring Two",
+    "year": 2005,
+    "cast": [
+      "Naomi Watts",
+      "David Dorfman",
+      "Simon Baker"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-ring-two.html"
+}

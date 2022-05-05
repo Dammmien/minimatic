@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Hate Valentine's Day",
+    "year": 2009,
+    "cast": [
+      "Nia Vardalos",
+      "John Corbett"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-hate-valentine-s-day.html"
+}

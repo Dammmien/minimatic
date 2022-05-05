@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Point of No Return",
+    "year": 1993,
+    "cast": [
+      "Bridget Fonda",
+      "Gabriel Byrne",
+      "Dermot Mulroney",
+      "Anne Bancroft",
+      "Harvey Keitel"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/point-of-no-return.html"
+}

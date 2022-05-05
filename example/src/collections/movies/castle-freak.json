@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Castle Freak",
+    "year": 1995,
+    "cast": [
+      "Jeffrey Combs",
+      "Barbara Crampton"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/castle-freak.html"
+}

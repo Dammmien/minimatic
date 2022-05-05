@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "True Stories",
+    "year": 1986,
+    "cast": [
+      "David Byrne",
+      "John Goodman",
+      "Swoosie Kurtz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/true-stories.html"
+}

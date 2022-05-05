@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In the Blood",
+    "year": 2014,
+    "cast": [
+      "Gina Carano",
+      "Cam Gigandet",
+      "Danny Trejo"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/in-the-blood.html"
+}

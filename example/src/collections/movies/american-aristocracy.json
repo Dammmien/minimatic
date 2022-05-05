@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "American Aristocracy",
+    "year": 1916,
+    "cast": [
+      "Douglas Fairbanks",
+      "Jewel Carmen"
+    ],
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ]
+  },
+  "output": "movies/american-aristocracy.html"
+}

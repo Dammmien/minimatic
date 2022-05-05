@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "J. D.'s Revenge",
+    "year": 1976,
+    "cast": [
+      "Louis Gossett, Jr.",
+      "Glynn Turman"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/j--d--s-revenge.html"
+}

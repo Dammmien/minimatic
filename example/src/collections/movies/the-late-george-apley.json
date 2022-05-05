@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Late George Apley",
+    "year": 1947,
+    "cast": [
+      "Ronald Colman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-late-george-apley.html"
+}

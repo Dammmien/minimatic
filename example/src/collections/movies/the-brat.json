@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Brat",
+    "year": 1931,
+    "cast": [
+      "Sally O'Neil",
+      "Alan Dinehart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-brat.html"
+}

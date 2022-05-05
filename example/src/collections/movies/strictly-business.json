@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Strictly Business",
+    "year": 1991,
+    "cast": [
+      "Tommy Davidson",
+      "Joseph C. Phillips",
+      "Halle Berry",
+      "Anne-Marie Johnson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/strictly-business.html"
+}

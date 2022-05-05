@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Born Rich",
+    "year": 1924,
+    "cast": [
+      "Claire Windsor",
+      "Bert Lytell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/born-rich.html"
+}

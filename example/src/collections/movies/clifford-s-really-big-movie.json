@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Clifford's Really Big Movie",
+    "year": 2004,
+    "cast": [
+      "John Ritter"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/clifford-s-really-big-movie.html"
+}

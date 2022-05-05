@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Talented Mr. Ripley",
+    "year": 1999,
+    "cast": [
+      "Matt Damon",
+      "Gwyneth Paltrow",
+      "Jude Law",
+      "Cate Blanchett",
+      "Philip Seymour Hoffman",
+      "Philip Baker Hall",
+      "James Rebhorn"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-talented-mr--ripley.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Good Girl",
+    "year": 2002,
+    "cast": [
+      "Jennifer Aniston",
+      "Jake Gyllenhaal",
+      "John C. Reilly"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-good-girl.html"
+}

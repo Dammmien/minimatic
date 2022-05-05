@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "Battlefield America",
+    "year": 2012,
+    "cast": [
+      "Marques Houston",
+      "Mekia Cox",
+      "Lynn Whitfield",
+      "Christopher Michael Jones",
+      "JoJo Wright",
+      "Tristen Carter",
+      "Valarie Pettiford",
+      "Gary Anthony Sturgis",
+      "Kida Burns",
+      "Zach Balandres",
+      "Carmen Bicondova",
+      "Edward Mandell",
+      "Kyle Brooks"
+    ],
+    "genres": [
+      "Dance",
+      "Drama"
+    ]
+  },
+  "output": "movies/battlefield-america.html"
+}

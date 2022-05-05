@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flight of the Navigator",
+    "year": 1986,
+    "cast": [
+      "Veronica Cartwright",
+      "Joey Cramer",
+      "Sarah Jessica Parker"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/flight-of-the-navigator.html"
+}

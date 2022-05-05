@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Loophole",
+    "year": 1954,
+    "cast": [
+      "Barry Sullivan",
+      "Dorothy Malone",
+      "Charles McGraw"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/loophole.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hell's Kitchen",
+    "year": 1998,
+    "cast": [
+      "Angelina Jolie",
+      "Mekhi Phifer",
+      "Rosanna Arquette"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hell-s-kitchen.html"
+}

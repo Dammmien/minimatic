@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Stomp the Yard",
+    "year": 2007,
+    "cast": [
+      "Columbus Short",
+      "Chris Brown",
+      "Ne-Yo"
+    ],
+    "genres": [
+      "Dance",
+      "Drama"
+    ]
+  },
+  "output": "movies/stomp-the-yard.html"
+}

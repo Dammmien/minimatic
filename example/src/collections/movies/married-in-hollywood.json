@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Married in Hollywood",
+    "year": 1929,
+    "cast": [
+      "J. Harold Murray",
+      "Norma Terris"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/married-in-hollywood.html"
+}

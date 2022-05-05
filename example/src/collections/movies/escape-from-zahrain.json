@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Escape from Zahrain",
+    "year": 1962,
+    "cast": [
+      "Yul Brynner",
+      "Sal Mineo",
+      "Jack Warden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/escape-from-zahrain.html"
+}

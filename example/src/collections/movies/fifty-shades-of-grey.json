@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Fifty Shades of Grey",
+    "year": 2015,
+    "cast": [
+      "Jamie Dornan",
+      "Dakota Johnson",
+      "Rita Ora",
+      "Luke Grimes",
+      "Marcia Gay Harden"
+    ],
+    "genres": [
+      "Romance",
+      "Thriller"
+    ]
+  },
+  "output": "movies/fifty-shades-of-grey.html"
+}

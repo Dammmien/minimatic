@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bermuda Mystery",
+    "year": 1944,
+    "cast": [
+      "Preston Foster",
+      "Ann Rutherford",
+      "Charles Butterworth",
+      "Helene Whitney"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/bermuda-mystery.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Way to Love",
+    "year": 1933,
+    "cast": [
+      "Maurice Chevalier",
+      "Ann Dvorak"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-way-to-love.html"
+}

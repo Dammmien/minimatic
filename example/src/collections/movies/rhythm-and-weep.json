@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Rhythm and Weep",
+    "year": 1946,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/rhythm-and-weep.html"
+}

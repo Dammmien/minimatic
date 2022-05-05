@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Role Models",
+    "year": 2008,
+    "cast": [
+      "Seann William Scott",
+      "Paul Rudd",
+      "Christopher Mintz-Plasse",
+      "Bobb'e J. Thompson",
+      "Jane Lynch",
+      "Elizabeth Banks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/role-models.html"
+}

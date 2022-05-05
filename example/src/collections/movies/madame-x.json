@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Madame X",
+    "year": 1966,
+    "cast": [
+      "Lana Turner",
+      "John Forsythe",
+      "Ricardo Montalbán"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/madame-x.html"
+}

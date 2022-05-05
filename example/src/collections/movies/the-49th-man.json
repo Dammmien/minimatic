@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The 49th Man",
+    "year": 1953,
+    "cast": [
+      "Richard Denning",
+      "John Ireland",
+      "Suzanne Dalbert"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-49th-man.html"
+}

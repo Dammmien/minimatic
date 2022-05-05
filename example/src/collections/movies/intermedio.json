@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Intermedio",
+    "year": 2005,
+    "cast": [
+      "Edward Furlong",
+      "Cerina Vincent",
+      "Amber Benson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/intermedio.html"
+}

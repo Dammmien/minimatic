@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Charley Varrick",
+    "year": 1973,
+    "cast": [
+      "Walter Matthau",
+      "Joe Don Baker",
+      "John Vernon",
+      "Andrew Robinson",
+      "Felicia Farr",
+      "Norman Fell",
+      "Jacqueline Scott",
+      "Sheree North"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/charley-varrick.html"
+}

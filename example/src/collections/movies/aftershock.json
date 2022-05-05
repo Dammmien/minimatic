@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Aftershock",
+    "year": 2013,
+    "cast": [
+      "Eli Roth",
+      "Andrea Osvárt",
+      "Ariel Levy",
+      "Natasha Yarovenko",
+      "Nicolás Martínez",
+      "Lorenza Izzo"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/aftershock.html"
+}

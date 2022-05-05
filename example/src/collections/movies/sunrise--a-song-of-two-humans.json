@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sunrise: A Song of Two Humans",
+    "year": 1927,
+    "cast": [
+      "George O'Brien",
+      "Janet Gaynor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sunrise--a-song-of-two-humans.html"
+}

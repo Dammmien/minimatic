@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Passport to Paradise",
+    "year": 1932,
+    "cast": [
+      "Jack Mulhall",
+      "Blanche Mehaffey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/passport-to-paradise.html"
+}

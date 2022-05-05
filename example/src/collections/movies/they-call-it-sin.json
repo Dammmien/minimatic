@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "They Call It Sin",
+    "year": 1932,
+    "cast": [
+      "Loretta Young",
+      "George Brent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/they-call-it-sin.html"
+}

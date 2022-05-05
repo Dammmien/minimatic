@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fool",
+    "year": 1925,
+    "cast": [
+      "Edmund Lowe",
+      "Raymond Bloomer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fool.html"
+}

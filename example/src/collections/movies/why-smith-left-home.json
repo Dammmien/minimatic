@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Why Smith Left Home",
+    "year": 1919,
+    "cast": [
+      "Bryant Washburn",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/why-smith-left-home.html"
+}

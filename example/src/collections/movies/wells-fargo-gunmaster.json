@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wells Fargo Gunmaster",
+    "year": 1951,
+    "cast": [
+      "Allan Lane",
+      "Mary Ellen Kay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wells-fargo-gunmaster.html"
+}

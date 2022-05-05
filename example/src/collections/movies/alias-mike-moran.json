@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Alias Mike Moran",
+    "year": 1919,
+    "cast": [
+      "Wallace Reid",
+      "Ann Little"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/alias-mike-moran.html"
+}

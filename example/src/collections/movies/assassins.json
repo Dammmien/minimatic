@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Assassins",
+    "year": 1995,
+    "cast": [
+      "Sylvester Stallone",
+      "Antonio Banderas",
+      "Julianne Moore"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/assassins.html"
+}

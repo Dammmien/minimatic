@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Dirty Dozen",
+    "year": 1967,
+    "cast": [
+      "Lee Marvin",
+      "Charles Bronson",
+      "Telly Savalas",
+      "John Cassavetes",
+      "Jim Brown",
+      "Ernest Borgnine",
+      "Robert Ryan",
+      "Donald Sutherland",
+      "Clint Walker",
+      "Trini Lopez"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-dirty-dozen.html"
+}

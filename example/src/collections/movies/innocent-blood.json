@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Innocent Blood",
+    "year": 1992,
+    "cast": [
+      "Anne Parillaud",
+      "Anthony LaPaglia",
+      "Don Rickles"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/innocent-blood.html"
+}

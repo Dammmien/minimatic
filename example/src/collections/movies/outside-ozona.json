@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Outside Ozona",
+    "year": 1998,
+    "cast": [
+      "Robert Forster",
+      "Kevin Pollak",
+      "Sherilyn Fenn",
+      "Penelope Ann Miller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/outside-ozona.html"
+}

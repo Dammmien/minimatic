@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Split Second",
+    "year": 1953,
+    "cast": [
+      "Stephen McNally",
+      "Alexis Smith",
+      "Jan Sterling"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/split-second.html"
+}

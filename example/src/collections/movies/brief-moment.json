@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Brief Moment",
+    "year": 1933,
+    "cast": [
+      "Carole Lombard",
+      "Gene Raymond"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/brief-moment.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Age of Indiscretion",
+    "year": 1935,
+    "cast": [
+      "Paul Lukas",
+      "Madge Evans",
+      "Helen Vinson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/age-of-indiscretion.html"
+}

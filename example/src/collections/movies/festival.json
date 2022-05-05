@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Festival",
+    "year": 1967,
+    "cast": [
+      "Bob Dylan",
+      "Johnny Cash",
+      "Joan Baez"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/festival.html"
+}

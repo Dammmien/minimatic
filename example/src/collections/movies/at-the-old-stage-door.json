@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "At the Old Stage Door",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/at-the-old-stage-door.html"
+}

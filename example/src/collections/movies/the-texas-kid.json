@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Texas Kid",
+    "year": 1943,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-texas-kid.html"
+}

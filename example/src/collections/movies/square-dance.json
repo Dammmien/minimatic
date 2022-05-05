@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Square Dance",
+    "year": 1987,
+    "cast": [
+      "Winona Ryder",
+      "Rob Lowe",
+      "Jason Robards"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/square-dance.html"
+}

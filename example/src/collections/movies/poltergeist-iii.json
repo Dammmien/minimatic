@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Poltergeist III",
+    "year": 1988,
+    "cast": [
+      "Heather O'Rourke",
+      "Tom Skerritt",
+      "Nancy Allen",
+      "Zelda Rubinstein"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/poltergeist-iii.html"
+}

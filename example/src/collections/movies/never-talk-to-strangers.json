@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Never Talk to Strangers",
+    "year": 1995,
+    "cast": [
+      "Antonio Banderas",
+      "Rebecca De Mornay",
+      "Dennis Miller",
+      "Harry Dean Stanton",
+      "Len Cariou"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/never-talk-to-strangers.html"
+}

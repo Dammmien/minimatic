@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Ape Man",
+    "year": 1943,
+    "cast": [
+      "Bela Lugosi",
+      "Louise Currie",
+      "Wallace Ford",
+      "Henry Hall"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-ape-man.html"
+}

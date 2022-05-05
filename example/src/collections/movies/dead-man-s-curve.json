@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dead Man's Curve",
+    "year": 1928,
+    "cast": [
+      "Douglas Fairbanks Jr.",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/dead-man-s-curve.html"
+}

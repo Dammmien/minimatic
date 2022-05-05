@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I'd Give My Life",
+    "year": 1936,
+    "cast": [
+      "Guy Standing",
+      "Frances Drake"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-d-give-my-life.html"
+}

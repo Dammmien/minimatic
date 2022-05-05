@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Smurfs: The Lost Village",
+    "year": 2017,
+    "cast": [
+      "Demi Lovato",
+      "Mandy Patinkin",
+      "Jack McBrayer",
+      "Danny Pudi",
+      "Joe Manganiello",
+      "Rainn Wilson",
+      "Ariel Winter"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy",
+      "Fantasy",
+      "Family"
+    ]
+  },
+  "output": "movies/smurfs--the-lost-village.html"
+}

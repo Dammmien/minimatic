@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Who Came Back",
+    "year": 1931,
+    "cast": [
+      "Janet Gaynor",
+      "Charles Farrell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-who-came-back.html"
+}

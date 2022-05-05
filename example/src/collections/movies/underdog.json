@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Underdog",
+    "year": 2007,
+    "cast": [
+      "Alex Neuberger",
+      "Amy Adams",
+      "Jason Lee"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/underdog.html"
+}

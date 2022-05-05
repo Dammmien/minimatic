@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Convention City",
+    "year": 1933,
+    "cast": [
+      "Joan Blondell",
+      "Dick Powell",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/convention-city.html"
+}

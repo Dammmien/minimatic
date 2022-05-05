@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Eight Men Out",
+    "year": 1988,
+    "cast": [
+      "John Cusack",
+      "Charlie Sheen",
+      "David Strathairn",
+      "John Mahoney",
+      "Clifton James",
+      "D. B. Sweeney",
+      "Studs Terkel"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/eight-men-out.html"
+}

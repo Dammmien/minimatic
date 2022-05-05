@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Come Back, Charleston Blue",
+    "year": 1972,
+    "cast": [
+      "Godfrey Cambridge",
+      "Raymond St. Jacques"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/come-back--charleston-blue.html"
+}

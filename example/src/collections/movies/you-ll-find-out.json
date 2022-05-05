@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "You'll Find Out",
+    "year": 1940,
+    "cast": [
+      "Kay Kyser",
+      "Helen Parrish",
+      "Ginny Simms",
+      "Peter Lorre",
+      "Boris Karloff"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-ll-find-out.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crosswinds",
+    "year": 1951,
+    "cast": [
+      "Rhonda Fleming",
+      "John Payne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/crosswinds.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ancient Mariner",
+    "year": 1925,
+    "cast": [
+      "Clara Bow",
+      "Gladys Brockwell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-ancient-mariner.html"
+}

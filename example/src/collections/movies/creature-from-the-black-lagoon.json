@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Creature from the Black Lagoon",
+    "year": 1954,
+    "cast": [
+      "Richard Carlson",
+      "Julie Adams",
+      "Richard Denning"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/creature-from-the-black-lagoon.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Eyes of Mystery",
+    "year": 1918,
+    "cast": [
+      "Edith Storey",
+      "Bradley Barker"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-eyes-of-mystery.html"
+}

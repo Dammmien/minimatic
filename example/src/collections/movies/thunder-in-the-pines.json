@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thunder in the Pines",
+    "year": 1948,
+    "cast": [
+      "George Reeves",
+      "Ralph Byrd"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/thunder-in-the-pines.html"
+}

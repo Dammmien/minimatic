@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "How to Marry a Millionaire",
+    "year": 1953,
+    "cast": [
+      "Lauren Bacall",
+      "Betty Grable",
+      "Marilyn Monroe",
+      "Cameron Mitchell",
+      "William Powell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/how-to-marry-a-millionaire.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Take This Job and Shove It",
+    "year": 1981,
+    "cast": [
+      "Robert Hays",
+      "Art Carney",
+      "Barbara Hershey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/take-this-job-and-shove-it.html"
+}

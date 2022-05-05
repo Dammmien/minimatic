@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Apartment for Peggy",
+    "year": 1948,
+    "cast": [
+      "Jeanne Crain",
+      "William Holden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/apartment-for-peggy.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "K-9",
+    "year": 1989,
+    "cast": [
+      "James Belushi",
+      "Mel Harris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/k-9.html"
+}

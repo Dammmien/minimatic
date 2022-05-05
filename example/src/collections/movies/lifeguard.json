@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lifeguard",
+    "year": 1976,
+    "cast": [
+      "Sam Elliott",
+      "Anne Archer",
+      "Kathleen Quinlan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lifeguard.html"
+}

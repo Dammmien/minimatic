@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love and Glory",
+    "year": 1924,
+    "cast": [
+      "Charles de Rochefort",
+      "Wallace MacDonald"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-and-glory.html"
+}

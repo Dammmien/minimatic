@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Witless Protection",
+    "year": 2008,
+    "cast": [
+      "Larry the Cable Guy",
+      "Jenny McCarthy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/witless-protection.html"
+}

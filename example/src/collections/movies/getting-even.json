@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Getting Even",
+    "year": 1986,
+    "cast": [
+      "Edward Albert",
+      "Joe Don Baker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/getting-even.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Saginaw Trail",
+    "year": 1953,
+    "cast": [
+      "Gene Autry",
+      "Connie Marshall"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/saginaw-trail.html"
+}

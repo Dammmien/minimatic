@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Twilight of Honor",
+    "year": 1963,
+    "cast": [
+      "Richard Chamberlain",
+      "Nick Adams",
+      "Joey Heatherton",
+      "Joan Blackman",
+      "Claude Rains"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/twilight-of-honor.html"
+}

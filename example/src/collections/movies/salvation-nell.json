@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Salvation Nell",
+    "year": 1931,
+    "cast": [
+      "Ralph Graves",
+      "Helen Chandler",
+      "Sally O'Neil"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/salvation-nell.html"
+}

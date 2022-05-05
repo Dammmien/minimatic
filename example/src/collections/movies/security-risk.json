@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Security Risk",
+    "year": 1954,
+    "cast": [
+      "John Ireland",
+      "Dorothy Malone"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/security-risk.html"
+}

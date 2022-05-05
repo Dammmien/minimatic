@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Eyes of Annie Jones",
+    "year": 1964,
+    "cast": [
+      "Richard Conte",
+      "Francesca Annis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-eyes-of-annie-jones.html"
+}

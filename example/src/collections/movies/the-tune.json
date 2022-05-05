@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "The Tune",
+    "year": 1992,
+    "cast": [],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-tune.html"
+}

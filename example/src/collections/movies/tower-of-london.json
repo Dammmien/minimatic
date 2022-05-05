@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Tower of London",
+    "year": 1962,
+    "cast": [
+      "Vincent Price"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/tower-of-london.html"
+}

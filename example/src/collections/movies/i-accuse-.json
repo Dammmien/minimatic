@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Accuse!",
+    "year": 1958,
+    "cast": [
+      "Jose Ferrer",
+      "Viveca Lindfors"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-accuse-.html"
+}

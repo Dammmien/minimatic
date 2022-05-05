@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Our Town",
+    "year": 1940,
+    "cast": [
+      "William Holden",
+      "Martha Scott",
+      "Fay Bainter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/our-town.html"
+}

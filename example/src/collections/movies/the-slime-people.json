@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Slime People",
+    "year": 1963,
+    "cast": [
+      "Robert Hutton",
+      "Susan Hart"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-slime-people.html"
+}

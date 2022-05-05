@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tango",
+    "year": 1936,
+    "cast": [
+      "Marian Nixon",
+      "Chick Chandler",
+      "Franklin Pangborn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tango.html"
+}

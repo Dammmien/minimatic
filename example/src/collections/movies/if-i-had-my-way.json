@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "If I Had My Way",
+    "year": 1940,
+    "cast": [
+      "Bing Crosby",
+      "Gloria Jean"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/if-i-had-my-way.html"
+}

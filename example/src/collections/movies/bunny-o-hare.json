@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bunny O'Hare",
+    "year": 1971,
+    "cast": [
+      "Bette Davis",
+      "Ernest Borgnine"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/bunny-o-hare.html"
+}

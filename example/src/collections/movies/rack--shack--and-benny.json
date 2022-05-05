@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rack, Shack, and Benny",
+    "year": 1995,
+    "cast": [
+      "Phil Vischer",
+      "Mike Nawrocki"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/rack--shack--and-benny.html"
+}

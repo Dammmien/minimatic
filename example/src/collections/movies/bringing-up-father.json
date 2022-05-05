@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bringing Up Father",
+    "year": 1946,
+    "cast": [
+      "Joe Yule",
+      "Renie Riano"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bringing-up-father.html"
+}

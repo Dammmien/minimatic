@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man in the Dark",
+    "year": 1953,
+    "cast": [
+      "Edmond O'Brien",
+      "Audrey Totter"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/man-in-the-dark.html"
+}

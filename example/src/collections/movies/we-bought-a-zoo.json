@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "We Bought a Zoo",
+    "year": 2011,
+    "cast": [
+      "Matt Damon",
+      "Scarlett Johansson",
+      "Thomas Haden Church",
+      "Patrick Fugit",
+      "Elle Fanning",
+      "John Michael Higgins",
+      "Colin Ford",
+      "Stephanie Szostak",
+      "Angus Macfadyen",
+      "Carla Gallo",
+      "Peter Riegert",
+      "J. B. Smoove"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/we-bought-a-zoo.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Toy Story 2",
+    "year": 1999,
+    "cast": [
+      "voices of",
+      "Tom Hanks",
+      "Tim Allen",
+      "Annie Potts",
+      "Don Rickles"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/toy-story-2.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eve in Exile",
+    "year": 1919,
+    "cast": [
+      "Charlotte Walker",
+      "Tom Santschi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/eve-in-exile.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Confidence Man",
+    "year": 1924,
+    "cast": [
+      "Thomas Meighan",
+      "Virginia Valli"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-confidence-man.html"
+}

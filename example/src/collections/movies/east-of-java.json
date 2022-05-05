@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "East of Java",
+    "year": 1935,
+    "cast": [
+      "Charles Bickford",
+      "Elizabeth Young",
+      "Frank Albertson"
+    ],
+    "genres": [
+      "Adventure",
+      "Drama"
+    ]
+  },
+  "output": "movies/east-of-java.html"
+}

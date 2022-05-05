@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Start Cheering",
+    "year": 1938,
+    "cast": [
+      "Jimmy Durante",
+      "Joan Perry"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/start-cheering.html"
+}

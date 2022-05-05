@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Bridget Jones's Baby",
+    "year": 2016,
+    "cast": [
+      "Renée Zellweger",
+      "Colin Firth",
+      "Patrick Dempsey"
+    ],
+    "genres": []
+  },
+  "output": "movies/bridget-jones-s-baby.html"
+}

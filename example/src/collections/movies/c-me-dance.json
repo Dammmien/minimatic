@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "C Me Dance",
+    "year": 2009,
+    "cast": [
+      "Greg Robbins",
+      "Christina DeMarco",
+      "Laura Romeo",
+      "Peter Kent"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/c-me-dance.html"
+}

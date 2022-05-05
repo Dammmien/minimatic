@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Society Fever",
+    "year": 1935,
+    "cast": [
+      "Lois Wilson",
+      "Guinn Williams",
+      "Hedda Hopper"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/society-fever.html"
+}

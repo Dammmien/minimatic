@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fabulous Senorita",
+    "year": 1952,
+    "cast": [
+      "Estelita Rodriguez",
+      "Robert Clarke"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fabulous-senorita.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "End of the Trail",
+    "year": 1936,
+    "cast": [
+      "Jack Holt",
+      "Louise Henry"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/end-of-the-trail.html"
+}

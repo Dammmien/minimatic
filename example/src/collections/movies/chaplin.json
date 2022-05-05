@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Chaplin",
+    "year": 1992,
+    "cast": [
+      "Robert Downey, Jr.",
+      "Dan Aykroyd",
+      "Kevin Kline",
+      "Anthony Hopkins"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/chaplin.html"
+}

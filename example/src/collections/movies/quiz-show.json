@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Quiz Show",
+    "year": 1994,
+    "cast": [
+      "Ralph Fiennes",
+      "John Turturro",
+      "Rob Morrow",
+      "Paul Scofield",
+      "Christopher McDonald",
+      "Barry Levinson",
+      "Martin Scorsese"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/quiz-show.html"
+}

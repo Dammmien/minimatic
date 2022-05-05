@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Broadway Limited",
+    "year": 1941,
+    "cast": [
+      "Victor McLaglen",
+      "Patsy Kelly",
+      "ZaSu Pitts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/broadway-limited.html"
+}

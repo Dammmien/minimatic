@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lady from Hell",
+    "year": 1926,
+    "cast": [
+      "Roy Stewart",
+      "Blanche Sweet",
+      "Ralph Lewis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-lady-from-hell.html"
+}

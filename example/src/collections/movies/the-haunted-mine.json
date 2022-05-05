@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Haunted Mine",
+    "year": 1946,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton",
+      "Linda Leighton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-haunted-mine.html"
+}

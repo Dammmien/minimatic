@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jennie",
+    "year": 1940,
+    "cast": [
+      "Virginia Gilmore",
+      "George Montgomery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jennie.html"
+}

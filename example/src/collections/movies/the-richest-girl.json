@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Richest Girl",
+    "year": 1918,
+    "cast": [
+      "Anna Murdock",
+      "David Powell"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-richest-girl.html"
+}

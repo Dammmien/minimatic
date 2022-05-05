@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Speed Limited",
+    "year": 1935,
+    "cast": [
+      "Ralph Graves",
+      "Evelyn Brent"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/speed-limited.html"
+}

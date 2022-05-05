@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Justice of the Far North",
+    "year": 1925,
+    "cast": [
+      "Arthur Jasmine",
+      "Marcia Manon"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/justice-of-the-far-north.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gas Food Lodging",
+    "year": 1992,
+    "cast": [
+      "Brooke Adams",
+      "Ione Skye"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gas-food-lodging.html"
+}

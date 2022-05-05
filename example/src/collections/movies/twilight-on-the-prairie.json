@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Twilight on the Prairie",
+    "year": 1944,
+    "cast": [
+      "Johnny Downs",
+      "Vivian Austin"
+    ],
+    "genres": [
+      "Western",
+      "Musical"
+    ]
+  },
+  "output": "movies/twilight-on-the-prairie.html"
+}

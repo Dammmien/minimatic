@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Crime in the Streets",
+    "year": 1956,
+    "cast": [
+      "James Whitmore",
+      "John Cassavetes"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/crime-in-the-streets.html"
+}

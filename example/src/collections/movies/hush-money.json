@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hush Money",
+    "year": 1931,
+    "cast": [
+      "Joan Bennett",
+      "Myrna Loy",
+      "George Raft"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hush-money.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Daddy Day Care",
+    "year": 2003,
+    "cast": [
+      "Eddie Murphy",
+      "Jeff Garlin",
+      "Steve Zahn",
+      "Regina King",
+      "Anjelica Huston"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/daddy-day-care.html"
+}

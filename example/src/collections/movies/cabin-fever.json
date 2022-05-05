@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cabin Fever",
+    "year": 2002,
+    "cast": [
+      "Rider Strong",
+      "Jordan Ladd",
+      "James DeBello"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/cabin-fever.html"
+}

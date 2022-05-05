@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Going My Way",
+    "year": 1944,
+    "cast": [
+      "Bing Crosby",
+      "Barry Fitzgerald"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/going-my-way.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hellbound: Hellraiser II",
+    "year": 1988,
+    "cast": [
+      "Clare Higgins",
+      "Ashley Laurence",
+      "Doug Bradley"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/hellbound--hellraiser-ii.html"
+}

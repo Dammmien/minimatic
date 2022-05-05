@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shakes the Clown",
+    "year": 1992,
+    "cast": [
+      "Bobcat Goldthwait",
+      "Florence Henderson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/shakes-the-clown.html"
+}

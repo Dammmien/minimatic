@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Yellow Ticket",
+    "year": 1931,
+    "cast": [
+      "Lionel Barrymore",
+      "Laurence Olivier",
+      "Elissa Landi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-yellow-ticket.html"
+}

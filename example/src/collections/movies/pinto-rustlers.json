@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pinto Rustlers",
+    "year": 1936,
+    "cast": [
+      "Tom Tyler",
+      "George Walsh"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/pinto-rustlers.html"
+}

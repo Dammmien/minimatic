@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Guilty",
+    "year": 1947,
+    "cast": [
+      "Bonita Granville",
+      "Don Castle",
+      "Regis Toomey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-guilty.html"
+}

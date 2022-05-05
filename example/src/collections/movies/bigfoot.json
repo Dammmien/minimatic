@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Bigfoot",
+    "year": 1970,
+    "cast": [
+      "John Carradine"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/bigfoot.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Minute to Play",
+    "year": 1926,
+    "cast": [
+      "Red Grange",
+      "Mary McAllister"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/one-minute-to-play.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tiger Orange",
+    "year": 2014,
+    "cast": [
+      "Mark Strano",
+      "Frankie Valenti",
+      "Gregory Marcel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tiger-orange.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Earl Carroll Vanities",
+    "year": 1945,
+    "cast": [
+      "Dennis O'Keefe",
+      "Constance Moore",
+      "Eve Arden"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/earl-carroll-vanities.html"
+}

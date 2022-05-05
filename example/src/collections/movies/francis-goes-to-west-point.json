@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Francis Goes to West Point",
+    "year": 1952,
+    "cast": [
+      "Donald O'Connor",
+      "Lori Nelson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/francis-goes-to-west-point.html"
+}

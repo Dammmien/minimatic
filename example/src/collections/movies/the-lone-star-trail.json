@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lone Star Trail",
+    "year": 1943,
+    "cast": [
+      "Johnny Mack Brown",
+      "Tex Ritter"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-lone-star-trail.html"
+}

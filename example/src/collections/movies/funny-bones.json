@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Funny Bones",
+    "year": 1995,
+    "cast": [
+      "Oliver Platt",
+      "Jerry Lewis",
+      "Lee Evans",
+      "Leslie Caron"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/funny-bones.html"
+}

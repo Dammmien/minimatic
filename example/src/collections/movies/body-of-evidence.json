@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Body of Evidence",
+    "year": 1993,
+    "cast": [
+      "Willem Dafoe",
+      "Madonna",
+      "Joe Mantegna",
+      "Anne Archer",
+      "Julianne Moore",
+      "Jürgen Prochnow"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/body-of-evidence.html"
+}

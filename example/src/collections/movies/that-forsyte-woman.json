@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "That Forsyte Woman",
+    "year": 1949,
+    "cast": [
+      "Errol Flynn",
+      "Greer Garson",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/that-forsyte-woman.html"
+}

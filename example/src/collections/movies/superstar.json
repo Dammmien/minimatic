@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Superstar",
+    "year": 1999,
+    "cast": [
+      "Molly Shannon",
+      "Will Ferrell",
+      "Harland Williams"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/superstar.html"
+}

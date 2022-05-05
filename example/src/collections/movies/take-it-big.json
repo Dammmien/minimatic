@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Take It Big",
+    "year": 1944,
+    "cast": [
+      "Harriet Hilliard",
+      "Jack Haley",
+      "Ozzie Nelson"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/take-it-big.html"
+}

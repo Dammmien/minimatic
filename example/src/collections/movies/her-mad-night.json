@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Her Mad Night",
+    "year": 1932,
+    "cast": [
+      "Conway Tearle",
+      "Irene Rich"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/her-mad-night.html"
+}

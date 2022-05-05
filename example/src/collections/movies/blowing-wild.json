@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blowing Wild",
+    "year": 1953,
+    "cast": [
+      "Gary Cooper",
+      "Barbara Stanwyck",
+      "Ruth Roman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blowing-wild.html"
+}

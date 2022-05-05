@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chance at Heaven",
+    "year": 1933,
+    "cast": [
+      "Ginger Rogers",
+      "Joel McCrea",
+      "Marian Nixon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/chance-at-heaven.html"
+}

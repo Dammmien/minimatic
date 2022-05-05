@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In Search of a Thrill",
+    "year": 1923,
+    "cast": [
+      "Viola Dana",
+      "Warner Baxter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/in-search-of-a-thrill.html"
+}

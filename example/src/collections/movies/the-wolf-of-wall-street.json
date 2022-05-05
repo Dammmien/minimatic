@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Jonah Hill",
+      "Margot Robbie",
+      "Matthew McConaughey",
+      "Kyle Chandler",
+      "Rob Reiner",
+      "Jon Favreau",
+      "Jean Dujardin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-wolf-of-wall-street.html"
+}

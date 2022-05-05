@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Heaven Knows, Mr. Allison",
+    "year": 1957,
+    "cast": [
+      "Deborah Kerr",
+      "Robert Mitchum"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/heaven-knows--mr--allison.html"
+}

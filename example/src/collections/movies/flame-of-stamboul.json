@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flame of Stamboul",
+    "year": 1951,
+    "cast": [
+      "Richard Denning",
+      "Lisa Ferraday"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/flame-of-stamboul.html"
+}

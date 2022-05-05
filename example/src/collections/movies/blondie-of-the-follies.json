@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blondie of the Follies",
+    "year": 1932,
+    "cast": [
+      "Marion Davies",
+      "Robert Montgomery",
+      "Billie Dove"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blondie-of-the-follies.html"
+}

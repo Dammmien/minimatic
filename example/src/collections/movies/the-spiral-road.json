@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Spiral Road",
+    "year": 1962,
+    "cast": [
+      "Rock Hudson",
+      "Gena Rowlands",
+      "Burl Ives",
+      "Neva Patterson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-spiral-road.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Machine Gun Preacher",
+    "year": 2011,
+    "cast": [
+      "Gerard Butler",
+      "Michael Shannon",
+      "Michelle Monaghan",
+      "Souléymane Sy Savané",
+      "Madeline Carroll",
+      "Kathy Baker"
+    ],
+    "genres": [
+      "Action",
+      "Biography"
+    ]
+  },
+  "output": "movies/machine-gun-preacher.html"
+}

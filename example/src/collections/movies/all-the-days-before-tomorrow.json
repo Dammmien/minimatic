@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "All the Days Before Tomorrow",
+    "year": 2007,
+    "cast": [
+      "Joey Kern",
+      "Alexandra Holden",
+      "Richard Roundtree",
+      "Yutaka Takeuchi",
+      "Luis Chávez"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/all-the-days-before-tomorrow.html"
+}

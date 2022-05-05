@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Career",
+    "year": 1959,
+    "cast": [
+      "Dean Martin",
+      "Tony Franciosa",
+      "Carolyn Jones",
+      "Shirley MacLaine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/career.html"
+}

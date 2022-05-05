@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Move Over, Darling",
+    "year": 1963,
+    "cast": [
+      "Doris Day",
+      "James Garner",
+      "Polly Bergen"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/move-over--darling.html"
+}

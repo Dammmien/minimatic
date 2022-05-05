@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Police Academy",
+    "year": 1984,
+    "cast": [
+      "Steve Guttenberg",
+      "Kim Cattrall",
+      "G. W. Bailey",
+      "Bubba Smith",
+      "George Gaynes",
+      "Leslie Easterbrook",
+      "David Graf",
+      "Michael Winslow",
+      "Donovan Scott"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/police-academy.html"
+}

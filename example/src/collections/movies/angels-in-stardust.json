@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Angels in Stardust",
+    "year": 2014,
+    "cast": [
+      "Alicia Silverstone",
+      "Billy Burke",
+      "AJ Michalka"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/angels-in-stardust.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Old Ironsides",
+    "year": 1926,
+    "cast": [
+      "Charles Farrell",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/old-ironsides.html"
+}

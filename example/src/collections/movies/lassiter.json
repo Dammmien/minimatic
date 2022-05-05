@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lassiter",
+    "year": 1984,
+    "cast": [
+      "Tom Selleck",
+      "Jane Seymour",
+      "Lauren Hutton"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/lassiter.html"
+}

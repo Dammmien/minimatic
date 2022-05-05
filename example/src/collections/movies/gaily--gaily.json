@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gaily, Gaily",
+    "year": 1969,
+    "cast": [
+      "Beau Bridges",
+      "Brian Keith",
+      "Margot Kidder"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gaily--gaily.html"
+}

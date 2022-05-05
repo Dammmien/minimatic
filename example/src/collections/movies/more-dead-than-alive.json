@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "More Dead Than Alive",
+    "year": 1969,
+    "cast": [
+      "Clint Walker",
+      "Vincent Price",
+      "Anne Francis",
+      "Paul Hampton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/more-dead-than-alive.html"
+}

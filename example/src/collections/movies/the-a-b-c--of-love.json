@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The A.B.C. of Love",
+    "year": 1919,
+    "cast": [
+      "Mae Murray",
+      "Holmes Herbert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-a-b-c--of-love.html"
+}

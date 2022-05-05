@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "National Treasure",
+    "year": 2004,
+    "cast": [
+      "Nicolas Cage",
+      "Diane Kruger",
+      "Justin Bartha",
+      "Jon Voight",
+      "Harvey Keitel",
+      "Sean Bean",
+      "Christopher Plummer"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/national-treasure.html"
+}

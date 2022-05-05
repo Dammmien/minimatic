@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Frontier Trail",
+    "year": 1926,
+    "cast": [
+      "Harry Carey",
+      "Mabel Julienne Scott"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-frontier-trail.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Killed Wild Bill Hickok",
+    "year": 1956,
+    "cast": [
+      "Tom Brown",
+      "Virginia Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/i-killed-wild-bill-hickok.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tarzan and the Amazons",
+    "year": 1945,
+    "cast": [
+      "Johnny Weissmuller",
+      "Brenda Joyce"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-and-the-amazons.html"
+}

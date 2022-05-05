@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hot Cars",
+    "year": 1956,
+    "cast": [
+      "John Bromfield",
+      "Joi Lansing"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/hot-cars.html"
+}

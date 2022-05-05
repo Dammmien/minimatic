@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Scarecrow",
+    "year": 2000,
+    "cast": [
+      "Shawn Hoffman",
+      "Belinda Montgomery",
+      "Ray Porter",
+      "Corey Feldman"
+    ],
+    "genres": [
+      "Animated",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-scarecrow.html"
+}

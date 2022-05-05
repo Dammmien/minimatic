@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hell's House",
+    "year": 1932,
+    "cast": [
+      "Bette Davis",
+      "Pat O'Brien",
+      "Junior Durkin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hell-s-house.html"
+}

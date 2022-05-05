@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Insidious: The Last Key",
+    "year": 2018,
+    "cast": [
+      "Lin Shaye",
+      "Angus Sampson",
+      "Leigh Whannell",
+      "Spencer Locke",
+      "Caitlin Gerard",
+      "Kirk Acevedo",
+      "Bruce Davison"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/insidious--the-last-key.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In Old Santa Fe",
+    "year": 1934,
+    "cast": [
+      "Ken Maynard",
+      "Evalyn Knapp"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/in-old-santa-fe.html"
+}

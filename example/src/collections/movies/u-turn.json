@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "U Turn",
+    "year": 1997,
+    "cast": [
+      "Sean Penn",
+      "Jennifer Lopez",
+      "Nick Nolte",
+      "Powers Boothe",
+      "Jon Voight",
+      "Joaquin Phoenix",
+      "Claire Danes",
+      "Billy Bob Thornton"
+    ],
+    "genres": [
+      "Thriller",
+      "Comedy"
+    ]
+  },
+  "output": "movies/u-turn.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kathleen",
+    "year": 1941,
+    "cast": [
+      "Shirley Temple",
+      "Gail Patrick",
+      "Laraine Day"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kathleen.html"
+}

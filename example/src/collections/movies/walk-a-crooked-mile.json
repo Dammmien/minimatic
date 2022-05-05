@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Walk a Crooked Mile",
+    "year": 1948,
+    "cast": [
+      "Dennis O'Keefe",
+      "Louis Hayward"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/walk-a-crooked-mile.html"
+}

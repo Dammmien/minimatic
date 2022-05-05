@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hit of the Show",
+    "year": 1928,
+    "cast": [
+      "Joe E. Brown",
+      "Gertrude Olmstead"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hit-of-the-show.html"
+}

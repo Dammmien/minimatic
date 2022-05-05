@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Manicure Girl",
+    "year": 1925,
+    "cast": [
+      "Bebe Daniels",
+      "Edmund Burns"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-manicure-girl.html"
+}

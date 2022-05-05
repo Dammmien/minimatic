@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Pick a Star",
+    "year": 1937,
+    "cast": [
+      "Rosina Lawrence",
+      "Jack Haley",
+      "Lyda Roberti"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/pick-a-star.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In Old New Mexico",
+    "year": 1945,
+    "cast": [
+      "Duncan Renaldo",
+      "Martin Garralaga"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/in-old-new-mexico.html"
+}

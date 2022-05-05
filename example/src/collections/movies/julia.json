@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Julia",
+    "year": 1977,
+    "cast": [
+      "Vanessa Redgrave",
+      "Jane Fonda",
+      "Jason Robards",
+      "Meryl Streep",
+      "Rosemary Murphy",
+      "John Glover",
+      "Hal Holbrook"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/julia.html"
+}

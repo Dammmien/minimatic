@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bandits of El Dorado",
+    "year": 1949,
+    "cast": [
+      "Charles Starrett",
+      "Clayton Moore"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bandits-of-el-dorado.html"
+}

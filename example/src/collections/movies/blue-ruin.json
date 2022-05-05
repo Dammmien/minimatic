@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blue Ruin",
+    "year": 2013,
+    "cast": [
+      "Macon Blair",
+      "Devin Ratray",
+      "Eve Plumb"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/blue-ruin.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Fugitive from Justice",
+    "year": 1940,
+    "cast": [
+      "Roger Pryor",
+      "Lucile Fairbanks",
+      "Eddie Foy Jr."
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-fugitive-from-justice.html"
+}

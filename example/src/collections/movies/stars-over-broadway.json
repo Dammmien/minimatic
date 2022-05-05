@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Stars Over Broadway",
+    "year": 1935,
+    "cast": [
+      "Pat O'Brien",
+      "James Melton",
+      "Jane Froman"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/stars-over-broadway.html"
+}

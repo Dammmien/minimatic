@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Percy Jackson: Sea of Monsters",
+    "year": 2013,
+    "cast": [
+      "Logan Lerman",
+      "Brandon T. Jackson",
+      "Alexandra Daddario",
+      "Leven Rambin",
+      "Jake Abel",
+      "Douglas Smith",
+      "Stanley Tucci",
+      "Nathan Fillion"
+    ],
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/percy-jackson--sea-of-monsters.html"
+}

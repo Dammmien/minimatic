@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Duffy's Tavern",
+    "year": 1945,
+    "cast": [
+      "Bing Crosby",
+      "Betty Hutton",
+      "Paulette Goddard",
+      "Alan Ladd",
+      "Dorothy Lamour"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/duffy-s-tavern.html"
+}

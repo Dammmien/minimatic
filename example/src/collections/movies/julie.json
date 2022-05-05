@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Julie",
+    "year": 1956,
+    "cast": [
+      "Doris Day",
+      "Louis Jourdan"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/julie.html"
+}

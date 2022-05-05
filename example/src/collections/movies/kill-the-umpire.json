@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kill the Umpire",
+    "year": 1950,
+    "cast": [
+      "William Bendix",
+      "William Frawley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kill-the-umpire.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wells Fargo",
+    "year": 1937,
+    "cast": [
+      "Joel McCrea",
+      "Frances Dee",
+      "Porter Hall"
+    ],
+    "genres": [
+      "Drama",
+      "Western"
+    ]
+  },
+  "output": "movies/wells-fargo.html"
+}

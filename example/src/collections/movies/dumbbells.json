@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dumbbells",
+    "year": 2014,
+    "cast": [
+      "Brian Drolet",
+      "Hoyt Richards",
+      "Jaleel White"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dumbbells.html"
+}

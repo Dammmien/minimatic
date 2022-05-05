@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Impostor",
+    "year": 1961,
+    "cast": [
+      "Tony Curtis",
+      "Edmond O'Brien",
+      "Karl Malden"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-great-impostor.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tessie",
+    "year": 1925,
+    "cast": [
+      "May McAvoy",
+      "Lee Moran"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tessie.html"
+}

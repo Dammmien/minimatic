@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Naked Gun 33⅓: The Final Insult",
+    "year": 1994,
+    "cast": [
+      "Leslie Nielsen",
+      "Priscilla Presley",
+      "George Kennedy",
+      "O.J. Simpson",
+      "Fred Ward",
+      "Anna Nicole Smith",
+      "Kathleen Freeman",
+      "Pia Zadora",
+      "Raquel Welch"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/naked-gun-33---the-final-insult.html"
+}

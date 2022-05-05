@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Down in the Delta",
+    "year": 1998,
+    "cast": [
+      "Alfre Woodard",
+      "Loretta Devine",
+      "Esther Rolle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/down-in-the-delta.html"
+}

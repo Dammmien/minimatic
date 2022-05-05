@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Cheated the Law",
+    "year": 1949,
+    "cast": [
+      "Tom Conway",
+      "Barbara Billingsley"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/i-cheated-the-law.html"
+}

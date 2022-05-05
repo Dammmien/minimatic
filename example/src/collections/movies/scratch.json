@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Scratch",
+    "year": 2001,
+    "cast": [
+      "Hip hop music",
+      "and",
+      "disc jockeys"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/scratch.html"
+}

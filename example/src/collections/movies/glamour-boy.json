@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Glamour Boy",
+    "year": 1941,
+    "cast": [
+      "Jackie Cooper",
+      "Susanna Foster"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/glamour-boy.html"
+}

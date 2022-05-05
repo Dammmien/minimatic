@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My First Mister",
+    "year": 2001,
+    "cast": [
+      "Albert Brooks",
+      "Leelee Sobieski",
+      "John Goodman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-first-mister.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Flesh and Bone",
+    "year": 1993,
+    "cast": [
+      "Dennis Quaid",
+      "Meg Ryan",
+      "James Caan",
+      "Gwyneth Paltrow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flesh-and-bone.html"
+}

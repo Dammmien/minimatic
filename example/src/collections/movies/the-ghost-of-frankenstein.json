@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ghost of Frankenstein",
+    "year": 1942,
+    "cast": [
+      "Lon Chaney Jr.",
+      "Cedric Hardwicke",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-ghost-of-frankenstein.html"
+}

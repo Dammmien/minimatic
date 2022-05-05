@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The FBI Story",
+    "year": 1959,
+    "cast": [
+      "James Stewart",
+      "Vera Miles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fbi-story.html"
+}

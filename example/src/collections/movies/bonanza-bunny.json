@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Bonanza Bunny",
+    "year": 1959,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/bonanza-bunny.html"
+}

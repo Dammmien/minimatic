@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Becky Sharp",
+    "year": 1935,
+    "cast": [
+      "Miriam Hopkins",
+      "Cedric Hardwicke",
+      "Frances Dee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/becky-sharp.html"
+}

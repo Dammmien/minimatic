@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dance Girl Dance",
+    "year": 1933,
+    "cast": [
+      "Alan Dinehart",
+      "Evalyn Knapp"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/dance-girl-dance.html"
+}

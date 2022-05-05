@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dear Brat",
+    "year": 1951,
+    "cast": [
+      "Mona Freeman",
+      "Billy De Wolfe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dear-brat.html"
+}

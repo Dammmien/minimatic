@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell Drivers",
+    "year": 1957,
+    "cast": [
+      "Stanley Baker",
+      "Patrick McGoohan"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/hell-drivers.html"
+}

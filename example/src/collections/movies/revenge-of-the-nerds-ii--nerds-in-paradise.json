@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Revenge of the Nerds II: Nerds in Paradise",
+    "year": 1987,
+    "cast": [
+      "Robert Carradine",
+      "Anthony Edwards"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/revenge-of-the-nerds-ii--nerds-in-paradise.html"
+}

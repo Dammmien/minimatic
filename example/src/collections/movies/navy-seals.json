@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Navy SEALs",
+    "year": 1990,
+    "cast": [
+      "Charlie Sheen",
+      "Michael Biehn",
+      "Joanne Whalley",
+      "Rick Rossovich",
+      "Bill Paxton",
+      "Dennis Haysbert"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/navy-seals.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Second Hand Love",
+    "year": 1923,
+    "cast": [
+      "Buck Jones",
+      "Ruth Dwyer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/second-hand-love.html"
+}

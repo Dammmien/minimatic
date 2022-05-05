@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Outcasts of Poker Flat",
+    "year": 1952,
+    "cast": [
+      "Miriam Hopkins",
+      "Dale Robertson",
+      "Anne Baxter"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-outcasts-of-poker-flat.html"
+}

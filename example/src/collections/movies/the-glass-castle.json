@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Glass Castle",
+    "year": 2017,
+    "cast": [
+      "Brie Larson",
+      "Naomi Watts",
+      "Woody Harrelson",
+      "Sarah Snook"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-glass-castle.html"
+}

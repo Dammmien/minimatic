@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Charlie Chan in Paris",
+    "year": 1935,
+    "cast": [
+      "Warner Oland",
+      "Mary Brian"
+    ],
+    "genres": [
+      "Mystery",
+      "Comedy"
+    ]
+  },
+  "output": "movies/charlie-chan-in-paris.html"
+}

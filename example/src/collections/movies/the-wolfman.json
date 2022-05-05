@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Wolfman",
+    "year": 2010,
+    "cast": [
+      "Benicio del Toro",
+      "Anthony Hopkins",
+      "Emily Blunt",
+      "Hugo Weaving"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-wolfman.html"
+}

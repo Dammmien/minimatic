@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "How to Make a Monster",
+    "year": 2001,
+    "cast": [
+      "Clea DuVall",
+      "Steven Culp"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/how-to-make-a-monster.html"
+}

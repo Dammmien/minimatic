@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Let's Make a Million",
+    "year": 1936,
+    "cast": [
+      "Charlotte Wynters",
+      "Edward Everett Horton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-s-make-a-million.html"
+}

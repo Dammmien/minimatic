@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Should Ladies Behave",
+    "year": 1933,
+    "cast": [
+      "Lionel Barrymore",
+      "Alice Brady"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/should-ladies-behave.html"
+}

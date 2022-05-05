@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Plan 9 from Outer Space",
+    "year": 1959,
+    "cast": [
+      "Bela Lugosi",
+      "Vampira",
+      "Tor Johnson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/plan-9-from-outer-space.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Birds",
+    "year": 1934,
+    "cast": [
+      "Slim Summerville",
+      "ZaSu Pitts",
+      "Mickey Rooney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-birds.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hong Kong",
+    "year": 1952,
+    "cast": [
+      "Ronald Reagan",
+      "Rhonda Fleming",
+      "Nigel Bruce"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/hong-kong.html"
+}

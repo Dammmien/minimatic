@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kid Gloves",
+    "year": 1929,
+    "cast": [
+      "Conrad Nagel",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kid-gloves.html"
+}

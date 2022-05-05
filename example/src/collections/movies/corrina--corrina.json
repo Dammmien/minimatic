@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Corrina, Corrina",
+    "year": 1994,
+    "cast": [
+      "Whoopi Goldberg",
+      "Ray Liotta",
+      "Tina Majorino"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/corrina--corrina.html"
+}

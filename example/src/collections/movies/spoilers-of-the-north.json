@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Spoilers of the North",
+    "year": 1947,
+    "cast": [
+      "Paul Kelly",
+      "Lorna Gray",
+      "Evelyn Ankers"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/spoilers-of-the-north.html"
+}

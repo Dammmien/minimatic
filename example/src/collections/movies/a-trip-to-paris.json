@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Trip to Paris",
+    "year": 1938,
+    "cast": [
+      "Jed Prouty",
+      "Shirley Deane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-trip-to-paris.html"
+}

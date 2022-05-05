@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thunder on the Hill",
+    "year": 1951,
+    "cast": [
+      "Claudette Colbert",
+      "Ann Blyth",
+      "Anne Crawford"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/thunder-on-the-hill.html"
+}

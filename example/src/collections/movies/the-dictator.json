@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "The Dictator",
+    "year": 2012,
+    "cast": [
+      "Sacha Baron Cohen",
+      "Anna Faris",
+      "Ben Kingsley",
+      "Jason Mantzoukas",
+      "John C. Reilly",
+      "Megan Fox",
+      "B. J. Novak",
+      "Bobby Lee",
+      "Kevin Corrigan",
+      "J. B. Smoove",
+      "Adeel Akhtar",
+      "Fred Melamed"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-dictator.html"
+}

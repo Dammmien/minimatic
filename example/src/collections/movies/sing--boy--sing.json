@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sing, Boy, Sing",
+    "year": 1958,
+    "cast": [
+      "Tommy Sands",
+      "Lili Gentle",
+      "Edmond O'Brien"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/sing--boy--sing.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bowery Buckaroos",
+    "year": 1947,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Julie Gibson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bowery-buckaroos.html"
+}

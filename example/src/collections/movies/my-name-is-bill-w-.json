@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "My Name is Bill W.",
+    "year": 1989,
+    "cast": [
+      "James Garner",
+      "James Woods",
+      "JoBeth Williams"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/my-name-is-bill-w-.html"
+}

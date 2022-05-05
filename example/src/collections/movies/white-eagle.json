@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "White Eagle",
+    "year": 1941,
+    "cast": [
+      "Buck Jones",
+      "Dorothy Fay"
+    ],
+    "genres": []
+  },
+  "output": "movies/white-eagle.html"
+}

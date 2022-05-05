@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Saddle the Wind",
+    "year": 1958,
+    "cast": [
+      "Robert Taylor",
+      "John Cassavetes",
+      "Julie London"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/saddle-the-wind.html"
+}

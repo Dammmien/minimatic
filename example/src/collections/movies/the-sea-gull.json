@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sea Gull",
+    "year": 1968,
+    "cast": [
+      "Vanessa Redgrave",
+      "Simone Signoret",
+      "James Mason"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sea-gull.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "St. Louis Blues",
+    "year": 1958,
+    "cast": [
+      "Nat King Cole",
+      "Pearl Bailey",
+      "Cab Calloway",
+      "Ella Fitzgerald",
+      "Mahalia Jackson",
+      "Eartha Kitt"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/st--louis-blues.html"
+}

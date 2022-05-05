@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love Is Love",
+    "year": 1919,
+    "cast": [
+      "Albert Ray",
+      "Elinor Fair"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/love-is-love.html"
+}

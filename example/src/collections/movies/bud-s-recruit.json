@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Bud's Recruit",
+    "year": 1918,
+    "cast": [
+      "Wallace Brennan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bud-s-recruit.html"
+}

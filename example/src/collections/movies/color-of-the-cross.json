@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Color of the Cross",
+    "year": 2006,
+    "cast": [
+      "Jean-Claude La Marre",
+      "Debbi Morgan",
+      "Elya Baskin"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/color-of-the-cross.html"
+}

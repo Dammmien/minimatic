@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "What Men Want",
+    "year": 1930,
+    "cast": [
+      "Pauline Starke",
+      "Ben Lyon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/what-men-want.html"
+}

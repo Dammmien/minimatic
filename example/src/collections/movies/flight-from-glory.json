@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flight from Glory",
+    "year": 1937,
+    "cast": [
+      "Chester Morris",
+      "Van Heflin",
+      "Whitney Bourne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flight-from-glory.html"
+}

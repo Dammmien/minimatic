@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Aviator, The",
+    "year": 1985,
+    "cast": [
+      "Rosanna Arquette",
+      "Christopher Reeve",
+      "Tyne Daly"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/aviator--the.html"
+}

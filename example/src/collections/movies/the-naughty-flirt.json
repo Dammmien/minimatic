@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Naughty Flirt",
+    "year": 1931,
+    "cast": [
+      "Alice White",
+      "Paul Page",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-naughty-flirt.html"
+}

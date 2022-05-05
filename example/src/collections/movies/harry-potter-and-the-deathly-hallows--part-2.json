@@ -1,0 +1,32 @@
+{
+  "data": {
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "year": 2011,
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Helena Bonham Carter",
+      "Robbie Coltrane",
+      "Warwick Davis",
+      "Ralph Fiennes",
+      "Michael Gambon",
+      "Brendan Gleeson",
+      "Richard Griffiths",
+      "John Hurt",
+      "Jason Isaacs",
+      "Alan Rickman",
+      "Fiona Shaw",
+      "Timothy Spall",
+      "Imelda Staunton",
+      "David Thewlis",
+      "Julie Walters"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/harry-potter-and-the-deathly-hallows--part-2.html"
+}

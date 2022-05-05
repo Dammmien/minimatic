@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "What a Blonde",
+    "year": 1945,
+    "cast": [
+      "Leon Errol",
+      "Elaine Riley",
+      "Veda Ann Borg"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/what-a-blonde.html"
+}

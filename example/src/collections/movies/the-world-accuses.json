@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The World Accuses",
+    "year": 1934,
+    "cast": [
+      "Dickie Moore",
+      "Cora Sue Collins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-world-accuses.html"
+}

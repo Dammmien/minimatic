@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Silver on the Sage",
+    "year": 1939,
+    "cast": [
+      "William Boyd",
+      "George \"Gabby\" Hayes",
+      "Russell Hayden"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/silver-on-the-sage.html"
+}

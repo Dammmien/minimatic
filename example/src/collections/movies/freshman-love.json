@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Freshman Love",
+    "year": 1936,
+    "cast": [
+      "Frank McHugh",
+      "Patricia Ellis",
+      "Mary Treen"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/freshman-love.html"
+}

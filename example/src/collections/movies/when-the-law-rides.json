@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When the Law Rides",
+    "year": 1928,
+    "cast": [
+      "Tom Tyler",
+      "Frankie Darro"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/when-the-law-rides.html"
+}

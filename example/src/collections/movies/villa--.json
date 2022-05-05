@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Villa!!",
+    "year": 1958,
+    "cast": [
+      "Brian Keith",
+      "Cesar Romero",
+      "Margia Dean"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/villa--.html"
+}

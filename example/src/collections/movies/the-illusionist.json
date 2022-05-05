@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Illusionist",
+    "year": 2006,
+    "cast": [
+      "Edward Norton",
+      "Paul Giamatti",
+      "Jessica Biel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-illusionist.html"
+}

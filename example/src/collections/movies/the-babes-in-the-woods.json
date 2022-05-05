@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Babes in the Woods",
+    "year": 1917,
+    "cast": [
+      "Francis Carpenter",
+      "Virginia Lee Corbin"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-babes-in-the-woods.html"
+}

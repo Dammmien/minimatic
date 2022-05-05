@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hanover Street",
+    "year": 1979,
+    "cast": [
+      "Harrison Ford",
+      "Lesley-Anne Down",
+      "Christopher Plummer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hanover-street.html"
+}

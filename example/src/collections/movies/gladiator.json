@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Gladiator",
+    "year": 2000,
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen",
+      "Richard Harris",
+      "Djimon Hounsou",
+      "Oliver Reed"
+    ],
+    "genres": [
+      "Action",
+      "Drama"
+    ]
+  },
+  "output": "movies/gladiator.html"
+}

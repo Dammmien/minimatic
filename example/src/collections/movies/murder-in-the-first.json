@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Murder in the First",
+    "year": 1995,
+    "cast": [
+      "Kevin Bacon",
+      "Christian Slater",
+      "Gary Oldman",
+      "Embeth Davidtz"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/murder-in-the-first.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Toxic Avenger Part II",
+    "year": 1989,
+    "cast": [
+      "Ron Fazio"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-toxic-avenger-part-ii.html"
+}

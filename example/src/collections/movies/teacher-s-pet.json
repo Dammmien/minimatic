@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Teacher's Pet",
+    "year": 2004,
+    "cast": [
+      "Nathan Lane",
+      "Kelsey Grammer",
+      "Shaun Fleming"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/teacher-s-pet.html"
+}

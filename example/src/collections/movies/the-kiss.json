@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Kiss",
+    "year": 1988,
+    "cast": [
+      "Joanna Pacula",
+      "Meredith Salenger"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-kiss.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It Conquered the World",
+    "year": 1956,
+    "cast": [
+      "Peter Graves",
+      "Beverly Garland"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/it-conquered-the-world.html"
+}

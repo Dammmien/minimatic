@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Deuce Bigalow: European Gigolo",
+    "year": 2005,
+    "cast": [
+      "Rob Schneider",
+      "Eddie Griffin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/deuce-bigalow--european-gigolo.html"
+}

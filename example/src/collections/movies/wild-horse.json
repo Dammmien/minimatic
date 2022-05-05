@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild Horse",
+    "year": 1931,
+    "cast": [
+      "Hoot Gibson",
+      "Alberta Vaughn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wild-horse.html"
+}

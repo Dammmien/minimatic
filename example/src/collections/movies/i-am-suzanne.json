@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Am Suzanne",
+    "year": 1933,
+    "cast": [
+      "Lilian Harvey",
+      "Gene Raymond",
+      "Leslie Banks"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/i-am-suzanne.html"
+}

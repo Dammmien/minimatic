@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Man on a Ledge",
+    "year": 2012,
+    "cast": [
+      "Sam Worthington",
+      "Elizabeth Banks",
+      "Jamie Bell",
+      "Anthony Mackie",
+      "Ed Burns",
+      "Titus Welliver",
+      "Génesis Rodríguez",
+      "Kyra Sedgwick",
+      "Ed Harris"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/man-on-a-ledge.html"
+}

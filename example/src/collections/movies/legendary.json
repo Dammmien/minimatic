@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Legendary",
+    "year": 2010,
+    "cast": [
+      "Patricia Clarkson",
+      "John Cena",
+      "Devon Graye",
+      "Madeleine Martin",
+      "Tyler Posey",
+      "Danny Glover"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/legendary.html"
+}

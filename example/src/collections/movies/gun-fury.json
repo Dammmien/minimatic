@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Gun Fury",
+    "year": 1953,
+    "cast": [
+      "Rock Hudson",
+      "Donna Reed",
+      "Philip Carey",
+      "Roberta Haynes",
+      "Lee Marvin"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gun-fury.html"
+}

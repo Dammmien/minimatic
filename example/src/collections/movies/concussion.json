@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Concussion",
+    "year": 2015,
+    "cast": [
+      "Will Smith",
+      "Albert Brooks",
+      "Alec Baldwin",
+      "Gugu Mbatha-Raw"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/concussion.html"
+}

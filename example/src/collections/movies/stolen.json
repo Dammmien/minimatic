@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Stolen",
+    "year": 2012,
+    "cast": [
+      "Nicolas Cage",
+      "Danny Huston",
+      "Malin Åkerman",
+      "Sami Gayle",
+      "Mark Valley",
+      "and",
+      "Josh Lucas"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/stolen.html"
+}

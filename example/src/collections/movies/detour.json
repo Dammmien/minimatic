@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Detour",
+    "year": 1945,
+    "cast": [
+      "Tom Neal",
+      "Ann Savage"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/detour.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Seven Faces",
+    "year": 1929,
+    "cast": [
+      "Paul Muni",
+      "Marguerite Churchill"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/seven-faces.html"
+}

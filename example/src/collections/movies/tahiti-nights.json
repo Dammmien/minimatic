@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tahiti Nights",
+    "year": 1944,
+    "cast": [
+      "Jinx Falkenburg",
+      "Dave O'Brien"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tahiti-nights.html"
+}

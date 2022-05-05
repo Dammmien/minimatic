@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Galloping Fish",
+    "year": 1924,
+    "cast": [
+      "Louise Fazenda",
+      "Syd Chaplin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-galloping-fish.html"
+}

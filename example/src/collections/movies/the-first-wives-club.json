@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The First Wives Club",
+    "year": 1996,
+    "cast": [
+      "Diane Keaton",
+      "Goldie Hawn",
+      "Bette Midler"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-first-wives-club.html"
+}

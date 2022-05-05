@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "T.R. Baskin",
+    "year": 1971,
+    "cast": [
+      "Candice Bergen",
+      "Peter Boyle",
+      "James Caan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/t-r--baskin.html"
+}

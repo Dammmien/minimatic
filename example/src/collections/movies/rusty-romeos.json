@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Rusty Romeos",
+    "year": 1957,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rusty-romeos.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Indianapolis Speedway",
+    "year": 1939,
+    "cast": [
+      "Pat O'Brien",
+      "Ann Sheridan",
+      "John Payne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/indianapolis-speedway.html"
+}

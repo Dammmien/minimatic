@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "You've Got Mail",
+    "year": 1998,
+    "cast": [
+      "Tom Hanks",
+      "Meg Ryan",
+      "Parker Posey",
+      "Jean Stapleton"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-ve-got-mail.html"
+}

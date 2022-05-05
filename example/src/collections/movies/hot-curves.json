@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hot Curves",
+    "year": 1930,
+    "cast": [
+      "Benny Rubin",
+      "Rex Lease",
+      "Alice Day"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hot-curves.html"
+}

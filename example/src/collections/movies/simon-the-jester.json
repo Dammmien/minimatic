@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Simon the Jester",
+    "year": 1925,
+    "cast": [
+      "Eugene O'Brien",
+      "Lillian Rich"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/simon-the-jester.html"
+}

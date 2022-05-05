@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The White Cockatoo",
+    "year": 1935,
+    "cast": [
+      "Jean Muir",
+      "Ricardo Cortez"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-white-cockatoo.html"
+}

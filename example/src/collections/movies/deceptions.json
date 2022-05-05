@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Deceptions",
+    "year": 1990,
+    "cast": [
+      "Nicollette Sheridan",
+      "Harry Hamlin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/deceptions.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Disorderly Orderly",
+    "year": 1964,
+    "cast": [
+      "Jerry Lewis",
+      "Susan Oliver",
+      "Glenda Farrell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-disorderly-orderly.html"
+}

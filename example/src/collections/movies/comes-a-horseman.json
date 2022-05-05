@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Comes a Horseman",
+    "year": 1978,
+    "cast": [
+      "James Caan",
+      "Jane Fonda",
+      "Jason Robards",
+      "George Grizzard",
+      "Richard Farnsworth"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/comes-a-horseman.html"
+}

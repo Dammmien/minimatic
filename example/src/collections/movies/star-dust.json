@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Star Dust",
+    "year": 1940,
+    "cast": [
+      "Linda Darnell",
+      "John Payne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/star-dust.html"
+}

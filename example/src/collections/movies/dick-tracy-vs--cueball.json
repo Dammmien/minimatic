@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dick Tracy vs. Cueball",
+    "year": 1946,
+    "cast": [
+      "Morgan Conway",
+      "Esther Howard",
+      "Anne Jeffreys"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/dick-tracy-vs--cueball.html"
+}

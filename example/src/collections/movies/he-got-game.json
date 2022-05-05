@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "He Got Game",
+    "year": 1998,
+    "cast": [
+      "Denzel Washington",
+      "Ray Allen",
+      "Milla Jovovich",
+      "John Turturro"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/he-got-game.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Torment",
+    "year": 1924,
+    "cast": [
+      "Bessie Love",
+      "Owen Moore"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/torment.html"
+}

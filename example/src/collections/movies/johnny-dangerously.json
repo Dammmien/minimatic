@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Johnny Dangerously",
+    "year": 1984,
+    "cast": [
+      "Michael Keaton",
+      "Marilu Henner",
+      "Griffin Dunne",
+      "Joe Piscopo",
+      "Maureen Stapleton",
+      "Peter Boyle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/johnny-dangerously.html"
+}

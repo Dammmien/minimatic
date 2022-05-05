@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Salt Lake Raiders",
+    "year": 1950,
+    "cast": [
+      "Allan Lane",
+      "Martha Hyer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/salt-lake-raiders.html"
+}

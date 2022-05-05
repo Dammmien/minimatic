@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Wizard",
+    "year": 1989,
+    "cast": [
+      "Fred Savage"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-wizard.html"
+}

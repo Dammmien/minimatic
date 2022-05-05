@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shadows of the Sea",
+    "year": 1922,
+    "cast": [
+      "Conway Tearle",
+      "Crauford Kent",
+      "Doris Kenyon"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/shadows-of-the-sea.html"
+}

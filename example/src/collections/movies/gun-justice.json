@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gun Justice",
+    "year": 1933,
+    "cast": [
+      "Ken Maynard",
+      "Cecilia Parker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gun-justice.html"
+}

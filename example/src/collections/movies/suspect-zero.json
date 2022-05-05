@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Suspect Zero",
+    "year": 2004,
+    "cast": [
+      "Aaron Eckhart",
+      "Ben Kingsley",
+      "Carrie-Anne Moss"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/suspect-zero.html"
+}

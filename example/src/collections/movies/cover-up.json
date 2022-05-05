@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cover Up",
+    "year": 1949,
+    "cast": [
+      "William Bendix",
+      "Dennis O'Keefe"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/cover-up.html"
+}

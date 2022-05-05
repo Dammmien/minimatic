@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "So Long Letty",
+    "year": 1929,
+    "cast": [
+      "Charlotte Greenwood",
+      "Claude Gillingwater"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/so-long-letty.html"
+}

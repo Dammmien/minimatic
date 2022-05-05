@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Beggar Child",
+    "year": 1914,
+    "cast": [
+      "Charlotte Burton",
+      "Edward Coxen",
+      "George Field",
+      "Winifred Greenwood",
+      "John Steppling"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-beggar-child.html"
+}

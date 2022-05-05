@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Dog Problem",
+    "year": 2006,
+    "cast": [
+      "Giovanni Ribisi",
+      "Lynn Collins",
+      "Kevin Corrigan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-dog-problem.html"
+}

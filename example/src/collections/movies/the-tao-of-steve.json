@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Tao of Steve",
+    "year": 2000,
+    "cast": [
+      "Donal Logue"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-tao-of-steve.html"
+}

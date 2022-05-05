@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Slightly Scarlet",
+    "year": 1956,
+    "cast": [
+      "John Payne",
+      "Rhonda Fleming",
+      "Arlene Dahl"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/slightly-scarlet.html"
+}

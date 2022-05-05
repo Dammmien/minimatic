@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Port Sinister",
+    "year": 1953,
+    "cast": [
+      "James Warren",
+      "Lynne Roberts",
+      "Paul Cavanagh"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/port-sinister.html"
+}

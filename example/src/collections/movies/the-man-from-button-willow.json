@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man from Button Willow",
+    "year": 1965,
+    "cast": [
+      "Dale Robertson",
+      "Howard Keel",
+      "Barbara Jean Wong"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-man-from-button-willow.html"
+}

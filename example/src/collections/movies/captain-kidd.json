@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Captain Kidd",
+    "year": 1945,
+    "cast": [
+      "Charles Laughton",
+      "Randolph Scott",
+      "Barbara Britton"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/captain-kidd.html"
+}

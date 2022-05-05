@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Alice Doesn't Live Here Anymore",
+    "year": 1974,
+    "cast": [
+      "Ellen Burstyn",
+      "Kris Kristofferson",
+      "Diane Ladd",
+      "Harvey Keitel",
+      "Valerie Curtin",
+      "Vic Tayback",
+      "Alfred Lutter",
+      "Jodie Foster"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/alice-doesn-t-live-here-anymore.html"
+}

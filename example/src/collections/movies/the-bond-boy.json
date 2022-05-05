@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bond Boy",
+    "year": 1922,
+    "cast": [
+      "Richard Barthelmess",
+      "Charles Hill Mailes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bond-boy.html"
+}

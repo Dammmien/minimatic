@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Man Four-Square",
+    "year": 1926,
+    "cast": [
+      "Buck Jones",
+      "Harry Woods"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-man-four-square.html"
+}

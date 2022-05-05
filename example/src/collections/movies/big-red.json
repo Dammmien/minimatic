@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Big Red",
+    "year": 1962,
+    "cast": [
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/big-red.html"
+}

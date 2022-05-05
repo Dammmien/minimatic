@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Karate Kid, Part II",
+    "year": 1986,
+    "cast": [
+      "Ralph Macchio",
+      "Pat Morita"
+    ],
+    "genres": [
+      "Family",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-karate-kid--part-ii.html"
+}

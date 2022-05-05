@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Life Aquatic with Steve Zissou",
+    "year": 2004,
+    "cast": [
+      "Bill Murray",
+      "Owen Wilson",
+      "Cate Blanchett",
+      "Anjelica Huston",
+      "Jeff Goldblum",
+      "Willem Dafoe",
+      "Michael Gambon",
+      "Bud Cort"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-life-aquatic-with-steve-zissou.html"
+}

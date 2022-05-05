@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Race for Life",
+    "year": 1928,
+    "cast": [
+      "Rin Tin Tin",
+      "Virginia Brown Faire"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-race-for-life.html"
+}

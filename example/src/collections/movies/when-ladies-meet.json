@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "When Ladies Meet",
+    "year": 1941,
+    "cast": [
+      "Joan Crawford",
+      "Robert Taylor",
+      "Greer Garson"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/when-ladies-meet.html"
+}

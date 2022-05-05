@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Angels in the Endzone",
+    "year": 1997,
+    "cast": [
+      "Christopher Lloyd",
+      "Paul Dooley"
+    ],
+    "genres": [
+      "Fantasy",
+      "Sports"
+    ]
+  },
+  "output": "movies/angels-in-the-endzone.html"
+}

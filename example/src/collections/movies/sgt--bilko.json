@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sgt. Bilko",
+    "year": 1996,
+    "cast": [
+      "Steve Martin",
+      "Dan Aykroyd",
+      "Glenne Headly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sgt--bilko.html"
+}

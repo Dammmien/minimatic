@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three O'Clock in the Morning",
+    "year": 1923,
+    "cast": [
+      "Constance Binney",
+      "Edmund Breese"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/three-o-clock-in-the-morning.html"
+}

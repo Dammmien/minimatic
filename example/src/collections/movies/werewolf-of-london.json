@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Werewolf of London",
+    "year": 1935,
+    "cast": [
+      "Henry Hull",
+      "Warner Oland",
+      "Valerie Hobson"
+    ],
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/werewolf-of-london.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stormy Weather",
+    "year": 1943,
+    "cast": [
+      "Lena Horne",
+      "Bill Robinson",
+      "Dooley Wilson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/stormy-weather.html"
+}

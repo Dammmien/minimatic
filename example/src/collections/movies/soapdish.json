@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Soapdish",
+    "year": 1991,
+    "cast": [
+      "Sally Field",
+      "Kevin Kline",
+      "Robert Downey, Jr.",
+      "Elisabeth Shue",
+      "Cathy Moriarty",
+      "Whoopi Goldberg",
+      "Kathy Najimy",
+      "Carrie Fisher",
+      "Teri Hatcher"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/soapdish.html"
+}

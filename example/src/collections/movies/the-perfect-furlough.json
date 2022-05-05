@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Perfect Furlough",
+    "year": 1958,
+    "cast": [
+      "Tony Curtis",
+      "Janet Leigh",
+      "Linda Cristal"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-perfect-furlough.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Barcelona",
+    "year": 1994,
+    "cast": [
+      "Taylor Nichols",
+      "Mira Sorvino"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/barcelona.html"
+}

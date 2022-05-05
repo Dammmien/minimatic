@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "A Little Bit of Heaven",
+    "year": 2012,
+    "cast": [
+      "Kate Hudson",
+      "Gael García Bernal",
+      "Lucy Punch",
+      "Romany Malco",
+      "Treat Williams",
+      "Whoopi Goldberg",
+      "Kathy Bates"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-little-bit-of-heaven.html"
+}

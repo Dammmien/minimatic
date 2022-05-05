@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Oakdale Affair",
+    "year": 1919,
+    "cast": [
+      "Evelyn Greeley",
+      "Eric Mayne"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-oakdale-affair.html"
+}

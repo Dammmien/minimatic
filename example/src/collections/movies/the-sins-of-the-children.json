@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sins of the Children",
+    "year": 1930,
+    "cast": [
+      "Louis Mann",
+      "Robert Montgomery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sins-of-the-children.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Marriage Ring",
+    "year": 1918,
+    "cast": [
+      "Enid Bennett",
+      "Jack Holt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-marriage-ring.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Uncle Tom's Cabin (1914 film)",
+    "year": 1914,
+    "cast": [
+      "Sam Lucas",
+      "Teresa Michelena",
+      "Roy Applegate"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/uncle-tom-s-cabin--1914-film-.html"
+}

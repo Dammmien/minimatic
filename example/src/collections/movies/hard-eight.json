@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hard Eight",
+    "year": 1997,
+    "cast": [
+      "Philip Baker Hall",
+      "John C. Reilly",
+      "Gwyneth Paltrow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hard-eight.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sally and Saint Anne",
+    "year": 1952,
+    "cast": [
+      "Ann Blyth",
+      "Edmund Gwenn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sally-and-saint-anne.html"
+}

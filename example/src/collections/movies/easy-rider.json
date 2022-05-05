@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Easy Rider",
+    "year": 1969,
+    "cast": [
+      "Peter Fonda",
+      "Dennis Hopper",
+      "Jack Nicholson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/easy-rider.html"
+}

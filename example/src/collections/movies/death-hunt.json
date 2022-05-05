@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Death Hunt",
+    "year": 1981,
+    "cast": [
+      "Charles Bronson",
+      "Lee Marvin",
+      "Angie Dickinson",
+      "Andrew Stevens",
+      "Carl Weathers",
+      "Ed Lauter"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/death-hunt.html"
+}

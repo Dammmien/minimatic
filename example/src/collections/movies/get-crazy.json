@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Get Crazy",
+    "year": 1983,
+    "cast": [
+      "Malcolm McDowell",
+      "Allen Garfield",
+      "Lou Reed"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/get-crazy.html"
+}

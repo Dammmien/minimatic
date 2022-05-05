@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Grace Is Gone",
+    "year": 2007,
+    "cast": [
+      "John Cusack"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/grace-is-gone.html"
+}

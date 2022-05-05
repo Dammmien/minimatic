@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Michigan Kid",
+    "year": 1947,
+    "cast": [
+      "Jon Hall",
+      "Victor McLaglen",
+      "Rita Johnson",
+      "Andy Devine"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-michigan-kid.html"
+}

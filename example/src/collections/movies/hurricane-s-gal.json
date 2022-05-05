@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hurricane's Gal",
+    "year": 1922,
+    "cast": [
+      "Dorothy Phillips",
+      "Wallace Beery",
+      "Gertrude Astor"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/hurricane-s-gal.html"
+}

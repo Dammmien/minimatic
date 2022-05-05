@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Priest",
+    "year": 2011,
+    "cast": [
+      "Paul Bettany",
+      "Karl Urban",
+      "Cam Gigandet",
+      "Maggie Q",
+      "Lily Collins",
+      "Stephen Moyer",
+      "Christopher Plummer"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/priest.html"
+}

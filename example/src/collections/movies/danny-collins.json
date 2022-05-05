@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Danny Collins",
+    "year": 2015,
+    "cast": [
+      "Al Pacino",
+      "Jennifer Garner",
+      "Annette Bening",
+      "Bobby Cannavale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/danny-collins.html"
+}

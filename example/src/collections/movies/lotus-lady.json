@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lotus Lady",
+    "year": 1930,
+    "cast": [
+      "Fern Andra",
+      "Betty Francisco"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/lotus-lady.html"
+}

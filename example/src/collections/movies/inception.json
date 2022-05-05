@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Inception",
+    "year": 2010,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Ken Watanabe",
+      "Joseph Gordon-Levitt",
+      "Marion Cotillard",
+      "Ellen Page",
+      "Tom Hardy",
+      "Cillian Murphy",
+      "Tom Berenger",
+      "Michael Caine"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/inception.html"
+}

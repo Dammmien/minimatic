@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Slaves of New York",
+    "year": 1989,
+    "cast": [
+      "Bernadette Peters",
+      "Adam Coleman Howard",
+      "Chris Sarandon"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/slaves-of-new-york.html"
+}

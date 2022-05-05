@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Mollycoddle",
+    "year": 1920,
+    "cast": [
+      "Douglas Fairbanks",
+      "Wallace Beery"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-mollycoddle.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Mike",
+    "year": 1944,
+    "cast": [
+      "Stuart Erwin",
+      "Marion Martin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-great-mike.html"
+}

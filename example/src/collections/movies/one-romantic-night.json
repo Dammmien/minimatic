@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Romantic Night",
+    "year": 1930,
+    "cast": [
+      "Lillian Gish",
+      "Rod La Rocque"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/one-romantic-night.html"
+}

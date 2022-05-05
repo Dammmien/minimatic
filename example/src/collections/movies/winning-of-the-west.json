@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Winning of the West",
+    "year": 1953,
+    "cast": [
+      "Gene Autry",
+      "Gail Davis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/winning-of-the-west.html"
+}

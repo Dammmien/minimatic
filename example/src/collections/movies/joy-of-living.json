@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Joy of Living",
+    "year": 1938,
+    "cast": [
+      "Irene Dunne",
+      "Douglas Fairbanks Jr.",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/joy-of-living.html"
+}

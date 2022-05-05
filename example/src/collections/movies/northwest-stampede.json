@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Northwest Stampede",
+    "year": 1948,
+    "cast": [
+      "Joan Leslie",
+      "James Craig",
+      "Jack Oakie"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/northwest-stampede.html"
+}

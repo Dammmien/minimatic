@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "McFadden's Flats",
+    "year": 1935,
+    "cast": [
+      "Walter C. Kelly",
+      "Andy Clyde"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mcfadden-s-flats.html"
+}

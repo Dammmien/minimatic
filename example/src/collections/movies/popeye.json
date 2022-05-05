@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Popeye",
+    "year": 1980,
+    "cast": [
+      "Robin Williams",
+      "Shelley Duvall",
+      "Paul Dooley"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/popeye.html"
+}

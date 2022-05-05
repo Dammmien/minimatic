@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "That Kind of Woman",
+    "year": 1959,
+    "cast": [
+      "Sophia Loren",
+      "Tab Hunter",
+      "Jack Warden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/that-kind-of-woman.html"
+}

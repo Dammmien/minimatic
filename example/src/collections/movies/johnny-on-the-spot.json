@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Johnny-on-the-Spot",
+    "year": 1919,
+    "cast": [
+      "Hale Hamilton",
+      "Louise Lovely",
+      "Philo McCullough"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/johnny-on-the-spot.html"
+}

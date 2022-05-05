@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Get a Clue",
+    "year": 1997,
+    "cast": [
+      "Ray Walston",
+      "Diane Ladd",
+      "Sally Kirkland"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/get-a-clue.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love in the Rough",
+    "year": 1930,
+    "cast": [
+      "Robert Montgomery",
+      "Dorothy Jordan"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-in-the-rough.html"
+}

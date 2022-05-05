@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Runaways",
+    "year": 2010,
+    "cast": [
+      "Kristen Stewart",
+      "Dakota Fanning",
+      "Michael Shannon",
+      "Scout Taylor-Compton",
+      "Alia Shawkat"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-runaways.html"
+}

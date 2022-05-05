@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Range Feud",
+    "year": 1931,
+    "cast": [
+      "Buck Jones",
+      "John Wayne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-range-feud.html"
+}

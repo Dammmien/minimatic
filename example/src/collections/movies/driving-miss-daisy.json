@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Driving Miss Daisy",
+    "year": 1989,
+    "cast": [
+      "Morgan Freeman",
+      "Jessica Tandy",
+      "Dan Aykroyd",
+      "Esther Rolle",
+      "Patti LuPone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/driving-miss-daisy.html"
+}

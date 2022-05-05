@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Latest from Paris",
+    "year": 1928,
+    "cast": [
+      "Norma Shearer",
+      "Ralph Forbes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-latest-from-paris.html"
+}

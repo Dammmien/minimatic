@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Maxed Out",
+    "year": 2006,
+    "cast": [
+      "the",
+      "credit card",
+      "industry"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/maxed-out.html"
+}

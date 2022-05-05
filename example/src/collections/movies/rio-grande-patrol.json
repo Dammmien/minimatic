@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rio Grande Patrol",
+    "year": 1950,
+    "cast": [
+      "Tim Holt",
+      "Cleo Moore"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rio-grande-patrol.html"
+}

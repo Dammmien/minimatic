@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Born to Kill",
+    "year": 1947,
+    "cast": [
+      "Lawrence Tierney",
+      "Claire Trevor"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/born-to-kill.html"
+}

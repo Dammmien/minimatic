@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dark Streets",
+    "year": 1929,
+    "cast": [
+      "Jack Mulhall",
+      "Lila Lee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dark-streets.html"
+}

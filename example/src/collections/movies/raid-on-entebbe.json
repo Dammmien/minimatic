@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Raid on Entebbe",
+    "year": 1977,
+    "cast": [
+      "Peter Finch",
+      "Martin Balsam",
+      "Yaphet Kotto",
+      "Charles Bronson",
+      "John Saxon",
+      "Jack Warden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/raid-on-entebbe.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Ice Storm",
+    "year": 1997,
+    "cast": [
+      "Kevin Kline",
+      "Joan Allen",
+      "Sigourney Weaver",
+      "Tobey Maguire",
+      "Christina Ricci",
+      "Elijah Wood"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-ice-storm.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Goodnight, Sweetheart",
+    "year": 1944,
+    "cast": [
+      "Robert Livingston",
+      "Ruth Terry",
+      "Henry Hull"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/goodnight--sweetheart.html"
+}

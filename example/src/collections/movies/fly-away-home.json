@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fly Away Home",
+    "year": 1996,
+    "cast": [
+      "Jeff Daniels",
+      "Anna Paquin",
+      "Dana Delany"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/fly-away-home.html"
+}

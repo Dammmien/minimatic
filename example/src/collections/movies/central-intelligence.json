@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Central Intelligence",
+    "year": 2016,
+    "cast": [
+      "Dwayne Johnson",
+      "Kevin Hart"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/central-intelligence.html"
+}

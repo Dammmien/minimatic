@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Best of Enemies",
+    "year": 1933,
+    "cast": [
+      "Buddy Rogers",
+      "Marian Nixon",
+      "Greta Nissen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/best-of-enemies.html"
+}

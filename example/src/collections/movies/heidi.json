@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Heidi",
+    "year": 1937,
+    "cast": [
+      "Shirley Temple",
+      "Jean Hersholt",
+      "Arthur Treacher"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/heidi.html"
+}

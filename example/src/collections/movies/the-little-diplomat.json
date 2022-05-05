@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Little Diplomat",
+    "year": 1919,
+    "cast": [
+      "Marie Osborne",
+      "Lydia Knott"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-little-diplomat.html"
+}

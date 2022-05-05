@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Those High Grey Walls",
+    "year": 1939,
+    "cast": [
+      "Walter Connolly",
+      "Onslow Stevens"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/those-high-grey-walls.html"
+}

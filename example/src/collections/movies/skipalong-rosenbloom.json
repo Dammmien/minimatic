@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Skipalong Rosenbloom",
+    "year": 1951,
+    "cast": [
+      "Max Rosenbloom",
+      "Max Baer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/skipalong-rosenbloom.html"
+}

@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "History of the World: Part I",
+    "year": 1981,
+    "cast": [
+      "Mel Brooks",
+      "Gregory Hines",
+      "Madeline Kahn",
+      "Harvey Korman",
+      "Cloris Leachman",
+      "Pamela Stephenson",
+      "Mary-Margaret Humes",
+      "Sid Caesar",
+      "Dom DeLuise",
+      "Ron Carey",
+      "Shecky Greene",
+      "Orson Welles"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/history-of-the-world--part-i.html"
+}

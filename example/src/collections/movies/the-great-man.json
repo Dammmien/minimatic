@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Man",
+    "year": 1956,
+    "cast": [
+      "José Ferrer",
+      "Julie London",
+      "Ed Wynn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-great-man.html"
+}

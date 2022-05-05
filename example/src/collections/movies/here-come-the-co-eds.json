@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Here Come the Co-Eds",
+    "year": 1945,
+    "cast": [
+      "Abbott and Costello",
+      "Peggy Ryan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/here-come-the-co-eds.html"
+}

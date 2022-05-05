@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Legend of Lylah Clare",
+    "year": 1968,
+    "cast": [
+      "Kim Novak",
+      "Peter Finch",
+      "Ernest Borgnine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-legend-of-lylah-clare.html"
+}

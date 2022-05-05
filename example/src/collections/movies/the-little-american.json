@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Little American",
+    "year": 1917,
+    "cast": [
+      "Mary Pickford"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-little-american.html"
+}

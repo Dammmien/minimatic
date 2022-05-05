@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Old Code",
+    "year": 1928,
+    "cast": [
+      "Walter McGrail",
+      "Lillian Rich"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/the-old-code.html"
+}

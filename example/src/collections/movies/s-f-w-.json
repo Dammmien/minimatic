@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "S.F.W.",
+    "year": 1994,
+    "cast": [
+      "Stephen Dorff",
+      "Reese Witherspoon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/s-f-w-.html"
+}

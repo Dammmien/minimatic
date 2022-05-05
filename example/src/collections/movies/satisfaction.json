@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Satisfaction",
+    "year": 1988,
+    "cast": [
+      "Justine Bateman",
+      "Liam Neeson",
+      "Trini Alvarado"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/satisfaction.html"
+}

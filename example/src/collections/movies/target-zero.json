@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Target Zero",
+    "year": 1955,
+    "cast": [
+      "Richard Conte",
+      "Peggie Castle"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/target-zero.html"
+}

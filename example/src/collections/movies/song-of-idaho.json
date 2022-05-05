@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Song of Idaho",
+    "year": 1948,
+    "cast": [
+      "Kirby Grant",
+      "June Vincent"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/song-of-idaho.html"
+}

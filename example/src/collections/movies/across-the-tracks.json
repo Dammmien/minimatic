@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Across the Tracks",
+    "year": 1991,
+    "cast": [
+      "Rick Schroder",
+      "Brad Pitt",
+      "Carrie Snodgress"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/across-the-tracks.html"
+}

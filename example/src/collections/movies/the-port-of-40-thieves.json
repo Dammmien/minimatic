@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Port of 40 Thieves",
+    "year": 1944,
+    "cast": [
+      "Stephanie Bachelor",
+      "Tom Keene"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-port-of-40-thieves.html"
+}

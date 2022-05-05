@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hello Trouble",
+    "year": 1932,
+    "cast": [
+      "Buck Jones",
+      "Lina Basquette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hello-trouble.html"
+}

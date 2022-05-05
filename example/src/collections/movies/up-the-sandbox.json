@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Up the Sandbox",
+    "year": 1972,
+    "cast": [
+      "Barbra Streisand"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/up-the-sandbox.html"
+}

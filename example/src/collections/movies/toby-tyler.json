@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Toby Tyler",
+    "year": 1960,
+    "cast": [
+      "Kevin Corcoran"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/toby-tyler.html"
+}

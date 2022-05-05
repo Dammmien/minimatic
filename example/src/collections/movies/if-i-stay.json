@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "If I Stay",
+    "year": 2014,
+    "cast": [
+      "Chloë Grace Moretz",
+      "Mireille Enos",
+      "Jamie Blackley",
+      "Joshua Leonard"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/if-i-stay.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pick-up Artist",
+    "year": 1987,
+    "cast": [
+      "Robert Downey Jr.",
+      "Molly Ringwald",
+      "Dennis Hopper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-pick-up-artist.html"
+}

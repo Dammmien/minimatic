@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shadows Over Chinatown",
+    "year": 1946,
+    "cast": [
+      "Sidney Toler",
+      "Mantan Moreland"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/shadows-over-chinatown.html"
+}

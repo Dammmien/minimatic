@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "An Eastern Westerner",
+    "year": 1920,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/an-eastern-westerner.html"
+}

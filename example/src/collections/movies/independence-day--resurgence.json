@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Independence Day: Resurgence",
+    "year": 2016,
+    "cast": [
+      "Liam Hemsworth",
+      "Maika Monroe",
+      "Jeff Goldblum"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/independence-day--resurgence.html"
+}

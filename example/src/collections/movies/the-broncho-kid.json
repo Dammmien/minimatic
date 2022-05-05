@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Broncho Kid",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western",
+      "Short"
+    ]
+  },
+  "output": "movies/the-broncho-kid.html"
+}

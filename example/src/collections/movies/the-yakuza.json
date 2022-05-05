@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Yakuza",
+    "year": 1974,
+    "cast": [
+      "Robert Mitchum",
+      "Ken Takakura"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-yakuza.html"
+}

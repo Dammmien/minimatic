@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A High Wind in Jamaica",
+    "year": 1965,
+    "cast": [
+      "Anthony Quinn",
+      "Lila Kedrova",
+      "James Coburn"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/a-high-wind-in-jamaica.html"
+}

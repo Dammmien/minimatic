@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Shell Shock",
+    "year": 1964,
+    "cast": [
+      "Beach Dickerson"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/shell-shock.html"
+}

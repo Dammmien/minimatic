@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Unknown Purple",
+    "year": 1923,
+    "cast": [
+      "Henry B. Walthall",
+      "Alice Lake",
+      "Stuart Holmes"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-unknown-purple.html"
+}

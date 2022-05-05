@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Violent Men",
+    "year": 1955,
+    "cast": [
+      "Glenn Ford",
+      "Barbara Stanwyck",
+      "Edward G. Robinson",
+      "Brian Keith",
+      "Dianne Foster"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-violent-men.html"
+}

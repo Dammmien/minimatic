@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Youth on Parole",
+    "year": 1937,
+    "cast": [
+      "Marian Marsh",
+      "Gordon Oliver",
+      "Margaret Dumont"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/youth-on-parole.html"
+}

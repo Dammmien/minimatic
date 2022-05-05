@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Desperate Living",
+    "year": 1977,
+    "cast": [
+      "Liz Renay",
+      "Mink Stole"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/desperate-living.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Between Heaven and Hell",
+    "year": 1956,
+    "cast": [
+      "Robert Wagner",
+      "Buddy Ebsen",
+      "Broderick Crawford"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/between-heaven-and-hell.html"
+}

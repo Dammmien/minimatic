@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Canyon River",
+    "year": 1956,
+    "cast": [
+      "George Montgomery",
+      "Marcia Henderson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/canyon-river.html"
+}

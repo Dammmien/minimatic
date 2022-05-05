@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Brand Blotter",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-brand-blotter.html"
+}

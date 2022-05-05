@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Laramie Kid",
+    "year": 1935,
+    "cast": [
+      "Tom Tyler",
+      "Alberta Vaughn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-laramie-kid.html"
+}

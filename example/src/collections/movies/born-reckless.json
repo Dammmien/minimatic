@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Born Reckless",
+    "year": 1958,
+    "cast": [
+      "Mamie van Doren",
+      "Carol Ohmart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/born-reckless.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Home of the Brave",
+    "year": 2006,
+    "cast": [
+      "Samuel L. Jackson",
+      "Jessica Biel",
+      "Brian Presley",
+      "50 Cent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/home-of-the-brave.html"
+}

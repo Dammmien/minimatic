@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Shakespeare in Love",
+    "year": 1998,
+    "cast": [
+      "Gwyneth Paltrow",
+      "Joseph Fiennes",
+      "Geoffrey Rush",
+      "Colin Firth",
+      "Ben Affleck",
+      "Judi Dench"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shakespeare-in-love.html"
+}

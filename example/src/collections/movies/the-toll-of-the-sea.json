@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Toll of the Sea",
+    "year": 1922,
+    "cast": [
+      "Anna May Wong",
+      "Kenneth Harlan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-toll-of-the-sea.html"
+}

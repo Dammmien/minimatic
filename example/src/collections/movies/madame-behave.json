@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Madame Behave",
+    "year": 1925,
+    "cast": [
+      "Julian Eltinge",
+      "Ann Pennington"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/madame-behave.html"
+}

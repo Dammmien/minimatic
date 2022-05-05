@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Memories of Me",
+    "year": 1988,
+    "cast": [
+      "Billy Crystal",
+      "JoBeth Williams",
+      "Alan King"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/memories-of-me.html"
+}

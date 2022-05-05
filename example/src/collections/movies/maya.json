@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Maya",
+    "year": 1966,
+    "cast": [
+      "Clint Walker",
+      "Jay North"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/maya.html"
+}

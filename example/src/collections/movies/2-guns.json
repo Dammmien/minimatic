@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "2 Guns",
+    "year": 2013,
+    "cast": [
+      "Denzel Washington",
+      "Mark Wahlberg",
+      "Paula Patton",
+      "Bill Paxton",
+      "Fred Ward",
+      "James Marsden",
+      "Edward James Olmos"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/2-guns.html"
+}

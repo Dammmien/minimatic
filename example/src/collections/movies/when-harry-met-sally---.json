@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "When Harry Met Sally...",
+    "year": 1989,
+    "cast": [
+      "Billy Crystal",
+      "Meg Ryan",
+      "Carrie Fisher",
+      "Bruno Kirby"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/when-harry-met-sally---.html"
+}

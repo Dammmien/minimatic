@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Expensive Husbands",
+    "year": 1937,
+    "cast": [
+      "Beverly Roberts",
+      "Patric Knowles",
+      "Allyn Joslyn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/expensive-husbands.html"
+}

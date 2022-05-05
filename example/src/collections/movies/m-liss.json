@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "M'Liss",
+    "year": 1936,
+    "cast": [
+      "Anne Shirley",
+      "John Beal",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/m-liss.html"
+}

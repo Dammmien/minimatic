@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Lovers and Other Strangers",
+    "year": 1970,
+    "cast": [
+      "Bea Arthur",
+      "Cloris Leachman",
+      "Vincent Gardenia",
+      "Richard Castellano",
+      "Bonnie Bedelia",
+      "Gig Young",
+      "Diane Keaton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lovers-and-other-strangers.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Girl in the Woods",
+    "year": 1958,
+    "cast": [
+      "Margaret Hayes",
+      "Forrest Tucker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/girl-in-the-woods.html"
+}

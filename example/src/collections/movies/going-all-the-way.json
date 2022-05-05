@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Going All the Way",
+    "year": 1997,
+    "cast": [
+      "Jeremy Davis",
+      "Ben Affleck",
+      "Amy Locane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/going-all-the-way.html"
+}

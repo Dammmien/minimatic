@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Little Red Schoolhouse",
+    "year": 1936,
+    "cast": [
+      "Lloyd Hughes",
+      "Dickie Moore",
+      "Ann Doran"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-little-red-schoolhouse.html"
+}

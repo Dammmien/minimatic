@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thundering Trails",
+    "year": 1943,
+    "cast": [
+      "Bob Steele",
+      "Tom Tyler",
+      "Nell O'Day"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/thundering-trails.html"
+}

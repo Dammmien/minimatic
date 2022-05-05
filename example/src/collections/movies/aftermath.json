@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Aftermath",
+    "year": 2017,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Scoot McNairy",
+      "Maggie Grace",
+      "Martin Donovan"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/aftermath.html"
+}

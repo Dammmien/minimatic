@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blackbeard the Pirate",
+    "year": 1952,
+    "cast": [
+      "Robert Newton",
+      "Linda Darnell"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/blackbeard-the-pirate.html"
+}

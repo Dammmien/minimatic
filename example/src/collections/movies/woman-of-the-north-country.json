@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Woman of the North Country",
+    "year": 1952,
+    "cast": [
+      "Ruth Hussey",
+      "Gale Storm",
+      "John Agar"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/woman-of-the-north-country.html"
+}

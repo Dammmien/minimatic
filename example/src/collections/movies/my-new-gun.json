@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My New Gun",
+    "year": 1992,
+    "cast": [
+      "Diane Lane",
+      "James Le Gros"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-new-gun.html"
+}

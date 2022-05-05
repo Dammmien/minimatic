@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bill W",
+    "year": 2012,
+    "cast": [
+      "About the founder of",
+      "Alcoholics Anonymous"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/bill-w.html"
+}

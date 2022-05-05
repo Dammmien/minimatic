@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Yankee Buccaneer",
+    "year": 1952,
+    "cast": [
+      "Jeff Chandler",
+      "Scott Brady",
+      "Suzan Ball"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/yankee-buccaneer.html"
+}

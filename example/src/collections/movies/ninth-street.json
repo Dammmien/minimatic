@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Ninth Street",
+    "year": 1999,
+    "cast": [
+      "Don Washington"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ninth-street.html"
+}

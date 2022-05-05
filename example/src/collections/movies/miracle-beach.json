@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Miracle Beach",
+    "year": 1992,
+    "cast": [
+      "Dean Cameron",
+      "Ami Dolenz",
+      "Pat Morita"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/miracle-beach.html"
+}

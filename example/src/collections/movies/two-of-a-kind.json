@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two of a Kind",
+    "year": 1983,
+    "cast": [
+      "John Travolta",
+      "Olivia Newton-John",
+      "Charles Durning"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/two-of-a-kind.html"
+}

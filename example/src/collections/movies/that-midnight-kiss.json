@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "That Midnight Kiss",
+    "year": 1949,
+    "cast": [
+      "Kathryn Grayson",
+      "Mario Lanza",
+      "Jose Iturbi"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/that-midnight-kiss.html"
+}

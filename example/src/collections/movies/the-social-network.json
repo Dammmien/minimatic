@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Social Network",
+    "year": 2010,
+    "cast": [
+      "Jesse Eisenberg",
+      "Andrew Garfield",
+      "Justin Timberlake",
+      "Armie Hammer",
+      "Max Minghella",
+      "Brenda Song",
+      "Rooney Mara",
+      "Dustin Fitzsimons",
+      "Joseph Mazzello",
+      "Rashida Jones"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-social-network.html"
+}

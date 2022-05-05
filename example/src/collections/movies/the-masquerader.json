@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Masquerader",
+    "year": 1933,
+    "cast": [
+      "Ronald Colman",
+      "Elissa Landi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-masquerader.html"
+}

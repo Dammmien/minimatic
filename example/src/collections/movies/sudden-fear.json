@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sudden Fear",
+    "year": 1952,
+    "cast": [
+      "Joan Crawford",
+      "Jack Palance",
+      "Gloria Grahame"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/sudden-fear.html"
+}

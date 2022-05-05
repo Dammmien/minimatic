@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bert Rigby, You're a Fool",
+    "year": 1989,
+    "cast": [
+      "Robert Lindsay",
+      "Robbie Coltrane",
+      "Anne Bancroft"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/bert-rigby--you-re-a-fool.html"
+}

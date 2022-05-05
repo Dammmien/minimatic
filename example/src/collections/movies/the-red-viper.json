@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Red Viper",
+    "year": 1919,
+    "cast": [
+      "Gareth Hughes",
+      "Ruth Stonehouse",
+      "John Gilbert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-red-viper.html"
+}

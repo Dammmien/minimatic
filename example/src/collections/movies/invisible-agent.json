@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Invisible Agent",
+    "year": 1942,
+    "cast": [
+      "Ilona Massey",
+      "Jon Hall"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/invisible-agent.html"
+}

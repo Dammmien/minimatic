@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Show of Force",
+    "year": 1990,
+    "cast": [
+      "Amy Irving",
+      "Andy García",
+      "Robert Duvall",
+      "Kevin Spacey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-show-of-force.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rhythm on the Range",
+    "year": 1936,
+    "cast": [
+      "Bing Crosby",
+      "Frances Farmer",
+      "Bob Burns"
+    ],
+    "genres": [
+      "Musical",
+      "Western"
+    ]
+  },
+  "output": "movies/rhythm-on-the-range.html"
+}

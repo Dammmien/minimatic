@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gladiator",
+    "year": 1938,
+    "cast": [
+      "Joe E. Brown",
+      "June Travis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-gladiator.html"
+}

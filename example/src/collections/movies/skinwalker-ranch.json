@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Skinwalker Ranch",
+    "year": 2013,
+    "cast": [
+      "Taylor Bateman",
+      "Steve Berg",
+      "Michael Black",
+      "Erin Cahill",
+      "Carol Call",
+      "Kyle Davis"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/skinwalker-ranch.html"
+}

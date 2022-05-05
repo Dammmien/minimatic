@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Lady Killer",
+    "year": 1933,
+    "cast": [
+      "James Cagney",
+      "Margaret Lindsay",
+      "Mae Clarke"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/lady-killer.html"
+}

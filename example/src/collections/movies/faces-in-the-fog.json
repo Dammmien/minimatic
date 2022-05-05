@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Faces in the Fog",
+    "year": 1944,
+    "cast": [
+      "Jane Withers",
+      "Paul Kelly",
+      "Lee Patrick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/faces-in-the-fog.html"
+}

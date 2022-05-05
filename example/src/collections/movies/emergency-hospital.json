@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Emergency Hospital",
+    "year": 1956,
+    "cast": [
+      "Walter Reed",
+      "Margaret Lindsay"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/emergency-hospital.html"
+}

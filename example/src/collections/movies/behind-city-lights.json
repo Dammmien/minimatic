@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Behind City Lights",
+    "year": 1945,
+    "cast": [
+      "Lynne Roberts",
+      "Peter Cookson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/behind-city-lights.html"
+}

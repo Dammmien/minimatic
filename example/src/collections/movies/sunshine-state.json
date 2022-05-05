@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sunshine State",
+    "year": 2002,
+    "cast": [
+      "Angela Bassett",
+      "Edie Falco"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sunshine-state.html"
+}

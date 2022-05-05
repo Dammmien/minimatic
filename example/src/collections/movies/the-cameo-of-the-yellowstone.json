@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cameo of the Yellowstone",
+    "year": 1914,
+    "cast": [
+      "William Garwood",
+      "Harry De Vere",
+      "Louise Lester"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-cameo-of-the-yellowstone.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Twin Peaks: Fire Walk with Me",
+    "year": 1992,
+    "cast": [
+      "Sheryl Lee",
+      "Moira Kelly",
+      "Kiefer Sutherland",
+      "Kyle MacLachlan",
+      "David Bowie"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/twin-peaks--fire-walk-with-me.html"
+}

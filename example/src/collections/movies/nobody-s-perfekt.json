@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nobody's Perfekt",
+    "year": 1981,
+    "cast": [
+      "Gabe Kaplan",
+      "Alex Karras",
+      "Susan Clark"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nobody-s-perfekt.html"
+}

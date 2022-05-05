@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Navigator",
+    "year": 1924,
+    "cast": [
+      "Buster Keaton",
+      "Kathryn McGuire"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-navigator.html"
+}

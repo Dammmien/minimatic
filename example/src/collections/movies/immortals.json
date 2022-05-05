@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Immortals",
+    "year": 2011,
+    "cast": [
+      "Henry Cavill",
+      "Stephen Dorff",
+      "Luke Evans",
+      "Isabel Lucas",
+      "Kellan Lutz",
+      "Freida Pinto",
+      "Mickey Rourke"
+    ],
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/immortals.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Androcles and the Lion",
+    "year": 1952,
+    "cast": [
+      "Jean Simmons",
+      "Victor Mature",
+      "Alan Young"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/androcles-and-the-lion.html"
+}

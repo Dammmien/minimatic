@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Summer Wishes, Winter Dreams",
+    "year": 1973,
+    "cast": [
+      "Joanne Woodward",
+      "Martin Balsam",
+      "Sylvia Sidney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/summer-wishes--winter-dreams.html"
+}

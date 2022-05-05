@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Once More, with Feeling!",
+    "year": 1960,
+    "cast": [
+      "Yul Brynner",
+      "Kay Kendall",
+      "Gregory Ratoff"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/once-more--with-feeling-.html"
+}

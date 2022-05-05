@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Night of Love",
+    "year": 1934,
+    "cast": [
+      "Grace Moore",
+      "Mona Barrie",
+      "Tullio Carminati"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/one-night-of-love.html"
+}

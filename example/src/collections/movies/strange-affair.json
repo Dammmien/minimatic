@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Strange Affair",
+    "year": 1944,
+    "cast": [
+      "Allyn Joslyn",
+      "Evelyn Keyes",
+      "Edgar Buchanan"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/strange-affair.html"
+}

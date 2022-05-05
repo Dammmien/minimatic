@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Desert Flower",
+    "year": 1925,
+    "cast": [
+      "Colleen Moore",
+      "Lloyd Hughes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-desert-flower.html"
+}

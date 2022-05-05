@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Knots",
+    "year": 2004,
+    "cast": [
+      "Scott Cohen",
+      "Annabeth Gish",
+      "Paulina Porizkova"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/knots.html"
+}

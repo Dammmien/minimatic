@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Stormy Weathers",
+    "year": 1992,
+    "cast": [
+      "Cybill Shepherd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stormy-weathers.html"
+}

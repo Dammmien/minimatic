@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Focus",
+    "year": 2015,
+    "cast": [
+      "Will Smith",
+      "Margot Robbie",
+      "Rodrigo Santoro"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/focus.html"
+}

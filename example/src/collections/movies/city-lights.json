@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "City Lights",
+    "year": 1931,
+    "cast": [
+      "Charles Chaplin",
+      "Virginia Cherrill"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/city-lights.html"
+}

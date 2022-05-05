@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tender Mercies",
+    "year": 1983,
+    "cast": [
+      "Robert Duvall",
+      "Tess Harper",
+      "Betty Buckley",
+      "Ellen Barkin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tender-mercies.html"
+}

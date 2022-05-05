@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Stealing Home",
+    "year": 1988,
+    "cast": [
+      "Jodie Foster",
+      "Mark Harmon",
+      "Blair Brown",
+      "Harold Ramis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stealing-home.html"
+}

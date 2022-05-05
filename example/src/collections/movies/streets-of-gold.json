@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Streets of Gold",
+    "year": 1986,
+    "cast": [
+      "Klaus Maria Brandauer",
+      "Adrian Pasdar",
+      "Wesley Snipes"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/streets-of-gold.html"
+}

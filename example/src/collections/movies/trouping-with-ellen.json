@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trouping with Ellen",
+    "year": 1924,
+    "cast": [
+      "Helene Chadwick",
+      "Mary Thurman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/trouping-with-ellen.html"
+}

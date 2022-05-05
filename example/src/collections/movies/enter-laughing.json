@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Enter Laughing",
+    "year": 1967,
+    "cast": [
+      "José Ferrer",
+      "Shelley Winters",
+      "Reni Santoni",
+      "Don Rickles"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/enter-laughing.html"
+}

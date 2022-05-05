@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Suicide Kings",
+    "year": 1998,
+    "cast": [
+      "Christopher Walken",
+      "Denis Leary",
+      "Sean Patrick Flanery",
+      "Johnny Galecki",
+      "Jay Mohr",
+      "Jeremy Sisto",
+      "Henry Thomas",
+      "Cliff DeYoung",
+      "Laura San Giacomo"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/suicide-kings.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "White Witch Doctor",
+    "year": 1953,
+    "cast": [
+      "Robert Mitchum",
+      "Susan Hayward"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/white-witch-doctor.html"
+}

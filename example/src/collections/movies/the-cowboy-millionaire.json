@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cowboy Millionaire",
+    "year": 1935,
+    "cast": [
+      "George O'Brien",
+      "Edgar Kennedy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-cowboy-millionaire.html"
+}

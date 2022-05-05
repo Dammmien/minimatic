@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Saint Takes Over",
+    "year": 1940,
+    "cast": [
+      "George Sanders",
+      "Wendy Barrie"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-saint-takes-over.html"
+}

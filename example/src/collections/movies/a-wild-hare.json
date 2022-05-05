@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Wild Hare",
+    "year": 1940,
+    "cast": [
+      "Mel Blanc",
+      "Arthur Q. Bryan"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/a-wild-hare.html"
+}

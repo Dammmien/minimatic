@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shocker",
+    "year": 1989,
+    "cast": [
+      "Mitch Pileggi",
+      "Michael Murphy"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/shocker.html"
+}

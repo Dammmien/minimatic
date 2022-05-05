@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Hours",
+    "year": 2002,
+    "cast": [
+      "Nicole Kidman",
+      "Julianne Moore",
+      "Meryl Streep",
+      "Ed Harris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hours.html"
+}

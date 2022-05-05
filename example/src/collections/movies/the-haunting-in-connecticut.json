@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Haunting in Connecticut",
+    "year": 2009,
+    "cast": [
+      "Virginia Madsen",
+      "Kyle Gallner",
+      "Martin Donovan",
+      "Elias Koteas",
+      "Amanda Crew"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-haunting-in-connecticut.html"
+}

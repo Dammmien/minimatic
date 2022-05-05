@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Postman",
+    "year": 1997,
+    "cast": [
+      "Kevin Costner",
+      "Olivia Williams",
+      "Larenz Tate",
+      "Will Patton"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-postman.html"
+}

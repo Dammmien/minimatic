@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Merry Gentleman",
+    "year": 2009,
+    "cast": [
+      "Michael Keaton",
+      "Kelly Macdonald"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-merry-gentleman.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "T-Men",
+    "year": 1947,
+    "cast": [
+      "Dennis O'Keefe",
+      "Wallace Ford"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/t-men.html"
+}

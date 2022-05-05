@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Parisian Tigress",
+    "year": 1919,
+    "cast": [
+      "Viola Dana",
+      "Henry Kolker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-parisian-tigress.html"
+}

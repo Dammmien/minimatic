@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Running Man",
+    "year": 1987,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Richard Dawson",
+      "María Conchita Alonso"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-running-man.html"
+}

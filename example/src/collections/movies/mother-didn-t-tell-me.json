@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mother Didn't Tell Me",
+    "year": 1950,
+    "cast": [
+      "Dorothy McGuire",
+      "June Havoc"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mother-didn-t-tell-me.html"
+}

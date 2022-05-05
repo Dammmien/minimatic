@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Snow Dog",
+    "year": 1950,
+    "cast": [
+      "Kirby Grant",
+      "Elena Verdugo"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/snow-dog.html"
+}

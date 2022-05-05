@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wait Until Dark",
+    "year": 1967,
+    "cast": [
+      "Audrey Hepburn",
+      "Alan Arkin",
+      "Efrem Zimbalist Jr.",
+      "Richard Crenna"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/wait-until-dark.html"
+}

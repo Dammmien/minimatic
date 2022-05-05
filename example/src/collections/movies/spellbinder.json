@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Spellbinder",
+    "year": 1988,
+    "cast": [
+      "Tim Daly",
+      "Kelly Preston",
+      "Rick Rossovich"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/spellbinder.html"
+}

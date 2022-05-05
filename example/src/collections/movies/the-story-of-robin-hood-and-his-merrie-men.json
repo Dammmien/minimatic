@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Story of Robin Hood and His Merrie Men",
+    "year": 1952,
+    "cast": [
+      "Richard Todd",
+      "Peter Finch",
+      "James Robertson Justice",
+      "Joan Rice"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-story-of-robin-hood-and-his-merrie-men.html"
+}

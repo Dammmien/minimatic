@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Flirt",
+    "year": 1995,
+    "cast": [
+      "Parker Posey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/flirt.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cannibal! The Musical",
+    "year": 1996,
+    "cast": [
+      "Trey Parker",
+      "Matt Stone",
+      "Dian Bachar",
+      "Jason McHugh"
+    ],
+    "genres": []
+  },
+  "output": "movies/cannibal--the-musical.html"
+}

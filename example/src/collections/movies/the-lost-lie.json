@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Lost Lie",
+    "year": 1918,
+    "cast": [
+      "Ruth Hampton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-lost-lie.html"
+}

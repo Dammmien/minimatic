@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Better Luck Tomorrow",
+    "year": 2002,
+    "cast": [
+      "Parry Shen",
+      "Jason Tobin",
+      "Sung Kang"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/better-luck-tomorrow.html"
+}

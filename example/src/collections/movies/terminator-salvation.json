@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Terminator Salvation",
+    "year": 2009,
+    "cast": [
+      "Christian Bale",
+      "Sam Worthington",
+      "Anton Yelchin",
+      "Moon Bloodgood",
+      "Bryce Dallas Howard",
+      "Common",
+      "Jadagrace Berry",
+      "Helena Bonham Carter",
+      "Jane Alexander"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/terminator-salvation.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Roses Are Red",
+    "year": 1947,
+    "cast": [
+      "Peggy Knudsen",
+      "Don Castle"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/roses-are-red.html"
+}

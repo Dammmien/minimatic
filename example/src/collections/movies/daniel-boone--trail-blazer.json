@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daniel Boone, Trail Blazer",
+    "year": 1956,
+    "cast": [
+      "Bruce Bennett",
+      "Lon Chaney Jr."
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/daniel-boone--trail-blazer.html"
+}

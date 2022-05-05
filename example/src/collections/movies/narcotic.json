@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Narcotic",
+    "year": 1933,
+    "cast": [
+      "Harry Cording",
+      "Joan Dix"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/narcotic.html"
+}

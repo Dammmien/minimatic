@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ice Cream Man",
+    "year": 1995,
+    "cast": [
+      "Clint Howard",
+      "Olivia Hussey"
+    ],
+    "genres": [
+      "Slasher"
+    ]
+  },
+  "output": "movies/ice-cream-man.html"
+}

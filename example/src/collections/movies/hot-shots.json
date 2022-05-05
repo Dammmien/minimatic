@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hot Shots",
+    "year": 1956,
+    "cast": [
+      "Bowery Boys",
+      "Joi Lansing"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hot-shots.html"
+}

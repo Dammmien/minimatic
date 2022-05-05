@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lost Missile",
+    "year": 1958,
+    "cast": [
+      "Robert Loggia",
+      "Phillip Pine"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-lost-missile.html"
+}

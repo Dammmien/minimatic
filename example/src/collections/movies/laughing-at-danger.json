@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Laughing at Danger",
+    "year": 1924,
+    "cast": [
+      "Richard Talmadge",
+      "Eva Novak"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/laughing-at-danger.html"
+}

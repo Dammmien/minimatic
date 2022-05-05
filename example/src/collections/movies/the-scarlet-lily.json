@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Scarlet Lily",
+    "year": 1923,
+    "cast": [
+      "Katherine MacDonald",
+      "Orville Caldwell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-scarlet-lily.html"
+}

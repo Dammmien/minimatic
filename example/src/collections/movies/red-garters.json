@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Red Garters",
+    "year": 1954,
+    "cast": [
+      "Rosemary Clooney",
+      "Jack Carson",
+      "Guy Mitchell",
+      "Gene Barry"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/red-garters.html"
+}

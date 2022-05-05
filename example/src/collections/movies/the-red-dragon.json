@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Red Dragon",
+    "year": 1946,
+    "cast": [
+      "Sidney Toler",
+      "Benson Fong"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-red-dragon.html"
+}

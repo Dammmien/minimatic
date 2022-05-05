@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Outcast Lady",
+    "year": 1934,
+    "cast": [
+      "Constance Bennett",
+      "Herbert Marshall",
+      "Hugh Williams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/outcast-lady.html"
+}

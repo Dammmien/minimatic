@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Armored",
+    "year": 2009,
+    "cast": [
+      "Matt Dillon",
+      "Jean Reno",
+      "Laurence Fishburne",
+      "Milo Ventimiglia",
+      "Skeet Ulrich",
+      "Columbus Short",
+      "Amaury Nolasco",
+      "Fred Ward"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/armored.html"
+}

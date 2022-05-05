@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "War Party",
+    "year": 1988,
+    "cast": [
+      "Billy Wirth",
+      "Kevin Dillon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/war-party.html"
+}

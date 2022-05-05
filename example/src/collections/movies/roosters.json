@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Roosters",
+    "year": 1993,
+    "cast": [
+      "Edward James Olmos",
+      "Sônia Braga"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/roosters.html"
+}

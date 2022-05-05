@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sutter's Gold",
+    "year": 1936,
+    "cast": [
+      "Edward Arnold",
+      "Lee Tracy",
+      "Montagu Love"
+    ],
+    "genres": [
+      "Drama",
+      "Western"
+    ]
+  },
+  "output": "movies/sutter-s-gold.html"
+}

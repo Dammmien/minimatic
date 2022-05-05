@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Night Key",
+    "year": 1937,
+    "cast": [
+      "Boris Karloff",
+      "Jean Rogers",
+      "Alan Baxter"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/night-key.html"
+}

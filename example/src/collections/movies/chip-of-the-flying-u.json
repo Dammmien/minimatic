@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Chip of the Flying U",
+    "year": 1939,
+    "cast": [
+      "Johnny Mack Brown",
+      "Bob Baker",
+      "Fuzzy Knight",
+      "Doris Weston"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/chip-of-the-flying-u.html"
+}

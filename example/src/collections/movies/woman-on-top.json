@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Woman on Top",
+    "year": 2000,
+    "cast": [
+      "Penélope Cruz"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/woman-on-top.html"
+}

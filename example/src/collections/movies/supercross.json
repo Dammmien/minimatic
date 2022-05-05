@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Supercross",
+    "year": 2005,
+    "cast": [
+      "Steve Howey",
+      "Mike Vogel",
+      "Cameron Richardson",
+      "Sophia Bush"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/supercross.html"
+}

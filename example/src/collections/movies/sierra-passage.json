@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sierra Passage",
+    "year": 1950,
+    "cast": [
+      "Wayne Morris",
+      "Lola Albright"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sierra-passage.html"
+}

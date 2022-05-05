@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hello, Sucker",
+    "year": 1941,
+    "cast": [
+      "Hugh Herbert",
+      "Peggy Moran"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hello--sucker.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Peacock Fan",
+    "year": 1929,
+    "cast": [
+      "Lucien Prival",
+      "Dorothy Dwan"
+    ],
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-peacock-fan.html"
+}

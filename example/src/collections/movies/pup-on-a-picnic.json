@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Pup on a Picnic",
+    "year": 1953,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/pup-on-a-picnic.html"
+}

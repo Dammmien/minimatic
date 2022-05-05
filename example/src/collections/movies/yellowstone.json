@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yellowstone",
+    "year": 1936,
+    "cast": [
+      "Judith Barrett",
+      "Alan Hale"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/yellowstone.html"
+}

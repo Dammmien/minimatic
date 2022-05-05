@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bride by Mistake",
+    "year": 1944,
+    "cast": [
+      "Alan Marshal",
+      "Laraine Day",
+      "Marsha Hunt"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bride-by-mistake.html"
+}

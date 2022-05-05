@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Characterz",
+    "year": 2016,
+    "cast": [
+      "Mitchel Musso"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/characterz.html"
+}

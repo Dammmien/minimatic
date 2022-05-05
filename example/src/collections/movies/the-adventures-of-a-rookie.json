@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Adventures of a Rookie",
+    "year": 1943,
+    "cast": [
+      "Wally Brown",
+      "Alan Carney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-adventures-of-a-rookie.html"
+}

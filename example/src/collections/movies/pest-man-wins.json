@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Pest Man Wins",
+    "year": 1951,
+    "cast": [
+      "Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pest-man-wins.html"
+}

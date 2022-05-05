@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Bedtime for Bonzo",
+    "year": 1951,
+    "cast": [
+      "Ronald Reagan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bedtime-for-bonzo.html"
+}

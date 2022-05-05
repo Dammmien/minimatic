@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Moon's Our Home",
+    "year": 1936,
+    "cast": [
+      "Henry Fonda",
+      "Margaret Sullavan",
+      "Walter Brennan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-moon-s-our-home.html"
+}

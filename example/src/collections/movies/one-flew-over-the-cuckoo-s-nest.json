@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "year": 1975,
+    "cast": [
+      "Jack Nicholson",
+      "Louise Fletcher",
+      "Brad Dourif",
+      "Danny DeVito",
+      "William Redfield",
+      "Will Sampson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/one-flew-over-the-cuckoo-s-nest.html"
+}

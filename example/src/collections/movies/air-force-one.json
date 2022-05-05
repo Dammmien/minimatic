@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Air Force One",
+    "year": 1997,
+    "cast": [
+      "Harrison Ford",
+      "Glenn Close",
+      "Gary Oldman"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/air-force-one.html"
+}

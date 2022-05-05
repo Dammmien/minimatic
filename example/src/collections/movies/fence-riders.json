@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fence Riders",
+    "year": 1950,
+    "cast": [
+      "Whip Wilson",
+      "Andy Clyde",
+      "Reno Browne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fence-riders.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "We Are What We Are",
+    "year": 2013,
+    "cast": [
+      "Bill Sage",
+      "Julia Garner",
+      "Ambyr Childers",
+      "Odeya Rush"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/we-are-what-we-are.html"
+}

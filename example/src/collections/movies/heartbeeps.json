@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Heartbeeps",
+    "year": 1981,
+    "cast": [
+      "Andy Kaufman",
+      "Bernadette Peters",
+      "Randy Quaid"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/heartbeeps.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fillmore",
+    "year": 1972,
+    "cast": [
+      "Santana",
+      "Grateful Dead",
+      "Jefferson Airplane"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/fillmore.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Six Hours to Live",
+    "year": 1932,
+    "cast": [
+      "Warner Baxter",
+      "Miriam Jordan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/six-hours-to-live.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Summer Love",
+    "year": 1958,
+    "cast": [
+      "John Saxon",
+      "Molly Bee",
+      "Jill St. John"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/summer-love.html"
+}

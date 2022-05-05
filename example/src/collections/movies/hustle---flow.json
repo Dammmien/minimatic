@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hustle & Flow",
+    "year": 2005,
+    "cast": [
+      "Terrence Howard",
+      "Anthony Anderson",
+      "Taryn Manning"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/hustle---flow.html"
+}

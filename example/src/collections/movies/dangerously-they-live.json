@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dangerously They Live",
+    "year": 1941,
+    "cast": [
+      "John Garfield",
+      "Nancy Coleman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dangerously-they-live.html"
+}

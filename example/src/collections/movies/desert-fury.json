@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Desert Fury",
+    "year": 1947,
+    "cast": [
+      "Lizabeth Scott",
+      "Burt Lancaster"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/desert-fury.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Little Buckaroo",
+    "year": 1928,
+    "cast": [
+      "Buzz Barton",
+      "Milburn Morante"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-little-buckaroo.html"
+}

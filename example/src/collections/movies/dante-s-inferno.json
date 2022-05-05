@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dante's Inferno",
+    "year": 1935,
+    "cast": [
+      "Spencer Tracy",
+      "Henry B. Walthall",
+      "Rita Hayworth"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dante-s-inferno.html"
+}

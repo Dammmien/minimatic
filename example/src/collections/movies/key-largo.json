@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Key Largo",
+    "year": 1948,
+    "cast": [
+      "Humphrey Bogart",
+      "Lauren Bacall",
+      "Edward G. Robinson",
+      "Lionel Barrymore",
+      "Claire Trevor"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/key-largo.html"
+}

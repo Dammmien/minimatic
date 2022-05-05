@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Buying the Cow",
+    "year": 2002,
+    "cast": [
+      "Jerry O'Connell",
+      "Bridgette Wilson",
+      "Alyssa Milano"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/buying-the-cow.html"
+}

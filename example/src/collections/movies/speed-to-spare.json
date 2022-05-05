@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Speed to Spare",
+    "year": 1948,
+    "cast": [
+      "Richard Arlen",
+      "Jean Rogers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/speed-to-spare.html"
+}

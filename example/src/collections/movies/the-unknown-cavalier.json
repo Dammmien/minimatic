@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Unknown Cavalier",
+    "year": 1926,
+    "cast": [
+      "Ken Maynard",
+      "Kathleen Collins",
+      "David Torrence"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-unknown-cavalier.html"
+}

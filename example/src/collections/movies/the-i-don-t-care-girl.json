@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The I Don't Care Girl",
+    "year": 1953,
+    "cast": [
+      "Mitzi Gaynor",
+      "Oscar Levant"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-i-don-t-care-girl.html"
+}

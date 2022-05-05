@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Annabelle's Affairs",
+    "year": 1931,
+    "cast": [
+      "Victor McLaglen",
+      "Jeanette MacDonald"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/annabelle-s-affairs.html"
+}

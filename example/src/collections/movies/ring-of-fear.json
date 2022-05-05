@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ring of Fear",
+    "year": 1954,
+    "cast": [
+      "Clyde Beatty",
+      "Mickey Spillane",
+      "Pat O'Brien"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/ring-of-fear.html"
+}

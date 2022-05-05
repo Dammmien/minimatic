@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Here Comes Mr. Jordan",
+    "year": 1941,
+    "cast": [
+      "Robert Montgomery",
+      "Evelyn Keyes",
+      "Claude Rains"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/here-comes-mr--jordan.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Life Returns",
+    "year": 1935,
+    "cast": [
+      "Onslow Stevens",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Drama",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/life-returns.html"
+}

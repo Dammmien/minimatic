@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bertha, the Sewing Machine Girl",
+    "year": 1926,
+    "cast": [
+      "Madge Bellamy",
+      "Anita Garvin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bertha--the-sewing-machine-girl.html"
+}

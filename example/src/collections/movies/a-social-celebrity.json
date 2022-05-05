@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Social Celebrity",
+    "year": 1926,
+    "cast": [
+      "Adolphe Menjou",
+      "Louise Brooks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-social-celebrity.html"
+}

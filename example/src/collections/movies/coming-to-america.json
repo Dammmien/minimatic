@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Coming to America",
+    "year": 1988,
+    "cast": [
+      "Eddie Murphy",
+      "Arsenio Hall",
+      "James Earl Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/coming-to-america.html"
+}

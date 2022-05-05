@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Fish Called Wanda",
+    "year": 1988,
+    "cast": [
+      "John Cleese",
+      "Kevin Kline",
+      "Jamie Lee Curtis",
+      "Michael Palin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-fish-called-wanda.html"
+}

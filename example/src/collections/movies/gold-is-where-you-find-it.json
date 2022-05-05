@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gold Is Where You Find It",
+    "year": 1938,
+    "cast": [
+      "George Brent",
+      "Olivia de Havilland",
+      "Claude Rains"
+    ],
+    "genres": [
+      "Western",
+      "Romance"
+    ]
+  },
+  "output": "movies/gold-is-where-you-find-it.html"
+}

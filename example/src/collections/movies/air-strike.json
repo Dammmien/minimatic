@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Air Strike",
+    "year": 1955,
+    "cast": [
+      "Richard Denning",
+      "Gloria Jean"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/air-strike.html"
+}

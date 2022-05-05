@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Undercurrent",
+    "year": 1946,
+    "cast": [
+      "Katharine Hepburn",
+      "Robert Mitchum"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/undercurrent.html"
+}

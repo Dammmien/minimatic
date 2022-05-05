@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Love Burglar",
+    "year": 1919,
+    "cast": [
+      "Wallace Reid",
+      "Anna Q. Nilsson",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-love-burglar.html"
+}

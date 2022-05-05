@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Niagara, Niagara",
+    "year": 1997,
+    "cast": [
+      "Henry Thomas",
+      "Robin Tunney",
+      "Stephen Lang"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/niagara--niagara.html"
+}

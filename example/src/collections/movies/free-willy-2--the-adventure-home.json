@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Free Willy 2: The Adventure Home",
+    "year": 1995,
+    "cast": [
+      "Francis Capra",
+      "Michael Madsen"
+    ],
+    "genres": [
+      "Adventure",
+      "Family"
+    ]
+  },
+  "output": "movies/free-willy-2--the-adventure-home.html"
+}

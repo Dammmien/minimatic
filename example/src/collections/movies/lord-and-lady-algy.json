@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lord and Lady Algy",
+    "year": 1919,
+    "cast": [
+      "Tom Moore",
+      "Naomi Childers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lord-and-lady-algy.html"
+}

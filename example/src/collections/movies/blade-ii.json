@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Blade II",
+    "year": 2002,
+    "cast": [
+      "Wesley Snipes",
+      "Kris Kristofferson",
+      "Ron Perlman"
+    ],
+    "genres": [
+      "Action",
+      "Horror"
+    ]
+  },
+  "output": "movies/blade-ii.html"
+}

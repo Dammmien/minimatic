@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Indian Summer",
+    "year": 1993,
+    "cast": [
+      "Alan Arkin",
+      "Diane Lane",
+      "Elizabeth Perkins",
+      "Bill Paxton",
+      "Vincent Spano",
+      "Kimberly Williams-Paisley",
+      "Julie Warner",
+      "Matt Craven"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/indian-summer.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Electric Horseman",
+    "year": 1979,
+    "cast": [
+      "Robert Redford",
+      "Jane Fonda",
+      "Willie Nelson"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-electric-horseman.html"
+}

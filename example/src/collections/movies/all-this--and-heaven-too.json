@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "All This, and Heaven Too",
+    "year": 1940,
+    "cast": [
+      "Bette Davis",
+      "Charles Boyer",
+      "Jeffrey Lynn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/all-this--and-heaven-too.html"
+}

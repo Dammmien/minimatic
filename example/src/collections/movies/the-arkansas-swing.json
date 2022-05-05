@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Arkansas Swing",
+    "year": 1948,
+    "cast": [
+      "Gloria Henry",
+      "June Vincent"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-arkansas-swing.html"
+}

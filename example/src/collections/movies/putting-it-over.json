@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Putting It Over",
+    "year": 1919,
+    "cast": [
+      "Bryant Washburn",
+      "Shirley Mason"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/putting-it-over.html"
+}

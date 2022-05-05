@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Subway Express",
+    "year": 1931,
+    "cast": [
+      "Jack Holt",
+      "Aileen Pringle"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/subway-express.html"
+}

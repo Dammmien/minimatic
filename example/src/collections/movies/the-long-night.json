@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Long Night",
+    "year": 1947,
+    "cast": [
+      "Henry Fonda",
+      "Barbara Bel Geddes"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-long-night.html"
+}

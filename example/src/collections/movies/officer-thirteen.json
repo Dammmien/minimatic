@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Officer Thirteen",
+    "year": 1932,
+    "cast": [
+      "Monte Blue",
+      "Lila Lee",
+      "Mickey Rooney"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/officer-thirteen.html"
+}

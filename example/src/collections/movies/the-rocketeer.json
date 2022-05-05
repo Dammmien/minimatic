@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Rocketeer",
+    "year": 1991,
+    "cast": [
+      "Billy Campbell",
+      "Jennifer Connelly",
+      "Timothy Dalton",
+      "Alan Arkin",
+      "Paul Sorvino"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-rocketeer.html"
+}

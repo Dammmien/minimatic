@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Marriage Whirl",
+    "year": 1925,
+    "cast": [
+      "Corinne Griffith",
+      "Kenneth Harlan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-marriage-whirl.html"
+}

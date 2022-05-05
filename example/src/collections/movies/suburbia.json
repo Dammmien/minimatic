@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Suburbia",
+    "year": 1984,
+    "cast": [
+      "Jennifer Clay",
+      "Flea",
+      "Christina Beck"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/suburbia.html"
+}

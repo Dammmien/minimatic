@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Roman Holiday",
+    "year": 1953,
+    "cast": [
+      "Audrey Hepburn",
+      "Gregory Peck",
+      "Eddie Albert"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/roman-holiday.html"
+}

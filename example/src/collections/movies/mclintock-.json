@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "McLintock!",
+    "year": 1963,
+    "cast": [
+      "John Wayne",
+      "Maureen O'Hara",
+      "Stefanie Powers",
+      "Yvonne De Carlo",
+      "Patrick Wayne",
+      "Jerry Van Dyke"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/mclintock-.html"
+}

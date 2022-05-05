@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Space Raiders",
+    "year": 1983,
+    "cast": [
+      "Vince Edwards"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/space-raiders.html"
+}

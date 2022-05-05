@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Deception",
+    "year": 2008,
+    "cast": [
+      "Ewan McGregor",
+      "Hugh Jackman",
+      "Michelle Williams",
+      "Maggie Q"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/deception.html"
+}

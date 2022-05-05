@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Love Lucy",
+    "year": 1953,
+    "cast": [
+      "Lucille Ball",
+      "Desi Arnaz"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-love-lucy.html"
+}

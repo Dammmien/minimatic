@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hail the Woman",
+    "year": 1921,
+    "cast": [
+      "Florence Vidor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hail-the-woman.html"
+}

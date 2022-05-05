@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The First Kiss",
+    "year": 1928,
+    "cast": [
+      "Fay Wray",
+      "Gary Cooper"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-first-kiss.html"
+}

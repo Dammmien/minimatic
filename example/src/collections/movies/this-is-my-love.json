@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "This Is My Love",
+    "year": 1954,
+    "cast": [
+      "Linda Darnell",
+      "Faith Domergue"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/this-is-my-love.html"
+}

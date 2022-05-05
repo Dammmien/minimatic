@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Eye of the Tiger",
+    "year": 1986,
+    "cast": [
+      "Gary Busey",
+      "Yaphet Kotto",
+      "Seymour Cassel"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/eye-of-the-tiger.html"
+}

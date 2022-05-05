@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "In & Out",
+    "year": 1997,
+    "cast": [
+      "Kevin Kline",
+      "Joan Cusack",
+      "Tom Selleck",
+      "Matt Dillon",
+      "Bob Newhart",
+      "Debbie Reynolds",
+      "Wilford Brimley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/in---out.html"
+}

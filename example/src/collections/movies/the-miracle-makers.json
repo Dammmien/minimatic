@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Miracle Makers",
+    "year": 1923,
+    "cast": [
+      "Leah Baird",
+      "George Walsh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-miracle-makers.html"
+}

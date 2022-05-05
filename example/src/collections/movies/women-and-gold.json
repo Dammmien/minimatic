@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Women and Gold",
+    "year": 1925,
+    "cast": [
+      "Frank Mayo",
+      "Sylvia Breamer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/women-and-gold.html"
+}

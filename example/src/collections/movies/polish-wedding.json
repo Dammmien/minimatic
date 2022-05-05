@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Polish Wedding",
+    "year": 1998,
+    "cast": [
+      "Gabriel Byrne",
+      "Claire Danes",
+      "Mili Avital"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/polish-wedding.html"
+}

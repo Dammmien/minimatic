@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Silver Streak",
+    "year": 1976,
+    "cast": [
+      "Gene Wilder",
+      "Richard Pryor",
+      "Jill Clayburgh",
+      "Patrick McGoohan",
+      "Ned Beatty",
+      "Clifton James"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/silver-streak.html"
+}

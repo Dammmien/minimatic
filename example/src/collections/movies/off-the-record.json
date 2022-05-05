@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Off the Record",
+    "year": 1939,
+    "cast": [
+      "Pat O'Brien",
+      "Joan Blondell",
+      "Bobby Jordan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/off-the-record.html"
+}

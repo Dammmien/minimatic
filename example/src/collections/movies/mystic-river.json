@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Mystic River",
+    "year": 2003,
+    "cast": [
+      "Sean Penn",
+      "Tim Robbins",
+      "Kevin Bacon",
+      "Laura Linney",
+      "Laurence Fishburne",
+      "Marcia Gay Harden"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/mystic-river.html"
+}

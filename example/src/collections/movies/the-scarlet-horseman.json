@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Scarlet Horseman",
+    "year": 1946,
+    "cast": [
+      "Peter Cookson",
+      "Paul Guilfoyle"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-scarlet-horseman.html"
+}

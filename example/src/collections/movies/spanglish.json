@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Spanglish",
+    "year": 2004,
+    "cast": [
+      "Adam Sandler",
+      "Téa Leoni",
+      "Paz Vega",
+      "Cloris Leachman"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/spanglish.html"
+}

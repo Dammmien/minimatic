@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "They Met in Argentina",
+    "year": 1941,
+    "cast": [
+      "Maureen O'Hara",
+      "James Ellison"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/they-met-in-argentina.html"
+}

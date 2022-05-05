@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Valley of Silent Men",
+    "year": 1922,
+    "cast": [
+      "Alma Rubens",
+      "Lew Cody"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-valley-of-silent-men.html"
+}

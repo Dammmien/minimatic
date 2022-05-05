@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Saint Joan",
+    "year": 1957,
+    "cast": [
+      "Jean Seberg",
+      "Richard Widmark"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/saint-joan.html"
+}

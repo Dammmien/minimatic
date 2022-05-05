@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "First to Fight",
+    "year": 1967,
+    "cast": [
+      "Chad Everett",
+      "Dean Jagger"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/first-to-fight.html"
+}

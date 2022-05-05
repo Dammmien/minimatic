@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Brokeback Mountain",
+    "year": 2005,
+    "cast": [
+      "Heath Ledger",
+      "Jake Gyllenhaal",
+      "Anne Hathaway",
+      "Michelle Williams",
+      "Randy Quaid"
+    ],
+    "genres": [
+      "Western",
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/brokeback-mountain.html"
+}

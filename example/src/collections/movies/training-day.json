@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Training Day",
+    "year": 2001,
+    "cast": [
+      "Denzel Washington",
+      "Ethan Hawke"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/training-day.html"
+}

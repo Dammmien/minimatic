@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hallelujah, I'm a Bum",
+    "year": 1933,
+    "cast": [
+      "Al Jolson",
+      "Madge Evans",
+      "Frank Morgan"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hallelujah--i-m-a-bum.html"
+}

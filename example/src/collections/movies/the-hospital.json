@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Hospital",
+    "year": 2013,
+    "cast": [
+      "Jim O'Rear",
+      "Daniel Emery Taylor",
+      "John Dugan",
+      "Jason Crowe",
+      "April Monique Burril"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-hospital.html"
+}

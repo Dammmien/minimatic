@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Storm Center",
+    "year": 1956,
+    "cast": [
+      "Bette Davis",
+      "Brian Keith",
+      "Kim Hunter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/storm-center.html"
+}

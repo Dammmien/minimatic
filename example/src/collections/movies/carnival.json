@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Carnival",
+    "year": 1935,
+    "cast": [
+      "Jimmy Durante",
+      "Lee Tracy",
+      "Sally Eilers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/carnival.html"
+}

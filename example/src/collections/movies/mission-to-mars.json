@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Mission to Mars",
+    "year": 2000,
+    "cast": [
+      "Gary Sinise",
+      "Tim Robbins",
+      "Don Cheadle",
+      "Connie Nielsen",
+      "Jerry O'Connell",
+      "Kim Delaney"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/mission-to-mars.html"
+}

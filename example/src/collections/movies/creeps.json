@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Creeps",
+    "year": 1956,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/creeps.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Voltaire",
+    "year": 1933,
+    "cast": [
+      "George Arliss",
+      "Doris Kenyon"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/voltaire.html"
+}

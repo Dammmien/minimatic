@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Circle of Power",
+    "year": 1983,
+    "cast": [
+      "Yvette Mimieux"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/circle-of-power.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Sweet Charity",
+    "year": 1969,
+    "cast": [
+      "Shirley MacLaine",
+      "Chita Rivera",
+      "Ricardo Montalbán",
+      "John McMartin",
+      "Paula Kelly",
+      "Sammy Davis Jr."
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/sweet-charity.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Forever Strong",
+    "year": 2008,
+    "cast": [
+      "Sean Astin",
+      "Penn Badgley",
+      "Sean Faris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/forever-strong.html"
+}

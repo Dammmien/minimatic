@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "City of Shadows",
+    "year": 1955,
+    "cast": [
+      "Victor McLaglen",
+      "Kathleen Crowley"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/city-of-shadows.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Countdown",
+    "year": 1968,
+    "cast": [
+      "James Caan",
+      "Robert Duvall"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/countdown.html"
+}

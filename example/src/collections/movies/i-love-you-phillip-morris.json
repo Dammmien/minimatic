@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "I Love You Phillip Morris",
+    "year": 2010,
+    "cast": [
+      "Jim Carrey",
+      "Ewan McGregor",
+      "Leslie Mann",
+      "Rodrigo Santoro"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/i-love-you-phillip-morris.html"
+}

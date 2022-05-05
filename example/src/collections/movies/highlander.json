@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Highlander",
+    "year": 1986,
+    "cast": [
+      "Christopher Lambert",
+      "Sean Connery",
+      "Roxanne Hart",
+      "Clancy Brown"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/highlander.html"
+}

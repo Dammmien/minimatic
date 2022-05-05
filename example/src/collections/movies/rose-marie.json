@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rose Marie",
+    "year": 1954,
+    "cast": [
+      "Ann Blyth",
+      "Howard Keel",
+      "Fernando Lamas"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/rose-marie.html"
+}

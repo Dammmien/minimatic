@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "San Antone Ambush",
+    "year": 1949,
+    "cast": [
+      "Monte Hale",
+      "Paul Hurst"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/san-antone-ambush.html"
+}

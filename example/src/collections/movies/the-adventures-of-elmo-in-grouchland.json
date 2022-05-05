@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Adventures of Elmo in Grouchland",
+    "year": 1999,
+    "cast": [
+      "Kevin Clash",
+      "Mandy Patinkin",
+      "Vanessa L. Williams"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-adventures-of-elmo-in-grouchland.html"
+}

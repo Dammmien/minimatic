@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Girl Said No",
+    "year": 1937,
+    "cast": [
+      "Irene Hervey",
+      "William Danforth",
+      "Vera Ross"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-girl-said-no.html"
+}

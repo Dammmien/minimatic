@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Singing Blacksmith",
+    "year": 1938,
+    "cast": [
+      "Moishe Oysher",
+      "Miriam Riselle"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-singing-blacksmith.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Duchess of Idaho",
+    "year": 1950,
+    "cast": [
+      "Van Johnson",
+      "Esther Williams"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/duchess-of-idaho.html"
+}

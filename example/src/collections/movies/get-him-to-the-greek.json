@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Get Him to the Greek",
+    "year": 2010,
+    "cast": [
+      "Jonah Hill",
+      "Russell Brand",
+      "Elisabeth Moss",
+      "Rose Byrne",
+      "Colm Meaney",
+      "Sean Combs"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/get-him-to-the-greek.html"
+}

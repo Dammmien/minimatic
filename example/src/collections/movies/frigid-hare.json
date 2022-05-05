@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Frigid Hare",
+    "year": 1949,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/frigid-hare.html"
+}

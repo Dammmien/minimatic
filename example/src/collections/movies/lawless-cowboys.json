@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lawless Cowboys",
+    "year": 1951,
+    "cast": [
+      "Whip Wilson",
+      "Fuzzy Knight",
+      "Pamela Duncan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lawless-cowboys.html"
+}

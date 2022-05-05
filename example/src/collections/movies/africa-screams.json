@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Africa Screams",
+    "year": 1949,
+    "cast": [
+      "Bud Abbott",
+      "Lou Costello",
+      "Clyde Beatty",
+      "Frank Buck"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/africa-screams.html"
+}

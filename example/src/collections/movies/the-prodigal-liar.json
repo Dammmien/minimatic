@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Prodigal Liar",
+    "year": 1919,
+    "cast": [
+      "William Desmond",
+      "Betty Compson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-prodigal-liar.html"
+}

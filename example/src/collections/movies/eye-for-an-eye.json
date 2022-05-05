@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Eye for an Eye",
+    "year": 1996,
+    "cast": [
+      "Sally Field",
+      "Kiefer Sutherland",
+      "Ed Harris",
+      "Joe Mantegna",
+      "Beverly D'Angelo"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/eye-for-an-eye.html"
+}

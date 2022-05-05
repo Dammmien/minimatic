@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Quick Millions",
+    "year": 1939,
+    "cast": [
+      "Jed Prouty",
+      "Spring Byington"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/quick-millions.html"
+}

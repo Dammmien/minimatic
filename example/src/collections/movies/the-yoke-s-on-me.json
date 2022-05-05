@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Yoke's on Me",
+    "year": 1944,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/the-yoke-s-on-me.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Brooklyn Rules",
+    "year": 2007,
+    "cast": [
+      "Alec Baldwin",
+      "Scott Caan",
+      "Freddie Prinze Jr."
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/brooklyn-rules.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "From Hell to Texas",
+    "year": 1958,
+    "cast": [
+      "Don Murray",
+      "Diane Varsi",
+      "R. G. Armstrong",
+      "Chill Wills",
+      "Dennis Hopper"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/from-hell-to-texas.html"
+}

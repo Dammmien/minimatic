@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "You're My Everything",
+    "year": 1949,
+    "cast": [
+      "Dan Dailey",
+      "Anne Baxter",
+      "Anne Revere"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/you-re-my-everything.html"
+}

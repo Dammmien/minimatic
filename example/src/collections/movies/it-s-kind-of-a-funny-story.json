@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "It's Kind of a Funny Story",
+    "year": 2010,
+    "cast": [
+      "Keir Gilchrist",
+      "Zach Galifianakis",
+      "Emma Roberts",
+      "Viola Davis",
+      "Zoë Kravitz",
+      "Aasif Mandvi",
+      "Lauren Graham",
+      "Jim Gaffigan"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/it-s-kind-of-a-funny-story.html"
+}

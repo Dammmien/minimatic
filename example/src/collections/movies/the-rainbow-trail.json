@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Rainbow Trail",
+    "year": 1931,
+    "cast": [
+      "George O'Brien",
+      "Cecilia Parker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-rainbow-trail.html"
+}

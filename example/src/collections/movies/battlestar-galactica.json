@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Battlestar Galactica",
+    "year": 1978,
+    "cast": [
+      "Richard Hatch",
+      "Dirk Benedict",
+      "Lorne Greene"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/battlestar-galactica.html"
+}

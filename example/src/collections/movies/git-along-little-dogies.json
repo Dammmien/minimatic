@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Git Along Little Dogies",
+    "year": 1937,
+    "cast": [
+      "Gene Autry",
+      "Judith Allen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/git-along-little-dogies.html"
+}

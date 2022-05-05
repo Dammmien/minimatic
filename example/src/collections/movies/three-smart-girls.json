@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Smart Girls",
+    "year": 1936,
+    "cast": [
+      "Deanna Durbin",
+      "Binnie Barnes",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/three-smart-girls.html"
+}

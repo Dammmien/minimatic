@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Alien Origin",
+    "year": 2012,
+    "cast": [
+      "Chelsea Vincent",
+      "Peter Pedrero",
+      "Philip Coc",
+      "Trey McCurley"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/alien-origin.html"
+}

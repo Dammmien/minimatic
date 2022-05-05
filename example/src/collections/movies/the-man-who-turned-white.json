@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Who Turned White",
+    "year": 1919,
+    "cast": [
+      "H. B. Warner",
+      "Barbara Castleton"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-man-who-turned-white.html"
+}

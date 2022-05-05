@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Architect",
+    "year": 2006,
+    "cast": [
+      "Anthony LaPaglia",
+      "Viola Davis",
+      "Isabella Rossellini"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-architect.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Thunderbolt",
+    "year": 1919,
+    "cast": [
+      "Katherine MacDonald",
+      "Thomas Meighan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-thunderbolt.html"
+}

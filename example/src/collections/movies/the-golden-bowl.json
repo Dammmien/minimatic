@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Golden Bowl",
+    "year": 2000,
+    "cast": [
+      "Kate Beckinsale",
+      "James Fox",
+      "Anjelica Huston",
+      "Nick Nolte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-golden-bowl.html"
+}

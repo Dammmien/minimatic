@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tentacles",
+    "year": 1977,
+    "cast": [
+      "John Huston",
+      "Shelley Winters",
+      "Henry Fonda"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/tentacles.html"
+}

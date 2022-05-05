@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Saint in Palm Springs",
+    "year": 1941,
+    "cast": [
+      "George Sanders",
+      "Wendy Barrie"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-saint-in-palm-springs.html"
+}

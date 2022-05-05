@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Adventure in Diamonds",
+    "year": 1940,
+    "cast": [
+      "George Brent",
+      "Isa Miranda",
+      "John Loder"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/adventure-in-diamonds.html"
+}

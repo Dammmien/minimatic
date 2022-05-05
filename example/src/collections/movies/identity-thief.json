@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Identity Thief",
+    "year": 2013,
+    "cast": [
+      "Jason Bateman",
+      "Melissa McCarthy",
+      "Jon Favreau",
+      "Amanda Peet",
+      "T.I.",
+      "Genesis Rodriguez",
+      "Morris Chestnut",
+      "John Cho",
+      "Robert Patrick",
+      "Eric Stonestreet",
+      "Maggie Elizabeth Jones",
+      "Clark Duke",
+      "Ben Falcone"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/identity-thief.html"
+}

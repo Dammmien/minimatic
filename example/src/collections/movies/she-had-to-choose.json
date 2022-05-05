@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "She Had to Choose",
+    "year": 1934,
+    "cast": [
+      "Isabel Jewell",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-had-to-choose.html"
+}

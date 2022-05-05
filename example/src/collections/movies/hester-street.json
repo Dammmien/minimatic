@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hester Street",
+    "year": 1975,
+    "cast": [
+      "Carol Kane",
+      "Steven Keats"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hester-street.html"
+}

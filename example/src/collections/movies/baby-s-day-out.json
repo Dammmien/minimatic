@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Baby's Day Out",
+    "year": 1994,
+    "cast": [
+      "Joe Mantegna",
+      "Lara Flynn Boyle",
+      "Joe Pantoliano",
+      "Brian Haley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/baby-s-day-out.html"
+}

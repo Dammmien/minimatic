@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shadow of Suspicion",
+    "year": 1944,
+    "cast": [
+      "Marjorie Weaver",
+      "Peter Cookson"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/shadow-of-suspicion.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Idol of the Crowds",
+    "year": 1937,
+    "cast": [
+      "John Wayne",
+      "Sheila Bromley"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/idol-of-the-crowds.html"
+}

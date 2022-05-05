@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Gusher",
+    "year": 1951,
+    "cast": [
+      "Wayne Morris",
+      "Preston Foster",
+      "Dorothy Patrick"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-big-gusher.html"
+}

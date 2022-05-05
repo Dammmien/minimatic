@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Adventures in Silverado",
+    "year": 1948,
+    "cast": [
+      "William Bishop",
+      "Gloria Henry",
+      "Edgar Buchanan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/adventures-in-silverado.html"
+}

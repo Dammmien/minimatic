@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild Honey",
+    "year": 1922,
+    "cast": [
+      "Priscilla Dean",
+      "Noah Beery Sr."
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/wild-honey.html"
+}

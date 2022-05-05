@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mister Magoo's Christmas Carol",
+    "year": 1962,
+    "cast": [
+      "Jim Backus",
+      "Morey Amsterdam",
+      "Royal Dano"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/mister-magoo-s-christmas-carol.html"
+}

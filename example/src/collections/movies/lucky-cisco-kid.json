@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lucky Cisco Kid",
+    "year": 1940,
+    "cast": [
+      "Cesar Romero",
+      "Mary Beth Hughes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lucky-cisco-kid.html"
+}

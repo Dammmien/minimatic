@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Marines Are Coming",
+    "year": 1934,
+    "cast": [
+      "William Haines",
+      "Conrad Nagel",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-marines-are-coming.html"
+}

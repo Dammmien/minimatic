@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Prairie Express",
+    "year": 1947,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton",
+      "Virginia Belmont"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/prairie-express.html"
+}

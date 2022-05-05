@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "You Got Served",
+    "year": 2004,
+    "cast": [
+      "Marques Houston",
+      "Omarion Grandberry",
+      "Jennifer Freeman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-got-served.html"
+}

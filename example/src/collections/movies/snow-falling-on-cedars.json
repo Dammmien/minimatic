@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Snow Falling on Cedars",
+    "year": 1999,
+    "cast": [
+      "Ethan Hawke",
+      "Youki Kudoh",
+      "Reeve Carney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/snow-falling-on-cedars.html"
+}

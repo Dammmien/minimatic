@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Jade Mask",
+    "year": 1945,
+    "cast": [
+      "Sidney Toler",
+      "Mantan Moreland"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-jade-mask.html"
+}

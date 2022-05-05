@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bunker Bean",
+    "year": 1936,
+    "cast": [
+      "Owen Davis",
+      "Louise Latimer",
+      "Lucille Ball"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bunker-bean.html"
+}

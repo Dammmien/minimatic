@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Leave It to Beaver",
+    "year": 1997,
+    "cast": [
+      "Christopher McDonald",
+      "Janine Turner"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/leave-it-to-beaver.html"
+}

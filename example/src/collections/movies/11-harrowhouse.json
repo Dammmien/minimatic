@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "11 Harrowhouse",
+    "year": 1974,
+    "cast": [
+      "Charles Grodin",
+      "Candice Bergen",
+      "James Mason",
+      "Trevor Howard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/11-harrowhouse.html"
+}

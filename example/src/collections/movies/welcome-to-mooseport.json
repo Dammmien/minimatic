@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Welcome to Mooseport",
+    "year": 2004,
+    "cast": [
+      "Ray Romano",
+      "Gene Hackman",
+      "Marcia Gay Harden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/welcome-to-mooseport.html"
+}

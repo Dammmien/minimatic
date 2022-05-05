@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Summer Bachelors",
+    "year": 1926,
+    "cast": [
+      "Madge Bellamy",
+      "Allan Forrest"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/summer-bachelors.html"
+}

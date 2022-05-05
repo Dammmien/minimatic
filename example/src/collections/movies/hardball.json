@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hardball",
+    "year": 2001,
+    "cast": [
+      "Keanu Reeves",
+      "Diane Lane",
+      "John Hawkes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hardball.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Animal Kingdom",
+    "year": 1932,
+    "cast": [
+      "Leslie Howard",
+      "Ann Harding",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-animal-kingdom.html"
+}

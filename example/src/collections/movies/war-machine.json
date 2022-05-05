@@ -1,0 +1,31 @@
+{
+  "data": {
+    "title": "War Machine",
+    "year": 2017,
+    "cast": [
+      "Michael Hastings",
+      "(book)",
+      "Brad Pitt",
+      "Anthony Michael Hall",
+      "Topher Grace",
+      "Anthony Hayes",
+      "John Magaro",
+      "Emory Cohen",
+      "Daniel Betts",
+      "Lakeith Stanfield",
+      "RJ Cyler",
+      "Aymen Hamdouchi",
+      "Alan Ruck",
+      "Meg Tilly",
+      "Will Poulter",
+      "Ben Kingsley",
+      "Tilda Swinton"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/war-machine.html"
+}

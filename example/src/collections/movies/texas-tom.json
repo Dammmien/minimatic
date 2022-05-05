@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Texas Tom",
+    "year": 1950,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/texas-tom.html"
+}

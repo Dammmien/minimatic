@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Affairs of Geraldine",
+    "year": 1946,
+    "cast": [
+      "Jane Withers",
+      "Jimmy Lydon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/affairs-of-geraldine.html"
+}

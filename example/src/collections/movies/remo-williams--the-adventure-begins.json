@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Remo Williams: The Adventure Begins",
+    "year": 1985,
+    "cast": [
+      "Fred Ward",
+      "Joel Grey",
+      "Kate Mulgrew"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/remo-williams--the-adventure-begins.html"
+}

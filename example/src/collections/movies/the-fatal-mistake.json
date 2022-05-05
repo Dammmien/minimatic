@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fatal Mistake",
+    "year": 1924,
+    "cast": [
+      "William Fairbanks",
+      "Eva Novak"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-fatal-mistake.html"
+}

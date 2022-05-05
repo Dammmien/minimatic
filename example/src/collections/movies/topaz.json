@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Topaz",
+    "year": 1969,
+    "cast": [
+      "John Forsythe",
+      "Roscoe Lee Browne",
+      "John Vernon"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/topaz.html"
+}

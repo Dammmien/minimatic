@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Skydivers",
+    "year": 1963,
+    "cast": [
+      "Anthony Cardoza",
+      "Jimmy Bryant"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-skydivers.html"
+}

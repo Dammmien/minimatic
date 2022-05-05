@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Exile",
+    "year": 1947,
+    "cast": [
+      "Douglas Fairbanks Jr.",
+      "Maria Montez",
+      "Rita Corday"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-exile.html"
+}

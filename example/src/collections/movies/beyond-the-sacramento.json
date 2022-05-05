@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beyond the Sacramento",
+    "year": 1940,
+    "cast": [
+      "Wild Bill Elliott",
+      "Evelyn Keyes",
+      "Dub Taylor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/beyond-the-sacramento.html"
+}

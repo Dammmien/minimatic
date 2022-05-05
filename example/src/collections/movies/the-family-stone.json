@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Family Stone",
+    "year": 2005,
+    "cast": [
+      "Claire Danes",
+      "Diane Keaton",
+      "Rachel McAdams",
+      "Craig T. Nelson",
+      "Sarah Jessica Parker"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-family-stone.html"
+}

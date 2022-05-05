@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Daniel",
+    "year": 1983,
+    "cast": [
+      "Timothy Hutton",
+      "Mandy Patinkin",
+      "Lindsay Crouse"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/daniel.html"
+}

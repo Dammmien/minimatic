@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Operator 13",
+    "year": 1934,
+    "cast": [
+      "Marion Davies",
+      "Gary Cooper",
+      "The Mills Brothers"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/operator-13.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Geisha Girl",
+    "year": 1952,
+    "cast": [
+      "Steve Forrest",
+      "Martha Hyer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/geisha-girl.html"
+}

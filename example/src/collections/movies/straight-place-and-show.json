@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Straight Place and Show",
+    "year": 1938,
+    "cast": [
+      "Ritz Brothers",
+      "Ethel Merman",
+      "Richard Arlen"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/straight-place-and-show.html"
+}

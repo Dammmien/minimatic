@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Maximum Overdrive",
+    "year": 1986,
+    "cast": [
+      "Emilio Estevez",
+      "Pat Hingle"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/maximum-overdrive.html"
+}

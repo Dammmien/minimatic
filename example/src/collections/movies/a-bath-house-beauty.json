@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Bath House Beauty",
+    "year": 1914,
+    "cast": [
+      "Fatty Arbuckle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-bath-house-beauty.html"
+}

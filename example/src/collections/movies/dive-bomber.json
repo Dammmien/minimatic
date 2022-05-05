@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dive Bomber",
+    "year": 1941,
+    "cast": [
+      "Errol Flynn",
+      "Fred MacMurray"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/dive-bomber.html"
+}

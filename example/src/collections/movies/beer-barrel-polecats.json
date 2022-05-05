@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Beer Barrel Polecats",
+    "year": 1946,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/beer-barrel-polecats.html"
+}

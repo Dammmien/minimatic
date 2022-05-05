@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Accidents Will Happen",
+    "year": 1938,
+    "cast": [
+      "Ronald Reagan",
+      "Gloria Blondell",
+      "Dick Purcell"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/accidents-will-happen.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Arizona Ranger",
+    "year": 1948,
+    "cast": [
+      "Tim Holt",
+      "Jack Holt",
+      "Nan Leslie"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-arizona-ranger.html"
+}

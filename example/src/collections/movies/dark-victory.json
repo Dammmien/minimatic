@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dark Victory",
+    "year": 1939,
+    "cast": [
+      "Bette Davis",
+      "George Brent",
+      "Humphrey Bogart",
+      "Geraldine Fitzgerald",
+      "Ronald Reagan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dark-victory.html"
+}

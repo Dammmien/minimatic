@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mi ultimo amor",
+    "year": 1931,
+    "cast": [
+      "Jose Mojica",
+      "Ana Maria Custodio"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/mi-ultimo-amor.html"
+}

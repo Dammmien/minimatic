@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Blood and Wine",
+    "year": 1996,
+    "cast": [
+      "Jack Nicholson",
+      "Jennifer Lopez",
+      "Stephen Dorff",
+      "Judy Davis",
+      "Michael Caine"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/blood-and-wine.html"
+}

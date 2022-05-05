@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Money Jungle",
+    "year": 1968,
+    "cast": [
+      "Lola Albright",
+      "John Ericson",
+      "Leslie Parrish"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-money-jungle.html"
+}

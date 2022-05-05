@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Unseen Enemy",
+    "year": 1942,
+    "cast": [
+      "Don Terry",
+      "Irene Hervey"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/unseen-enemy.html"
+}

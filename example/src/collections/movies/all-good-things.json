@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "All Good Things",
+    "year": 2010,
+    "cast": [
+      "Ryan Gosling",
+      "Kirsten Dunst",
+      "Frank Langella",
+      "Kristen Wiig",
+      "Philip Baker Hall"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/all-good-things.html"
+}

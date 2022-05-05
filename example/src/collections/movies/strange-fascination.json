@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strange Fascination",
+    "year": 1952,
+    "cast": [
+      "Cleo Moore",
+      "Mona Barrie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/strange-fascination.html"
+}

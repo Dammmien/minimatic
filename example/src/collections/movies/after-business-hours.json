@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "After Business Hours",
+    "year": 1925,
+    "cast": [
+      "Elaine Hammerstein",
+      "Lou Tellegen",
+      "Phyllis Haver"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/after-business-hours.html"
+}

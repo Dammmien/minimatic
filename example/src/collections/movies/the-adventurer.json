@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Adventurer",
+    "year": 1928,
+    "cast": [
+      "Tim McCoy",
+      "Dorothy Sebastian"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-adventurer.html"
+}

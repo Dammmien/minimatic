@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chasing the Moon",
+    "year": 1922,
+    "cast": [
+      "Tom Mix",
+      "Eva Novak"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/chasing-the-moon.html"
+}

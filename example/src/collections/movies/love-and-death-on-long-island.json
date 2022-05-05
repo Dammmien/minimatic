@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love and Death on Long Island",
+    "year": 1997,
+    "cast": [
+      "John Hurt",
+      "Jason Priestley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-and-death-on-long-island.html"
+}

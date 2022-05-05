@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riding High",
+    "year": 1950,
+    "cast": [
+      "Bing Crosby",
+      "Coleen Gray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/riding-high.html"
+}

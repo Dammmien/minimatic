@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Not Guilty",
+    "year": 1921,
+    "cast": [
+      "Sylvia Breamer",
+      "Richard Dix"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/not-guilty.html"
+}

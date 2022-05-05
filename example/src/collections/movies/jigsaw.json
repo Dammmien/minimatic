@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Jigsaw",
+    "year": 2017,
+    "cast": [
+      "Tobin Bell",
+      "Mandela Van Peebles",
+      "Laura Vandervoort",
+      "Brittany Allen",
+      "Callum Keith Rennie",
+      "Matt Passmore"
+    ],
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  "output": "movies/jigsaw.html"
+}

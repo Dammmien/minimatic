@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cruise of the Jasper B",
+    "year": 1926,
+    "cast": [
+      "Rod La Rocque",
+      "Mildred Harris",
+      "Snitz Edwards"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cruise-of-the-jasper-b.html"
+}

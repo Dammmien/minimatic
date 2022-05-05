@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Down on the Farm",
+    "year": 1938,
+    "cast": [
+      "Jed Prouty",
+      "Spring Byington",
+      "Louise Fazenda"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/down-on-the-farm.html"
+}

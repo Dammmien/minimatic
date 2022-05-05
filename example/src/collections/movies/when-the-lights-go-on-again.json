@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When the Lights Go on Again",
+    "year": 1944,
+    "cast": [
+      "Jimmy Lydon",
+      "Regis Toomey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/when-the-lights-go-on-again.html"
+}

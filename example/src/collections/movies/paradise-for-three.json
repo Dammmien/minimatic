@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paradise for Three",
+    "year": 1938,
+    "cast": [
+      "Robert Young",
+      "Mary Astor",
+      "Frank Morgan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/paradise-for-three.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Donald Cried",
+    "year": 2017,
+    "cast": [
+      "Kristopher Avedisian",
+      "Jesse Wakeman",
+      "Louisa Krause",
+      "Ted Arcidi"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/donald-cried.html"
+}

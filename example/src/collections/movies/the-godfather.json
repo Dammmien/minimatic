@@ -1,0 +1,29 @@
+{
+  "data": {
+    "title": "The Godfather",
+    "year": 1972,
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan",
+      "Robert Duvall",
+      "John Cazale",
+      "Diane Keaton",
+      "Talia Shire",
+      "Richard Castellano",
+      "Richard Conte",
+      "Sterling Hayden",
+      "Al Lettieri",
+      "Gianni Russo",
+      "Abe Vigoda",
+      "John Marley",
+      "Alex Rocco",
+      "Al Martino"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-godfather.html"
+}

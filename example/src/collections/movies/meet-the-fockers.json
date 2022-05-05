@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Meet the Fockers",
+    "year": 2004,
+    "cast": [
+      "Ben Stiller",
+      "Robert De Niro",
+      "Teri Polo",
+      "Blythe Danner",
+      "Dustin Hoffman",
+      "Barbra Streisand"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/meet-the-fockers.html"
+}

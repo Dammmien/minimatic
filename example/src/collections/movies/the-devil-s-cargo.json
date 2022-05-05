@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Devil's Cargo",
+    "year": 1925,
+    "cast": [
+      "Wallace Beery",
+      "Pauline Starke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-devil-s-cargo.html"
+}

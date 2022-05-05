@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Marked for Death",
+    "year": 1990,
+    "cast": [
+      "Steven Seagal",
+      "Keith David",
+      "Joanna Pacula"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/marked-for-death.html"
+}

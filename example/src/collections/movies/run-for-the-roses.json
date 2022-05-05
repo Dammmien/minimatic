@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Run for the Roses",
+    "year": 1977,
+    "cast": [
+      "Vera Miles",
+      "Stuart Whitman",
+      "Lisa Eilbacher"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/run-for-the-roses.html"
+}

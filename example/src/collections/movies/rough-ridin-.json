@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rough Ridin'",
+    "year": 1924,
+    "cast": [
+      "Buddy Roosevelt",
+      "Elsa Benham"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rough-ridin-.html"
+}

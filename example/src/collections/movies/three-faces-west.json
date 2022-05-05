@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Faces West",
+    "year": 1940,
+    "cast": [
+      "John Wayne",
+      "Sigrid Gurie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/three-faces-west.html"
+}

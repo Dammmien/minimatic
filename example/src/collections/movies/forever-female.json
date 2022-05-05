@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Forever Female",
+    "year": 1953,
+    "cast": [
+      "Ginger Rogers",
+      "William Holden",
+      "Paul Douglas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/forever-female.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Baby M",
+    "year": 1988,
+    "cast": [
+      "JoBeth Williams",
+      "John Shea",
+      "Bruce Weitz",
+      "Robin Strasser",
+      "Dabney Coleman"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/baby-m.html"
+}

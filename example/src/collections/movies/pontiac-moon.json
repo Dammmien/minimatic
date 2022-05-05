@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pontiac Moon",
+    "year": 1994,
+    "cast": [
+      "Ted Danson",
+      "Mary Steenburgen"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/pontiac-moon.html"
+}

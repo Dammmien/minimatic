@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Werewolf of Washington",
+    "year": 1973,
+    "cast": [
+      "Dean Stockwell"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-werewolf-of-washington.html"
+}

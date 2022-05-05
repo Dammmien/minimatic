@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Joy Luck Club",
+    "year": 1993,
+    "cast": [
+      "Ming-Na",
+      "Rosalind Chao",
+      "Lauren Tom",
+      "Tamlyn Tomita"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-joy-luck-club.html"
+}

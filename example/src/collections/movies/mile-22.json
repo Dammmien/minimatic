@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Mile 22",
+    "year": 2018,
+    "cast": [
+      "Mark Wahlberg",
+      "John Malkovich",
+      "Lauren Cohan",
+      "Iko Uwais",
+      "Ronda Rousey"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/mile-22.html"
+}

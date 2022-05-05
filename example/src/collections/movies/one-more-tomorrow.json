@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One More Tomorrow",
+    "year": 1946,
+    "cast": [
+      "Ann Sheridan",
+      "Jane Wyman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/one-more-tomorrow.html"
+}

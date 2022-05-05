@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Chinese Ring",
+    "year": 1947,
+    "cast": [
+      "Roland Winters",
+      "Warren Douglas"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-chinese-ring.html"
+}

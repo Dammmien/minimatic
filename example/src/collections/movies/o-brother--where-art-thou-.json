@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "O Brother, Where Art Thou?",
+    "year": 2000,
+    "cast": [
+      "George Clooney",
+      "Tim Blake Nelson",
+      "John Turturro",
+      "Holly Hunter",
+      "John Goodman",
+      "Charles Durning"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/o-brother--where-art-thou-.html"
+}

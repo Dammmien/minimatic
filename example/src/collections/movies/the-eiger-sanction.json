@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Eiger Sanction",
+    "year": 1975,
+    "cast": [
+      "Clint Eastwood",
+      "George Kennedy",
+      "Jack Cassidy",
+      "Vonetta McGee",
+      "Gregory Walcott"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-eiger-sanction.html"
+}

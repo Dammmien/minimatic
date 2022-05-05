@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Circus Days",
+    "year": 1923,
+    "cast": [
+      "Jackie Coogan",
+      "Claire McDowell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/circus-days.html"
+}

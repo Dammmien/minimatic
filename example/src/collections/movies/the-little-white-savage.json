@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Little White Savage",
+    "year": 1919,
+    "cast": [
+      "Carmel Myers",
+      "Harry Hilliard"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-little-white-savage.html"
+}

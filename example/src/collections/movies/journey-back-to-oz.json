@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Journey Back to Oz",
+    "year": 1972,
+    "cast": [
+      "Milton Berle",
+      "Herschel Bernardi",
+      "Margaret Hamilton"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/journey-back-to-oz.html"
+}

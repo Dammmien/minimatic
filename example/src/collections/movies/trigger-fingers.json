@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Trigger Fingers",
+    "year": 1946,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton",
+      "Jennifer Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/trigger-fingers.html"
+}

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "title": "New Year's Eve",
+    "year": 2011,
+    "cast": [
+      "Halle Berry",
+      "Jessica Biel",
+      "Jon Bon Jovi",
+      "Abigail Breslin",
+      "Chris \"Ludacris\" Bridges",
+      "Robert De Niro",
+      "Josh Duhamel",
+      "Zac Efron",
+      "Héctor Elizondo",
+      "Katherine Heigl",
+      "Ashton Kutcher",
+      "Seth Meyers",
+      "Lea Michele",
+      "Sarah Jessica Parker",
+      "Michelle Pfeiffer",
+      "Til Schweiger",
+      "Hilary Swank",
+      "Sofía Vergara"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/new-year-s-eve.html"
+}

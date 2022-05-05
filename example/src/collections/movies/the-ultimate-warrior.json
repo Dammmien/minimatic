@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ultimate Warrior",
+    "year": 1975,
+    "cast": [
+      "Yul Brynner",
+      "Max von Sydow",
+      "Joanna Miles"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-ultimate-warrior.html"
+}

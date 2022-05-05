@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ewoks: The Battle for Endor",
+    "year": 1985,
+    "cast": [
+      "Wilford Brimley",
+      "Warwick Davis",
+      "Aubree Miller"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/ewoks--the-battle-for-endor.html"
+}

@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Sausage Party",
+    "year": 2016,
+    "cast": [
+      "Seth Rogen",
+      "Kristen Wiig"
+    ],
+    "genres": []
+  },
+  "output": "movies/sausage-party.html"
+}

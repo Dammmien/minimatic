@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cops",
+    "year": 1922,
+    "cast": [
+      "Buster Keaton",
+      "Virginia Fox"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cops.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Boogie Man Will Get You",
+    "year": 1942,
+    "cast": [
+      "Boris Karloff",
+      "Peter Lorre"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-boogie-man-will-get-you.html"
+}

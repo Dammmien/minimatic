@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "About Cherry",
+    "year": 2012,
+    "cast": [
+      "Ashley Hinshaw",
+      "James Franco",
+      "Dev Patel",
+      "Heather Graham",
+      "Lili Taylor",
+      "Diane Farr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/about-cherry.html"
+}

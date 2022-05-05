@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Abductors",
+    "year": 1957,
+    "cast": [
+      "Victor McLaglen",
+      "George Macready",
+      "Fay Spain"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-abductors.html"
+}

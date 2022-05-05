@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "When Strangers Appear",
+    "year": 2001,
+    "cast": [
+      "Radha Mitchell",
+      "Barry Watson",
+      "Josh Lucas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/when-strangers-appear.html"
+}

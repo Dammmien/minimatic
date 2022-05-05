@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Other Sister",
+    "year": 1999,
+    "cast": [
+      "Juliette Lewis",
+      "Diane Keaton",
+      "Tom Skerritt",
+      "Giovanni Ribisi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-other-sister.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Glorious Lady",
+    "year": 1919,
+    "cast": [
+      "Olive Thomas",
+      "Matt Moore",
+      "Evelyn Brent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-glorious-lady.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Dunston Checks In",
+    "year": 1996,
+    "cast": [
+      "Jason Alexander",
+      "Faye Dunaway",
+      "Paul Reubens",
+      "Eric Lloyd",
+      "Rupert Everett",
+      "Glenn Shadix"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dunston-checks-in.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wake Up and Live",
+    "year": 1937,
+    "cast": [
+      "Patsy Kelly",
+      "Ben Bernie",
+      "Walter Winchell"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/wake-up-and-live.html"
+}

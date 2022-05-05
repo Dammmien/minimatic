@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Power",
+    "year": 1968,
+    "cast": [
+      "Suzanne Pleshette",
+      "George Hamilton"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-power.html"
+}

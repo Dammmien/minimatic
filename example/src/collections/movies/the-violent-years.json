@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Violent Years",
+    "year": 1956,
+    "cast": [
+      "Jean Moorhead"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-violent-years.html"
+}

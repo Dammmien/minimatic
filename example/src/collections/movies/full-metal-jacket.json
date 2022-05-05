@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Full Metal Jacket",
+    "year": 1987,
+    "cast": [
+      "Matthew Modine",
+      "R. Lee Ermey",
+      "Vincent D'Onofrio",
+      "Adam Baldwin",
+      "Dorian Harewood",
+      "Arliss Howard"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/full-metal-jacket.html"
+}

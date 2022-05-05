@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Broadway Gondolier",
+    "year": 1935,
+    "cast": [
+      "Dick Powell",
+      "Joan Blondell",
+      "Adolphe Menjou"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/broadway-gondolier.html"
+}

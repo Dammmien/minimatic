@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "On the Town",
+    "year": 1949,
+    "cast": [
+      "Gene Kelly",
+      "Frank Sinatra",
+      "Ann Miller",
+      "Betty Garrett"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/on-the-town.html"
+}

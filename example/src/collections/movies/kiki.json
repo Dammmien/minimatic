@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kiki",
+    "year": 1931,
+    "cast": [
+      "Mary Pickford",
+      "Reginald Denny"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/kiki.html"
+}

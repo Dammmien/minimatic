@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Return of Sophie Lang",
+    "year": 1936,
+    "cast": [
+      "Gertrude Michael",
+      "Guy Standing",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-return-of-sophie-lang.html"
+}

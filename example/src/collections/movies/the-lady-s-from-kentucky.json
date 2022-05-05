@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lady's from Kentucky",
+    "year": 1939,
+    "cast": [
+      "George Raft",
+      "Ellen Drew"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lady-s-from-kentucky.html"
+}

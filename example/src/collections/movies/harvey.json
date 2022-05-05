@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Harvey",
+    "year": 1950,
+    "cast": [
+      "James Stewart",
+      "Josephine Hull",
+      "Peggy Dow",
+      "Charles Drake",
+      "Cecil Kellaway"
+    ],
+    "genres": [
+      "Fantasy",
+      "Comedy"
+    ]
+  },
+  "output": "movies/harvey.html"
+}

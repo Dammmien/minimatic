@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Burning Words",
+    "year": 1923,
+    "cast": [
+      "Laura La Plante",
+      "Harold Goodwin"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/burning-words.html"
+}

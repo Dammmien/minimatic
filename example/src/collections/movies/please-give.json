@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Please Give",
+    "year": 2010,
+    "cast": [
+      "Catherine Keener",
+      "Amanda Peet",
+      "Oliver Platt",
+      "Rebecca Hall",
+      "Ann Guilbert",
+      "Kevin Corrigan",
+      "Sarah Steele"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/please-give.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Mercy Island",
+    "year": 1941,
+    "cast": [
+      "Gloria Dickson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mercy-island.html"
+}

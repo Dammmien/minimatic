@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Puff, Puff, Pass",
+    "year": 2006,
+    "cast": [
+      "Danny Masterson",
+      "Ronnie Warner",
+      "Mekhi Phifer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/puff--puff--pass.html"
+}

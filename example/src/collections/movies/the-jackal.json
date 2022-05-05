@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Jackal",
+    "year": 1997,
+    "cast": [
+      "Bruce Willis",
+      "Richard Gere",
+      "Sidney Poitier",
+      "Diane Venora"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-jackal.html"
+}

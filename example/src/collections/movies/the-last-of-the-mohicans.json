@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last of the Mohicans",
+    "year": 1992,
+    "cast": [
+      "Daniel Day-Lewis",
+      "Madeleine Stowe"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-last-of-the-mohicans.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "King for a Night",
+    "year": 1933,
+    "cast": [
+      "Chester Morris",
+      "Helen Twelvetrees",
+      "Alice White"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/king-for-a-night.html"
+}

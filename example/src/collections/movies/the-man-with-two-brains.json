@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man with Two Brains",
+    "year": 1983,
+    "cast": [
+      "Steve Martin",
+      "Kathleen Turner"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-man-with-two-brains.html"
+}

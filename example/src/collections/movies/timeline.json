@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Timeline",
+    "year": 2003,
+    "cast": [
+      "Paul Walker",
+      "Frances O'Connor",
+      "Gerard Butler"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/timeline.html"
+}

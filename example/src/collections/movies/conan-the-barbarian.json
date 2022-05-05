@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Conan the Barbarian",
+    "year": 2011,
+    "cast": [
+      "Jason Momoa",
+      "Rachel Nichols",
+      "Stephen Lang",
+      "Rose McGowan",
+      "Saïd Taghmaoui",
+      "Leo Howard",
+      "Bob Sapp",
+      "Ron Perlman",
+      "Steven O'Donnell",
+      "Nonso Anozie"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/conan-the-barbarian.html"
+}

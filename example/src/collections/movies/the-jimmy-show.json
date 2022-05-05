@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Jimmy Show",
+    "year": 2001,
+    "cast": [
+      "Frank Whaley",
+      "Carla Gugino",
+      "Ethan Hawke"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-jimmy-show.html"
+}

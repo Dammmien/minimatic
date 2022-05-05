@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Carnival of Souls",
+    "year": 1962,
+    "cast": [
+      "Candace Hilligoss",
+      "Art Ellison"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/carnival-of-souls.html"
+}

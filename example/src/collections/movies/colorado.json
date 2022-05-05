@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Colorado",
+    "year": 1940,
+    "cast": [
+      "Roy Rogers",
+      "George \"Gabby\" Hayes",
+      "Pauline Moore"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/colorado.html"
+}

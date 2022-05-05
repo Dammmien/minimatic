@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bombers B-52",
+    "year": 1957,
+    "cast": [
+      "Natalie Wood",
+      "Karl Malden",
+      "Efrem Zimbalist Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bombers-b-52.html"
+}

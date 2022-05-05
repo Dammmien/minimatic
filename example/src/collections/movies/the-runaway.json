@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Runaway",
+    "year": 1926,
+    "cast": [
+      "Clara Bow",
+      "Warner Baxter",
+      "William Powell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-runaway.html"
+}

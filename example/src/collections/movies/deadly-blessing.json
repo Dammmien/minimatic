@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Deadly Blessing",
+    "year": 1981,
+    "cast": [
+      "Maren Jensen",
+      "Sharon Stone",
+      "Susan Buckner"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/deadly-blessing.html"
+}

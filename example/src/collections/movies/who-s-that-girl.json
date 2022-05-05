@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Who's That Girl",
+    "year": 1987,
+    "cast": [
+      "Madonna",
+      "Griffin Dunne",
+      "Haviland Morris",
+      "Bibi Besch"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/who-s-that-girl.html"
+}

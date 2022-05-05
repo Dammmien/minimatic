@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Serpent of the Nile",
+    "year": 1953,
+    "cast": [
+      "Rhonda Fleming",
+      "Raymond Burr",
+      "William Lundigan"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/serpent-of-the-nile.html"
+}

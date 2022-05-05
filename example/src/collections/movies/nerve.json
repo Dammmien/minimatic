@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nerve",
+    "year": 2016,
+    "cast": [
+      "Emma Roberts",
+      "Dave Franco"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/nerve.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Rounders",
+    "year": 1965,
+    "cast": [
+      "Henry Fonda",
+      "Glenn Ford",
+      "Chill Wills",
+      "Sue Ane Langdon"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-rounders.html"
+}

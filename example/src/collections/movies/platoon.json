@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Platoon",
+    "year": 1986,
+    "cast": [
+      "Tom Berenger",
+      "Willem Dafoe",
+      "Charlie Sheen"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/platoon.html"
+}

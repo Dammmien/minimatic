@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "There Goes Kelly",
+    "year": 1945,
+    "cast": [
+      "Jackie Moran",
+      "Wanda McKay"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/there-goes-kelly.html"
+}

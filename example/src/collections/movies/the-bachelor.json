@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Bachelor",
+    "year": 1999,
+    "cast": [
+      "Chris O'Donnell",
+      "Renée Zellweger",
+      "Edward Asner"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bachelor.html"
+}

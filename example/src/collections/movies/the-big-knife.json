@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Big Knife",
+    "year": 1955,
+    "cast": [
+      "Jack Palance",
+      "Ida Lupino",
+      "Rod Steiger",
+      "Shelley Winters",
+      "Wendell Corey",
+      "Jean Hagen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-big-knife.html"
+}

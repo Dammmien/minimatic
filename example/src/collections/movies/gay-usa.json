@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gay USA",
+    "year": 1978,
+    "cast": [
+      "Footage of 1977",
+      "gay pride",
+      "events"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/gay-usa.html"
+}

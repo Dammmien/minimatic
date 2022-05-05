@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Son of Belle Starr",
+    "year": 1953,
+    "cast": [
+      "Keith Larsen",
+      "Dona Drake",
+      "Peggie Castle"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/son-of-belle-starr.html"
+}

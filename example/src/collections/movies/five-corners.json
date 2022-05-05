@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Five Corners",
+    "year": 1987,
+    "cast": [
+      "Tim Robbins",
+      "Jodie Foster",
+      "John Turturro"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/five-corners.html"
+}

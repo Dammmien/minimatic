@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Disobedience",
+    "year": 2018,
+    "cast": [
+      "Rachel Weisz",
+      "Rachel McAdams",
+      "Alessandro Nivola"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/disobedience.html"
+}

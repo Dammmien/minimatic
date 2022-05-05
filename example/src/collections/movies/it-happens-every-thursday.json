@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It Happens Every Thursday",
+    "year": 1953,
+    "cast": [
+      "Loretta Young",
+      "John Forsythe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-happens-every-thursday.html"
+}

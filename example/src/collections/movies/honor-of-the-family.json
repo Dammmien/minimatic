@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Honor of the Family",
+    "year": 1931,
+    "cast": [
+      "Bebe Daniels",
+      "Warren William",
+      "Alan Mowbray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/honor-of-the-family.html"
+}

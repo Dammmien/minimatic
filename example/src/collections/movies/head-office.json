@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Head Office",
+    "year": 1985,
+    "cast": [
+      "Judge Reinhold",
+      "Eddie Albert",
+      "Danny DeVito"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/head-office.html"
+}

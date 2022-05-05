@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Son of Ali Baba",
+    "year": 1952,
+    "cast": [
+      "Tony Curtis",
+      "Piper Laurie",
+      "Susan Cabot"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/son-of-ali-baba.html"
+}

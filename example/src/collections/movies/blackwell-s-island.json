@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Blackwell's Island",
+    "year": 1939,
+    "cast": [
+      "John Garfield",
+      "Rosemary Lane",
+      "Dick Purcell",
+      "Victor Jory"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/blackwell-s-island.html"
+}

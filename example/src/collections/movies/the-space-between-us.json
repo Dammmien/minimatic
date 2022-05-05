@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Space Between Us",
+    "year": 2017,
+    "cast": [
+      "Asa Butterfield",
+      "Britt Robertson",
+      "Gary Oldman",
+      "Carla Gugino",
+      "B. D. Wong"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Romance"
+    ]
+  },
+  "output": "movies/the-space-between-us.html"
+}

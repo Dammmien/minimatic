@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Party Crashers",
+    "year": 1958,
+    "cast": [
+      "Frances Farmer",
+      "Doris Dowling",
+      "Connie Stevens"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-party-crashers.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Invincible",
+    "year": 2006,
+    "cast": [
+      "Mark Wahlberg",
+      "Elizabeth Banks"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/invincible.html"
+}

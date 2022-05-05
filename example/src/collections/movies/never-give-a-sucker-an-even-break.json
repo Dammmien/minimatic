@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Never Give a Sucker an Even Break",
+    "year": 1941,
+    "cast": [
+      "W. C. Fields",
+      "Gloria Jean"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/never-give-a-sucker-an-even-break.html"
+}

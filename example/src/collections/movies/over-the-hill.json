@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Over the Hill",
+    "year": 1931,
+    "cast": [
+      "Mae Marsh",
+      "James Dunn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/over-the-hill.html"
+}

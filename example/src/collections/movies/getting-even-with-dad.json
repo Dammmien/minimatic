@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Getting Even with Dad",
+    "year": 1994,
+    "cast": [
+      "Macaulay Culkin",
+      "Ted Danson",
+      "Glenne Headly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/getting-even-with-dad.html"
+}

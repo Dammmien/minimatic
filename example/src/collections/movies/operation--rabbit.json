@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Operation: Rabbit",
+    "year": 1952,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/operation--rabbit.html"
+}

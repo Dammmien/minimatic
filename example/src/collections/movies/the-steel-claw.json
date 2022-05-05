@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Steel Claw",
+    "year": 1961,
+    "cast": [
+      "George Montgomery"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-steel-claw.html"
+}

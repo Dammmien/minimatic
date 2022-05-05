@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Life's a Funny Proposition",
+    "year": 1919,
+    "cast": [
+      "William Desmond",
+      "Louise Lovely"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/life-s-a-funny-proposition.html"
+}

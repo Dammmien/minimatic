@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sword and the Rose",
+    "year": 1953,
+    "cast": [
+      "Glynis Johns",
+      "Richard Todd",
+      "James Robertson Justice"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-sword-and-the-rose.html"
+}

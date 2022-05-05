@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Boxing Helena",
+    "year": 1993,
+    "cast": [
+      "Sherilyn Fenn",
+      "Julian Sands"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/boxing-helena.html"
+}

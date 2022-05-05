@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "year": 2011,
+    "cast": [
+      "Johnny Depp",
+      "Penélope Cruz",
+      "Ian McShane",
+      "Kevin McNally",
+      "and",
+      "Geoffrey Rush"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ]
+  },
+  "output": "movies/pirates-of-the-caribbean--on-stranger-tides.html"
+}

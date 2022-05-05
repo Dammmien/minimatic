@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Motor Patrol",
+    "year": 1950,
+    "cast": [
+      "Don Castle",
+      "Jane Nigh",
+      "Reed Hadley"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/motor-patrol.html"
+}

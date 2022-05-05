@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wedding Bell Blues",
+    "year": 1996,
+    "cast": [
+      "Illeana Douglas",
+      "Paulina Porizkova"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wedding-bell-blues.html"
+}

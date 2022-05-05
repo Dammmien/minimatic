@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Last of the Warrens",
+    "year": 1936,
+    "cast": [
+      "Bob Steele",
+      "Margaret Marquis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/last-of-the-warrens.html"
+}

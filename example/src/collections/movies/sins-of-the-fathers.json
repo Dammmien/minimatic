@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sins of the Fathers",
+    "year": 1928,
+    "cast": [
+      "Emil Jannings",
+      "Ruth Chatterton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sins-of-the-fathers.html"
+}

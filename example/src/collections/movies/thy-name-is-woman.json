@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thy Name Is Woman",
+    "year": 1924,
+    "cast": [
+      "Ramon Novarro",
+      "Barbara La Marr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thy-name-is-woman.html"
+}

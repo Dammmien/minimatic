@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Sioux Massacre",
+    "year": 1965,
+    "cast": [
+      "Joseph Cotten",
+      "Darren McGavin",
+      "Julie Sommars"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-great-sioux-massacre.html"
+}

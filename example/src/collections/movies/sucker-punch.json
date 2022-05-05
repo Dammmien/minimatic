@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Sucker Punch",
+    "year": 2011,
+    "cast": [
+      "Emily Browning",
+      "Abbie Cornish",
+      "Jena Malone",
+      "Vanessa Hudgens",
+      "Jamie Chung",
+      "Oscar Isaac",
+      "Carla Gugino",
+      "Jon Hamm",
+      "Scott Glenn"
+    ],
+    "genres": [
+      "Action",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/sucker-punch.html"
+}

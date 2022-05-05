@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Big Bad Wolf",
+    "year": 2006,
+    "cast": [
+      "Kimberly J. Brown",
+      "Trevor Duke",
+      "Sarah Christine Smith"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/big-bad-wolf.html"
+}

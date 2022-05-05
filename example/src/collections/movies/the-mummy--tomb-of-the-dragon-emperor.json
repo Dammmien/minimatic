@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Mummy: Tomb of the Dragon Emperor",
+    "year": 2008,
+    "cast": [
+      "Brendan Fraser",
+      "Jet Li",
+      "Maria Bello",
+      "John Hannah"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-mummy--tomb-of-the-dragon-emperor.html"
+}

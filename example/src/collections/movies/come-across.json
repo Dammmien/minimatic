@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Come Across",
+    "year": 1929,
+    "cast": [
+      "Lina Basquette",
+      "Reed Howes"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/come-across.html"
+}

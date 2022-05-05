@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Far North",
+    "year": 1988,
+    "cast": [
+      "Jessica Lange",
+      "Charles Durning",
+      "Patricia Arquette"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/far-north.html"
+}

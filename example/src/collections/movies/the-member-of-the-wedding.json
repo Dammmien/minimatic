@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Member of the Wedding",
+    "year": 1997,
+    "cast": [
+      "Anna Paquin",
+      "Alfre Woodard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-member-of-the-wedding.html"
+}

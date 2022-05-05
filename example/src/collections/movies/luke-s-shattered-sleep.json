@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Luke's Shattered Sleep",
+    "year": 1916,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Short",
+      "Comedy"
+    ]
+  },
+  "output": "movies/luke-s-shattered-sleep.html"
+}

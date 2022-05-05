@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nine Hours to Rama",
+    "year": 1963,
+    "cast": [
+      "Horst Buchholz",
+      "José Ferrer",
+      "Diane Baker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/nine-hours-to-rama.html"
+}

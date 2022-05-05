@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Posse from Hell",
+    "year": 1961,
+    "cast": [
+      "Audie Murphy",
+      "Lee Van Cleef",
+      "Vic Morrow"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/posse-from-hell.html"
+}

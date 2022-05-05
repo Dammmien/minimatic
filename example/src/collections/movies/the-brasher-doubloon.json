@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Brasher Doubloon",
+    "year": 1947,
+    "cast": [
+      "George Montgomery",
+      "Nancy Guild"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-brasher-doubloon.html"
+}

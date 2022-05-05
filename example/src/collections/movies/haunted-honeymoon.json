@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Haunted Honeymoon",
+    "year": 1986,
+    "cast": [
+      "Gilda Radner",
+      "Gene Wilder",
+      "Dom DeLuise"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/haunted-honeymoon.html"
+}

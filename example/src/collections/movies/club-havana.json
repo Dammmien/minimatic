@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Club Havana",
+    "year": 1945,
+    "cast": [
+      "Margaret Lindsay",
+      "Tom Neal",
+      "Lita Baron"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/club-havana.html"
+}

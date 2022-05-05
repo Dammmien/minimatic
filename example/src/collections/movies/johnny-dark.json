@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Johnny Dark",
+    "year": 1954,
+    "cast": [
+      "Tony Curtis",
+      "Piper Laurie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/johnny-dark.html"
+}

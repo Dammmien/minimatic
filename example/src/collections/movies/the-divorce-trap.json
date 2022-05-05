@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Divorce Trap",
+    "year": 1919,
+    "cast": [
+      "Gladys Brockwell",
+      "Francis McDonald"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-divorce-trap.html"
+}

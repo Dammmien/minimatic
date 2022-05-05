@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beauty for Sale",
+    "year": 1933,
+    "cast": [
+      "Madge Evans",
+      "Otto Kruger",
+      "Alice Brady"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beauty-for-sale.html"
+}

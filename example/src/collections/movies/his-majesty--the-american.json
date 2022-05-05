@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "His Majesty, the American",
+    "year": 1919,
+    "cast": [
+      "Douglas Fairbanks",
+      "Marjorie Daw"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/his-majesty--the-american.html"
+}

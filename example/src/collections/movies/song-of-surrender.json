@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Song of Surrender",
+    "year": 1949,
+    "cast": [
+      "Wanda Hendrix",
+      "Claude Rains"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/song-of-surrender.html"
+}

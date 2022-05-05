@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "One Man's Way",
+    "year": 1963,
+    "cast": [
+      "Don Murray",
+      "Diana Hyland",
+      "Carol Ohmart",
+      "William Windom",
+      "Veronica Cartwright",
+      "Virginia Sale"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/one-man-s-way.html"
+}

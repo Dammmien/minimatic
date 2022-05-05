@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Phantom of Paris",
+    "year": 1931,
+    "cast": [
+      "John Gilbert",
+      "Leila Hyams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-phantom-of-paris.html"
+}

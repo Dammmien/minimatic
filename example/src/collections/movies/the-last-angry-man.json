@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last Angry Man",
+    "year": 1959,
+    "cast": [
+      "Paul Muni",
+      "David Wayne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-last-angry-man.html"
+}

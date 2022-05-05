@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Girls Just Want to Have Fun",
+    "year": 1985,
+    "cast": [
+      "Sarah Jessica Parker",
+      "Helen Hunt"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/girls-just-want-to-have-fun.html"
+}

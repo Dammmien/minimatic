@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "B.F.'s Daughter",
+    "year": 1948,
+    "cast": [
+      "Barbara Stanwyck",
+      "Van Heflin",
+      "Charles Coburn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/b-f--s-daughter.html"
+}

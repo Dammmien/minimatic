@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Adaptation.",
+    "year": 2002,
+    "cast": [
+      "Nicolas Cage",
+      "Meryl Streep",
+      "Chris Cooper"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/adaptation-.html"
+}

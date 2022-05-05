@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Night in Lisbon",
+    "year": 1941,
+    "cast": [
+      "Fred MacMurray",
+      "Madeleine Carroll",
+      "Patricia Morison"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/one-night-in-lisbon.html"
+}

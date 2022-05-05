@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chain Lightning",
+    "year": 1950,
+    "cast": [
+      "Humphrey Bogart",
+      "Eleanor Parker",
+      "Raymond Massey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/chain-lightning.html"
+}

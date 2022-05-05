@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady of the Night",
+    "year": 1925,
+    "cast": [
+      "Norma Shearer",
+      "Malcolm McGregor"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/lady-of-the-night.html"
+}

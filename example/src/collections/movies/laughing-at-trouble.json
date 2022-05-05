@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Laughing at Trouble",
+    "year": 1936,
+    "cast": [
+      "Jane Darwell",
+      "Allan Lane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/laughing-at-trouble.html"
+}

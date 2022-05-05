@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "From the Terrace",
+    "year": 1960,
+    "cast": [
+      "Paul Newman",
+      "Joanne Woodward",
+      "Myrna Loy",
+      "Ina Balin",
+      "Leon Ames",
+      "George Grizzard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/from-the-terrace.html"
+}

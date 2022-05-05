@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jungle Heat",
+    "year": 1957,
+    "cast": [
+      "Lex Barker",
+      "Mari Blanchard"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/jungle-heat.html"
+}

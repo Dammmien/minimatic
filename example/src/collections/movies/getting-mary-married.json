@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Getting Mary Married",
+    "year": 1919,
+    "cast": [
+      "Marion Davies",
+      "Norman Kerry"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/getting-mary-married.html"
+}

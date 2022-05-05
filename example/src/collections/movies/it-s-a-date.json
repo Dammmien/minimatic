@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It's a Date",
+    "year": 1940,
+    "cast": [
+      "Deanna Durbin",
+      "Kay Francis",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/it-s-a-date.html"
+}

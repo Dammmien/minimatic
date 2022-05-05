@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Woman Racket",
+    "year": 1930,
+    "cast": [
+      "Tom Moore",
+      "Blanche Sweet",
+      "Tenen Holtz"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-woman-racket.html"
+}

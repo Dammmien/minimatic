@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thunder in the Night",
+    "year": 1935,
+    "cast": [
+      "Edmund Lowe",
+      "Karen Morley",
+      "Paul Cavanagh"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/thunder-in-the-night.html"
+}

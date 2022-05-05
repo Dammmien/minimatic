@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Far Frontier",
+    "year": 1948,
+    "cast": [
+      "Roy Rogers",
+      "Clayton Moore",
+      "Gail Davis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-far-frontier.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man in the Rough",
+    "year": 1928,
+    "cast": [
+      "Bob Steele",
+      "Marjorie King"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/man-in-the-rough.html"
+}

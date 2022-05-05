@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "War Is Hell",
+    "year": 1961,
+    "cast": [
+      "Audie Murphy",
+      "Judy Dan"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/war-is-hell.html"
+}

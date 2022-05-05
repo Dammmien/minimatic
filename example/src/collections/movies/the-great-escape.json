@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Great Escape",
+    "year": 1963,
+    "cast": [
+      "Steve McQueen",
+      "James Garner",
+      "Richard Attenborough",
+      "Charles Bronson",
+      "James Coburn",
+      "James Donald",
+      "Donald Pleasence",
+      "David McCallum"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-great-escape.html"
+}

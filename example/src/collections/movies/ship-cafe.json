@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ship Cafe",
+    "year": 1935,
+    "cast": [
+      "Carl Brisson",
+      "Arline Judge",
+      "Mady Christians"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/ship-cafe.html"
+}

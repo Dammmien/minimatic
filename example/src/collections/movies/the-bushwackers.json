@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bushwackers",
+    "year": 1952,
+    "cast": [
+      "John Ireland",
+      "Lawrence Tierney",
+      "Dorothy Malone"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-bushwackers.html"
+}

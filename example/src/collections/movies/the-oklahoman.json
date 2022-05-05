@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Oklahoman",
+    "year": 1957,
+    "cast": [
+      "Joel McCrea",
+      "Barbara Hale",
+      "Brad Dexter"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-oklahoman.html"
+}

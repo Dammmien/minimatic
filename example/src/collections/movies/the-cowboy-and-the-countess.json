@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cowboy and the Countess",
+    "year": 1926,
+    "cast": [
+      "Buck Jones",
+      "Helena D'Algy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-cowboy-and-the-countess.html"
+}

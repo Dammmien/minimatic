@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Immortals",
+    "year": 1995,
+    "cast": [
+      "Eric Roberts",
+      "Tia Carrere",
+      "Tony Curtis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-immortals.html"
+}

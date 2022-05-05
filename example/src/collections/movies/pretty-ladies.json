@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pretty Ladies",
+    "year": 1925,
+    "cast": [
+      "ZaSu Pitts",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/pretty-ladies.html"
+}

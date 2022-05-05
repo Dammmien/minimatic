@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hail Caesar",
+    "year": 1994,
+    "cast": [
+      "Robert Downey, Jr.",
+      "Anthony Michael Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hail-caesar.html"
+}

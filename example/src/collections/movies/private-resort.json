@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Private Resort",
+    "year": 1985,
+    "cast": [
+      "Rob Morrow",
+      "Johnny Depp",
+      "Andrew Clay"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/private-resort.html"
+}

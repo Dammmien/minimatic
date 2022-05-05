@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Condemned Women",
+    "year": 1938,
+    "cast": [
+      "Anne Shirley",
+      "Sally Eilers",
+      "Lee Patrick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/condemned-women.html"
+}

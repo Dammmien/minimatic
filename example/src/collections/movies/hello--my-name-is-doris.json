@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hello, My Name Is Doris",
+    "year": 2016,
+    "cast": [
+      "Sally Field",
+      "Max Greenfield"
+    ],
+    "genres": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hello--my-name-is-doris.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Babes on Swing Street",
+    "year": 1944,
+    "cast": [
+      "Ann Blyth",
+      "Peggy Ryan",
+      "Andy Devine"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/babes-on-swing-street.html"
+}

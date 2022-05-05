@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tramp, Tramp, Tramp",
+    "year": 1926,
+    "cast": [
+      "Harry Langdon",
+      "Joan Crawford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tramp--tramp--tramp.html"
+}

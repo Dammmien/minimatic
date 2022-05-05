@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Rescuing Angel",
+    "year": 1919,
+    "cast": [
+      "Shirley Mason",
+      "Forrest Stanley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-rescuing-angel.html"
+}

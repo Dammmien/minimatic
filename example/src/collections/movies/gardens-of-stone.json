@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Gardens of Stone",
+    "year": 1987,
+    "cast": [
+      "James Caan",
+      "Anjelica Huston",
+      "James Earl Jones",
+      "D. B. Sweeney",
+      "Mary Stuart Masterson",
+      "Dean Stockwell"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/gardens-of-stone.html"
+}

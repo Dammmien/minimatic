@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flags of Our Fathers",
+    "year": 2006,
+    "cast": [
+      "Ryan Phillippe",
+      "Jesse Bradford",
+      "Adam Beach"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/flags-of-our-fathers.html"
+}

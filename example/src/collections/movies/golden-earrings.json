@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Golden Earrings",
+    "year": 1947,
+    "cast": [
+      "Ray Milland",
+      "Marlene Dietrich"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/golden-earrings.html"
+}

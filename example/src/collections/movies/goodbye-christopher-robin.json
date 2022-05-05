@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Goodbye Christopher Robin",
+    "year": 2017,
+    "cast": [
+      "Domhnall Gleeson",
+      "Margot Robbie",
+      "Kelly Macdonald"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/goodbye-christopher-robin.html"
+}

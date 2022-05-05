@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rhythm of the Islands",
+    "year": 1943,
+    "cast": [
+      "Jane Frazee",
+      "Allan Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rhythm-of-the-islands.html"
+}

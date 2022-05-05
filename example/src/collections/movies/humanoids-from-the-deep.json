@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Humanoids from the Deep",
+    "year": 1980,
+    "cast": [
+      "Doug McClure",
+      "Vic Morrow",
+      "Ann Turkel"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/humanoids-from-the-deep.html"
+}

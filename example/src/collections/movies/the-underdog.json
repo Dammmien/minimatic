@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Underdog",
+    "year": 1943,
+    "cast": [
+      "Barton MacLane",
+      "Jan Wiley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-underdog.html"
+}

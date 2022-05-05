@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Magic Magic",
+    "year": 2013,
+    "cast": [
+      "Juno Temple",
+      "Emily Browning",
+      "Michael Cera"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/magic-magic.html"
+}

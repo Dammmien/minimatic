@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mask of the Dragon",
+    "year": 1951,
+    "cast": [
+      "Richard Travis",
+      "Sheila Ryan",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/mask-of-the-dragon.html"
+}

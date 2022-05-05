@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dr. Gillespie's Criminal Case",
+    "year": 1943,
+    "cast": [
+      "Lionel Barrymore",
+      "Van Johnson",
+      "Margaret O'Brien"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dr--gillespie-s-criminal-case.html"
+}

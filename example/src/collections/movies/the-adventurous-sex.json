@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Adventurous Sex",
+    "year": 1925,
+    "cast": [
+      "Clara Bow",
+      "Herbert Rawlinson"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-adventurous-sex.html"
+}

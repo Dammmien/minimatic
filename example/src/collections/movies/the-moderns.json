@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Moderns",
+    "year": 1988,
+    "cast": [
+      "Keith Carradine",
+      "Linda Fiorentino",
+      "Genevieve Bujold",
+      "John Lone",
+      "Geraldine Chaplin",
+      "Kevin J. O'Connor"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-moderns.html"
+}

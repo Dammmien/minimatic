@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mr. Ricco",
+    "year": 1975,
+    "cast": [
+      "Dean Martin"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/mr--ricco.html"
+}

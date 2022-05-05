@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Little Big League",
+    "year": 1994,
+    "cast": [
+      "Luke Edwards",
+      "Timothy Busfield",
+      "Dennis Farina"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-big-league.html"
+}

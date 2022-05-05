@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pick-Up",
+    "year": 1933,
+    "cast": [
+      "Sylvia Sidney",
+      "George Raft"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pick-up.html"
+}

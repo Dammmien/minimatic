@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cadillac Records",
+    "year": 2008,
+    "cast": [
+      "Adrien Brody",
+      "Jeffrey Wright",
+      "Beyoncé Knowles"
+    ],
+    "genres": [
+      "Biography",
+      "Musical"
+    ]
+  },
+  "output": "movies/cadillac-records.html"
+}

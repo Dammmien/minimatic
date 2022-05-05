@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wild in the Streets",
+    "year": 1968,
+    "cast": [
+      "Christopher Jones",
+      "Hal Holbrook",
+      "Shelley Winters",
+      "Richard Pryor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wild-in-the-streets.html"
+}

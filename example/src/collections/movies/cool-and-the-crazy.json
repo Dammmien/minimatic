@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cool and the Crazy",
+    "year": 1994,
+    "cast": [
+      "Jennifer Blanc",
+      "Jared Leto"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cool-and-the-crazy.html"
+}

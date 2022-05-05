@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Strange Confession",
+    "year": 1945,
+    "cast": [
+      "Lon Chaney Jr.",
+      "Brenda Joyce"
+    ],
+    "genres": []
+  },
+  "output": "movies/strange-confession.html"
+}

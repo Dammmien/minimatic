@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bus Riley's Back in Town",
+    "year": 1965,
+    "cast": [
+      "Ann-Margret",
+      "Michael Parks",
+      "Kim Darby",
+      "Janet Margolin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bus-riley-s-back-in-town.html"
+}

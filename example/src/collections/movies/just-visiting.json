@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Just Visiting",
+    "year": 2001,
+    "cast": [
+      "Jean Reno",
+      "Christina Applegate",
+      "Christian Clavier"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/just-visiting.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Prodigal Judge",
+    "year": 1922,
+    "cast": [
+      "Jean Paige",
+      "Earle Foxe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-prodigal-judge.html"
+}

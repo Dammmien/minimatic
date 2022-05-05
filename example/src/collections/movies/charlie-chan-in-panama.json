@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Charlie Chan in Panama",
+    "year": 1940,
+    "cast": [
+      "Sidney Toler",
+      "Jean Rogers",
+      "Lionel Atwill"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/charlie-chan-in-panama.html"
+}

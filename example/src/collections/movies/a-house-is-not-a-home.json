@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A House Is Not a Home",
+    "year": 1964,
+    "cast": [
+      "Shelley Winters",
+      "Robert Taylor",
+      "Cesar Romero",
+      "Broderick Crawford",
+      "Kaye Ballard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-house-is-not-a-home.html"
+}

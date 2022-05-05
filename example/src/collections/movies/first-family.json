@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "First Family",
+    "year": 1980,
+    "cast": [
+      "Bob Newhart",
+      "Madeline Kahn",
+      "Gilda Radner",
+      "Richard Benjamin",
+      "Fred Willard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/first-family.html"
+}

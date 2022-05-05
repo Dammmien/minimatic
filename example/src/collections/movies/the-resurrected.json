@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Resurrected",
+    "year": 1992,
+    "cast": [
+      "Chris Sarandon",
+      "John Terry"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-resurrected.html"
+}

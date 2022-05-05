@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Left Hand of God",
+    "year": 1955,
+    "cast": [
+      "Humphrey Bogart",
+      "Gene Tierney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-left-hand-of-god.html"
+}

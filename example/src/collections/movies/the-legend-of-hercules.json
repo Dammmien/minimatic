@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Legend of Hercules",
+    "year": 2014,
+    "cast": [
+      "Kellan Lutz",
+      "Gaia Weiss",
+      "Scott Adkins"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-legend-of-hercules.html"
+}

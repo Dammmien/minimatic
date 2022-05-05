@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Going Up",
+    "year": 1923,
+    "cast": [
+      "Douglas MacLean",
+      "Edna Murphy",
+      "Francis McDonald"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/going-up.html"
+}

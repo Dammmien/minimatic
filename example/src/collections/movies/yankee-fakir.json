@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yankee Fakir",
+    "year": 1947,
+    "cast": [
+      "Douglas Fowley",
+      "Joan Woodbury"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/yankee-fakir.html"
+}

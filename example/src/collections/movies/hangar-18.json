@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hangar 18",
+    "year": 1980,
+    "cast": [
+      "Gary Collins",
+      "Darren McGavin",
+      "Robert Vaughn"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/hangar-18.html"
+}

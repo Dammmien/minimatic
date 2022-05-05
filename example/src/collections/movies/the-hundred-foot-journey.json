@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Hundred-Foot Journey",
+    "year": 2014,
+    "cast": [
+      "Helen Mirren",
+      "Om Puri",
+      "Manish Dayal",
+      "Charlotte Le Bon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-hundred-foot-journey.html"
+}

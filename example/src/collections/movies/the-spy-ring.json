@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Spy Ring",
+    "year": 1938,
+    "cast": [
+      "Jane Wyman",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-spy-ring.html"
+}

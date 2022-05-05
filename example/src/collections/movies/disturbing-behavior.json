@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Disturbing Behavior",
+    "year": 1998,
+    "cast": [
+      "James Marsden",
+      "Katie Holmes",
+      "Nick Stahl",
+      "William Sadler"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/disturbing-behavior.html"
+}

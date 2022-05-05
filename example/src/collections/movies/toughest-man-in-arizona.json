@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Toughest Man in Arizona",
+    "year": 1952,
+    "cast": [
+      "Vaughn Monroe",
+      "Joan Leslie"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/toughest-man-in-arizona.html"
+}

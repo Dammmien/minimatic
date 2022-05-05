@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Little Miss Roughneck",
+    "year": 1938,
+    "cast": [
+      "Edith Fellows",
+      "Julie Bishop",
+      "Leo Carrillo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-miss-roughneck.html"
+}

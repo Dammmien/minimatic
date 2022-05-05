@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Call Me Mister",
+    "year": 1951,
+    "cast": [
+      "Betty Grable",
+      "Dan Dailey"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/call-me-mister.html"
+}

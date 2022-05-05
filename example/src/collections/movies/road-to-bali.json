@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Road to Bali",
+    "year": 1952,
+    "cast": [
+      "Bing Crosby",
+      "Bob Hope",
+      "Dorothy Lamour"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/road-to-bali.html"
+}

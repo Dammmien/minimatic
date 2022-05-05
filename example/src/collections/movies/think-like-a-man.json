@@ -1,0 +1,33 @@
+{
+  "data": {
+    "title": "Think Like a Man",
+    "year": 2012,
+    "cast": [
+      "Michael Ealy",
+      "Jerry Ferrara",
+      "Meagan Good",
+      "Regina Hall",
+      "Kevin Hart",
+      "Taraji P. Henson",
+      "Terrence J",
+      "Romany Malco",
+      "Gabrielle Union",
+      "Steve Harvey",
+      "Gary Owen",
+      "Chris Brown",
+      "Wendy Williams",
+      "Tony Rock",
+      "La La Anthony",
+      "Sherri Shepherd",
+      "Tika Sumpter",
+      "Keri Hilson",
+      "Kelly Rowland",
+      "Jenifer Lewis"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/think-like-a-man.html"
+}

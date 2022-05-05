@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Grateful Dead: So Far",
+    "year": 1987,
+    "cast": [
+      "The Grateful Dead"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/grateful-dead--so-far.html"
+}

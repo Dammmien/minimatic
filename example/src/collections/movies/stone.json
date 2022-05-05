@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stone",
+    "year": 2010,
+    "cast": [
+      "Robert De Niro",
+      "Edward Norton",
+      "Milla Jovovich"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/stone.html"
+}

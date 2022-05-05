@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Stanley and Livingstone",
+    "year": 1939,
+    "cast": [
+      "Spencer Tracy",
+      "Nancy Kelly",
+      "Richard Greene"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/stanley-and-livingstone.html"
+}

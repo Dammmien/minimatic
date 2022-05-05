@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Apache",
+    "year": 1954,
+    "cast": [
+      "Burt Lancaster",
+      "Jean Peters",
+      "John McIntire",
+      "Charles Bronson",
+      "John Dehner"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/apache.html"
+}

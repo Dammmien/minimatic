@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That Old Feeling",
+    "year": 1997,
+    "cast": [
+      "Bette Midler",
+      "Dennis Farina"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-old-feeling.html"
+}

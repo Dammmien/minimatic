@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dark Tide",
+    "year": 2012,
+    "cast": [
+      "Halle Berry",
+      "Olivier Martinez",
+      "Ralph Brown",
+      "Luke Tyler",
+      "Mark Elderkin"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/dark-tide.html"
+}

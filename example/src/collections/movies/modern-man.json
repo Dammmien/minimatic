@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Modern Man",
+    "year": 2006,
+    "cast": [
+      "Eric Becker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/modern-man.html"
+}

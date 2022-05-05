@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Billy's Hollywood Screen Kiss",
+    "year": 1998,
+    "cast": [
+      "Sean Hayes",
+      "Brad Rowe",
+      "Paul Bartel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/billy-s-hollywood-screen-kiss.html"
+}

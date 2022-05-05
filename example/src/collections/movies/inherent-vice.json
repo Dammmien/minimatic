@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Inherent Vice",
+    "year": 2014,
+    "cast": [
+      "Joaquin Phoenix",
+      "Owen Wilson",
+      "Reese Witherspoon",
+      "Benicio del Toro"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/inherent-vice.html"
+}

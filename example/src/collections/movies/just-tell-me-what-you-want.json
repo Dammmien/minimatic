@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Just Tell Me What You Want",
+    "year": 1980,
+    "cast": [
+      "Alan King",
+      "Ali MacGraw",
+      "Peter Weller",
+      "Myrna Loy",
+      "Keenan Wynn",
+      "Dina Merrill"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/just-tell-me-what-you-want.html"
+}

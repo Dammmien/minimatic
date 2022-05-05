@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "West of Shanghai",
+    "year": 1937,
+    "cast": [
+      "Boris Karloff",
+      "Ricardo Cortez",
+      "Beverly Roberts"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/west-of-shanghai.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Rejected Woman",
+    "year": 1924,
+    "cast": [
+      "Alma Rubens",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-rejected-woman.html"
+}

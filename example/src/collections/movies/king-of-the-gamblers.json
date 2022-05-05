@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "King of the Gamblers",
+    "year": 1948,
+    "cast": [
+      "Janet Martin",
+      "Stephanie Bachelor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/king-of-the-gamblers.html"
+}

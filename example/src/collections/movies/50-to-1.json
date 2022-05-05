@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "50 to 1",
+    "year": 2014,
+    "cast": [
+      "Christian Kane",
+      "William Devane",
+      "Skeet Ulrich"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/50-to-1.html"
+}

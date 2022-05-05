@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Human Stain",
+    "year": 2003,
+    "cast": [
+      "Anthony Hopkins",
+      "Nicole Kidman"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-human-stain.html"
+}

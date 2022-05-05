@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sun Comes Up",
+    "year": 1949,
+    "cast": [
+      "Jeanette MacDonald",
+      "Claude Jarman Jr."
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-sun-comes-up.html"
+}

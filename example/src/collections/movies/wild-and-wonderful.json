@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild and Wonderful",
+    "year": 1964,
+    "cast": [
+      "Tony Curtis",
+      "Christine Kaufmann"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/wild-and-wonderful.html"
+}

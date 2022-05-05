@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Man Bites Dog",
+    "year": 1992,
+    "cast": [
+      "Benoit Poelvoorde"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/man-bites-dog.html"
+}

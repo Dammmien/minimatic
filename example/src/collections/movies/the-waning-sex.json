@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Waning Sex",
+    "year": 1926,
+    "cast": [
+      "Norma Shearer",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-waning-sex.html"
+}

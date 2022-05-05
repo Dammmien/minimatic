@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Love Thief",
+    "year": 1928,
+    "cast": [
+      "Norman Kerry",
+      "Greta Nissen",
+      "Marc MacDermott"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-love-thief.html"
+}

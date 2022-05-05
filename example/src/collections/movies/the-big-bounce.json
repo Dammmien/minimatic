@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Big Bounce",
+    "year": 2004,
+    "cast": [
+      "Owen Wilson",
+      "Morgan Freeman",
+      "Gary Sinise",
+      "Sara Foster",
+      "Bebe Neuwirth",
+      "Charlie Sheen"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-big-bounce.html"
+}

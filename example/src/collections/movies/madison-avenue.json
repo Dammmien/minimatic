@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Madison Avenue",
+    "year": 1962,
+    "cast": [
+      "Dana Andrews",
+      "Eleanor Parker",
+      "Jeanne Crain"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/madison-avenue.html"
+}

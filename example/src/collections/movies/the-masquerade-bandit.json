@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Masquerade Bandit",
+    "year": 1926,
+    "cast": [
+      "Tom Tyler",
+      "Dorothy Dunbar",
+      "Ethan Laidlaw"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-masquerade-bandit.html"
+}

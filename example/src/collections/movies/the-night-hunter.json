@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Night Hunter",
+    "year": 1996,
+    "cast": [
+      "Don \"The Dragon\" Wilson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-night-hunter.html"
+}

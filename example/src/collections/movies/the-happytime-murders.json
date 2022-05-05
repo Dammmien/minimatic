@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Happytime Murders",
+    "year": 2018,
+    "cast": [
+      "Melissa McCarthy",
+      "Maya Rudolph",
+      "Joel McHale",
+      "Elizabeth Banks"
+    ],
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-happytime-murders.html"
+}

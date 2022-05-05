@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Born to Be Loved",
+    "year": 1959,
+    "cast": [
+      "Carol Morris",
+      "Dick Kallman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/born-to-be-loved.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Girl from Alaska",
+    "year": 1942,
+    "cast": [
+      "Jean Parker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-girl-from-alaska.html"
+}

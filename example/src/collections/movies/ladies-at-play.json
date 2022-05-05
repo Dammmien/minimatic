@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ladies at Play",
+    "year": 1926,
+    "cast": [
+      "Doris Kenyon",
+      "Lloyd Hughes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ladies-at-play.html"
+}

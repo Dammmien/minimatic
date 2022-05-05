@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "300",
+    "year": 2007,
+    "cast": [
+      "Gerard Butler",
+      "Lena Headey",
+      "David Wenham"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/300.html"
+}

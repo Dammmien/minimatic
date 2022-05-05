@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rose o' the River",
+    "year": 1919,
+    "cast": [
+      "Lila Lee",
+      "George Fisher"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rose-o--the-river.html"
+}

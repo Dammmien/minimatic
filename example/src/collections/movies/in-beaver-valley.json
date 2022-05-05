@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "In Beaver Valley",
+    "year": 1950,
+    "cast": [
+      "Winston Hibler"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/in-beaver-valley.html"
+}

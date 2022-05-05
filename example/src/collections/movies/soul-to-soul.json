@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Soul to Soul",
+    "year": 1971,
+    "cast": [
+      "Tina Turner",
+      "Ike Turner",
+      "Carlos Santana"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/soul-to-soul.html"
+}

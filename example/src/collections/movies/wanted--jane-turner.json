@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wanted! Jane Turner",
+    "year": 1936,
+    "cast": [
+      "Ann Preston",
+      "Lee Tracy",
+      "John McGuire"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/wanted--jane-turner.html"
+}

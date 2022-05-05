@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cytherea",
+    "year": 1924,
+    "cast": [
+      "Irene Rich",
+      "Alma Rubens",
+      "Constance Bennett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cytherea.html"
+}

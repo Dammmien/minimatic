@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fountainhead",
+    "year": 1949,
+    "cast": [
+      "Gary Cooper",
+      "Patricia Neal",
+      "Raymond Massey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fountainhead.html"
+}

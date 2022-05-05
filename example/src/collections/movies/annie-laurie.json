@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Annie Laurie",
+    "year": 1927,
+    "cast": [
+      "Lillian Gish",
+      "Norman Kerry"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/annie-laurie.html"
+}

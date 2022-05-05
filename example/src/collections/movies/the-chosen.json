@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Chosen",
+    "year": 1981,
+    "cast": [
+      "Maximilian Schell",
+      "Rod Steiger",
+      "Robby Benson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-chosen.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Waiting for Guffman",
+    "year": 1997,
+    "cast": [
+      "Eugene Levy",
+      "Catherine O'Hara",
+      "Christopher Guest",
+      "Fred Willard",
+      "Parker Posey"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/waiting-for-guffman.html"
+}

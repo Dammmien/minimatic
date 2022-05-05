@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bad Boy",
+    "year": 1917,
+    "cast": [
+      "Robert Harron",
+      "Richard Cummings"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bad-boy.html"
+}

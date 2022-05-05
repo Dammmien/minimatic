@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Miss Grant Takes Richmond",
+    "year": 1949,
+    "cast": [
+      "Lucille Ball",
+      "William Holden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/miss-grant-takes-richmond.html"
+}

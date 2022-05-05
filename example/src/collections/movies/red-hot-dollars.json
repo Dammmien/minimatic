@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Red Hot Dollars",
+    "year": 1919,
+    "cast": [
+      "Charles Ray",
+      "Gladys George"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/red-hot-dollars.html"
+}

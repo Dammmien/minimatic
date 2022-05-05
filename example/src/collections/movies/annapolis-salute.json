@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Annapolis Salute",
+    "year": 1937,
+    "cast": [
+      "James Ellison",
+      "Marsha Hunt",
+      "Van Heflin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/annapolis-salute.html"
+}

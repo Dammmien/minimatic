@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Yellow Rose of Texas",
+    "year": 1944,
+    "cast": [
+      "Roy Rogers",
+      "Dale Evans",
+      "Trigger"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-yellow-rose-of-texas.html"
+}

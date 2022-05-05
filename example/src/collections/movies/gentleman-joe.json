@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Gentleman Joe",
+    "year": 1910,
+    "cast": [
+      "Harry Carey"
+    ],
+    "genres": []
+  },
+  "output": "movies/gentleman-joe.html"
+}

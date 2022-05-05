@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl Problem",
+    "year": 1919,
+    "cast": [
+      "Corinne Griffith",
+      "Agnes Ayres"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-girl-problem.html"
+}

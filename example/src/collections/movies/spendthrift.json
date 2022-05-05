@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Spendthrift",
+    "year": 1936,
+    "cast": [
+      "Henry Fonda",
+      "Pat Paterson",
+      "Mary Brian"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/spendthrift.html"
+}

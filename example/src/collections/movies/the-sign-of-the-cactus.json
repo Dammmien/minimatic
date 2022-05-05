@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sign of the Cactus",
+    "year": 1925,
+    "cast": [
+      "Jack Hoxie",
+      "Helen Holmes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-sign-of-the-cactus.html"
+}

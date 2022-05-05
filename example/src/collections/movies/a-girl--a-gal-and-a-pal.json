@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Girl, A Gal and a Pal",
+    "year": 1945,
+    "cast": [
+      "Ross Hunter",
+      "Lynn Merrick",
+      "Ted Donaldson"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-girl--a-gal-and-a-pal.html"
+}

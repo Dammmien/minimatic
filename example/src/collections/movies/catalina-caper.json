@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Catalina Caper",
+    "year": 1967,
+    "cast": [
+      "Tommy Kirk",
+      "Robert Donner",
+      "Lyle Waggoner"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/catalina-caper.html"
+}

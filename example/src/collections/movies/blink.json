@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Blink",
+    "year": 1994,
+    "cast": [
+      "Madeleine Stowe",
+      "Aidan Quinn",
+      "James Remar",
+      "Laurie Metcalf"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/blink.html"
+}

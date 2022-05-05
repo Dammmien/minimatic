@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Invitation to a Gunfighter",
+    "year": 1964,
+    "cast": [
+      "Yul Brynner",
+      "Janice Rule",
+      "George Segal"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/invitation-to-a-gunfighter.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dangerous Fists",
+    "year": 1925,
+    "cast": [
+      "Jack Perrin",
+      "Nelson McDowell"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/dangerous-fists.html"
+}

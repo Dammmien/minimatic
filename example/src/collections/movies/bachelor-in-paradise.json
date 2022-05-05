@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bachelor in Paradise",
+    "year": 1961,
+    "cast": [
+      "Bob Hope",
+      "Lana Turner",
+      "Paula Prentiss",
+      "Janis Paige"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bachelor-in-paradise.html"
+}

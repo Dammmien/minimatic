@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Halloween: Resurrection",
+    "year": 2002,
+    "cast": [
+      "Busta Rhymes",
+      "Bianca Kajlich",
+      "Thomas Ian Nicholas",
+      "Tyra Banks",
+      "Sean Patrick Thomas"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/halloween--resurrection.html"
+}

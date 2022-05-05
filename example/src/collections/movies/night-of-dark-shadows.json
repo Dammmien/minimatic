@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Night of Dark Shadows",
+    "year": 1971,
+    "cast": [
+      "Kate Jackson",
+      "David Selby",
+      "Lara Parker"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/night-of-dark-shadows.html"
+}

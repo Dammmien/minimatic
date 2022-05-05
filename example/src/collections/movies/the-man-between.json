@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Between",
+    "year": 1923,
+    "cast": [
+      "Allan Forrest",
+      "Edna Murphy"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-man-between.html"
+}

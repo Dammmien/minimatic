@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blind Husbands",
+    "year": 1919,
+    "cast": [
+      "Erich von Stroheim",
+      "Francelia Billington"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/blind-husbands.html"
+}

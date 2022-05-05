@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tickle Me",
+    "year": 1965,
+    "cast": [
+      "Elvis Presley",
+      "Julie Adams",
+      "Jocelyn Lane"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/tickle-me.html"
+}

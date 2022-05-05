@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Safari Drums",
+    "year": 1953,
+    "cast": [
+      "Johnny Sheffield",
+      "Douglas Kennedy"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/safari-drums.html"
+}

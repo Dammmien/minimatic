@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Year to Live",
+    "year": 1925,
+    "cast": [
+      "Aileen Pringle",
+      "Dorothy Mackaill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/one-year-to-live.html"
+}

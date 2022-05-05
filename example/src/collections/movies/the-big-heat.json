@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Heat",
+    "year": 1953,
+    "cast": [
+      "Glenn Ford",
+      "Gloria Grahame",
+      "Lee Marvin"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-big-heat.html"
+}

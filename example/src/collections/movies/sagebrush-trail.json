@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sagebrush Trail",
+    "year": 1933,
+    "cast": [
+      "John Wayne",
+      "Lane Chandler"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sagebrush-trail.html"
+}

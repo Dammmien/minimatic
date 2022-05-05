@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Outcast",
+    "year": 1937,
+    "cast": [
+      "Warren William",
+      "Karen Morley",
+      "Lewis Stone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/outcast.html"
+}

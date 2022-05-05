@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love, Loot and Crash",
+    "year": 1915,
+    "cast": [
+      "Charley Chase",
+      "Dora Rodgers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love--loot-and-crash.html"
+}

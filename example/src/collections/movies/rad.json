@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rad",
+    "year": 1986,
+    "cast": [
+      "Bill Allen",
+      "Lori Loughlin",
+      "Talia Shire"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/rad.html"
+}

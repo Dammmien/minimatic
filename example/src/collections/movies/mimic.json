@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Mimic",
+    "year": 1997,
+    "cast": [
+      "Mira Sorvino",
+      "Jeremy Northam",
+      "Josh Brolin",
+      "Charles S. Dutton",
+      "Giancarlo Giannini",
+      "F. Murray Abraham"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/mimic.html"
+}

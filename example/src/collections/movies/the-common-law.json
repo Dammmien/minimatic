@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Common Law",
+    "year": 1931,
+    "cast": [
+      "Constance Bennett",
+      "Joel McCrea",
+      "Hedda Hopper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-common-law.html"
+}

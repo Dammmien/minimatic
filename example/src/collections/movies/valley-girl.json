@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Valley Girl",
+    "year": 1983,
+    "cast": [
+      "Nicolas Cage",
+      "Deborah Foreman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/valley-girl.html"
+}

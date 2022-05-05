@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Take a Chance",
+    "year": 1933,
+    "cast": [
+      "James Dunn",
+      "June Knight"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/take-a-chance.html"
+}

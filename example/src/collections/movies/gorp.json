@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gorp",
+    "year": 1980,
+    "cast": [
+      "Dennis Quaid",
+      "Michael Lembeck",
+      "Rosanna Arquette"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gorp.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tarnished Angel",
+    "year": 1938,
+    "cast": [
+      "Sally Eilers",
+      "Ann Miller",
+      "Paul Guilfoyle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tarnished-angel.html"
+}

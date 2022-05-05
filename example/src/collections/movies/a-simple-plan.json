@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Simple Plan",
+    "year": 1998,
+    "cast": [
+      "Billy Bob Thornton",
+      "Bridget Fonda",
+      "Bill Paxton",
+      "Gary Cole"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-simple-plan.html"
+}

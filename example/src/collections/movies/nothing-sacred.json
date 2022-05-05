@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nothing Sacred",
+    "year": 1937,
+    "cast": [
+      "Carole Lombard",
+      "Fredric March",
+      "Walter Connolly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nothing-sacred.html"
+}

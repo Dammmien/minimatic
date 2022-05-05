@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jungle Man-Eaters",
+    "year": 1954,
+    "cast": [
+      "Johnny Weissmuller",
+      "Karin Booth"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/jungle-man-eaters.html"
+}

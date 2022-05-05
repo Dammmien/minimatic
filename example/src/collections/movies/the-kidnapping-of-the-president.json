@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Kidnapping of the President",
+    "year": 1980,
+    "cast": [
+      "Ava Gardner",
+      "Van Johnson",
+      "William Shatner"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-kidnapping-of-the-president.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fugitive Sheriff",
+    "year": 1936,
+    "cast": [
+      "Ken Maynard",
+      "Beth Marion"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fugitive-sheriff.html"
+}

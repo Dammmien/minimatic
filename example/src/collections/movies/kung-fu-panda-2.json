@@ -1,0 +1,29 @@
+{
+  "data": {
+    "title": "Kung Fu Panda 2",
+    "year": 2011,
+    "cast": [
+      "Jack Black",
+      "Dustin Hoffman",
+      "Angelina Jolie",
+      "Ian McShane",
+      "Seth Rogen",
+      "Lucy Liu",
+      "David Cross",
+      "James Hong",
+      "Jackie Chan",
+      "Victor Garber",
+      "Michelle Yeoh",
+      "Dennis Haysbert",
+      "Gary Oldman",
+      "Danny McBride",
+      "James Woods",
+      "Jean-Claude Van Damme"
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/kung-fu-panda-2.html"
+}

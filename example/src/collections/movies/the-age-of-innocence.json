@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Age of Innocence",
+    "year": 1993,
+    "cast": [
+      "Daniel Day-Lewis",
+      "Michelle Pfeiffer",
+      "Winona Ryder"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-age-of-innocence.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Vacation in Reno",
+    "year": 1946,
+    "cast": [
+      "Jack Haley",
+      "Anne Jeffreys"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/vacation-in-reno.html"
+}

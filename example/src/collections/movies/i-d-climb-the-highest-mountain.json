@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I'd Climb the Highest Mountain",
+    "year": 1951,
+    "cast": [
+      "William Lundigan",
+      "Susan Hayward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-d-climb-the-highest-mountain.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wrecker",
+    "year": 1933,
+    "cast": [
+      "Jack Holt",
+      "Genevieve Tobin"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-wrecker.html"
+}

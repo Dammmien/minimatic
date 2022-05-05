@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Bite the Bullet",
+    "year": 1975,
+    "cast": [
+      "Gene Hackman",
+      "James Coburn",
+      "Candice Bergen",
+      "Ben Johnson",
+      "Jan-Michael Vincent",
+      "Ian Bannen",
+      "Dabney Coleman"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bite-the-bullet.html"
+}

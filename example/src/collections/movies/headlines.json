@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Headlines",
+    "year": 1925,
+    "cast": [
+      "Alice Joyce",
+      "Malcolm McGregor"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/headlines.html"
+}

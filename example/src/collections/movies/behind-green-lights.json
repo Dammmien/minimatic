@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Behind Green Lights",
+    "year": 1946,
+    "cast": [
+      "Carole Landis",
+      "William Gargan",
+      "Mary Anderson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/behind-green-lights.html"
+}

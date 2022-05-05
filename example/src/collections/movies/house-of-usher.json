@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "House of Usher",
+    "year": 1960,
+    "cast": [
+      "Vincent Price",
+      "Mark Damon",
+      "Myrna Fahey"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/house-of-usher.html"
+}

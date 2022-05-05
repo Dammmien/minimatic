@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "De Sade",
+    "year": 1969,
+    "cast": [
+      "Keir Dullea",
+      "Senta Berger"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/de-sade.html"
+}

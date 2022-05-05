@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hexed",
+    "year": 1993,
+    "cast": [
+      "Arye Gross",
+      "Claudia Christian"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hexed.html"
+}

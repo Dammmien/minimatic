@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Tonight for Sure",
+    "year": 1962,
+    "cast": [
+      "Karl Schanzer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/tonight-for-sure.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "They Still Call Me Bruce",
+    "year": 1987,
+    "cast": [
+      "Johnny Yune",
+      "Robert Guillaume"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/they-still-call-me-bruce.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In The Park",
+    "year": 1915,
+    "cast": [
+      "Charlie Chaplin",
+      "Leo White",
+      "Edna Purviance"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/in-the-park.html"
+}

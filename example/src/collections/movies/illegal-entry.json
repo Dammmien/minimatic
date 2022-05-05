@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Illegal Entry",
+    "year": 1949,
+    "cast": [
+      "Märta Torén",
+      "Howard Duff"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/illegal-entry.html"
+}

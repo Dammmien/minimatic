@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Eat Pray Love",
+    "year": 2010,
+    "cast": [
+      "Julia Roberts",
+      "James Franco",
+      "Richard Jenkins",
+      "Viola Davis",
+      "Billy Crudup",
+      "Javier Bardem"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/eat-pray-love.html"
+}

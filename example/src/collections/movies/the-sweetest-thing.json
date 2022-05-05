@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sweetest Thing",
+    "year": 2002,
+    "cast": [
+      "Cameron Diaz",
+      "Christina Applegate",
+      "Selma Blair"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-sweetest-thing.html"
+}

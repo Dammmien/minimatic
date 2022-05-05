@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Social Code",
+    "year": 1923,
+    "cast": [
+      "Viola Dana",
+      "Malcolm McGregor",
+      "Edna Flugrath"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-social-code.html"
+}

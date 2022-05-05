@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "There Goes My Girl",
+    "year": 1937,
+    "cast": [
+      "Ann Sothern",
+      "Gene Raymond",
+      "Richard Lane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/there-goes-my-girl.html"
+}

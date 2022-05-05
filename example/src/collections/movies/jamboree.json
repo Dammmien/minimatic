@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Jamboree",
+    "year": 1957,
+    "cast": [
+      "Frankie Avalon",
+      "Fats Domino",
+      "Jerry Lee Lewis",
+      "Carl Perkins",
+      "Dick Clark"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/jamboree.html"
+}

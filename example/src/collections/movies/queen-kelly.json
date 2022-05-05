@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Queen Kelly",
+    "year": 1929,
+    "cast": [
+      "Gloria Swanson",
+      "Walter Byron"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/queen-kelly.html"
+}

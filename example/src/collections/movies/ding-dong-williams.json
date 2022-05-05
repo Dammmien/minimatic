@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ding Dong Williams",
+    "year": 1946,
+    "cast": [
+      "Marcy McGuire",
+      "Anne Jeffreys"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ding-dong-williams.html"
+}

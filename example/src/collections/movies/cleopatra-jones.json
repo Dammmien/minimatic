@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cleopatra Jones",
+    "year": 1973,
+    "cast": [
+      "Tamara Dobson",
+      "Antonio Fargas",
+      "Shelley Winters"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/cleopatra-jones.html"
+}

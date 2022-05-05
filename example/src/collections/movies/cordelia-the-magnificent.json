@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cordelia the Magnificent",
+    "year": 1923,
+    "cast": [
+      "Clara Kimball Young",
+      "Huntley Gordon"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/cordelia-the-magnificent.html"
+}

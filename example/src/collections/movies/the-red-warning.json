@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Red Warning",
+    "year": 1923,
+    "cast": [
+      "Jack Hoxie",
+      "Fred Kohler"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-red-warning.html"
+}

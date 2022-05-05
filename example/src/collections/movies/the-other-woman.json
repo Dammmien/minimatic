@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Other Woman",
+    "year": 2014,
+    "cast": [
+      "Cameron Diaz",
+      "Leslie Mann",
+      "Kate Upton",
+      "Nicki Minaj"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-other-woman.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Get on the Bus",
+    "year": 1996,
+    "cast": [
+      "Charles S. Dutton",
+      "Ossie Davis",
+      "Andre Braugher"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/get-on-the-bus.html"
+}

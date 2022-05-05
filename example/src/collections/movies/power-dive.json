@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Power Dive",
+    "year": 1941,
+    "cast": [
+      "Richard Arlen",
+      "Helen Mack"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/power-dive.html"
+}

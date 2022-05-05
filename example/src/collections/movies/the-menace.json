@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Menace",
+    "year": 1932,
+    "cast": [
+      "H. B. Warner",
+      "Bette Davis"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-menace.html"
+}

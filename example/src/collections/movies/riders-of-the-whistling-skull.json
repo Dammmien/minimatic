@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riders of the Whistling Skull",
+    "year": 1937,
+    "cast": [
+      "Bob Livingston",
+      "Ray \"Crash\" Corrigan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/riders-of-the-whistling-skull.html"
+}

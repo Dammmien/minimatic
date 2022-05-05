@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Hop",
+    "year": 2011,
+    "cast": [
+      "James Marsden",
+      "Russell Brand",
+      "(voice)",
+      "Kaley Cuoco",
+      "Hank Azaria",
+      "(voice)",
+      "Gary Cole",
+      "Elizabeth Perkins",
+      "David Hasselhoff",
+      "Chelsea Handler",
+      "Hugh Laurie",
+      "(voice)"
+    ],
+    "genres": [
+      "Family",
+      "Live Action"
+    ]
+  },
+  "output": "movies/hop.html"
+}

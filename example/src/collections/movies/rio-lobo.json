@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rio Lobo",
+    "year": 1970,
+    "cast": [
+      "John Wayne",
+      "Jorge Rivero",
+      "Jennifer O'Neill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rio-lobo.html"
+}

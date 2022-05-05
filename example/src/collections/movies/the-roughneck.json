@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Roughneck",
+    "year": 1924,
+    "cast": [
+      "George O'Brien",
+      "Billie Dove"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-roughneck.html"
+}

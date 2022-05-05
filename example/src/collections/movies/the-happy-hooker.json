@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Happy Hooker",
+    "year": 1975,
+    "cast": [
+      "Lynn Redgrave",
+      "Jean-Pierre Aumont",
+      "Conrad Janis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-happy-hooker.html"
+}

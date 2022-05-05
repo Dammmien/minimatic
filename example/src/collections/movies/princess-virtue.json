@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Princess Virtue",
+    "year": 1917,
+    "cast": [
+      "Mae Marsh",
+      "Wheeler Oakman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/princess-virtue.html"
+}

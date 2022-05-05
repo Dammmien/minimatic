@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Josette",
+    "year": 1938,
+    "cast": [
+      "Don Ameche",
+      "William Collier Sr.",
+      "Simone Simon"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/josette.html"
+}

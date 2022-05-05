@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Amityville Horror",
+    "year": 2005,
+    "cast": [
+      "Ryan Reynolds",
+      "Melissa George",
+      "Jesse James",
+      "Jimmy Bennett"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-amityville-horror.html"
+}

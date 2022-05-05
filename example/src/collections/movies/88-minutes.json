@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "88 Minutes",
+    "year": 2008,
+    "cast": [
+      "Al Pacino",
+      "Alicia Witt",
+      "Leelee Sobieski",
+      "Amy Brenneman",
+      "Deborah Kara Unger",
+      "Benjamin McKenzie",
+      "William Forsythe",
+      "Neal McDonough"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/88-minutes.html"
+}

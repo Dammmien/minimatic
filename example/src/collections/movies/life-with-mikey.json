@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Life with Mikey",
+    "year": 1993,
+    "cast": [
+      "Michael J. Fox",
+      "Christina Vidal",
+      "Cyndi Lauper",
+      "Nathan Lane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/life-with-mikey.html"
+}

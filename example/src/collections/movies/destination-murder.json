@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Destination Murder",
+    "year": 1950,
+    "cast": [
+      "Joyce MacKenzie",
+      "Hurd Hatfield"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/destination-murder.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Still Crazy Like a Fox",
+    "year": 1987,
+    "cast": [
+      "Jack Warden",
+      "John Rubinstein"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/still-crazy-like-a-fox.html"
+}

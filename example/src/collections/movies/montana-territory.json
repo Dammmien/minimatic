@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Montana Territory",
+    "year": 1952,
+    "cast": [
+      "Wanda Hendrix",
+      "Preston Foster"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/montana-territory.html"
+}

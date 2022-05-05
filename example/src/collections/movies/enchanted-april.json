@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Enchanted April",
+    "year": 1935,
+    "cast": [
+      "Ann Harding",
+      "Frank Morgan",
+      "Jane Baxter"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/enchanted-april.html"
+}

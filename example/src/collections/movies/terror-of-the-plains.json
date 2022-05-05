@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Terror of the Plains",
+    "year": 1934,
+    "cast": [
+      "Tom Tyler",
+      "Roberta Gale"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/terror-of-the-plains.html"
+}

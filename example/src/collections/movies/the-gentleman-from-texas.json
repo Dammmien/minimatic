@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gentleman from Texas",
+    "year": 1946,
+    "cast": [
+      "Johnny Mack Brown",
+      "Claudia Drake",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-gentleman-from-texas.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Plainsman and the Lady",
+    "year": 1946,
+    "cast": [
+      "Wild Bill Elliott",
+      "Gail Patrick"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/plainsman-and-the-lady.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Man Is a Loser",
+    "year": 2014,
+    "cast": [
+      "John Stamos",
+      "Michael Rapaport",
+      "Tika Sumpter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-man-is-a-loser.html"
+}

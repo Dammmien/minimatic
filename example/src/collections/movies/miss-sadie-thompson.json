@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Miss Sadie Thompson",
+    "year": 1953,
+    "cast": [
+      "Rita Hayworth",
+      "José Ferrer",
+      "Aldo Ray"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/miss-sadie-thompson.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Farmer Takes a Wife",
+    "year": 1953,
+    "cast": [
+      "Betty Grable",
+      "Dale Robertson"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-farmer-takes-a-wife.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Let It Ride",
+    "year": 1989,
+    "cast": [
+      "Richard Dreyfuss",
+      "Teri Garr",
+      "Jennifer Tilly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-it-ride.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Into the Storm",
+    "year": 2014,
+    "cast": [
+      "Richard Armitage",
+      "Sarah Wayne Callies",
+      "Nathan Kress",
+      "Alycia Debnam-Carey"
+    ],
+    "genres": [
+      "Disaster"
+    ]
+  },
+  "output": "movies/into-the-storm.html"
+}

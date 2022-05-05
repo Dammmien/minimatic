@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "D.O.A.",
+    "year": 1988,
+    "cast": [
+      "Meg Ryan",
+      "Dennis Quaid",
+      "Daniel Stern",
+      "Charlotte Rampling"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/d-o-a-.html"
+}

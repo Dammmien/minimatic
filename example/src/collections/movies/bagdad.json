@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bagdad",
+    "year": 1949,
+    "cast": [
+      "Maureen O'Hara",
+      "Paul Christian",
+      "Vincent Price"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/bagdad.html"
+}

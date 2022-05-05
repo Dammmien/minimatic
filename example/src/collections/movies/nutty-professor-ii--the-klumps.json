@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Nutty Professor II: The Klumps",
+    "year": 2000,
+    "cast": [
+      "Eddie Murphy",
+      "Janet Jackson",
+      "Larry Miller",
+      "Wanda Sykes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nutty-professor-ii--the-klumps.html"
+}

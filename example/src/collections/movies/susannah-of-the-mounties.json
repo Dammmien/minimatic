@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Susannah of the Mounties",
+    "year": 1939,
+    "cast": [
+      "Shirley Temple",
+      "Randolph Scott",
+      "Margaret Lockwood"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/susannah-of-the-mounties.html"
+}

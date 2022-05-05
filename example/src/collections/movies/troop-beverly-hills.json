@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Troop Beverly Hills",
+    "year": 1989,
+    "cast": [
+      "Shelley Long",
+      "Craig T. Nelson",
+      "Betty Thomas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/troop-beverly-hills.html"
+}

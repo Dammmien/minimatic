@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Message in a Bottle",
+    "year": 1999,
+    "cast": [
+      "Kevin Costner",
+      "Robin Wright Penn",
+      "Paul Newman"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/message-in-a-bottle.html"
+}

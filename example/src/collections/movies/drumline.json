@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Drumline",
+    "year": 2002,
+    "cast": [
+      "Nick Cannon",
+      "Zoe Saldana",
+      "Orlando Jones"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/drumline.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Modern Love",
+    "year": 1929,
+    "cast": [
+      "Kathryn Crawford",
+      "Jean Hersholt"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/modern-love.html"
+}

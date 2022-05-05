@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Tramp",
+    "year": 1915,
+    "cast": [
+      "Charles Chaplin"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/the-tramp.html"
+}

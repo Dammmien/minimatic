@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Night Tide",
+    "year": 1961,
+    "cast": [
+      "Dennis Hopper",
+      "Marjorie Cameron",
+      "Linda Lawson"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/night-tide.html"
+}

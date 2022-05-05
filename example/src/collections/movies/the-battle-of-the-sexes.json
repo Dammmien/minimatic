@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Battle of the Sexes",
+    "year": 1928,
+    "cast": [
+      "Jean Hersholt",
+      "Phyllis Haver"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-battle-of-the-sexes.html"
+}

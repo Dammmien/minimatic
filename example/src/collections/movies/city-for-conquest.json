@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "City for Conquest",
+    "year": 1940,
+    "cast": [
+      "James Cagney",
+      "Ann Sheridan",
+      "Frank Craven"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/city-for-conquest.html"
+}

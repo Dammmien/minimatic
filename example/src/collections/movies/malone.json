@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Malone",
+    "year": 1987,
+    "cast": [
+      "Burt Reynolds",
+      "Cliff Robertson",
+      "Lauren Hutton"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/malone.html"
+}

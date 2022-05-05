@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Busy Day",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Mack Swain",
+      "Phyllis Allen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-busy-day.html"
+}

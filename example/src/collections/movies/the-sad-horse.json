@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sad Horse",
+    "year": 1959,
+    "cast": [
+      "Rex Reason",
+      "Patrice Wymore",
+      "David Ladd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sad-horse.html"
+}

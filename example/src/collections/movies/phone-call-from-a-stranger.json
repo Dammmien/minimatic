@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Phone Call from a Stranger",
+    "year": 1952,
+    "cast": [
+      "Shelley Winters",
+      "Gary Merrill",
+      "Bette Davis",
+      "Keenan Wynn",
+      "Helen Westcott",
+      "Beatrice Straight"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/phone-call-from-a-stranger.html"
+}

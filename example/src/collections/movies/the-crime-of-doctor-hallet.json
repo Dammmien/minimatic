@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Crime of Doctor Hallet",
+    "year": 1938,
+    "cast": [
+      "Ralph Bellamy",
+      "Josephine Hutchinson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-crime-of-doctor-hallet.html"
+}

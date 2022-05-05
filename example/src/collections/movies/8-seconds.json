@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "8 Seconds",
+    "year": 1994,
+    "cast": [
+      "Luke Perry",
+      "Stephen Baldwin",
+      "Cynthia Gibb"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/8-seconds.html"
+}

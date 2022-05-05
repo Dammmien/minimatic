@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Princess Diaries 2: Royal Engagement",
+    "year": 2004,
+    "cast": [
+      "Anne Hathaway",
+      "Julie Andrews",
+      "Héctor Elizondo",
+      "Raven-Symoné",
+      "Chris Pine",
+      "Heather Matarazzo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-princess-diaries-2--royal-engagement.html"
+}

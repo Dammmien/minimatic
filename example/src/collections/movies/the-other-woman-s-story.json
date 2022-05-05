@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Other Woman's Story",
+    "year": 1925,
+    "cast": [
+      "Alice Calhoun",
+      "Robert Frazer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-other-woman-s-story.html"
+}

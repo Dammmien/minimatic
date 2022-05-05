@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Spitfire",
+    "year": 1934,
+    "cast": [
+      "Katharine Hepburn",
+      "Sara Haden",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/spitfire.html"
+}

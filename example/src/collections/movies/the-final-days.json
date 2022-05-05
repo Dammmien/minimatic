@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Final Days",
+    "year": 1989,
+    "cast": [
+      "Lane Smith",
+      "Richard Kiley"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-final-days.html"
+}

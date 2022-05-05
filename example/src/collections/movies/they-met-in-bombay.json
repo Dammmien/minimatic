@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "They Met in Bombay",
+    "year": 1941,
+    "cast": [
+      "Clark Gable",
+      "Rosalind Russell",
+      "Peter Lorre"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/they-met-in-bombay.html"
+}

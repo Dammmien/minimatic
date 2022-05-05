@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jacob's Ladder",
+    "year": 1990,
+    "cast": [
+      "Tim Robbins",
+      "Danny Aiello",
+      "Elizabeth Peña"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/jacob-s-ladder.html"
+}

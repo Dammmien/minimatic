@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Fast Times at Ridgemont High",
+    "year": 1982,
+    "cast": [
+      "Sean Penn",
+      "Judge Reinhold",
+      "Phoebe Cates",
+      "Jennifer Jason Leigh",
+      "Robert Romanus",
+      "Brian Backer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fast-times-at-ridgemont-high.html"
+}

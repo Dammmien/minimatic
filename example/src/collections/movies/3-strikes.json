@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "3 Strikes",
+    "year": 2000,
+    "cast": [
+      "Brian Hooks",
+      "N'Bushe Wright"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/3-strikes.html"
+}

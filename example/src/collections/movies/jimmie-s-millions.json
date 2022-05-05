@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jimmie's Millions",
+    "year": 1925,
+    "cast": [
+      "Richard Talmadge",
+      "Betty Francisco"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/jimmie-s-millions.html"
+}

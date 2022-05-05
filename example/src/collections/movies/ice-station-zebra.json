@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Ice Station Zebra",
+    "year": 1968,
+    "cast": [
+      "Rock Hudson",
+      "Patrick McGoohan",
+      "Ernest Borgnine",
+      "Jim Brown",
+      "Tony Bill",
+      "Lloyd Nolan"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/ice-station-zebra.html"
+}

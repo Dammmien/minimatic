@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Leave No Trace",
+    "year": 2018,
+    "cast": [
+      "Ben Foster",
+      "Thomasin McKenzie",
+      "Jeff Kober",
+      "Dale Dickey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/leave-no-trace.html"
+}

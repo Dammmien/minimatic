@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Fighting Guardsman",
+    "year": 1946,
+    "cast": [
+      "Willard Parker",
+      "Anita Louise",
+      "Janis Carter",
+      "John Loder"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-fighting-guardsman.html"
+}

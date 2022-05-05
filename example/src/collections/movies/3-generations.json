@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "3 Generations",
+    "year": 2017,
+    "cast": [
+      "Naomi Watts",
+      "Elle Fanning",
+      "Susan Sarandon",
+      "Tate Donovan",
+      "Linda Emond",
+      "Sam Trammell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/3-generations.html"
+}

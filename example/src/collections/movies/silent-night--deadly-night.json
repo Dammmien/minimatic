@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Silent Night, Deadly Night",
+    "year": 1984,
+    "cast": [
+      "Lilyan Chauvin",
+      "Robert Brian Wilson",
+      "Linnea Quigley"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/silent-night--deadly-night.html"
+}

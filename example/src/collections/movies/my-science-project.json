@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "My Science Project",
+    "year": 1985,
+    "cast": [
+      "John Stockwell",
+      "Danielle von Zerneck",
+      "Dennis Hopper",
+      "Fisher Stevens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-science-project.html"
+}

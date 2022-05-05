@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Voice in the Night",
+    "year": 1934,
+    "cast": [
+      "Tim McCoy",
+      "Billie Seward"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/voice-in-the-night.html"
+}

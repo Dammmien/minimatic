@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Lady Surrenders",
+    "year": 1930,
+    "cast": [
+      "Genevieve Tobin",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-lady-surrenders.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hollywood Knights",
+    "year": 1980,
+    "cast": [
+      "Tony Danza",
+      "Fran Drescher",
+      "Michelle Pfeiffer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-hollywood-knights.html"
+}

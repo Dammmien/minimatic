@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Case of the Black Parrot",
+    "year": 1941,
+    "cast": [
+      "William Lundigan",
+      "Maris Wrixon"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-case-of-the-black-parrot.html"
+}

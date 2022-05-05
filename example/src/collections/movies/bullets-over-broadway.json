@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Bullets over Broadway",
+    "year": 1994,
+    "cast": [
+      "John Cusack",
+      "Jennifer Tilly",
+      "Dianne Wiest",
+      "Chazz Palminteri",
+      "Jim Broadbent",
+      "Rob Reiner",
+      "Mary-Louise Parker",
+      "Tracey Ullman",
+      "Joe Viterelli"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bullets-over-broadway.html"
+}

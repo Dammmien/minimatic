@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sands of Iwo Jima",
+    "year": 1949,
+    "cast": [
+      "John Wayne",
+      "John Agar",
+      "Forrest Tucker"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/sands-of-iwo-jima.html"
+}

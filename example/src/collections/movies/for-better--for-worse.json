@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "For Better, For Worse",
+    "year": 1919,
+    "cast": [
+      "Elliott Dexter",
+      "Gloria Swanson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/for-better--for-worse.html"
+}

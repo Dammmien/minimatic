@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blossoms in the Dust",
+    "year": 1941,
+    "cast": [
+      "Greer Garson",
+      "Walter Pidgeon",
+      "Felix Bressart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blossoms-in-the-dust.html"
+}

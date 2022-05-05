@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Zero Effect",
+    "year": 1998,
+    "cast": [
+      "Bill Pullman",
+      "Ryan O'Neal",
+      "Ben Stiller"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/zero-effect.html"
+}

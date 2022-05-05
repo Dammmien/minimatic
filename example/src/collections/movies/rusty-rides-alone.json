@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rusty Rides Alone",
+    "year": 1933,
+    "cast": [
+      "Tim McCoy",
+      "Barbara Weeks"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rusty-rides-alone.html"
+}

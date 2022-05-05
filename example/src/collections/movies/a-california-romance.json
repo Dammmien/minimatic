@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A California Romance",
+    "year": 1922,
+    "cast": [
+      "John Gilbert",
+      "Estelle Taylor"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/a-california-romance.html"
+}

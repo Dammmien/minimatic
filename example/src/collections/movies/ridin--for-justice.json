@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ridin' for Justice",
+    "year": 1932,
+    "cast": [
+      "Buck Jones",
+      "Mary Doran",
+      "Russell Simpson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ridin--for-justice.html"
+}

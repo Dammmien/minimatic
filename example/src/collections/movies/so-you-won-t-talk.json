@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "So You Won't Talk",
+    "year": 1940,
+    "cast": [
+      "Joe E. Brown",
+      "Frances Robinson",
+      "Vivienne Osborne"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/so-you-won-t-talk.html"
+}

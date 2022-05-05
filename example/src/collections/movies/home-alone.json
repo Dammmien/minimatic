@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Home Alone",
+    "year": 1990,
+    "cast": [
+      "Macaulay Culkin",
+      "Joe Pesci",
+      "Daniel Stern",
+      "John Heard",
+      "Catherine O'Hara"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/home-alone.html"
+}

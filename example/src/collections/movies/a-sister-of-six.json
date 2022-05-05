@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Sister of Six",
+    "year": 1916,
+    "cast": [
+      "Ben Lewis",
+      "Bessie Love"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-sister-of-six.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "On Such a Night",
+    "year": 1937,
+    "cast": [
+      "Grant Richards",
+      "Karen Morley",
+      "Roscoe Karns"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/on-such-a-night.html"
+}

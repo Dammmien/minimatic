@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Seven Ways from Sundown",
+    "year": 1960,
+    "cast": [
+      "Audie Murphy",
+      "Barry Sullivan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/seven-ways-from-sundown.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tarzan's Magic Fountain",
+    "year": 1949,
+    "cast": [
+      "Lex Barker",
+      "Brenda Joyce",
+      "Evelyn Ankers"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-s-magic-fountain.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Prairie",
+    "year": 1947,
+    "cast": [
+      "Lenore Aubert",
+      "Alan Baxter"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-prairie.html"
+}

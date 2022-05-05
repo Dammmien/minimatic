@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Untouchables",
+    "year": 1987,
+    "cast": [
+      "Sean Connery",
+      "Kevin Costner",
+      "Andy García",
+      "Robert De Niro",
+      "Patricia Clarkson",
+      "Charles Martin Smith"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-untouchables.html"
+}

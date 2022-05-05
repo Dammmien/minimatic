@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Tyler Perry Presents Peeples",
+    "year": 2013,
+    "cast": [
+      "Craig Robinson",
+      "Kerry Washington",
+      "David Alan Grier",
+      "S. Epatha Merkerson",
+      "Tyler James Williams",
+      "Melvin Van Peebles",
+      "Diahann Carroll"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tyler-perry-presents-peeples.html"
+}

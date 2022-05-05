@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Muggs Steps Out",
+    "year": 1943,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Joan Marsh"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--muggs-steps-out.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Looters",
+    "year": 1955,
+    "cast": [
+      "Rory Calhoun",
+      "Julie Adams"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-looters.html"
+}

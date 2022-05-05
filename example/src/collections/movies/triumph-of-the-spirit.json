@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Triumph of the Spirit",
+    "year": 1989,
+    "cast": [
+      "Willem Dafoe",
+      "Edward James Olmos"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/triumph-of-the-spirit.html"
+}

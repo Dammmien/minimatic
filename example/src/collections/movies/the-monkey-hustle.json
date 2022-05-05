@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Monkey Hustle",
+    "year": 1976,
+    "cast": [
+      "Yaphet Kotto",
+      "Rosalind Cash"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-monkey-hustle.html"
+}

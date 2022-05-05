@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Boys Next Door",
+    "year": 1996,
+    "cast": [
+      "Matthew Modine",
+      "Nathan Lane",
+      "Courtney B. Vance",
+      "Mare Winningham"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-boys-next-door.html"
+}

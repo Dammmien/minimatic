@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Annie",
+    "year": 2014,
+    "cast": [
+      "Jamie Foxx",
+      "Quvenzhané Wallis",
+      "Rose Byrne",
+      "Bobby Cannavale"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/annie.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Raisin in the Sun",
+    "year": 1961,
+    "cast": [
+      "Sidney Poitier",
+      "Ruby Dee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-raisin-in-the-sun.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Under the Tuscan Sun",
+    "year": 2003,
+    "cast": [
+      "Diane Lane",
+      "Sandra Oh",
+      "Lindsay Duncan"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/under-the-tuscan-sun.html"
+}

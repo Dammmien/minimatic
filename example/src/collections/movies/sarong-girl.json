@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sarong Girl",
+    "year": 1943,
+    "cast": [
+      "Ann Corio",
+      "Tim Ryan",
+      "Irene Ryan"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/sarong-girl.html"
+}

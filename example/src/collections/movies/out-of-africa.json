@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Out of Africa",
+    "year": 1985,
+    "cast": [
+      "Meryl Streep",
+      "Robert Redford",
+      "Klaus Maria Brandauer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/out-of-africa.html"
+}

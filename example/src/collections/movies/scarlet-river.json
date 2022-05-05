@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scarlet River",
+    "year": 1933,
+    "cast": [
+      "Tom Keene",
+      "Dorothy Wilson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/scarlet-river.html"
+}

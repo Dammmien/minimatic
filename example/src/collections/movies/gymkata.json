@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gymkata",
+    "year": 1985,
+    "cast": [
+      "Kurt Thomas",
+      "Tetchie Agbayani",
+      "Richard Norton"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/gymkata.html"
+}

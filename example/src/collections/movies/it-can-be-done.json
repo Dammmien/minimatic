@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It Can Be Done",
+    "year": 1929,
+    "cast": [
+      "Glenn Tryon",
+      "Sue Carol"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-can-be-done.html"
+}

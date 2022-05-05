@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fun and Fancy Free",
+    "year": 1947,
+    "cast": [
+      "Edgar Bergen",
+      "Dinah Shore"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/fun-and-fancy-free.html"
+}

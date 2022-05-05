@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Red Sparrow",
+    "year": 2018,
+    "cast": [
+      "Jennifer Lawrence",
+      "Joel Edgerton",
+      "Matthias Schoenaerts",
+      "Charlotte Rampling",
+      "Mary-Louise Parker",
+      "Jeremy Irons"
+    ],
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  "output": "movies/red-sparrow.html"
+}

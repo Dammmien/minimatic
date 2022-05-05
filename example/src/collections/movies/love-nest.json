@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Nest",
+    "year": 1951,
+    "cast": [
+      "June Haver",
+      "William Lundigan",
+      "Marilyn Monroe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-nest.html"
+}

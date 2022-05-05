@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "In the Mouth of Madness",
+    "year": 1995,
+    "cast": [
+      "Sam Neill",
+      "David Warner",
+      "Jürgen Prochnow",
+      "Charlton Heston"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/in-the-mouth-of-madness.html"
+}

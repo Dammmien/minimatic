@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hot Spell",
+    "year": 1958,
+    "cast": [
+      "Anthony Quinn",
+      "Shirley MacLaine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hot-spell.html"
+}

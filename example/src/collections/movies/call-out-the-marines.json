@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Call Out the Marines",
+    "year": 1942,
+    "cast": [
+      "Victor McLaglen",
+      "Edmund Lowe",
+      "Binnie Barnes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/call-out-the-marines.html"
+}

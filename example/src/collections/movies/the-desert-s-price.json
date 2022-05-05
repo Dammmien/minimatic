@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Desert's Price",
+    "year": 1925,
+    "cast": [
+      "Buck Jones",
+      "Florence Gilbert"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-desert-s-price.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Killing Season",
+    "year": 2013,
+    "cast": [
+      "Robert De Niro",
+      "John Travolta",
+      "Milo Ventimiglia",
+      "Elizabeth Olin"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/killing-season.html"
+}

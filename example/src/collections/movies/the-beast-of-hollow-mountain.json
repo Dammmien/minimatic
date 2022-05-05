@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Beast of Hollow Mountain",
+    "year": 1956,
+    "cast": [
+      "Guy Madison",
+      "Patricia Medina"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-beast-of-hollow-mountain.html"
+}

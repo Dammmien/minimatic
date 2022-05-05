@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dill Scallion",
+    "year": 1999,
+    "cast": [
+      "Billy Burke",
+      "Lauren Graham"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/dill-scallion.html"
+}

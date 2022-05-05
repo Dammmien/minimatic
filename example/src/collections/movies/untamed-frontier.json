@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Untamed Frontier",
+    "year": 1952,
+    "cast": [
+      "Joseph Cotten",
+      "Shelley Winters",
+      "Scott Brady"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/untamed-frontier.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wings in the Dark",
+    "year": 1935,
+    "cast": [
+      "Cary Grant",
+      "Myrna Loy",
+      "Matt McHugh"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/wings-in-the-dark.html"
+}

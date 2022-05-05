@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lone Cowboy",
+    "year": 1933,
+    "cast": [
+      "Jackie Cooper",
+      "Lila Lee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lone-cowboy.html"
+}

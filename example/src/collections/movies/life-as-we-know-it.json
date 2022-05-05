@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Life as We Know It",
+    "year": 2010,
+    "cast": [
+      "Katherine Heigl",
+      "Josh Duhamel"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/life-as-we-know-it.html"
+}

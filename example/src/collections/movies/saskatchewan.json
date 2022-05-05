@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Saskatchewan",
+    "year": 1954,
+    "cast": [
+      "Alan Ladd",
+      "Shelley Winters",
+      "J. Carrol Naish"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/saskatchewan.html"
+}

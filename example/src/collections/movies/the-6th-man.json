@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The 6th Man",
+    "year": 1997,
+    "cast": [
+      "Marlon Wayans",
+      "Kadeem Hardison"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-6th-man.html"
+}

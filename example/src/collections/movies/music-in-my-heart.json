@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Music in My Heart",
+    "year": 1940,
+    "cast": [
+      "Tony Martin",
+      "Rita Hayworth",
+      "Edith Fellows"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/music-in-my-heart.html"
+}

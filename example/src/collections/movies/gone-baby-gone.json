@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Gone Baby Gone",
+    "year": 2007,
+    "cast": [
+      "Casey Affleck",
+      "Michelle Monaghan",
+      "Morgan Freeman",
+      "Ed Harris",
+      "Amy Ryan",
+      "John Ashton",
+      "Amy Madigan"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/gone-baby-gone.html"
+}

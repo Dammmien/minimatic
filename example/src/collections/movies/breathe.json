@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Breathe",
+    "year": 2017,
+    "cast": [
+      "Andrew Garfield",
+      "Claire Foy",
+      "Tom Hollander",
+      "Hugh Bonneville",
+      "Dean-Charles Chapman",
+      "Miranda Raison",
+      "Stephen Mangan"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/breathe.html"
+}

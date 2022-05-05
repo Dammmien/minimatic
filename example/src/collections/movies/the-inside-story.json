@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Inside Story",
+    "year": 1948,
+    "cast": [
+      "Marsha Hunt",
+      "William Lundigan",
+      "Charles Winninger"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-inside-story.html"
+}

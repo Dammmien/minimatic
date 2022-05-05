@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "One Hundred and One Dalmatians",
+    "year": 1961,
+    "cast": [
+      "Ben Wright",
+      "Betty Lou Gerson",
+      "Rod Taylor",
+      "(voices)"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/one-hundred-and-one-dalmatians.html"
+}

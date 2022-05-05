@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pumpkin",
+    "year": 2002,
+    "cast": [
+      "Christina Ricci",
+      "Hank Harris",
+      "Brenda Blethyn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pumpkin.html"
+}

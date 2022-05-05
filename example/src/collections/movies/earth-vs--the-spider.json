@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Earth vs. the Spider",
+    "year": 2001,
+    "cast": [
+      "Dan Aykroyd",
+      "Devon Gummersall",
+      "Amelia Heinle"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/earth-vs--the-spider.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "2012",
+    "year": 2009,
+    "cast": [
+      "John Cusack",
+      "Amanda Peet",
+      "Danny Glover",
+      "Thandie Newton",
+      "Oliver Platt",
+      "Chiwetel Ejiofor",
+      "Woody Harrelson"
+    ],
+    "genres": [
+      "Disaster"
+    ]
+  },
+  "output": "movies/2012.html"
+}

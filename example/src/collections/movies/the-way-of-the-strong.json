@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Way of the Strong",
+    "year": 1928,
+    "cast": [
+      "Mitchell Lewis",
+      "Alice Day"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-way-of-the-strong.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Down Argentine Way",
+    "year": 1940,
+    "cast": [
+      "Don Ameche",
+      "Betty Grable",
+      "Carmen Miranda"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/down-argentine-way.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Squad Car",
+    "year": 1960,
+    "cast": [
+      "Vici Raaf",
+      "Paul Bryar"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/squad-car.html"
+}

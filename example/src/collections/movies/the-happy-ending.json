@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Happy Ending",
+    "year": 1969,
+    "cast": [
+      "Jean Simmons",
+      "Shirley Jones",
+      "John Forsythe",
+      "Bobby Darin",
+      "Teresa Wright",
+      "Nanette Fabray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-happy-ending.html"
+}

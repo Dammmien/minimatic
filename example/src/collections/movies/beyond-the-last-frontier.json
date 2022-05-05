@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beyond the Last Frontier",
+    "year": 1943,
+    "cast": [
+      "Eddie Dew",
+      "Smiley Burnette",
+      "Robert Mitchum"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/beyond-the-last-frontier.html"
+}

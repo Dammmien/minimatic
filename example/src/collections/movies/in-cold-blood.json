@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "In Cold Blood",
+    "year": 1996,
+    "cast": [
+      "Anthony Edwards",
+      "Eric Roberts",
+      "Sam Neill"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/in-cold-blood.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Milagro Beanfield War",
+    "year": 1988,
+    "cast": [
+      "Sônia Braga",
+      "Rubén Blades",
+      "Christopher Walken",
+      "Melanie Griffith",
+      "Daniel Stern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-milagro-beanfield-war.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "High and Dizzy",
+    "year": 1920,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/high-and-dizzy.html"
+}

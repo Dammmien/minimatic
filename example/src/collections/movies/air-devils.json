@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Air Devils",
+    "year": 1938,
+    "cast": [
+      "Dick Purcell",
+      "Beryl Wallace"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/air-devils.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Last Days",
+    "year": 2005,
+    "cast": [
+      "Michael Pitt",
+      "Lukas Haas",
+      "Asia Argento",
+      "Scott Patrick Green"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/last-days.html"
+}

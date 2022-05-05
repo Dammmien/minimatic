@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Meet the Missus",
+    "year": 1937,
+    "cast": [
+      "Victor Moore",
+      "Helen Broderick",
+      "Anne Shirley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/meet-the-missus.html"
+}

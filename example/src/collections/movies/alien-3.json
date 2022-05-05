@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Alien 3",
+    "year": 1992,
+    "cast": [
+      "Sigourney Weaver",
+      "Charles S. Dutton",
+      "Charles Dance"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/alien-3.html"
+}

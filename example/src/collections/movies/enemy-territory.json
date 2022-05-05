@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Enemy Territory",
+    "year": 1987,
+    "cast": [
+      "Gary Frank",
+      "Ray Parker Jr.",
+      "Jan-Michael Vincent"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/enemy-territory.html"
+}

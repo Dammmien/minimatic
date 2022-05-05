@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Flaming Urge",
+    "year": 1953,
+    "cast": [
+      "Harold Lloyd Jr.",
+      "Cathy Downs"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-flaming-urge.html"
+}

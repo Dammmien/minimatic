@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mary, Mary",
+    "year": 1963,
+    "cast": [
+      "Debbie Reynolds",
+      "Barry Nelson",
+      "Michael Rennie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mary--mary.html"
+}

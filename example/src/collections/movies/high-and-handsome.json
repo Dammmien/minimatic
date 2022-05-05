@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "High and Handsome",
+    "year": 1925,
+    "cast": [
+      "Maurice \"Lefty\" Flynn",
+      "Ethel Shannon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/high-and-handsome.html"
+}

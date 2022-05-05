@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Stone Killer",
+    "year": 1973,
+    "cast": [
+      "Charles Bronson",
+      "Martin Balsam",
+      "Paul Koslo"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-stone-killer.html"
+}

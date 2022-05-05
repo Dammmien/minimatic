@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Terror Train",
+    "year": 1980,
+    "cast": [
+      "Hart Bochner",
+      "David Copperfield",
+      "Ben Johnson",
+      "Jamie Lee Curtis"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/terror-train.html"
+}

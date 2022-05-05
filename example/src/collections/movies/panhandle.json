@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Panhandle",
+    "year": 1948,
+    "cast": [
+      "Rod Cameron",
+      "Cathy Downs"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/panhandle.html"
+}

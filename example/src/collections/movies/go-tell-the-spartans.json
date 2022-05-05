@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Go Tell the Spartans",
+    "year": 1978,
+    "cast": [
+      "Burt Lancaster",
+      "Craig Wasson"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/go-tell-the-spartans.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Let's Sing Again",
+    "year": 1936,
+    "cast": [
+      "Bobby Breen",
+      "Henry Armetta",
+      "Vivienne Osborne"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/let-s-sing-again.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Maverick",
+    "year": 1952,
+    "cast": [
+      "Bill Elliott",
+      "Phyllis Coates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-maverick.html"
+}

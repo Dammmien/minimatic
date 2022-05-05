@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No Other Woman",
+    "year": 1933,
+    "cast": [
+      "Irene Dunne",
+      "Charles Bickford"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/no-other-woman.html"
+}

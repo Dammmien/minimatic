@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Perez Family",
+    "year": 1995,
+    "cast": [
+      "Marisa Tomei",
+      "Anjelica Huston",
+      "Alfred Molina"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-perez-family.html"
+}

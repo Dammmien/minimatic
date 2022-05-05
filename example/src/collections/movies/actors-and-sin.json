@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Actors and Sin",
+    "year": 1952,
+    "cast": [
+      "Edward G. Robinson",
+      "Eddie Albert"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/actors-and-sin.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Torch Singer",
+    "year": 1933,
+    "cast": [
+      "Claudette Colbert",
+      "Ricardo Cortez"
+    ],
+    "genres": [
+      "Musical",
+      "Romance"
+    ]
+  },
+  "output": "movies/torch-singer.html"
+}

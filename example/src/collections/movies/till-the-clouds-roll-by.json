@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Till the Clouds Roll By",
+    "year": 1946,
+    "cast": [
+      "Judy Garland",
+      "Lena Horne",
+      "Frank Sinatra",
+      "Dinah Shore",
+      "June Allyson",
+      "Robert Walker"
+    ],
+    "genres": [
+      "Biography",
+      "Musical"
+    ]
+  },
+  "output": "movies/till-the-clouds-roll-by.html"
+}

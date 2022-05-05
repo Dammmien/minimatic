@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night Song",
+    "year": 1948,
+    "cast": [
+      "Dana Andrews",
+      "Merle Oberon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/night-song.html"
+}

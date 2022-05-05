@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sunset in the West",
+    "year": 1950,
+    "cast": [
+      "Roy Rogers",
+      "Estelita Rodriguez"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sunset-in-the-west.html"
+}

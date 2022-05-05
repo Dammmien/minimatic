@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "year": 2017,
+    "cast": [
+      "Johnny Depp",
+      "Javier Bardem",
+      "Orlando Bloom",
+      "Brenton Thwaites",
+      "Kaya Scodelario",
+      "Geoffrey Rush",
+      "Kevin McNally",
+      "Stephen Graham",
+      "Martin Klebba",
+      "Paul McCartney"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Comedy"
+    ]
+  },
+  "output": "movies/pirates-of-the-caribbean--dead-men-tell-no-tales.html"
+}

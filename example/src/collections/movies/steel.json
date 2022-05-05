@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Steel",
+    "year": 1997,
+    "cast": [
+      "Shaquille O'Neal",
+      "Annabeth Gish",
+      "Judd Nelson",
+      "Richard Roundtree",
+      "Ray J"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/steel.html"
+}

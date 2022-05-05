@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Near Lady",
+    "year": 1923,
+    "cast": [
+      "Gladys Walton",
+      "Otis Harlan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-near-lady.html"
+}

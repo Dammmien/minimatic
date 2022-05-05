@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Doughgirls",
+    "year": 1944,
+    "cast": [
+      "Ann Sheridan",
+      "Alexis Smith",
+      "Jack Carson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-doughgirls.html"
+}

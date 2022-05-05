@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Parkland",
+    "year": 2013,
+    "cast": [
+      "James Badge Dale",
+      "Zac Efron",
+      "Colin Hanks",
+      "David Harbour",
+      "Jackie Earle Haley",
+      "Marcia Gay Harden",
+      "Ron Livingston",
+      "Jeremy Strong",
+      "Billy Bob Thornton",
+      "Jacki Weaver",
+      "Tom Welling",
+      "Paul Giamatti"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/parkland.html"
+}

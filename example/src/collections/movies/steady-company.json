@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Steady Company",
+    "year": 1932,
+    "cast": [
+      "Norman Foster",
+      "June Clyde"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/steady-company.html"
+}

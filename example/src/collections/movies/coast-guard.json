@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Coast Guard",
+    "year": 1939,
+    "cast": [
+      "Randolph Scott",
+      "Frances Dee",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/coast-guard.html"
+}

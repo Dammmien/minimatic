@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flood Tide",
+    "year": 1958,
+    "cast": [
+      "George Nader",
+      "Cornell Borchers"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/flood-tide.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Brave Little Toaster",
+    "year": 1987,
+    "cast": [
+      "voices of",
+      "Jon Lovitz",
+      "Tim Stack"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-brave-little-toaster.html"
+}

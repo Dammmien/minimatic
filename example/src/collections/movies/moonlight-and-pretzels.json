@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Moonlight and Pretzels",
+    "year": 1933,
+    "cast": [
+      "William Frawley",
+      "Mary Brian"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/moonlight-and-pretzels.html"
+}

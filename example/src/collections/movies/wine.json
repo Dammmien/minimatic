@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wine",
+    "year": 1924,
+    "cast": [
+      "Clara Bow",
+      "Forrest Stanley"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/wine.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Money Mad",
+    "year": 1908,
+    "cast": [
+      "Charles Inslee",
+      "George Gebhardt"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/money-mad.html"
+}

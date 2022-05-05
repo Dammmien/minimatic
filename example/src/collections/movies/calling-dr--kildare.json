@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Calling Dr. Kildare",
+    "year": 1939,
+    "cast": [
+      "Lew Ayres",
+      "Lionel Barrymore",
+      "Laraine Day",
+      "Nat Pendleton",
+      "Lana Turner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/calling-dr--kildare.html"
+}

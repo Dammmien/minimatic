@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Damnation Alley",
+    "year": 1977,
+    "cast": [
+      "George Peppard",
+      "Jan-Michael Vincent"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/damnation-alley.html"
+}

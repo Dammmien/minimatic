@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Roseland",
+    "year": 1977,
+    "cast": [
+      "Teresa Wright",
+      "Geraldine Chaplin",
+      "Christopher Walken"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/roseland.html"
+}

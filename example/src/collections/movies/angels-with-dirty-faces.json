@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Angels with Dirty Faces",
+    "year": 1938,
+    "cast": [
+      "James Cagney",
+      "Pat O'Brien",
+      "Humphrey Bogart"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/angels-with-dirty-faces.html"
+}

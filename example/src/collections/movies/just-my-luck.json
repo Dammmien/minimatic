@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Just My Luck",
+    "year": 2006,
+    "cast": [
+      "Lindsay Lohan",
+      "Chris Pine"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/just-my-luck.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Body Rock",
+    "year": 1984,
+    "cast": [
+      "Lorenzo Lamas",
+      "Ray Sharkey"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/body-rock.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prisoners in Petticoats",
+    "year": 1950,
+    "cast": [
+      "Robert Rockwell",
+      "Danni Sue Nolan"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/prisoners-in-petticoats.html"
+}

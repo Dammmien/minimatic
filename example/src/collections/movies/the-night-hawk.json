@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Night Hawk",
+    "year": 1938,
+    "cast": [
+      "Robert Livingston",
+      "June Travis"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-night-hawk.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Rat Race",
+    "year": 1960,
+    "cast": [
+      "Tony Curtis",
+      "Debbie Reynolds",
+      "Don Rickles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-rat-race.html"
+}

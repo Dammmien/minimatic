@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "The Wild Wild West",
+    "year": 1921,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-wild-wild-west.html"
+}

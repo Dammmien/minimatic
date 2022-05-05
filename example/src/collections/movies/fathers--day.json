@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fathers' Day",
+    "year": 1997,
+    "cast": [
+      "Robin Williams",
+      "Billy Crystal",
+      "Julia Louis-Dreyfus",
+      "Nastassja Kinski"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fathers--day.html"
+}

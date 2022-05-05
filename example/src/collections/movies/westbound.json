@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Westbound",
+    "year": 1959,
+    "cast": [
+      "Randolph Scott",
+      "Virginia Mayo",
+      "Karen Steele"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/westbound.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Eye of the Needle",
+    "year": 1981,
+    "cast": [
+      "Donald Sutherland",
+      "Kate Nelligan",
+      "Christopher Cazenove"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/eye-of-the-needle.html"
+}

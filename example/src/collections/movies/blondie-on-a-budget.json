@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blondie on a Budget",
+    "year": 1940,
+    "cast": [
+      "Penny Singleton",
+      "Arthur Lake"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blondie-on-a-budget.html"
+}

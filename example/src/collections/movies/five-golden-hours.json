@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Five Golden Hours",
+    "year": 1961,
+    "cast": [
+      "Ernie Kovacs",
+      "Cyd Charisse"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/five-golden-hours.html"
+}

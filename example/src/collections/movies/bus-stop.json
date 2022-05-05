@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bus Stop",
+    "year": 1956,
+    "cast": [
+      "Marilyn Monroe",
+      "Don Murray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bus-stop.html"
+}

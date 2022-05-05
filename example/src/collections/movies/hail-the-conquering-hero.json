@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hail the Conquering Hero",
+    "year": 1944,
+    "cast": [
+      "Eddie Bracken",
+      "Ella Raines",
+      "William Demarest"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hail-the-conquering-hero.html"
+}

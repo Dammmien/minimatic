@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Barber of Seville",
+    "year": 1944,
+    "cast": [],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/the-barber-of-seville.html"
+}

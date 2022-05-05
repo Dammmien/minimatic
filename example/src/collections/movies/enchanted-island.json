@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Enchanted Island",
+    "year": 1958,
+    "cast": [
+      "Jane Powell",
+      "Dana Andrews"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/enchanted-island.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blazing Guns",
+    "year": 1943,
+    "cast": [
+      "Ken Maynard",
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/blazing-guns.html"
+}

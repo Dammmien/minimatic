@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "But the Flesh Is Weak",
+    "year": 1932,
+    "cast": [
+      "Robert Montgomery",
+      "Nora Gregor",
+      "Heather Thatcher"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/but-the-flesh-is-weak.html"
+}

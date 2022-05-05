@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "The Black Widow",
+    "year": 1947,
+    "cast": [
+      "Bruce Edwards"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-black-widow.html"
+}

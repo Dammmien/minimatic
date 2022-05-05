@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Witchboard",
+    "year": 1986,
+    "cast": [
+      "Tawny Kitaen",
+      "Stephen Nichols"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/witchboard.html"
+}

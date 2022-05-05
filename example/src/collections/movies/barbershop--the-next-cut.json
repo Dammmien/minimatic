@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Barbershop: The Next Cut",
+    "year": 2016,
+    "cast": [
+      "Ice Cube",
+      "Cedric the Entertainer",
+      "Regina Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/barbershop--the-next-cut.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Happiness C.O.D.",
+    "year": 1935,
+    "cast": [
+      "Donald Meek",
+      "Irene Ware"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/happiness-c-o-d-.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bombardier",
+    "year": 1943,
+    "cast": [
+      "Pat O'Brien",
+      "Randolph Scott",
+      "Anne Shirley",
+      "Eddie Albert"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/bombardier.html"
+}

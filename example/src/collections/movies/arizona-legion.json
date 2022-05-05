@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Arizona Legion",
+    "year": 1939,
+    "cast": [
+      "George O'Brien",
+      "Laraine Day",
+      "Carlyle Moore Jr.",
+      "Chill Wills"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/arizona-legion.html"
+}

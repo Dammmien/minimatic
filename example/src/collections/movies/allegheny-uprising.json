@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Allegheny Uprising",
+    "year": 1939,
+    "cast": [
+      "Claire Trevor",
+      "John Wayne",
+      "George Sanders",
+      "Brian Donlevy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/allegheny-uprising.html"
+}

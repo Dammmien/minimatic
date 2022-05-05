@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Critters",
+    "year": 1986,
+    "cast": [
+      "Dee Wallace",
+      "M. Emmet Walsh"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/critters.html"
+}

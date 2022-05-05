@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Gentle Gangster",
+    "year": 1943,
+    "cast": [
+      "Molly Lamont",
+      "Barton MacLane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-gentle-gangster.html"
+}

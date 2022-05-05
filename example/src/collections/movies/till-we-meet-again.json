@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Till We Meet Again",
+    "year": 1944,
+    "cast": [
+      "Barbara Britton",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/till-we-meet-again.html"
+}

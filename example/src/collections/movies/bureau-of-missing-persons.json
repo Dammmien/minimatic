@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bureau of Missing Persons",
+    "year": 1933,
+    "cast": [
+      "Bette Davis",
+      "Pat O'Brien",
+      "Glenda Farrell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bureau-of-missing-persons.html"
+}

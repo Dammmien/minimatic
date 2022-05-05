@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shadows on the Range",
+    "year": 1946,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/shadows-on-the-range.html"
+}

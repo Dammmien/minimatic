@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rider of the Law",
+    "year": 1919,
+    "cast": [
+      "Harry Carey",
+      "Gloria Hope"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rider-of-the-law.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Unconquerable",
+    "year": 1922,
+    "cast": [
+      "Jack Holt",
+      "Sylvia Breamer"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-man-unconquerable.html"
+}

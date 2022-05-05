@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Off to the Races",
+    "year": 1937,
+    "cast": [
+      "Slim Summerville",
+      "Jed Prouty",
+      "Shirley Deane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/off-to-the-races.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The One Woman Idea",
+    "year": 1929,
+    "cast": [
+      "Rod La Rocque",
+      "Marceline Day"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-one-woman-idea.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Empty Holsters",
+    "year": 1937,
+    "cast": [
+      "Dick Foran",
+      "Emmett Vogan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/empty-holsters.html"
+}

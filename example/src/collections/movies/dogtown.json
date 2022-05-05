@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dogtown",
+    "year": 1997,
+    "cast": [
+      "Mary Stuart Masterson",
+      "Jon Favreau"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dogtown.html"
+}

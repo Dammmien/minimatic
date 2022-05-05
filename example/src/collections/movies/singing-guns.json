@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Singing Guns",
+    "year": 1950,
+    "cast": [
+      "Ella Raines",
+      "Vaughn Monroe"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/singing-guns.html"
+}

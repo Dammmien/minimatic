@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Village",
+    "year": 2004,
+    "cast": [
+      "Bryce Dallas Howard",
+      "Joaquin Phoenix",
+      "Adrien Brody",
+      "William Hurt",
+      "Sigourney Weaver"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-village.html"
+}

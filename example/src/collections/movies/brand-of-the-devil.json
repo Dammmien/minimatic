@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brand of the Devil",
+    "year": 1944,
+    "cast": [
+      "Dave O'Brien",
+      "James Newill",
+      "Guy Wilkerson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/brand-of-the-devil.html"
+}

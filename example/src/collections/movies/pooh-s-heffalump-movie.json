@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pooh's Heffalump Movie",
+    "year": 2005,
+    "cast": [
+      "Jim Cummings",
+      "John Fiedler",
+      "Kath Soucie"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/pooh-s-heffalump-movie.html"
+}

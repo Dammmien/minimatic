@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "200 Cigarettes",
+    "year": 1999,
+    "cast": [
+      "Ben Affleck",
+      "Casey Affleck",
+      "Dave Chappelle",
+      "Guillermo Diaz",
+      "Angela Featherstone",
+      "Janeane Garofalo",
+      "Gaby Hoffmann",
+      "Kate Hudson",
+      "Courtney Love",
+      "Jay Mohr",
+      "Martha Plimpton",
+      "Christina Ricci",
+      "Paul Rudd"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/200-cigarettes.html"
+}

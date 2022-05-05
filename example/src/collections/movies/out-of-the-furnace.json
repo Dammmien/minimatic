@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Out of the Furnace",
+    "year": 2013,
+    "cast": [
+      "Christian Bale",
+      "Woody Harrelson",
+      "Casey Affleck",
+      "Forest Whitaker",
+      "Willem Dafoe",
+      "Zoe Saldana",
+      "Sam Shepard"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/out-of-the-furnace.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Wise Girls",
+    "year": 1932,
+    "cast": [
+      "Jean Harlow",
+      "Mae Clarke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/three-wise-girls.html"
+}

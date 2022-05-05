@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rollover",
+    "year": 1981,
+    "cast": [
+      "Jane Fonda",
+      "Kris Kristofferson",
+      "Hume Cronyn"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/rollover.html"
+}

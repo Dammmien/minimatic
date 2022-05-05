@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "She Hate Me",
+    "year": 2004,
+    "cast": [
+      "Anthony Mackie",
+      "Kerry Washington",
+      "Ellen Barkin",
+      "Monica Bellucci",
+      "Jim Brown",
+      "Brian Dennehy",
+      "Woody Harrelson",
+      "Bai Ling",
+      "Q-Tip",
+      "Dania Ramirez",
+      "John Turturro"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/she-hate-me.html"
+}

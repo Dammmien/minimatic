@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blind Youth",
+    "year": 1920,
+    "cast": [
+      "Walter McGrail",
+      "Leatrice Joy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blind-youth.html"
+}

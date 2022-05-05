@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gunman's Code",
+    "year": 1946,
+    "cast": [
+      "Kirby Grant",
+      "Jane Adams"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gunman-s-code.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Invisible Monster",
+    "year": 1950,
+    "cast": [
+      "Richard Webb",
+      "Aline Towne"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-invisible-monster.html"
+}

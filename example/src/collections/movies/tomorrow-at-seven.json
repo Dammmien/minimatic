@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tomorrow at Seven",
+    "year": 1933,
+    "cast": [
+      "Chester Morris",
+      "Vivienne Osborne",
+      "Frank McHugh"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/tomorrow-at-seven.html"
+}

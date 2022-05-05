@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cobra Woman",
+    "year": 1944,
+    "cast": [
+      "Maria Montez",
+      "Jon Hall",
+      "Sabu"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/cobra-woman.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Drop Zone",
+    "year": 1994,
+    "cast": [
+      "Wesley Snipes",
+      "Gary Busey",
+      "Yancy Butler"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/drop-zone.html"
+}

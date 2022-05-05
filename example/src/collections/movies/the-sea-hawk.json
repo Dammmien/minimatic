@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sea Hawk",
+    "year": 1940,
+    "cast": [
+      "Errol Flynn",
+      "Brenda Marshall",
+      "Claude Rains"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-sea-hawk.html"
+}

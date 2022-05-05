@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Almost Heroes",
+    "year": 1998,
+    "cast": [
+      "Chris Farley",
+      "Matthew Perry",
+      "Bokeem Woodbine",
+      "Eugene Levy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/almost-heroes.html"
+}

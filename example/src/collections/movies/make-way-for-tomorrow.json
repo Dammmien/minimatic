@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Make Way for Tomorrow",
+    "year": 1937,
+    "cast": [
+      "Victor Moore",
+      "Beulah Bondi",
+      "Thomas Mitchell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/make-way-for-tomorrow.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Midnight Runaround",
+    "year": 1994,
+    "cast": [
+      "Christopher McDonald"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/midnight-runaround.html"
+}

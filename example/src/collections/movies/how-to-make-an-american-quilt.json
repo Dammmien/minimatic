@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "How to Make an American Quilt",
+    "year": 1995,
+    "cast": [
+      "Winona Ryder",
+      "Anne Bancroft",
+      "Ellen Burstyn",
+      "Kate Nelligan",
+      "Alfre Woodard",
+      "Mykelti Williamson",
+      "Jared Leto"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/how-to-make-an-american-quilt.html"
+}

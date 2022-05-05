@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Comancheros",
+    "year": 1961,
+    "cast": [
+      "John Wayne",
+      "Stuart Whitman",
+      "Ina Balin"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-comancheros.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fiercest Heart",
+    "year": 1961,
+    "cast": [
+      "Stuart Whitman",
+      "Juliet Prowse",
+      "Geraldine Fitzgerald"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fiercest-heart.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Leather Saint",
+    "year": 1956,
+    "cast": [
+      "Paul Douglas",
+      "John Derek"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-leather-saint.html"
+}

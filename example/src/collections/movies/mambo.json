@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mambo",
+    "year": 1955,
+    "cast": [
+      "Silvana Mangano",
+      "Michael Rennie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mambo.html"
+}

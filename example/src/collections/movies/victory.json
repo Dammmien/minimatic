@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Victory",
+    "year": 1940,
+    "cast": [
+      "Fredric March",
+      "Cedric Hardwicke",
+      "Betty Field"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/victory.html"
+}

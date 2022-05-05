@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Devil Thumbs a Ride",
+    "year": 1947,
+    "cast": [
+      "Lawrence Tierney",
+      "Ted North",
+      "Betty Lawford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-devil-thumbs-a-ride.html"
+}

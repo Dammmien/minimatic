@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sea Legs",
+    "year": 1930,
+    "cast": [
+      "Jack Oakie",
+      "Lillian Roth"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sea-legs.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Election",
+    "year": 1999,
+    "cast": [
+      "Reese Witherspoon",
+      "Matthew Broderick",
+      "Chris Klein",
+      "Molly Hagan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/election.html"
+}

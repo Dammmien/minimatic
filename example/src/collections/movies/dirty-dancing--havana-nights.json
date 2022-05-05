@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dirty Dancing: Havana Nights",
+    "year": 2004,
+    "cast": [
+      "Diego Luna",
+      "Romola Garai",
+      "Sela Ward"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/dirty-dancing--havana-nights.html"
+}

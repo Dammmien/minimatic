@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Goose and the Gander",
+    "year": 1935,
+    "cast": [
+      "Kay Francis",
+      "George Brent"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-goose-and-the-gander.html"
+}

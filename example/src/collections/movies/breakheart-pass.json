@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Breakheart Pass",
+    "year": 1975,
+    "cast": [
+      "Charles Bronson",
+      "Ben Johnson",
+      "Jill Ireland",
+      "Richard Crenna",
+      "Charles Durning"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/breakheart-pass.html"
+}

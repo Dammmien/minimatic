@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lighthouse",
+    "year": 1947,
+    "cast": [
+      "Don Castle",
+      "June Lang",
+      "Marion Martin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lighthouse.html"
+}

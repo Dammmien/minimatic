@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Monster's Ball",
+    "year": 2001,
+    "cast": [
+      "Billy Bob Thornton",
+      "Halle Berry",
+      "Heath Ledger",
+      "Peter Boyle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/monster-s-ball.html"
+}

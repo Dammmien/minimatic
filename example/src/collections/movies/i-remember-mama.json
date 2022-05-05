@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Remember Mama",
+    "year": 1948,
+    "cast": [
+      "Irene Dunne",
+      "Barbara Bel Geddes"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-remember-mama.html"
+}

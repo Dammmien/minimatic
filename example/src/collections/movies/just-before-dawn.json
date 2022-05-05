@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Just Before Dawn",
+    "year": 1946,
+    "cast": [
+      "Warner Baxter",
+      "Adele Roberts"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/just-before-dawn.html"
+}

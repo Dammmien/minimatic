@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Billie",
+    "year": 1965,
+    "cast": [
+      "Patty Duke",
+      "Jim Backus",
+      "Jane Greer"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/billie.html"
+}

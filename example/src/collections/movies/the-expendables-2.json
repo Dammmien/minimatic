@@ -1,0 +1,27 @@
+{
+  "data": {
+    "title": "The Expendables 2",
+    "year": 2012,
+    "cast": [
+      "Sylvester Stallone",
+      "Jason Statham",
+      "Jet Li",
+      "Dolph Lundgren",
+      "Chuck Norris",
+      "Terry Crews",
+      "Randy Couture",
+      "Liam Hemsworth",
+      "Jean-Claude Van Damme",
+      "Bruce Willis",
+      "Arnold Schwarzenegger",
+      "Scott Adkins",
+      "Yu Nan",
+      "Amanda Ooms",
+      "Novak Djokovic"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-expendables-2.html"
+}

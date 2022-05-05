@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Suicide Squad",
+    "year": 2016,
+    "cast": [
+      "Will Smith",
+      "Jared Leto",
+      "Margot Robbie"
+    ],
+    "genres": [
+      "Superhero",
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/suicide-squad.html"
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Detachment",
+    "year": 2012,
+    "cast": [
+      "Adrien Brody",
+      "Marcia Gay Harden",
+      "Christina Hendricks",
+      "William Petersen",
+      "Bryan Cranston",
+      "Tim Blake Nelson",
+      "Betty Kaye",
+      "Sami Gayle",
+      "Lucy Liu",
+      "Blythe Danner",
+      "James Caan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/detachment.html"
+}

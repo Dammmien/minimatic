@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Pay It Forward",
+    "year": 2000,
+    "cast": [
+      "Haley Joel Osment",
+      "Helen Hunt",
+      "Kevin Spacey",
+      "James Caviezel",
+      "Angie Dickinson",
+      "Jon Bon Jovi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pay-it-forward.html"
+}

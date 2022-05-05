@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Feminine Touch",
+    "year": 1941,
+    "cast": [
+      "Rosalind Russell",
+      "Don Ameche"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-feminine-touch.html"
+}

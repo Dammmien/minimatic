@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Mexican Hayride",
+    "year": 1948,
+    "cast": [
+      "Abbott and Costello"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/mexican-hayride.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Monster from the Ocean Floor",
+    "year": 1954,
+    "cast": [
+      "Anne Kimbell",
+      "Stuart Wade"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/monster-from-the-ocean-floor.html"
+}

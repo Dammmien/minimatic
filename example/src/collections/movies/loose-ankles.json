@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Loose Ankles",
+    "year": 1930,
+    "cast": [
+      "Loretta Young",
+      "Douglas Fairbanks Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/loose-ankles.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "He Was Her Man",
+    "year": 1934,
+    "cast": [
+      "James Cagney",
+      "Joan Blondell",
+      "Victor Jory"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/he-was-her-man.html"
+}

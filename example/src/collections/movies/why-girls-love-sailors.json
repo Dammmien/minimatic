@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Why Girls Love Sailors",
+    "year": 1927,
+    "cast": [
+      "Stan Laurel",
+      "Oliver Hardy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/why-girls-love-sailors.html"
+}

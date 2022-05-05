@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Shutter Island",
+    "year": 2010,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Mark Ruffalo",
+      "Ben Kingsley",
+      "Michelle Williams",
+      "Patricia Clarkson",
+      "Emily Mortimer",
+      "Ted Levine",
+      "John Carroll Lynch",
+      "Elias Koteas",
+      "Jackie Earle Haley",
+      "Max von Sydow"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ]
+  },
+  "output": "movies/shutter-island.html"
+}

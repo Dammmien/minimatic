@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Alien Resurrection",
+    "year": 1997,
+    "cast": [
+      "Sigourney Weaver",
+      "Winona Ryder",
+      "Ron Perlman",
+      "Dan Hedaya"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/alien-resurrection.html"
+}

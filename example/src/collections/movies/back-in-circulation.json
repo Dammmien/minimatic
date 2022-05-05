@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Back in Circulation",
+    "year": 1937,
+    "cast": [
+      "Pat O'Brien",
+      "Joan Blondell",
+      "Margaret Lindsay"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/back-in-circulation.html"
+}

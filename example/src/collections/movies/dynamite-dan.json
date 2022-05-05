@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dynamite Dan",
+    "year": 1924,
+    "cast": [
+      "Frank Rice",
+      "Boris Karloff"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/dynamite-dan.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man of Two Worlds",
+    "year": 1934,
+    "cast": [
+      "Elissa Landi",
+      "Francis Lederer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/man-of-two-worlds.html"
+}

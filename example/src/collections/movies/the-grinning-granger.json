@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Grinning Granger",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-grinning-granger.html"
+}

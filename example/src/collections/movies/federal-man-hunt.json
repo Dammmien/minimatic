@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Federal Man-Hunt",
+    "year": 1938,
+    "cast": [
+      "Robert Livingston",
+      "June Travis"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/federal-man-hunt.html"
+}

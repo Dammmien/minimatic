@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Negotiator",
+    "year": 1998,
+    "cast": [
+      "Samuel L. Jackson",
+      "Kevin Spacey",
+      "John Spencer",
+      "David Morse"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-negotiator.html"
+}

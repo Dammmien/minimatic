@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trail Street",
+    "year": 1947,
+    "cast": [
+      "Randolph Scott",
+      "Robert Ryan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/trail-street.html"
+}

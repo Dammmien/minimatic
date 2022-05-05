@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "London After Midnight",
+    "year": 1927,
+    "cast": [
+      "Lon Chaney",
+      "Marceline Day",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/london-after-midnight.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rainbow Riley",
+    "year": 1926,
+    "cast": [
+      "Johnny Hines",
+      "Bradley Barker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rainbow-riley.html"
+}

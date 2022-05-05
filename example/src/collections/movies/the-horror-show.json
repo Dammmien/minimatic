@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Horror Show",
+    "year": 1989,
+    "cast": [
+      "Lance Henriksen",
+      "Brion James"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-horror-show.html"
+}

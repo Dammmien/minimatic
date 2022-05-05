@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Captain Fury",
+    "year": 1939,
+    "cast": [
+      "Brian Aherne",
+      "Victor McLaglen",
+      "Paul Lukas",
+      "June Lang"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/captain-fury.html"
+}

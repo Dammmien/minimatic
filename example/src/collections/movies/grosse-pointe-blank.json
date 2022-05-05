@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Grosse Pointe Blank",
+    "year": 1997,
+    "cast": [
+      "John Cusack",
+      "Minnie Driver",
+      "Dan Aykroyd",
+      "Alan Arkin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/grosse-pointe-blank.html"
+}

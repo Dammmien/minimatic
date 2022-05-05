@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Circle of Two",
+    "year": 1981,
+    "cast": [
+      "Richard Burton",
+      "Tatum O'Neal"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/circle-of-two.html"
+}

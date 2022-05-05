@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Wolf Man",
+    "year": 1941,
+    "cast": [
+      "Lon Chaney Jr.",
+      "Claude Rains",
+      "Ralph Bellamy",
+      "Bela Lugosi",
+      "Maria Ouspenskaya"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-wolf-man.html"
+}

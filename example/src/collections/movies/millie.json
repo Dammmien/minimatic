@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Millie",
+    "year": 1931,
+    "cast": [
+      "Helen Twelvetrees",
+      "Lilyan Tashman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/millie.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "City of Bad Men",
+    "year": 1953,
+    "cast": [
+      "Dale Robertson",
+      "Jeanne Crain",
+      "Richard Boone"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/city-of-bad-men.html"
+}

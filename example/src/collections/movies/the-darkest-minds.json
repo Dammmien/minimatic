@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "The Darkest Minds",
+    "year": 2018,
+    "cast": [
+      "Amandla Stenberg",
+      "Mandy Moore",
+      "Gwendoline Christie",
+      "Harris Dickinson",
+      "Skylan Brooks",
+      "Miya Cech",
+      "Patrick Gibson",
+      "Golden Brooks",
+      "Bradley Whitford"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-darkest-minds.html"
+}

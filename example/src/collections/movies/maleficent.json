@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Maleficent",
+    "year": 2014,
+    "cast": [
+      "Angelina Jolie",
+      "Elle Fanning",
+      "Sharlto Copley",
+      "Sam Riley"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/maleficent.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Entourage",
+    "year": 2015,
+    "cast": [
+      "Kevin Connolly",
+      "Adrian Grenier",
+      "Kevin Dillon",
+      "Jerry Ferrara",
+      "Jeremy Piven"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/entourage.html"
+}

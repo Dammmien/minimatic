@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Under Oath",
+    "year": 1922,
+    "cast": [
+      "Elaine Hammerstein",
+      "Niles Welch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/under-oath.html"
+}

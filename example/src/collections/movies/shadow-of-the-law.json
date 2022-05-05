@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shadow of the Law",
+    "year": 1930,
+    "cast": [
+      "William Powell",
+      "Marion Shilling"
+    ],
+    "genres": [
+      "Crime",
+      "Romance"
+    ]
+  },
+  "output": "movies/shadow-of-the-law.html"
+}

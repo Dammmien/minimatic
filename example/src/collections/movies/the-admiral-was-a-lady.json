@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Admiral Was a Lady",
+    "year": 1950,
+    "cast": [
+      "Edmond O'Brien",
+      "Wanda Hendrix",
+      "Steve Brodie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-admiral-was-a-lady.html"
+}

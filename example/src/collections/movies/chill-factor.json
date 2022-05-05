@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chill Factor",
+    "year": 1999,
+    "cast": [
+      "Cuba Gooding Jr.",
+      "Skeet Ulrich"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/chill-factor.html"
+}

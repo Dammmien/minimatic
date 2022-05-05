@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Stay Hungry",
+    "year": 1976,
+    "cast": [
+      "Jeff Bridges",
+      "Sally Field",
+      "Arnold Schwarzenegger"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/stay-hungry.html"
+}

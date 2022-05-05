@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Talent Scout",
+    "year": 1937,
+    "cast": [
+      "Donald Woods",
+      "Jeanne Madden",
+      "Fred Lawrence"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/talent-scout.html"
+}

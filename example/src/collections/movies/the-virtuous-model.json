@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Virtuous Model",
+    "year": 1919,
+    "cast": [
+      "Dolores Cassinelli",
+      "Helen Lowell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-virtuous-model.html"
+}

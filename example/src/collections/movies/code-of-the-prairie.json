@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Code of the Prairie",
+    "year": 1944,
+    "cast": [
+      "Smiley Burnette",
+      "Sunset Carson",
+      "Peggy Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/code-of-the-prairie.html"
+}

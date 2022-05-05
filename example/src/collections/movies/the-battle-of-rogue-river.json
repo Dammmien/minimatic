@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Battle of Rogue River",
+    "year": 1954,
+    "cast": [
+      "George Montgomery",
+      "Martha Hyer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-battle-of-rogue-river.html"
+}

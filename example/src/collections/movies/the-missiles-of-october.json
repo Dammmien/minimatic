@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Missiles of October",
+    "year": 1974,
+    "cast": [
+      "William Devane",
+      "Martin Sheen",
+      "Ralph Bellamy",
+      "Howard Da Silva"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-missiles-of-october.html"
+}

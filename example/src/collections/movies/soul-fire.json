@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Soul-Fire",
+    "year": 1925,
+    "cast": [
+      "Richard Barthelmess",
+      "Bessie Love"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/soul-fire.html"
+}

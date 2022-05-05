@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bedazzled",
+    "year": 2000,
+    "cast": [
+      "Brendan Fraser",
+      "Elizabeth Hurley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bedazzled.html"
+}

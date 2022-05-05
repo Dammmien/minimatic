@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hell on Wheels",
+    "year": 1967,
+    "cast": [
+      "Marty Robbins",
+      "John Ashley",
+      "Gigi Perreau"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/hell-on-wheels.html"
+}

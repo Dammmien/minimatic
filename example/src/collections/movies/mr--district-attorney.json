@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. District Attorney",
+    "year": 1947,
+    "cast": [
+      "Dennis O'Keefe",
+      "Adolphe Menjou",
+      "Marguerite Chapman"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/mr--district-attorney.html"
+}

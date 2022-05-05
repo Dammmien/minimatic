@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Midnight Meat Train",
+    "year": 2008,
+    "cast": [
+      "Bradley Cooper",
+      "Leslie Bibb",
+      "Tony Curran"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-midnight-meat-train.html"
+}

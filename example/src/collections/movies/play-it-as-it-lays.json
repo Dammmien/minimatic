@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Play It as It Lays",
+    "year": 1972,
+    "cast": [
+      "Tuesday Weld",
+      "Anthony Perkins",
+      "Adam Roarke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/play-it-as-it-lays.html"
+}

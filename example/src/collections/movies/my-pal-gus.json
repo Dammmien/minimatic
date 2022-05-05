@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Pal Gus",
+    "year": 1952,
+    "cast": [
+      "Richard Widmark",
+      "Joanne Dru"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-pal-gus.html"
+}

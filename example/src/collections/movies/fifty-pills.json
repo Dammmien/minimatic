@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fifty Pills",
+    "year": 2006,
+    "cast": [
+      "Lou Taylor Pucci",
+      "Kristen Bell",
+      "John Hensley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fifty-pills.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lost Honeymoon",
+    "year": 1947,
+    "cast": [
+      "Franchot Tone",
+      "Ann Richards"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lost-honeymoon.html"
+}

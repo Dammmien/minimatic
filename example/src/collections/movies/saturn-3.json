@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Saturn 3",
+    "year": 1980,
+    "cast": [
+      "Kirk Douglas",
+      "Farrah Fawcett",
+      "Harvey Keitel"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/saturn-3.html"
+}

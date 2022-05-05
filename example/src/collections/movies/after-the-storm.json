@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "After the Storm",
+    "year": 1928,
+    "cast": [
+      "Hobart Bosworth",
+      "Maude George"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/after-the-storm.html"
+}

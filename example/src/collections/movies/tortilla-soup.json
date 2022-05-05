@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tortilla Soup",
+    "year": 2001,
+    "cast": [
+      "Jacqueline Obrados",
+      "Tamara Mello",
+      "Héctor Elizondo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tortilla-soup.html"
+}

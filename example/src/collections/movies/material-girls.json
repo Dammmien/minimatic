@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Material Girls",
+    "year": 2006,
+    "cast": [
+      "Hilary Duff",
+      "Haylie Duff",
+      "Anjelica Huston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/material-girls.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In the Mood",
+    "year": 1987,
+    "cast": [
+      "Patrick Dempsey",
+      "Talia Balsam",
+      "Beverly D'Angelo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/in-the-mood.html"
+}

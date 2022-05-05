@@ -1,0 +1,30 @@
+{
+  "data": {
+    "title": "Alvin and the Chipmunks: Chipwrecked",
+    "year": 2011,
+    "cast": [
+      "Jason Lee",
+      "David Cross",
+      "Jenny Slate",
+      "Justin Long",
+      "(voice)",
+      "Matthew Gray Gubler",
+      "(voice)",
+      "Jesse McCartney",
+      "(voice)",
+      "Christina Applegate",
+      "(voice)",
+      "Anna Faris",
+      "(voice)",
+      "Amy Poehler",
+      "(voice)",
+      "Alan Tudyk",
+      "(voice)"
+    ],
+    "genres": [
+      "Family",
+      "Live Action"
+    ]
+  },
+  "output": "movies/alvin-and-the-chipmunks--chipwrecked.html"
+}

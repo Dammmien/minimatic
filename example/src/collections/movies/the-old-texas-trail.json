@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Old Texas Trail",
+    "year": 1944,
+    "cast": [
+      "Rod Cameron",
+      "Virginia Christine"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-old-texas-trail.html"
+}

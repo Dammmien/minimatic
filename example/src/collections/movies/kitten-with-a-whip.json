@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kitten with a Whip",
+    "year": 1964,
+    "cast": [
+      "Ann-Margret",
+      "John Forsythe"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/kitten-with-a-whip.html"
+}

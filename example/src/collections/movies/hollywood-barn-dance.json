@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hollywood Barn Dance",
+    "year": 1947,
+    "cast": [
+      "Ernest Tubb",
+      "Helen Boyce"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hollywood-barn-dance.html"
+}

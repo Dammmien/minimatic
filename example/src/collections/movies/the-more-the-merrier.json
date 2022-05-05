@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The More the Merrier",
+    "year": 1943,
+    "cast": [
+      "Jean Arthur",
+      "Joel McCrea",
+      "Charles Coburn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-more-the-merrier.html"
+}

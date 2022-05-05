@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Girl's Life",
+    "year": 2003,
+    "cast": [
+      "Juliette Marquis",
+      "James Woods",
+      "Kip Pardue"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/this-girl-s-life.html"
+}

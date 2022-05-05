@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Spider",
+    "year": 1945,
+    "cast": [
+      "Richard Conte",
+      "Faye Marlowe",
+      "Cara Williams"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-spider.html"
+}

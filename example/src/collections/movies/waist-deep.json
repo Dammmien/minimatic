@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Waist Deep",
+    "year": 2006,
+    "cast": [
+      "Tyrese Gibson",
+      "Meagan Good",
+      "Larenz Tate",
+      "The Game"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/waist-deep.html"
+}

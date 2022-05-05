@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Luck and Pluck",
+    "year": 1919,
+    "cast": [
+      "George Walsh",
+      "Virginia Lee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/luck-and-pluck.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Devil's Mask",
+    "year": 1946,
+    "cast": [
+      "Anita Louise",
+      "Jim Bannon"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-devil-s-mask.html"
+}

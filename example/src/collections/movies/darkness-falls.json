@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Darkness Falls",
+    "year": 2003,
+    "cast": [
+      "Chaney Kley",
+      "Emma Caulfield",
+      "Lee Cormie"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/darkness-falls.html"
+}

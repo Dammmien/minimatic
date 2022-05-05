@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blood Diamond",
+    "year": 2006,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Jennifer Connelly",
+      "Djimon Hounsou"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blood-diamond.html"
+}

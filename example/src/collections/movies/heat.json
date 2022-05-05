@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "Heat",
+    "year": 1995,
+    "cast": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Val Kilmer",
+      "Ashley Judd",
+      "Amy Brenneman",
+      "Tom Sizemore",
+      "Jon Voight",
+      "Wes Studi",
+      "Ted Levine",
+      "Natalie Portman",
+      "Dennis Haysbert",
+      "Hank Azaria"
+    ],
+    "genres": [
+      "Crime",
+      "Drama",
+      "Action"
+    ]
+  },
+  "output": "movies/heat.html"
+}

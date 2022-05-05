@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rough Romance",
+    "year": 1930,
+    "cast": [
+      "George O'Brien",
+      "Helen Chandler"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rough-romance.html"
+}

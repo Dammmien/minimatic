@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It Can't Last Forever",
+    "year": 1937,
+    "cast": [
+      "Ralph Bellamy",
+      "Betty Furness"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-can-t-last-forever.html"
+}

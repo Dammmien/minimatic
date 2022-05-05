@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Six of a Kind",
+    "year": 1934,
+    "cast": [
+      "Charles Ruggles",
+      "Mary Boland",
+      "George Burns"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/six-of-a-kind.html"
+}

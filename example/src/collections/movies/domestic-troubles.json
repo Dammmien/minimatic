@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Domestic Troubles",
+    "year": 1928,
+    "cast": [
+      "Clyde Cook",
+      "Louise Fazenda"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/domestic-troubles.html"
+}

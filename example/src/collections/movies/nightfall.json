@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nightfall",
+    "year": 1957,
+    "cast": [
+      "Aldo Ray",
+      "Brian Keith",
+      "Anne Bancroft"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/nightfall.html"
+}

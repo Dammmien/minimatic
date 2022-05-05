@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Venetian Affair",
+    "year": 1967,
+    "cast": [
+      "Robert Vaughn",
+      "Elke Sommer",
+      "Felicia Farr"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/the-venetian-affair.html"
+}

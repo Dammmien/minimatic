@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Paranormal Activity: The Marked Ones",
+    "year": 2014,
+    "cast": [
+      "Jorge Diaz",
+      "Andrew Jacobs",
+      "Gabrielle Walsh",
+      "Richard Cabral"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/paranormal-activity--the-marked-ones.html"
+}

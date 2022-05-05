@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hollywood and Vine",
+    "year": 1945,
+    "cast": [
+      "Wanda McKay",
+      "James Ellison"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hollywood-and-vine.html"
+}

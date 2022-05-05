@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Black Circle",
+    "year": 1919,
+    "cast": [
+      "Creighton Hale",
+      "Virginia Valli"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-black-circle.html"
+}

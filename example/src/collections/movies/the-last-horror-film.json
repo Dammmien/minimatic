@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last Horror Film",
+    "year": 1982,
+    "cast": [
+      "Caroline Munro",
+      "Joe Spinell"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/the-last-horror-film.html"
+}

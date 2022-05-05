@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Warpath",
+    "year": 1951,
+    "cast": [
+      "Edmond O'Brien",
+      "Dean Jagger",
+      "Forrest Tucker",
+      "Polly Bergen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/warpath.html"
+}

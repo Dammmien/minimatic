@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Who's Got the Action?",
+    "year": 1962,
+    "cast": [
+      "Dean Martin",
+      "Lana Turner",
+      "Walter Matthau"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/who-s-got-the-action-.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shadows of the Night",
+    "year": 1928,
+    "cast": [
+      "Lawrence Gray",
+      "Louise Lorraine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shadows-of-the-night.html"
+}

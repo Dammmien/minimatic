@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shadow in the Sky",
+    "year": 1952,
+    "cast": [
+      "Ralph Meeker",
+      "Nancy Davis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shadow-in-the-sky.html"
+}

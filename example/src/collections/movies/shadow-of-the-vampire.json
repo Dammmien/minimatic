@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shadow of the Vampire",
+    "year": 2000,
+    "cast": [
+      "John Malkovich",
+      "Willem Dafoe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shadow-of-the-vampire.html"
+}

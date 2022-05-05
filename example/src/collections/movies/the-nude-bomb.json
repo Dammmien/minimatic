@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Nude Bomb",
+    "year": 1980,
+    "cast": [
+      "Don Adams",
+      "Rhonda Fleming"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-nude-bomb.html"
+}

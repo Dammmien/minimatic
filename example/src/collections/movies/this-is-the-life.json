@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "This Is the Life",
+    "year": 1944,
+    "cast": [
+      "Donald O'Connor",
+      "Susanna Foster"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/this-is-the-life.html"
+}

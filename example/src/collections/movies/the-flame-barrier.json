@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Flame Barrier",
+    "year": 1958,
+    "cast": [
+      "Arthur Franz",
+      "Kathleen Crowley"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-flame-barrier.html"
+}

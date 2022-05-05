@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Vanishing Virginian",
+    "year": 1942,
+    "cast": [
+      "Kathryn Grayson",
+      "Frank Morgan"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-vanishing-virginian.html"
+}

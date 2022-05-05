@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rio Grande Romance",
+    "year": 1936,
+    "cast": [
+      "Edward J. Nugent",
+      "Maxine Doyle"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/rio-grande-romance.html"
+}

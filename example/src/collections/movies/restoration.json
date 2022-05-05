@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Restoration",
+    "year": 1995,
+    "cast": [
+      "Robert Downey, Jr.",
+      "Meg Ryan",
+      "Sam Neill",
+      "Hugh Grant"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/restoration.html"
+}

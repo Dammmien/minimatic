@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "True Story",
+    "year": 2015,
+    "cast": [
+      "Jonah Hill",
+      "James Franco",
+      "Felicity Jones",
+      "Gretchen Mol"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/true-story.html"
+}

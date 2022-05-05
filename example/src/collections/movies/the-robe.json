@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Robe",
+    "year": 1953,
+    "cast": [
+      "Richard Burton",
+      "Jean Simmons",
+      "Victor Mature",
+      "Michael Rennie",
+      "Richard Boone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-robe.html"
+}

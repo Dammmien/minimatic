@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wife, Husband and Friend",
+    "year": 1939,
+    "cast": [
+      "Loretta Young",
+      "Warner Baxter",
+      "Binnie Barnes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wife--husband-and-friend.html"
+}

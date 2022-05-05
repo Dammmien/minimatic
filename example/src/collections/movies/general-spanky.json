@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "General Spanky",
+    "year": 1936,
+    "cast": [
+      "George McFarland",
+      "Phillips Holmes",
+      "Rosina Lawrence"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/general-spanky.html"
+}

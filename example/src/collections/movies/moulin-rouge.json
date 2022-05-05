@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Moulin Rouge",
+    "year": 1934,
+    "cast": [
+      "Constance Bennett",
+      "Franchot Tone",
+      "Tullio Carminati"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/moulin-rouge.html"
+}

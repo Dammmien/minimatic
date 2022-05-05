@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Goose Woman",
+    "year": 1925,
+    "cast": [
+      "Louise Dresser",
+      "Jack Pickford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-goose-woman.html"
+}

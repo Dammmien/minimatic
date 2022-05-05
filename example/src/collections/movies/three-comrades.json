@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Comrades",
+    "year": 1938,
+    "cast": [
+      "Robert Taylor",
+      "Franchot Tone",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/three-comrades.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Richard Pryor: Here and Now",
+    "year": 1983,
+    "cast": [
+      "Richard Pryor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/richard-pryor--here-and-now.html"
+}

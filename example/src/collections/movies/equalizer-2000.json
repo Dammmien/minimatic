@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Equalizer 2000",
+    "year": 1986,
+    "cast": [
+      "Richard Norton",
+      "Robert Patrick"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/equalizer-2000.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nutty But Nice",
+    "year": 1940,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/nutty-but-nice.html"
+}

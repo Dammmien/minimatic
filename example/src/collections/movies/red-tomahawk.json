@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Red Tomahawk",
+    "year": 1966,
+    "cast": [
+      "Joan Caulfield",
+      "Howard Keel",
+      "Broderick Crawford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/red-tomahawk.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Manny & Lo",
+    "year": 1996,
+    "cast": [
+      "Scarlett Johansson",
+      "Mary Kay Place"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/manny---lo.html"
+}

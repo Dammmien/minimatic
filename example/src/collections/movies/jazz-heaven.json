@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jazz Heaven",
+    "year": 1929,
+    "cast": [
+      "Sally O'Neil",
+      "Johnny Mack Brown"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/jazz-heaven.html"
+}

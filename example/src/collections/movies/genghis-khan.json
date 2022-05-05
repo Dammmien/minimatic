@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Genghis Khan",
+    "year": 1965,
+    "cast": [
+      "Omar Sharif",
+      "James Mason",
+      "Eli Wallach"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/genghis-khan.html"
+}

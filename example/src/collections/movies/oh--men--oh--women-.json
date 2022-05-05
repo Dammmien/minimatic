@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Oh, Men! Oh, Women!",
+    "year": 1957,
+    "cast": [
+      "Ginger Rogers",
+      "Dan Dailey",
+      "David Niven"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/oh--men--oh--women-.html"
+}

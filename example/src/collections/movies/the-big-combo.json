@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Big Combo",
+    "year": 1955,
+    "cast": [
+      "Cornel Wilde",
+      "Richard Conte"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-big-combo.html"
+}

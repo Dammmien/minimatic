@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fighting Trouble",
+    "year": 1956,
+    "cast": [
+      "Huntz Hall",
+      "Stanley Clements",
+      "Adele Jergens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fighting-trouble.html"
+}

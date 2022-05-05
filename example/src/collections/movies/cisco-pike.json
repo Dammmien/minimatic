@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cisco Pike",
+    "year": 1972,
+    "cast": [
+      "Kris Kristofferson",
+      "Gene Hackman",
+      "Karen Black",
+      "Harry Dean Stanton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cisco-pike.html"
+}

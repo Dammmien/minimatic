@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lady in Ermine",
+    "year": 1927,
+    "cast": [
+      "Corinne Griffith",
+      "Francis X. Bushman"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lady-in-ermine.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl of Gold",
+    "year": 1925,
+    "cast": [
+      "Florence Vidor",
+      "Malcolm McGregor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-girl-of-gold.html"
+}

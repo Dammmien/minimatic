@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "White Nights",
+    "year": 1985,
+    "cast": [
+      "Mikhail Baryshnikov",
+      "Gregory Hines",
+      "Helen Mirren",
+      "Isabella Rossellini",
+      "Geraldine Page"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/white-nights.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Me, Myself & I",
+    "year": 1992,
+    "cast": [
+      "JoBeth Williams",
+      "George Segal",
+      "Shelley Hack"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/me--myself---i.html"
+}

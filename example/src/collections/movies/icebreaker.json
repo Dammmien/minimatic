@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Icebreaker",
+    "year": 2000,
+    "cast": [
+      "Sean Astin",
+      "Stacy Keach",
+      "Bruce Campbell"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/icebreaker.html"
+}

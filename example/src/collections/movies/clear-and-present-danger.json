@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Clear and Present Danger",
+    "year": 1994,
+    "cast": [
+      "Harrison Ford",
+      "Willem Dafoe",
+      "Anne Archer",
+      "James Earl Jones",
+      "Donald Moffat",
+      "Harris Yulin",
+      "Joaquim de Almeida",
+      "Henry Czerny"
+    ],
+    "genres": [
+      "Action",
+      "Drama"
+    ]
+  },
+  "output": "movies/clear-and-present-danger.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Broadway Melody of 1936",
+    "year": 1935,
+    "cast": [
+      "Eleanor Powell",
+      "Robert Taylor",
+      "Jack Benny"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/broadway-melody-of-1936.html"
+}

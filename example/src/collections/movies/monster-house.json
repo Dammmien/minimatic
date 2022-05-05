@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Monster House",
+    "year": 2006,
+    "cast": [
+      "Mitchel Musso",
+      "Sam Lerner",
+      "Spencer Locke",
+      "Steve Buscemi"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/monster-house.html"
+}

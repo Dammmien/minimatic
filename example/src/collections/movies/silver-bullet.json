@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Silver Bullet",
+    "year": 1985,
+    "cast": [
+      "Gary Busey",
+      "Corey Haim",
+      "Everett McGill",
+      "Megan Follows"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/silver-bullet.html"
+}

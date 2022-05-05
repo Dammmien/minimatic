@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Killer McCoy",
+    "year": 1947,
+    "cast": [
+      "Mickey Rooney",
+      "Brian Donlevy",
+      "Ann Blyth"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/killer-mccoy.html"
+}

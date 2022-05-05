@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Young People",
+    "year": 1940,
+    "cast": [
+      "Shirley Temple",
+      "Jack Oakie",
+      "Charlotte Greenwood"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/young-people.html"
+}

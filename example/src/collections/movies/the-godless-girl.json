@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Godless Girl",
+    "year": 1928,
+    "cast": [
+      "Lina Basquette",
+      "Tom Keene"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-godless-girl.html"
+}

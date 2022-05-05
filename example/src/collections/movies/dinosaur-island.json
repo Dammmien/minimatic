@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dinosaur Island",
+    "year": 1994,
+    "cast": [
+      "Ross Hagen",
+      "Antonia Dorian"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/dinosaur-island.html"
+}

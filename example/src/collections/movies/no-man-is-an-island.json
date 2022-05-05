@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "No Man Is an Island",
+    "year": 1962,
+    "cast": [
+      "Jeffrey Hunter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/no-man-is-an-island.html"
+}

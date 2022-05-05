@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Cover the Underworld",
+    "year": 1955,
+    "cast": [
+      "Sean McClory",
+      "Joanne Jordan"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/i-cover-the-underworld.html"
+}

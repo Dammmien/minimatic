@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Whom the Gods Destroy",
+    "year": 1934,
+    "cast": [
+      "Walter Connolly",
+      "Robert Young",
+      "Doris Kenyon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/whom-the-gods-destroy.html"
+}

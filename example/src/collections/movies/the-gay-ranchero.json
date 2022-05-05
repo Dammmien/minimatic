@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gay Ranchero",
+    "year": 1948,
+    "cast": [
+      "Roy Rogers",
+      "Jane Frazee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-gay-ranchero.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lorna Doone",
+    "year": 1951,
+    "cast": [
+      "Barbara Hale",
+      "Richard Greene"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/lorna-doone.html"
+}

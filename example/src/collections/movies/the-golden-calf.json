@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Golden Calf",
+    "year": 1930,
+    "cast": [
+      "Jack Mulhall",
+      "Sue Carol"
+    ],
+    "genres": [
+      "Musical",
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-golden-calf.html"
+}

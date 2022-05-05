@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Woman of the Sea",
+    "year": 1926,
+    "cast": [
+      "Edna Purviance",
+      "Raymond Bloomer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-woman-of-the-sea.html"
+}

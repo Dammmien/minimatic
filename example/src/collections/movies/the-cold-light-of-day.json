@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "The Cold Light of Day",
+    "year": 2012,
+    "cast": [
+      "Henry Cavill",
+      "Sigourney Weaver",
+      "and",
+      "Bruce Willis",
+      "Verónica Echegui",
+      "Roschdy Zem",
+      "Oscar Jaenada",
+      "Joseph Mawle",
+      "Caroline Goodall",
+      "Rafi Gavron",
+      "Emma Hamilton",
+      "Michael Budd",
+      "Jim Piddock",
+      "Paloma Bloyd",
+      "Colm Meaney"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-cold-light-of-day.html"
+}

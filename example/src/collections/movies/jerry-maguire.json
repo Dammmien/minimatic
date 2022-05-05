@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Jerry Maguire",
+    "year": 1996,
+    "cast": [
+      "Tom Cruise",
+      "Renée Zellweger",
+      "Cuba Gooding Jr.",
+      "Bonnie Hunt",
+      "Jay Mohr",
+      "Kelly Preston",
+      "Jerry O'Connell"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/jerry-maguire.html"
+}

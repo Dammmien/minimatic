@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Vanishing American",
+    "year": 1955,
+    "cast": [
+      "Audrey Totter",
+      "Scott Brady"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-vanishing-american.html"
+}

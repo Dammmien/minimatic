@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Through the Dark",
+    "year": 1924,
+    "cast": [
+      "Colleen Moore",
+      "Forrest Stanley"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/through-the-dark.html"
+}

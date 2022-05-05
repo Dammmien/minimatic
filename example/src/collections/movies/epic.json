@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "Epic",
+    "year": 2013,
+    "cast": [
+      "Beyoncé Knowles",
+      "Colin Farrell",
+      "Josh Hutcherson",
+      "Amanda Seyfried",
+      "Christoph Waltz",
+      "Aziz Ansari",
+      "Pitbull",
+      "Jason Sudeikis",
+      "Chris O'Dowd",
+      "Steven Tyler",
+      "Blake Anderson",
+      "Judah Friedlander"
+    ],
+    "genres": [
+      "Adventure",
+      "Animated",
+      "Family",
+      "Fantasy",
+      "Comedy"
+    ]
+  },
+  "output": "movies/epic.html"
+}

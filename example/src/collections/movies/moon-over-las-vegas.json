@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Moon Over Las Vegas",
+    "year": 1944,
+    "cast": [
+      "Anne Gwynne",
+      "Barbara Jo Allen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/moon-over-las-vegas.html"
+}

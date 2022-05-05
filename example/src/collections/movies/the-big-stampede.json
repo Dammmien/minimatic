@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Big Stampede",
+    "year": 1932,
+    "cast": [
+      "John Wayne",
+      "Noah Beery"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-big-stampede.html"
+}

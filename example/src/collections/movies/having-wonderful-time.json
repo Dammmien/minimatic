@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Having Wonderful Time",
+    "year": 1938,
+    "cast": [
+      "Ginger Rogers",
+      "Douglas Fairbanks Jr.",
+      "Eve Arden"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/having-wonderful-time.html"
+}

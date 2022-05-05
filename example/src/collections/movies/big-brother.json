@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Big Brother",
+    "year": 1923,
+    "cast": [
+      "Tom Moore",
+      "Edith Roberts"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/big-brother.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hawk's Nest",
+    "year": 1928,
+    "cast": [
+      "Milton Sills",
+      "Doris Kenyon"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-hawk-s-nest.html"
+}

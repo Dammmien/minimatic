@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gunfighters",
+    "year": 1947,
+    "cast": [
+      "Randolph Scott",
+      "Barbara Britton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gunfighters.html"
+}

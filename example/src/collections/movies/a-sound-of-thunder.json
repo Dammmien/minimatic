@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Sound of Thunder",
+    "year": 2005,
+    "cast": [
+      "Edward Burns",
+      "Ben Kingsley",
+      "Catherine McCormack"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/a-sound-of-thunder.html"
+}

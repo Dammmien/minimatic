@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Pawnshop",
+    "year": 1916,
+    "cast": [
+      "Charlie Chaplin",
+      "Edna Purviance",
+      "Henry Bergman"
+    ],
+    "genres": [
+      "Short",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-pawnshop.html"
+}

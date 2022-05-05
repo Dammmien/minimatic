@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Getting Straight",
+    "year": 1970,
+    "cast": [
+      "Elliott Gould",
+      "Candice Bergen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/getting-straight.html"
+}

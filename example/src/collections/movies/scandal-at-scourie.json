@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scandal at Scourie",
+    "year": 1953,
+    "cast": [
+      "Greer Garson",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/scandal-at-scourie.html"
+}

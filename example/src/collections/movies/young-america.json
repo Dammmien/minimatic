@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Young America",
+    "year": 1942,
+    "cast": [
+      "Jane Withers",
+      "Jane Darwell",
+      "Lynne Roberts"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/young-america.html"
+}

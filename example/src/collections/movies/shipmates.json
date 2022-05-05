@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shipmates",
+    "year": 1931,
+    "cast": [
+      "Robert Montgomery",
+      "Dorothy Jordan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/shipmates.html"
+}

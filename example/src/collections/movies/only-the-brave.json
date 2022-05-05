@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Only the Brave",
+    "year": 2017,
+    "cast": [
+      "Ben Hardy",
+      "Jennifer Connelly",
+      "Taylor Kitsch",
+      "Miles Teller",
+      "James Badge Dale",
+      "Josh Brolin",
+      "Jeff Bridges"
+    ],
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/only-the-brave.html"
+}

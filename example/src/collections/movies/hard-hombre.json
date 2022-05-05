@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hard Hombre",
+    "year": 1931,
+    "cast": [
+      "Hoot Gibson",
+      "Lina Basquette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hard-hombre.html"
+}

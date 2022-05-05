@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Whip It",
+    "year": 2009,
+    "cast": [
+      "Ellen Page",
+      "Marcia Gay Harden",
+      "Kristen Wiig",
+      "Drew Barrymore",
+      "Juliette Lewis",
+      "Jimmy Fallon",
+      "Daniel Stern"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/whip-it.html"
+}

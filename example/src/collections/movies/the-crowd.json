@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Crowd",
+    "year": 1928,
+    "cast": [
+      "Eleanor Boardman",
+      "James Murray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-crowd.html"
+}

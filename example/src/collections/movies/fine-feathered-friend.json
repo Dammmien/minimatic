@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fine Feathered Friend",
+    "year": 1942,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/fine-feathered-friend.html"
+}

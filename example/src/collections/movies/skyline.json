@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Skyline",
+    "year": 2010,
+    "cast": [
+      "Eric Balfour",
+      "Scottie Thompson",
+      "Donald Faison",
+      "David Zayas",
+      "Brittany Daniel",
+      "Neil Hopkins"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ]
+  },
+  "output": "movies/skyline.html"
+}

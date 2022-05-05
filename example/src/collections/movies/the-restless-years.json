@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Restless Years",
+    "year": 1958,
+    "cast": [
+      "John Saxon",
+      "Sandra Dee"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-restless-years.html"
+}

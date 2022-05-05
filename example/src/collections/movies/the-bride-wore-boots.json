@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Bride Wore Boots",
+    "year": 1946,
+    "cast": [
+      "Barbara Stanwyck",
+      "Robert Cummings",
+      "Diana Lynn",
+      "Patric Knowles"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bride-wore-boots.html"
+}

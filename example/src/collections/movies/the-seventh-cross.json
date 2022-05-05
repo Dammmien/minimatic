@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Seventh Cross",
+    "year": 1944,
+    "cast": [
+      "Spencer Tracy",
+      "Hume Cronyn"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-seventh-cross.html"
+}

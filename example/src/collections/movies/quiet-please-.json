@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Quiet Please!",
+    "year": 1945,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/quiet-please-.html"
+}

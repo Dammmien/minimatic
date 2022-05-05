@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Jurassic World: Fallen Kingdom",
+    "year": 2018,
+    "cast": [
+      "Chris Pratt",
+      "Bryce Dallas Howard",
+      "Rafe Spall",
+      "Justice Smith",
+      "Daniella Pineda",
+      "James Cromwell",
+      "Toby Jones",
+      "Ted Levine",
+      "B. D. Wong",
+      "Geraldine Chaplin",
+      "Jeff Goldblum"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/jurassic-world--fallen-kingdom.html"
+}

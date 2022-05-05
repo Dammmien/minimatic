@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "The Blazing Sun",
+    "year": 1950,
+    "cast": [
+      "Western"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-blazing-sun.html"
+}

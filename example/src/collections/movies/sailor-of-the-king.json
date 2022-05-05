@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sailor of the King",
+    "year": 1953,
+    "cast": [
+      "Jeffrey Hunter",
+      "Michael Rennie"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/sailor-of-the-king.html"
+}

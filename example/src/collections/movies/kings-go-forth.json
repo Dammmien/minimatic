@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kings Go Forth",
+    "year": 1958,
+    "cast": [
+      "Frank Sinatra",
+      "Tony Curtis",
+      "Natalie Wood"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/kings-go-forth.html"
+}

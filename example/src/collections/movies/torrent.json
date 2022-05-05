@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Torrent",
+    "year": 1926,
+    "cast": [
+      "Greta Garbo",
+      "Ricardo Cortez"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/torrent.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Accuse My Parents",
+    "year": 1944,
+    "cast": [
+      "Mary Beth Hughes",
+      "Vivienne Osborne"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/i-accuse-my-parents.html"
+}

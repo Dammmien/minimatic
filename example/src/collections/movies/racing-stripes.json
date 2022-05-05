@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Racing Stripes",
+    "year": 2005,
+    "cast": [
+      "Frankie Muniz",
+      "Hayden Panettiere"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/racing-stripes.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Desert Horseman",
+    "year": 1946,
+    "cast": [
+      "Charles Starrett",
+      "Smiley Burnette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-desert-horseman.html"
+}

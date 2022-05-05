@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rustling for Cupid",
+    "year": 1926,
+    "cast": [
+      "George O'Brien",
+      "Anita Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rustling-for-cupid.html"
+}

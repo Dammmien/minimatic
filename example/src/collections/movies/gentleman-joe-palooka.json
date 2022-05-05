@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gentleman Joe Palooka",
+    "year": 1946,
+    "cast": [
+      "Leon Errol",
+      "Joe Kirkwood",
+      "Elyse Knox"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/gentleman-joe-palooka.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Leathernecking",
+    "year": 1930,
+    "cast": [
+      "Irene Dunne",
+      "Ken Murray"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/leathernecking.html"
+}

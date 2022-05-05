@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pettigrew's Girl",
+    "year": 1919,
+    "cast": [
+      "Ethel Clayton",
+      "Monte Blue",
+      "Charles K. Gerrard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pettigrew-s-girl.html"
+}

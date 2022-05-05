@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Highway 13",
+    "year": 1948,
+    "cast": [
+      "Robert Lowery",
+      "Pamela Blake"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/highway-13.html"
+}

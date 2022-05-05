@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Uranium Boom",
+    "year": 1956,
+    "cast": [
+      "Dennis Morgan",
+      "William Talman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/uranium-boom.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beach Rats",
+    "year": 2017,
+    "cast": [
+      "Harris Dickinson",
+      "Madeline Weinstein",
+      "Kate Hodge"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beach-rats.html"
+}

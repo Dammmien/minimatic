@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pursuit of Happiness",
+    "year": 1971,
+    "cast": [
+      "Michael Sarrazin",
+      "Barbara Hershey",
+      "Robert Klein"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-pursuit-of-happiness.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Last Tycoon",
+    "year": 1976,
+    "cast": [
+      "Robert De Niro",
+      "Tony Curtis",
+      "Robert Mitchum",
+      "Ray Milland",
+      "Theresa Russell",
+      "Jack Nicholson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-last-tycoon.html"
+}

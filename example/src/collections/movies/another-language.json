@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Another Language",
+    "year": 1933,
+    "cast": [
+      "Robert Montgomery",
+      "Helen Hayes"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/another-language.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Show-Off",
+    "year": 1946,
+    "cast": [
+      "Red Skelton",
+      "Marilyn Maxwell",
+      "Virginia O'Brien"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-show-off.html"
+}

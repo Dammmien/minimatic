@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Three Wise Fools",
+    "year": 1946,
+    "cast": [
+      "Margaret O'Brien",
+      "Lionel Barrymore",
+      "Lewis Stone"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/three-wise-fools.html"
+}

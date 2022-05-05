@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Semi-Tough",
+    "year": 1977,
+    "cast": [
+      "Burt Reynolds",
+      "Kris Kristofferson",
+      "Jill Clayburgh",
+      "Robert Preston",
+      "Brian Dennehy",
+      "Carl Weathers",
+      "Bert Convy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/semi-tough.html"
+}

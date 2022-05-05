@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Best People",
+    "year": 1925,
+    "cast": [
+      "Warner Baxter",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-best-people.html"
+}

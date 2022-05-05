@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lonely Trail",
+    "year": 1936,
+    "cast": [
+      "John Wayne",
+      "Ann Rutherford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-lonely-trail.html"
+}

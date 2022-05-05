@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ghostbusters",
+    "year": 2016,
+    "cast": [
+      "Melissa McCarthy",
+      "Kristen Wiig"
+    ],
+    "genres": [
+      "Supernatural",
+      "Comedy"
+    ]
+  },
+  "output": "movies/ghostbusters.html"
+}

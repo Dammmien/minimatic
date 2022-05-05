@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Song for Miss Julie",
+    "year": 1945,
+    "cast": [
+      "Shirley Ross"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/a-song-for-miss-julie.html"
+}

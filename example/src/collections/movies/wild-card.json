@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wild Card",
+    "year": 2015,
+    "cast": [
+      "Jason Statham",
+      "Michael Angarano",
+      "Stanley Tucci",
+      "Sofia Vergara"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wild-card.html"
+}

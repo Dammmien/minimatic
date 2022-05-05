@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Speed Wings",
+    "year": 1934,
+    "cast": [
+      "Tim McCoy",
+      "Evalyn Knapp"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/speed-wings.html"
+}

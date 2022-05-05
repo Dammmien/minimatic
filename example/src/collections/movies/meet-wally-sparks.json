@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Meet Wally Sparks",
+    "year": 1997,
+    "cast": [
+      "Rodney Dangerfield",
+      "Burt Reynolds",
+      "Cindy Williams"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/meet-wally-sparks.html"
+}

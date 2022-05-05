@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Roaring Adventure",
+    "year": 1925,
+    "cast": [
+      "Jack Hoxie",
+      "Mary McAllister",
+      "Marin Sais"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-roaring-adventure.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Yellowneck",
+    "year": 1955,
+    "cast": [
+      "Lin McCarthy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/yellowneck.html"
+}

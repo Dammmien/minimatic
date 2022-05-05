@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sinners in the Sun",
+    "year": 1932,
+    "cast": [
+      "Carole Lombard",
+      "Chester Morris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sinners-in-the-sun.html"
+}

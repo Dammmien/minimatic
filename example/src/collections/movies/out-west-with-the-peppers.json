@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Out West with the Peppers",
+    "year": 1940,
+    "cast": [
+      "Edith Fellows"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/out-west-with-the-peppers.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Single Man",
+    "year": 2009,
+    "cast": [
+      "Colin Firth",
+      "Julianne Moore",
+      "Matthew Goode",
+      "Nicholas Hoult"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-single-man.html"
+}

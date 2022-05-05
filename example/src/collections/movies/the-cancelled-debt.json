@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cancelled Debt",
+    "year": 1927,
+    "cast": [
+      "Rex Lease",
+      "Charlotte Stevens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-cancelled-debt.html"
+}

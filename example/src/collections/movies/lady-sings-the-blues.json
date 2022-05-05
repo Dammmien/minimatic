@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lady Sings the Blues",
+    "year": 1972,
+    "cast": [
+      "Diana Ross",
+      "Billy Dee Williams",
+      "Richard Pryor"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/lady-sings-the-blues.html"
+}

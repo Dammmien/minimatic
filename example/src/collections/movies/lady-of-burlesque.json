@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lady of Burlesque",
+    "year": 1943,
+    "cast": [
+      "Barbara Stanwyck",
+      "Michael O'Shea"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/lady-of-burlesque.html"
+}

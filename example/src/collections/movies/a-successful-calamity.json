@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Successful Calamity",
+    "year": 1932,
+    "cast": [
+      "George Arliss",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-successful-calamity.html"
+}

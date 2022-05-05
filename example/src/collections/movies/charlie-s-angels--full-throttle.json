@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Charlie's Angels: Full Throttle",
+    "year": 2003,
+    "cast": [
+      "Cameron Diaz",
+      "Drew Barrymore",
+      "Lucy Liu",
+      "Bernie Mac",
+      "Demi Moore"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/charlie-s-angels--full-throttle.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rumble on the Docks",
+    "year": 1956,
+    "cast": [
+      "James Darren",
+      "Michael Granger"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/rumble-on-the-docks.html"
+}

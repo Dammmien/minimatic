@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Cat in the Hat",
+    "year": 2003,
+    "cast": [
+      "Mike Myers",
+      "Alec Baldwin",
+      "Dakota Fanning",
+      "Spencer Breslin",
+      "Kelly Preston",
+      "Sean Hayes"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-cat-in-the-hat.html"
+}

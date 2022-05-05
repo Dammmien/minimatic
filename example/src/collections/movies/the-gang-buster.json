@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gang Buster",
+    "year": 1931,
+    "cast": [
+      "Jean Arthur",
+      "William Boyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-gang-buster.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Grapes of Wrath",
+    "year": 1940,
+    "cast": [
+      "Henry Fonda",
+      "Jane Darwell",
+      "John Carradine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-grapes-of-wrath.html"
+}

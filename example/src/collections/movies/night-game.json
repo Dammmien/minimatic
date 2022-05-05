@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Night Game",
+    "year": 1989,
+    "cast": [
+      "Roy Scheider",
+      "Karen Young"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/night-game.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Demon Knight",
+    "year": 1995,
+    "cast": [
+      "William Sadler",
+      "Billy Zane",
+      "Jada Pinkett Smith"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/demon-knight.html"
+}

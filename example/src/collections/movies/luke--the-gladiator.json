@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Luke, the Gladiator",
+    "year": 1916,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Short",
+      "Comedy"
+    ]
+  },
+  "output": "movies/luke--the-gladiator.html"
+}

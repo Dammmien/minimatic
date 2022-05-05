@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright Penn",
+      "Gary Sinise",
+      "Sally Field",
+      "Mykelti Williamson",
+      "Haley Joel Osment"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/forrest-gump.html"
+}

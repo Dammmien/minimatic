@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Broadway Hostess",
+    "year": 1935,
+    "cast": [
+      "Winifred Shaw",
+      "Genevieve Tobin",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/broadway-hostess.html"
+}

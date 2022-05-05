@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Get Hep to Love",
+    "year": 1942,
+    "cast": [
+      "Donald O'Connor",
+      "Peggy Ryan"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/get-hep-to-love.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Rugrats Movie",
+    "year": 1998,
+    "cast": [
+      "E. G. Daily",
+      "Christine Cavanaugh",
+      "Kath Soucie"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-rugrats-movie.html"
+}

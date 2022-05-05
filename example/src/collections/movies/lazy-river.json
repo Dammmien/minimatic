@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lazy River",
+    "year": 1934,
+    "cast": [
+      "Jean Parker",
+      "Robert Young"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lazy-river.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Tender Trap",
+    "year": 1955,
+    "cast": [
+      "Frank Sinatra",
+      "Debbie Reynolds",
+      "Celeste Holm"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-tender-trap.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bad Boys II",
+    "year": 2003,
+    "cast": [
+      "Martin Lawrence",
+      "Will Smith"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/bad-boys-ii.html"
+}

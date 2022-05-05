@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Behind the Screen",
+    "year": 1916,
+    "cast": [
+      "Charlie Chaplin",
+      "Edna Purviance",
+      "Eric Campbell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/behind-the-screen.html"
+}

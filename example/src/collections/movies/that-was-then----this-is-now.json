@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "That Was Then... This Is Now",
+    "year": 1985,
+    "cast": [
+      "Emilio Estevez",
+      "Morgan Freeman",
+      "Craig Sheffer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/that-was-then----this-is-now.html"
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Venom",
+    "year": 2018,
+    "cast": [
+      "Tom Hardy",
+      "Michelle Williams",
+      "Riz Ahmed",
+      "Scott Haze",
+      "Reid Scott",
+      "Jenny Slate"
+    ],
+    "genres": [
+      "Superhero",
+      "Horror",
+      "Action",
+      "Science Fiction",
+      "Thriller"
+    ]
+  },
+  "output": "movies/venom.html"
+}

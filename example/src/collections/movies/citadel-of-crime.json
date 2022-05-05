@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Citadel of Crime",
+    "year": 1941,
+    "cast": [
+      "Robert Armstrong"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/citadel-of-crime.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Escape",
+    "year": 1948,
+    "cast": [
+      "Rex Harrison",
+      "Peggy Cummins"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/escape.html"
+}

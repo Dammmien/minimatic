@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The ABCs of Death",
+    "year": 2013,
+    "cast": [
+      "A collection of 26 individual chapters",
+      "each aligned with a letter of the alphabet."
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-abcs-of-death.html"
+}

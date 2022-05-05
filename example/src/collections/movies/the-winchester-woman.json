@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Winchester Woman",
+    "year": 1919,
+    "cast": [
+      "Alice Joyce",
+      "Percy Marmont"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-winchester-woman.html"
+}

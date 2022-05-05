@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fatal Glass of Beer",
+    "year": 1916,
+    "cast": [
+      "Elmo Lincoln",
+      "Tully Marshall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fatal-glass-of-beer.html"
+}

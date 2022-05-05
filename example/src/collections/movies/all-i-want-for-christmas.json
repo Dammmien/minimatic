@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "All I Want for Christmas",
+    "year": 1991,
+    "cast": [
+      "Harley Jane Kozak",
+      "Thora Birch",
+      "Ethan Embry",
+      "Jamey Sheridan",
+      "Leslie Nielsen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/all-i-want-for-christmas.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Yellowstone Kelly",
+    "year": 1959,
+    "cast": [
+      "Clint Walker",
+      "Edd Byrnes",
+      "Ray Danton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/yellowstone-kelly.html"
+}

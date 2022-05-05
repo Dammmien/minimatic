@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Forbidden Planet",
+    "year": 1956,
+    "cast": [
+      "Leslie Nielsen",
+      "Walter Pidgeon",
+      "Anne Francis"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/forbidden-planet.html"
+}

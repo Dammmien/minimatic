@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "UHF",
+    "year": 1989,
+    "cast": [
+      "Weird Al Yankovic",
+      "Michael Richards"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/uhf.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Furies",
+    "year": 1950,
+    "cast": [
+      "Walter Huston",
+      "Barbara Stanwyck",
+      "Wendell Corey",
+      "Judith Anderson",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Western",
+      "Noir"
+    ]
+  },
+  "output": "movies/the-furies.html"
+}

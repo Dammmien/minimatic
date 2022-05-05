@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Extracted",
+    "year": 2012,
+    "cast": [
+      "Sasha Roiz",
+      "Rodney Eastman",
+      "Dominic Bogart",
+      "Jenny Molin",
+      "Nick Jamison",
+      "Brad Culver"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/extracted.html"
+}

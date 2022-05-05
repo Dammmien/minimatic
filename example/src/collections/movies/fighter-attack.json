@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighter Attack",
+    "year": 1953,
+    "cast": [
+      "Sterling Hayden",
+      "Joy Page"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/fighter-attack.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Flagpole Jitters",
+    "year": 1956,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/flagpole-jitters.html"
+}

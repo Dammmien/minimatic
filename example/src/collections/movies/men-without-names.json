@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Men Without Names",
+    "year": 1935,
+    "cast": [
+      "Fred MacMurray",
+      "Madge Evans",
+      "J. C. Nugent"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/men-without-names.html"
+}

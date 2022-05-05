@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flight into Nowhere",
+    "year": 1938,
+    "cast": [
+      "Jack Holt",
+      "Jacqueline Wells",
+      "Dick Purcell"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/flight-into-nowhere.html"
+}

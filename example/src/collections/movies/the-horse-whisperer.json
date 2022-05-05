@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Horse Whisperer",
+    "year": 1998,
+    "cast": [
+      "Robert Redford",
+      "Kristin Scott Thomas",
+      "Sam Neill",
+      "Chris Cooper",
+      "Dianne Wiest",
+      "Scarlett Johansson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-horse-whisperer.html"
+}

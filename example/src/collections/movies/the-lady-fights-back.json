@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lady Fights Back",
+    "year": 1937,
+    "cast": [
+      "Kent Taylor",
+      "Irene Hervey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lady-fights-back.html"
+}

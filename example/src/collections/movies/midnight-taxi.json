@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Midnight Taxi",
+    "year": 1937,
+    "cast": [
+      "Brian Donlevy",
+      "Frances Drake"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/midnight-taxi.html"
+}

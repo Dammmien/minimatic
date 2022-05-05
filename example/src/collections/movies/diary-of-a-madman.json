@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Diary of a Madman",
+    "year": 1963,
+    "cast": [
+      "Vincent Price",
+      "Nancy Kovack",
+      "Lewis Martin"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/diary-of-a-madman.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blacula",
+    "year": 1972,
+    "cast": [
+      "William Marshall",
+      "Vonetta McGee"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/blacula.html"
+}

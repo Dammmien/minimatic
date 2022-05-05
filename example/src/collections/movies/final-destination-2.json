@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Final Destination 2",
+    "year": 2003,
+    "cast": [
+      "Ali Larter",
+      "A. J. Cook",
+      "Michael Landes",
+      "Tony Todd"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/final-destination-2.html"
+}

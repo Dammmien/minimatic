@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rebound",
+    "year": 2014,
+    "cast": [
+      "Kevin Bulla",
+      "Ashley James",
+      "Dan Sutter"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/rebound.html"
+}

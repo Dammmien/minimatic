@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beloved",
+    "year": 1998,
+    "cast": [
+      "Oprah Winfrey",
+      "Danny Glover",
+      "Thandie Newton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beloved.html"
+}

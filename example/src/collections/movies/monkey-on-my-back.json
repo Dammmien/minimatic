@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Monkey on My Back",
+    "year": 1957,
+    "cast": [
+      "Cameron Mitchell",
+      "Dianne Foster"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/monkey-on-my-back.html"
+}

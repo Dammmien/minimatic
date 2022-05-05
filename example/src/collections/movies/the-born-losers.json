@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Born Losers",
+    "year": 1967,
+    "cast": [
+      "Tom Laughlin",
+      "Jane Russell",
+      "Anne Bellamy"
+    ],
+    "genres": [
+      "Drama",
+      "Action"
+    ]
+  },
+  "output": "movies/the-born-losers.html"
+}

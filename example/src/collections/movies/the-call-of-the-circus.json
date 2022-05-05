@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Call of the Circus",
+    "year": 1930,
+    "cast": [
+      "Francis X. Bushman",
+      "Ethel Clayton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-call-of-the-circus.html"
+}

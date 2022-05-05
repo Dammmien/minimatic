@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "San Antone",
+    "year": 1953,
+    "cast": [
+      "Rod Cameron",
+      "Arleen Whelan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/san-antone.html"
+}

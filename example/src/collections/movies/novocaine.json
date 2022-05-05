@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Novocaine",
+    "year": 2001,
+    "cast": [
+      "Steve Martin",
+      "Helena Bonham Carter",
+      "Laura Dern"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/novocaine.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Was a Shoplifter",
+    "year": 1950,
+    "cast": [
+      "Mona Freeman",
+      "Scott Brady",
+      "Charles Drake"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/i-was-a-shoplifter.html"
+}

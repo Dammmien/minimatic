@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gambling Ship",
+    "year": 1938,
+    "cast": [
+      "Robert Wilcox",
+      "Helen Mack"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gambling-ship.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Miami Connection",
+    "year": 1987,
+    "cast": [
+      "Y.K. Kim",
+      "Vincent Hirsch"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/miami-connection.html"
+}

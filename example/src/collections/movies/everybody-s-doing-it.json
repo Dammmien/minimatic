@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Everybody's Doing It",
+    "year": 1938,
+    "cast": [
+      "Sally Eilers",
+      "Preston Foster",
+      "Guinn Williams"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/everybody-s-doing-it.html"
+}

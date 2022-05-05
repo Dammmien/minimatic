@@ -1,0 +1,34 @@
+{
+  "data": {
+    "title": "Monsters University",
+    "year": 2013,
+    "cast": [
+      "Billy Crystal",
+      "John Goodman",
+      "Steve Buscemi",
+      "Joel Murray",
+      "Sean Hayes",
+      "Dave Foley",
+      "Peter Sohn",
+      "Charlie Day",
+      "Frank Oz",
+      "Helen Mirren",
+      "Alfred Molina",
+      "Nathan Fillion",
+      "Aubrey Plaza",
+      "Tyler Labine",
+      "John Krasinski",
+      "Bonnie Hunt",
+      "Bobby Moynihan",
+      "Julia Sweeney",
+      "Beth Behrs",
+      "John Ratzenberger"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/monsters-university.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Frankie and Johnny",
+    "year": 1991,
+    "cast": [
+      "Al Pacino",
+      "Michelle Pfeiffer",
+      "Héctor Elizondo",
+      "Kate Nelligan"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/frankie-and-johnny.html"
+}

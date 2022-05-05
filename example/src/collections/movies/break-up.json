@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Break Up",
+    "year": 1998,
+    "cast": [
+      "Bridget Fonda",
+      "Hart Bochner",
+      "Kiefer Sutherland"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/break-up.html"
+}

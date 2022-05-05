@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bullitt",
+    "year": 1968,
+    "cast": [
+      "Steve McQueen",
+      "Robert Vaughn",
+      "Jacqueline Bisset"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/bullitt.html"
+}

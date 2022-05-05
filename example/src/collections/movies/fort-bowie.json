@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fort Bowie",
+    "year": 1958,
+    "cast": [
+      "Ben Johnson",
+      "Maureen Hingert"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fort-bowie.html"
+}

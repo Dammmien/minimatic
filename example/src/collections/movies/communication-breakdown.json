@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Communication Breakdown",
+    "year": 2004,
+    "cast": [
+      "Dan Lashley",
+      "William V. Repoley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/communication-breakdown.html"
+}

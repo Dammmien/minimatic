@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "China Seas",
+    "year": 1935,
+    "cast": [
+      "Clark Gable",
+      "Jean Harlow",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/china-seas.html"
+}

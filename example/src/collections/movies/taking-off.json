@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Taking Off",
+    "year": 1971,
+    "cast": [
+      "Lynn Carlin",
+      "Buck Henry",
+      "Georgia Engel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/taking-off.html"
+}

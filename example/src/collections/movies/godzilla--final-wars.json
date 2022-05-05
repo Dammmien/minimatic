@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Godzilla: Final Wars",
+    "year": 2004,
+    "cast": [
+      "Tsutomu Kitagawa",
+      "Masahiro Matsuoka",
+      "Rei Kikukawa"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/godzilla--final-wars.html"
+}

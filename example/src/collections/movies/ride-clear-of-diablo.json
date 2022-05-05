@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ride Clear of Diablo",
+    "year": 1954,
+    "cast": [
+      "Audie Murphy",
+      "Dan Duryea",
+      "Susan Cabot",
+      "Russell Johnson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ride-clear-of-diablo.html"
+}

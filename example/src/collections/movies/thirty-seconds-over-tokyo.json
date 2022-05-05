@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thirty Seconds over Tokyo",
+    "year": 1944,
+    "cast": [
+      "Spencer Tracy",
+      "Van Johnson"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/thirty-seconds-over-tokyo.html"
+}

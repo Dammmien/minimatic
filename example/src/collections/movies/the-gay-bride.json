@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gay Bride",
+    "year": 1934,
+    "cast": [
+      "Carole Lombard",
+      "Chester Morris",
+      "Zazu Pitts"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-gay-bride.html"
+}

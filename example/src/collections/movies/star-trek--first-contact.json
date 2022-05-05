@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Star Trek: First Contact",
+    "year": 1996,
+    "cast": [
+      "Patrick Stewart",
+      "Brent Spiner",
+      "LeVar Burton",
+      "James Cromwell",
+      "Jonathan Frakes",
+      "Alice Krige",
+      "Neal McDonough",
+      "Marina Sirtis"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/star-trek--first-contact.html"
+}

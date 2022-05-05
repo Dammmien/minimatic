@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Day She Paid",
+    "year": 1919,
+    "cast": [
+      "Francelia Billington",
+      "Harry von Meter"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-day-she-paid.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Final Edition",
+    "year": 1932,
+    "cast": [
+      "Pat O'Brien",
+      "Mae Clarke",
+      "Bradley Page"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/final-edition.html"
+}

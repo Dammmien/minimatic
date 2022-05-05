@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Damn Yankees",
+    "year": 1958,
+    "cast": [
+      "Tab Hunter",
+      "Gwen Verdon",
+      "Ray Walston"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/damn-yankees.html"
+}

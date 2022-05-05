@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Diplomatic Courier",
+    "year": 1952,
+    "cast": [
+      "Tyrone Power",
+      "Patricia Neal",
+      "Hildegard Knef"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/diplomatic-courier.html"
+}

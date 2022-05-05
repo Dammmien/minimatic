@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Trouble with Spies",
+    "year": 1987,
+    "cast": [
+      "Donald Sutherland",
+      "Ned Beatty",
+      "Ruth Gordon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-trouble-with-spies.html"
+}

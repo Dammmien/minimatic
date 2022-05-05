@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "We Went to College",
+    "year": 1936,
+    "cast": [
+      "Charles Butterworth",
+      "Walter Abel",
+      "Una Merkel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/we-went-to-college.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bad Moon",
+    "year": 1996,
+    "cast": [
+      "Mariel Hemingway",
+      "Michael Paré",
+      "Mason Gamble"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/bad-moon.html"
+}

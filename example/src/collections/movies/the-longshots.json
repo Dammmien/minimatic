@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Longshots",
+    "year": 2008,
+    "cast": [
+      "Ice Cube",
+      "Keke Palmer",
+      "Dash Mihok",
+      "Tasha Smith"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-longshots.html"
+}

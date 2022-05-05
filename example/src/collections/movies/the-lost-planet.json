@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Lost Planet",
+    "year": 1953,
+    "cast": [
+      "Judd Holdren"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-lost-planet.html"
+}

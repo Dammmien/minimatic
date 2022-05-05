@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Reckless",
+    "year": 1995,
+    "cast": [
+      "Mia Farrow",
+      "Scott Glenn",
+      "Mary-Louise Parker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/reckless.html"
+}

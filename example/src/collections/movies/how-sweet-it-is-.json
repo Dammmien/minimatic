@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "How Sweet It Is!",
+    "year": 1968,
+    "cast": [
+      "James Garner",
+      "Debbie Reynolds",
+      "Terry-Thomas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/how-sweet-it-is-.html"
+}

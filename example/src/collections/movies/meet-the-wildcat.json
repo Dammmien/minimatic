@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Meet the Wildcat",
+    "year": 1940,
+    "cast": [
+      "Ralph Bellamy",
+      "Margaret Lindsay"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/meet-the-wildcat.html"
+}

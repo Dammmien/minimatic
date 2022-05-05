@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Married a Witch",
+    "year": 1942,
+    "cast": [
+      "Veronica Lake",
+      "Fredric March"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-married-a-witch.html"
+}

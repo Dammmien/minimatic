@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "What's Up, Doc?",
+    "year": 1972,
+    "cast": [
+      "Barbra Streisand",
+      "Ryan O'Neal",
+      "Madeline Kahn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/what-s-up--doc-.html"
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "11-11-11",
+    "year": 2011,
+    "cast": [
+      "Timothy Gibbs",
+      "Michael Landes",
+      "Wendy Glenn",
+      "Benjamin Cook",
+      "Lolo Herrero",
+      "Salome Jimenez",
+      "Brendan Price",
+      "Denis Rafter",
+      "Angela Rosal",
+      "Lluis Soler"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/11-11-11.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Yankee Señor",
+    "year": 1926,
+    "cast": [
+      "Tom Mix",
+      "Olive Borden"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-yankee-se-or.html"
+}

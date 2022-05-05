@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Hysterical Night",
+    "year": 1929,
+    "cast": [
+      "Reginald Denny",
+      "Nora Lane"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-hysterical-night.html"
+}

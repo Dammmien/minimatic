@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "For Sale",
+    "year": 1924,
+    "cast": [
+      "Claire Windsor",
+      "Adolphe Menjou"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/for-sale.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bucktown",
+    "year": 1975,
+    "cast": [
+      "Fred Williamson",
+      "Pam Grier"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/bucktown.html"
+}

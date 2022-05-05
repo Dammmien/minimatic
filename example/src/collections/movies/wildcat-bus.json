@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wildcat Bus",
+    "year": 1940,
+    "cast": [
+      "Fay Wray",
+      "Charles Lang"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wildcat-bus.html"
+}

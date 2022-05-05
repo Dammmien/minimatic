@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Minstrel Man",
+    "year": 1944,
+    "cast": [
+      "Benny Fields",
+      "Gladys George"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/minstrel-man.html"
+}

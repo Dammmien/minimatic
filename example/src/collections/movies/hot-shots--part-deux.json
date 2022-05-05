@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hot Shots! Part Deux",
+    "year": 1993,
+    "cast": [
+      "Charlie Sheen",
+      "Lloyd Bridges",
+      "Valeria Golino"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hot-shots--part-deux.html"
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "ParaNorman",
+    "year": 2012,
+    "cast": [
+      "Kodi Smit-McPhee",
+      "Casey Affleck",
+      "Tempestt Bledsoe",
+      "John Goodman",
+      "Jeff Garlin",
+      "Bernard Hill",
+      "Anna Kendrick",
+      "Leslie Mann",
+      "Christopher Mintz-Plasse",
+      "Elaine Stritch",
+      "Tucker Albrizzi",
+      "Alex Borstein",
+      "Jodelle Ferland"
+    ],
+    "genres": [
+      "Animated",
+      "Horror",
+      "Comedy",
+      "Thriller"
+    ]
+  },
+  "output": "movies/paranorman.html"
+}

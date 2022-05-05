@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man from Headquarters",
+    "year": 1928,
+    "cast": [
+      "Cornelius Keefe",
+      "Edith Roberts"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-man-from-headquarters.html"
+}

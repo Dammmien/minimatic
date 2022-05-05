@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Below",
+    "year": 2002,
+    "cast": [
+      "Bruce Greenwood",
+      "Olivia Williams",
+      "Matthew Davis"
+    ],
+    "genres": [
+      "War",
+      "Horror"
+    ]
+  },
+  "output": "movies/below.html"
+}

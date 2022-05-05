@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Central Park Five",
+    "year": 2012,
+    "cast": [
+      "About the",
+      "Central Park jogger case"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-central-park-five.html"
+}

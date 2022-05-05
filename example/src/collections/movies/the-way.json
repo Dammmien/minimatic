@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Way",
+    "year": 2011,
+    "cast": [
+      "Martin Sheen",
+      "Deborah Kara Unger",
+      "Yorick van Wageningen",
+      "James Nesbitt",
+      "Tchéky Karyo",
+      "Emilio Estevez"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-way.html"
+}

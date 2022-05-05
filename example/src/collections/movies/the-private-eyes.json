@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Private Eyes",
+    "year": 1980,
+    "cast": [
+      "Tim Conway",
+      "Don Knotts",
+      "Trisha Noble"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-private-eyes.html"
+}

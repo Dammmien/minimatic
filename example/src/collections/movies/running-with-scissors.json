@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Running with Scissors",
+    "year": 2006,
+    "cast": [
+      "Annette Bening",
+      "Brian Cox",
+      "Joseph Fiennes"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/running-with-scissors.html"
+}

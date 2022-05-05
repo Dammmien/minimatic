@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Chicken of Tomorrow",
+    "year": 1948,
+    "cast": [
+      "Lowell Thomas"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/the-chicken-of-tomorrow.html"
+}

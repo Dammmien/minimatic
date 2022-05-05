@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fearmakers",
+    "year": 1958,
+    "cast": [
+      "Dana Andrews",
+      "Dick Foran",
+      "Mel Torme"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-fearmakers.html"
+}

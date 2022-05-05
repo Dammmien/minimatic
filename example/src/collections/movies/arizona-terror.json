@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Arizona Terror",
+    "year": 1931,
+    "cast": [
+      "Ken Maynard",
+      "Lina Basquette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/arizona-terror.html"
+}

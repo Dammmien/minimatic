@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Skeleton Key",
+    "year": 2005,
+    "cast": [
+      "Kate Hudson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-skeleton-key.html"
+}

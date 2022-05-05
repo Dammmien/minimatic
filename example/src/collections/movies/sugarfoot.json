@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sugarfoot",
+    "year": 1951,
+    "cast": [
+      "Randolph Scott",
+      "Adele Jergens",
+      "Raymond Massey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sugarfoot.html"
+}

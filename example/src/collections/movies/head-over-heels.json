@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Head Over Heels",
+    "year": 2001,
+    "cast": [
+      "Monica Potter",
+      "Freddie Prinze Jr."
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/head-over-heels.html"
+}

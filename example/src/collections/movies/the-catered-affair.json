@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Catered Affair",
+    "year": 1956,
+    "cast": [
+      "Bette Davis",
+      "Debbie Reynolds",
+      "Ernest Borgnine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-catered-affair.html"
+}

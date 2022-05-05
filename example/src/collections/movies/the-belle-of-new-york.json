@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Belle of New York",
+    "year": 1952,
+    "cast": [
+      "Fred Astaire",
+      "Vera-Ellen"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-belle-of-new-york.html"
+}

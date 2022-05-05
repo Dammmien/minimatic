@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "So's Your Uncle",
+    "year": 1943,
+    "cast": [
+      "Billie Burke",
+      "Donald Woods"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/so-s-your-uncle.html"
+}

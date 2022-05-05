@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Light Sleeper",
+    "year": 1992,
+    "cast": [
+      "Willem Dafoe",
+      "Susan Sarandon",
+      "Dana Delany"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/light-sleeper.html"
+}

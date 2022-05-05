@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "Dunkirk",
+    "year": 2017,
+    "cast": [
+      "Fionn Whitehead",
+      "Tom Hardy",
+      "Cillian Murphy",
+      "Mark Rylance",
+      "Kenneth Branagh",
+      "Harry Styles",
+      "James D'Arcy",
+      "Jack Lowden",
+      "Kevin Guthrie"
+    ],
+    "genres": [
+      "Action",
+      "War",
+      "Drama",
+      "Historical",
+      "Adventure",
+      "Thriller"
+    ]
+  },
+  "output": "movies/dunkirk.html"
+}

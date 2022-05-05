@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The House on Telegraph Hill",
+    "year": 1951,
+    "cast": [
+      "Richard Basehart",
+      "Valentina Cortese"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-house-on-telegraph-hill.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mission Over Korea",
+    "year": 1953,
+    "cast": [
+      "John Derek",
+      "Audrey Totter"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/mission-over-korea.html"
+}

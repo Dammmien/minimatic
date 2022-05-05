@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hollywood Stadium Mystery",
+    "year": 1938,
+    "cast": [
+      "Neil Hamilton",
+      "Evelyn Venable",
+      "Barbara Pepper"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/hollywood-stadium-mystery.html"
+}

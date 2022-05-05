@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Little Princess",
+    "year": 1939,
+    "cast": [
+      "Shirley Temple",
+      "Richard Greene",
+      "Anita Louise"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-little-princess.html"
+}

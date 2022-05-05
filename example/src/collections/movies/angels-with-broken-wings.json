@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Angels with Broken Wings",
+    "year": 1941,
+    "cast": [
+      "Jane Frazee",
+      "Mary Lee",
+      "Binnie Barnes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/angels-with-broken-wings.html"
+}

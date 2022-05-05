@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Five Little Peppers in Trouble",
+    "year": 1940,
+    "cast": [
+      "Edith Fellows"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/five-little-peppers-in-trouble.html"
+}

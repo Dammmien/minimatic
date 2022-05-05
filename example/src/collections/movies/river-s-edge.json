@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "River's Edge",
+    "year": 1986,
+    "cast": [
+      "Crispin Glover",
+      "Keanu Reeves",
+      "Ione Skye Leitch",
+      "Daniel Roebuck",
+      "Dennis Hopper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/river-s-edge.html"
+}

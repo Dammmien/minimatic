@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dakota Incident",
+    "year": 1956,
+    "cast": [
+      "Dale Robertson",
+      "Linda Darnell",
+      "John Lund"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/dakota-incident.html"
+}

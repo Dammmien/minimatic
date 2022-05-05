@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Yellow Mountain",
+    "year": 1954,
+    "cast": [
+      "Lex Barker",
+      "Mala Powers",
+      "Howard Duff"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-yellow-mountain.html"
+}

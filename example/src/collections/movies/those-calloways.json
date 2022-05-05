@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Those Calloways",
+    "year": 1965,
+    "cast": [
+      "Brian Keith",
+      "Vera Miles",
+      "Brandon De Wilde"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/those-calloways.html"
+}

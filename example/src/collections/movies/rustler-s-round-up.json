@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rustler's Round-up",
+    "year": 1946,
+    "cast": [
+      "Kirby Grant",
+      "Jane Adams"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rustler-s-round-up.html"
+}

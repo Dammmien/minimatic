@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Christine",
+    "year": 1983,
+    "cast": [
+      "Keith Gordon",
+      "John Stockwell",
+      "Alexandra Paul",
+      "Robert Prosky",
+      "Harry Dean Stanton"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/christine.html"
+}

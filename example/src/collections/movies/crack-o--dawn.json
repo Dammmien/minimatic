@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crack o' Dawn",
+    "year": 1925,
+    "cast": [
+      "Reed Howes",
+      "Henry A. Barrows"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/crack-o--dawn.html"
+}

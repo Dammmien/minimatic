@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riding the California Trail",
+    "year": 1947,
+    "cast": [
+      "Gilbert Roland",
+      "Teala Loring"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/riding-the-california-trail.html"
+}

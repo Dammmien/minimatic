@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fireball",
+    "year": 1950,
+    "cast": [
+      "Mickey Rooney",
+      "Pat O'Brien",
+      "Beverly Tyler"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fireball.html"
+}

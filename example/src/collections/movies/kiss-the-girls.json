@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kiss the Girls",
+    "year": 1997,
+    "cast": [
+      "Morgan Freeman",
+      "Ashley Judd"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/kiss-the-girls.html"
+}

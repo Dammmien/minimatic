@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Winds of War",
+    "year": 1983,
+    "cast": [
+      "Robert Mitchum",
+      "Ali MacGraw",
+      "John Houseman",
+      "Polly Bergen",
+      "Jan-Michael Vincent"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/winds-of-war.html"
+}

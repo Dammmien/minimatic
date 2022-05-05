@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Honey, I Shrunk the Kids",
+    "year": 1989,
+    "cast": [
+      "Rick Moranis",
+      "Matt Frewer",
+      "Marcia Strassman",
+      "Kristine Sutherland"
+    ],
+    "genres": [
+      "Family",
+      "Comedy"
+    ]
+  },
+  "output": "movies/honey--i-shrunk-the-kids.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dirigible",
+    "year": 1931,
+    "cast": [
+      "Jack Holt",
+      "Fay Wray",
+      "Ralph Graves"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/dirigible.html"
+}

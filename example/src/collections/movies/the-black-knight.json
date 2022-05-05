@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Black Knight",
+    "year": 1954,
+    "cast": [
+      "Alan Ladd",
+      "Patricia Medina",
+      "Peter Cushing"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-black-knight.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Holy Terror",
+    "year": 1931,
+    "cast": [
+      "George O'Brien",
+      "Sally Eilers",
+      "Humphrey Bogart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-holy-terror.html"
+}

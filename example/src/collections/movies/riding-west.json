@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riding West",
+    "year": 1944,
+    "cast": [
+      "Charles Starrett",
+      "Shirley Patterson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/riding-west.html"
+}

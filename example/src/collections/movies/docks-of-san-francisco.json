@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Docks of San Francisco",
+    "year": 1932,
+    "cast": [
+      "Mary Nolan",
+      "Marjorie Beebe"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/docks-of-san-francisco.html"
+}

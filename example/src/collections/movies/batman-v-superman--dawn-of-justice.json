@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Batman v Superman: Dawn of Justice",
+    "year": 2016,
+    "cast": [
+      "Henry Cavill",
+      "Ben Affleck",
+      "Amy Adams"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/batman-v-superman--dawn-of-justice.html"
+}

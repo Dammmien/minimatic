@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Haunted",
+    "year": 1995,
+    "cast": [
+      "Aidan Quinn",
+      "Kate Beckinsale",
+      "John Gielgud"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/haunted.html"
+}

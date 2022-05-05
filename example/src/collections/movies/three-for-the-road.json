@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three for the Road",
+    "year": 1987,
+    "cast": [
+      "Charlie Sheen",
+      "Sally Kellerman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-for-the-road.html"
+}

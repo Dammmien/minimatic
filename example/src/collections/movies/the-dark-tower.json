@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "The Dark Tower",
+    "year": 2017,
+    "cast": [
+      "Idris Elba",
+      "Matthew McConaughey",
+      "Tom Taylor",
+      "Abbey Lee Kershaw",
+      "Katheryn Winnick",
+      "Jackie Earle Haley",
+      "Claudia Kim"
+    ],
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure",
+      "Horror",
+      "Science Fiction",
+      "Western"
+    ]
+  },
+  "output": "movies/the-dark-tower.html"
+}

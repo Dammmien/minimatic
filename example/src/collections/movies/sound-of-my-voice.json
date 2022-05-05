@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sound of My Voice",
+    "year": 2012,
+    "cast": [
+      "Christopher Denham",
+      "Nicole Vicius",
+      "Brit Marling",
+      "Avery Pohl"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/sound-of-my-voice.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Buddy",
+    "year": 1944,
+    "cast": [
+      "Ruth Terry",
+      "Red Barry"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-buddy.html"
+}

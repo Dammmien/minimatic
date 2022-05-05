@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Beach Blanket Bingo",
+    "year": 1965,
+    "cast": [
+      "Frankie Avalon",
+      "Annette Funicello",
+      "Paul Lynde",
+      "Don Rickles"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/beach-blanket-bingo.html"
+}

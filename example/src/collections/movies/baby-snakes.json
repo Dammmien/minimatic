@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Baby Snakes",
+    "year": 1979,
+    "cast": [
+      "Frank Zappa",
+      "Dale Bozzio"
+    ],
+    "genres": [
+      "Performance"
+    ]
+  },
+  "output": "movies/baby-snakes.html"
+}

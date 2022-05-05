@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Passport to Destiny",
+    "year": 1944,
+    "cast": [
+      "Elsa Lanchester",
+      "Gordon Oliver"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/passport-to-destiny.html"
+}

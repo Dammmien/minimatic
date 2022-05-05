@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smooth as Silk",
+    "year": 1946,
+    "cast": [
+      "Kent Taylor",
+      "Virginia Grey"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/smooth-as-silk.html"
+}

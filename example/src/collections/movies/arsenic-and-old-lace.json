@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Arsenic and Old Lace",
+    "year": 1944,
+    "cast": [
+      "Cary Grant",
+      "Raymond Massey",
+      "Josephine Hull",
+      "Peter Lorre",
+      "Jack Carson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/arsenic-and-old-lace.html"
+}

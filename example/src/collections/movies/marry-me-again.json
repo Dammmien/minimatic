@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Marry Me Again",
+    "year": 1953,
+    "cast": [
+      "Robert Cummings",
+      "Marie Wilson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/marry-me-again.html"
+}

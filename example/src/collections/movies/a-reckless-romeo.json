@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Reckless Romeo",
+    "year": 1917,
+    "cast": [
+      "Fatty Arbuckle",
+      "Al St. John"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-reckless-romeo.html"
+}

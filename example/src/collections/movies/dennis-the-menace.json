@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Dennis the Menace",
+    "year": 1993,
+    "cast": [
+      "Walter Matthau",
+      "Mason Gamble",
+      "Joan Plowright",
+      "Christopher Lloyd",
+      "Lea Thompson",
+      "Paul Winfield"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dennis-the-menace.html"
+}

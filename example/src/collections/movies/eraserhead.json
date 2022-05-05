@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Eraserhead",
+    "year": 1977,
+    "cast": [
+      "Jack Nance",
+      "Charlotte Stewart"
+    ],
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/eraserhead.html"
+}

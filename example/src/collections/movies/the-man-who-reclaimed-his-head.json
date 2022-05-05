@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man Who Reclaimed His Head",
+    "year": 1934,
+    "cast": [
+      "Claude Rains",
+      "Joan Bennett",
+      "Lionel Atwill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-who-reclaimed-his-head.html"
+}

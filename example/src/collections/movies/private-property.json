@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Private Property",
+    "year": 1960,
+    "cast": [
+      "Corey Allen",
+      "Warren Oates"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/private-property.html"
+}

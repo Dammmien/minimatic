@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "McHale's Navy",
+    "year": 1997,
+    "cast": [
+      "Tom Arnold",
+      "Tim Curry",
+      "David Alan Grier",
+      "Debra Messing"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mchale-s-navy.html"
+}

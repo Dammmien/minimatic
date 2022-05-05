@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Doomed to Die",
+    "year": 1940,
+    "cast": [
+      "Boris Karloff",
+      "Marjorie Reynolds",
+      "Grant Withers"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/doomed-to-die.html"
+}

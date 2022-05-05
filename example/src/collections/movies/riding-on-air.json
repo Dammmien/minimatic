@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Riding on Air",
+    "year": 1937,
+    "cast": [
+      "Joe E. Brown",
+      "Guy Kibbee",
+      "Florence Rice"
+    ],
+    "genres": [
+      "Comedy",
+      "Adventure"
+    ]
+  },
+  "output": "movies/riding-on-air.html"
+}

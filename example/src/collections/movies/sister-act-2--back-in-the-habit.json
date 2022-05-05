@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sister Act 2: Back in the Habit",
+    "year": 1993,
+    "cast": [
+      "Whoopi Goldberg",
+      "Kathy Najimy",
+      "James Coburn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sister-act-2--back-in-the-habit.html"
+}

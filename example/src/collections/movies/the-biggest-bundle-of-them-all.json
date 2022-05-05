@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Biggest Bundle of Them All",
+    "year": 1968,
+    "cast": [
+      "Raquel Welch",
+      "Robert Wagner",
+      "Edward G. Robinson"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-biggest-bundle-of-them-all.html"
+}

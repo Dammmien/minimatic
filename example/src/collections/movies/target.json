@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Target",
+    "year": 1985,
+    "cast": [
+      "Gene Hackman",
+      "Matt Dillon",
+      "Gayle Hunnicutt"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/target.html"
+}

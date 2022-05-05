@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Alias the Deacon",
+    "year": 1940,
+    "cast": [
+      "Bob Burns",
+      "Mischa Auer",
+      "Peggy Moran"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/alias-the-deacon.html"
+}

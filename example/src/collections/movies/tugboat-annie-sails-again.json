@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tugboat Annie Sails Again",
+    "year": 1940,
+    "cast": [
+      "Marjorie Rambeau",
+      "Jane Wyman",
+      "Ronald Reagan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tugboat-annie-sails-again.html"
+}

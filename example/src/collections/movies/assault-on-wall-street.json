@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Assault on Wall Street",
+    "year": 2013,
+    "cast": [
+      "Dominic Purcell",
+      "Erin Karpluk",
+      "Edward Furlong",
+      "John Heard",
+      "Keith David",
+      "Michael Paré"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/assault-on-wall-street.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Back to Life",
+    "year": 1925,
+    "cast": [
+      "Patsy Ruth Miller",
+      "David Powell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/back-to-life.html"
+}

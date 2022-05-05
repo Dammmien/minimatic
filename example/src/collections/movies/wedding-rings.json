@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wedding Rings",
+    "year": 1929,
+    "cast": [
+      "H. B. Warner",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wedding-rings.html"
+}

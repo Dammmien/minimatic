@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Cove",
+    "year": 2009,
+    "cast": [
+      "The annual killing of",
+      "dolphins",
+      "at",
+      "Taiji",
+      "Wakayama"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-cove.html"
+}

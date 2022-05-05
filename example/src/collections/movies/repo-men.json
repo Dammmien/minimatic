@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Repo Men",
+    "year": 2010,
+    "cast": [
+      "Jude Law",
+      "Forest Whitaker",
+      "Liev Schreiber",
+      "Alice Braga",
+      "Carice van Houten",
+      "Chandler Canterbury"
+    ],
+    "genres": [
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/repo-men.html"
+}

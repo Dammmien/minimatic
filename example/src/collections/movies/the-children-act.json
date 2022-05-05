@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Children Act",
+    "year": 2018,
+    "cast": [
+      "Emma Thompson",
+      "Stanley Tucci",
+      "Fionn Whitehead"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-children-act.html"
+}

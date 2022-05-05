@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Headline Woman",
+    "year": 1935,
+    "cast": [
+      "Roger Pryor",
+      "Heather Angel",
+      "Franklin Pangborn"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-headline-woman.html"
+}

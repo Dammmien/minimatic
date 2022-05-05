@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Walking Target",
+    "year": 1960,
+    "cast": [
+      "Joan Evans",
+      "Merry Anders"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-walking-target.html"
+}

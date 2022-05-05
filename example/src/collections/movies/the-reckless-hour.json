@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Reckless Hour",
+    "year": 1931,
+    "cast": [
+      "Dorothy Mackaill",
+      "Conrad Nagel",
+      "Joan Blondell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-reckless-hour.html"
+}

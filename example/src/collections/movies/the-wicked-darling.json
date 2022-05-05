@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wicked Darling",
+    "year": 1919,
+    "cast": [
+      "Priscilla Dean",
+      "Lon Chaney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wicked-darling.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bishop's Wife",
+    "year": 1947,
+    "cast": [
+      "Cary Grant",
+      "David Niven",
+      "Loretta Young"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bishop-s-wife.html"
+}

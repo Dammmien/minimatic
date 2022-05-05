@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mighty Joe Young",
+    "year": 1998,
+    "cast": [
+      "Bill Paxton",
+      "Charlize Theron",
+      "David Paymer"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/mighty-joe-young.html"
+}

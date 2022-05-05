@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thorns and Orange Blossoms",
+    "year": 1922,
+    "cast": [
+      "Estelle Taylor",
+      "Kenneth Harlan"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/thorns-and-orange-blossoms.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Some Kind of Hero",
+    "year": 1982,
+    "cast": [
+      "Richard Pryor",
+      "Ronny Cox",
+      "Margot Kidder"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/some-kind-of-hero.html"
+}

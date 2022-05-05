@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Once a Thief",
+    "year": 1965,
+    "cast": [
+      "Alain Delon",
+      "Ann-Margret",
+      "Van Heflin",
+      "Jack Palance"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/once-a-thief.html"
+}

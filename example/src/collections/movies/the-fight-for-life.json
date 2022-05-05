@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fight for Life",
+    "year": 1940,
+    "cast": [
+      "Myron McCormick",
+      "Will Geer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fight-for-life.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Time Bomb",
+    "year": 1953,
+    "cast": [
+      "Glenn Ford",
+      "Anne Vernon"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/time-bomb.html"
+}

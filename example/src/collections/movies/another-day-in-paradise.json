@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Another Day in Paradise",
+    "year": 1998,
+    "cast": [
+      "James Woods",
+      "Melanie Griffith",
+      "Peter Sarsgaard"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/another-day-in-paradise.html"
+}

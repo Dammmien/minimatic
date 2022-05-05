@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ten Days to Tulara",
+    "year": 1958,
+    "cast": [
+      "Sterling Hayden",
+      "Rafael Alcayde"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/ten-days-to-tulara.html"
+}

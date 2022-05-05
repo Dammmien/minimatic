@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Commandos Strike at Dawn",
+    "year": 1942,
+    "cast": [
+      "Paul Muni",
+      "Anna Lee",
+      "Lillian Gish"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/commandos-strike-at-dawn.html"
+}

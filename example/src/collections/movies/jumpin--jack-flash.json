@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Jumpin' Jack Flash",
+    "year": 1986,
+    "cast": [
+      "Whoopi Goldberg",
+      "Stephen Collins",
+      "Jonathan Pryce",
+      "Annie Potts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/jumpin--jack-flash.html"
+}

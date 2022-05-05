@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bavu",
+    "year": 1923,
+    "cast": [
+      "Wallace Beery",
+      "Estelle Taylor",
+      "Forrest Stanley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bavu.html"
+}

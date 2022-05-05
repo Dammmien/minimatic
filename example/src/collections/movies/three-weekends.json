@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Weekends",
+    "year": 1928,
+    "cast": [
+      "Clara Bow",
+      "Neil Hamilton"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/three-weekends.html"
+}

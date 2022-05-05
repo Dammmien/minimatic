@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Dr. Jekyll and Mr. Mouse",
+    "year": 1947,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/dr--jekyll-and-mr--mouse.html"
+}

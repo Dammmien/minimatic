@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Back Home and Broke",
+    "year": 1922,
+    "cast": [
+      "Thomas Meighan",
+      "Lila Lee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/back-home-and-broke.html"
+}

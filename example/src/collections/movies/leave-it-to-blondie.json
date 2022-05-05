@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Leave It to Blondie",
+    "year": 1945,
+    "cast": [
+      "Penny Singleton",
+      "Arthur Lake"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/leave-it-to-blondie.html"
+}

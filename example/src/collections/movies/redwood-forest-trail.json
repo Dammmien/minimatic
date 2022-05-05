@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Redwood Forest Trail",
+    "year": 1950,
+    "cast": [
+      "Rex Allen",
+      "Jeff Donnell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/redwood-forest-trail.html"
+}

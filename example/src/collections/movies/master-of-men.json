@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Master of Men",
+    "year": 1933,
+    "cast": [
+      "Jack Holt",
+      "Fay Wray",
+      "Walter Connolly"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/master-of-men.html"
+}

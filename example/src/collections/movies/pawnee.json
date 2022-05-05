@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Pawnee",
+    "year": 1957,
+    "cast": [
+      "George Montgomery",
+      "Bill Williams",
+      "Lola Albright",
+      "Francis McDonald"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/pawnee.html"
+}

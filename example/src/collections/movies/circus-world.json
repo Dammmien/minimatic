@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Circus World",
+    "year": 1964,
+    "cast": [
+      "John Wayne",
+      "Rita Hayworth",
+      "Claudia Cardinale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/circus-world.html"
+}

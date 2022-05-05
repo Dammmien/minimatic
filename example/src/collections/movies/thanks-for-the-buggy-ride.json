@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thanks for the Buggy Ride",
+    "year": 1928,
+    "cast": [
+      "Laura La Plante",
+      "Glenn Tryon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/thanks-for-the-buggy-ride.html"
+}

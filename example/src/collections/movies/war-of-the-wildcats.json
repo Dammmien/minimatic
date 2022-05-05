@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "War of the Wildcats",
+    "year": 1943,
+    "cast": [
+      "John Wayne",
+      "Martha Scott",
+      "George \"Gabby\" Hayes",
+      "Dale Evans"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/war-of-the-wildcats.html"
+}

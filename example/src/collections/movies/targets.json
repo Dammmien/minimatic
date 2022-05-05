@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Targets",
+    "year": 1968,
+    "cast": [
+      "Boris Karloff",
+      "Tim O'Kelly"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/targets.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Shark Bait",
+    "year": 2006,
+    "cast": [
+      "Freddie Prinze, Jr."
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/shark-bait.html"
+}

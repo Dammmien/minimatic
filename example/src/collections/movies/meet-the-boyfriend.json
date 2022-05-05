@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Meet the Boyfriend",
+    "year": 1937,
+    "cast": [
+      "Robert Paige",
+      "Carol Hughes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/meet-the-boyfriend.html"
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "Wonder Woman",
+    "year": 2017,
+    "cast": [
+      "Gal Gadot",
+      "Chris Pine",
+      "Connie Nielsen",
+      "Robin Wright",
+      "Lucy Davis",
+      "Lisa Loven Kongsli",
+      "Danny Huston",
+      "David Thewlis",
+      "Ewen Bremner",
+      "Saïd Taghmaoui",
+      "Elena Anaya"
+    ],
+    "genres": [
+      "Superhero",
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/wonder-woman.html"
+}

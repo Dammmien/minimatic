@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Guys and Dolls",
+    "year": 1955,
+    "cast": [
+      "Marlon Brando",
+      "Frank Sinatra",
+      "Jean Simmons",
+      "Vivian Blaine"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/guys-and-dolls.html"
+}

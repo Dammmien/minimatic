@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ski Patrol",
+    "year": 1940,
+    "cast": [
+      "Luli Deste",
+      "Philip Dorn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ski-patrol.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Noah's Ark",
+    "year": 1928,
+    "cast": [
+      "George O'Brien",
+      "Alois Reiser"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/noah-s-ark.html"
+}

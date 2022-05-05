@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "That Touch of Mink",
+    "year": 1962,
+    "cast": [
+      "Cary Grant",
+      "Doris Day",
+      "Gig Young",
+      "Audrey Meadows",
+      "John Astin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-touch-of-mink.html"
+}

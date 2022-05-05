@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "On the Level",
+    "year": 1930,
+    "cast": [
+      "Victor McLaglen",
+      "Lilyan Tashman",
+      "Fifi D'Orsay"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/on-the-level.html"
+}

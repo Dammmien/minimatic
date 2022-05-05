@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Flight",
+    "year": 2012,
+    "cast": [
+      "Denzel Washington",
+      "Don Cheadle",
+      "Kelly Reilly",
+      "John Goodman",
+      "Bruce Greenwood",
+      "and",
+      "Melissa Leo",
+      "Tamara Tunie",
+      "Nadine Velazquez"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flight.html"
+}

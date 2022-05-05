@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Hand That Rocks the Cradle",
+    "year": 1992,
+    "cast": [
+      "Rebecca De Mornay",
+      "Annabella Sciorra",
+      "Matt McCoy",
+      "Ernie Hudson",
+      "Julianne Moore",
+      "Madeline Zima"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-hand-that-rocks-the-cradle.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mystery Man",
+    "year": 1944,
+    "cast": [
+      "William Boyd",
+      "Andy Clyde",
+      "Eleanor Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/mystery-man.html"
+}

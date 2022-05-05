@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Moneyball",
+    "year": 2011,
+    "cast": [
+      "Brad Pitt",
+      "Jonah Hill",
+      "Philip Seymour Hoffman",
+      "Robin Wright",
+      "Chris Pratt",
+      "Casey Bond",
+      "Stephen Bishop",
+      "Royce Clayton",
+      "David Hutchinson",
+      "Kathryn Morris"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/moneyball.html"
+}

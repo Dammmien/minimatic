@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Men Who Stare at Goats",
+    "year": 2009,
+    "cast": [
+      "Ewan McGregor",
+      "George Clooney",
+      "Kevin Spacey",
+      "Jeff Bridges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-men-who-stare-at-goats.html"
+}

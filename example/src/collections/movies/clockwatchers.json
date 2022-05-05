@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Clockwatchers",
+    "year": 1997,
+    "cast": [
+      "Toni Collette",
+      "Lisa Kudrow",
+      "Parker Posey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/clockwatchers.html"
+}

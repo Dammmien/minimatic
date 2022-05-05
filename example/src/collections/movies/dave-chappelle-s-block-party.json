@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Dave Chappelle's Block Party",
+    "year": 2006,
+    "cast": [
+      "a",
+      "block party",
+      "held in",
+      "Clinton Hill",
+      "Brooklyn",
+      "by",
+      "Dave Chappelle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dave-chappelle-s-block-party.html"
+}

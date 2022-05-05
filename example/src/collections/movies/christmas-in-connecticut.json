@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Christmas in Connecticut",
+    "year": 1945,
+    "cast": [
+      "Barbara Stanwyck",
+      "Dennis Morgan",
+      "Reginald Gardiner",
+      "Sydney Greenstreet"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/christmas-in-connecticut.html"
+}

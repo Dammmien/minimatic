@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Crooked Way",
+    "year": 1949,
+    "cast": [
+      "John Payne",
+      "Ellen Drew",
+      "Sonny Tufts"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-crooked-way.html"
+}

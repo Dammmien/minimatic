@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Perfect Stranger",
+    "year": 2007,
+    "cast": [
+      "Halle Berry",
+      "Bruce Willis",
+      "Giovanni Ribisi"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/perfect-stranger.html"
+}

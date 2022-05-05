@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Marathon Man",
+    "year": 1976,
+    "cast": [
+      "Dustin Hoffman",
+      "Laurence Olivier",
+      "Roy Scheider",
+      "Marthe Keller",
+      "William Devane",
+      "Fritz Weaver"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/marathon-man.html"
+}

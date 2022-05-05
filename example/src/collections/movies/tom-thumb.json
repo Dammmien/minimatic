@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tom Thumb",
+    "year": 1958,
+    "cast": [
+      "Russ Tamblyn",
+      "Alan Young",
+      "Terry-Thomas"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/tom-thumb.html"
+}

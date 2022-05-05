@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Diggers",
+    "year": 2006,
+    "cast": [
+      "Paul Rudd",
+      "Lauren Ambrose",
+      "Ron Eldard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/diggers.html"
+}

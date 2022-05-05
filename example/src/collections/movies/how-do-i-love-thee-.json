@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "How Do I Love Thee?",
+    "year": 1970,
+    "cast": [
+      "Jackie Gleason",
+      "Maureen O'Hara"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/how-do-i-love-thee-.html"
+}

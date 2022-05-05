@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Villain",
+    "year": 1971,
+    "cast": [
+      "Richard Burton",
+      "Ian McShane"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/villain.html"
+}

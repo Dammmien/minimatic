@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Desired Woman",
+    "year": 1927,
+    "cast": [
+      "Irene Rich",
+      "William Russell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-desired-woman.html"
+}

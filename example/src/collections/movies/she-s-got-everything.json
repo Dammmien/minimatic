@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "She's Got Everything",
+    "year": 1937,
+    "cast": [
+      "Ann Sothern",
+      "Gene Raymond",
+      "Helen Broderick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-s-got-everything.html"
+}

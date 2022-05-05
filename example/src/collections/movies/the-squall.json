@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Squall",
+    "year": 1929,
+    "cast": [
+      "Richard Tucker",
+      "Alice Joyce"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-squall.html"
+}

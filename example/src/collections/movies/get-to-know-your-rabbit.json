@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Get to Know Your Rabbit",
+    "year": 1972,
+    "cast": [
+      "Tom Smothers",
+      "Katharine Ross",
+      "Orson Welles"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/get-to-know-your-rabbit.html"
+}

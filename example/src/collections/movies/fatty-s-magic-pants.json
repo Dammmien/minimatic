@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fatty's Magic Pants",
+    "year": 1914,
+    "cast": [
+      "Fatty Arbuckle",
+      "Charly Chase"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fatty-s-magic-pants.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Eternal Struggle",
+    "year": 1923,
+    "cast": [
+      "Renée Adorée",
+      "Earle Williams",
+      "Barbara La Marr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-eternal-struggle.html"
+}

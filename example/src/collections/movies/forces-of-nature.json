@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Forces of Nature",
+    "year": 1999,
+    "cast": [
+      "Ben Affleck",
+      "Sandra Bullock",
+      "Steve Zahn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/forces-of-nature.html"
+}

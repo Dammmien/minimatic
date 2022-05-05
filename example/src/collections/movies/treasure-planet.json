@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Treasure Planet",
+    "year": 2002,
+    "cast": [
+      "Joseph Gordon-Levitt",
+      "Brian Murray",
+      "David Hyde Pierce"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/treasure-planet.html"
+}

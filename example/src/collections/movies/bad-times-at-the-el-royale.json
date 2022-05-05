@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Bad Times at the El Royale",
+    "year": 2018,
+    "cast": [
+      "Jeff Bridges",
+      "Cynthia Erivo",
+      "Chris Hemsworth",
+      "Dakota Johnson",
+      "Jon Hamm",
+      "Cailee Spaeny",
+      "Lewis Pullman",
+      "Nick Offerman"
+    ],
+    "genres": [
+      "Drama",
+      "Action"
+    ]
+  },
+  "output": "movies/bad-times-at-the-el-royale.html"
+}

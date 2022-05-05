@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Something for the Birds",
+    "year": 1952,
+    "cast": [
+      "Victor Mature",
+      "Patricia Neal"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/something-for-the-birds.html"
+}

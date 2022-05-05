@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Brooklyn State of Mind",
+    "year": 1997,
+    "cast": [
+      "Vincent Spano",
+      "Maria Grazia Cucinotta",
+      "Danny Aiello"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/a-brooklyn-state-of-mind.html"
+}

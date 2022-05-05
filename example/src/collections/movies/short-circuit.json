@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Short Circuit",
+    "year": 1986,
+    "cast": [
+      "Ally Sheedy",
+      "Steve Guttenberg",
+      "Fisher Stevens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/short-circuit.html"
+}

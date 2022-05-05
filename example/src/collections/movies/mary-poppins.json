@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mary Poppins",
+    "year": 1964,
+    "cast": [
+      "Julie Andrews",
+      "Dick Van Dyke"
+    ],
+    "genres": [
+      "Musical",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/mary-poppins.html"
+}

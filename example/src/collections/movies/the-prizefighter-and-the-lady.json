@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Prizefighter and the Lady",
+    "year": 1933,
+    "cast": [
+      "Myrna Loy",
+      "Walter Huston",
+      "Max Baer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-prizefighter-and-the-lady.html"
+}

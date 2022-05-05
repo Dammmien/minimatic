@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nancy Goes to Rio",
+    "year": 1950,
+    "cast": [
+      "Ann Sothern",
+      "Jane Powell"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/nancy-goes-to-rio.html"
+}

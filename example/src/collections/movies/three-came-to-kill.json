@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Came to Kill",
+    "year": 1960,
+    "cast": [
+      "Cameron Mitchell",
+      "Lyn Thomas"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/three-came-to-kill.html"
+}

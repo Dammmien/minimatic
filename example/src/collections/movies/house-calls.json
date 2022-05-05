@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "House Calls",
+    "year": 1978,
+    "cast": [
+      "Walter Matthau",
+      "Glenda Jackson",
+      "Art Carney",
+      "Richard Benjamin",
+      "Candice Azzara"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/house-calls.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Don't Shove",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels",
+      "Bud Jamison"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/don-t-shove.html"
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "It's a Mad, Mad, Mad, Mad World",
+    "year": 1963,
+    "cast": [
+      "Spencer Tracy",
+      "Milton Berle",
+      "Mickey Rooney",
+      "Ethel Merman",
+      "Sid Caesar",
+      "Phil Silvers",
+      "Dick Shawn",
+      "Terry-Thomas",
+      "Edie Adams",
+      "Jonathan Winters",
+      "Buddy Hackett",
+      "Dorothy Provine",
+      "Peter Falk"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-a-mad--mad--mad--mad-world.html"
+}

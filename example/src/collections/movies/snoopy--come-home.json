@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Snoopy, Come Home",
+    "year": 1972,
+    "cast": [
+      "Voices of",
+      "Chad Webber",
+      "Robin Kohn",
+      "Hilary Momberger",
+      "Johanna Baer"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/snoopy--come-home.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Millionaire Cowboy",
+    "year": 1924,
+    "cast": [
+      "Maurice \"Lefty\" Flynn",
+      "Gloria Grey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-millionaire-cowboy.html"
+}

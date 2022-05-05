@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Sex Tape",
+    "year": 2014,
+    "cast": [
+      "Cameron Diaz",
+      "Jason Segel",
+      "Rob Corddry",
+      "Rob Lowe"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/sex-tape.html"
+}

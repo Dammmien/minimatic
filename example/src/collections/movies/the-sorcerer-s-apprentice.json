@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Sorcerer's Apprentice",
+    "year": 2010,
+    "cast": [
+      "Nicolas Cage",
+      "Jay Baruchel",
+      "Alfred Molina",
+      "Teresa Palmer",
+      "Monica Bellucci"
+    ],
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-sorcerer-s-apprentice.html"
+}

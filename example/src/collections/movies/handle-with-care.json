@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Handle with Care",
+    "year": 1958,
+    "cast": [
+      "Dean Jones",
+      "Joan O'Brien"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/handle-with-care.html"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 605,
+  "name": {
+    "english": "Elgyem",
+    "japanese": "リグレー",
+    "chinese": "小灰怪",
+    "french": "Lewsor"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "HP": 55,
+    "Attack": 55,
+    "Defense": 55,
+    "Sp. Attack": 85,
+    "Sp. Defense": 55,
+    "Speed": 30
+  }
+}

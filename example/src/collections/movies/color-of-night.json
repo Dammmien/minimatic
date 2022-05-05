@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Color of Night",
+    "year": 1994,
+    "cast": [
+      "Bruce Willis",
+      "Jane March",
+      "Rubén Blades",
+      "Lesley Ann Warren",
+      "Scott Bakula",
+      "Brad Dourif",
+      "Lance Henriksen",
+      "Kevin J. O'Connor"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/color-of-night.html"
+}

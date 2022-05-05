@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bowling for Columbine",
+    "year": 2002,
+    "cast": [
+      "the",
+      "Columbine High School massacre"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/bowling-for-columbine.html"
+}

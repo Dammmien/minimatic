@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Barfly",
+    "year": 1987,
+    "cast": [
+      "Mickey Rourke",
+      "Faye Dunaway"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/barfly.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Honeydripper",
+    "year": 2007,
+    "cast": [
+      "Danny Glover",
+      "Charles S. Dutton",
+      "Lisa Gay Hamilton"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/honeydripper.html"
+}

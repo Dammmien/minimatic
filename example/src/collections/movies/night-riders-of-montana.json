@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night Riders of Montana",
+    "year": 1951,
+    "cast": [
+      "Allan Lane",
+      "Claudia Barrett"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/night-riders-of-montana.html"
+}

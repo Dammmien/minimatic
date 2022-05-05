@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kicking and Screaming",
+    "year": 1995,
+    "cast": [
+      "Josh Hamilton",
+      "Olivia d'Abo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kicking-and-screaming.html"
+}

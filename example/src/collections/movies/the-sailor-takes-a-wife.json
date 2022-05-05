@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sailor Takes a Wife",
+    "year": 1945,
+    "cast": [
+      "Robert Walker",
+      "June Allyson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-sailor-takes-a-wife.html"
+}

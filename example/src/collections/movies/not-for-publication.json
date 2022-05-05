@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Not for Publication",
+    "year": 1984,
+    "cast": [
+      "Nancy Allen",
+      "David Naughton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/not-for-publication.html"
+}

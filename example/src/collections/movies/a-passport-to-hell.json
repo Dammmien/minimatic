@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Passport to Hell",
+    "year": 1932,
+    "cast": [
+      "Elissa Landi",
+      "Paul Lukas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-passport-to-hell.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Insidious: Chapter 2",
+    "year": 2013,
+    "cast": [
+      "Patrick Wilson",
+      "Rose Byrne",
+      "Lin Shaye",
+      "Ty Simpkins",
+      "Barbara Hershey"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/insidious--chapter-2.html"
+}

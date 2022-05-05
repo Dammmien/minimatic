@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tell No Tales",
+    "year": 1939,
+    "cast": [
+      "Melvyn Douglas",
+      "Louise Platt",
+      "Gene Lockhart"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/tell-no-tales.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kona Coast",
+    "year": 1968,
+    "cast": [
+      "Richard Boone",
+      "Vera Miles",
+      "Joan Blondell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kona-coast.html"
+}

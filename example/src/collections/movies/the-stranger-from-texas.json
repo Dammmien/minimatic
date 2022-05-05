@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Stranger from Texas",
+    "year": 1939,
+    "cast": [
+      "Charles Starrett",
+      "Lorna Gray"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-stranger-from-texas.html"
+}

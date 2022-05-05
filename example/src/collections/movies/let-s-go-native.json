@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Let's Go Native",
+    "year": 1930,
+    "cast": [
+      "Jack Oakie",
+      "Jeanette MacDonald"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-s-go-native.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Second Hand Rose",
+    "year": 1922,
+    "cast": [
+      "Gladys Walton",
+      "George B. Williams"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/second-hand-rose.html"
+}

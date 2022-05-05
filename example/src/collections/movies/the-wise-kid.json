@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wise Kid",
+    "year": 1922,
+    "cast": [
+      "Gladys Walton",
+      "David Butler"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-wise-kid.html"
+}

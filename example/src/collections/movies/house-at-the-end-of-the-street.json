@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "House at the End of the Street",
+    "year": 2012,
+    "cast": [
+      "Jennifer Lawrence",
+      "Max Thieriot",
+      "Gil Bellows",
+      "and",
+      "Elisabeth Shue",
+      "Nolan Gerard Funk",
+      "James Thomas",
+      "Allie MacDonald",
+      "Jonathan Malen",
+      "Jon McLaren",
+      "Eva Link"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/house-at-the-end-of-the-street.html"
+}

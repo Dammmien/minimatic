@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Scream 2",
+    "year": 1997,
+    "cast": [
+      "David Arquette",
+      "Neve Campbell",
+      "Courteney Cox",
+      "Omar Epps",
+      "Sarah Michelle Gellar",
+      "Laurie Metcalf",
+      "Jerry O'Connell",
+      "Timothy Olyphant",
+      "Jada Pinkett"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/scream-2.html"
+}

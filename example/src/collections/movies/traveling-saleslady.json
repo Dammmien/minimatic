@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Traveling Saleslady",
+    "year": 1935,
+    "cast": [
+      "Joan Blondell",
+      "Glenda Farrell",
+      "William Gargan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/traveling-saleslady.html"
+}

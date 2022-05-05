@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lion's Den",
+    "year": 1936,
+    "cast": [
+      "Tim McCoy",
+      "Joan Woodbury"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-lion-s-den.html"
+}

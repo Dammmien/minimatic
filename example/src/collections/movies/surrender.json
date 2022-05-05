@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Surrender",
+    "year": 1987,
+    "cast": [
+      "Michael Caine",
+      "Sally Field",
+      "Steve Guttenberg"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/surrender.html"
+}

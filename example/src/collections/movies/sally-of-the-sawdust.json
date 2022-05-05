@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sally of the Sawdust",
+    "year": 1925,
+    "cast": [
+      "Carol Dempster",
+      "W. C. Fields"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sally-of-the-sawdust.html"
+}

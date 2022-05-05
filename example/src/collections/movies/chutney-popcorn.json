@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Chutney Popcorn",
+    "year": 1999,
+    "cast": [
+      "Nisha Ganatra",
+      "Jill Hennessy",
+      "Madhur Jaffrey"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/chutney-popcorn.html"
+}

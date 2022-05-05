@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Bonfire of the Vanities",
+    "year": 1990,
+    "cast": [
+      "Tom Hanks",
+      "Bruce Willis",
+      "Melanie Griffith",
+      "Morgan Freeman",
+      "Kim Cattrall",
+      "Saul Rubinek",
+      "F. Murray Abraham",
+      "Alan King"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bonfire-of-the-vanities.html"
+}

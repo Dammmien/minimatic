@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Midnight Alibi",
+    "year": 1934,
+    "cast": [
+      "Richard Barthelmess",
+      "Ann Dvorak"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/midnight-alibi.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Michael Shayne, Private Detective",
+    "year": 1940,
+    "cast": [
+      "Lloyd Nolan",
+      "Marjorie Weaver"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/michael-shayne--private-detective.html"
+}

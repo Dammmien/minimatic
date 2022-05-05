@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Safety in Numbers",
+    "year": 1938,
+    "cast": [
+      "Jed Prouty",
+      "Shirley Deane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/safety-in-numbers.html"
+}

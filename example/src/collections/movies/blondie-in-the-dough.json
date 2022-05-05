@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blondie in the Dough",
+    "year": 1947,
+    "cast": [
+      "Penny Singleton",
+      "Arthur Lake"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blondie-in-the-dough.html"
+}

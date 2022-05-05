@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Cave",
+    "year": 2005,
+    "cast": [
+      "Cole Hauser",
+      "Eddie Cibrian",
+      "Morris Chestnut",
+      "Lena Headey"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-cave.html"
+}

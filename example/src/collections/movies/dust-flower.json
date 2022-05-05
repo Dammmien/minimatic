@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dust Flower",
+    "year": 1922,
+    "cast": [
+      "Helene Chadwick",
+      "James Rennie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dust-flower.html"
+}

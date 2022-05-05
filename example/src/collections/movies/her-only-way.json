@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Her Only Way",
+    "year": 1918,
+    "cast": [
+      "Norma Talmadge",
+      "Eugene O'Brien"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/her-only-way.html"
+}

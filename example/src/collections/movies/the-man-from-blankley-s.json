@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man from Blankley's",
+    "year": 1930,
+    "cast": [
+      "John Barrymore",
+      "Loretta Young"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-man-from-blankley-s.html"
+}

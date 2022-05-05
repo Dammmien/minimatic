@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Fireman",
+    "year": 1916,
+    "cast": [
+      "Charlie Chaplin",
+      "Edna Purviance",
+      "Lloyd Bacon"
+    ],
+    "genres": [
+      "Short",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fireman.html"
+}

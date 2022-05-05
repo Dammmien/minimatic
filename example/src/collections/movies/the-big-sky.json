@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Big Sky",
+    "year": 1952,
+    "cast": [
+      "Kirk Douglas",
+      "Elizabeth Threatt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-big-sky.html"
+}

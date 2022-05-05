@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Labor Day",
+    "year": 2014,
+    "cast": [
+      "Kate Winslet",
+      "Josh Brolin",
+      "Gattlin Griffith",
+      "Tobey Maguire"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/labor-day.html"
+}

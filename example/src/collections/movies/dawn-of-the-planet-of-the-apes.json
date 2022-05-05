@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dawn of the Planet of the Apes",
+    "year": 2014,
+    "cast": [
+      "Andy Serkis",
+      "Jason Clarke",
+      "Toby Kebbell",
+      "Gary Oldman",
+      "Kodi Smit-McPhee"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/dawn-of-the-planet-of-the-apes.html"
+}

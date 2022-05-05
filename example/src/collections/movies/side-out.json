@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Side Out",
+    "year": 1990,
+    "cast": [
+      "C. Thomas Howell",
+      "Peter Horton"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/side-out.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Slander",
+    "year": 1956,
+    "cast": [
+      "Van Johnson",
+      "Ann Blyth"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/slander.html"
+}

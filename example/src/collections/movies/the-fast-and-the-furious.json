@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Fast and the Furious",
+    "year": 2001,
+    "cast": [
+      "Paul Walker",
+      "Vin Diesel",
+      "Michelle Rodriguez",
+      "Jordana Brewster"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-fast-and-the-furious.html"
+}

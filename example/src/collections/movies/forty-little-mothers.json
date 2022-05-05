@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Forty Little Mothers",
+    "year": 1940,
+    "cast": [
+      "Eddie Cantor",
+      "Judith Anderson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/forty-little-mothers.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Lottery Bride",
+    "year": 1930,
+    "cast": [
+      "Jeanette MacDonald",
+      "John Garrick",
+      "Joe E. Brown"
+    ],
+    "genres": [
+      "Musical",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lottery-bride.html"
+}

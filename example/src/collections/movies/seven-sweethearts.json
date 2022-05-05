@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Seven Sweethearts",
+    "year": 1942,
+    "cast": [
+      "Kathryn Grayson",
+      "Marsha Hunt"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/seven-sweethearts.html"
+}

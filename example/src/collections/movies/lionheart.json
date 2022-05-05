@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Lionheart",
+    "year": 1990,
+    "cast": [
+      "Jean-Claude Van Damme"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/lionheart.html"
+}

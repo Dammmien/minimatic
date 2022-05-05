@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Vivacious Lady",
+    "year": 1938,
+    "cast": [
+      "James Stewart",
+      "Ginger Rogers",
+      "Beulah Bondi"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/vivacious-lady.html"
+}

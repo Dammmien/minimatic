@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Random Harvest",
+    "year": 1942,
+    "cast": [
+      "Ronald Colman",
+      "Greer Garson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/random-harvest.html"
+}

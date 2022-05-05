@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Dice Woman",
+    "year": 1926,
+    "cast": [
+      "Priscilla Dean",
+      "John Bowers",
+      "Gustav von Seyffertitz"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-dice-woman.html"
+}

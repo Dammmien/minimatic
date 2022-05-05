@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Hubble 3D",
+    "year": 2010,
+    "cast": [
+      "The",
+      "Hubble Space Telescope",
+      "repair mission",
+      ". Narrated by",
+      "Leonardo DiCaprio",
+      "."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/hubble-3d.html"
+}

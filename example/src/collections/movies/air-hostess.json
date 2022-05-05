@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Air Hostess",
+    "year": 1949,
+    "cast": [
+      "Gloria Henry",
+      "Audrey Long"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/air-hostess.html"
+}

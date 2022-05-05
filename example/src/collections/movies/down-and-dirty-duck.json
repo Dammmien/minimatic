@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Down and Dirty Duck",
+    "year": 1974,
+    "cast": [
+      "Voices of",
+      "Robert Ridgely"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/down-and-dirty-duck.html"
+}

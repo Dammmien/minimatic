@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Pale Rider",
+    "year": 1985,
+    "cast": [
+      "Clint Eastwood",
+      "Michael Moriarty",
+      "Carrie Snodgress",
+      "Richard Dysart",
+      "Chris Penn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/pale-rider.html"
+}

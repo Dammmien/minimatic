@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Johnny Holiday",
+    "year": 1949,
+    "cast": [
+      "William Bendix",
+      "Hoagy Carmichael"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/johnny-holiday.html"
+}

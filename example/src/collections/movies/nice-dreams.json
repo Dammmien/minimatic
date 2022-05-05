@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nice Dreams",
+    "year": 1981,
+    "cast": [
+      "Cheech Marin",
+      "Tommy Chong"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nice-dreams.html"
+}

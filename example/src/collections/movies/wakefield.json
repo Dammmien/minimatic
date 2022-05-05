@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wakefield",
+    "year": 2017,
+    "cast": [
+      "Bryan Cranston",
+      "Jennifer Garner",
+      "Victoria Bruno",
+      "Pippa Bennett-Warner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wakefield.html"
+}

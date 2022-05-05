@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Borderline",
+    "year": 1980,
+    "cast": [
+      "Charles Bronson",
+      "Ed Harris"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/borderline.html"
+}

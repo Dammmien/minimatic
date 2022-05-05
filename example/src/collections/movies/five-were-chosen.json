@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Five Were Chosen",
+    "year": 1944,
+    "cast": [
+      "Victor Kilian",
+      "Howard Da Silva",
+      "Leonid Kinskey"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/five-were-chosen.html"
+}

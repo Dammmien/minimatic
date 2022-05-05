@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Caribbean Mystery",
+    "year": 1945,
+    "cast": [
+      "James Dunn",
+      "Sheila Ryan"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-caribbean-mystery.html"
+}

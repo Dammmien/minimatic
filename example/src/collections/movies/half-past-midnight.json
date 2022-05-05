@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Half Past Midnight",
+    "year": 1948,
+    "cast": [
+      "Peggy Knudsen",
+      "Kent Taylor"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/half-past-midnight.html"
+}

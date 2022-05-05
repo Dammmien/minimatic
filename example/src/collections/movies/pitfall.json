@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pitfall",
+    "year": 1948,
+    "cast": [
+      "Dick Powell",
+      "Lizabeth Scott"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/pitfall.html"
+}

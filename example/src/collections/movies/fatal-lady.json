@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fatal Lady",
+    "year": 1936,
+    "cast": [
+      "Mary Ellis",
+      "Ruth Donnelly",
+      "Samuel S. Hinds"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fatal-lady.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Meatballs Part II",
+    "year": 1984,
+    "cast": [
+      "Richard Mulligan",
+      "Kim Richards"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/meatballs-part-ii.html"
+}

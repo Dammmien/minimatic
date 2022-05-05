@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Petulia",
+    "year": 1968,
+    "cast": [
+      "George C. Scott",
+      "Julie Christie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/petulia.html"
+}

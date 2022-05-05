@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Laughing Sinners",
+    "year": 1931,
+    "cast": [
+      "Joan Crawford",
+      "Neil Hamilton",
+      "Clark Gable"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/laughing-sinners.html"
+}

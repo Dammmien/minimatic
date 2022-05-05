@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Iron Eagle",
+    "year": 1986,
+    "cast": [
+      "Louis Gossett Jr.",
+      "Jason Gedrick"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/iron-eagle.html"
+}

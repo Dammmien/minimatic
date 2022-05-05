@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Dr. Black, Mr. Hyde",
+    "year": 1976,
+    "cast": [
+      "Bernie Casey"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dr--black--mr--hyde.html"
+}

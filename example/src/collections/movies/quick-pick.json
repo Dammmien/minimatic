@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Quick Pick",
+    "year": 2006,
+    "cast": [
+      "John Bryant"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/quick-pick.html"
+}

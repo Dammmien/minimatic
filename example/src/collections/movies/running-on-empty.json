@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Running on Empty",
+    "year": 1988,
+    "cast": [
+      "River Phoenix",
+      "Judd Hirsch",
+      "Christine Lahti",
+      "Martha Plimpton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/running-on-empty.html"
+}

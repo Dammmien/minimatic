@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Terror Aboard",
+    "year": 1933,
+    "cast": [
+      "John Halliday",
+      "Shirley Grey"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/terror-aboard.html"
+}

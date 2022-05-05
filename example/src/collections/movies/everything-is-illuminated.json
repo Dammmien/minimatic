@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Everything Is Illuminated",
+    "year": 2005,
+    "cast": [
+      "Elijah Wood"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/everything-is-illuminated.html"
+}

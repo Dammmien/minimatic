@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Americana",
+    "year": 1983,
+    "cast": [
+      "David Carradine",
+      "Barbara Hershey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/americana.html"
+}

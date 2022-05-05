@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Airport",
+    "year": 1970,
+    "cast": [
+      "Burt Lancaster",
+      "Dean Martin",
+      "Jean Seberg",
+      "Jacqueline Bisset",
+      "Maureen Stapleton",
+      "Van Heflin",
+      "George Kennedy",
+      "Helen Hayes",
+      "Lloyd Nolan",
+      "Dana Wynter",
+      "Barbara Hale"
+    ],
+    "genres": [
+      "Disaster"
+    ]
+  },
+  "output": "movies/airport.html"
+}

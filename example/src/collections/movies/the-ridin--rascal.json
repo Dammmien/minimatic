@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ridin' Rascal",
+    "year": 1926,
+    "cast": [
+      "Art Acord",
+      "Olive Hasbrouck"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-ridin--rascal.html"
+}

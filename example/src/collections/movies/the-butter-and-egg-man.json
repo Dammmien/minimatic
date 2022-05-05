@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Butter and Egg Man",
+    "year": 1928,
+    "cast": [
+      "Jack Mulhall",
+      "Greta Nissen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-butter-and-egg-man.html"
+}

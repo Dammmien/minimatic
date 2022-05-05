@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Falcon in Hollywood",
+    "year": 1944,
+    "cast": [
+      "Tom Conway",
+      "Rita Corday"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-falcon-in-hollywood.html"
+}

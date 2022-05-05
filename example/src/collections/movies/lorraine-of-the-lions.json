@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lorraine of the Lions",
+    "year": 1925,
+    "cast": [
+      "Norman Kerry",
+      "Patsy Ruth Miller"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/lorraine-of-the-lions.html"
+}

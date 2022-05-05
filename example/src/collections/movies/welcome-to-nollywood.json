@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Welcome to Nollywood",
+    "year": 2007,
+    "cast": [
+      "The",
+      "cinema of Nigeria"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/welcome-to-nollywood.html"
+}

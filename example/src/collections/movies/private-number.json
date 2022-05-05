@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Private Number",
+    "year": 1936,
+    "cast": [
+      "Loretta Young",
+      "Robert Taylor",
+      "Basil Rathbone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/private-number.html"
+}

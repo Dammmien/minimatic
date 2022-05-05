@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "River Gang",
+    "year": 1945,
+    "cast": [
+      "Gloria Jean",
+      "John Qualen"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/river-gang.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Last Stand at Saber River",
+    "year": 1997,
+    "cast": [
+      "Tom Selleck",
+      "Keith Carradine",
+      "Haley Joel Osment"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/last-stand-at-saber-river.html"
+}

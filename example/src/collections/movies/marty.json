@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Marty",
+    "year": 1955,
+    "cast": [
+      "Ernest Borgnine",
+      "Betsy Blair"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/marty.html"
+}

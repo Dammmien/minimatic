@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Rains Came",
+    "year": 1939,
+    "cast": [
+      "Tyrone Power",
+      "Myrna Loy",
+      "George Brent",
+      "Nigel Bruce",
+      "Brenda Joyce"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-rains-came.html"
+}

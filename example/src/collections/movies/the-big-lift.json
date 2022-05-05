@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Lift",
+    "year": 1950,
+    "cast": [
+      "Montgomery Clift",
+      "Paul Douglas",
+      "Cornell Borchers"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-big-lift.html"
+}

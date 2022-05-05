@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Duplicity",
+    "year": 2009,
+    "cast": [
+      "Julia Roberts",
+      "Clive Owen",
+      "Tom Wilkinson",
+      "Paul Giamatti"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/duplicity.html"
+}

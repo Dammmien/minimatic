@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Bending the Rules",
+    "year": 2012,
+    "cast": [
+      "Adam \"Edge\" Copeland",
+      "Jamie Kennedy",
+      "Jennifer Esposito",
+      "Alicia Witt",
+      "Kevin Weisman",
+      "Philip Baker Hall",
+      "Jessica Walter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bending-the-rules.html"
+}

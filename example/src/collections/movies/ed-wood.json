@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Ed Wood",
+    "year": 1994,
+    "cast": [
+      "Johnny Depp",
+      "Martin Landau",
+      "Bill Murray",
+      "Jeffrey Jones",
+      "Sarah Jessica Parker",
+      "Patricia Arquette"
+    ],
+    "genres": [
+      "Comedy",
+      "Biography"
+    ]
+  },
+  "output": "movies/ed-wood.html"
+}

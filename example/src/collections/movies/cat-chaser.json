@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cat Chaser",
+    "year": 1989,
+    "cast": [
+      "Peter Weller",
+      "Kelly McGillis",
+      "Charles Durning"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cat-chaser.html"
+}

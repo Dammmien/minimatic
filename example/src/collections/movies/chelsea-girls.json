@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chelsea Girls",
+    "year": 1966,
+    "cast": [
+      "Nico",
+      "Gerard Melanga",
+      "Ondine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/chelsea-girls.html"
+}

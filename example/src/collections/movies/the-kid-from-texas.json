@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Kid from Texas",
+    "year": 1950,
+    "cast": [
+      "Audie Murphy",
+      "Gale Storm"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-kid-from-texas.html"
+}

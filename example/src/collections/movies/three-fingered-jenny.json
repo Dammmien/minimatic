@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Fingered Jenny",
+    "year": 1916,
+    "cast": [
+      "William Garwood",
+      "Stella LeSaint",
+      "Carmen Phillips"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/three-fingered-jenny.html"
+}

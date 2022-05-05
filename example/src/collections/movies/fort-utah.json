@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fort Utah",
+    "year": 1967,
+    "cast": [
+      "John Ireland",
+      "Virginia Mayo",
+      "Scott Brady"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fort-utah.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Single White Female",
+    "year": 1992,
+    "cast": [
+      "Bridget Fonda",
+      "Jennifer Jason Leigh",
+      "Steven Weber",
+      "Peter Friedman",
+      "Stephen Tobolowsky"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/single-white-female.html"
+}

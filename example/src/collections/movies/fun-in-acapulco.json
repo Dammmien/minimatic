@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fun in Acapulco",
+    "year": 1963,
+    "cast": [
+      "Elvis Presley",
+      "Ursula Andress",
+      "Elsa Cardenas"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/fun-in-acapulco.html"
+}

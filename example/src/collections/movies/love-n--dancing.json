@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Love N' Dancing",
+    "year": 2009,
+    "cast": [
+      "Amy Smart",
+      "Tom Malloy",
+      "Billy Zane"
+    ],
+    "genres": [
+      "Dance",
+      "Romance"
+    ]
+  },
+  "output": "movies/love-n--dancing.html"
+}

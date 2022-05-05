@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "She's No Lady",
+    "year": 1937,
+    "cast": [
+      "Ann Dvorak",
+      "Aileen Pringle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-s-no-lady.html"
+}

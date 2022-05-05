@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Trail Dust",
+    "year": 1936,
+    "cast": [
+      "William Boyd",
+      "James Ellison",
+      "Gwynne Shipman"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/trail-dust.html"
+}

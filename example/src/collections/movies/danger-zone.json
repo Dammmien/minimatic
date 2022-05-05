@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Danger Zone",
+    "year": 1997,
+    "cast": [
+      "Billy Zane",
+      "Robert Downey, Jr.",
+      "Cary-Hiroyuki Tagawa"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/danger-zone.html"
+}

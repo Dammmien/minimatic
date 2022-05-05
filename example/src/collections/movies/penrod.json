@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Penrod",
+    "year": 1922,
+    "cast": [
+      "Wesley Barry",
+      "Tully Marshall"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/penrod.html"
+}

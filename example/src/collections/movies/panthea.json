@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Panthea",
+    "year": 1917,
+    "cast": [
+      "Norma Talmadge",
+      "Earle Foxe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/panthea.html"
+}

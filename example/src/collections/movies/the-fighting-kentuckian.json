@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fighting Kentuckian",
+    "year": 1949,
+    "cast": [
+      "John Wayne",
+      "Oliver Hardy",
+      "Vera Ralston"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fighting-kentuckian.html"
+}

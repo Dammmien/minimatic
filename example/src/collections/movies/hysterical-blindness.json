@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hysterical Blindness",
+    "year": 2002,
+    "cast": [
+      "Uma Thurman",
+      "Juliette Lewis",
+      "Gena Rowlands",
+      "Ben Gazzara"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hysterical-blindness.html"
+}

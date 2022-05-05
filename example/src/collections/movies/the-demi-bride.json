@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Demi-Bride",
+    "year": 1927,
+    "cast": [
+      "Norma Shearer",
+      "Lew Cody"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-demi-bride.html"
+}

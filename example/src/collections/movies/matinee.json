@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Matinee",
+    "year": 1993,
+    "cast": [
+      "John Goodman",
+      "Cathy Moriarty",
+      "Omri Katz"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/matinee.html"
+}

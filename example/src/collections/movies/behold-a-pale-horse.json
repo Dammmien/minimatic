@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Behold a Pale Horse",
+    "year": 1964,
+    "cast": [
+      "Gregory Peck",
+      "Omar Sharif",
+      "Anthony Quinn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/behold-a-pale-horse.html"
+}

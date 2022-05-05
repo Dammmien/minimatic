@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Bounty",
+    "year": 1984,
+    "cast": [
+      "Mel Gibson",
+      "Anthony Hopkins",
+      "Daniel Day-Lewis",
+      "Laurence Olivier"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bounty.html"
+}

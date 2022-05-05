@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Darwin Was Right",
+    "year": 1924,
+    "cast": [
+      "Nell Brantley",
+      "George O'Hara"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/darwin-was-right.html"
+}

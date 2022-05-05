@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Woman Wanted",
+    "year": 1935,
+    "cast": [
+      "Maureen O'Sullivan",
+      "Joel McCrea",
+      "Louis Calhern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/woman-wanted.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "She Gets Her Man",
+    "year": 1945,
+    "cast": [
+      "Joan Davis",
+      "William Gargan",
+      "Vivian Austin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-gets-her-man.html"
+}

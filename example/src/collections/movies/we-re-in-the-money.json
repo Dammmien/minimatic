@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "We're in the Money",
+    "year": 1935,
+    "cast": [
+      "Joan Blondell",
+      "Glenda Farrell",
+      "Hugh Herbert"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/we-re-in-the-money.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ambushed",
+    "year": 1998,
+    "cast": [
+      "Courtney B. Vance",
+      "Jeremy Lelliott",
+      "Virginia Madsen"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/ambushed.html"
+}

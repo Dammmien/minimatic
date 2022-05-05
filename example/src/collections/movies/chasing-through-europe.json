@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chasing Through Europe",
+    "year": 1929,
+    "cast": [
+      "Sue Carol",
+      "Nick Stuart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/chasing-through-europe.html"
+}

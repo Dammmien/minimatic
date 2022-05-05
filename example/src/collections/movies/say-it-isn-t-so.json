@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Say It Isn't So",
+    "year": 2001,
+    "cast": [
+      "Chris Klein",
+      "Heather Graham",
+      "Orlando Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/say-it-isn-t-so.html"
+}

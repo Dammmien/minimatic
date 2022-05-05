@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Traffic",
+    "year": 2000,
+    "cast": [
+      "Michael Douglas",
+      "Don Cheadle",
+      "Benicio del Toro",
+      "Dennis Quaid",
+      "Catherine Zeta-Jones"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/traffic.html"
+}

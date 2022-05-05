@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "All Night Long",
+    "year": 1981,
+    "cast": [
+      "Gene Hackman",
+      "Barbra Streisand",
+      "Diane Ladd",
+      "Dennis Quaid"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/all-night-long.html"
+}

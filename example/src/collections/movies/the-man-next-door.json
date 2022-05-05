@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Next Door",
+    "year": 1923,
+    "cast": [
+      "David Torrence",
+      "Alice Calhoun"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-man-next-door.html"
+}

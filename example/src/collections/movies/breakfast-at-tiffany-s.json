@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Breakfast at Tiffany's",
+    "year": 1961,
+    "cast": [
+      "Audrey Hepburn",
+      "George Peppard",
+      "Buddy Ebsen",
+      "Patricia Neal",
+      "Martin Balsam",
+      "Mickey Rooney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/breakfast-at-tiffany-s.html"
+}

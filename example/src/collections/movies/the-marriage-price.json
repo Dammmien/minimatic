@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Marriage Price",
+    "year": 1919,
+    "cast": [
+      "Elsie Ferguson",
+      "Wyndham Standing",
+      "Lionel Atwill"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-marriage-price.html"
+}

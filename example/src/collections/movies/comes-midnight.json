@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Comes Midnight",
+    "year": 1940,
+    "cast": [
+      "James Baskett",
+      "Eddie Green",
+      "Amanda Randolph"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/comes-midnight.html"
+}

@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "King of the Carnival",
+    "year": 1955,
+    "cast": [
+      "Harry Lauter",
+      "Fran Bennett"
+    ],
+    "genres": []
+  },
+  "output": "movies/king-of-the-carnival.html"
+}

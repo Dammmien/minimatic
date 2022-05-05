@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Danika",
+    "year": 2006,
+    "cast": [
+      "Marisa Tomei",
+      "Regina Hall",
+      "Craig Bierko"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/danika.html"
+}

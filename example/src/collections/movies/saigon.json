@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Saigon",
+    "year": 1948,
+    "cast": [
+      "Alan Ladd",
+      "Veronica Lake"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/saigon.html"
+}

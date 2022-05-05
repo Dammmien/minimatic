@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Miss Firecracker",
+    "year": 1989,
+    "cast": [
+      "Holly Hunter",
+      "Tim Robbins",
+      "Mary Steenburgen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/miss-firecracker.html"
+}

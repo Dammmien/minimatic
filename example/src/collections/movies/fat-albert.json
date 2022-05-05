@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fat Albert",
+    "year": 2004,
+    "cast": [
+      "Kenan Thompson",
+      "Kyla Pratt"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/fat-albert.html"
+}

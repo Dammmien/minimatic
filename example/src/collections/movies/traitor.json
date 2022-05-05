@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Traitor",
+    "year": 2008,
+    "cast": [
+      "Don Cheadle",
+      "Guy Pearce",
+      "Jeff Daniels"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/traitor.html"
+}

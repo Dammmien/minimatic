@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Educating Father",
+    "year": 1936,
+    "cast": [
+      "Jed Prouty",
+      "Shirley Deane",
+      "Dixie Dunbar"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/educating-father.html"
+}

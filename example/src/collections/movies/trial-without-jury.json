@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trial Without Jury",
+    "year": 1950,
+    "cast": [
+      "Robert Rockwell",
+      "Audrey Long"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/trial-without-jury.html"
+}

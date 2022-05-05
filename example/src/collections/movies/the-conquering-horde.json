@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Conquering Horde",
+    "year": 1931,
+    "cast": [
+      "Richard Arlen",
+      "Fay Wray"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-conquering-horde.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Life Begins at 17",
+    "year": 1958,
+    "cast": [
+      "Mark Damon",
+      "Luana Anders"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/life-begins-at-17.html"
+}

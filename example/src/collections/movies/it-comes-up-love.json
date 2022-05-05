@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It Comes Up Love",
+    "year": 1943,
+    "cast": [
+      "Gloria Jean",
+      "Donald O'Connor",
+      "Ian Hunter"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/it-comes-up-love.html"
+}

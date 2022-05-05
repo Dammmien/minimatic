@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Red Menace",
+    "year": 1949,
+    "cast": [
+      "Robert Rockwell",
+      "Betty Lou Gerson"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-red-menace.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Sicario: Day of the Soldado",
+    "year": 2018,
+    "cast": [
+      "Benicio del Toro",
+      "Josh Brolin",
+      "Isabela Moner",
+      "Jeffrey Donovan",
+      "Manuel Garcia-Rulfo",
+      "Catherine Keener"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/sicario--day-of-the-soldado.html"
+}

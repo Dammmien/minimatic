@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Riddle Rider",
+    "year": 1924,
+    "cast": [
+      "William Desmond",
+      "Eileen Sedgwick"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-riddle-rider.html"
+}

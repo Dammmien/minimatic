@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "To Mary With Love",
+    "year": 1936,
+    "cast": [
+      "Myrna Loy",
+      "Warner Baxter",
+      "Claire Trevor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/to-mary-with-love.html"
+}

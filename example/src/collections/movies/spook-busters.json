@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spook Busters",
+    "year": 1946,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/spook-busters.html"
+}

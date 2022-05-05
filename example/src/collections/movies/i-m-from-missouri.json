@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I'm from Missouri",
+    "year": 1939,
+    "cast": [
+      "Bob Burns",
+      "Gladys George",
+      "Patricia Morison"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-m-from-missouri.html"
+}

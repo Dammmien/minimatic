@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dreamscape",
+    "year": 1984,
+    "cast": [
+      "Dennis Quaid",
+      "Christopher Plummer",
+      "Kate Capshaw",
+      "Max von Sydow",
+      "David Patrick Kelly"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/dreamscape.html"
+}

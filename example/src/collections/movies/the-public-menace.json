@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Public Menace",
+    "year": 1935,
+    "cast": [
+      "Jean Arthur",
+      "George Murphy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-public-menace.html"
+}

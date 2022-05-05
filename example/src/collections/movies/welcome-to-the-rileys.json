@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Welcome to the Rileys",
+    "year": 2010,
+    "cast": [
+      "James Gandolfini",
+      "Kristen Stewart",
+      "Melissa Leo",
+      "Ally Sheedy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/welcome-to-the-rileys.html"
+}

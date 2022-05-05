@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Brother Bear",
+    "year": 2003,
+    "cast": [
+      "Joaquin Phoenix",
+      "Jeremy Suarez",
+      "Rick Moranis"
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/brother-bear.html"
+}

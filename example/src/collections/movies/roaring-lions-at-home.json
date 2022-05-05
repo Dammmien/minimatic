@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Roaring Lions at Home",
+    "year": 1924,
+    "cast": [
+      "Oliver Hardy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/roaring-lions-at-home.html"
+}

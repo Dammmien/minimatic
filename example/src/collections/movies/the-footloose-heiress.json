@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Footloose Heiress",
+    "year": 1937,
+    "cast": [
+      "Craig Reynolds",
+      "Ann Sheridan",
+      "Anne Nagel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-footloose-heiress.html"
+}

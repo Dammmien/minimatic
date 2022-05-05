@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Rio",
+    "year": 2011,
+    "cast": [
+      "Jesse Eisenberg",
+      "Anne Hathaway",
+      "George Lopez",
+      "Jemaine Clement",
+      "Jake T. Austin",
+      "Leslie Mann",
+      "Tracy Morgan",
+      "will.i.am",
+      "Jamie Foxx"
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/rio.html"
+}

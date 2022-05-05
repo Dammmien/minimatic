@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nero",
+    "year": 1922,
+    "cast": [
+      "Jacques Grétillat",
+      "Sandro Salvini"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/nero.html"
+}

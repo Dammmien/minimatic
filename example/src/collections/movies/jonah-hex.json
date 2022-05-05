@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Jonah Hex",
+    "year": 2010,
+    "cast": [
+      "Josh Brolin",
+      "John Malkovich",
+      "Megan Fox",
+      "Michael Fassbender",
+      "Will Arnett",
+      "Michael Shannon"
+    ],
+    "genres": [
+      "Superhero",
+      "Western"
+    ]
+  },
+  "output": "movies/jonah-hex.html"
+}

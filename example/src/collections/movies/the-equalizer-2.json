@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Equalizer 2",
+    "year": 2018,
+    "cast": [
+      "Denzel Washington",
+      "Ashton Sanders",
+      "Pedro Pascal",
+      "Melissa Leo",
+      "Bill Pullman"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-equalizer-2.html"
+}

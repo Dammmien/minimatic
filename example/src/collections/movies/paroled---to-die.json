@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Paroled - To Die",
+    "year": 1938,
+    "cast": [
+      "Bob Steele",
+      "Karl Hackett"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/paroled---to-die.html"
+}

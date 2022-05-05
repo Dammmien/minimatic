@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Tall Texan",
+    "year": 1953,
+    "cast": [
+      "Lloyd Bridges",
+      "Lee J. Cobb",
+      "Marie Windsor",
+      "Luther Adler"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-tall-texan.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Return to Warbow",
+    "year": 1958,
+    "cast": [
+      "Philip Carey",
+      "Catherine McLeod"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/return-to-warbow.html"
+}

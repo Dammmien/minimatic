@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Art of War",
+    "year": 2000,
+    "cast": [
+      "Wesley Snipes",
+      "Donald Sutherland"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-art-of-war.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Outrage",
+    "year": 1950,
+    "cast": [
+      "Mala Powers",
+      "Tod Andrews"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/outrage.html"
+}

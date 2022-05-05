@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "This Man Is Mine",
+    "year": 1934,
+    "cast": [
+      "Irene Dunne",
+      "Constance Cummings",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/this-man-is-mine.html"
+}

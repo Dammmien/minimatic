@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flash",
+    "year": 1997,
+    "cast": [
+      "Lucas Black",
+      "Ellen Burstyn"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/flash.html"
+}

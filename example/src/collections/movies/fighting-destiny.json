@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting Destiny",
+    "year": 1919,
+    "cast": [
+      "Harry T. Morey",
+      "Betty Blythe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fighting-destiny.html"
+}

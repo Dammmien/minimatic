@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Other Half",
+    "year": 1919,
+    "cast": [
+      "Florence Vidor",
+      "David Butler"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-other-half.html"
+}

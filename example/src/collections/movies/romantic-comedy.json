@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Romantic Comedy",
+    "year": 1983,
+    "cast": [
+      "Dudley Moore",
+      "Mary Steenburgen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/romantic-comedy.html"
+}

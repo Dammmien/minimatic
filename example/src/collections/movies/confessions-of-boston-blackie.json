@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Confessions of Boston Blackie",
+    "year": 1941,
+    "cast": [
+      "Chester Morris",
+      "Harriet Hilliard"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/confessions-of-boston-blackie.html"
+}

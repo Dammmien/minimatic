@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Outlaw",
+    "year": 1943,
+    "cast": [
+      "Jane Russell",
+      "Jack Buetel",
+      "Walter Huston"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-outlaw.html"
+}

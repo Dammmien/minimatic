@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "What's Eating Gilbert Grape",
+    "year": 1993,
+    "cast": [
+      "Johnny Depp",
+      "Juliette Lewis",
+      "Leonardo DiCaprio"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/what-s-eating-gilbert-grape.html"
+}

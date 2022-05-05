@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The World and the Flesh",
+    "year": 1932,
+    "cast": [
+      "George Bancroft",
+      "Miriam Hopkins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-world-and-the-flesh.html"
+}

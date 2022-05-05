@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Boy's Life",
+    "year": 1993,
+    "cast": [
+      "Robert De Niro",
+      "Ellen Barkin",
+      "Leonardo DiCaprio"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/this-boy-s-life.html"
+}

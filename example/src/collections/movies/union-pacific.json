@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Union Pacific",
+    "year": 1939,
+    "cast": [
+      "Barbara Stanwyck",
+      "Joel McCrea",
+      "Akim Tamiroff"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/union-pacific.html"
+}

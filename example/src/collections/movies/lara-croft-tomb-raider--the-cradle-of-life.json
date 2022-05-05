@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lara Croft Tomb Raider: The Cradle of Life",
+    "year": 2003,
+    "cast": [
+      "Angelina Jolie",
+      "Gerard Butler"
+    ],
+    "genres": [
+      "Action",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/lara-croft-tomb-raider--the-cradle-of-life.html"
+}

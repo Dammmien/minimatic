@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wild",
+    "year": 2006,
+    "cast": [
+      "Kiefer Sutherland",
+      "James Belushi"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-wild.html"
+}

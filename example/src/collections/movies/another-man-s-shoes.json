@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Another Man's Shoes",
+    "year": 1922,
+    "cast": [
+      "Herbert Rawlinson",
+      "Barbara Bedford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/another-man-s-shoes.html"
+}

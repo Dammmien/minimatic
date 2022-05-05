@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dim Sum: A Little Bit of Heart",
+    "year": 1985,
+    "cast": [
+      "Laureen Chew",
+      "Kim Chew",
+      "Victor Wong"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dim-sum--a-little-bit-of-heart.html"
+}

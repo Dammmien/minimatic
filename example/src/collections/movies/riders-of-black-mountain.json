@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Riders of Black Mountain",
+    "year": 1940,
+    "cast": [
+      "Tim McCoy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/riders-of-black-mountain.html"
+}

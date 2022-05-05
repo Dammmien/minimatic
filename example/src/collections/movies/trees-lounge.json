@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Trees Lounge",
+    "year": 1996,
+    "cast": [
+      "Steve Buscemi",
+      "Anthony LaPaglia",
+      "Chloë Sevigny",
+      "Samuel L. Jackson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/trees-lounge.html"
+}

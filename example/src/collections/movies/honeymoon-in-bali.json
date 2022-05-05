@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Honeymoon in Bali",
+    "year": 1939,
+    "cast": [
+      "Madeleine Carroll",
+      "Fred MacMurray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/honeymoon-in-bali.html"
+}

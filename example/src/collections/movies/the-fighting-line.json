@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Line",
+    "year": 1919,
+    "cast": [
+      "Art Acord",
+      "Mildred Moore"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fighting-line.html"
+}

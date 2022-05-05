@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Her First Beau",
+    "year": 1941,
+    "cast": [
+      "Jane Withers",
+      "Jackie Cooper"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/her-first-beau.html"
+}

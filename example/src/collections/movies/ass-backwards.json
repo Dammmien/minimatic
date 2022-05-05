@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Ass Backwards",
+    "year": 2013,
+    "cast": [
+      "June Diane Raphael",
+      "Casey Wilson",
+      "Alicia Silverstone",
+      "Jon Cryer",
+      "Vincent D'Onofrio",
+      "Brian Geraghty",
+      "Bob Odenkirk",
+      "Paul Scheer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ass-backwards.html"
+}

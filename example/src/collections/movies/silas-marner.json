@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silas Marner",
+    "year": 1922,
+    "cast": [
+      "Marguerite Courtot",
+      "Crauford Kent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/silas-marner.html"
+}

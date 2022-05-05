@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Miracles",
+    "year": 1986,
+    "cast": [
+      "Teri Garr",
+      "Paul Rodriguez",
+      "Christopher Lloyd",
+      "Tom Conti"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/miracles.html"
+}

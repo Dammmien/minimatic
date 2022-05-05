@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Lord of War",
+    "year": 2005,
+    "cast": [
+      "Nicolas Cage",
+      "Bridget Moynahan",
+      "Ethan Hawke"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/lord-of-war.html"
+}

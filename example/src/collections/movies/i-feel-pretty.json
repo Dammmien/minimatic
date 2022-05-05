@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "I Feel Pretty",
+    "year": 2018,
+    "cast": [
+      "Amy Schumer",
+      "Michelle Williams",
+      "Emily Ratajkowski",
+      "Rory Scovel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-feel-pretty.html"
+}

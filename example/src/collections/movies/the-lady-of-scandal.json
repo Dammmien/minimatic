@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lady of Scandal",
+    "year": 1930,
+    "cast": [
+      "Ruth Chatterton",
+      "Basil Rathbone"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-lady-of-scandal.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Boogie Town",
+    "year": 2009,
+    "cast": [
+      "Marques Houston",
+      "Brenda Song"
+    ],
+    "genres": [
+      "Dance"
+    ]
+  },
+  "output": "movies/boogie-town.html"
+}

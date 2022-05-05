@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Distant Drums",
+    "year": 1951,
+    "cast": [
+      "Gary Cooper",
+      "Richard Webb",
+      "Mari Aldon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/distant-drums.html"
+}

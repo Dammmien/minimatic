@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Utah Blaine",
+    "year": 1957,
+    "cast": [
+      "Rory Calhoun",
+      "Susan Cummings"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/utah-blaine.html"
+}

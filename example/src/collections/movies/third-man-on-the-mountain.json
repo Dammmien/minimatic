@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Third Man on the Mountain",
+    "year": 1959,
+    "cast": [
+      "Michael Rennie",
+      "James MacArthur",
+      "Janet Munro"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/third-man-on-the-mountain.html"
+}

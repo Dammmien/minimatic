@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hello Down There",
+    "year": 1969,
+    "cast": [
+      "Tony Randall",
+      "Janet Leigh",
+      "Jim Backus"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hello-down-there.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The White Angel",
+    "year": 1936,
+    "cast": [
+      "Kay Francis",
+      "Ian Hunter",
+      "Donald Crisp"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-white-angel.html"
+}

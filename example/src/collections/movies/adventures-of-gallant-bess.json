@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Adventures of Gallant Bess",
+    "year": 1948,
+    "cast": [
+      "Cameron Mitchell",
+      "Audrey Long"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/adventures-of-gallant-bess.html"
+}

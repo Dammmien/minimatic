@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Oh, Doctor",
+    "year": 1937,
+    "cast": [
+      "Edward Everett Horton",
+      "Eve Arden",
+      "Thurston Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/oh--doctor.html"
+}

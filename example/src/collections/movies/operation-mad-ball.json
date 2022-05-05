@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Operation Mad Ball",
+    "year": 1957,
+    "cast": [
+      "Jack Lemmon",
+      "Kathryn Grant",
+      "Mickey Rooney",
+      "Ernie Kovacs",
+      "Dick York"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/operation-mad-ball.html"
+}

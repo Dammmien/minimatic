@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Microbe",
+    "year": 1919,
+    "cast": [
+      "Viola Dana",
+      "Kenneth Harlan",
+      "Arthur Maude"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-microbe.html"
+}

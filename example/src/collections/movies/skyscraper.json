@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Skyscraper",
+    "year": 2018,
+    "cast": [
+      "Dwayne Johnson",
+      "Neve Campbell",
+      "Chin Han",
+      "Roland Møller",
+      "Pablo Schreiber",
+      "Byron Mann",
+      "Hannah Quinlivan",
+      "Noah Taylor"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/skyscraper.html"
+}

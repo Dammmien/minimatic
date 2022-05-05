@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Border Incident",
+    "year": 1949,
+    "cast": [
+      "Ricardo Montalbán",
+      "Howard Da Silva"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/border-incident.html"
+}

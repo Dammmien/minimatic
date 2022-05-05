@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bring It On",
+    "year": 2000,
+    "cast": [
+      "Kirsten Dunst",
+      "Eliza Dushku",
+      "Gabrielle Union",
+      "Jesse Bradford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bring-it-on.html"
+}

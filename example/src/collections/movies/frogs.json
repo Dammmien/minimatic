@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Frogs",
+    "year": 1972,
+    "cast": [
+      "Ray Milland",
+      "Sam Elliott"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/frogs.html"
+}

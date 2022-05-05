@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "She Wrote the Book",
+    "year": 1946,
+    "cast": [
+      "Joan Davis",
+      "Jack Oakie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-wrote-the-book.html"
+}

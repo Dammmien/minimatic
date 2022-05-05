@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Our Family Wedding",
+    "year": 2010,
+    "cast": [
+      "Forest Whitaker",
+      "America Ferrera",
+      "Carlos Mencia",
+      "Regina King",
+      "Lance Gross"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/our-family-wedding.html"
+}

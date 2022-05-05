@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Paper",
+    "year": 1994,
+    "cast": [
+      "Michael Keaton",
+      "Robert Duvall",
+      "Glenn Close",
+      "Marisa Tomei",
+      "Randy Quaid",
+      "Jason Alexander"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-paper.html"
+}

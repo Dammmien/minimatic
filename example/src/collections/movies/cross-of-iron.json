@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cross of Iron",
+    "year": 1977,
+    "cast": [
+      "James Coburn",
+      "James Mason",
+      "Maximilian Schell"
+    ],
+    "genres": [
+      "War",
+      "Action"
+    ]
+  },
+  "output": "movies/cross-of-iron.html"
+}

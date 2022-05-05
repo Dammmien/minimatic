@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Vampires Suck",
+    "year": 2010,
+    "cast": [
+      "Matt Lanter",
+      "Chris Riggi",
+      "Jenn Proske",
+      "Anneliese van der Pol",
+      "Ken Jeong"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/vampires-suck.html"
+}

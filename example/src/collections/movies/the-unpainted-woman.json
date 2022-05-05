@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Unpainted Woman",
+    "year": 1919,
+    "cast": [
+      "Mary MacLaren",
+      "Thurston Hall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-unpainted-woman.html"
+}

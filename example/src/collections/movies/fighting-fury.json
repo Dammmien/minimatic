@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting Fury",
+    "year": 1924,
+    "cast": [
+      "Jack Hoxie",
+      "Helen Holmes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fighting-fury.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Gentleman",
+    "year": 1932,
+    "cast": [
+      "William Collier Jr.",
+      "Josephine Dunn"
+    ],
+    "genres": [
+      "Sport"
+    ]
+  },
+  "output": "movies/the-fighting-gentleman.html"
+}

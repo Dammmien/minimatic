@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flattery",
+    "year": 1925,
+    "cast": [
+      "John Bowers",
+      "Marguerite De La Motte",
+      "Alan Hale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flattery.html"
+}

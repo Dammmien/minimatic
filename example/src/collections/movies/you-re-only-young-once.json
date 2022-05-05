@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "You're Only Young Once",
+    "year": 1937,
+    "cast": [
+      "Mickey Rooney",
+      "Lewis Stone",
+      "Cecilia Parker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-re-only-young-once.html"
+}

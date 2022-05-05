@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jane Austen in Manhattan",
+    "year": 1980,
+    "cast": [
+      "Anne Baxter",
+      "Robert Powell"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/jane-austen-in-manhattan.html"
+}

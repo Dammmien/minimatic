@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cowboy from Brooklyn",
+    "year": 1938,
+    "cast": [
+      "Pat O'Brien",
+      "Dick Powell",
+      "Priscilla Lane"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/cowboy-from-brooklyn.html"
+}

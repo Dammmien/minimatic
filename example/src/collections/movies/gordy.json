@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Gordy",
+    "year": 1995,
+    "cast": [
+      "Doug Stone"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/gordy.html"
+}

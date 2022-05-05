@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Grit",
+    "year": 1924,
+    "cast": [
+      "Glenn Hunter",
+      "Roland Young"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/grit.html"
+}

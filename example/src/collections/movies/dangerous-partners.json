@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dangerous Partners",
+    "year": 1945,
+    "cast": [
+      "Signe Hasso",
+      "James Craig"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/dangerous-partners.html"
+}

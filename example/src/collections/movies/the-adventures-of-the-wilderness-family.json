@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Adventures of the Wilderness Family",
+    "year": 1975,
+    "cast": [
+      "Robert Logan",
+      "Susan Damante-Shaw"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-adventures-of-the-wilderness-family.html"
+}

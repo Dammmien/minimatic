@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riding Shotgun",
+    "year": 1954,
+    "cast": [
+      "Randolph Scott",
+      "Joan Weldon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/riding-shotgun.html"
+}

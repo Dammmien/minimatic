@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Harder They Fall",
+    "year": 1956,
+    "cast": [
+      "Humphrey Bogart",
+      "Rod Steiger",
+      "Jan Sterling"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-harder-they-fall.html"
+}

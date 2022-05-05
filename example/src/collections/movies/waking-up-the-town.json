@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Waking Up the Town",
+    "year": 1925,
+    "cast": [
+      "Jack Pickford",
+      "Claire McDowell",
+      "Norma Shearer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/waking-up-the-town.html"
+}

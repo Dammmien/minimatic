@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Twentieth Century",
+    "year": 1934,
+    "cast": [
+      "Carole Lombard",
+      "John Barrymore",
+      "Walter Connolly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/twentieth-century.html"
+}

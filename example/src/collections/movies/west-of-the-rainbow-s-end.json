@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "West of the Rainbow's End",
+    "year": 1926,
+    "cast": [
+      "Jack Perrin",
+      "Pauline Curley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/west-of-the-rainbow-s-end.html"
+}

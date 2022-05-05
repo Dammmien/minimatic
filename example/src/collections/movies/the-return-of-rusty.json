@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Return of Rusty",
+    "year": 1946,
+    "cast": [
+      "John Litel",
+      "Barbara Woodell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-return-of-rusty.html"
+}

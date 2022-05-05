@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tainted Money",
+    "year": 1924,
+    "cast": [
+      "William Fairbanks",
+      "Eva Novak"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tainted-money.html"
+}

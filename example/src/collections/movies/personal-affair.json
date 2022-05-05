@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Personal Affair",
+    "year": 1953,
+    "cast": [
+      "Gene Tierney",
+      "Glynis Johns"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/personal-affair.html"
+}

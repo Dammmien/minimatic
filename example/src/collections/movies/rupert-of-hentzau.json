@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rupert of Hentzau",
+    "year": 1923,
+    "cast": [
+      "Bert Lytell",
+      "Elaine Hammerstein",
+      "Claire Windsor"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/rupert-of-hentzau.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Night in Heaven",
+    "year": 1983,
+    "cast": [
+      "Christopher Atkins",
+      "Lesley Ann Warren"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-night-in-heaven.html"
+}

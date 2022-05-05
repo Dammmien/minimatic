@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last Hunt",
+    "year": 1956,
+    "cast": [
+      "Robert Taylor",
+      "Stewart Granger"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-last-hunt.html"
+}

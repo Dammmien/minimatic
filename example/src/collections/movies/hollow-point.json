@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hollow Point",
+    "year": 1996,
+    "cast": [
+      "Thomas Ian Griffith",
+      "Tia Carrere",
+      "John Lithgow"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/hollow-point.html"
+}

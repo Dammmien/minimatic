@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Racers",
+    "year": 1955,
+    "cast": [
+      "Kirk Douglas",
+      "Bella Darvi"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-racers.html"
+}

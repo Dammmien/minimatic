@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Unafraid",
+    "year": 1915,
+    "cast": [
+      "Rita Jolivet",
+      "House Peters"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-unafraid.html"
+}

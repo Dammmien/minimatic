@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ace of Action",
+    "year": 1926,
+    "cast": [
+      "Hal Taliaferro",
+      "Alma Rayford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ace-of-action.html"
+}

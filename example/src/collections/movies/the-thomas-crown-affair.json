@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Thomas Crown Affair",
+    "year": 1999,
+    "cast": [
+      "Pierce Brosnan",
+      "Rene Russo",
+      "Denis Leary"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-thomas-crown-affair.html"
+}

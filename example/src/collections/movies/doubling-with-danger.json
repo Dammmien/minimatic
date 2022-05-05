@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Doubling with Danger",
+    "year": 1926,
+    "cast": [
+      "Richard Talmadge",
+      "Ena Gregory",
+      "Joseph W. Girard"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/doubling-with-danger.html"
+}

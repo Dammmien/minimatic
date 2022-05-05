@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stage Beauty",
+    "year": 2004,
+    "cast": [
+      "Billy Crudup",
+      "Claire Danes",
+      "Rupert Everett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stage-beauty.html"
+}

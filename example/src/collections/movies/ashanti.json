@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ashanti",
+    "year": 1979,
+    "cast": [
+      "Michael Caine",
+      "Peter Ustinov",
+      "Beverly Johnson"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/ashanti.html"
+}

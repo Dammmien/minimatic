@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spy Train",
+    "year": 1943,
+    "cast": [
+      "Richard Travis",
+      "Catherine Craig"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/spy-train.html"
+}

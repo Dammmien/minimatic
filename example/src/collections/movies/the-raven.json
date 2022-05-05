@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "The Raven",
+    "year": 2012,
+    "cast": [
+      "John Cusack",
+      "Alice Eve",
+      "Oliver Jackson-Cohen",
+      "Luke Evans",
+      "Brendan Gleeson",
+      "Kevin McNally",
+      "Pam Ferris",
+      "Sergej Trifunović",
+      "Ian Virgo",
+      "Sam Hazeldine",
+      "Brendan Coyle",
+      "M. Emmet Walsh"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-raven.html"
+}

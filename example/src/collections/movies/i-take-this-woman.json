@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Take This Woman",
+    "year": 1940,
+    "cast": [
+      "Spencer Tracy",
+      "Hedy Lamarr",
+      "Laraine Day"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-take-this-woman.html"
+}

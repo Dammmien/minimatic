@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Europa Report",
+    "year": 2013,
+    "cast": [
+      "Christian Camargo",
+      "Anamaria Marinca",
+      "Michael Nyqvist",
+      "Daniel Wu"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/europa-report.html"
+}

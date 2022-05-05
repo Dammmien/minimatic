@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rip Roarin' Roberts",
+    "year": 1924,
+    "cast": [
+      "Buddy Roosevelt",
+      "Joe Rickson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rip-roarin--roberts.html"
+}

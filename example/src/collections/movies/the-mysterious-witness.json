@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mysterious Witness",
+    "year": 1923,
+    "cast": [
+      "Robert Gordon",
+      "Elinor Fair"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-mysterious-witness.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Love Trader",
+    "year": 1930,
+    "cast": [
+      "Chester Conklin",
+      "Henry B. Walthall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-love-trader.html"
+}

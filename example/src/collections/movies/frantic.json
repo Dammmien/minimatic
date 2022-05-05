@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Frantic",
+    "year": 1988,
+    "cast": [
+      "Harrison Ford",
+      "Emmanuelle Seigner",
+      "Betty Buckley"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/frantic.html"
+}

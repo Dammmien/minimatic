@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Identity Crisis",
+    "year": 1989,
+    "cast": [
+      "Mario van Peebles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/identity-crisis.html"
+}

@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Green Hornet Strikes Again",
+    "year": 1941,
+    "cast": [
+      "Warren Hull",
+      "Keye Luke"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-green-hornet-strikes-again.html"
+}

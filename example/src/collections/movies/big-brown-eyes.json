@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Big Brown Eyes",
+    "year": 1936,
+    "cast": [
+      "Cary Grant",
+      "Joan Bennett",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/big-brown-eyes.html"
+}

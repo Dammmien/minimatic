@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Happy Birthday, Wanda June",
+    "year": 1971,
+    "cast": [
+      "Rod Steiger",
+      "Don Murray",
+      "Susannah York"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/happy-birthday--wanda-june.html"
+}

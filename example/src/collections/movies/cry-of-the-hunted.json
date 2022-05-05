@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cry of the Hunted",
+    "year": 1953,
+    "cast": [
+      "Vittorio Gassman",
+      "Barry Sullivan",
+      "Polly Bergen"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/cry-of-the-hunted.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Grown Ups",
+    "year": 2010,
+    "cast": [
+      "Adam Sandler",
+      "Kevin James",
+      "Chris Rock",
+      "Rob Schneider",
+      "David Spade"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/grown-ups.html"
+}

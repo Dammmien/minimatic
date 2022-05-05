@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Don't Say a Word",
+    "year": 2001,
+    "cast": [
+      "Michael Douglas",
+      "Sean Bean",
+      "Brittany Murphy"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/don-t-say-a-word.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Confessions of a Nazi Spy",
+    "year": 1939,
+    "cast": [
+      "Edward G. Robinson",
+      "Francis Lederer",
+      "George Sanders",
+      "Paul Lukas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/confessions-of-a-nazi-spy.html"
+}

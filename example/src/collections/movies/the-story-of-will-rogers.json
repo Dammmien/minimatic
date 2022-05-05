@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Story of Will Rogers",
+    "year": 1952,
+    "cast": [
+      "Will Rogers Jr.",
+      "Jane Wyman"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-story-of-will-rogers.html"
+}

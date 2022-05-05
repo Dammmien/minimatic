@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man of Action",
+    "year": 1933,
+    "cast": [
+      "Tim McCoy",
+      "Caryl Lincoln"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/man-of-action.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Drive a Crooked Road",
+    "year": 1954,
+    "cast": [
+      "Mickey Rooney",
+      "Dianne Foster",
+      "Kevin McCarthy"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/drive-a-crooked-road.html"
+}

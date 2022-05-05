@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stampede",
+    "year": 1949,
+    "cast": [
+      "Rod Cameron",
+      "Gale Storm"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/stampede.html"
+}

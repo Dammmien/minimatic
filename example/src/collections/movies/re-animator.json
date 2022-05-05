@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Re-Animator",
+    "year": 1985,
+    "cast": [
+      "Jeffrey Combs",
+      "David Gale"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/re-animator.html"
+}

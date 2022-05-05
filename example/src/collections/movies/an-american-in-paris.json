@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "An American in Paris",
+    "year": 1951,
+    "cast": [
+      "Leslie Caron",
+      "Gene Kelly"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/an-american-in-paris.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Black Moon Rising",
+    "year": 1986,
+    "cast": [
+      "Tommy Lee Jones",
+      "Linda Hamilton",
+      "Robert Vaughn"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/black-moon-rising.html"
+}

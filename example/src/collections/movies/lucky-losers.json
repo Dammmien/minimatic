@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lucky Losers",
+    "year": 1950,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Hillary Brooke"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lucky-losers.html"
+}

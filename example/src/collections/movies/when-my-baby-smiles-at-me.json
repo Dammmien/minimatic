@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "When My Baby Smiles at Me",
+    "year": 1948,
+    "cast": [
+      "Betty Grable",
+      "Dan Dailey",
+      "Jack Oakie",
+      "June Havoc"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/when-my-baby-smiles-at-me.html"
+}

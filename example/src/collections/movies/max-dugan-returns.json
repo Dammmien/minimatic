@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Max Dugan Returns",
+    "year": 1983,
+    "cast": [
+      "Jason Robards",
+      "Marsha Mason",
+      "Donald Sutherland",
+      "Matthew Broderick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/max-dugan-returns.html"
+}

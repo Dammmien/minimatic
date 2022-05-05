@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Horror",
+    "year": 1932,
+    "cast": [
+      "Leslie King",
+      "Nyreda Montez"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-horror.html"
+}

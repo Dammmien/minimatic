@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Roadside Prophets",
+    "year": 1992,
+    "cast": [
+      "John Doe",
+      "Adam Horovitz",
+      "David Carradine"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/roadside-prophets.html"
+}

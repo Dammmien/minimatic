@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jewels of Brandenburg",
+    "year": 1947,
+    "cast": [
+      "Richard Travis",
+      "Micheline Cheirel"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/jewels-of-brandenburg.html"
+}

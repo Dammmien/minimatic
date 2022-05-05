@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Younger Brothers",
+    "year": 1949,
+    "cast": [
+      "Wayne Morris",
+      "Bruce Bennett",
+      "Janis Paige"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-younger-brothers.html"
+}

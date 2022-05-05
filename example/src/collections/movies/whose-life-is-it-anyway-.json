@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Whose Life Is It Anyway?",
+    "year": 1981,
+    "cast": [
+      "Richard Dreyfuss",
+      "John Cassavetes",
+      "Christine Lahti",
+      "Thomas Carter",
+      "Kenneth McMillan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/whose-life-is-it-anyway-.html"
+}

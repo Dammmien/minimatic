@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Clearing",
+    "year": 2004,
+    "cast": [
+      "Robert Redford",
+      "Helen Mirren",
+      "Willem Dafoe"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-clearing.html"
+}

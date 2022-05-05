@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two Bits",
+    "year": 1995,
+    "cast": [
+      "Jerry Barone",
+      "Mary Elizabeth Mastrantonio",
+      "Al Pacino"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/two-bits.html"
+}

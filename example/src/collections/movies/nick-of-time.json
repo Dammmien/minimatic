@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Nick of Time",
+    "year": 1995,
+    "cast": [
+      "Johnny Depp",
+      "Christopher Walken",
+      "Charles S. Dutton",
+      "Roma Maffia",
+      "Peter Strauss",
+      "Marsha Mason"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/nick-of-time.html"
+}

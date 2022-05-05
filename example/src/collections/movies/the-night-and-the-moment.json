@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Night and the Moment",
+    "year": 1995,
+    "cast": [
+      "Willem Dafoe",
+      "Lena Olin",
+      "Miranda Richardson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-night-and-the-moment.html"
+}

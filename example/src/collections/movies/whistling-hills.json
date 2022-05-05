@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Whistling Hills",
+    "year": 1951,
+    "cast": [
+      "Johnny Mack Brown",
+      "Noel Neill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/whistling-hills.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Son of Paleface",
+    "year": 1952,
+    "cast": [
+      "Bob Hope",
+      "Jane Russell",
+      "Roy Rogers"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/son-of-paleface.html"
+}

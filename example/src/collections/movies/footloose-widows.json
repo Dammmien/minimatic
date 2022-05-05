@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Footloose Widows",
+    "year": 1926,
+    "cast": [
+      "Louise Fazenda",
+      "Jacqueline Logan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/footloose-widows.html"
+}

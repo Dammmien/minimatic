@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Jack-O",
+    "year": 1995,
+    "cast": [],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/jack-o.html"
+}

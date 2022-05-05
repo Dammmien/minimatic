@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "April Fool's Day",
+    "year": 1986,
+    "cast": [
+      "Deborah Foreman",
+      "Jay Baker"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/april-fool-s-day.html"
+}

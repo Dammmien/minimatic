@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Appaloosa",
+    "year": 2008,
+    "cast": [
+      "Ed Harris",
+      "Viggo Mortensen",
+      "Renée Zellweger",
+      "Jeremy Irons"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/appaloosa.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sylvia",
+    "year": 1965,
+    "cast": [
+      "Carroll Baker",
+      "George Maharis",
+      "Peter Lawford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sylvia.html"
+}

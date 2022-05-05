@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Stop-Loss",
+    "year": 2008,
+    "cast": [
+      "Ryan Phillippe",
+      "Abbie Cornish",
+      "Channing Tatum",
+      "Joseph Gordon-Levitt",
+      "Rob Brown"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/stop-loss.html"
+}

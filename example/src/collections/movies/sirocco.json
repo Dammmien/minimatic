@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sirocco",
+    "year": 1951,
+    "cast": [
+      "Humphrey Bogart",
+      "Märta Torén",
+      "Lee J. Cobb"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/sirocco.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Amityville II: The Possession",
+    "year": 1982,
+    "cast": [
+      "James Olson",
+      "Burt Young",
+      "Rutanya Alda"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/amityville-ii--the-possession.html"
+}

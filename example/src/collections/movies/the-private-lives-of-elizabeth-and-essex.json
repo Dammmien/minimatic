@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Private Lives of Elizabeth and Essex",
+    "year": 1939,
+    "cast": [
+      "Bette Davis",
+      "Errol Flynn",
+      "Olivia de Havilland",
+      "Donald Crisp"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-private-lives-of-elizabeth-and-essex.html"
+}

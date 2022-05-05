@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Abbott and Costello Meet the Keystone Kops",
+    "year": 1955,
+    "cast": [
+      "Abbott and Costello",
+      "Mack Sennett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/abbott-and-costello-meet-the-keystone-kops.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Argentine Love",
+    "year": 1924,
+    "cast": [
+      "Bebe Daniels",
+      "Ricardo Cortez"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/argentine-love.html"
+}

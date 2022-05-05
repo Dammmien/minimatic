@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Meet the Deedles",
+    "year": 1998,
+    "cast": [
+      "Steve Van Wormer",
+      "Paul Walker",
+      "A. J. Langer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/meet-the-deedles.html"
+}

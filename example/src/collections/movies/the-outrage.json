@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Outrage",
+    "year": 1964,
+    "cast": [
+      "Paul Newman",
+      "Laurence Harvey",
+      "Edward G. Robinson",
+      "Claire Bloom"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-outrage.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Haunted House 2",
+    "year": 2014,
+    "cast": [
+      "Marlon Wayans",
+      "Jaime Pressly",
+      "Essence Atkins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-haunted-house-2.html"
+}

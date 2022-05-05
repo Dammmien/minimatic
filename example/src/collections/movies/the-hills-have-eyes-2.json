@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Hills Have Eyes 2",
+    "year": 2007,
+    "cast": [
+      "Michael McMillian",
+      "Jessica Stroup",
+      "Daniella Alonso",
+      "Jacob Vargas"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-hills-have-eyes-2.html"
+}

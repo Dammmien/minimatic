@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Little Church Around the Corner",
+    "year": 1923,
+    "cast": [
+      "Claire Windsor",
+      "Kenneth Harlan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-church-around-the-corner.html"
+}

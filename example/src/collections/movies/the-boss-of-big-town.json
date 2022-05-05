@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Boss of Big Town",
+    "year": 1942,
+    "cast": [
+      "Florence Rice",
+      "John Litel",
+      "H. B. Warner"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-boss-of-big-town.html"
+}

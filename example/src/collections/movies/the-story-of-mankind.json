@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Story of Mankind",
+    "year": 1957,
+    "cast": [
+      "Ronald Colman",
+      "Vincent Price",
+      "Hedy Lamarr",
+      "Groucho Marx"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-story-of-mankind.html"
+}

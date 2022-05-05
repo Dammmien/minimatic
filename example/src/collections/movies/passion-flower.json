@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Passion Flower",
+    "year": 1930,
+    "cast": [
+      "Kay Francis",
+      "Kay Johnson",
+      "Charles Bickford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/passion-flower.html"
+}

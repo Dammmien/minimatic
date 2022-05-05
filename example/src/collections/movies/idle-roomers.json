@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Idle Roomers",
+    "year": 1944,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/idle-roomers.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Children's Hour",
+    "year": 1961,
+    "cast": [
+      "Audrey Hepburn",
+      "Shirley MacLaine",
+      "James Garner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-children-s-hour.html"
+}

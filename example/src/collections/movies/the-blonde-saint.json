@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Blonde Saint",
+    "year": 1926,
+    "cast": [
+      "Lewis Stone",
+      "Doris Kenyon",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-blonde-saint.html"
+}

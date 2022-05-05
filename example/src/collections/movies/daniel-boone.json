@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Daniel Boone",
+    "year": 1936,
+    "cast": [
+      "George O'Brien",
+      "Heather Angel",
+      "John Carradine"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/daniel-boone.html"
+}

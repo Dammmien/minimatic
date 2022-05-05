@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Call It a Day",
+    "year": 1937,
+    "cast": [
+      "Olivia de Havilland",
+      "Alice Brady",
+      "Ian Hunter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/call-it-a-day.html"
+}

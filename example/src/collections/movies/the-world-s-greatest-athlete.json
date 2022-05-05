@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The World's Greatest Athlete",
+    "year": 1973,
+    "cast": [
+      "John Amos",
+      "Tim Conway",
+      "Jan-Michael Vincent"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-world-s-greatest-athlete.html"
+}

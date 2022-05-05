@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Let's Make It Legal",
+    "year": 1951,
+    "cast": [
+      "Claudette Colbert",
+      "Macdonald Carey",
+      "Zachary Scott",
+      "Marilyn Monroe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-s-make-it-legal.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brother Rat and a Baby",
+    "year": 1940,
+    "cast": [
+      "Priscilla Lane",
+      "Wayne Morris",
+      "Jane Bryan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/brother-rat-and-a-baby.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Apollo 18",
+    "year": 2011,
+    "cast": [
+      "Lloyd Owen",
+      "Warren Christie"
+    ],
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/apollo-18.html"
+}

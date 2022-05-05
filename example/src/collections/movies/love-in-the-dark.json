@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love in the Dark",
+    "year": 1922,
+    "cast": [
+      "Viola Dana",
+      "Cullen Landis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-in-the-dark.html"
+}

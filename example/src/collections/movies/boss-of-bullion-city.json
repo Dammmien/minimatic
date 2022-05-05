@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Boss of Bullion City",
+    "year": 1940,
+    "cast": [
+      "Johnny Mack Brown",
+      "Maria Montez",
+      "Nell O'Day"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/boss-of-bullion-city.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Up in Mabel's Room",
+    "year": 1944,
+    "cast": [
+      "Marjorie Reynolds",
+      "Dennis O'Keefe",
+      "Gail Patrick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/up-in-mabel-s-room.html"
+}

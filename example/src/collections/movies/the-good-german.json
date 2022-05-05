@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Good German",
+    "year": 2006,
+    "cast": [
+      "George Clooney",
+      "Cate Blanchett",
+      "Tobey Maguire"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/the-good-german.html"
+}

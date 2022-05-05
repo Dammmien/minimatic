@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Yank in Korea",
+    "year": 1951,
+    "cast": [
+      "Lon McCallister",
+      "Brett King"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/a-yank-in-korea.html"
+}

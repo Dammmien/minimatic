@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beauty and the Bandit",
+    "year": 1946,
+    "cast": [
+      "Gilbert Roland",
+      "Ramsay Ames"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/beauty-and-the-bandit.html"
+}

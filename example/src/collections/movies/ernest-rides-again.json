@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ernest Rides Again",
+    "year": 1993,
+    "cast": [
+      "Jim Varney",
+      "Linda Kash"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ernest-rides-again.html"
+}

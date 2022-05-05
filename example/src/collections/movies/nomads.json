@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nomads",
+    "year": 1986,
+    "cast": [
+      "Pierce Brosnan",
+      "Lesley-Anne Down"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/nomads.html"
+}

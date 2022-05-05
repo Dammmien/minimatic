@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Park Row",
+    "year": 1952,
+    "cast": [
+      "Gene Evans",
+      "Herbert Heyes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/park-row.html"
+}

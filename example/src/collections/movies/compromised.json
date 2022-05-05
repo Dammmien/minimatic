@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Compromised",
+    "year": 1931,
+    "cast": [
+      "Rose Hobart",
+      "Ben Lyon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/compromised.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Lady by Choice",
+    "year": 1934,
+    "cast": [
+      "Carole Lombard",
+      "May Robson",
+      "Walter Connolly"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/lady-by-choice.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Outer Gate",
+    "year": 1937,
+    "cast": [
+      "Ralph Morgan",
+      "Kay Linaker"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-outer-gate.html"
+}

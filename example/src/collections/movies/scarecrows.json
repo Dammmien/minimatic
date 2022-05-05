@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Scarecrows",
+    "year": 1988,
+    "cast": [
+      "Ted Vernon"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/scarecrows.html"
+}

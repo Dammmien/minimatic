@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Purge: Anarchy",
+    "year": 2014,
+    "cast": [
+      "Frank Grillo",
+      "Carmen Ejogo",
+      "Zach Gilford",
+      "Kiele Sanchez"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-purge--anarchy.html"
+}

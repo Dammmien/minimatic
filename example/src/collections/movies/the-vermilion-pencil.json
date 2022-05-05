@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Vermilion Pencil",
+    "year": 1922,
+    "cast": [
+      "Sessue Hayakawa",
+      "Ann May"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-vermilion-pencil.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Your Uncle Dudley",
+    "year": 1935,
+    "cast": [
+      "Edward Everett Horton",
+      "Lois Wilson",
+      "John McGuire"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/your-uncle-dudley.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pressure Point",
+    "year": 1962,
+    "cast": [
+      "Sidney Poitier",
+      "Bobby Darin",
+      "Peter Falk"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pressure-point.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Brute Breaker",
+    "year": 1919,
+    "cast": [
+      "Frank Mayo",
+      "Harry Northrup"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-brute-breaker.html"
+}

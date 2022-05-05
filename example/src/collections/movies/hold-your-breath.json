@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hold Your Breath",
+    "year": 1924,
+    "cast": [
+      "Dorothy Devore",
+      "Walter Hiers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hold-your-breath.html"
+}

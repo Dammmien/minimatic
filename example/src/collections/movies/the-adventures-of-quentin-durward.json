@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Adventures of Quentin Durward",
+    "year": 1955,
+    "cast": [
+      "Robert Taylor",
+      "Kay Kendall"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/the-adventures-of-quentin-durward.html"
+}

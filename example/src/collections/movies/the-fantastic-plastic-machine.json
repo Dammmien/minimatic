@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Fantastic Plastic Machine",
+    "year": 1969,
+    "cast": [
+      "Jay North"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-fantastic-plastic-machine.html"
+}

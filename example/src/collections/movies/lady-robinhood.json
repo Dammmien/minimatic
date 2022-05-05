@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady Robinhood",
+    "year": 1925,
+    "cast": [
+      "Evelyn Brent",
+      "Robert Ellis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lady-robinhood.html"
+}

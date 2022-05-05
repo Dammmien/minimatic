@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Bad Day at Black Rock",
+    "year": 1955,
+    "cast": [
+      "Spencer Tracy",
+      "Robert Ryan",
+      "Walter Brennan",
+      "Lee Marvin",
+      "Ernest Borgnine",
+      "Anne Francis"
+    ],
+    "genres": [
+      "Western",
+      "Drama"
+    ]
+  },
+  "output": "movies/bad-day-at-black-rock.html"
+}

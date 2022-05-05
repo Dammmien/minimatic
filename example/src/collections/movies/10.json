@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "10",
+    "year": 1979,
+    "cast": [
+      "Dudley Moore",
+      "Julie Andrews",
+      "Bo Derek",
+      "Robert Webber",
+      "Brian Dennehy",
+      "Dee Wallace"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/10.html"
+}

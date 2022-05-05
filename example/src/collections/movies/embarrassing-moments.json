@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Embarrassing Moments",
+    "year": 1934,
+    "cast": [
+      "Chester Morris",
+      "Marian Nixon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/embarrassing-moments.html"
+}

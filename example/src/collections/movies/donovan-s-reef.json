@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Donovan's Reef",
+    "year": 1963,
+    "cast": [
+      "John Wayne",
+      "Lee Marvin",
+      "Jack Warden",
+      "Dorothy Lamour",
+      "Elizabeth Allen",
+      "Cesar Romero"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/donovan-s-reef.html"
+}

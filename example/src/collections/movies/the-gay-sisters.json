@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gay Sisters",
+    "year": 1942,
+    "cast": [
+      "Barbara Stanwyck",
+      "George Brent",
+      "Geraldine Fitzgerald"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-gay-sisters.html"
+}

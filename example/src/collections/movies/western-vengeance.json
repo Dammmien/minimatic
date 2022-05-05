@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Western Vengeance",
+    "year": 1924,
+    "cast": [
+      "Franklyn Farnum",
+      "Marie Walcamp"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/western-vengeance.html"
+}

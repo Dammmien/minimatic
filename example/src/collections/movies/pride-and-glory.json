@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pride and Glory",
+    "year": 2008,
+    "cast": [
+      "Edward Norton",
+      "Colin Farrell"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/pride-and-glory.html"
+}

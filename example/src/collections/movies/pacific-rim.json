@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Pacific Rim",
+    "year": 2013,
+    "cast": [
+      "Charlie Hunnam",
+      "Idris Elba",
+      "Rinko Kikuchi",
+      "Charlie Day",
+      "Rob Kazinsky",
+      "Max Martini",
+      "Ron Perlman"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/pacific-rim.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Night Of The Axe",
+    "year": 1994,
+    "cast": [
+      "Walter Cherry",
+      "Danny French",
+      "Elly Davis",
+      "Jeremy Winter",
+      "Michael Gaggliano",
+      "Donald Dillard",
+      "Wesley Shane Winter",
+      "Dustin J. Boes"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/night-of-the-axe.html"
+}

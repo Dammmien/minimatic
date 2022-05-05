@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hunk",
+    "year": 1987,
+    "cast": [
+      "Deborah Shelton",
+      "James Coco"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hunk.html"
+}

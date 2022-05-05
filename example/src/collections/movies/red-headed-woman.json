@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Red-Headed Woman",
+    "year": 1932,
+    "cast": [
+      "Jean Harlow",
+      "Chester Morris",
+      "Charles Boyer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/red-headed-woman.html"
+}

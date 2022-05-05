@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Yours for the Asking",
+    "year": 1936,
+    "cast": [
+      "George Raft",
+      "Ida Lupino",
+      "Dolores Costello"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/yours-for-the-asking.html"
+}

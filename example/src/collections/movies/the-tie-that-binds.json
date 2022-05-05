@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Tie That Binds",
+    "year": 1995,
+    "cast": [
+      "Daryl Hannah",
+      "Keith Carradine",
+      "Moira Kelly",
+      "Vincent Spano"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-tie-that-binds.html"
+}

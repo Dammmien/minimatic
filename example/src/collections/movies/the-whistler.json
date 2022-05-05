@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Whistler",
+    "year": 1944,
+    "cast": [
+      "Richard Dix",
+      "Gloria Stuart",
+      "Joan Woodbury"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-whistler.html"
+}

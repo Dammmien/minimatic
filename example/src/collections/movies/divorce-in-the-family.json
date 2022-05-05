@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Divorce in the Family",
+    "year": 1932,
+    "cast": [
+      "Jackie Cooper",
+      "Conrad Nagel",
+      "Lewis Stone"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/divorce-in-the-family.html"
+}

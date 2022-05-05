@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Phoebe in Wonderland",
+    "year": 2009,
+    "cast": [
+      "Felicity Huffman",
+      "Patricia Clarkson",
+      "Elle Fanning",
+      "Campbell Scott",
+      "Bill Pullman"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/phoebe-in-wonderland.html"
+}

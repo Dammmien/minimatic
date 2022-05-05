@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Babe",
+    "year": 1995,
+    "cast": [
+      "James Cromwell",
+      "Christine Cavanaugh",
+      "Hugo Weaving"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/babe.html"
+}

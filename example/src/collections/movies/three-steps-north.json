@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Steps North",
+    "year": 1951,
+    "cast": [
+      "Lloyd Bridges",
+      "Lea Padovani"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/three-steps-north.html"
+}

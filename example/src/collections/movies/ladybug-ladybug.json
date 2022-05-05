@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ladybug Ladybug",
+    "year": 1963,
+    "cast": [
+      "Jane Connell",
+      "William Daniels",
+      "Nancy Marchand"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ladybug-ladybug.html"
+}

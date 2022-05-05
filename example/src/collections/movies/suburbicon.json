@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Suburbicon",
+    "year": 2017,
+    "cast": [
+      "Matt Damon",
+      "Julianne Moore",
+      "Oscar Isaac"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  "output": "movies/suburbicon.html"
+}

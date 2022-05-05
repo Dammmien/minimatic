@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man Wanted",
+    "year": 1932,
+    "cast": [
+      "Kay Francis",
+      "David Manners"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/man-wanted.html"
+}

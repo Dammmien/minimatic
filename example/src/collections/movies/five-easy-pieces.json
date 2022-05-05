@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Five Easy Pieces",
+    "year": 1970,
+    "cast": [
+      "Jack Nicholson",
+      "Susan Anspach",
+      "Karen Black"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/five-easy-pieces.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sword in the Stone",
+    "year": 1963,
+    "cast": [
+      "voices of",
+      "Sebastian Cabot",
+      "Karl Swenson"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-sword-in-the-stone.html"
+}

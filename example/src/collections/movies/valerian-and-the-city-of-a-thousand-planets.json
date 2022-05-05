@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Valerian and the City of a Thousand Planets",
+    "year": 2017,
+    "cast": [
+      "Dane DeHaan",
+      "Cara Delevingne",
+      "Clive Owen",
+      "Rihanna",
+      "Ethan Hawke",
+      "Herbie Hancock",
+      "Kris Wu",
+      "Rutger Hauer"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/valerian-and-the-city-of-a-thousand-planets.html"
+}

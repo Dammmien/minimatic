@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hans Christian Andersen",
+    "year": 1952,
+    "cast": [
+      "Danny Kaye",
+      "Farley Granger"
+    ],
+    "genres": [
+      "Musical",
+      "Biography"
+    ]
+  },
+  "output": "movies/hans-christian-andersen.html"
+}

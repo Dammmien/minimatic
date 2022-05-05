@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jesus Christ Superstar",
+    "year": 1973,
+    "cast": [
+      "Ted Neeley",
+      "Carl Anderson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/jesus-christ-superstar.html"
+}

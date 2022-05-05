@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Beyond the Sea",
+    "year": 2004,
+    "cast": [
+      "Kevin Spacey",
+      "Kate Bosworth",
+      "Bob Hoskins",
+      "John Goodman"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/beyond-the-sea.html"
+}

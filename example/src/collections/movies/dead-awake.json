@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dead Awake",
+    "year": 2010,
+    "cast": [
+      "Nick Stahl",
+      "Rose McGowan",
+      "Amy Smart"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/dead-awake.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Melody in Spring",
+    "year": 1934,
+    "cast": [
+      "Lanny Ross",
+      "Charlie Ruggles",
+      "Mary Boland",
+      "Ann Sothern"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/melody-in-spring.html"
+}

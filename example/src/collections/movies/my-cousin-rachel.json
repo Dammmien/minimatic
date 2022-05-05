@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "My Cousin Rachel",
+    "year": 2017,
+    "cast": [
+      "Rachel Weisz",
+      "Sam Claflin",
+      "Iain Glen",
+      "Holliday Grainger"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-cousin-rachel.html"
+}

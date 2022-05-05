@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Northern Code",
+    "year": 1925,
+    "cast": [
+      "Robert Ellis",
+      "Eva Novak"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/northern-code.html"
+}

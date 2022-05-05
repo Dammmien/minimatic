@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Air Guitar Nation",
+    "year": 2006,
+    "cast": [
+      "U.S.",
+      "air guitar",
+      "championships"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/air-guitar-nation.html"
+}

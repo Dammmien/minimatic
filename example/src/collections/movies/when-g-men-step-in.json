@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When G-Men Step In",
+    "year": 1938,
+    "cast": [
+      "Don Terry",
+      "Julie Bishop"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/when-g-men-step-in.html"
+}

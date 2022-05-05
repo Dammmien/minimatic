@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Stole a Million",
+    "year": 1939,
+    "cast": [
+      "George Raft",
+      "Claire Trevor"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/i-stole-a-million.html"
+}

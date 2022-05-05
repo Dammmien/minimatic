@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "On Your Toes",
+    "year": 1939,
+    "cast": [
+      "Eddie Albert",
+      "Vera Zorina",
+      "Queenie Smith"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/on-your-toes.html"
+}

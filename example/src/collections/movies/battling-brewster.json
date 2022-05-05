@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Battling Brewster",
+    "year": 1924,
+    "cast": [
+      "Franklyn Farnum",
+      "Helen Holmes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/battling-brewster.html"
+}

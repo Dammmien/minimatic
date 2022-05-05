@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Wildcats",
+    "year": 1986,
+    "cast": [
+      "Goldie Hawn",
+      "Swoosie Kurtz",
+      "Nipsey Russell",
+      "Robyn Lively",
+      "Woody Harrelson",
+      "Wesley Snipes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wildcats.html"
+}

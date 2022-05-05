@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Madame Curie",
+    "year": 1943,
+    "cast": [
+      "Greer Garson",
+      "Walter Pidgeon",
+      "Henry Travers"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/madame-curie.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gambling with Souls",
+    "year": 1936,
+    "cast": [
+      "Wheeler Oakman",
+      "Bryant Washburn"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/gambling-with-souls.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Unknown Soldier",
+    "year": 1926,
+    "cast": [
+      "Charles Emmett Mack",
+      "Marguerite De La Motte",
+      "Henry B. Walthall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-unknown-soldier.html"
+}

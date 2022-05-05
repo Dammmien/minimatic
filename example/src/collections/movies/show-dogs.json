@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Show Dogs",
+    "year": 2018,
+    "cast": [
+      "Will Arnett",
+      "Natasha Lyonne",
+      "Ludacris",
+      "Stanley Tucci",
+      "Shaquille O'Neal",
+      "Gabriel Iglesias",
+      "Alan Cumming",
+      "Oliver Tompsett",
+      "Andy Beckwith"
+    ],
+    "genres": [
+      "Family",
+      "Comedy"
+    ]
+  },
+  "output": "movies/show-dogs.html"
+}

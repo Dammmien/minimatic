@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Citizen's Band",
+    "year": 1977,
+    "cast": [
+      "Paul Le Mat",
+      "Candy Clark",
+      "Roberts Blossom"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/citizen-s-band.html"
+}

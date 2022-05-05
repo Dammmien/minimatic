@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Alien Trespass",
+    "year": 2009,
+    "cast": [
+      "Eric McCormack",
+      "Jenni Baird",
+      "Dan Lauria",
+      "Robert Patrick"
+    ],
+    "genres": [
+      "Comedy",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/alien-trespass.html"
+}

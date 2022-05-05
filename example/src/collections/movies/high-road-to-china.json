@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "High Road to China",
+    "year": 1983,
+    "cast": [
+      "Tom Selleck",
+      "Bess Armstrong",
+      "Wilford Brimley"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/high-road-to-china.html"
+}

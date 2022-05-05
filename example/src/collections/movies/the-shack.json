@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Shack",
+    "year": 2017,
+    "cast": [
+      "Sam Worthington",
+      "Radha Mitchell",
+      "Octavia Spencer",
+      "Graham Greene"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-shack.html"
+}

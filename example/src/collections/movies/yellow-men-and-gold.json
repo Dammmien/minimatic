@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yellow Men and Gold",
+    "year": 1922,
+    "cast": [
+      "Richard Dix",
+      "Helene Chadwick"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/yellow-men-and-gold.html"
+}

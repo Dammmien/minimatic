@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tonight Is Ours",
+    "year": 1933,
+    "cast": [
+      "Claudette Colbert",
+      "Fredric March"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/tonight-is-ours.html"
+}

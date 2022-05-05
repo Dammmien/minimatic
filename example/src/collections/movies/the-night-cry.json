@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Night Cry",
+    "year": 1926,
+    "cast": [
+      "Rin Tin Tin",
+      "June Marlowe",
+      "John Harron"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-night-cry.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Awake",
+    "year": 2007,
+    "cast": [
+      "Hayden Christensen",
+      "Jessica Alba",
+      "Lena Olin",
+      "Arliss Howard",
+      "Terrence Howard"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/awake.html"
+}

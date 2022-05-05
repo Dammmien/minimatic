@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Legal Eagles",
+    "year": 1986,
+    "cast": [
+      "Robert Redford",
+      "Debra Winger",
+      "Daryl Hannah",
+      "Brian Dennehy",
+      "Terence Stamp",
+      "Steven Hill"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/legal-eagles.html"
+}

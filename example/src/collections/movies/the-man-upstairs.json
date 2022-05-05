@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man Upstairs",
+    "year": 1926,
+    "cast": [
+      "Monte Blue",
+      "Dorothy Devore",
+      "Helen Dunbar"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-man-upstairs.html"
+}

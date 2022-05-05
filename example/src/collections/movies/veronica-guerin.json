@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Veronica Guerin",
+    "year": 2003,
+    "cast": [
+      "Cate Blanchett",
+      "Gerard McSorley",
+      "Ciarán Hinds"
+    ],
+    "genres": [
+      "Biography",
+      "Crime"
+    ]
+  },
+  "output": "movies/veronica-guerin.html"
+}

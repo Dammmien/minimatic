@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Steamboat Bill, Jr.",
+    "year": 1928,
+    "cast": [
+      "Buster Keaton",
+      "Marion Byron"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/steamboat-bill--jr-.html"
+}

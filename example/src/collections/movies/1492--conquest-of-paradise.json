@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "1492: Conquest of Paradise",
+    "year": 1992,
+    "cast": [
+      "Gérard Depardieu",
+      "Armand Assante",
+      "Sigourney Weaver"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/1492--conquest-of-paradise.html"
+}

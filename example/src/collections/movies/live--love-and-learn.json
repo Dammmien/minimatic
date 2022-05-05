@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Live, Love and Learn",
+    "year": 1937,
+    "cast": [
+      "Rosalind Russell",
+      "Robert Benchley",
+      "Monty Woolley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/live--love-and-learn.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Platinum Blonde",
+    "year": 1931,
+    "cast": [
+      "Loretta Young",
+      "Jean Harlow",
+      "Robert Williams"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/platinum-blonde.html"
+}

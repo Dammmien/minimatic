@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder in the Big House",
+    "year": 1942,
+    "cast": [
+      "Van Johnson",
+      "Faye Emerson"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/murder-in-the-big-house.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Voice of the Whistler",
+    "year": 1945,
+    "cast": [
+      "Richard Dix",
+      "Lynn Merrick"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/voice-of-the-whistler.html"
+}

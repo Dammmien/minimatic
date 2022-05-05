@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paris Underground",
+    "year": 1945,
+    "cast": [
+      "Constance Bennett",
+      "Gracie Fields",
+      "George Rigaud"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/paris-underground.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Waterfront Lady",
+    "year": 1935,
+    "cast": [
+      "Ann Rutherford",
+      "Frank Albertson",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/waterfront-lady.html"
+}

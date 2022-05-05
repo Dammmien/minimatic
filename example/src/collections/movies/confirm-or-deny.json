@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Confirm or Deny",
+    "year": 1941,
+    "cast": [
+      "Don Ameche",
+      "Joan Bennett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/confirm-or-deny.html"
+}

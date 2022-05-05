@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady in the Water",
+    "year": 2006,
+    "cast": [
+      "Paul Giamatti",
+      "Bryce Dallas Howard"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/lady-in-the-water.html"
+}

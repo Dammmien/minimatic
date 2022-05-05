@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Purple Highway",
+    "year": 1923,
+    "cast": [
+      "Madge Kennedy",
+      "Monte Blue",
+      "Vincent Coleman",
+      "and",
+      "Pedro de Córdoba"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-purple-highway.html"
+}

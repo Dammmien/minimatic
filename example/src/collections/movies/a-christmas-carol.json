@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Christmas Carol",
+    "year": 2009,
+    "cast": [
+      "Jim Carrey",
+      "Gary Oldman",
+      "Cary Elwes",
+      "Colin Firth"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/a-christmas-carol.html"
+}

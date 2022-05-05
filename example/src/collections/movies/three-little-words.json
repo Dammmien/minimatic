@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Little Words",
+    "year": 1950,
+    "cast": [
+      "Fred Astaire",
+      "Red Skelton",
+      "Vera-Ellen"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/three-little-words.html"
+}

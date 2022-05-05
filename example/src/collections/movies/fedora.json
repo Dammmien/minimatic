@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Fedora",
+    "year": 1978,
+    "cast": [
+      "William Holden",
+      "Marthe Keller",
+      "Hildegard Knef",
+      "Jose Ferrer",
+      "Frances Sternhagen",
+      "Stephen Collins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fedora.html"
+}

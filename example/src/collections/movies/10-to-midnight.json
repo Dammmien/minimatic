@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "10 to Midnight",
+    "year": 1983,
+    "cast": [
+      "Charles Bronson",
+      "Lisa Eilbacher",
+      "Andrew Stevens"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/10-to-midnight.html"
+}

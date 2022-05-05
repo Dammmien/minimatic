@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Case of Lena Smith",
+    "year": 1929,
+    "cast": [
+      "Esther Ralston",
+      "James Hall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-case-of-lena-smith.html"
+}

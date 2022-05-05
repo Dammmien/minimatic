@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In the Name of Love",
+    "year": 1925,
+    "cast": [
+      "Ricardo Cortez",
+      "Greta Nissen",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/in-the-name-of-love.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Little Man",
+    "year": 2006,
+    "cast": [
+      "Marlon Wayans",
+      "Shawn Wayans",
+      "Kerry Washington"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-man.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Accused",
+    "year": 1925,
+    "cast": [
+      "Marcella Daly",
+      "Eric Mayne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/accused.html"
+}

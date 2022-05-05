@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Variety Girl",
+    "year": 1947,
+    "cast": [
+      "Various artists"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/variety-girl.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The San Francisco Story",
+    "year": 1952,
+    "cast": [
+      "Yvonne De Carlo",
+      "Joel McCrea"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-san-francisco-story.html"
+}

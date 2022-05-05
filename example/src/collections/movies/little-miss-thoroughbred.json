@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Little Miss Thoroughbred",
+    "year": 1938,
+    "cast": [
+      "John Litel",
+      "Frank McHugh",
+      "Ann Sheridan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-miss-thoroughbred.html"
+}

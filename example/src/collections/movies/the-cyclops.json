@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cyclops",
+    "year": 1957,
+    "cast": [
+      "James Craig",
+      "Gloria Talbott"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-cyclops.html"
+}

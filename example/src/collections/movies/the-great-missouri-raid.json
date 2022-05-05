@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Missouri Raid",
+    "year": 1951,
+    "cast": [
+      "Macdonald Carey",
+      "Ellen Drew"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-great-missouri-raid.html"
+}

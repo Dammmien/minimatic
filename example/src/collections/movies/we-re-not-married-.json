@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "We're Not Married!",
+    "year": 1952,
+    "cast": [
+      "Ginger Rogers",
+      "Marilyn Monroe"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/we-re-not-married-.html"
+}

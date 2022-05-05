@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Big Eyes",
+    "year": 2014,
+    "cast": [
+      "Amy Adams",
+      "Christoph Waltz",
+      "Danny Huston",
+      "Terence Stamp"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/big-eyes.html"
+}

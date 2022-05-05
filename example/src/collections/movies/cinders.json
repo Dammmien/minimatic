@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Cinders",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/cinders.html"
+}

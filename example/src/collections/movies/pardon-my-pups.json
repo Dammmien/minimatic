@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pardon My Pups",
+    "year": 1934,
+    "cast": [
+      "Junior Coghlan",
+      "Shirley Temple"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pardon-my-pups.html"
+}

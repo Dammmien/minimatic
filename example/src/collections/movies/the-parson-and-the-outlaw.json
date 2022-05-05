@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Parson and the Outlaw",
+    "year": 1957,
+    "cast": [
+      "Anthony Dexter",
+      "Sonny Tufts",
+      "Jean Parker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-parson-and-the-outlaw.html"
+}

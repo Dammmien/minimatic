@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Money Matters",
+    "year": 2011,
+    "cast": [
+      "Aunjanue Ellis",
+      "Terri Abney",
+      "James Whalen",
+      "Victoria Wallace",
+      "Jaben Early",
+      "London K. Powell",
+      "Michael S. Wright",
+      "Antonio Lamberti"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/money-matters.html"
+}

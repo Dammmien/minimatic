@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lucky Night",
+    "year": 1939,
+    "cast": [
+      "Myrna Loy",
+      "Robert Taylor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lucky-night.html"
+}

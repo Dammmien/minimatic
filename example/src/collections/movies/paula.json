@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Paula",
+    "year": 1952,
+    "cast": [
+      "Loretta Young"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/paula.html"
+}

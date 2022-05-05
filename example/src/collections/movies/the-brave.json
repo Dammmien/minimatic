@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Brave",
+    "year": 1997,
+    "cast": [
+      "Johnny Depp",
+      "Marlon Brando"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-brave.html"
+}

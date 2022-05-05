@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Listen",
+    "year": 1996,
+    "cast": [
+      "Brooke Langton",
+      "Sarah G. Buxton"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/listen.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Arizona Mahoney",
+    "year": 1936,
+    "cast": [
+      "Joe Cook",
+      "Robert Cummings",
+      "June Martel"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/arizona-mahoney.html"
+}

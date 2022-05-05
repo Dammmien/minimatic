@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beyond Mombasa",
+    "year": 1956,
+    "cast": [
+      "Cornel Wilde",
+      "Donna Reed"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/beyond-mombasa.html"
+}

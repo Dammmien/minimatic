@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Life Begins at 40",
+    "year": 1935,
+    "cast": [
+      "Will Rogers",
+      "Rochelle Hudson",
+      "George Barbier"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/life-begins-at-40.html"
+}

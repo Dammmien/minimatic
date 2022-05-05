@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hey There!",
+    "year": 1918,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hey-there-.html"
+}

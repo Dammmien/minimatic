@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Night Holds Terror",
+    "year": 1955,
+    "cast": [
+      "Vince Edwards",
+      "John Cassavetes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-night-holds-terror.html"
+}

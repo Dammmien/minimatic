@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cheetah",
+    "year": 1989,
+    "cast": [
+      "Keith Coogan",
+      "Lucy Deakins"
+    ],
+    "genres": [
+      "Family",
+      "Drama"
+    ]
+  },
+  "output": "movies/cheetah.html"
+}

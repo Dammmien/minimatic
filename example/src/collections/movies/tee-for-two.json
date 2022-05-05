@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Tee for Two",
+    "year": 1945,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/tee-for-two.html"
+}

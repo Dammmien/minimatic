@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Parents",
+    "year": 1989,
+    "cast": [
+      "Randy Quaid",
+      "Mary Beth Hurt"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/parents.html"
+}

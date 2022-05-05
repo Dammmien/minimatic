@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Welcome to the Jungle",
+    "year": 2013,
+    "cast": [
+      "Jean-Claude Van Damme",
+      "Adam Brody",
+      "Rob Huebel",
+      "Kristopher Van Varenberg"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/welcome-to-the-jungle.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Brotherhood",
+    "year": 1968,
+    "cast": [
+      "Kirk Douglas",
+      "Alex Cord",
+      "Luther Adler"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-brotherhood.html"
+}

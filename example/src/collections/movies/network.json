@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Network",
+    "year": 1976,
+    "cast": [
+      "Peter Finch",
+      "William Holden",
+      "Faye Dunaway",
+      "Beatrice Straight",
+      "Robert Duvall",
+      "Wesley Addy",
+      "Ned Beatty"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/network.html"
+}

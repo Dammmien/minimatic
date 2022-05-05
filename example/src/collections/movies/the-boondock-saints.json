@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Boondock Saints",
+    "year": 1999,
+    "cast": [
+      "Willem Dafoe",
+      "Sean Patrick Flanery",
+      "Norman Reedus"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-boondock-saints.html"
+}

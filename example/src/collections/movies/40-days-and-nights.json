@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "40 Days and Nights",
+    "year": 2012,
+    "cast": [
+      "Monica Keena",
+      "Christianna Carmine",
+      "Emily Sandifer",
+      "Alex Carter"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/40-days-and-nights.html"
+}

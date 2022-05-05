@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Night in Casablanca",
+    "year": 1946,
+    "cast": [
+      "Marx Brothers",
+      "Sig Ruman",
+      "Lois Collier"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-night-in-casablanca.html"
+}

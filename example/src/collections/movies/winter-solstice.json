@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Winter Solstice",
+    "year": 2004,
+    "cast": [
+      "Anthony LaPaglia",
+      "Aaron Stanford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/winter-solstice.html"
+}

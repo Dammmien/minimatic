@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Pier 23",
+    "year": 1951,
+    "cast": [
+      "Hugh Beaumont",
+      "Ann Savage",
+      "Margia Dean"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/pier-23.html"
+}

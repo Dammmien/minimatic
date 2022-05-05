@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Proud Rebel",
+    "year": 1958,
+    "cast": [
+      "Alan Ladd",
+      "Olivia de Havilland",
+      "Dean Jagger"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-proud-rebel.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cry \"Havoc\"",
+    "year": 1943,
+    "cast": [
+      "Margaret Sullavan",
+      "Ann Sothern",
+      "Joan Blondell",
+      "Fay Bainter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cry--havoc-.html"
+}

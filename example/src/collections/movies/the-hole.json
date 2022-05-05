@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Hole",
+    "year": 2009,
+    "cast": [
+      "Teri Polo",
+      "Chris Massoglia",
+      "Haley Bennett"
+    ],
+    "genres": [
+      "Fantasy",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-hole.html"
+}

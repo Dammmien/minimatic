@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prairie Moon",
+    "year": 1938,
+    "cast": [
+      "Gene Autry",
+      "Smiley Burnette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/prairie-moon.html"
+}

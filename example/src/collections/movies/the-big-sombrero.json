@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Big Sombrero",
+    "year": 1949,
+    "cast": [
+      "Gene Autry",
+      "Elena Verdugo"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-big-sombrero.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Lake Placid",
+    "year": 1999,
+    "cast": [
+      "Bill Pullman",
+      "Bridget Fonda",
+      "Oliver Platt",
+      "Brendan Gleeson",
+      "Betty White"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/lake-placid.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Ice Follies of 1939",
+    "year": 1939,
+    "cast": [
+      "Joan Crawford",
+      "James Stewart",
+      "Lew Ayres",
+      "Lewis Stone"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-ice-follies-of-1939.html"
+}

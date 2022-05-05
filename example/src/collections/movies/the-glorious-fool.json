@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Glorious Fool",
+    "year": 1922,
+    "cast": [
+      "Helene Chadwick",
+      "Richard Dix"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-glorious-fool.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stop, Look and Laugh",
+    "year": 1961,
+    "cast": [
+      "The Three Stooges",
+      "Paul Winchell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stop--look-and-laugh.html"
+}

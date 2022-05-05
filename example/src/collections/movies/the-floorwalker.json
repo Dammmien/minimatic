@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Floorwalker",
+    "year": 1916,
+    "cast": [
+      "Charlie Chaplin",
+      "Edna Purviance",
+      "Eric Campbell",
+      "Lloyd Bacon"
+    ],
+    "genres": [
+      "Short",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-floorwalker.html"
+}

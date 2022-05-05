@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Raise the Titanic",
+    "year": 1980,
+    "cast": [
+      "Jason Robards",
+      "Alec Guinness",
+      "Anne Archer"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/raise-the-titanic.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Passage West",
+    "year": 1951,
+    "cast": [
+      "John Payne",
+      "Arleen Whelan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/passage-west.html"
+}

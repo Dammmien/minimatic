@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yankee Pasha",
+    "year": 1954,
+    "cast": [
+      "Rhonda Fleming",
+      "Jeff Chandler"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/yankee-pasha.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Being John Malkovich",
+    "year": 1999,
+    "cast": [
+      "John Cusack",
+      "Cameron Diaz",
+      "Catherine Keener",
+      "John Malkovich"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/being-john-malkovich.html"
+}

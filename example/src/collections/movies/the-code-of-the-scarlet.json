@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Code of the Scarlet",
+    "year": 1928,
+    "cast": [
+      "Ken Maynard",
+      "Gladys McConnell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-code-of-the-scarlet.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paris After Dark",
+    "year": 1943,
+    "cast": [
+      "George Sanders",
+      "Brenda Marshall"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/paris-after-dark.html"
+}

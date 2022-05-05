@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thunder Below",
+    "year": 1932,
+    "cast": [
+      "Tallulah Bankhead",
+      "Charles Bickford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thunder-below.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Trial of Billy Jack",
+    "year": 1974,
+    "cast": [
+      "Tom Laughlin",
+      "Delores Taylor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-trial-of-billy-jack.html"
+}

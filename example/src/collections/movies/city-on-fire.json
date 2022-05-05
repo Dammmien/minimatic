@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "City on Fire",
+    "year": 1979,
+    "cast": [
+      "Susan Clark",
+      "Barry Newman",
+      "Ava Gardner"
+    ],
+    "genres": [
+      "Disaster"
+    ]
+  },
+  "output": "movies/city-on-fire.html"
+}

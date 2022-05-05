@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "John Tucker Must Die",
+    "year": 2006,
+    "cast": [
+      "Jesse Metcalfe",
+      "Brittany Snow",
+      "Ashanti",
+      "Sophia Bush",
+      "Arielle Kebbel",
+      "Jenny McCarthy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/john-tucker-must-die.html"
+}

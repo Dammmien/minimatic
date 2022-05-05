@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Liv Tyler",
+      "Viggo Mortensen",
+      "Sean Astin",
+      "Orlando Bloom",
+      "Christopher Lee",
+      "Cate Blanchett"
+    ],
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-lord-of-the-rings--the-two-towers.html"
+}

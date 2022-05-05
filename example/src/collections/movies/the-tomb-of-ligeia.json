@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Tomb of Ligeia",
+    "year": 1964,
+    "cast": [
+      "Vincent Price",
+      "Elizabeth Shepherd"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-tomb-of-ligeia.html"
+}

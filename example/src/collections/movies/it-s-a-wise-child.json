@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It's a Wise Child",
+    "year": 1931,
+    "cast": [
+      "Marion Davies",
+      "Sidney Blackmer",
+      "James Gleason"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-a-wise-child.html"
+}

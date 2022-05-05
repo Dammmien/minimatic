@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lash",
+    "year": 1930,
+    "cast": [
+      "Richard Barthelmess",
+      "Mary Astor",
+      "Marian Nixon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lash.html"
+}

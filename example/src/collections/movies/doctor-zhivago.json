@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Doctor Zhivago",
+    "year": 1965,
+    "cast": [
+      "Omar Sharif",
+      "Julie Christie",
+      "Rod Steiger",
+      "Geraldine Chaplin",
+      "Tom Courtenay",
+      "Alec Guinness"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/doctor-zhivago.html"
+}

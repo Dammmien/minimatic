@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Transporter 2",
+    "year": 2005,
+    "cast": [
+      "Jason Statham"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/transporter-2.html"
+}

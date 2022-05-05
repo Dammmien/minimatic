@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Day-Time Wife",
+    "year": 1939,
+    "cast": [
+      "Tyrone Power",
+      "Linda Darnell"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/day-time-wife.html"
+}

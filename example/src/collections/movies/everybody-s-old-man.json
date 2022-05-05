@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Everybody's Old Man",
+    "year": 1936,
+    "cast": [
+      "Irvin S. Cobb",
+      "Rochelle Hudson",
+      "Sara Haden"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/everybody-s-old-man.html"
+}

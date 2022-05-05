@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Triplet Trouble",
+    "year": 1952,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/triplet-trouble.html"
+}

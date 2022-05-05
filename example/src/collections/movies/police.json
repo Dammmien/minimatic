@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Police",
+    "year": 1916,
+    "cast": [
+      "Charlie Chaplin",
+      "Edna Purviance",
+      "Wesley Ruggles"
+    ],
+    "genres": [
+      "Short",
+      "Comedy"
+    ]
+  },
+  "output": "movies/police.html"
+}

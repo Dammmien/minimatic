@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "They Made Me a Killer",
+    "year": 1946,
+    "cast": [
+      "Robert Lowery",
+      "Barbara Britton"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/they-made-me-a-killer.html"
+}

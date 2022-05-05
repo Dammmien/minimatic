@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dinky",
+    "year": 1935,
+    "cast": [
+      "Jackie Cooper",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dinky.html"
+}

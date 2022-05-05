@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man from Brodney's",
+    "year": 1923,
+    "cast": [
+      "Alice Calhoun",
+      "Wanda Hawley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-from-brodney-s.html"
+}

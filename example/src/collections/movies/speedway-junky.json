@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Speedway Junky",
+    "year": 1999,
+    "cast": [
+      "Jesse Bradford",
+      "Jordan Brower",
+      "Daryl Hannah"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/speedway-junky.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Second Chance",
+    "year": 1953,
+    "cast": [
+      "Robert Mitchum",
+      "Jack Palance",
+      "Linda Darnell"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/second-chance.html"
+}

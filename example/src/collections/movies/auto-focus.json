@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Auto Focus",
+    "year": 2002,
+    "cast": [
+      "Greg Kinnear",
+      "Willem Dafoe",
+      "Maria Bello",
+      "Rita Wilson"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/auto-focus.html"
+}

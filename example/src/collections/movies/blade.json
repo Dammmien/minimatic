@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blade",
+    "year": 1998,
+    "cast": [
+      "Wesley Snipes",
+      "Stephen Dorff",
+      "Kris Kristofferson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/blade.html"
+}

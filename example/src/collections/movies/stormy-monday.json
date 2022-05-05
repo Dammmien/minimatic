@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Stormy Monday",
+    "year": 1988,
+    "cast": [
+      "Tommy Lee Jones",
+      "Melanie Griffith",
+      "Sting",
+      "Sean Bean"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stormy-monday.html"
+}

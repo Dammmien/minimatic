@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fat City",
+    "year": 1972,
+    "cast": [
+      "Jeff Bridges",
+      "Stacy Keach",
+      "Susan Tyrrell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fat-city.html"
+}

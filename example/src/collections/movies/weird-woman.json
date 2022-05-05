@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Weird Woman",
+    "year": 1944,
+    "cast": [
+      "Lon Chaney Jr.",
+      "Anne Gwynne"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/weird-woman.html"
+}

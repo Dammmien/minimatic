@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Escape from Sobibor",
+    "year": 1987,
+    "cast": [
+      "Alan Arkin",
+      "Joanna Pacuła",
+      "Rutger Hauer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/escape-from-sobibor.html"
+}

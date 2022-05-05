@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Valdez Is Coming",
+    "year": 1971,
+    "cast": [
+      "Burt Lancaster",
+      "Susan Clark",
+      "Jon Cypher"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/valdez-is-coming.html"
+}

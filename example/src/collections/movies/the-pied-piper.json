@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pied Piper",
+    "year": 1942,
+    "cast": [
+      "Monty Woolley",
+      "Roddy McDowall"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-pied-piper.html"
+}

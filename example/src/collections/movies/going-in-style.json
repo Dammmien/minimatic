@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Going in Style",
+    "year": 2017,
+    "cast": [
+      "Morgan Freeman",
+      "Michael Caine",
+      "Alan Arkin",
+      "Joey King",
+      "Matt Dillon",
+      "Ann-Margret",
+      "Christopher Lloyd",
+      "Siobhan Fallon Hogan",
+      "John Ortiz",
+      "Peter Serafinowicz"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/going-in-style.html"
+}

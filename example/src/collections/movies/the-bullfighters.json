@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Bullfighters",
+    "year": 1945,
+    "cast": [
+      "Laurel and Hardy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bullfighters.html"
+}

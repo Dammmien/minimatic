@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Exit to Eden",
+    "year": 1994,
+    "cast": [
+      "Dana Delany",
+      "Paul Mercurio",
+      "Rosie O'Donnell",
+      "Dan Aykroyd",
+      "Iman",
+      "Stuart Wilson",
+      "Héctor Elizondo"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/exit-to-eden.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Destiny",
+    "year": 1944,
+    "cast": [
+      "Gloria Jean",
+      "Alan Curtis",
+      "Frank Craven"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/destiny.html"
+}

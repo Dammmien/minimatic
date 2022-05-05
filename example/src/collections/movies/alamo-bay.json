@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Alamo Bay",
+    "year": 1985,
+    "cast": [
+      "Amy Madigan",
+      "Ed Harris",
+      "Ho Nguyen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/alamo-bay.html"
+}

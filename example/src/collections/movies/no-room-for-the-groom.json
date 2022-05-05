@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No Room for the Groom",
+    "year": 1952,
+    "cast": [
+      "Tony Curtis",
+      "Piper Laurie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/no-room-for-the-groom.html"
+}

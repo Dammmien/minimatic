@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Foxcatcher",
+    "year": 2014,
+    "cast": [
+      "Steve Carell",
+      "Channing Tatum",
+      "Mark Ruffalo",
+      "Vanessa Redgrave"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/foxcatcher.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Red Lips",
+    "year": 1928,
+    "cast": [
+      "Marian Nixon",
+      "Charles \"Buddy\" Rogers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/red-lips.html"
+}

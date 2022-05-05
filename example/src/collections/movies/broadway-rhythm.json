@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Broadway Rhythm",
+    "year": 1944,
+    "cast": [
+      "George Murphy",
+      "Ginny Simms",
+      "Nancy Walker",
+      "Lena Horne"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/broadway-rhythm.html"
+}

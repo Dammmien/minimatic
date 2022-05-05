@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Men on a Horse",
+    "year": 1936,
+    "cast": [
+      "Frank McHugh",
+      "Joan Blondell",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-men-on-a-horse.html"
+}

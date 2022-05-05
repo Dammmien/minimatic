@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Caged",
+    "year": 1950,
+    "cast": [
+      "Eleanor Parker",
+      "Agnes Moorehead",
+      "Lee Patrick",
+      "Betty Garde",
+      "Hope Emerson",
+      "Sheila MacRae"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/caged.html"
+}

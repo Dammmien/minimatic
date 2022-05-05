@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "King of the Hill",
+    "year": 1993,
+    "cast": [
+      "Lisa Eichhorn",
+      "Karen Allen",
+      "Adrien Brody"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/king-of-the-hill.html"
+}

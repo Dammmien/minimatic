@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Gumby: The Movie",
+    "year": 1995,
+    "cast": [],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/gumby--the-movie.html"
+}

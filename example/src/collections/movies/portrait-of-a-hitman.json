@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Portrait of a Hitman",
+    "year": 1977,
+    "cast": [
+      "Rod Steiger",
+      "Jack Palance",
+      "Bo Svenson"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/portrait-of-a-hitman.html"
+}

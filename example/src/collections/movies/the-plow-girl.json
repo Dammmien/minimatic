@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Plow Girl",
+    "year": 1916,
+    "cast": [
+      "Mae Murray",
+      "Elliott Dexter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-plow-girl.html"
+}

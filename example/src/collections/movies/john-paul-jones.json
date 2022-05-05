@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "John Paul Jones",
+    "year": 1959,
+    "cast": [
+      "Robert Stack",
+      "Bette Davis",
+      "Marisa Pavan"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/john-paul-jones.html"
+}

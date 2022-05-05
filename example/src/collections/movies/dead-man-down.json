@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Dead Man Down",
+    "year": 2013,
+    "cast": [
+      "Colin Farrell",
+      "Noomi Rapace",
+      "Dominic Cooper",
+      "Terrence Howard",
+      "Isabelle Huppert"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Noir"
+    ]
+  },
+  "output": "movies/dead-man-down.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Death on the Diamond",
+    "year": 1934,
+    "cast": [
+      "Robert Young",
+      "Madge Evans"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/death-on-the-diamond.html"
+}

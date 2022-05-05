@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Grey Gardens",
+    "year": 1975,
+    "cast": [
+      "Edith Bouvier Beale",
+      "Edith Ewing Bouvier"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/grey-gardens.html"
+}

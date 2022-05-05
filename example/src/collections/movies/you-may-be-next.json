@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "You May Be Next",
+    "year": 1936,
+    "cast": [
+      "Ann Sothern",
+      "Lloyd Nolan"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/you-may-be-next.html"
+}

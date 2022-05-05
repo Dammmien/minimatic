@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Why Sailors Go Wrong",
+    "year": 1928,
+    "cast": [
+      "Sally Phipps",
+      "Nick Stuart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/why-sailors-go-wrong.html"
+}

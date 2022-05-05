@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Social Register",
+    "year": 1934,
+    "cast": [
+      "Colleen Moore",
+      "Charles Winninger"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/social-register.html"
+}

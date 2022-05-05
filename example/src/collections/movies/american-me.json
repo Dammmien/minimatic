@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "American Me",
+    "year": 1992,
+    "cast": [
+      "Edward James Olmos",
+      "William Forsythe"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/american-me.html"
+}

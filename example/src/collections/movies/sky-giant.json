@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sky Giant",
+    "year": 1938,
+    "cast": [
+      "Joan Fontaine",
+      "Richard Dix",
+      "Harry Carey"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/sky-giant.html"
+}

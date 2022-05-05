@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fatal Beauty",
+    "year": 1987,
+    "cast": [
+      "Whoopi Goldberg",
+      "Sam Elliott"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fatal-beauty.html"
+}

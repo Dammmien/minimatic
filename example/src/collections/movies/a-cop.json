@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Cop",
+    "year": 1972,
+    "cast": [
+      "Richard Crenna",
+      "Catherine Deneuve"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/a-cop.html"
+}

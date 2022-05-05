@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "New Faces of 1937",
+    "year": 1937,
+    "cast": [
+      "Joe Penner",
+      "Milton Berle",
+      "Harriet Hilliard"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/new-faces-of-1937.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Out of Season",
+    "year": 1975,
+    "cast": [
+      "Vanessa Redgrave",
+      "Cliff Robertson",
+      "Susan George"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/out-of-season.html"
+}

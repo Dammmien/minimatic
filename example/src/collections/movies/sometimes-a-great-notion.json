@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Sometimes a Great Notion",
+    "year": 1971,
+    "cast": [
+      "Paul Newman",
+      "Henry Fonda",
+      "Lee Remick",
+      "Michael Sarrazin",
+      "Richard Jaeckel"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/sometimes-a-great-notion.html"
+}

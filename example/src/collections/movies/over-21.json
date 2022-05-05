@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Over 21",
+    "year": 1945,
+    "cast": [
+      "Irene Dunne",
+      "Alexander Knox",
+      "Charles Coburn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/over-21.html"
+}

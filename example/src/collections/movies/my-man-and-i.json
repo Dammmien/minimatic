@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Man and I",
+    "year": 1952,
+    "cast": [
+      "Shelley Winters",
+      "Ricardo Montalbán"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-man-and-i.html"
+}

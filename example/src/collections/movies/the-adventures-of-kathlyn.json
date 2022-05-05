@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Adventures of Kathlyn",
+    "year": 1913,
+    "cast": [
+      "Kathlyn Williams"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-adventures-of-kathlyn.html"
+}

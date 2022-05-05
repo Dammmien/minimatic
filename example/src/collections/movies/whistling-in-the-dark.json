@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Whistling in the Dark",
+    "year": 1933,
+    "cast": [
+      "Una Merkel",
+      "Edward Arnold"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/whistling-in-the-dark.html"
+}

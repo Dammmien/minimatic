@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Stepping Stone",
+    "year": 1916,
+    "cast": [
+      "Frank Keenan",
+      "Mary Boland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-stepping-stone.html"
+}

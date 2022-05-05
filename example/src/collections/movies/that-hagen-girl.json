@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That Hagen Girl",
+    "year": 1947,
+    "cast": [
+      "Ronald Reagan",
+      "Shirley Temple"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-hagen-girl.html"
+}

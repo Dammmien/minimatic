@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Age for Love",
+    "year": 1931,
+    "cast": [
+      "Billie Dove",
+      "Edward Everett Horton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-age-for-love.html"
+}

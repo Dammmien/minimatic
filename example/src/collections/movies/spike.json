@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Spike",
+    "year": 2008,
+    "cast": [
+      "Edward Gusts",
+      "Sarah Livingston Evans",
+      "Anna-Marie Wayne"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/spike.html"
+}

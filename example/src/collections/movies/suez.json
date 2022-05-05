@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Suez",
+    "year": 1938,
+    "cast": [
+      "Tyrone Power",
+      "Loretta Young",
+      "Annabella"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/suez.html"
+}

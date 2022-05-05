@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Midnight Flyer",
+    "year": 1925,
+    "cast": [
+      "Cullen Landis",
+      "Dorothy Devore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-midnight-flyer.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daring Hearts",
+    "year": 1919,
+    "cast": [
+      "Francis X. Bushman",
+      "Beverly Bayne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/daring-hearts.html"
+}

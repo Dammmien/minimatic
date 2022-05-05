@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Against the Law",
+    "year": 1997,
+    "cast": [
+      "Nancy Allen",
+      "Nick Mancuso"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/against-the-law.html"
+}

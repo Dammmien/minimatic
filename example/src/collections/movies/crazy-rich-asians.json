@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Crazy Rich Asians",
+    "year": 2018,
+    "cast": [
+      "Constance Wu",
+      "Henry Golding",
+      "Gemma Chan",
+      "Awkwafina",
+      "Nico Santos",
+      "Lisa Lu",
+      "Ken Jeong",
+      "Michelle Yeoh"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/crazy-rich-asians.html"
+}

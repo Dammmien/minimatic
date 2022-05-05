@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Sling Blade",
+    "year": 1996,
+    "cast": [
+      "Billy Bob Thornton",
+      "Dwight Yoakam",
+      "John Ritter",
+      "Lucas Black",
+      "James Hampton",
+      "J. T. Walsh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sling-blade.html"
+}

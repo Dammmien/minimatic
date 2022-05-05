@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Wrong Cops",
+    "year": 2013,
+    "cast": [
+      "Mark Burnham",
+      "Éric Judor",
+      "Marilyn Manson",
+      "Steve Little",
+      "Grace Zabriskie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wrong-cops.html"
+}

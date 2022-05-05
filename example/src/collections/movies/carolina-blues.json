@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Carolina Blues",
+    "year": 1944,
+    "cast": [
+      "Kay Kyser",
+      "Ann Miller",
+      "Victor Moore"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/carolina-blues.html"
+}

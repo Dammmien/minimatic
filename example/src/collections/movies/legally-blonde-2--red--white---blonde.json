@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Legally Blonde 2: Red, White & Blonde",
+    "year": 2003,
+    "cast": [
+      "Reese Witherspoon",
+      "Sally Field",
+      "Luke Wilson",
+      "Bob Newhart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/legally-blonde-2--red--white---blonde.html"
+}

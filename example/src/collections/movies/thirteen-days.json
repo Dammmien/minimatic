@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Thirteen Days",
+    "year": 2000,
+    "cast": [
+      "Kevin Costner",
+      "Bruce Greenwood",
+      "Dylan Baker",
+      "Steven Culp",
+      "Len Cariou",
+      "Kevin Conway"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thirteen-days.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Drum",
+    "year": 2004,
+    "cast": [
+      "Taye Diggs",
+      "Gabriel Mann",
+      "Jason Flemyng"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/drum.html"
+}

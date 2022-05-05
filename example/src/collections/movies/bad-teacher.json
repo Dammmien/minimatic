@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Bad Teacher",
+    "year": 2011,
+    "cast": [
+      "Cameron Diaz",
+      "Jason Segel",
+      "Justin Timberlake",
+      "Lucy Punch",
+      "John Michael Higgins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bad-teacher.html"
+}

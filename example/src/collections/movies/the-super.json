@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Super",
+    "year": 1991,
+    "cast": [
+      "Joe Pesci",
+      "Vincent Gardenia",
+      "Rubén Blades"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-super.html"
+}

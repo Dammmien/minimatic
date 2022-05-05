@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shanghai Knights",
+    "year": 2003,
+    "cast": [
+      "Jackie Chan",
+      "Owen Wilson"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/shanghai-knights.html"
+}

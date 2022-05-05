@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pleasant Devil",
+    "year": 1919,
+    "cast": [
+      "Lew Cody",
+      "Eileen Percy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-pleasant-devil.html"
+}

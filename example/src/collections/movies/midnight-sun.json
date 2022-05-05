@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Midnight Sun",
+    "year": 2018,
+    "cast": [
+      "Bella Thorne",
+      "Patrick Schwarzenegger",
+      "Rob Riggle",
+      "Quinn Shephard"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/midnight-sun.html"
+}

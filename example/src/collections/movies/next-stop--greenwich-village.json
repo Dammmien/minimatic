@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Next Stop, Greenwich Village",
+    "year": 1976,
+    "cast": [
+      "Shelley Winters",
+      "Lenny Baker",
+      "Christopher Walken"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/next-stop--greenwich-village.html"
+}

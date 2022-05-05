@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Snake River Desperadoes",
+    "year": 1951,
+    "cast": [
+      "Charles Starrett",
+      "Monte Blue"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/snake-river-desperadoes.html"
+}

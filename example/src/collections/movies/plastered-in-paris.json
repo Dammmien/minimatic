@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Plastered in Paris",
+    "year": 1928,
+    "cast": [
+      "Sammy Cohen",
+      "Jack Pennick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/plastered-in-paris.html"
+}

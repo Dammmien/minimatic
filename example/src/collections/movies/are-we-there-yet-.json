@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Are We There Yet?",
+    "year": 2005,
+    "cast": [
+      "Ice Cube"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/are-we-there-yet-.html"
+}

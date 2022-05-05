@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smouldering Fires",
+    "year": 1925,
+    "cast": [
+      "Laura La Plante",
+      "Malcolm McGregor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/smouldering-fires.html"
+}

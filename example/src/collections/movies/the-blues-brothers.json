@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "The Blues Brothers",
+    "year": 1980,
+    "cast": [
+      "Dan Aykroyd",
+      "John Belushi",
+      "Carrie Fisher",
+      "Aretha Franklin",
+      "Ray Charles",
+      "James Brown",
+      "Cab Calloway",
+      "Kathleen Freeman",
+      "Steve Lawrence",
+      "John Candy"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-blues-brothers.html"
+}

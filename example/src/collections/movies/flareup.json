@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Flareup",
+    "year": 1969,
+    "cast": [
+      "Raquel Welch"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/flareup.html"
+}

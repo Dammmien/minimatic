@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Zombieland",
+    "year": 2009,
+    "cast": [
+      "Woody Harrelson",
+      "Jesse Eisenberg",
+      "Emma Stone",
+      "Abigail Breslin"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/zombieland.html"
+}

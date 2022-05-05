@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Adventures in Wild California",
+    "year": 2000,
+    "cast": [
+      "Jimmy Smits",
+      "(Narrator)"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/adventures-in-wild-california.html"
+}

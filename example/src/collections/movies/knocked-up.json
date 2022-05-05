@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Knocked Up",
+    "year": 2007,
+    "cast": [
+      "Seth Rogen",
+      "Katherine Heigl",
+      "Paul Rudd",
+      "Leslie Mann"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/knocked-up.html"
+}

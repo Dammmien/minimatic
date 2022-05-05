@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Butch Camp",
+    "year": 1996,
+    "cast": [
+      "Judy Tenuta",
+      "Paul Denniston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/butch-camp.html"
+}

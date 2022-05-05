@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wedding Night",
+    "year": 1935,
+    "cast": [
+      "Gary Cooper",
+      "Anna Sten",
+      "Helen Vinson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wedding-night.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Fuller Brush Man",
+    "year": 1948,
+    "cast": [
+      "Red Skelton",
+      "Janet Blair",
+      "Hillary Brooke",
+      "Adele Jergens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fuller-brush-man.html"
+}

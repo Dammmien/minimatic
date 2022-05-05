@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thirteen Conversations About One Thing",
+    "year": 2001,
+    "cast": [
+      "Matthew McConaughey",
+      "Alan Arkin",
+      "Clea DuVall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thirteen-conversations-about-one-thing.html"
+}

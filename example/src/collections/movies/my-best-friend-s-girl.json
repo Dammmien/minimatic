@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "My Best Friend's Girl",
+    "year": 2008,
+    "cast": [
+      "Dane Cook",
+      "Kate Hudson",
+      "Jason Biggs",
+      "Alec Baldwin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-best-friend-s-girl.html"
+}

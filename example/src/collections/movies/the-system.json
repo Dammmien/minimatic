@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The System",
+    "year": 1953,
+    "cast": [
+      "Frank Lovejoy",
+      "Joan Weldon",
+      "Robert Arthur"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-system.html"
+}

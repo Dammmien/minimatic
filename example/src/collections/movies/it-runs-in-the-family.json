@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It Runs in the Family",
+    "year": 2003,
+    "cast": [
+      "Michael Douglas",
+      "Kirk Douglas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/it-runs-in-the-family.html"
+}

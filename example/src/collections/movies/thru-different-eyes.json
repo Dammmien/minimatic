@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thru Different Eyes",
+    "year": 1942,
+    "cast": [
+      "Frank Craven",
+      "June Walker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thru-different-eyes.html"
+}

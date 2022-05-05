@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "We've Never Been Licked",
+    "year": 1943,
+    "cast": [
+      "Richard Quine",
+      "Anne Gwynne"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/we-ve-never-been-licked.html"
+}

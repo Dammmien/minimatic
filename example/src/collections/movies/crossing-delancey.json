@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Crossing Delancey",
+    "year": 1988,
+    "cast": [
+      "Amy Irving",
+      "Peter Riegert",
+      "Sylvia Miles",
+      "Jeroen Krabbe"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/crossing-delancey.html"
+}

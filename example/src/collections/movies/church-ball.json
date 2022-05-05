@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Church Ball",
+    "year": 2006,
+    "cast": [
+      "Fred Willard",
+      "Andrew Wilson",
+      "Clint Howard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/church-ball.html"
+}

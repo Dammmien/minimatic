@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Margin Call",
+    "year": 2011,
+    "cast": [
+      "Kevin Spacey",
+      "Paul Bettany",
+      "Jeremy Irons",
+      "Zachary Quinto",
+      "Penn Badgley",
+      "Simon Baker",
+      "Mary McDonnell",
+      "Demi Moore",
+      "Stanley Tucci"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/margin-call.html"
+}

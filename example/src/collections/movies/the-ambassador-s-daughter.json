@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Ambassador's Daughter",
+    "year": 1956,
+    "cast": [
+      "Olivia de Havilland",
+      "John Forsythe",
+      "Adolphe Menjou",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ambassador-s-daughter.html"
+}

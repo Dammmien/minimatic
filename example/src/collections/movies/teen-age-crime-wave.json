@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Teen-Age Crime Wave",
+    "year": 1955,
+    "cast": [
+      "Sue England",
+      "Tommy Cook"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/teen-age-crime-wave.html"
+}

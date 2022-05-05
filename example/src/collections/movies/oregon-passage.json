@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Oregon Passage",
+    "year": 1957,
+    "cast": [
+      "Lola Albright",
+      "John Ericson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/oregon-passage.html"
+}

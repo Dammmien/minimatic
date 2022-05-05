@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Good Earth",
+    "year": 1937,
+    "cast": [
+      "Paul Muni",
+      "Luise Rainer",
+      "Walter Connolly"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-good-earth.html"
+}

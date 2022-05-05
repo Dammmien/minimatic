@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Swing Out the Blues",
+    "year": 1943,
+    "cast": [
+      "Bob Haymes",
+      "Lynn Merrick",
+      "Janis Carter"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/swing-out-the-blues.html"
+}

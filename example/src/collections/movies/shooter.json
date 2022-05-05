@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Shooter",
+    "year": 2007,
+    "cast": [
+      "Mark Wahlberg",
+      "Danny Glover",
+      "Michael Peña",
+      "Ned Beatty"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/shooter.html"
+}

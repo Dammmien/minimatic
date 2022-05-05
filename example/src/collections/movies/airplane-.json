@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Airplane!",
+    "year": 1980,
+    "cast": [
+      "Robert Hays",
+      "Julie Hagerty",
+      "Leslie Nielsen",
+      "Peter Graves",
+      "Robert Stack",
+      "Lloyd Bridges",
+      "Kareem Abdul-Jabbar"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/airplane-.html"
+}

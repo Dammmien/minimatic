@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Monster Family",
+    "year": 2018,
+    "cast": [
+      "Emily Watson",
+      "Jason Isaacs",
+      "Nick Frost",
+      "Jessica Brown Findlay",
+      "Celia Imrie",
+      "Catherine Tate"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy",
+      "Family",
+      "Horror"
+    ]
+  },
+  "output": "movies/monster-family.html"
+}

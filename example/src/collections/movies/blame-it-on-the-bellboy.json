@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blame It on the Bellboy",
+    "year": 1992,
+    "cast": [
+      "Dudley Moore",
+      "Bryan Brown",
+      "Patsy Kensit"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blame-it-on-the-bellboy.html"
+}

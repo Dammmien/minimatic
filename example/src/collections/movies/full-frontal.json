@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Full Frontal",
+    "year": 2002,
+    "cast": [
+      "David Duchovny",
+      "Nicky Katt",
+      "Catherine Keener",
+      "Julia Roberts",
+      "Blair Underwood"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/full-frontal.html"
+}

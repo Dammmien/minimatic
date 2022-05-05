@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Banjo on My Knee",
+    "year": 1936,
+    "cast": [
+      "Barbara Stanwyck",
+      "Joel McCrea",
+      "Walter Brennan"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/banjo-on-my-knee.html"
+}

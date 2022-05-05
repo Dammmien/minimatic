@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Speed Racer",
+    "year": 2008,
+    "cast": [
+      "Emile Hirsch",
+      "Christina Ricci",
+      "John Goodman",
+      "Susan Sarandon",
+      "Matthew Fox"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/speed-racer.html"
+}

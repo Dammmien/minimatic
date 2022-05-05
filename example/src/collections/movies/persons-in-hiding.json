@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Persons in Hiding",
+    "year": 1939,
+    "cast": [
+      "Patricia Morison",
+      "Lynne Overman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/persons-in-hiding.html"
+}

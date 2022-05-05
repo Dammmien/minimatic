@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mating of Millie",
+    "year": 1948,
+    "cast": [
+      "Evelyn Keyes",
+      "Glenn Ford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-mating-of-millie.html"
+}

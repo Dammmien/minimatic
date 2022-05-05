@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Earthworm Tractors",
+    "year": 1936,
+    "cast": [
+      "Joe E. Brown",
+      "June Travis",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/earthworm-tractors.html"
+}

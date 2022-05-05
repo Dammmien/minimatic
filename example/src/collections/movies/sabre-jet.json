@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sabre Jet",
+    "year": 1953,
+    "cast": [
+      "Robert Stack",
+      "Coleen Gray",
+      "Richard Arlen"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/sabre-jet.html"
+}

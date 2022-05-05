@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hottentot",
+    "year": 1929,
+    "cast": [
+      "Edward Everett Horton",
+      "Patsy Ruth Miller"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-hottentot.html"
+}

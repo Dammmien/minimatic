@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "For Love or Money",
+    "year": 1993,
+    "cast": [
+      "Michael J. Fox",
+      "Gabrielle Anwar"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/for-love-or-money.html"
+}

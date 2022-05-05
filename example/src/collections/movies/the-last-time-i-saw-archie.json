@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last Time I Saw Archie",
+    "year": 1961,
+    "cast": [
+      "Robert Mitchum",
+      "Jack Webb",
+      "Martha Hyer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-last-time-i-saw-archie.html"
+}

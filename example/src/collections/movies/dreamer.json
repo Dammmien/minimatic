@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dreamer",
+    "year": 2005,
+    "cast": [
+      "Dakota Fanning",
+      "Kurt Russell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dreamer.html"
+}

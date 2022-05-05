@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Species II",
+    "year": 1998,
+    "cast": [
+      "Natasha Henstridge",
+      "Michael Madsen",
+      "Marg Helgenberger",
+      "James Cromwell",
+      "Mykelti Williamson",
+      "George Dzundza"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/species-ii.html"
+}

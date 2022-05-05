@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Singapore Woman",
+    "year": 1941,
+    "cast": [
+      "Brenda Marshall",
+      "Virginia Field"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/singapore-woman.html"
+}

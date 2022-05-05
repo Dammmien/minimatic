@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Game Night",
+    "year": 2018,
+    "cast": [
+      "Jason Bateman",
+      "Rachel McAdams",
+      "Kyle Chandler",
+      "Billy Magnussen",
+      "Sharon Horgan",
+      "Lamorne Morris",
+      "Kylie Bunbury",
+      "Jesse Plemons",
+      "Michael C. Hall"
+    ],
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  "output": "movies/game-night.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lady from Shanghai",
+    "year": 1947,
+    "cast": [
+      "Rita Hayworth",
+      "Orson Welles"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-lady-from-shanghai.html"
+}

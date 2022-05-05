@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Westward Bound",
+    "year": 1944,
+    "cast": [
+      "Ken Maynard",
+      "Hoot Gibson",
+      "Bob Steele"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/westward-bound.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "High-Ballin'",
+    "year": 1978,
+    "cast": [
+      "Peter Fonda",
+      "Jerry Reed"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/high-ballin-.html"
+}

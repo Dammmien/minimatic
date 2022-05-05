@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Adventures of Dollie",
+    "year": 1908,
+    "cast": [
+      "Arthur V. Johnson",
+      "Linda Arvidson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-adventures-of-dollie.html"
+}

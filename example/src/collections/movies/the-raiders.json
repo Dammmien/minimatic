@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Raiders",
+    "year": 1963,
+    "cast": [
+      "Brian Keith",
+      "Robert Culp"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-raiders.html"
+}

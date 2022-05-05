@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Girl Rush",
+    "year": 1944,
+    "cast": [
+      "Wally Brown",
+      "Alan Carney",
+      "Frances Langford"
+    ],
+    "genres": [
+      "Comedy",
+      "Western"
+    ]
+  },
+  "output": "movies/girl-rush.html"
+}

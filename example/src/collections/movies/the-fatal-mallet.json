@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fatal Mallet",
+    "year": 1914,
+    "cast": [
+      "Charles Chaplin",
+      "Mabel Normand",
+      "Mack Sennett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fatal-mallet.html"
+}

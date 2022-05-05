@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Simon Sez",
+    "year": 1999,
+    "cast": [
+      "Dennis Rodman",
+      "Dane Cook"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/simon-sez.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Trailer",
+    "year": 1934,
+    "cast": [
+      "Buck Jones",
+      "Cecilia Parker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-man-trailer.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Judge Steps Out",
+    "year": 1949,
+    "cast": [
+      "Ann Sothern",
+      "Alexander Knox"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-judge-steps-out.html"
+}

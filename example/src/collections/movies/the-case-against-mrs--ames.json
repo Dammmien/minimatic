@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Case Against Mrs. Ames",
+    "year": 1936,
+    "cast": [
+      "Madeleine Carroll",
+      "George Brent",
+      "Beulah Bondi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-case-against-mrs--ames.html"
+}

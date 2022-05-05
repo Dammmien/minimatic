@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "My Lucky Star",
+    "year": 1938,
+    "cast": [
+      "Sonja Henie",
+      "Cesar Romero",
+      "Richard Greene"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/my-lucky-star.html"
+}

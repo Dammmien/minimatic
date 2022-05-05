@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Invisible Stripes",
+    "year": 1939,
+    "cast": [
+      "George Raft",
+      "Jane Bryan",
+      "William Holden"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/invisible-stripes.html"
+}

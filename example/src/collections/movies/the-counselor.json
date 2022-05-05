@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Counselor",
+    "year": 2013,
+    "cast": [
+      "Michael Fassbender",
+      "Penélope Cruz",
+      "Cameron Diaz",
+      "Javier Bardem",
+      "Brad Pitt"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-counselor.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Circle of Deception",
+    "year": 1960,
+    "cast": [
+      "Bradford Dillman",
+      "Suzy Parker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-circle-of-deception.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Billy Madison",
+    "year": 1995,
+    "cast": [
+      "Adam Sandler",
+      "Bridgette Wilson",
+      "Darren McGavin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/billy-madison.html"
+}

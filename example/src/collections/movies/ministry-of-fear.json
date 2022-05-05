@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ministry of Fear",
+    "year": 1944,
+    "cast": [
+      "Ray Milland",
+      "Marjorie Reynolds",
+      "Carl Esmond"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/ministry-of-fear.html"
+}

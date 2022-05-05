@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mata Hari",
+    "year": 1931,
+    "cast": [
+      "Greta Garbo",
+      "Ramón Novarro",
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mata-hari.html"
+}

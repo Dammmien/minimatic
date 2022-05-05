@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Whispering Winds",
+    "year": 1929,
+    "cast": [
+      "Patsy Ruth Miller",
+      "Malcolm McGregor",
+      "Eve Southern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/whispering-winds.html"
+}

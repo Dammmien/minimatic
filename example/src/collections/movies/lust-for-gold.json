@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lust for Gold",
+    "year": 1949,
+    "cast": [
+      "Glenn Ford",
+      "Ida Lupino",
+      "Gig Young"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lust-for-gold.html"
+}

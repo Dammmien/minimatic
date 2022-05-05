@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Finders Keepers, Lovers Weepers!",
+    "year": 1968,
+    "cast": [
+      "Anne Chapman",
+      "Lavelle Roby"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/finders-keepers--lovers-weepers-.html"
+}

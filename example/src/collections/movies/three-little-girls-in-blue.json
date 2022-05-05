@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Little Girls in Blue",
+    "year": 1946,
+    "cast": [
+      "June Haver",
+      "Vera-Ellen",
+      "Vivian Blaine"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-little-girls-in-blue.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Where the Lilies Bloom",
+    "year": 1974,
+    "cast": [
+      "Jan Smithers",
+      "Harry Dean Stanton"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/where-the-lilies-bloom.html"
+}

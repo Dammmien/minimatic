@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "You Can't Beat the Law",
+    "year": 1943,
+    "cast": [
+      "Edward Norris",
+      "Joan Woodbury"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/you-can-t-beat-the-law.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Girl Without a Room",
+    "year": 1933,
+    "cast": [
+      "Charles Ruggles",
+      "Marguerite Churchill"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/girl-without-a-room.html"
+}

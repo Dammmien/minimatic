@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Please Believe Me",
+    "year": 1950,
+    "cast": [
+      "Deborah Kerr",
+      "Robert Walker",
+      "Mark Stevens",
+      "Peter Lawford"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/please-believe-me.html"
+}

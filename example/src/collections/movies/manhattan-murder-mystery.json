@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Manhattan Murder Mystery",
+    "year": 1993,
+    "cast": [
+      "Diane Keaton",
+      "Anjelica Huston",
+      "Alan Alda",
+      "Woody Allen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/manhattan-murder-mystery.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The California Trail",
+    "year": 1933,
+    "cast": [
+      "Buck Jones",
+      "Helen Mack"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-california-trail.html"
+}

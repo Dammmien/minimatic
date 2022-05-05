@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Town Without Pity",
+    "year": 1961,
+    "cast": [
+      "Kirk Douglas",
+      "E. G. Marshall",
+      "Robert Blake"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/town-without-pity.html"
+}

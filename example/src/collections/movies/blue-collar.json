@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Blue Collar",
+    "year": 1978,
+    "cast": [
+      "Richard Pryor",
+      "Harvey Keitel",
+      "Yaphet Kotto"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/blue-collar.html"
+}

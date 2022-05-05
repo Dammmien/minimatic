@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bitter Sweet",
+    "year": 1940,
+    "cast": [
+      "Jeanette MacDonald",
+      "Nelson Eddy",
+      "George Sanders"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/bitter-sweet.html"
+}

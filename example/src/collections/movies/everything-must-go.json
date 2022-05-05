@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Everything Must Go",
+    "year": 2011,
+    "cast": [
+      "Will Ferrell",
+      "Rebecca Hall",
+      "Michael Peña",
+      "Christopher C. J. Wallace",
+      "Glenn Howerton",
+      "Stephen Root",
+      "Laura Dern"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/everything-must-go.html"
+}

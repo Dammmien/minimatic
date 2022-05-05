@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tulsa",
+    "year": 1949,
+    "cast": [
+      "Susan Hayward",
+      "Robert Preston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tulsa.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Give Out, Sisters",
+    "year": 1942,
+    "cast": [
+      "The Andrews Sisters",
+      "Dan Dailey",
+      "Donald O'Connor"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/give-out--sisters.html"
+}

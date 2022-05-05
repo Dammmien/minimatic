@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Passing of Wolf MacLean",
+    "year": 1924,
+    "cast": [
+      "Jack Mower",
+      "Alma Rayford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-passing-of-wolf-maclean.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Alias Mary Dow",
+    "year": 1935,
+    "cast": [
+      "Sally Eilers",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/alias-mary-dow.html"
+}

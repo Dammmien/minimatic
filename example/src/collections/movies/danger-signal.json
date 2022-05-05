@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Danger Signal",
+    "year": 1945,
+    "cast": [
+      "Faye Emerson",
+      "Zachary Scott"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/danger-signal.html"
+}

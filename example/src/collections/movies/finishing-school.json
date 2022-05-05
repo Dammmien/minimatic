@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Finishing School",
+    "year": 1934,
+    "cast": [
+      "Frances Dee",
+      "Ginger Rogers",
+      "Bruce Cabot"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/finishing-school.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rose Bowl",
+    "year": 1936,
+    "cast": [
+      "Eleanore Whitney",
+      "Tom Brown",
+      "Buster Crabbe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rose-bowl.html"
+}

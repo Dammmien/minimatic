@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Phenix City Story",
+    "year": 1955,
+    "cast": [
+      "John McIntire",
+      "Richard Kiley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-phenix-city-story.html"
+}

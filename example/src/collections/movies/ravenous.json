@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Ravenous",
+    "year": 1999,
+    "cast": [
+      "Guy Pearce",
+      "Robert Carlyle",
+      "Jeremy Davies",
+      "Jeffrey Jones",
+      "John Spencer",
+      "Stephen Spinella",
+      "Neal McDonough",
+      "David Arquette"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/ravenous.html"
+}

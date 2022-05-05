@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sailor Be Good",
+    "year": 1933,
+    "cast": [
+      "Jack Oakie",
+      "Vivienne Osborne"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sailor-be-good.html"
+}

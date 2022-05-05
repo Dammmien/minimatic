@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fabulous Dorseys",
+    "year": 1947,
+    "cast": [
+      "Tommy Dorsey",
+      "Jimmy Dorsey"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-fabulous-dorseys.html"
+}

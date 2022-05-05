@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Lola Versus",
+    "year": 2012,
+    "cast": [
+      "Greta Gerwig",
+      "Joel Kinnaman",
+      "Zoe Lister-Jones",
+      "Bill Pullman",
+      "Debra Winger",
+      "Hamish Linklater",
+      "Cheyenne Jackson"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/lola-versus.html"
+}

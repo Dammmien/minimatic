@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Take This Oath",
+    "year": 1940,
+    "cast": [
+      "Joyce Compton",
+      "Gordon Jones"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-take-this-oath.html"
+}

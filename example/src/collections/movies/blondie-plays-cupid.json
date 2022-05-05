@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blondie Plays Cupid",
+    "year": 1940,
+    "cast": [
+      "Penny Singleton",
+      "Arthur Lake"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blondie-plays-cupid.html"
+}

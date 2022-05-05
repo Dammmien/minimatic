@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Caveman",
+    "year": 1981,
+    "cast": [
+      "Ringo Starr",
+      "Dennis Quaid",
+      "Shelley Long",
+      "Barbara Bach",
+      "John Matuszak",
+      "Jack Gilford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/caveman.html"
+}

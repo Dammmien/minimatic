@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nightwing",
+    "year": 1979,
+    "cast": [
+      "Nick Mancuso",
+      "David Warner",
+      "Kathryn Harrold"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/nightwing.html"
+}

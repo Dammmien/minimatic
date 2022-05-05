@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "People Like Us",
+    "year": 2012,
+    "cast": [
+      "Chris Pine",
+      "Elizabeth Banks",
+      "Olivia Wilde",
+      "Michael Hall D'Addario",
+      "Mark Duplass",
+      "Philip Baker Hall",
+      "Jon Favreau",
+      "Michelle Pfeiffer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/people-like-us.html"
+}

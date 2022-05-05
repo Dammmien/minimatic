@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ringside",
+    "year": 1949,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Tom Brown",
+      "Sheila Ryan"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/ringside.html"
+}

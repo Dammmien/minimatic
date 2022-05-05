@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Unwelcome Stranger",
+    "year": 1935,
+    "cast": [
+      "Jack Holt",
+      "Mona Barrie",
+      "Ralph Morgan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-unwelcome-stranger.html"
+}

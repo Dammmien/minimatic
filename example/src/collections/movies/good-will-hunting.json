@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "cast": [
+      "Matt Damon",
+      "Robin Williams",
+      "Ben Affleck",
+      "Minnie Driver",
+      "Stellan Skarsgård"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/good-will-hunting.html"
+}

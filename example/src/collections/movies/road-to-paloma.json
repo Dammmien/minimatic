@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Road to Paloma",
+    "year": 2014,
+    "cast": [
+      "Jason Momoa",
+      "Lisa Bonet",
+      "Michael Raymond-James",
+      "Wes Studi"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/road-to-paloma.html"
+}

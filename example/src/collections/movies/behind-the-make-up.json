@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Behind the Make-Up",
+    "year": 1930,
+    "cast": [
+      "William Powell",
+      "Fay Wray",
+      "Kay Francis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/behind-the-make-up.html"
+}

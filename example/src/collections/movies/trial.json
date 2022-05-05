@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Trial",
+    "year": 1955,
+    "cast": [
+      "Glenn Ford",
+      "Katy Jurado",
+      "Arthur Kennedy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/trial.html"
+}

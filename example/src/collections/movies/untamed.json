@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Untamed",
+    "year": 1955,
+    "cast": [
+      "Tyrone Power",
+      "Susan Hayward"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/untamed.html"
+}

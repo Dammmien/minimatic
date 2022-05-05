@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blood Bath",
+    "year": 1966,
+    "cast": [
+      "Lori Saunders",
+      "Karl Schanzer",
+      "Sid Haig"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/blood-bath.html"
+}

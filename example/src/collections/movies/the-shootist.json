@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Shootist",
+    "year": 1976,
+    "cast": [
+      "John Wayne",
+      "James Stewart",
+      "Lauren Bacall",
+      "Ron Howard",
+      "Harry Morgan",
+      "Scatman Crothers",
+      "Hugh O'Brian",
+      "Richard Boone",
+      "Sheree North"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-shootist.html"
+}

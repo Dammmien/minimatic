@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Harum Scarum",
+    "year": 1965,
+    "cast": [
+      "Elvis Presley",
+      "Mary Ann Mobley",
+      "Fran Jeffries"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/harum-scarum.html"
+}

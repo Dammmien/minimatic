@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Fright Night",
+    "year": 2011,
+    "cast": [
+      "Anton Yelchin",
+      "Colin Farrell",
+      "David Tennant",
+      "Christopher Mintz-Plasse",
+      "Toni Collette",
+      "Imogen Poots",
+      "Lisa Loeb",
+      "Dave Franco",
+      "Sandra Vergara"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/fright-night.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hot Rods to Hell",
+    "year": 1967,
+    "cast": [
+      "Dana Andrews",
+      "Jeanne Crain",
+      "Laurie Mock"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hot-rods-to-hell.html"
+}

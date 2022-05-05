@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Pete, the Pedal Polisher",
+    "year": 1915,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pete--the-pedal-polisher.html"
+}

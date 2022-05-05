@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder, My Sweet",
+    "year": 1944,
+    "cast": [
+      "Dick Powell",
+      "Claire Trevor"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/murder--my-sweet.html"
+}

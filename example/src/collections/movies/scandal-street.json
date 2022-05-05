@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Scandal Street",
+    "year": 1938,
+    "cast": [
+      "Lew Ayres",
+      "Louise Campbell",
+      "Lucien Littlefield"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/scandal-street.html"
+}

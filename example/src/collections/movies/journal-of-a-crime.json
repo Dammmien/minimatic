@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Journal of a Crime",
+    "year": 1934,
+    "cast": [
+      "Ruth Chatterton",
+      "Adolphe Menjou",
+      "Claire Dodd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/journal-of-a-crime.html"
+}

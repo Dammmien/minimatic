@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Private Worlds",
+    "year": 1935,
+    "cast": [
+      "Claudette Colbert",
+      "Joel McCrea",
+      "Charles Boyer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/private-worlds.html"
+}

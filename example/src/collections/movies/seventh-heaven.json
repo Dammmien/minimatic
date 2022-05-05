@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Seventh Heaven",
+    "year": 1937,
+    "cast": [
+      "James Stewart",
+      "Simone Simon",
+      "Jean Hersholt"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/seventh-heaven.html"
+}

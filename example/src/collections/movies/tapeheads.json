@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tapeheads",
+    "year": 1988,
+    "cast": [
+      "Tim Robbins",
+      "John Cusack"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tapeheads.html"
+}

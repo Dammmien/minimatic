@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Judge Dredd",
+    "year": 1995,
+    "cast": [
+      "Sylvester Stallone",
+      "Armand Assante",
+      "Diane Lane",
+      "Rob Schneider",
+      "Max von Sydow",
+      "Jürgen Prochnow",
+      "Joan Chen"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/judge-dredd.html"
+}

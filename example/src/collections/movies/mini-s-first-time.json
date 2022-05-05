@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mini's First Time",
+    "year": 2006,
+    "cast": [
+      "Alec Baldwin",
+      "Nikki Reed",
+      "Luke Wilson"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/mini-s-first-time.html"
+}

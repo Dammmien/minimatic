@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Homeward Bound",
+    "year": 1923,
+    "cast": [
+      "Thomas Meighan",
+      "Lila Lee"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/homeward-bound.html"
+}

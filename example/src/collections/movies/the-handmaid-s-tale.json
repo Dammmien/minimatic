@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Handmaid's Tale",
+    "year": 1990,
+    "cast": [
+      "Natasha Richardson",
+      "Faye Dunaway",
+      "Robert Duvall",
+      "Elizabeth McGovern"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-handmaid-s-tale.html"
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Takers",
+    "year": 2010,
+    "cast": [
+      "Matt Dillon",
+      "Paul Walker",
+      "Idris Elba",
+      "Jay Hernandez",
+      "Michael Ealy",
+      "Tip \"T.I.\" Harris",
+      "Chris Brown",
+      "Hayden Christensen",
+      "Zoe Saldana"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/takers.html"
+}

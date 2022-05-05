@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hired Hand",
+    "year": 1971,
+    "cast": [
+      "Peter Fonda",
+      "Warren Oates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-hired-hand.html"
+}

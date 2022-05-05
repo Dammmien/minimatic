@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Can You Ever Forgive Me?",
+    "year": 2018,
+    "cast": [
+      "Melissa McCarthy",
+      "Richard E. Grant",
+      "Jane Curtin",
+      "Anna Deavere Smith",
+      "Dolly Wells",
+      "Jennifer Westfeldt"
+    ],
+    "genres": [
+      "Biography",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/can-you-ever-forgive-me-.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Win Win",
+    "year": 2011,
+    "cast": [
+      "Paul Giamatti",
+      "Amy Ryan",
+      "Bobby Cannavale",
+      "Jeffrey Tambor",
+      "Burt Young",
+      "Melanie Lynskey"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/win-win.html"
+}

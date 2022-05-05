@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Olly Olly Oxen Free",
+    "year": 1978,
+    "cast": [
+      "Katharine Hepburn",
+      "Kevin McKenzie"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/olly-olly-oxen-free.html"
+}

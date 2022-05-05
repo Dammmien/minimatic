@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Teenage Mutant Ninja Turtles III",
+    "year": 1993,
+    "cast": [
+      "Paige Turco",
+      "Elias Koteas",
+      "Stuart Wilson"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/teenage-mutant-ninja-turtles-iii.html"
+}

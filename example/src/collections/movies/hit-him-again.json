@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hit Him Again",
+    "year": 1918,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hit-him-again.html"
+}

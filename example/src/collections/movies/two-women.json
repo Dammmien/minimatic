@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Two Women",
+    "year": 1919,
+    "cast": [
+      "Anita Stewart",
+      "Earle Williams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/two-women.html"
+}

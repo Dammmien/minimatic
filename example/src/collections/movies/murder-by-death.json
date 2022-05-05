@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Murder by Death",
+    "year": 1976,
+    "cast": [
+      "Peter Falk",
+      "Peter Sellers",
+      "David Niven",
+      "Maggie Smith",
+      "Alec Guinness",
+      "Elsa Lanchester",
+      "James Coco",
+      "James Cromwell",
+      "Eileen Brennan",
+      "Nancy Walker",
+      "Truman Capote"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/murder-by-death.html"
+}

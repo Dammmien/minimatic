@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Jane Austen's Mafia!",
+    "year": 1998,
+    "cast": [
+      "Jay Mohr",
+      "Christina Applegate",
+      "Olympia Dukakis",
+      "Lloyd Bridges"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/jane-austen-s-mafia-.html"
+}

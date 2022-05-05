@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Vanishing Westerner",
+    "year": 1950,
+    "cast": [
+      "Monte Hale",
+      "Aline Towne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-vanishing-westerner.html"
+}

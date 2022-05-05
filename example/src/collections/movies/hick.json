@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Hick",
+    "year": 2012,
+    "cast": [
+      "Chloë Grace Moretz",
+      "Eddie Redmayne",
+      "Ray McKinnon",
+      "Rory Culkin",
+      "Juliette Lewis",
+      "Blake Lively",
+      "Alec Baldwin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hick.html"
+}

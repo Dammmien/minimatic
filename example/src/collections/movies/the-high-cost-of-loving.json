@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The High Cost of Loving",
+    "year": 1958,
+    "cast": [
+      "Jose Ferrer",
+      "Gena Rowlands"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-high-cost-of-loving.html"
+}

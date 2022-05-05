@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "London by Night",
+    "year": 1937,
+    "cast": [
+      "George Murphy",
+      "Rita Johnson"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/london-by-night.html"
+}

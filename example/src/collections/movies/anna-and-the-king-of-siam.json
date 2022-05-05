@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Anna and the King of Siam",
+    "year": 1946,
+    "cast": [
+      "Irene Dunne",
+      "Rex Harrison",
+      "Linda Darnell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/anna-and-the-king-of-siam.html"
+}

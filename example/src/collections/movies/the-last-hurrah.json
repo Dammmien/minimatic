@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Last Hurrah",
+    "year": 1958,
+    "cast": [
+      "Spencer Tracy",
+      "Pat O'Brien",
+      "Jeffrey Hunter",
+      "Dianne Foster",
+      "Basil Rathbone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-last-hurrah.html"
+}

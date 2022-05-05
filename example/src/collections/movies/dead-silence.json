@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dead Silence",
+    "year": 2007,
+    "cast": [
+      "Ryan Kwanten",
+      "Donnie Wahlberg",
+      "Judith Roberts"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dead-silence.html"
+}

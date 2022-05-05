@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rustlers' Hideout",
+    "year": 1945,
+    "cast": [
+      "Buster Crabbe",
+      "Al St. John",
+      "Patti McCarty"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rustlers--hideout.html"
+}

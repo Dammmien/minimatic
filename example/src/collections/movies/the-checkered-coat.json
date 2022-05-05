@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Checkered Coat",
+    "year": 1948,
+    "cast": [
+      "Tom Conway",
+      "Noreen Nash"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-checkered-coat.html"
+}

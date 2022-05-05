@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Day of the Dead",
+    "year": 1985,
+    "cast": [
+      "Lori Cardille",
+      "Sherman Howard"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/day-of-the-dead.html"
+}

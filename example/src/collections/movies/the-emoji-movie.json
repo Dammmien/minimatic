@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Emoji Movie",
+    "year": 2017,
+    "cast": [
+      "T. J. Miller",
+      "Anna Faris",
+      "James Corden",
+      "Jennifer Coolidge",
+      "Rob Riggle",
+      "Steven Wright",
+      "Patrick Stewart"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-emoji-movie.html"
+}

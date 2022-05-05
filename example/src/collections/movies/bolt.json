@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bolt",
+    "year": 2008,
+    "cast": [
+      "John Travolta",
+      "Miley Cyrus"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/bolt.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "I Am a Camera",
+    "year": 1955,
+    "cast": [
+      "Julie Harris",
+      "Laurence Harvey",
+      "Ron Randell",
+      "Shelley Winters"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-am-a-camera.html"
+}

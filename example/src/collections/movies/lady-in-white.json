@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady in White",
+    "year": 1988,
+    "cast": [
+      "Lukas Haas",
+      "Len Cariou"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/lady-in-white.html"
+}

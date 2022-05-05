@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stephen Steps Out",
+    "year": 1923,
+    "cast": [
+      "Douglas Fairbanks Jr.",
+      "Harry Myers",
+      "Noah Beery"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stephen-steps-out.html"
+}

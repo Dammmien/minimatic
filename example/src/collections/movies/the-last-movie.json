@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last Movie",
+    "year": 1971,
+    "cast": [
+      "Dennis Hopper",
+      "Toni Basil"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-last-movie.html"
+}

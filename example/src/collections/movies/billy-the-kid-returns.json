@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Billy the Kid Returns",
+    "year": 1938,
+    "cast": [
+      "Roy Rogers",
+      "Lynne Roberts"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/billy-the-kid-returns.html"
+}

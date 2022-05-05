@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Incident",
+    "year": 1967,
+    "cast": [
+      "Tony Musante",
+      "Martin Sheen",
+      "Ruby Dee"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-incident.html"
+}

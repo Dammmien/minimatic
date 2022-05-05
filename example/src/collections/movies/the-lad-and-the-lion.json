@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lad and the Lion",
+    "year": 1917,
+    "cast": [
+      "Vivian Reed",
+      "Will Machin"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-lad-and-the-lion.html"
+}

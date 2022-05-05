@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thank Your Lucky Stars",
+    "year": 1943,
+    "cast": [
+      "Dennis Morgan",
+      "Joan Leslie"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/thank-your-lucky-stars.html"
+}

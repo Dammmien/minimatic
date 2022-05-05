@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dragon's Gold",
+    "year": 1954,
+    "cast": [
+      "John Archer",
+      "Hillary Brooke"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/dragon-s-gold.html"
+}

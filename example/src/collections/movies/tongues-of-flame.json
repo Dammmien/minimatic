@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tongues of Flame",
+    "year": 1924,
+    "cast": [
+      "Thomas Meighan",
+      "Bessie Love"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tongues-of-flame.html"
+}

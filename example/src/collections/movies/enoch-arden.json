@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Enoch Arden",
+    "year": 1915,
+    "cast": [
+      "Alfred Paget",
+      "Lillian Gish"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/enoch-arden.html"
+}

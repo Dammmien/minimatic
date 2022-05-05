@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hush",
+    "year": 1998,
+    "cast": [
+      "Gwyneth Paltrow",
+      "Jessica Lange",
+      "Johnathon Schaech"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/hush.html"
+}

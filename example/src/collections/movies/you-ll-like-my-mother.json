@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "You'll Like My Mother",
+    "year": 1972,
+    "cast": [
+      "Patty Duke",
+      "Rosemary Murphy"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/you-ll-like-my-mother.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Received Payment",
+    "year": 1922,
+    "cast": [
+      "Corinne Griffith",
+      "Kenneth Harlan",
+      "David Torrence"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/received-payment.html"
+}

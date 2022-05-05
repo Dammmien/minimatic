@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sally",
+    "year": 1929,
+    "cast": [
+      "Marilyn Miller",
+      "Alexander Gray"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/sally.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That's Good",
+    "year": 1919,
+    "cast": [
+      "Hale Hamilton",
+      "Herbert Prior"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-s-good.html"
+}

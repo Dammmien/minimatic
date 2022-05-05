@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Drowning Mona",
+    "year": 2000,
+    "cast": [
+      "Bette Midler",
+      "Jamie Lee Curtis",
+      "Danny DeVito",
+      "Neve Campbell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/drowning-mona.html"
+}

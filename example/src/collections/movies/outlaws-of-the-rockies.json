@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Outlaws of the Rockies",
+    "year": 1945,
+    "cast": [
+      "Charles Starrett",
+      "Carole Mathews",
+      "Dub Taylor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/outlaws-of-the-rockies.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Friends",
+    "year": 1913,
+    "cast": [
+      "Henry B. Walthall",
+      "Blanche Sweet",
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/three-friends.html"
+}

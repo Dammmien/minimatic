@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Walk the Proud Land",
+    "year": 1956,
+    "cast": [
+      "Audie Murphy",
+      "Anne Bancroft"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/walk-the-proud-land.html"
+}

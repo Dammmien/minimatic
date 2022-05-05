@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Widow in Scarlet",
+    "year": 1932,
+    "cast": [
+      "Dorothy Revier",
+      "Kenneth Harlan"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-widow-in-scarlet.html"
+}

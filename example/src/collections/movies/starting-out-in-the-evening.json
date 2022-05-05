@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Starting Out in the Evening",
+    "year": 2007,
+    "cast": [
+      "Frank Langella",
+      "Lauren Ambrose",
+      "Lili Taylor"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/starting-out-in-the-evening.html"
+}

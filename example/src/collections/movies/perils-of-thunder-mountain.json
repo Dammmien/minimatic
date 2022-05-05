@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Perils of Thunder Mountain",
+    "year": 1919,
+    "cast": [
+      "Antonio Moreno",
+      "Carol Holloway"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/perils-of-thunder-mountain.html"
+}

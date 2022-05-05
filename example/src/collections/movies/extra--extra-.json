@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Extra! Extra!",
+    "year": 1922,
+    "cast": [
+      "Edna Murphy",
+      "Johnnie Walker"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/extra--extra-.html"
+}

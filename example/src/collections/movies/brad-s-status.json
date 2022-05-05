@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Brad's Status",
+    "year": 2017,
+    "cast": [
+      "Ben Stiller",
+      "Michael Sheen",
+      "Luke Wilson",
+      "Jemaine Clement",
+      "Jenna Fischer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/brad-s-status.html"
+}

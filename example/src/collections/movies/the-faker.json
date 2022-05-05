@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Faker",
+    "year": 1929,
+    "cast": [
+      "Jacqueline Logan",
+      "Charles Delaney",
+      "Warner Oland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-faker.html"
+}

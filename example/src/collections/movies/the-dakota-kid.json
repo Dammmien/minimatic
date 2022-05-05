@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dakota Kid",
+    "year": 1951,
+    "cast": [
+      "Michael Chapin",
+      "Eilene Janssen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-dakota-kid.html"
+}

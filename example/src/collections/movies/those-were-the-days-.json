@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Those Were the Days!",
+    "year": 1940,
+    "cast": [
+      "William Holden",
+      "Bonita Granville",
+      "Judith Barrett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/those-were-the-days-.html"
+}

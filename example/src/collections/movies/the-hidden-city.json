@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hidden City",
+    "year": 1950,
+    "cast": [
+      "Johnny Sheffield",
+      "Sue England"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-hidden-city.html"
+}

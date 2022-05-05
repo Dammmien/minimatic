@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Baroness and the Butler",
+    "year": 1938,
+    "cast": [
+      "William Powell",
+      "Annabella",
+      "Henry Stephenson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-baroness-and-the-butler.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Branded Man",
+    "year": 1928,
+    "cast": [
+      "Charles Delaney",
+      "June Marlowe"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/branded-man.html"
+}

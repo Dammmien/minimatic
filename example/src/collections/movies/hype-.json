@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Hype!",
+    "year": 1996,
+    "cast": [],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/hype-.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Youth and Adventure",
+    "year": 1925,
+    "cast": [
+      "Richard Talmadge",
+      "Margaret Landis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/youth-and-adventure.html"
+}

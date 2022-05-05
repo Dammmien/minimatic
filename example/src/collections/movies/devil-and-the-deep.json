@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Devil and the Deep",
+    "year": 1932,
+    "cast": [
+      "Tallulah Bankhead",
+      "Gary Cooper",
+      "Charles Laughton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/devil-and-the-deep.html"
+}

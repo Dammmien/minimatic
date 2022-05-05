@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hollywood Party",
+    "year": 1934,
+    "cast": [
+      "Jimmy Durante",
+      "Stan Laurel",
+      "Oliver Hardy"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/hollywood-party.html"
+}

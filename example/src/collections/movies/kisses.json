@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kisses",
+    "year": 1922,
+    "cast": [
+      "Alice Lake",
+      "Harry Myers"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/kisses.html"
+}

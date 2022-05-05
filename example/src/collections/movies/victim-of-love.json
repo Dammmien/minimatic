@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Victim of Love",
+    "year": 1991,
+    "cast": [
+      "Pierce Brosnan",
+      "JoBeth Williams",
+      "Virginia Madsen"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/victim-of-love.html"
+}

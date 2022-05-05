@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Liliom",
+    "year": 1930,
+    "cast": [
+      "Charles Farrell",
+      "Rose Hobart"
+    ],
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/liliom.html"
+}

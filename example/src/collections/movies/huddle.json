@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Huddle",
+    "year": 1932,
+    "cast": [
+      "Ramon Novarro",
+      "Madge Evans"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/huddle.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sniper",
+    "year": 1993,
+    "cast": [
+      "Tom Berenger",
+      "Billy Zane"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/sniper.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Paradise Isle",
+    "year": 1937,
+    "cast": [
+      "Movita Castaneda",
+      "Warren Hull"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/paradise-isle.html"
+}

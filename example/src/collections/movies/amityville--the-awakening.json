@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Amityville: The Awakening",
+    "year": 2017,
+    "cast": [
+      "Bella Thorne",
+      "Jennifer Jason Leigh",
+      "Cameron Monaghan",
+      "Mckenna Grace",
+      "Jennifer Morrison",
+      "Kurtwood Smith"
+    ],
+    "genres": [
+      "Thriller",
+      "Horror"
+    ]
+  },
+  "output": "movies/amityville--the-awakening.html"
+}

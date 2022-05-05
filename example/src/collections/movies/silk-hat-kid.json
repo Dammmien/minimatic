@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silk Hat Kid",
+    "year": 1935,
+    "cast": [
+      "Lew Ayres",
+      "Mae Clarke"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/silk-hat-kid.html"
+}

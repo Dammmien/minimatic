@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Constantine",
+    "year": 2005,
+    "cast": [
+      "Keanu Reeves",
+      "Rachel Weisz",
+      "Shia LaBeouf"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/constantine.html"
+}

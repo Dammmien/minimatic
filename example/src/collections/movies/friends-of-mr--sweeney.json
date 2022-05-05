@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Friends of Mr. Sweeney",
+    "year": 1934,
+    "cast": [
+      "Charles Ruggles",
+      "Ann Dvorak",
+      "Eugene Pallette"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/friends-of-mr--sweeney.html"
+}

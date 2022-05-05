@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Irene",
+    "year": 1940,
+    "cast": [
+      "Anna Neagle",
+      "Ray Milland",
+      "Roland Young"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/irene.html"
+}

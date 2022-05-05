@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Silent Lover",
+    "year": 1926,
+    "cast": [
+      "Milton Sills",
+      "Natalie Kingston",
+      "Viola Dana"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-silent-lover.html"
+}

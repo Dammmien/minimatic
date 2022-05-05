@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Little Black Book",
+    "year": 2004,
+    "cast": [
+      "Brittany Murphy",
+      "Holly Hunter",
+      "Kathy Bates",
+      "Ron Livingston"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-black-book.html"
+}

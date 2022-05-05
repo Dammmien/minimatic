@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sudden Impact",
+    "year": 1983,
+    "cast": [
+      "Clint Eastwood",
+      "Sondra Locke",
+      "Pat Hingle"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/sudden-impact.html"
+}

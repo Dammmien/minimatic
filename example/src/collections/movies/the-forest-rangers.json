@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Forest Rangers",
+    "year": 1942,
+    "cast": [
+      "Fred MacMurray",
+      "Susan Hayward",
+      "Paulette Goddard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-forest-rangers.html"
+}

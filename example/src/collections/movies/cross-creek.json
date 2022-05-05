@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Cross Creek",
+    "year": 1983,
+    "cast": [
+      "Mary Steenburgen",
+      "Peter Coyote",
+      "Rip Torn",
+      "Alfre Woodard",
+      "Dana Hill"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/cross-creek.html"
+}

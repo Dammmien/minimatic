@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Herr Meets Hare",
+    "year": 1945,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/herr-meets-hare.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Paris Can Wait",
+    "year": 2017,
+    "cast": [
+      "Diane Lane",
+      "Alec Baldwin",
+      "Arnaud Viard"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/paris-can-wait.html"
+}

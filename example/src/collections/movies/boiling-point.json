@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Boiling Point",
+    "year": 1993,
+    "cast": [
+      "Wesley Snipes",
+      "Dennis Hopper",
+      "Lolita Davidovich",
+      "Viggo Mortensen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/boiling-point.html"
+}

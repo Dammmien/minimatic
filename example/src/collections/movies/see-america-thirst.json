@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "See America Thirst",
+    "year": 1930,
+    "cast": [
+      "Harry Langdon",
+      "Bessie Love"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/see-america-thirst.html"
+}

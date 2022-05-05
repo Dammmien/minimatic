@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "When the Heart Calls",
+    "year": 1912,
+    "cast": [
+      "Lee Moran",
+      "Russell Bassett",
+      "Louise Glaum"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/when-the-heart-calls.html"
+}

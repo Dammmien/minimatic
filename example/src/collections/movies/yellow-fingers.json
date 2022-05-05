@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Yellow Fingers",
+    "year": 1926,
+    "cast": [
+      "Olive Borden",
+      "Ralph Ince",
+      "Claire Adams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/yellow-fingers.html"
+}

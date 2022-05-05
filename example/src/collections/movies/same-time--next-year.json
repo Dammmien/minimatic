@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Same Time, Next Year",
+    "year": 1978,
+    "cast": [
+      "Alan Alda",
+      "Ellen Burstyn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/same-time--next-year.html"
+}

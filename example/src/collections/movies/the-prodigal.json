@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Prodigal",
+    "year": 1955,
+    "cast": [
+      "Lana Turner",
+      "Louis Calhern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-prodigal.html"
+}

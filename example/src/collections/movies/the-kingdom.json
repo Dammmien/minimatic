@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Kingdom",
+    "year": 2007,
+    "cast": [
+      "Jamie Foxx",
+      "Chris Cooper",
+      "Jennifer Garner",
+      "Jason Bateman",
+      "Jeremy Piven",
+      "Danny Huston",
+      "Richard Jenkins"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-kingdom.html"
+}

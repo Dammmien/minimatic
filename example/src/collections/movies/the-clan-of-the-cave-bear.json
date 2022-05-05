@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Clan of the Cave Bear",
+    "year": 1986,
+    "cast": [
+      "Daryl Hannah",
+      "Pamela Reed",
+      "James Remar"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-clan-of-the-cave-bear.html"
+}

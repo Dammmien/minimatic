@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Superbad",
+    "year": 2007,
+    "cast": [
+      "Jonah Hill",
+      "Michael Cera",
+      "Christopher Mintz-Plasse",
+      "Seth Rogen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/superbad.html"
+}

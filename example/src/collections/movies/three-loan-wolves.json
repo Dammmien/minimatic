@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Three Loan Wolves",
+    "year": 1946,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/three-loan-wolves.html"
+}

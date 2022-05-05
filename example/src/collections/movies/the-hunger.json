@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hunger",
+    "year": 1983,
+    "cast": [
+      "Catherine Deneuve",
+      "Susan Sarandon",
+      "David Bowie"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-hunger.html"
+}

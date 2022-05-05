@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blessed Event",
+    "year": 1932,
+    "cast": [
+      "Lee Tracy",
+      "Mary Brian"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blessed-event.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Red Skies of Montana",
+    "year": 1952,
+    "cast": [
+      "Richard Widmark",
+      "Richard Boone"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/red-skies-of-montana.html"
+}

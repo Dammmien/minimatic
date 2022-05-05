@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Knock on Wood",
+    "year": 1954,
+    "cast": [
+      "Danny Kaye",
+      "Mai Zetterling"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/knock-on-wood.html"
+}

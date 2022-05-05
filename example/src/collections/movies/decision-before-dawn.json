@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Decision Before Dawn",
+    "year": 1951,
+    "cast": [
+      "Richard Basehart",
+      "Gary Merrill",
+      "Hildegard Knef"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/decision-before-dawn.html"
+}

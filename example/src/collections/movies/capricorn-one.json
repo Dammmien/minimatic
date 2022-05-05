@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Capricorn One",
+    "year": 1978,
+    "cast": [
+      "Elliott Gould",
+      "Sam Waterston",
+      "James Brolin",
+      "O. J. Simpson",
+      "Brenda Vaccaro",
+      "Hal Holbrook"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/capricorn-one.html"
+}

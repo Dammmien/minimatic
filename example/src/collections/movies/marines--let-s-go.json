@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Marines, Let's Go",
+    "year": 1961,
+    "cast": [
+      "Tom Tryon",
+      "David Hedison"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/marines--let-s-go.html"
+}

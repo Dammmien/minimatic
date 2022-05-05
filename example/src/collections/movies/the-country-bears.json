@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Country Bears",
+    "year": 2002,
+    "cast": [
+      "Don Henley",
+      "Haley Joel Osment",
+      "Diedrich Bader",
+      "Christopher Walken"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-country-bears.html"
+}

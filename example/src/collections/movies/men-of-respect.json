@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Men of Respect",
+    "year": 1991,
+    "cast": [
+      "John Turturro",
+      "Rod Steiger",
+      "Dennis Farina",
+      "Stanley Tucci",
+      "Peter Boyle"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/men-of-respect.html"
+}

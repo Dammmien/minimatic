@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Incredibles",
+    "year": 2004,
+    "cast": [
+      "voices of",
+      "Craig T. Nelson",
+      "Holly Hunter",
+      "Jason Lee",
+      "Samuel L. Jackson",
+      "Sarah Vowell"
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/the-incredibles.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Boxcar Bertha",
+    "year": 1972,
+    "cast": [
+      "Barbara Hershey",
+      "David Carradine",
+      "Barry Primus",
+      "John Carradine",
+      "Bernie Casey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/boxcar-bertha.html"
+}

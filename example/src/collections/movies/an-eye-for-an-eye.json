@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "An Eye for an Eye",
+    "year": 1981,
+    "cast": [
+      "Chuck Norris",
+      "Christopher Reeve",
+      "Richard Roundtree"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/an-eye-for-an-eye.html"
+}

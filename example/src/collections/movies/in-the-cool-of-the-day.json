@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In the Cool of the Day",
+    "year": 1963,
+    "cast": [
+      "Peter Finch",
+      "Jane Fonda",
+      "Angela Lansbury"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/in-the-cool-of-the-day.html"
+}

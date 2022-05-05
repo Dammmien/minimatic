@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "High Steaks",
+    "year": 1962,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/high-steaks.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "West of Singapore",
+    "year": 1933,
+    "cast": [
+      "Betty Compson",
+      "Weldon Heyburn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/west-of-singapore.html"
+}

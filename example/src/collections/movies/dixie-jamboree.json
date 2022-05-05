@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dixie Jamboree",
+    "year": 1944,
+    "cast": [
+      "Frances Langford",
+      "Guy Kibbee",
+      "Eddie Quillan"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/dixie-jamboree.html"
+}

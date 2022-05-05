@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Battle of Broadway",
+    "year": 1938,
+    "cast": [
+      "Victor McLaglen",
+      "Brian Donlevy",
+      "Gypsy Rose Lee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/battle-of-broadway.html"
+}

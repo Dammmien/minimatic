@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Two Can Play",
+    "year": 1926,
+    "cast": [
+      "Allan Forrest",
+      "Clara Bow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/two-can-play.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tol'able David",
+    "year": 1930,
+    "cast": [
+      "Richard Cromwell",
+      "Noah Beery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tol-able-david.html"
+}

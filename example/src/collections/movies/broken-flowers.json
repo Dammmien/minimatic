@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Broken Flowers",
+    "year": 2005,
+    "cast": [
+      "Bill Murray",
+      "Jeffrey Wright",
+      "Sharon Stone",
+      "Frances Conroy",
+      "Jessica Lange",
+      "Tilda Swinton"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/broken-flowers.html"
+}

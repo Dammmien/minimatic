@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Liar Liar",
+    "year": 1997,
+    "cast": [
+      "Jim Carrey",
+      "Justin Cooper",
+      "Maura Tierney",
+      "Cary Elwes",
+      "Jennifer Tilly",
+      "Amanda Donohoe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/liar-liar.html"
+}

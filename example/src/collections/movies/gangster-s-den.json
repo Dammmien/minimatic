@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gangster's Den",
+    "year": 1945,
+    "cast": [
+      "Buster Crabbe",
+      "Al St. John"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gangster-s-den.html"
+}

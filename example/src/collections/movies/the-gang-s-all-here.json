@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gang's All Here",
+    "year": 1943,
+    "cast": [
+      "Alice Faye",
+      "Carmen Miranda"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-gang-s-all-here.html"
+}

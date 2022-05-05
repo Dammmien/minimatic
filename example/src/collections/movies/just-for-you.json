@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Just for You",
+    "year": 1952,
+    "cast": [
+      "Bing Crosby",
+      "Jane Wyman"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/just-for-you.html"
+}

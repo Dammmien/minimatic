@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Next",
+    "year": 2007,
+    "cast": [
+      "Nicolas Cage",
+      "Julianne Moore",
+      "Jessica Biel"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/next.html"
+}

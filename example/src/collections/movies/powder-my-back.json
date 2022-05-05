@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Powder My Back",
+    "year": 1928,
+    "cast": [
+      "Irene Rich",
+      "Audrey Ferris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/powder-my-back.html"
+}

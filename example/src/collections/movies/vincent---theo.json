@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Vincent & Theo",
+    "year": 1990,
+    "cast": [
+      "Tim Roth",
+      "Paul Rhys"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/vincent---theo.html"
+}

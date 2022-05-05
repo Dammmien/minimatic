@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fanny",
+    "year": 1961,
+    "cast": [
+      "Leslie Caron",
+      "Charles Boyer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fanny.html"
+}

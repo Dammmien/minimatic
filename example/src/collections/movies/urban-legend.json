@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Urban Legend",
+    "year": 1998,
+    "cast": [
+      "Jared Leto",
+      "Alicia Witt",
+      "Rebecca Gayheart",
+      "Joshua Jackson",
+      "Loretta Devine",
+      "Tara Reid",
+      "Robert Englund"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/urban-legend.html"
+}

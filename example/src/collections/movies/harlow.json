@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Harlow",
+    "year": 1965,
+    "cast": [
+      "Carol Lynley",
+      "Efrem Zimbalist, Jr.",
+      "Ginger Rogers"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/harlow.html"
+}

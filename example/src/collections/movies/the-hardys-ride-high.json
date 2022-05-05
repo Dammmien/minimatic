@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hardys Ride High",
+    "year": 1939,
+    "cast": [
+      "Mickey Rooney",
+      "Lewis Stone",
+      "Fay Holden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-hardys-ride-high.html"
+}

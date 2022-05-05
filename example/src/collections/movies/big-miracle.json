@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Big Miracle",
+    "year": 2012,
+    "cast": [
+      "Drew Barrymore",
+      "John Krasinski",
+      "Kristen Bell",
+      "Dermot Mulroney",
+      "Tim Blake Nelson",
+      "Vinessa Shaw",
+      "Ted Danson",
+      "Stephen Root",
+      "Rob Riggle",
+      "Michael Gaston",
+      "Megan Angela Smith"
+    ],
+    "genres": [
+      "Family",
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/big-miracle.html"
+}

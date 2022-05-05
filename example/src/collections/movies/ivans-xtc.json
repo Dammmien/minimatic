@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ivans Xtc",
+    "year": 2000,
+    "cast": [
+      "Danny Huston",
+      "Peter Weller"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ivans-xtc.html"
+}

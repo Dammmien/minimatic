@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This World, Then the Fireworks",
+    "year": 1997,
+    "cast": [
+      "Billy Zane",
+      "Gina Gershon",
+      "Sheryl Lee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/this-world--then-the-fireworks.html"
+}

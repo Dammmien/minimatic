@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Devil's Advocate",
+    "year": 1997,
+    "cast": [
+      "Keanu Reeves",
+      "Al Pacino",
+      "Charlize Theron"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-devil-s-advocate.html"
+}

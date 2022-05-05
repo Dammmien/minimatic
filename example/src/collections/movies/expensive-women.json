@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Expensive Women",
+    "year": 1931,
+    "cast": [
+      "Dolores Costello",
+      "H. B. Warner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/expensive-women.html"
+}

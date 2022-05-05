@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Another Nice Mess",
+    "year": 1972,
+    "cast": [
+      "Rich Little",
+      "Herb Voland"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/another-nice-mess.html"
+}

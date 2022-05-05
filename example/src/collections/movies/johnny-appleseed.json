@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Johnny Appleseed",
+    "year": 1948,
+    "cast": [],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/johnny-appleseed.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lords of Flatbush",
+    "year": 1974,
+    "cast": [
+      "Henry Winkler",
+      "Sylvester Stallone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lords-of-flatbush.html"
+}

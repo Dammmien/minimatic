@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Meet the Prince",
+    "year": 1926,
+    "cast": [
+      "Joseph Schildkraut",
+      "Marguerite De La Motte"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/meet-the-prince.html"
+}

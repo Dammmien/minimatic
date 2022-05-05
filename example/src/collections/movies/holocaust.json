@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Holocaust",
+    "year": 1978,
+    "cast": [
+      "Meryl Streep",
+      "Michael Moriarty",
+      "Rosemary Harris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/holocaust.html"
+}

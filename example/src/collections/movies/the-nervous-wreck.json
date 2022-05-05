@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Nervous Wreck",
+    "year": 1926,
+    "cast": [
+      "Harrison Ford",
+      "Phyllis Haver"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-nervous-wreck.html"
+}

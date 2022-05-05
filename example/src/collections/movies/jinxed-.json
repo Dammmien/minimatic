@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jinxed!",
+    "year": 1982,
+    "cast": [
+      "Bette Midler",
+      "Rip Torn",
+      "Ken Wahl"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/jinxed-.html"
+}

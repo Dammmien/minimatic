@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Monster",
+    "year": 2003,
+    "cast": [
+      "Charlize Theron",
+      "Christina Ricci"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/monster.html"
+}

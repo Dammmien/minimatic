@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wife Savers",
+    "year": 1928,
+    "cast": [
+      "Wallace Beery",
+      "ZaSu Pitts",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wife-savers.html"
+}

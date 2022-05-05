@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bloody Pit of Horror",
+    "year": 1965,
+    "cast": [
+      "Mickey Hargitay",
+      "Walter Bigari",
+      "Luisa Baratto"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/bloody-pit-of-horror.html"
+}

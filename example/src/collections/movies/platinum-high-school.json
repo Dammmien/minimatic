@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Platinum High School",
+    "year": 1960,
+    "cast": [
+      "Mickey Rooney",
+      "Dan Duryea"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/platinum-high-school.html"
+}

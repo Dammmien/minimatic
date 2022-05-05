@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Oh, You Beautiful Doll",
+    "year": 1949,
+    "cast": [
+      "Mark Stevens",
+      "June Haver",
+      "Gale Robbins"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/oh--you-beautiful-doll.html"
+}

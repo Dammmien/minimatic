@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Problem Girls",
+    "year": 1953,
+    "cast": [
+      "Helen Walker",
+      "Susan Morrow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/problem-girls.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Freckles",
+    "year": 1960,
+    "cast": [
+      "Carol Christensen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/freckles.html"
+}

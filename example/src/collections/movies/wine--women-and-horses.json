@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wine, Women and Horses",
+    "year": 1937,
+    "cast": [
+      "Ann Sheridan",
+      "Barton MacLane",
+      "Walter Cassel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wine--women-and-horses.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Behind the Candelabra",
+    "year": 2013,
+    "cast": [
+      "Michael Douglas",
+      "Matt Damon",
+      "Dan Aykroyd",
+      "Scott Bakula",
+      "Rob Lowe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/behind-the-candelabra.html"
+}

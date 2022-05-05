@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cheaper to Marry",
+    "year": 1925,
+    "cast": [
+      "Conrad Nagel",
+      "Lewis Stone",
+      "Marguerite De La Motte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cheaper-to-marry.html"
+}

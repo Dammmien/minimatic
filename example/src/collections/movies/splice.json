@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Splice",
+    "year": 2010,
+    "cast": [
+      "Adrien Brody",
+      "Sarah Polley"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/splice.html"
+}

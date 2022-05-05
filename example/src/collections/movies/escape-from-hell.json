@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Escape from Hell",
+    "year": 2001,
+    "cast": [
+      "Daniel Kruse",
+      "Emilie Jo Tisdale",
+      "Terry Jernigan"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/escape-from-hell.html"
+}

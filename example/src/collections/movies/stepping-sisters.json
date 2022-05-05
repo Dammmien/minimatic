@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stepping Sisters",
+    "year": 1932,
+    "cast": [
+      "Louise Dresser",
+      "Minna Gombell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stepping-sisters.html"
+}

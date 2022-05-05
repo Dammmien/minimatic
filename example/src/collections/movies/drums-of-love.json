@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Drums of Love",
+    "year": 1928,
+    "cast": [
+      "Mary Philbin",
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/drums-of-love.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Enter the Ninja",
+    "year": 1981,
+    "cast": [
+      "Franco Nero",
+      "Susan George",
+      "Sho Kosugi",
+      "Christopher George"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/enter-the-ninja.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Confess",
+    "year": 1953,
+    "cast": [
+      "Montgomery Clift",
+      "Anne Baxter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-confess.html"
+}

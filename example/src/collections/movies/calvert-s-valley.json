@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Calvert's Valley",
+    "year": 1922,
+    "cast": [
+      "John Gilbert",
+      "Sylvia Breamer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/calvert-s-valley.html"
+}

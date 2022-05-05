@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Torch Bearer",
+    "year": 1916,
+    "cast": [
+      "Charlotte Burton",
+      "Harry Keenan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-torch-bearer.html"
+}

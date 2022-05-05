@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Bad Sisters",
+    "year": 1956,
+    "cast": [
+      "Marla English",
+      "John Bromfield"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/three-bad-sisters.html"
+}

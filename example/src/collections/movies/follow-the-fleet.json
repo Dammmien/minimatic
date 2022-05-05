@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Follow the Fleet",
+    "year": 1936,
+    "cast": [
+      "Fred Astaire",
+      "Ginger Rogers",
+      "Lucille Ball"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/follow-the-fleet.html"
+}

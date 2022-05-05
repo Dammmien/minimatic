@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Taming of the Shrew",
+    "year": 1967,
+    "cast": [
+      "Elizabeth Taylor",
+      "Richard Burton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-taming-of-the-shrew.html"
+}

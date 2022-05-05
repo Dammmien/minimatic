@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "I Live for Love",
+    "year": 1935,
+    "cast": [
+      "Dolores del Río",
+      "Everett Marshall",
+      "Don Alvarado"
+    ],
+    "genres": [
+      "Musical",
+      "Romance"
+    ]
+  },
+  "output": "movies/i-live-for-love.html"
+}

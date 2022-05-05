@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Christmas with the Kranks",
+    "year": 2004,
+    "cast": [
+      "Tim Allen",
+      "Jamie Lee Curtis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/christmas-with-the-kranks.html"
+}

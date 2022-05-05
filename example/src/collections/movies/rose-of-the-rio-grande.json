@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rose of the Rio Grande",
+    "year": 1938,
+    "cast": [
+      "John Carroll",
+      "Movita",
+      "Gino Corrado"
+    ],
+    "genres": [
+      "Western",
+      "Musical"
+    ]
+  },
+  "output": "movies/rose-of-the-rio-grande.html"
+}

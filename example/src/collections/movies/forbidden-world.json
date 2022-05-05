@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Forbidden World",
+    "year": 1982,
+    "cast": [
+      "Dawn Dunlap",
+      "Jesse Vint",
+      "Michael Bowen"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/forbidden-world.html"
+}

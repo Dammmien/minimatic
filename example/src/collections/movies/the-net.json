@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Net",
+    "year": 1995,
+    "cast": [
+      "Sandra Bullock",
+      "Jeremy Northam",
+      "Dennis Miller"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-net.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Conqueror",
+    "year": 1956,
+    "cast": [
+      "John Wayne",
+      "Susan Hayward",
+      "Pedro Armendáriz"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-conqueror.html"
+}

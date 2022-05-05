@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Surrogates",
+    "year": 2009,
+    "cast": [
+      "Bruce Willis",
+      "Radha Mitchell",
+      "Rosamund Pike",
+      "Boris Kodjoe",
+      "James Cromwell",
+      "Ving Rhames"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/surrogates.html"
+}

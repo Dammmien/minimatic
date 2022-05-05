@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wise Girl",
+    "year": 1937,
+    "cast": [
+      "Miriam Hopkins",
+      "Ray Milland",
+      "Guinn Williams"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wise-girl.html"
+}

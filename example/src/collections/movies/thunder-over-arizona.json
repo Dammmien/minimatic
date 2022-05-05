@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thunder Over Arizona",
+    "year": 1956,
+    "cast": [
+      "Skip Homeier",
+      "Kristine Miller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/thunder-over-arizona.html"
+}

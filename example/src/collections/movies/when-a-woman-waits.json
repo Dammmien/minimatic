@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When a Woman Waits",
+    "year": 1914,
+    "cast": [
+      "Charlotte Burton",
+      "Bessie Banks"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/when-a-woman-waits.html"
+}

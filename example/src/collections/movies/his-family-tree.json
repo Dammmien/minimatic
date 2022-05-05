@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "His Family Tree",
+    "year": 1935,
+    "cast": [
+      "James Barton",
+      "Margaret Callahan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/his-family-tree.html"
+}

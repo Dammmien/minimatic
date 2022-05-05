@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Let Us Be Gay",
+    "year": 1930,
+    "cast": [
+      "Norma Shearer",
+      "Marie Dressler",
+      "Rod La Rocque"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-us-be-gay.html"
+}

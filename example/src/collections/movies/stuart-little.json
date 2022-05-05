@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stuart Little",
+    "year": 1999,
+    "cast": [
+      "Geena Davis",
+      "Hugh Laurie",
+      "Jonathan Lipnicki"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/stuart-little.html"
+}

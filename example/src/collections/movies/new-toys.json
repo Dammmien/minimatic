@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "New Toys",
+    "year": 1925,
+    "cast": [
+      "Richard Barthelmess",
+      "Clifton Webb"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/new-toys.html"
+}

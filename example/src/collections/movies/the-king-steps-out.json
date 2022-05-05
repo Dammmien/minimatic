@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The King Steps Out",
+    "year": 1936,
+    "cast": [
+      "Grace Moore",
+      "Franchot Tone",
+      "Victor Jory"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-king-steps-out.html"
+}

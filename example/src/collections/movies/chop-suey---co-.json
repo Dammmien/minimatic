@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chop Suey & Co.",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd",
+      "Snub Pollard",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/chop-suey---co-.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Three of Hearts",
+    "year": 1993,
+    "cast": [
+      "William Baldwin",
+      "Sherilyn Fenn",
+      "Kelly Lynch"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/three-of-hearts.html"
+}

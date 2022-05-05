@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Matrimonial Bed",
+    "year": 1930,
+    "cast": [
+      "Frank Fay",
+      "Lilyan Tashman"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-matrimonial-bed.html"
+}

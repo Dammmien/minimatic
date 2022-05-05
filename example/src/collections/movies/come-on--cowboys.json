@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Come On, Cowboys",
+    "year": 1937,
+    "cast": [
+      "Robert Livingston",
+      "Maxine Doyle"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/come-on--cowboys.html"
+}

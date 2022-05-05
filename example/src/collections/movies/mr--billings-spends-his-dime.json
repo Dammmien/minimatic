@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mr. Billings Spends His Dime",
+    "year": 1923,
+    "cast": [
+      "Walter Hiers",
+      "Jacqueline Logan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--billings-spends-his-dime.html"
+}

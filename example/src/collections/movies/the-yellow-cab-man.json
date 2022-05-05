@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Yellow Cab Man",
+    "year": 1950,
+    "cast": [
+      "Red Skelton",
+      "Gloria DeHaven"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-yellow-cab-man.html"
+}

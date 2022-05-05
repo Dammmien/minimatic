@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Betty of Greystone",
+    "year": 1916,
+    "cast": [
+      "Dorothy Gish",
+      "Owen Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/betty-of-greystone.html"
+}

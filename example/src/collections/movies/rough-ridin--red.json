@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rough Ridin' Red",
+    "year": 1928,
+    "cast": [
+      "Buzz Barton",
+      "Frank Rice"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rough-ridin--red.html"
+}

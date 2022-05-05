@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Broadway Through a Keyhole",
+    "year": 1933,
+    "cast": [
+      "Constance Cummings",
+      "Russ Columbo"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/broadway-through-a-keyhole.html"
+}

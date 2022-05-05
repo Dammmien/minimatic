@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Our Very Own",
+    "year": 2005,
+    "cast": [
+      "Allison Janney",
+      "Cheryl Hines",
+      "Jason Ritter",
+      "Hilarie Burton",
+      "Keith Carradine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/our-very-own.html"
+}

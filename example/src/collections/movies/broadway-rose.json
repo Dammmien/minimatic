@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Broadway Rose",
+    "year": 1922,
+    "cast": [
+      "Mae Murray",
+      "Monte Blue"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/broadway-rose.html"
+}

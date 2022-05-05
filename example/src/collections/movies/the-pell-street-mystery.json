@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pell Street Mystery",
+    "year": 1924,
+    "cast": [
+      "George Larkin",
+      "Frank Whitson"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-pell-street-mystery.html"
+}

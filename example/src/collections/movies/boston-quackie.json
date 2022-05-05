@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Boston Quackie",
+    "year": 1957,
+    "cast": [],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/boston-quackie.html"
+}

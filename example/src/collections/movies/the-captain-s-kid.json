@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Captain's Kid",
+    "year": 1936,
+    "cast": [
+      "May Robson",
+      "Sybil Jason",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-captain-s-kid.html"
+}

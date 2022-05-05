@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Angel, Angel, Down We Go",
+    "year": 1969,
+    "cast": [
+      "Jennifer Jones",
+      "Roddy McDowall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/angel--angel--down-we-go.html"
+}

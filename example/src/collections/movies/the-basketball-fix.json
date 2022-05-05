@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Basketball Fix",
+    "year": 1951,
+    "cast": [
+      "John Ireland",
+      "Marshall Thompson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-basketball-fix.html"
+}

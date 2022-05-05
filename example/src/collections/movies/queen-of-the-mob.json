@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Queen of the Mob",
+    "year": 1940,
+    "cast": [
+      "Ralph Bellamy",
+      "Blanche Yurka"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/queen-of-the-mob.html"
+}

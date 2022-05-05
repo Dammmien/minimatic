@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hellfighters",
+    "year": 1968,
+    "cast": [
+      "John Wayne",
+      "Katharine Ross",
+      "Jim Hutton"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/hellfighters.html"
+}

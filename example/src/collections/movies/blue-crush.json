@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blue Crush",
+    "year": 2002,
+    "cast": [
+      "Kate Bosworth",
+      "Michelle Rodriguez",
+      "Matthew Davis"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/blue-crush.html"
+}

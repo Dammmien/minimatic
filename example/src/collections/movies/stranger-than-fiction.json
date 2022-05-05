@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stranger Than Fiction",
+    "year": 2006,
+    "cast": [
+      "Will Ferrell",
+      "Emma Thompson"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/stranger-than-fiction.html"
+}

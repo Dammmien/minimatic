@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Blue Heaven",
+    "year": 1990,
+    "cast": [
+      "Steve Martin",
+      "Rick Moranis",
+      "Joan Cusack"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-blue-heaven.html"
+}

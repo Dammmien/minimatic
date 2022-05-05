@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Son of the Mask",
+    "year": 2005,
+    "cast": [
+      "Jamie Kennedy",
+      "Alan Cumming",
+      "Traylor Howard",
+      "Bob Hoskins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/son-of-the-mask.html"
+}

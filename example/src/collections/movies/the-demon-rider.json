@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Demon Rider",
+    "year": 1925,
+    "cast": [
+      "Ken Maynard",
+      "Alma Rayford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-demon-rider.html"
+}

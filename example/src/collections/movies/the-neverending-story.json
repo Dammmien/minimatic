@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The NeverEnding Story",
+    "year": 1984,
+    "cast": [
+      "Barret Oliver",
+      "Noah Hathaway",
+      "Gerald McRaney"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-neverending-story.html"
+}

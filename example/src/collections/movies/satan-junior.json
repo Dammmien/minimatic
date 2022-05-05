@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Satan Junior",
+    "year": 1919,
+    "cast": [
+      "Viola Dana",
+      "Milton Sills"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/satan-junior.html"
+}

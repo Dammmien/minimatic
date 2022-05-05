@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gracie Allen Murder Case",
+    "year": 1939,
+    "cast": [
+      "Gracie Allen",
+      "Warren William",
+      "Ellen Drew"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-gracie-allen-murder-case.html"
+}

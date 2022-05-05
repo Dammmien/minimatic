@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Blue Streak",
+    "year": 1926,
+    "cast": [
+      "Richard Talmadge",
+      "Louise Lorraine"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-blue-streak.html"
+}

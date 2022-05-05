@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fiesta",
+    "year": 1947,
+    "cast": [
+      "Esther Williams",
+      "Ricardo Montalban"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fiesta.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Ronin",
+    "year": 1998,
+    "cast": [
+      "Robert De Niro",
+      "Jean Reno",
+      "Natascha McElhone",
+      "Jonathan Pryce",
+      "Stellan Skarsgård",
+      "Sean Bean",
+      "Katarina Witt"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/ronin.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Judy's Little No-No",
+    "year": 1969,
+    "cast": [
+      "Elisa Ingram",
+      "John Davis Lodge",
+      "Joe E. Ross"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/judy-s-little-no-no.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dark Wind",
+    "year": 1991,
+    "cast": [
+      "Lou Diamond Phillips",
+      "Fred Ward"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-dark-wind.html"
+}

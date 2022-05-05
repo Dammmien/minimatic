@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Car",
+    "year": 1977,
+    "cast": [
+      "James Brolin",
+      "Kathleen Lloyd",
+      "John Marley",
+      "Ronny Cox"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-car.html"
+}

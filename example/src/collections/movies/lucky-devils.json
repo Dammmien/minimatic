@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lucky Devils",
+    "year": 1933,
+    "cast": [
+      "William Boyd",
+      "Bruce Cabot"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lucky-devils.html"
+}

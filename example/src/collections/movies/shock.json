@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shock",
+    "year": 1946,
+    "cast": [
+      "Vincent Price",
+      "Lynn Bari",
+      "Frank Latimore"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/shock.html"
+}

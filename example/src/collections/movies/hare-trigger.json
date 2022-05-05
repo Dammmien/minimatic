@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hare Trigger",
+    "year": 1945,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/hare-trigger.html"
+}

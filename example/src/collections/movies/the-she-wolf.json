@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The She-Wolf",
+    "year": 1931,
+    "cast": [
+      "May Robson",
+      "Lawrence Gray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-she-wolf.html"
+}

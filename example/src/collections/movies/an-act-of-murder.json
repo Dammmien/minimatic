@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "An Act of Murder",
+    "year": 1948,
+    "cast": [
+      "Fredric March",
+      "Edmond O'Brien",
+      "Florence Eldridge"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/an-act-of-murder.html"
+}

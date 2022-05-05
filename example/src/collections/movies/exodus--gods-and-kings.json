@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Exodus: Gods and Kings",
+    "year": 2014,
+    "cast": [
+      "Christian Bale",
+      "Joel Edgerton",
+      "Aaron Paul",
+      "John Turturro"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/exodus--gods-and-kings.html"
+}

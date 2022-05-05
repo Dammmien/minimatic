@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Crush",
+    "year": 1993,
+    "cast": [
+      "Cary Elwes",
+      "Alicia Silverstone",
+      "Kurtwood Smith",
+      "Jennifer Rubin"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-crush.html"
+}

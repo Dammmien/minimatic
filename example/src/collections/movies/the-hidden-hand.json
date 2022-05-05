@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hidden Hand",
+    "year": 1942,
+    "cast": [
+      "Craig Stevens",
+      "Elisabeth Fraser"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hidden-hand.html"
+}

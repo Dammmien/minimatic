@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Once Upon a Horse...",
+    "year": 1958,
+    "cast": [
+      "Dan Rowan",
+      "Dick Martin",
+      "Martha Hyer",
+      "Leif Erickson",
+      "Nita Talbot"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/once-upon-a-horse---.html"
+}

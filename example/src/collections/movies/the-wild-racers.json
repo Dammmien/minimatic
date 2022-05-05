@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wild Racers",
+    "year": 1968,
+    "cast": [
+      "Fabian",
+      "Judy Cornwell",
+      "Talia Shire"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-wild-racers.html"
+}

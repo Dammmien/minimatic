@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Amazing Impostor",
+    "year": 1919,
+    "cast": [
+      "Mary Miles Minter",
+      "Carl Stockdale"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-amazing-impostor.html"
+}

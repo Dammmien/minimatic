@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Thank You for Your Service",
+    "year": 2017,
+    "cast": [
+      "Miles Teller",
+      "Haley Bennett",
+      "Beulah Koale",
+      "Amy Schumer",
+      "Scott Haze"
+    ],
+    "genres": [
+      "Biography",
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/thank-you-for-your-service.html"
+}

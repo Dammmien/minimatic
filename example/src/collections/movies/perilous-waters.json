@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Perilous Waters",
+    "year": 1948,
+    "cast": [
+      "Don Castle",
+      "Audrey Long",
+      "Peggy Knudsen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/perilous-waters.html"
+}

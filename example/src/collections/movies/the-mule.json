@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Mule",
+    "year": 2018,
+    "cast": [
+      "Clint Eastwood",
+      "Bradley Cooper",
+      "Laurence Fishburne",
+      "Michael Peña",
+      "Dianne Wiest",
+      "Andy Garcia"
+    ],
+    "genres": [
+      "Drama",
+      "Crime",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-mule.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Global Affair",
+    "year": 1964,
+    "cast": [
+      "Bob Hope",
+      "Michele Mercier",
+      "Yvonne De Carlo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-global-affair.html"
+}

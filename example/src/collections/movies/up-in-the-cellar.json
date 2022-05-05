@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Up in the Cellar",
+    "year": 1970,
+    "cast": [
+      "Joan Collins",
+      "Larry Hagman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/up-in-the-cellar.html"
+}

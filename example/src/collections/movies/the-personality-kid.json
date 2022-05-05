@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Personality Kid",
+    "year": 1934,
+    "cast": [
+      "Pat O'Brien",
+      "Glenda Farrell",
+      "Claire Dodd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-personality-kid.html"
+}

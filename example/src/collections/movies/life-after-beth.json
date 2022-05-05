@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Life After Beth",
+    "year": 2014,
+    "cast": [
+      "Aubrey Plaza",
+      "Dane DeHaan",
+      "Anna Kendrick",
+      "Molly Shannon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/life-after-beth.html"
+}

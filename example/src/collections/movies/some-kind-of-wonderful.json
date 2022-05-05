@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Some Kind of Wonderful",
+    "year": 1987,
+    "cast": [
+      "Eric Stoltz",
+      "Mary Stuart Masterson",
+      "Lea Thompson",
+      "Craig Sheffer",
+      "John Ashton",
+      "Elias Koteas",
+      "Maddie Corman"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/some-kind-of-wonderful.html"
+}

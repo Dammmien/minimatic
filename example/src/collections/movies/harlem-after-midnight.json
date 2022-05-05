@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Harlem After Midnight",
+    "year": 1934,
+    "cast": [
+      "Rex Ingram",
+      "Lawrence Chenault"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/harlem-after-midnight.html"
+}

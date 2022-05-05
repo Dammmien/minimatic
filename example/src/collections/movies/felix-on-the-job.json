@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Felix on the Job",
+    "year": 1916,
+    "cast": [
+      "Lon Chaney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/felix-on-the-job.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hole in the Wall",
+    "year": 1929,
+    "cast": [
+      "Claudette Colbert",
+      "Edward G. Robinson"
+    ],
+    "genres": [
+      "Mystery",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hole-in-the-wall.html"
+}

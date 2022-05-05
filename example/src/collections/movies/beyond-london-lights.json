@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beyond London Lights",
+    "year": 1928,
+    "cast": [
+      "Adrienne Dore",
+      "Lee Shumway"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beyond-london-lights.html"
+}

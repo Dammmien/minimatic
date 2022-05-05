@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Trespasser",
+    "year": 1947,
+    "cast": [
+      "Dale Evans",
+      "Warren Douglas",
+      "Adele Mara"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-trespasser.html"
+}

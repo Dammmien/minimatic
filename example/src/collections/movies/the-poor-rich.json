@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Poor Rich",
+    "year": 1934,
+    "cast": [
+      "Edward Everett Horton",
+      "Edna May Oliver"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-poor-rich.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Million Dollar Collar",
+    "year": 1929,
+    "cast": [
+      "Rin Tin Tin",
+      "Evelyn Peirce"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-million-dollar-collar.html"
+}

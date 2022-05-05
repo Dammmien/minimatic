@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Tough Guy",
+    "year": 1926,
+    "cast": [
+      "Fred Thomson",
+      "Lola Todd",
+      "Robert McKim"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-tough-guy.html"
+}

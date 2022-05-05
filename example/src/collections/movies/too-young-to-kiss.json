@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Too Young to Kiss",
+    "year": 1951,
+    "cast": [
+      "June Allyson",
+      "Van Johnson",
+      "Gig Young"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/too-young-to-kiss.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Amelia",
+    "year": 2009,
+    "cast": [
+      "Hilary Swank",
+      "Richard Gere",
+      "Ewan McGregor"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/amelia.html"
+}

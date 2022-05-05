@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Quick Triggers",
+    "year": 1928,
+    "cast": [
+      "Fred Humes",
+      "Derelys Perdue"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/quick-triggers.html"
+}

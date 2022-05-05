@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Munchies",
+    "year": 1987,
+    "cast": [
+      "Harvey Korman",
+      "Wendy Schaal"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/munchies.html"
+}

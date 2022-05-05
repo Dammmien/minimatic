@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Good and Naughty",
+    "year": 1926,
+    "cast": [
+      "Pola Negri",
+      "Tom Moore",
+      "Stuart Holmes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/good-and-naughty.html"
+}

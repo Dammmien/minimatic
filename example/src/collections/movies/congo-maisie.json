@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Congo Maisie",
+    "year": 1940,
+    "cast": [
+      "Ann Sothern",
+      "John Carroll",
+      "Rita Johnson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/congo-maisie.html"
+}

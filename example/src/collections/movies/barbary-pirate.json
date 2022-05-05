@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Barbary Pirate",
+    "year": 1949,
+    "cast": [
+      "Donald Woods",
+      "Trudy Marshall"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/barbary-pirate.html"
+}

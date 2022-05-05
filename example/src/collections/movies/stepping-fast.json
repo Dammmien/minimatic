@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stepping Fast",
+    "year": 1923,
+    "cast": [
+      "Tom Mix",
+      "Claire Adams"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/stepping-fast.html"
+}

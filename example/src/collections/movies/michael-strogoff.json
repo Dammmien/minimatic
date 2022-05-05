@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Michael Strogoff",
+    "year": 1914,
+    "cast": [
+      "Jacob P. Adler",
+      "Daniel Makarenko",
+      "Eleanor Barry"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/michael-strogoff.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Name the Woman",
+    "year": 1934,
+    "cast": [
+      "Richard Cromwell",
+      "Arline Judge"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/name-the-woman.html"
+}

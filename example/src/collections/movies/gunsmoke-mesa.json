@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gunsmoke Mesa",
+    "year": 1944,
+    "cast": [
+      "James Newill",
+      "Dave O'Brien",
+      "Guy Wilkerson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gunsmoke-mesa.html"
+}

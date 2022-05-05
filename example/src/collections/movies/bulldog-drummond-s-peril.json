@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bulldog Drummond's Peril",
+    "year": 1938,
+    "cast": [
+      "John Howard",
+      "John Barrymore",
+      "Louise Campbell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bulldog-drummond-s-peril.html"
+}

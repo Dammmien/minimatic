@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Law of Men",
+    "year": 1919,
+    "cast": [
+      "Enid Bennett",
+      "Niles Welch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-law-of-men.html"
+}

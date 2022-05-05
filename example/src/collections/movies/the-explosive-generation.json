@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Explosive Generation",
+    "year": 1961,
+    "cast": [
+      "William Shatner",
+      "Patty McCormack"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-explosive-generation.html"
+}

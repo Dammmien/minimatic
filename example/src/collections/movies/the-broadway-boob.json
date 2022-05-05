@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Broadway Boob",
+    "year": 1926,
+    "cast": [
+      "Glenn Hunter",
+      "Antrim Short"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-broadway-boob.html"
+}

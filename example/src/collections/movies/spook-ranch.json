@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spook Ranch",
+    "year": 1925,
+    "cast": [
+      "Hoot Gibson",
+      "Helen Ferguson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/spook-ranch.html"
+}

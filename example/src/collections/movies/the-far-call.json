@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Far Call",
+    "year": 1929,
+    "cast": [
+      "Charles Morton",
+      "Leila Hyams",
+      "Warner Baxter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-far-call.html"
+}

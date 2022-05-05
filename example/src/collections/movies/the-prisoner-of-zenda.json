@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Prisoner of Zenda",
+    "year": 1979,
+    "cast": [
+      "Peter Sellers",
+      "Elke Sommer",
+      "Lionel Jeffries"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-prisoner-of-zenda.html"
+}

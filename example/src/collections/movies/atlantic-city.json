@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Atlantic City",
+    "year": 1980,
+    "cast": [
+      "Burt Lancaster",
+      "Susan Sarandon"
+    ],
+    "genres": []
+  },
+  "output": "movies/atlantic-city.html"
+}

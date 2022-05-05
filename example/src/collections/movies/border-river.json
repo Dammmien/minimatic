@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Border River",
+    "year": 1954,
+    "cast": [
+      "Joel McCrea",
+      "Yvonne De Carlo"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/border-river.html"
+}

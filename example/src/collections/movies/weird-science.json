@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Weird Science",
+    "year": 1985,
+    "cast": [
+      "Anthony Michael Hall",
+      "Ilan Mitchell-Smith",
+      "Kelly LeBrock",
+      "Bill Paxton",
+      "Robert Downey Jr."
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/weird-science.html"
+}

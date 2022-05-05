@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Laugh, Clown, Laugh",
+    "year": 1928,
+    "cast": [
+      "Lon Chaney",
+      "Loretta Young"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/laugh--clown--laugh.html"
+}

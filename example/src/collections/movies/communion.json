@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Communion",
+    "year": 1989,
+    "cast": [
+      "Christopher Walken",
+      "Lindsay Crouse",
+      "Frances Sternhagen"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/communion.html"
+}

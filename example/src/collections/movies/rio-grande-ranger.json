@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rio Grande Ranger",
+    "year": 1936,
+    "cast": [
+      "Robert Allen",
+      "Iris Meredith"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rio-grande-ranger.html"
+}

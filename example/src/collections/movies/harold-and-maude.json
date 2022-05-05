@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Harold and Maude",
+    "year": 1971,
+    "cast": [
+      "Bud Cort",
+      "Ruth Gordon",
+      "Vivian Pickles"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/harold-and-maude.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Albuquerque",
+    "year": 1948,
+    "cast": [
+      "Randolph Scott",
+      "Barbara Britton",
+      "George \"Gabby\" Hayes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/albuquerque.html"
+}

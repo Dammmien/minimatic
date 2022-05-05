@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fantasia",
+    "year": 1940,
+    "cast": [
+      "Leopold Stokowski",
+      "Deems Taylor"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/fantasia.html"
+}

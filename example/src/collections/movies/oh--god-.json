@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Oh, God!",
+    "year": 1977,
+    "cast": [
+      "George Burns",
+      "John Denver",
+      "Paul Sorvino",
+      "Teri Garr"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/oh--god-.html"
+}

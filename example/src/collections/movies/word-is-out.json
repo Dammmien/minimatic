@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Word Is Out",
+    "year": 1977,
+    "cast": [
+      "John Burnside",
+      "Elsa Gidlow"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/word-is-out.html"
+}

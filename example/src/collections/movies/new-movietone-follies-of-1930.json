@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "New Movietone Follies of 1930",
+    "year": 1930,
+    "cast": [
+      "El Brendel",
+      "Marjorie White"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/new-movietone-follies-of-1930.html"
+}

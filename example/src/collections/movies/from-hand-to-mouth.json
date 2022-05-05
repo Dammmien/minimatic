@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "From Hand to Mouth",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd",
+      "Mildred Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/from-hand-to-mouth.html"
+}

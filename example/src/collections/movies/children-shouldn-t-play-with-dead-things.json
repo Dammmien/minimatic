@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Children Shouldn't Play with Dead Things",
+    "year": 1972,
+    "cast": [
+      "Alan Ormsby",
+      "Valerie Mamches"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/children-shouldn-t-play-with-dead-things.html"
+}

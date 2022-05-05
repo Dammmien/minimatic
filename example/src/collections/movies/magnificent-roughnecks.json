@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Magnificent Roughnecks",
+    "year": 1956,
+    "cast": [
+      "Jack Carson",
+      "Mickey Rooney",
+      "Nancy Gates"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/magnificent-roughnecks.html"
+}

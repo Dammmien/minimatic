@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chicken Little",
+    "year": 2005,
+    "cast": [
+      "Zach Braff",
+      "Joan Cusack",
+      "Steve Zahn"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/chicken-little.html"
+}

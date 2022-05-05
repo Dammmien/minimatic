@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Comet Over Broadway",
+    "year": 1938,
+    "cast": [
+      "Kay Francis",
+      "Donald Crisp",
+      "Ian Hunter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/comet-over-broadway.html"
+}

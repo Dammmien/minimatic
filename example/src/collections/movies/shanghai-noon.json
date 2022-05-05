@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shanghai Noon",
+    "year": 2000,
+    "cast": [
+      "Jackie Chan",
+      "Owen Wilson",
+      "Lucy Liu"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/shanghai-noon.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Midnight Romance",
+    "year": 1919,
+    "cast": [
+      "Anita Stewart",
+      "Jack Holt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-midnight-romance.html"
+}

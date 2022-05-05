@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Stronger",
+    "year": 2017,
+    "cast": [
+      "Jake Gyllenhaal",
+      "Tatiana Maslany",
+      "Miranda Richardson",
+      "Clancy Brown"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/stronger.html"
+}

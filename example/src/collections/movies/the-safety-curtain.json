@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Safety Curtain",
+    "year": 1918,
+    "cast": [
+      "Norma Talmadge",
+      "Eugene O'Brien"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-safety-curtain.html"
+}

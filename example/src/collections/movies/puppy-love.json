@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Puppy Love",
+    "year": 1919,
+    "cast": [
+      "Lila Lee",
+      "Edna Murphy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/puppy-love.html"
+}

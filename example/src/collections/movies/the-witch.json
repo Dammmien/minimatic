@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Witch",
+    "year": 2016,
+    "cast": [
+      "Anya Taylor-Joy",
+      "Ralph Ineson",
+      "Kate Dickie"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-witch.html"
+}

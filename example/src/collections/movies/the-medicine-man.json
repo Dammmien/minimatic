@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Medicine Man",
+    "year": 1930,
+    "cast": [
+      "Jack Benny",
+      "Betty Bronson"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-medicine-man.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Braveheart",
+    "year": 1995,
+    "cast": [
+      "Mel Gibson",
+      "Sophie Marceau",
+      "Catherine McCormack",
+      "Patrick McGoohan"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/braveheart.html"
+}

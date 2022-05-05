@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blackjack Ketchum, Desperado",
+    "year": 1956,
+    "cast": [
+      "Howard Duff",
+      "Margaret Field"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/blackjack-ketchum--desperado.html"
+}

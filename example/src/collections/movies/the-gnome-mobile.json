@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gnome-Mobile",
+    "year": 1967,
+    "cast": [
+      "Walter Brennan",
+      "Karen Dotrice",
+      "Ed Wynn"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-gnome-mobile.html"
+}

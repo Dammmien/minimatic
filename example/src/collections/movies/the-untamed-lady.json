@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Untamed Lady",
+    "year": 1926,
+    "cast": [
+      "Gloria Swanson",
+      "Lawrence Gray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-untamed-lady.html"
+}

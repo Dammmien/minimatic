@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Outlaw Treasure",
+    "year": 1955,
+    "cast": [
+      "Adele Jergens"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/outlaw-treasure.html"
+}

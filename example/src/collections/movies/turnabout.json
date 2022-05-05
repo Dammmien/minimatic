@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Turnabout",
+    "year": 1940,
+    "cast": [
+      "Adolphe Menjou",
+      "Carole Landis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/turnabout.html"
+}

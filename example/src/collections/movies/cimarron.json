@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cimarron",
+    "year": 1960,
+    "cast": [
+      "Glenn Ford",
+      "Maria Schell",
+      "Anne Baxter"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cimarron.html"
+}

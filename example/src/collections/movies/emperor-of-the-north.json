@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Emperor of the North",
+    "year": 1973,
+    "cast": [
+      "Lee Marvin",
+      "Ernest Borgnine",
+      "Keith Carradine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/emperor-of-the-north.html"
+}

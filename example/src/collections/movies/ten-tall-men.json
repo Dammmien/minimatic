@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ten Tall Men",
+    "year": 1951,
+    "cast": [
+      "Burt Lancaster",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/ten-tall-men.html"
+}

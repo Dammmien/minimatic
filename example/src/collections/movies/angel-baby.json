@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Angel Baby",
+    "year": 1961,
+    "cast": [
+      "George Hamilton",
+      "Mercedes McCambridge",
+      "Joan Blondell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/angel-baby.html"
+}

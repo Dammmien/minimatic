@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Waco",
+    "year": 1966,
+    "cast": [
+      "Jane Russell",
+      "Howard Keel",
+      "Wendell Corey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/waco.html"
+}

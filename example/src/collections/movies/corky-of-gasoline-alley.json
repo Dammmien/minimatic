@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Corky of Gasoline Alley",
+    "year": 1951,
+    "cast": [
+      "Scotty Beckett",
+      "Jimmy Lydon",
+      "Susan Morrow"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/corky-of-gasoline-alley.html"
+}

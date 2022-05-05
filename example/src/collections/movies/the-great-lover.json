@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Lover",
+    "year": 1949,
+    "cast": [
+      "Bob Hope",
+      "Rhonda Fleming"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-great-lover.html"
+}

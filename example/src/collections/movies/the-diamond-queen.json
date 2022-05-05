@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Diamond Queen",
+    "year": 1953,
+    "cast": [
+      "Arlene Dahl",
+      "Fernando Lamas"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-diamond-queen.html"
+}

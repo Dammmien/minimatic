@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "End of Watch",
+    "year": 2012,
+    "cast": [
+      "Jake Gyllenhaal",
+      "Michael Peña",
+      "Anna Kendrick",
+      "Natalie Martinez",
+      "America Ferrera",
+      "Frank Grillo",
+      "David Harbour"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/end-of-watch.html"
+}

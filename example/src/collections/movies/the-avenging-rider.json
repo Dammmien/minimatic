@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Avenging Rider",
+    "year": 1943,
+    "cast": [
+      "Tim Holt",
+      "Cliff Edwards"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-avenging-rider.html"
+}

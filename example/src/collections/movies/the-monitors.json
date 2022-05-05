@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Monitors",
+    "year": 1969,
+    "cast": [
+      "Guy Stockwell",
+      "Susan Oliver",
+      "Avery Schreiber",
+      "Sherry Jackson"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-monitors.html"
+}

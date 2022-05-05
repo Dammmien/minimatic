@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Strip",
+    "year": 1951,
+    "cast": [
+      "Mickey Rooney",
+      "Sally Forrest"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-strip.html"
+}

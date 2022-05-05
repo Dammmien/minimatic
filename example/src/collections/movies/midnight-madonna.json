@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Midnight Madonna",
+    "year": 1937,
+    "cast": [
+      "Warren William",
+      "Mady Correll"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/midnight-madonna.html"
+}

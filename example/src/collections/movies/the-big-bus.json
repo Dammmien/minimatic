@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Big Bus",
+    "year": 1976,
+    "cast": [
+      "Stockard Channing",
+      "Joseph Bologna",
+      "John Beck",
+      "Sally Kellerman",
+      "Richard Mulligan",
+      "Jose Ferrer",
+      "Murphy Dunne"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-big-bus.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Thrill Chaser",
+    "year": 1923,
+    "cast": [
+      "Hoot Gibson",
+      "Billie Dove",
+      "James Neill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-thrill-chaser.html"
+}

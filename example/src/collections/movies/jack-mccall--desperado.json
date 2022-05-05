@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jack McCall, Desperado",
+    "year": 1953,
+    "cast": [
+      "George Montgomery",
+      "Angela Stevens"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/jack-mccall--desperado.html"
+}

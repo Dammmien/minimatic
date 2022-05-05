@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dalai Lama Renaissance",
+    "year": 2007,
+    "cast": [
+      "the",
+      "14th Dalai Lama",
+      "'s meeting with the \"Synthesis\" group"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/dalai-lama-renaissance.html"
+}

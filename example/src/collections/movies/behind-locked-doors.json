@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Behind Locked Doors",
+    "year": 1948,
+    "cast": [
+      "Lucille Bremer",
+      "Richard Carlson"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/behind-locked-doors.html"
+}

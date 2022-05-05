@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Coal Miner's Daughter",
+    "year": 1980,
+    "cast": [
+      "Sissy Spacek",
+      "Tommy Lee Jones",
+      "Beverly D'Angelo",
+      "Levon Helm"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/coal-miner-s-daughter.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Judge Hardy and Son",
+    "year": 1939,
+    "cast": [
+      "Mickey Rooney",
+      "Lewis Stone",
+      "Fay Holden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/judge-hardy-and-son.html"
+}

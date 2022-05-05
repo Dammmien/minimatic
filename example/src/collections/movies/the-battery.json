@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Battery",
+    "year": 2012,
+    "cast": [
+      "Jeremy Gardner",
+      "Adam Cronheim",
+      "Niels Bolle",
+      "Alana O'Brien"
+    ],
+    "genres": [
+      "Drama",
+      "Horror"
+    ]
+  },
+  "output": "movies/the-battery.html"
+}

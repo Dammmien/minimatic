@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Madame Mystery",
+    "year": 1926,
+    "cast": [
+      "Theda Bara",
+      "Oliver Hardy",
+      "James Finlayson"
+    ],
+    "genres": []
+  },
+  "output": "movies/madame-mystery.html"
+}

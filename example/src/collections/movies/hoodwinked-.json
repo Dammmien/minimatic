@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hoodwinked!",
+    "year": 2005,
+    "cast": [
+      "Anne Hathaway",
+      "Glenn Close",
+      "James Belushi"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hoodwinked-.html"
+}

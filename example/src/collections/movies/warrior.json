@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "Warrior",
+    "year": 2011,
+    "cast": [
+      "Joel Edgerton",
+      "Tom Hardy",
+      "Jennifer Morrison",
+      "Frank Grillo",
+      "Nick Nolte",
+      "Kurt Angle",
+      "Noah Emmerich",
+      "Kevin Dunn",
+      "Denzel Whitaker",
+      "Erik Apple",
+      "Vanessa Martinez",
+      "Nate Marquardt",
+      "Anthony Johnson"
+    ],
+    "genres": [
+      "Action",
+      "Drama"
+    ]
+  },
+  "output": "movies/warrior.html"
+}

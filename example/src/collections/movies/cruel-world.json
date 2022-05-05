@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cruel World",
+    "year": 2005,
+    "cast": [
+      "Edward Furlong",
+      "Susan Ward",
+      "Daniel Franzese",
+      "Andrew Keegan"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/cruel-world.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Real Glory",
+    "year": 1939,
+    "cast": [
+      "Gary Cooper",
+      "David Niven",
+      "Andrea Leeds"
+    ],
+    "genres": [
+      "Adventure",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-real-glory.html"
+}

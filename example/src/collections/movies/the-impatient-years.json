@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Impatient Years",
+    "year": 1944,
+    "cast": [
+      "Jean Arthur",
+      "Lee Bowman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-impatient-years.html"
+}

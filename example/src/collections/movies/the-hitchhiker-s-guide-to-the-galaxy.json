@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "year": 2005,
+    "cast": [
+      "Martin Freeman",
+      "Mos Def",
+      "Zooey Deschanel",
+      "Sam Rockwell",
+      "Bill Nighy",
+      "Anna Chancellor",
+      "John Malkovich",
+      "Warwick Davis"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-hitchhiker-s-guide-to-the-galaxy.html"
+}

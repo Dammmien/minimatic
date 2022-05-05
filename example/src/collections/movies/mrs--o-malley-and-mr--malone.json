@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mrs. O'Malley and Mr. Malone",
+    "year": 1950,
+    "cast": [
+      "Marjorie Main",
+      "James Whitmore",
+      "Ann Dvorak"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mrs--o-malley-and-mr--malone.html"
+}

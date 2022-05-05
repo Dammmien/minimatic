@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Americano",
+    "year": 1955,
+    "cast": [
+      "Glenn Ford",
+      "Cesar Romero"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-americano.html"
+}

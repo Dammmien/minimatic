@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "God Gave Me Twenty Cents",
+    "year": 1926,
+    "cast": [
+      "Lois Moran",
+      "Lya De Putti",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/god-gave-me-twenty-cents.html"
+}

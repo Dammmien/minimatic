@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ladies in Distress",
+    "year": 1938,
+    "cast": [
+      "Alison Skipworth",
+      "Robert Livingston",
+      "Virginia Grey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ladies-in-distress.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Monster That Challenged the World",
+    "year": 1957,
+    "cast": [
+      "Tim Holt",
+      "Audrey Dalton"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-monster-that-challenged-the-world.html"
+}

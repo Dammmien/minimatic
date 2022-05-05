@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Good Neighbor Sam",
+    "year": 1964,
+    "cast": [
+      "Jack Lemmon",
+      "Romy Schneider",
+      "Edward G. Robinson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/good-neighbor-sam.html"
+}

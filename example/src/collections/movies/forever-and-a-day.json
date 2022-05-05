@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Forever and a Day",
+    "year": 1943,
+    "cast": [
+      "Brian Aherne",
+      "Robert Cummings",
+      "Charles Laughton",
+      "Ida Lupino"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/forever-and-a-day.html"
+}

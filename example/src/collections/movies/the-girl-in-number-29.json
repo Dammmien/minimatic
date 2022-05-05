@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl in Number 29",
+    "year": 1920,
+    "cast": [
+      "Frank Mayo",
+      "Elinor Fair"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-girl-in-number-29.html"
+}

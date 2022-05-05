@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blondie's Lucky Day",
+    "year": 1946,
+    "cast": [
+      "Penny Singleton",
+      "Arthur Lake"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blondie-s-lucky-day.html"
+}

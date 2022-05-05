@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "After Sex",
+    "year": 2007,
+    "cast": [
+      "Jane Seymour",
+      "Natalie Marston",
+      "Zoe Saldana",
+      "Mila Kunis",
+      "John Witherspoon"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/after-sex.html"
+}

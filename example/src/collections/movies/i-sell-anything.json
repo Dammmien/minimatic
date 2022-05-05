@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Sell Anything",
+    "year": 1934,
+    "cast": [
+      "Pat O'Brien",
+      "Ann Dvorak"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-sell-anything.html"
+}

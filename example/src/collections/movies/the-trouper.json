@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Trouper",
+    "year": 1922,
+    "cast": [
+      "Gladys Walton",
+      "Jack Perrin"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-trouper.html"
+}

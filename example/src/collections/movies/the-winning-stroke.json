@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Winning Stroke",
+    "year": 1919,
+    "cast": [
+      "George Walsh",
+      "Jane McAlpine"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/the-winning-stroke.html"
+}

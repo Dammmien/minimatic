@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sun Never Sets",
+    "year": 1939,
+    "cast": [
+      "Douglas Fairbanks Jr.",
+      "Basil Rathbone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sun-never-sets.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beware of Blondie",
+    "year": 1950,
+    "cast": [
+      "Penny Singleton",
+      "Arthur Lake"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/beware-of-blondie.html"
+}

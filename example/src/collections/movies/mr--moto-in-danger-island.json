@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mr. Moto in Danger Island",
+    "year": 1939,
+    "cast": [
+      "Peter Lorre",
+      "Jean Hersholt"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/mr--moto-in-danger-island.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brother, Can You Spare a Dime?",
+    "year": 1975,
+    "cast": [
+      "W. C. Fields",
+      "Clark Gable",
+      "Herbert Hoover"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/brother--can-you-spare-a-dime-.html"
+}

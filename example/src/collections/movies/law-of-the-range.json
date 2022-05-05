@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Law of the Range",
+    "year": 1941,
+    "cast": [
+      "Johnny Mack Brown",
+      "Nell O'Day"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/law-of-the-range.html"
+}

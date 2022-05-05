@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Return of the Bad Men",
+    "year": 1948,
+    "cast": [
+      "Randolph Scott",
+      "Robert Ryan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/return-of-the-bad-men.html"
+}

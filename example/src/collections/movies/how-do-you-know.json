@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "How Do You Know",
+    "year": 2010,
+    "cast": [
+      "Reese Witherspoon",
+      "Owen Wilson",
+      "Paul Rudd",
+      "Jack Nicholson"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/how-do-you-know.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Arthur",
+    "year": 2011,
+    "cast": [
+      "Russell Brand",
+      "Helen Mirren",
+      "Greta Gerwig",
+      "Jennifer Garner",
+      "Nick Nolte",
+      "Luis Guzmán"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/arthur.html"
+}

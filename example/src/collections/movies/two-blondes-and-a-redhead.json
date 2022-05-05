@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two Blondes and a Redhead",
+    "year": 1947,
+    "cast": [
+      "Jean Porter",
+      "Jimmy Lloyd",
+      "June Preisser"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/two-blondes-and-a-redhead.html"
+}

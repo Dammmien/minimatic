@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Boy",
+    "year": 2016,
+    "cast": [
+      "Lauren Cohan",
+      "Rupert Evans"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-boy.html"
+}

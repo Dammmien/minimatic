@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In Country",
+    "year": 1989,
+    "cast": [
+      "Bruce Willis",
+      "Emily Lloyd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/in-country.html"
+}

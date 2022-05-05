@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mr. Wonderful",
+    "year": 1993,
+    "cast": [
+      "Matt Dillon",
+      "Annabella Sciorra",
+      "Mary-Louise Parker",
+      "William Hurt"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/mr--wonderful.html"
+}

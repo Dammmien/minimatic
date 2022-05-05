@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Scary Movie",
+    "year": 2000,
+    "cast": [
+      "Marlon Wayans",
+      "Anna Faris",
+      "Carmen Electra"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/scary-movie.html"
+}

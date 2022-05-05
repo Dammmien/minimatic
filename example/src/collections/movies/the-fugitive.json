@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Fugitive",
+    "year": 1993,
+    "cast": [
+      "Harrison Ford",
+      "Tommy Lee Jones",
+      "Jeroen Krabbe",
+      "Joe Pantoliano",
+      "Sela Ward",
+      "Julianne Moore",
+      "Andreas Katsulas"
+    ],
+    "genres": [
+      "Action",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fugitive.html"
+}

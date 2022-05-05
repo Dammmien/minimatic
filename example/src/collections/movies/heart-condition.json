@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Heart Condition",
+    "year": 1990,
+    "cast": [
+      "Denzel Washington",
+      "Bob Hoskins",
+      "Chloe Webb"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/heart-condition.html"
+}

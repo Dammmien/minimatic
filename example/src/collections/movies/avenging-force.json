@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Avenging Force",
+    "year": 1986,
+    "cast": [
+      "Michael Dudikoff",
+      "Steve James"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/avenging-force.html"
+}

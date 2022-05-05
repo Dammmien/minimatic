@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Conquerors",
+    "year": 1932,
+    "cast": [
+      "Richard Dix",
+      "Edna May Oliver",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-conquerors.html"
+}

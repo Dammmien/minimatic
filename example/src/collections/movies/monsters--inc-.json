@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Monsters, Inc.",
+    "year": 2001,
+    "cast": [
+      "John Goodman",
+      "Billy Crystal",
+      "Steve Buscemi",
+      "James Coburn"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/monsters--inc-.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Captain Hurricane",
+    "year": 1935,
+    "cast": [
+      "James Barton",
+      "Helen Westley",
+      "Gene Lockhart"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/captain-hurricane.html"
+}

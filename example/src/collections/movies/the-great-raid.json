@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Raid",
+    "year": 2005,
+    "cast": [
+      "Benjamin Bratt",
+      "Joseph Fiennes",
+      "James Franco"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-great-raid.html"
+}

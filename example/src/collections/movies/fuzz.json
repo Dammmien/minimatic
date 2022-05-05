@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Fuzz",
+    "year": 1972,
+    "cast": [
+      "Burt Reynolds",
+      "Raquel Welch",
+      "Yul Brynner",
+      "Jack Weston",
+      "Tom Skerritt"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/fuzz.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Monster Squad",
+    "year": 1987,
+    "cast": [
+      "Stephen Macht",
+      "Tom Noonan",
+      "Andre Gower"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-monster-squad.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Lovely Bones",
+    "year": 2009,
+    "cast": [
+      "Saoirse Ronan",
+      "Rachel Weisz",
+      "Mark Wahlberg",
+      "Stanley Tucci"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lovely-bones.html"
+}

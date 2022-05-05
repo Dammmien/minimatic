@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Garden of Eden",
+    "year": 1928,
+    "cast": [
+      "Corinne Griffith",
+      "Louise Dresser"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-garden-of-eden.html"
+}

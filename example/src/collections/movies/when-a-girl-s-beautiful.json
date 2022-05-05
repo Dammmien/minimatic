@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "When a Girl's Beautiful",
+    "year": 1947,
+    "cast": [
+      "Adele Jergens",
+      "Marc Platt",
+      "Patricia Barry"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/when-a-girl-s-beautiful.html"
+}

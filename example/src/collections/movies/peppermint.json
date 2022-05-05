@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Peppermint",
+    "year": 2018,
+    "cast": [
+      "Jennifer Garner",
+      "John Ortiz",
+      "Juan Pablo Raba",
+      "John Gallagher Jr.",
+      "Annie Ilonzeh",
+      "Richard Cabral"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/peppermint.html"
+}

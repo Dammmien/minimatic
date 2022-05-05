@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Belle of the Nineties",
+    "year": 1934,
+    "cast": [
+      "Mae West",
+      "Johnny Mack Brown",
+      "Katherine DeMille"
+    ],
+    "genres": [
+      "Comedy",
+      "Western"
+    ]
+  },
+  "output": "movies/belle-of-the-nineties.html"
+}

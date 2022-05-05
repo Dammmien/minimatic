@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Combat Squad",
+    "year": 1953,
+    "cast": [
+      "John Ireland",
+      "Lon McCallister"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/combat-squad.html"
+}

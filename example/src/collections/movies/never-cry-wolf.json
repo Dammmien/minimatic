@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Never Cry Wolf",
+    "year": 1983,
+    "cast": [
+      "Brian Dennehy",
+      "Charles Martin Smith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/never-cry-wolf.html"
+}

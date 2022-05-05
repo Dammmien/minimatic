@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Best Boy",
+    "year": 1979,
+    "cast": [
+      "Philip Wohl",
+      "Zero Mostel"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/best-boy.html"
+}

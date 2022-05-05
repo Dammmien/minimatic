@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wagon Team",
+    "year": 1952,
+    "cast": [
+      "Gene Autry",
+      "Gail Davis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wagon-team.html"
+}

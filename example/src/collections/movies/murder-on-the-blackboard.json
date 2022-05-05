@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder on the Blackboard",
+    "year": 1934,
+    "cast": [
+      "Edna May Oliver",
+      "James Gleason"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder-on-the-blackboard.html"
+}

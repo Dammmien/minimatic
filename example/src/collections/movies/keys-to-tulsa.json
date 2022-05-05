@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Keys to Tulsa",
+    "year": 1997,
+    "cast": [
+      "James Spader",
+      "Eric Stoltz",
+      "Mary Tyler Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/keys-to-tulsa.html"
+}

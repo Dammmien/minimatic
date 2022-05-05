@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Waxwork",
+    "year": 1988,
+    "cast": [
+      "Deborah Foreman",
+      "Zach Galligan"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/waxwork.html"
+}

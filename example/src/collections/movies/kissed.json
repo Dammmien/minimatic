@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kissed",
+    "year": 1922,
+    "cast": [
+      "Marie Prevost",
+      "Lloyd Whitlock"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/kissed.html"
+}

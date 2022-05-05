@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "American Teen",
+    "year": 2008,
+    "cast": [
+      "The",
+      "stereotypes",
+      "of",
+      "High school"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/american-teen.html"
+}

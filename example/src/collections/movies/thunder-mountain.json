@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thunder Mountain",
+    "year": 1947,
+    "cast": [
+      "Tim Holt",
+      "Martha Hyer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/thunder-mountain.html"
+}

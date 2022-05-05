@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "30 Below Zero",
+    "year": 1926,
+    "cast": [
+      "Buck Jones",
+      "Eva Novak",
+      "Paul Panzer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/30-below-zero.html"
+}

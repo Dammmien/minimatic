@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Heartsease",
+    "year": 1919,
+    "cast": [
+      "Tom Moore",
+      "Helene Chadwick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/heartsease.html"
+}

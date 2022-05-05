@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Necromancy",
+    "year": 1972,
+    "cast": [
+      "Orson Welles",
+      "Lee Purcell"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/necromancy.html"
+}

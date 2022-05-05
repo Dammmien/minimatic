@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Peanuts Movie",
+    "year": 2015,
+    "cast": [
+      "Bill Melendez",
+      "Noah Schnapp",
+      "Hadley Belle Miller",
+      "Mariel Sheets"
+    ],
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-peanuts-movie.html"
+}

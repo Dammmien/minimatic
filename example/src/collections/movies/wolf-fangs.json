@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wolf Fangs",
+    "year": 1927,
+    "cast": [
+      "Caryl Lincoln",
+      "Charles Morton"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/wolf-fangs.html"
+}

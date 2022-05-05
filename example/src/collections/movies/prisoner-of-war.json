@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Prisoner of War",
+    "year": 1954,
+    "cast": [
+      "Ronald Reagan",
+      "Steve Forrest",
+      "Oscar Homolka"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/prisoner-of-war.html"
+}

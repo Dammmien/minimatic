@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Love Ranch",
+    "year": 2010,
+    "cast": [
+      "Helen Mirren",
+      "Joe Pesci",
+      "Sergio Peris-Mencheta",
+      "Gina Gershon",
+      "Bryan Cranston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-ranch.html"
+}

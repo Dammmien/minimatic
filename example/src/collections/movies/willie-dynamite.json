@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Willie Dynamite",
+    "year": 1974,
+    "cast": [
+      "Roscoe Orman",
+      "Eddie Rivers"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/willie-dynamite.html"
+}

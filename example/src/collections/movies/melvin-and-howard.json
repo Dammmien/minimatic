@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Melvin and Howard",
+    "year": 1980,
+    "cast": [
+      "Jason Robards",
+      "Paul LeMat",
+      "Mary Steenburgen"
+    ],
+    "genres": [
+      "Comedy",
+      "Biography"
+    ]
+  },
+  "output": "movies/melvin-and-howard.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fever Lake",
+    "year": 1996,
+    "cast": [
+      "Corey Haim",
+      "Mario Lopez",
+      "Bo Hopkins"
+    ],
+    "genres": [
+      "Slasher"
+    ]
+  },
+  "output": "movies/fever-lake.html"
+}

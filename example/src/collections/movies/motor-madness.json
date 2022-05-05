@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Motor Madness",
+    "year": 1937,
+    "cast": [
+      "Rosalind Keith",
+      "Marc Lawrence"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/motor-madness.html"
+}

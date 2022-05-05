@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gallant Lady",
+    "year": 1942,
+    "cast": [
+      "Rose Hobart",
+      "Sidney Blackmer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gallant-lady.html"
+}

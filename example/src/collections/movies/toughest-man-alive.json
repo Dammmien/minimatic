@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Toughest Man Alive",
+    "year": 1955,
+    "cast": [
+      "Dane Clark",
+      "Lita Milan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/toughest-man-alive.html"
+}

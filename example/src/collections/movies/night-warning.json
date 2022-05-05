@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Night Warning",
+    "year": 1983,
+    "cast": [
+      "Bo Svenson",
+      "Julia Duffy",
+      "Bill Paxton"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/night-warning.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Quantum of Solace",
+    "year": 2008,
+    "cast": [
+      "Daniel Craig",
+      "Olga Kurylenko",
+      "Mathieu Amalric"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/quantum-of-solace.html"
+}

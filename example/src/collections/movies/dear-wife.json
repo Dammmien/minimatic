@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dear Wife",
+    "year": 1949,
+    "cast": [
+      "William Holden",
+      "Joan Caulfield"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dear-wife.html"
+}

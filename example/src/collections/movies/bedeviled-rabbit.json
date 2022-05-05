@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Bedeviled Rabbit",
+    "year": 1957,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/bedeviled-rabbit.html"
+}

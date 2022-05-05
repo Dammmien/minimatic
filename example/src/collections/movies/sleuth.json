@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sleuth",
+    "year": 2007,
+    "cast": [
+      "Michael Caine",
+      "Jude Law"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sleuth.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder by Contract",
+    "year": 1958,
+    "cast": [
+      "Vince Edwards",
+      "Phillip Pine"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/murder-by-contract.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Eight Girls in a Boat",
+    "year": 1934,
+    "cast": [
+      "Dorothy Wilson",
+      "Douglass Montgomery",
+      "Kay Johnson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/eight-girls-in-a-boat.html"
+}

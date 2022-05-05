@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cheaters",
+    "year": 1934,
+    "cast": [
+      "William Boyd",
+      "June Collyer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cheaters.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Verdict",
+    "year": 1982,
+    "cast": [
+      "Paul Newman",
+      "Jack Warden",
+      "James Mason",
+      "Charlotte Rampling",
+      "Wesley Addy",
+      "Lindsay Crouse"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-verdict.html"
+}

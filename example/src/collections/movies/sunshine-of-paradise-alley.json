@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sunshine of Paradise Alley",
+    "year": 1926,
+    "cast": [
+      "Barbara Bedford",
+      "Nigel Barrie"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/sunshine-of-paradise-alley.html"
+}

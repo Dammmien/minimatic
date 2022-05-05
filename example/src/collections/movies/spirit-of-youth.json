@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Spirit of Youth",
+    "year": 1938,
+    "cast": [
+      "Joe Louis",
+      "Mantan Moreland",
+      "Edna May Harris"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/spirit-of-youth.html"
+}

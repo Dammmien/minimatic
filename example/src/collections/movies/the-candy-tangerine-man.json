@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Candy Tangerine Man",
+    "year": 1975,
+    "cast": [
+      "John Daniels",
+      "Eli Haines",
+      "Tom Hankason"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-candy-tangerine-man.html"
+}

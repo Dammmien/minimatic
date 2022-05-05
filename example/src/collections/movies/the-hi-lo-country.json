@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Hi-Lo Country",
+    "year": 1998,
+    "cast": [
+      "Billy Crudup",
+      "Woody Harrelson",
+      "Patricia Arquette",
+      "Penélope Cruz",
+      "Sam Elliott"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-hi-lo-country.html"
+}

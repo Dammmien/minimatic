@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Saving Lincoln",
+    "year": 2013,
+    "cast": [
+      "Tom Amandes",
+      "Lea Coco",
+      "Penelope Ann Miller",
+      "Bruce Davison",
+      "Creed Bratton"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/saving-lincoln.html"
+}

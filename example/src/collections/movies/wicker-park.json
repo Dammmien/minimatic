@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wicker Park",
+    "year": 2004,
+    "cast": [
+      "Josh Hartnett",
+      "Rose Byrne",
+      "Diane Kruger",
+      "Matthew Lillard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wicker-park.html"
+}

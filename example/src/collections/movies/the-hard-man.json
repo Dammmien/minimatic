@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hard Man",
+    "year": 1957,
+    "cast": [
+      "Guy Madison",
+      "Valerie French"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-hard-man.html"
+}

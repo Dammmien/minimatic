@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Suzy",
+    "year": 1936,
+    "cast": [
+      "Jean Harlow",
+      "Franchot Tone",
+      "Cary Grant"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/suzy.html"
+}

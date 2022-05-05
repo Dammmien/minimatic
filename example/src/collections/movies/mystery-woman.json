@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mystery Woman",
+    "year": 1935,
+    "cast": [
+      "Mona Barrie",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/mystery-woman.html"
+}

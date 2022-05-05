@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Daltons Ride Again",
+    "year": 1945,
+    "cast": [
+      "Lon Chaney Jr.",
+      "Alan Curtis",
+      "Martha O'Driscoll"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-daltons-ride-again.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Time, the Place and the Girl",
+    "year": 1946,
+    "cast": [
+      "Dennis Morgan",
+      "Janis Paige",
+      "Martha Vickers"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-time--the-place-and-the-girl.html"
+}

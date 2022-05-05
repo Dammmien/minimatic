@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wives and Lovers",
+    "year": 1963,
+    "cast": [
+      "Janet Leigh",
+      "Van Johnson"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/wives-and-lovers.html"
+}

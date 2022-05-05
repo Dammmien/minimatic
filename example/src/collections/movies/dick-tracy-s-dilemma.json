@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dick Tracy's Dilemma",
+    "year": 1947,
+    "cast": [
+      "Ralph Byrd",
+      "Kay Christopher",
+      "Jack Lambert"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/dick-tracy-s-dilemma.html"
+}

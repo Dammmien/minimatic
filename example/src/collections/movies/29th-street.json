@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "29th Street",
+    "year": 1991,
+    "cast": [
+      "Danny Aiello",
+      "Anthony LaPaglia"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/29th-street.html"
+}

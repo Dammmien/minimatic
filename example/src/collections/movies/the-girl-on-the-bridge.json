@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl on the Bridge",
+    "year": 1951,
+    "cast": [
+      "Hugo Haas",
+      "Beverly Michaels"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-girl-on-the-bridge.html"
+}

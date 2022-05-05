@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman Accused",
+    "year": 1933,
+    "cast": [
+      "Cary Grant",
+      "Nancy Carroll"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woman-accused.html"
+}

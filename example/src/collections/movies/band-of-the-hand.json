@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Band of the Hand",
+    "year": 1986,
+    "cast": [
+      "Stephen Lang",
+      "Lauren Holly",
+      "Leon"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/band-of-the-hand.html"
+}

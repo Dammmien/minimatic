@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Alien Encounters",
+    "year": 1979,
+    "cast": [
+      "Bonnie Henry"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-alien-encounters.html"
+}

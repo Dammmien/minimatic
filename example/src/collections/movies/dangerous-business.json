@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dangerous Business",
+    "year": 1946,
+    "cast": [
+      "Forrest Tucker",
+      "Lynn Merrick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dangerous-business.html"
+}

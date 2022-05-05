@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dream Wife",
+    "year": 1953,
+    "cast": [
+      "Cary Grant",
+      "Deborah Kerr",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dream-wife.html"
+}

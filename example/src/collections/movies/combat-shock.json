@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Combat Shock",
+    "year": 1986,
+    "cast": [
+      "Rick Giovinazzo",
+      "Veronica Stork"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/combat-shock.html"
+}

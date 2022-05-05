@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Lady Beware",
+    "year": 1987,
+    "cast": [
+      "Diane Lane"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/lady-beware.html"
+}

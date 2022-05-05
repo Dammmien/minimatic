@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pretty Poison",
+    "year": 1968,
+    "cast": [
+      "Tuesday Weld",
+      "Anthony Perkins",
+      "Beverly Garland"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/pretty-poison.html"
+}

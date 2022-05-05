@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Here Come the Marines",
+    "year": 1952,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Myrna Dell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/here-come-the-marines.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bloodhound",
+    "year": 1925,
+    "cast": [
+      "Bob Custer",
+      "Mary Beth Milford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-bloodhound.html"
+}

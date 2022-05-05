@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Captains Courageous",
+    "year": 1937,
+    "cast": [
+      "Spencer Tracy",
+      "Freddie Bartholomew",
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/captains-courageous.html"
+}

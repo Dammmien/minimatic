@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Intolerable Cruelty",
+    "year": 2003,
+    "cast": [
+      "George Clooney",
+      "Catherine Zeta-Jones"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/intolerable-cruelty.html"
+}

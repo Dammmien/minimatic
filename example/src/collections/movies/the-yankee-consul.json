@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Yankee Consul",
+    "year": 1924,
+    "cast": [
+      "Douglas MacLean",
+      "Patsy Ruth Miller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-yankee-consul.html"
+}

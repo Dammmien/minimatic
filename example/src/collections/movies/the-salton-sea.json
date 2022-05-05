@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Salton Sea",
+    "year": 2002,
+    "cast": [
+      "Val Kilmer",
+      "Vincent D'Onofrio",
+      "Peter Sarsgaard"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-salton-sea.html"
+}

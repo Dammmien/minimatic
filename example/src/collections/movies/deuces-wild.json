@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Deuces Wild",
+    "year": 2002,
+    "cast": [
+      "Stephen Dorff",
+      "Brad Renfro",
+      "Fairuza Balk"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/deuces-wild.html"
+}

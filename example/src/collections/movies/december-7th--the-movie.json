@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "December 7th: The Movie",
+    "year": 1942,
+    "cast": [
+      "Walter Huston",
+      "Dana Andrews"
+    ],
+    "genres": []
+  },
+  "output": "movies/december-7th--the-movie.html"
+}

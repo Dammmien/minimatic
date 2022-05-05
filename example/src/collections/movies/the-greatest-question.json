@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Greatest Question",
+    "year": 1919,
+    "cast": [
+      "Lillian Gish",
+      "Robert Harron",
+      "Ralph Graves"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-greatest-question.html"
+}

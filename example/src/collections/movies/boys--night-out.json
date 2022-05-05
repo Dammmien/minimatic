@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Boys' Night Out",
+    "year": 1962,
+    "cast": [
+      "James Garner",
+      "Kim Novak",
+      "Tony Randall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/boys--night-out.html"
+}

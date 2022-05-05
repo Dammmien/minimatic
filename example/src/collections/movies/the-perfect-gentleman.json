@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Perfect Gentleman",
+    "year": 1935,
+    "cast": [
+      "Frank Morgan",
+      "Cicely Courtneidge",
+      "Heather Angel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-perfect-gentleman.html"
+}

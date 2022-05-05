@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Rosary Murders",
+    "year": 1987,
+    "cast": [
+      "Donald Sutherland",
+      "Charles Durning",
+      "Belinda Bauer"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-rosary-murders.html"
+}

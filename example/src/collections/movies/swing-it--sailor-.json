@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Swing It, Sailor!",
+    "year": 1938,
+    "cast": [
+      "Wallace Ford",
+      "Isabel Jewell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/swing-it--sailor-.html"
+}

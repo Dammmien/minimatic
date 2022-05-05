@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dead & Buried",
+    "year": 1981,
+    "cast": [
+      "Melody Anderson",
+      "Jack Albertson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dead---buried.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Monsoon Wedding",
+    "year": 2001,
+    "cast": [
+      "Naseeruddin Shah",
+      "Lillete Dubey",
+      "Shefali Shah"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/monsoon-wedding.html"
+}

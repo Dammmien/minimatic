@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prison Ship",
+    "year": 1945,
+    "cast": [
+      "Nina Foch",
+      "Robert Lowery"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/prison-ship.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tabu",
+    "year": 1931,
+    "cast": [
+      "Matahi",
+      "Anne Chevalier"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tabu.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wyoming Outlaw",
+    "year": 1939,
+    "cast": [
+      "John Wayne",
+      "Ray Corrigan",
+      "Raymond Hatton",
+      "Don 'Red' Barry"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wyoming-outlaw.html"
+}

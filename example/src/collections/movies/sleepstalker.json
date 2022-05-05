@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Sleepstalker",
+    "year": 1995,
+    "cast": [
+      "Kathryn Morris"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/sleepstalker.html"
+}

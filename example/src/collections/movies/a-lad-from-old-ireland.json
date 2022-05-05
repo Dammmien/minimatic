@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Lad from Old Ireland",
+    "year": 1910,
+    "cast": [
+      "Sidney Olcott",
+      "Gene Gauntier",
+      "Thomas O'Connor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-lad-from-old-ireland.html"
+}

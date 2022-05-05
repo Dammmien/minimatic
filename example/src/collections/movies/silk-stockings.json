@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silk Stockings",
+    "year": 1957,
+    "cast": [
+      "Fred Astaire",
+      "Cyd Charisse"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/silk-stockings.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Mr. Roosevelt",
+    "year": 2017,
+    "cast": [
+      "Noël Wells",
+      "Nick Thune",
+      "Britt Lower",
+      "Danielle Pineda",
+      "Andre Hyland",
+      "Doug Benson",
+      "Armen Weitzman",
+      "Sergio Cilli"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--roosevelt.html"
+}

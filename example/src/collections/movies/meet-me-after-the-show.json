@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Meet Me After the Show",
+    "year": 1951,
+    "cast": [
+      "Betty Grable",
+      "Rory Calhoun"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/meet-me-after-the-show.html"
+}

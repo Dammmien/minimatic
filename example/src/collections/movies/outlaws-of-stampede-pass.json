@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Outlaws of Stampede Pass",
+    "year": 1943,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/outlaws-of-stampede-pass.html"
+}

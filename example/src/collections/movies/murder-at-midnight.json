@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder at Midnight",
+    "year": 1931,
+    "cast": [
+      "Alice White",
+      "Aileen Pringle"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder-at-midnight.html"
+}

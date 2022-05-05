@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Zorro, the Gay Blade",
+    "year": 1981,
+    "cast": [
+      "George Hamilton",
+      "Lauren Hutton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/zorro--the-gay-blade.html"
+}

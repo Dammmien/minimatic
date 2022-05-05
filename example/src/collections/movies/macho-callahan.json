@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Macho Callahan",
+    "year": 1970,
+    "cast": [
+      "David Janssen",
+      "Jean Seberg",
+      "Lee J. Cobb"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/macho-callahan.html"
+}

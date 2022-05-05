@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Look Pleasant, Please",
+    "year": 1918,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/look-pleasant--please.html"
+}

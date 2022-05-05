@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strange Voyage",
+    "year": 1946,
+    "cast": [
+      "Eddie Albert",
+      "Forrest Taylor"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/strange-voyage.html"
+}

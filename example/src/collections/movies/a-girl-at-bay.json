@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Girl at Bay",
+    "year": 1919,
+    "cast": [
+      "Corinne Griffith",
+      "Walter Miller"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/a-girl-at-bay.html"
+}

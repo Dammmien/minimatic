@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Making a Living",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Virginia Kirtley",
+      "Alice Davenport"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/making-a-living.html"
+}

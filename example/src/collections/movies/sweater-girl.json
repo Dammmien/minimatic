@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sweater Girl",
+    "year": 1942,
+    "cast": [
+      "Eddie Bracken",
+      "June Preisser"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/sweater-girl.html"
+}

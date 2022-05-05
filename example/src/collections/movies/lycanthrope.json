@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lycanthrope",
+    "year": 1999,
+    "cast": [
+      "Robert Carradine",
+      "Michael Winslow",
+      "Rebecca Holden"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/lycanthrope.html"
+}

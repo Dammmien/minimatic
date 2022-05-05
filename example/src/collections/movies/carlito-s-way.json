@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Carlito's Way",
+    "year": 1993,
+    "cast": [
+      "Al Pacino",
+      "Sean Penn",
+      "Penelope Ann Miller",
+      "John Leguizamo",
+      "Luis Guzman",
+      "Viggo Mortensen"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/carlito-s-way.html"
+}

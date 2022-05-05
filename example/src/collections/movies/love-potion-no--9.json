@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Potion No. 9",
+    "year": 1992,
+    "cast": [
+      "Sandra Bullock",
+      "Tate Donovan",
+      "Anne Bancroft"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-potion-no--9.html"
+}

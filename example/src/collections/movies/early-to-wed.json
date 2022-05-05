@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Early to Wed",
+    "year": 1926,
+    "cast": [
+      "Matt Moore",
+      "Katherine Perry",
+      "Albert Gran"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/early-to-wed.html"
+}

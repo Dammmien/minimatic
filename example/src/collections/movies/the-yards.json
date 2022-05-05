@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Yards",
+    "year": 2000,
+    "cast": [
+      "Mark Wahlberg",
+      "Charlize Theron",
+      "Joaquin Phoenix",
+      "James Caan",
+      "Ellen Burstyn",
+      "Faye Dunaway"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-yards.html"
+}

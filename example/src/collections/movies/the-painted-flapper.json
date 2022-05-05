@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Painted Flapper",
+    "year": 1924,
+    "cast": [
+      "James Kirkwood",
+      "Pauline Garon"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-painted-flapper.html"
+}

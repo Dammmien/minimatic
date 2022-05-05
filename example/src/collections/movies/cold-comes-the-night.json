@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cold Comes the Night",
+    "year": 2014,
+    "cast": [
+      "Alice Eve",
+      "Bryan Cranston",
+      "Logan Marshall-Green",
+      "Ursula Parker"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/cold-comes-the-night.html"
+}

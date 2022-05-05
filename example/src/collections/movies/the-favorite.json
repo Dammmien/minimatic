@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Favorite",
+    "year": 1989,
+    "cast": [
+      "F. Murray Abraham",
+      "Maud Adams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-favorite.html"
+}

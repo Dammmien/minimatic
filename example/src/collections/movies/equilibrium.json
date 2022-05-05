@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Equilibrium",
+    "year": 2002,
+    "cast": [
+      "Christian Bale",
+      "Taye Diggs",
+      "Emily Watson",
+      "Angus Macfadyen",
+      "Sean Bean",
+      "William Fichtner"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/equilibrium.html"
+}

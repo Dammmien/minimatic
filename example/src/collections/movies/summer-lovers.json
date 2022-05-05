@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Summer Lovers",
+    "year": 1982,
+    "cast": [
+      "Peter Gallagher",
+      "Daryl Hannah"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/summer-lovers.html"
+}

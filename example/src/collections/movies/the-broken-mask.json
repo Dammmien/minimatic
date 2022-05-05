@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Broken Mask",
+    "year": 1928,
+    "cast": [
+      "Cullen Landis",
+      "Barbara Bedford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-broken-mask.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Navy Aviator",
+    "year": 1914,
+    "cast": [
+      "Sydney Ayres",
+      "Caroline Cooke",
+      "Jack Richardson"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-navy-aviator.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It Came from Hollywood",
+    "year": 1982,
+    "cast": [
+      "Archive footage of",
+      "Bela Lugosi",
+      "Mamie Van Doren"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/it-came-from-hollywood.html"
+}

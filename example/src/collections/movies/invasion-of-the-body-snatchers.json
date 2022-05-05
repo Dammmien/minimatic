@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Invasion of the Body Snatchers",
+    "year": 1978,
+    "cast": [
+      "Donald Sutherland",
+      "Brooke Adams",
+      "Leonard Nimoy"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/invasion-of-the-body-snatchers.html"
+}

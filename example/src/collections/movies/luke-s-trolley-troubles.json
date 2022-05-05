@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Luke's Trolley Troubles",
+    "year": 1917,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/luke-s-trolley-troubles.html"
+}

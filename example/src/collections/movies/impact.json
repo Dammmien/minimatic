@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Impact",
+    "year": 1949,
+    "cast": [
+      "Brian Donlevy",
+      "Ella Raines",
+      "Charles Coburn"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/impact.html"
+}

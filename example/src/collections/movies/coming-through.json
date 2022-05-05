@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Coming Through",
+    "year": 1925,
+    "cast": [
+      "Thomas Meighan",
+      "Wallace Beery",
+      "and",
+      "Lila Lee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/coming-through.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cowboy and the Flapper",
+    "year": 1924,
+    "cast": [
+      "William Fairbanks",
+      "Dorothy Revier"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-cowboy-and-the-flapper.html"
+}

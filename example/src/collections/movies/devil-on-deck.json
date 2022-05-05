@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Devil on Deck",
+    "year": 1932,
+    "cast": [
+      "Reed Howes",
+      "Molly O'Day"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/devil-on-deck.html"
+}

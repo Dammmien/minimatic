@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "American Empire",
+    "year": 1942,
+    "cast": [
+      "Richard Dix",
+      "Leo Carrillo",
+      "Preston Foster",
+      "Frances Gifford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/american-empire.html"
+}

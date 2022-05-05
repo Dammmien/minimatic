@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Men Call It Love",
+    "year": 1931,
+    "cast": [
+      "Adolphe Menjou",
+      "Leila Hyams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/men-call-it-love.html"
+}

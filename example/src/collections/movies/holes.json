@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Holes",
+    "year": 2003,
+    "cast": [
+      "Shia LaBeouf",
+      "Jon Voight",
+      "Sigourney Weaver",
+      "Tim Blake Nelson",
+      "Patricia Arquette",
+      "Henry Winkler"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/holes.html"
+}

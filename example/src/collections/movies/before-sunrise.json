@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Before Sunrise",
+    "year": 1995,
+    "cast": [
+      "Ethan Hawke",
+      "Julie Delpy"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/before-sunrise.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gene Autry and the Mounties",
+    "year": 1951,
+    "cast": [
+      "Gene Autry",
+      "Elena Verdugo"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gene-autry-and-the-mounties.html"
+}

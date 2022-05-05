@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Man of Conquest",
+    "year": 1939,
+    "cast": [
+      "Richard Dix",
+      "Gail Patrick",
+      "Joan Fontaine"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/man-of-conquest.html"
+}

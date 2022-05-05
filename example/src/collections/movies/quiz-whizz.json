@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Quiz Whizz",
+    "year": 1958,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/quiz-whizz.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Major League",
+    "year": 1989,
+    "cast": [
+      "Tom Berenger",
+      "Charlie Sheen",
+      "Corbin Bernsen",
+      "Rene Russo",
+      "Wesley Snipes",
+      "Bob Uecker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/major-league.html"
+}

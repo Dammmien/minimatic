@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Beach Party",
+    "year": 1963,
+    "cast": [
+      "Robert Cummings",
+      "Dorothy Malone",
+      "Annette Funicello",
+      "Frankie Avalon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/beach-party.html"
+}

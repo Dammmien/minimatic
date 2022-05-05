@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Camp Cucamonga",
+    "year": 1990,
+    "cast": [
+      "John Ratzenberger"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/camp-cucamonga.html"
+}

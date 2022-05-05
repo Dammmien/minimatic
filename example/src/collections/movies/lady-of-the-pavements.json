@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lady of the Pavements",
+    "year": 1929,
+    "cast": [
+      "Lupe Vélez",
+      "William Boyd"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/lady-of-the-pavements.html"
+}

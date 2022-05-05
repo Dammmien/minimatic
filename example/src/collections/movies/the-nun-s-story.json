@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Nun's Story",
+    "year": 1959,
+    "cast": [
+      "Audrey Hepburn",
+      "Peter Finch",
+      "Edith Evans",
+      "Colleen Dewhurst",
+      "Peggy Ashcroft"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-nun-s-story.html"
+}

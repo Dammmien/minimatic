@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Old Man & the Gun",
+    "year": 2018,
+    "cast": [
+      "Robert Redford",
+      "Casey Affleck",
+      "Danny Glover",
+      "Tika Sumpter",
+      "Tom Waits",
+      "Sissy Spacek"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-old-man---the-gun.html"
+}

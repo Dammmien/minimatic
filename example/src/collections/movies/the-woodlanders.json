@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Woodlanders",
+    "year": 1997,
+    "cast": [
+      "Rufus Sewell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woodlanders.html"
+}

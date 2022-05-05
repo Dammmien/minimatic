@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Classmates",
+    "year": 1924,
+    "cast": [
+      "Richard Barthelmess",
+      "Madge Evans"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/classmates.html"
+}

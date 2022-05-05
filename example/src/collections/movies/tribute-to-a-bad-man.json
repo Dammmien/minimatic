@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Tribute to a Bad Man",
+    "year": 1956,
+    "cast": [
+      "James Cagney",
+      "Stephen McNally",
+      "Don Dubbins",
+      "Irene Papas",
+      "Vic Morrow"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/tribute-to-a-bad-man.html"
+}

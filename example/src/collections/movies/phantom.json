@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Phantom",
+    "year": 2013,
+    "cast": [
+      "Ed Harris",
+      "David Duchovny",
+      "William Fichtner",
+      "Lance Henriksen",
+      "Johnathon Schaech",
+      "Jason Beghe",
+      "Sean Patrick Flanery",
+      "Jason Gray-Stanford",
+      "Julian Adams"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/phantom.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Firelight",
+    "year": 1997,
+    "cast": [
+      "Sophie Marceau"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/firelight.html"
+}

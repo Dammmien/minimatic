@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Scott Joplin",
+    "year": 1977,
+    "cast": [
+      "Billy Dee Williams",
+      "Clifton Davis",
+      "Margaret Avery"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/scott-joplin.html"
+}

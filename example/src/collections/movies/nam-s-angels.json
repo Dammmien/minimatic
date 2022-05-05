@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Nam's Angels",
+    "year": 1970,
+    "cast": [
+      "Paul Koslo"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/nam-s-angels.html"
+}

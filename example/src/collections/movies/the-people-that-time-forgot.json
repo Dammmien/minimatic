@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The People That Time Forgot",
+    "year": 1977,
+    "cast": [
+      "Doug McClure",
+      "Sarah Douglas"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-people-that-time-forgot.html"
+}

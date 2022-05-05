@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Ant Bully",
+    "year": 2006,
+    "cast": [
+      "Julia Roberts",
+      "Nicolas Cage",
+      "Meryl Streep",
+      "Paul Giamatti"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-ant-bully.html"
+}

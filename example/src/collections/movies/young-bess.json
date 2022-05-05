@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Young Bess",
+    "year": 1953,
+    "cast": [
+      "Jean Simmons",
+      "Stewart Granger",
+      "Deborah Kerr",
+      "Charles Laughton"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/young-bess.html"
+}

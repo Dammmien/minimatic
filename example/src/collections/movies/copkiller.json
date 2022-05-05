@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Copkiller",
+    "year": 1983,
+    "cast": [
+      "Harvey Keitel",
+      "John Lydon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/copkiller.html"
+}

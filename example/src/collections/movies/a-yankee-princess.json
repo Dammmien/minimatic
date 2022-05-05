@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Yankee Princess",
+    "year": 1919,
+    "cast": [
+      "Bessie Love",
+      "Robert Gordon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-yankee-princess.html"
+}

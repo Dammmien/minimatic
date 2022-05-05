@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Melody Trail",
+    "year": 1935,
+    "cast": [
+      "Gene Autry",
+      "Ann Rutherford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/melody-trail.html"
+}

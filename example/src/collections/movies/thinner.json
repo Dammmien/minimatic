@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thinner",
+    "year": 1996,
+    "cast": [
+      "Robert John Burke",
+      "Lucinda Jenney",
+      "Joe Mantegna"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/thinner.html"
+}

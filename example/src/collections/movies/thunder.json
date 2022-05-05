@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thunder",
+    "year": 1929,
+    "cast": [
+      "Lon Chaney",
+      "Phyllis Haver"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thunder.html"
+}

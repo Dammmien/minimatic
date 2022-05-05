@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "From the Earth to the Moon",
+    "year": 1958,
+    "cast": [
+      "Joseph Cotten",
+      "George Sanders",
+      "Debra Paget"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/from-the-earth-to-the-moon.html"
+}

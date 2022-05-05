@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Heart of Midnight",
+    "year": 1988,
+    "cast": [
+      "Jennifer Jason Leigh",
+      "Peter Coyote",
+      "Brenda Vaccaro"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/heart-of-midnight.html"
+}

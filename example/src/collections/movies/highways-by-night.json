@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Highways by Night",
+    "year": 1942,
+    "cast": [
+      "Richard Carlson",
+      "Jane Randolph"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/highways-by-night.html"
+}

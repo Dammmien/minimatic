@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Five Days from Home",
+    "year": 1979,
+    "cast": [
+      "George Peppard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/five-days-from-home.html"
+}

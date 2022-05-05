@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Through the Wrong Door",
+    "year": 1919,
+    "cast": [
+      "Madge Kennedy",
+      "John Bowers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/through-the-wrong-door.html"
+}

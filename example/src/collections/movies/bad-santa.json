@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bad Santa",
+    "year": 2003,
+    "cast": [
+      "Billy Bob Thornton",
+      "Bernie Mac",
+      "Lauren Graham"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/bad-santa.html"
+}

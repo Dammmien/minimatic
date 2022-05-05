@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Medusa Touch",
+    "year": 1978,
+    "cast": [
+      "Richard Burton",
+      "Lee Remick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-medusa-touch.html"
+}

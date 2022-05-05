@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Motorpsycho",
+    "year": 1965,
+    "cast": [
+      "Haji",
+      "Alex Rocco"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/motorpsycho.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Romance of Happy Valley",
+    "year": 1919,
+    "cast": [
+      "Lillian Gish",
+      "Robert Harron"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-romance-of-happy-valley.html"
+}

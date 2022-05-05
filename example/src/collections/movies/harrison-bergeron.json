@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Harrison Bergeron",
+    "year": 1995,
+    "cast": [
+      "Sean Astin",
+      "Christopher Plummer",
+      "Eugene Levy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/harrison-bergeron.html"
+}

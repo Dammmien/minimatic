@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The List",
+    "year": 2007,
+    "cast": [
+      "Malcolm McDowell",
+      "Chuck Carrington",
+      "Hilarie Burton"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-list.html"
+}

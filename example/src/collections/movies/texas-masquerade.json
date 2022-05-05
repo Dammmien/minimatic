@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Texas Masquerade",
+    "year": 1944,
+    "cast": [
+      "William Boyd",
+      "Andy Clyde"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/texas-masquerade.html"
+}

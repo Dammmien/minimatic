@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Race to Witch Mountain",
+    "year": 2009,
+    "cast": [
+      "Dwayne Johnson",
+      "AnnaSophia Robb",
+      "Carla Gugino",
+      "Garry Marshall",
+      "Ciarán Hinds",
+      "Alexander Ludwig",
+      "Tom Everett Scott",
+      "Christopher Marquette"
+    ],
+    "genres": [
+      "Family",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/race-to-witch-mountain.html"
+}

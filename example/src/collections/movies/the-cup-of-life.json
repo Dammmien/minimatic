@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cup of Life",
+    "year": 1921,
+    "cast": [
+      "Hobart Bosworth",
+      "Madge Bellamy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-cup-of-life.html"
+}

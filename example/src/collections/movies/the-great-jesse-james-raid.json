@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Jesse James Raid",
+    "year": 1953,
+    "cast": [
+      "Willard Parker",
+      "Barbara Payton",
+      "Tom Neal"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-great-jesse-james-raid.html"
+}

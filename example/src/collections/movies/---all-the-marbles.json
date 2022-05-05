@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "...All the Marbles",
+    "year": 1981,
+    "cast": [
+      "Peter Falk"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/---all-the-marbles.html"
+}

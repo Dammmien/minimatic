@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Coraline",
+    "year": 2009,
+    "cast": [
+      "Dakota Fanning",
+      "Teri Hatcher",
+      "Ian McShane",
+      "Jennifer Saunders",
+      "Dawn French"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/coraline.html"
+}

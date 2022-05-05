@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Freshman Year",
+    "year": 1938,
+    "cast": [
+      "Constance Moore",
+      "Dixie Dunbar",
+      "William Lundigan"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/freshman-year.html"
+}

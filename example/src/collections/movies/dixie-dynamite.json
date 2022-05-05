@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dixie Dynamite",
+    "year": 1976,
+    "cast": [
+      "Warren Oates",
+      "Christopher George"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/dixie-dynamite.html"
+}

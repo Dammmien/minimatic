@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Illegal",
+    "year": 1955,
+    "cast": [
+      "Edward G. Robinson",
+      "Nina Foch",
+      "Jayne Mansfield"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/illegal.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Ali",
+    "year": 2001,
+    "cast": [
+      "Will Smith",
+      "Jamie Foxx",
+      "Jon Voight",
+      "Mario Van Peebles",
+      "Jeffrey Wright",
+      "Ron Silver"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/ali.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fatty and Mabel Adrift",
+    "year": 1916,
+    "cast": [
+      "Roscoe \"Fatty\" Arbuckle",
+      "Mabel Normand"
+    ],
+    "genres": [
+      "Short",
+      "Comedy"
+    ]
+  },
+  "output": "movies/fatty-and-mabel-adrift.html"
+}

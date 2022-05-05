@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fifty/Fifty",
+    "year": 1992,
+    "cast": [
+      "Peter Weller",
+      "Robert Hays"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fifty-fifty.html"
+}

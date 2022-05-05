@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bombshell",
+    "year": 1933,
+    "cast": [
+      "Jean Harlow",
+      "Lee Tracy",
+      "Franchot Tone"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/bombshell.html"
+}

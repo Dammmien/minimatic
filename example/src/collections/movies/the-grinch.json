@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Grinch",
+    "year": 2018,
+    "cast": [
+      "Benedict Cumberbatch",
+      "Rashida Jones",
+      "Kenan Thompson",
+      "Cameron Seely",
+      "Angela Lansbury",
+      "Pharrell Williams"
+    ],
+    "genres": [
+      "Animated",
+      "Family",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-grinch.html"
+}

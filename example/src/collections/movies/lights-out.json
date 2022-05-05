@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Lights Out",
+    "year": 2016,
+    "cast": [
+      "Teresa Palmer"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/lights-out.html"
+}

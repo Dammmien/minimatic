@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Slums of Beverly Hills",
+    "year": 1998,
+    "cast": [
+      "Natasha Lyonne",
+      "Alan Arkin",
+      "Marisa Tomei"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/slums-of-beverly-hills.html"
+}

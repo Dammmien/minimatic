@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dangerous Mission",
+    "year": 1954,
+    "cast": [
+      "Victor Mature",
+      "Piper Laurie"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/dangerous-mission.html"
+}

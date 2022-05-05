@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Megaforce",
+    "year": 1982,
+    "cast": [
+      "Barry Bostwick",
+      "Persis Khambatta",
+      "Michael Beck"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/megaforce.html"
+}

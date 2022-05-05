@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Who's Your Caddy?",
+    "year": 2007,
+    "cast": [
+      "Lil Wayne",
+      "Andy Milonakis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/who-s-your-caddy-.html"
+}

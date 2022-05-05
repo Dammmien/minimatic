@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Anne of the Indies",
+    "year": 1951,
+    "cast": [
+      "Louis Jourdan",
+      "Jean Peters"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/anne-of-the-indies.html"
+}

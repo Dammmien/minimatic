@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Deconstructing Harry",
+    "year": 1997,
+    "cast": [
+      "Kirstie Alley",
+      "Richard Benjamin",
+      "Billy Crystal",
+      "Judy Davis",
+      "Julia Louis-Dreyfus",
+      "Demi Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/deconstructing-harry.html"
+}

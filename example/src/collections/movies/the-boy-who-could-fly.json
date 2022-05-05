@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Boy Who Could Fly",
+    "year": 1986,
+    "cast": [
+      "Bonnie Bedelia",
+      "Lucy Deakins",
+      "Jay Underwood",
+      "Fred Savage",
+      "Fred Gwynne",
+      "Mindy Cohn",
+      "Colleen Dewhurst"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-boy-who-could-fly.html"
+}

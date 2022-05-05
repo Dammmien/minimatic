@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hot Car Girl",
+    "year": 1958,
+    "cast": [
+      "June Kenney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hot-car-girl.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Freeway",
+    "year": 1996,
+    "cast": [
+      "Kiefer Sutherland",
+      "Reese Witherspoon",
+      "Brooke Shields"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/freeway.html"
+}

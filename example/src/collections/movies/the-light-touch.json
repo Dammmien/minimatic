@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Light Touch",
+    "year": 1951,
+    "cast": [
+      "Stewart Granger",
+      "Pier Angeli",
+      "George Sanders"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-light-touch.html"
+}

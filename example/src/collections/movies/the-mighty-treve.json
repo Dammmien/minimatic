@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mighty Treve",
+    "year": 1937,
+    "cast": [
+      "Noah Beery",
+      "Barbara Read"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-mighty-treve.html"
+}

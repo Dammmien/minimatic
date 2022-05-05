@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last Winter",
+    "year": 2006,
+    "cast": [
+      "Ron Perlman",
+      "James LeGros",
+      "Connie Britton"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-last-winter.html"
+}

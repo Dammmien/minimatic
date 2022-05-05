@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Hell Is for Heroes",
+    "year": 1962,
+    "cast": [
+      "Steve McQueen",
+      "Fess Parker",
+      "James Coburn",
+      "Bobby Darin"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/hell-is-for-heroes.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Seagull",
+    "year": 2018,
+    "cast": [
+      "Saoirse Ronan",
+      "Annette Bening",
+      "Corey Stoll",
+      "Billy Howle"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-seagull.html"
+}

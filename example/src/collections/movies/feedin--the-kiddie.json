@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Feedin' the Kiddie",
+    "year": 1956,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/feedin--the-kiddie.html"
+}

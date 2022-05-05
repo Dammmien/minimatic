@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Soldier of Fortune",
+    "year": 1955,
+    "cast": [
+      "Clark Gable",
+      "Susan Hayward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/soldier-of-fortune.html"
+}

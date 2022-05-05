@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Treasure of the Golden Condor",
+    "year": 1953,
+    "cast": [
+      "Cornel Wilde",
+      "Constance Smith",
+      "Finlay Currie"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/treasure-of-the-golden-condor.html"
+}

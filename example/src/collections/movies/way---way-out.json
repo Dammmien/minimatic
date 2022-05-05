@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Way...Way Out",
+    "year": 1966,
+    "cast": [
+      "Jerry Lewis",
+      "Connie Stevens",
+      "Anita Ekberg",
+      "Robert Morley",
+      "Dennis Weaver",
+      "Dick Shawn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/way---way-out.html"
+}

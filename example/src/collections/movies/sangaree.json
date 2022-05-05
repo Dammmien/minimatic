@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sangaree",
+    "year": 1953,
+    "cast": [
+      "Fernando Lamas",
+      "Arlene Dahl",
+      "Patricia Medina"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/sangaree.html"
+}

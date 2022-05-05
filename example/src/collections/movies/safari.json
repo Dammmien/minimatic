@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Safari",
+    "year": 1940,
+    "cast": [
+      "Madeleine Carroll",
+      "Douglas Fairbanks Jr."
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/safari.html"
+}

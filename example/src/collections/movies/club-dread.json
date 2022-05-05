@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Club Dread",
+    "year": 2004,
+    "cast": [
+      "Bill Paxton",
+      "Kevin Heffernan",
+      "Brittany Daniel",
+      "Steve Lemme"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/club-dread.html"
+}

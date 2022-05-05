@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Brass Bowl",
+    "year": 1924,
+    "cast": [
+      "Edmund Lowe",
+      "Claire Adams"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-brass-bowl.html"
+}

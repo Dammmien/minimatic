@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Chance",
+    "year": 1955,
+    "cast": [
+      "Julie London",
+      "Rod Cameron"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fighting-chance.html"
+}

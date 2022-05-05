@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "South of Monterey",
+    "year": 1946,
+    "cast": [
+      "Gilbert Roland",
+      "Martin Garralaga"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/south-of-monterey.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Husbands Beware",
+    "year": 1956,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/husbands-beware.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Topeka",
+    "year": 1953,
+    "cast": [
+      "Wild Bill Elliott",
+      "Phyllis Coates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/topeka.html"
+}

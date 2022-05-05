@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Elvis: That's the Way It Is",
+    "year": 1970,
+    "cast": [
+      "Elvis Presley"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/elvis--that-s-the-way-it-is.html"
+}

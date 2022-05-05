@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Music Box",
+    "year": 1989,
+    "cast": [
+      "Jessica Lange",
+      "Armin Mueller-Stahl",
+      "Frederic Forrest",
+      "Lukas Haas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/music-box.html"
+}

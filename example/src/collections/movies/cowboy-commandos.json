@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cowboy Commandos",
+    "year": 1943,
+    "cast": [
+      "Ray Corrigan",
+      "Max Terhune",
+      "Evelyn Finley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cowboy-commandos.html"
+}

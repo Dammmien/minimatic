@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Flesh Feast",
+    "year": 1970,
+    "cast": [
+      "Veronica Lake"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/flesh-feast.html"
+}

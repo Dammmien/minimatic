@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chuck & Buck",
+    "year": 2000,
+    "cast": [
+      "Chris Weitz",
+      "Mike White",
+      "Maya Rudolph"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/chuck---buck.html"
+}

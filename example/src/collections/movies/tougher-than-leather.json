@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tougher Than Leather",
+    "year": 1988,
+    "cast": [
+      "Joseph Simmons",
+      "Darryl McDaniels"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/tougher-than-leather.html"
+}

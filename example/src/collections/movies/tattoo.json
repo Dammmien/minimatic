@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tattoo",
+    "year": 1981,
+    "cast": [
+      "Bruce Dern",
+      "Maud Adams",
+      "Leonard Frey"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/tattoo.html"
+}

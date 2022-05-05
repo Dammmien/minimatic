@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Illegally Yours",
+    "year": 1988,
+    "cast": [
+      "Rob Lowe",
+      "Colleen Camp",
+      "Kenneth Mars"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/illegally-yours.html"
+}

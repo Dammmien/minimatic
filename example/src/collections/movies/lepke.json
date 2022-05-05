@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lepke",
+    "year": 1975,
+    "cast": [
+      "Tony Curtis",
+      "Anjanette Comer"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/lepke.html"
+}

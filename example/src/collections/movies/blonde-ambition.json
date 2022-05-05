@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blonde Ambition",
+    "year": 2007,
+    "cast": [
+      "Jessica Simpson",
+      "Luke Wilson"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/blonde-ambition.html"
+}

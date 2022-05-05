@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Swamp Thing",
+    "year": 1982,
+    "cast": [
+      "Adrienne Barbeau",
+      "Louis Jourdan"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/swamp-thing.html"
+}

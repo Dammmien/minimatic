@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Out California Way",
+    "year": 1946,
+    "cast": [
+      "Monte Hale",
+      "Lorna Gray",
+      "Roy Rogers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/out-california-way.html"
+}

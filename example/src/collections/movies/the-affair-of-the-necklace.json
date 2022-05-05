@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Affair of the Necklace",
+    "year": 2001,
+    "cast": [
+      "Hilary Swank",
+      "Jonathan Pryce",
+      "Adrien Brody"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-affair-of-the-necklace.html"
+}

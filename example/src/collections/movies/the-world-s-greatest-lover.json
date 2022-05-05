@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The World's Greatest Lover",
+    "year": 1977,
+    "cast": [
+      "Gene Wilder",
+      "Carol Kane",
+      "Dom DeLuise"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-world-s-greatest-lover.html"
+}

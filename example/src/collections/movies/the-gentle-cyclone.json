@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gentle Cyclone",
+    "year": 1926,
+    "cast": [
+      "Buck Jones",
+      "Will Walling"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-gentle-cyclone.html"
+}

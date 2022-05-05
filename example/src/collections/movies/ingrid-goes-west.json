@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Ingrid Goes West",
+    "year": 2017,
+    "cast": [
+      "Aubrey Plaza",
+      "Elizabeth Olsen",
+      "O'Shea Jackson Jr.",
+      "Wyatt Russell",
+      "Billy Magnussen"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/ingrid-goes-west.html"
+}

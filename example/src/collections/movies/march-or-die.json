@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "March or Die",
+    "year": 1977,
+    "cast": [
+      "Gene Hackman",
+      "Catherine Deneuve"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/march-or-die.html"
+}

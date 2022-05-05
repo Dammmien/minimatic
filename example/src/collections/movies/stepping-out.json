@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Stepping Out",
+    "year": 1991,
+    "cast": [
+      "Liza Minnelli",
+      "Julie Walters",
+      "Jane Krakowski",
+      "Bill Irwin",
+      "Ellen Greene",
+      "Shelley Winters",
+      "Sheila McCarthy",
+      "Andrea Martin",
+      "Carol Woods"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/stepping-out.html"
+}

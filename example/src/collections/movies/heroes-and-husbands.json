@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Heroes and Husbands",
+    "year": 1922,
+    "cast": [
+      "Katherine MacDonald",
+      "Nigel Barrie",
+      "Charles K. Gerrard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/heroes-and-husbands.html"
+}

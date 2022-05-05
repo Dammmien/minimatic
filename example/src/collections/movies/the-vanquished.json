@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Vanquished",
+    "year": 1953,
+    "cast": [
+      "John Payne",
+      "Jan Sterling",
+      "Coleen Gray"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-vanquished.html"
+}

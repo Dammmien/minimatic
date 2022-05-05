@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Little Orphan Annie",
+    "year": 1938,
+    "cast": [
+      "Ann Gillis",
+      "Robert Kent",
+      "June Travis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-orphan-annie.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Imperfect Lady",
+    "year": 1947,
+    "cast": [
+      "Ray Milland",
+      "Teresa Wright"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-imperfect-lady.html"
+}

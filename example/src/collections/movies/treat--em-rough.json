@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Treat 'Em Rough",
+    "year": 1942,
+    "cast": [
+      "Eddie Albert",
+      "Peggy Moran"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/treat--em-rough.html"
+}

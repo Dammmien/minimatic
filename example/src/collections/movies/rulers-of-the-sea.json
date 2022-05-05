@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rulers of the Sea",
+    "year": 1939,
+    "cast": [
+      "Douglas Fairbanks Jr.",
+      "Margaret Lockwood",
+      "Will Fyffe"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/rulers-of-the-sea.html"
+}

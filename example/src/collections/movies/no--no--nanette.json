@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "No, No, Nanette",
+    "year": 1930,
+    "cast": [
+      "Bernice Claire",
+      "Alexander Gray",
+      "Lucien Littlefield"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/no--no--nanette.html"
+}

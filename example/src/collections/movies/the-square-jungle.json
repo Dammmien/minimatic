@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Square Jungle",
+    "year": 1955,
+    "cast": [
+      "Tony Curtis",
+      "Patricia Crowley",
+      "Ernest Borgnine"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-square-jungle.html"
+}

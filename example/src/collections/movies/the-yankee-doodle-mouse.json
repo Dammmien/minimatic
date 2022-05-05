@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Yankee Doodle Mouse",
+    "year": 1943,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/the-yankee-doodle-mouse.html"
+}

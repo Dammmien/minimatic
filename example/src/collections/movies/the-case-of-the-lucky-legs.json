@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Case of the Lucky Legs",
+    "year": 1935,
+    "cast": [
+      "Warren William",
+      "Genevieve Tobin",
+      "Patricia Ellis"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-case-of-the-lucky-legs.html"
+}

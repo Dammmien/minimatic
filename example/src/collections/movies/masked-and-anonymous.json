@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Masked and Anonymous",
+    "year": 2003,
+    "cast": [
+      "Jeff Bridges",
+      "John Goodman",
+      "Bob Dylan"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/masked-and-anonymous.html"
+}

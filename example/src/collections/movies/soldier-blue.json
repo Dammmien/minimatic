@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Soldier Blue",
+    "year": 1970,
+    "cast": [
+      "Candice Bergen",
+      "Peter Strauss"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/soldier-blue.html"
+}

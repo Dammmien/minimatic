@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Last Call",
+    "year": 2013,
+    "cast": [
+      "Travis Van Winkle",
+      "Ryan Hansen",
+      "Tara Reid"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/last-call.html"
+}

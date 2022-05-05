@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Among Those Present",
+    "year": 1921,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/among-those-present.html"
+}

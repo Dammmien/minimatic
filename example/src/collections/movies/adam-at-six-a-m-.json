@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Adam at Six A.M.",
+    "year": 1970,
+    "cast": [
+      "Michael Douglas",
+      "Lee Purcell",
+      "Joe Don Baker",
+      "Louise Latham"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/adam-at-six-a-m-.html"
+}

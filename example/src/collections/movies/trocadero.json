@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Trocadero",
+    "year": 1944,
+    "cast": [
+      "Rosemary Lane",
+      "Johnny Downs",
+      "Ralph Morgan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/trocadero.html"
+}

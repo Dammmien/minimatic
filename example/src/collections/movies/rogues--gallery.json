@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rogues' Gallery",
+    "year": 1944,
+    "cast": [
+      "Robin Raymond",
+      "Frank Jenks"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rogues--gallery.html"
+}

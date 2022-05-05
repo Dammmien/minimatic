@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lady Escapes",
+    "year": 1937,
+    "cast": [
+      "Gloria Stuart",
+      "Michael Whalen",
+      "George Sanders"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-lady-escapes.html"
+}

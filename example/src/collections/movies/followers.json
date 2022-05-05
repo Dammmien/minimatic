@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Followers",
+    "year": 2018,
+    "cast": [
+      "Amanda Delaney",
+      "Justin Maina",
+      "Sean Michael Gloria",
+      "Nishant Gogna",
+      "David E. McMahon"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/followers.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gang Related",
+    "year": 1997,
+    "cast": [
+      "James Belushi",
+      "Tupac Shakur",
+      "Lela Rochon"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/gang-related.html"
+}

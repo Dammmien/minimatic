@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Revolt of Mamie Stover",
+    "year": 1956,
+    "cast": [
+      "Jane Russell",
+      "Richard Egan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-revolt-of-mamie-stover.html"
+}

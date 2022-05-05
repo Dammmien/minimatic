@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wolves of the Desert",
+    "year": 1926,
+    "cast": [
+      "Neva Gerber",
+      "Ashton Dearholt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wolves-of-the-desert.html"
+}

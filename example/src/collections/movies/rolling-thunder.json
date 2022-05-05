@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rolling Thunder",
+    "year": 1977,
+    "cast": [
+      "William Devane",
+      "Tommy Lee Jones",
+      "James Best"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rolling-thunder.html"
+}

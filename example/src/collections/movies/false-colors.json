@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "False Colors",
+    "year": 1943,
+    "cast": [
+      "William Boyd",
+      "Andy Clyde"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/false-colors.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Tex Granger",
+    "year": 1948,
+    "cast": [
+      "Robert Kellard"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/tex-granger.html"
+}

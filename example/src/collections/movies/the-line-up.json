@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Line-Up",
+    "year": 1934,
+    "cast": [
+      "William Gargan",
+      "Marian Nixon",
+      "John Miljan"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-line-up.html"
+}

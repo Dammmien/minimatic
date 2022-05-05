@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Good Lie",
+    "year": 2014,
+    "cast": [
+      "Emmanuel Jal",
+      "Ger Duany",
+      "Reese Witherspoon",
+      "Corey Stoll"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-good-lie.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Martian Child",
+    "year": 2007,
+    "cast": [
+      "John Cusack",
+      "Bobby Coleman",
+      "Amanda Peet",
+      "Joan Cusack"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ]
+  },
+  "output": "movies/martian-child.html"
+}

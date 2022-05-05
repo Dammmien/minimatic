@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Chicago Cab",
+    "year": 1997,
+    "cast": [
+      "Paul Dillon",
+      "Gillian Anderson",
+      "John Cusack",
+      "Laurie Metcalf",
+      "Julianne Moore"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/chicago-cab.html"
+}

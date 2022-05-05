@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Zabriskie Point",
+    "year": 1970,
+    "cast": [
+      "Daria Halprin",
+      "G. D. Spradlin",
+      "Rod Taylor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/zabriskie-point.html"
+}

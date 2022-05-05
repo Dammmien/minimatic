@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Heart of the Rio Grande",
+    "year": 1942,
+    "cast": [
+      "Gene Autry",
+      "Fay McKenzie"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/heart-of-the-rio-grande.html"
+}

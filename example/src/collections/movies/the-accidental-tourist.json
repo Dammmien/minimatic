@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Accidental Tourist",
+    "year": 1988,
+    "cast": [
+      "William Hurt",
+      "Kathleen Turner",
+      "Geena Davis",
+      "Amy Wright",
+      "Bill Pullman",
+      "David Ogden Stiers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-accidental-tourist.html"
+}

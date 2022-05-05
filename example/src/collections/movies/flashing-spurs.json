@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flashing Spurs",
+    "year": 1924,
+    "cast": [
+      "Bob Custer",
+      "Marguerite Clayton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/flashing-spurs.html"
+}

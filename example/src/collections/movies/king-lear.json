@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "King Lear",
+    "year": 1987,
+    "cast": [
+      "Peter Sellars",
+      "Burgess Meredith",
+      "Molly Ringwald",
+      "Woody Allen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/king-lear.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Let's Kill Uncle",
+    "year": 1966,
+    "cast": [
+      "Nigel Green",
+      "Mary Badham"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/let-s-kill-uncle.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Red Heat",
+    "year": 1988,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "James Belushi",
+      "Ed O'Ross",
+      "Peter Boyle",
+      "Laurence Fishburne",
+      "Gina Gershon"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/red-heat.html"
+}

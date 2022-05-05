@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mrs. 'Arris Goes to Paris",
+    "year": 1992,
+    "cast": [
+      "Angela Lansbury",
+      "Diana Rigg"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mrs---arris-goes-to-paris.html"
+}

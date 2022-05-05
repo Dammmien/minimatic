@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Battleship",
+    "year": 2012,
+    "cast": [
+      "Taylor Kitsch",
+      "Liam Neeson",
+      "Alexander Skarsgård",
+      "Rihanna",
+      "Brooklyn Decker",
+      "Tadanobu Asano",
+      "Hamish Linklater",
+      "Jesse Plemons",
+      "John Tui",
+      "Gregory D. Gadson",
+      "Adam Godley",
+      "Peter MacNicol"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/battleship.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Big Broadcast of 1936",
+    "year": 1935,
+    "cast": [
+      "George Burns",
+      "Gracie Allen",
+      "Ethel Merman"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/the-big-broadcast-of-1936.html"
+}

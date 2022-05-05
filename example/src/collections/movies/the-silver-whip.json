@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Silver Whip",
+    "year": 1953,
+    "cast": [
+      "Dale Robertson",
+      "Rory Calhoun"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-silver-whip.html"
+}

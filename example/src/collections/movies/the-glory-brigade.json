@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Glory Brigade",
+    "year": 1953,
+    "cast": [
+      "Victor Mature",
+      "Richard Egan"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-glory-brigade.html"
+}

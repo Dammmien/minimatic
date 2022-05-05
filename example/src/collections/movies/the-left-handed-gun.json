@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Left Handed Gun",
+    "year": 1958,
+    "cast": [
+      "Paul Newman",
+      "Lita Milan",
+      "John Dehner"
+    ],
+    "genres": [
+      "Western",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-left-handed-gun.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Every Day",
+    "year": 2018,
+    "cast": [
+      "Angourie Rice",
+      "Maria Bello",
+      "Debby Ryan",
+      "Jacob Batalon",
+      "Justice Smith",
+      "Lucas Jade Zumann"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/every-day.html"
+}

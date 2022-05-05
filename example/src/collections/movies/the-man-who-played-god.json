@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man Who Played God",
+    "year": 1932,
+    "cast": [
+      "Bette Davis",
+      "George Arliss",
+      "Violet Heming"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-who-played-god.html"
+}

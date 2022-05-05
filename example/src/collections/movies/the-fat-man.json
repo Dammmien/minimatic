@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fat Man",
+    "year": 1951,
+    "cast": [
+      "Julie London",
+      "Rock Hudson"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-fat-man.html"
+}

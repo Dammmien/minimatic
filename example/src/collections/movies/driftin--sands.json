@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Driftin' Sands",
+    "year": 1928,
+    "cast": [
+      "Bob Steele",
+      "Nina Quartero"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/driftin--sands.html"
+}

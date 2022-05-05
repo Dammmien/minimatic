@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Big Town After Dark",
+    "year": 1947,
+    "cast": [
+      "Phillip Reed",
+      "Hillary Brooke"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/big-town-after-dark.html"
+}

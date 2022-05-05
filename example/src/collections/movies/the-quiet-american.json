@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Quiet American",
+    "year": 2002,
+    "cast": [
+      "Michael Caine",
+      "Brendan Fraser"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-quiet-american.html"
+}

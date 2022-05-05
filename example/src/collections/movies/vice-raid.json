@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Vice Raid",
+    "year": 1960,
+    "cast": [
+      "Mamie Van Doren",
+      "Richard Coogan"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/vice-raid.html"
+}

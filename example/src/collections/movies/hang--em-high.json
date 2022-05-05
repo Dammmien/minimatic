@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hang 'Em High",
+    "year": 1968,
+    "cast": [
+      "Clint Eastwood",
+      "Inger Stevens",
+      "Pat Hingle"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hang--em-high.html"
+}

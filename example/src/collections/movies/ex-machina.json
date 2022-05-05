@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ex Machina",
+    "year": 2015,
+    "cast": [
+      "Domhnall Gleeson",
+      "Alicia Vikander",
+      "Oscar Isaac"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ]
+  },
+  "output": "movies/ex-machina.html"
+}

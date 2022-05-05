@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "20 Mule Team",
+    "year": 1940,
+    "cast": [
+      "Wallace Beery",
+      "Leo Carrillo",
+      "Marjorie Rambeau",
+      "Anne Baxter"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/20-mule-team.html"
+}

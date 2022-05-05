@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Her Purchase Price",
+    "year": 1919,
+    "cast": [
+      "Bessie Barriscale",
+      "Alan Roscoe"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/her-purchase-price.html"
+}

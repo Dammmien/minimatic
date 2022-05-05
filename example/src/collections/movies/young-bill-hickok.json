@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Young Bill Hickok",
+    "year": 1940,
+    "cast": [
+      "Roy Rogers",
+      "Sally Payne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/young-bill-hickok.html"
+}

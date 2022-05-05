@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flame of the Argentine",
+    "year": 1926,
+    "cast": [
+      "Evelyn Brent",
+      "Orville Caldwell"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/flame-of-the-argentine.html"
+}

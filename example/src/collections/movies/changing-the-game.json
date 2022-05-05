@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Changing the Game",
+    "year": 2012,
+    "cast": [
+      "Tony Todd",
+      "Sean Riggs",
+      "Irma P. Hall",
+      "Sticky Fingaz",
+      "Brandon Ruckdashel",
+      "Dennis L.A. White"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/changing-the-game.html"
+}

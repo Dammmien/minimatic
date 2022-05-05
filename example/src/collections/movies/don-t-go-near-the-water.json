@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Don't Go Near the Water",
+    "year": 1957,
+    "cast": [
+      "Glenn Ford",
+      "Gia Scala",
+      "Earl Holliman",
+      "Anne Francis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/don-t-go-near-the-water.html"
+}

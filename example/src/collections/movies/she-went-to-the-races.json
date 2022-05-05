@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "She Went to the Races",
+    "year": 1945,
+    "cast": [
+      "James Craig",
+      "Frances Gifford",
+      "Ava Gardner",
+      "Edmund Gwenn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-went-to-the-races.html"
+}

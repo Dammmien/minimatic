@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "They Stooge to Conga",
+    "year": 1943,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/they-stooge-to-conga.html"
+}

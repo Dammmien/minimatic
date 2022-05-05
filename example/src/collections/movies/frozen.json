@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Frozen",
+    "year": 2013,
+    "cast": [
+      "Kristen Bell",
+      "Idina Menzel",
+      "Jonathan Groff"
+    ],
+    "genres": [
+      "Animated",
+      "Fantasy",
+      "Musical"
+    ]
+  },
+  "output": "movies/frozen.html"
+}

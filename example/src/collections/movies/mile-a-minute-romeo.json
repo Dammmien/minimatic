@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mile-a-Minute Romeo",
+    "year": 1923,
+    "cast": [
+      "Tom Mix",
+      "James Mason"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/mile-a-minute-romeo.html"
+}

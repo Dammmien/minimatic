@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Micki and Maude",
+    "year": 1984,
+    "cast": [
+      "Dudley Moore",
+      "Ann Reinking",
+      "Amy Irving"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/micki-and-maude.html"
+}

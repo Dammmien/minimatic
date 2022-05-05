@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Moccasins",
+    "year": 1925,
+    "cast": [
+      "Bill Cody",
+      "Peggy O'Day"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/moccasins.html"
+}

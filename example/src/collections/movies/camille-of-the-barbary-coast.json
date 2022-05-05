@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Camille of the Barbary Coast",
+    "year": 1925,
+    "cast": [
+      "Mae Busch",
+      "Owen Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/camille-of-the-barbary-coast.html"
+}

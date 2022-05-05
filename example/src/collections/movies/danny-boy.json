@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Danny Boy",
+    "year": 1946,
+    "cast": [
+      "Charles Bates",
+      "Ace the Wonder Dog"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/danny-boy.html"
+}

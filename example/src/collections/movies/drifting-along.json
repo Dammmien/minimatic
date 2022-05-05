@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Drifting Along",
+    "year": 1946,
+    "cast": [
+      "Johnny Mack Brown",
+      "Lynne Carver",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/drifting-along.html"
+}

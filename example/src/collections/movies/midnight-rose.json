@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Midnight Rose",
+    "year": 1928,
+    "cast": [
+      "Lya De Putti",
+      "Kenneth Harlan"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/midnight-rose.html"
+}

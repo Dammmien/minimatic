@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ladies Courageous",
+    "year": 1944,
+    "cast": [
+      "Loretta Young",
+      "Diana Barrymore",
+      "Anne Gwynne",
+      "Geraldine Fitzgerald"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/ladies-courageous.html"
+}

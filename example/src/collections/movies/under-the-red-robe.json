@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Under the Red Robe",
+    "year": 1937,
+    "cast": [
+      "Conrad Veidt",
+      "Raymond Massey",
+      "Annabella"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/under-the-red-robe.html"
+}

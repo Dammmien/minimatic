@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Mixed Nuts",
+    "year": 1994,
+    "cast": [
+      "Steve Martin",
+      "Madeline Kahn",
+      "Rita Wilson",
+      "Liev Schrieber",
+      "Juliette Lewis",
+      "Anthony LaPaglia",
+      "Adam Sandler"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mixed-nuts.html"
+}

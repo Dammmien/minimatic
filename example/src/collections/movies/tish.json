@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tish",
+    "year": 1942,
+    "cast": [
+      "ZaSu Pitts",
+      "Marjorie Main"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tish.html"
+}

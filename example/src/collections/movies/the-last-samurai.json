@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Last Samurai",
+    "year": 2003,
+    "cast": [
+      "Tom Cruise",
+      "Ken Watanabe",
+      "Timothy Spall",
+      "Billy Connolly"
+    ],
+    "genres": [
+      "Action",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-last-samurai.html"
+}

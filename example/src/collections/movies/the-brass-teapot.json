@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Brass Teapot",
+    "year": 2013,
+    "cast": [
+      "Juno Temple",
+      "Michael Angarano",
+      "Alexis Bledel",
+      "Alia Shawkat",
+      "Bobby Moynihan",
+      "Ben Rappaport",
+      "Billy Magnussen"
+    ],
+    "genres": [
+      "Fantasy",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-brass-teapot.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Big Town Scandal",
+    "year": 1948,
+    "cast": [
+      "Hillary Brooke",
+      "Phillip Reed"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/big-town-scandal.html"
+}

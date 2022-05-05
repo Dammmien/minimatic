@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Marvin's Room",
+    "year": 1996,
+    "cast": [
+      "Meryl Streep",
+      "Diane Keaton",
+      "Leonardo DiCaprio",
+      "Robert De Niro"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/marvin-s-room.html"
+}

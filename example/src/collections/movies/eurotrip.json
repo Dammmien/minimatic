@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "EuroTrip",
+    "year": 2004,
+    "cast": [
+      "Scott Mechlowicz",
+      "Jacob Pitts",
+      "Matt Damon",
+      "Michelle Trachtenberg"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/eurotrip.html"
+}

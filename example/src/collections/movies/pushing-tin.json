@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Pushing Tin",
+    "year": 1999,
+    "cast": [
+      "John Cusack",
+      "Billy Bob Thornton",
+      "Cate Blanchett",
+      "Angelina Jolie"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/pushing-tin.html"
+}

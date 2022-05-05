@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Crashing Hollywood",
+    "year": 1938,
+    "cast": [
+      "Lee Tracy",
+      "Joan Woodbury",
+      "Lee Patrick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/crashing-hollywood.html"
+}

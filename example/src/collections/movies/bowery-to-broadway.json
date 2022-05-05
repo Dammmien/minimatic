@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bowery to Broadway",
+    "year": 1944,
+    "cast": [
+      "Maria Montez",
+      "Jack Oakie",
+      "Susanna Foster"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bowery-to-broadway.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Good Night",
+    "year": 2007,
+    "cast": [
+      "Penélope Cruz",
+      "Gwyneth Paltrow",
+      "Danny DeVito"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-good-night.html"
+}

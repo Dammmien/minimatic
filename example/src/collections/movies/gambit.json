@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Gambit",
+    "year": 2012,
+    "cast": [
+      "Colin Firth",
+      "Cameron Diaz",
+      "Alan Rickman",
+      "Tom Courtenay",
+      "Stanley Tucci"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gambit.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fair Lady",
+    "year": 1922,
+    "cast": [
+      "Betty Blythe",
+      "Thurston Hall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fair-lady.html"
+}

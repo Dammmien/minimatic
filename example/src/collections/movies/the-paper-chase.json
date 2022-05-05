@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Paper Chase",
+    "year": 1973,
+    "cast": [
+      "Timothy Bottoms",
+      "Lindsay Wagner",
+      "John Houseman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-paper-chase.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Meet Boston Blackie",
+    "year": 1941,
+    "cast": [
+      "Chester Morris",
+      "Rochelle Hudson"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/meet-boston-blackie.html"
+}

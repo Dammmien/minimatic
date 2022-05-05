@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Big Fat Liar",
+    "year": 2002,
+    "cast": [
+      "Frankie Muniz",
+      "Paul Giamatti",
+      "Amanda Bynes"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/big-fat-liar.html"
+}

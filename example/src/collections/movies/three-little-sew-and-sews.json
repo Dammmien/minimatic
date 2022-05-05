@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Little Sew and Sews",
+    "year": 1939,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/three-little-sew-and-sews.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Muppet Treasure Island",
+    "year": 1996,
+    "cast": [
+      "Tim Curry",
+      "Jennifer Saunders",
+      "Kevin Bishop"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/muppet-treasure-island.html"
+}

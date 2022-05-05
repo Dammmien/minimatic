@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Shoot the Works",
+    "year": 1934,
+    "cast": [
+      "Jack Oakie",
+      "Ben Bernie",
+      "Dorothy Dell"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/shoot-the-works.html"
+}

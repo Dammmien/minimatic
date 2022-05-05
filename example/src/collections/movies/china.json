@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "China",
+    "year": 1943,
+    "cast": [
+      "Loretta Young",
+      "Alan Ladd",
+      "William Bendix"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/china.html"
+}

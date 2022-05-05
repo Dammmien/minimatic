@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love Me and the World Is Mine",
+    "year": 1928,
+    "cast": [
+      "Mary Philbin",
+      "Betty Compson"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/love-me-and-the-world-is-mine.html"
+}

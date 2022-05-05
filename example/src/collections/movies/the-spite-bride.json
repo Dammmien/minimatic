@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Spite Bride",
+    "year": 1919,
+    "cast": [
+      "Olive Thomas",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-spite-bride.html"
+}

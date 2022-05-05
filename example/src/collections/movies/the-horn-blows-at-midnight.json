@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Horn Blows at Midnight",
+    "year": 1945,
+    "cast": [
+      "Jack Benny",
+      "Alexis Smith"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-horn-blows-at-midnight.html"
+}

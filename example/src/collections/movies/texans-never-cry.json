@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Texans Never Cry",
+    "year": 1951,
+    "cast": [
+      "Gene Autry",
+      "Mary Castle"
+    ],
+    "genres": []
+  },
+  "output": "movies/texans-never-cry.html"
+}

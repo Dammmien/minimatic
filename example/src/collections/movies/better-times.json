@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Better Times",
+    "year": 1919,
+    "cast": [
+      "David Butler",
+      "ZaSu Pitts"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/better-times.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sorority Girl",
+    "year": 1957,
+    "cast": [
+      "Susan Cabot",
+      "June Kenney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sorority-girl.html"
+}

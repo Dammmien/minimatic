@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Deceived",
+    "year": 1991,
+    "cast": [
+      "Goldie Hawn",
+      "John Heard"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/deceived.html"
+}

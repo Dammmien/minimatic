@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Experiment Alcatraz",
+    "year": 1950,
+    "cast": [
+      "Joan Dixon",
+      "John Howard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/experiment-alcatraz.html"
+}

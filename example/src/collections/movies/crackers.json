@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Crackers",
+    "year": 1984,
+    "cast": [
+      "Donald Sutherland",
+      "Jack Warden",
+      "Sean Penn"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/crackers.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That Man from Tangier",
+    "year": 1953,
+    "cast": [
+      "Roland Young",
+      "Nancy Coleman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/that-man-from-tangier.html"
+}

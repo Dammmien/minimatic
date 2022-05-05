@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paid to Dance",
+    "year": 1937,
+    "cast": [
+      "Don Terry",
+      "Jacqueline Wells",
+      "Rita Hayworth"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/paid-to-dance.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mike's Murder",
+    "year": 1984,
+    "cast": [
+      "Debra Winger",
+      "Mark Keyloun"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mike-s-murder.html"
+}

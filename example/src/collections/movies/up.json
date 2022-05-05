@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Up",
+    "year": 2009,
+    "cast": [
+      "Edward Asner",
+      "Jordan Nagai",
+      "Paul Eiding",
+      "Christopher Plummer",
+      "Bob Peterson"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/up.html"
+}

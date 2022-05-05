@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Music of Chance",
+    "year": 1993,
+    "cast": [
+      "James Spader",
+      "Mandy Patinkin",
+      "Charles Durning",
+      "Joel Grey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-music-of-chance.html"
+}

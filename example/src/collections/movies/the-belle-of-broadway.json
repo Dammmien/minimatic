@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Belle of Broadway",
+    "year": 1926,
+    "cast": [
+      "Betty Compson",
+      "Herbert Rawlinson"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-belle-of-broadway.html"
+}

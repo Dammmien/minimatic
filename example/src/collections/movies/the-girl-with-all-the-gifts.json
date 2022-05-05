@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Girl with All the Gifts",
+    "year": 2017,
+    "cast": [
+      "Gemma Arterton",
+      "Glenn Close",
+      "Paddy Considine",
+      "Sennia Nanua"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-girl-with-all-the-gifts.html"
+}

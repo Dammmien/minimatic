@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Disputed Passage",
+    "year": 1939,
+    "cast": [
+      "Dorothy Lamour",
+      "Akim Tamiroff"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/disputed-passage.html"
+}

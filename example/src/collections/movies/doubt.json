@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Doubt",
+    "year": 2008,
+    "cast": [
+      "Meryl Streep",
+      "Philip Seymour Hoffman",
+      "Amy Adams",
+      "Viola Davis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/doubt.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Next Friday",
+    "year": 2000,
+    "cast": [
+      "Ice Cube",
+      "Mike Epps",
+      "Don Curry"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/next-friday.html"
+}

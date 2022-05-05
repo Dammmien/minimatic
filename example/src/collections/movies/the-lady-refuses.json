@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lady Refuses",
+    "year": 1931,
+    "cast": [
+      "Betty Compson",
+      "John Darrow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lady-refuses.html"
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Steel Magnolias",
+    "year": 1989,
+    "cast": [
+      "Sally Field",
+      "Dolly Parton",
+      "Shirley MacLaine",
+      "Daryl Hannah",
+      "Olympia Dukakis",
+      "Julia Roberts",
+      "Tom Skerritt",
+      "Dylan McDermott",
+      "Kevin J. O'Connor",
+      "Sam Shepard"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/steel-magnolias.html"
+}

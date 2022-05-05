@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Red Zone Cuba",
+    "year": 1966,
+    "cast": [
+      "John Carradine",
+      "Anthony Cardoza"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/red-zone-cuba.html"
+}

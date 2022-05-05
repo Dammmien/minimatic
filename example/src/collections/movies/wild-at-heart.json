@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Wild at Heart",
+    "year": 1990,
+    "cast": [
+      "Nicolas Cage",
+      "Laura Dern",
+      "Diane Ladd",
+      "Willem Dafoe",
+      "Harry Dean Stanton",
+      "Isabella Rossellini"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wild-at-heart.html"
+}

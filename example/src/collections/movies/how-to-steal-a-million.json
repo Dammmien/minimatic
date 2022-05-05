@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "How to Steal a Million",
+    "year": 1966,
+    "cast": [
+      "Audrey Hepburn",
+      "Peter O'Toole"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/how-to-steal-a-million.html"
+}

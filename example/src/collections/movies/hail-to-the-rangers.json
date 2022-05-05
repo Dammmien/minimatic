@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hail to the Rangers",
+    "year": 1943,
+    "cast": [
+      "Charles Starrett",
+      "Arthur Hunnicutt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hail-to-the-rangers.html"
+}

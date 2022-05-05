@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Invasion U.S.A.",
+    "year": 1985,
+    "cast": [
+      "Chuck Norris",
+      "Richard Lynch"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/invasion-u-s-a-.html"
+}

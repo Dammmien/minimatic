@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mad Love",
+    "year": 1995,
+    "cast": [
+      "Chris O'Donnell",
+      "Drew Barrymore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mad-love.html"
+}

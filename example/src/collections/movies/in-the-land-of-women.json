@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "In the Land of Women",
+    "year": 2007,
+    "cast": [
+      "Adam Brody",
+      "Kristen Stewart",
+      "Meg Ryan",
+      "Olympia Dukakis",
+      "Makenzie Vega"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/in-the-land-of-women.html"
+}

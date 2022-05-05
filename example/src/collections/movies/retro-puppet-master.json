@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Retro Puppet Master",
+    "year": 1999,
+    "cast": [
+      "Greg Sestero",
+      "Brigitta Dau",
+      "Jack Donner"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/retro-puppet-master.html"
+}

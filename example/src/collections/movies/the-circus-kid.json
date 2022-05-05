@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Circus Kid",
+    "year": 1928,
+    "cast": [
+      "Frankie Darro",
+      "Joe E. Brown"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-circus-kid.html"
+}

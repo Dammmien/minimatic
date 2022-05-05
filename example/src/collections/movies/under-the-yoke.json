@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Under the Yoke",
+    "year": 1918,
+    "cast": [
+      "Theda Bara",
+      "G. Raymond Nye"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/under-the-yoke.html"
+}

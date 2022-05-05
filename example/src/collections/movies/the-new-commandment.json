@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The New Commandment",
+    "year": 1925,
+    "cast": [
+      "Blanche Sweet",
+      "Ben Lyon"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-new-commandment.html"
+}

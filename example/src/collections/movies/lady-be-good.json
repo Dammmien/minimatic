@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Lady Be Good",
+    "year": 1941,
+    "cast": [
+      "Eleanor Powell",
+      "Ann Sothern",
+      "Robert Young",
+      "Virginia O'Brien",
+      "Red Skelton",
+      "Phil Silvers"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/lady-be-good.html"
+}

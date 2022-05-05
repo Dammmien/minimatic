@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ring of Destiny",
+    "year": 1915,
+    "cast": [
+      "Cleo Madison",
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-ring-of-destiny.html"
+}

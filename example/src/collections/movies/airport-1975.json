@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Airport 1975",
+    "year": 1974,
+    "cast": [
+      "Charlton Heston",
+      "Karen Black",
+      "Gloria Swanson",
+      "George Kennedy",
+      "Susan Clark",
+      "Efrem Zimbalist, Jr.",
+      "Linda Blair",
+      "Sid Caesar",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Disaster"
+    ]
+  },
+  "output": "movies/airport-1975.html"
+}

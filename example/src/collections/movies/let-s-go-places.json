@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Let's Go Places",
+    "year": 1930,
+    "cast": [
+      "Joseph Wagstaff",
+      "Lola Lane"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/let-s-go-places.html"
+}

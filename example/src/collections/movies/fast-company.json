@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fast Company",
+    "year": 1953,
+    "cast": [
+      "Howard Keel",
+      "Polly Bergen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fast-company.html"
+}

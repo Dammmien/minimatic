@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Space Ship Sappy",
+    "year": 1957,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/space-ship-sappy.html"
+}

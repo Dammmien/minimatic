@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chinatown Charlie",
+    "year": 1928,
+    "cast": [
+      "Louise Lorraine",
+      "Harry Gribbon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/chinatown-charlie.html"
+}

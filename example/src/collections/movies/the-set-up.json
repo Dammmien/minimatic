@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Set-Up",
+    "year": 1995,
+    "cast": [
+      "Billy Zane",
+      "Mia Sara",
+      "James Coburn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-set-up.html"
+}

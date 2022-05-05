@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lawless Breed",
+    "year": 1953,
+    "cast": [
+      "Rock Hudson",
+      "Julie Adams",
+      "Hugh O'Brian"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-lawless-breed.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Young Guns",
+    "year": 1988,
+    "cast": [
+      "Emilio Estevez",
+      "Kiefer Sutherland",
+      "Charlie Sheen",
+      "Lou Diamond Phillips",
+      "Dermot Mulroney",
+      "Casey Siemaszko"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/young-guns.html"
+}

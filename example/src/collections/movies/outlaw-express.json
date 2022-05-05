@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Outlaw Express",
+    "year": 1938,
+    "cast": [
+      "Bob Baker",
+      "Don Barclay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/outlaw-express.html"
+}

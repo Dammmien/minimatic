@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Professor Beware",
+    "year": 1938,
+    "cast": [
+      "Harold Lloyd",
+      "Phyllis Welch",
+      "Lionel Stander"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/professor-beware.html"
+}

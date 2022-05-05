@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Life of Her Own",
+    "year": 1950,
+    "cast": [
+      "Lana Turner",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-life-of-her-own.html"
+}

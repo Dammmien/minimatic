@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tenth Avenue Kid",
+    "year": 1938,
+    "cast": [
+      "Bruce Cabot",
+      "Beverly Roberts",
+      "Horace McMahon"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/tenth-avenue-kid.html"
+}

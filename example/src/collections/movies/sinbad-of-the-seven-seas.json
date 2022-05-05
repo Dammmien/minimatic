@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sinbad of the Seven Seas",
+    "year": 1989,
+    "cast": [
+      "Lou Ferrigno",
+      "John Steiner"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/sinbad-of-the-seven-seas.html"
+}

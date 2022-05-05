@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Boss of Boomtown",
+    "year": 1944,
+    "cast": [
+      "Rod Cameron",
+      "Tom Tyler",
+      "Fuzzy Knight"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/boss-of-boomtown.html"
+}

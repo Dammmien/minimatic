@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Babbitt",
+    "year": 1934,
+    "cast": [
+      "Aline MacMahon",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/babbitt.html"
+}

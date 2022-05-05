@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Pain & Gain",
+    "year": 2013,
+    "cast": [
+      "Mark Wahlberg",
+      "Dwayne Johnson",
+      "Anthony Mackie",
+      "Tony Shalhoub",
+      "Ed Harris"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/pain---gain.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Revenue Agent",
+    "year": 1950,
+    "cast": [
+      "Lyle Talbot",
+      "Jean Willes"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/revenue-agent.html"
+}

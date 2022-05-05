@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bar 20 Rides Again",
+    "year": 1935,
+    "cast": [
+      "William Boyd",
+      "Jean Rouverol"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bar-20-rides-again.html"
+}

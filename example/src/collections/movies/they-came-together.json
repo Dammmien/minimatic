@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "They Came Together",
+    "year": 2014,
+    "cast": [
+      "Paul Rudd",
+      "Amy Poehler",
+      "Cobie Smulders",
+      "Christopher Meloni"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/they-came-together.html"
+}

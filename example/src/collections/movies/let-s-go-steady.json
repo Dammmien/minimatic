@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Let's Go Steady",
+    "year": 1945,
+    "cast": [
+      "Jackie Moran",
+      "June Preisser"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/let-s-go-steady.html"
+}

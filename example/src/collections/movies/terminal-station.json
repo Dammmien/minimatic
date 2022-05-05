@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Terminal Station",
+    "year": 1953,
+    "cast": [
+      "Jennifer Jones",
+      "Montgomery Clift"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/terminal-station.html"
+}

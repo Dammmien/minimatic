@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Half a Hero",
+    "year": 1953,
+    "cast": [
+      "Red Skelton",
+      "Jean Hagen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/half-a-hero.html"
+}

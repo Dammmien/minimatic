@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Josh and S.A.M.",
+    "year": 1993,
+    "cast": [
+      "Jacob Tierney",
+      "Noah Fleiss",
+      "Martha Plimpton",
+      "Joan Allen",
+      "Stephen Tobolowsky"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/josh-and-s-a-m-.html"
+}

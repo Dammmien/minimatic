@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That Navy Spirit",
+    "year": 1937,
+    "cast": [
+      "Lew Ayres",
+      "Mary Carlisle"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/that-navy-spirit.html"
+}

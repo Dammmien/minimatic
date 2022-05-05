@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Carnal Knowledge",
+    "year": 1971,
+    "cast": [
+      "Jack Nicholson",
+      "Ann-Margret",
+      "Art Garfunkel",
+      "Candice Bergen",
+      "Rita Moreno"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/carnal-knowledge.html"
+}

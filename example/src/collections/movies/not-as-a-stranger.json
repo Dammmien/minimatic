@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Not as a Stranger",
+    "year": 1955,
+    "cast": [
+      "Robert Mitchum",
+      "Frank Sinatra"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/not-as-a-stranger.html"
+}

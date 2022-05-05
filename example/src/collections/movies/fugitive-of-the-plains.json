@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fugitive of the Plains",
+    "year": 1943,
+    "cast": [
+      "Buster Crabbe",
+      "Kermit Maynard"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fugitive-of-the-plains.html"
+}

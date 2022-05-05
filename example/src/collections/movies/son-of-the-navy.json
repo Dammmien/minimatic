@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Son of the Navy",
+    "year": 1940,
+    "cast": [
+      "Jean Parker",
+      "James Dunn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/son-of-the-navy.html"
+}

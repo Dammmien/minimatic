@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Spook Who Sat By the Door",
+    "year": 1973,
+    "cast": [
+      "Lawrence Cook",
+      "J. A. Preston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-spook-who-sat-by-the-door.html"
+}

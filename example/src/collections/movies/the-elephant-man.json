@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Elephant Man",
+    "year": 1980,
+    "cast": [
+      "Anthony Hopkins",
+      "John Hurt",
+      "Anne Bancroft"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-elephant-man.html"
+}

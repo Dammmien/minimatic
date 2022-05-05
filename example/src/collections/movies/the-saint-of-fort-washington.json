@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Saint of Fort Washington",
+    "year": 1993,
+    "cast": [
+      "Danny Glover",
+      "Matt Dillon",
+      "Rick Aviles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-saint-of-fort-washington.html"
+}

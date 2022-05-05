@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fanny Foley Herself",
+    "year": 1931,
+    "cast": [
+      "Edna May Oliver",
+      "Helen Chandler"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/fanny-foley-herself.html"
+}

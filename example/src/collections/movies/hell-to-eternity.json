@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hell to Eternity",
+    "year": 1960,
+    "cast": [
+      "Jeffrey Hunter",
+      "David Janssen",
+      "Vic Damone"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/hell-to-eternity.html"
+}

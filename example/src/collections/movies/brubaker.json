@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brubaker",
+    "year": 1980,
+    "cast": [
+      "Robert Redford",
+      "Jane Alexander",
+      "Yaphet Kotto"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/brubaker.html"
+}

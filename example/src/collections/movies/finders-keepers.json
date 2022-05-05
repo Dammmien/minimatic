@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Finders Keepers",
+    "year": 1984,
+    "cast": [
+      "Michael O'Keefe",
+      "Louis Gossett, Jr.",
+      "Beverly D'Angelo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/finders-keepers.html"
+}

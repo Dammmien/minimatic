@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "World Without End",
+    "year": 1956,
+    "cast": [
+      "Hugh Marlowe",
+      "Nancy Gates"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/world-without-end.html"
+}

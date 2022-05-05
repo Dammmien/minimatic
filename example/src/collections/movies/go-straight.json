@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Go Straight",
+    "year": 1925,
+    "cast": [
+      "Owen Moore",
+      "Mary Carr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/go-straight.html"
+}

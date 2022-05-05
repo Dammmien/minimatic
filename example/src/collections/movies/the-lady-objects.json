@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lady Objects",
+    "year": 1938,
+    "cast": [
+      "Gloria Stuart",
+      "Lanny Ross",
+      "Joan Marsh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lady-objects.html"
+}

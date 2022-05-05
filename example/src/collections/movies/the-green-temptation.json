@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Green Temptation",
+    "year": 1922,
+    "cast": [
+      "Betty Compson",
+      "Theodore Kosloff"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-green-temptation.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love, Honor, and Behave",
+    "year": 1920,
+    "cast": [
+      "Ford Sterling",
+      "Charlie Murray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love--honor--and-behave.html"
+}

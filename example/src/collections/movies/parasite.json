@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Parasite",
+    "year": 1982,
+    "cast": [
+      "Demi Moore",
+      "Robert Glaudini"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/parasite.html"
+}

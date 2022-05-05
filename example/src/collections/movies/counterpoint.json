@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Counterpoint",
+    "year": 1968,
+    "cast": [
+      "Charlton Heston",
+      "Maximilian Schell"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/counterpoint.html"
+}

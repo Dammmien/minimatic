@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pink Cadillac",
+    "year": 1989,
+    "cast": [
+      "Clint Eastwood",
+      "Bernadette Peters"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pink-cadillac.html"
+}

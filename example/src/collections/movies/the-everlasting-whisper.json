@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Everlasting Whisper",
+    "year": 1925,
+    "cast": [
+      "Tom Mix",
+      "Alice Calhoun"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-everlasting-whisper.html"
+}

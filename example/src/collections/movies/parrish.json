@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Parrish",
+    "year": 1961,
+    "cast": [
+      "Troy Donahue",
+      "Claudette Colbert",
+      "Karl Malden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/parrish.html"
+}

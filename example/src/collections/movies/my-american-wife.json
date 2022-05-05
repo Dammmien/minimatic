@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My American Wife",
+    "year": 1936,
+    "cast": [
+      "Francis Lederer",
+      "Ann Sothern",
+      "Billie Burke"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-american-wife.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Season of Miracles",
+    "year": 2013,
+    "cast": [
+      "John Schneider",
+      "Grayson Russell",
+      "Andrew Wilson Williams",
+      "Nancy Stafford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/season-of-miracles.html"
+}

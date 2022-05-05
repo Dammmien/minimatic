@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wreck of the Hesperus",
+    "year": 1948,
+    "cast": [
+      "Patricia Barry",
+      "Willard Parker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wreck-of-the-hesperus.html"
+}

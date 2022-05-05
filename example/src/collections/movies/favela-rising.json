@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Favela Rising",
+    "year": 2005,
+    "cast": [
+      "the life in a",
+      "favela"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/favela-rising.html"
+}

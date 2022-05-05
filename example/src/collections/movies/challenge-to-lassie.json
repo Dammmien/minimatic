@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Challenge to Lassie",
+    "year": 1949,
+    "cast": [
+      "Donald Crisp",
+      "Edmund Gwenn",
+      "Geraldine Brook",
+      "Reginald Owen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/challenge-to-lassie.html"
+}

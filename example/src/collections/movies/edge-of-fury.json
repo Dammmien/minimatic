@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Edge of Fury",
+    "year": 1958,
+    "cast": [
+      "Michael Higgins",
+      "Jean Allison"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/edge-of-fury.html"
+}

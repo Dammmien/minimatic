@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Road to Paradise",
+    "year": 1930,
+    "cast": [
+      "Loretta Young",
+      "Jack Mulhall",
+      "George Barraud"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/road-to-paradise.html"
+}

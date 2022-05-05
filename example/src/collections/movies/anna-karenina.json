@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Anna Karenina",
+    "year": 1997,
+    "cast": [
+      "Sophie Marceau",
+      "Sean Bean"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/anna-karenina.html"
+}

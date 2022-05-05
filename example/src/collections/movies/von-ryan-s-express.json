@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Von Ryan's Express",
+    "year": 1965,
+    "cast": [
+      "Frank Sinatra",
+      "Trevor Howard"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/von-ryan-s-express.html"
+}

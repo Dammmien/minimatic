@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flying Leathernecks",
+    "year": 1951,
+    "cast": [
+      "John Wayne",
+      "Robert Ryan"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/flying-leathernecks.html"
+}

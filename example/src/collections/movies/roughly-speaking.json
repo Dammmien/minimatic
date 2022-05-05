@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Roughly Speaking",
+    "year": 1945,
+    "cast": [
+      "Rosalind Russell",
+      "Jack Carson"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/roughly-speaking.html"
+}

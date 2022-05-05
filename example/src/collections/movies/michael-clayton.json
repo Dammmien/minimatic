@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Michael Clayton",
+    "year": 2007,
+    "cast": [
+      "George Clooney",
+      "Tom Wilkinson",
+      "Tilda Swinton",
+      "Sydney Pollack",
+      "Michael O'Keefe",
+      "Merritt Weaver",
+      "Ken Howard"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/michael-clayton.html"
+}

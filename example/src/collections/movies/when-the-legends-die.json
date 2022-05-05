@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When the Legends Die",
+    "year": 1972,
+    "cast": [
+      "Richard Widmark",
+      "Frederic Forrest"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/when-the-legends-die.html"
+}

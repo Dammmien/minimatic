@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Grand Canary",
+    "year": 1934,
+    "cast": [
+      "Warner Baxter",
+      "Madge Evans"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/grand-canary.html"
+}

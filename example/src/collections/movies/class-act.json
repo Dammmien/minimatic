@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Class Act",
+    "year": 1992,
+    "cast": [
+      "Kid 'n Play"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/class-act.html"
+}

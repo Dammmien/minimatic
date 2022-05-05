@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Phantom Stagecoach",
+    "year": 1957,
+    "cast": [
+      "William Bishop",
+      "Kathleen Crowley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-phantom-stagecoach.html"
+}

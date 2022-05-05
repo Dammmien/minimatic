@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Robin Hood Daffy",
+    "year": 1958,
+    "cast": [
+      "Daffy Duck"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/robin-hood-daffy.html"
+}

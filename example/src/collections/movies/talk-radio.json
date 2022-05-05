@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Talk Radio",
+    "year": 1988,
+    "cast": [
+      "Eric Bogosian",
+      "Alec Baldwin",
+      "Ellen Greene"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/talk-radio.html"
+}

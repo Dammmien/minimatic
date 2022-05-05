@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ride the High Iron",
+    "year": 1956,
+    "cast": [
+      "Don Taylor",
+      "Sally Forrest",
+      "Raymond Burr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ride-the-high-iron.html"
+}

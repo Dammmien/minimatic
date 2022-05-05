@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riders of the Lone Star",
+    "year": 1947,
+    "cast": [
+      "Charles Starrett",
+      "Smiley Burnette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/riders-of-the-lone-star.html"
+}

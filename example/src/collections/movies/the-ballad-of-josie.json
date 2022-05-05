@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Ballad of Josie",
+    "year": 1967,
+    "cast": [
+      "Doris Day",
+      "Peter Graves",
+      "George Kennedy"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ballad-of-josie.html"
+}

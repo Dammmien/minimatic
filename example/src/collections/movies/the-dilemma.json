@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Dilemma",
+    "year": 2011,
+    "cast": [
+      "Vince Vaughn",
+      "Kevin James",
+      "Jennifer Connelly",
+      "Winona Ryder",
+      "Channing Tatum",
+      "Queen Latifah"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-dilemma.html"
+}

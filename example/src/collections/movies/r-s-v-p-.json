@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "R.S.V.P.",
+    "year": 2002,
+    "cast": [
+      "Rick Otto",
+      "Lucas Babin",
+      "Glenn Quinn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/r-s-v-p-.html"
+}

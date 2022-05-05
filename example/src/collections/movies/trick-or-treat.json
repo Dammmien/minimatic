@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Trick or Treat",
+    "year": 1986,
+    "cast": [
+      "Marc Price",
+      "Gene Simmons",
+      "Ozzy Osbourne"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/trick-or-treat.html"
+}

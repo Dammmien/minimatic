@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Insurgents",
+    "year": 2006,
+    "cast": [
+      "John Shea",
+      "Mary Stuart Masterson",
+      "Juliette Marquis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-insurgents.html"
+}

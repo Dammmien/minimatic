@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That's My Baby",
+    "year": 1926,
+    "cast": [
+      "Douglas MacLean",
+      "Margaret Morris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-s-my-baby.html"
+}

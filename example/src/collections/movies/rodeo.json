@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rodeo",
+    "year": 1952,
+    "cast": [
+      "Jane Nigh",
+      "John Archer",
+      "Wallace Ford"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/rodeo.html"
+}

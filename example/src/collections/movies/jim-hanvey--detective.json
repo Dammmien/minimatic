@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jim Hanvey, Detective",
+    "year": 1937,
+    "cast": [
+      "Guy Kibbee",
+      "Tom Brown",
+      "Catherine Doucet"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/jim-hanvey--detective.html"
+}

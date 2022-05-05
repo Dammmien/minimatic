@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Steel Helmet",
+    "year": 1951,
+    "cast": [
+      "Gene Evans",
+      "Steve Brodie"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-steel-helmet.html"
+}

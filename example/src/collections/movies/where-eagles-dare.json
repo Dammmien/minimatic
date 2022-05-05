@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Where Eagles Dare",
+    "year": 1968,
+    "cast": [
+      "Clint Eastwood",
+      "Richard Burton"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/where-eagles-dare.html"
+}

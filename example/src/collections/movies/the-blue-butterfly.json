@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Blue Butterfly",
+    "year": 2004,
+    "cast": [
+      "William Hurt",
+      "Pascale Bussières",
+      "Marc Donato"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-blue-butterfly.html"
+}

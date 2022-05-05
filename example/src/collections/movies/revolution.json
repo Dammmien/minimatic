@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Revolution",
+    "year": 1985,
+    "cast": [
+      "Al Pacino",
+      "Nastassja Kinski",
+      "Donald Sutherland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/revolution.html"
+}

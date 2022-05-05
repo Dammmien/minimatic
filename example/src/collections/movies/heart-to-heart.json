@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Heart to Heart",
+    "year": 1928,
+    "cast": [
+      "Mary Astor",
+      "Lloyd Hughes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/heart-to-heart.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mr. 3000",
+    "year": 2004,
+    "cast": [
+      "Bernie Mac",
+      "Angela Bassett",
+      "Paul Sorvino",
+      "Chris Noth"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--3000.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "No One Man",
+    "year": 1932,
+    "cast": [
+      "Carole Lombard",
+      "Ricardo Cortez",
+      "Paul Lukas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/no-one-man.html"
+}

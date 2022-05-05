@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Enough",
+    "year": 2002,
+    "cast": [
+      "Jennifer Lopez",
+      "Billy Campbell",
+      "Juliette Lewis",
+      "Noah Wyle"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/enough.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Give My Regards to Broadway",
+    "year": 1948,
+    "cast": [
+      "Dan Dailey",
+      "Fay Bainter"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/give-my-regards-to-broadway.html"
+}

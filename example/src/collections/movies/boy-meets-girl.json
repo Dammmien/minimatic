@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Boy Meets Girl",
+    "year": 1938,
+    "cast": [
+      "James Cagney",
+      "Pat O'Brien",
+      "Marie Wilson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/boy-meets-girl.html"
+}

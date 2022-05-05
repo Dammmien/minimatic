@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Man in the Sombrero",
+    "year": 1916,
+    "cast": [
+      "Harold Lockwood",
+      "May Allison",
+      "William Stowell"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-in-the-sombrero.html"
+}

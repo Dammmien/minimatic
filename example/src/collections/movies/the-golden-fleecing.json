@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Golden Fleecing",
+    "year": 1940,
+    "cast": [
+      "Lew Ayres",
+      "Rita Johnson",
+      "Lloyd Nolan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-golden-fleecing.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Smilin' Kid",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-smilin--kid.html"
+}

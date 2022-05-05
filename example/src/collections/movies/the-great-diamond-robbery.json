@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Diamond Robbery",
+    "year": 1954,
+    "cast": [
+      "Red Skelton",
+      "James Whitmore",
+      "Cara Williams"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-great-diamond-robbery.html"
+}

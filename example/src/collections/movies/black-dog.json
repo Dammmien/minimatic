@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Black Dog",
+    "year": 1998,
+    "cast": [
+      "Patrick Swayze",
+      "Charles S. Dutton",
+      "Randy Travis",
+      "Gabriel Casseus",
+      "Meat Loaf"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/black-dog.html"
+}

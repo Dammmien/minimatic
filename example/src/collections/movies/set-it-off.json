@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Set It Off",
+    "year": 1996,
+    "cast": [
+      "Jada Pinkett",
+      "Queen Latifah",
+      "Vivica A. Fox",
+      "Kimberly Elise",
+      "Blair Underwood"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/set-it-off.html"
+}

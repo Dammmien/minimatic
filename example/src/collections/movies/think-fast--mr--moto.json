@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Think Fast, Mr. Moto",
+    "year": 1937,
+    "cast": [
+      "Peter Lorre",
+      "Virginia Field",
+      "Thomas Beck"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/think-fast--mr--moto.html"
+}

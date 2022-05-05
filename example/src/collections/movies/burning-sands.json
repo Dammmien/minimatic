@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Burning Sands",
+    "year": 2017,
+    "cast": [
+      "Trevor Jackson",
+      "Alfre Woodard",
+      "Steve Harris",
+      "Trevante Rhodes",
+      "Serayah"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/burning-sands.html"
+}

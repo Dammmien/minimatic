@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fort Ti",
+    "year": 1953,
+    "cast": [
+      "George Montgomery",
+      "Joan Vohs"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fort-ti.html"
+}

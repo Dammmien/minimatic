@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Streamers",
+    "year": 1983,
+    "cast": [
+      "Matthew Modine",
+      "David Alan Grier",
+      "George Dzundza"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/streamers.html"
+}

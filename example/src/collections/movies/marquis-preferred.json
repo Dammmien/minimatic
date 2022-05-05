@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Marquis Preferred",
+    "year": 1929,
+    "cast": [
+      "Adolphe Menjou",
+      "Nora Lane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/marquis-preferred.html"
+}

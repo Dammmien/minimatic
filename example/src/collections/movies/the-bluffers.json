@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Bluffers",
+    "year": 1915,
+    "cast": [
+      "Vivian Rich",
+      "Gayne Whitman"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-bluffers.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Sergeants 3",
+    "year": 1962,
+    "cast": [
+      "Frank Sinatra",
+      "Dean Martin",
+      "Sammy Davis Jr.",
+      "Peter Lawford",
+      "Joey Bishop"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sergeants-3.html"
+}

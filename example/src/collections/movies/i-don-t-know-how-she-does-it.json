@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "I Don't Know How She Does It",
+    "year": 2011,
+    "cast": [
+      "Sarah Jessica Parker",
+      "Pierce Brosnan",
+      "Greg Kinnear",
+      "Christina Hendricks",
+      "Kelsey Grammer",
+      "Seth Meyers",
+      "Olivia Munn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-don-t-know-how-she-does-it.html"
+}

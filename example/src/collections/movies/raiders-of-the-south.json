@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Raiders of the South",
+    "year": 1947,
+    "cast": [
+      "Johnny Mack Brown",
+      "Evelyn Brent"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/raiders-of-the-south.html"
+}

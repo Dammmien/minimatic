@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Child in the Night",
+    "year": 1990,
+    "cast": [
+      "Elijah Wood",
+      "Tom Skerritt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/child-in-the-night.html"
+}

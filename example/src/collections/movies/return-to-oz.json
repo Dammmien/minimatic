@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Return to Oz",
+    "year": 1985,
+    "cast": [
+      "Fairuza Balk",
+      "Nicol Williamson",
+      "Jean Marsh"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/return-to-oz.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Sweetwater",
+    "year": 2013,
+    "cast": [
+      "Ed Harris",
+      "January Jones",
+      "Jason Isaacs",
+      "Stephen Root"
+    ],
+    "genres": [
+      "Thriller",
+      "Western"
+    ]
+  },
+  "output": "movies/sweetwater.html"
+}

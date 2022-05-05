@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Devil Wears Prada",
+    "year": 2006,
+    "cast": [
+      "Meryl Streep",
+      "Anne Hathaway",
+      "Emily Blunt",
+      "Stanley Tucci",
+      "Adrian Grenier",
+      "Simon Baker"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-devil-wears-prada.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Storm",
+    "year": 1938,
+    "cast": [
+      "Charles Bickford",
+      "Barton MacLane",
+      "Nan Grey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-storm.html"
+}

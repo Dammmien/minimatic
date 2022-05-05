@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Broadway Scandals",
+    "year": 1929,
+    "cast": [
+      "Sally O'Neil",
+      "Carmel Myers"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/broadway-scandals.html"
+}

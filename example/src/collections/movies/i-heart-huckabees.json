@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "I Heart Huckabees",
+    "year": 2004,
+    "cast": [
+      "Mark Wahlberg",
+      "Dustin Hoffman",
+      "Isabelle Huppert",
+      "Jude Law",
+      "Jason Schwartzman",
+      "Lily Tomlin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-heart-huckabees.html"
+}

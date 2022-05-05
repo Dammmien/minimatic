@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rope",
+    "year": 1948,
+    "cast": [
+      "James Stewart",
+      "Farley Granger",
+      "John Dall"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/rope.html"
+}

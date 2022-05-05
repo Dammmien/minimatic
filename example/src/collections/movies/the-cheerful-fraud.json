@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cheerful Fraud",
+    "year": 1926,
+    "cast": [
+      "Reginald Denny",
+      "Gertrude Olmstead"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-cheerful-fraud.html"
+}

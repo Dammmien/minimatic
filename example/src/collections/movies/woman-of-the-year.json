@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Woman of the Year",
+    "year": 1942,
+    "cast": [
+      "Spencer Tracy",
+      "Katharine Hepburn"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/woman-of-the-year.html"
+}

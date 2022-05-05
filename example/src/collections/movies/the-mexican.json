@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mexican",
+    "year": 2001,
+    "cast": [
+      "Brad Pitt",
+      "Julia Roberts",
+      "James Gandolfini"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-mexican.html"
+}

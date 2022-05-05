@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Apartment 1303 3D",
+    "year": 2013,
+    "cast": [
+      "Mischa Barton",
+      "Rebecca De Mornay",
+      "Julianne Michelle"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/apartment-1303-3d.html"
+}

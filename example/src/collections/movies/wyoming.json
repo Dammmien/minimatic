@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wyoming",
+    "year": 1947,
+    "cast": [
+      "Wild Bill Elliott",
+      "Vera Ralston"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wyoming.html"
+}

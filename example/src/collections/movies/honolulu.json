@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Honolulu",
+    "year": 1939,
+    "cast": [
+      "Eleanor Powell",
+      "Burns and Allen"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/honolulu.html"
+}

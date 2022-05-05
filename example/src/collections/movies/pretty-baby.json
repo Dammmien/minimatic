@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pretty Baby",
+    "year": 1978,
+    "cast": [
+      "Brooke Shields",
+      "Susan Sarandon",
+      "Keith Carradine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pretty-baby.html"
+}

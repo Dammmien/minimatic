@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Of Mice and Men",
+    "year": 1992,
+    "cast": [
+      "John Malkovich",
+      "Gary Sinise",
+      "Sherilyn Fenn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/of-mice-and-men.html"
+}

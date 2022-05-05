@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hollywood Boulevard",
+    "year": 1976,
+    "cast": [
+      "Mary Woronov",
+      "Dick Miller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hollywood-boulevard.html"
+}

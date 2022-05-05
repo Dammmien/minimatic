@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Major League II",
+    "year": 1994,
+    "cast": [
+      "Tom Berenger",
+      "Charlie Sheen",
+      "Corbin Bernsen",
+      "Omar Epps",
+      "Dennis Haysbert",
+      "Bob Uecker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/major-league-ii.html"
+}

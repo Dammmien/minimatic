@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rainbow Over the Rockies",
+    "year": 1947,
+    "cast": [
+      "Jimmy Wakely",
+      "Dennis Moore"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rainbow-over-the-rockies.html"
+}

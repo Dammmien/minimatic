@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "All of Me",
+    "year": 1984,
+    "cast": [
+      "Steve Martin",
+      "Lily Tomlin",
+      "Dana Elcar"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/all-of-me.html"
+}

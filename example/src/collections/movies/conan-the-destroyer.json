@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Conan the Destroyer",
+    "year": 1984,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Grace Jones",
+      "Wilt Chamberlain",
+      "Olivia d'Abo",
+      "Mako"
+    ],
+    "genres": [
+      "Action",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/conan-the-destroyer.html"
+}

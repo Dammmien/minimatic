@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rider from Tucson",
+    "year": 1950,
+    "cast": [
+      "Tim Holt",
+      "Veda Ann Borg"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rider-from-tucson.html"
+}

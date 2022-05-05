@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Shock and Awe",
+    "year": 2018,
+    "cast": [
+      "Woody Harrelson",
+      "Tommy Lee Jones",
+      "James Marsden",
+      "Milla Jovovich",
+      "Jessica Biel",
+      "Richard Schiff",
+      "Al Sapienza"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shock-and-awe.html"
+}

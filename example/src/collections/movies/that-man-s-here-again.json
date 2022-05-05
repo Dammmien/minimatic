@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That Man's Here Again",
+    "year": 1937,
+    "cast": [
+      "Hugh Herbert",
+      "Mary Maguire"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-man-s-here-again.html"
+}

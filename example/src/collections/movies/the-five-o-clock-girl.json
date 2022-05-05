@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Five O'Clock Girl",
+    "year": 1928,
+    "cast": [
+      "Charles King",
+      "Marion Davies",
+      "Joel McCrea"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-five-o-clock-girl.html"
+}

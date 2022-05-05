@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Masked Emotions",
+    "year": 1929,
+    "cast": [
+      "George O'Brien",
+      "Nora Lane"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/masked-emotions.html"
+}

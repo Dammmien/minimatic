@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Punk Rock Movie",
+    "year": 1979,
+    "cast": [
+      "John Lydon",
+      "Joe Strummer",
+      "Siouxsie Sioux"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-punk-rock-movie.html"
+}

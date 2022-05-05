@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Brothers",
+    "year": 2009,
+    "cast": [
+      "Tobey Maguire",
+      "Jake Gyllenhaal",
+      "Natalie Portman",
+      "Sam Shepard"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/brothers.html"
+}

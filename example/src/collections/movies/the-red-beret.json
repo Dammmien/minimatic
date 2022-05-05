@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Red Beret",
+    "year": 1953,
+    "cast": [
+      "Alan Ladd",
+      "Leo Genn"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-red-beret.html"
+}

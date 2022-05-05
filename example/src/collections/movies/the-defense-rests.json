@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Defense Rests",
+    "year": 1934,
+    "cast": [
+      "Jack Holt",
+      "Jean Arthur"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-defense-rests.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Paradise Express",
+    "year": 1937,
+    "cast": [
+      "Grant Withers",
+      "Dorothy Appleby"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/paradise-express.html"
+}

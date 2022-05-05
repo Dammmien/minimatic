@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jeopardy",
+    "year": 1953,
+    "cast": [
+      "Barbara Stanwyck",
+      "Barry Sullivan",
+      "Ralph Meeker"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/jeopardy.html"
+}

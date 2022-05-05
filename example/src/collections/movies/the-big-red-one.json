@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Red One",
+    "year": 1980,
+    "cast": [
+      "Lee Marvin",
+      "Mark Hamill",
+      "Robert Carradine"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-big-red-one.html"
+}

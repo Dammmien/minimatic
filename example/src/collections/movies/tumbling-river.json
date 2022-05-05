@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tumbling River",
+    "year": 1927,
+    "cast": [
+      "Tom Mix",
+      "Dorothy Dwan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/tumbling-river.html"
+}

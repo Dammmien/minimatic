@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Devil McCare",
+    "year": 1919,
+    "cast": [
+      "Crane Wilbur",
+      "Juanita Hansen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/devil-mccare.html"
+}

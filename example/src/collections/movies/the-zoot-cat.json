@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Zoot Cat",
+    "year": 1944,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/the-zoot-cat.html"
+}

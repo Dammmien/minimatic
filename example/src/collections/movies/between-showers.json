@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Between Showers",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Ford Sterling",
+      "Chester Conklin"
+    ],
+    "genres": []
+  },
+  "output": "movies/between-showers.html"
+}

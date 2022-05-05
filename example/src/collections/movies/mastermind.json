@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Mastermind",
+    "year": 1976,
+    "cast": [
+      "Zero Mostel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mastermind.html"
+}

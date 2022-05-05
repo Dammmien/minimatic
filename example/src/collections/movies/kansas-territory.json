@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kansas Territory",
+    "year": 1952,
+    "cast": [
+      "Bill Elliott",
+      "Peggy Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/kansas-territory.html"
+}

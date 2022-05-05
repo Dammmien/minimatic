@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Irreconcilable Differences",
+    "year": 1984,
+    "cast": [
+      "Ryan O'Neal",
+      "Drew Barrymore",
+      "Shelley Long"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/irreconcilable-differences.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Norwood",
+    "year": 1970,
+    "cast": [
+      "Glen Campbell",
+      "Kim Darby",
+      "Joe Namath"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/norwood.html"
+}

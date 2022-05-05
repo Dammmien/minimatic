@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Wonderstruck",
+    "year": 2017,
+    "cast": [
+      "Oakes Fegley",
+      "Julianne Moore",
+      "Millicent Simmonds",
+      "Michelle Williams",
+      "Jaden Michael",
+      "Tom Noonan",
+      "James Urbaniak",
+      "Amy Hargreaves"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wonderstruck.html"
+}

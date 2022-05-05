@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Destination Big House",
+    "year": 1950,
+    "cast": [
+      "Dorothy Patrick",
+      "Robert Rockwell"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/destination-big-house.html"
+}

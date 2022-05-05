@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Primary Colors",
+    "year": 1998,
+    "cast": [
+      "John Travolta",
+      "Emma Thompson",
+      "Kathy Bates",
+      "Adrian Lester",
+      "Billy Bob Thornton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/primary-colors.html"
+}

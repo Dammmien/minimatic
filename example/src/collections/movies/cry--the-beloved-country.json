@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cry, the Beloved Country",
+    "year": 1995,
+    "cast": [
+      "James Earl Jones",
+      "Richard Harris",
+      "Charles S. Dutton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cry--the-beloved-country.html"
+}

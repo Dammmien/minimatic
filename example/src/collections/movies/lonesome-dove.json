@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Lonesome Dove",
+    "year": 1989,
+    "cast": [
+      "Robert Duvall",
+      "Tommy Lee Jones",
+      "Diane Lane",
+      "Danny Glover",
+      "Anjelica Huston",
+      "Robert Urich",
+      "Rick Schroeder",
+      "D. B. Sweeney",
+      "Frederic Forrest",
+      "Glenne Headly",
+      "Barry Corbin",
+      "Chris Cooper"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lonesome-dove.html"
+}

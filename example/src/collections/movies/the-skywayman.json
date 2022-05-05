@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Skywayman",
+    "year": 1920,
+    "cast": [
+      "Ormer Locklear",
+      "Louise Lovely"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-skywayman.html"
+}

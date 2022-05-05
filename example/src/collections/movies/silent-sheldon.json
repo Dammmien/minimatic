@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silent Sheldon",
+    "year": 1925,
+    "cast": [
+      "Jack Perrin",
+      "Josephine Hill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/silent-sheldon.html"
+}

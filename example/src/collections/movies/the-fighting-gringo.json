@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Gringo",
+    "year": 1939,
+    "cast": [
+      "George O'Brien",
+      "Lupita Tovar"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fighting-gringo.html"
+}

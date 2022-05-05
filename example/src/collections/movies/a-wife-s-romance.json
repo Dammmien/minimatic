@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Wife's Romance",
+    "year": 1923,
+    "cast": [
+      "Clara Kimball Young",
+      "Lewis Dayton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-wife-s-romance.html"
+}

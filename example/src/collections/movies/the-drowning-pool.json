@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Drowning Pool",
+    "year": 1975,
+    "cast": [
+      "Paul Newman",
+      "Joanne Woodward",
+      "Anthony Franciosa",
+      "Melanie Griffith",
+      "Murray Hamilton",
+      "Gail Strickland"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-drowning-pool.html"
+}

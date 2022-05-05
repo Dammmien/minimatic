@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Quick Gun",
+    "year": 1964,
+    "cast": [
+      "Audie Murphy",
+      "Merry Anders",
+      "James Best"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-quick-gun.html"
+}

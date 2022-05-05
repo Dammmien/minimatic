@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "In a Lonely Place",
+    "year": 1950,
+    "cast": [
+      "Humphrey Bogart",
+      "Gloria Grahame",
+      "Frank Lovejoy",
+      "Jeff Donnell",
+      "Art Smith"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/in-a-lonely-place.html"
+}

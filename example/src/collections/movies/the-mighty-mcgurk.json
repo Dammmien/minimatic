@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mighty McGurk",
+    "year": 1947,
+    "cast": [
+      "Wallace Beery",
+      "Dean Stockwell",
+      "Edward Arnold"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mighty-mcgurk.html"
+}

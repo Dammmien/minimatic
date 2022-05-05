@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jet Pilot",
+    "year": 1957,
+    "cast": [
+      "John Wayne",
+      "Janet Leigh"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/jet-pilot.html"
+}

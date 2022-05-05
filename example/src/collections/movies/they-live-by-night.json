@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "They Live by Night",
+    "year": 1949,
+    "cast": [
+      "Farley Granger",
+      "Cathy O'Donnell",
+      "Howard Da Silva"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/they-live-by-night.html"
+}

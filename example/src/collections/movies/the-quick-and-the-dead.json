@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Quick and the Dead",
+    "year": 1995,
+    "cast": [
+      "Sharon Stone",
+      "Russell Crowe",
+      "Gene Hackman",
+      "Leonardo DiCaprio"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-quick-and-the-dead.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Blinding Trail",
+    "year": 1919,
+    "cast": [
+      "Monroe Salisbury",
+      "Claire Anderson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-blinding-trail.html"
+}

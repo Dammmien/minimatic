@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Punishment Park",
+    "year": 1971,
+    "cast": [
+      "Scott Turner"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/punishment-park.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Beating the Game",
+    "year": 1921,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/beating-the-game.html"
+}

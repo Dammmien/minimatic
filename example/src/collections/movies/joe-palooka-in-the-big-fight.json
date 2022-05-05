@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Joe Palooka in the Big Fight",
+    "year": 1949,
+    "cast": [
+      "Leon Errol",
+      "Joe Kirkwood",
+      "Lina Romay"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/joe-palooka-in-the-big-fight.html"
+}

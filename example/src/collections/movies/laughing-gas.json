@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Laughing Gas",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Fritz Schade"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/laughing-gas.html"
+}

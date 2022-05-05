@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Stoker",
+    "year": 2013,
+    "cast": [
+      "Mia Wasikowska",
+      "Matthew Goode",
+      "Nicole Kidman",
+      "Dermot Mulroney",
+      "Jacki Weaver",
+      "Lucas Till",
+      "Alden Ehrenreich",
+      "Phyllis Somerville",
+      "Judith Godrèche"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/stoker.html"
+}

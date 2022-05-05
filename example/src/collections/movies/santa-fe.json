@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Santa Fe",
+    "year": 1951,
+    "cast": [
+      "Randolph Scott",
+      "Janis Carter"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/santa-fe.html"
+}

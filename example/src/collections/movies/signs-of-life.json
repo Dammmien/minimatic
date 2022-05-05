@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Signs of Life",
+    "year": 1989,
+    "cast": [
+      "Beau Bridges",
+      "Vincent D'Onofrio"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/signs-of-life.html"
+}

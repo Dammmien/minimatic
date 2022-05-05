@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "First Men in the Moon",
+    "year": 1964,
+    "cast": [
+      "Edward Judd",
+      "Martha Hyer"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/first-men-in-the-moon.html"
+}

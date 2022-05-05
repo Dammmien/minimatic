@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beware!",
+    "year": 1919,
+    "cast": [
+      "Julia Hurley",
+      "Herbert Standing"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/beware-.html"
+}

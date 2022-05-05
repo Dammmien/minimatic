@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "White Banners",
+    "year": 1938,
+    "cast": [
+      "Claude Rains",
+      "Fay Bainter",
+      "Jackie Cooper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/white-banners.html"
+}

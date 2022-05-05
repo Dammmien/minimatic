@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Thunder Alley",
+    "year": 1967,
+    "cast": [
+      "Annette Funicello",
+      "Fabian",
+      "Diane McBain"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/thunder-alley.html"
+}

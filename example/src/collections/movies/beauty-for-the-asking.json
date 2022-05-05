@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beauty for the Asking",
+    "year": 1939,
+    "cast": [
+      "Lucille Ball",
+      "Patric Knowles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beauty-for-the-asking.html"
+}

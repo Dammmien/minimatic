@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Midnight Intruder",
+    "year": 1938,
+    "cast": [
+      "Louis Hayward",
+      "Eric Linden",
+      "Barbara Read"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/midnight-intruder.html"
+}

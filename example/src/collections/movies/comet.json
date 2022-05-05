@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Comet",
+    "year": 2014,
+    "cast": [
+      "Emmy Rossum",
+      "Justin Long",
+      "Eric Winter",
+      "Kayla Servi"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/comet.html"
+}

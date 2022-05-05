@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Impatient Maiden",
+    "year": 1932,
+    "cast": [
+      "Lew Ayres",
+      "Mae Clarke",
+      "Una Merkel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/impatient-maiden.html"
+}

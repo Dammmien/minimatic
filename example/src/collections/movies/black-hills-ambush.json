@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Black Hills Ambush",
+    "year": 1952,
+    "cast": [
+      "Allan Lane",
+      "Leslie Banning"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/black-hills-ambush.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "28 Days",
+    "year": 2000,
+    "cast": [
+      "Sandra Bullock",
+      "Viggo Mortensen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/28-days.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Charmer",
+    "year": 1925,
+    "cast": [
+      "Pola Negri",
+      "Robert Frazer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-charmer.html"
+}

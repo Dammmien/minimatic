@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rhythm on the River",
+    "year": 1940,
+    "cast": [
+      "Bing Crosby",
+      "Mary Martin",
+      "Basil Rathbone"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/rhythm-on-the-river.html"
+}

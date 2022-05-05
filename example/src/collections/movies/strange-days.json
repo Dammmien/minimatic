@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Strange Days",
+    "year": 1995,
+    "cast": [
+      "Ralph Fiennes",
+      "Angela Bassett",
+      "Juliette Lewis"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/strange-days.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Untameable",
+    "year": 1923,
+    "cast": [
+      "Gladys Walton",
+      "Malcolm McGregor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-untameable.html"
+}

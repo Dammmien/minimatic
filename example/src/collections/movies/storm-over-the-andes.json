@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Storm Over the Andes",
+    "year": 1935,
+    "cast": [
+      "Gene Lockhart",
+      "Jack Holt",
+      "Antonio Moreno"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/storm-over-the-andes.html"
+}

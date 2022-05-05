@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Port Said",
+    "year": 1948,
+    "cast": [
+      "Gloria Henry",
+      "Steven Geray"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/port-said.html"
+}

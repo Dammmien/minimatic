@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tornado",
+    "year": 1943,
+    "cast": [
+      "Chester Morris",
+      "Nancy Kelly"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tornado.html"
+}

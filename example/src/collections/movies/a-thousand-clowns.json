@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "A Thousand Clowns",
+    "year": 1965,
+    "cast": [
+      "Jason Robards",
+      "Martin Balsam",
+      "Barbara Harris",
+      "William Daniels",
+      "Barry Gordon",
+      "Gene Saks"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-thousand-clowns.html"
+}

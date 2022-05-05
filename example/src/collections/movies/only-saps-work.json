@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Only Saps Work",
+    "year": 1930,
+    "cast": [
+      "Leon Errol",
+      "Richard Arlen",
+      "Mary Brian"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/only-saps-work.html"
+}

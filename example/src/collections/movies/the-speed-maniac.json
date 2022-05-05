@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Speed Maniac",
+    "year": 1919,
+    "cast": [
+      "Tom Mix",
+      "Eva Novak"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-speed-maniac.html"
+}

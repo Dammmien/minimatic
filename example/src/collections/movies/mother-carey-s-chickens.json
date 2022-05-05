@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mother Carey's Chickens",
+    "year": 1938,
+    "cast": [
+      "Anne Shirley",
+      "Ruby Keeler"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mother-carey-s-chickens.html"
+}

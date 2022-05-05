@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Day at the Races",
+    "year": 1937,
+    "cast": [
+      "Groucho Marx",
+      "Chico Marx",
+      "Maureen O'Sullivan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-day-at-the-races.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Singing Fool",
+    "year": 1928,
+    "cast": [
+      "Al Jolson",
+      "Betty Bronson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-singing-fool.html"
+}

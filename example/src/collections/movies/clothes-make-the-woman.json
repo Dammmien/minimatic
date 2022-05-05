@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Clothes Make the Woman",
+    "year": 1928,
+    "cast": [
+      "Eve Southern",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/clothes-make-the-woman.html"
+}

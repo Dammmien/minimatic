@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Bronx Tale",
+    "year": 1993,
+    "cast": [
+      "Chazz Palminteri",
+      "Robert De Niro",
+      "Lillo Brancato, Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-bronx-tale.html"
+}

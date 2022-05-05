@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Green Fields",
+    "year": 1937,
+    "cast": [
+      "Michael Goldstein",
+      "Helen Beverley"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/green-fields.html"
+}

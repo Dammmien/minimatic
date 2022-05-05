@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shattered Idols",
+    "year": 1922,
+    "cast": [
+      "Marguerite De La Motte",
+      "James Morrison"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shattered-idols.html"
+}

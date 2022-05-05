@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Hurricane Heist",
+    "year": 2018,
+    "cast": [
+      "Toby Kebbell",
+      "Maggie Grace",
+      "Ryan Kwanten",
+      "Melissa Bolona",
+      "Ralph Ineson"
+    ],
+    "genres": [
+      "Disaster",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-hurricane-heist.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Range Terror",
+    "year": 1925,
+    "cast": [
+      "Bob Custer",
+      "Claire de Lorez"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-range-terror.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Appaloosa",
+    "year": 1966,
+    "cast": [
+      "Marlon Brando",
+      "John Saxon",
+      "Anjanette Comer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-appaloosa.html"
+}

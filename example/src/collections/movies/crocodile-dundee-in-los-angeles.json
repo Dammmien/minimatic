@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Crocodile Dundee in Los Angeles",
+    "year": 2001,
+    "cast": [
+      "Paul Hogan",
+      "Linda Kozlowski",
+      "Jere Burns",
+      "Paul Rodriguez"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/crocodile-dundee-in-los-angeles.html"
+}

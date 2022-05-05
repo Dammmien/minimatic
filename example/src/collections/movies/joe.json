@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Joe",
+    "year": 2013,
+    "cast": [
+      "Nicolas Cage",
+      "Tye Sheridan",
+      "Heather Kafka",
+      "Ronnie Gene Blevins",
+      "Sue Rock"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/joe.html"
+}

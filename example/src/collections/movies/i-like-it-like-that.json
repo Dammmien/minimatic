@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Like It Like That",
+    "year": 1994,
+    "cast": [
+      "Jon Seda",
+      "Lauren Velez",
+      "Rita Moreno"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-like-it-like-that.html"
+}

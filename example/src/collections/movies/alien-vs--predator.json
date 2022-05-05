@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Alien vs. Predator",
+    "year": 2004,
+    "cast": [
+      "Sanaa Lathan",
+      "Lance Henriksen",
+      "Raoul Bova",
+      "Ewen Bremner"
+    ],
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/alien-vs--predator.html"
+}

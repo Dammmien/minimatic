@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Brass Legend",
+    "year": 1956,
+    "cast": [
+      "Hugh O'Brian",
+      "Nancy Gates",
+      "Raymond Burr"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-brass-legend.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bashful",
+    "year": 1917,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bashful.html"
+}

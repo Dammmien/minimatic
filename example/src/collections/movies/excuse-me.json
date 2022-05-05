@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Excuse Me",
+    "year": 1925,
+    "cast": [
+      "Conrad Nagel",
+      "Norma Shearer",
+      "Renée Adorée"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/excuse-me.html"
+}

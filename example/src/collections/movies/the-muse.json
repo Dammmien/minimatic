@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Muse",
+    "year": 1999,
+    "cast": [
+      "Albert Brooks",
+      "Sharon Stone",
+      "Andie MacDowell",
+      "Jeff Bridges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-muse.html"
+}

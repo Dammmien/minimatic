@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Avalanche",
+    "year": 1978,
+    "cast": [
+      "Rock Hudson",
+      "Mia Farrow",
+      "Robert Forster"
+    ],
+    "genres": [
+      "Disaster"
+    ]
+  },
+  "output": "movies/avalanche.html"
+}

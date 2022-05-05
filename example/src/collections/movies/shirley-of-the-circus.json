@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shirley of the Circus",
+    "year": 1922,
+    "cast": [
+      "Shirley Mason",
+      "George O'Hara"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shirley-of-the-circus.html"
+}

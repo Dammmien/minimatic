@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Jimmy the Gent",
+    "year": 1934,
+    "cast": [
+      "James Cagney",
+      "Bette Davis",
+      "Allen Jenkins"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/jimmy-the-gent.html"
+}

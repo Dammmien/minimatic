@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dancing Cheat",
+    "year": 1924,
+    "cast": [
+      "Herbert Rawlinson",
+      "Alice Lake"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dancing-cheat.html"
+}

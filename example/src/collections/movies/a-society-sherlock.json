@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Society Sherlock",
+    "year": 1916,
+    "cast": [
+      "William Garwood",
+      "Irma Dawkins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-society-sherlock.html"
+}

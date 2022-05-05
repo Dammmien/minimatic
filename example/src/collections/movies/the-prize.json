@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Prize",
+    "year": 1963,
+    "cast": [
+      "Paul Newman",
+      "Edward G. Robinson",
+      "Elke Sommer",
+      "Kevin McCarthy",
+      "Diane Baker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-prize.html"
+}

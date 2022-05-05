@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Knockaround Guys",
+    "year": 2001,
+    "cast": [
+      "Barry Pepper",
+      "Seth Green",
+      "Vin Diesel",
+      "John Malkovich",
+      "Dennis Hopper"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/knockaround-guys.html"
+}

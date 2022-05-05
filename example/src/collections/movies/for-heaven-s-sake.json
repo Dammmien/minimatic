@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "For Heaven's Sake",
+    "year": 1950,
+    "cast": [
+      "Clifton Webb",
+      "Joan Bennett",
+      "Robert Cummings",
+      "Edmund Gwenn",
+      "Joan Blondell"
+    ],
+    "genres": [
+      "Fantasy",
+      "Comedy"
+    ]
+  },
+  "output": "movies/for-heaven-s-sake.html"
+}

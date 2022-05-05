@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rich Man's Folly",
+    "year": 1931,
+    "cast": [
+      "Frances Dee",
+      "George Bancroft"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rich-man-s-folly.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A History of Violence",
+    "year": 2005,
+    "cast": [
+      "Viggo Mortensen",
+      "Maria Bello",
+      "Ed Harris"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-history-of-violence.html"
+}

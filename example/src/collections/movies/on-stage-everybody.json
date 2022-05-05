@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "On Stage Everybody",
+    "year": 1945,
+    "cast": [
+      "Jack Oakie",
+      "Peggy Ryan"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/on-stage-everybody.html"
+}

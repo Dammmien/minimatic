@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Thief",
+    "year": 1981,
+    "cast": [
+      "James Caan",
+      "Tuesday Weld",
+      "James Belushi",
+      "Robert Prosky",
+      "Willie Nelson"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/thief.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The True Story of Jesse James",
+    "year": 1957,
+    "cast": [
+      "Robert Wagner",
+      "Hope Lange"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-true-story-of-jesse-james.html"
+}

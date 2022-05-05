@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Storm Over Bengal",
+    "year": 1938,
+    "cast": [
+      "Patric Knowles",
+      "Richard Cromwell",
+      "Rochelle Hudson"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/storm-over-bengal.html"
+}

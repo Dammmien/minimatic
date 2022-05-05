@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Girls' Dormitory",
+    "year": 1936,
+    "cast": [
+      "Herbert Marshall",
+      "Ruth Chatterton",
+      "Simone Simon"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/girls--dormitory.html"
+}

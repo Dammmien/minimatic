@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Outlaw's Son",
+    "year": 1957,
+    "cast": [
+      "Dane Clark",
+      "Lori Nelson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/outlaw-s-son.html"
+}

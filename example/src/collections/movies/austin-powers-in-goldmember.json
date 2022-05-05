@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Austin Powers in Goldmember",
+    "year": 2002,
+    "cast": [
+      "Mike Myers",
+      "Beyoncé Knowles",
+      "Michael Caine"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/austin-powers-in-goldmember.html"
+}

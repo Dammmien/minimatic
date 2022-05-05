@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Devil Ship",
+    "year": 1947,
+    "cast": [
+      "Richard Lane",
+      "Louise Campbell"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/devil-ship.html"
+}

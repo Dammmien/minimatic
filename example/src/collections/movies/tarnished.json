@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tarnished",
+    "year": 1950,
+    "cast": [
+      "Dorothy Patrick",
+      "Jimmy Lydon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tarnished.html"
+}

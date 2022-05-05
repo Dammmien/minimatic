@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Buona Sera, Mrs. Campbell",
+    "year": 1968,
+    "cast": [
+      "Gina Lollobrigida",
+      "Shelley Winters",
+      "Peter Lawford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/buona-sera--mrs--campbell.html"
+}

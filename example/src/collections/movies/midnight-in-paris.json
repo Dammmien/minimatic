@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Midnight in Paris",
+    "year": 2011,
+    "cast": [
+      "Kathy Bates",
+      "Adrien Brody",
+      "Carla Bruni",
+      "Marion Cotillard",
+      "Rachel McAdams",
+      "Michael Sheen",
+      "Owen Wilson"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/midnight-in-paris.html"
+}

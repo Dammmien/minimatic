@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Call of the West",
+    "year": 1930,
+    "cast": [
+      "Dorothy Revier",
+      "Tom O'Brien",
+      "Alan Roscoe"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/call-of-the-west.html"
+}

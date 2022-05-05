@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Great Stagecoach Robbery",
+    "year": 1945,
+    "cast": [
+      "Wild Bill Elliott",
+      "Alice Fleming"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/great-stagecoach-robbery.html"
+}

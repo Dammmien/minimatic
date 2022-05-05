@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Leatherheads",
+    "year": 2008,
+    "cast": [
+      "George Clooney",
+      "Renée Zellweger",
+      "John Krasinski"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/leatherheads.html"
+}

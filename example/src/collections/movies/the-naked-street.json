@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Naked Street",
+    "year": 1955,
+    "cast": [
+      "Anne Bancroft",
+      "Anthony Quinn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-naked-street.html"
+}

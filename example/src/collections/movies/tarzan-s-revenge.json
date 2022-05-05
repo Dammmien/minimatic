@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tarzan's Revenge",
+    "year": 1938,
+    "cast": [
+      "Glenn Morris",
+      "Eleanor Holm",
+      "Hedda Hopper"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-s-revenge.html"
+}

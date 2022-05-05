@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Hunted",
+    "year": 2003,
+    "cast": [
+      "Tommy Lee Jones",
+      "Benicio del Toro",
+      "Connie Nielsen"
+    ],
+    "genres": [
+      "Action",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hunted.html"
+}

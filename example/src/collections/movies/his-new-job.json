@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "His New Job",
+    "year": 1915,
+    "cast": [
+      "Charlie Chaplin",
+      "Ben Turpin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/his-new-job.html"
+}

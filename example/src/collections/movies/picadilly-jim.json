@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Picadilly Jim",
+    "year": 1936,
+    "cast": [
+      "Robert Montgomery",
+      "Frank Morgan",
+      "Billie Burke"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/picadilly-jim.html"
+}

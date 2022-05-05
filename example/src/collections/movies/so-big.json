@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "So Big",
+    "year": 1932,
+    "cast": [
+      "Barbara Stanwyck",
+      "George Brent",
+      "Dickie Moore"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/so-big.html"
+}

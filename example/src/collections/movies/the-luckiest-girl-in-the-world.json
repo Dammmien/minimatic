@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Luckiest Girl in the World",
+    "year": 1936,
+    "cast": [
+      "Jane Wyatt",
+      "Eugene Pallette",
+      "Catherine Doucet"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-luckiest-girl-in-the-world.html"
+}

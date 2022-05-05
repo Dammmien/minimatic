@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Misty",
+    "year": 1961,
+    "cast": [
+      "Arthur O'Connell",
+      "Anne Seymour",
+      "David Ladd"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/misty.html"
+}

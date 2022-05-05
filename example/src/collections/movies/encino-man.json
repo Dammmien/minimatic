@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Encino Man",
+    "year": 1992,
+    "cast": [
+      "Brendan Fraser",
+      "Sean Astin",
+      "Pauly Shore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/encino-man.html"
+}

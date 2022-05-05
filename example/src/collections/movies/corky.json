@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Corky",
+    "year": 1972,
+    "cast": [
+      "Robert Blake",
+      "Charlotte Rampling",
+      "Patrick O'Neal",
+      "Christopher Connelly"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/corky.html"
+}

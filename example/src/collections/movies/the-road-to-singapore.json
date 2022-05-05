@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Road to Singapore",
+    "year": 1931,
+    "cast": [
+      "William Powell",
+      "Doris Kenyon",
+      "Louis Calhern"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-road-to-singapore.html"
+}

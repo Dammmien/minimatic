@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chinatown at Midnight",
+    "year": 1949,
+    "cast": [
+      "Hurd Hatfield",
+      "Jean Willes"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/chinatown-at-midnight.html"
+}

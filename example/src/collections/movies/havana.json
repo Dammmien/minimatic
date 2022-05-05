@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Havana",
+    "year": 1990,
+    "cast": [
+      "Robert Redford",
+      "Raúl Juliá",
+      "Lena Olin",
+      "Tomas Milian",
+      "Alan Arkin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/havana.html"
+}

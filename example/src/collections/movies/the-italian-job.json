@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Italian Job",
+    "year": 2003,
+    "cast": [
+      "Mark Wahlberg",
+      "Charlize Theron",
+      "Edward Norton",
+      "Donald Sutherland",
+      "Seth Green",
+      "Jason Statham",
+      "Mos Def",
+      "Franky G"
+    ],
+    "genres": [
+      "Action",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-italian-job.html"
+}

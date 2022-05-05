@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hollywood Speaks",
+    "year": 1932,
+    "cast": [
+      "Genevieve Tobin",
+      "Pat O'Brien"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hollywood-speaks.html"
+}

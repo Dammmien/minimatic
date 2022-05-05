@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wake Me When It's Over",
+    "year": 1960,
+    "cast": [
+      "Ernie Kovacs",
+      "Dick Shawn",
+      "Margo Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wake-me-when-it-s-over.html"
+}

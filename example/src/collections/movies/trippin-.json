@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Trippin'",
+    "year": 1999,
+    "cast": [
+      "Deon Richmond",
+      "Countess Vaughn",
+      "Maia Campbell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/trippin-.html"
+}

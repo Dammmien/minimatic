@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "They Made Me a Criminal",
+    "year": 1939,
+    "cast": [
+      "John Garfield",
+      "Dead End Kids",
+      "Claude Rains",
+      "Ann Sheridan",
+      "May Robson",
+      "Gloria Dickson"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/they-made-me-a-criminal.html"
+}

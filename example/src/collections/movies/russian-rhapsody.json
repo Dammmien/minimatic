@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Russian Rhapsody",
+    "year": 1944,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/russian-rhapsody.html"
+}

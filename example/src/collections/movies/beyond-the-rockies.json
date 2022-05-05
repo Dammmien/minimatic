@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beyond the Rockies",
+    "year": 1932,
+    "cast": [
+      "Tom Keene",
+      "Rochelle Hudson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/beyond-the-rockies.html"
+}

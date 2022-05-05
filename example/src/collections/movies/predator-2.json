@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Predator 2",
+    "year": 1990,
+    "cast": [
+      "Danny Glover",
+      "Gary Busey",
+      "Rubén Blades",
+      "María Conchita Alonso",
+      "Bill Paxton"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/predator-2.html"
+}

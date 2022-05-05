@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Something to Sing About",
+    "year": 1937,
+    "cast": [
+      "James Cagney",
+      "Evelyn Daw",
+      "Mona Barrie"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/something-to-sing-about.html"
+}

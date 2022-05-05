@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Point Break",
+    "year": 2015,
+    "cast": [
+      "Edgar Ramirez",
+      "Luke Bracey",
+      "Ray Winstone"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/point-break.html"
+}

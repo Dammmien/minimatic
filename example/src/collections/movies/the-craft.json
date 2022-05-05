@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Craft",
+    "year": 1996,
+    "cast": [
+      "Robin Tunney",
+      "Fairuza Balk",
+      "Neve Campbell",
+      "Rachel True"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-craft.html"
+}

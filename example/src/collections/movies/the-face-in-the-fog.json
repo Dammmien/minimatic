@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Face in the Fog",
+    "year": 1922,
+    "cast": [
+      "Lionel Barrymore",
+      "Seena Owen"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-face-in-the-fog.html"
+}

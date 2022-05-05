@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Four Hours to Kill!",
+    "year": 1935,
+    "cast": [
+      "Richard Barthelmess",
+      "Roscoe Karns",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/four-hours-to-kill-.html"
+}

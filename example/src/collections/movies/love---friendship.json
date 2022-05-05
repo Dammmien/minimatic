@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love & Friendship",
+    "year": 2016,
+    "cast": [
+      "Kate Beckinsale",
+      "Xavier Samuel",
+      "Emma Greenwell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love---friendship.html"
+}

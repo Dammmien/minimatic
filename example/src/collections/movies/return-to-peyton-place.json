@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Return to Peyton Place",
+    "year": 1961,
+    "cast": [
+      "Carol Lynley",
+      "Jeff Chandler",
+      "Eleanor Parker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/return-to-peyton-place.html"
+}

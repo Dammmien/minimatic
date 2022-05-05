@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Best Friend Is a Vampire",
+    "year": 1988,
+    "cast": [
+      "Robert Sean Leonard",
+      "David Warner"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-best-friend-is-a-vampire.html"
+}

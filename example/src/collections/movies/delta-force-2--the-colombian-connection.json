@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Delta Force 2: The Colombian Connection",
+    "year": 1990,
+    "cast": [
+      "Chuck Norris",
+      "Billy Drago"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/delta-force-2--the-colombian-connection.html"
+}

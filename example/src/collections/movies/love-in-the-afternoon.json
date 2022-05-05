@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love in the Afternoon",
+    "year": 1957,
+    "cast": [
+      "Gary Cooper",
+      "Audrey Hepburn"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/love-in-the-afternoon.html"
+}

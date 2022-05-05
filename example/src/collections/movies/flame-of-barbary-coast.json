@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flame of Barbary Coast",
+    "year": 1945,
+    "cast": [
+      "John Wayne",
+      "Ann Dvorak",
+      "Joseph Schildkraut"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/flame-of-barbary-coast.html"
+}

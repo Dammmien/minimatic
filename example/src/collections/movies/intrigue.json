@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Intrigue",
+    "year": 1947,
+    "cast": [
+      "George Raft",
+      "Helena Carter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/intrigue.html"
+}

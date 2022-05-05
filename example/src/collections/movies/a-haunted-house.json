@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "A Haunted House",
+    "year": 2013,
+    "cast": [
+      "Marlon Wayans",
+      "Essence Atkins",
+      "Cedric the Entertainer",
+      "Nick Swardson",
+      "David Koechner",
+      "Dave Sheridan"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy",
+      "Satire"
+    ]
+  },
+  "output": "movies/a-haunted-house.html"
+}

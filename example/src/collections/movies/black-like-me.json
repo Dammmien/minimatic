@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Black Like Me",
+    "year": 1964,
+    "cast": [
+      "James Whitmore",
+      "Sorrell Booke",
+      "Roscoe Lee Browne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/black-like-me.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Songwriter",
+    "year": 1984,
+    "cast": [
+      "Willie Nelson",
+      "Kris Kristofferson",
+      "Melinda Dillon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/songwriter.html"
+}

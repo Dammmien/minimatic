@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Six Lessons from Madame La Zonga",
+    "year": 1941,
+    "cast": [
+      "Lupe Velez",
+      "Leon Errol",
+      "Helen Parrish"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/six-lessons-from-madame-la-zonga.html"
+}

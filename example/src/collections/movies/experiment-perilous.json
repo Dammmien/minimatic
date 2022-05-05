@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Experiment Perilous",
+    "year": 1944,
+    "cast": [
+      "Hedy Lamarr",
+      "George Brent"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/experiment-perilous.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Down Mexico Way",
+    "year": 1941,
+    "cast": [
+      "Gene Autry",
+      "Fay McKenzie"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/down-mexico-way.html"
+}

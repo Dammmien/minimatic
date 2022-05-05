@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Pagan",
+    "year": 1929,
+    "cast": [
+      "Ramon Novarro",
+      "Renee Adoree",
+      "Donald Crisp"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-pagan.html"
+}

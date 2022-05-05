@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Scream",
+    "year": 1996,
+    "cast": [
+      "David Arquette",
+      "Neve Campbell",
+      "Courteney Cox",
+      "Rose McGowan",
+      "Skeet Ulrich",
+      "Matthew Lillard",
+      "Jamie Kennedy",
+      "Drew Barrymore"
+    ],
+    "genres": [
+      "Horror",
+      "Slasher"
+    ]
+  },
+  "output": "movies/scream.html"
+}

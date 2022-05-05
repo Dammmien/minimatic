@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hairpins",
+    "year": 1920,
+    "cast": [
+      "Enid Bennett",
+      "Matt Moore",
+      "William Conklin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hairpins.html"
+}

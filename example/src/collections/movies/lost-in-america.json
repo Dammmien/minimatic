@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lost in America",
+    "year": 1985,
+    "cast": [
+      "Albert Brooks",
+      "Julie Hagerty"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lost-in-america.html"
+}

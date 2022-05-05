@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Zaza",
+    "year": 1939,
+    "cast": [
+      "Claudette Colbert",
+      "Herbert Marshall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/zaza.html"
+}

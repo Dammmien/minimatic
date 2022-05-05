@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Duel at Apache Wells",
+    "year": 1957,
+    "cast": [
+      "Anna Maria Alberghetti",
+      "Ben Cooper"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/duel-at-apache-wells.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "California Gold Rush",
+    "year": 1946,
+    "cast": [
+      "Wild Bill Elliott",
+      "Peggy Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/california-gold-rush.html"
+}

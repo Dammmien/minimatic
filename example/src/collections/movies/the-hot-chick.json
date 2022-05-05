@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hot Chick",
+    "year": 2002,
+    "cast": [
+      "Rob Schneider",
+      "Rachel McAdams",
+      "Anna Faris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-hot-chick.html"
+}

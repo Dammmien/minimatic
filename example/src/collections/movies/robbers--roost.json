@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Robbers' Roost",
+    "year": 1955,
+    "cast": [
+      "Richard Boone",
+      "George Montgomery"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/robbers--roost.html"
+}

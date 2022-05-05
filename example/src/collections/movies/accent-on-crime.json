@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Accent on Crime",
+    "year": 1944,
+    "cast": [
+      "June Carlson",
+      "Fifi D'Orsay",
+      "Teala Loring"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/accent-on-crime.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nancy Drew… Trouble Shooter",
+    "year": 1939,
+    "cast": [
+      "Bonita Granville",
+      "Frankie Thomas",
+      "John Litel"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/nancy-drew--trouble-shooter.html"
+}

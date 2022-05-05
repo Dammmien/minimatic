@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Copacabana",
+    "year": 1947,
+    "cast": [
+      "Groucho Marx",
+      "Carmen Miranda"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/copacabana.html"
+}

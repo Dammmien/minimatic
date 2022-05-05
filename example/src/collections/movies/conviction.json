@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Conviction",
+    "year": 2010,
+    "cast": [
+      "Hilary Swank",
+      "Sam Rockwell",
+      "Minnie Driver",
+      "Melissa Leo",
+      "Peter Gallagher",
+      "Juliette Lewis"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/conviction.html"
+}

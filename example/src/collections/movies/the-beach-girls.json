@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Beach Girls",
+    "year": 1982,
+    "cast": [
+      "Jeana Tomasino",
+      "Debra Blee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-beach-girls.html"
+}

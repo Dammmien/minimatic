@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Top Five",
+    "year": 2014,
+    "cast": [
+      "Chris Rock",
+      "Rosario Dawson",
+      "Kevin Hart",
+      "Gabrielle Union"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/top-five.html"
+}

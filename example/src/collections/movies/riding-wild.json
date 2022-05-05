@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riding Wild",
+    "year": 1935,
+    "cast": [
+      "Tim McCoy",
+      "Billie Seward"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/riding-wild.html"
+}

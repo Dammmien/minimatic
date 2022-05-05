@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Past",
+    "year": 1931,
+    "cast": [
+      "Bebe Daniels",
+      "Lewis Stone",
+      "Ben Lyon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-past.html"
+}

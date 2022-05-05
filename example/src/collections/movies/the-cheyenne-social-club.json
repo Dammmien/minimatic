@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cheyenne Social Club",
+    "year": 1970,
+    "cast": [
+      "James Stewart",
+      "Henry Fonda",
+      "Shirley Jones"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-cheyenne-social-club.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man in the Saddle",
+    "year": 1926,
+    "cast": [
+      "Hoot Gibson",
+      "Fay Wray"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-man-in-the-saddle.html"
+}

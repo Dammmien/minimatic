@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Juarez",
+    "year": 1939,
+    "cast": [
+      "Paul Muni",
+      "Bette Davis",
+      "Brian Aherne",
+      "Claude Rains"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/juarez.html"
+}

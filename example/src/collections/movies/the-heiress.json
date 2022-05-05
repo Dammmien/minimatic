@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Heiress",
+    "year": 1949,
+    "cast": [
+      "Olivia de Havilland",
+      "Montgomery Clift",
+      "Ralph Richardson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-heiress.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Doomsday Gun",
+    "year": 1994,
+    "cast": [
+      "Frank Langella",
+      "Alan Arkin",
+      "Kevin Spacey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/doomsday-gun.html"
+}

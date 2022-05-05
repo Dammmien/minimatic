@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daddy Day Camp",
+    "year": 2007,
+    "cast": [
+      "Cuba Gooding Jr."
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/daddy-day-camp.html"
+}

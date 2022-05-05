@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Heart of Virginia",
+    "year": 1948,
+    "cast": [
+      "Janet Martin",
+      "Robert Lowery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/heart-of-virginia.html"
+}

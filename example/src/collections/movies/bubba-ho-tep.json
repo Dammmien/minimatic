@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bubba Ho-tep",
+    "year": 2002,
+    "cast": [
+      "Bruce Campbell",
+      "Ossie Davis",
+      "Ella Joyce"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/bubba-ho-tep.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Conquest of Cheyenne",
+    "year": 1946,
+    "cast": [
+      "Wild Bill Elliott",
+      "Peggy Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/conquest-of-cheyenne.html"
+}

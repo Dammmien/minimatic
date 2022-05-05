@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Trumpet Blows",
+    "year": 1934,
+    "cast": [
+      "George Raft",
+      "Adolphe Menjou",
+      "Frances Drake"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-trumpet-blows.html"
+}

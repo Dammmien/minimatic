@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "West of the Divide",
+    "year": 1934,
+    "cast": [
+      "John Wayne",
+      "Virginia Faire Brown",
+      "George Hayes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/west-of-the-divide.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Putting One Over",
+    "year": 1919,
+    "cast": [
+      "George Walsh",
+      "Matthew Betz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/putting-one-over.html"
+}

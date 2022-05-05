@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mask of Zorro",
+    "year": 1998,
+    "cast": [
+      "Antonio Banderas",
+      "Anthony Hopkins",
+      "Catherine Zeta-Jones"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-mask-of-zorro.html"
+}

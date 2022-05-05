@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Grudge 3",
+    "year": 2009,
+    "cast": [
+      "Johanna Braddy",
+      "Gil McKinney",
+      "Shawnee Smith",
+      "Emi Ikehata",
+      "Jadie Hobson",
+      "Beau Mirchoff",
+      "Marina Sirtis",
+      "Matthew Knight"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-grudge-3.html"
+}

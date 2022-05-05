@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Burglar",
+    "year": 1957,
+    "cast": [
+      "Dan Duryea",
+      "Jayne Mansfield",
+      "Martha Vickers"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-burglar.html"
+}

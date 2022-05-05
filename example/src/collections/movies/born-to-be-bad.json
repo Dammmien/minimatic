@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Born to Be Bad",
+    "year": 1950,
+    "cast": [
+      "Joan Fontaine",
+      "Robert Ryan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/born-to-be-bad.html"
+}

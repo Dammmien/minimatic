@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Facing the Giants",
+    "year": 2006,
+    "cast": [
+      "Alex Kendrick",
+      "Shannen Fields",
+      "Tracy Goode"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/facing-the-giants.html"
+}

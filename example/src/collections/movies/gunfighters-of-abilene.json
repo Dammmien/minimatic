@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gunfighters of Abilene",
+    "year": 1960,
+    "cast": [
+      "Buster Crabbe",
+      "Barton MacLane",
+      "Judith Ames"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gunfighters-of-abilene.html"
+}

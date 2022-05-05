@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "X-Men Origins: Wolverine",
+    "year": 2009,
+    "cast": [
+      "Hugh Jackman",
+      "Liev Schreiber",
+      "Danny Huston",
+      "will.i.am",
+      "Lynn Collins",
+      "Taylor Kitsch",
+      "Ryan Reynolds",
+      "Dominic Monaghan"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Superhero"
+    ]
+  },
+  "output": "movies/x-men-origins--wolverine.html"
+}

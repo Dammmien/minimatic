@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Home Again",
+    "year": 2017,
+    "cast": [
+      "Reese Witherspoon",
+      "Candice Bergen",
+      "Michael Sheen",
+      "Lake Bell",
+      "Nat Wolff",
+      "Reid Scott",
+      "Pico Alexander"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/home-again.html"
+}

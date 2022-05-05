@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Strike Up the Band",
+    "year": 1940,
+    "cast": [
+      "Mickey Rooney",
+      "Judy Garland",
+      "Paul Whiteman",
+      "and his Orchestra"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/strike-up-the-band.html"
+}

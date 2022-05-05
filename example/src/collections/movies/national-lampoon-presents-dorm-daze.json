@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "National Lampoon Presents Dorm Daze",
+    "year": 2003,
+    "cast": [
+      "Tatyana Ali",
+      "Boti Bliss",
+      "Marieh Delfino"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/national-lampoon-presents-dorm-daze.html"
+}

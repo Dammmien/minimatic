@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Powder River",
+    "year": 1953,
+    "cast": [
+      "Rory Calhoun",
+      "Corinne Calvet"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/powder-river.html"
+}

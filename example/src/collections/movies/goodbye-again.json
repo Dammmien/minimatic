@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Goodbye Again",
+    "year": 1961,
+    "cast": [
+      "Ingrid Bergman",
+      "Anthony Perkins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/goodbye-again.html"
+}

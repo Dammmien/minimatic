@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Dunked in the Deep",
+    "year": 1949,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/dunked-in-the-deep.html"
+}

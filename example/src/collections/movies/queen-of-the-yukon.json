@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Queen of the Yukon",
+    "year": 1940,
+    "cast": [
+      "Charles Bickford",
+      "Irene Rich",
+      "June Carlson"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/queen-of-the-yukon.html"
+}

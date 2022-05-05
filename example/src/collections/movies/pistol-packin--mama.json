@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pistol Packin' Mama",
+    "year": 1943,
+    "cast": [
+      "Ruth Terry",
+      "Robert Livingston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pistol-packin--mama.html"
+}

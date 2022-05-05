@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tonight or Never",
+    "year": 1931,
+    "cast": [
+      "Gloria Swanson",
+      "Constance Cummings"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tonight-or-never.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Man of the Century",
+    "year": 1999,
+    "cast": [
+      "Gibson Frazier",
+      "Cara Buono",
+      "Susan Egan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/man-of-the-century.html"
+}

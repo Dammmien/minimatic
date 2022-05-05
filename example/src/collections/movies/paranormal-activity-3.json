@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Paranormal Activity 3",
+    "year": 2011,
+    "cast": [
+      "Katie Featherston",
+      "Sprague Grayden",
+      "Brian Boland",
+      "Lauren Bittner",
+      "Christopher Nicholas Smith",
+      "Mark Fredrichs",
+      "Chloe Cserngey",
+      "Jessica Tyler Brown"
+    ],
+    "genres": [
+      "Supernatural",
+      "Horror"
+    ]
+  },
+  "output": "movies/paranormal-activity-3.html"
+}

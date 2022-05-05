@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Gentleman Jim",
+    "year": 1942,
+    "cast": [
+      "Errol Flynn"
+    ],
+    "genres": []
+  },
+  "output": "movies/gentleman-jim.html"
+}

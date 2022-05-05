@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jefferson in Paris",
+    "year": 1995,
+    "cast": [
+      "Nick Nolte",
+      "Thandie Newton"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/jefferson-in-paris.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Other Side of the Door",
+    "year": 2016,
+    "cast": [
+      "Sarah Wayne Callies",
+      "Jeremy Sisto"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-other-side-of-the-door.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "And Then There Were None",
+    "year": 1974,
+    "cast": [
+      "Oliver Reed",
+      "Elke Sommer",
+      "Richard Attenborough",
+      "Herbert Lom",
+      "Charles Aznavour",
+      "Gert Frobe"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/and-then-there-were-none.html"
+}

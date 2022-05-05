@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Western Speed",
+    "year": 1922,
+    "cast": [
+      "Buck Jones",
+      "Eileen Percy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/western-speed.html"
+}

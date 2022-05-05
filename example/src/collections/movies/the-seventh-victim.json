@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Seventh Victim",
+    "year": 1943,
+    "cast": [
+      "Tom Conway",
+      "Jean Brooks",
+      "Isabel Jewell",
+      "Kim Hunter",
+      "Hugh Beaumont"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-seventh-victim.html"
+}

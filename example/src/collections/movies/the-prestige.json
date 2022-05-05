@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Prestige",
+    "year": 2006,
+    "cast": [
+      "Hugh Jackman",
+      "Christian Bale",
+      "Scarlett Johansson",
+      "Michael Caine",
+      "Rebecca Hall",
+      "David Bowie"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-prestige.html"
+}

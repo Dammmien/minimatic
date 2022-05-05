@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Steel Dawn",
+    "year": 1987,
+    "cast": [
+      "Patrick Swayze",
+      "Lisa Niemi"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/steel-dawn.html"
+}

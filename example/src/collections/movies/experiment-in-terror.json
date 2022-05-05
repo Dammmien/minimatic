@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Experiment in Terror",
+    "year": 1962,
+    "cast": [
+      "Glenn Ford",
+      "Lee Remick",
+      "Stefanie Powers",
+      "Ross Martin"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/experiment-in-terror.html"
+}

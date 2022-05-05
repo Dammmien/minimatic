@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Cold Creek Manor",
+    "year": 2003,
+    "cast": [
+      "Dennis Quaid",
+      "Sharon Stone",
+      "Stephen Dorff",
+      "Juliette Lewis"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/cold-creek-manor.html"
+}

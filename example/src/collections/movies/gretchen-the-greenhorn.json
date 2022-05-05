@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gretchen the Greenhorn",
+    "year": 1916,
+    "cast": [
+      "Dorothy Gish",
+      "Ralph Lewis",
+      "Elmo Lincoln"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gretchen-the-greenhorn.html"
+}

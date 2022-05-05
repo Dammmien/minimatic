@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Killed Geronimo",
+    "year": 1950,
+    "cast": [
+      "James Ellison",
+      "Chief Thundercloud"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/i-killed-geronimo.html"
+}

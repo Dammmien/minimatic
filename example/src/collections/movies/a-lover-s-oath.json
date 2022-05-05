@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Lover's Oath",
+    "year": 1925,
+    "cast": [
+      "Ramon Novarro",
+      "Kathleen Key"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/a-lover-s-oath.html"
+}

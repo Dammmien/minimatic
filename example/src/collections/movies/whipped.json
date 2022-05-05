@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Whipped",
+    "year": 2000,
+    "cast": [
+      "Amanda Peet",
+      "Callie Thorne",
+      "Brian Van Holt"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/whipped.html"
+}

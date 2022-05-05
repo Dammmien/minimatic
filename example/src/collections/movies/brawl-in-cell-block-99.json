@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Brawl in Cell Block 99",
+    "year": 2017,
+    "cast": [
+      "Vince Vaughn",
+      "Jennifer Carpenter",
+      "Don Johnson",
+      "Udo Kier"
+    ],
+    "genres": [
+      "Drama",
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/brawl-in-cell-block-99.html"
+}

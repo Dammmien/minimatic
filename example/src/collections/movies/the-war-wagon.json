@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The War Wagon",
+    "year": 1967,
+    "cast": [
+      "John Wayne",
+      "Kirk Douglas",
+      "Robert Walker Jr."
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-war-wagon.html"
+}

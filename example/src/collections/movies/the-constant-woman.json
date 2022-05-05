@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Constant Woman",
+    "year": 1933,
+    "cast": [
+      "Conrad Nagel",
+      "Leila Hyams",
+      "Claire Windsor"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/the-constant-woman.html"
+}

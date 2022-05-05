@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Carnosaur 2",
+    "year": 1995,
+    "cast": [
+      "John Savage",
+      "Cliff De Young"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/carnosaur-2.html"
+}

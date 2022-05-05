@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Last Vegas",
+    "year": 2013,
+    "cast": [
+      "Michael Douglas",
+      "Robert De Niro",
+      "Morgan Freeman",
+      "Kevin Kline",
+      "Mary Steenburgen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/last-vegas.html"
+}

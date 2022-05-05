@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Queen of the Night Clubs",
+    "year": 1929,
+    "cast": [
+      "Texas Guinan",
+      "Lila Lee"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/queen-of-the-night-clubs.html"
+}

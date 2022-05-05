@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Game That Kills",
+    "year": 1937,
+    "cast": [
+      "Charles Quigley",
+      "Rita Hayworth",
+      "John Gallaudet"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-game-that-kills.html"
+}

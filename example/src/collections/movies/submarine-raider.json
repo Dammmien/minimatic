@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Submarine Raider",
+    "year": 1942,
+    "cast": [
+      "John Howard",
+      "Marguerite Chapman"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/submarine-raider.html"
+}

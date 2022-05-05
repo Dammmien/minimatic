@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Man Alone",
+    "year": 1955,
+    "cast": [
+      "Ray Milland",
+      "Mary Murphy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-man-alone.html"
+}

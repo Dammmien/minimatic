@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Modern Girls",
+    "year": 1986,
+    "cast": [
+      "Virginia Madsen",
+      "Cynthia Gibb",
+      "Daphne Zuniga"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/modern-girls.html"
+}

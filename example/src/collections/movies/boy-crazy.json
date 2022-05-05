@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Boy Crazy",
+    "year": 1922,
+    "cast": [
+      "Doris May",
+      "Fred Gamble"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/boy-crazy.html"
+}

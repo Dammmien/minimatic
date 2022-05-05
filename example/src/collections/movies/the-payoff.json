@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Payoff",
+    "year": 1935,
+    "cast": [
+      "James Dunn",
+      "Claire Dodd",
+      "Patricia Ellis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-payoff.html"
+}

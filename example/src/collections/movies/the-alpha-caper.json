@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Alpha Caper",
+    "year": 1973,
+    "cast": [
+      "Henry Fonda",
+      "Leonard Nimoy",
+      "Larry Hagman"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-alpha-caper.html"
+}

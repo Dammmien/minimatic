@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sky Commando",
+    "year": 1953,
+    "cast": [
+      "Dan Duryea",
+      "Frances Gifford"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/sky-commando.html"
+}

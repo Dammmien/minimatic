@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Black Samson",
+    "year": 1974,
+    "cast": [
+      "Carol Speed"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/black-samson.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Imp",
+    "year": 1919,
+    "cast": [
+      "Elsie Janis",
+      "Joe King"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-imp.html"
+}

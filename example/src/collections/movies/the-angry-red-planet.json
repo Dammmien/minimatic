@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Angry Red Planet",
+    "year": 1959,
+    "cast": [
+      "Gerald Mohr",
+      "Naura Hayden"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-angry-red-planet.html"
+}

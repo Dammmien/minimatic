@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Boat Trip",
+    "year": 2003,
+    "cast": [
+      "Cuba Gooding, Jr.",
+      "Horatio Sanz",
+      "Vivica A. Fox",
+      "Roselyn Sánchez",
+      "Victoria Silvstedt",
+      "Roger Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/boat-trip.html"
+}

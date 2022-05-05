@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stormbreaker",
+    "year": 2006,
+    "cast": [
+      "Alex Pettyfer",
+      "Ewan McGregor"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/stormbreaker.html"
+}

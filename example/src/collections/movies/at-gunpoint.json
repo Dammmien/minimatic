@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "At Gunpoint",
+    "year": 1956,
+    "cast": [
+      "Fred MacMurray",
+      "Dorothy Malone"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/at-gunpoint.html"
+}

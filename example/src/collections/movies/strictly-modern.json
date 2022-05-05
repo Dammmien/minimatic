@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strictly Modern",
+    "year": 1930,
+    "cast": [
+      "Dorothy Mackaill",
+      "Sidney Blackmer"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/strictly-modern.html"
+}

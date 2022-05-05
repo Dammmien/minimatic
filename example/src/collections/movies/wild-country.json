@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild Country",
+    "year": 1947,
+    "cast": [
+      "Eddie Dean",
+      "Roscoe Ates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wild-country.html"
+}

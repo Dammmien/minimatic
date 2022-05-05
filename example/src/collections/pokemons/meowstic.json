@@ -1,0 +1,20 @@
+{
+  "id": 678,
+  "name": {
+    "english": "Meowstic",
+    "japanese": "ニャオニクス",
+    "chinese": "超能妙喵",
+    "french": "Mistigrix"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "HP": 74,
+    "Attack": 48,
+    "Defense": 76,
+    "Sp. Attack": 83,
+    "Sp. Defense": 81,
+    "Speed": 104
+  }
+}

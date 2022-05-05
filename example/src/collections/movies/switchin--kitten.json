@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Switchin' Kitten",
+    "year": 1960,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/switchin--kitten.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ringmaster",
+    "year": 1998,
+    "cast": [
+      "Jerry Springer",
+      "William McNamara",
+      "Molly Hagan",
+      "Jaime Pressly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ringmaster.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Three to Tango",
+    "year": 1999,
+    "cast": [
+      "Matthew Perry",
+      "Neve Campbell",
+      "Dylan McDermott"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-to-tango.html"
+}

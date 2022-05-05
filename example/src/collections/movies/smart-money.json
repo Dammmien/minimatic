@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Smart Money",
+    "year": 1931,
+    "cast": [
+      "Edward G. Robinson",
+      "James Cagney",
+      "Margaret Livingston"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/smart-money.html"
+}

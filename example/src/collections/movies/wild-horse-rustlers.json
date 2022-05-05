@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild Horse Rustlers",
+    "year": 1943,
+    "cast": [
+      "Robert Livingston",
+      "Al St. John"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wild-horse-rustlers.html"
+}

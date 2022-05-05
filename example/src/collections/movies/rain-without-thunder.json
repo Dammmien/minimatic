@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rain Without Thunder",
+    "year": 1992,
+    "cast": [
+      "Betty Buckley",
+      "Jeff Daniels"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rain-without-thunder.html"
+}

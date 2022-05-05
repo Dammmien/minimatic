@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mirage",
+    "year": 1965,
+    "cast": [
+      "Gregory Peck",
+      "Diane Baker",
+      "Walter Matthau"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/mirage.html"
+}

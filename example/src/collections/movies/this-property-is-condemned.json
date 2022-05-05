@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Property Is Condemned",
+    "year": 1966,
+    "cast": [
+      "Robert Redford",
+      "Natalie Wood",
+      "Charles Bronson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/this-property-is-condemned.html"
+}

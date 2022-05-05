@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Ruby Sparks",
+    "year": 2012,
+    "cast": [
+      "Paul Dano",
+      "Zoe Kazan",
+      "Antonio Banderas",
+      "Annette Bening",
+      "Steve Coogan",
+      "Elliott Gould",
+      "Chris Messina",
+      "Alia Shawkat",
+      "Deborah Ann Woll"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/ruby-sparks.html"
+}

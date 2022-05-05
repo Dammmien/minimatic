@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "I.Q.",
+    "year": 1994,
+    "cast": [
+      "Tim Robbins",
+      "Meg Ryan",
+      "Walter Matthau"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-q-.html"
+}

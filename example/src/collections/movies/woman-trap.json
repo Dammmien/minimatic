@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Woman Trap",
+    "year": 1936,
+    "cast": [
+      "Gertrude Michael",
+      "George Murphy",
+      "Akim Tamiroff"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/woman-trap.html"
+}

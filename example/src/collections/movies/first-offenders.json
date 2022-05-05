@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "First Offenders",
+    "year": 1939,
+    "cast": [
+      "Beverly Roberts",
+      "Walter Abel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/first-offenders.html"
+}

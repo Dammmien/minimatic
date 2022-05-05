@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Yellow Back",
+    "year": 1926,
+    "cast": [
+      "Lotus Thompson",
+      "Claude Payton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-yellow-back.html"
+}

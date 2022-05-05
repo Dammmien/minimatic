@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cass Timberlane",
+    "year": 1947,
+    "cast": [
+      "Spencer Tracy",
+      "Lana Turner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cass-timberlane.html"
+}

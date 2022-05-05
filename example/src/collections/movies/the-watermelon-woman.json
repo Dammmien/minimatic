@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Watermelon Woman",
+    "year": 1996,
+    "cast": [
+      "Cheryl Dunye",
+      "Guinevere Turner",
+      "Valarie Walker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-watermelon-woman.html"
+}

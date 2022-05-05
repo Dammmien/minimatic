@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell Bound",
+    "year": 1957,
+    "cast": [
+      "John Russell",
+      "June Blair"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/hell-bound.html"
+}

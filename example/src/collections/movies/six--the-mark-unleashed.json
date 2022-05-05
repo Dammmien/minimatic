@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Six: The Mark Unleashed",
+    "year": 2004,
+    "cast": [
+      "Stephen Baldwin",
+      "Eric Roberts",
+      "Kevin Downes"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/six--the-mark-unleashed.html"
+}

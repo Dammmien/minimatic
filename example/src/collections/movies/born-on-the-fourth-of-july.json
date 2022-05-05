@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Born on the Fourth of July",
+    "year": 1989,
+    "cast": [
+      "Tom Cruise",
+      "Kyra Sedgwick",
+      "Willem Dafoe"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/born-on-the-fourth-of-july.html"
+}

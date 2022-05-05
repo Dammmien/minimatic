@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Ip Man 3",
+    "year": 2016,
+    "cast": [
+      "Donnie Yen"
+    ],
+    "genres": [
+      "Martial Arts"
+    ]
+  },
+  "output": "movies/ip-man-3.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "First Reformed",
+    "year": 2018,
+    "cast": [
+      "Ethan Hawke",
+      "Amanda Seyfried",
+      "Cedric Kyles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/first-reformed.html"
+}

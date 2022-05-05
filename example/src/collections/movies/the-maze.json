@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Maze",
+    "year": 1953,
+    "cast": [
+      "Richard Carlson",
+      "Veronica Hurst"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-maze.html"
+}

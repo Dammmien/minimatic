@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Air Circus",
+    "year": 1928,
+    "cast": [
+      "Arthur Lake",
+      "Sue Carol"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-air-circus.html"
+}

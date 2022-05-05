@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Men Don't Leave",
+    "year": 1990,
+    "cast": [
+      "Jessica Lange",
+      "Chris O'Donnell",
+      "Joan Cusack",
+      "Arliss Howard",
+      "Charlie Korsmo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/men-don-t-leave.html"
+}

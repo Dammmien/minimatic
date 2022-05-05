@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mounted Stranger",
+    "year": 1930,
+    "cast": [
+      "Hoot Gibson",
+      "Fred Burns"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-mounted-stranger.html"
+}

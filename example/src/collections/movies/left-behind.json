@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Left Behind",
+    "year": 2014,
+    "cast": [
+      "Nicolas Cage",
+      "Cassi Thomson",
+      "Chad Michael Murray"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/left-behind.html"
+}

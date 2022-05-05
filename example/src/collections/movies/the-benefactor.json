@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Benefactor",
+    "year": 2016,
+    "cast": [
+      "Richard Gere",
+      "Dakota Fanning",
+      "Theo James"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-benefactor.html"
+}

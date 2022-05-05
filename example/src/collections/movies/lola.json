@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lola",
+    "year": 1969,
+    "cast": [
+      "Susan George",
+      "Charles Bronson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lola.html"
+}

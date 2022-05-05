@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "13 Moons",
+    "year": 2002,
+    "cast": [
+      "Jennifer Beals",
+      "Elizabeth Bracco",
+      "Steve Buscemi"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/13-moons.html"
+}

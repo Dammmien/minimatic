@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hungry Hearts",
+    "year": 1922,
+    "cast": [
+      "Helen Ferguson",
+      "Bryant Washburn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hungry-hearts.html"
+}

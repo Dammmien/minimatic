@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Child's Play 3",
+    "year": 1991,
+    "cast": [
+      "Brad Dourif",
+      "Justin Whalin",
+      "Perrey Reeves"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/child-s-play-3.html"
+}

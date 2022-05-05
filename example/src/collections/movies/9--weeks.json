@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "9½ Weeks",
+    "year": 1986,
+    "cast": [
+      "Mickey Rourke",
+      "Kim Basinger"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/9--weeks.html"
+}

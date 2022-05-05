@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Rabbit Trap",
+    "year": 1959,
+    "cast": [
+      "Ernest Borgnine",
+      "Bethel Leslie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-rabbit-trap.html"
+}

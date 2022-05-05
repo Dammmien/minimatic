@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pink Jungle",
+    "year": 1968,
+    "cast": [
+      "James Garner",
+      "George Kennedy"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-pink-jungle.html"
+}

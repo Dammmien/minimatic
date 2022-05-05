@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Dumb Patrol",
+    "year": 1964,
+    "cast": [
+      "Yosemite Sam"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/dumb-patrol.html"
+}

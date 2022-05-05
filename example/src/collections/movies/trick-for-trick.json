@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trick for Trick",
+    "year": 1933,
+    "cast": [
+      "Ralph Morgan",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/trick-for-trick.html"
+}

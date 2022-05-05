@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Homesteaders",
+    "year": 1953,
+    "cast": [
+      "Bill Elliott",
+      "Robert Lowery"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-homesteaders.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chicago Deadline",
+    "year": 1949,
+    "cast": [
+      "Alan Ladd",
+      "Donna Reed",
+      "June Havoc"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/chicago-deadline.html"
+}

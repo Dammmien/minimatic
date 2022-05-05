@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Spies Like Us",
+    "year": 1985,
+    "cast": [
+      "Chevy Chase",
+      "Dan Aykroyd",
+      "Bernie Casey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/spies-like-us.html"
+}

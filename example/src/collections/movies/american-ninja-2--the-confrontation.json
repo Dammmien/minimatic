@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "American Ninja 2: The Confrontation",
+    "year": 1987,
+    "cast": [
+      "Michael Dudikoff",
+      "Steve James"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/american-ninja-2--the-confrontation.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flame of Calcutta",
+    "year": 1953,
+    "cast": [
+      "Denise Darcel",
+      "Patric Knowles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flame-of-calcutta.html"
+}

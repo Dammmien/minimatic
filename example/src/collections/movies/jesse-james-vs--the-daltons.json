@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jesse James vs. the Daltons",
+    "year": 1954,
+    "cast": [
+      "Brett King",
+      "Barbara Lawrence"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/jesse-james-vs--the-daltons.html"
+}

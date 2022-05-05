@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Narrow Margin",
+    "year": 1990,
+    "cast": [
+      "Gene Hackman",
+      "Anne Archer"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/narrow-margin.html"
+}

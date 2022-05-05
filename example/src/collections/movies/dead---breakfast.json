@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dead & Breakfast",
+    "year": 2004,
+    "cast": [
+      "Ever Carradine",
+      "Brent David Fraser",
+      "Portia de Rossi"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dead---breakfast.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Carnival Story",
+    "year": 1954,
+    "cast": [
+      "Anne Baxter",
+      "Steve Cochran"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/carnival-story.html"
+}

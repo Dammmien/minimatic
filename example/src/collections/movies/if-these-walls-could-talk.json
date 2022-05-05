@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "If These Walls Could Talk",
+    "year": 1996,
+    "cast": [
+      "Demi Moore",
+      "Sissy Spacek",
+      "Cher"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/if-these-walls-could-talk.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bowery at Midnight",
+    "year": 1942,
+    "cast": [
+      "Bela Lugosi",
+      "John Archer"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/bowery-at-midnight.html"
+}

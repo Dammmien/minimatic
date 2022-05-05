@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "There Goes the Groom",
+    "year": 1937,
+    "cast": [
+      "Ann Sothern",
+      "Burgess Meredith",
+      "Mary Boland"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/there-goes-the-groom.html"
+}

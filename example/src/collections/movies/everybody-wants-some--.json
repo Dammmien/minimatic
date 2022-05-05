@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Everybody Wants Some!!",
+    "year": 2016,
+    "cast": [
+      "Will Brittain",
+      "Blake Jenner",
+      "Zoey Deutch",
+      "Tyler Hoechlin"
+    ],
+    "genres": [
+      "Sports",
+      "Comedy"
+    ]
+  },
+  "output": "movies/everybody-wants-some--.html"
+}

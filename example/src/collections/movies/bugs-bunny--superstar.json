@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Bugs Bunny: Superstar",
+    "year": 1975,
+    "cast": [
+      "Orson Welles"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/bugs-bunny--superstar.html"
+}

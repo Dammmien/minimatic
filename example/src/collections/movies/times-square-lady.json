@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Times Square Lady",
+    "year": 1935,
+    "cast": [
+      "Robert Taylor",
+      "Virginia Bruce",
+      "Pinky Tomlin"
+    ],
+    "genres": [
+      "Romance",
+      "Musical"
+    ]
+  },
+  "output": "movies/times-square-lady.html"
+}

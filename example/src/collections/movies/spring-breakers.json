@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Spring Breakers",
+    "year": 2013,
+    "cast": [
+      "James Franco",
+      "Vanessa Hudgens",
+      "Selena Gomez",
+      "Ashley Benson",
+      "Rachel Korine",
+      "Gucci Mane"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/spring-breakers.html"
+}

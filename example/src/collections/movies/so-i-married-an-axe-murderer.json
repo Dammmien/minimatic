@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "So I Married an Axe Murderer",
+    "year": 1993,
+    "cast": [
+      "Mike Myers",
+      "Nancy Travis",
+      "Anthony LaPaglia",
+      "Amanda Plummer",
+      "Brenda Fricker",
+      "Alan Arkin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/so-i-married-an-axe-murderer.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Marley",
+    "year": 2012,
+    "cast": [
+      "The life of",
+      "reggae",
+      "singer",
+      "Bob Marley",
+      "."
+    ],
+    "genres": [
+      "Biography",
+      "Documentary"
+    ]
+  },
+  "output": "movies/marley.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Accusing Toe",
+    "year": 1918,
+    "cast": [
+      "Sadie Clayton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-accusing-toe.html"
+}

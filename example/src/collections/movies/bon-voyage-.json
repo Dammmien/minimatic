@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bon Voyage!",
+    "year": 1962,
+    "cast": [
+      "Fred MacMurray",
+      "Jane Wyman"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/bon-voyage-.html"
+}

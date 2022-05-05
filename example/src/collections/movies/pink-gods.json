@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pink Gods",
+    "year": 1922,
+    "cast": [
+      "Bebe Daniels",
+      "Adolphe Menjou",
+      "Anna Q. Nilsson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pink-gods.html"
+}

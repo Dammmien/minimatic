@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cop and a Half",
+    "year": 1993,
+    "cast": [
+      "Burt Reynolds",
+      "Norman D. Golden II"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cop-and-a-half.html"
+}

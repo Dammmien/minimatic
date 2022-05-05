@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Over My Dead Body",
+    "year": 1942,
+    "cast": [
+      "Milton Berle",
+      "Mary Beth Hughes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/over-my-dead-body.html"
+}

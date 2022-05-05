@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Frozen Ground",
+    "year": 2013,
+    "cast": [
+      "Nicolas Cage",
+      "John Cusack",
+      "Vanessa Hudgens",
+      "50 Cent",
+      "Radha Mitchell"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-frozen-ground.html"
+}

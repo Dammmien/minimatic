@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sweepstakes",
+    "year": 1931,
+    "cast": [
+      "James Gleason",
+      "Marian Nixon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sweepstakes.html"
+}

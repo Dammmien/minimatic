@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Full Body Massage",
+    "year": 1995,
+    "cast": [
+      "Mimi Rogers",
+      "Bryan Brown"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/full-body-massage.html"
+}

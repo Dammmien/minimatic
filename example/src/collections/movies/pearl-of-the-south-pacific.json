@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pearl of the South Pacific",
+    "year": 1955,
+    "cast": [
+      "Virginia Mayo",
+      "Dennis Morgan"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/pearl-of-the-south-pacific.html"
+}

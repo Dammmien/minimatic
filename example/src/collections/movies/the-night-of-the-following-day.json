@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Night of the Following Day",
+    "year": 1968,
+    "cast": [
+      "Marlon Brando",
+      "Richard Boone",
+      "Rita Moreno"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-night-of-the-following-day.html"
+}

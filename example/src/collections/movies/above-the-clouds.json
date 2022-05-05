@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Above the Clouds",
+    "year": 1933,
+    "cast": [
+      "Richard Cromwell",
+      "Dorothy Wilson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/above-the-clouds.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder at the Vanities",
+    "year": 1934,
+    "cast": [
+      "Victor McLaglen",
+      "Carl Brisson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/murder-at-the-vanities.html"
+}

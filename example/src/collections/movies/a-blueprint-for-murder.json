@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Blueprint for Murder",
+    "year": 1953,
+    "cast": [
+      "Joseph Cotten",
+      "Jean Peters",
+      "Gary Merrill"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/a-blueprint-for-murder.html"
+}

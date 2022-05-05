@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thief in the Dark",
+    "year": 1928,
+    "cast": [
+      "George Meeker",
+      "Doris Hill"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/thief-in-the-dark.html"
+}

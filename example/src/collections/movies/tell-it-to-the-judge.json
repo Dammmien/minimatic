@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tell It to the Judge",
+    "year": 1949,
+    "cast": [
+      "Rosalind Russell",
+      "Robert Cummings"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tell-it-to-the-judge.html"
+}

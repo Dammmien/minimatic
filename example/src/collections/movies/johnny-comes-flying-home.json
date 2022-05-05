@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Johnny Comes Flying Home",
+    "year": 1946,
+    "cast": [
+      "Faye Marlowe",
+      "Martha Stewart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/johnny-comes-flying-home.html"
+}

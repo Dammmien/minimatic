@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "McCabe & Mrs. Miller",
+    "year": 1971,
+    "cast": [
+      "Warren Beatty",
+      "Julie Christie",
+      "William Devane",
+      "René Auberjonois",
+      "Keith Carradine"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/mccabe---mrs--miller.html"
+}

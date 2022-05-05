@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Carnival Man",
+    "year": 1929,
+    "cast": [
+      "Walter Huston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-carnival-man.html"
+}

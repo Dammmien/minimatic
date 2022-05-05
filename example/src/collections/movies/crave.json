@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Crave",
+    "year": 2012,
+    "cast": [
+      "Josh Lawson",
+      "Emma Lung",
+      "Ron Perlman",
+      "Edward Furlong",
+      "Christopher Stapleton",
+      "William Gines"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/crave.html"
+}

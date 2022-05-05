@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shy People",
+    "year": 1987,
+    "cast": [
+      "Barbara Hershey",
+      "Jill Clayburgh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shy-people.html"
+}

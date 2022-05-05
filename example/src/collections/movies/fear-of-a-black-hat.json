@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Fear of a Black Hat",
+    "year": 1994,
+    "cast": [
+      "Kasi Lemmons"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fear-of-a-black-hat.html"
+}

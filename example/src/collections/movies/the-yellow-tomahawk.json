@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Yellow Tomahawk",
+    "year": 1954,
+    "cast": [
+      "Rory Calhoun",
+      "Peggie Castle"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-yellow-tomahawk.html"
+}

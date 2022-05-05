@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Stella",
+    "year": 1990,
+    "cast": [
+      "Bette Midler",
+      "Trini Alvarado",
+      "John Goodman",
+      "Stephen Collins",
+      "Marsha Mason",
+      "Eileen Brennan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stella.html"
+}

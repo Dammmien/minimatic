@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Richard Pryor: Live in Concert",
+    "year": 1979,
+    "cast": [
+      "Richard Pryor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/richard-pryor--live-in-concert.html"
+}

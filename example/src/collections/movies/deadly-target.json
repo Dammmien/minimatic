@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Deadly Target",
+    "year": 1994,
+    "cast": [
+      "Gary Daniels",
+      "Ken McLeod",
+      "Max Gail"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/deadly-target.html"
+}

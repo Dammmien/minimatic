@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "G-Force",
+    "year": 2009,
+    "cast": [
+      "Bill Nighy",
+      "Will Arnett",
+      "Zach Galifianakis",
+      "Nicolas Cage",
+      "Sam Rockwell",
+      "Jon Favreau",
+      "Penélope Cruz",
+      "Steve Buscemi",
+      "Tracy Morgan"
+    ],
+    "genres": [
+      "Family",
+      "Live Action",
+      "Animated"
+    ]
+  },
+  "output": "movies/g-force.html"
+}

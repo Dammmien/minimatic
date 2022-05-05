@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Revelation",
+    "year": 1924,
+    "cast": [
+      "Viola Dana",
+      "Monte Blue"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/revelation.html"
+}

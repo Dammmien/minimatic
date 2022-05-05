@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Little Sister",
+    "year": 1919,
+    "cast": [
+      "Evelyn Nesbit",
+      "Leslie Austin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-little-sister.html"
+}

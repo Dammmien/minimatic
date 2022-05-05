@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The King of the Turf",
+    "year": 1926,
+    "cast": [
+      "George Irving",
+      "Patsy Ruth Miller",
+      "Kenneth Harlan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-king-of-the-turf.html"
+}

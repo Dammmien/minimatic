@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bigger Than the Sky",
+    "year": 2005,
+    "cast": [
+      "Marcus Thomas",
+      "John Corbett",
+      "Amy Smart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bigger-than-the-sky.html"
+}

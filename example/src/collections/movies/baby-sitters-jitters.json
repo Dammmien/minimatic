@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Baby Sitters Jitters",
+    "year": 1951,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/baby-sitters-jitters.html"
+}

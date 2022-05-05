@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Yankee Doodle Dandy",
+    "year": 1942,
+    "cast": [
+      "James Cagney",
+      "Joan Leslie",
+      "Walter Huston"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/yankee-doodle-dandy.html"
+}

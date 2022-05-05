@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wrong Road",
+    "year": 1937,
+    "cast": [
+      "Richard Cromwell",
+      "Helen Mack",
+      "Lionel Atwill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wrong-road.html"
+}

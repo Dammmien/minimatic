@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sideshow",
+    "year": 1928,
+    "cast": [
+      "Marie Prevost",
+      "Ralph Graves"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sideshow.html"
+}

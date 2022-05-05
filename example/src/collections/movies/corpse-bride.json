@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Corpse Bride",
+    "year": 2005,
+    "cast": [
+      "Johnny Depp",
+      "Helena Bonham Carter"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/corpse-bride.html"
+}

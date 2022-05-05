@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Pipe the Whiskers",
+    "year": 1918,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pipe-the-whiskers.html"
+}

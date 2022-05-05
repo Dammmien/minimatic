@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kansas City Kitty",
+    "year": 1944,
+    "cast": [
+      "Joan Davis",
+      "Jane Frazee"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/kansas-city-kitty.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fireball 500",
+    "year": 1966,
+    "cast": [
+      "Frankie Avalon",
+      "Annette Funicello",
+      "Fabian"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fireball-500.html"
+}

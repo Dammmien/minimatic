@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "American Hustle",
+    "year": 2013,
+    "cast": [
+      "Christian Bale",
+      "Bradley Cooper",
+      "Amy Adams",
+      "Jeremy Renner",
+      "Jennifer Lawrence"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/american-hustle.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Call Her Savage",
+    "year": 1932,
+    "cast": [
+      "Clara Bow",
+      "Thelma Todd",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/call-her-savage.html"
+}

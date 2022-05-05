@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Lot Like Love",
+    "year": 2005,
+    "cast": [
+      "Amanda Peet",
+      "Ashton Kutcher"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-lot-like-love.html"
+}

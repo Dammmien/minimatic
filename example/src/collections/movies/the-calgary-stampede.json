@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Calgary Stampede",
+    "year": 1925,
+    "cast": [
+      "Hoot Gibson",
+      "Virginia Brown Faire"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-calgary-stampede.html"
+}

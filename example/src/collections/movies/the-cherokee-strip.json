@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cherokee Strip",
+    "year": 1937,
+    "cast": [
+      "Dick Foran",
+      "Jane Bryan",
+      "Joan Valerie"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-cherokee-strip.html"
+}

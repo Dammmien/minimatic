@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Big Game",
+    "year": 1936,
+    "cast": [
+      "James Gleason",
+      "Bruce Cabot",
+      "June Travis"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/the-big-game.html"
+}

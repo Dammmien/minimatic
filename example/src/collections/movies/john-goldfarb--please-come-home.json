@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "John Goldfarb, Please Come Home",
+    "year": 1965,
+    "cast": [
+      "Shirley MacLaine",
+      "Richard Crenna",
+      "Peter Ustinov"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/john-goldfarb--please-come-home.html"
+}

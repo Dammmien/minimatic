@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Hustler",
+    "year": 1961,
+    "cast": [
+      "Paul Newman",
+      "Jackie Gleason",
+      "Piper Laurie",
+      "George C. Scott",
+      "Myron McCormick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hustler.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Midas Touch",
+    "year": 1997,
+    "cast": [
+      "Trever O'Brien"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-midas-touch.html"
+}

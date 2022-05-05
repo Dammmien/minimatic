@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Better Wife",
+    "year": 1919,
+    "cast": [
+      "Clara Kimball Young",
+      "Nigel Barrie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-better-wife.html"
+}

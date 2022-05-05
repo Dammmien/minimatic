@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Me, Gangster",
+    "year": 1928,
+    "cast": [
+      "June Collyer",
+      "Don Terry",
+      "Anders Randolf"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/me--gangster.html"
+}

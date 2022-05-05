@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Shanghai Story",
+    "year": 1954,
+    "cast": [
+      "Ruth Roman",
+      "Edmond O'Brien"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-shanghai-story.html"
+}

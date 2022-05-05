@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Henry: Portrait of a Serial Killer",
+    "year": 1990,
+    "cast": [
+      "Michael Rooker",
+      "Tom Towles"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/henry--portrait-of-a-serial-killer.html"
+}

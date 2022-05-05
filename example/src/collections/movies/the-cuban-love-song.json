@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cuban Love Song",
+    "year": 1931,
+    "cast": [
+      "Lupe Vélez",
+      "Lawrence Tibbett",
+      "Jimmy Durante"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-cuban-love-song.html"
+}

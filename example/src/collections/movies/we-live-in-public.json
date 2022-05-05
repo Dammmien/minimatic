@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "We Live in Public",
+    "year": 2009,
+    "cast": [
+      "The career of",
+      "Josh Harris"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/we-live-in-public.html"
+}

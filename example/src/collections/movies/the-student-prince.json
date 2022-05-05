@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Student Prince",
+    "year": 1954,
+    "cast": [
+      "Ann Blyth",
+      "Edmund Purdom",
+      "Louis Calhern",
+      "Edmund Gwenn",
+      "Betta St. John"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-student-prince.html"
+}

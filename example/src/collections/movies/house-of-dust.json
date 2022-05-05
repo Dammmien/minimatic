@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "House of Dust",
+    "year": 2013,
+    "cast": [
+      "Inbar Lavi",
+      "Steven Grayhm",
+      "Eddie Hassell",
+      "Holland Roden",
+      "John Lee Ames"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/house-of-dust.html"
+}

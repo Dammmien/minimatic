@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Midnight Girl",
+    "year": 1925,
+    "cast": [
+      "Lila Lee",
+      "Bela Lugosi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-midnight-girl.html"
+}

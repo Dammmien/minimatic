@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Ghost Dog: The Way of the Samurai",
+    "year": 1999,
+    "cast": [
+      "Forest Whitaker"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/ghost-dog--the-way-of-the-samurai.html"
+}

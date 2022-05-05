@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Free to Love",
+    "year": 1925,
+    "cast": [
+      "Clara Bow",
+      "Donald Keith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/free-to-love.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Wife's Best Friend",
+    "year": 1952,
+    "cast": [
+      "Anne Baxter",
+      "Macdonald Carey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-wife-s-best-friend.html"
+}

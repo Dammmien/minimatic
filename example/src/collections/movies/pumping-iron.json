@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pumping Iron",
+    "year": 1977,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Lou Ferrigno"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/pumping-iron.html"
+}

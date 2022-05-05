@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Gun Fightin' Gentleman",
+    "year": 1919,
+    "cast": [
+      "Harry Carey",
+      "J. Barney Sherry"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-gun-fightin--gentleman.html"
+}

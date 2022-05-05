@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Politics",
+    "year": 1931,
+    "cast": [
+      "Marie Dressler",
+      "Polly Moran",
+      "Roscoe Ates"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/politics.html"
+}

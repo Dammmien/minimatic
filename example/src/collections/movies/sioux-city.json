@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sioux City",
+    "year": 1994,
+    "cast": [
+      "Lou Diamond Phillips",
+      "Melinda Dillon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sioux-city.html"
+}

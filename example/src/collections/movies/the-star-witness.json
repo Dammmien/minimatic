@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Star Witness",
+    "year": 1931,
+    "cast": [
+      "Walter Huston",
+      "Frances Starr"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-star-witness.html"
+}

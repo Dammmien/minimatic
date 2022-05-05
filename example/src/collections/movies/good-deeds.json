@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Good Deeds",
+    "year": 2012,
+    "cast": [
+      "Tyler Perry",
+      "Thandie Newton",
+      "Brian J. White",
+      "Eddie Cibrian",
+      "Rebecca Romijn",
+      "Jamie Kennedy",
+      "Phylicia Rashād",
+      "Gabrielle Union"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/good-deeds.html"
+}

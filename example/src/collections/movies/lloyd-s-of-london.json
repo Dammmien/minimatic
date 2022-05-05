@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lloyd's of London",
+    "year": 1936,
+    "cast": [
+      "Freddie Bartholomew",
+      "Madeleine Carroll",
+      "Tyrone Power"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/lloyd-s-of-london.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strangers of the Evening",
+    "year": 1932,
+    "cast": [
+      "ZaSu Pitts",
+      "Lucien Littlefield"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/strangers-of-the-evening.html"
+}

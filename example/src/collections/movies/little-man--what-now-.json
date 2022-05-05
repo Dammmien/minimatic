@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Little Man, What Now?",
+    "year": 1934,
+    "cast": [
+      "Margaret Sullavan",
+      "Douglass Montgomery",
+      "Alan Hale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-man--what-now-.html"
+}

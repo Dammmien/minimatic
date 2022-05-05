@@ -1,0 +1,20 @@
+{
+  "id": 78,
+  "name": {
+    "english": "Rapidash",
+    "japanese": "ギャロップ",
+    "chinese": "烈焰马",
+    "french": "Galopa"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "HP": 65,
+    "Attack": 100,
+    "Defense": 70,
+    "Sp. Attack": 80,
+    "Sp. Defense": 80,
+    "Speed": 105
+  }
+}

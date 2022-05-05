@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Basic Instinct",
+    "year": 1992,
+    "cast": [
+      "Michael Douglas",
+      "Sharon Stone",
+      "George Dzundza",
+      "Jeanne Tripplehorn"
+    ],
+    "genres": [
+      "Erotic",
+      "Thriller"
+    ]
+  },
+  "output": "movies/basic-instinct.html"
+}

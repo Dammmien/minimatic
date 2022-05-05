@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Walk of Fame",
+    "year": 2017,
+    "cast": [
+      "Scott Eastwood",
+      "Malcolm McDowell",
+      "Chris Kattan",
+      "Laura Ashley Samuels",
+      "Jamie Kennedy",
+      "Cory Hardrict"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/walk-of-fame.html"
+}

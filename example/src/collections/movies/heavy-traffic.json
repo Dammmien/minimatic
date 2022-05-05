@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Heavy Traffic",
+    "year": 1973,
+    "cast": [
+      "Joseph Kaufmann",
+      "Jamie Farr",
+      "(voices)"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/heavy-traffic.html"
+}

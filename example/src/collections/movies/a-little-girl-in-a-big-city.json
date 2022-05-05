@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Little Girl in a Big City",
+    "year": 1925,
+    "cast": [
+      "Gladys Walton",
+      "Niles Welch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-little-girl-in-a-big-city.html"
+}

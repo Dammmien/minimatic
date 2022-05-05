@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Queen of Burlesque",
+    "year": 1946,
+    "cast": [
+      "Evelyn Ankers",
+      "Carleton G. Young",
+      "Marion Martin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/queen-of-burlesque.html"
+}

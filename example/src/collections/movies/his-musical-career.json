@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "His Musical Career",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Mack Swain",
+      "Charley Chase"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/his-musical-career.html"
+}

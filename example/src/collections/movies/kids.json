@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kids",
+    "year": 1995,
+    "cast": [
+      "Chloë Sevigny",
+      "Rosario Dawson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kids.html"
+}

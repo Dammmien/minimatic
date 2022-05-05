@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mystery of Marie Roget",
+    "year": 1942,
+    "cast": [
+      "Maria Montez",
+      "Patric Knowles"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-mystery-of-marie-roget.html"
+}

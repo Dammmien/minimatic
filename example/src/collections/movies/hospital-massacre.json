@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hospital Massacre",
+    "year": 1982,
+    "cast": [
+      "Jon Van Ness",
+      "Barbi Benton"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/hospital-massacre.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sioux City Sue",
+    "year": 1946,
+    "cast": [
+      "Gene Autry",
+      "Lynne Roberts"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sioux-city-sue.html"
+}

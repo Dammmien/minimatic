@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Talk About a Lady",
+    "year": 1946,
+    "cast": [
+      "Jinx Falkenburg",
+      "Forrest Tucker"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/talk-about-a-lady.html"
+}

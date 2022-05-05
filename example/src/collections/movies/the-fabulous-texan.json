@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fabulous Texan",
+    "year": 1947,
+    "cast": [
+      "Wild Bill Elliott",
+      "Catherine McLeod"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fabulous-texan.html"
+}

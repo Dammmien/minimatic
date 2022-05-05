@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Red Sonja",
+    "year": 1985,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Brigitte Nielsen",
+      "Sandahl Bergman"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/red-sonja.html"
+}

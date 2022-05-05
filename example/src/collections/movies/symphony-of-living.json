@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Symphony of Living",
+    "year": 1935,
+    "cast": [
+      "Evelyn Brent",
+      "Al Shean"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/symphony-of-living.html"
+}

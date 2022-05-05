@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "Here Comes the Boom",
+    "year": 2012,
+    "cast": [
+      "Kevin James",
+      "Salma Hayek",
+      "Henry Winkler",
+      "Charice Pempengco",
+      "Bas Rutten",
+      "Reggie Lee",
+      "Joe Rogan",
+      "Mike Goldberg",
+      "Greg Germann",
+      "Jason Miller",
+      "Melissa Peterman",
+      "Bruce Buffer",
+      "Krzysztof Soszynski"
+    ],
+    "genres": [
+      "Comedy",
+      "Sports"
+    ]
+  },
+  "output": "movies/here-comes-the-boom.html"
+}

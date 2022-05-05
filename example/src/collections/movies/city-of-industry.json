@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "City of Industry",
+    "year": 1997,
+    "cast": [
+      "Harvey Keitel",
+      "Stephen Dorff",
+      "Timothy Hutton",
+      "Famke Janssen",
+      "Lucy Liu"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/city-of-industry.html"
+}

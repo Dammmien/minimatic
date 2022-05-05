@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Slim",
+    "year": 1937,
+    "cast": [
+      "Henry Fonda",
+      "Pat O'Brien"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/slim.html"
+}

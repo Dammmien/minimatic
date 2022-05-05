@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Too Busy to Work",
+    "year": 1932,
+    "cast": [
+      "Will Rogers",
+      "Marian Nixon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/too-busy-to-work.html"
+}

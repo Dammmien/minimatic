@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Texas Jack",
+    "year": 1935,
+    "cast": [
+      "Jack Perrin",
+      "Jayne Regan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/texas-jack.html"
+}

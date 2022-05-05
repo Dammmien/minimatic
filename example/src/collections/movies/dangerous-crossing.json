@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dangerous Crossing",
+    "year": 1953,
+    "cast": [
+      "Jeanne Crain",
+      "Michael Rennie",
+      "Carl Betz"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/dangerous-crossing.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Splendor in the Grass",
+    "year": 1961,
+    "cast": [
+      "Warren Beatty",
+      "Natalie Wood",
+      "Barbara Loden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/splendor-in-the-grass.html"
+}

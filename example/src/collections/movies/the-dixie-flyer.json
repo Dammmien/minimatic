@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dixie Flyer",
+    "year": 1926,
+    "cast": [
+      "Cullen Landis",
+      "Eva Novak"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-dixie-flyer.html"
+}

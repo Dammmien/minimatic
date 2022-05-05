@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Thrilling Night",
+    "year": 1942,
+    "cast": [
+      "Wanda McKay",
+      "John Beal"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-thrilling-night.html"
+}

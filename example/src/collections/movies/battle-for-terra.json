@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Battle for Terra",
+    "year": 2009,
+    "cast": [
+      "Evan Rachel Wood",
+      "Brian Cox",
+      "James Garner",
+      "Chris Evans",
+      "Danny Glover",
+      "Amanda Peet",
+      "David Cross",
+      "Justin Long",
+      "Dennis Quaid",
+      "Luke Wilson"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Animated"
+    ]
+  },
+  "output": "movies/battle-for-terra.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fakin' Da Funk",
+    "year": 1997,
+    "cast": [
+      "Pam Grier",
+      "Duane Martin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fakin--da-funk.html"
+}

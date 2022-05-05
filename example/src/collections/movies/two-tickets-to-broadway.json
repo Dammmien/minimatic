@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two Tickets to Broadway",
+    "year": 1951,
+    "cast": [
+      "Tony Martin",
+      "Janet Leigh",
+      "Eddie Bracken"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/two-tickets-to-broadway.html"
+}

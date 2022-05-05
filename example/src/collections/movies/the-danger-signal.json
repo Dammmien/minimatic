@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Danger Signal",
+    "year": 1925,
+    "cast": [
+      "Jane Novak",
+      "Dorothy Revier"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-danger-signal.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Benchwarmers",
+    "year": 2006,
+    "cast": [
+      "Rob Schneider",
+      "David Spade",
+      "Jon Heder"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-benchwarmers.html"
+}

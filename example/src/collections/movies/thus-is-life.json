@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thus is Life",
+    "year": 1930,
+    "cast": [
+      "José Bohr",
+      "Delia Magana"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/thus-is-life.html"
+}

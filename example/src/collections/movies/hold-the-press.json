@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hold the Press",
+    "year": 1933,
+    "cast": [
+      "Tim McCoy",
+      "Shirley Grey"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/hold-the-press.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Crimson Key",
+    "year": 1947,
+    "cast": [
+      "Kent Taylor",
+      "Doris Dowling"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-crimson-key.html"
+}

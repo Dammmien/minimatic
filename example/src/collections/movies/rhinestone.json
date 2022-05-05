@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Rhinestone",
+    "year": 1984,
+    "cast": [
+      "Sylvester Stallone",
+      "Dolly Parton",
+      "Ron Leibman",
+      "Tim Thomerson",
+      "Richard Farnsworth"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/rhinestone.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Uncertain Glory",
+    "year": 1944,
+    "cast": [
+      "Errol Flynn",
+      "Paul Lukas",
+      "Faye Emerson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/uncertain-glory.html"
+}

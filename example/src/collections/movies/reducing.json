@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Reducing",
+    "year": 1931,
+    "cast": [
+      "Marie Dressler",
+      "Polly Moran",
+      "Anita Page"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/reducing.html"
+}

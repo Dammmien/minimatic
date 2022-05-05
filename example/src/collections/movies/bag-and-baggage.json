@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bag and Baggage",
+    "year": 1923,
+    "cast": [
+      "Gloria Grey",
+      "Carmelita Geraghty"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/bag-and-baggage.html"
+}

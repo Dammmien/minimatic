@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady with a Past",
+    "year": 1932,
+    "cast": [
+      "Constance Bennett",
+      "Ben Lyon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lady-with-a-past.html"
+}

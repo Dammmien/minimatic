@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Looking Forward",
+    "year": 1933,
+    "cast": [
+      "Lionel Barrymore",
+      "Lewis Stone",
+      "Benita Hume"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/looking-forward.html"
+}

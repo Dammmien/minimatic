@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Psychotronic Man",
+    "year": 1980,
+    "cast": [
+      "Peter Spelson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-psychotronic-man.html"
+}

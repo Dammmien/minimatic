@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Neptune Factor",
+    "year": 1973,
+    "cast": [
+      "Ben Gazzara",
+      "Yvette Mimieux",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-neptune-factor.html"
+}

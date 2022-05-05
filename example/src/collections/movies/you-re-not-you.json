@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "You're Not You",
+    "year": 2014,
+    "cast": [
+      "Hilary Swank",
+      "Emmy Rossum",
+      "Josh Duhamel",
+      "Frances Fisher"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/you-re-not-you.html"
+}

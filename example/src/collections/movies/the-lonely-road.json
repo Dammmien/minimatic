@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lonely Road",
+    "year": 1923,
+    "cast": [
+      "Katherine MacDonald",
+      "Orville Caldwell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lonely-road.html"
+}

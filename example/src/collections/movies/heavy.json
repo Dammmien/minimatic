@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Heavy",
+    "year": 1995,
+    "cast": [
+      "Liv Tyler",
+      "Pruitt Taylor Vince",
+      "Shelley Winters"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/heavy.html"
+}

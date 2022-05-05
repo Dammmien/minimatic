@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Micro-Phonies",
+    "year": 1945,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/micro-phonies.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fight Club",
+    "year": 1999,
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/fight-club.html"
+}

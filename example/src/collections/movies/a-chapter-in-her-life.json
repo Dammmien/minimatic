@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Chapter in Her Life",
+    "year": 1923,
+    "cast": [
+      "Claude Gillingwater",
+      "Jacqueline Gadsden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-chapter-in-her-life.html"
+}

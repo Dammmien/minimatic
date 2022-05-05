@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ring Around the Moon",
+    "year": 1936,
+    "cast": [
+      "Donald Cook",
+      "Erin O'Brien-Moore",
+      "Ann Doran"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ring-around-the-moon.html"
+}

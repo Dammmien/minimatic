@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Below the Belt",
+    "year": 1980,
+    "cast": [
+      "Regina Baff",
+      "John C. Becher",
+      "Mildred Burke",
+      "(as herself)",
+      "Firesign Theatre"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/below-the-belt.html"
+}

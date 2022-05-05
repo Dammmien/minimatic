@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Practical Magic",
+    "year": 1998,
+    "cast": [
+      "Nicole Kidman",
+      "Sandra Bullock",
+      "Stockard Channing",
+      "Dianne Wiest",
+      "Aidan Quinn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/practical-magic.html"
+}

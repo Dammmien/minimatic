@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cinerama Holiday",
+    "year": 1955,
+    "cast": [
+      "John Marsh",
+      "Betty Marsh"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/cinerama-holiday.html"
+}

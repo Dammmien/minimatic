@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Grand Slam",
+    "year": 1967,
+    "cast": [
+      "Edward G. Robinson",
+      "Janet Leigh"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/grand-slam.html"
+}

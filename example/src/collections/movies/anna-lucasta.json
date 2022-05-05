@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Anna Lucasta",
+    "year": 1958,
+    "cast": [
+      "Eartha Kitt",
+      "Sammy Davis Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/anna-lucasta.html"
+}

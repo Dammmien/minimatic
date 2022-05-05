@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "One Night at McCool's",
+    "year": 2001,
+    "cast": [
+      "Liv Tyler",
+      "Matt Dillon",
+      "Michael Douglas",
+      "Paul Reiser"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-night-at-mccool-s.html"
+}

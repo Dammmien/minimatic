@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blarney",
+    "year": 1926,
+    "cast": [
+      "Renée Adorée",
+      "Ralph Graves",
+      "Paulette Duval"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blarney.html"
+}

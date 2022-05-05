@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "South Park: Bigger, Longer & Uncut",
+    "year": 1999,
+    "cast": [
+      "Trey Parker",
+      "Matt Stone",
+      "Mary Kay Bergman",
+      "Isaac Hayes"
+    ],
+    "genres": [
+      "Animated",
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/south-park--bigger--longer---uncut.html"
+}

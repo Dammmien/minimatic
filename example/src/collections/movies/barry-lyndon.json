@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Barry Lyndon",
+    "year": 1975,
+    "cast": [
+      "Ryan O'Neal",
+      "Marisa Berenson",
+      "Hardy Krüger",
+      "Patrick Magee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/barry-lyndon.html"
+}

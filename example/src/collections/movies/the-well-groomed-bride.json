@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Well-Groomed Bride",
+    "year": 1946,
+    "cast": [
+      "Olivia de Havilland",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-well-groomed-bride.html"
+}

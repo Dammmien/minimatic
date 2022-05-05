@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Paper Lion",
+    "year": 1968,
+    "cast": [
+      "Alan Alda",
+      "Lauren Hutton",
+      "Alex Karras"
+    ],
+    "genres": [
+      "Biography",
+      "Sports"
+    ]
+  },
+  "output": "movies/paper-lion.html"
+}

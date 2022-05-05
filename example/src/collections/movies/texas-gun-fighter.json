@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Texas Gun Fighter",
+    "year": 1932,
+    "cast": [
+      "Ken Maynard",
+      "Sheila Mannors"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/texas-gun-fighter.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Christmas at Maxwell's",
+    "year": 2006,
+    "cast": [
+      "Andrew May",
+      "Jack Hourigan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/christmas-at-maxwell-s.html"
+}

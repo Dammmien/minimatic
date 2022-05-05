@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Steelyard Blues",
+    "year": 1973,
+    "cast": [
+      "Jane Fonda",
+      "Donald Sutherland",
+      "Peter Boyle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/steelyard-blues.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Lost Angels",
+    "year": 1989,
+    "cast": [
+      "Donald Sutherland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lost-angels.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Sitter",
+    "year": 2011,
+    "cast": [
+      "Jonah Hill",
+      "Max Records",
+      "Ari Graynor",
+      "J. B. Smoove",
+      "Sam Rockwell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-sitter.html"
+}

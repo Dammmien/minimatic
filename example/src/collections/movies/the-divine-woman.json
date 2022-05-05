@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Divine Woman",
+    "year": 1928,
+    "cast": [
+      "Greta Garbo",
+      "Lars Hanson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-divine-woman.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I'll Never Forget You",
+    "year": 1951,
+    "cast": [
+      "Tyrone Power",
+      "Ann Blyth"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-ll-never-forget-you.html"
+}

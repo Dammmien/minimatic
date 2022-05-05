@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stoogemania",
+    "year": 1986,
+    "cast": [
+      "Josh Mostel",
+      "Melanie Chartoff",
+      "Sid Caesar"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stoogemania.html"
+}

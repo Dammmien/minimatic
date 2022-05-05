@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Truth About Youth",
+    "year": 1930,
+    "cast": [
+      "Loretta Young",
+      "Myrna Loy",
+      "David Manners"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-truth-about-youth.html"
+}

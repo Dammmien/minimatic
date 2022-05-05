@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sagebrush Heroes",
+    "year": 1945,
+    "cast": [
+      "Charles Starrett",
+      "Constance Worth"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sagebrush-heroes.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Final Portrait",
+    "year": 2018,
+    "cast": [
+      "Geoffrey Rush",
+      "Armie Hammer",
+      "Clémence Poésy",
+      "Tony Shalhoub",
+      "James Faulkner",
+      "Sylvie Testud"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/final-portrait.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Unsinkable Molly Brown",
+    "year": 1964,
+    "cast": [
+      "Debbie Reynolds",
+      "Harve Presnell",
+      "Jack Kruschen",
+      "Ed Begley",
+      "Hermione Baddeley"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-unsinkable-molly-brown.html"
+}

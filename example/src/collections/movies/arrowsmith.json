@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Arrowsmith",
+    "year": 1931,
+    "cast": [
+      "Ronald Colman",
+      "Helen Hayes",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/arrowsmith.html"
+}

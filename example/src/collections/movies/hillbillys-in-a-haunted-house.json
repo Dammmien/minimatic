@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hillbillys in a Haunted House",
+    "year": 1967,
+    "cast": [
+      "Lon Chaney, Jr.",
+      "John Carradine",
+      "Basil Rathbone"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hillbillys-in-a-haunted-house.html"
+}

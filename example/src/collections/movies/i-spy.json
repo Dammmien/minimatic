@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "I Spy",
+    "year": 2002,
+    "cast": [
+      "Owen Wilson",
+      "Eddie Murphy",
+      "Famke Janssen",
+      "Malcolm McDowell"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/i-spy.html"
+}

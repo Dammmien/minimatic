@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lifeboat",
+    "year": 1944,
+    "cast": [
+      "Tallulah Bankhead",
+      "William Bendix"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/lifeboat.html"
+}

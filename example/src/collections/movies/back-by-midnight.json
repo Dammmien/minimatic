@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Back by Midnight",
+    "year": 2002,
+    "cast": [
+      "Rodney Dangerfield",
+      "Phil LaMarr",
+      "Randy Quaid"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/back-by-midnight.html"
+}

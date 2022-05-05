@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Primavera en otoño",
+    "year": 1933,
+    "cast": [
+      "Catalina Bárcena"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/primavera-en-oto-o.html"
+}

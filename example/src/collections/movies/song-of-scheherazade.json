@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Song of Scheherazade",
+    "year": 1947,
+    "cast": [
+      "Yvonne De Carlo",
+      "Jean-Pierre Aumont",
+      "Eve Arden"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/song-of-scheherazade.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Webs of Steel",
+    "year": 1925,
+    "cast": [
+      "Helen Holmes",
+      "Bruce Gordon"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/webs-of-steel.html"
+}

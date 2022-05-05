@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bernie",
+    "year": 2012,
+    "cast": [
+      "Jack Black",
+      "Shirley MacLaine",
+      "Matthew McConaughey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bernie.html"
+}

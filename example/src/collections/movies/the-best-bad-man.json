@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Best Bad Man",
+    "year": 1925,
+    "cast": [
+      "Tom Mix",
+      "Clara Bow"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-best-bad-man.html"
+}

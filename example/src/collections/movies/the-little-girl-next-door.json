@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Little Girl Next Door",
+    "year": 1923,
+    "cast": [
+      "Pauline Starke",
+      "James W. Morrison"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-little-girl-next-door.html"
+}

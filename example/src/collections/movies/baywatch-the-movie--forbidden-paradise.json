@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Baywatch the Movie: Forbidden Paradise",
+    "year": 1995,
+    "cast": [
+      "David Hasselhoff",
+      "Pamela Anderson",
+      "Parker Stevenson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/baywatch-the-movie--forbidden-paradise.html"
+}

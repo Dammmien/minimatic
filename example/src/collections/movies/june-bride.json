@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "June Bride",
+    "year": 1948,
+    "cast": [
+      "Bette Davis",
+      "Robert Montgomery"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/june-bride.html"
+}

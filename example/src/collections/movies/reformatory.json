@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Reformatory",
+    "year": 1938,
+    "cast": [
+      "Jack Holt",
+      "Charlotte Wynters"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/reformatory.html"
+}

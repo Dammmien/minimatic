@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "What Doesn't Kill You",
+    "year": 2008,
+    "cast": [
+      "Mark Ruffalo",
+      "Ethan Hawke",
+      "Amanda Peet",
+      "Donnie Wahlberg"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/what-doesn-t-kill-you.html"
+}

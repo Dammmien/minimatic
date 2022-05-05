@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Malicious",
+    "year": 1996,
+    "cast": [
+      "Molly Ringwald"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/malicious.html"
+}

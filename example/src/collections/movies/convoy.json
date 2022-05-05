@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Convoy",
+    "year": 1978,
+    "cast": [
+      "Kris Kristofferson",
+      "Ali MacGraw",
+      "Ernest Borgnine",
+      "Burt Young",
+      "Madge Sinclair"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/convoy.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Nothing Like the Holidays",
+    "year": 2008,
+    "cast": [
+      "Luis Guzmán",
+      "John Leguizamo",
+      "Debra Messing",
+      "Alfred Molina"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/nothing-like-the-holidays.html"
+}

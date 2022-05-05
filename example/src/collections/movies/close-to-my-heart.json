@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Close to My Heart",
+    "year": 1951,
+    "cast": [
+      "Gene Tierney",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/close-to-my-heart.html"
+}

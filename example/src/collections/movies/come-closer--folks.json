@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Come Closer, Folks",
+    "year": 1936,
+    "cast": [
+      "James Dunn",
+      "Marian Marsh",
+      "Wynne Gibson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/come-closer--folks.html"
+}

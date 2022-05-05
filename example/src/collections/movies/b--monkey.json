@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "B. Monkey",
+    "year": 1998,
+    "cast": [
+      "Jared Harris",
+      "Asia Argento",
+      "Rupert Everett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/b--monkey.html"
+}

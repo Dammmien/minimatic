@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "The Iceman",
+    "year": 2013,
+    "cast": [
+      "Michael Shannon",
+      "Winona Ryder",
+      "Ray Liotta",
+      "Chris Evans",
+      "James Franco",
+      "David Schwimmer",
+      "Stephen Dorff",
+      "Erin Cummings",
+      "Robert Davi",
+      "Jay Giannone",
+      "Weronika Rosati"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-iceman.html"
+}

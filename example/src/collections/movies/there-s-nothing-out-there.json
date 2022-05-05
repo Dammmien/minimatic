@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "There's Nothing Out There",
+    "year": 1991,
+    "cast": [
+      "Craig Peck",
+      "Wendy Bednarz"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/there-s-nothing-out-there.html"
+}

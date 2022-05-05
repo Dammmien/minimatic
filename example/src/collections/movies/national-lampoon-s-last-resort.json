@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "National Lampoon's Last Resort",
+    "year": 1994,
+    "cast": [
+      "Corey Feldman",
+      "Corey Haim"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/national-lampoon-s-last-resort.html"
+}

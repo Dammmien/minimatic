@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Buddy Buddy",
+    "year": 1981,
+    "cast": [
+      "Jack Lemmon",
+      "Walter Matthau",
+      "Paula Prentiss",
+      "Klaus Kinski"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/buddy-buddy.html"
+}

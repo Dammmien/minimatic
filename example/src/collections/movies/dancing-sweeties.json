@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dancing Sweeties",
+    "year": 1930,
+    "cast": [
+      "Grant Withers",
+      "Sue Carol",
+      "Tully Marshall"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/dancing-sweeties.html"
+}

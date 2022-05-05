@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kick In",
+    "year": 1931,
+    "cast": [
+      "Clara Bow",
+      "Regis Toomey"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/kick-in.html"
+}

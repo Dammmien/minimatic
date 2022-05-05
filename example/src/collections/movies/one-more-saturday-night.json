@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One More Saturday Night",
+    "year": 1986,
+    "cast": [
+      "Tom Davis",
+      "Al Franken",
+      "Moira Harris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-more-saturday-night.html"
+}

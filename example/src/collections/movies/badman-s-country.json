@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Badman's Country",
+    "year": 1958,
+    "cast": [
+      "George Montgomery",
+      "Buster Crabbe"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/badman-s-country.html"
+}

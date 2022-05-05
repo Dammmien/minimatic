@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Mamma Mia!",
+    "year": 2008,
+    "cast": [
+      "Meryl Streep",
+      "Amanda Seyfried",
+      "Pierce Brosnan",
+      "Colin Firth",
+      "Stellan Skarsgård",
+      "Christine Baranski"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/mamma-mia-.html"
+}

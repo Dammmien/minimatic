@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Rat Pack",
+    "year": 1998,
+    "cast": [
+      "Ray Liotta",
+      "Joe Mantegna",
+      "Don Cheadle",
+      "Angus Macfadyen",
+      "Dan O'Herlihy",
+      "William L. Petersen",
+      "Željko Ivanek",
+      "Deborah Kara Unger"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-rat-pack.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Passion of Mind",
+    "year": 2000,
+    "cast": [
+      "Demi Moore",
+      "Stellan Skarsgård"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/passion-of-mind.html"
+}

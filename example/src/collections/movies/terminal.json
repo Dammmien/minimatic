@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Terminal",
+    "year": 2018,
+    "cast": [
+      "Margot Robbie",
+      "Simon Pegg",
+      "Dexter Fletcher",
+      "Max Irons",
+      "Mike Myers"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/terminal.html"
+}

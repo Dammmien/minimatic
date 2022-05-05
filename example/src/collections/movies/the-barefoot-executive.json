@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Barefoot Executive",
+    "year": 1971,
+    "cast": [
+      "Kurt Russell",
+      "Joe Flynn"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/the-barefoot-executive.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Springtime for Henry",
+    "year": 1934,
+    "cast": [
+      "Otto Kruger",
+      "Nancy Carroll",
+      "Nigel Bruce"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/springtime-for-henry.html"
+}

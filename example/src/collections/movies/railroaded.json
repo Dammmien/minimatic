@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Railroaded",
+    "year": 1923,
+    "cast": [
+      "Herbert Rawlinson",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/railroaded.html"
+}

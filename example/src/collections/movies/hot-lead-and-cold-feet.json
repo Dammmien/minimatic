@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Hot Lead and Cold Feet",
+    "year": 1978,
+    "cast": [
+      "Don Knotts",
+      "Jim Dale",
+      "Darren McGavin",
+      "Karen Valentine"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hot-lead-and-cold-feet.html"
+}

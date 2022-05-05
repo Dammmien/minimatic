@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man of the Frontier",
+    "year": 1936,
+    "cast": [
+      "Gene Autry",
+      "Smiley Burnette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/man-of-the-frontier.html"
+}

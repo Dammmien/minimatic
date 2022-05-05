@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Diamond Head",
+    "year": 1963,
+    "cast": [
+      "Charlton Heston",
+      "Yvette Mimieux"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/diamond-head.html"
+}

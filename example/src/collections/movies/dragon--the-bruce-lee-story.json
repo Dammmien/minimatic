@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dragon: The Bruce Lee Story",
+    "year": 1993,
+    "cast": [
+      "Jason Scott Lee",
+      "Lauren Holly",
+      "Robert Wagner"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/dragon--the-bruce-lee-story.html"
+}

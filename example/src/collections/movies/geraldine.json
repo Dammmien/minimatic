@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Geraldine",
+    "year": 1953,
+    "cast": [
+      "John Carroll",
+      "Mala Powers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/geraldine.html"
+}

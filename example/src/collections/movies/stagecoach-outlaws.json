@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stagecoach Outlaws",
+    "year": 1945,
+    "cast": [
+      "Buster Crabbe",
+      "Al St. John"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/stagecoach-outlaws.html"
+}

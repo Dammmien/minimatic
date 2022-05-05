@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "It Could Happen to You!",
+    "year": 1937,
+    "cast": [
+      "Alan Baxter",
+      "Andrea Leeds",
+      "Astrid Allwyn"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/it-could-happen-to-you-.html"
+}

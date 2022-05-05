@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Skidoo",
+    "year": 1968,
+    "cast": [
+      "Jackie Gleason",
+      "Carol Channing",
+      "Mickey Rooney",
+      "John Phillip Law",
+      "Groucho Marx"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/skidoo.html"
+}

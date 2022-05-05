@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Heartburn",
+    "year": 1986,
+    "cast": [
+      "Meryl Streep",
+      "Jack Nicholson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/heartburn.html"
+}

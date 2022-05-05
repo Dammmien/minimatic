@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Freejack",
+    "year": 1992,
+    "cast": [
+      "Emilio Estevez",
+      "Anthony Hopkins",
+      "Mick Jagger",
+      "Rene Russo"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/freejack.html"
+}

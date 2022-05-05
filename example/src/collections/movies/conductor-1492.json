@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Conductor 1492",
+    "year": 1924,
+    "cast": [
+      "Johnny Hines",
+      "Doris May"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/conductor-1492.html"
+}

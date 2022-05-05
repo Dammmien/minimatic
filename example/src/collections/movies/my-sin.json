@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Sin",
+    "year": 1931,
+    "cast": [
+      "Tallulah Bankhead",
+      "Fredric March"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-sin.html"
+}

@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Jungle Man",
+    "year": 1941,
+    "cast": [
+      "Buster Crabbe",
+      "Sheila Darcy"
+    ],
+    "genres": []
+  },
+  "output": "movies/jungle-man.html"
+}

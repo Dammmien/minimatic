@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Boob",
+    "year": 1926,
+    "cast": [
+      "Bob Custer",
+      "Joan Meredith"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fighting-boob.html"
+}

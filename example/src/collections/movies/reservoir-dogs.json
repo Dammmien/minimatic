@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Reservoir Dogs",
+    "year": 1992,
+    "cast": [
+      "Harvey Keitel",
+      "Tim Roth",
+      "Steve Buscemi",
+      "Chris Penn",
+      "Michael Madsen",
+      "Lawrence Tierney"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/reservoir-dogs.html"
+}

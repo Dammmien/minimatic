@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Shadow on the Wall",
+    "year": 1925,
+    "cast": [
+      "Eileen Percy",
+      "Creighton Hale"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-shadow-on-the-wall.html"
+}

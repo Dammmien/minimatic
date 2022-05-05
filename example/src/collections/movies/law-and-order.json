@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Law and Order",
+    "year": 1953,
+    "cast": [
+      "Ronald Reagan",
+      "Dorothy Malone"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/law-and-order.html"
+}

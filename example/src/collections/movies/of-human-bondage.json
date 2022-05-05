@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Of Human Bondage",
+    "year": 1946,
+    "cast": [
+      "Paul Henreid",
+      "Eleanor Parker",
+      "Janis Paige"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/of-human-bondage.html"
+}

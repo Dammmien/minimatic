@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Deliverance",
+    "year": 1972,
+    "cast": [
+      "Jon Voight",
+      "Burt Reynolds",
+      "Ned Beatty",
+      "Ronny Cox"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/deliverance.html"
+}

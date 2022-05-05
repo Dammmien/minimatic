@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man from the Black Hills",
+    "year": 1952,
+    "cast": [
+      "Johnny Mack Brown",
+      "James Ellison"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/man-from-the-black-hills.html"
+}

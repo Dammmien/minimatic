@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Gang Busters",
+    "year": 1942,
+    "cast": [
+      "Kent Taylor",
+      "Irene Hervey"
+    ],
+    "genres": []
+  },
+  "output": "movies/gang-busters.html"
+}

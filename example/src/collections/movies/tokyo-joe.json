@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tokyo Joe",
+    "year": 1949,
+    "cast": [
+      "Humphrey Bogart",
+      "Sessue Hayakawa"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/tokyo-joe.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Big Jake",
+    "year": 1971,
+    "cast": [
+      "John Wayne",
+      "Maureen O'Hara",
+      "Richard Boone"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/big-jake.html"
+}

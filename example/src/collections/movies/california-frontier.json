@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "California Frontier",
+    "year": 1938,
+    "cast": [
+      "Buck Jones",
+      "Milburn Stone"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/california-frontier.html"
+}

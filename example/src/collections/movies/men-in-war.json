@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Men in War",
+    "year": 1957,
+    "cast": [
+      "Robert Ryan",
+      "Aldo Ray",
+      "Vic Morrow"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/men-in-war.html"
+}

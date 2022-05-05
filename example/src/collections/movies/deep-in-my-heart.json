@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Deep in My Heart",
+    "year": 1954,
+    "cast": [
+      "José Ferrer",
+      "Merle Oberon",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Musical",
+      "Biography"
+    ]
+  },
+  "output": "movies/deep-in-my-heart.html"
+}

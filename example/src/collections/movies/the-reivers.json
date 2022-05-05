@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Reivers",
+    "year": 1969,
+    "cast": [
+      "Steve McQueen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-reivers.html"
+}

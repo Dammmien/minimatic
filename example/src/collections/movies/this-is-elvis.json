@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "This Is Elvis",
+    "year": 1981,
+    "cast": [
+      "Elvis Presley"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/this-is-elvis.html"
+}

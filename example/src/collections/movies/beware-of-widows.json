@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beware of Widows",
+    "year": 1927,
+    "cast": [
+      "Laura La Plante",
+      "Bryant Washburn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/beware-of-widows.html"
+}

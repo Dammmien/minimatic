@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rebel Without a Cause",
+    "year": 1955,
+    "cast": [
+      "James Dean",
+      "Natalie Wood"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rebel-without-a-cause.html"
+}

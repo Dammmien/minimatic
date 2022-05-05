@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The New Adventures of Pippi Longstocking",
+    "year": 1988,
+    "cast": [
+      "Tami Erin",
+      "Eileen Brennan"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-new-adventures-of-pippi-longstocking.html"
+}

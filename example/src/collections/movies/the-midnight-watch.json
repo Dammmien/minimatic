@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Midnight Watch",
+    "year": 1927,
+    "cast": [
+      "Roy Stewart",
+      "Mary McAllister",
+      "David Torrence"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-midnight-watch.html"
+}

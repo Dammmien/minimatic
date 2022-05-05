@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Lost in Florence",
+    "year": 2017,
+    "cast": [
+      "Brett Dalton",
+      "Stana Katic",
+      "Alessandra Mastronardi",
+      "Alessandro Preziosi",
+      "Emily Atack",
+      "Rob Aramayo",
+      "Marco Bonini"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/lost-in-florence.html"
+}

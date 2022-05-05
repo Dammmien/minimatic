@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Showdown",
+    "year": 1973,
+    "cast": [
+      "Dean Martin",
+      "Rock Hudson",
+      "Susan Clark"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/showdown.html"
+}

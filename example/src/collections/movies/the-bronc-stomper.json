@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bronc Stomper",
+    "year": 1928,
+    "cast": [
+      "Don Coleman",
+      "Ben Corbett"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-bronc-stomper.html"
+}

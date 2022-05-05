@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Night",
+    "year": 1922,
+    "cast": [
+      "William Russell",
+      "Eva Novak"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-great-night.html"
+}

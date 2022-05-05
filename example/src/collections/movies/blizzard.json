@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blizzard",
+    "year": 2003,
+    "cast": [
+      "Brenda Blethyn",
+      "Christopher Plummer",
+      "Kevin Pollak"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/blizzard.html"
+}

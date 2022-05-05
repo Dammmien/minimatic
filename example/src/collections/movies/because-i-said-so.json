@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Because I Said So",
+    "year": 2007,
+    "cast": [
+      "Diane Keaton",
+      "Mandy Moore",
+      "Lauren Graham",
+      "Piper Perabo"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/because-i-said-so.html"
+}

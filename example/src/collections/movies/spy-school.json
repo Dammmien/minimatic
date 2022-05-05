@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Spy School",
+    "year": 2008,
+    "cast": [
+      "Forrest Landis",
+      "AnnaSophia Robb",
+      "Rider Strong",
+      "Roger Bart"
+    ],
+    "genres": [
+      "Family",
+      "Spy"
+    ]
+  },
+  "output": "movies/spy-school.html"
+}

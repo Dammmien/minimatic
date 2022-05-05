@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Free for All",
+    "year": 1949,
+    "cast": [
+      "Robert Cummings",
+      "Ann Blyth"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/free-for-all.html"
+}

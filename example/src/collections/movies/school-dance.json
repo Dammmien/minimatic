@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "School Dance",
+    "year": 2014,
+    "cast": [
+      "Bobb'e J. Thompson",
+      "Mike Epps",
+      "Luenell",
+      "Wilmer Valderrama"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/school-dance.html"
+}

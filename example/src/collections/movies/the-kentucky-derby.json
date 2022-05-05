@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Kentucky Derby",
+    "year": 1922,
+    "cast": [
+      "Reginald Denny",
+      "Lillian Rich"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-kentucky-derby.html"
+}

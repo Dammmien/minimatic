@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Carbine Williams",
+    "year": 1952,
+    "cast": [
+      "James Stewart",
+      "Jean Hagen",
+      "Wendell Corey"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/carbine-williams.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Terminal",
+    "year": 2004,
+    "cast": [
+      "Tom Hanks",
+      "Catherine Zeta-Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-terminal.html"
+}

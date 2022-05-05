@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Raton Pass",
+    "year": 1951,
+    "cast": [
+      "Patricia Neal",
+      "Dennis Morgan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/raton-pass.html"
+}

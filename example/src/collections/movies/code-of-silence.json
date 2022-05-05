@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Code of Silence",
+    "year": 1985,
+    "cast": [
+      "Chuck Norris",
+      "Molly Hagan",
+      "Henry Silva",
+      "Mike Genovese"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/code-of-silence.html"
+}

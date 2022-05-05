@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hero's Island",
+    "year": 1962,
+    "cast": [
+      "James Mason",
+      "Rip Torn"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/hero-s-island.html"
+}

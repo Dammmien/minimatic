@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Those Who Dare",
+    "year": 1924,
+    "cast": [
+      "John Bowers",
+      "Marguerite De La Motte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/those-who-dare.html"
+}

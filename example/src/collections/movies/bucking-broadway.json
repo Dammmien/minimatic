@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bucking Broadway",
+    "year": 1917,
+    "cast": [
+      "Harry Carey",
+      "Molly Malone"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bucking-broadway.html"
+}

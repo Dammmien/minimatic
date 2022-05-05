@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Seven Years in Tibet",
+    "year": 1997,
+    "cast": [
+      "Brad Pitt",
+      "David Thewlis",
+      "Victor Wong",
+      "Lhakpa Tsamchoe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/seven-years-in-tibet.html"
+}

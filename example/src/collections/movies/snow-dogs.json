@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Snow Dogs",
+    "year": 2002,
+    "cast": [
+      "Cuba Gooding Jr.",
+      "James Coburn",
+      "Nichelle Nichols"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/snow-dogs.html"
+}

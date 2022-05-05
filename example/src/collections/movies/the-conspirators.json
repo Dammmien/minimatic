@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Conspirators",
+    "year": 1944,
+    "cast": [
+      "Hedy Lamarr",
+      "Paul Henreid"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/the-conspirators.html"
+}

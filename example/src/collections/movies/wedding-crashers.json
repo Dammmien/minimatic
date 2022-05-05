@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Wedding Crashers",
+    "year": 2005,
+    "cast": [
+      "Owen Wilson",
+      "Vince Vaughn",
+      "Christopher Walken",
+      "Rachel McAdams",
+      "Jane Seymour",
+      "Bradley Cooper"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wedding-crashers.html"
+}

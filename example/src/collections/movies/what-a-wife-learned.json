@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "What a Wife Learned",
+    "year": 1923,
+    "cast": [
+      "John Bowers",
+      "Milton Sills",
+      "Marguerite De La Motte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/what-a-wife-learned.html"
+}

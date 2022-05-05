@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The White Rosette",
+    "year": 1916,
+    "cast": [
+      "Eugenie Forde",
+      "Richard La Reno"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-white-rosette.html"
+}

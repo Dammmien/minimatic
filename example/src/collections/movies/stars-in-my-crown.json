@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stars In My Crown",
+    "year": 1950,
+    "cast": [
+      "Joel McCrea",
+      "Ellen Drew"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/stars-in-my-crown.html"
+}

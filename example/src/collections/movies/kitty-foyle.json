@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kitty Foyle",
+    "year": 1940,
+    "cast": [
+      "Ginger Rogers",
+      "Dennis Morgan",
+      "James Craig"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kitty-foyle.html"
+}

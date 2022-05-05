@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Cosmopolitan",
+    "year": 2003,
+    "cast": [
+      "Roshan Seth",
+      "Carol Kane",
+      "Madhur Jaffrey",
+      "Purva Bedi"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/cosmopolitan.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "She Goes to War",
+    "year": 1929,
+    "cast": [
+      "Eleanor Boardman",
+      "John Holland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/she-goes-to-war.html"
+}

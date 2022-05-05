@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blossoms on Broadway",
+    "year": 1937,
+    "cast": [
+      "Edward Arnold",
+      "Shirley Ross"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blossoms-on-broadway.html"
+}

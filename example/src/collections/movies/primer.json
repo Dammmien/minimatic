@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Primer",
+    "year": 2004,
+    "cast": [
+      "Shane Carruth",
+      "David Sullivan"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/primer.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Vegas Vacation",
+    "year": 1997,
+    "cast": [
+      "Chevy Chase",
+      "Beverly D'Angelo",
+      "Randy Quaid",
+      "Ethan Embry",
+      "Marisol Nichols"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/vegas-vacation.html"
+}

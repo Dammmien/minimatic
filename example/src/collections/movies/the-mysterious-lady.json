@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mysterious Lady",
+    "year": 1928,
+    "cast": [
+      "Greta Garbo",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mysterious-lady.html"
+}

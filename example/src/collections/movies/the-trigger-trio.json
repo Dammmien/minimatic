@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Trigger Trio",
+    "year": 1937,
+    "cast": [
+      "Ray Corrigan",
+      "Max Terhune"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-trigger-trio.html"
+}

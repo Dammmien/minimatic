@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Gal Loves Music",
+    "year": 1944,
+    "cast": [
+      "Bob Crosby",
+      "Grace McDonald"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/my-gal-loves-music.html"
+}

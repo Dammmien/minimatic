@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Missing Juror",
+    "year": 1944,
+    "cast": [
+      "Jim Bannon",
+      "Janis Carter"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-missing-juror.html"
+}

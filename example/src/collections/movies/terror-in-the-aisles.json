@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Terror in the Aisles",
+    "year": 1984,
+    "cast": [
+      "Donald Pleasence",
+      "Nancy Allen"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/terror-in-the-aisles.html"
+}

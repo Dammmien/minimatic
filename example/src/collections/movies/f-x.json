@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "F/X",
+    "year": 1986,
+    "cast": [
+      "Bryan Brown",
+      "Brian Dennehy",
+      "Diane Venora",
+      "Cliff DeYoung"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/f-x.html"
+}

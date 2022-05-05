@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Go Fish",
+    "year": 1994,
+    "cast": [
+      "Guinevere Turner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/go-fish.html"
+}

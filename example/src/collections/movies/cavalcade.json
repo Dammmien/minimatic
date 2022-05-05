@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cavalcade",
+    "year": 1933,
+    "cast": [
+      "Clive Brook",
+      "Diana Wynyard",
+      "Beryl Mercer"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/cavalcade.html"
+}

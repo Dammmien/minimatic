@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gold Dust Gertie",
+    "year": 1931,
+    "cast": [
+      "Winnie Lightner",
+      "Ole Olsen",
+      "Chic Johnson"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/gold-dust-gertie.html"
+}

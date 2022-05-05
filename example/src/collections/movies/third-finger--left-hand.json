@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Third Finger, Left Hand",
+    "year": 1940,
+    "cast": [
+      "Myrna Loy",
+      "Melvyn Douglas"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/third-finger--left-hand.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Joy Girl",
+    "year": 1926,
+    "cast": [
+      "Olive Borden",
+      "Neil Hamilton",
+      "Marie Dressler"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-joy-girl.html"
+}

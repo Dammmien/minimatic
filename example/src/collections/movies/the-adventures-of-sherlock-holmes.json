@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Adventures of Sherlock Holmes",
+    "year": 1939,
+    "cast": [
+      "Basil Rathbone",
+      "Nigel Bruce",
+      "Ida Lupino"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-adventures-of-sherlock-holmes.html"
+}

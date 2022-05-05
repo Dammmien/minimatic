@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rolling Caravans",
+    "year": 1938,
+    "cast": [
+      "Jack Luden",
+      "Eleanor Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rolling-caravans.html"
+}

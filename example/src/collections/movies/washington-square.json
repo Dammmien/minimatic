@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Washington Square",
+    "year": 1997,
+    "cast": [
+      "Jennifer Jason Leigh",
+      "Albert Finney",
+      "Maggie Smith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/washington-square.html"
+}

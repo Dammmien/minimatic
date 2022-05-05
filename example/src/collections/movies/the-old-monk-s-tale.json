@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Old Monk's Tale",
+    "year": 1913,
+    "cast": [
+      "Ben F. Wilson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-old-monk-s-tale.html"
+}

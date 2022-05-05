@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Where the Buffalo Roam",
+    "year": 1980,
+    "cast": [
+      "Bill Murray",
+      "Peter Boyle",
+      "Bruno Kirby"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/where-the-buffalo-roam.html"
+}

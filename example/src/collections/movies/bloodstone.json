@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Bloodstone",
+    "year": 1988,
+    "cast": [
+      "Rajinikanth"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/bloodstone.html"
+}

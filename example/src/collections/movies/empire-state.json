@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Empire State",
+    "year": 2013,
+    "cast": [
+      "Liam Hemsworth",
+      "Dwayne Johnson",
+      "Emma Roberts"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/empire-state.html"
+}

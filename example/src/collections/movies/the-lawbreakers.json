@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lawbreakers",
+    "year": 1961,
+    "cast": [
+      "Jack Warden",
+      "Vera Miles"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lawbreakers.html"
+}

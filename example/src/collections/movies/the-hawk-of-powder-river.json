@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hawk of Powder River",
+    "year": 1948,
+    "cast": [
+      "Eddie Dean",
+      "Jennifer Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-hawk-of-powder-river.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stingaree",
+    "year": 1934,
+    "cast": [
+      "Irene Dunne",
+      "Richard Rix"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/stingaree.html"
+}

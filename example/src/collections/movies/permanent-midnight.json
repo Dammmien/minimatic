@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Permanent Midnight",
+    "year": 1998,
+    "cast": [
+      "Ben Stiller",
+      "Maria Bello",
+      "Elizabeth Hurley"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/permanent-midnight.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tiger Rose",
+    "year": 1929,
+    "cast": [
+      "Monte Blue",
+      "Lupe Velez"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tiger-rose.html"
+}

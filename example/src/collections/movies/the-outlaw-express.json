@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Outlaw Express",
+    "year": 1926,
+    "cast": [
+      "Leo D. Maloney",
+      "Melbourne MacDowell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-outlaw-express.html"
+}

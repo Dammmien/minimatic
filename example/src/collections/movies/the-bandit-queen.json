@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bandit Queen",
+    "year": 1950,
+    "cast": [
+      "Barbara Britton",
+      "Willard Parker",
+      "Phillip Reed"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-bandit-queen.html"
+}

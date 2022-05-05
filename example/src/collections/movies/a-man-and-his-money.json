@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Man and His Money",
+    "year": 1919,
+    "cast": [
+      "Tom Moore",
+      "Seena Owen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-man-and-his-money.html"
+}

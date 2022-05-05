@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Girl Who Had Everything",
+    "year": 1953,
+    "cast": [
+      "Elizabeth Taylor",
+      "Fernando Lamas",
+      "William Powell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-girl-who-had-everything.html"
+}

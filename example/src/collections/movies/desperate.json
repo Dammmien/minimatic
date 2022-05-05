@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Desperate",
+    "year": 1947,
+    "cast": [
+      "Steve Brodie",
+      "Audrey Long",
+      "Raymond Burr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/desperate.html"
+}

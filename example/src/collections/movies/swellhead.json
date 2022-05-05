@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Swellhead",
+    "year": 1935,
+    "cast": [
+      "Wallace Ford",
+      "Barbara Kent"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/swellhead.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A Prayer for the Dying",
+    "year": 1987,
+    "cast": [
+      "Mickey Rourke",
+      "Bob Hoskins",
+      "Alan Bates",
+      "Sammi Davis"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-prayer-for-the-dying.html"
+}

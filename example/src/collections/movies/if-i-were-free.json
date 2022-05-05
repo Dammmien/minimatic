@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "If I Were Free",
+    "year": 1933,
+    "cast": [
+      "Irene Dunne",
+      "Clive Brook",
+      "Nils Asther"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/if-i-were-free.html"
+}

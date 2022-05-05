@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Greenwich Village",
+    "year": 1944,
+    "cast": [
+      "Carmen Miranda",
+      "Don Ameche",
+      "William Bendix"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/greenwich-village.html"
+}

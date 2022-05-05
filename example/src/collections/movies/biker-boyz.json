@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Biker Boyz",
+    "year": 2003,
+    "cast": [
+      "Laurence Fishburne",
+      "Djimon Hounsou",
+      "Derek Luke"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/biker-boyz.html"
+}

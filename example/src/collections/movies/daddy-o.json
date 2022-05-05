@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daddy-O",
+    "year": 1958,
+    "cast": [
+      "Dick Contino",
+      "Sandra Giles"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/daddy-o.html"
+}

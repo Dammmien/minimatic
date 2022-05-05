@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wilder Napalm",
+    "year": 1993,
+    "cast": [
+      "Debra Winger",
+      "Dennis Quaid",
+      "Arliss Howard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wilder-napalm.html"
+}

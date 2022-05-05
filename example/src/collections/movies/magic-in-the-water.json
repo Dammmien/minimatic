@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Magic in the Water",
+    "year": 1995,
+    "cast": [
+      "Mark Harmon"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/magic-in-the-water.html"
+}

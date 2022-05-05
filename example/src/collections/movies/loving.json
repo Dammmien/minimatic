@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Loving",
+    "year": 1970,
+    "cast": [
+      "George Segal",
+      "Eva Marie Saint"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/loving.html"
+}

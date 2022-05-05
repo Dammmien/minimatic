@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Things We Lost in the Fire",
+    "year": 2007,
+    "cast": [
+      "Halle Berry",
+      "Benicio del Toro"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/things-we-lost-in-the-fire.html"
+}

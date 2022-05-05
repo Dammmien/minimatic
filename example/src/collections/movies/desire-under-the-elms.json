@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Desire Under the Elms",
+    "year": 1958,
+    "cast": [
+      "Sophia Loren",
+      "Anthony Perkins",
+      "Burl Ives"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/desire-under-the-elms.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Navy Wife",
+    "year": 1956,
+    "cast": [
+      "Joan Bennett",
+      "Gary Merrill"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/navy-wife.html"
+}

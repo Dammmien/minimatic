@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Halloween 5: The Revenge of Michael Myers",
+    "year": 1989,
+    "cast": [
+      "Donald Pleasence",
+      "Danielle Harris",
+      "Ellie Cornell",
+      "Wendy Kaplan"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/halloween-5--the-revenge-of-michael-myers.html"
+}

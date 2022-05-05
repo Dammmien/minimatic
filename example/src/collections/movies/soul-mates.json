@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Soul Mates",
+    "year": 1925,
+    "cast": [
+      "Aileen Pringle",
+      "Edmund Lowe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/soul-mates.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sunbonnet Sue",
+    "year": 1945,
+    "cast": [
+      "Gale Storm",
+      "Phil Regan",
+      "Alan Mowbray"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/sunbonnet-sue.html"
+}

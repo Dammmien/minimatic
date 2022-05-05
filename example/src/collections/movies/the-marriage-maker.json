@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Marriage Maker",
+    "year": 1923,
+    "cast": [
+      "Agnes Ayres",
+      "Jack Holt",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-marriage-maker.html"
+}

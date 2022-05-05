@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Humanity",
+    "year": 1933,
+    "cast": [
+      "Ralph Morgan",
+      "Irene Ware"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/humanity.html"
+}

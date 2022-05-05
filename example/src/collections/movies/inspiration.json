@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Inspiration",
+    "year": 1931,
+    "cast": [
+      "Greta Garbo",
+      "Robert Montgomery",
+      "Lewis Stone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/inspiration.html"
+}

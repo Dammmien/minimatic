@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Child's Play 2",
+    "year": 1990,
+    "cast": [
+      "Alex Vincent",
+      "Gerrit Graham"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/child-s-play-2.html"
+}

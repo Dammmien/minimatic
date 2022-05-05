@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Charlie and the Chocolate Factory",
+    "year": 2005,
+    "cast": [
+      "Johnny Depp",
+      "Freddie Highmore",
+      "David Kelly",
+      "Helena Bonham Carter",
+      "Christopher Lee",
+      "Missi Pyle",
+      "James Fox"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/charlie-and-the-chocolate-factory.html"
+}

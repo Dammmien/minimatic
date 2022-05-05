@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Lawless",
+    "year": 2012,
+    "cast": [
+      "Shia LaBeouf",
+      "Tom Hardy",
+      "Gary Oldman",
+      "Mia Wasikowska",
+      "Jessica Chastain",
+      "Dane DeHaan",
+      "Jason Clarke",
+      "Guy Pearce"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lawless.html"
+}

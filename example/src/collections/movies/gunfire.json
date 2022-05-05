@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gunfire",
+    "year": 1950,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Robert Lowery",
+      "Pamela Blake"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gunfire.html"
+}

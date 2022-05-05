@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wagons East!",
+    "year": 1994,
+    "cast": [
+      "John Candy",
+      "Richard Lewis",
+      "John C. McGinley",
+      "Ellen Greene"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wagons-east-.html"
+}

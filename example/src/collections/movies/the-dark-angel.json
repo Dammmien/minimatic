@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Dark Angel",
+    "year": 1935,
+    "cast": [
+      "Merle Oberon",
+      "Fredric March",
+      "Herbert Marshall"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/the-dark-angel.html"
+}

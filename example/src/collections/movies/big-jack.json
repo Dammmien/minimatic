@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Big Jack",
+    "year": 1949,
+    "cast": [
+      "Wallace Beery",
+      "Richard Conte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/big-jack.html"
+}

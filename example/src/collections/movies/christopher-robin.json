@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "Christopher Robin",
+    "year": 2018,
+    "cast": [
+      "Ewan McGregor",
+      "Hayley Atwell",
+      "Bronte Carmichael",
+      "Mark Gatiss",
+      "Jim Cummings",
+      "Brad Garrett",
+      "Nick Mohammed",
+      "Peter Capaldi",
+      "Sophie Okonedo",
+      "Sara Sheen",
+      "Toby Jones"
+    ],
+    "genres": [
+      "Family",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/christopher-robin.html"
+}

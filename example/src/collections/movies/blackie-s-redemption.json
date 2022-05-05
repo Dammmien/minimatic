@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blackie's Redemption",
+    "year": 1919,
+    "cast": [
+      "Bert Lytell",
+      "Alice Lake"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blackie-s-redemption.html"
+}

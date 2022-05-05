@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Henry Aldrich Gets Glamour",
+    "year": 1943,
+    "cast": [
+      "Jimmy Lydon",
+      "Olive Blakeney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/henry-aldrich-gets-glamour.html"
+}

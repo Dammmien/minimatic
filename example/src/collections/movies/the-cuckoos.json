@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cuckoos",
+    "year": 1930,
+    "cast": [
+      "Bert Wheeler",
+      "Dorothy Lee"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-cuckoos.html"
+}

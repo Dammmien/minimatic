@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Substitute Wife",
+    "year": 1925,
+    "cast": [
+      "Jane Novak",
+      "Niles Welch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-substitute-wife.html"
+}

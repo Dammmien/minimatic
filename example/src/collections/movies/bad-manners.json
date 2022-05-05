@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bad Manners",
+    "year": 1984,
+    "cast": [
+      "Martin Mull",
+      "Karen Black"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bad-manners.html"
+}

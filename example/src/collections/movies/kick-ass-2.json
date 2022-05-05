@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Kick-Ass 2",
+    "year": 2013,
+    "cast": [
+      "Aaron Taylor-Johnson",
+      "Christopher Mintz-Plasse",
+      "Chloë Grace Moretz",
+      "Jim Carrey"
+    ],
+    "genres": [
+      "Action",
+      "Comedy",
+      "Superhero"
+    ]
+  },
+  "output": "movies/kick-ass-2.html"
+}

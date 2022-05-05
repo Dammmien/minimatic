@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ramblin' Kid",
+    "year": 1923,
+    "cast": [
+      "Hoot Gibson",
+      "Laura La Plante"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-ramblin--kid.html"
+}

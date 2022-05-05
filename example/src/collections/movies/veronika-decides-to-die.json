@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Veronika Decides to Die",
+    "year": 2015,
+    "cast": [
+      "Sarah Michelle Gellar",
+      "Jonathan Tucker",
+      "Erika Christensen",
+      "Melissa Leo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/veronika-decides-to-die.html"
+}

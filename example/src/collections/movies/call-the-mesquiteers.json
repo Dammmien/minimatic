@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Call the Mesquiteers",
+    "year": 1938,
+    "cast": [
+      "Robert Livingston",
+      "Ray Corrigan",
+      "Lynne Roberts"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/call-the-mesquiteers.html"
+}

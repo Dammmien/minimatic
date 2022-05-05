@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Red Canyon",
+    "year": 1949,
+    "cast": [
+      "Ann Blyth",
+      "Howard Duff",
+      "George Brent"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/red-canyon.html"
+}

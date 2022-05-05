@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "5th Ave Girl",
+    "year": 1939,
+    "cast": [
+      "Ginger Rogers",
+      "Walter Connolly",
+      "Verree Teasdale"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/5th-ave-girl.html"
+}

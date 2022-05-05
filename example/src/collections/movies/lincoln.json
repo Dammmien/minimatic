@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Lincoln",
+    "year": 2012,
+    "cast": [
+      "Daniel Day-Lewis",
+      "Sally Field",
+      "David Strathairn",
+      "Joseph Gordon-Levitt",
+      "James Spader",
+      "Hal Holbrook",
+      "Tommy Lee Jones"
+    ],
+    "genres": [
+      "Biography",
+      "Political",
+      "Drama"
+    ]
+  },
+  "output": "movies/lincoln.html"
+}

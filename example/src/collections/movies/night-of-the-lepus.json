@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night of the Lepus",
+    "year": 1972,
+    "cast": [
+      "Stuart Whitman",
+      "Janet Leigh"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/night-of-the-lepus.html"
+}

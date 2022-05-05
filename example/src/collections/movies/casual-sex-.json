@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Casual Sex?",
+    "year": 1988,
+    "cast": [
+      "Lea Thompson",
+      "Victoria Jackson",
+      "Andrew Dice Clay"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/casual-sex-.html"
+}

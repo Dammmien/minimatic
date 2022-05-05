@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Better Living Through Chemistry",
+    "year": 2014,
+    "cast": [
+      "Sam Rockwell",
+      "Olivia Wilde",
+      "Michelle Monaghan",
+      "Ray Liotta"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/better-living-through-chemistry.html"
+}

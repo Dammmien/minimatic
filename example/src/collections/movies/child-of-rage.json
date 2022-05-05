@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Child of Rage",
+    "year": 1992,
+    "cast": [
+      "Mel Harris",
+      "Mariette Hartley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/child-of-rage.html"
+}

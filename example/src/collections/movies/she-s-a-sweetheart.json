@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "She's a Sweetheart",
+    "year": 1944,
+    "cast": [
+      "Jane Frazee",
+      "Larry Parks"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/she-s-a-sweetheart.html"
+}

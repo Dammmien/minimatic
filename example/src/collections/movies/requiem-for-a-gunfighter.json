@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Requiem for a Gunfighter",
+    "year": 1965,
+    "cast": [
+      "Rod Cameron",
+      "Stephen McNally",
+      "Mike Mazurki"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/requiem-for-a-gunfighter.html"
+}

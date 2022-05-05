@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tom Mix in Arabia",
+    "year": 1922,
+    "cast": [
+      "Tom Mix",
+      "Barbara Bedford"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/tom-mix-in-arabia.html"
+}

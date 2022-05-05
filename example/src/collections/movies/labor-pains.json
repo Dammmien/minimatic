@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Labor Pains",
+    "year": 2009,
+    "cast": [
+      "Lindsay Lohan",
+      "Luke Kirby",
+      "Cheryl Hines",
+      "Chris Parnell",
+      "Bridgit Mendler",
+      "Kevin Covais"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/labor-pains.html"
+}

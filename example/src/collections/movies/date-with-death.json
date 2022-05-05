@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Date with Death",
+    "year": 1959,
+    "cast": [
+      "Gerald Mohr",
+      "Liz Renay"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/date-with-death.html"
+}

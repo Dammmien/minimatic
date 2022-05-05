@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Waiting to Exhale",
+    "year": 1995,
+    "cast": [
+      "Whitney Houston",
+      "Angela Bassett",
+      "Loretta Devine",
+      "Lela Rochon",
+      "Gregory Hines",
+      "Dennis Haysbert",
+      "Michael Beach"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/waiting-to-exhale.html"
+}

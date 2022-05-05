@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "It's My Turn",
+    "year": 1980,
+    "cast": [
+      "Jill Clayburgh",
+      "Michael Douglas",
+      "Charles Grodin",
+      "Beverly Garland"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-my-turn.html"
+}

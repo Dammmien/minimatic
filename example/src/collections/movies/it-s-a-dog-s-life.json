@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It's a Dog's Life",
+    "year": 1955,
+    "cast": [
+      "Edmund Gwenn",
+      "Dean Jagger"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/it-s-a-dog-s-life.html"
+}

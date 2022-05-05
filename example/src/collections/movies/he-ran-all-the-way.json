@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "He Ran All the Way",
+    "year": 1951,
+    "cast": [
+      "John Garfield",
+      "Shelley Winters"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/he-ran-all-the-way.html"
+}

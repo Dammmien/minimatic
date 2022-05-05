@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gas House Kids in Hollywood",
+    "year": 1947,
+    "cast": [
+      "Carl Switzer",
+      "Benny Bartlett"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/gas-house-kids-in-hollywood.html"
+}

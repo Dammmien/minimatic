@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Harvard Man",
+    "year": 2001,
+    "cast": [
+      "Adrian Grenier",
+      "Sarah Michelle Gellar",
+      "Joey Lauren Adams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/harvard-man.html"
+}

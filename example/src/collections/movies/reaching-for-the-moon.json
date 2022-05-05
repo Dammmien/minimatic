@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Reaching for the Moon",
+    "year": 1917,
+    "cast": [
+      "Douglas Fairbanks",
+      "Eileen Percy"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/reaching-for-the-moon.html"
+}

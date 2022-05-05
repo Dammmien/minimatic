@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Trail to Mexico",
+    "year": 1946,
+    "cast": [
+      "Jimmy Wakely",
+      "Lee \"Lasses\" White",
+      "Julian Rivero"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/trail-to-mexico.html"
+}

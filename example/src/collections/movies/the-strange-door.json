@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Strange Door",
+    "year": 1951,
+    "cast": [
+      "Charles Laughton",
+      "Boris Karloff",
+      "Sally Forrest"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-strange-door.html"
+}

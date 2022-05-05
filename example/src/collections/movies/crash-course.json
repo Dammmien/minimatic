@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crash Course",
+    "year": 1988,
+    "cast": [
+      "Alyssa Milano",
+      "Jackee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/crash-course.html"
+}

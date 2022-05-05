@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Devil's Candy",
+    "year": 2017,
+    "cast": [
+      "Ethan Embry",
+      "Shiri Appleby",
+      "Kiara Glasco",
+      "Pruitt Taylor Vince",
+      "Craig Nigh",
+      "Marco Perella"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-devil-s-candy.html"
+}

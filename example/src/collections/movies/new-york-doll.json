@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "New York Doll",
+    "year": 2005,
+    "cast": [
+      "the life of",
+      "Arthur Kane"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/new-york-doll.html"
+}

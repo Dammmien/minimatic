@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ghost and the Darkness",
+    "year": 1996,
+    "cast": [
+      "Val Kilmer",
+      "Michael Douglas"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-ghost-and-the-darkness.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Doomsday",
+    "year": 2008,
+    "cast": [
+      "Rhona Mitra",
+      "Bob Hoskins",
+      "Malcolm McDowell",
+      "Alexander Siddig"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/doomsday.html"
+}

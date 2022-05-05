@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crime of the Century",
+    "year": 1946,
+    "cast": [
+      "Stephanie Bachelor",
+      "Martin Kosleck"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/crime-of-the-century.html"
+}

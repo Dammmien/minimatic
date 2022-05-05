@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Welcome Home Roscoe Jenkins",
+    "year": 2008,
+    "cast": [
+      "Martin Lawrence",
+      "Margaret Avery",
+      "Joy Bryant",
+      "Louis C.K."
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/welcome-home-roscoe-jenkins.html"
+}

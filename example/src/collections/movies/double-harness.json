@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Double Harness",
+    "year": 1933,
+    "cast": [
+      "Ann Harding",
+      "William Powell"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/double-harness.html"
+}

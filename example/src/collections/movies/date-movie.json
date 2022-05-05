@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Date Movie",
+    "year": 2006,
+    "cast": [
+      "Alyson Hannigan",
+      "Adam Campbell",
+      "Jennifer Coolidge",
+      "Tony Cox"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/date-movie.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Atta Boy",
+    "year": 1926,
+    "cast": [
+      "Monty Banks",
+      "Virginia Bradford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/atta-boy.html"
+}

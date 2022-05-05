@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Divergent Series: Allegiant",
+    "year": 2016,
+    "cast": [
+      "Shailene Woodley",
+      "Theo James",
+      "Miles Teller",
+      "Ansel Elgort"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-divergent-series--allegiant.html"
+}

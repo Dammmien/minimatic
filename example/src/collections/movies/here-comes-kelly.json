@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Here Comes Kelly",
+    "year": 1943,
+    "cast": [
+      "Eddie Quillan",
+      "Joan Woodbury",
+      "Armida"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/here-comes-kelly.html"
+}

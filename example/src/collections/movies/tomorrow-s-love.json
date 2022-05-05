@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tomorrow's Love",
+    "year": 1925,
+    "cast": [
+      "Agnes Ayres",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tomorrow-s-love.html"
+}

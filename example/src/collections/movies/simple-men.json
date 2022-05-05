@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Simple Men",
+    "year": 1992,
+    "cast": [
+      "Robert John Burke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/simple-men.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Big One",
+    "year": 1997,
+    "cast": [
+      "Michael Moore"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-big-one.html"
+}

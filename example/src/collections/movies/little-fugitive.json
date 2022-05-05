@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Little Fugitive",
+    "year": 1953,
+    "cast": [
+      "Richie Andrusco"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-fugitive.html"
+}

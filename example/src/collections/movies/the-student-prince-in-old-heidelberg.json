@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Student Prince in Old Heidelberg",
+    "year": 1927,
+    "cast": [
+      "Ramon Novarro",
+      "Norma Shearer"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-student-prince-in-old-heidelberg.html"
+}

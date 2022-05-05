@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Woman with Four Faces",
+    "year": 1923,
+    "cast": [
+      "Betty Compson",
+      "Richard Dix",
+      "Theodore von Eltz"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-woman-with-four-faces.html"
+}

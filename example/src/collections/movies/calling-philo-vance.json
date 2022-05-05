@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Calling Philo Vance",
+    "year": 1940,
+    "cast": [
+      "James Stephenson",
+      "Margot Stevenson",
+      "Henry O'Neill"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/calling-philo-vance.html"
+}

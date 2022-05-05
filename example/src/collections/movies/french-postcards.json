@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "French Postcards",
+    "year": 1979,
+    "cast": [
+      "Miles Chapin",
+      "Blanche Baker",
+      "Debra Winger"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/french-postcards.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Road to Singapore",
+    "year": 1940,
+    "cast": [
+      "Bob Hope",
+      "Bing Crosby"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/road-to-singapore.html"
+}

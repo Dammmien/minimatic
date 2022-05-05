@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smart Woman",
+    "year": 1948,
+    "cast": [
+      "Constance Bennett",
+      "Brian Aherne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/smart-woman.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Arizona Streak",
+    "year": 1926,
+    "cast": [
+      "Tom Tyler",
+      "Frankie Darro"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-arizona-streak.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Psych-Out",
+    "year": 1968,
+    "cast": [
+      "Jack Nicholson",
+      "Susan Strasberg"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/psych-out.html"
+}

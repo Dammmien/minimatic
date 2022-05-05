@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jennie Gerhardt",
+    "year": 1933,
+    "cast": [
+      "Sylvia Sidney",
+      "Mary Astor",
+      "Edward Arnold"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jennie-gerhardt.html"
+}

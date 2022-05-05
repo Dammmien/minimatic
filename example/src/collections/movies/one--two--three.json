@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One, Two, Three",
+    "year": 1961,
+    "cast": [
+      "James Cagney",
+      "Horst Bucholtz",
+      "Pamela Tiffin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/one--two--three.html"
+}

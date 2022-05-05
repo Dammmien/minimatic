@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Vacation Days",
+    "year": 1947,
+    "cast": [
+      "Freddie Stewart",
+      "June Preisser",
+      "Frankie Darro"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/vacation-days.html"
+}

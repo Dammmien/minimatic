@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thank You, Jeeves!",
+    "year": 1936,
+    "cast": [
+      "Arthur Treacher",
+      "Virginia Field",
+      "David Niven"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/thank-you--jeeves-.html"
+}

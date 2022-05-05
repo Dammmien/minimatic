@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Boy of Flanders",
+    "year": 1924,
+    "cast": [
+      "Jackie Coogan",
+      "Nigel De Brulier"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-boy-of-flanders.html"
+}

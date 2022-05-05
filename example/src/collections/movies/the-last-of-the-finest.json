@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last of the Finest",
+    "year": 1990,
+    "cast": [
+      "Brian Dennehy",
+      "Joe Pantoliano",
+      "Jeff Fahey"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-last-of-the-finest.html"
+}

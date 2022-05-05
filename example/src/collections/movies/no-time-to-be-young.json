@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No Time to Be Young",
+    "year": 1957,
+    "cast": [
+      "Robert Vaughn",
+      "Roger Smith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/no-time-to-be-young.html"
+}

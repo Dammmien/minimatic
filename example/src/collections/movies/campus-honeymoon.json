@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Campus Honeymoon",
+    "year": 1948,
+    "cast": [
+      "Lee and Lyn Wilde",
+      "Adele Mara"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/campus-honeymoon.html"
+}

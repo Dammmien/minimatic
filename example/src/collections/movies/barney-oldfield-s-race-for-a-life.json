@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Barney Oldfield's Race for a Life",
+    "year": 1913,
+    "cast": [
+      "Mack Sennett",
+      "Mabel Normand",
+      "Ford Sterling",
+      "Barney Oldfield"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/barney-oldfield-s-race-for-a-life.html"
+}

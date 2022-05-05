@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Klansman",
+    "year": 1974,
+    "cast": [
+      "Lee Marvin",
+      "Richard Burton",
+      "Cameron Mitchell",
+      "Linda Evans",
+      "O.J. Simpson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-klansman.html"
+}

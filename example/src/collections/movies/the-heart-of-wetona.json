@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Heart of Wetona",
+    "year": 1919,
+    "cast": [
+      "Norma Talmadge",
+      "Fred Huntley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-heart-of-wetona.html"
+}

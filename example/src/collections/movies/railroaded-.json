@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Railroaded!",
+    "year": 1947,
+    "cast": [
+      "John Ireland",
+      "Hugh Beaumont"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/railroaded-.html"
+}

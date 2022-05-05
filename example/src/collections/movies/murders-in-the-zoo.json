@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Murders in the Zoo",
+    "year": 1933,
+    "cast": [
+      "Charlie Ruggles",
+      "Lionel Atwill",
+      "Kathleen Burke"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/murders-in-the-zoo.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pigeon That Took Rome",
+    "year": 1962,
+    "cast": [
+      "Charlton Heston",
+      "Elsa Martinelli",
+      "Harry Guardino"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-pigeon-that-took-rome.html"
+}

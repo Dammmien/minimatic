@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Cousins",
+    "year": 1989,
+    "cast": [
+      "Ted Danson",
+      "Isabella Rossellini",
+      "Sean Young",
+      "William Petersen",
+      "Norma Aleandro",
+      "Lloyd Bridges"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/cousins.html"
+}

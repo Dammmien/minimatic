@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Open Door",
+    "year": 1919,
+    "cast": [
+      "Anna Lehr",
+      "Walter Miller"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-open-door.html"
+}

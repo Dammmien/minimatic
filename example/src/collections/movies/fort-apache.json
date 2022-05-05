@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fort Apache",
+    "year": 1948,
+    "cast": [
+      "John Wayne",
+      "Henry Fonda"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fort-apache.html"
+}

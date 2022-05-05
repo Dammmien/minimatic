@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Everything, Everything",
+    "year": 2017,
+    "cast": [
+      "Amandla Stenberg",
+      "Nick Robinson",
+      "Anika Noni Rose",
+      "Ana de la Reguera",
+      "Danube Hermosillo"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/everything--everything.html"
+}

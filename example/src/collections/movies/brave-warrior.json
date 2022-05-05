@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Brave Warrior",
+    "year": 1952,
+    "cast": [
+      "Jon Hall",
+      "Christine Larsen",
+      "Michael Ansara",
+      "Jay Silverheels"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/brave-warrior.html"
+}

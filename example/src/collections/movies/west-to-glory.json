@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "West to Glory",
+    "year": 1947,
+    "cast": [
+      "Eddie Dean",
+      "Roscoe Ates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/west-to-glory.html"
+}

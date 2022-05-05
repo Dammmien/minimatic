@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Accepted",
+    "year": 2006,
+    "cast": [
+      "Justin Long",
+      "Jonah Hill"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/accepted.html"
+}

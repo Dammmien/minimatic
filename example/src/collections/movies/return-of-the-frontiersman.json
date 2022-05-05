@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Return of the Frontiersman",
+    "year": 1950,
+    "cast": [
+      "Gordon MacRae",
+      "Julie London"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/return-of-the-frontiersman.html"
+}

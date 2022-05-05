@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bucking the Truth",
+    "year": 1926,
+    "cast": [
+      "Pete Morrison",
+      "Bruce Gordon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bucking-the-truth.html"
+}

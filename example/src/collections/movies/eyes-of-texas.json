@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eyes of Texas",
+    "year": 1948,
+    "cast": [
+      "Roy Rogers",
+      "Lynne Roberts"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/eyes-of-texas.html"
+}

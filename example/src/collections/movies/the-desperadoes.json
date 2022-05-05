@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Desperadoes",
+    "year": 1943,
+    "cast": [
+      "Randolph Scott",
+      "Claire Trevor",
+      "Glenn Ford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-desperadoes.html"
+}

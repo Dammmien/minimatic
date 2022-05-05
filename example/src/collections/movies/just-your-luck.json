@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Just Your Luck",
+    "year": 1996,
+    "cast": [
+      "Sean Patrick Flanery",
+      "Virginia Madsen",
+      "Carroll Baker"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/just-your-luck.html"
+}

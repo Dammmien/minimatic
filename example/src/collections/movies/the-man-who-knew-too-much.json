@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Who Knew Too Much",
+    "year": 1956,
+    "cast": [
+      "Doris Day",
+      "James Stewart"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-man-who-knew-too-much.html"
+}

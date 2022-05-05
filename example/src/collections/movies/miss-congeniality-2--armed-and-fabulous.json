@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Miss Congeniality 2: Armed and Fabulous",
+    "year": 2005,
+    "cast": [
+      "Sandra Bullock",
+      "Regina King"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/miss-congeniality-2--armed-and-fabulous.html"
+}

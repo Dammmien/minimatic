@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Escape from Crime",
+    "year": 1942,
+    "cast": [
+      "Richard Travis",
+      "Jackie Gleason"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/escape-from-crime.html"
+}

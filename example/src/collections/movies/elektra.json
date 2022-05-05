@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Elektra",
+    "year": 2005,
+    "cast": [
+      "Jennifer Garner",
+      "Terence Stamp",
+      "Kirsten Prout"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/elektra.html"
+}

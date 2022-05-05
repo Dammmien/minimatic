@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Marianne",
+    "year": 1929,
+    "cast": [
+      "Marion Davies",
+      "Lawrence Gray",
+      "Cliff Edwards"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/marianne.html"
+}

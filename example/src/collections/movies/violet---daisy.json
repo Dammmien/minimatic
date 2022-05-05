@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Violet & Daisy",
+    "year": 2013,
+    "cast": [
+      "Saoirse Ronan",
+      "Alexis Bledel",
+      "Marianne Jean-Baptiste",
+      "Danny Trejo",
+      "James Gandolfini"
+    ],
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/violet---daisy.html"
+}

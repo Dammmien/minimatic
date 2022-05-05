@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Bushy Hare",
+    "year": 1950,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/bushy-hare.html"
+}

@@ -1,0 +1,9 @@
+{
+  "data": {
+    "title": "Home Movies",
+    "year": 1995,
+    "cast": [],
+    "genres": []
+  },
+  "output": "movies/home-movies.html"
+}

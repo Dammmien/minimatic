@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "4 Minute Mile",
+    "year": 2014,
+    "cast": [
+      "Analeigh Tipton",
+      "Cam Gigandet",
+      "Kim Basinger",
+      "Kelly Blatz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/4-minute-mile.html"
+}
