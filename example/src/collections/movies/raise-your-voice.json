@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Raise Your Voice",
+    "year": 2004,
+    "cast": [
+      "Hilary Duff"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/raise-your-voice.html"
+}

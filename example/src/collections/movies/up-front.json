@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Up Front",
+    "year": 1951,
+    "cast": [
+      "David Wayne",
+      "Tom Ewell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/up-front.html"
+}

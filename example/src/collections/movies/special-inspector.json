@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Special Inspector",
+    "year": 1938,
+    "cast": [
+      "Charles Quigley",
+      "Rita Hayworth",
+      "George McKay"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/special-inspector.html"
+}

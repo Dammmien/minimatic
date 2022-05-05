@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Point Blank",
+    "year": 1967,
+    "cast": [
+      "Lee Marvin",
+      "Angie Dickinson",
+      "Carroll O'Connor",
+      "Keenan Wynn",
+      "Lloyd Bochner",
+      "John Vernon"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/point-blank.html"
+}

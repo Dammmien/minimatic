@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Up Periscope",
+    "year": 1959,
+    "cast": [
+      "James Garner",
+      "Edmund O'Brien",
+      "Andra Martin",
+      "Alan Hale, Jr."
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/up-periscope.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Forbidden Dance",
+    "year": 1990,
+    "cast": [
+      "Laura Harring"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-forbidden-dance.html"
+}

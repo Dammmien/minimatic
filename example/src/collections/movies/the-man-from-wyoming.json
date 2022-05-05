@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man from Wyoming",
+    "year": 1924,
+    "cast": [
+      "Jack Hoxie",
+      "Lillian Rich"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-man-from-wyoming.html"
+}

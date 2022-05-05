@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Upstream",
+    "year": 1927,
+    "cast": [
+      "Nancy Nash",
+      "Earle Foxe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/upstream.html"
+}

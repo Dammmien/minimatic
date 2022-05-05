@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tea for Two",
+    "year": 1950,
+    "cast": [
+      "Doris Day",
+      "Gordon MacRae"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/tea-for-two.html"
+}

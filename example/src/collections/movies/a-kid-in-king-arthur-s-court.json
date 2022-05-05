@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Kid in King Arthur's Court",
+    "year": 1995,
+    "cast": [
+      "Thomas Ian Nicholas",
+      "Joss Ackland"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-kid-in-king-arthur-s-court.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sally of the Scandals",
+    "year": 1928,
+    "cast": [
+      "Bessie Love",
+      "Irene Lambert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sally-of-the-scandals.html"
+}

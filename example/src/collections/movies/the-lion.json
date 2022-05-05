@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lion",
+    "year": 1962,
+    "cast": [
+      "William Holden",
+      "Trevor Howard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lion.html"
+}

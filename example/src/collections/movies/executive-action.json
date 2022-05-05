@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Executive Action",
+    "year": 1973,
+    "cast": [
+      "Burt Lancaster",
+      "Will Geer"
+    ],
+    "genres": [
+      "Documentary",
+      "Drama"
+    ]
+  },
+  "output": "movies/executive-action.html"
+}

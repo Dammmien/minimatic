@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Summer Place",
+    "year": 1959,
+    "cast": [
+      "Richard Egan",
+      "Sandra Dee",
+      "Troy Donahue"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-summer-place.html"
+}

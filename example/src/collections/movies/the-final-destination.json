@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Final Destination",
+    "year": 2009,
+    "cast": [
+      "Bobby Campo",
+      "Shantel VanSanten",
+      "Haley Webb",
+      "Nick Zano",
+      "Mykelti Williamson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-final-destination.html"
+}

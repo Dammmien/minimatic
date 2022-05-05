@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bonzo Goes to College",
+    "year": 1952,
+    "cast": [
+      "Maureen O'Sullivan",
+      "Edmund Gwenn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bonzo-goes-to-college.html"
+}

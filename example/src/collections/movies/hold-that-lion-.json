@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hold That Lion!",
+    "year": 1947,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/hold-that-lion-.html"
+}

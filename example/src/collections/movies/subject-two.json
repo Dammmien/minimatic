@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Subject Two",
+    "year": 2006,
+    "cast": [
+      "Christian Oliver",
+      "Dean Stapleton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/subject-two.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Is a Lonely Number",
+    "year": 1972,
+    "cast": [
+      "Trish Van Devere",
+      "Monte Markham",
+      "Janet Leigh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/one-is-a-lonely-number.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Get Hard",
+    "year": 2015,
+    "cast": [
+      "Will Ferrell",
+      "Kevin Hart",
+      "Alison Brie",
+      "Edwina Findley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/get-hard.html"
+}

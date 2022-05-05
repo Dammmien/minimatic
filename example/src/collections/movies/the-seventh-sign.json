@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Seventh Sign",
+    "year": 1988,
+    "cast": [
+      "Demi Moore",
+      "Michael Biehn",
+      "Jürgen Prochnow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-seventh-sign.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Masked Raiders",
+    "year": 1949,
+    "cast": [
+      "Tim Holt",
+      "Marjorie Lord"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/masked-raiders.html"
+}

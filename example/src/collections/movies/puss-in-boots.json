@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Puss in Boots",
+    "year": 2011,
+    "cast": [
+      "Antonio Banderas",
+      "Salma Hayek",
+      "Zach Galifianakis",
+      "Billy Bob Thornton",
+      "Amy Sedaris",
+      "Walt Dohrn",
+      "(narrator)",
+      "Zeus Mendoza",
+      "Constance Marie"
+    ],
+    "genres": [
+      "Adventure",
+      "Animated"
+    ]
+  },
+  "output": "movies/puss-in-boots.html"
+}

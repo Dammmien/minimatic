@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Command Decision",
+    "year": 1948,
+    "cast": [
+      "Clark Gable",
+      "Walter Pidgeon",
+      "Van Johnson"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/command-decision.html"
+}

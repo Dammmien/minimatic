@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Nightingale Sang in Berkeley Square",
+    "year": 1979,
+    "cast": [
+      "David Niven",
+      "Elke Sommer",
+      "Richard Jordan"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-nightingale-sang-in-berkeley-square.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Strangers",
+    "year": 2008,
+    "cast": [
+      "Liv Tyler",
+      "Scott Speedman"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-strangers.html"
+}

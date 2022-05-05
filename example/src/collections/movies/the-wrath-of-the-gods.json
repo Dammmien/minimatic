@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wrath of the Gods",
+    "year": 1914,
+    "cast": [
+      "Sessue Hayakawa",
+      "Tsuru Aoki",
+      "Frank Borzage"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wrath-of-the-gods.html"
+}

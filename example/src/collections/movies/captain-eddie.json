@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Captain Eddie",
+    "year": 1945,
+    "cast": [
+      "Fred MacMurray",
+      "Lynn Bari"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/captain-eddie.html"
+}

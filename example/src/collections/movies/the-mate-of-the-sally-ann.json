@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mate of the Sally Ann",
+    "year": 1917,
+    "cast": [
+      "Mary Miles Minter",
+      "Allan Forrest"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mate-of-the-sally-ann.html"
+}

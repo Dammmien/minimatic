@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "You're a Lucky Fellow, Mr. Smith",
+    "year": 1943,
+    "cast": [
+      "Allan Jones",
+      "Billie Burke"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-re-a-lucky-fellow--mr--smith.html"
+}

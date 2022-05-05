@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "They Got Me Covered",
+    "year": 1943,
+    "cast": [
+      "Bob Hope",
+      "Dorothy Lamour"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/they-got-me-covered.html"
+}

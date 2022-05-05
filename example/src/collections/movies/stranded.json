@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stranded",
+    "year": 1935,
+    "cast": [
+      "George Brent",
+      "Kay Francis",
+      "Robert Barrat"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stranded.html"
+}

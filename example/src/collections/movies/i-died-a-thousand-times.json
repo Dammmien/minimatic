@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Died a Thousand Times",
+    "year": 1955,
+    "cast": [
+      "Jack Palance",
+      "Shelley Winters"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/i-died-a-thousand-times.html"
+}

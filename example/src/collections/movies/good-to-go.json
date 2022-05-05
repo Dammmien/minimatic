@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Good to Go",
+    "year": 1986,
+    "cast": [
+      "Art Garfunkel",
+      "Robert DoQui",
+      "Harris Yulin"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/good-to-go.html"
+}

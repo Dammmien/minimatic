@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Guilty Bystander",
+    "year": 1950,
+    "cast": [
+      "Zachary Scott",
+      "Faye Emerson"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/guilty-bystander.html"
+}

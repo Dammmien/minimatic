@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady Chaser",
+    "year": 1946,
+    "cast": [
+      "Robert Lowery",
+      "Ann Savage"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/lady-chaser.html"
+}

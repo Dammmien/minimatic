@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Splendid Sin",
+    "year": 1919,
+    "cast": [
+      "Madlaine Traverse",
+      "Charles Clary"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-splendid-sin.html"
+}

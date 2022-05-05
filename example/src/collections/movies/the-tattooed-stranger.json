@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Tattooed Stranger",
+    "year": 1950,
+    "cast": [
+      "Patricia Barry",
+      "John Miles"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-tattooed-stranger.html"
+}

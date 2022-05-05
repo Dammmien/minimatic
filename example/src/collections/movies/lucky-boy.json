@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Lucky Boy",
+    "year": 1929,
+    "cast": [
+      "George Jessel",
+      "Gwen Lee"
+    ],
+    "genres": [
+      "Musical",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/lucky-boy.html"
+}

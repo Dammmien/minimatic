@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bride of Fear",
+    "year": 1918,
+    "cast": [
+      "Jewel Carmen",
+      "Charles Gorman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bride-of-fear.html"
+}

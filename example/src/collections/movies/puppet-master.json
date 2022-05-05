@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Puppet Master",
+    "year": 1989,
+    "cast": [
+      "Paul LeMat",
+      "William Hickey"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/puppet-master.html"
+}

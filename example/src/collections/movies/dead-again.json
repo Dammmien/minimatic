@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dead Again",
+    "year": 1991,
+    "cast": [
+      "Kenneth Branagh",
+      "Andy García",
+      "Emma Thompson",
+      "Robin Williams"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/dead-again.html"
+}

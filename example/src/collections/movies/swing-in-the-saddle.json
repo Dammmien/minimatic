@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Swing in the Saddle",
+    "year": 1944,
+    "cast": [
+      "Jane Frazee",
+      "Guinn Williams",
+      "Sally Bliss"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/swing-in-the-saddle.html"
+}

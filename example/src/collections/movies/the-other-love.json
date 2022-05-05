@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Other Love",
+    "year": 1947,
+    "cast": [
+      "Barbara Stanwyck",
+      "David Niven",
+      "Richard Conte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-other-love.html"
+}

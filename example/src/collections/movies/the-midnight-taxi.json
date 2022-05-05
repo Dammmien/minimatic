@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Midnight Taxi",
+    "year": 1928,
+    "cast": [
+      "Antonio Moreno",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-midnight-taxi.html"
+}

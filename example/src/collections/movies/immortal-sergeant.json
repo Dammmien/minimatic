@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Immortal Sergeant",
+    "year": 1943,
+    "cast": [
+      "Henry Fonda",
+      "Maureen O'Hara"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/immortal-sergeant.html"
+}

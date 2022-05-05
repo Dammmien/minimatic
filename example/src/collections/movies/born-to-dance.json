@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Born to Dance",
+    "year": 1936,
+    "cast": [
+      "Eleanor Powell",
+      "James Stewart",
+      "Virginia Bruce"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/born-to-dance.html"
+}

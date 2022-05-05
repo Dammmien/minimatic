@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Slaves",
+    "year": 1969,
+    "cast": [
+      "Stephen Boyd",
+      "Dionne Warwick",
+      "Ossie Davis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/slaves.html"
+}

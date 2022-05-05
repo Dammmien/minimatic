@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Captain Kidd's Kids",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/captain-kidd-s-kids.html"
+}

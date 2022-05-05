@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Vagabond Lover",
+    "year": 1929,
+    "cast": [
+      "Rudy Vallée",
+      "Sally Blane",
+      "Marie Dressler"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-vagabond-lover.html"
+}

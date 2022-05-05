@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Watcher",
+    "year": 2000,
+    "cast": [
+      "James Spader",
+      "Keanu Reeves",
+      "Marisa Tomei"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-watcher.html"
+}

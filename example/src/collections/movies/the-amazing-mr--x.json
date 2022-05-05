@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Amazing Mr. X",
+    "year": 1948,
+    "cast": [
+      "Turhan Bey",
+      "Lynn Bari",
+      "Cathy O'Donnell"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-amazing-mr--x.html"
+}

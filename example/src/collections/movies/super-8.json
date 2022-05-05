@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Super 8",
+    "year": 2011,
+    "cast": [
+      "Joel Courtney",
+      "Elle Fanning",
+      "Kyle Chandler",
+      "Ron Eldard",
+      "Noah Emmerich",
+      "Gabriel Basso",
+      "Riley Griffiths",
+      "Ryan Lee",
+      "Zach Mills",
+      "Amanda Michalka"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/super-8.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spoilers of the West",
+    "year": 1927,
+    "cast": [
+      "Tim McCoy",
+      "Marjorie Daw"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/spoilers-of-the-west.html"
+}

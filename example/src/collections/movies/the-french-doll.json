@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The French Doll",
+    "year": 1923,
+    "cast": [
+      "Mae Murray",
+      "Orville Caldwell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-french-doll.html"
+}

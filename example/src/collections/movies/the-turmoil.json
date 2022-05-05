@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Turmoil",
+    "year": 1924,
+    "cast": [
+      "George Hackathorne",
+      "Theodore von Eltz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-turmoil.html"
+}

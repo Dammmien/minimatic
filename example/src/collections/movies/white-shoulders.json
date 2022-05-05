@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "White Shoulders",
+    "year": 1931,
+    "cast": [
+      "Mary Astor",
+      "Jack Holt"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/white-shoulders.html"
+}

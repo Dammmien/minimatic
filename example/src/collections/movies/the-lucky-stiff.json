@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lucky Stiff",
+    "year": 1949,
+    "cast": [
+      "Dorothy Lamour",
+      "Claire Trevor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-lucky-stiff.html"
+}

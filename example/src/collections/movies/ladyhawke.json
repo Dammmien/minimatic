@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ladyhawke",
+    "year": 1985,
+    "cast": [
+      "Matthew Broderick",
+      "Michelle Pfeiffer",
+      "Rutger Hauer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ladyhawke.html"
+}

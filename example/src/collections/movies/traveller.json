@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Traveller",
+    "year": 1997,
+    "cast": [
+      "Bill Paxton",
+      "Mark Wahlberg",
+      "Julianna Margulies"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/traveller.html"
+}

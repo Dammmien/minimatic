@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Night",
+    "year": 1960,
+    "cast": [
+      "Venetia Stevenson",
+      "Randy Sparks",
+      "Dick Contino"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-big-night.html"
+}

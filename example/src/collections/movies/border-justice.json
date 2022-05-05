@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Border Justice",
+    "year": 1925,
+    "cast": [
+      "Bill Cody",
+      "Nola Luxford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/border-justice.html"
+}

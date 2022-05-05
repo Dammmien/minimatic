@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eve of Destruction",
+    "year": 1991,
+    "cast": [
+      "Gregory Hines",
+      "Renee Soutendijk"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/eve-of-destruction.html"
+}

@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Mars Attacks!",
+    "year": 1996,
+    "cast": [
+      "Jack Nicholson",
+      "Glenn Close",
+      "Annette Bening",
+      "Pierce Brosnan",
+      "Danny DeVito",
+      "Jim Brown",
+      "Sarah Jessica Parker",
+      "Martin Short",
+      "Michael J. Fox",
+      "Lukas Haas",
+      "Natalie Portman"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Comedy"
+    ]
+  },
+  "output": "movies/mars-attacks-.html"
+}

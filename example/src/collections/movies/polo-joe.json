@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Polo Joe",
+    "year": 1936,
+    "cast": [
+      "Joe E. Brown",
+      "Carol Hughes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/polo-joe.html"
+}

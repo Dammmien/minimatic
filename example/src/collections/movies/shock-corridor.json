@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shock Corridor",
+    "year": 1963,
+    "cast": [
+      "Peter Breck",
+      "Constance Towers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shock-corridor.html"
+}

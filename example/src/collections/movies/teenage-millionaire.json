@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Teenage Millionaire",
+    "year": 1961,
+    "cast": [
+      "Jimmy Clanton",
+      "Diane Jergens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/teenage-millionaire.html"
+}

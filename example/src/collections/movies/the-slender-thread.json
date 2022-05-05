@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Slender Thread",
+    "year": 1965,
+    "cast": [
+      "Sidney Poitier",
+      "Anne Bancroft",
+      "Telly Savalas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-slender-thread.html"
+}

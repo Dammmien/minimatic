@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Reindeer Games",
+    "year": 2000,
+    "cast": [
+      "Ben Affleck",
+      "Gary Sinise",
+      "Charlize Theron"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/reindeer-games.html"
+}

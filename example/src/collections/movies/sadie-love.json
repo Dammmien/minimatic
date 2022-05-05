@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sadie Love",
+    "year": 1919,
+    "cast": [
+      "Billie Burke",
+      "Hedda Hopper"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sadie-love.html"
+}

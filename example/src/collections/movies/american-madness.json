@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "American Madness",
+    "year": 1932,
+    "cast": [
+      "Walter Huston",
+      "Pat O'Brien",
+      "Kay Johnson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/american-madness.html"
+}

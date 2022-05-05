@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Seven Keys to Baldpate",
+    "year": 1947,
+    "cast": [
+      "Phillip Terry",
+      "Jacqueline White"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/seven-keys-to-baldpate.html"
+}

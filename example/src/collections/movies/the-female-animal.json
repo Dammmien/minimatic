@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Female Animal",
+    "year": 1958,
+    "cast": [
+      "Hedy Lamarr",
+      "Jan Sterling"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-female-animal.html"
+}

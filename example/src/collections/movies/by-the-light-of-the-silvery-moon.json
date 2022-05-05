@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "By the Light of the Silvery Moon",
+    "year": 1953,
+    "cast": [
+      "Doris Day",
+      "Gordon MacRae"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/by-the-light-of-the-silvery-moon.html"
+}

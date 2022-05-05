@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Top Man",
+    "year": 1943,
+    "cast": [
+      "Donald O'Connor",
+      "Susanna Foster",
+      "Lillian Gish"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/top-man.html"
+}

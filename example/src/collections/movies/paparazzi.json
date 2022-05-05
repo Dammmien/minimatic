@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Paparazzi",
+    "year": 2004,
+    "cast": [
+      "Cole Hauser",
+      "Robin Tunney",
+      "Tom Sizemore",
+      "Daniel Baldwin"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/paparazzi.html"
+}

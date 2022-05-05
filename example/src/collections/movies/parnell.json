@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Parnell",
+    "year": 1937,
+    "cast": [
+      "Clark Gable",
+      "Myrna Loy",
+      "Alan Marshal"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/parnell.html"
+}

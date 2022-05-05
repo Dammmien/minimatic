@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Copycat",
+    "year": 1995,
+    "cast": [
+      "Sigourney Weaver",
+      "Holly Hunter",
+      "Dermot Mulroney",
+      "William McNamara",
+      "Will Patton",
+      "Harry Connick, Jr."
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/copycat.html"
+}

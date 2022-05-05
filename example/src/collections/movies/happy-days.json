@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Happy Days",
+    "year": 1929,
+    "cast": [
+      "Marjorie White",
+      "Stuart Erwin",
+      "Janet Gaynor"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/happy-days.html"
+}

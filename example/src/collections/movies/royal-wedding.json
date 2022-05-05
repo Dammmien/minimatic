@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Royal Wedding",
+    "year": 1951,
+    "cast": [
+      "Fred Astaire",
+      "Jane Powell",
+      "Peter Lawford"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/royal-wedding.html"
+}

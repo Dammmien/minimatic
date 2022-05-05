@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hairy Bird",
+    "year": 1998,
+    "cast": [
+      "Kirsten Dunst",
+      "Gaby Hoffmann",
+      "Lynn Redgrave"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-hairy-bird.html"
+}

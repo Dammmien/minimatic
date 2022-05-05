@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Goal!",
+    "year": 2005,
+    "cast": [
+      "Kuno Becker",
+      "Alessandro Nivola",
+      "Marcel Iures",
+      "Stephen Dillane"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/goal-.html"
+}

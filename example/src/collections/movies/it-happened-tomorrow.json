@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It Happened Tomorrow",
+    "year": 1944,
+    "cast": [
+      "Dick Powell",
+      "Linda Darnell"
+    ],
+    "genres": [
+      "Fantasy",
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-happened-tomorrow.html"
+}

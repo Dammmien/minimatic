@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Men of Steel",
+    "year": 1926,
+    "cast": [
+      "Milton Sills",
+      "Doris Kenyon",
+      "May Allison"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/men-of-steel.html"
+}

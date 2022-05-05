@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Homecoming",
+    "year": 2009,
+    "cast": [
+      "Mischa Barton",
+      "Matt Long",
+      "Jessica Stroup"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/homecoming.html"
+}

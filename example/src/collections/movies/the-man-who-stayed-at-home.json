@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Who Stayed at Home",
+    "year": 1919,
+    "cast": [
+      "King Baggot",
+      "Claire Whitney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-who-stayed-at-home.html"
+}

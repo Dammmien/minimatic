@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Colorado Sunset",
+    "year": 1939,
+    "cast": [
+      "Gene Autry",
+      "June Storey",
+      "Patsy Montana"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/colorado-sunset.html"
+}

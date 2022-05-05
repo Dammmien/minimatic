@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "For the Love of Benji",
+    "year": 1977,
+    "cast": [
+      "Patsy Garrett",
+      "Ed Nelson"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/for-the-love-of-benji.html"
+}

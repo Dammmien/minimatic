@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Chicago Kid",
+    "year": 1945,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Otto Kruger"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-chicago-kid.html"
+}

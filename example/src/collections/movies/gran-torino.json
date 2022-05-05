@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Gran Torino",
+    "year": 2008,
+    "cast": [
+      "Clint Eastwood"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gran-torino.html"
+}

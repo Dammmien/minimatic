@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Samson and Delilah",
+    "year": 1996,
+    "cast": [
+      "Elizabeth Hurley",
+      "Dennis Hopper",
+      "Michael Gambon",
+      "Diana Rigg"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/samson-and-delilah.html"
+}

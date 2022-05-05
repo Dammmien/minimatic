@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Heart of Youth",
+    "year": 1919,
+    "cast": [
+      "Lila Lee",
+      "Tom Forman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-heart-of-youth.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Love Came Back",
+    "year": 1940,
+    "cast": [
+      "Olivia de Havilland",
+      "Jeffrey Lynn",
+      "Jane Wyman"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/my-love-came-back.html"
+}

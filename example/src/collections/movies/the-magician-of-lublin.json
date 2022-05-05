@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Magician of Lublin",
+    "year": 1979,
+    "cast": [
+      "Alan Arkin",
+      "Valerie Perrine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-magician-of-lublin.html"
+}

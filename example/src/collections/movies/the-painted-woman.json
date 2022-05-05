@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Painted Woman",
+    "year": 1932,
+    "cast": [
+      "Spencer Tracy",
+      "Peggy Shannon"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-painted-woman.html"
+}

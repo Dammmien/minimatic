@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "L.A. Story",
+    "year": 1991,
+    "cast": [
+      "Steve Martin",
+      "Victoria Tennant",
+      "Marilu Henner",
+      "Richard E. Grant",
+      "Sarah Jessica Parker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/l-a--story.html"
+}

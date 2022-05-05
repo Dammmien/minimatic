@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Boogeyman",
+    "year": 1980,
+    "cast": [
+      "Ron James",
+      "Suzanna Love",
+      "Ron Jeremy"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-boogeyman.html"
+}

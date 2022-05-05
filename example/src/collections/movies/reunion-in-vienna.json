@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Reunion in Vienna",
+    "year": 1933,
+    "cast": [
+      "John Barrymore",
+      "Diana Wynyard"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/reunion-in-vienna.html"
+}

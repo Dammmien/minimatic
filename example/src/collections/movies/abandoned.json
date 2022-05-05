@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Abandoned",
+    "year": 1949,
+    "cast": [
+      "Dennis O'Keefe",
+      "Gale Storm",
+      "Jeff Chandler"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/abandoned.html"
+}

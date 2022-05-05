@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ridin' the Outlaw Trail",
+    "year": 1951,
+    "cast": [
+      "Charles Starrett",
+      "Jim Bannon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ridin--the-outlaw-trail.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Underworld: Blood Wars",
+    "year": 2017,
+    "cast": [
+      "Kate Beckinsale",
+      "Theo James",
+      "Tobias Menzies",
+      "Lara Pulver",
+      "James Faulkner",
+      "Charles Dance"
+    ],
+    "genres": [
+      "Action",
+      "Horror"
+    ]
+  },
+  "output": "movies/underworld--blood-wars.html"
+}

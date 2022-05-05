@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wild Beauty",
+    "year": 1946,
+    "cast": [
+      "Don Porter",
+      "Lois Collier",
+      "Jacqueline deWit"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wild-beauty.html"
+}

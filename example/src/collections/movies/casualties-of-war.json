@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Casualties of War",
+    "year": 1989,
+    "cast": [
+      "Michael J. Fox",
+      "Sean Penn"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/casualties-of-war.html"
+}

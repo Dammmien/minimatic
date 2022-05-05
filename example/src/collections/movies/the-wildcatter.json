@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wildcatter",
+    "year": 1937,
+    "cast": [
+      "Scott Kolk",
+      "Jean Rogers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wildcatter.html"
+}

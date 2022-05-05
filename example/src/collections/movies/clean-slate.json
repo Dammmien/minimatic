@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Clean Slate",
+    "year": 1994,
+    "cast": [
+      "Dana Carvey",
+      "Valeria Golino",
+      "James Earl Jones",
+      "Michael Gambon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/clean-slate.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Arizona Cyclone",
+    "year": 1928,
+    "cast": [
+      "Fred Humes",
+      "George B. French"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-arizona-cyclone.html"
+}

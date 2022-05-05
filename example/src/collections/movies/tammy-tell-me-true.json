@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tammy Tell Me True",
+    "year": 1961,
+    "cast": [
+      "Sandra Dee",
+      "John Gavin"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/tammy-tell-me-true.html"
+}

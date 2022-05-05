@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Heroes for Sale",
+    "year": 1933,
+    "cast": [
+      "Richard Barthelmess",
+      "Aline MacMahon",
+      "Loretta Young"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/heroes-for-sale.html"
+}

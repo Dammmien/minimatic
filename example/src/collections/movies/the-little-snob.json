@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Little Snob",
+    "year": 1928,
+    "cast": [
+      "May McAvoy",
+      "Robert Frazer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-little-snob.html"
+}

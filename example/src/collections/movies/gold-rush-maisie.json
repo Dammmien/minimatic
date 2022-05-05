@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gold Rush Maisie",
+    "year": 1940,
+    "cast": [
+      "Ann Sothern",
+      "Lee Bowman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gold-rush-maisie.html"
+}

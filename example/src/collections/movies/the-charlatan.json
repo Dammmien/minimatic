@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Charlatan",
+    "year": 1929,
+    "cast": [
+      "Holmes Herbert",
+      "Margaret Livingston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-charlatan.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Terror Mountain",
+    "year": 1928,
+    "cast": [
+      "Tom Tyler",
+      "Frankie Darro"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/terror-mountain.html"
+}

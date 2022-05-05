@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Six Shooter Andy",
+    "year": 1918,
+    "cast": [
+      "Tom Mix",
+      "Bert Woodruff"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/six-shooter-andy.html"
+}

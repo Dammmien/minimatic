@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fast Break",
+    "year": 1979,
+    "cast": [
+      "Gabe Kaplan",
+      "Harold Sylvester"
+    ],
+    "genres": [
+      "Comedy",
+      "Sports"
+    ]
+  },
+  "output": "movies/fast-break.html"
+}

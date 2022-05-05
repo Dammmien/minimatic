@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Apartment Wanted",
+    "year": 1922,
+    "cast": [
+      "Lee Moran",
+      "Alberta Vaughn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/apartment-wanted.html"
+}

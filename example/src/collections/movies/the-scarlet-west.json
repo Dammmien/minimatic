@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Scarlet West",
+    "year": 1925,
+    "cast": [
+      "Robert Frazer",
+      "Clara Bow"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/the-scarlet-west.html"
+}

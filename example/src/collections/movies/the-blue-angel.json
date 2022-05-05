@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Blue Angel",
+    "year": 1959,
+    "cast": [
+      "May Britt",
+      "Curt Jurgens"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-blue-angel.html"
+}

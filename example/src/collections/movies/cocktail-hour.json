@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cocktail Hour",
+    "year": 1933,
+    "cast": [
+      "Randolph Scott",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/cocktail-hour.html"
+}

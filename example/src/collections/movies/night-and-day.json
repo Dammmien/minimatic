@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Night and Day",
+    "year": 1946,
+    "cast": [
+      "Cary Grant",
+      "Alexis Smith",
+      "Jane Wyman"
+    ],
+    "genres": [
+      "Musical",
+      "Biography"
+    ]
+  },
+  "output": "movies/night-and-day.html"
+}

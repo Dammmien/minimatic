@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Reflecting Skin",
+    "year": 1990,
+    "cast": [
+      "Viggo Mortensen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-reflecting-skin.html"
+}

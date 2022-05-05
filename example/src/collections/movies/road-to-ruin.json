@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Road to Ruin",
+    "year": 1991,
+    "cast": [
+      "Peter Weller",
+      "Carey Lowell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/road-to-ruin.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cutting Edge",
+    "year": 1992,
+    "cast": [
+      "D. B. Sweeney",
+      "Moira Kelly"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-cutting-edge.html"
+}

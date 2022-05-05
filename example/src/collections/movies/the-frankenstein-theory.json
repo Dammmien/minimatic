@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Frankenstein Theory",
+    "year": 2013,
+    "cast": [
+      "Kris Lemche",
+      "Joe Egender",
+      "Timothy V. Murphy",
+      "Heather Stephens"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-frankenstein-theory.html"
+}

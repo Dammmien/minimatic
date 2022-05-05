@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Slaughter of the Innocents",
+    "year": 1993,
+    "cast": [
+      "Scott Glenn",
+      "Darlanne Fluegel",
+      "Kevin Sorbo"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/slaughter-of-the-innocents.html"
+}

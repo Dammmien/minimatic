@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Harmony Lane",
+    "year": 1935,
+    "cast": [
+      "Douglass Montgomery",
+      "Evelyn Venable",
+      "Adrienne Ames"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/harmony-lane.html"
+}

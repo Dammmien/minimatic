@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "G.B.F.",
+    "year": 2013,
+    "cast": [
+      "Sasha Pieterse",
+      "Andrea Bowen",
+      "Xosha Roquemore",
+      "JoJo",
+      "Molly Tarlov"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/g-b-f-.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Telephone Operator",
+    "year": 1937,
+    "cast": [
+      "Judith Allen",
+      "Alice White",
+      "Pat Flaherty"
+    ],
+    "genres": [
+      "Drama",
+      "Action"
+    ]
+  },
+  "output": "movies/telephone-operator.html"
+}

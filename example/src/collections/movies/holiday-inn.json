@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Holiday Inn",
+    "year": 1942,
+    "cast": [
+      "Bing Crosby",
+      "Fred Astaire",
+      "Marjorie Reynolds",
+      "Virginia Dale"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/holiday-inn.html"
+}

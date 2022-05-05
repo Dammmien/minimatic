@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Food, Inc.",
+    "year": 2009,
+    "cast": [
+      "Agricultural food production in United States"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/food--inc-.html"
+}

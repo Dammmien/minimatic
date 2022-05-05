@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Fugitives",
+    "year": 1989,
+    "cast": [
+      "Nick Nolte",
+      "Martin Short",
+      "James Earl Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-fugitives.html"
+}

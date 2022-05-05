@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Player",
+    "year": 1992,
+    "cast": [
+      "Tim Robbins",
+      "Greta Scacchi",
+      "Peter Gallagher",
+      "Cynthia Stevenson",
+      "Whoopi Goldberg",
+      "Brion James",
+      "Lyle Lovett"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-player.html"
+}

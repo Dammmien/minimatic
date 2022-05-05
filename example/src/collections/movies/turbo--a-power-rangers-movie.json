@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Turbo: A Power Rangers Movie",
+    "year": 1997,
+    "cast": [
+      "Johnny Yong Bosch",
+      "Nakia Burrise",
+      "Jason David Frank",
+      "Catherine Sutherland"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/turbo--a-power-rangers-movie.html"
+}

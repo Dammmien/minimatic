@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Inland Empire",
+    "year": 2006,
+    "cast": [
+      "Laura Dern",
+      "Jeremy Irons",
+      "Justin Theroux",
+      "Harry Dean Stanton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/inland-empire.html"
+}

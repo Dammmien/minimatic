@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Speed 2: Cruise Control",
+    "year": 1997,
+    "cast": [
+      "Sandra Bullock",
+      "Jason Patric",
+      "Willem Dafoe"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/speed-2--cruise-control.html"
+}

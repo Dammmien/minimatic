@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beethoven",
+    "year": 1992,
+    "cast": [
+      "Charles Grodin",
+      "Bonnie Hunt"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/beethoven.html"
+}

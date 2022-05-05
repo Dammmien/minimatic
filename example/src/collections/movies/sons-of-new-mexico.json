@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sons of New Mexico",
+    "year": 1949,
+    "cast": [
+      "Gene Autry",
+      "Gail Davis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sons-of-new-mexico.html"
+}

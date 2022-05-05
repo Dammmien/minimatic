@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ghosts of Mississippi",
+    "year": 1996,
+    "cast": [
+      "Alec Baldwin",
+      "Whoopi Goldberg",
+      "James Woods"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/ghosts-of-mississippi.html"
+}

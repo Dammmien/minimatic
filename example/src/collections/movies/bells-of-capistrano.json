@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bells of Capistrano",
+    "year": 1942,
+    "cast": [
+      "Gene Autry",
+      "Virginia Grey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bells-of-capistrano.html"
+}

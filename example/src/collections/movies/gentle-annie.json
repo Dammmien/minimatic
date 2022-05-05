@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gentle Annie",
+    "year": 1944,
+    "cast": [
+      "James Craig",
+      "Donna Reed",
+      "Marjorie Main"
+    ],
+    "genres": [
+      "Romance",
+      "Western"
+    ]
+  },
+  "output": "movies/gentle-annie.html"
+}

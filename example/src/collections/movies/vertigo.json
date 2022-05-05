@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Vertigo",
+    "year": 1958,
+    "cast": [
+      "James Stewart",
+      "Kim Novak",
+      "Barbara Bel Geddes"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/vertigo.html"
+}

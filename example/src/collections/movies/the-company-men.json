@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Company Men",
+    "year": 2010,
+    "cast": [
+      "Ben Affleck",
+      "Chris Cooper",
+      "Kevin Costner",
+      "Tommy Lee Jones",
+      "Maria Bello",
+      "Rosemarie DeWitt",
+      "Craig T. Nelson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-company-men.html"
+}

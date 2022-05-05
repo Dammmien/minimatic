@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Silken Shackles",
+    "year": 1926,
+    "cast": [
+      "Irene Rich",
+      "Huntley Gordon",
+      "Victor Varconi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/silken-shackles.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wanted: Dead or Alive",
+    "year": 1987,
+    "cast": [
+      "Rutger Hauer",
+      "Gene Simmons",
+      "Mel Harris"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/wanted--dead-or-alive.html"
+}

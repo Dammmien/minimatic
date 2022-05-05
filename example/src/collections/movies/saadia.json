@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Saadia",
+    "year": 1953,
+    "cast": [
+      "Cornel Wilde",
+      "Rita Gam",
+      "Mel Ferrer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/saadia.html"
+}

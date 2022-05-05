@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Private Jones",
+    "year": 1933,
+    "cast": [
+      "Lee Tracy",
+      "Gloria Stuart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/private-jones.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Freckles Comes Home",
+    "year": 1942,
+    "cast": [
+      "Gale Storm",
+      "Johnny Downs"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/freckles-comes-home.html"
+}

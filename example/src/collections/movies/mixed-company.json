@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mixed Company",
+    "year": 1974,
+    "cast": [
+      "Barbara Harris",
+      "Joseph Bologna"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mixed-company.html"
+}

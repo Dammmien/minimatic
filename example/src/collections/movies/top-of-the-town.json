@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Top of the Town",
+    "year": 1937,
+    "cast": [
+      "Doris Nolan",
+      "George Murphy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/top-of-the-town.html"
+}

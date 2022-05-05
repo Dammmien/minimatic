@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Marshal of Reno",
+    "year": 1944,
+    "cast": [
+      "Wild Bill Elliott",
+      "Alice Fleming"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/marshal-of-reno.html"
+}

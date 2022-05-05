@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wanters",
+    "year": 1923,
+    "cast": [
+      "Marie Prevost",
+      "Norma Shearer",
+      "Gertrude Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wanters.html"
+}

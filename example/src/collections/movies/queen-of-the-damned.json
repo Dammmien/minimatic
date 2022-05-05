@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Queen of the Damned",
+    "year": 2002,
+    "cast": [
+      "Aaliyah",
+      "Stuart Townsend",
+      "Marguerite Moreau"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/queen-of-the-damned.html"
+}

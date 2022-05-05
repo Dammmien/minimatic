@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Mother and Child",
+    "year": 2010,
+    "cast": [
+      "Naomi Watts",
+      "Annette Bening",
+      "Kerry Washington",
+      "Jimmy Smits",
+      "Samuel L. Jackson",
+      "S. Epatha Merkerson",
+      "Cherry Jones",
+      "Elpidia Carrillo",
+      "Shareeka Epps"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mother-and-child.html"
+}

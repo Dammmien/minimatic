@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Man's Hero",
+    "year": 1999,
+    "cast": [
+      "Tom Berenger",
+      "Joaquim de Almeida",
+      "Daniela Romo"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/one-man-s-hero.html"
+}

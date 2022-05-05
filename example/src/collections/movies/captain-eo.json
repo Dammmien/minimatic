@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Captain EO",
+    "year": 1986,
+    "cast": [
+      "Michael Jackson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/captain-eo.html"
+}

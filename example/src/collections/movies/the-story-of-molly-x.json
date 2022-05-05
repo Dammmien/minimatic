@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Story of Molly X",
+    "year": 1949,
+    "cast": [
+      "June Havoc",
+      "John Russell",
+      "Dorothy Hart"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-story-of-molly-x.html"
+}

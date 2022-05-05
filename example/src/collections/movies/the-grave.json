@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Grave",
+    "year": 1996,
+    "cast": [
+      "Craig Sheffer",
+      "Gabrielle Anwar"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-grave.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Telling Lies in America",
+    "year": 1997,
+    "cast": [
+      "Kevin Bacon",
+      "Brad Renfro"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/telling-lies-in-america.html"
+}

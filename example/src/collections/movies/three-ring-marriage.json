@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three-Ring Marriage",
+    "year": 1928,
+    "cast": [
+      "Mary Astor",
+      "Lloyd Hughes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/three-ring-marriage.html"
+}

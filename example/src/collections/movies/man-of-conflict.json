@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Man of Conflict",
+    "year": 1953,
+    "cast": [
+      "Edward Arnold",
+      "John Agar",
+      "Susan Morrow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/man-of-conflict.html"
+}

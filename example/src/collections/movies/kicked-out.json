@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Kicked Out",
+    "year": 1918,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kicked-out.html"
+}

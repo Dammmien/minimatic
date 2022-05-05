@@ -1,0 +1,27 @@
+{
+  "data": {
+    "title": "Thor: The Dark World",
+    "year": 2013,
+    "cast": [
+      "Chris Hemsworth",
+      "Natalie Portman",
+      "Tom Hiddleston",
+      "Stellan Skarsgård",
+      "Idris Elba",
+      "Christopher Eccleston",
+      "Adewale Akinnuoye-Agbaje",
+      "Kat Dennings",
+      "Ray Stevenson",
+      "Zachary Levi",
+      "Tadanobu Asano",
+      "Jaimie Alexander",
+      "Rene Russo",
+      "and",
+      "Anthony Hopkins"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/thor--the-dark-world.html"
+}

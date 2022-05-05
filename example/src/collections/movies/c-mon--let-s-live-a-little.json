@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "C'mon, Let's Live a Little",
+    "year": 1967,
+    "cast": [
+      "Bobby Vee",
+      "Jackie DeShannon"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/c-mon--let-s-live-a-little.html"
+}

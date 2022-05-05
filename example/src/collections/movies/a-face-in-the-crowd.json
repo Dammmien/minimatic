@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A Face in the Crowd",
+    "year": 1957,
+    "cast": [
+      "Andy Griffith",
+      "Patricia Neal",
+      "Walter Matthau",
+      "Lee Remick",
+      "Tony Franciosa"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-face-in-the-crowd.html"
+}

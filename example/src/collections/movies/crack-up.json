@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Crack-Up",
+    "year": 1946,
+    "cast": [
+      "Pat O'Brien",
+      "Claire Trevor",
+      "Herbert Marshall"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/crack-up.html"
+}

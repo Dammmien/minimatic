@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Come Blow Your Horn",
+    "year": 1963,
+    "cast": [
+      "Frank Sinatra",
+      "Tony Bill",
+      "Barbara Rush",
+      "Jill St. John"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/come-blow-your-horn.html"
+}

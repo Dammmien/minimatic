@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sex",
+    "year": 1920,
+    "cast": [
+      "Louise Glaum",
+      "Irving Cummings"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sex.html"
+}

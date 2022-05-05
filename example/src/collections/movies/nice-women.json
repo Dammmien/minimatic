@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nice Women",
+    "year": 1931,
+    "cast": [
+      "Sidney Fox",
+      "Frances Dee"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/nice-women.html"
+}

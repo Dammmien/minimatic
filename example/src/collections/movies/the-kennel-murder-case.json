@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Kennel Murder Case",
+    "year": 1933,
+    "cast": [
+      "William Powell",
+      "Mary Astor",
+      "Eugene Pallette"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-kennel-murder-case.html"
+}

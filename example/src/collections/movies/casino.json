@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Casino",
+    "year": 1995,
+    "cast": [
+      "Robert De Niro",
+      "Sharon Stone",
+      "Joe Pesci",
+      "James Woods",
+      "Kevin Pollak",
+      "Alan King",
+      "Don Rickles"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/casino.html"
+}

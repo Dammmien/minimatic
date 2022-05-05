@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Virtue",
+    "year": 1932,
+    "cast": [
+      "Carole Lombard",
+      "Pat O'Brien"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/virtue.html"
+}

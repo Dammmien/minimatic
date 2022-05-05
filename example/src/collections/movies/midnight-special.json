@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Midnight Special",
+    "year": 2016,
+    "cast": [
+      "Michael Shannon",
+      "Kirsten Dunst"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Supernatural"
+    ]
+  },
+  "output": "movies/midnight-special.html"
+}

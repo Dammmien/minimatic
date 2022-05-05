@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Grey Zone",
+    "year": 2001,
+    "cast": [
+      "Harvey Keitel",
+      "Natasha Lyonne",
+      "David Arquette"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-grey-zone.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Nutcracker Prince",
+    "year": 1990,
+    "cast": [
+      "voices of",
+      "Kiefer Sutherland",
+      "Megan Follows"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-nutcracker-prince.html"
+}

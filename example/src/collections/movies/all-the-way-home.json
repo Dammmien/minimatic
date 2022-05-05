@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "All the Way Home",
+    "year": 1963,
+    "cast": [
+      "Jean Simmons",
+      "Robert Preston",
+      "Pat Hingle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/all-the-way-home.html"
+}

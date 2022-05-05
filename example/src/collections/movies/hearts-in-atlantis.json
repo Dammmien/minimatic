@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hearts in Atlantis",
+    "year": 2001,
+    "cast": [
+      "Anthony Hopkins",
+      "Anton Yelchin",
+      "Hope Davis",
+      "David Morse"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hearts-in-atlantis.html"
+}

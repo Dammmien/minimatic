@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Counter-Attack",
+    "year": 1945,
+    "cast": [
+      "Paul Muni",
+      "Marguerite Chapman",
+      "Larry Parks"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/counter-attack.html"
+}

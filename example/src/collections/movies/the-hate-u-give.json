@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Hate U Give",
+    "year": 2018,
+    "cast": [
+      "Amandla Stenberg",
+      "Regina Hall",
+      "Russell Hornsby",
+      "KJ Apa",
+      "Algee Smith",
+      "Lamar Johnson",
+      "Issa Rae",
+      "Sabrina Carpenter",
+      "Common",
+      "Anthony Mackie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hate-u-give.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Double Danger",
+    "year": 1938,
+    "cast": [
+      "Preston Foster",
+      "Whitney Bourne"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/double-danger.html"
+}

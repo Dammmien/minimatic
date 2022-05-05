@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brother",
+    "year": 2000,
+    "cast": [
+      "Takeshi Kitano",
+      "Omar Epps"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/brother.html"
+}

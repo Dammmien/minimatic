@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Always Together",
+    "year": 1947,
+    "cast": [
+      "Joyce Reynolds",
+      "Robert Hutton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/always-together.html"
+}

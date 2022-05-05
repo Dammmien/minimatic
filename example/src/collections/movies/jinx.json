@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jinx",
+    "year": 1919,
+    "cast": [
+      "Mabel Normand",
+      "Ogden Crane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/jinx.html"
+}

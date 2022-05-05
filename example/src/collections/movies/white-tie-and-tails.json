@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "White Tie and Tails",
+    "year": 1946,
+    "cast": [
+      "Dan Duryea",
+      "Ella Raines"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/white-tie-and-tails.html"
+}

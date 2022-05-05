@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Twenty Bucks",
+    "year": 1993,
+    "cast": [
+      "Brendan Fraser",
+      "Linda Hunt",
+      "Elisabeth Shue",
+      "Christopher Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/twenty-bucks.html"
+}

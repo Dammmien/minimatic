@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Merton of the Movies",
+    "year": 1947,
+    "cast": [
+      "Red Skelton",
+      "Virginia O'Brien",
+      "Gloria Grahame"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/merton-of-the-movies.html"
+}

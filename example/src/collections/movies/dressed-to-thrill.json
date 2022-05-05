@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dressed to Thrill",
+    "year": 1935,
+    "cast": [
+      "Tutta Rolf",
+      "Clive Brook"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/dressed-to-thrill.html"
+}

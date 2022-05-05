@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Invisible Enemy",
+    "year": 1938,
+    "cast": [
+      "Alan Marshal",
+      "Tala Birell",
+      "Herbert Mundin"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/invisible-enemy.html"
+}

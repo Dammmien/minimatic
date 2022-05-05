@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "A Madea Christmas",
+    "year": 2013,
+    "cast": [
+      "Tyler Perry",
+      "Kathy Najimy",
+      "Chad Michael Murray",
+      "Anna Maria Horsford",
+      "Tika Sumpter",
+      "Eric Lively",
+      "JR Lemon",
+      "Alicia Witt",
+      "Lisa Whelchel",
+      "Larry the Cable Guy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-madea-christmas.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The River Wild",
+    "year": 1994,
+    "cast": [
+      "Meryl Streep",
+      "Kevin Bacon",
+      "David Strathairn",
+      "Joseph Mazzello",
+      "John C. Reilly"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-river-wild.html"
+}

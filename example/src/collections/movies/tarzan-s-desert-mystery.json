@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tarzan's Desert Mystery",
+    "year": 1943,
+    "cast": [
+      "Johnny Weissmuller",
+      "Nancy Kelly"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-s-desert-mystery.html"
+}

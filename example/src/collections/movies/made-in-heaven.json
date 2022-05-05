@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Made in Heaven",
+    "year": 1987,
+    "cast": [
+      "Kelly McGillis",
+      "Timothy Hutton"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/made-in-heaven.html"
+}

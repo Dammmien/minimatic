@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "All Fall Down",
+    "year": 1962,
+    "cast": [
+      "Eva Marie Saint",
+      "Warren Beatty"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/all-fall-down.html"
+}

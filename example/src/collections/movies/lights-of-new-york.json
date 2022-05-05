@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Lights of New York",
+    "year": 1928,
+    "cast": [
+      "Helene Costello",
+      "Cullen Landis",
+      "Eugene Pallette"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/lights-of-new-york.html"
+}

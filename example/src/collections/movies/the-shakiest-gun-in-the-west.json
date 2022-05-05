@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Shakiest Gun in the West",
+    "year": 1968,
+    "cast": [
+      "Don Knotts",
+      "Pat Morita",
+      "Jackie Coogan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-shakiest-gun-in-the-west.html"
+}

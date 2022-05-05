@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Men of Chance",
+    "year": 1932,
+    "cast": [
+      "Ricardo Cortez",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/men-of-chance.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Broadway Babies",
+    "year": 1929,
+    "cast": [
+      "Alice White",
+      "Marion Byron"
+    ],
+    "genres": [
+      "Musical",
+      "Drama"
+    ]
+  },
+  "output": "movies/broadway-babies.html"
+}

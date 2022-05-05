@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three-Cornered Moon",
+    "year": 1933,
+    "cast": [
+      "Claudette Colbert",
+      "Richard Arlen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-cornered-moon.html"
+}

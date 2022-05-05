@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Call of the Klondike",
+    "year": 1950,
+    "cast": [
+      "Kirby Grant",
+      "Anne Gwynne",
+      "Lynne Roberts"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/call-of-the-klondike.html"
+}

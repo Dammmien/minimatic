@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cat and the Fiddle",
+    "year": 1934,
+    "cast": [
+      "Ramon Novarro",
+      "Jeanette MacDonald"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-cat-and-the-fiddle.html"
+}

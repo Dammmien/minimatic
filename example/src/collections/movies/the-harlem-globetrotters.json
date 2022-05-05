@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Harlem Globetrotters",
+    "year": 1951,
+    "cast": [
+      "Thomas Gomez",
+      "Dorothy Dandridge"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/the-harlem-globetrotters.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Haunting Shadows",
+    "year": 1919,
+    "cast": [
+      "H. B. Warner",
+      "Margaret Livingston"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/haunting-shadows.html"
+}

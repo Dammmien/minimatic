@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wristcutters: A Love Story",
+    "year": 2006,
+    "cast": [
+      "Patrick Fugit",
+      "Shannyn Sossamon",
+      "Tom Waits"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wristcutters--a-love-story.html"
+}

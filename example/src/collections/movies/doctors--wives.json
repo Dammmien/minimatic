@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Doctors' Wives",
+    "year": 1971,
+    "cast": [
+      "Dyan Cannon",
+      "Richard Crenna",
+      "Gene Hackman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/doctors--wives.html"
+}

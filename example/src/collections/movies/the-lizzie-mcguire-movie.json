@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Lizzie McGuire Movie",
+    "year": 2003,
+    "cast": [
+      "Hilary Duff"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-lizzie-mcguire-movie.html"
+}

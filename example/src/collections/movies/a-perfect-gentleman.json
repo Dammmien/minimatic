@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Perfect Gentleman",
+    "year": 1928,
+    "cast": [
+      "Monty Banks",
+      "Ernest Wood",
+      "Henry Barrows",
+      "Ruth Dwyer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-perfect-gentleman.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tarzan's New York Adventure",
+    "year": 1942,
+    "cast": [
+      "Johnny Weissmuller",
+      "Maureen O'Sullivan"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-s-new-york-adventure.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Rhapsody Rabbit",
+    "year": 1946,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/rhapsody-rabbit.html"
+}

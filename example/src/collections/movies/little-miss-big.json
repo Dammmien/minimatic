@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Little Miss Big",
+    "year": 1946,
+    "cast": [
+      "Fay Holden",
+      "Frank McHugh"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/little-miss-big.html"
+}

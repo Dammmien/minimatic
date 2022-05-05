@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hitting a New High",
+    "year": 1937,
+    "cast": [
+      "Lily Pons",
+      "Edward Everett Horton",
+      "Eric Blore"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/hitting-a-new-high.html"
+}

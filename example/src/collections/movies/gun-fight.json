@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gun Fight",
+    "year": 1961,
+    "cast": [
+      "James Brown",
+      "Joan Staley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gun-fight.html"
+}

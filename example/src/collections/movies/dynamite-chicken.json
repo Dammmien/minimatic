@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dynamite Chicken",
+    "year": 1972,
+    "cast": [
+      "Richard Pryor",
+      "Al Goldstein"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dynamite-chicken.html"
+}

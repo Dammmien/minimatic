@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Steel Fist",
+    "year": 1952,
+    "cast": [
+      "Roddy McDowall",
+      "Kristine Miller"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-steel-fist.html"
+}

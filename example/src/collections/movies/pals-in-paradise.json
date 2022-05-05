@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pals in Paradise",
+    "year": 1926,
+    "cast": [
+      "Rudolph Schildkraut",
+      "John Bowers",
+      "Marguerite De La Motte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pals-in-paradise.html"
+}

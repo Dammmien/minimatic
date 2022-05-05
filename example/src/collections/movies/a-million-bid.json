@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Million Bid",
+    "year": 1927,
+    "cast": [
+      "Dolores Costello",
+      "Warner Oland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-million-bid.html"
+}

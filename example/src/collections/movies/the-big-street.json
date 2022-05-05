@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Street",
+    "year": 1942,
+    "cast": [
+      "Henry Fonda",
+      "Lucille Ball",
+      "Barton MacLane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-big-street.html"
+}

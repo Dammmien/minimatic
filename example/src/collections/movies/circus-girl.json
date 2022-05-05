@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Circus Girl",
+    "year": 1937,
+    "cast": [
+      "June Travis",
+      "Robert Livingston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/circus-girl.html"
+}

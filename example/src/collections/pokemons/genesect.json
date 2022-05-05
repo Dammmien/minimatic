@@ -1,0 +1,21 @@
+{
+  "id": 649,
+  "name": {
+    "english": "Genesect",
+    "japanese": "ゲノセクト",
+    "chinese": "盖诺赛克特",
+    "french": "Genesect"
+  },
+  "type": [
+    "Bug",
+    "Steel"
+  ],
+  "base": {
+    "HP": 71,
+    "Attack": 120,
+    "Defense": 95,
+    "Sp. Attack": 120,
+    "Sp. Defense": 95,
+    "Speed": 99
+  }
+}

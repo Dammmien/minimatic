@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hard Rock Harrigan",
+    "year": 1935,
+    "cast": [
+      "George O'Brien",
+      "Irene Hervey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hard-rock-harrigan.html"
+}

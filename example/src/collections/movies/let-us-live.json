@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Let Us Live",
+    "year": 1939,
+    "cast": [
+      "Maureen O'Sullivan",
+      "Henry Fonda",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/let-us-live.html"
+}

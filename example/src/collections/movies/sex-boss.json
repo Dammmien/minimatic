@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sex Boss",
+    "year": 2013,
+    "cast": [
+      "Curtiss Frisle",
+      "Graham Skipper",
+      "Chase Williamson"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/sex-boss.html"
+}

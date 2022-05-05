@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Restless Souls",
+    "year": 1922,
+    "cast": [
+      "Earle Williams",
+      "Francelia Billington"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/restless-souls.html"
+}

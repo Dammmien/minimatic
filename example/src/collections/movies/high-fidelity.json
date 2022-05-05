@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "High Fidelity",
+    "year": 2000,
+    "cast": [
+      "John Cusack",
+      "Jack Black",
+      "Lisa Bonet",
+      "Joan Cusack",
+      "Iben Hjejle",
+      "Lili Taylor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/high-fidelity.html"
+}

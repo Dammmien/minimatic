@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sea Chase",
+    "year": 1955,
+    "cast": [
+      "Lana Turner",
+      "John Wayne"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-sea-chase.html"
+}

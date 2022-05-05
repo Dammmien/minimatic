@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Paint and Powder",
+    "year": 1925,
+    "cast": [
+      "Elaine Hammerstein",
+      "Theodore von Eltz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/paint-and-powder.html"
+}

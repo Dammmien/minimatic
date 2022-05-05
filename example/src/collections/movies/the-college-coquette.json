@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The College Coquette",
+    "year": 1929,
+    "cast": [
+      "Ruth Taylor",
+      "William Collier Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-college-coquette.html"
+}

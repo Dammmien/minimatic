@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Princess O'Rourke",
+    "year": 1943,
+    "cast": [
+      "Olivia de Havilland",
+      "Robert Cummings",
+      "Charles Coburn"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/princess-o-rourke.html"
+}

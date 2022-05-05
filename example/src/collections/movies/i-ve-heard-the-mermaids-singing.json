@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I've Heard the Mermaids Singing",
+    "year": 1987,
+    "cast": [
+      "Sheila McCarthy",
+      "Ann-Marie MacDonald"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-ve-heard-the-mermaids-singing.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gold of the Seven Saints",
+    "year": 1961,
+    "cast": [
+      "Clint Walker",
+      "Roger Moore"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/gold-of-the-seven-saints.html"
+}

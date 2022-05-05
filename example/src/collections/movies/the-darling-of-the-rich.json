@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Darling of the Rich",
+    "year": 1922,
+    "cast": [
+      "Betty Blythe",
+      "Montagu Love",
+      "Charles K. Gerrard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-darling-of-the-rich.html"
+}

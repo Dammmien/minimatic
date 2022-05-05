@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paddy O'Day",
+    "year": 1936,
+    "cast": [
+      "Jane Withers",
+      "Pinky Tomlin",
+      "Rita Hayworth"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/paddy-o-day.html"
+}

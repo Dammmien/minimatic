@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Movers & Shakers",
+    "year": 1985,
+    "cast": [
+      "Walter Matthau",
+      "Charles Grodin",
+      "Tyne Daly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/movers---shakers.html"
+}

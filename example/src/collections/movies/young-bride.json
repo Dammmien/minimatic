@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Young Bride",
+    "year": 1932,
+    "cast": [
+      "Helen Twelvetrees",
+      "Eric Linden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/young-bride.html"
+}

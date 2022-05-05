@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Old Clothes",
+    "year": 1925,
+    "cast": [
+      "Jackie Coogan",
+      "Joan Crawford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/old-clothes.html"
+}

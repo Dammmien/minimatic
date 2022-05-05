@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Michael Jackson's This Is It",
+    "year": 2009,
+    "cast": [
+      "Michael Jackson",
+      "'s final concert",
+      "canceled after his death"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/michael-jackson-s-this-is-it.html"
+}

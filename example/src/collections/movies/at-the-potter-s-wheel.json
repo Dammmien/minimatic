@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "At the Potter's Wheel",
+    "year": 1914,
+    "cast": [
+      "Charlotte Burton",
+      "Sydney Ayres",
+      "Caroline Frances Cooke",
+      "Louise Lester",
+      "Jack Richardson",
+      "Vivian Rich"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/at-the-potter-s-wheel.html"
+}

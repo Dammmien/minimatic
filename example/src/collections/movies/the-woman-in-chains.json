@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman in Chains",
+    "year": 1923,
+    "cast": [
+      "Jean Acker",
+      "Martha Mansfield"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woman-in-chains.html"
+}

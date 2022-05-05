@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Saw VII",
+    "year": 2010,
+    "cast": [
+      "Tobin Bell",
+      "Costas Mandylor",
+      "Cary Elwes",
+      "Betsy Russell",
+      "Sean Patrick Flanery"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/saw-vii.html"
+}

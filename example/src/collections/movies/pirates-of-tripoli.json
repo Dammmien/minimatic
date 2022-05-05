@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pirates of Tripoli",
+    "year": 1955,
+    "cast": [
+      "Paul Henreid",
+      "Patricia Medina"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/pirates-of-tripoli.html"
+}

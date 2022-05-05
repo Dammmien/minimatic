@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Going Home",
+    "year": 1971,
+    "cast": [
+      "Robert Mitchum",
+      "Brenda Vaccaro"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/going-home.html"
+}

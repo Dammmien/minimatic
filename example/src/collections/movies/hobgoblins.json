@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hobgoblins",
+    "year": 1988,
+    "cast": [
+      "Tom Bartlett"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/hobgoblins.html"
+}

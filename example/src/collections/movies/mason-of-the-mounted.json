@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mason of the Mounted",
+    "year": 1932,
+    "cast": [
+      "Bill Cody",
+      "Nancy Drexel"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/mason-of-the-mounted.html"
+}

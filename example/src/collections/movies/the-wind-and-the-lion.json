@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Wind and the Lion",
+    "year": 1975,
+    "cast": [
+      "Sean Connery",
+      "Candice Bergen",
+      "John Huston",
+      "Geoffrey Lewis",
+      "Brian Keith"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-wind-and-the-lion.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Overland Riders",
+    "year": 1946,
+    "cast": [
+      "Buster Crabbe",
+      "Al St. John"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/overland-riders.html"
+}

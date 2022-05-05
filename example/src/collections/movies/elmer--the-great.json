@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Elmer, the Great",
+    "year": 1933,
+    "cast": [
+      "Joe E. Brown",
+      "Patricia Ellis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/elmer--the-great.html"
+}

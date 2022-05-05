@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Front Page Woman",
+    "year": 1935,
+    "cast": [
+      "Bette Davis",
+      "George Brent",
+      "Roscoe Karns"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/front-page-woman.html"
+}

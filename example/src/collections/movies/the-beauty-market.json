@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Beauty Market",
+    "year": 1919,
+    "cast": [
+      "Katherine MacDonald",
+      "Winter Hall"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-beauty-market.html"
+}

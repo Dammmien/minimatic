@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Yellow Dust",
+    "year": 1936,
+    "cast": [
+      "Richard Dix",
+      "Leila Hyams",
+      "Moroni Olsen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/yellow-dust.html"
+}

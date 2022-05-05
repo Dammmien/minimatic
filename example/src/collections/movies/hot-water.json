@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hot Water",
+    "year": 1937,
+    "cast": [
+      "Jed Prouty",
+      "Shirley Deane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hot-water.html"
+}

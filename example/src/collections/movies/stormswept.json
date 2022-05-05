@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stormswept",
+    "year": 1923,
+    "cast": [
+      "Wallace Beery",
+      "Noah Beery",
+      "Virginia Brown Faire"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stormswept.html"
+}

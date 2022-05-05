@@ -1,0 +1,30 @@
+{
+  "data": {
+    "title": "My Little Pony: The Movie",
+    "year": 2017,
+    "cast": [
+      "Tara Strong",
+      "Ashleigh Ball",
+      "Andrea Libman",
+      "Tabitha St. Germain",
+      "Cathy Weseluck",
+      "Kristin Chenoweth",
+      "Emily Blunt",
+      "Michael Peña",
+      "Uzo Aduba",
+      "Liev Schreiber",
+      "Taye Diggs",
+      "Sia",
+      "Zoe Saldana"
+    ],
+    "genres": [
+      "Animated",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Musical"
+    ]
+  },
+  "output": "movies/my-little-pony--the-movie.html"
+}

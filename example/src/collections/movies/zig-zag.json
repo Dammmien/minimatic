@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Zig Zag",
+    "year": 2002,
+    "cast": [
+      "John Leguizamo",
+      "Wesley Snipes",
+      "Oliver Platt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/zig-zag.html"
+}

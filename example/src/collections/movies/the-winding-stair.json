@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Winding Stair",
+    "year": 1925,
+    "cast": [
+      "Alma Rubens",
+      "Edmund Lowe",
+      "Warner Oland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-winding-stair.html"
+}

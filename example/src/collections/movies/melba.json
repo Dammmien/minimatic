@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Melba",
+    "year": 1953,
+    "cast": [
+      "Patrice Munsel",
+      "Robert Morley"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/melba.html"
+}

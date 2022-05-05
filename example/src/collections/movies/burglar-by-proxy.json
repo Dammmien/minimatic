@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Burglar by Proxy",
+    "year": 1919,
+    "cast": [
+      "Jack Pickford",
+      "Gloria Hope"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/burglar-by-proxy.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "One Frightened Night",
+    "year": 1935,
+    "cast": [
+      "Lucien Littlefield",
+      "Mary Carlisle",
+      "Regis Toomey"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/one-frightened-night.html"
+}

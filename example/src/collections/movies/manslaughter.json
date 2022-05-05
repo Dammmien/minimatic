@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Manslaughter",
+    "year": 1930,
+    "cast": [
+      "Claudette Colbert",
+      "Fredric March",
+      "Natalie Moorehead"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/manslaughter.html"
+}

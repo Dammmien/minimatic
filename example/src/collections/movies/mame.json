@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Mame",
+    "year": 1974,
+    "cast": [
+      "Lucille Ball",
+      "Beatrice Arthur",
+      "Robert Preston",
+      "Bruce Davison",
+      "Jane Connell",
+      "Don Porter"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/mame.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Supernova",
+    "year": 2000,
+    "cast": [
+      "James Spader",
+      "Angela Bassett"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/supernova.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Colleen",
+    "year": 1936,
+    "cast": [
+      "Dick Powell",
+      "Joan Blondell",
+      "Hugh Herbert"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/colleen.html"
+}

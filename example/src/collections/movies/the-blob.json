@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Blob",
+    "year": 1988,
+    "cast": [
+      "Kevin Dillon",
+      "Shawnee Smith",
+      "Candy Clark"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-blob.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Affairs of Martha",
+    "year": 1942,
+    "cast": [
+      "Marsha Hunt",
+      "Richard Carlson"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-affairs-of-martha.html"
+}

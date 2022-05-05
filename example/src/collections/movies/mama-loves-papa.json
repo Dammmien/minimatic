@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Mama Loves Papa",
+    "year": 1945,
+    "cast": [
+      "Leon Errol"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mama-loves-papa.html"
+}

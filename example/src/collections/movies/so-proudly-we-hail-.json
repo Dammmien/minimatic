@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "So Proudly We Hail!",
+    "year": 1943,
+    "cast": [
+      "Claudette Colbert",
+      "Paulette Goddard",
+      "George Reeves",
+      "Veronica Lake"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/so-proudly-we-hail-.html"
+}

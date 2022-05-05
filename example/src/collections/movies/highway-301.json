@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Highway 301",
+    "year": 1950,
+    "cast": [
+      "Steve Cochran",
+      "Virginia Grey"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/highway-301.html"
+}

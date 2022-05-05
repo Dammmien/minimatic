@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Passing Through",
+    "year": 1921,
+    "cast": [
+      "Douglas MacLean",
+      "Madge Bellamy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/passing-through.html"
+}

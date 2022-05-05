@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dodge City Trail",
+    "year": 1936,
+    "cast": [
+      "Charles Starrett",
+      "Marion Weldon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/dodge-city-trail.html"
+}

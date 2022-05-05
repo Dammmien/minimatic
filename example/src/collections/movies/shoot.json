@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shoot",
+    "year": 1976,
+    "cast": [
+      "Cliff Robertson",
+      "Ernest Borgnine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shoot.html"
+}

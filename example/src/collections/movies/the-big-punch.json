@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Big Punch",
+    "year": 1948,
+    "cast": [
+      "Gordon MacRae",
+      "Lois Maxwell",
+      "Wayne Morris"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-big-punch.html"
+}

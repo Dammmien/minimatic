@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hotel Haywire",
+    "year": 1937,
+    "cast": [
+      "Leo Carrillo",
+      "Lynne Overman",
+      "Spring Byington"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hotel-haywire.html"
+}

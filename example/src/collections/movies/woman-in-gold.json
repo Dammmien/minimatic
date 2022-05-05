@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Woman in Gold",
+    "year": 2015,
+    "cast": [
+      "Helen Mirren",
+      "Ryan Reynolds",
+      "Daniel Brühl",
+      "Katie Holmes",
+      "Max Irons"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/woman-in-gold.html"
+}

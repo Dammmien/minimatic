@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Monkey Shines",
+    "year": 1988,
+    "cast": [
+      "John Pankow",
+      "Jason Beghe",
+      "Joyce Van Patten"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/monkey-shines.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stronghold",
+    "year": 1951,
+    "cast": [
+      "Veronica Lake",
+      "Zachary Scott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stronghold.html"
+}

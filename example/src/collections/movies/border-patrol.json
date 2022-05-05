@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Border Patrol",
+    "year": 1943,
+    "cast": [
+      "William Boyd",
+      "Andy Clyde",
+      "George Reeves",
+      "Robert Mitchum"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/border-patrol.html"
+}

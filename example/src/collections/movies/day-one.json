@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Day One",
+    "year": 2012,
+    "cast": [
+      "Kat Dennings",
+      "Chad Michael Murray",
+      "Rupert Friend",
+      "Corbin Bleu",
+      "Juliana Harkavy",
+      "Brian Patrick Clarke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/day-one.html"
+}

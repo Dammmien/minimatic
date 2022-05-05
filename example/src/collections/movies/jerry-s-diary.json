@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Jerry's Diary",
+    "year": 1949,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/jerry-s-diary.html"
+}

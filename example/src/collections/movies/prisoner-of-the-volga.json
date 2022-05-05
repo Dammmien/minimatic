@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Prisoner of the Volga",
+    "year": 1959,
+    "cast": [
+      "John Derek",
+      "Elsa Martinelli",
+      "Dawn Addams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/prisoner-of-the-volga.html"
+}

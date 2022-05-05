@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Operation Finale",
+    "year": 2018,
+    "cast": [
+      "Oscar Isaac",
+      "Ben Kingsley",
+      "Lior Raz",
+      "Mélanie Laurent",
+      "Nick Kroll",
+      "Joe Alwyn"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/operation-finale.html"
+}

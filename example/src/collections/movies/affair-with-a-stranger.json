@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Affair with a Stranger",
+    "year": 1953,
+    "cast": [
+      "Jean Simmons",
+      "Victor Mature",
+      "Monica Lewis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/affair-with-a-stranger.html"
+}

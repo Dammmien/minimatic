@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "No Mercy",
+    "year": 1986,
+    "cast": [
+      "Richard Gere",
+      "Kim Basinger"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/no-mercy.html"
+}

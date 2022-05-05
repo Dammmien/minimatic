@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Terry and the Pirates",
+    "year": 1940,
+    "cast": [
+      "William Tracy",
+      "Sheila Darcy"
+    ],
+    "genres": []
+  },
+  "output": "movies/terry-and-the-pirates.html"
+}

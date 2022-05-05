@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Lion of the Desert",
+    "year": 1981,
+    "cast": [
+      "Anthony Quinn",
+      "Rod Steiger",
+      "John Gielgud"
+    ],
+    "genres": [
+      "Biography",
+      "War"
+    ]
+  },
+  "output": "movies/lion-of-the-desert.html"
+}

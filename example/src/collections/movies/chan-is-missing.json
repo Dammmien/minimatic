@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chan Is Missing",
+    "year": 1982,
+    "cast": [
+      "Wood Moy",
+      "Marc Hayashi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/chan-is-missing.html"
+}

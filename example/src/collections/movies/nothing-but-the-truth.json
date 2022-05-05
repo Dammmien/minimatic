@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Nothing But the Truth",
+    "year": 2008,
+    "cast": [
+      "Kate Beckinsale",
+      "Matt Dillon",
+      "Angela Bassett",
+      "Alan Alda",
+      "Vera Farmiga",
+      "David Schwimmer",
+      "Noah Wyle"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/nothing-but-the-truth.html"
+}

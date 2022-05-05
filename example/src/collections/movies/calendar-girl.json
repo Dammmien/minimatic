@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Calendar Girl",
+    "year": 1993,
+    "cast": [
+      "Jason Priestley",
+      "Gabriel Olds",
+      "Jerry O'Connell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/calendar-girl.html"
+}

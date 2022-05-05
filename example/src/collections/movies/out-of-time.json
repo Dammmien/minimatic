@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Out of Time",
+    "year": 2003,
+    "cast": [
+      "Denzel Washington",
+      "Eva Mendes"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/out-of-time.html"
+}

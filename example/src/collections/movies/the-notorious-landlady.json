@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Notorious Landlady",
+    "year": 1962,
+    "cast": [
+      "Jack Lemmon",
+      "Kim Novak",
+      "Fred Astaire"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-notorious-landlady.html"
+}

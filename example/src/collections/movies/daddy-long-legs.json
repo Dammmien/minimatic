@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daddy Long Legs",
+    "year": 1955,
+    "cast": [
+      "Fred Astaire",
+      "Leslie Caron"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/daddy-long-legs.html"
+}

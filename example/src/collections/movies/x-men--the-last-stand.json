@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "X-Men: The Last Stand",
+    "year": 2006,
+    "cast": [
+      "Hugh Jackman",
+      "Halle Berry",
+      "Patrick Stewart",
+      "Ian McKellen",
+      "Famke Janssen",
+      "James Marsden",
+      "Anna Paquin",
+      "Kelsey Grammer"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/x-men--the-last-stand.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Wanderlust",
+    "year": 2012,
+    "cast": [
+      "Paul Rudd",
+      "Jennifer Aniston",
+      "Justin Theroux",
+      "Malin Åkerman",
+      "Kathryn Hahn",
+      "Lauren Ambrose",
+      "and",
+      "Alan Alda"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wanderlust.html"
+}

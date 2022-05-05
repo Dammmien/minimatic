@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Two Men and a Maid",
+    "year": 1929,
+    "cast": [
+      "William Collier Jr.",
+      "Alma Bennett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/two-men-and-a-maid.html"
+}

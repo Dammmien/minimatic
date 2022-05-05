@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Allegiance",
+    "year": 2012,
+    "cast": [
+      "Bow Wow"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/allegiance.html"
+}

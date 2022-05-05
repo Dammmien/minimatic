@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Captain Scarlett",
+    "year": 1953,
+    "cast": [
+      "Richard Greene",
+      "Leonora Amar"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/captain-scarlett.html"
+}

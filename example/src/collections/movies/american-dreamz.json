@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "American Dreamz",
+    "year": 2006,
+    "cast": [
+      "Hugh Grant",
+      "Dennis Quaid",
+      "Mandy Moore",
+      "Marcia Gay Harden"
+    ],
+    "genres": [
+      "Comedy",
+      "Satire"
+    ]
+  },
+  "output": "movies/american-dreamz.html"
+}

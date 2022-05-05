@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Guilty of Treason",
+    "year": 1950,
+    "cast": [
+      "Charles Bickford",
+      "Bonita Granville"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/guilty-of-treason.html"
+}

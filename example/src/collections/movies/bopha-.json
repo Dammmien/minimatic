@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bopha!",
+    "year": 1993,
+    "cast": [
+      "Danny Glover",
+      "Malcolm McDowell",
+      "Alfre Woodard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bopha-.html"
+}

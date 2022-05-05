@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Black Bart",
+    "year": 1948,
+    "cast": [
+      "Dan Duryea",
+      "Yvonne De Carlo"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/black-bart.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Burning Cross",
+    "year": 1947,
+    "cast": [
+      "Virginia Patton",
+      "John Doucette"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-burning-cross.html"
+}

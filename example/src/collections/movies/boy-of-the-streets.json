@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Boy of the Streets",
+    "year": 1937,
+    "cast": [
+      "Jackie Cooper",
+      "Kathleen Burke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/boy-of-the-streets.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Darby's Rangers",
+    "year": 1958,
+    "cast": [
+      "James Garner",
+      "Jack Warden",
+      "Stuart Whitman"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/darby-s-rangers.html"
+}

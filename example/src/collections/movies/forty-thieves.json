@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Forty Thieves",
+    "year": 1944,
+    "cast": [
+      "William Boyd",
+      "Andy Clyde",
+      "Jimmy Rogers"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/forty-thieves.html"
+}

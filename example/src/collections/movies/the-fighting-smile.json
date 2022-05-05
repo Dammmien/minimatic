@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Smile",
+    "year": 1925,
+    "cast": [
+      "Bill Cody",
+      "Jean Arthur"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fighting-smile.html"
+}

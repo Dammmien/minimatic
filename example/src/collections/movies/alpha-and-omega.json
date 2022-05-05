@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Alpha and Omega",
+    "year": 2010,
+    "cast": [
+      "Justin Long",
+      "Hayden Panettiere",
+      "Dennis Hopper",
+      "Danny Glover",
+      "Christina Ricci"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy",
+      "Drama",
+      "Family"
+    ]
+  },
+  "output": "movies/alpha-and-omega.html"
+}

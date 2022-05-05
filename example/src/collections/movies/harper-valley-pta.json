@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Harper Valley PTA",
+    "year": 1978,
+    "cast": [
+      "Barbara Eden",
+      "Nanette Fabray",
+      "Ronny Cox"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/harper-valley-pta.html"
+}

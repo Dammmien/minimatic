@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Heart Belongs to Daddy",
+    "year": 1942,
+    "cast": [
+      "Richard Carlson",
+      "Martha O'Driscoll",
+      "Cecil Kellaway"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-heart-belongs-to-daddy.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "You Can't Win 'Em All",
+    "year": 1970,
+    "cast": [
+      "Tony Curtis",
+      "Charles Bronson"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/you-can-t-win--em-all.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Take the Lead",
+    "year": 2006,
+    "cast": [
+      "Antonio Banderas"
+    ],
+    "genres": [
+      "Drama",
+      "Dance"
+    ]
+  },
+  "output": "movies/take-the-lead.html"
+}

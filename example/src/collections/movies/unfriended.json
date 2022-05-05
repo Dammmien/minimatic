@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Unfriended",
+    "year": 2015,
+    "cast": [
+      "Shelley Hennig",
+      "Moses Jacob",
+      "Renee Olstead",
+      "Will Peltz"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/unfriended.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dark Delusion",
+    "year": 1947,
+    "cast": [
+      "Lionel Barrymore",
+      "James Craig"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dark-delusion.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Rage of Paris",
+    "year": 1938,
+    "cast": [
+      "Danielle Darrieux",
+      "Douglas Fairbanks Jr."
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-rage-of-paris.html"
+}

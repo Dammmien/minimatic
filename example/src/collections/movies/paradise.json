@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Paradise",
+    "year": 2013,
+    "cast": [
+      "Julianne Hough",
+      "Russell Brand",
+      "Octavia Spencer",
+      "Nick Offerman",
+      "Holly Hunter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/paradise.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ambush Bay",
+    "year": 1966,
+    "cast": [
+      "Hugh O'Brian",
+      "Mickey Rooney"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/ambush-bay.html"
+}

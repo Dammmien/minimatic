@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Who Would Not Die",
+    "year": 1916,
+    "cast": [
+      "Charlotte Burton",
+      "Harry Keenan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-who-would-not-die.html"
+}

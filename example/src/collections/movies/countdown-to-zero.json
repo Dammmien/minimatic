@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Countdown to Zero",
+    "year": 2010,
+    "cast": [
+      "The discussion on the escalating",
+      "nuclear arms race",
+      ". Narrated by",
+      "Gary Oldman"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/countdown-to-zero.html"
+}

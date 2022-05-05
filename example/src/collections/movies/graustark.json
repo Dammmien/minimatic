@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Graustark",
+    "year": 1925,
+    "cast": [
+      "Norma Talmadge",
+      "Eugene O'Brien"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/graustark.html"
+}

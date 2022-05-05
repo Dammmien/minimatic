@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "American Boy: A Profile of Steven Prince",
+    "year": 1978,
+    "cast": [
+      "Steven Prince",
+      "Martin Scorsese"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/american-boy--a-profile-of-steven-prince.html"
+}

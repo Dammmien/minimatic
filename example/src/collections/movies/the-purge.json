@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "The Purge",
+    "year": 2013,
+    "cast": [
+      "Ethan Hawke",
+      "Lena Headey",
+      "Max Burkholder",
+      "Tony Oller",
+      "Edwin Hodge",
+      "Rhys Wakefield",
+      "Adelaide Kane",
+      "Arija Bareikis",
+      "Chris Mulkey",
+      "Karen Strassman"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-purge.html"
+}

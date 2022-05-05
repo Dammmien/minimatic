@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Lockout",
+    "year": 2012,
+    "cast": [
+      "Guy Pearce",
+      "Maggie Grace",
+      "Vincent Regan",
+      "Joseph Gilgun",
+      "Lennie James",
+      "Peter Stormare"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/lockout.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ratboy",
+    "year": 1986,
+    "cast": [
+      "Sharon Baird",
+      "Sondra Locke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ratboy.html"
+}

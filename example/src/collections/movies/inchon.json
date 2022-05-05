@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Inchon",
+    "year": 1982,
+    "cast": [
+      "Laurence Olivier",
+      "Toshirō Mifune",
+      "Ben Gazzara",
+      "Jacqueline Bisset",
+      "Richard Roundtree"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/inchon.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Boom Town",
+    "year": 1940,
+    "cast": [
+      "Clark Gable",
+      "Spencer Tracy",
+      "Claudette Colbert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/boom-town.html"
+}

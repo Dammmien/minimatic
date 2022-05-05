@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Life of Crime",
+    "year": 2013,
+    "cast": [
+      "Jennifer Aniston",
+      "Tim Robbins",
+      "Isla Fisher",
+      "John Hawkes",
+      "Mos Def",
+      "Will Forte"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/life-of-crime.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Cheers for Love",
+    "year": 1936,
+    "cast": [
+      "Eleanore Whitney",
+      "Robert Cummings"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/three-cheers-for-love.html"
+}

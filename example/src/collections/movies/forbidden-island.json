@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Forbidden Island",
+    "year": 1959,
+    "cast": [
+      "Jon Hall"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/forbidden-island.html"
+}

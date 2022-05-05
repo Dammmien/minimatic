@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Juliet, Naked",
+    "year": 2018,
+    "cast": [
+      "Ethan Hawke",
+      "Rose Byrne"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/juliet--naked.html"
+}

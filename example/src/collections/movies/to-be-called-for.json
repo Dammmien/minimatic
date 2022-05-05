@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "To Be Called For",
+    "year": 1914,
+    "cast": [
+      "Adda Gleason",
+      "Lafe McKee",
+      "Earle Foxe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/to-be-called-for.html"
+}

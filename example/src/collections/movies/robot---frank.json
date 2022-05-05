@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Robot & Frank",
+    "year": 2012,
+    "cast": [
+      "Frank Langella",
+      "James Marsden",
+      "Liv Tyler",
+      "Jeremy Strong",
+      "Jeremy Sisto",
+      "Peter Sarsgaard",
+      "(voice)",
+      "Susan Sarandon"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/robot---frank.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Escapade in Japan",
+    "year": 1957,
+    "cast": [
+      "Teresa Wright",
+      "Cameron Mitchell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/escapade-in-japan.html"
+}

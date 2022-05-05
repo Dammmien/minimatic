@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Painted Desert",
+    "year": 1931,
+    "cast": [
+      "William Boyd",
+      "Clark Gable"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-painted-desert.html"
+}

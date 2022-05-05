@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hammersmith Is Out",
+    "year": 1972,
+    "cast": [
+      "Richard Burton",
+      "Elizabeth Taylor",
+      "Peter Ustinov"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hammersmith-is-out.html"
+}

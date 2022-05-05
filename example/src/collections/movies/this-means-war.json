@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "This Means War",
+    "year": 2012,
+    "cast": [
+      "Tom Hardy",
+      "Chris Pine",
+      "Reese Witherspoon",
+      "Chelsea Handler",
+      "Abigail Spencer",
+      "Til Schweiger",
+      "Laura Vandervoort",
+      "Leela Savasta",
+      "Angela Bassett"
+    ],
+    "genres": [
+      "Comedy",
+      "Spy"
+    ]
+  },
+  "output": "movies/this-means-war.html"
+}

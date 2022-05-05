@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Good Mother",
+    "year": 1988,
+    "cast": [
+      "Diane Keaton",
+      "Liam Neeson",
+      "Jason Robards"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-good-mother.html"
+}

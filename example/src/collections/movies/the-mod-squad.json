@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mod Squad",
+    "year": 1999,
+    "cast": [
+      "Claire Danes",
+      "Omar Epps",
+      "Giovanni Ribisi"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-mod-squad.html"
+}

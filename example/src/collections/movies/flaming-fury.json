@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flaming Fury",
+    "year": 1949,
+    "cast": [
+      "George Cooper",
+      "Roy Roberts"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/flaming-fury.html"
+}

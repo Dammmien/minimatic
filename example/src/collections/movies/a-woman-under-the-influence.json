@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Woman Under the Influence",
+    "year": 1974,
+    "cast": [
+      "Peter Falk",
+      "Gena Rowlands"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-woman-under-the-influence.html"
+}

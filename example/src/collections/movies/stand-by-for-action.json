@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stand By for Action",
+    "year": 1942,
+    "cast": [
+      "Robert Taylor",
+      "Walter Brennan",
+      "Charles Laughton"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/stand-by-for-action.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Devil-Doll",
+    "year": 1936,
+    "cast": [
+      "Lionel Barrymore",
+      "Maureen O'Sullivan",
+      "Pedro de Cordoba"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-devil-doll.html"
+}

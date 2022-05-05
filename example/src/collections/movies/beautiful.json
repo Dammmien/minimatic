@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beautiful",
+    "year": 2000,
+    "cast": [
+      "Minnie Driver",
+      "Hallie Kate Eisenberg",
+      "Kathleen Turner"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/beautiful.html"
+}

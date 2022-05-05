@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blades of Glory",
+    "year": 2007,
+    "cast": [
+      "Will Ferrell",
+      "Jon Heder"
+    ],
+    "genres": [
+      "Comedy",
+      "Sports"
+    ]
+  },
+  "output": "movies/blades-of-glory.html"
+}

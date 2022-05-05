@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ghost Guns",
+    "year": 1944,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton",
+      "Evelyn Finley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ghost-guns.html"
+}

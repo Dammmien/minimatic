@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Raising Helen",
+    "year": 2004,
+    "cast": [
+      "Kate Hudson",
+      "John Corbett",
+      "Joan Cusack",
+      "Hayden Panettiere",
+      "Spencer Breslin",
+      "Helen Mirren",
+      "Abigail Breslin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/raising-helen.html"
+}

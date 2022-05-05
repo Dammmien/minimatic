@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beachhead",
+    "year": 1954,
+    "cast": [
+      "Tony Curtis",
+      "Frank Lovejoy",
+      "Mary Murphy"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/beachhead.html"
+}

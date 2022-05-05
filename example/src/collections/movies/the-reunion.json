@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Reunion",
+    "year": 2011,
+    "cast": [
+      "John Cena",
+      "Ethan Embry",
+      "Michael Rispoli",
+      "Boyd Holbrook",
+      "Gregg Henry",
+      "Lela Loren",
+      "Jack Conley",
+      "Amy Smart"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-reunion.html"
+}

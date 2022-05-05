@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dumbbells in Ermine",
+    "year": 1930,
+    "cast": [
+      "Robert Armstrong",
+      "Barbara Kent",
+      "Beryl Mercer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dumbbells-in-ermine.html"
+}

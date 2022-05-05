@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Rookie",
+    "year": 2002,
+    "cast": [
+      "Dennis Quaid",
+      "Rachel Griffiths",
+      "Jay Hernandez",
+      "Brian Cox"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-rookie.html"
+}

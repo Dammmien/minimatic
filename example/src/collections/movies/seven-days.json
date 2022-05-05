@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Seven Days",
+    "year": 1925,
+    "cast": [
+      "Lillian Rich",
+      "Creighton Hale",
+      "Lilyan Tashman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/seven-days.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Titan A.E.",
+    "year": 2000,
+    "cast": [
+      "Matt Damon",
+      "Nathan Lane"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/titan-a-e-.html"
+}

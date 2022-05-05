@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Lauderdale",
+    "year": 1989,
+    "cast": [
+      "Renee Shugart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lauderdale.html"
+}

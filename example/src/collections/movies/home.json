@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Home",
+    "year": 2015,
+    "cast": [
+      "Rihanna",
+      "Jim Parsons",
+      "Jennifer Lopez",
+      "Steve Martin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/home.html"
+}

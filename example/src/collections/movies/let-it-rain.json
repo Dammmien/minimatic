@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Let It Rain",
+    "year": 1927,
+    "cast": [
+      "Douglas MacLean",
+      "Shirley Mason"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-it-rain.html"
+}

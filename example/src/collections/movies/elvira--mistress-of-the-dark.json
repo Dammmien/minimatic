@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Elvira, Mistress of the Dark",
+    "year": 1988,
+    "cast": [
+      "Cassandra Peterson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/elvira--mistress-of-the-dark.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Serpent and the Rainbow",
+    "year": 1988,
+    "cast": [
+      "Bill Pullman",
+      "Cathy Tyson",
+      "Paul Winfield"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-serpent-and-the-rainbow.html"
+}

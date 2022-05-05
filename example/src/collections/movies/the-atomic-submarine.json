@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Atomic Submarine",
+    "year": 1959,
+    "cast": [
+      "Arthur Franz",
+      "Dick Foran"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-atomic-submarine.html"
+}

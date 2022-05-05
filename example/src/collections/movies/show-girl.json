@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Show Girl",
+    "year": 1928,
+    "cast": [
+      "Alice White",
+      "Donald Reed"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/show-girl.html"
+}

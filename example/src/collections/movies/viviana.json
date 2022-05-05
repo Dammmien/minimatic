@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Viviana",
+    "year": 1916,
+    "cast": [
+      "Sylvia Ashton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/viviana.html"
+}

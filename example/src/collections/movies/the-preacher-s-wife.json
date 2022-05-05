@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Preacher's Wife",
+    "year": 1996,
+    "cast": [
+      "Denzel Washington",
+      "Whitney Houston",
+      "Courtney B. Vance"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-preacher-s-wife.html"
+}

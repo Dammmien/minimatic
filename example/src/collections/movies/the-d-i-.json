@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The D.I.",
+    "year": 1957,
+    "cast": [
+      "Jack Webb",
+      "Jackie Loughery"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-d-i-.html"
+}

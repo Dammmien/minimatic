@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gidget Goes Hawaiian",
+    "year": 1961,
+    "cast": [
+      "Deborah Walley",
+      "James Darren"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gidget-goes-hawaiian.html"
+}

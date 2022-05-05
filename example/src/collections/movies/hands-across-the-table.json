@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hands Across the Table",
+    "year": 1935,
+    "cast": [
+      "Carole Lombard",
+      "Fred MacMurray",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/hands-across-the-table.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Girls in the Night",
+    "year": 1953,
+    "cast": [
+      "Joyce Holden",
+      "Harvey Lembeck"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/girls-in-the-night.html"
+}

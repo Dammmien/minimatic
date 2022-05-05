@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jimmy Hollywood",
+    "year": 1994,
+    "cast": [
+      "Joe Pesci",
+      "Christian Slater"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/jimmy-hollywood.html"
+}

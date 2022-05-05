@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Time to Love and a Time to Die",
+    "year": 1958,
+    "cast": [
+      "John Gavin",
+      "Liselotte Pulver",
+      "Jock Mahoney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-time-to-love-and-a-time-to-die.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Janie",
+    "year": 1944,
+    "cast": [
+      "Joyce Reynolds",
+      "Ann Harding"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/janie.html"
+}

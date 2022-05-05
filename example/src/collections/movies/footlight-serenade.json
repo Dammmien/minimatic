@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Footlight Serenade",
+    "year": 1942,
+    "cast": [
+      "Betty Grable",
+      "Victor Mature"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/footlight-serenade.html"
+}

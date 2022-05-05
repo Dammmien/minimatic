@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Six Loves",
+    "year": 1963,
+    "cast": [
+      "Debbie Reynolds",
+      "Cliff Robertson",
+      "David Janssen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-six-loves.html"
+}

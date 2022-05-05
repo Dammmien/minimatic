@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mahogany",
+    "year": 1975,
+    "cast": [
+      "Diana Ross",
+      "Billy Dee Williams",
+      "Anthony Perkins"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/mahogany.html"
+}

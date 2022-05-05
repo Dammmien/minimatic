@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Air Collision",
+    "year": 2012,
+    "cast": [
+      "Reginald VelJohnson",
+      "Jordan Ladd",
+      "Gerald Webb"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/air-collision.html"
+}

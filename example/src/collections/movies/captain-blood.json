@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Captain Blood",
+    "year": 1935,
+    "cast": [
+      "Errol Flynn",
+      "Olivia de Havilland",
+      "Lionel Atwill"
+    ],
+    "genres": [
+      "Adventure",
+      "Action"
+    ]
+  },
+  "output": "movies/captain-blood.html"
+}

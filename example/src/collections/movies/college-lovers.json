@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "College Lovers",
+    "year": 1930,
+    "cast": [
+      "Marian Nixon",
+      "Frank McHugh"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/college-lovers.html"
+}

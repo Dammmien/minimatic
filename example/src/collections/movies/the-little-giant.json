@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Little Giant",
+    "year": 1933,
+    "cast": [
+      "Edward G. Robinson",
+      "Mary Astor",
+      "Russell Hopton"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-little-giant.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Diamond Trail",
+    "year": 1933,
+    "cast": [
+      "Rex Bell",
+      "Frances Rich"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/diamond-trail.html"
+}

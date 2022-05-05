@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Iron Curtain",
+    "year": 1948,
+    "cast": [
+      "Dana Andrews",
+      "Gene Tierney",
+      "June Havoc"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-iron-curtain.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Good Dinosaur",
+    "year": 2015,
+    "cast": [
+      "Lucas Neff",
+      "John Lithgow",
+      "Neil Patrick Harris",
+      "Judy Greer"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-good-dinosaur.html"
+}

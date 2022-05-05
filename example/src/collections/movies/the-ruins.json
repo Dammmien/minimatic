@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Ruins",
+    "year": 2008,
+    "cast": [
+      "Jonathan Tucker",
+      "Jena Malone",
+      "Shawn Ashmore",
+      "Laura Ramsey",
+      "Joe Anderson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-ruins.html"
+}

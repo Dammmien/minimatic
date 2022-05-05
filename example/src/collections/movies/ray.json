@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Ray",
+    "year": 2004,
+    "cast": [
+      "Jamie Foxx"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/ray.html"
+}

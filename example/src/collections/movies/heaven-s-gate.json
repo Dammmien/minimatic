@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Heaven's Gate",
+    "year": 1980,
+    "cast": [
+      "Kris Kristofferson",
+      "Christopher Walken",
+      "Isabelle Huppert",
+      "John Hurt",
+      "Jeff Bridges",
+      "Sam Waterston",
+      "Mickey Rourke"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/heaven-s-gate.html"
+}

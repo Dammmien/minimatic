@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wishmaster",
+    "year": 1997,
+    "cast": [
+      "Tammy Lauren",
+      "Chris Lemmon"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/wishmaster.html"
+}

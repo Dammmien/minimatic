@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jump into Hell",
+    "year": 1955,
+    "cast": [
+      "Kurt Kasznar",
+      "Patricia Blair"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/jump-into-hell.html"
+}

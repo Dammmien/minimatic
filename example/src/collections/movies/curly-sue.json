@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Curly Sue",
+    "year": 1991,
+    "cast": [
+      "Alisan Porter",
+      "James Belushi",
+      "Kelly Lynch",
+      "John Getz",
+      "Fred Dalton Thompson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/curly-sue.html"
+}

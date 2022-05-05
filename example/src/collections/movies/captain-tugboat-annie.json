@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Captain Tugboat Annie",
+    "year": 1945,
+    "cast": [
+      "Jane Darwell",
+      "Edgar Kennedy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/captain-tugboat-annie.html"
+}

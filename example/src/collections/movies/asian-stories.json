@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Asian Stories",
+    "year": 2006,
+    "cast": [
+      "James Kyson Lee",
+      "Kirt Kishita"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/asian-stories.html"
+}

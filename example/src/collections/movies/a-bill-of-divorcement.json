@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Bill of Divorcement",
+    "year": 1940,
+    "cast": [
+      "Maureen O'Hara",
+      "Adolphe Menjou",
+      "Fay Bainter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-bill-of-divorcement.html"
+}

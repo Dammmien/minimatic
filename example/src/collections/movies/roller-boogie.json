@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Roller Boogie",
+    "year": 1979,
+    "cast": [
+      "Linda Blair",
+      "Jim Bray",
+      "Beverly Garland",
+      "Mark Goddard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/roller-boogie.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Case Against Brooklyn",
+    "year": 1958,
+    "cast": [
+      "Darren McGavin",
+      "Margaret Hayes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-case-against-brooklyn.html"
+}

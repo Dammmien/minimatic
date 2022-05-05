@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Hotel Murder",
+    "year": 1935,
+    "cast": [
+      "Edmund Lowe",
+      "Victor McLaglen",
+      "Rosemary Ames"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-great-hotel-murder.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bride Walks Out",
+    "year": 1936,
+    "cast": [
+      "Barbara Stanwyck",
+      "Gene Raymond",
+      "Hattie McDaniel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bride-walks-out.html"
+}

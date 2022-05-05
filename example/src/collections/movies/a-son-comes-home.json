@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Son Comes Home",
+    "year": 1936,
+    "cast": [
+      "Mary Boland",
+      "Julie Haydon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-son-comes-home.html"
+}

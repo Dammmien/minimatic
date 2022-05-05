@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "All Men Are Enemies",
+    "year": 1934,
+    "cast": [
+      "Helen Twelvetrees",
+      "Mona Barrie",
+      "Hugh Williams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/all-men-are-enemies.html"
+}

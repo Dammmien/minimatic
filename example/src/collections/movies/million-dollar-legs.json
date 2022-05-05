@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Million Dollar Legs",
+    "year": 1939,
+    "cast": [
+      "Betty Grable",
+      "Buster Crabbe",
+      "Donald O'Connor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/million-dollar-legs.html"
+}

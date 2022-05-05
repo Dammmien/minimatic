@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trojan War",
+    "year": 1997,
+    "cast": [
+      "Will Friedle",
+      "Jennifer Love Hewitt"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/trojan-war.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dancing Co-Ed",
+    "year": 1939,
+    "cast": [
+      "Lana Turner",
+      "Richard Carlson",
+      "Artie Shaw",
+      "Ann Rutherford"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/dancing-co-ed.html"
+}

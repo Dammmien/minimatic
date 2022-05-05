@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Along Came Polly",
+    "year": 2004,
+    "cast": [
+      "Ben Stiller",
+      "Jennifer Aniston",
+      "Debra Messing",
+      "Philip Seymour Hoffman",
+      "Alec Baldwin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/along-came-polly.html"
+}

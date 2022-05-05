@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "American Beauty",
+    "year": 1999,
+    "cast": [
+      "Kevin Spacey",
+      "Annette Bening",
+      "Chris Cooper",
+      "Wes Bentley",
+      "Thora Birch",
+      "Mena Suvari",
+      "Allison Janney",
+      "Peter Gallagher"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/american-beauty.html"
+}

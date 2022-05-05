@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Deep Blue Sea",
+    "year": 1999,
+    "cast": [
+      "Saffron Burrows",
+      "Thomas Jane",
+      "LL Cool J",
+      "Jacqueline McKenzie",
+      "Michael Rapaport",
+      "Stellan Skarsgård",
+      "Aida Turturro",
+      "Samuel L. Jackson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/deep-blue-sea.html"
+}

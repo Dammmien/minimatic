@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tigerland",
+    "year": 2000,
+    "cast": [
+      "Colin Farrell",
+      "Matthew Davis",
+      "Clifton Collins, Jr."
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/tigerland.html"
+}

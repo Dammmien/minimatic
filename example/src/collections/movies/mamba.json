@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mamba",
+    "year": 1930,
+    "cast": [
+      "Jean Hersholt",
+      "Eleanor Boardman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mamba.html"
+}

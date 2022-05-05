@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman Inside",
+    "year": 1981,
+    "cast": [
+      "Dane Clark",
+      "Joan Blondell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woman-inside.html"
+}

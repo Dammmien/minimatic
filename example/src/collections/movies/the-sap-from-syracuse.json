@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sap from Syracuse",
+    "year": 1930,
+    "cast": [
+      "Jack Oakie",
+      "Ginger Rogers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-sap-from-syracuse.html"
+}

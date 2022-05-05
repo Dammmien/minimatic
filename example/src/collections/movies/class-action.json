@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Class Action",
+    "year": 1991,
+    "cast": [
+      "Gene Hackman",
+      "Mary Elizabeth Mastrantonio"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/class-action.html"
+}

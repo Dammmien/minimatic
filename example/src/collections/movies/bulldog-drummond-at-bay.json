@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bulldog Drummond at Bay",
+    "year": 1947,
+    "cast": [
+      "Ron Randell",
+      "Anita Louise"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/bulldog-drummond-at-bay.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nurse 3D",
+    "year": 2014,
+    "cast": [
+      "Paz de la Huerta",
+      "Katrina Bowden",
+      "Corbin Bleu"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/nurse-3d.html"
+}

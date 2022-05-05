@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Moscow on the Hudson",
+    "year": 1984,
+    "cast": [
+      "Robin Williams",
+      "María Conchita Alonso"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/moscow-on-the-hudson.html"
+}

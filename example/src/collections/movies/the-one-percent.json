@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The One Percent",
+    "year": 2006,
+    "cast": [
+      "America's growing wealth gap"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-one-percent.html"
+}

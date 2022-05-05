@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Snowbound",
+    "year": 1927,
+    "cast": [
+      "Betty Blythe",
+      "Robert Agnew"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/snowbound.html"
+}

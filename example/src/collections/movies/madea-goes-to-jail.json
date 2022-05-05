@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Madea Goes to Jail",
+    "year": 2009,
+    "cast": [
+      "Tyler Perry",
+      "Sofía Vergara",
+      "Vanessa Ferlito",
+      "Derek Luke",
+      "Keshia Knight Pulliam",
+      "David Mann",
+      "Ion Overman",
+      "RonReaco Lee",
+      "Viola Davis"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/madea-goes-to-jail.html"
+}

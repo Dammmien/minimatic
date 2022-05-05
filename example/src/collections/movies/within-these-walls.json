@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Within These Walls",
+    "year": 1945,
+    "cast": [
+      "Thomas Mitchell",
+      "Mary Anderson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/within-these-walls.html"
+}

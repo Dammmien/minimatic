@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "He's a Cockeyed Wonder",
+    "year": 1950,
+    "cast": [
+      "Mickey Rooney",
+      "Terry Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/he-s-a-cockeyed-wonder.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "84 Charing Cross Road",
+    "year": 1987,
+    "cast": [
+      "Anne Bancroft",
+      "Anthony Hopkins",
+      "Judi Dench"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/84-charing-cross-road.html"
+}

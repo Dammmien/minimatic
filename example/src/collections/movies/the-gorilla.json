@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gorilla",
+    "year": 1939,
+    "cast": [
+      "Ritz Brothers",
+      "Anita Louise",
+      "Patsy Kelly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-gorilla.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pursued",
+    "year": 1947,
+    "cast": [
+      "Robert Mitchum",
+      "Teresa Wright"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/pursued.html"
+}

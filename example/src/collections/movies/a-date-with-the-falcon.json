@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Date with the Falcon",
+    "year": 1942,
+    "cast": [
+      "George Sanders",
+      "Wendy Barrie"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/a-date-with-the-falcon.html"
+}

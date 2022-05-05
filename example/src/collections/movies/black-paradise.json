@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Black Paradise",
+    "year": 1926,
+    "cast": [
+      "Madge Bellamy",
+      "Leslie Fenton",
+      "Edmund Lowe"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/black-paradise.html"
+}

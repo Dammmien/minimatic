@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ridin' Wild",
+    "year": 1922,
+    "cast": [
+      "Hoot Gibson",
+      "Edna Murphy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ridin--wild.html"
+}

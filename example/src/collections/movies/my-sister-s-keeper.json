@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "My Sister's Keeper",
+    "year": 2009,
+    "cast": [
+      "Cameron Diaz",
+      "Alec Baldwin",
+      "Abigail Breslin",
+      "Sofia Vassilieva",
+      "Joan Cusack",
+      "Thomas Dekker",
+      "Jason Patric"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-sister-s-keeper.html"
+}

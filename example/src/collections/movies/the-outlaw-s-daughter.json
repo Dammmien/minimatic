@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Outlaw's Daughter",
+    "year": 1954,
+    "cast": [
+      "Bill Williams",
+      "Jim Davis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-outlaw-s-daughter.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Please Murder Me",
+    "year": 1956,
+    "cast": [
+      "Raymond Burr",
+      "Angela Lansbury"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/please-murder-me.html"
+}

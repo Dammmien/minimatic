@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Phantom Stallion",
+    "year": 1954,
+    "cast": [
+      "Rex Allen",
+      "Carla Balenda"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/phantom-stallion.html"
+}

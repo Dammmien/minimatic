@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Winds of the Wasteland",
+    "year": 1936,
+    "cast": [
+      "John Wayne",
+      "Phyllis Fraser"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/winds-of-the-wasteland.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Bullet Is Waiting",
+    "year": 1954,
+    "cast": [
+      "Jean Simmons",
+      "Rory Calhoun"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/a-bullet-is-waiting.html"
+}

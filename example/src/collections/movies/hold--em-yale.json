@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hold 'Em Yale",
+    "year": 1935,
+    "cast": [
+      "Patricia Ellis",
+      "Cesar Romero"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hold--em-yale.html"
+}

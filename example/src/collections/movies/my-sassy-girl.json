@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Sassy Girl",
+    "year": 2008,
+    "cast": [
+      "Elisha Cuthbert",
+      "Jesse Bradford",
+      "Chris Sarandon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-sassy-girl.html"
+}

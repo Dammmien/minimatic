@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hockey Homicide",
+    "year": 1945,
+    "cast": [
+      "Goofy"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/hockey-homicide.html"
+}

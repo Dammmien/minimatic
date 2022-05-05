@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Quiet Gun",
+    "year": 1957,
+    "cast": [
+      "Forrest Tucker",
+      "Mara Corday"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-quiet-gun.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Demolition",
+    "year": 2016,
+    "cast": [
+      "Jake Gyllenhaal",
+      "Naomi Watts"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/demolition.html"
+}

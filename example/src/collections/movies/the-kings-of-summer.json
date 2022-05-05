@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Kings of Summer",
+    "year": 2013,
+    "cast": [
+      "Nick Robinson",
+      "Gabriel Basso",
+      "Moisés Arias",
+      "Nick Offerman",
+      "Alison Brie",
+      "Megan Mullally",
+      "Marc Evan Jackson",
+      "Mary Lynn Rajskub"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-kings-of-summer.html"
+}

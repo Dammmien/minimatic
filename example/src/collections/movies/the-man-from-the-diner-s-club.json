@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man from the Diner's Club",
+    "year": 1963,
+    "cast": [
+      "Danny Kaye",
+      "Martha Hyer",
+      "Telly Savalas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-man-from-the-diner-s-club.html"
+}

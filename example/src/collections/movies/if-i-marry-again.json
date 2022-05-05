@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "If I Marry Again",
+    "year": 1925,
+    "cast": [
+      "Doris Kenyon",
+      "Lloyd Hughes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/if-i-marry-again.html"
+}

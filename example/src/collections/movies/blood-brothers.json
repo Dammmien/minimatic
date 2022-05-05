@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blood Brothers",
+    "year": 1996,
+    "cast": [
+      "Bruce Springsteen",
+      "The E Street Band",
+      "Jon Landau"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/blood-brothers.html"
+}

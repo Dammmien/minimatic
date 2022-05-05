@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Choirboys",
+    "year": 1977,
+    "cast": [
+      "Charles Durning",
+      "Louis Gossett Jr.",
+      "Perry King",
+      "Don Stroud",
+      "Burt Young",
+      "Barbara Rhoades",
+      "Phyllis Davis"
+    ],
+    "genres": [
+      "Crime",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-choirboys.html"
+}

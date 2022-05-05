@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Greetings",
+    "year": 1968,
+    "cast": [
+      "Robert De Niro",
+      "Gerrit Graham"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/greetings.html"
+}

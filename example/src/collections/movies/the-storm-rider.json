@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Storm Rider",
+    "year": 1957,
+    "cast": [
+      "Scott Brady",
+      "Mala Powers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-storm-rider.html"
+}

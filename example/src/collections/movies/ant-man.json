@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ant-Man",
+    "year": 2015,
+    "cast": [
+      "Paul Rudd",
+      "Michael Douglas",
+      "Evangeline Lilly",
+      "Corey Stoll"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/ant-man.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cruising",
+    "year": 1980,
+    "cast": [
+      "Al Pacino",
+      "Paul Sorvino"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/cruising.html"
+}

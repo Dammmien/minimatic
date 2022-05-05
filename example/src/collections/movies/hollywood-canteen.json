@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hollywood Canteen",
+    "year": 1944,
+    "cast": [
+      "Robert Hutton",
+      "Joan Leslie"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hollywood-canteen.html"
+}

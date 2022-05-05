@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "2 Fast 2 Furious",
+    "year": 2003,
+    "cast": [
+      "Paul Walker",
+      "Tyrese Gibson",
+      "Eva Mendes",
+      "Ludacris",
+      "Cole Hauser",
+      "James Remar",
+      "Devon Aoki"
+    ],
+    "genres": [
+      "Action",
+      "Crime"
+    ]
+  },
+  "output": "movies/2-fast-2-furious.html"
+}

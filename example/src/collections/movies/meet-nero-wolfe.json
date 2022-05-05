@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Meet Nero Wolfe",
+    "year": 1936,
+    "cast": [
+      "Edward Arnold",
+      "Lionel Stander",
+      "Dennie Moore"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/meet-nero-wolfe.html"
+}

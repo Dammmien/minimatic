@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Freshman",
+    "year": 1990,
+    "cast": [
+      "Matthew Broderick",
+      "Marlon Brando",
+      "Penelope Ann Miller",
+      "Bruno Kirby",
+      "Frank Whaley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-freshman.html"
+}

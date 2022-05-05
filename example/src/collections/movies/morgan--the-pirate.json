@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Morgan, the Pirate",
+    "year": 1961,
+    "cast": [
+      "Steve Reeves"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/morgan--the-pirate.html"
+}

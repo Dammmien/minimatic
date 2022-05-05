@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Canary Row",
+    "year": 1950,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/canary-row.html"
+}

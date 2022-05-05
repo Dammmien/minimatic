@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Keeping the Promise",
+    "year": 1997,
+    "cast": [
+      "Keith Carradine",
+      "Annette O'Toole"
+    ],
+    "genres": [
+      "Family",
+      "Drama"
+    ]
+  },
+  "output": "movies/keeping-the-promise.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Friday Night Lights",
+    "year": 2004,
+    "cast": [
+      "Billy Bob Thornton"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/friday-night-lights.html"
+}

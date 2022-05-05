@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Playhouse",
+    "year": 1921,
+    "cast": [
+      "Buster Keaton",
+      "Virginia Fox",
+      "Joe Roberts",
+      "Edward F. Cline"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-playhouse.html"
+}

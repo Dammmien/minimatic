@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Survivors",
+    "year": 1983,
+    "cast": [
+      "Walter Matthau",
+      "Robin Williams",
+      "Jerry Reed"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-survivors.html"
+}

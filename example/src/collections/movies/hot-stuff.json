@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hot Stuff",
+    "year": 1979,
+    "cast": [
+      "Dom DeLuise",
+      "Suzanne Pleshette",
+      "Jerry Reed"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hot-stuff.html"
+}

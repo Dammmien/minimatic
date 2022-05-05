@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mister Antonio",
+    "year": 1929,
+    "cast": [
+      "Leo Carrillo",
+      "Virginia Valli"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mister-antonio.html"
+}

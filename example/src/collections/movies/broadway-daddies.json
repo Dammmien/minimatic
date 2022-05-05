@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Broadway Daddies",
+    "year": 1928,
+    "cast": [
+      "Jacqueline Logan",
+      "Alec B. Francis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/broadway-daddies.html"
+}

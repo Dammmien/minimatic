@@ -1,0 +1,36 @@
+{
+  "data": {
+    "title": "The Hunger Games",
+    "year": 2012,
+    "cast": [
+      "Jennifer Lawrence",
+      "Josh Hutcherson",
+      "Liam Hemsworth",
+      "Woody Harrelson",
+      "Elizabeth Banks",
+      "Lenny Kravitz",
+      "with",
+      "Stanley Tucci",
+      "and",
+      "Donald Sutherland",
+      "Willow Shields",
+      "Paula Malcomson",
+      "Amandla Stenberg",
+      "Alexander Ludwig",
+      "Dayo Okeniyi",
+      "Isabelle Fuhrman",
+      "Jacqueline Emerson",
+      "Leven Rambin",
+      "Jack Quaid",
+      "Toby Jones",
+      "Wes Bentley",
+      "Latarsha Rose"
+    ],
+    "genres": [
+      "Action",
+      "Drama",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-hunger-games.html"
+}

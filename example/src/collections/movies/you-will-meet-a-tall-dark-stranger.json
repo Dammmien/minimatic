@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "You Will Meet a Tall Dark Stranger",
+    "year": 2010,
+    "cast": [
+      "Antonio Banderas",
+      "Josh Brolin",
+      "Anthony Hopkins",
+      "Gemma Jones",
+      "Freida Pinto",
+      "Lucy Punch",
+      "Naomi Watts"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-will-meet-a-tall-dark-stranger.html"
+}

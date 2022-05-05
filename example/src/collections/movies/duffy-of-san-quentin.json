@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Duffy of San Quentin",
+    "year": 1954,
+    "cast": [
+      "Joanne Dru",
+      "Louis Hayward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/duffy-of-san-quentin.html"
+}

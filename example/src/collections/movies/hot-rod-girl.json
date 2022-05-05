@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hot Rod Girl",
+    "year": 1956,
+    "cast": [
+      "Lori Nelson",
+      "Chuck Connors"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/hot-rod-girl.html"
+}

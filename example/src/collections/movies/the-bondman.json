@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bondman",
+    "year": 1916,
+    "cast": [
+      "William Farnum",
+      "Dorothy Bernard",
+      "L.O. Hart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bondman.html"
+}

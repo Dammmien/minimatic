@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Real McCoy",
+    "year": 1993,
+    "cast": [
+      "Kim Basinger",
+      "Val Kilmer",
+      "Terence Stamp"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-real-mccoy.html"
+}

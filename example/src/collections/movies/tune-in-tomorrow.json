@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tune in Tomorrow",
+    "year": 1990,
+    "cast": [
+      "Barbara Hershey",
+      "Peter Falk",
+      "Keanu Reeves"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tune-in-tomorrow.html"
+}

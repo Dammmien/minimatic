@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "All Nighter",
+    "year": 2017,
+    "cast": [
+      "J. K. Simmons",
+      "Emile Hirsch",
+      "Analeigh Tipton",
+      "Taran Killam",
+      "Kristen Schaal"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/all-nighter.html"
+}

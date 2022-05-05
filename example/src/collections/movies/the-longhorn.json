@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Longhorn",
+    "year": 1951,
+    "cast": [
+      "Bill Elliott",
+      "Myron Healey",
+      "Phyllis Coates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-longhorn.html"
+}

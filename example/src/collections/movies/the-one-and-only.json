@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The One and Only",
+    "year": 1978,
+    "cast": [
+      "Henry Winkler",
+      "Kim Darby"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-one-and-only.html"
+}

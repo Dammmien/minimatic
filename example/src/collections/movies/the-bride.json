@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Bride",
+    "year": 1985,
+    "cast": [
+      "Sting",
+      "Jennifer Beals",
+      "Anthony Higgins",
+      "Clancy Brown"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-bride.html"
+}

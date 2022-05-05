@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Payback",
+    "year": 1999,
+    "cast": [
+      "Mel Gibson",
+      "Gregg Henry",
+      "Maria Bello",
+      "Lucy Liu"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/payback.html"
+}

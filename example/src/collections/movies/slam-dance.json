@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Slam Dance",
+    "year": 1987,
+    "cast": [
+      "Tom Hulce",
+      "Mary Elizabeth Mastrantonio",
+      "Virginia Madsen",
+      "Harry Dean Stanton"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/slam-dance.html"
+}

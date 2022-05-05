@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flirting with Danger",
+    "year": 1934,
+    "cast": [
+      "William Cagney",
+      "Maria Alba"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/flirting-with-danger.html"
+}

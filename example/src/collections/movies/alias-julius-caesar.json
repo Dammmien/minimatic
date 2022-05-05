@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Alias Julius Caesar",
+    "year": 1922,
+    "cast": [
+      "Charles Ray",
+      "Barbara Bedford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/alias-julius-caesar.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fools for Scandal",
+    "year": 1938,
+    "cast": [
+      "Carole Lombard",
+      "Ralph Bellamy",
+      "Fernand Gravey"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/fools-for-scandal.html"
+}

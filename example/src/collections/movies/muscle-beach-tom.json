@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Muscle Beach Tom",
+    "year": 1956,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/muscle-beach-tom.html"
+}

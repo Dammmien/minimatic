@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Capture",
+    "year": 1950,
+    "cast": [
+      "Lew Ayres",
+      "Teresa Wright"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-capture.html"
+}

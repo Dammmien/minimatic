@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Private Lives of Pippa Lee",
+    "year": 2009,
+    "cast": [
+      "Robin Wright Penn",
+      "Alan Arkin",
+      "Maria Bello",
+      "Monica Bellucci",
+      "Blake Lively",
+      "Julianne Moore",
+      "Keanu Reeves",
+      "Winona Ryder"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-private-lives-of-pippa-lee.html"
+}

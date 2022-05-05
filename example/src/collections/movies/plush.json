@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Plush",
+    "year": 2013,
+    "cast": [
+      "Emily Browning",
+      "Xavier Samuel",
+      "Cam Gigandet",
+      "Dawn Olivieri",
+      "Thomas Dekker",
+      "Frances Fisher"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/plush.html"
+}

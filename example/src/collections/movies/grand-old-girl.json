@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Grand Old Girl",
+    "year": 1935,
+    "cast": [
+      "May Robson",
+      "Fred MacMurray",
+      "Edward Van Sloan"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/grand-old-girl.html"
+}

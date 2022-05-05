@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "After Five",
+    "year": 1915,
+    "cast": [
+      "Edward Abeles",
+      "Sessue Hayakawa"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/after-five.html"
+}

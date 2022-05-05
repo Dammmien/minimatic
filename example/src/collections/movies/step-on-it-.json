@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Step on It!",
+    "year": 1922,
+    "cast": [
+      "Hoot Gibson",
+      "Edith Yorke"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/step-on-it-.html"
+}

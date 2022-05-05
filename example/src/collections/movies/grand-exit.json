@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Grand Exit",
+    "year": 1935,
+    "cast": [
+      "Edmund Lowe",
+      "Ann Sothern"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/grand-exit.html"
+}

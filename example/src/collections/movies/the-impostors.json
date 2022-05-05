@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Impostors",
+    "year": 1998,
+    "cast": [
+      "Oliver Platt",
+      "Stanley Tucci",
+      "Alfred Molina",
+      "Billy Connolly",
+      "Tony Shalhoub",
+      "Hope Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-impostors.html"
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "In Time",
+    "year": 2011,
+    "cast": [
+      "Amanda Seyfried",
+      "Justin Timberlake",
+      "Alex Pettyfer",
+      "Cillian Murphy",
+      "Olivia Wilde",
+      "Matt Bomer",
+      "Johnny Galecki",
+      "Vincent Kartheiser",
+      "Elena Satine"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ]
+  },
+  "output": "movies/in-time.html"
+}

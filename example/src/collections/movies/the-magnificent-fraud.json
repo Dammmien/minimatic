@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Magnificent Fraud",
+    "year": 1939,
+    "cast": [
+      "Akim Tamiroff",
+      "Patricia Morison"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-magnificent-fraud.html"
+}

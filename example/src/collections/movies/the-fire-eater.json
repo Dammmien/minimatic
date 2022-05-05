@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Fire Eater",
+    "year": 1921,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fire-eater.html"
+}

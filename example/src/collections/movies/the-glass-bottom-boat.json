@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Glass Bottom Boat",
+    "year": 1966,
+    "cast": [
+      "Doris Day",
+      "Rod Taylor",
+      "Paul Lynde"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-glass-bottom-boat.html"
+}

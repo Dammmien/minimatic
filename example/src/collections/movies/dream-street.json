@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dream Street",
+    "year": 1921,
+    "cast": [
+      "Carol Dempster",
+      "Charles Emmett Mack"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dream-street.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Tailor Made Man",
+    "year": 1931,
+    "cast": [
+      "William Haines",
+      "Dorothy Jordan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-tailor-made-man.html"
+}

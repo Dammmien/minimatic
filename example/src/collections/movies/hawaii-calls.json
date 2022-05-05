@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hawaii Calls",
+    "year": 1938,
+    "cast": [
+      "Ned Sparks",
+      "Bobby Breen",
+      "Warren Hull"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/hawaii-calls.html"
+}

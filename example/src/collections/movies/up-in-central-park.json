@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Up in Central Park",
+    "year": 1948,
+    "cast": [
+      "Deanna Durbin",
+      "Dick Haymes",
+      "Vincent Price"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/up-in-central-park.html"
+}

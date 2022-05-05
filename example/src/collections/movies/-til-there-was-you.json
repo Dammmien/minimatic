@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "'Til There Was You",
+    "year": 1997,
+    "cast": [
+      "Jeanne Tripplehorn",
+      "Dylan McDermott",
+      "Sarah Jessica Parker"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/-til-there-was-you.html"
+}

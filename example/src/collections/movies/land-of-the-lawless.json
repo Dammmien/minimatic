@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Land of the Lawless",
+    "year": 1947,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/land-of-the-lawless.html"
+}

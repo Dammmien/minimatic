@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Runaway Girls",
+    "year": 1928,
+    "cast": [
+      "Shirley Mason",
+      "Hedda Hopper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/runaway-girls.html"
+}

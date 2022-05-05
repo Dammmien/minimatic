@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Max Keeble's Big Move",
+    "year": 2001,
+    "cast": [
+      "Alex D. Linz",
+      "Josh Peck",
+      "Zena Grey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/max-keeble-s-big-move.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fourteen Hours",
+    "year": 1951,
+    "cast": [
+      "Paul Douglas",
+      "Richard Basehart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fourteen-hours.html"
+}

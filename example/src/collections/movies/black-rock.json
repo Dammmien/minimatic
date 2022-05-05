@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Black Rock",
+    "year": 2013,
+    "cast": [
+      "Katie Aselton",
+      "Lake Bell",
+      "Kate Bosworth",
+      "Will Bouvier",
+      "Jay Paulson",
+      "Anslem Richardson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/black-rock.html"
+}

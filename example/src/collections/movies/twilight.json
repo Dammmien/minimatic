@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Twilight",
+    "year": 2008,
+    "cast": [
+      "Kristen Stewart",
+      "Robert Pattinson",
+      "Ashley Greene",
+      "Peter Facinelli",
+      "Billy Burke",
+      "Anna Kendrick"
+    ],
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ]
+  },
+  "output": "movies/twilight.html"
+}

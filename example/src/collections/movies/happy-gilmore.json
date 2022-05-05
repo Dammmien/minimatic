@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Happy Gilmore",
+    "year": 1996,
+    "cast": [
+      "Adam Sandler",
+      "Julie Bowen",
+      "Christopher McDonald",
+      "Carl Weathers",
+      "Bob Barker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/happy-gilmore.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "She's Funny That Way",
+    "year": 2015,
+    "cast": [
+      "Owen Wilson",
+      "Imogen Poots",
+      "Kathryn Hahn",
+      "Jennifer Aniston"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/she-s-funny-that-way.html"
+}

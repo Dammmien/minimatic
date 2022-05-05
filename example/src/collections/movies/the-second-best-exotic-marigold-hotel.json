@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Second Best Exotic Marigold Hotel",
+    "year": 2015,
+    "cast": [
+      "Judi Dench",
+      "Maggie Smith",
+      "Bill Nighy"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-second-best-exotic-marigold-hotel.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Damned Don't Cry!",
+    "year": 1950,
+    "cast": [
+      "Joan Crawford",
+      "David Brian"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-damned-don-t-cry-.html"
+}

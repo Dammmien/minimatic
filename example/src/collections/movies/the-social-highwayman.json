@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Social Highwayman",
+    "year": 1926,
+    "cast": [
+      "Dorothy Devore",
+      "Montagu Love"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-social-highwayman.html"
+}

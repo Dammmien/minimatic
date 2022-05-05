@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Dirty Love",
+    "year": 2005,
+    "cast": [
+      "Jenny McCarthy",
+      "Eddie Kaye Thomas",
+      "Carmen Electra",
+      "Victor Webster",
+      "Kam Heskin",
+      "Kathy Griffin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dirty-love.html"
+}

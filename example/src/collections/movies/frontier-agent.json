@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Frontier Agent",
+    "year": 1948,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton",
+      "Reno Browne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/frontier-agent.html"
+}

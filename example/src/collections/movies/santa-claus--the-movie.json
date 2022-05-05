@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Santa Claus: The Movie",
+    "year": 1985,
+    "cast": [
+      "Dudley Moore",
+      "John Lithgow",
+      "David Huddleston"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/santa-claus--the-movie.html"
+}

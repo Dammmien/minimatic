@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Back to the Future",
+    "year": 1985,
+    "cast": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson",
+      "Crispin Glover",
+      "Thomas F. Wilson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/back-to-the-future.html"
+}

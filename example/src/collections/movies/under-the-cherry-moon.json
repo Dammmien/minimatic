@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Under the Cherry Moon",
+    "year": 1986,
+    "cast": [
+      "Prince",
+      "Kristin Scott Thomas",
+      "Jerome Benton",
+      "Francesca Annis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/under-the-cherry-moon.html"
+}

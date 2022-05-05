@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Yosemite Trail",
+    "year": 1922,
+    "cast": [
+      "Dustin Farnum",
+      "Irene Rich"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-yosemite-trail.html"
+}

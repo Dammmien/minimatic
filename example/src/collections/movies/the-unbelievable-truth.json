@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Unbelievable Truth",
+    "year": 1989,
+    "cast": [
+      "Adrienne Shelley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-unbelievable-truth.html"
+}

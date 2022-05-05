@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Death Valley Manhunt",
+    "year": 1943,
+    "cast": [
+      "Wild Bill Elliott",
+      "Anne Jeffreys"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/death-valley-manhunt.html"
+}

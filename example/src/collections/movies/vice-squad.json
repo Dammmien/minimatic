@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Vice Squad",
+    "year": 1982,
+    "cast": [
+      "Season Hubley",
+      "Wings Hauser",
+      "Fred Berry"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/vice-squad.html"
+}

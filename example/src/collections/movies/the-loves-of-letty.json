@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Loves of Letty",
+    "year": 1919,
+    "cast": [
+      "Pauline Frederick",
+      "John Bowers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-loves-of-letty.html"
+}

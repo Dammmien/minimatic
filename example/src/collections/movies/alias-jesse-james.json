@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Alias Jesse James",
+    "year": 1959,
+    "cast": [
+      "Bob Hope",
+      "Rhonda Fleming"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/alias-jesse-james.html"
+}

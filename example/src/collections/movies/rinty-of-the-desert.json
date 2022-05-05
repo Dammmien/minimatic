@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rinty of the Desert",
+    "year": 1928,
+    "cast": [
+      "Rin Tin Tin",
+      "Audrey Ferris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rinty-of-the-desert.html"
+}

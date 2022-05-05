@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Castaway Cowboy",
+    "year": 1974,
+    "cast": [
+      "James Garner",
+      "Vera Miles",
+      "Robert Culp"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-castaway-cowboy.html"
+}

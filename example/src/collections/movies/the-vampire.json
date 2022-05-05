@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Vampire",
+    "year": 1957,
+    "cast": [
+      "John Beal",
+      "Coleen Gray"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-vampire.html"
+}

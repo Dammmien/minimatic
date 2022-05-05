@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Going Highbrow",
+    "year": 1935,
+    "cast": [
+      "Edward Everett Horton",
+      "ZaSu Pitts",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/going-highbrow.html"
+}

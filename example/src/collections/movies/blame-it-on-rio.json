@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Blame It on Rio",
+    "year": 1984,
+    "cast": [
+      "Michael Caine",
+      "Joseph Bologna",
+      "Michelle Johnson",
+      "Demi Moore",
+      "Valerie Harper"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blame-it-on-rio.html"
+}

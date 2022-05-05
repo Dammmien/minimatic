@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Romance in the Dark",
+    "year": 1938,
+    "cast": [
+      "Gladys Swarthout",
+      "John Boles",
+      "John Barrymore"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/romance-in-the-dark.html"
+}

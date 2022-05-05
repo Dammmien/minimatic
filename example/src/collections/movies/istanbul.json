@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Istanbul",
+    "year": 1957,
+    "cast": [
+      "Errol Flynn",
+      "Cornell Borchers"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/istanbul.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Decision of Christopher Blake",
+    "year": 1948,
+    "cast": [
+      "Alexis Smith",
+      "Cecil Kellaway",
+      "John Hoyt",
+      "Robert Douglas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-decision-of-christopher-blake.html"
+}

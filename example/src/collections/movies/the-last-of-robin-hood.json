@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Last of Robin Hood",
+    "year": 2013,
+    "cast": [
+      "Kevin Kline",
+      "Dakota Fanning",
+      "Susan Sarandon",
+      "Patrick St. Esprit"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-last-of-robin-hood.html"
+}

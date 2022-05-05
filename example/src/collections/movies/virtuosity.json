@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Virtuosity",
+    "year": 1995,
+    "cast": [
+      "Denzel Washington",
+      "Russell Crowe",
+      "Kelly Lynch"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/virtuosity.html"
+}

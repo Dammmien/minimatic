@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Action Point",
+    "year": 2018,
+    "cast": [
+      "Johnny Knoxville",
+      "Chris Pontius"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/action-point.html"
+}

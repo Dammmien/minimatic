@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Up Goes Maisie",
+    "year": 1946,
+    "cast": [
+      "Ann Sothern",
+      "George Murphy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/up-goes-maisie.html"
+}

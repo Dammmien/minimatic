@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Milk Money",
+    "year": 1994,
+    "cast": [
+      "Ed Harris",
+      "Melanie Griffith",
+      "Malcolm McDowell",
+      "Anne Heche",
+      "Casey Siemaszko"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/milk-money.html"
+}

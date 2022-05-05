@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tonight We Sing",
+    "year": 1953,
+    "cast": [
+      "David Wayne",
+      "Anne Bancroft"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/tonight-we-sing.html"
+}

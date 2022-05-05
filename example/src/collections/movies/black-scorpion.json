@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Black Scorpion",
+    "year": 1995,
+    "cast": [
+      "Joan Severance",
+      "Bruce Abbott"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/black-scorpion.html"
+}

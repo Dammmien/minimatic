@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Triple 9",
+    "year": 2016,
+    "cast": [
+      "Casey Affleck",
+      "Aaron Paul"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/triple-9.html"
+}

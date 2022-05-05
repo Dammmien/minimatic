@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder in the Music Hall",
+    "year": 1946,
+    "cast": [
+      "Nancy Kelly",
+      "Vera Ralston"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/murder-in-the-music-hall.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Sporting Chance",
+    "year": 1945,
+    "cast": [
+      "Jane Randolph",
+      "Edward Gargan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-sporting-chance.html"
+}

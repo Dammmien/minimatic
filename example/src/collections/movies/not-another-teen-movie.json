@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Not Another Teen Movie",
+    "year": 2001,
+    "cast": [
+      "Chris Evans",
+      "Jaime Pressly",
+      "Chyler Leigh"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/not-another-teen-movie.html"
+}

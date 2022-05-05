@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Teenage Mutant Ninja Turtles",
+    "year": 1990,
+    "cast": [
+      "Judith Hoag",
+      "Elias Koteas"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/teenage-mutant-ninja-turtles.html"
+}

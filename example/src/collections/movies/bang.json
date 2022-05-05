@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bang",
+    "year": 1997,
+    "cast": [
+      "Darling Narita",
+      "Peter Greene"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bang.html"
+}

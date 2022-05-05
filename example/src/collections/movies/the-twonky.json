@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Twonky",
+    "year": 1953,
+    "cast": [
+      "Hans Conreid",
+      "Gloria Blondell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-twonky.html"
+}

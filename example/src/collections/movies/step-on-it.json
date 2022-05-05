@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Step on It",
+    "year": 1936,
+    "cast": [
+      "Richard Talmadge",
+      "Lois Wilde"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/step-on-it.html"
+}

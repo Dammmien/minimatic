@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Admission",
+    "year": 2013,
+    "cast": [
+      "Paul Rudd",
+      "Tina Fey",
+      "Michael Sheen",
+      "Wallace Shawn",
+      "Lily Tomlin"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/admission.html"
+}

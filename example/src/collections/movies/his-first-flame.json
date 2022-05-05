@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "His First Flame",
+    "year": 1927,
+    "cast": [
+      "Harry Langdon",
+      "Natalie Kingston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/his-first-flame.html"
+}

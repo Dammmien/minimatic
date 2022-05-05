@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "McCanick",
+    "year": 2013,
+    "cast": [
+      "David Morse",
+      "Cory Monteith",
+      "Mike Vogel",
+      "Ciarán Hinds"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/mccanick.html"
+}

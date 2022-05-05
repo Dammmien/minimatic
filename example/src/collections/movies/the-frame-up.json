@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Frame-Up",
+    "year": 1937,
+    "cast": [
+      "Paul Kelly",
+      "Julie Bishop"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-frame-up.html"
+}

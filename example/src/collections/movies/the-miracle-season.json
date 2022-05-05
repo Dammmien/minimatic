@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Miracle Season",
+    "year": 2018,
+    "cast": [
+      "Helen Hunt",
+      "William Hurt",
+      "Erin Moriarty",
+      "Danika Yarosh"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/the-miracle-season.html"
+}

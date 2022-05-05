@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Breakfast in Hollywood",
+    "year": 1946,
+    "cast": [
+      "Tom Breneman",
+      "Bonita Granville",
+      "Billie Burke"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/breakfast-in-hollywood.html"
+}

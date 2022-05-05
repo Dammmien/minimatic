@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Outlaw Gold",
+    "year": 1950,
+    "cast": [
+      "Johnny Mack Brown",
+      "Jane Adams"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/outlaw-gold.html"
+}

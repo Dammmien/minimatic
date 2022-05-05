@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "1776",
+    "year": 1972,
+    "cast": [
+      "William Daniels",
+      "Howard Da Silva",
+      "Donald Madden",
+      "Ken Howard",
+      "John Cullum",
+      "Ron Holgate",
+      "Blythe Danner"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/1776.html"
+}

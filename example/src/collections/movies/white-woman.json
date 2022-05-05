@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "White Woman",
+    "year": 1933,
+    "cast": [
+      "Carole Lombard",
+      "Charles Laughton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/white-woman.html"
+}

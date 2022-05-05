@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Woman of Experience",
+    "year": 1931,
+    "cast": [
+      "Helen Twelvetrees",
+      "William Bakewell"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-woman-of-experience.html"
+}

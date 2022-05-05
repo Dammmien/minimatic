@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild River",
+    "year": 1960,
+    "cast": [
+      "Montgomery Clift",
+      "Lee Remick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wild-river.html"
+}

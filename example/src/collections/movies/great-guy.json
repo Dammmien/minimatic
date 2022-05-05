@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Great Guy",
+    "year": 1936,
+    "cast": [
+      "James Cagney",
+      "Mae Clarke"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/great-guy.html"
+}

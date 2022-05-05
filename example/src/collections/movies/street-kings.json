@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Street Kings",
+    "year": 2008,
+    "cast": [
+      "Keanu Reeves",
+      "Forest Whitaker",
+      "Hugh Laurie",
+      "Chris Evans",
+      "Common",
+      "The Game"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/street-kings.html"
+}

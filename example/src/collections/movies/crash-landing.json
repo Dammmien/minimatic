@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crash Landing",
+    "year": 1958,
+    "cast": [
+      "Gary Merrill",
+      "Nancy Davis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/crash-landing.html"
+}

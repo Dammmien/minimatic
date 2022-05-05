@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Dolls",
+    "year": 1987,
+    "cast": [],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dolls.html"
+}

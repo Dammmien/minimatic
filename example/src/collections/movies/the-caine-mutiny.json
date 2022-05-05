@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "The Caine Mutiny",
+    "year": 1954,
+    "cast": [
+      "Humphrey Bogart",
+      "José Ferrer",
+      "Van Johnson",
+      "Fred MacMurray",
+      "Robert Francis",
+      "E.G. Marshall",
+      "Tom Tully",
+      "Jerry Paris",
+      "May Wynn",
+      "Lee Marvin"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-caine-mutiny.html"
+}

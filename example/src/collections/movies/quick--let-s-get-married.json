@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Quick, Let's Get Married",
+    "year": 1964,
+    "cast": [
+      "Ginger Rogers",
+      "Ray Milland",
+      "Barbara Eden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/quick--let-s-get-married.html"
+}

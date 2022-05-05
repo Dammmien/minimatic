@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Speedy Spurs",
+    "year": 1926,
+    "cast": [
+      "Jay Wilsey",
+      "Alma Rayford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/speedy-spurs.html"
+}

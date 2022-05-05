@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Who's Minding the Store?",
+    "year": 1963,
+    "cast": [
+      "Jerry Lewis",
+      "Jill St. John",
+      "Agnes Moorehead",
+      "Ray Walston",
+      "Kathleen Freeman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/who-s-minding-the-store-.html"
+}

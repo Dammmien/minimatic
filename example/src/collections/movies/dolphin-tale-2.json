@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dolphin Tale 2",
+    "year": 2014,
+    "cast": [
+      "Harry Connick, Jr.",
+      "Ashley Judd",
+      "Nathan Gamble",
+      "Kris Kristofferson",
+      "Morgan Freeman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dolphin-tale-2.html"
+}

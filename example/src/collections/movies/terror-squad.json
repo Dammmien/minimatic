@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Terror Squad",
+    "year": 1987,
+    "cast": [
+      "Chuck Connors"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/terror-squad.html"
+}

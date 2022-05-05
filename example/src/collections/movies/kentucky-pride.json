@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kentucky Pride",
+    "year": 1925,
+    "cast": [
+      "Henry B. Walthall",
+      "Gertrude Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kentucky-pride.html"
+}

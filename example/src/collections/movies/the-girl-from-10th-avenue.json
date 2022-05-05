@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Girl from 10th Avenue",
+    "year": 1935,
+    "cast": [
+      "Bette Davis",
+      "Ian Hunter",
+      "Alison Skipworth"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-girl-from-10th-avenue.html"
+}

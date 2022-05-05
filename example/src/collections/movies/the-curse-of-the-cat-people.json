@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Curse of the Cat People",
+    "year": 1944,
+    "cast": [
+      "Simone Simon",
+      "Jane Randolph"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-curse-of-the-cat-people.html"
+}

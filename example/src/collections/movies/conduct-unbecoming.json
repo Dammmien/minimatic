@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Conduct Unbecoming",
+    "year": 1975,
+    "cast": [
+      "Stacy Keach",
+      "Richard Attenborough",
+      "Christopher Plummer",
+      "Michael York",
+      "Susannah York"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/conduct-unbecoming.html"
+}

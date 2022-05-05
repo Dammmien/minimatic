@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Jungle Princess",
+    "year": 1936,
+    "cast": [
+      "Dorothy Lamour",
+      "Ray Milland",
+      "Molly Lamont"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-jungle-princess.html"
+}

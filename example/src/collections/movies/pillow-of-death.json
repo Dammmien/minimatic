@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pillow of Death",
+    "year": 1945,
+    "cast": [
+      "Lon Chaney Jr.",
+      "Brenda Joyce"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/pillow-of-death.html"
+}

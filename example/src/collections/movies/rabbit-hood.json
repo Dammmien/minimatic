@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Rabbit Hood",
+    "year": 1949,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/rabbit-hood.html"
+}

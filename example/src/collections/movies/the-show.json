@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Show",
+    "year": 1927,
+    "cast": [
+      "John Gilbert",
+      "Renee Adoree",
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-show.html"
+}

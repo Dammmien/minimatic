@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Phantom Gold",
+    "year": 1938,
+    "cast": [
+      "Jack Luden",
+      "Beth Marion"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/phantom-gold.html"
+}

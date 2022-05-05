@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stampede in the Night",
+    "year": 1916,
+    "cast": [
+      "Hoot Gibson",
+      "Olive Carey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/stampede-in-the-night.html"
+}

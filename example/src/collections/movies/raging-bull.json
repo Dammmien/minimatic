@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Raging Bull",
+    "year": 1980,
+    "cast": [
+      "Robert De Niro",
+      "Joe Pesci",
+      "Cathy Moriarty"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/raging-bull.html"
+}

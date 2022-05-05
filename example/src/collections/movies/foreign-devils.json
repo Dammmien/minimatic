@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Foreign Devils",
+    "year": 1927,
+    "cast": [
+      "Tim McCoy",
+      "Claire Windsor"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/foreign-devils.html"
+}

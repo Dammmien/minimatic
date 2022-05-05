@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Key to the City",
+    "year": 1950,
+    "cast": [
+      "Clark Gable",
+      "Loretta Young",
+      "Frank Morgan",
+      "Marilyn Maxwell"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/key-to-the-city.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Passenger 57",
+    "year": 1992,
+    "cast": [
+      "Wesley Snipes",
+      "Bruce Payne",
+      "Tom Sizemore"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/passenger-57.html"
+}

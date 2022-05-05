@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Our Vines Have Tender Grapes",
+    "year": 1945,
+    "cast": [
+      "Edward G. Robinson",
+      "Margaret O'Brien"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/our-vines-have-tender-grapes.html"
+}

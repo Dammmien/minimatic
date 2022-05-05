@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Meet the Stewarts",
+    "year": 1942,
+    "cast": [
+      "William Holden",
+      "Frances Dee"
+    ],
+    "genres": []
+  },
+  "output": "movies/meet-the-stewarts.html"
+}

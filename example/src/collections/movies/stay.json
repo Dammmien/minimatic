@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Stay",
+    "year": 2005,
+    "cast": [
+      "Ewan McGregor",
+      "Naomi Watts",
+      "Ryan Gosling",
+      "Bob Hoskins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stay.html"
+}

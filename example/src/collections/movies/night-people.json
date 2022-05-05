@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Night People",
+    "year": 1954,
+    "cast": [
+      "Gregory Peck",
+      "Broderick Crawford",
+      "Anita Bjork",
+      "Rita Gam",
+      "Walter Abel",
+      "Buddy Ebsen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/night-people.html"
+}

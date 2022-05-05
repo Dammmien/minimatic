@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Trail of the Lonesome Pine",
+    "year": 1936,
+    "cast": [
+      "Sylvia Sidney",
+      "Fred MacMurray",
+      "Henry Fonda"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-trail-of-the-lonesome-pine.html"
+}

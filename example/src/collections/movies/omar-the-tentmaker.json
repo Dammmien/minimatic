@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Omar the Tentmaker",
+    "year": 1922,
+    "cast": [
+      "Guy Bates Post",
+      "Virginia Browne Faire"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/omar-the-tentmaker.html"
+}

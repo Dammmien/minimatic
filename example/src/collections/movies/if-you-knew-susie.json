@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "If You Knew Susie",
+    "year": 1948,
+    "cast": [
+      "Eddie Cantor",
+      "Joan Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/if-you-knew-susie.html"
+}

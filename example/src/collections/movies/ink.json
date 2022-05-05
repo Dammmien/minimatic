@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ink",
+    "year": 2009,
+    "cast": [
+      "Christopher Soren Kelly",
+      "Quinn Hunchar",
+      "Jessica Duffy"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/ink.html"
+}

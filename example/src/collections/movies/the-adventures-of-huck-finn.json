@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Adventures of Huck Finn",
+    "year": 1993,
+    "cast": [
+      "Elijah Wood"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-adventures-of-huck-finn.html"
+}

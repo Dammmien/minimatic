@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jubilo",
+    "year": 1919,
+    "cast": [
+      "Will Rogers",
+      "Josie Sedgwick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/jubilo.html"
+}

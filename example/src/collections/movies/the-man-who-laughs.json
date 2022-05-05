@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Who Laughs",
+    "year": 1928,
+    "cast": [
+      "Mary Philbin",
+      "Conrad Veidt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-who-laughs.html"
+}

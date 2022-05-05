@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Outside the Law",
+    "year": 1956,
+    "cast": [
+      "Ray Danton",
+      "Leigh Snowden",
+      "Grant Williams"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/outside-the-law.html"
+}

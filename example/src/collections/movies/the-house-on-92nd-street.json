@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The House on 92nd Street",
+    "year": 1945,
+    "cast": [
+      "Lloyd Nolan",
+      "Signe Hasso",
+      "William Eythe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-house-on-92nd-street.html"
+}

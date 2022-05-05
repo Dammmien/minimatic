@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The In Crowd",
+    "year": 2000,
+    "cast": [
+      "Susan Ward",
+      "Lori Heuring",
+      "Matthew Settle"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-in-crowd.html"
+}

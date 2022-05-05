@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hard Boiled",
+    "year": 1926,
+    "cast": [
+      "Tom Mix",
+      "Helene Chadwick"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hard-boiled.html"
+}

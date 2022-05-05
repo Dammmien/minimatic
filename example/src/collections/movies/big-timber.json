@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Big Timber",
+    "year": 1924,
+    "cast": [
+      "William Desmond",
+      "Olive Hasbrouck"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/big-timber.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cafe Society",
+    "year": 1939,
+    "cast": [
+      "Madeleine Carroll",
+      "Fred MacMurray",
+      "Shirley Ross"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/cafe-society.html"
+}

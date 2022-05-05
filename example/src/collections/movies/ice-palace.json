@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Ice Palace",
+    "year": 1960,
+    "cast": [
+      "Richard Burton",
+      "Robert Ryan",
+      "Martha Hyer",
+      "Jim Backus",
+      "Carolyn Jones"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ice-palace.html"
+}

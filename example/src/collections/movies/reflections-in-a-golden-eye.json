@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Reflections in a Golden Eye",
+    "year": 1967,
+    "cast": [
+      "Elizabeth Taylor",
+      "Marlon Brando",
+      "Robert Forster"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/reflections-in-a-golden-eye.html"
+}

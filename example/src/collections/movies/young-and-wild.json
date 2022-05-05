@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Young and Wild",
+    "year": 1958,
+    "cast": [
+      "Gene Evans",
+      "Scott Marlowe"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/young-and-wild.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Million Dollar Duck",
+    "year": 1971,
+    "cast": [
+      "Dean Jones",
+      "Sandy Duncan",
+      "Tony Roberts"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-million-dollar-duck.html"
+}

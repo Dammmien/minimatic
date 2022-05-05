@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gypsy Wildcat",
+    "year": 1944,
+    "cast": [
+      "Maria Montez",
+      "Jon Hall",
+      "Peter Coe"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/gypsy-wildcat.html"
+}

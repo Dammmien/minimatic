@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Christmas Kid",
+    "year": 1967,
+    "cast": [
+      "Jeffrey Hunter"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-christmas-kid.html"
+}

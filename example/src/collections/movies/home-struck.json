@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Home Struck",
+    "year": 1927,
+    "cast": [
+      "Viola Dana",
+      "Tom Gallery"
+    ],
+    "genres": [
+      "Silent"
+    ]
+  },
+  "output": "movies/home-struck.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Aryan",
+    "year": 1916,
+    "cast": [
+      "William S. Hart",
+      "Louise Glaum",
+      "Bessie Love"
+    ],
+    "genres": [
+      "Western",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-aryan.html"
+}

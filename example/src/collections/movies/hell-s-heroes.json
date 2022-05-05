@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell's Heroes",
+    "year": 1930,
+    "cast": [
+      "Charles Bickford",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hell-s-heroes.html"
+}

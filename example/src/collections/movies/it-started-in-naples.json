@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "It Started in Naples",
+    "year": 1960,
+    "cast": [
+      "Clark Gable",
+      "Sophia Loren",
+      "Vittorio De Sica"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-started-in-naples.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bordertown Gun Fighters",
+    "year": 1943,
+    "cast": [
+      "Wild Bill Elliott",
+      "Anne Jeffreys"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bordertown-gun-fighters.html"
+}

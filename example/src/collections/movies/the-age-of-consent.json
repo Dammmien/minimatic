@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Age of Consent",
+    "year": 1932,
+    "cast": [
+      "Dorothy Wilson",
+      "Arline Judge",
+      "John Halliday"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-age-of-consent.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blue Skies",
+    "year": 1946,
+    "cast": [
+      "Fred Astaire",
+      "Bing Crosby",
+      "Joan Caulfield"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/blue-skies.html"
+}

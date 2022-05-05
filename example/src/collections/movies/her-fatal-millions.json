@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Her Fatal Millions",
+    "year": 1923,
+    "cast": [
+      "Viola Dana",
+      "Huntley Gordon",
+      "Allan Forrest"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/her-fatal-millions.html"
+}

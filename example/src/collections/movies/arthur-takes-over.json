@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Arthur Takes Over",
+    "year": 1948,
+    "cast": [
+      "Lois Collier",
+      "Richard Crane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/arthur-takes-over.html"
+}

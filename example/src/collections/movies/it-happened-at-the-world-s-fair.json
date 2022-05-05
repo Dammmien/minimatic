@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It Happened at the World's Fair",
+    "year": 1963,
+    "cast": [
+      "Elvis Presley",
+      "Gary Lockwood"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/it-happened-at-the-world-s-fair.html"
+}

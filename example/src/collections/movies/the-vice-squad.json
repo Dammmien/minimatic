@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Vice Squad",
+    "year": 1931,
+    "cast": [
+      "Kay Francis",
+      "Paul Lukas",
+      "Judith Wood"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-vice-squad.html"
+}

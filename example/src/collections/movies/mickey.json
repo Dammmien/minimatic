@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mickey",
+    "year": 1948,
+    "cast": [
+      "Irene Hervey",
+      "Hattie McDaniel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mickey.html"
+}

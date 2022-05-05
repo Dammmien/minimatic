@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Take Me Home",
+    "year": 1928,
+    "cast": [
+      "Bebe Daniels",
+      "Neil Hamilton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/take-me-home.html"
+}

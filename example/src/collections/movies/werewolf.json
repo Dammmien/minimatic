@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Werewolf",
+    "year": 1996,
+    "cast": [
+      "Jorge Rivero"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/werewolf.html"
+}

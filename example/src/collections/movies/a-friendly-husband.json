@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Friendly Husband",
+    "year": 1923,
+    "cast": [
+      "Lupino Lane",
+      "Alberta Vaughn",
+      "Eva Thatcher"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-friendly-husband.html"
+}

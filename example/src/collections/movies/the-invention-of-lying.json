@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Invention of Lying",
+    "year": 2009,
+    "cast": [
+      "Ricky Gervais",
+      "Jennifer Garner",
+      "Jonah Hill",
+      "Louis C.K.",
+      "Rob Lowe",
+      "Tina Fey",
+      "Christopher Guest"
+    ],
+    "genres": [
+      "Comedy",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-invention-of-lying.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Threat",
+    "year": 1960,
+    "cast": [
+      "Robert Knapp",
+      "Linda Lawson",
+      "Mary Castle"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-threat.html"
+}

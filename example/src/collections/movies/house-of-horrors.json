@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "House of Horrors",
+    "year": 1946,
+    "cast": [
+      "Rondo Hatton",
+      "Robert Lowery",
+      "Virginia Grey"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/house-of-horrors.html"
+}

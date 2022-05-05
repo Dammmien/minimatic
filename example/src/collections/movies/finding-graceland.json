@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Finding Graceland",
+    "year": 1998,
+    "cast": [
+      "Harvey Keitel",
+      "Johnathon Schaech",
+      "Bridget Fonda",
+      "Gretchen Mol"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/finding-graceland.html"
+}

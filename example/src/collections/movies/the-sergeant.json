@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sergeant",
+    "year": 1968,
+    "cast": [
+      "Rod Steiger",
+      "John Phillip Law"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sergeant.html"
+}

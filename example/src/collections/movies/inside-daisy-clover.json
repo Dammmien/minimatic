@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Inside Daisy Clover",
+    "year": 1965,
+    "cast": [
+      "Natalie Wood",
+      "Robert Redford",
+      "Christopher Plummer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/inside-daisy-clover.html"
+}

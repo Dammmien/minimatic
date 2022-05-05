@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sinister Journey",
+    "year": 1948,
+    "cast": [
+      "William Boyd",
+      "Elaine Riley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sinister-journey.html"
+}

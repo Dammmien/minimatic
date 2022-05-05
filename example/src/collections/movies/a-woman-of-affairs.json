@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Woman of Affairs",
+    "year": 1928,
+    "cast": [
+      "Greta Garbo",
+      "John Gilbert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-woman-of-affairs.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Burlesque",
+    "year": 2010,
+    "cast": [
+      "Cher",
+      "Christina Aguilera",
+      "Stanley Tucci",
+      "Eric Dane",
+      "Kristen Bell",
+      "Cam Gigandet",
+      "Alan Cumming",
+      "Julianne Hough",
+      "Peter Gallagher"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/burlesque.html"
+}

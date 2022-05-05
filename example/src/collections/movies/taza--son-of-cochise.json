@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Taza, Son of Cochise",
+    "year": 1954,
+    "cast": [
+      "Rock Hudson",
+      "Barbara Rush",
+      "Rex Reason"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/taza--son-of-cochise.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Shriek in the Night",
+    "year": 1933,
+    "cast": [
+      "Ginger Rogers",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/a-shriek-in-the-night.html"
+}

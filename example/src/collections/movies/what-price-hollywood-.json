@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "What Price Hollywood?",
+    "year": 1932,
+    "cast": [
+      "Constance Bennett",
+      "Neil Hamilton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/what-price-hollywood-.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Pal Wolf",
+    "year": 1944,
+    "cast": [
+      "Sharyn Moffett",
+      "Jill Esmond",
+      "Claire Carleton"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/my-pal-wolf.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Unknown Woman",
+    "year": 1935,
+    "cast": [
+      "Richard Cromwell",
+      "Marian Marsh"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/unknown-woman.html"
+}

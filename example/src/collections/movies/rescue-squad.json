@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rescue Squad",
+    "year": 1935,
+    "cast": [
+      "Ralph Forbes",
+      "Verna Hillie"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/rescue-squad.html"
+}

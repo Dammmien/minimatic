@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Family",
+    "year": 1995,
+    "cast": [
+      "Jimmy Smits",
+      "Esai Morales",
+      "Edward James Olmos"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-family.html"
+}

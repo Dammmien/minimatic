@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Marry the Girl",
+    "year": 1937,
+    "cast": [
+      "Mary Boland",
+      "Hugh Herbert",
+      "Mischa Auer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/marry-the-girl.html"
+}

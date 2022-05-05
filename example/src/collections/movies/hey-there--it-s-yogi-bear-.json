@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hey There, It's Yogi Bear!",
+    "year": 1964,
+    "cast": [
+      "Yogi Bear"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/hey-there--it-s-yogi-bear-.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Half Past Dead",
+    "year": 2002,
+    "cast": [
+      "Steven Seagal",
+      "Morris Chestnut",
+      "Ja Rule"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/half-past-dead.html"
+}

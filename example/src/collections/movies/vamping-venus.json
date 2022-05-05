@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Vamping Venus",
+    "year": 1928,
+    "cast": [
+      "Charles Murray",
+      "Louise Fazenda",
+      "Thelma Todd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/vamping-venus.html"
+}

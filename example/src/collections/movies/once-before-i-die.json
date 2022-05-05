@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Once Before I Die",
+    "year": 1966,
+    "cast": [
+      "Ursula Andress",
+      "John Derek"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/once-before-i-die.html"
+}

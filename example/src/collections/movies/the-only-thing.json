@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Only Thing",
+    "year": 1925,
+    "cast": [
+      "Eleanor Boardman",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-only-thing.html"
+}

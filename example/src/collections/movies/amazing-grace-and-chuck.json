@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Amazing Grace and Chuck",
+    "year": 1987,
+    "cast": [
+      "Jamie Lee Curtis",
+      "Gregory Peck",
+      "William L. Petersen",
+      "Joshua Zuehlke",
+      "Alex English"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/amazing-grace-and-chuck.html"
+}

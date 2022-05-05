@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Buzzy Rides the Range",
+    "year": 1940,
+    "cast": [
+      "Robert \"Buzz\" Henry",
+      "David O'Brien"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/buzzy-rides-the-range.html"
+}

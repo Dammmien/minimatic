@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Locket",
+    "year": 1946,
+    "cast": [
+      "Laraine Day",
+      "Brian Aherne",
+      "Robert Mitchum"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-locket.html"
+}

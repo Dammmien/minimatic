@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Talkin' Dirty After Dark",
+    "year": 1991,
+    "cast": [
+      "Martin Lawrence",
+      "Mark Curry"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/talkin--dirty-after-dark.html"
+}

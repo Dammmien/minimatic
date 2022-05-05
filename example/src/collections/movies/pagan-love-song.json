@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pagan Love Song",
+    "year": 1950,
+    "cast": [
+      "Esther Williams",
+      "Howard Keel",
+      "Rita Moreno"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/pagan-love-song.html"
+}

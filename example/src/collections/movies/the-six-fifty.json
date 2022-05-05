@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Six-Fifty",
+    "year": 1923,
+    "cast": [
+      "Renée Adorée",
+      "Orville Caldwell",
+      "Gertrude Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-six-fifty.html"
+}

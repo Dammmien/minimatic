@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "You're in the Navy Now",
+    "year": 1951,
+    "cast": [
+      "Gary Cooper",
+      "Jane Greer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-re-in-the-navy-now.html"
+}

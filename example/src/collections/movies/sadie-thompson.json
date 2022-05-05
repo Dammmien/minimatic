@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sadie Thompson",
+    "year": 1928,
+    "cast": [
+      "Gloria Swanson",
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sadie-thompson.html"
+}

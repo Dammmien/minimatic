@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Harry in Your Pocket",
+    "year": 1973,
+    "cast": [
+      "James Coburn",
+      "Michael Sarrazin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/harry-in-your-pocket.html"
+}

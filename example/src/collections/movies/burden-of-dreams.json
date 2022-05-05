@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Burden of Dreams",
+    "year": 1982,
+    "cast": [
+      "Werner Herzog",
+      "Claudia Cardinale",
+      "Mick Jagger"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/burden-of-dreams.html"
+}

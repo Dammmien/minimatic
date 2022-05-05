@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Tremors",
+    "year": 1990,
+    "cast": [
+      "Kevin Bacon",
+      "Fred Ward",
+      "Finn Carter",
+      "Michael Gross",
+      "Reba McEntire"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/tremors.html"
+}

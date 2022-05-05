@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That Night with You",
+    "year": 1945,
+    "cast": [
+      "Franchot Tone",
+      "Susanna Foster"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-night-with-you.html"
+}

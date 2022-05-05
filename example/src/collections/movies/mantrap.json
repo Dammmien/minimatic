@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mantrap",
+    "year": 1926,
+    "cast": [
+      "Clara Bow",
+      "Percy Marmont",
+      "Ernest Torrence"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/mantrap.html"
+}

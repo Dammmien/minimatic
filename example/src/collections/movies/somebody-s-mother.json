@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Somebody's Mother",
+    "year": 1926,
+    "cast": [
+      "Mary Carr",
+      "Rex Lease"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/somebody-s-mother.html"
+}

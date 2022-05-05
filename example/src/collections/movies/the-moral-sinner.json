@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Moral Sinner",
+    "year": 1924,
+    "cast": [
+      "Dorothy Dalton",
+      "James Rennie"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-moral-sinner.html"
+}

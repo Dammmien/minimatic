@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Gridiron Gang",
+    "year": 2006,
+    "cast": [
+      "Dwayne Johnson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gridiron-gang.html"
+}

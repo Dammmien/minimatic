@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Favorite Brunette",
+    "year": 1947,
+    "cast": [
+      "Bob Hope",
+      "Dorothy Lamour",
+      "Peter Lorre"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-favorite-brunette.html"
+}

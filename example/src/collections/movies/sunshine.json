@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sunshine",
+    "year": 2007,
+    "cast": [
+      "Cillian Murphy",
+      "Rose Byrne",
+      "Cliff Curtis"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/sunshine.html"
+}

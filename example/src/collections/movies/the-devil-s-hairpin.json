@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Devil's Hairpin",
+    "year": 1957,
+    "cast": [
+      "Cornel Wilde",
+      "Jean Wallace",
+      "Arthur Franz"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-devil-s-hairpin.html"
+}

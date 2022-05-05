@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Dysfunktional Family",
+    "year": 2003,
+    "cast": [
+      "Eddie Griffin"
+    ],
+    "genres": [
+      "Performance"
+    ]
+  },
+  "output": "movies/dysfunktional-family.html"
+}

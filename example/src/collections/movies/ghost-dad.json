@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Ghost Dad",
+    "year": 1990,
+    "cast": [
+      "Bill Cosby"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ghost-dad.html"
+}

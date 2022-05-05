@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gallant Hours",
+    "year": 1960,
+    "cast": [
+      "James Cagney",
+      "Dennis Weaver"
+    ],
+    "genres": [
+      "Biography",
+      "War"
+    ]
+  },
+  "output": "movies/the-gallant-hours.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Black Oxfords",
+    "year": 1924,
+    "cast": [
+      "Sidney Smith",
+      "Vernon Dent",
+      "Marceline Day"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/black-oxfords.html"
+}

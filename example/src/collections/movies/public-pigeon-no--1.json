@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Public Pigeon No. 1",
+    "year": 1957,
+    "cast": [
+      "Red Skelton",
+      "Janet Blair",
+      "Vivian Blaine"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/public-pigeon-no--1.html"
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "The Butler",
+    "year": 2013,
+    "cast": [
+      "Forest Whitaker",
+      "Oprah Winfrey",
+      "John Cusack",
+      "Jane Fonda",
+      "Cuba Gooding, Jr.",
+      "Terrence Howard",
+      "Lenny Kravitz",
+      "James Marsden",
+      "David Oyelowo",
+      "Vanessa Redgrave",
+      "Alan Rickman",
+      "Liev Schreiber",
+      "Robin Williams",
+      "Clarence Williams III"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-butler.html"
+}

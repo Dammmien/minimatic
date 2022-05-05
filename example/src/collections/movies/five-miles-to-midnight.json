@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Five Miles to Midnight",
+    "year": 1962,
+    "cast": [
+      "Sophia Loren",
+      "Anthony Perkins"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/five-miles-to-midnight.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tail Spin",
+    "year": 1939,
+    "cast": [
+      "Alice Faye",
+      "Constance Bennett",
+      "Nancy Kelly"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tail-spin.html"
+}

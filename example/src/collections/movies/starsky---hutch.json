@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Starsky & Hutch",
+    "year": 2004,
+    "cast": [
+      "Ben Stiller",
+      "Owen Wilson",
+      "Vince Vaughn",
+      "Snoop Dogg",
+      "Juliette Lewis",
+      "Amy Smart",
+      "Carmen Electra"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/starsky---hutch.html"
+}

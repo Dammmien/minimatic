@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blonde Dynamite",
+    "year": 1950,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Adele Jergens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blonde-dynamite.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Book of Esther",
+    "year": 2013,
+    "cast": [
+      "Jen Lilley",
+      "Joel Smallbone",
+      "Thaao Penghlis",
+      "Robert Miano"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-book-of-esther.html"
+}

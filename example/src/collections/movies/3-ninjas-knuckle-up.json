@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "3 Ninjas Knuckle Up",
+    "year": 1995,
+    "cast": [
+      "Victor Wong",
+      "Charles Napier",
+      "Michael Treanor",
+      "Max Elliott Slade"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/3-ninjas-knuckle-up.html"
+}

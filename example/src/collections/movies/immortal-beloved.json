@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Immortal Beloved",
+    "year": 1994,
+    "cast": [
+      "Gary Oldman",
+      "Isabella Rossellini"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/immortal-beloved.html"
+}

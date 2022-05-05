@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Three Mesquiteers",
+    "year": 1936,
+    "cast": [
+      "Bob Livingston",
+      "Ray Corrigan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-three-mesquiteers.html"
+}

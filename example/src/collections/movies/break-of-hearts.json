@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Break of Hearts",
+    "year": 1935,
+    "cast": [
+      "Katharine Hepburn",
+      "Charles Boyer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/break-of-hearts.html"
+}

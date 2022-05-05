@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Venus Makes Trouble",
+    "year": 1937,
+    "cast": [
+      "James Dunn",
+      "Patricia Ellis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/venus-makes-trouble.html"
+}

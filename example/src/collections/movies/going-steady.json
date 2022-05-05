@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Going Steady",
+    "year": 1958,
+    "cast": [
+      "Molly Bee"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/going-steady.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Aggie Appleby, Maker of Men",
+    "year": 1933,
+    "cast": [
+      "Charles Farrell",
+      "Wynne Gibson",
+      "ZaSu Pitts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/aggie-appleby--maker-of-men.html"
+}

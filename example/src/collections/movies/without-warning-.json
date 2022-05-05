@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Without Warning!",
+    "year": 1952,
+    "cast": [
+      "Adam Williams",
+      "Meg Randall",
+      "Edward Binns"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/without-warning-.html"
+}

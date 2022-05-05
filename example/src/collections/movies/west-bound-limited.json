@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "West Bound Limited",
+    "year": 1937,
+    "cast": [
+      "Lyle Talbot",
+      "Polly Rowles"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/west-bound-limited.html"
+}

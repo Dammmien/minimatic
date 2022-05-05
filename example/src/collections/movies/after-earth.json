@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "After Earth",
+    "year": 2013,
+    "cast": [
+      "Jaden Smith",
+      "Will Smith"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/after-earth.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Tell-Tale Message",
+    "year": 1912,
+    "cast": [
+      "Earle Foxe",
+      "Hazel Neason",
+      "Stuart Holmes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-tell-tale-message.html"
+}

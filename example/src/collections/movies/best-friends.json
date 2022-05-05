@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Best Friends",
+    "year": 1982,
+    "cast": [
+      "Burt Reynolds",
+      "Goldie Hawn",
+      "Jessica Tandy",
+      "Barnard Hughes",
+      "Ron Silver"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/best-friends.html"
+}

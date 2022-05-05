@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Front Page",
+    "year": 1974,
+    "cast": [
+      "Jack Lemmon",
+      "Walter Matthau",
+      "Susan Sarandon",
+      "Carol Burnett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-front-page.html"
+}

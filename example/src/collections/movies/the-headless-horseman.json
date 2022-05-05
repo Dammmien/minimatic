@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Headless Horseman",
+    "year": 1922,
+    "cast": [
+      "Will Rogers",
+      "Lois Meredith"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/the-headless-horseman.html"
+}

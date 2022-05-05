@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Unknown Man",
+    "year": 1951,
+    "cast": [
+      "Walter Pidgeon",
+      "Ann Harding"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-unknown-man.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Men at Work",
+    "year": 1990,
+    "cast": [
+      "Charlie Sheen",
+      "Emilio Estevez"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/men-at-work.html"
+}

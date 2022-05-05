@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Through the Back Door",
+    "year": 1921,
+    "cast": [
+      "Mary Pickford",
+      "Gertrude Astor"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/through-the-back-door.html"
+}

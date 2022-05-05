@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Terminal Velocity",
+    "year": 1994,
+    "cast": [
+      "Charlie Sheen",
+      "Nastassja Kinski",
+      "James Gandolfini",
+      "Christopher McDonald"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/terminal-velocity.html"
+}

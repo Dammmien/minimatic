@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dead Calm",
+    "year": 1989,
+    "cast": [
+      "Nicole Kidman",
+      "Sam Neill",
+      "Billy Zane"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/dead-calm.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Let Them Live",
+    "year": 1937,
+    "cast": [
+      "John Howard",
+      "Nan Grey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/let-them-live.html"
+}

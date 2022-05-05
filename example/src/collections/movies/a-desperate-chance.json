@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Desperate Chance",
+    "year": 1925,
+    "cast": [
+      "Bob Reeves",
+      "Slim Whitaker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-desperate-chance.html"
+}

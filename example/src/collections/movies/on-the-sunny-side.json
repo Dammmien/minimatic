@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "On the Sunny Side",
+    "year": 1942,
+    "cast": [
+      "Roddy McDowall",
+      "Jane Darwell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/on-the-sunny-side.html"
+}

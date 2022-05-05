@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Judge Priest",
+    "year": 1934,
+    "cast": [
+      "Will Rogers",
+      "Tom Brown"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/judge-priest.html"
+}

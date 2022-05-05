@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hurricane Kid",
+    "year": 1925,
+    "cast": [
+      "Hoot Gibson",
+      "Marian Nixon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-hurricane-kid.html"
+}

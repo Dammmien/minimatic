@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Getting Acquainted",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Mabel Normand",
+      "Phyllis Allen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/getting-acquainted.html"
+}

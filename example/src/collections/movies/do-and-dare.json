@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Do and Dare",
+    "year": 1922,
+    "cast": [
+      "Tom Mix",
+      "Claire Adams"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/do-and-dare.html"
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "What to Expect When You're Expecting",
+    "year": 2012,
+    "cast": [
+      "Cameron Diaz",
+      "Jennifer Lopez",
+      "Elizabeth Banks",
+      "Chace Crawford",
+      "Brooklyn Decker",
+      "Anna Kendrick",
+      "Matthew Morrison",
+      "Dennis Quaid",
+      "Chris Rock",
+      "Rodrigo Santoro"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/what-to-expect-when-you-re-expecting.html"
+}

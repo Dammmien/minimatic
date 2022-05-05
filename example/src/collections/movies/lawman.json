@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Lawman",
+    "year": 1971,
+    "cast": [
+      "Burt Lancaster",
+      "Robert Ryan",
+      "Lee J. Cobb",
+      "Sheree North",
+      "J.D. Cannon",
+      "Albert Salmi",
+      "Robert Duvall"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lawman.html"
+}

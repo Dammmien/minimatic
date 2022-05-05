@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Zombies on Broadway",
+    "year": 1945,
+    "cast": [
+      "Bela Lugosi",
+      "Anne Jeffreys"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/zombies-on-broadway.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Nanny Diaries",
+    "year": 2007,
+    "cast": [
+      "Scarlett Johansson",
+      "Chris Evans"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-nanny-diaries.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Enter Madame",
+    "year": 1935,
+    "cast": [
+      "Cary Grant",
+      "Elissa Landi"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/enter-madame.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mary Lou",
+    "year": 1948,
+    "cast": [
+      "Robert Lowery",
+      "Glenda Farrell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mary-lou.html"
+}

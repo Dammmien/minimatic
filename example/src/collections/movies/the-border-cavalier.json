@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Border Cavalier",
+    "year": 1927,
+    "cast": [
+      "Fred Humes",
+      "Evelyn Pierce"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-border-cavalier.html"
+}

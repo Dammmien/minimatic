@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Girl in the Case",
+    "year": 1944,
+    "cast": [
+      "Edmund Lowe",
+      "Janis Carter"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/girl-in-the-case.html"
+}

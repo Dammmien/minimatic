@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Doberman Gang",
+    "year": 1972,
+    "cast": [
+      "Julie Parrish",
+      "Hal Reed"
+    ],
+    "genres": [
+      "Crime",
+      "Action"
+    ]
+  },
+  "output": "movies/the-doberman-gang.html"
+}

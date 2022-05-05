@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hit the Road",
+    "year": 1941,
+    "cast": [
+      "Gladys George",
+      "Barton MacLane",
+      "Dead End Kids"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hit-the-road.html"
+}

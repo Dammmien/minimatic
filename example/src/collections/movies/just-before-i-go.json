@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Just Before I Go",
+    "year": 2015,
+    "cast": [
+      "Seann William Scott",
+      "Olivia Thirlby",
+      "Garret Dillahunt",
+      "Kyle Gallner"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/just-before-i-go.html"
+}

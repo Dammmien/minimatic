@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Psycho III",
+    "year": 1986,
+    "cast": [
+      "Anthony Perkins",
+      "Diana Scarwid",
+      "Jeff Fahey"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/psycho-iii.html"
+}

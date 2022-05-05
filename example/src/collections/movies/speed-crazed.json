@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Speed Crazed",
+    "year": 1926,
+    "cast": [
+      "Billy Sullivan",
+      "Joseph W. Girard"
+    ],
+    "genres": [
+      "Sports",
+      "Action"
+    ]
+  },
+  "output": "movies/speed-crazed.html"
+}

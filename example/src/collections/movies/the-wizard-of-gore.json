@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Wizard of Gore",
+    "year": 1970,
+    "cast": [
+      "Ray Sager"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-wizard-of-gore.html"
+}

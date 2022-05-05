@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Shining",
+    "year": 1980,
+    "cast": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Scatman Crothers",
+      "Danny Lloyd",
+      "Anne Jackson",
+      "Barry Nelson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-shining.html"
+}

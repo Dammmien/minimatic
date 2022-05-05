@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Midnight Lovers",
+    "year": 1926,
+    "cast": [
+      "Lewis Stone",
+      "Anna Q. Nilsson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/midnight-lovers.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "They All Laughed",
+    "year": 1981,
+    "cast": [
+      "Audrey Hepburn",
+      "Ben Gazzara",
+      "Patti Hansen",
+      "Dorothy Stratten",
+      "John Ritter"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/they-all-laughed.html"
+}

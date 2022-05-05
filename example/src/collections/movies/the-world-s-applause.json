@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The World's Applause",
+    "year": 1923,
+    "cast": [
+      "Bebe Daniels",
+      "Lewis Stone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-world-s-applause.html"
+}

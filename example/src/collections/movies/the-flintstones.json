@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Flintstones",
+    "year": 1994,
+    "cast": [
+      "John Goodman",
+      "Rick Moranis",
+      "Rosie O'Donnell",
+      "Elizabeth Perkins",
+      "Kyle MacLachlan",
+      "Halle Berry",
+      "Elizabeth Taylor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-flintstones.html"
+}

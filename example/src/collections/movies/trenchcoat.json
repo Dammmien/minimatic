@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trenchcoat",
+    "year": 1983,
+    "cast": [
+      "Robert Hays",
+      "Margot Kidder"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/trenchcoat.html"
+}

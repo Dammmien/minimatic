@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sterile Cuckoo",
+    "year": 1969,
+    "cast": [
+      "Liza Minnelli",
+      "Wendell Burton",
+      "Tim McIntire"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sterile-cuckoo.html"
+}

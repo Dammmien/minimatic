@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder in Trinidad",
+    "year": 1934,
+    "cast": [
+      "Nigel Bruce",
+      "Heather Angel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/murder-in-trinidad.html"
+}

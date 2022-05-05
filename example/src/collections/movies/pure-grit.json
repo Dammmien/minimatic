@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pure Grit",
+    "year": 1923,
+    "cast": [
+      "Roy Stewart",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/pure-grit.html"
+}

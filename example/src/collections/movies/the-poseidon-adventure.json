@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Poseidon Adventure",
+    "year": 1972,
+    "cast": [
+      "Gene Hackman",
+      "Ernest Borgnine",
+      "Shelley Winters",
+      "Stella Stevens",
+      "Roddy McDowall",
+      "Carol Lynley",
+      "Pamela Sue Martin",
+      "Red Buttons",
+      "Jack Albertson"
+    ],
+    "genres": [
+      "Disaster",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-poseidon-adventure.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Next Aisle Over",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/next-aisle-over.html"
+}

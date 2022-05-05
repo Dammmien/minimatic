@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Boy Named Charlie Brown",
+    "year": 1969,
+    "cast": [
+      "Peter Robbins",
+      "Pamelyn Ferdin",
+      "Glenn Gilger",
+      "Erin Sullivan"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/a-boy-named-charlie-brown.html"
+}

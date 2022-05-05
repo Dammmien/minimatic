@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cain's Cutthroats",
+    "year": 1971,
+    "cast": [
+      "John Carradine",
+      "Scott Brady"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cain-s-cutthroats.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Nobel Son",
+    "year": 2007,
+    "cast": [
+      "Alan Rickman",
+      "Bryan Greenberg",
+      "Eliza Dushku",
+      "Danny DeVito"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/nobel-son.html"
+}

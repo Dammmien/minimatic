@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "City of Chance",
+    "year": 1940,
+    "cast": [
+      "Lynn Bari",
+      "C. Aubrey Smith",
+      "Amanda Duff"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/city-of-chance.html"
+}

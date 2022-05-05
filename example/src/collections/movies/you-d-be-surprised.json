@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "You'd Be Surprised",
+    "year": 1926,
+    "cast": [
+      "Raymond Griffith",
+      "Dorothy Sebastian"
+    ],
+    "genres": [
+      "Mystery",
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-d-be-surprised.html"
+}

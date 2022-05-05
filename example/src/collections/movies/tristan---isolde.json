@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tristan & Isolde",
+    "year": 2006,
+    "cast": [
+      "James Franco",
+      "Sophia Myles",
+      "Rufus Sewell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tristan---isolde.html"
+}

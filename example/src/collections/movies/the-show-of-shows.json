@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Show of Shows",
+    "year": 1929,
+    "cast": [
+      "John Barrymore",
+      "Loretta Young",
+      "Richard Barthelmess"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-show-of-shows.html"
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Greetings from Tim Buckley",
+    "year": 2013,
+    "cast": [
+      "Penn Badgley",
+      "Imogen Poots",
+      "Norbert Leo Butz",
+      "Ben Rosenfield",
+      "Frank Wood",
+      "Frank Bello",
+      "William Sadler",
+      "Kate Nash",
+      "Jessica Stone"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/greetings-from-tim-buckley.html"
+}

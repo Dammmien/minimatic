@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Jones",
+    "year": 1993,
+    "cast": [
+      "Richard Gere",
+      "Lena Olin",
+      "Anne Bancroft"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/mr--jones.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dr. Socrates",
+    "year": 1935,
+    "cast": [
+      "Paul Muni",
+      "Ann Dvorak"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/dr--socrates.html"
+}

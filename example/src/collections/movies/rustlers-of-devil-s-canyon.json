@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rustlers of Devil's Canyon",
+    "year": 1947,
+    "cast": [
+      "Allan Lane",
+      "Peggy Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rustlers-of-devil-s-canyon.html"
+}

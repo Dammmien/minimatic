@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blue Thunder",
+    "year": 1983,
+    "cast": [
+      "Roy Scheider",
+      "Malcolm McDowell",
+      "Daniel Stern"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/blue-thunder.html"
+}

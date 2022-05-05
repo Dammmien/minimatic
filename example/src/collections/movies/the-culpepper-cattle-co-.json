@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Culpepper Cattle Co.",
+    "year": 1972,
+    "cast": [
+      "Gary Grimes",
+      "Billy Green Bush",
+      "Luke Askew",
+      "Bo Hopkins"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-culpepper-cattle-co-.html"
+}

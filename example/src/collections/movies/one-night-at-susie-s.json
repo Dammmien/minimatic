@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Night at Susie's",
+    "year": 1930,
+    "cast": [
+      "Billie Dove",
+      "Douglas Fairbanks Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/one-night-at-susie-s.html"
+}

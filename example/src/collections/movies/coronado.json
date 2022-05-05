@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Coronado",
+    "year": 1935,
+    "cast": [
+      "Alice White",
+      "Johnny Downs",
+      "Eddy Duchin"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/coronado.html"
+}

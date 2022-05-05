@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Eat",
+    "year": 1963,
+    "cast": [
+      "Robert Indiana"
+    ],
+    "genres": []
+  },
+  "output": "movies/eat.html"
+}

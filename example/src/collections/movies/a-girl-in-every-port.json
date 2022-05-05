@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Girl in Every Port",
+    "year": 1952,
+    "cast": [
+      "Groucho Marx",
+      "Marie Wilson",
+      "William Bendix"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-girl-in-every-port.html"
+}

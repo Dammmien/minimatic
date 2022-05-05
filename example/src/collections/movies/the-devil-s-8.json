@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Devil's 8",
+    "year": 1969,
+    "cast": [
+      "Christopher George",
+      "Fabian",
+      "Leslie Parrish"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-devil-s-8.html"
+}

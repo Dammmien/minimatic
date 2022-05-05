@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Dream Team",
+    "year": 1989,
+    "cast": [
+      "Michael Keaton",
+      "Christopher Lloyd",
+      "Peter Boyle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-dream-team.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Abbott and Costello Meet the Invisible Man",
+    "year": 1951,
+    "cast": [
+      "Bud Abbott",
+      "Lou Costello"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/abbott-and-costello-meet-the-invisible-man.html"
+}

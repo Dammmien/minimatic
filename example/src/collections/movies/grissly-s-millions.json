@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Grissly's Millions",
+    "year": 1945,
+    "cast": [
+      "Virginia Grey"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/grissly-s-millions.html"
+}

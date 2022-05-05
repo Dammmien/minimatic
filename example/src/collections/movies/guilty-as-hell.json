@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Guilty as Hell",
+    "year": 1932,
+    "cast": [
+      "Edmund Lowe",
+      "Victor McLaglen",
+      "Richard Arlen"
+    ],
+    "genres": [
+      "Mystery",
+      "Comedy"
+    ]
+  },
+  "output": "movies/guilty-as-hell.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Steele of the Royal Mounted",
+    "year": 1925,
+    "cast": [
+      "Bert Lytell",
+      "Stuart Holmes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/steele-of-the-royal-mounted.html"
+}

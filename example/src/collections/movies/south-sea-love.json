@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "South Sea Love",
+    "year": 1927,
+    "cast": [
+      "Patsy Ruth Miller",
+      "Lee Shumway"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/south-sea-love.html"
+}

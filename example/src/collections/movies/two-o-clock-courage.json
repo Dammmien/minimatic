@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Two O'Clock Courage",
+    "year": 1945,
+    "cast": [
+      "Tom Conway",
+      "Ann Rutherford"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/two-o-clock-courage.html"
+}

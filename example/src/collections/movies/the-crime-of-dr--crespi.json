@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Crime of Dr. Crespi",
+    "year": 1935,
+    "cast": [
+      "Erich von Stroheim",
+      "Dwight Frye"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-crime-of-dr--crespi.html"
+}

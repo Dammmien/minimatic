@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Leathernecks Have Landed",
+    "year": 1936,
+    "cast": [
+      "Lew Ayres",
+      "Clay Clement",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-leathernecks-have-landed.html"
+}

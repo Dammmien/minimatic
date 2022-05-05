@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mr. and Mrs. Bridge",
+    "year": 1990,
+    "cast": [
+      "Paul Newman",
+      "Joanne Woodward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mr--and-mrs--bridge.html"
+}

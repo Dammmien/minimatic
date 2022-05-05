@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Poor Relations",
+    "year": 1919,
+    "cast": [
+      "Florence Vidor",
+      "William De Vaull"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/poor-relations.html"
+}

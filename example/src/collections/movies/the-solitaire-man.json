@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Solitaire Man",
+    "year": 1933,
+    "cast": [
+      "Herbert Marshall",
+      "Mary Boland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-solitaire-man.html"
+}

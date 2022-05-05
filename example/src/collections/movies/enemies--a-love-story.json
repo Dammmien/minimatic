@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Enemies, a Love Story",
+    "year": 1989,
+    "cast": [
+      "Ron Silver",
+      "Anjelica Huston",
+      "Lena Olin",
+      "Margaret Sophie Stein"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/enemies--a-love-story.html"
+}

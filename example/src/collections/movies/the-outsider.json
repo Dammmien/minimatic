@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Outsider",
+    "year": 2014,
+    "cast": [
+      "Craig Fairbrass",
+      "James Caan",
+      "Shannon Elizabeth"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-outsider.html"
+}

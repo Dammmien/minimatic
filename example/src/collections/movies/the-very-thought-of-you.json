@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Very Thought of You",
+    "year": 1944,
+    "cast": [
+      "Dennis Morgan",
+      "Eleanor Parker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-very-thought-of-you.html"
+}

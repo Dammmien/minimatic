@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ghost and the Guest",
+    "year": 1943,
+    "cast": [
+      "Florence Rice",
+      "James Dunn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ghost-and-the-guest.html"
+}

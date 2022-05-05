@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Keeper of the Flame",
+    "year": 1943,
+    "cast": [
+      "Katharine Hepburn",
+      "Spencer Tracy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/keeper-of-the-flame.html"
+}

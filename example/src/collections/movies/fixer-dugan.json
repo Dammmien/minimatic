@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fixer Dugan",
+    "year": 1939,
+    "cast": [
+      "Lee Tracy",
+      "Peggy Shannon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fixer-dugan.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sinbad the Sailor",
+    "year": 1947,
+    "cast": [
+      "Douglas Fairbanks Jr.",
+      "Maureen O'Hara"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/sinbad-the-sailor.html"
+}

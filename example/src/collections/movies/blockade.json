@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Blockade",
+    "year": 1938,
+    "cast": [
+      "Madeleine Carroll",
+      "Henry Fonda",
+      "Leo Carrillo"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/blockade.html"
+}

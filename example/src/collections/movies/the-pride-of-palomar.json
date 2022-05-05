@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pride of Palomar",
+    "year": 1922,
+    "cast": [
+      "Forrest Stanley",
+      "Marjorie Daw"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-pride-of-palomar.html"
+}

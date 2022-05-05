@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Geisha",
+    "year": 1962,
+    "cast": [
+      "Shirley MacLaine",
+      "Yves Montand",
+      "Edward G. Robinson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-geisha.html"
+}

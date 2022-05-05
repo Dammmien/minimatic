@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Brüno",
+    "year": 2009,
+    "cast": [
+      "Sacha Baron Cohen"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/br-no.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Strange Bedfellows",
+    "year": 1965,
+    "cast": [
+      "Rock Hudson",
+      "Gina Lollobrigida",
+      "Gig Young"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/strange-bedfellows.html"
+}

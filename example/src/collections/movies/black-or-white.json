@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Black or White",
+    "year": 2015,
+    "cast": [
+      "Kevin Costner",
+      "Octavia Spencer",
+      "Bill Burr",
+      "Mpho Koaho"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/black-or-white.html"
+}

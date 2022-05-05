@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Brass Commandments",
+    "year": 1923,
+    "cast": [
+      "William Farnum",
+      "Wanda Hawley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/brass-commandments.html"
+}

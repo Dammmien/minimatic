@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Oklahoma Kid",
+    "year": 1939,
+    "cast": [
+      "James Cagney",
+      "Humphrey Bogart",
+      "Rosemary Lane",
+      "Donald Crisp"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-oklahoma-kid.html"
+}

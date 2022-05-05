@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Her Cardboard Lover",
+    "year": 1942,
+    "cast": [
+      "Norma Shearer",
+      "Robert Taylor",
+      "George Sanders"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/her-cardboard-lover.html"
+}

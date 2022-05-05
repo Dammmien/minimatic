@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Susan Slept Here",
+    "year": 1954,
+    "cast": [
+      "Dick Powell",
+      "Debbie Reynolds",
+      "Anne Francis"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/susan-slept-here.html"
+}

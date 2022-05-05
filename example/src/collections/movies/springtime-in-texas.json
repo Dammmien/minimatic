@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Springtime in Texas",
+    "year": 1945,
+    "cast": [
+      "Jimmy Wakely",
+      "Dennis Moore"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/springtime-in-texas.html"
+}

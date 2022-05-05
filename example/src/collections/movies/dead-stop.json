@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dead Stop",
+    "year": 2011,
+    "cast": [
+      "Lauren Brady",
+      "Mike Hardy",
+      "Trevor Snarr"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dead-stop.html"
+}

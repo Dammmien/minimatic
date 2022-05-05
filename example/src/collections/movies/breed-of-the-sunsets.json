@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Breed of the Sunsets",
+    "year": 1928,
+    "cast": [
+      "Bob Steele",
+      "Nancy Drexel"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/breed-of-the-sunsets.html"
+}

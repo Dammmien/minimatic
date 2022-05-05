@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Eighth Grade",
+    "year": 2018,
+    "cast": [
+      "Elsie Fisher",
+      "Josh Hamilton",
+      "Emily Robinson",
+      "Missy Yager"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/eighth-grade.html"
+}

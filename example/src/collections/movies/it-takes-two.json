@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "It Takes Two",
+    "year": 1995,
+    "cast": [
+      "Mary-Kate Olsen",
+      "Ashley Olsen",
+      "Kirstie Alley",
+      "Steve Guttenberg"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-takes-two.html"
+}

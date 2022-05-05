@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sad Sack",
+    "year": 1957,
+    "cast": [
+      "Jerry Lewis",
+      "David Wayne",
+      "Peter Lorre"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-sad-sack.html"
+}

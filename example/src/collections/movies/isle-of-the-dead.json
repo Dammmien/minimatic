@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Isle of the Dead",
+    "year": 1945,
+    "cast": [
+      "Boris Karloff",
+      "Ellen Drew"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/isle-of-the-dead.html"
+}

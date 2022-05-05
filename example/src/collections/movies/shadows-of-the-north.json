@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shadows of the North",
+    "year": 1923,
+    "cast": [
+      "William Desmond",
+      "Virginia Brown Faire"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/shadows-of-the-north.html"
+}

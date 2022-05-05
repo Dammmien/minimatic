@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Squirm",
+    "year": 1976,
+    "cast": [
+      "Don Scardino",
+      "Jean Sullivan"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/squirm.html"
+}

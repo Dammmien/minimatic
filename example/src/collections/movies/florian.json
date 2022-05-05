@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Florian",
+    "year": 1940,
+    "cast": [
+      "Robert Young",
+      "Charles Coburn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/florian.html"
+}

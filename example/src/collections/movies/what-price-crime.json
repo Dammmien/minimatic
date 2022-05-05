@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "What Price Crime",
+    "year": 1935,
+    "cast": [
+      "Charles Starrett",
+      "Virginia Cherrill"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/what-price-crime.html"
+}

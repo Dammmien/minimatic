@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Remittance Woman",
+    "year": 1923,
+    "cast": [
+      "Ethel Clayton",
+      "Rockliffe Fellowes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-remittance-woman.html"
+}

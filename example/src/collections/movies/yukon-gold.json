@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yukon Gold",
+    "year": 1952,
+    "cast": [
+      "Kirby Grant",
+      "Martha Hyer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/yukon-gold.html"
+}

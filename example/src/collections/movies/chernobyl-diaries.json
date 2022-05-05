@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Chernobyl Diaries",
+    "year": 2012,
+    "cast": [
+      "Jesse McCartney",
+      "Jonathan Sadowski",
+      "Devin Kelley",
+      "Olivia Taylor Dudley",
+      "Nathan Phillips",
+      "Ingrid Bolsø Berdal",
+      "Dimitri Diatchenko"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/chernobyl-diaries.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Out of Luck",
+    "year": 1923,
+    "cast": [
+      "Hoot Gibson",
+      "Laura LaPlante"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/out-of-luck.html"
+}

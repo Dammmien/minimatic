@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Q",
+    "year": 1982,
+    "cast": [
+      "Michael Moriarty",
+      "Candy Clark",
+      "Richard Roundtree"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/q.html"
+}

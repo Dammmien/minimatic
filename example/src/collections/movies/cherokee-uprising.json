@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cherokee Uprising",
+    "year": 1950,
+    "cast": [
+      "Whip Wilson",
+      "Andy Clyde",
+      "Lois Hall"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cherokee-uprising.html"
+}

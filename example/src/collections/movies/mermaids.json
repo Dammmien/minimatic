@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Mermaids",
+    "year": 1990,
+    "cast": [
+      "Cher",
+      "Winona Ryder",
+      "Bob Hoskins",
+      "Michael Schoeffling",
+      "Christina Ricci"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mermaids.html"
+}

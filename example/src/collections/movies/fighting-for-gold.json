@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting for Gold",
+    "year": 1919,
+    "cast": [
+      "Tom Mix",
+      "Teddy Sampson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fighting-for-gold.html"
+}

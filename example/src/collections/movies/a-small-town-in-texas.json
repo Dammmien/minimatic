@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Small Town in Texas",
+    "year": 1976,
+    "cast": [
+      "Timothy Bottoms",
+      "Susan George"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/a-small-town-in-texas.html"
+}

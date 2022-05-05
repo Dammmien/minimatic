@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last Moment",
+    "year": 1923,
+    "cast": [
+      "Henry Hull",
+      "Doris Kenyon"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-last-moment.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Without Reservations",
+    "year": 1946,
+    "cast": [
+      "Claudette Colbert",
+      "John Wayne"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/without-reservations.html"
+}

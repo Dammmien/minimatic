@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pay Dirt",
+    "year": 1916,
+    "cast": [
+      "Henry King",
+      "Marguerite Nichols"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pay-dirt.html"
+}

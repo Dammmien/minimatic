@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "India Speaks",
+    "year": 1933,
+    "cast": [
+      "Narrated by",
+      "Richard Halliburton"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/india-speaks.html"
+}

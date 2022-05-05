@@ -1,0 +1,27 @@
+{
+  "data": {
+    "title": "The Goods: Live Hard, Sell Hard",
+    "year": 2009,
+    "cast": [
+      "Jeremy Piven",
+      "Ving Rhames",
+      "James Brolin",
+      "David Koechner",
+      "Kathryn Hahn",
+      "Ed Helms",
+      "Jordana Spiro",
+      "Craig Robinson",
+      "Ken Jeong",
+      "Rob Riggle",
+      "Noureen DeWulf",
+      "Tony Hale",
+      "Joey Kern",
+      "Alan Thicke",
+      "Will Ferrell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-goods--live-hard--sell-hard.html"
+}

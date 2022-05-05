@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wildcat Trooper",
+    "year": 1936,
+    "cast": [
+      "Kermit Maynard",
+      "Hobart Bosworth",
+      "Lois Wilde"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wildcat-trooper.html"
+}

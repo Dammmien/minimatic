@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Roger & Me",
+    "year": 1989,
+    "cast": [
+      "Michael Moore",
+      "Roger B. Smith"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/roger---me.html"
+}

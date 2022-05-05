@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beauty on Parade",
+    "year": 1950,
+    "cast": [
+      "Robert Hutton",
+      "Ruth Warrick",
+      "Lola Albright"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beauty-on-parade.html"
+}

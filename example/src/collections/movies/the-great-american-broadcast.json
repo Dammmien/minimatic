@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great American Broadcast",
+    "year": 1941,
+    "cast": [
+      "Alice Faye",
+      "John Payne"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-great-american-broadcast.html"
+}

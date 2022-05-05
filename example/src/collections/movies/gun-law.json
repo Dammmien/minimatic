@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gun Law",
+    "year": 1938,
+    "cast": [
+      "George O'Brien",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gun-law.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Running Brave",
+    "year": 1983,
+    "cast": [
+      "Robby Benson",
+      "Pat Hingle",
+      "Graham Greene"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/running-brave.html"
+}

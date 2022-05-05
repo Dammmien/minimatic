@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fabulous Suzanne",
+    "year": 1946,
+    "cast": [
+      "Barbara Britton",
+      "Rudy Vallée"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fabulous-suzanne.html"
+}

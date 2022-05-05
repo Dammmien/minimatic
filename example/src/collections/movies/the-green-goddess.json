@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Green Goddess",
+    "year": 1930,
+    "cast": [
+      "George Arliss",
+      "Alice Joyce",
+      "H.B. Warner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-green-goddess.html"
+}

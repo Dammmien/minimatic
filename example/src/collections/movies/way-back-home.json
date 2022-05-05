@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Way Back Home",
+    "year": 1931,
+    "cast": [
+      "Phillips Lord",
+      "Bette Davis",
+      "Frank Albertson"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/way-back-home.html"
+}

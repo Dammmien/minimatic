@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Street of Women",
+    "year": 1932,
+    "cast": [
+      "Kay Francis",
+      "Roland Young"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/street-of-women.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Friend Request",
+    "year": 2016,
+    "cast": [
+      "Alycia Debnam-Carey"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/friend-request.html"
+}

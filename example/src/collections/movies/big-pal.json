@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Big Pal",
+    "year": 1925,
+    "cast": [
+      "William Russell",
+      "Julanne Johnston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/big-pal.html"
+}

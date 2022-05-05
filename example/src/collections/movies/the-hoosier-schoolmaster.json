@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hoosier Schoolmaster",
+    "year": 1935,
+    "cast": [
+      "Norman Foster",
+      "Charlotte Henry"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hoosier-schoolmaster.html"
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "Fame",
+    "year": 2009,
+    "cast": [
+      "Debbie Allen",
+      "Charles S. Dutton",
+      "Kelsey Grammer",
+      "Megan Mullally",
+      "Bebe Neuwirth",
+      "Asher Book",
+      "Kristy Flores",
+      "Paul Iacono",
+      "Paul McGill",
+      "Naturi Naughton",
+      "Kay Panabaker",
+      "Kherington Payne",
+      "Collins Pennie",
+      "Walter Perez",
+      "Anna Maria Perez de Taglé"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/fame.html"
+}

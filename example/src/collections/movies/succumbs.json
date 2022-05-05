@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Succumbs",
+    "year": 1987,
+    "cast": [
+      "R.E.M."
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/succumbs.html"
+}

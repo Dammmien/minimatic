@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daring Days",
+    "year": 1925,
+    "cast": [
+      "Josie Sedgwick",
+      "Edward Hearn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/daring-days.html"
+}

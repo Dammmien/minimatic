@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Dreamed of Africa",
+    "year": 2000,
+    "cast": [
+      "Kim Basinger",
+      "Eva Marie Saint"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-dreamed-of-africa.html"
+}

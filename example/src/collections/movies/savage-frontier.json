@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Savage Frontier",
+    "year": 1953,
+    "cast": [
+      "Allan Lane",
+      "Dorothy Patrick"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/savage-frontier.html"
+}

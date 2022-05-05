@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Continental",
+    "year": 2013,
+    "cast": [
+      "Involves the history of a",
+      "gay bathhouse",
+      "in New York."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/continental.html"
+}

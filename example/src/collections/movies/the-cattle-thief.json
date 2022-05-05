@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cattle Thief",
+    "year": 1936,
+    "cast": [
+      "Ken Maynard",
+      "Geneva Mitchell",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-cattle-thief.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The First Traveling Saleslady",
+    "year": 1956,
+    "cast": [
+      "Ginger Rogers",
+      "Carol Channing"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-first-traveling-saleslady.html"
+}

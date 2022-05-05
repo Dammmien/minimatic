@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beyond the Trail",
+    "year": 1926,
+    "cast": [
+      "Bill Patton",
+      "Stuart Holmes",
+      "Clara Horton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/beyond-the-trail.html"
+}

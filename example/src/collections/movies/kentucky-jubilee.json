@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kentucky Jubilee",
+    "year": 1951,
+    "cast": [
+      "Jerry Colonna",
+      "Jean Porter",
+      "James Ellison"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/kentucky-jubilee.html"
+}

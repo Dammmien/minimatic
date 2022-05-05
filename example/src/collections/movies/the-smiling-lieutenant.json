@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Smiling Lieutenant",
+    "year": 1931,
+    "cast": [
+      "Maurice Chevalier",
+      "Claudette Colbert",
+      "Miriam Hopkins"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-smiling-lieutenant.html"
+}

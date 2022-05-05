@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Looking for Love",
+    "year": 1964,
+    "cast": [
+      "Connie Francis",
+      "Paula Prentiss",
+      "Johnny Carson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/looking-for-love.html"
+}

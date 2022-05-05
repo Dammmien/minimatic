@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The 15:17 to Paris",
+    "year": 2018,
+    "cast": [
+      "Anthony Sadler",
+      "Alek Skarlatos",
+      "Spencer Stone",
+      "Judy Greer",
+      "Jenna Fischer",
+      "Ray Corasani"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-15-17-to-paris.html"
+}

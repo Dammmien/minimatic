@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rocky Mountain Rangers",
+    "year": 1940,
+    "cast": [
+      "Robert Livingston",
+      "Rosella Towne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rocky-mountain-rangers.html"
+}

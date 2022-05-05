@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Life with Henry",
+    "year": 1941,
+    "cast": [
+      "Jackie Cooper",
+      "Eddie Bracken"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/life-with-henry.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Twinkle in God's Eye",
+    "year": 1955,
+    "cast": [
+      "Mickey Rooney",
+      "Coleen Gray"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-twinkle-in-god-s-eye.html"
+}

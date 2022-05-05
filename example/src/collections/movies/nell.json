@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nell",
+    "year": 1994,
+    "cast": [
+      "Liam Neeson",
+      "Jodie Foster",
+      "Natasha Richardson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/nell.html"
+}

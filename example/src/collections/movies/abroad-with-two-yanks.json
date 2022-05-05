@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Abroad with Two Yanks",
+    "year": 1944,
+    "cast": [
+      "William Bendix",
+      "Helen Walker",
+      "Dennis O'Keefe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/abroad-with-two-yanks.html"
+}

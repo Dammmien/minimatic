@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prince of Darkness",
+    "year": 1987,
+    "cast": [
+      "Donald Pleasence",
+      "Jameson Parker"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/prince-of-darkness.html"
+}

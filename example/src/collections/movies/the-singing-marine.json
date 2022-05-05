@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Singing Marine",
+    "year": 1937,
+    "cast": [
+      "Dick Powell",
+      "Doris Weston",
+      "Lee Dixon"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-singing-marine.html"
+}

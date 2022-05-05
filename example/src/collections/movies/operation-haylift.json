@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Operation Haylift",
+    "year": 1950,
+    "cast": [
+      "Bill Williams",
+      "Ann Rutherford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/operation-haylift.html"
+}

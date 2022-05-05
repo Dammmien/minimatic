@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "George Washington Slept Here",
+    "year": 1942,
+    "cast": [
+      "Jack Benny",
+      "Ann Sheridan",
+      "Charles Coburn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/george-washington-slept-here.html"
+}

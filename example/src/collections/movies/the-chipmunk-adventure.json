@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "The Chipmunk Adventure",
+    "year": 1987,
+    "cast": [],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-chipmunk-adventure.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cyborg 3: The Recycler",
+    "year": 1994,
+    "cast": [
+      "Malcolm McDowell",
+      "Zach Galligan"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/cyborg-3--the-recycler.html"
+}

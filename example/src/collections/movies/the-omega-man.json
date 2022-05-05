@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Omega Man",
+    "year": 1971,
+    "cast": [
+      "Charlton Heston",
+      "Rosalind Cash",
+      "Anthony Zerbe"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-omega-man.html"
+}

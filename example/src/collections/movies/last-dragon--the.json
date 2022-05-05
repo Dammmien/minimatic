@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Last Dragon, The",
+    "year": 1985,
+    "cast": [
+      "Taimak",
+      "Julius Carry",
+      "Christopher Murney"
+    ],
+    "genres": [
+      "Martial Arts"
+    ]
+  },
+  "output": "movies/last-dragon--the.html"
+}

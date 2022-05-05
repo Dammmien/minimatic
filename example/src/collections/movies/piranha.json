@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Piranha",
+    "year": 1995,
+    "cast": [
+      "William Katt",
+      "Alexandra Paul"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/piranha.html"
+}

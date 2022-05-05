@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bell Boy 13",
+    "year": 1923,
+    "cast": [
+      "Douglas MacLean",
+      "John Steppling"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bell-boy-13.html"
+}

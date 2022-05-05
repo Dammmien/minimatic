@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Julia Misbehaves",
+    "year": 1948,
+    "cast": [
+      "Greer Garson",
+      "Walter Pidgeon",
+      "Peter Lawford",
+      "Elizabeth Taylor"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/julia-misbehaves.html"
+}

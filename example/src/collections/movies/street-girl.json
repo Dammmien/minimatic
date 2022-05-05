@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Street Girl",
+    "year": 1929,
+    "cast": [
+      "Betty Compson",
+      "John Harron"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/street-girl.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Watch Your Step",
+    "year": 1922,
+    "cast": [
+      "Cullen Landis",
+      "Patsy Ruth Miller",
+      "Bert Woodruff",
+      "George C. Pearce"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/watch-your-step.html"
+}

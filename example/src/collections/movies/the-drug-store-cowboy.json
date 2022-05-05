@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Drug Store Cowboy",
+    "year": 1925,
+    "cast": [
+      "Franklyn Farnum",
+      "Jean Arthur"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-drug-store-cowboy.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Princess Clementina",
+    "year": 1911,
+    "cast": [
+      "H. B. Irving",
+      "Alice Young"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/princess-clementina.html"
+}

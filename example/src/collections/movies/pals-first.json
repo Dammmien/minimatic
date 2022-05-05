@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pals First",
+    "year": 1926,
+    "cast": [
+      "Dolores del Río",
+      "Lloyd Hughes",
+      "Rita Carewe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pals-first.html"
+}

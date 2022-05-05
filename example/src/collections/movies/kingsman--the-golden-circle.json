@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Kingsman: The Golden Circle",
+    "year": 2017,
+    "cast": [
+      "Colin Firth",
+      "Julianne Moore",
+      "Taron Egerton",
+      "Mark Strong",
+      "Halle Berry",
+      "Elton John",
+      "Channing Tatum",
+      "Jeff Bridges"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ]
+  },
+  "output": "movies/kingsman--the-golden-circle.html"
+}

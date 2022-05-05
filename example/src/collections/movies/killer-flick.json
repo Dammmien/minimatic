@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Killer Flick",
+    "year": 1998,
+    "cast": [
+      "Tod Thawley",
+      "Christian Leffler",
+      "Emmett Grennan",
+      "Creighton Howard",
+      "Fred Dennis",
+      "Kathleen Macdonald"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/killer-flick.html"
+}

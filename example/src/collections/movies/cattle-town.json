@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cattle Town",
+    "year": 1952,
+    "cast": [
+      "Dennis Morgan",
+      "Amanda Blake",
+      "Rita Moreno"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cattle-town.html"
+}

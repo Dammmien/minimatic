@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Porky's II: The Next Day",
+    "year": 1983,
+    "cast": [
+      "Mark Herrier",
+      "Kaki Hunter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/porky-s-ii--the-next-day.html"
+}

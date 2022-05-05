@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Android",
+    "year": 1982,
+    "cast": [
+      "Klaus Kinski",
+      "Brie Howard"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/android.html"
+}

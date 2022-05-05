@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silks and Saddles",
+    "year": 1936,
+    "cast": [
+      "Bruce Bennett",
+      "Toby Wing"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/silks-and-saddles.html"
+}

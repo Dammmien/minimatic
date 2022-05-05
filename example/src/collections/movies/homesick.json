@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Homesick",
+    "year": 1928,
+    "cast": [
+      "Sammy Cohen",
+      "Marjorie Beebe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/homesick.html"
+}

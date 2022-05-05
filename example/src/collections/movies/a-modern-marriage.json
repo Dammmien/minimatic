@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Modern Marriage",
+    "year": 1950,
+    "cast": [
+      "Reed Hadley",
+      "Margaret Field"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-modern-marriage.html"
+}

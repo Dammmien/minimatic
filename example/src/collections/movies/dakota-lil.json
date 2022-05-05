@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dakota Lil",
+    "year": 1950,
+    "cast": [
+      "George Montgomery",
+      "Marie Windsor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/dakota-lil.html"
+}

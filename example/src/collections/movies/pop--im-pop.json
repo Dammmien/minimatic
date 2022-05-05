@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Pop 'im Pop",
+    "year": 1950,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/pop--im-pop.html"
+}

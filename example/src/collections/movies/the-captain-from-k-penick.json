@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Captain from Köpenick",
+    "year": 1945,
+    "cast": [
+      "Albert Bassermann",
+      "Mary Brian"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-captain-from-k-penick.html"
+}

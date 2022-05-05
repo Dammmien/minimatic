@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cock of the Air",
+    "year": 1932,
+    "cast": [
+      "Chester Morris",
+      "Billie Dove",
+      "Walter Catlett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cock-of-the-air.html"
+}

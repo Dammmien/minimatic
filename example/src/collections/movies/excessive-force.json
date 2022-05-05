@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Excessive Force",
+    "year": 1993,
+    "cast": [
+      "Thomas Ian Griffith",
+      "Lance Henriksen"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/excessive-force.html"
+}

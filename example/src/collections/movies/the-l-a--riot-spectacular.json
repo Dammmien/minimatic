@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The L.A. Riot Spectacular",
+    "year": 2005,
+    "cast": [
+      "Snoop Dogg",
+      "Emilio Estevez",
+      "T. K. Carter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-l-a--riot-spectacular.html"
+}

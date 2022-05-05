@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Parting Glances",
+    "year": 1986,
+    "cast": [
+      "Steve Buscemi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/parting-glances.html"
+}

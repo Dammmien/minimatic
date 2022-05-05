@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Girl Named Tamiko",
+    "year": 1962,
+    "cast": [
+      "Laurence Harvey",
+      "France Nuyen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-girl-named-tamiko.html"
+}

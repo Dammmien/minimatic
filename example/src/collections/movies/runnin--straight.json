@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Runnin' Straight",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/runnin--straight.html"
+}

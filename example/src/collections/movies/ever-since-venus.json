@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ever Since Venus",
+    "year": 1944,
+    "cast": [
+      "Ina Ray Hutton",
+      "Hugh Herbert",
+      "Ann Savage"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/ever-since-venus.html"
+}

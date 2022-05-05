@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strictly Confidential",
+    "year": 1919,
+    "cast": [
+      "Madge Kennedy",
+      "John Bowers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/strictly-confidential.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Honeymoon Express",
+    "year": 1926,
+    "cast": [
+      "Willard Louis",
+      "Irene Rich",
+      "Helene Costello"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-honeymoon-express.html"
+}

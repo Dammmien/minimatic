@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Desert Rider",
+    "year": 1929,
+    "cast": [
+      "Tim McCoy",
+      "Raquel Torres"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-desert-rider.html"
+}

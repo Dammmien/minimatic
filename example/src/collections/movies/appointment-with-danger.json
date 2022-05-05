@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Appointment with Danger",
+    "year": 1951,
+    "cast": [
+      "Alan Ladd",
+      "Phyllis Calvert"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/appointment-with-danger.html"
+}

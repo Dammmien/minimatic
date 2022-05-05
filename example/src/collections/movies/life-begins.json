@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Life Begins",
+    "year": 1932,
+    "cast": [
+      "Loretta Young",
+      "Eric Linden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/life-begins.html"
+}

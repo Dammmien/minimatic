@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "True Love",
+    "year": 1989,
+    "cast": [
+      "Annabella Sciorra",
+      "Aida Turturro"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/true-love.html"
+}

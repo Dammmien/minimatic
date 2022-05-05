@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The 13th Warrior",
+    "year": 1999,
+    "cast": [
+      "Antonio Banderas",
+      "Diane Venora",
+      "Vladimir Kulich",
+      "Dennis Storhøi",
+      "Omar Sharif",
+      "Clive Russell",
+      "Richard Bremmer"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-13th-warrior.html"
+}

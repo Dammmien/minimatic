@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Beyond the Door",
+    "year": 1974,
+    "cast": [
+      "Juliet Mills"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/beyond-the-door.html"
+}

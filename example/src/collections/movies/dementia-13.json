@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dementia 13",
+    "year": 1963,
+    "cast": [
+      "William Campbell",
+      "Patrick Magee"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/dementia-13.html"
+}

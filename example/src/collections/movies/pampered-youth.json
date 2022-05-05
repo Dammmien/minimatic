@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pampered Youth",
+    "year": 1925,
+    "cast": [
+      "Cullen Landis",
+      "Ben Alexander"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pampered-youth.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Overland Express",
+    "year": 1938,
+    "cast": [
+      "Buck Jones",
+      "Marjorie Reynolds"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-overland-express.html"
+}

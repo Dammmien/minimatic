@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Salzburg Connection",
+    "year": 1972,
+    "cast": [
+      "Barry Newman",
+      "Anna Karina",
+      "Klaus Maria Brandauer"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-salzburg-connection.html"
+}

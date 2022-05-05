@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jesse James' Women",
+    "year": 1954,
+    "cast": [
+      "Peggie Castle",
+      "Don \"Red\" Barry"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/jesse-james--women.html"
+}

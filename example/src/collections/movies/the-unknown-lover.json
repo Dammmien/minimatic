@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Unknown Lover",
+    "year": 1925,
+    "cast": [
+      "Elsie Ferguson",
+      "Frank Mayo",
+      "Mildred Harris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-unknown-lover.html"
+}

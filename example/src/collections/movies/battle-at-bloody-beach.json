@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Battle at Bloody Beach",
+    "year": 1961,
+    "cast": [
+      "Audie Murphy",
+      "Dolores Michaels"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/battle-at-bloody-beach.html"
+}

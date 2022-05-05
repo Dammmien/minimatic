@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Iron Petticoat",
+    "year": 1956,
+    "cast": [
+      "Katharine Hepburn",
+      "Bob Hope"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-iron-petticoat.html"
+}

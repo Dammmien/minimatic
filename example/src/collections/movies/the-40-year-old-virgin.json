@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The 40-Year-Old Virgin",
+    "year": 2005,
+    "cast": [
+      "Steve Carell",
+      "Catherine Keener",
+      "Paul Rudd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-40-year-old-virgin.html"
+}

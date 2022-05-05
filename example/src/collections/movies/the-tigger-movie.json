@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Tigger Movie",
+    "year": 2000,
+    "cast": [
+      "Jim Cummings",
+      "Nikita Hopkins",
+      "John Fiedler"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-tigger-movie.html"
+}

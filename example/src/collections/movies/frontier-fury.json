@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Frontier Fury",
+    "year": 1943,
+    "cast": [
+      "Charles Starrett",
+      "Arthur Hunnicutt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/frontier-fury.html"
+}

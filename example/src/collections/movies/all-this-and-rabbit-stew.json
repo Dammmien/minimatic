@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "All This and Rabbit Stew",
+    "year": 1941,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/all-this-and-rabbit-stew.html"
+}

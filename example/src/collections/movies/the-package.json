@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Package",
+    "year": 2013,
+    "cast": [
+      "Steve Austin",
+      "Dolph Lundgren",
+      "Eric Keenleyside",
+      "Mike Dopud",
+      "John Novak"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-package.html"
+}

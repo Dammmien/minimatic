@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Stilwell Road",
+    "year": 1945,
+    "cast": [
+      "Narrated by",
+      "Ronald Reagan"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-stilwell-road.html"
+}

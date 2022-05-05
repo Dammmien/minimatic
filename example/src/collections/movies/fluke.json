@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fluke",
+    "year": 1995,
+    "cast": [
+      "Nancy Travis",
+      "Eric Stoltz",
+      "Matthew Modine"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/fluke.html"
+}

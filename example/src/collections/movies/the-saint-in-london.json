@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Saint in London",
+    "year": 1939,
+    "cast": [
+      "George Sanders",
+      "Sally Gray"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-saint-in-london.html"
+}

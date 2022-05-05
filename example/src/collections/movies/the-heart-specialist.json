@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "The Heart Specialist",
+    "year": 2011,
+    "cast": [
+      "Wood Harris",
+      "Zoe Saldana",
+      "Brian White",
+      "Mýa",
+      "Method Man",
+      "Jasmine Guy",
+      "Leon",
+      "Ed Asner",
+      "Jenifer Lewis",
+      "Terrence J",
+      "Marla Gibbs",
+      "Nephew Tommy"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-heart-specialist.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "King of the Rodeo",
+    "year": 1929,
+    "cast": [
+      "Hoot Gibson",
+      "Kathryn Crawford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/king-of-the-rodeo.html"
+}

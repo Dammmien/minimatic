@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Isle of Conquest",
+    "year": 1919,
+    "cast": [
+      "Norma Talmadge",
+      "Wyndham Standing",
+      "Charles K. Gerrard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-isle-of-conquest.html"
+}

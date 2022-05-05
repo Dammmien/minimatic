@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Deluge",
+    "year": 1933,
+    "cast": [
+      "Peggy Shannon",
+      "Sidney Blackmer"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/deluge.html"
+}

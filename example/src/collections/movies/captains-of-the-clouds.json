@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Captains of the Clouds",
+    "year": 1942,
+    "cast": [
+      "James Cagney",
+      "Dennis Morgan"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/captains-of-the-clouds.html"
+}

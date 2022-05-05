@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Instant Family",
+    "year": 2018,
+    "cast": [
+      "Mark Wahlberg",
+      "Rose Byrne",
+      "Isabela Moner",
+      "Tig Notaro",
+      "Octavia Spencer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/instant-family.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Birds and the Bees",
+    "year": 1956,
+    "cast": [
+      "George Gobel",
+      "Mitzi Gaynor",
+      "David Niven"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-birds-and-the-bees.html"
+}

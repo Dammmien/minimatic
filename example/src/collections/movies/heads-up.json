@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Heads Up",
+    "year": 1930,
+    "cast": [
+      "Charles \"Buddy\" Rogers",
+      "Helen Kane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/heads-up.html"
+}

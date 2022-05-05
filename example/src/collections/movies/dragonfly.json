@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dragonfly",
+    "year": 2002,
+    "cast": [
+      "Kevin Costner",
+      "Joe Morton",
+      "Ron Rifkin",
+      "Linda Hunt",
+      "Kathy Bates"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dragonfly.html"
+}

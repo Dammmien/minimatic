@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sherlock Holmes and the Voice of Terror",
+    "year": 1942,
+    "cast": [
+      "Basil Rathbone",
+      "Nigel Bruce"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/sherlock-holmes-and-the-voice-of-terror.html"
+}

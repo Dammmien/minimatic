@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Holiday",
+    "year": 2006,
+    "cast": [
+      "Cameron Diaz",
+      "Kate Winslet",
+      "Jude Law",
+      "Jack Black"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-holiday.html"
+}

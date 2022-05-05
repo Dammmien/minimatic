@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Tiger's Tale",
+    "year": 1987,
+    "cast": [
+      "Ann-Margret",
+      "C. Thomas Howell",
+      "Charles Durning"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-tiger-s-tale.html"
+}

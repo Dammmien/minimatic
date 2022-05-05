@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Little Pigs",
+    "year": 1933,
+    "cast": [
+      "Pinto Colvig",
+      "Billy Bletcher"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/three-little-pigs.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Foot Shooting Party",
+    "year": 1994,
+    "cast": [
+      "Leonardo DiCaprio"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/the-foot-shooting-party.html"
+}

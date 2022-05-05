@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Curucu, Beast of the Amazon",
+    "year": 1956,
+    "cast": [
+      "John Bromfield",
+      "Beverly Garland"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/curucu--beast-of-the-amazon.html"
+}

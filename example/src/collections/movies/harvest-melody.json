@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Harvest Melody",
+    "year": 1943,
+    "cast": [
+      "Rosemary Lane",
+      "Johnny Downs",
+      "Charlotte Wynters"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/harvest-melody.html"
+}

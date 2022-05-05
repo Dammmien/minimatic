@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stealth",
+    "year": 2005,
+    "cast": [
+      "Josh Lucas",
+      "Jessica Biel",
+      "Jamie Foxx"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/stealth.html"
+}

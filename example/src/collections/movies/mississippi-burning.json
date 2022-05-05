@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mississippi Burning",
+    "year": 1988,
+    "cast": [
+      "Gene Hackman",
+      "Willem Dafoe",
+      "Frances McDormand"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/mississippi-burning.html"
+}

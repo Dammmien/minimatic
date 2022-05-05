@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Bites of the Apple",
+    "year": 1967,
+    "cast": [
+      "David McCallum",
+      "Sylva Koscina",
+      "Tammy Grimes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-bites-of-the-apple.html"
+}

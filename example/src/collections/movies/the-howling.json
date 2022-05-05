@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Howling",
+    "year": 1981,
+    "cast": [
+      "Dee Wallace",
+      "Patrick Macnee",
+      "Christopher Stone",
+      "Belinda Balaski",
+      "Elisabeth Brooks"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-howling.html"
+}

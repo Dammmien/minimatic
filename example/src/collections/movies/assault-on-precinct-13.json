@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Assault on Precinct 13",
+    "year": 2005,
+    "cast": [
+      "Ethan Hawke",
+      "Laurence Fishburne",
+      "Gabriel Byrne"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/assault-on-precinct-13.html"
+}

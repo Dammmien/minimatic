@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Big Town",
+    "year": 1987,
+    "cast": [
+      "Matt Dillon",
+      "Diane Lane",
+      "Tommy Lee Jones",
+      "Bruce Dern",
+      "Lee Grant",
+      "Tom Skerritt",
+      "Suzy Amis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-big-town.html"
+}

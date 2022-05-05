@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Guys",
+    "year": 2002,
+    "cast": [
+      "Sigourney Weaver",
+      "Anthony LaPaglia",
+      "Jim Simpson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-guys.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "All the Real Girls",
+    "year": 2003,
+    "cast": [
+      "Paul Schneider",
+      "Zooey Deschanel",
+      "Shea Whigham"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/all-the-real-girls.html"
+}

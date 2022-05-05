@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Home in Oklahoma",
+    "year": 1946,
+    "cast": [
+      "Roy Rogers",
+      "Dale Evans",
+      "Carol Hughes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/home-in-oklahoma.html"
+}

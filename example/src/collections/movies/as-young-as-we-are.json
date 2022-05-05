@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "As Young as We Are",
+    "year": 1958,
+    "cast": [
+      "Robert Harland",
+      "Pippa Scott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/as-young-as-we-are.html"
+}

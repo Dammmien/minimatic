@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Escape in the Fog",
+    "year": 1945,
+    "cast": [
+      "Otto Kruger",
+      "Nina Foch"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/escape-in-the-fog.html"
+}

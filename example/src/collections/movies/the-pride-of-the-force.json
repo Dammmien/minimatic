@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pride of the Force",
+    "year": 1925,
+    "cast": [
+      "Tom Santschi",
+      "Gladys Hulette"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-pride-of-the-force.html"
+}

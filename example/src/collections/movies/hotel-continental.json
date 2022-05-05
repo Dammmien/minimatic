@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hotel Continental",
+    "year": 1932,
+    "cast": [
+      "Peggy Shannon",
+      "Theodore von Eltz"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/hotel-continental.html"
+}

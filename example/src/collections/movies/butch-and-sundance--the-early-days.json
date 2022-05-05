@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Butch and Sundance: The Early Days",
+    "year": 1979,
+    "cast": [
+      "Tom Berenger",
+      "William Katt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/butch-and-sundance--the-early-days.html"
+}

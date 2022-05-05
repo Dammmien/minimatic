@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Television Spy",
+    "year": 1939,
+    "cast": [
+      "Judith Barrett",
+      "William Henry"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/television-spy.html"
+}

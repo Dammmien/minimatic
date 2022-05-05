@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Black Room",
+    "year": 1935,
+    "cast": [
+      "Boris Karloff",
+      "Marian Marsh",
+      "Katherine DeMille"
+    ],
+    "genres": [
+      "Crime",
+      "Horror"
+    ]
+  },
+  "output": "movies/the-black-room.html"
+}

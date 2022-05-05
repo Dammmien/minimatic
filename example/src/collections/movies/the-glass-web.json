@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Glass Web",
+    "year": 1953,
+    "cast": [
+      "Edward G. Robinson",
+      "John Forsythe",
+      "Marcia Henderson",
+      "Kathleen Hughes"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-glass-web.html"
+}

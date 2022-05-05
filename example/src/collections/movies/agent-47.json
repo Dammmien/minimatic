@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Agent 47",
+    "year": 2015,
+    "cast": [
+      "Rupert Friend",
+      "Zachary Quinto",
+      "Hannah Ware",
+      "Thomas Kretschmann"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/agent-47.html"
+}

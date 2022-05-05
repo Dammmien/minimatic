@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Great Wall",
+    "year": 1986,
+    "cast": [
+      "Peter Wang",
+      "Kelvin Han Yee"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-great-wall.html"
+}

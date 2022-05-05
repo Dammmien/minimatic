@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Star Boarder",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Minta Durfee",
+      "Edgar Kennedy",
+      "Alice Davenport",
+      "Gordon Griffith"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-star-boarder.html"
+}

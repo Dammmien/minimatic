@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Big Bad Love",
+    "year": 2001,
+    "cast": [
+      "Arliss Howard",
+      "Debra Winger",
+      "Paul Le Mat"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/big-bad-love.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Great Garrick",
+    "year": 1937,
+    "cast": [
+      "Olivia de Havilland",
+      "Brian Aherne",
+      "Edward Everett Horton"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-great-garrick.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dolemite",
+    "year": 1975,
+    "cast": [
+      "Rudy Ray Moore",
+      "D'Urville Martin"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/dolemite.html"
+}

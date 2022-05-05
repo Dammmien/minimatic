@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Stooge",
+    "year": 1952,
+    "cast": [
+      "Dean Martin",
+      "Jerry Lewis",
+      "Polly Bergen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-stooge.html"
+}

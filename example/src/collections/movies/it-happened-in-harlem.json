@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It Happened in Harlem",
+    "year": 1945,
+    "cast": [
+      "Chris Columbus"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-happened-in-harlem.html"
+}

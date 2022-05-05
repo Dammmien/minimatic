@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Savages",
+    "year": 2007,
+    "cast": [
+      "Laura Linney",
+      "Philip Seymour Hoffman"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-savages.html"
+}

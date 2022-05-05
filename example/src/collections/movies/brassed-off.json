@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brassed Off",
+    "year": 1996,
+    "cast": [
+      "Ewan McGregor",
+      "Pete Postlethwaite",
+      "Tara Fitzgerald"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/brassed-off.html"
+}

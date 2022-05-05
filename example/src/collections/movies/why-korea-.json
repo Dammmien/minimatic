@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Why Korea?",
+    "year": 1950,
+    "cast": [
+      "Joe King (narrator)"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/why-korea-.html"
+}

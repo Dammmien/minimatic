@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Most Immoral Lady",
+    "year": 1929,
+    "cast": [
+      "Leatrice Joy",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-most-immoral-lady.html"
+}

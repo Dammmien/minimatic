@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "East of Sumatra",
+    "year": 1953,
+    "cast": [
+      "Jeff Chandler",
+      "Anthony Quinn",
+      "Marilyn Maxwell"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/east-of-sumatra.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Oscar",
+    "year": 1991,
+    "cast": [
+      "Sylvester Stallone",
+      "Ornella Muti",
+      "Peter Riegert",
+      "Vincent Spano",
+      "Marisa Tomei",
+      "Tim Curry"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/oscar.html"
+}

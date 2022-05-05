@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "National Lampoon's European Vacation",
+    "year": 1985,
+    "cast": [
+      "Chevy Chase",
+      "Beverly D'Angelo",
+      "Jason Lively",
+      "Dana Hill",
+      "Eric Idle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/national-lampoon-s-european-vacation.html"
+}

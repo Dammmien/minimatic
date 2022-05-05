@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wishing Ring",
+    "year": 1914,
+    "cast": [
+      "Vivian Martin",
+      "Alec B. Francis",
+      "Chester Barnett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-wishing-ring.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Employee of the Month",
+    "year": 2006,
+    "cast": [
+      "Dane Cook",
+      "Jessica Simpson",
+      "Dax Shepard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/employee-of-the-month.html"
+}

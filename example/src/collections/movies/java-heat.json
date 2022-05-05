@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Java Heat",
+    "year": 2013,
+    "cast": [
+      "Kellan Lutz",
+      "Mickey Rourke",
+      "Ario Bayu",
+      "Atiqah Hasiholan"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/java-heat.html"
+}

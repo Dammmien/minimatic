@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Miracle of the Bells",
+    "year": 1948,
+    "cast": [
+      "Alida Valli",
+      "Fred MacMurray",
+      "Frank Sinatra"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-miracle-of-the-bells.html"
+}

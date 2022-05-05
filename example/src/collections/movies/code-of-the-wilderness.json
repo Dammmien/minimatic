@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Code of the Wilderness",
+    "year": 1924,
+    "cast": [
+      "John Bowers",
+      "Alice Calhoun"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/code-of-the-wilderness.html"
+}

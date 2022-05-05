@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Man Who Came to Dinner",
+    "year": 1942,
+    "cast": [
+      "Monty Woolley",
+      "Bette Davis",
+      "Ann Sheridan",
+      "Billie Burke",
+      "Mary Wickes",
+      "Jimmy Durante"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-man-who-came-to-dinner.html"
+}

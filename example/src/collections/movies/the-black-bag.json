@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Black Bag",
+    "year": 1922,
+    "cast": [
+      "Herbert Rawlinson",
+      "Virginia Valli"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-black-bag.html"
+}

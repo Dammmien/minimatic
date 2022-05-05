@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Romance of Rosy Ridge",
+    "year": 1947,
+    "cast": [
+      "Van Johnson",
+      "Thomas Mitchell",
+      "Janet Leigh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-romance-of-rosy-ridge.html"
+}

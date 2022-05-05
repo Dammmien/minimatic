@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Something to Think About",
+    "year": 1920,
+    "cast": [
+      "Elliott Dexter",
+      "Gloria Swanson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/something-to-think-about.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "To Have and Have Not",
+    "year": 1944,
+    "cast": [
+      "Humphrey Bogart",
+      "Lauren Bacall",
+      ".",
+      "Walter Brennan",
+      "Hoagy Carmichael"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/to-have-and-have-not.html"
+}

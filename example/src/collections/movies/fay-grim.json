@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fay Grim",
+    "year": 2006,
+    "cast": [
+      "Parker Posey",
+      "James Urbaniak",
+      "Liam Aiken"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/fay-grim.html"
+}

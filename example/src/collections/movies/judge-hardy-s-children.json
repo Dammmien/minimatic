@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Judge Hardy's Children",
+    "year": 1938,
+    "cast": [
+      "Mickey Rooney",
+      "Lewis Stone",
+      "Fay Holden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/judge-hardy-s-children.html"
+}

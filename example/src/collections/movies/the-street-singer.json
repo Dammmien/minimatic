@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Street Singer",
+    "year": 1912,
+    "cast": [
+      "Earle Foxe",
+      "Alice Joyce"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-street-singer.html"
+}

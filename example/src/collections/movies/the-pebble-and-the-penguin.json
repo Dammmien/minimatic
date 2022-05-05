@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pebble and the Penguin",
+    "year": 1995,
+    "cast": [
+      "voices of",
+      "Martin Short",
+      "Tim Curry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-pebble-and-the-penguin.html"
+}

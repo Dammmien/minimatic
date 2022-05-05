@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Prestige",
+    "year": 1932,
+    "cast": [
+      "Adolphe Menjou",
+      "Melvyn Douglas",
+      "Ann Harding"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/prestige.html"
+}

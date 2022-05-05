@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man in the Net",
+    "year": 1959,
+    "cast": [
+      "Alan Ladd",
+      "Carolyn Jones",
+      "Diane Brewster"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-man-in-the-net.html"
+}

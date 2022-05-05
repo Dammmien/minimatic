@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Kingpin",
+    "year": 1996,
+    "cast": [
+      "Woody Harrelson",
+      "Randy Quaid",
+      "Vanessa Angel",
+      "Bill Murray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kingpin.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sicko",
+    "year": 2007,
+    "cast": [
+      "American health care",
+      "and",
+      "pharmaceutical industry"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/sicko.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Before I Fall",
+    "year": 2017,
+    "cast": [
+      "Zoey Deutch",
+      "Halston Sage",
+      "Logan Miller",
+      "Kian Lawley",
+      "Elena Kampouris",
+      "Cynthy Wu",
+      "Medalion Rahimi",
+      "Diego Boneta",
+      "Jennifer Beals"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/before-i-fall.html"
+}

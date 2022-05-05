@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Road Demon",
+    "year": 1938,
+    "cast": [
+      "Henry Arthur",
+      "Joan Valerie"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/road-demon.html"
+}

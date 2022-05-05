@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cracking Up",
+    "year": 1983,
+    "cast": [
+      "Jerry Lewis",
+      "Herb Edelman",
+      "Zane Buzby"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cracking-up.html"
+}

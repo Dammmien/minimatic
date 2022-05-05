@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ladies Must Live",
+    "year": 1940,
+    "cast": [
+      "Rosemary Lane",
+      "Wayne Morris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ladies-must-live.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "10 Things I Hate About You",
+    "year": 1999,
+    "cast": [
+      "Julia Stiles",
+      "Heath Ledger",
+      "Larisa Oleynik",
+      "Joseph Gordon-Levitt",
+      "David Krumholtz",
+      "Andrew Keegan",
+      "Gabrielle Union"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/10-things-i-hate-about-you.html"
+}

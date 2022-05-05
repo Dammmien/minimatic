@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Walk to Remember",
+    "year": 2002,
+    "cast": [
+      "Shane West",
+      "Mandy Moore",
+      "Peter Coyote",
+      "Daryl Hannah"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/a-walk-to-remember.html"
+}

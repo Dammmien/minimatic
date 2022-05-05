@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Super Size Me",
+    "year": 2004,
+    "cast": [
+      "30-day period of eating food only from",
+      "McDonald's"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/super-size-me.html"
+}

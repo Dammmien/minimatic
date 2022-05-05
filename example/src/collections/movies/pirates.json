@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Pirates",
+    "year": 1986,
+    "cast": [
+      "Walter Matthau"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/pirates.html"
+}

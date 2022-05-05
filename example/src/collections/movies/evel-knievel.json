@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Evel Knievel",
+    "year": 1971,
+    "cast": [
+      "George Hamilton",
+      "Sue Lyon",
+      "Bert Freed"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/evel-knievel.html"
+}

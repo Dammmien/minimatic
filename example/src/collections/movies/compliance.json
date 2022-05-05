@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Compliance",
+    "year": 2012,
+    "cast": [
+      "Ann Dowd",
+      "Dreama Walker",
+      "Pat Healy",
+      "Bill Camp",
+      "Ashlie Atkinson",
+      "Phillip Ettinger",
+      "James McCaffrey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/compliance.html"
+}

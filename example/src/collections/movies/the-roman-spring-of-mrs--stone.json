@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Roman Spring of Mrs. Stone",
+    "year": 1961,
+    "cast": [
+      "Vivien Leigh",
+      "Warren Beatty"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-roman-spring-of-mrs--stone.html"
+}

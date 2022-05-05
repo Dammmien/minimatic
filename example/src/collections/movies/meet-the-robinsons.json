@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Meet the Robinsons",
+    "year": 2007,
+    "cast": [
+      "Jordan Fry",
+      "Harland Williams",
+      "Tom Kenny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/meet-the-robinsons.html"
+}

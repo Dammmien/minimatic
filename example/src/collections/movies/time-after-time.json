@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Time After Time",
+    "year": 1979,
+    "cast": [
+      "Malcolm McDowell",
+      "David Warner",
+      "Mary Steenburgen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/time-after-time.html"
+}

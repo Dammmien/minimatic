@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Man, Woman and Wife",
+    "year": 1929,
+    "cast": [
+      "Norman Kerry",
+      "Pauline Starke",
+      "Marian Nixon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/man--woman-and-wife.html"
+}

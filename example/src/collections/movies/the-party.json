@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Party",
+    "year": 1968,
+    "cast": [
+      "Peter Sellers",
+      "Claudine Longet"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-party.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Not So Dumb",
+    "year": 1930,
+    "cast": [
+      "Marion Davies",
+      "Franklin Pangborn",
+      "Julia Faye"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/not-so-dumb.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "As You Desire Me",
+    "year": 1932,
+    "cast": [
+      "Greta Garbo",
+      "Melvyn Douglas",
+      "Erich von Stroheim"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/as-you-desire-me.html"
+}

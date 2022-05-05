@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Grand Larceny",
+    "year": 1922,
+    "cast": [
+      "Elliott Dexter",
+      "Claire Windsor"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/grand-larceny.html"
+}

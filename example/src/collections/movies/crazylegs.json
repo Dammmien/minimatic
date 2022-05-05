@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crazylegs",
+    "year": 1953,
+    "cast": [
+      "Lloyd Nolan",
+      "Joan Vohs"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/crazylegs.html"
+}

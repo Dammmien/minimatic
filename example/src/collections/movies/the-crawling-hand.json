@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Crawling Hand",
+    "year": 1963,
+    "cast": [
+      "Peter Breck",
+      "Kent Taylor",
+      "Alan Hale Jr."
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-crawling-hand.html"
+}

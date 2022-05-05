@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Broadway Musketeers",
+    "year": 1938,
+    "cast": [
+      "Margaret Lindsay",
+      "Ann Sheridan",
+      "Marie Wilson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/broadway-musketeers.html"
+}

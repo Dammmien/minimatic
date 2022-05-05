@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Madonna of the Desert",
+    "year": 1948,
+    "cast": [
+      "Lynne Roberts",
+      "Don Castle"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/madonna-of-the-desert.html"
+}

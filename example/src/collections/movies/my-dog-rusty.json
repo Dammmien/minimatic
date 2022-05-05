@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Dog Rusty",
+    "year": 1948,
+    "cast": [
+      "John Litel",
+      "Ann Doran"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-dog-rusty.html"
+}

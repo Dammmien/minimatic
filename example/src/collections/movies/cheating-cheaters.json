@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cheating Cheaters",
+    "year": 1934,
+    "cast": [
+      "Fay Wray",
+      "Cesar Romero"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cheating-cheaters.html"
+}

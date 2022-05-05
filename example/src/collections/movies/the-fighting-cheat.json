@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Cheat",
+    "year": 1926,
+    "cast": [
+      "Hal Taliaferro",
+      "Jean Arthur"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fighting-cheat.html"
+}

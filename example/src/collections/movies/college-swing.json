@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "College Swing",
+    "year": 1938,
+    "cast": [
+      "George Burns",
+      "Gracie Allen",
+      "Bob Hope"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/college-swing.html"
+}

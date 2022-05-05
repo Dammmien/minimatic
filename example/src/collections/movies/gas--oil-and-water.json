@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gas, Oil and Water",
+    "year": 1922,
+    "cast": [
+      "Charles Ray",
+      "Otto Hoffman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gas--oil-and-water.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "House of Wax",
+    "year": 2005,
+    "cast": [
+      "Elisha Cuthbert",
+      "Chad Michael Murray",
+      "Paris Hilton",
+      "Brian Van Holt",
+      "Jared Padalecki",
+      "Jon Abrahams",
+      "Robert Ri'chard"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/house-of-wax.html"
+}

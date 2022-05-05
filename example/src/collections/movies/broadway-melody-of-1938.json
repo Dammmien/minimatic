@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Broadway Melody of 1938",
+    "year": 1937,
+    "cast": [
+      "Robert Taylor",
+      "Eleanor Powell",
+      "Judy Garland"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/broadway-melody-of-1938.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Conductor 786",
+    "year": 1912,
+    "cast": [
+      "William Garwood",
+      "Riley Chamberlin",
+      "Jean Darnell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/conductor-786.html"
+}

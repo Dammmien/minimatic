@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Very Brady Sequel",
+    "year": 1996,
+    "cast": [
+      "Shelley Long",
+      "Gary Cole",
+      "Tim Matheson",
+      "Christine Taylor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-very-brady-sequel.html"
+}

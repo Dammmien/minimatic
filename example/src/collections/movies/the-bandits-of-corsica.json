@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bandits of Corsica",
+    "year": 1953,
+    "cast": [
+      "Paula Raymond",
+      "Richard Greene",
+      "Raymond Burr"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-bandits-of-corsica.html"
+}

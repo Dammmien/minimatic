@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In Search of the Castaways",
+    "year": 1962,
+    "cast": [
+      "Hayley Mills",
+      "Maurice Chevalier",
+      "George Sanders"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/in-search-of-the-castaways.html"
+}

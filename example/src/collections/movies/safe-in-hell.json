@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Safe in Hell",
+    "year": 1931,
+    "cast": [
+      "Dorothy Mackaill",
+      "Donald Cook"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/safe-in-hell.html"
+}

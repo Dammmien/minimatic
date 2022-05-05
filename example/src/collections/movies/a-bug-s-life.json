@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Bug's Life",
+    "year": 1998,
+    "cast": [
+      "Voices of",
+      "Dave Foley",
+      "Kevin Spacey",
+      "Julia Louis-Dreyfus"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-bug-s-life.html"
+}

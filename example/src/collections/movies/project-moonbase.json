@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Project Moonbase",
+    "year": 1953,
+    "cast": [
+      "Ross Ford",
+      "Donna Martell"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/project-moonbase.html"
+}

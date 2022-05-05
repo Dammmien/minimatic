@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Vanishing Frontier",
+    "year": 1932,
+    "cast": [
+      "Johnny Mack Brown",
+      "Evalyn Knapp"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-vanishing-frontier.html"
+}

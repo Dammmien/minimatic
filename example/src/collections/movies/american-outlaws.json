@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "American Outlaws",
+    "year": 2001,
+    "cast": [
+      "Colin Farrell",
+      "Scott Caan",
+      "Ali Larter"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/american-outlaws.html"
+}

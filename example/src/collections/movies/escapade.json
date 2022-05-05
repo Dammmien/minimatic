@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Escapade",
+    "year": 1935,
+    "cast": [
+      "William Powell",
+      "Luise Rainer",
+      "Reginald Owen"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/escapade.html"
+}

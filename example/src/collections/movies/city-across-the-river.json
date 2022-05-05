@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "City Across the River",
+    "year": 1949,
+    "cast": [
+      "Stephen McNally",
+      "Thelma Ritter",
+      "Sue England",
+      "Jeff Corey",
+      "Barbara Whiting",
+      "Tony Curtis"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/city-across-the-river.html"
+}

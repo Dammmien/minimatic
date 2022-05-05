@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sixth Commandment",
+    "year": 1924,
+    "cast": [
+      "William Faversham",
+      "Charlotte Walker",
+      "John Boles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sixth-commandment.html"
+}

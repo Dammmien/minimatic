@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Test of Honor",
+    "year": 1919,
+    "cast": [
+      "John Barrymore",
+      "Constance Binney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-test-of-honor.html"
+}

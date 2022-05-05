@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Phantom Speaks",
+    "year": 1945,
+    "cast": [
+      "Richard Arlen",
+      "Lynne Roberts"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-phantom-speaks.html"
+}

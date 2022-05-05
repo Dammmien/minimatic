@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Manson",
+    "year": 1973,
+    "cast": [
+      "Vincent Bugliosi"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/manson.html"
+}

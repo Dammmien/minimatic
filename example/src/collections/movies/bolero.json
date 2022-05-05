@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bolero",
+    "year": 1984,
+    "cast": [
+      "Bo Derek",
+      "George Kennedy",
+      "Olivia d'Abo",
+      "Andrea Occhipinti"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bolero.html"
+}

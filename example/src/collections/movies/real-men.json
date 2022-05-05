@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Real Men",
+    "year": 1987,
+    "cast": [
+      "James Belushi",
+      "John Ritter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/real-men.html"
+}

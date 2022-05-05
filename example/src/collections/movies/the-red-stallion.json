@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Red Stallion",
+    "year": 1947,
+    "cast": [
+      "Robert Paige",
+      "Noreen Nash"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-red-stallion.html"
+}

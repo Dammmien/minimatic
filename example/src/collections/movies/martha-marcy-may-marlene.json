@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Martha Marcy May Marlene",
+    "year": 2011,
+    "cast": [
+      "Elizabeth Olsen",
+      "Brady Corbet",
+      "Hugh Dancy",
+      "John Hawkes",
+      "Louisa Krause",
+      "Sarah Paulson"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/martha-marcy-may-marlene.html"
+}

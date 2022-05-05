@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pandora's Clock",
+    "year": 1996,
+    "cast": [
+      "Richard Dean Anderson",
+      "Jane Leeves",
+      "Daphne Zuniga"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/pandora-s-clock.html"
+}

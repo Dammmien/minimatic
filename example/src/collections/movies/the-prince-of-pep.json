@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Prince of Pep",
+    "year": 1925,
+    "cast": [
+      "Richard Talmadge",
+      "Nola Luxford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-prince-of-pep.html"
+}

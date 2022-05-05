@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three in the Saddle",
+    "year": 1945,
+    "cast": [
+      "Tex Ritter",
+      "Lorraine Miller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/three-in-the-saddle.html"
+}

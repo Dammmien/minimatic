@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Desert Gold",
+    "year": 1936,
+    "cast": [
+      "Buster Crabbe",
+      "Robert Cummings",
+      "Marsha Hunt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/desert-gold.html"
+}

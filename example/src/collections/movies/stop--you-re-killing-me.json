@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Stop, You're Killing Me",
+    "year": 1952,
+    "cast": [
+      "Broderick Crawford",
+      "Claire Trevor",
+      "Virginia Gibson",
+      "Margaret Dumont"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stop--you-re-killing-me.html"
+}

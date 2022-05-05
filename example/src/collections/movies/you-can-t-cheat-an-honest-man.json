@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "You Can't Cheat an Honest Man",
+    "year": 1939,
+    "cast": [
+      "W. C. Fields",
+      "Edgar Bergen",
+      "Charlie McCarthy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-can-t-cheat-an-honest-man.html"
+}

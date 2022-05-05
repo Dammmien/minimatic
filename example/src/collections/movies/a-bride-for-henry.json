@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Bride for Henry",
+    "year": 1937,
+    "cast": [
+      "Anne Nagel",
+      "Warren Hull",
+      "Claudia Dell"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/a-bride-for-henry.html"
+}

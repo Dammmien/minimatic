@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Walking Across Egypt",
+    "year": 1999,
+    "cast": [
+      "Ellen Burstyn",
+      "Jonathan Taylor Thomas",
+      "Mark Hamill"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/walking-across-egypt.html"
+}

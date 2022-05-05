@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Woman in the Window",
+    "year": 1944,
+    "cast": [
+      "Edward G. Robinson",
+      "Joan Bennett",
+      "Raymond Massey"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-woman-in-the-window.html"
+}

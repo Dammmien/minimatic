@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "So's Your Aunt Emma",
+    "year": 1942,
+    "cast": [
+      "ZaSu Pitts",
+      "Roger Pryor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/so-s-your-aunt-emma.html"
+}

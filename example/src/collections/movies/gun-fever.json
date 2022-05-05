@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gun Fever",
+    "year": 1958,
+    "cast": [
+      "Mark Stevens",
+      "Maureen Hingert"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gun-fever.html"
+}

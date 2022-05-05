@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Murder Is My Business",
+    "year": 1946,
+    "cast": [
+      "Hugh Beaumont",
+      "Cheryl Walker",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder-is-my-business.html"
+}

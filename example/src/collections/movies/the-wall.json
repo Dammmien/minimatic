@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wall",
+    "year": 2017,
+    "cast": [
+      "Aaron Taylor-Johnson",
+      "John Cena"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-wall.html"
+}

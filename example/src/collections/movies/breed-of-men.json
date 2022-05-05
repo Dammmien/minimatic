@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Breed of Men",
+    "year": 1919,
+    "cast": [
+      "William S. Hart",
+      "Seena Owen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/breed-of-men.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Star of Midnight",
+    "year": 1935,
+    "cast": [
+      "William Powell",
+      "Ginger Rogers",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/star-of-midnight.html"
+}

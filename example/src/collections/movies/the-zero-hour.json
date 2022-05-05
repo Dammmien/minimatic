@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Zero Hour",
+    "year": 1939,
+    "cast": [
+      "Frieda Inescort",
+      "Otto Kruger"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-zero-hour.html"
+}

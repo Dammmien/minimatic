@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Valley of the Kings",
+    "year": 1954,
+    "cast": [
+      "Robert Taylor",
+      "Eleanor Parker"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/valley-of-the-kings.html"
+}

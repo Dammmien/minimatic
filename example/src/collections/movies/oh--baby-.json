@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Oh, Baby!",
+    "year": 1926,
+    "cast": [
+      "David Butler",
+      "Madge Kennedy",
+      "Creighton Hale"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/oh--baby-.html"
+}

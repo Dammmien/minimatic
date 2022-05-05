@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Buccaneer Bunny",
+    "year": 1948,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/buccaneer-bunny.html"
+}

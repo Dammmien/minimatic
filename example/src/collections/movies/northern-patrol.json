@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Northern Patrol",
+    "year": 1953,
+    "cast": [
+      "Kirby Grant",
+      "Gloria Talbott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/northern-patrol.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lawless Woman",
+    "year": 1931,
+    "cast": [
+      "Vera Reynolds",
+      "Carroll Nye"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-lawless-woman.html"
+}

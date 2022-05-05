@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bob Mathias Story",
+    "year": 1954,
+    "cast": [
+      "Bob Mathias",
+      "Ward Bond",
+      "Diane Jergens"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-bob-mathias-story.html"
+}

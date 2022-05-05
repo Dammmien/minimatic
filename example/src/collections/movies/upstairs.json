@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Upstairs",
+    "year": 1919,
+    "cast": [
+      "Mabel Normand",
+      "Cullen Landis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/upstairs.html"
+}

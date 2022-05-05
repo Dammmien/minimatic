@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Time Out for Murder",
+    "year": 1938,
+    "cast": [
+      "Gloria Stuart",
+      "Michael Whalen"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/time-out-for-murder.html"
+}

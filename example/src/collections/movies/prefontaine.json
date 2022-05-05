@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Prefontaine",
+    "year": 1997,
+    "cast": [
+      "Jared Leto",
+      "R. Lee Ermey",
+      "Ed O'Neill"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/prefontaine.html"
+}

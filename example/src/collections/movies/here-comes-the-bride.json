@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Here Comes the Bride",
+    "year": 1919,
+    "cast": [
+      "John Barrymore",
+      "Frank Losee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/here-comes-the-bride.html"
+}

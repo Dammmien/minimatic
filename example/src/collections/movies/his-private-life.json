@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "His Private Life",
+    "year": 1928,
+    "cast": [
+      "Adolphe Menjou",
+      "Kathryn Carver"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/his-private-life.html"
+}

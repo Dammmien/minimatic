@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Watch Your Wife",
+    "year": 1926,
+    "cast": [
+      "Virginia Valli",
+      "Pat O'Malley",
+      "Nat Carr"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/watch-your-wife.html"
+}

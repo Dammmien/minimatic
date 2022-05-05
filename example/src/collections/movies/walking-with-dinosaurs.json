@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Walking with Dinosaurs",
+    "year": 2013,
+    "cast": [
+      "Dinosaurs from the Late Cretaceous period."
+    ],
+    "genres": [
+      "Documentary",
+      "Family"
+    ]
+  },
+  "output": "movies/walking-with-dinosaurs.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Black Stallion",
+    "year": 1979,
+    "cast": [
+      "Teri Garr",
+      "Mickey Rooney",
+      "Kelly Reno",
+      "Hoyt Axton"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-black-stallion.html"
+}

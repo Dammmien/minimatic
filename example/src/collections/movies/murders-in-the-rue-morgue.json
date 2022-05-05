@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murders in the Rue Morgue",
+    "year": 1971,
+    "cast": [
+      "Jason Robards",
+      "Herbert Lom"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/murders-in-the-rue-morgue.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Marriage in Transit",
+    "year": 1925,
+    "cast": [
+      "Edmund Lowe",
+      "Carole Lombard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/marriage-in-transit.html"
+}

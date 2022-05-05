@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Underwater Warrior",
+    "year": 1958,
+    "cast": [
+      "Dan Dailey",
+      "James Gregory"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/underwater-warrior.html"
+}

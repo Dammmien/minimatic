@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "An Invisible Sign",
+    "year": 2009,
+    "cast": [
+      "Jessica Alba",
+      "J. K. Simmons",
+      "Chris Messina"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/an-invisible-sign.html"
+}

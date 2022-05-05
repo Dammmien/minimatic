@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Fargo",
+    "year": 1996,
+    "cast": [
+      "Frances McDormand",
+      "William H. Macy",
+      "Steve Buscemi",
+      "Peter Stormare",
+      "Harve Presnell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fargo.html"
+}

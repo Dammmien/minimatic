@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Campus Rhythm",
+    "year": 1943,
+    "cast": [
+      "Johnny Downs",
+      "Gale Storm"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/campus-rhythm.html"
+}

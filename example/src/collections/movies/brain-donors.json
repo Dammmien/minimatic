@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brain Donors",
+    "year": 1992,
+    "cast": [
+      "John Turturro",
+      "Mel Smith",
+      "Nancy Marchand"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/brain-donors.html"
+}

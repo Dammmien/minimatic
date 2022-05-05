@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thief of Hearts",
+    "year": 1984,
+    "cast": [
+      "Steven Bauer",
+      "Barbara Williams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thief-of-hearts.html"
+}

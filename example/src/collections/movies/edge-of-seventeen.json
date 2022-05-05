@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Edge of Seventeen",
+    "year": 1998,
+    "cast": [
+      "Chris Stafford",
+      "Lea DeLaria",
+      "Tina Holmes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/edge-of-seventeen.html"
+}

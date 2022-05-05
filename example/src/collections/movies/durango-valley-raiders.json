@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Durango Valley Raiders",
+    "year": 1938,
+    "cast": [
+      "Bob Steele",
+      "Louise Stanley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/durango-valley-raiders.html"
+}

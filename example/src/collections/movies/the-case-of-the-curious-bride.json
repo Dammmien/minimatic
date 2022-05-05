@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Case of the Curious Bride",
+    "year": 1935,
+    "cast": [
+      "Warren William",
+      "Claire Dodd",
+      "Allen Jenkins"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-case-of-the-curious-bride.html"
+}

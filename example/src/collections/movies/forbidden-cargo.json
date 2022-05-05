@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Forbidden Cargo",
+    "year": 1925,
+    "cast": [
+      "Evelyn Brent",
+      "Robert Ellis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/forbidden-cargo.html"
+}

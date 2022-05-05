@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Gate",
+    "year": 1987,
+    "cast": [
+      "Stephen Dorff"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-gate.html"
+}

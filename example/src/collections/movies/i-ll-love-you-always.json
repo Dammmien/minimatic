@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I'll Love You Always",
+    "year": 1935,
+    "cast": [
+      "Nancy Carroll",
+      "George Murphy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-ll-love-you-always.html"
+}

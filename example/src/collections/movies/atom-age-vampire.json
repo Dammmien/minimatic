@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Atom Age Vampire",
+    "year": 1963,
+    "cast": [
+      "Alberto Lupo",
+      "Susanne Loret",
+      "Sergio Fantoni"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/atom-age-vampire.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Last 5 Years",
+    "year": 2015,
+    "cast": [
+      "Anna Kendrick",
+      "Jeremy Jordan",
+      "Natalie Knepp",
+      "Betsy Wolfe"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-last-5-years.html"
+}

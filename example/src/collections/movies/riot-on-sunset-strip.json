@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riot on Sunset Strip",
+    "year": 1967,
+    "cast": [
+      "Aldo Ray",
+      "Mimsy Farmer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/riot-on-sunset-strip.html"
+}

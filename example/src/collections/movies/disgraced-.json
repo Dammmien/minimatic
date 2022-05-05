@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Disgraced!",
+    "year": 1933,
+    "cast": [
+      "Helen Twelvetrees",
+      "Bruce Cabot"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/disgraced-.html"
+}

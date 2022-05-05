@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Booby Dupes",
+    "year": 1945,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/booby-dupes.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It's Only Money",
+    "year": 1962,
+    "cast": [
+      "Jerry Lewis",
+      "Zachary Scott",
+      "Joan O'Brien"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-only-money.html"
+}

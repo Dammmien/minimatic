@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Middle Age Crazy",
+    "year": 1980,
+    "cast": [
+      "Bruce Dern",
+      "Ann-Margret"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/middle-age-crazy.html"
+}

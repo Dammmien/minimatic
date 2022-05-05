@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sharpshooters",
+    "year": 1938,
+    "cast": [
+      "Brian Donlevy",
+      "Lynn Bari",
+      "Douglass Dumbrille"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sharpshooters.html"
+}

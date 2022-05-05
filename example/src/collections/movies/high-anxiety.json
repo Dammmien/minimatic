@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "High Anxiety",
+    "year": 1977,
+    "cast": [
+      "Mel Brooks",
+      "Madeline Kahn",
+      "Cloris Leachman",
+      "Harvey Korman",
+      "Howard Morris",
+      "Ron Carey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/high-anxiety.html"
+}

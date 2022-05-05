@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Two Outlaws",
+    "year": 1928,
+    "cast": [
+      "Jack Perrin",
+      "Kathleen Collins"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/two-outlaws.html"
+}

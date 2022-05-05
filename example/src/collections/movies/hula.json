@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hula",
+    "year": 1927,
+    "cast": [
+      "Clara Bow",
+      "Clive Brook"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hula.html"
+}

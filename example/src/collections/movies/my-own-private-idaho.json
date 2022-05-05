@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "My Own Private Idaho",
+    "year": 1991,
+    "cast": [
+      "Keanu Reeves",
+      "River Phoenix"
+    ],
+    "genres": []
+  },
+  "output": "movies/my-own-private-idaho.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Oranges",
+    "year": 2012,
+    "cast": [
+      "Hugh Laurie",
+      "Catherine Keener",
+      "Oliver Platt",
+      "Allison Janney",
+      "Alia Shawkat",
+      "Adam Brody",
+      "Leighton Meester"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-oranges.html"
+}

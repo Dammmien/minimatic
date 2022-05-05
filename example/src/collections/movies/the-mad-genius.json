@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Mad Genius",
+    "year": 1931,
+    "cast": [
+      "John Barrymore",
+      "Marian Marsh",
+      "Boris Karloff"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-mad-genius.html"
+}

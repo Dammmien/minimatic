@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Mother!",
+    "year": 2017,
+    "cast": [
+      "Jennifer Lawrence",
+      "Javier Bardem",
+      "Michelle Pfeiffer",
+      "Domhnall Gleeson",
+      "Ed Harris",
+      "Kristen Wiig"
+    ],
+    "genres": [
+      "Drama",
+      "Horror"
+    ]
+  },
+  "output": "movies/mother-.html"
+}

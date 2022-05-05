@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Scream in the Dark",
+    "year": 1943,
+    "cast": [
+      "Robert Lowery",
+      "Marie McDonald"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/a-scream-in-the-dark.html"
+}

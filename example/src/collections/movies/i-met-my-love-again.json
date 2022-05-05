@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Met My Love Again",
+    "year": 1938,
+    "cast": [
+      "Joan Bennett",
+      "Henry Fonda"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/i-met-my-love-again.html"
+}

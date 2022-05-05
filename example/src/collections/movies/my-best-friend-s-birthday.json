@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "My Best Friend's Birthday",
+    "year": 1987,
+    "cast": [
+      "Quentin Tarantino"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/my-best-friend-s-birthday.html"
+}

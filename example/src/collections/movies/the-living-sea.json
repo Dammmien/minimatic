@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Living Sea",
+    "year": 1995,
+    "cast": [
+      "narrated by",
+      "Meryl Streep"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-living-sea.html"
+}

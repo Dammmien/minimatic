@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jazz Mad",
+    "year": 1928,
+    "cast": [
+      "Jean Hersholt",
+      "Marian Nixon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jazz-mad.html"
+}

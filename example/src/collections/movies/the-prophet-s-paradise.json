@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Prophet's Paradise",
+    "year": 1922,
+    "cast": [
+      "Eugene O'Brien",
+      "Sigrid Holmquist"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-prophet-s-paradise.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daughters of the Night",
+    "year": 1924,
+    "cast": [
+      "Orville Caldwell",
+      "Alyce Mills"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/daughters-of-the-night.html"
+}

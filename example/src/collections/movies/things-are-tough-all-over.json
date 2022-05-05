@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Things Are Tough All Over",
+    "year": 1982,
+    "cast": [
+      "Cheech Marin",
+      "Tommy Chong"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/things-are-tough-all-over.html"
+}

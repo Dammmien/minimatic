@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "New Moon",
+    "year": 2009,
+    "cast": [
+      "Kristen Stewart",
+      "Robert Pattinson",
+      "Taylor Lautner"
+    ],
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ]
+  },
+  "output": "movies/new-moon.html"
+}

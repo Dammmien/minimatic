@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bringing Out the Dead",
+    "year": 1999,
+    "cast": [
+      "Nicolas Cage",
+      "Patricia Arquette",
+      "John Goodman"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/bringing-out-the-dead.html"
+}

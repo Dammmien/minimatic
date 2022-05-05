@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Legion",
+    "year": 2010,
+    "cast": [
+      "Paul Bettany",
+      "Lucas Black",
+      "Tyrese Gibson",
+      "Charles S. Dutton",
+      "Adrianne Palicki",
+      "Kevin Durand",
+      "Doug Jones",
+      "Willa Holland",
+      "Kate Walsh",
+      "Dennis Quaid"
+    ],
+    "genres": [
+      "Action",
+      "Thriller",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/legion.html"
+}

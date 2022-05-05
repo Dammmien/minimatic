@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Guru",
+    "year": 2002,
+    "cast": [
+      "Jimi Mistry",
+      "Heather Graham",
+      "Marisa Tomei"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-guru.html"
+}

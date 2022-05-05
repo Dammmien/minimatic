@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Laughter",
+    "year": 1930,
+    "cast": [
+      "Nancy Carroll",
+      "Fredric March"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/laughter.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Good Times",
+    "year": 1967,
+    "cast": [
+      "Sonny Bono",
+      "Cher"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/good-times.html"
+}

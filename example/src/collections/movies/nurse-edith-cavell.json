@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nurse Edith Cavell",
+    "year": 1939,
+    "cast": [
+      "Anna Neagle",
+      "Edna May Oliver"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/nurse-edith-cavell.html"
+}

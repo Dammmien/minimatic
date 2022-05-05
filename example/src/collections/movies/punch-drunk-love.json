@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Punch-Drunk Love",
+    "year": 2002,
+    "cast": [
+      "Adam Sandler",
+      "Emily Watson",
+      "Philip Seymour Hoffman",
+      "Luis Guzmán"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/punch-drunk-love.html"
+}

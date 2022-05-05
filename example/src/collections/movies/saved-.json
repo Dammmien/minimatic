@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Saved!",
+    "year": 2004,
+    "cast": [
+      "Jena Malone",
+      "Mandy Moore",
+      "Macaulay Culkin",
+      "Patrick Fugit",
+      "Heather Matarazzo",
+      "Eva Amurri",
+      "Martin Donovan",
+      "Mary-Louise Parker"
+    ],
+    "genres": [
+      "Comedy",
+      "Teen"
+    ]
+  },
+  "output": "movies/saved-.html"
+}

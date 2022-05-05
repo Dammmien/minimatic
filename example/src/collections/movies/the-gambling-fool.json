@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gambling Fool",
+    "year": 1925,
+    "cast": [
+      "Franklyn Farnum",
+      "Otto Meyer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-gambling-fool.html"
+}

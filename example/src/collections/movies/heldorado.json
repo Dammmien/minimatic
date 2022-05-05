@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Heldorado",
+    "year": 1946,
+    "cast": [
+      "Roy Rogers",
+      "George \"Gabby\" Hayes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/heldorado.html"
+}

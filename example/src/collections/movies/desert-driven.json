@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Desert Driven",
+    "year": 1923,
+    "cast": [
+      "Harry Carey",
+      "Marguerite Clayton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/desert-driven.html"
+}

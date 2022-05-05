@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Adventures of Jane Arden",
+    "year": 1939,
+    "cast": [
+      "Rosella Towne",
+      "William Gargan",
+      "James Stephenson"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-adventures-of-jane-arden.html"
+}

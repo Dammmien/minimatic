@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Young Black Stallion",
+    "year": 2003,
+    "cast": [
+      "Biana Tamimi",
+      "Patrick Elyas",
+      "Eric Grucza"
+    ],
+    "genres": [
+      "Drama",
+      "Family"
+    ]
+  },
+  "output": "movies/the-young-black-stallion.html"
+}

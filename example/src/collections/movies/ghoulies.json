@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ghoulies",
+    "year": 1985,
+    "cast": [
+      "Mariska Hargitay",
+      "Peter Liapis"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/ghoulies.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Groove Tube",
+    "year": 1974,
+    "cast": [
+      "Chevy Chase",
+      "Richard Belzer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-groove-tube.html"
+}

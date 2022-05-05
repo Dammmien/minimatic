@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Surrogate",
+    "year": 1995,
+    "cast": [
+      "Alyssa Milano",
+      "Connie Sellecca"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-surrogate.html"
+}

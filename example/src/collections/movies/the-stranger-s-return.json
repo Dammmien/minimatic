@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Stranger's Return",
+    "year": 1933,
+    "cast": [
+      "Miriam Hopkins",
+      "Franchot Tone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-stranger-s-return.html"
+}

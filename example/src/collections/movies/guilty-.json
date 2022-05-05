@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Guilty?",
+    "year": 1930,
+    "cast": [
+      "Virginia Valli",
+      "John Holland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/guilty-.html"
+}

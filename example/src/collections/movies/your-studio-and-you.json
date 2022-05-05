@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Your Studio and You",
+    "year": 1996,
+    "cast": [
+      "Sylvester Stallone",
+      "Demi Moore",
+      "Steven Spielberg"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/your-studio-and-you.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Rogues Tavern",
+    "year": 1936,
+    "cast": [
+      "Wallace Ford",
+      "Joan Woodbury",
+      "Barbara Pepper"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/the-rogues-tavern.html"
+}

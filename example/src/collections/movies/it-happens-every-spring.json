@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It Happens Every Spring",
+    "year": 1949,
+    "cast": [
+      "Ray Milland",
+      "Jean Peters",
+      "Paul Douglas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-happens-every-spring.html"
+}

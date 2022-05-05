@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cast Away",
+    "year": 2000,
+    "cast": [
+      "Tom Hanks",
+      "Helen Hunt"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/cast-away.html"
+}

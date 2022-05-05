@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Youth on Trial",
+    "year": 1945,
+    "cast": [
+      "Cora Sue Collins",
+      "Robert B. Williams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/youth-on-trial.html"
+}

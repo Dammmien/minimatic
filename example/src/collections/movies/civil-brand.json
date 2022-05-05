@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Civil Brand",
+    "year": 2002,
+    "cast": [
+      "LisaRaye McCoy",
+      "Lark Voorhies",
+      "Mos Def"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/civil-brand.html"
+}

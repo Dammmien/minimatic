@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Den of Thieves",
+    "year": 2018,
+    "cast": [
+      "Gerard Butler",
+      "50 Cent",
+      "Pablo Schreiber",
+      "O'Shea Jackson Jr.",
+      "Evan Jones",
+      "Dawn Olivieri",
+      "Mo McRae",
+      "Max Holloway"
+    ],
+    "genres": [
+      "Action",
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/den-of-thieves.html"
+}

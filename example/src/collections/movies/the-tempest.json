@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "The Tempest",
+    "year": 2010,
+    "cast": [
+      "Helen Mirren",
+      "David Strathairn",
+      "Djimon Hounsou",
+      "Russell Brand",
+      "Reeve Carney",
+      "Tom Conti",
+      "Chris Cooper",
+      "Alan Cumming",
+      "Felicity Jones",
+      "Alfred Molina",
+      "Ben Whishaw"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-tempest.html"
+}

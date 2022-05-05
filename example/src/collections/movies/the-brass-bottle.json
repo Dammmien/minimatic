@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Brass Bottle",
+    "year": 1964,
+    "cast": [
+      "Tony Randall",
+      "Burl Ives",
+      "Barbara Eden"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-brass-bottle.html"
+}

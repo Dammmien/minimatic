@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Ben Banks",
+    "year": 2012,
+    "cast": [
+      "Mischa Barton",
+      "Melora Hardin",
+      "Katharine Towne",
+      "Kim Huffman"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/ben-banks.html"
+}

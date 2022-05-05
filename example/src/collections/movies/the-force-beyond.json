@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Force Beyond",
+    "year": 1978,
+    "cast": [
+      "Rosko",
+      "(narrated by)"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-force-beyond.html"
+}

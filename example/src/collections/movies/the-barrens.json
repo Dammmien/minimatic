@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Barrens",
+    "year": 2012,
+    "cast": [
+      "Stephen Moyer",
+      "Mia Kirshner",
+      "Allie MacDonald"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-barrens.html"
+}

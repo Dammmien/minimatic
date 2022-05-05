@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Human Desire",
+    "year": 1954,
+    "cast": [
+      "Glenn Ford",
+      "Gloria Grahame",
+      "Broderick Crawford"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/human-desire.html"
+}

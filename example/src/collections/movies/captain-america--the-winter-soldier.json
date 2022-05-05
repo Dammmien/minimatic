@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Captain America: The Winter Soldier",
+    "year": 2014,
+    "cast": [
+      "Chris Evans",
+      "Scarlett Johansson",
+      "Sebastian Stan",
+      "Anthony Mackie"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/captain-america--the-winter-soldier.html"
+}

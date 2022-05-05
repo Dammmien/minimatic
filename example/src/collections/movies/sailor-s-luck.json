@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sailor's Luck",
+    "year": 1933,
+    "cast": [
+      "James Dunn",
+      "Sally Eilers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sailor-s-luck.html"
+}

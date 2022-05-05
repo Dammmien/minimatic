@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Son of the Pink Panther",
+    "year": 1993,
+    "cast": [
+      "Roberto Benigni",
+      "Herbert Lom",
+      "Claudia Cardinale"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/son-of-the-pink-panther.html"
+}

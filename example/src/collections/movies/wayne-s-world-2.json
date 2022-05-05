@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wayne's World 2",
+    "year": 1993,
+    "cast": [
+      "Mike Myers",
+      "Dana Carvey",
+      "Tia Carrere",
+      "Christopher Walken"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wayne-s-world-2.html"
+}

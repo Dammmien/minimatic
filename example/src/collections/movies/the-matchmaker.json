@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The MatchMaker",
+    "year": 1997,
+    "cast": [
+      "Janeane Garofalo",
+      "David O'Hara",
+      "Milo O'Shea",
+      "Denis Leary"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-matchmaker.html"
+}

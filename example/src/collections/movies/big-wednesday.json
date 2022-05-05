@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Big Wednesday",
+    "year": 1978,
+    "cast": [
+      "Jan-Michael Vincent",
+      "William Katt",
+      "Gary Busey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/big-wednesday.html"
+}

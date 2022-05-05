@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Girl in Black Stockings",
+    "year": 1957,
+    "cast": [
+      "Lex Barker",
+      "Anne Bancroft",
+      "Mamie Van Doren"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-girl-in-black-stockings.html"
+}

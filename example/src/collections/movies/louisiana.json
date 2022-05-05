@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Louisiana",
+    "year": 1947,
+    "cast": [
+      "Jimmie Davis",
+      "Margaret Lindsay"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/louisiana.html"
+}

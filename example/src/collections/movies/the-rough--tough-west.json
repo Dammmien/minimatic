@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Rough, Tough West",
+    "year": 1952,
+    "cast": [
+      "Charles Starrett",
+      "Carolina Cotton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-rough--tough-west.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Here I Am a Stranger",
+    "year": 1939,
+    "cast": [
+      "Richard Dix",
+      "Richard Greene"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/here-i-am-a-stranger.html"
+}

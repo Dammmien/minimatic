@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Stay Alive",
+    "year": 2006,
+    "cast": [
+      "Jon Foster",
+      "Samaire Armstrong",
+      "Frankie Muniz",
+      "Sophia Bush",
+      "Jimmie Simpson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/stay-alive.html"
+}

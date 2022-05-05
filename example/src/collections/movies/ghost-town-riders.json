@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ghost Town Riders",
+    "year": 1938,
+    "cast": [
+      "Bob Baker",
+      "Fay McKenzie"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ghost-town-riders.html"
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Going the Distance",
+    "year": 2010,
+    "cast": [
+      "Drew Barrymore",
+      "Charlie Day",
+      "Jason Sudeikis",
+      "Ron Livingston",
+      "Rob Riggle",
+      "Christina Applegate",
+      "Kelli Garner",
+      "Natalie Morales",
+      "June Diane Raphael",
+      "Kristen Schaal",
+      "Jim Gaffigan",
+      "Sarah Burns"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/going-the-distance.html"
+}

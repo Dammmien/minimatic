@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Searching Wind",
+    "year": 1946,
+    "cast": [
+      "Robert Young",
+      "Sylvia Sidney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-searching-wind.html"
+}

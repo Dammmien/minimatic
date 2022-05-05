@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crazy House",
+    "year": 1943,
+    "cast": [
+      "Olsen and Johnson",
+      "Cass Daley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/crazy-house.html"
+}

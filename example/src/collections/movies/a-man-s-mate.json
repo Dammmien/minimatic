@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Man's Mate",
+    "year": 1924,
+    "cast": [
+      "John Gilbert",
+      "Renée Adorée"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-man-s-mate.html"
+}

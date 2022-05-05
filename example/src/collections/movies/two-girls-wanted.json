@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Two Girls Wanted",
+    "year": 1927,
+    "cast": [
+      "Janet Gaynor",
+      "Glenn Tryon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/two-girls-wanted.html"
+}

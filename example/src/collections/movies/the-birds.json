@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Birds",
+    "year": 1963,
+    "cast": [
+      "Tippi Hedren",
+      "Rod Taylor",
+      "Jessica Tandy",
+      "Suzanne Pleshette",
+      "Veronica Cartwright"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-birds.html"
+}

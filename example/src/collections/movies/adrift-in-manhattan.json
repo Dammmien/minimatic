@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Adrift in Manhattan",
+    "year": 2007,
+    "cast": [
+      "Heather Graham",
+      "Victor Rasuk",
+      "Dominic Chianese",
+      "William Baldwin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/adrift-in-manhattan.html"
+}

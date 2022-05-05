@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Girl in the Glass Cage",
+    "year": 1929,
+    "cast": [
+      "Loretta Young",
+      "Carroll Nye"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-girl-in-the-glass-cage.html"
+}

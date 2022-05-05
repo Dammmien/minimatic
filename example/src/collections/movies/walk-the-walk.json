@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Walk the Walk",
+    "year": 1970,
+    "cast": [
+      "Bernie Hamilton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/walk-the-walk.html"
+}

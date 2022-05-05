@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Custard Cup",
+    "year": 1923,
+    "cast": [
+      "Mary Carr",
+      "Ben Lyon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-custard-cup.html"
+}

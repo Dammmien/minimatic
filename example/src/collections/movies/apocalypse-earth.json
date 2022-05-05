@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Apocalypse Earth",
+    "year": 2013,
+    "cast": [
+      "Adrian Paul",
+      "Richard Grieco",
+      "Bali Rodríguez"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/apocalypse-earth.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Roman Candles",
+    "year": 1966,
+    "cast": [
+      "Divine",
+      "Maelcum Soul"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/roman-candles.html"
+}

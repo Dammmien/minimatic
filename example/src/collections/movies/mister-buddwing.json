@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mister Buddwing",
+    "year": 1966,
+    "cast": [
+      "James Garner",
+      "Suzanne Pleshette",
+      "Angela Lansbury"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mister-buddwing.html"
+}

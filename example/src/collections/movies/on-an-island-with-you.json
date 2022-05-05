@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "On an Island with You",
+    "year": 1948,
+    "cast": [
+      "Esther Williams",
+      "Peter Lawford",
+      "Ricardo Montalbán"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/on-an-island-with-you.html"
+}

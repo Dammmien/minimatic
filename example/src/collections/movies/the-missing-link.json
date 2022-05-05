@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Missing Link",
+    "year": 1927,
+    "cast": [
+      "Syd Chaplin",
+      "Ruth Hiatt"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-missing-link.html"
+}

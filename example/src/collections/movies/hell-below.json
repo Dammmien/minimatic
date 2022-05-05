@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hell Below",
+    "year": 1933,
+    "cast": [
+      "Robert Montgomery",
+      "Walter Huston",
+      "Jimmy Durante"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/hell-below.html"
+}

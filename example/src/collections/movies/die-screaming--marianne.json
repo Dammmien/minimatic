@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Die Screaming, Marianne",
+    "year": 1971,
+    "cast": [
+      "Susan George",
+      "Leo Genn"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/die-screaming--marianne.html"
+}

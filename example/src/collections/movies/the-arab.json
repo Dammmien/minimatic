@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Arab",
+    "year": 1924,
+    "cast": [
+      "Ramon Novarro",
+      "Alice Terry"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-arab.html"
+}

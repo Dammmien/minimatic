@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silent Madness",
+    "year": 1984,
+    "cast": [
+      "Belinda Montgomery",
+      "Viveca Lindfors"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/silent-madness.html"
+}

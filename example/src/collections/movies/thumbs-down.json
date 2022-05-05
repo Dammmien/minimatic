@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Thumbs Down",
+    "year": 1927,
+    "cast": [
+      "Creighton Hale",
+      "Lois Boyd"
+    ],
+    "genres": []
+  },
+  "output": "movies/thumbs-down.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hideaway Girl",
+    "year": 1936,
+    "cast": [
+      "Shirley Ross",
+      "Robert Cummings",
+      "Martha Raye"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hideaway-girl.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stagecoach Days",
+    "year": 1938,
+    "cast": [
+      "Jack Luden",
+      "Eleanor Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/stagecoach-days.html"
+}

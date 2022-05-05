@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Man of a Thousand Faces",
+    "year": 1957,
+    "cast": [
+      "James Cagney",
+      "Dorothy Malone",
+      "Jane Greer"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/man-of-a-thousand-faces.html"
+}

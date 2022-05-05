@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ridgeway of Montana",
+    "year": 1924,
+    "cast": [
+      "Jack Hoxie",
+      "Olive Hasbrouck"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ridgeway-of-montana.html"
+}

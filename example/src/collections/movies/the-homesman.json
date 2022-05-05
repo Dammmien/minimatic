@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Homesman",
+    "year": 2014,
+    "cast": [
+      "Tommy Lee Jones",
+      "Hilary Swank",
+      "Grace Gummer",
+      "Miranda Otto"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-homesman.html"
+}

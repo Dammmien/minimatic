@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Little Chenier",
+    "year": 2006,
+    "cast": [
+      "Johnathon Schaech",
+      "Frederick Koehler",
+      "Tamara Braun"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-chenier.html"
+}

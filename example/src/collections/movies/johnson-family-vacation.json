@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Johnson Family Vacation",
+    "year": 2004,
+    "cast": [
+      "Cedric the Entertainer",
+      "Vanessa L. Williams",
+      "Bow Wow",
+      "Solange Knowles",
+      "Shannon Elizabeth",
+      "Steve Harvey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/johnson-family-vacation.html"
+}

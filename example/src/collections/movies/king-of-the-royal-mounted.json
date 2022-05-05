@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "King of the Royal Mounted",
+    "year": 1940,
+    "cast": [
+      "Allan Lane"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/king-of-the-royal-mounted.html"
+}

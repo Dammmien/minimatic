@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Human Tornado",
+    "year": 1976,
+    "cast": [
+      "Rudy Ray Moore",
+      "Ernie Hudson"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-human-tornado.html"
+}

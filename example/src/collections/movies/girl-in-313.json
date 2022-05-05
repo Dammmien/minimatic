@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Girl in 313",
+    "year": 1940,
+    "cast": [
+      "Florence Rice",
+      "Lionel Atwill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/girl-in-313.html"
+}

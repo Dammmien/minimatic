@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Fist Fight",
+    "year": 2017,
+    "cast": [
+      "Ice Cube",
+      "Charlie Day",
+      "Christina Hendricks",
+      "Dennis Haysbert",
+      "Tracy Morgan",
+      "Jillian Bell",
+      "Dean Norris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fist-fight.html"
+}

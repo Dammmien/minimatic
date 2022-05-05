@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Are You There?",
+    "year": 1931,
+    "cast": [
+      "Beatrice Lillie",
+      "John Garrick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/are-you-there-.html"
+}

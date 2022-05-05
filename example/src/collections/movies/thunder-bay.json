@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thunder Bay",
+    "year": 1953,
+    "cast": [
+      "James Stewart",
+      "Dan Duryea",
+      "Joanne Dru"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thunder-bay.html"
+}

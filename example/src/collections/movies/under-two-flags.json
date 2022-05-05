@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Under Two Flags",
+    "year": 1936,
+    "cast": [
+      "Ronald Colman",
+      "Claudette Colbert",
+      "Victor McLaglen",
+      "Rosalind Russell",
+      "Nigel Bruce"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/under-two-flags.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Never on Sunday",
+    "year": 1960,
+    "cast": [
+      "Melina Mercouri",
+      "Jules Dassin",
+      "Giorgos Fountas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/never-on-sunday.html"
+}

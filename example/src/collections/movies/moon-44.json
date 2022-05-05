@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Moon 44",
+    "year": 1990,
+    "cast": [
+      "Michael Paré"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/moon-44.html"
+}

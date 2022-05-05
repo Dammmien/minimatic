@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Monument Ave.",
+    "year": 1998,
+    "cast": [
+      "Denis Leary",
+      "Colm Meaney",
+      "Famke Janssen",
+      "Martin Sheen"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/monument-ave-.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Man About Town",
+    "year": 2006,
+    "cast": [
+      "Ben Affleck",
+      "Rebecca Romijn",
+      "John Cleese",
+      "Jerry O'Connell",
+      "Gina Gershon",
+      "Bai Ling"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/man-about-town.html"
+}

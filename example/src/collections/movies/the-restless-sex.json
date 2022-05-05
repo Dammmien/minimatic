@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Restless Sex",
+    "year": 1920,
+    "cast": [
+      "Marion Davies",
+      "Ralph Kellard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-restless-sex.html"
+}

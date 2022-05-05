@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Good Luck Chuck",
+    "year": 2007,
+    "cast": [
+      "Dane Cook",
+      "Jessica Alba"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/good-luck-chuck.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Under Wraps",
+    "year": 1997,
+    "cast": [
+      "Adam Wylie",
+      "Ed Lauter"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/under-wraps.html"
+}

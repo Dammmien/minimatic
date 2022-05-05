@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Fantastic Four",
+    "year": 2005,
+    "cast": [
+      "Ioan Gruffudd",
+      "Jessica Alba",
+      "Michael Chiklis",
+      "Chris Evans",
+      "Julian McMahon",
+      "Kerry Washington"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/fantastic-four.html"
+}

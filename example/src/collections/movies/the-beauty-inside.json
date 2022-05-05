@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Beauty Inside",
+    "year": 2012,
+    "cast": [
+      "Mary Elizabeth Winstead",
+      "Topher Grace",
+      "Matthew Gray Gubler",
+      "Caitriona Balfe",
+      "Oliver Muirhead"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-beauty-inside.html"
+}

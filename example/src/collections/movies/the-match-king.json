@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Match King",
+    "year": 1932,
+    "cast": [
+      "Warren William",
+      "Lili Damita"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-match-king.html"
+}

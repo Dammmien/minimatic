@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Boy Friend",
+    "year": 1926,
+    "cast": [
+      "Marceline Day",
+      "John Harron"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-boy-friend.html"
+}

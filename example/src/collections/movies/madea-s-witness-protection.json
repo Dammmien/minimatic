@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Madea's Witness Protection",
+    "year": 2012,
+    "cast": [
+      "Tyler Perry",
+      "Eugene Levy",
+      "Denise Richards",
+      "Doris Roberts",
+      "Romeo Miller",
+      "Tom Arnold",
+      "John Amos",
+      "Marla Gibbs",
+      "Danielle Campbell",
+      "Devan Leos",
+      "Jeff Joslin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/madea-s-witness-protection.html"
+}

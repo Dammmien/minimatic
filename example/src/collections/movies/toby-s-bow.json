@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Toby's Bow",
+    "year": 1919,
+    "cast": [
+      "Tom Moore",
+      "Doris Pawn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/toby-s-bow.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Scarface",
+    "year": 1983,
+    "cast": [
+      "Al Pacino",
+      "Michelle Pfeiffer",
+      "Steven Bauer",
+      "Mary Elizabeth Mastrantonio",
+      "Robert Loggia"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/scarface.html"
+}

@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Road Movie",
+    "year": 1974,
+    "cast": [],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/road-movie.html"
+}

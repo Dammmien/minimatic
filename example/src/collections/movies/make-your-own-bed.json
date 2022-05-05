@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Make Your Own Bed",
+    "year": 1944,
+    "cast": [
+      "Jane Wyman",
+      "Jack Carson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/make-your-own-bed.html"
+}

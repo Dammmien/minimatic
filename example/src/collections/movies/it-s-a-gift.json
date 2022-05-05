@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It's a Gift",
+    "year": 1934,
+    "cast": [
+      "W. C. Fields",
+      "Kathleen Howard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-a-gift.html"
+}

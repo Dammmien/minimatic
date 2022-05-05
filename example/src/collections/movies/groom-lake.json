@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Groom Lake",
+    "year": 2002,
+    "cast": [
+      "William Shatner",
+      "Dan Gauthier",
+      "Amy Acker"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/groom-lake.html"
+}

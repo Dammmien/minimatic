@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "High Speed",
+    "year": 1932,
+    "cast": [
+      "Buck Jones",
+      "Mickey Rooney"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/high-speed.html"
+}

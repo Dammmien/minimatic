@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Somewhere",
+    "year": 2010,
+    "cast": [
+      "Stephen Dorff",
+      "Elle Fanning",
+      "Benicio del Toro",
+      "Michelle Monaghan",
+      "Chris Pontius",
+      "Simona Ventura"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/somewhere.html"
+}

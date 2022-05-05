@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Foxes",
+    "year": 1980,
+    "cast": [
+      "Scott Baio",
+      "Jodie Foster",
+      "Randy Quaid"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/foxes.html"
+}

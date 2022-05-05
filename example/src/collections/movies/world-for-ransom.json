@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "World for Ransom",
+    "year": 1954,
+    "cast": [
+      "Dan Duryea",
+      "Gene Lockhart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/world-for-ransom.html"
+}

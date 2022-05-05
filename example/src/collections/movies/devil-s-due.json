@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Devil's Due",
+    "year": 2014,
+    "cast": [
+      "Zach Gilford",
+      "Allison Miller",
+      "Sam Anderson",
+      "Aimee Carrero"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/devil-s-due.html"
+}

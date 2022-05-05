@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady from Louisiana",
+    "year": 1941,
+    "cast": [
+      "John Wayne",
+      "Ona Munson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lady-from-louisiana.html"
+}

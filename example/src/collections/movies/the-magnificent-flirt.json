@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Magnificent Flirt",
+    "year": 1928,
+    "cast": [
+      "Florence Vidor",
+      "Loretta Young"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-magnificent-flirt.html"
+}

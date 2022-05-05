@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Confessions of Amans",
+    "year": 1977,
+    "cast": [
+      "William Bryan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-confessions-of-amans.html"
+}

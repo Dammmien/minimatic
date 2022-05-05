@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Dark Blue",
+    "year": 2003,
+    "cast": [
+      "Kurt Russell",
+      "Scott Speedman",
+      "Michael Michele",
+      "Brendan Gleeson",
+      "Ving Rhames",
+      "Kurupt"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/dark-blue.html"
+}

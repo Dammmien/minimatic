@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Two Senoritas from Chicago",
+    "year": 1943,
+    "cast": [
+      "Joan Davis",
+      "Jinx Falkenburg",
+      "Ann Savage"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/two-senoritas-from-chicago.html"
+}

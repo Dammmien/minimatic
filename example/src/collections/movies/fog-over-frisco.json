@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fog Over Frisco",
+    "year": 1934,
+    "cast": [
+      "Bette Davis",
+      "Donald Woods",
+      "Margaret Lindsay"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/fog-over-frisco.html"
+}

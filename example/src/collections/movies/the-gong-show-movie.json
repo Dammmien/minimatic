@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Gong Show Movie",
+    "year": 1980,
+    "cast": [
+      "Chuck Barris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-gong-show-movie.html"
+}

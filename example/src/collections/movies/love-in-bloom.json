@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Love in Bloom",
+    "year": 1935,
+    "cast": [
+      "George Burns",
+      "Gracie Allen",
+      "Dixie Lee"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/love-in-bloom.html"
+}

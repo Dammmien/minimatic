@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Orange County",
+    "year": 2002,
+    "cast": [
+      "Colin Hanks",
+      "Jack Black",
+      "Schuyler Fisk"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/orange-county.html"
+}

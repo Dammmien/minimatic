@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Scrapper",
+    "year": 1922,
+    "cast": [
+      "Herbert Rawlinson",
+      "Gertrude Olmstead"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-scrapper.html"
+}

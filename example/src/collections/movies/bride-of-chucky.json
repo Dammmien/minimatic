@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bride of Chucky",
+    "year": 1998,
+    "cast": [
+      "Jennifer Tilly",
+      "Katherine Heigl",
+      "Nick Stabile",
+      "John Ritter"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/bride-of-chucky.html"
+}

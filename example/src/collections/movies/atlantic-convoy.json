@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Atlantic Convoy",
+    "year": 1942,
+    "cast": [
+      "Bruce Bennett",
+      "Virginia Field",
+      "Larry Parks",
+      "Lloyd Bridges"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/atlantic-convoy.html"
+}

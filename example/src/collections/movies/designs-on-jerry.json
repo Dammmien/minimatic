@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Designs on Jerry",
+    "year": 1953,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/designs-on-jerry.html"
+}

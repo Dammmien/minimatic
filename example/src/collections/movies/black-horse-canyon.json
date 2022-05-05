@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Black Horse Canyon",
+    "year": 1954,
+    "cast": [
+      "Joel McCrea",
+      "Mari Blanchard"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/black-horse-canyon.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Margin for Error",
+    "year": 1943,
+    "cast": [
+      "Joan Bennett",
+      "Milton Berle",
+      "Otto Preminger"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/margin-for-error.html"
+}

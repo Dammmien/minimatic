@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Saturday Evening Puss",
+    "year": 1950,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/saturday-evening-puss.html"
+}

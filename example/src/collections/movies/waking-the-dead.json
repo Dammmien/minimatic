@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Waking the Dead",
+    "year": 2000,
+    "cast": [
+      "Jennifer Connelly",
+      "Billy Crudup"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/waking-the-dead.html"
+}

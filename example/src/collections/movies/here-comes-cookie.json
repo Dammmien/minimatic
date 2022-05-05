@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Here Comes Cookie",
+    "year": 1935,
+    "cast": [
+      "George Burns",
+      "Gracie Allen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/here-comes-cookie.html"
+}

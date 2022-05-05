@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tenacious D in The Pick of Destiny",
+    "year": 2006,
+    "cast": [
+      "Jack Black",
+      "Kyle Gass"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tenacious-d-in-the-pick-of-destiny.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Princess Diaries",
+    "year": 2001,
+    "cast": [
+      "Julie Andrews",
+      "Anne Hathaway",
+      "Heather Matarazzo",
+      "Héctor Elizondo",
+      "Caroline Goodall",
+      "Mandy Moore",
+      "Erik von Detten"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-princess-diaries.html"
+}

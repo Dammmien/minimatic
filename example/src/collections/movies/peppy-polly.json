@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Peppy Polly",
+    "year": 1919,
+    "cast": [
+      "Dorothy Gish",
+      "Richard Barthelmess"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/peppy-polly.html"
+}

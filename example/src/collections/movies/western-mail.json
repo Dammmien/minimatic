@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Western Mail",
+    "year": 1942,
+    "cast": [
+      "Tom Keene"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/western-mail.html"
+}

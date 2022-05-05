@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Jungle Trail",
+    "year": 1919,
+    "cast": [
+      "William Farnum",
+      "Anna Luther"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-jungle-trail.html"
+}

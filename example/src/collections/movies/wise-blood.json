@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wise Blood",
+    "year": 1979,
+    "cast": [
+      "Brad Dourif",
+      "John Huston",
+      "Ned Beatty"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wise-blood.html"
+}

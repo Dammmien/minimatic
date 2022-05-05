@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "You Never Know",
+    "year": 1922,
+    "cast": [
+      "Earle Williams",
+      "Gertrude Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/you-never-know.html"
+}

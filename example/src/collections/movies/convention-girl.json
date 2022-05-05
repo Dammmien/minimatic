@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Convention Girl",
+    "year": 1935,
+    "cast": [
+      "Rose Hobart",
+      "Weldon Heyburn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/convention-girl.html"
+}

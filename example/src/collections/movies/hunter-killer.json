@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Hunter Killer",
+    "year": 2018,
+    "cast": [
+      "Gerard Butler",
+      "Gary Oldman",
+      "Common",
+      "Toby Stephens",
+      "Linda Cardellini",
+      "David Gyasi",
+      "Gabriel Chavarria",
+      "Zane Holtz",
+      "Michael Nyqvist"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/hunter-killer.html"
+}

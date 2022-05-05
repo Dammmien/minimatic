@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Pantry Panic",
+    "year": 1941,
+    "cast": [
+      "Woody Woodpecker"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/pantry-panic.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Born in East L.A.",
+    "year": 1987,
+    "cast": [
+      "Cheech Marin",
+      "Daniel Stern",
+      "Paul Rodriguez"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/born-in-east-l-a-.html"
+}

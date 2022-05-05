@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cherry Falls",
+    "year": 2000,
+    "cast": [
+      "Brittany Murphy",
+      "Michael Biehn",
+      "Jesse Bradford"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/cherry-falls.html"
+}

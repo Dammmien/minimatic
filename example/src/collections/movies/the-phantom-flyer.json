@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Phantom Flyer",
+    "year": 1928,
+    "cast": [
+      "Al Wilson",
+      "Buck Connors"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-phantom-flyer.html"
+}

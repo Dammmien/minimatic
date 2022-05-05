@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Frighteners",
+    "year": 1996,
+    "cast": [
+      "Michael J. Fox",
+      "Trini Alvarado"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-frighteners.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Diplomacy",
+    "year": 1926,
+    "cast": [
+      "Blanche Sweet",
+      "Neil Hamilton",
+      "Arlette Marchal"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/diplomacy.html"
+}

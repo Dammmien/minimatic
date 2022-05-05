@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Death Machine",
+    "year": 1990,
+    "cast": [
+      "Brad Dourif"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/death-machine.html"
+}

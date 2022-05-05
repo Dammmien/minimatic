@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Night of the Iguana",
+    "year": 1964,
+    "cast": [
+      "Richard Burton",
+      "Ava Gardner",
+      "Deborah Kerr",
+      "Sue Lyon",
+      "Grayson Hall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-night-of-the-iguana.html"
+}

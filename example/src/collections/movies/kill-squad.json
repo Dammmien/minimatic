@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kill Squad",
+    "year": 1982,
+    "cast": [
+      "Cameron Mitchell",
+      "Jean Glaudé"
+    ],
+    "genres": [
+      "Martial Arts"
+    ]
+  },
+  "output": "movies/kill-squad.html"
+}

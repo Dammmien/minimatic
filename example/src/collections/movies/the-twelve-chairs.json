@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Twelve Chairs",
+    "year": 1970,
+    "cast": [
+      "Frank Langella",
+      "Ron Moody",
+      "Dom DeLuise"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-twelve-chairs.html"
+}

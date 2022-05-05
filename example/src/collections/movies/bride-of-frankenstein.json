@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bride of Frankenstein",
+    "year": 1935,
+    "cast": [
+      "Boris Karloff",
+      "Elsa Lanchester",
+      "Colin Clive"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ]
+  },
+  "output": "movies/bride-of-frankenstein.html"
+}

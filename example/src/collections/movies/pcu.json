@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "PCU",
+    "year": 1994,
+    "cast": [
+      "Jeremy Piven",
+      "David Spade"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pcu.html"
+}

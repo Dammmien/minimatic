@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "This Reckless Age",
+    "year": 1932,
+    "cast": [
+      "Charles \"Buddy\" Rogers",
+      "Peggy Shannon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/this-reckless-age.html"
+}

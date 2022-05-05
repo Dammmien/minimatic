@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Teachers",
+    "year": 1984,
+    "cast": [
+      "Nick Nolte",
+      "JoBeth Williams",
+      "Judd Hirsch",
+      "Ralph Macchio",
+      "Lee Grant"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/teachers.html"
+}

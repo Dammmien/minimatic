@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Spirit Is Willing",
+    "year": 1967,
+    "cast": [
+      "Sid Caesar",
+      "Vera Miles"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-spirit-is-willing.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Whip Hand",
+    "year": 1951,
+    "cast": [
+      "Carla Balenda",
+      "Elliott Reid"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-whip-hand.html"
+}

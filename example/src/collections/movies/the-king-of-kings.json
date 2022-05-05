@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The King of Kings",
+    "year": 1927,
+    "cast": [
+      "H. B. Warner",
+      "Dorothy Cumming",
+      "Joseph Schildkraut"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-king-of-kings.html"
+}

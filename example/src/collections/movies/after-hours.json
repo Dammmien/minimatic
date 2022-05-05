@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "After Hours",
+    "year": 1985,
+    "cast": [
+      "Griffin Dunne",
+      "Rosanna Arquette",
+      "Verna Bloom",
+      "Linda Fiorentino",
+      "Catherine O'Hara",
+      "Teri Garr",
+      "John Heard"
+    ],
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ]
+  },
+  "output": "movies/after-hours.html"
+}

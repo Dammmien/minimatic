@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Dangerous Adventure",
+    "year": 1937,
+    "cast": [
+      "Don Terry",
+      "Rosalind Keith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-dangerous-adventure.html"
+}

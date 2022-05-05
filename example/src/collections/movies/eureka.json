@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Eureka",
+    "year": 1983,
+    "cast": [
+      "Gene Hackman",
+      "Theresa Russell",
+      "Rutger Hauer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/eureka.html"
+}

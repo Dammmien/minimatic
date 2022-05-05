@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Adventure in Manhattan",
+    "year": 1936,
+    "cast": [
+      "Jean Arthur",
+      "Joel McCrea",
+      "Reginald Owen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/adventure-in-manhattan.html"
+}

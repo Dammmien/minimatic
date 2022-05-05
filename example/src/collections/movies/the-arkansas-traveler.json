@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Arkansas Traveler",
+    "year": 1938,
+    "cast": [
+      "Bob Burns",
+      "Jean Parker",
+      "John Beal"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-arkansas-traveler.html"
+}

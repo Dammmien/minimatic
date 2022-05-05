@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Howling II",
+    "year": 1985,
+    "cast": [
+      "Christopher Lee",
+      "Sybil Danning"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/howling-ii.html"
+}

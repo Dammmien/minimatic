@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Raiders of the Lost Ark",
+    "year": 1981,
+    "cast": [
+      "Harrison Ford",
+      "Karen Allen",
+      "Denholm Elliott",
+      "Paul Freeman",
+      "John Rhys-Davies",
+      "Ronald Lacey",
+      "Alfred Molina"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/raiders-of-the-lost-ark.html"
+}

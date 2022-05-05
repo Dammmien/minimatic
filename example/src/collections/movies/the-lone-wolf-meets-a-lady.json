@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lone Wolf Meets a Lady",
+    "year": 1940,
+    "cast": [
+      "Warren William",
+      "Jean Muir"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-lone-wolf-meets-a-lady.html"
+}

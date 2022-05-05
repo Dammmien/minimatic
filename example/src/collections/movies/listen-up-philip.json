@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Listen Up Philip",
+    "year": 2014,
+    "cast": [
+      "Jason Schwartzman",
+      "Elisabeth Moss",
+      "Jonathan Pryce"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/listen-up-philip.html"
+}

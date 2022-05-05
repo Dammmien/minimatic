@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Spider Woman Strikes Back",
+    "year": 1946,
+    "cast": [
+      "Gale Sondergaard",
+      "Kirby Grant",
+      "Brenda Joyce"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-spider-woman-strikes-back.html"
+}

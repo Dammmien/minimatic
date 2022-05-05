@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Desert Dust",
+    "year": 1927,
+    "cast": [
+      "Ted Wells",
+      "Lotus Thompson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/desert-dust.html"
+}

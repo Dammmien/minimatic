@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Premonition",
+    "year": 2007,
+    "cast": [
+      "Sandra Bullock",
+      "Julian McMahon",
+      "Nia Long"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/premonition.html"
+}

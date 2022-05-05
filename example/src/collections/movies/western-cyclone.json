@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Western Cyclone",
+    "year": 1943,
+    "cast": [
+      "Buster Crabbe",
+      "Al St. John"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/western-cyclone.html"
+}

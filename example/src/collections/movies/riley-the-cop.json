@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riley the Cop",
+    "year": 1928,
+    "cast": [
+      "J. Farrell MacDonald",
+      "Nancy Drexel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/riley-the-cop.html"
+}

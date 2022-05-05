@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "She's Out of Control",
+    "year": 1989,
+    "cast": [
+      "Tony Danza",
+      "Ami Dolenz",
+      "Catherine Hicks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-s-out-of-control.html"
+}

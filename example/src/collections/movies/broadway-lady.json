@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Broadway Lady",
+    "year": 1925,
+    "cast": [
+      "Evelyn Brent",
+      "Theodore von Eltz",
+      "Margerie Bonner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/broadway-lady.html"
+}

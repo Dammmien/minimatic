@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Destry",
+    "year": 1954,
+    "cast": [
+      "Audie Murphy",
+      "Mari Blanchard"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/destry.html"
+}

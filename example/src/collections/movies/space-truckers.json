@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Space Truckers",
+    "year": 1996,
+    "cast": [
+      "Stephen Dorff",
+      "Dennis Hopper"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Comedy"
+    ]
+  },
+  "output": "movies/space-truckers.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Weaker Vessel",
+    "year": 1919,
+    "cast": [
+      "Mary MacLaren",
+      "Thurston Hall"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-weaker-vessel.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Million to Juan",
+    "year": 1994,
+    "cast": [
+      "Paul Rodriguez",
+      "Polly Draper"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-million-to-juan.html"
+}

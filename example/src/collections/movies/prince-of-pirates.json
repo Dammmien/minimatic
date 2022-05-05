@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prince of Pirates",
+    "year": 1953,
+    "cast": [
+      "John Derek",
+      "Barbara Rush"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/prince-of-pirates.html"
+}

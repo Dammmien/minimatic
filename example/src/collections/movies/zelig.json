@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Zelig",
+    "year": 1983,
+    "cast": [
+      "Woody Allen",
+      "Mia Farrow"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/zelig.html"
+}

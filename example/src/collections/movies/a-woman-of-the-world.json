@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Woman of the World",
+    "year": 1925,
+    "cast": [
+      "Pola Negri",
+      "Holmes Herbert"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-woman-of-the-world.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "El Cid",
+    "year": 1961,
+    "cast": [
+      "Charlton Heston",
+      "Sophia Loren",
+      "Raf Vallone",
+      "Geneviève Page",
+      "Herbert Lom"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/el-cid.html"
+}

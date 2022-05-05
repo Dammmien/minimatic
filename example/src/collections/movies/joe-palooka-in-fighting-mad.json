@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Joe Palooka in Fighting Mad",
+    "year": 1948,
+    "cast": [
+      "Joe Kirkwood Jr.",
+      "Leon Errol",
+      "Elyse Knox"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/joe-palooka-in-fighting-mad.html"
+}

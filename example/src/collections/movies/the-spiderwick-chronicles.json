@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Spiderwick Chronicles",
+    "year": 2008,
+    "cast": [
+      "Freddie Highmore",
+      "Sarah Bolger",
+      "Mary-Louise Parker",
+      "David Strathairn"
+    ],
+    "genres": [
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-spiderwick-chronicles.html"
+}

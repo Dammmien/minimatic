@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "City Heat",
+    "year": 1984,
+    "cast": [
+      "Clint Eastwood",
+      "Burt Reynolds",
+      "Madeline Kahn",
+      "Richard Roundtree",
+      "Jane Alexander",
+      "Rip Torn"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/city-heat.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Side Street",
+    "year": 1950,
+    "cast": [
+      "Farley Granger",
+      "Cathy O'Donnell"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/side-street.html"
+}

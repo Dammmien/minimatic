@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Billion Dollar Brain",
+    "year": 1967,
+    "cast": [
+      "Michael Caine",
+      "Karl Malden"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/billion-dollar-brain.html"
+}

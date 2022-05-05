@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "An Innocent Affair",
+    "year": 1948,
+    "cast": [
+      "Fred MacMurray",
+      "Madeleine Carroll"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/an-innocent-affair.html"
+}

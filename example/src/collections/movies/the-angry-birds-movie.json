@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Angry Birds Movie",
+    "year": 2016,
+    "cast": [
+      "Jason Sudeikis",
+      "Josh Gad",
+      "Bill Hader"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-angry-birds-movie.html"
+}

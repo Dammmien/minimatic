@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Six Ways to Sunday",
+    "year": 1997,
+    "cast": [
+      "Adrien Brody",
+      "Deborah Harry"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/six-ways-to-sunday.html"
+}

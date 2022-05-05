@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night Monster",
+    "year": 1942,
+    "cast": [
+      "Bela Lugosi"
+    ],
+    "genres": [
+      "Mystery",
+      "Horror"
+    ]
+  },
+  "output": "movies/night-monster.html"
+}

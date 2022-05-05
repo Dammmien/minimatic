@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Latin Lovers",
+    "year": 1953,
+    "cast": [
+      "Lana Turner",
+      "Ricardo Montalbán",
+      "John Lund"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/latin-lovers.html"
+}

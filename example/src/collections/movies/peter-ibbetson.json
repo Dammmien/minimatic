@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Peter Ibbetson",
+    "year": 1935,
+    "cast": [
+      "Gary Cooper",
+      "Ann Harding",
+      "Ida Lupino"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/peter-ibbetson.html"
+}

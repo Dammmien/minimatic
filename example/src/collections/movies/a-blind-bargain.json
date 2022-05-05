@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Blind Bargain",
+    "year": 1922,
+    "cast": [
+      "Lon Chaney",
+      "Raymond McKee"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/a-blind-bargain.html"
+}

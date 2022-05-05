@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tillie and Gus",
+    "year": 1933,
+    "cast": [
+      "W. C. Fields",
+      "Alison Skipworth"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tillie-and-gus.html"
+}

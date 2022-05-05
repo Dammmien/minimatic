@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Game Warden",
+    "year": 1913,
+    "cast": [
+      "Earle Foxe",
+      "Irene Boyle",
+      "Stuart Holmes"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-game-warden.html"
+}

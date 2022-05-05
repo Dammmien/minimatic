@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Can Explain",
+    "year": 1922,
+    "cast": [
+      "Bartine Burkett",
+      "Grace Darmond"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-can-explain.html"
+}

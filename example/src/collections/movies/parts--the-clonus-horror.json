@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Parts: The Clonus Horror",
+    "year": 1979,
+    "cast": [
+      "Peter Graves",
+      "Keenan Wynn"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/parts--the-clonus-horror.html"
+}

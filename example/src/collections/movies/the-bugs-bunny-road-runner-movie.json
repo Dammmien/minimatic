@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bugs Bunny/Road Runner Movie",
+    "year": 1979,
+    "cast": [
+      "Voices of",
+      "Mel Blanc"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-bugs-bunny-road-runner-movie.html"
+}

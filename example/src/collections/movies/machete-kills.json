@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Machete Kills",
+    "year": 2013,
+    "cast": [
+      "Danny Trejo",
+      "Michelle Rodriguez",
+      "Sofía Vergara",
+      "Amber Heard",
+      "Carlos Estevez",
+      "Antonio Banderas",
+      "Cuba Gooding Jr.",
+      "Walt Goggins",
+      "William Sadler",
+      "Demián Bichir",
+      "Mel Gibson"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/machete-kills.html"
+}

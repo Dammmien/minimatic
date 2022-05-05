@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hours",
+    "year": 2013,
+    "cast": [
+      "Paul Walker",
+      "Genesis Rodriguez"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hours.html"
+}

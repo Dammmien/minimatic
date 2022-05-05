@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Pinocchio's Revenge",
+    "year": 1996,
+    "cast": [
+      "Rosalind Allen"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/pinocchio-s-revenge.html"
+}

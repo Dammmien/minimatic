@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Nick and Norah's Infinite Playlist",
+    "year": 2008,
+    "cast": [
+      "Michael Cera",
+      "Kat Dennings",
+      "Alexis Dziena",
+      "Ari Graynor",
+      "Aaron Yoo",
+      "Jay Baruchel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nick-and-norah-s-infinite-playlist.html"
+}

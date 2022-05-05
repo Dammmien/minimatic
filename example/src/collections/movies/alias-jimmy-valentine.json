@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Alias Jimmy Valentine",
+    "year": 1928,
+    "cast": [
+      "Lionel Barrymore",
+      "William Haines"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/alias-jimmy-valentine.html"
+}

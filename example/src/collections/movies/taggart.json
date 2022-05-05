@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Taggart",
+    "year": 1964,
+    "cast": [
+      "Tony Young",
+      "Dan Duryea",
+      "Dick Foran",
+      "Elsa Cárdenas",
+      "Jean Hale"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/taggart.html"
+}

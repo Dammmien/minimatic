@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Black Watch",
+    "year": 1929,
+    "cast": [
+      "Victor McLaglen",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Adventure",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-black-watch.html"
+}

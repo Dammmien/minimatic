@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sunday Lovers",
+    "year": 1980,
+    "cast": [
+      "Roger Moore",
+      "Lino Ventura",
+      "Gene Wilder",
+      "Lynn Redgrave"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sunday-lovers.html"
+}

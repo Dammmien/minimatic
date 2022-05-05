@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wildness of Youth",
+    "year": 1922,
+    "cast": [
+      "Virginia Pearson",
+      "Harry T. Morey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wildness-of-youth.html"
+}

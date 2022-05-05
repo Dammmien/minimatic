@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Golden Dawn",
+    "year": 1930,
+    "cast": [
+      "Walter Woolf King",
+      "Vivienne Segal"
+    ],
+    "genres": [
+      "Musical",
+      "Drama"
+    ]
+  },
+  "output": "movies/golden-dawn.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Slight Case of Murder",
+    "year": 1938,
+    "cast": [
+      "Edward G. Robinson",
+      "Jane Bryan",
+      "John Litel"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/a-slight-case-of-murder.html"
+}

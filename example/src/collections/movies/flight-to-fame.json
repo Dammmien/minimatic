@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Flight to Fame",
+    "year": 1938,
+    "cast": [
+      "Charles Farrell",
+      "Hugh Sothern",
+      "Julie Bishop"
+    ],
+    "genres": [
+      "Drama",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/flight-to-fame.html"
+}

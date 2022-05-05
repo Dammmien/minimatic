@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Human Side",
+    "year": 1934,
+    "cast": [
+      "Adolphe Menjou",
+      "Doris Kenyon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-human-side.html"
+}

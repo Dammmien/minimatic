@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Natural Born Killers",
+    "year": 1994,
+    "cast": [
+      "Woody Harrelson",
+      "Juliette Lewis",
+      "Robert Downey, Jr.",
+      "Tommy Lee Jones",
+      "Tom Sizemore",
+      "Rodney Dangerfield",
+      "Edie McClurg",
+      "Balthazar Getty"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/natural-born-killers.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Soft Living",
+    "year": 1928,
+    "cast": [
+      "Madge Bellamy",
+      "Johnny Mack Brown"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/soft-living.html"
+}

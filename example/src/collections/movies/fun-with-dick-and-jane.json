@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fun with Dick and Jane",
+    "year": 2005,
+    "cast": [
+      "Jim Carrey",
+      "Téa Leoni",
+      "Alec Baldwin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fun-with-dick-and-jane.html"
+}

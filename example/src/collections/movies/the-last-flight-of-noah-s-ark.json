@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last Flight of Noah's Ark",
+    "year": 1980,
+    "cast": [
+      "Elliott Gould",
+      "Rick Schroder"
+    ],
+    "genres": [
+      "Adventure",
+      "Family"
+    ]
+  },
+  "output": "movies/the-last-flight-of-noah-s-ark.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My 5 Wives",
+    "year": 2000,
+    "cast": [
+      "Rodney Dangerfield",
+      "Jerry Stiller",
+      "Molly Shannon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-5-wives.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "King Kung Fu",
+    "year": 1976,
+    "cast": [
+      "John Balee",
+      "John D. Hayes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/king-kung-fu.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Sap",
+    "year": 1924,
+    "cast": [
+      "Fred Thomson",
+      "Hazel Keener"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fighting-sap.html"
+}

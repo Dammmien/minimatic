@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kissin' Cousins",
+    "year": 1964,
+    "cast": [
+      "Elvis Presley",
+      "Yvonne Craig"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/kissin--cousins.html"
+}

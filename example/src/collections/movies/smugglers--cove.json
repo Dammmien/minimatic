@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Smugglers' Cove",
+    "year": 1948,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Amelita Ward"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/smugglers--cove.html"
+}

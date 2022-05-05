@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Mission",
+    "year": 1986,
+    "cast": [
+      "Jeremy Irons",
+      "Robert De Niro",
+      "Liam Neeson",
+      "Aidan Quinn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mission.html"
+}

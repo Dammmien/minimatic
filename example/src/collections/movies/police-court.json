@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Police Court",
+    "year": 1932,
+    "cast": [
+      "Henry B. Walthall",
+      "Leon Janney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/police-court.html"
+}

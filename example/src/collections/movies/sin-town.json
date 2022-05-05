@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sin Town",
+    "year": 1942,
+    "cast": [
+      "Constance Bennett",
+      "Broderick Crawford",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sin-town.html"
+}

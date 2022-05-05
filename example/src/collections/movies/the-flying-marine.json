@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Flying Marine",
+    "year": 1929,
+    "cast": [
+      "Ben Lyon",
+      "Shirley Mason"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-flying-marine.html"
+}

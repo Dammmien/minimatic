@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dangerous Paradise",
+    "year": 1930,
+    "cast": [
+      "Nancy Carroll",
+      "Richard Arlen",
+      "Warner Oland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dangerous-paradise.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rustlers on Horseback",
+    "year": 1950,
+    "cast": [
+      "Allan Lane",
+      "George Nader"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rustlers-on-horseback.html"
+}

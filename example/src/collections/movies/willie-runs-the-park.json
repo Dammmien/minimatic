@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Willie Runs the Park",
+    "year": 1915,
+    "cast": [
+      "Harold Lloyd",
+      "Jane Novak"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/willie-runs-the-park.html"
+}

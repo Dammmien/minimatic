@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Teenage Cave Man",
+    "year": 1958,
+    "cast": [
+      "Robert Vaughn"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/teenage-cave-man.html"
+}

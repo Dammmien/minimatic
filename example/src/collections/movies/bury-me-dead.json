@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bury Me Dead",
+    "year": 1947,
+    "cast": [
+      "Cathy O'Donnell",
+      "June Lockhart",
+      "Hugh Beaumont"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/bury-me-dead.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rob Roy, the Highland Rogue",
+    "year": 1953,
+    "cast": [
+      "Richard Todd",
+      "Glynis Johns"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/rob-roy--the-highland-rogue.html"
+}

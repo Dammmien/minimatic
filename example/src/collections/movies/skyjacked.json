@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Skyjacked",
+    "year": 1972,
+    "cast": [
+      "Charlton Heston",
+      "Yvette Mimieux",
+      "James Brolin",
+      "Jeanne Crain",
+      "Walter Pidgeon",
+      "Roosevelt Grier",
+      "Leslie Uggams"
+    ],
+    "genres": [
+      "Disaster"
+    ]
+  },
+  "output": "movies/skyjacked.html"
+}

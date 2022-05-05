@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl from San Lorenzo",
+    "year": 1950,
+    "cast": [
+      "Duncan Renaldo",
+      "Leo Carrillo"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-girl-from-san-lorenzo.html"
+}

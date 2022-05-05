@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Phone Booth",
+    "year": 2003,
+    "cast": [
+      "Colin Farrell",
+      "Kiefer Sutherland",
+      "Forest Whitaker",
+      "Katie Holmes"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/phone-booth.html"
+}

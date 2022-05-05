@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "According to Mrs. Hoyle",
+    "year": 1951,
+    "cast": [
+      "Spring Byington",
+      "Anthony Caruso"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/according-to-mrs--hoyle.html"
+}

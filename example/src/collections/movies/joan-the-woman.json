@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Joan the Woman",
+    "year": 1916,
+    "cast": [
+      "Geraldine Farrar"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/joan-the-woman.html"
+}

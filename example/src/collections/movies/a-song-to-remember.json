@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Song to Remember",
+    "year": 1945,
+    "cast": [
+      "Cornel Wilde",
+      "Merle Oberon",
+      "Paul Muni"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/a-song-to-remember.html"
+}

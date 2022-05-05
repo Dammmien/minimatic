@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lily of the Dust",
+    "year": 1924,
+    "cast": [
+      "Pola Negri",
+      "Ben Lyon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lily-of-the-dust.html"
+}

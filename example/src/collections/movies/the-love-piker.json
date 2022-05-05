@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Love Piker",
+    "year": 1923,
+    "cast": [
+      "Anita Stewart",
+      "Robert Frazer"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-love-piker.html"
+}

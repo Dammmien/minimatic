@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Event Horizon",
+    "year": 1997,
+    "cast": [
+      "Laurence Fishburne",
+      "Sam Neill",
+      "Kathleen Quinlan",
+      "Joely Richardson",
+      "Richard T. Jones",
+      "Jack Noseworthy",
+      "Jason Isaacs",
+      "Sean Pertwee"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/event-horizon.html"
+}

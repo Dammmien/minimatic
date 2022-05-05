@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gone with the West",
+    "year": 1975,
+    "cast": [
+      "James Caan",
+      "Stefanie Powers"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gone-with-the-west.html"
+}

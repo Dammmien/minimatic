@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Pollyanna",
+    "year": 1960,
+    "cast": [
+      "Hayley Mills",
+      "Jane Wyman",
+      "Richard Egan",
+      "Karl Malden"
+    ],
+    "genres": [
+      "Family",
+      "Comedy"
+    ]
+  },
+  "output": "movies/pollyanna.html"
+}

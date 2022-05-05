@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Flaming Hour",
+    "year": 1922,
+    "cast": [
+      "Frank Mayo",
+      "Helen Ferguson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-flaming-hour.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Guess Who",
+    "year": 2005,
+    "cast": [
+      "Bernie Mac",
+      "Ashton Kutcher",
+      "Zoe Saldana",
+      "Hal Williams"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/guess-who.html"
+}

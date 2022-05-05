@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Caddyshack II",
+    "year": 1988,
+    "cast": [
+      "Jackie Mason",
+      "Dyan Cannon",
+      "Randy Quaid",
+      "Robert Stack",
+      "Jonathan Silverman",
+      "Chevy Chase",
+      "Dan Aykroyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/caddyshack-ii.html"
+}

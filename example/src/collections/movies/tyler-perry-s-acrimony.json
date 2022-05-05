@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tyler Perry's Acrimony",
+    "year": 2018,
+    "cast": [
+      "Taraji P. Henson",
+      "Lyriq Bent",
+      "Tika Sumpter"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/tyler-perry-s-acrimony.html"
+}

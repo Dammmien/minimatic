@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Golden Mistress",
+    "year": 1954,
+    "cast": [
+      "John Agar",
+      "Rosemarie Bowe"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-golden-mistress.html"
+}

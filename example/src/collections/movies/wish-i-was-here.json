@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Wish I Was Here",
+    "year": 2014,
+    "cast": [
+      "Zach Braff",
+      "Kate Hudson",
+      "Joey King",
+      "Josh Gad"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/wish-i-was-here.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eight Iron Men",
+    "year": 1952,
+    "cast": [
+      "Lee Marvin",
+      "Richard Kiley"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/eight-iron-men.html"
+}

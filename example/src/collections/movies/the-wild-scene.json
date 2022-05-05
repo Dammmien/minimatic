@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Wild Scene",
+    "year": 1970,
+    "cast": [
+      "John Craven"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wild-scene.html"
+}

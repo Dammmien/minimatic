@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ridin' On",
+    "year": 1936,
+    "cast": [
+      "Tom Tyler",
+      "Joan Barclay",
+      "Rex Lease"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ridin--on.html"
+}

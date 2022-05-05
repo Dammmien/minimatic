@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Having Wonderful Crime",
+    "year": 1945,
+    "cast": [
+      "Pat O'Brien",
+      "George Murphy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/having-wonderful-crime.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Painted Hills",
+    "year": 1951,
+    "cast": [
+      "Bruce Cowling",
+      "Ann Doran"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-painted-hills.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jam Session",
+    "year": 1944,
+    "cast": [
+      "Ann Miller",
+      "Jess Barker"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/jam-session.html"
+}

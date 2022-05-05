@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Land of the Pharaohs",
+    "year": 1955,
+    "cast": [
+      "Jack Hawkins",
+      "Joan Collins"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/land-of-the-pharaohs.html"
+}

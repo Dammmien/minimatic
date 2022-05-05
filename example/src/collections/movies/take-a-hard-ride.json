@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Take a Hard Ride",
+    "year": 1975,
+    "cast": [
+      "Jim Brown",
+      "Lee Van Cleef",
+      "Fred Williamson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/take-a-hard-ride.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Open Range",
+    "year": 2003,
+    "cast": [
+      "Robert Duvall",
+      "Kevin Costner",
+      "Annette Bening",
+      "Michael Gambon",
+      "Diego Luna",
+      "James Russo"
+    ],
+    "genres": [
+      "Western",
+      "Drama"
+    ]
+  },
+  "output": "movies/open-range.html"
+}

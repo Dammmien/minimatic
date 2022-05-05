@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Called Back",
+    "year": 1932,
+    "cast": [
+      "Conrad Nagel",
+      "Doris Kenyon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-called-back.html"
+}

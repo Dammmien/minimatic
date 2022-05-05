@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Down a Dark Hall",
+    "year": 2018,
+    "cast": [
+      "AnnaSophia Robb",
+      "Uma Thurman",
+      "Isabelle Fuhrman",
+      "Kirsty Mitchell",
+      "Taylor Russell",
+      "Jim Sturgeon",
+      "Victoria Moroles"
+    ],
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ]
+  },
+  "output": "movies/down-a-dark-hall.html"
+}

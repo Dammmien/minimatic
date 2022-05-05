@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Assignment to Kill",
+    "year": 1968,
+    "cast": [
+      "Patrick O'Neal",
+      "Joan Hackett",
+      "John Gielgud"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/assignment-to-kill.html"
+}

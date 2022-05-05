@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tarzan's Savage Fury",
+    "year": 1952,
+    "cast": [
+      "Lex Barker",
+      "Dorothy Hart"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-s-savage-fury.html"
+}

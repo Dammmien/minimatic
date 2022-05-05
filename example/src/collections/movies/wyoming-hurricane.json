@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wyoming Hurricane",
+    "year": 1944,
+    "cast": [
+      "Russell Hayden",
+      "Dub Taylor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wyoming-hurricane.html"
+}

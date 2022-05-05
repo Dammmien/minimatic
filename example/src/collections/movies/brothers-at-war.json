@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Brothers at War",
+    "year": 2009,
+    "cast": [
+      "Soldiers in the",
+      "Iraq War"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/brothers-at-war.html"
+}

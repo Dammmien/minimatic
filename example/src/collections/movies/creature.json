@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Creature",
+    "year": 1985,
+    "cast": [
+      "Stan Iver",
+      "Diane Salinger",
+      "Klaus Kinski"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/creature.html"
+}

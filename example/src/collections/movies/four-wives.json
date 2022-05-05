@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Four Wives",
+    "year": 1939,
+    "cast": [
+      "Priscilla Lane",
+      "Rosemary Lane",
+      "Lola Lane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/four-wives.html"
+}

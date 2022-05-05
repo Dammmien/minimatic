@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Troopers Three",
+    "year": 1930,
+    "cast": [
+      "Rex Lease",
+      "Dorothy Gulliver"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/troopers-three.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Letter of Introduction",
+    "year": 1938,
+    "cast": [
+      "Adolphe Menjou",
+      "Andrea Leeds",
+      "Ann Sheridan"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/letter-of-introduction.html"
+}

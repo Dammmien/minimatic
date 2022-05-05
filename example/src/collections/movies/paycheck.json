@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Paycheck",
+    "year": 2003,
+    "cast": [
+      "Ben Affleck",
+      "Aaron Eckhart",
+      "Uma Thurman",
+      "Paul Giamatti",
+      "Joe Morton"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/paycheck.html"
+}

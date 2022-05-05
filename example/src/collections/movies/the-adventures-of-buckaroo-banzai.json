@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Adventures of Buckaroo Banzai",
+    "year": 1984,
+    "cast": [
+      "Peter Weller",
+      "Ellen Barkin",
+      "John Lithgow",
+      "Jeff Goldblum",
+      "Christopher Lloyd"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-adventures-of-buckaroo-banzai.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Million Dollar Ransom",
+    "year": 1934,
+    "cast": [
+      "Phillips Holmes",
+      "Edward Arnold"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/million-dollar-ransom.html"
+}

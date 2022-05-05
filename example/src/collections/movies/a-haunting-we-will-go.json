@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A-Haunting We Will Go",
+    "year": 1942,
+    "cast": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "Dante the Magician"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-haunting-we-will-go.html"
+}

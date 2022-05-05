@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lone Hand",
+    "year": 1953,
+    "cast": [
+      "Joel McCrea",
+      "Barbara Hale",
+      "Alex Nicol"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-lone-hand.html"
+}

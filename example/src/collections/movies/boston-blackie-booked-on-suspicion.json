@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Boston Blackie Booked on Suspicion",
+    "year": 1945,
+    "cast": [
+      "Chester Morris",
+      "Lynn Merrick"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/boston-blackie-booked-on-suspicion.html"
+}

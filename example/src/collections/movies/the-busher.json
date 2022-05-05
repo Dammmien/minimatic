@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Busher",
+    "year": 1919,
+    "cast": [
+      "Charles Ray",
+      "Colleen Moore",
+      "John Gilbert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-busher.html"
+}

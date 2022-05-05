@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Crowd Roars",
+    "year": 1938,
+    "cast": [
+      "Robert Taylor",
+      "Maureen O'Sullivan",
+      "Edward Arnold"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-crowd-roars.html"
+}

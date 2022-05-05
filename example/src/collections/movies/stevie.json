@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stevie",
+    "year": 2002,
+    "cast": [
+      "the long-term relationships of",
+      "Big Brothers Big Sisters of America"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/stevie.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Outcasts of the Trail",
+    "year": 1949,
+    "cast": [
+      "Monte Hale",
+      "Jeff Donnell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/outcasts-of-the-trail.html"
+}

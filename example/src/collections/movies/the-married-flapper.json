@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Married Flapper",
+    "year": 1922,
+    "cast": [
+      "Marie Prevost",
+      "Kenneth Harlan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-married-flapper.html"
+}

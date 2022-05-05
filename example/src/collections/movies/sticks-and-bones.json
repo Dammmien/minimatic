@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Sticks and Bones",
+    "year": 1973,
+    "cast": [
+      "Cliff DeYoung"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sticks-and-bones.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Cry in the Night",
+    "year": 1956,
+    "cast": [
+      "Natalie Wood",
+      "Edmond O'Brien",
+      "Raymond Burr"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/a-cry-in-the-night.html"
+}

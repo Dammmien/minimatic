@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "40-Horse Hawkins",
+    "year": 1924,
+    "cast": [
+      "Hoot Gibson",
+      "Anne Cornwall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/40-horse-hawkins.html"
+}

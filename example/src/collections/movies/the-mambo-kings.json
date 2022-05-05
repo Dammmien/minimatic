@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Mambo Kings",
+    "year": 1992,
+    "cast": [
+      "Armand Assante",
+      "Antonio Banderas",
+      "Cathy Moriarty",
+      "Maruschka Detmers",
+      "Desi Arnaz, Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mambo-kings.html"
+}

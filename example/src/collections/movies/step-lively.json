@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Step Lively",
+    "year": 1944,
+    "cast": [
+      "Frank Sinatra",
+      "Gloria DeHaven"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/step-lively.html"
+}

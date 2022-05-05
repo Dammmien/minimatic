@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Vanishing Point",
+    "year": 1997,
+    "cast": [
+      "Viggo Mortensen",
+      "Jason Priestley",
+      "Keith David"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/vanishing-point.html"
+}

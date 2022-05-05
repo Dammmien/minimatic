@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "For Love of the Game",
+    "year": 1999,
+    "cast": [
+      "Kevin Costner",
+      "Kelly Preston",
+      "John C. Reilly",
+      "Jena Malone",
+      "Brian Cox"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/for-love-of-the-game.html"
+}

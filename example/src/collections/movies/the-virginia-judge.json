@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Virginia Judge",
+    "year": 1935,
+    "cast": [
+      "Marsha Hunt",
+      "Walter C. Kelly"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-virginia-judge.html"
+}

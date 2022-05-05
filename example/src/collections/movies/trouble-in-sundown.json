@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trouble in Sundown",
+    "year": 1939,
+    "cast": [
+      "George O'Brien",
+      "Rosalind Keith"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/trouble-in-sundown.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Miss Julie",
+    "year": 1999,
+    "cast": [
+      "Saffron Burrows",
+      "Peter Mullan",
+      "Maria Doyle Kennedy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/miss-julie.html"
+}

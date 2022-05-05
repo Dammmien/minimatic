@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "InAPPropriate Comedy",
+    "year": 2013,
+    "cast": [
+      "Ari Shaffir",
+      "Rob Schneider",
+      "Michelle Rodriguez",
+      "Adrien Brody",
+      "Lindsay Lohan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/inappropriate-comedy.html"
+}

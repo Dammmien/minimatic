@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dead Line",
+    "year": 1926,
+    "cast": [
+      "Bob Custer",
+      "Robert McKim"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-dead-line.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Valiant",
+    "year": 1929,
+    "cast": [
+      "Paul Muni",
+      "Marguerite Churchill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-valiant.html"
+}

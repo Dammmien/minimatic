@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Neighborhood House",
+    "year": 1936,
+    "cast": [
+      "Charley Chase",
+      "Rosina Lawrence",
+      "Darla Hood"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/neighborhood-house.html"
+}

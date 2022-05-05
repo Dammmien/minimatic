@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Crinoline and Romance",
+    "year": 1923,
+    "cast": [
+      "Viola Dana",
+      "Claude Gillingwater",
+      "John Bowers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/crinoline-and-romance.html"
+}

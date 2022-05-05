@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Strange Faces",
+    "year": 1938,
+    "cast": [
+      "Dorothea Kent",
+      "Frank Jenks",
+      "Mary Treen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/strange-faces.html"
+}

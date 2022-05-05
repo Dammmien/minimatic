@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hot Dog... The Movie",
+    "year": 1984,
+    "cast": [
+      "David Naughton",
+      "Shannon Tweed"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hot-dog----the-movie.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sweethearts on Parade",
+    "year": 1953,
+    "cast": [
+      "Ray Middleton",
+      "Lucille Norman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sweethearts-on-parade.html"
+}

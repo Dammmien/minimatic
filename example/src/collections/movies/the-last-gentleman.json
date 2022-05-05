@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last Gentleman",
+    "year": 1934,
+    "cast": [
+      "George Arliss",
+      "Edna May Oliver"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-last-gentleman.html"
+}

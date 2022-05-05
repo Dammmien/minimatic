@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crime Without Passion",
+    "year": 1934,
+    "cast": [
+      "Claude Rains",
+      "Margo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/crime-without-passion.html"
+}

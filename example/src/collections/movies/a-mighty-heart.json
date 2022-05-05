@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Mighty Heart",
+    "year": 2007,
+    "cast": [
+      "Angelina Jolie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-mighty-heart.html"
+}

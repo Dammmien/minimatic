@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Old Barn Dance",
+    "year": 1938,
+    "cast": [
+      "Gene Autry",
+      "Smiley Burnette",
+      "Roy Rogers"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-old-barn-dance.html"
+}

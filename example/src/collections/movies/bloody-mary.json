@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bloody Mary",
+    "year": 2006,
+    "cast": [
+      "Jaason Simmons",
+      "Kim Tyler",
+      "Matt Borlenghi"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/bloody-mary.html"
+}

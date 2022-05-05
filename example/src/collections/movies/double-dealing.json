@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Double Dealing",
+    "year": 1923,
+    "cast": [
+      "Hoot Gibson",
+      "Helen Ferguson",
+      "Betty Francisco"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/double-dealing.html"
+}

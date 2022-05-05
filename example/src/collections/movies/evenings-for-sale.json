@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Evenings for Sale",
+    "year": 1932,
+    "cast": [
+      "Herbert Marshall",
+      "Sari Maritza"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/evenings-for-sale.html"
+}

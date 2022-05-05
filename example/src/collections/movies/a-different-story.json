@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Different Story",
+    "year": 1978,
+    "cast": [
+      "Meg Foster",
+      "Perry King",
+      "Valerie Curtin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-different-story.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Almost Married",
+    "year": 1942,
+    "cast": [
+      "Jane Frazee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/almost-married.html"
+}

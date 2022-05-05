@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hearts and Spurs",
+    "year": 1925,
+    "cast": [
+      "Buck Jones",
+      "Carole Lombard"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hearts-and-spurs.html"
+}

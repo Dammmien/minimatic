@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Navy Comes Through",
+    "year": 1942,
+    "cast": [
+      "Pat O'Brien",
+      "George Murphy",
+      "Jane Wyatt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-navy-comes-through.html"
+}

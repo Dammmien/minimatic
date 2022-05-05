@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "High Crimes",
+    "year": 2002,
+    "cast": [
+      "Ashley Judd",
+      "Morgan Freeman",
+      "James Caviezel"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/high-crimes.html"
+}

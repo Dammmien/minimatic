@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Witching Hour",
+    "year": 1934,
+    "cast": [
+      "John Halliday",
+      "Judith Allen",
+      "William Frawley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-witching-hour.html"
+}

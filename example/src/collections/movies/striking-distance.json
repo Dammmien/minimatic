@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Striking Distance",
+    "year": 1993,
+    "cast": [
+      "Bruce Willis",
+      "Sarah Jessica Parker",
+      "Tom Sizemore",
+      "Dennis Farina",
+      "Robert Pastorelli"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/striking-distance.html"
+}

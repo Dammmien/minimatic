@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cheaters at Play",
+    "year": 1932,
+    "cast": [
+      "Thomas Meighan",
+      "Charlotte Greenwood"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cheaters-at-play.html"
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Rango",
+    "year": 2011,
+    "cast": [
+      "Johnny Depp",
+      "Isla Fisher",
+      "Abigail Breslin",
+      "Alfred Molina",
+      "Bill Nighy",
+      "Harry Dean Stanton",
+      "Ray Winstone",
+      "Timothy Olyphant"
+    ],
+    "genres": [
+      "Animated",
+      "Family",
+      "Western"
+    ]
+  },
+  "output": "movies/rango.html"
+}

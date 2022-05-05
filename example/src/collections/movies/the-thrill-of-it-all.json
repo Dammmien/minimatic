@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Thrill of It All",
+    "year": 1963,
+    "cast": [
+      "Doris Day",
+      "James Garner"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-thrill-of-it-all.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Adventure in Music",
+    "year": 1944,
+    "cast": [
+      "José Iturbi",
+      "Emanuel Feuermann",
+      "Mildred Dilling"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/adventure-in-music.html"
+}

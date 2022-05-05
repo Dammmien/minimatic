@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Monster Man",
+    "year": 2003,
+    "cast": [
+      "Eric Jungmann",
+      "Justin Urich",
+      "Aimee Brooks",
+      "Michael Bailey Smith"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/monster-man.html"
+}

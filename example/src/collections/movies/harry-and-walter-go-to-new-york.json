@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Harry and Walter Go to New York",
+    "year": 1976,
+    "cast": [
+      "James Caan",
+      "Elliott Gould",
+      "Diane Keaton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/harry-and-walter-go-to-new-york.html"
+}

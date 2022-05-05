@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paris at Midnight",
+    "year": 1926,
+    "cast": [
+      "Jetta Goudal",
+      "Lionel Barrymore",
+      "Mary Brian"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/paris-at-midnight.html"
+}

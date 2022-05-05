@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Puddin' Head",
+    "year": 1941,
+    "cast": [
+      "Judy Canova",
+      "Francis Lederer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/puddin--head.html"
+}

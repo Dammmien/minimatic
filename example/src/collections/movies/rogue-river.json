@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rogue River",
+    "year": 1951,
+    "cast": [
+      "Rory Calhoun",
+      "Peter Graves",
+      "Frank Fenton"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/rogue-river.html"
+}

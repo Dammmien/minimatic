@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Saturday's Hero",
+    "year": 1951,
+    "cast": [
+      "John Derek",
+      "Donna Reed",
+      "Sidney Blackmer"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/saturday-s-hero.html"
+}

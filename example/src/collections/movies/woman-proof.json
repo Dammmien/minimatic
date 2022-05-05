@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Woman-Proof",
+    "year": 1923,
+    "cast": [
+      "Thomas Meighan",
+      "Lila Lee",
+      "Louise Dresser"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/woman-proof.html"
+}

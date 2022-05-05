@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Half a Sinner",
+    "year": 1940,
+    "cast": [
+      "Heather Angel",
+      "John King"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/half-a-sinner.html"
+}

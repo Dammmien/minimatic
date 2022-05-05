@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Birth of a Nation",
+    "year": 2016,
+    "cast": [
+      "Nate Parker",
+      "Armie Hammer"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-birth-of-a-nation.html"
+}

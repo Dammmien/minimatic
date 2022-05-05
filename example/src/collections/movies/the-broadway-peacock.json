@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Broadway Peacock",
+    "year": 1922,
+    "cast": [
+      "Pearl White",
+      "Joseph Striker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-broadway-peacock.html"
+}

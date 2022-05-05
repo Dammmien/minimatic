@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Casanova in Burlesque",
+    "year": 1944,
+    "cast": [
+      "Joe E. Brown",
+      "June Havoc",
+      "Dale Evans"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/casanova-in-burlesque.html"
+}

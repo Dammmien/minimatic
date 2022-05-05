@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Animal Farm",
+    "year": 1999,
+    "cast": [
+      "(voices of)",
+      "Kelsey Grammer",
+      "Ian Holm",
+      "Paul Scofield",
+      "Patrick Stewart",
+      "Julia Ormond",
+      "Peter Ustinov"
+    ],
+    "genres": [
+      "Family",
+      "Animated"
+    ]
+  },
+  "output": "movies/animal-farm.html"
+}

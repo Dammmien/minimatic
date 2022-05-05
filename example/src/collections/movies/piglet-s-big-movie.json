@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Piglet's Big Movie",
+    "year": 2003,
+    "cast": [
+      "Peter Cullen",
+      "Jim Cummings",
+      "John Fiedler"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/piglet-s-big-movie.html"
+}

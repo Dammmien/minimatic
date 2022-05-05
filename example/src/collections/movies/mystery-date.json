@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mystery Date",
+    "year": 1991,
+    "cast": [
+      "Ethan Hawke",
+      "Teri Polo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mystery-date.html"
+}

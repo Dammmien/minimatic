@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Gulliver's Travels",
+    "year": 2010,
+    "cast": [
+      "Jack Black",
+      "Emily Blunt",
+      "Jason Segel",
+      "Catherine Tate",
+      "James Corden",
+      "Amanda Peet",
+      "Chris O'Dowd",
+      "Billy Connolly",
+      "Hugh Jackman"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/gulliver-s-travels.html"
+}

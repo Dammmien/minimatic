@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Single Handed",
+    "year": 1923,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/single-handed.html"
+}

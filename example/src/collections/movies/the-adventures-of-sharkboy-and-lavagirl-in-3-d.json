@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Adventures of Sharkboy and Lavagirl in 3-D",
+    "year": 2005,
+    "cast": [
+      "Taylor Lautner",
+      "Taylor Dooley",
+      "Cayden Boyd",
+      "George Lopez"
+    ],
+    "genres": [
+      "Family",
+      "Superhero"
+    ]
+  },
+  "output": "movies/the-adventures-of-sharkboy-and-lavagirl-in-3-d.html"
+}

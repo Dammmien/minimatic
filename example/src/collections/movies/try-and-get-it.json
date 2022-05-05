@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Try and Get It",
+    "year": 1924,
+    "cast": [
+      "Billie Dove",
+      "Edward Everett Horton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/try-and-get-it.html"
+}

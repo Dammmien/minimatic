@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Swept Away",
+    "year": 2002,
+    "cast": [
+      "Madonna",
+      "Adriano Giannini",
+      "Bruce Greenwood",
+      "Jeanne Tripplehorn"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/swept-away.html"
+}

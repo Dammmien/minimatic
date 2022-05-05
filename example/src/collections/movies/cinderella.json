@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Cinderella",
+    "year": 2015,
+    "cast": [
+      "Lily James",
+      "Richard Madden",
+      "Cate Blanchett",
+      "Helena Bonham Carter",
+      "Holliday Grainger"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/cinderella.html"
+}

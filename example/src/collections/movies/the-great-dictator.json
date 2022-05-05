@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Dictator",
+    "year": 1940,
+    "cast": [
+      "Charles Chaplin",
+      "Paulette Goddard",
+      "Jack Oakie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-great-dictator.html"
+}

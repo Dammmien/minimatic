@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Long Pants",
+    "year": 1927,
+    "cast": [
+      "Harry Langdon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/long-pants.html"
+}

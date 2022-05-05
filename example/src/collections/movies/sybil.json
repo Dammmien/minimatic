@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sybil",
+    "year": 1976,
+    "cast": [
+      "Sally Field",
+      "Joanne Woodward",
+      "Brad Davis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sybil.html"
+}

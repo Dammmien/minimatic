@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Rocky Horror Picture Show",
+    "year": 1975,
+    "cast": [
+      "Tim Curry",
+      "Susan Sarandon",
+      "Barry Bostwick"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-rocky-horror-picture-show.html"
+}

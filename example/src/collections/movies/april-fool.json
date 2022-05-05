@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "April Fool",
+    "year": 1926,
+    "cast": [
+      "Duane Thompson",
+      "Mary Alden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/april-fool.html"
+}

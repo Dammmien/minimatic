@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Ticket to Red Horse Gulch",
+    "year": 1914,
+    "cast": [
+      "Belle Bennett",
+      "William Garwood",
+      "William Lowery"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-ticket-to-red-horse-gulch.html"
+}

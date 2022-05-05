@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In Love with Life",
+    "year": 1934,
+    "cast": [
+      "Lila Lee",
+      "Dickie Moore"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/in-love-with-life.html"
+}

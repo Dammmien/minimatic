@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "On Golden Pond",
+    "year": 1981,
+    "cast": [
+      "Henry Fonda",
+      "Katharine Hepburn",
+      "Jane Fonda",
+      "Dabney Coleman",
+      "Doug McKeon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/on-golden-pond.html"
+}

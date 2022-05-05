@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Red, Hot and Blue",
+    "year": 1949,
+    "cast": [
+      "Betty Hutton",
+      "Victor Mature",
+      "William Demarest"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/red--hot-and-blue.html"
+}

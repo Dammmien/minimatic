@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Perfect Strangers",
+    "year": 1950,
+    "cast": [
+      "Ginger Rogers",
+      "Dennis Morgan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/perfect-strangers.html"
+}

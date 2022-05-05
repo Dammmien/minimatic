@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Geared to Go",
+    "year": 1924,
+    "cast": [
+      "Reed Howes",
+      "Carmelita Geraghty"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/geared-to-go.html"
+}

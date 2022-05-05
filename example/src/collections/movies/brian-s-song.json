@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Brian's Song",
+    "year": 1971,
+    "cast": [
+      "James Caan",
+      "Billy Dee Williams",
+      "Shelley Fabares",
+      "Jack Warden"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/brian-s-song.html"
+}

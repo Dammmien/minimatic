@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Million B.C.",
+    "year": 1940,
+    "cast": [
+      "Victor Mature",
+      "Carole Landis",
+      "Lon Chaney Jr."
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/one-million-b-c-.html"
+}

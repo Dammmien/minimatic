@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Ocean's 8",
+    "year": 2018,
+    "cast": [
+      "Sandra Bullock",
+      "Cate Blanchett",
+      "Anne Hathaway",
+      "Mindy Kaling",
+      "Sarah Paulson",
+      "Awkwafina",
+      "Rihanna",
+      "Helena Bonham Carter"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/ocean-s-8.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kounterfeit",
+    "year": 1996,
+    "cast": [
+      "Hilary Swank",
+      "Bruce Payne",
+      "Corbin Bernsen"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/kounterfeit.html"
+}

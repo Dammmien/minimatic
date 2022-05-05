@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Me, Myself & Irene",
+    "year": 2000,
+    "cast": [
+      "Jim Carrey",
+      "Renée Zellweger",
+      "Robert Forster",
+      "Chris Cooper"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/me--myself---irene.html"
+}

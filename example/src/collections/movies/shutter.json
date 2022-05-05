@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Shutter",
+    "year": 2008,
+    "cast": [
+      "Joshua Jackson",
+      "Rachael Taylor",
+      "James Kyson Lee",
+      "David Denman"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/shutter.html"
+}

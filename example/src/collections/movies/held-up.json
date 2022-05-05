@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Held Up",
+    "year": 2000,
+    "cast": [
+      "Jamie Foxx",
+      "Nia Long"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/held-up.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Where the Boys Are",
+    "year": 1960,
+    "cast": [
+      "George Hamilton",
+      "Connie Francis",
+      "Yvette Mimieux",
+      "Paula Prentiss"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/where-the-boys-are.html"
+}

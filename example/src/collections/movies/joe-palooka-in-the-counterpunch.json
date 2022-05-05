@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Joe Palooka in the Counterpunch",
+    "year": 1949,
+    "cast": [
+      "Leon Errol",
+      "Joe Kirkwood",
+      "Elyse Knox"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/joe-palooka-in-the-counterpunch.html"
+}

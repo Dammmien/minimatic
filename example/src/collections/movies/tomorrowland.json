@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Tomorrowland",
+    "year": 2015,
+    "cast": [
+      "George Clooney",
+      "Hugh Laurie",
+      "Britt Robertson",
+      "Raffey Cassidy",
+      "Thomas Robinson"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Mystery"
+    ]
+  },
+  "output": "movies/tomorrowland.html"
+}

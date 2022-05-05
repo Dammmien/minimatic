@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Desert Hell",
+    "year": 1958,
+    "cast": [
+      "Brian Keith",
+      "Barbara Hale"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/desert-hell.html"
+}

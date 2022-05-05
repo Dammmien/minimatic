@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Waitress",
+    "year": 2007,
+    "cast": [
+      "Keri Russell",
+      "Nathan Fillion",
+      "Cheryl Hines",
+      "Jeremy Sisto"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/waitress.html"
+}

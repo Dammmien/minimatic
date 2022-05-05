@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Five and Ten Cent Annie",
+    "year": 1928,
+    "cast": [
+      "Louise Fazenda",
+      "Clyde Cook"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/five-and-ten-cent-annie.html"
+}

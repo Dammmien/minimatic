@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jolson Sings Again",
+    "year": 1949,
+    "cast": [
+      "Larry Parks",
+      "Barbara Hale"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/jolson-sings-again.html"
+}

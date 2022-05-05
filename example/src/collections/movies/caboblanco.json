@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Caboblanco",
+    "year": 1980,
+    "cast": [
+      "Charles Bronson",
+      "Jason Robards",
+      "Dominique Sanda"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/caboblanco.html"
+}

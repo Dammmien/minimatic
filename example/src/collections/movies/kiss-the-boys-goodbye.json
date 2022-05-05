@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kiss the Boys Goodbye",
+    "year": 1941,
+    "cast": [
+      "Mary Martin",
+      "Don Ameche"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kiss-the-boys-goodbye.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mac",
+    "year": 1992,
+    "cast": [
+      "John Turturro",
+      "Nicholas Turturro",
+      "Ellen Barkin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mac.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Go Man Go",
+    "year": 1954,
+    "cast": [
+      "Dane Clark",
+      "Sidney Poitier",
+      "Ruby Dee"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/go-man-go.html"
+}

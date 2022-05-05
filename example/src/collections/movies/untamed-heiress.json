@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Untamed Heiress",
+    "year": 1954,
+    "cast": [
+      "Judy Canova",
+      "George Cleveland"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/untamed-heiress.html"
+}

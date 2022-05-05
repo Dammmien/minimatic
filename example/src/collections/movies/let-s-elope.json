@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Let's Elope",
+    "year": 1919,
+    "cast": [
+      "Marguerite Clark",
+      "Gaston Glass"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-s-elope.html"
+}

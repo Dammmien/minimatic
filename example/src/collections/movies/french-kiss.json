@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "French Kiss",
+    "year": 1995,
+    "cast": [
+      "Meg Ryan",
+      "Kevin Kline",
+      "Timothy Hutton"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/french-kiss.html"
+}

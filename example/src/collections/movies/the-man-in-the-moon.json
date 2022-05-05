@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Man in the Moon",
+    "year": 1991,
+    "cast": [
+      "Reese Witherspoon",
+      "Jason London",
+      "Sam Waterston",
+      "Tess Harper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-in-the-moon.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Leprechaun",
+    "year": 1993,
+    "cast": [
+      "Warwick Davis",
+      "Jennifer Aniston"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/leprechaun.html"
+}

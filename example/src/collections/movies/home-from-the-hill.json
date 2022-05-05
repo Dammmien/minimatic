@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Home from the Hill",
+    "year": 1960,
+    "cast": [
+      "Robert Mitchum",
+      "Eleanor Parker",
+      "George Peppard",
+      "George Hamilton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/home-from-the-hill.html"
+}

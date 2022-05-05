@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Heaven & Earth",
+    "year": 1993,
+    "cast": [
+      "Tommy Lee Jones",
+      "Joan Chen",
+      "Haing S. Ngor"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/heaven---earth.html"
+}

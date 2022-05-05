@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Danger Flight",
+    "year": 1939,
+    "cast": [
+      "Marjorie Reynolds",
+      "Milburn Stone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/danger-flight.html"
+}

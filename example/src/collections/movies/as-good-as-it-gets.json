@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "As Good as It Gets",
+    "year": 1997,
+    "cast": [
+      "Jack Nicholson",
+      "Helen Hunt",
+      "Greg Kinnear",
+      "Cuba Gooding, Jr.",
+      "Shirley Knight"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/as-good-as-it-gets.html"
+}

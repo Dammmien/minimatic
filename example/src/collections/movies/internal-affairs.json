@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Internal Affairs",
+    "year": 1990,
+    "cast": [
+      "Richard Gere",
+      "Andy García",
+      "Nancy Travis",
+      "Laurie Metcalf",
+      "Richard Bradford",
+      "William Baldwin"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/internal-affairs.html"
+}

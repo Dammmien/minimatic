@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "My Country, My Country",
+    "year": 2006,
+    "cast": [
+      "the life of Iraqis under American occupation"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/my-country--my-country.html"
+}

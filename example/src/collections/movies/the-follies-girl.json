@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Follies Girl",
+    "year": 1919,
+    "cast": [
+      "Olive Thomas",
+      "Wallace MacDonald"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-follies-girl.html"
+}

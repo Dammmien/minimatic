@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sisters",
+    "year": 2005,
+    "cast": [
+      "Maria Bello",
+      "Mary Stuart Masterson",
+      "Erika Christensen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sisters.html"
+}

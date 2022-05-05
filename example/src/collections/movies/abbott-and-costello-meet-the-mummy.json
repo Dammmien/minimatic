@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Abbott and Costello Meet the Mummy",
+    "year": 1955,
+    "cast": [
+      "Abbott and Costello"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/abbott-and-costello-meet-the-mummy.html"
+}

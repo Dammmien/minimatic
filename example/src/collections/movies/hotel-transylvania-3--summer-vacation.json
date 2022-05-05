@@ -1,0 +1,30 @@
+{
+  "data": {
+    "title": "Hotel Transylvania 3: Summer Vacation",
+    "year": 2018,
+    "cast": [
+      "Adam Sandler",
+      "Andy Samberg",
+      "Selena Gomez",
+      "David Spade",
+      "Steve Buscemi",
+      "Molly Shannon",
+      "Keegan-Michael Key",
+      "Kevin James",
+      "Fran Drescher",
+      "Asher Blinkoff",
+      "Sadie Sandler",
+      "Joe Whyte",
+      "Kathryn Hahn",
+      "Jim Gaffigan",
+      "Mel Brooks",
+      "Joe Jonas"
+    ],
+    "genres": [
+      "Comedy",
+      "Animated",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/hotel-transylvania-3--summer-vacation.html"
+}

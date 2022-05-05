@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Spy Kids: All the Time in the World",
+    "year": 2011,
+    "cast": [
+      "Jessica Alba",
+      "Joel McHale",
+      "Alexa Vega",
+      "Daryl Sabara",
+      "Rowan Blanchard",
+      "Mason Cook",
+      "Ricky Gervais",
+      "(voice)",
+      "Jeremy Piven",
+      "Danny Trejo"
+    ],
+    "genres": [
+      "Family",
+      "Spy"
+    ]
+  },
+  "output": "movies/spy-kids--all-the-time-in-the-world.html"
+}

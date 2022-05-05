@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Diamonds",
+    "year": 1975,
+    "cast": [
+      "Robert Shaw",
+      "Richard Roundtree",
+      "Shelley Winters",
+      "Barbara Hershey"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/diamonds.html"
+}

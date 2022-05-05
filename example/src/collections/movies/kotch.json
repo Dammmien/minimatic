@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kotch",
+    "year": 1971,
+    "cast": [
+      "Walter Matthau",
+      "Deborah Winters",
+      "Felicia Farr"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kotch.html"
+}

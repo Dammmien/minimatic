@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Taking Woodstock",
+    "year": 2009,
+    "cast": [
+      "Demetri Martin",
+      "Dan Fogler",
+      "Henry Goodman",
+      "Jonathan Groff",
+      "Eugene Levy",
+      "Jeffrey Dean Morgan",
+      "Imelda Staunton",
+      "Emile Hirsch",
+      "Liev Schreiber"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/taking-woodstock.html"
+}

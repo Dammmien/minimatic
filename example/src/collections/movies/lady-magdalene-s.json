@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady Magdalene's",
+    "year": 2007,
+    "cast": [
+      "Nichelle Nichols",
+      "Susan Smythe"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/lady-magdalene-s.html"
+}

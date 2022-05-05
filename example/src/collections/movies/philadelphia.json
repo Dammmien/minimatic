@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Philadelphia",
+    "year": 1993,
+    "cast": [
+      "Tom Hanks",
+      "Denzel Washington",
+      "Antonio Banderas",
+      "Jason Robards",
+      "Mary Steenburgen",
+      "Joanne Woodward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/philadelphia.html"
+}

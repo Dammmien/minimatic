@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Extremely Loud and Incredibly Close",
+    "year": 2011,
+    "cast": [
+      "Tom Hanks",
+      "Sandra Bullock",
+      "Thomas Horn",
+      "Max von Sydow",
+      "Viola Davis",
+      "John Goodman",
+      "Jeffrey Wright",
+      "James Gandolfini"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/extremely-loud-and-incredibly-close.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hard to Handle",
+    "year": 1933,
+    "cast": [
+      "James Cagney",
+      "Mary Brian",
+      "Allen Jenkins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hard-to-handle.html"
+}

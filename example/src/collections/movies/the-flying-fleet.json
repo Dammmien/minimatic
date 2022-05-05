@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Flying Fleet",
+    "year": 1929,
+    "cast": [
+      "Ramon Navarro",
+      "Ralph Graves",
+      "Anita Page"
+    ],
+    "genres": [
+      "Romance",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-flying-fleet.html"
+}

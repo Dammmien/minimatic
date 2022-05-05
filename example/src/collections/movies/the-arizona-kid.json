@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Arizona Kid",
+    "year": 1939,
+    "cast": [
+      "Roy Rogers",
+      "George \"Gabby\" Hayes",
+      "Sally March"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-arizona-kid.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Silverado",
+    "year": 1985,
+    "cast": [
+      "Scott Glenn",
+      "Kevin Kline",
+      "Kevin Costner",
+      "John Cleese",
+      "Danny Glover",
+      "Jeff Goldblum",
+      "Brian Dennehy",
+      "Rosanna Arquette",
+      "Linda Hunt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/silverado.html"
+}

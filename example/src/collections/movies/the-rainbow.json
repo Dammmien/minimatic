@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Rainbow",
+    "year": 1929,
+    "cast": [
+      "Dorothy Sebastian",
+      "Lawrence Gray"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-rainbow.html"
+}

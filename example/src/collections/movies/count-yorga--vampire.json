@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Count Yorga, Vampire",
+    "year": 1970,
+    "cast": [
+      "Robert Quarry",
+      "Michael Murphy"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/count-yorga--vampire.html"
+}

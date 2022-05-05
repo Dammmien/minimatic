@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Showdown in Little Tokyo",
+    "year": 1991,
+    "cast": [
+      "Dolph Lundgren",
+      "Brandon Lee"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/showdown-in-little-tokyo.html"
+}

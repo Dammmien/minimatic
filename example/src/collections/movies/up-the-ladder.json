@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Up the Ladder",
+    "year": 1925,
+    "cast": [
+      "Virginia Valli",
+      "Forrest Stanley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/up-the-ladder.html"
+}

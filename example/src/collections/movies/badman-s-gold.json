@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Badman's Gold",
+    "year": 1951,
+    "cast": [
+      "Johnny Carpenter",
+      "Kenne Duncan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/badman-s-gold.html"
+}

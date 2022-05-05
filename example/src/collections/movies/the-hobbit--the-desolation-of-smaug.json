@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Hobbit: The Desolation of Smaug",
+    "year": 2013,
+    "cast": [
+      "Ian McKellen",
+      "Martin Freeman",
+      "Benedict Cumberbatch",
+      "Lee Pace",
+      "Evangeline Lilly",
+      "Stephen Fry",
+      "James Nesbitt"
+    ],
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-hobbit--the-desolation-of-smaug.html"
+}

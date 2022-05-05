@@ -1,0 +1,20 @@
+{
+  "id": 514,
+  "name": {
+    "english": "Simisear",
+    "japanese": "バオッキー",
+    "chinese": "爆香猿",
+    "french": "Flamoutan"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "HP": 75,
+    "Attack": 98,
+    "Defense": 63,
+    "Sp. Attack": 98,
+    "Sp. Defense": 63,
+    "Speed": 101
+  }
+}

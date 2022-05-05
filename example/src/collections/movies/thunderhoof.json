@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thunderhoof",
+    "year": 1948,
+    "cast": [
+      "Preston Foster",
+      "Mary Stuart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/thunderhoof.html"
+}

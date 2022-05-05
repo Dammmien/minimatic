@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Varsity Show",
+    "year": 1937,
+    "cast": [
+      "Dick Powell",
+      "Priscilla Lane"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/varsity-show.html"
+}

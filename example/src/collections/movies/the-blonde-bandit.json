@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Blonde Bandit",
+    "year": 1950,
+    "cast": [
+      "Dorothy Patrick",
+      "Gerald Mohr"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-blonde-bandit.html"
+}

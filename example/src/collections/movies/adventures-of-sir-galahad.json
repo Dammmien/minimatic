@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Adventures of Sir Galahad",
+    "year": 1949,
+    "cast": [
+      "George Reeves",
+      "Lois Hall"
+    ],
+    "genres": []
+  },
+  "output": "movies/adventures-of-sir-galahad.html"
+}

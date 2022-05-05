@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Six Degrees of Separation",
+    "year": 1993,
+    "cast": [
+      "Stockard Channing",
+      "Will Smith",
+      "Donald Sutherland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/six-degrees-of-separation.html"
+}

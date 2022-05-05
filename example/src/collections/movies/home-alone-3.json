@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Home Alone 3",
+    "year": 1997,
+    "cast": [
+      "Alex D. Linz"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/home-alone-3.html"
+}

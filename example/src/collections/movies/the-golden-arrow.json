@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Golden Arrow",
+    "year": 1936,
+    "cast": [
+      "Bette Davis",
+      "George Brent",
+      "Eugene Pallette"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-golden-arrow.html"
+}

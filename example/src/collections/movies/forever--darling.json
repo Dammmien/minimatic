@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Forever, Darling",
+    "year": 1956,
+    "cast": [
+      "Lucille Ball",
+      "Desi Arnaz",
+      "James Mason"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/forever--darling.html"
+}

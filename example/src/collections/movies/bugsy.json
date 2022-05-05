@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Bugsy",
+    "year": 1991,
+    "cast": [
+      "Warren Beatty",
+      "Annette Bening",
+      "Ben Kingsley",
+      "Harvey Keitel",
+      "Joe Mantegna",
+      "Elliott Gould",
+      "Wendy Phillips",
+      "Bebe Neuwirth",
+      "Bill Graham"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/bugsy.html"
+}

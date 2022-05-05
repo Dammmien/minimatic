@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Toys in the Attic",
+    "year": 1963,
+    "cast": [
+      "Dean Martin",
+      "Geraldine Page",
+      "Yvette Mimieux",
+      "Wendy Hiller",
+      "Gene Tierney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/toys-in-the-attic.html"
+}

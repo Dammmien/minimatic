@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Hunters",
+    "year": 1958,
+    "cast": [
+      "Robert Mitchum",
+      "Robert Wagner",
+      "Richard Egan",
+      "Lee Philips",
+      "May Britt"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-hunters.html"
+}

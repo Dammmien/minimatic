@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Money Talks",
+    "year": 1997,
+    "cast": [
+      "Chris Tucker",
+      "Charlie Sheen",
+      "Heather Locklear"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/money-talks.html"
+}

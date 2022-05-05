@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "'Taint Legal",
+    "year": 1940,
+    "cast": [
+      "Edgar Kennedy",
+      "Vivien Oakland",
+      "Billy Franey"
+    ],
+    "genres": [
+      "Short",
+      "Comedy"
+    ]
+  },
+  "output": "movies/-taint-legal.html"
+}

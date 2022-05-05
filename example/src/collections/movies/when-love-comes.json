@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When Love Comes",
+    "year": 1922,
+    "cast": [
+      "Helen Jerome Eddy",
+      "Harrison Ford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/when-love-comes.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Love Brand",
+    "year": 1923,
+    "cast": [
+      "Roy Stewart",
+      "Margaret Landis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-love-brand.html"
+}

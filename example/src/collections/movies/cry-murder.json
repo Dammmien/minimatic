@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cry Murder",
+    "year": 1950,
+    "cast": [
+      "Carole Mathews",
+      "Jack Lord"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/cry-murder.html"
+}

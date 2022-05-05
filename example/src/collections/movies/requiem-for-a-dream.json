@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Requiem for a Dream",
+    "year": 2000,
+    "cast": [
+      "Ellen Burstyn",
+      "Jared Leto",
+      "Jennifer Connelly",
+      "Marlon Wayans"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/requiem-for-a-dream.html"
+}

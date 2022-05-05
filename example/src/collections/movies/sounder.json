@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sounder",
+    "year": 1972,
+    "cast": [
+      "Cicely Tyson",
+      "Paul Winfield",
+      "Kevin Hooks"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sounder.html"
+}

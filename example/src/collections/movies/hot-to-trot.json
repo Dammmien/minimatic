@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hot to Trot",
+    "year": 1988,
+    "cast": [
+      "Bobcat Goldthwait",
+      "Dabney Coleman",
+      "Virginia Madsen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hot-to-trot.html"
+}

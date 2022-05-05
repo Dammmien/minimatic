@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nijinsky",
+    "year": 1980,
+    "cast": [
+      "Alan Bates",
+      "George de la Peña",
+      "Leslie Browne"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/nijinsky.html"
+}

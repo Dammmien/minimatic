@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Central Airport",
+    "year": 1933,
+    "cast": [
+      "Richard Barthelmess",
+      "James Murray",
+      "Sally Eilers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/central-airport.html"
+}

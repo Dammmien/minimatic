@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Henry Aldrich Swings It",
+    "year": 1943,
+    "cast": [
+      "Jimmy Lydon",
+      "John Litel",
+      "Olive Blakeney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/henry-aldrich-swings-it.html"
+}

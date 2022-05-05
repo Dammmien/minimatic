@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "African Treasure",
+    "year": 1952,
+    "cast": [
+      "Johnny Sheffield",
+      "Laurette Luez",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/african-treasure.html"
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Escape from Planet Earth",
+    "year": 2013,
+    "cast": [
+      "Rob Corddry",
+      "Brendan Fraser",
+      "Sarah Jessica Parker",
+      "William Shatner",
+      "Jessica Alba",
+      "Craig Robinson",
+      "George Lopez",
+      "James Corden",
+      "Jane Lynch",
+      "Sofía Vergara"
+    ],
+    "genres": [
+      "Animated",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/escape-from-planet-earth.html"
+}

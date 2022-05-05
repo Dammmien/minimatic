@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Muppets from Space",
+    "year": 1999,
+    "cast": [
+      "Dave Goelz",
+      "Steve Whitmire",
+      "Bill Barretta",
+      "Frank Oz"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/muppets-from-space.html"
+}

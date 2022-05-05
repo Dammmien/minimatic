@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "National Lampoon's Christmas Vacation",
+    "year": 1989,
+    "cast": [
+      "Chevy Chase",
+      "Beverly D'Angelo",
+      "Juliette Lewis",
+      "Randy Quaid",
+      "Johnny Galecki"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/national-lampoon-s-christmas-vacation.html"
+}

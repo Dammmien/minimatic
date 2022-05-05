@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "West of the Water Tower",
+    "year": 1923,
+    "cast": [
+      "Glenn Hunter",
+      "May McAvoy",
+      "Ernest Torrence"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/west-of-the-water-tower.html"
+}

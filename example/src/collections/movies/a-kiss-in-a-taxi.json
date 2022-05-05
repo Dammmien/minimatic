@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Kiss in a Taxi",
+    "year": 1927,
+    "cast": [
+      "Bebe Daniels",
+      "Chester Conklin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-kiss-in-a-taxi.html"
+}

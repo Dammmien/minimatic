@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Night in Rome",
+    "year": 1924,
+    "cast": [
+      "Laurette Taylor",
+      "Tom Moore"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/one-night-in-rome.html"
+}

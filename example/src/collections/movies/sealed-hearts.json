@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sealed Hearts",
+    "year": 1919,
+    "cast": [
+      "Eugene O'Brien",
+      "Robert Edeson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sealed-hearts.html"
+}

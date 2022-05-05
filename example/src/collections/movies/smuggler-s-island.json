@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smuggler's Island",
+    "year": 1951,
+    "cast": [
+      "Jeff Chandler",
+      "Evelyn Keyes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/smuggler-s-island.html"
+}

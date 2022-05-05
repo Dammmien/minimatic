@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Bright Lights, Big City",
+    "year": 1988,
+    "cast": [
+      "Michael J. Fox",
+      "Kiefer Sutherland",
+      "Phoebe Cates",
+      "Dianne Wiest",
+      "Tracy Pollan",
+      "Swoosie Kurtz",
+      "Jason Robards"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bright-lights--big-city.html"
+}

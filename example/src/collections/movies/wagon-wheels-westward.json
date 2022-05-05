@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wagon Wheels Westward",
+    "year": 1945,
+    "cast": [
+      "Wild Bill Elliott",
+      "Linda Stirling"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wagon-wheels-westward.html"
+}

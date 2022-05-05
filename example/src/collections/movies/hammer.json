@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hammer",
+    "year": 1972,
+    "cast": [
+      "Fred Williamson",
+      "Bernie Hamilton",
+      "Vonetta McGee"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/hammer.html"
+}

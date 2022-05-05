@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Antwone Fisher",
+    "year": 2002,
+    "cast": [
+      "Derek Luke",
+      "Joy Bryant",
+      "Denzel Washington",
+      "Malcolm David Kelley"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/antwone-fisher.html"
+}

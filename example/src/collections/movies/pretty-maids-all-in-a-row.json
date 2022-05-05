@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pretty Maids All in a Row",
+    "year": 1971,
+    "cast": [
+      "Rock Hudson",
+      "Angie Dickinson"
+    ],
+    "genres": [
+      "Mystery",
+      "Comedy"
+    ]
+  },
+  "output": "movies/pretty-maids-all-in-a-row.html"
+}

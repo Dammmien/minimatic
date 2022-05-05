@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Storytelling",
+    "year": 2001,
+    "cast": [
+      "Paul Giamatti",
+      "Selma Blair",
+      "John Goodman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/storytelling.html"
+}

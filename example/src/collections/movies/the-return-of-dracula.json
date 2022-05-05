@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Return of Dracula",
+    "year": 1958,
+    "cast": [
+      "Francis Lederer",
+      "Norma Eberhardt"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-return-of-dracula.html"
+}

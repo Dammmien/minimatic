@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Princess Bride",
+    "year": 1987,
+    "cast": [
+      "Cary Elwes",
+      "Robin Wright",
+      "Mandy Patinkin",
+      "André the Giant",
+      "Chris Sarandon",
+      "Christopher Guest",
+      "Wallace Shawn",
+      "Billy Crystal",
+      "Peter Falk",
+      "Fred Savage"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-princess-bride.html"
+}

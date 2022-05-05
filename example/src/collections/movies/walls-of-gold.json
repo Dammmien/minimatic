@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Walls of Gold",
+    "year": 1933,
+    "cast": [
+      "Sally Eilers",
+      "Norman Foster"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/walls-of-gold.html"
+}

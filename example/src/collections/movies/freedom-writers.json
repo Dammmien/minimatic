@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Freedom Writers",
+    "year": 2007,
+    "cast": [
+      "Hilary Swank",
+      "Scott Glenn",
+      "Imelda Staunton",
+      "Patrick Dempsey",
+      "Mario"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/freedom-writers.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Bravados",
+    "year": 1958,
+    "cast": [
+      "Gregory Peck",
+      "Stephen Boyd",
+      "Albert Salmi",
+      "Joan Collins"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-bravados.html"
+}

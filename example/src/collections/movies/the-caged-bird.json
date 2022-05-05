@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Caged Bird",
+    "year": 1913,
+    "cast": [
+      "William Garwood",
+      "Marguerite Snow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-caged-bird.html"
+}

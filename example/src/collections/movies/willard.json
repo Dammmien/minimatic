@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Willard",
+    "year": 2003,
+    "cast": [
+      "Crispin Glover"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/willard.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Some Pun'kins",
+    "year": 1925,
+    "cast": [
+      "Charles Ray",
+      "George Fawcett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/some-pun-kins.html"
+}

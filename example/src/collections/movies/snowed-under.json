@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Snowed Under",
+    "year": 1936,
+    "cast": [
+      "George Brent",
+      "Genevieve Tobin",
+      "Glenda Farrell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/snowed-under.html"
+}

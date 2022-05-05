@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Who Killed Doc Robbin",
+    "year": 1948,
+    "cast": [
+      "Larry Casey",
+      "Virginia Grey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/who-killed-doc-robbin.html"
+}

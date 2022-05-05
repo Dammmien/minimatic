@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fangs of the Wild",
+    "year": 1954,
+    "cast": [
+      "Charles Chaplin Jr.",
+      "Onslow Stevens",
+      "Margia Dean"
+    ],
+    "genres": [
+      "Adventure",
+      "Western"
+    ]
+  },
+  "output": "movies/fangs-of-the-wild.html"
+}

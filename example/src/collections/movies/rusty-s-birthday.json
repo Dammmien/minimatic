@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rusty's Birthday",
+    "year": 1949,
+    "cast": [
+      "John Litel",
+      "Ann Doran"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rusty-s-birthday.html"
+}

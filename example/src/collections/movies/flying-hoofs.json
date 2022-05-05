@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flying Hoofs",
+    "year": 1925,
+    "cast": [
+      "Jack Hoxie",
+      "Bartlett Carré"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/flying-hoofs.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Along Came Love",
+    "year": 1936,
+    "cast": [
+      "Irene Hervey",
+      "H. B. Warner",
+      "Charles Starrett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/along-came-love.html"
+}

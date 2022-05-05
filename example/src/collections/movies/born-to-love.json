@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Born to Love",
+    "year": 1931,
+    "cast": [
+      "Joel McCrea",
+      "Constance Bennett",
+      "Paul Cavanagh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/born-to-love.html"
+}

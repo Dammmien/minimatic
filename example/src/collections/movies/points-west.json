@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Points West",
+    "year": 1929,
+    "cast": [
+      "Hoot Gibson",
+      "Alberta Vaughn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/points-west.html"
+}

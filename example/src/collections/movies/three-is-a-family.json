@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Is a Family",
+    "year": 1944,
+    "cast": [
+      "Marjorie Reynolds",
+      "Charles Ruggles"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-is-a-family.html"
+}

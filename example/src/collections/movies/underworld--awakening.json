@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Underworld: Awakening",
+    "year": 2012,
+    "cast": [
+      "Kate Beckinsale",
+      "Stephen Rea",
+      "Michael Ealy",
+      "Theo James",
+      "India Eisley",
+      "and",
+      "Charles Dance"
+    ],
+    "genres": [
+      "Action",
+      "Horror"
+    ]
+  },
+  "output": "movies/underworld--awakening.html"
+}

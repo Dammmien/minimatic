@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gayby",
+    "year": 2012,
+    "cast": [
+      "Jenn Harris",
+      "Matthew Wilkas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gayby.html"
+}

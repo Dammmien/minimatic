@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flame of the West",
+    "year": 1945,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton",
+      "Joan Woodbury"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/flame-of-the-west.html"
+}

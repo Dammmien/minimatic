@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Insurance",
+    "year": 1919,
+    "cast": [
+      "Bryant Washburn",
+      "Lois Wilson",
+      "Theodore Roberts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-insurance.html"
+}

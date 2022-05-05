@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "How to Commit Marriage",
+    "year": 1969,
+    "cast": [
+      "Bob Hope",
+      "Jackie Gleason",
+      "Jane Wyman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/how-to-commit-marriage.html"
+}

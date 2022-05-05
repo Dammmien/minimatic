@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Kramer vs. Kramer",
+    "year": 1979,
+    "cast": [
+      "Dustin Hoffman",
+      "Justin Henry",
+      "Meryl Streep",
+      "Jane Alexander",
+      "JoBeth Williams",
+      "Howard Duff"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kramer-vs--kramer.html"
+}

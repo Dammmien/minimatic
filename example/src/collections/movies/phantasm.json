@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Phantasm",
+    "year": 1979,
+    "cast": [
+      "Reggie Bannister",
+      "Angus Scrimm"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/phantasm.html"
+}

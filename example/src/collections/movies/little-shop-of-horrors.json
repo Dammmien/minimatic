@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Little Shop of Horrors",
+    "year": 1986,
+    "cast": [
+      "Rick Moranis",
+      "Ellen Greene",
+      "Steve Martin"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-shop-of-horrors.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Beauty and the Boss",
+    "year": 1932,
+    "cast": [
+      "Marian Marsh",
+      "David Manners",
+      "Warren William"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/beauty-and-the-boss.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Clifford",
+    "year": 1994,
+    "cast": [
+      "Martin Short",
+      "Charles Grodin",
+      "Mary Steenburgen",
+      "Dabney Coleman",
+      "Richard Kind"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/clifford.html"
+}

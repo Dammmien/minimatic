@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Boy and the Pirates",
+    "year": 1960,
+    "cast": [
+      "Charles Herbert",
+      "Susan Gordon",
+      "Murvyn Vye"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-boy-and-the-pirates.html"
+}

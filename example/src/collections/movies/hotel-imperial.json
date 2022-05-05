@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hotel Imperial",
+    "year": 1927,
+    "cast": [
+      "Pola Negri",
+      "James Hall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hotel-imperial.html"
+}

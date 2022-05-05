@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Siren Call",
+    "year": 1922,
+    "cast": [
+      "Dorothy Dalton",
+      "David Powell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-siren-call.html"
+}

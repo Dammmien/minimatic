@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Public Enemies",
+    "year": 2009,
+    "cast": [
+      "Johnny Depp",
+      "Christian Bale",
+      "Marion Cotillard",
+      "Channing Tatum",
+      "David Wenham",
+      "Stephen Graham",
+      "Giovanni Ribisi",
+      "Stephen Dorff",
+      "Billy Crudup"
+    ],
+    "genres": [
+      "Crime",
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/public-enemies.html"
+}

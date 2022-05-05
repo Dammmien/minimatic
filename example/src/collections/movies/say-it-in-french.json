@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Say It in French",
+    "year": 1938,
+    "cast": [
+      "Ray Milland",
+      "Irene Hervey",
+      "Mary Carlisle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/say-it-in-french.html"
+}

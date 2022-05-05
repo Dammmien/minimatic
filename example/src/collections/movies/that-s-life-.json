@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "That's Life!",
+    "year": 1986,
+    "cast": [
+      "Jack Lemmon",
+      "Julie Andrews",
+      "Sally Kellerman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/that-s-life-.html"
+}

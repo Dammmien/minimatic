@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Purchase Price",
+    "year": 1932,
+    "cast": [
+      "Barbara Stanwyck",
+      "George Brent",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-purchase-price.html"
+}

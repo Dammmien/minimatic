@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Country Gentlemen",
+    "year": 1936,
+    "cast": [
+      "Chic Johnson",
+      "Ole Olsen",
+      "Joyce Compton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/country-gentlemen.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Finger Points",
+    "year": 1931,
+    "cast": [
+      "Richard Barthelmess",
+      "Fay Wray",
+      "Clark Gable"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-finger-points.html"
+}

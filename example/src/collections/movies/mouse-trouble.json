@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mouse Trouble",
+    "year": 1944,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/mouse-trouble.html"
+}

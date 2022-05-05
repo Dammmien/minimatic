@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Search for Beauty",
+    "year": 1934,
+    "cast": [
+      "Buster Crabbe",
+      "Ida Lupino"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/search-for-beauty.html"
+}

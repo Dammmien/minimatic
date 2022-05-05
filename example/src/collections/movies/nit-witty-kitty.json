@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Nit-Witty Kitty",
+    "year": 1951,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/nit-witty-kitty.html"
+}

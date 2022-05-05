@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Crimson Pirate",
+    "year": 1952,
+    "cast": [
+      "Burt Lancaster",
+      "Eva Bartók"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-crimson-pirate.html"
+}

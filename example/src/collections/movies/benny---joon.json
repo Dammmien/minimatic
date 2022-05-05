@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Benny & Joon",
+    "year": 1993,
+    "cast": [
+      "Johnny Depp",
+      "Mary Stuart Masterson",
+      "Aidan Quinn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/benny---joon.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Thirteenth Chair",
+    "year": 1937,
+    "cast": [
+      "Dame May Whitty",
+      "Lewis Stone",
+      "Elissa Landi"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-thirteenth-chair.html"
+}

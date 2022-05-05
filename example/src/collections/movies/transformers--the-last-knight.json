@@ -1,0 +1,27 @@
+{
+  "data": {
+    "title": "Transformers: The Last Knight",
+    "year": 2017,
+    "cast": [
+      "Mark Wahlberg",
+      "Anthony Hopkins",
+      "Isabela Moner",
+      "Josh Duhamel",
+      "John Turturro",
+      "Stanley Tucci",
+      "Mitch Pileggi",
+      "Jerrod Carmichael",
+      "Laura Haddock",
+      "Santiago Cabrera",
+      "Peter Cullen",
+      "John Goodman",
+      "John DiMaggio"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/transformers--the-last-knight.html"
+}

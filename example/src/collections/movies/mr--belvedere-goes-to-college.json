@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mr. Belvedere Goes to College",
+    "year": 1949,
+    "cast": [
+      "Clifton Webb",
+      "Shirley Temple"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--belvedere-goes-to-college.html"
+}

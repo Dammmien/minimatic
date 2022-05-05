@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Johnny Allegro",
+    "year": 1949,
+    "cast": [
+      "George Raft",
+      "George Macready",
+      "Nina Foch"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/johnny-allegro.html"
+}

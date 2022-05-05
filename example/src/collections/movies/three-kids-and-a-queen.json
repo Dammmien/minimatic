@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Kids and a Queen",
+    "year": 1935,
+    "cast": [
+      "May Robson",
+      "Henry Armetta"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/three-kids-and-a-queen.html"
+}

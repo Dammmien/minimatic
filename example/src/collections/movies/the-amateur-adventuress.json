@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Amateur Adventuress",
+    "year": 1919,
+    "cast": [
+      "Emmy Wehlen",
+      "Eugene Pallette"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-amateur-adventuress.html"
+}

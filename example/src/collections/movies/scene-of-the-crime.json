@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scene of the Crime",
+    "year": 1949,
+    "cast": [
+      "Van Johnson",
+      "Arlene Dahl"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/scene-of-the-crime.html"
+}

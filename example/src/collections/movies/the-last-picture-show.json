@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Last Picture Show",
+    "year": 1971,
+    "cast": [
+      "Jeff Bridges",
+      "Timothy Bottoms",
+      "Cybill Shepherd",
+      "Cloris Leachman",
+      "Ben Johnson",
+      "Ellen Burstyn",
+      "Eileen Brennan",
+      "Randy Quaid"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-last-picture-show.html"
+}

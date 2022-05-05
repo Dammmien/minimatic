@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Big Circus",
+    "year": 1959,
+    "cast": [
+      "Victor Mature",
+      "Red Buttons",
+      "Rhonda Fleming",
+      "David Nelson",
+      "Kathryn Grant"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-big-circus.html"
+}

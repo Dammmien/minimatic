@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Last Song",
+    "year": 2010,
+    "cast": [
+      "Miley Cyrus",
+      "Liam Hemsworth",
+      "Bobby Coleman",
+      "Kelly Preston",
+      "Greg Kinnear"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/the-last-song.html"
+}

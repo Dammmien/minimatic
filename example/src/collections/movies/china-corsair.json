@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "China Corsair",
+    "year": 1951,
+    "cast": [
+      "Jon Hall",
+      "Ernest Borgnine"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/china-corsair.html"
+}

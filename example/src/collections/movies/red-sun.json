@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Red Sun",
+    "year": 1972,
+    "cast": [
+      "Charles Bronson",
+      "Ursula Andress"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/red-sun.html"
+}

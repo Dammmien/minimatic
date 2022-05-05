@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Hard Ride",
+    "year": 1971,
+    "cast": [
+      "Robert Fuller"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-hard-ride.html"
+}

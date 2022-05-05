@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sol Madrid",
+    "year": 1968,
+    "cast": [
+      "David McCallum",
+      "Stella Stevens",
+      "Telly Savalas"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/sol-madrid.html"
+}

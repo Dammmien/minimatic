@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rebel in Town",
+    "year": 1956,
+    "cast": [
+      "Ruth Roman",
+      "John Payne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rebel-in-town.html"
+}

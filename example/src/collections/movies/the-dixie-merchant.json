@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dixie Merchant",
+    "year": 1926,
+    "cast": [
+      "Jack Mulhall",
+      "Madge Bellamy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-dixie-merchant.html"
+}

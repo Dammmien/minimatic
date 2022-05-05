@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Day of the Dolphin",
+    "year": 1973,
+    "cast": [
+      "George C. Scott",
+      "Trish Van Devere",
+      "Paul Sorvino",
+      "Fritz Weaver"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-day-of-the-dolphin.html"
+}

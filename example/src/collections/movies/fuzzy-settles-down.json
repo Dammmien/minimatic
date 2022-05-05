@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fuzzy Settles Down",
+    "year": 1944,
+    "cast": [
+      "Buster Crabbe",
+      "Al St. John"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/fuzzy-settles-down.html"
+}

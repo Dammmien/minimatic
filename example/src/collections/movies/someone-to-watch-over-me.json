@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Someone to Watch Over Me",
+    "year": 1987,
+    "cast": [
+      "Tom Berenger",
+      "Mimi Rogers",
+      "Lorraine Bracco",
+      "Jerry Orbach",
+      "Andreas Katsulas"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/someone-to-watch-over-me.html"
+}

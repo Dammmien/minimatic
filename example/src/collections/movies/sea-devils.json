@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sea Devils",
+    "year": 1953,
+    "cast": [
+      "Rock Hudson",
+      "Yvonne De Carlo",
+      "Maxwell Reed"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/sea-devils.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mudhoney",
+    "year": 1965,
+    "cast": [
+      "Lorna Maitland",
+      "Hal Hopper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mudhoney.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Johnny Cool",
+    "year": 1963,
+    "cast": [
+      "Henry Silva",
+      "Elizabeth Montgomery",
+      "Jim Backus"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/johnny-cool.html"
+}

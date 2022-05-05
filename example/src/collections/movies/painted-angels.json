@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Painted Angels",
+    "year": 1997,
+    "cast": [
+      "Brenda Fricker",
+      "Kelly McGillis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/painted-angels.html"
+}

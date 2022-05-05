@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Flushed Away",
+    "year": 2006,
+    "cast": [
+      "Kate Winslet",
+      "Hugh Jackman",
+      "Ian McKellen",
+      "Andy Serkis"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/flushed-away.html"
+}

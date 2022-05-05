@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Into the Blue",
+    "year": 2005,
+    "cast": [
+      "Jessica Alba",
+      "Paul Walker"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/into-the-blue.html"
+}

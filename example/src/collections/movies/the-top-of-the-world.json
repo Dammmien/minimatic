@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Top of the World",
+    "year": 1925,
+    "cast": [
+      "James Kirkwood",
+      "Anna Q. Nilsson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-top-of-the-world.html"
+}

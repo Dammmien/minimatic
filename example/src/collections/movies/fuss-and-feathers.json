@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fuss and Feathers",
+    "year": 1918,
+    "cast": [
+      "Enid Bennett",
+      "Douglas MacLean"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fuss-and-feathers.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "First Blood",
+    "year": 1982,
+    "cast": [
+      "Sylvester Stallone",
+      "Richard Crenna",
+      "Brian Dennehy",
+      "Jack Starrett",
+      "David Caruso"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/first-blood.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fancy Pants",
+    "year": 1950,
+    "cast": [
+      "Lucille Ball",
+      "Bob Hope"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fancy-pants.html"
+}

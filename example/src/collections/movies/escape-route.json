@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Escape Route",
+    "year": 1952,
+    "cast": [
+      "George Raft",
+      "Sally Gray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/escape-route.html"
+}

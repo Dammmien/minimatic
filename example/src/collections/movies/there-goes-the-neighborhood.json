@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "There Goes the Neighborhood",
+    "year": 1992,
+    "cast": [
+      "Jeff Daniels",
+      "Catherine O'Hara",
+      "Héctor Elizondo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/there-goes-the-neighborhood.html"
+}

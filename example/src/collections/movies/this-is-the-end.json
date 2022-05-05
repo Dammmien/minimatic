@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "This Is the End",
+    "year": 2013,
+    "cast": [
+      "James Franco",
+      "Jonah Hill",
+      "Seth Rogen",
+      "Jay Baruchel",
+      "Danny McBride",
+      "Craig Robinson",
+      "Michael Cera",
+      "Emma Watson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/this-is-the-end.html"
+}

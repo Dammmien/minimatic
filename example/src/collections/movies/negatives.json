@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Negatives",
+    "year": 1988,
+    "cast": [
+      "Duane Jones"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/negatives.html"
+}

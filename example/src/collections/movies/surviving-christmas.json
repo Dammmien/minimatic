@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Surviving Christmas",
+    "year": 2004,
+    "cast": [
+      "Ben Affleck",
+      "James Gandolfini",
+      "Christina Applegate",
+      "Catherine O'Hara"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/surviving-christmas.html"
+}

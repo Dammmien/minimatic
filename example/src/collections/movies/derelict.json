@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Derelict",
+    "year": 1930,
+    "cast": [
+      "George Bancroft",
+      "Jessie Royce Landis"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/derelict.html"
+}

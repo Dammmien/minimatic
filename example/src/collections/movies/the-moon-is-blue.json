@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Moon Is Blue",
+    "year": 1953,
+    "cast": [
+      "William Holden",
+      "David Niven",
+      "Maggie McNamara"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-moon-is-blue.html"
+}

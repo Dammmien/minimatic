@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Dancers",
+    "year": 1987,
+    "cast": [
+      "Mikhail Baryshnikov"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dancers.html"
+}

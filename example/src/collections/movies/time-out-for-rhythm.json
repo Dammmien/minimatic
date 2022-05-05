@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Time Out for Rhythm",
+    "year": 1941,
+    "cast": [
+      "Rudy Vallée",
+      "Ann Miller",
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/time-out-for-rhythm.html"
+}

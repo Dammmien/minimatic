@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Last House on Dead End Street",
+    "year": 1977,
+    "cast": [
+      "Roger Watkins",
+      "Ken Fisher"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/last-house-on-dead-end-street.html"
+}

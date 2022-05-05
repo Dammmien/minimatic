@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Lodgers",
+    "year": 2018,
+    "cast": [
+      "Charlotte Vega",
+      "Bill Milner",
+      "Eugene Simon",
+      "David Bradley",
+      "Deirdre O'Kane",
+      "Moe Dunford"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-lodgers.html"
+}

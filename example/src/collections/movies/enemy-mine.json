@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Enemy Mine",
+    "year": 1985,
+    "cast": [
+      "Dennis Quaid",
+      "Louis Gossett, Jr."
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/enemy-mine.html"
+}

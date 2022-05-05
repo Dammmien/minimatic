@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Over the Brooklyn Bridge",
+    "year": 1984,
+    "cast": [
+      "Elliott Gould",
+      "Shelley Winters",
+      "Margaux Hemingway",
+      "Burt Young",
+      "Carol Kane",
+      "Sid Caesar"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/over-the-brooklyn-bridge.html"
+}

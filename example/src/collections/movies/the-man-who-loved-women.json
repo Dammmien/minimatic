@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Man Who Loved Women",
+    "year": 1983,
+    "cast": [
+      "Burt Reynolds",
+      "Julie Andrews",
+      "Sela Ward",
+      "Marilu Henner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-who-loved-women.html"
+}

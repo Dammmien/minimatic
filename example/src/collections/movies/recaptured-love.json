@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Recaptured Love",
+    "year": 1930,
+    "cast": [
+      "Belle Bennett",
+      "Dorothy Burgess"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/recaptured-love.html"
+}

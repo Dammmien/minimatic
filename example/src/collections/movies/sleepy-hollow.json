@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sleepy Hollow",
+    "year": 1999,
+    "cast": [
+      "Johnny Depp",
+      "Christina Ricci",
+      "Miranda Richardson",
+      "Casper Van Dien"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/sleepy-hollow.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Piano",
+    "year": 1993,
+    "cast": [
+      "Holly Hunter",
+      "Harvey Keitel",
+      "Sam Neill",
+      "Anna Paquin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-piano.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daring Danger",
+    "year": 1932,
+    "cast": [
+      "Tim McCoy",
+      "Alberta Vaughn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/daring-danger.html"
+}

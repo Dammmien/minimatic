@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Crowded Hour",
+    "year": 1925,
+    "cast": [
+      "Bebe Daniels",
+      "Kenneth Harlan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-crowded-hour.html"
+}

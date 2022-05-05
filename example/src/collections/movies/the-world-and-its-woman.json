@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The World and Its Woman",
+    "year": 1919,
+    "cast": [
+      "Geraldine Farrar",
+      "Lou Tellegen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-world-and-its-woman.html"
+}

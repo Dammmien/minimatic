@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Company",
+    "year": 2003,
+    "cast": [
+      "Neve Campbell",
+      "Malcolm McDowell",
+      "James Franco"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/the-company.html"
+}

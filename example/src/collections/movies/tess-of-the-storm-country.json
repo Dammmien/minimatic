@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tess of the Storm Country",
+    "year": 1960,
+    "cast": [
+      "Diane Baker",
+      "Jack Ging"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tess-of-the-storm-country.html"
+}

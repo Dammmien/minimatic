@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Painted Desert",
+    "year": 1938,
+    "cast": [
+      "George O'Brien",
+      "Laraine Day"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/painted-desert.html"
+}

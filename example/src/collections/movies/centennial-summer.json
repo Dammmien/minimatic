@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Centennial Summer",
+    "year": 1946,
+    "cast": [
+      "Jeanne Crain",
+      "Cornel Wilde",
+      "Linda Darnell",
+      "Walter Brennan"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/centennial-summer.html"
+}

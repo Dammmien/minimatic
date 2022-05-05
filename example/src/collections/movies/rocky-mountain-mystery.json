@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rocky Mountain Mystery",
+    "year": 1935,
+    "cast": [
+      "Randolph Scott",
+      "Ann Sheridan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rocky-mountain-mystery.html"
+}

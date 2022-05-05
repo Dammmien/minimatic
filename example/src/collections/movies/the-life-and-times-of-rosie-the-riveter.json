@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Life and Times of Rosie the Riveter",
+    "year": 1980,
+    "cast": [
+      "Franklin Delano Roosevelt"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-life-and-times-of-rosie-the-riveter.html"
+}

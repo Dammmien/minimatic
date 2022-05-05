@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Thing Called Love",
+    "year": 1993,
+    "cast": [
+      "Samantha Mathis",
+      "River Phoenix",
+      "Dermot Mulroney",
+      "Sandra Bullock"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-thing-called-love.html"
+}

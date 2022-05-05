@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "An Ache in Every Stake",
+    "year": 1941,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/an-ache-in-every-stake.html"
+}

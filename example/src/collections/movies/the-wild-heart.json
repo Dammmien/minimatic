@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wild Heart",
+    "year": 1950,
+    "cast": [
+      "Jennifer Jones",
+      "David Farrar"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wild-heart.html"
+}

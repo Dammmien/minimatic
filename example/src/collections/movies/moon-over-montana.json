@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Moon Over Montana",
+    "year": 1946,
+    "cast": [
+      "Jimmy Wakely",
+      "Jennifer Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/moon-over-montana.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Face/Off",
+    "year": 1997,
+    "cast": [
+      "John Travolta",
+      "Nicolas Cage",
+      "Joan Allen",
+      "Alessandro Nivola",
+      "Gina Gershon",
+      "Dominique Swain"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/face-off.html"
+}

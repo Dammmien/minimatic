@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pursuit to Algiers",
+    "year": 1945,
+    "cast": [
+      "Basil Rathbone",
+      "Nigel Bruce"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/pursuit-to-algiers.html"
+}

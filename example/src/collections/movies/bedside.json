@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bedside",
+    "year": 1934,
+    "cast": [
+      "Warren William",
+      "Jean Muir",
+      "Allen Jenkins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bedside.html"
+}

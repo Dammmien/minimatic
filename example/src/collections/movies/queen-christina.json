@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Queen Christina",
+    "year": 1933,
+    "cast": [
+      "Greta Garbo",
+      "John Gilbert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/queen-christina.html"
+}

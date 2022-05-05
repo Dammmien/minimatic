@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The House of a Thousand Candles",
+    "year": 1936,
+    "cast": [
+      "Phillips Holmes",
+      "Mae Clarke"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-house-of-a-thousand-candles.html"
+}

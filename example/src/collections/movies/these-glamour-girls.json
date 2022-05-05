@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "These Glamour Girls",
+    "year": 1939,
+    "cast": [
+      "Lew Ayres",
+      "Lana Turner",
+      "Tom Brown"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/these-glamour-girls.html"
+}

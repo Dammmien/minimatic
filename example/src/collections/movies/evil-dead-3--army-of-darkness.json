@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Evil Dead 3: Army of Darkness",
+    "year": 1993,
+    "cast": [
+      "Bruce Campbell",
+      "Embeth Davidtz"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/evil-dead-3--army-of-darkness.html"
+}

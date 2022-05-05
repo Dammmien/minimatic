@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lovers Courageous",
+    "year": 1932,
+    "cast": [
+      "Robert Montgomery",
+      "Madge Evans"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lovers-courageous.html"
+}

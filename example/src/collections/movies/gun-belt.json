@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gun Belt",
+    "year": 1953,
+    "cast": [
+      "Tab Hunter",
+      "Helen Westcott"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gun-belt.html"
+}

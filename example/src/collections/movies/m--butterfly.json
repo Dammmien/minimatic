@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "M. Butterfly",
+    "year": 1993,
+    "cast": [
+      "Jeremy Irons",
+      "John Lone",
+      "Ian Richardson"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/m--butterfly.html"
+}

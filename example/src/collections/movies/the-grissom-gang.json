@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Grissom Gang",
+    "year": 1971,
+    "cast": [
+      "Kim Darby",
+      "Scott Wilson",
+      "Tony Musante"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-grissom-gang.html"
+}

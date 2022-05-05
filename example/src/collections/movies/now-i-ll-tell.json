@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Now I'll Tell",
+    "year": 1934,
+    "cast": [
+      "Spencer Tracy",
+      "Helen Twelvetrees",
+      "Alice Faye"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/now-i-ll-tell.html"
+}

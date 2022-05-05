@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Young Man with Ideas",
+    "year": 1952,
+    "cast": [
+      "Glenn Ford",
+      "Ruth Roman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/young-man-with-ideas.html"
+}

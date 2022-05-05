@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Skinner's Dress Suit",
+    "year": 1926,
+    "cast": [
+      "Reginald Denny",
+      "Laura La Plante"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/skinner-s-dress-suit.html"
+}

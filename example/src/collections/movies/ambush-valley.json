@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ambush Valley",
+    "year": 1936,
+    "cast": [
+      "Bob Custer",
+      "Victoria Vinton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ambush-valley.html"
+}

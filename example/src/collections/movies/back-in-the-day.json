@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Back in the Day",
+    "year": 2014,
+    "cast": [
+      "Michael Rosenbaum",
+      "Morena Baccarin",
+      "Kristoffer Polaha",
+      "Isaiah Mustafa"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/back-in-the-day.html"
+}

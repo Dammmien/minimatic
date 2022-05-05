@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Ghosts of Girlfriends Past",
+    "year": 2009,
+    "cast": [
+      "Matthew McConaughey",
+      "Jennifer Garner",
+      "Michael Douglas",
+      "Breckin Meyer",
+      "Lacey Chabert",
+      "Emma Stone",
+      "Anne Archer",
+      "Robert Forster",
+      "Amanda Walsh",
+      "Noureen DeWulf"
+    ],
+    "genres": [
+      "Fantasy",
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/ghosts-of-girlfriends-past.html"
+}

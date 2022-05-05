@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Laramie Mountains",
+    "year": 1952,
+    "cast": [
+      "Charles Starrett",
+      "Jock Mahoney"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/laramie-mountains.html"
+}

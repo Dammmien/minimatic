@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stallion Road",
+    "year": 1947,
+    "cast": [
+      "Ronald Reagan",
+      "Alexis Smith",
+      "Zachary Scott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stallion-road.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "For the Service",
+    "year": 1936,
+    "cast": [
+      "Buck Jones",
+      "Beth Marion"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/for-the-service.html"
+}

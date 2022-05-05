@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Above and Beyond",
+    "year": 1952,
+    "cast": [
+      "Robert Taylor",
+      "Eleanor Parker"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/above-and-beyond.html"
+}

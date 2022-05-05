@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "The James Dean Story",
+    "year": 1957,
+    "cast": [],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-james-dean-story.html"
+}

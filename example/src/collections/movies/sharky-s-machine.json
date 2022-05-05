@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Sharky's Machine",
+    "year": 1981,
+    "cast": [
+      "Burt Reynolds",
+      "Rachel Ward",
+      "Vittorio Gassman",
+      "Henry Silva",
+      "Charles Durning",
+      "Earl Holliman"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/sharky-s-machine.html"
+}

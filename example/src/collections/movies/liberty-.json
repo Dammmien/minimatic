@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Liberty!",
+    "year": 1997,
+    "cast": [
+      "Roger Rees",
+      "Philip Seymour Hoffman",
+      "Donna Murphy"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/liberty-.html"
+}

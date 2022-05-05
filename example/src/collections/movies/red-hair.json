@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Red Hair",
+    "year": 1928,
+    "cast": [
+      "Clara Bow",
+      "Lane Chandler"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/red-hair.html"
+}

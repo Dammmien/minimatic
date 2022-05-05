@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Never Been Thawed",
+    "year": 2005,
+    "cast": [
+      "Sean Anders",
+      "Allen Zwolle",
+      "Shelly Frasier"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/never-been-thawed.html"
+}

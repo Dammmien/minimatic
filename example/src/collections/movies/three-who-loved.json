@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Who Loved",
+    "year": 1931,
+    "cast": [
+      "Betty Compson",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/three-who-loved.html"
+}

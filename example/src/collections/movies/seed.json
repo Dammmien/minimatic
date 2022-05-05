@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Seed",
+    "year": 1931,
+    "cast": [
+      "John Boles",
+      "Lois Wilson",
+      "Genevieve Tobin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/seed.html"
+}

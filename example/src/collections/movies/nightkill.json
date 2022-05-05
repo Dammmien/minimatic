@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nightkill",
+    "year": 1980,
+    "cast": [
+      "Robert Mitchum",
+      "Jaclyn Smith",
+      "James Franciscus"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/nightkill.html"
+}

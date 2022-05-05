@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fort Massacre",
+    "year": 1958,
+    "cast": [
+      "Joel McCrea",
+      "Forrest Tucker",
+      "Susan Cabot"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fort-massacre.html"
+}

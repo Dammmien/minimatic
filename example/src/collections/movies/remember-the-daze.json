@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Remember the Daze",
+    "year": 2007,
+    "cast": [
+      "Chris Marquette",
+      "Sean Marquette",
+      "Amber Heard",
+      "Lyndsy Fonseca"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/remember-the-daze.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Speedway",
+    "year": 1968,
+    "cast": [
+      "Elvis Presley",
+      "Nancy Sinatra"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/speedway.html"
+}

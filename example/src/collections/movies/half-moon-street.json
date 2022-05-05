@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Half Moon Street",
+    "year": 1986,
+    "cast": [
+      "Sigourney Weaver",
+      "Michael Caine"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/half-moon-street.html"
+}

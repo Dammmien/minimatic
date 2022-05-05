@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Life Passed By",
+    "year": 1923,
+    "cast": [
+      "Jane Novak",
+      "Eva Novak"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-life-passed-by.html"
+}

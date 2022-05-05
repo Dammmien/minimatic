@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Thoroughbreds Don't Cry",
+    "year": 1937,
+    "cast": [
+      "Mickey Rooney",
+      "Judy Garland",
+      "C. Aubrey Smith"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/thoroughbreds-don-t-cry.html"
+}

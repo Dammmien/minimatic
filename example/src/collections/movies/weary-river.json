@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Weary River",
+    "year": 1929,
+    "cast": [
+      "Richard Barthelmess",
+      "Betty Compson"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/weary-river.html"
+}

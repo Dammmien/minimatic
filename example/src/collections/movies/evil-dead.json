@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Evil Dead",
+    "year": 2013,
+    "cast": [
+      "Jane Levy",
+      "Shiloh Fernandez",
+      "Lou Taylor Pucci",
+      "Jessica Lucas",
+      "Elizabeth Blackmore"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/evil-dead.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Darkness",
+    "year": 2002,
+    "cast": [
+      "Anna Paquin",
+      "Lena Olin",
+      "Iain Glen"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/darkness.html"
+}

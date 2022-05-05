@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fourteenth Lover",
+    "year": 1922,
+    "cast": [
+      "Viola Dana",
+      "Jack Mulhall",
+      "Theodore von Eltz"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fourteenth-lover.html"
+}

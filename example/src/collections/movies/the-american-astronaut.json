@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The American Astronaut",
+    "year": 2001,
+    "cast": [
+      "Cory McAbee",
+      "Rocco Sisto"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-american-astronaut.html"
+}

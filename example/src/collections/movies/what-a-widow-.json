@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "What a Widow!",
+    "year": 1930,
+    "cast": [
+      "Gloria Swanson",
+      "Owen Moore"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/what-a-widow-.html"
+}

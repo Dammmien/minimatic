@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "French Heels",
+    "year": 1922,
+    "cast": [
+      "Irene Castle",
+      "Ward Crane",
+      "Charles K. Gerrard"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/french-heels.html"
+}

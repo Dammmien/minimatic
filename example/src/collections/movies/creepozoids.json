@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Creepozoids",
+    "year": 1987,
+    "cast": [
+      "Linnea Quigley"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/creepozoids.html"
+}

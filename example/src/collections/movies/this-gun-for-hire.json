@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Gun for Hire",
+    "year": 1942,
+    "cast": [
+      "Alan Ladd",
+      "Veronica Lake"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/this-gun-for-hire.html"
+}

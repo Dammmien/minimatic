@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Twisted Obsession",
+    "year": 1990,
+    "cast": [
+      "Jeff Goldblum",
+      "Miranda Richardson"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/twisted-obsession.html"
+}

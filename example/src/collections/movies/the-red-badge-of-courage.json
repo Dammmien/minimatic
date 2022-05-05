@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Red Badge of Courage",
+    "year": 1951,
+    "cast": [
+      "Audie Murphy",
+      "Bill Mauldin"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-red-badge-of-courage.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kings",
+    "year": 2018,
+    "cast": [
+      "Halle Berry",
+      "Daniel Craig"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/kings.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bengal Brigade",
+    "year": 1954,
+    "cast": [
+      "Rock Hudson",
+      "Arlene Dahl"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/bengal-brigade.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Terms of Endearment",
+    "year": 1983,
+    "cast": [
+      "Shirley MacLaine",
+      "Debra Winger",
+      "Jack Nicholson",
+      "Jeff Daniels",
+      "Danny DeVito",
+      "John Lithgow"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/terms-of-endearment.html"
+}

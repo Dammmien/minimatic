@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Punk Singer",
+    "year": 2013,
+    "cast": [
+      "Follows a girl band's rise into stardom."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-punk-singer.html"
+}

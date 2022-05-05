@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last Chase",
+    "year": 1981,
+    "cast": [
+      "Lee Majors",
+      "Burgess Meredith"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-last-chase.html"
+}

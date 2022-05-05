@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Seventh Sin",
+    "year": 1957,
+    "cast": [
+      "Eleanor Parker",
+      "Bill Travers",
+      "George Sanders"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-seventh-sin.html"
+}

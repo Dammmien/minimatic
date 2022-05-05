@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Border Whirlwind",
+    "year": 1926,
+    "cast": [
+      "Bob Custer",
+      "Josef Swickard"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-border-whirlwind.html"
+}

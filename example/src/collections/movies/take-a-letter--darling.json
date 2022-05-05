@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Take a Letter, Darling",
+    "year": 1942,
+    "cast": [
+      "Rosalind Russell",
+      "Fred MacMurray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/take-a-letter--darling.html"
+}

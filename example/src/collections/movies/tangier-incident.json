@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tangier Incident",
+    "year": 1953,
+    "cast": [
+      "George Brent",
+      "Mari Aldon"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/tangier-incident.html"
+}

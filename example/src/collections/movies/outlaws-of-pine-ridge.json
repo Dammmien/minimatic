@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Outlaws of Pine Ridge",
+    "year": 1942,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Lynn Merrick"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/outlaws-of-pine-ridge.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Guilty by Suspicion",
+    "year": 1991,
+    "cast": [
+      "Robert De Niro",
+      "Annette Bening",
+      "Patricia Wettig",
+      "Sam Wanamaker",
+      "George Wendt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/guilty-by-suspicion.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "They Call Me Bruce?",
+    "year": 1982,
+    "cast": [
+      "Johnny Yune",
+      "Margaux Hemingway"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/they-call-me-bruce-.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "True Believer",
+    "year": 1989,
+    "cast": [
+      "James Woods",
+      "Robert Downey, Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/true-believer.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rainbow 'Round My Shoulder",
+    "year": 1952,
+    "cast": [
+      "Frankie Laine",
+      "Billy Daniels",
+      "Charlotte Austin"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/rainbow--round-my-shoulder.html"
+}

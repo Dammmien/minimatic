@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Day of the Locust",
+    "year": 1975,
+    "cast": [
+      "Donald Sutherland",
+      "Karen Black",
+      "William Atherton",
+      "Geraldine Page",
+      "Burgess Meredith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-day-of-the-locust.html"
+}

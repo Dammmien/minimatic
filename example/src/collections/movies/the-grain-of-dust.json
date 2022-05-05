@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Grain of Dust",
+    "year": 1928,
+    "cast": [
+      "Ricardo Cortez",
+      "Claire Windsor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-grain-of-dust.html"
+}

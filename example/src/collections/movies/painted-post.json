@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Painted Post",
+    "year": 1928,
+    "cast": [
+      "Tom Mix",
+      "Natalie Kingston"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/painted-post.html"
+}

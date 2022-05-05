@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Carrie",
+    "year": 2013,
+    "cast": [
+      "Chloë Grace Moretz",
+      "Judy Greer",
+      "Portia Doubleday",
+      "Julianne Moore"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/carrie.html"
+}

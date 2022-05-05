@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Toy Wife",
+    "year": 1938,
+    "cast": [
+      "Luise Rainer",
+      "Melvyn Douglas",
+      "H. B. Warner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-toy-wife.html"
+}

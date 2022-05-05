@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hard to Hold",
+    "year": 1984,
+    "cast": [
+      "Rick Springfield",
+      "Patti Hansen",
+      "Albert Salmi"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hard-to-hold.html"
+}

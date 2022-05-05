@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "You, Me and Dupree",
+    "year": 2006,
+    "cast": [
+      "Owen Wilson",
+      "Kate Hudson",
+      "Matt Dillon",
+      "Michael Douglas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/you--me-and-dupree.html"
+}

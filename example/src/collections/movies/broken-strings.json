@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Broken Strings",
+    "year": 1940,
+    "cast": [
+      "Clarence Muse"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/broken-strings.html"
+}

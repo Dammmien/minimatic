@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Buried",
+    "year": 2010,
+    "cast": [
+      "Ryan Reynolds"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/buried.html"
+}

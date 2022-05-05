@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Chauffeur",
+    "year": 1986,
+    "cast": [
+      "Deborah Foreman",
+      "Sam J. Jones",
+      "Penn & Teller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-chauffeur.html"
+}

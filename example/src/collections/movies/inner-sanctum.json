@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Inner Sanctum",
+    "year": 1948,
+    "cast": [
+      "Charles Russell",
+      "Mary Beth Hughes"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/inner-sanctum.html"
+}

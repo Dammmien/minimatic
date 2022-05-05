@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Fighting Mad",
+    "year": 1976,
+    "cast": [
+      "Peter Fonda"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/fighting-mad.html"
+}

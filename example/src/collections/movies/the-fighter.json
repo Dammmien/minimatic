@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Fighter",
+    "year": 2010,
+    "cast": [
+      "Mark Wahlberg",
+      "Christian Bale",
+      "Amy Adams",
+      "Melissa Leo"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/the-fighter.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wolves of the City",
+    "year": 1929,
+    "cast": [
+      "Bill Cody",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/wolves-of-the-city.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gun That Won the West",
+    "year": 1955,
+    "cast": [
+      "Dennis Morgan",
+      "Paula Raymond"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-gun-that-won-the-west.html"
+}

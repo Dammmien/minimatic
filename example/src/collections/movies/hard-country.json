@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hard Country",
+    "year": 1981,
+    "cast": [
+      "Jan-Michael Vincent",
+      "Kim Basinger",
+      "Michael Parks"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hard-country.html"
+}

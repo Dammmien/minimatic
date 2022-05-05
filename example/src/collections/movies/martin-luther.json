@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Martin Luther",
+    "year": 1953,
+    "cast": [
+      "Niall MacGinnis",
+      "Pierre Lefevre"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/martin-luther.html"
+}

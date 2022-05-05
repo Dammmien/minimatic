@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rage in Heaven",
+    "year": 1941,
+    "cast": [
+      "Robert Montgomery",
+      "Ingrid Bergman",
+      "Oskar Homolka",
+      "George Sanders"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/rage-in-heaven.html"
+}

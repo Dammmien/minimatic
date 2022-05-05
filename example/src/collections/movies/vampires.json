@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Vampires",
+    "year": 1998,
+    "cast": [
+      "James Woods",
+      "Daniel Baldwin",
+      "Sheryl Lee"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/vampires.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Just Across the Street",
+    "year": 1952,
+    "cast": [
+      "Ann Sheridan",
+      "John Lund"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/just-across-the-street.html"
+}

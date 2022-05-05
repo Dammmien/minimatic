@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Victory",
+    "year": 1919,
+    "cast": [
+      "Creighton Hale",
+      "Helen Ferguson"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-great-victory.html"
+}

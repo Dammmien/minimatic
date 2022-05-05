@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Barbarian and the Geisha",
+    "year": 1958,
+    "cast": [
+      "John Wayne",
+      "Eiko Ando",
+      "Sam Jaffe"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-barbarian-and-the-geisha.html"
+}

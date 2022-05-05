@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Too Much Johnson",
+    "year": 1938,
+    "cast": [
+      "Joseph Cotton",
+      "Virginia Nicolson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/too-much-johnson.html"
+}

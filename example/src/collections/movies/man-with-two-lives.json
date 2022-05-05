@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Man with Two Lives",
+    "year": 1942,
+    "cast": [
+      "Edward Norris",
+      "Marlo Dwyer"
+    ],
+    "genres": [
+      "Fantasy",
+      "Thriller"
+    ]
+  },
+  "output": "movies/man-with-two-lives.html"
+}

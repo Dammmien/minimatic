@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dead Girl",
+    "year": 2006,
+    "cast": [
+      "Toni Collette",
+      "Brittany Murphy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-dead-girl.html"
+}

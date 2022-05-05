@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lucky Texan",
+    "year": 1934,
+    "cast": [
+      "John Wayne",
+      "Barbara Sheldon",
+      "George \"Gabby\" Hayes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-lucky-texan.html"
+}

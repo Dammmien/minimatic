@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hit the Ice",
+    "year": 1943,
+    "cast": [
+      "Abbott and Costello",
+      "Ginny Simms",
+      "Patric Knowles"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hit-the-ice.html"
+}

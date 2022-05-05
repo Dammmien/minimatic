@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Son of Lassie",
+    "year": 1945,
+    "cast": [
+      "June Lockhart",
+      "Peter Lawford"
+    ],
+    "genres": [
+      "Family",
+      "Drama"
+    ]
+  },
+  "output": "movies/son-of-lassie.html"
+}

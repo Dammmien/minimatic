@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Affair in Trinidad",
+    "year": 1952,
+    "cast": [
+      "Rita Hayworth",
+      "Glenn Ford"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/affair-in-trinidad.html"
+}

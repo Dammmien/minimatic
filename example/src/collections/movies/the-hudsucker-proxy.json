@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hudsucker Proxy",
+    "year": 1994,
+    "cast": [
+      "Tim Robbins",
+      "Jennifer Jason Leigh",
+      "Paul Newman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-hudsucker-proxy.html"
+}

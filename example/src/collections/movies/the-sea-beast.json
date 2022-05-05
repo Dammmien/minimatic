@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sea Beast",
+    "year": 1926,
+    "cast": [
+      "John Barrymore",
+      "Dolores Costello",
+      "George O'Hara"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-sea-beast.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Me and Earl and the Dying Girl",
+    "year": 2015,
+    "cast": [
+      "Thomas Mann",
+      "Olivia Cooke",
+      "RJ Cyler"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/me-and-earl-and-the-dying-girl.html"
+}

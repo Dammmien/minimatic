@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Grease 2",
+    "year": 1982,
+    "cast": [
+      "Maxwell Caulfield",
+      "Michelle Pfeiffer",
+      "Adrian Zmed",
+      "Didi Conn",
+      "Eve Arden",
+      "Sid Caesar",
+      "Dody Goodman",
+      "Eddie Deezen",
+      "Connie Stevens",
+      "Lorna Luft"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/grease-2.html"
+}

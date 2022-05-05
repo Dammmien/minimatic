@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wildlife",
+    "year": 2018,
+    "cast": [
+      "Carey Mulligan",
+      "Jake Gyllenhaal",
+      "Ed Oxenbould",
+      "Bill Camp"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wildlife.html"
+}

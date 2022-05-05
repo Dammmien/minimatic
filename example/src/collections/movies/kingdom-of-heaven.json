@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kingdom of Heaven",
+    "year": 2005,
+    "cast": [
+      "Orlando Bloom",
+      "Eva Green",
+      "Jeremy Irons"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/kingdom-of-heaven.html"
+}

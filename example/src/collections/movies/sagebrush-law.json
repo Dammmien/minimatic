@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sagebrush Law",
+    "year": 1943,
+    "cast": [
+      "Tim Holt",
+      "Joan Barclay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sagebrush-law.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wise Virgin",
+    "year": 1924,
+    "cast": [
+      "Patsy Ruth Miller",
+      "Edythe Chapman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wise-virgin.html"
+}

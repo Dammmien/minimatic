@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Husband's Holiday",
+    "year": 1931,
+    "cast": [
+      "Clive Brook",
+      "Vivienne Osborne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/husband-s-holiday.html"
+}

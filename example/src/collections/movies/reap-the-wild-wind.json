@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Reap the Wild Wind",
+    "year": 1942,
+    "cast": [
+      "John Wayne",
+      "Paulette Goddard",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/reap-the-wild-wind.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man and the Moment",
+    "year": 1929,
+    "cast": [
+      "Billie Dove",
+      "Rod La Rocque"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-man-and-the-moment.html"
+}

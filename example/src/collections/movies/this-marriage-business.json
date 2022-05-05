@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Marriage Business",
+    "year": 1938,
+    "cast": [
+      "Victor Moore",
+      "Vickie Lester",
+      "Jack Carson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/this-marriage-business.html"
+}

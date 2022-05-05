@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gunfight in Abilene",
+    "year": 1967,
+    "cast": [
+      "Bobby Darin",
+      "Michael Sarrazin",
+      "Leslie Nielsen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gunfight-in-abilene.html"
+}

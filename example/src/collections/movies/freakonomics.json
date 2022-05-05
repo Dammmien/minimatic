@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Freakonomics",
+    "year": 2010,
+    "cast": [
+      "A group of rogue filmmakers explore the hidden side of everything."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/freakonomics.html"
+}

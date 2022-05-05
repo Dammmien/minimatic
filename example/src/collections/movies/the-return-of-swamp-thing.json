@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Return of Swamp Thing",
+    "year": 1989,
+    "cast": [
+      "Louis Jourdan",
+      "Heather Locklear"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-return-of-swamp-thing.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bandit Buster",
+    "year": 1926,
+    "cast": [
+      "Buddy Roosevelt",
+      "Molly Malone"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-bandit-buster.html"
+}

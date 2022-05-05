@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In God We Tru$t",
+    "year": 1980,
+    "cast": [
+      "Peter Boyle",
+      "Andy Kaufman",
+      "Richard Pryor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/in-god-we-tru-t.html"
+}

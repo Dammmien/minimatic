@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The League of Frightened Men",
+    "year": 1937,
+    "cast": [
+      "Walter Connolly",
+      "Lionel Stander"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-league-of-frightened-men.html"
+}

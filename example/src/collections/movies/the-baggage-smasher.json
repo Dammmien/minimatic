@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Baggage Smasher",
+    "year": 1914,
+    "cast": [
+      "Fatty Arbuckle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-baggage-smasher.html"
+}

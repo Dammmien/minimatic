@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Henry Aldrich for President",
+    "year": 1941,
+    "cast": [
+      "Jimmy Lydon",
+      "Mary Anderson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/henry-aldrich-for-president.html"
+}

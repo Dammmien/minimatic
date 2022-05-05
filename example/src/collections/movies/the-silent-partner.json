@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Silent Partner",
+    "year": 1923,
+    "cast": [
+      "Leatrice Joy",
+      "Owen Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-silent-partner.html"
+}

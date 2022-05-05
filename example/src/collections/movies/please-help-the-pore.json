@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Please Help the Pore",
+    "year": 1912,
+    "cast": [
+      "William Garwood",
+      "Riley Chamberlin",
+      "Mignon Anderson",
+      "Marie Eline"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/please-help-the-pore.html"
+}

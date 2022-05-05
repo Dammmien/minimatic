@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Geostorm",
+    "year": 2017,
+    "cast": [
+      "Gerard Butler",
+      "Abbie Cornish",
+      "Alexandra Lara",
+      "Jim Sturgess",
+      "Amr Waked",
+      "Ed Harris",
+      "Andy García"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Thriller"
+    ]
+  },
+  "output": "movies/geostorm.html"
+}

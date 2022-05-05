@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Very Brady Christmas",
+    "year": 1988,
+    "cast": [
+      "Florence Henderson",
+      "Robert Reed",
+      "Ann B. Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-very-brady-christmas.html"
+}

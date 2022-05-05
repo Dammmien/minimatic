@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Another Part of the Forest",
+    "year": 1948,
+    "cast": [
+      "Fredric March",
+      "Florence Eldridge"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/another-part-of-the-forest.html"
+}

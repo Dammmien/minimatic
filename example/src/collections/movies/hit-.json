@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hit!",
+    "year": 1973,
+    "cast": [
+      "Billy Dee Williams",
+      "Richard Pryor"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/hit-.html"
+}

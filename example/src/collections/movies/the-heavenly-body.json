@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Heavenly Body",
+    "year": 1944,
+    "cast": [
+      "William Powell",
+      "Hedy Lamarr"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-heavenly-body.html"
+}

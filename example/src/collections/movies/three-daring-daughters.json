@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Daring Daughters",
+    "year": 1948,
+    "cast": [
+      "Jeanette MacDonald",
+      "Jane Powell"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/three-daring-daughters.html"
+}

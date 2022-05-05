@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pals of the Saddle",
+    "year": 1938,
+    "cast": [
+      "John Wayne",
+      "Ray Corrigan",
+      "Doreen McKay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/pals-of-the-saddle.html"
+}

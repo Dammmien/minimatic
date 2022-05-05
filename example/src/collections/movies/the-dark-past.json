@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Dark Past",
+    "year": 1948,
+    "cast": [
+      "William Holden",
+      "Nina Foch",
+      "Lee J. Cobb"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-dark-past.html"
+}

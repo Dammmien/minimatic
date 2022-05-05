@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Am David",
+    "year": 2003,
+    "cast": [
+      "Jim Caviezel",
+      "Ben Tibber",
+      "Joan Plowright"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-am-david.html"
+}

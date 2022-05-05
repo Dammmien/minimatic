@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Mrs. Parker and the Vicious Circle",
+    "year": 1994,
+    "cast": [
+      "Jennifer Jason Leigh",
+      "Matthew Broderick",
+      "Campbell Scott",
+      "Lili Taylor",
+      "Martha Plimpton",
+      "Keith Carradine",
+      "Jennifer Beals"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/mrs--parker-and-the-vicious-circle.html"
+}

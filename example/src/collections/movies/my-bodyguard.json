@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Bodyguard",
+    "year": 1980,
+    "cast": [
+      "Chris Makepeace",
+      "Adam Baldwin",
+      "Matt Dillon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-bodyguard.html"
+}

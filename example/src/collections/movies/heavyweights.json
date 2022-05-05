@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Heavyweights",
+    "year": 1995,
+    "cast": [
+      "Ben Stiller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/heavyweights.html"
+}

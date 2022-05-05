@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Taking Care of Business",
+    "year": 1990,
+    "cast": [
+      "James Belushi",
+      "Charles Grodin",
+      "Héctor Elizondo",
+      "Mako",
+      "Veronica Hamel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/taking-care-of-business.html"
+}

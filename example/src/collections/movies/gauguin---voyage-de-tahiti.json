@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Gauguin - Voyage de Tahiti",
+    "year": 2018,
+    "cast": [
+      "Vincent Cassel",
+      "Tuheï Adams",
+      "Malik Zidi"
+    ],
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/gauguin---voyage-de-tahiti.html"
+}

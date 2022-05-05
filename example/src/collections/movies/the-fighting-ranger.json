@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Ranger",
+    "year": 1948,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fighting-ranger.html"
+}

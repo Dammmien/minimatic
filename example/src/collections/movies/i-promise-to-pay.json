@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Promise to Pay",
+    "year": 1937,
+    "cast": [
+      "Chester Morris",
+      "Leo Carrillo",
+      "Helen Mack"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-promise-to-pay.html"
+}

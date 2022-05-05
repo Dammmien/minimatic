@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Music Man",
+    "year": 1948,
+    "cast": [
+      "Freddie Stewart",
+      "June Preisser",
+      "Noel Neill"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/music-man.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Fitzgerald Family Christmas",
+    "year": 2012,
+    "cast": [
+      "Edward Burns",
+      "Connie Britton",
+      "Heather Burns",
+      "Kerry Bishé",
+      "Marsha Dietlein"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fitzgerald-family-christmas.html"
+}

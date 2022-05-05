@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Town Went Wild",
+    "year": 1944,
+    "cast": [
+      "Freddie Bartholomew",
+      "Jimmy Lydon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-town-went-wild.html"
+}

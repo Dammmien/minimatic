@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gateway",
+    "year": 1938,
+    "cast": [
+      "Arleen Whelan",
+      "Don Ameche",
+      "Gregory Ratoff"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gateway.html"
+}

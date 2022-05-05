@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Woman is Mine",
+    "year": 1941,
+    "cast": [
+      "Franchot Tone",
+      "Carol Bruce",
+      "Nigel Bruce"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/this-woman-is-mine.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man to Man",
+    "year": 1930,
+    "cast": [
+      "Phillips Holmes",
+      "Grant Mitchell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/man-to-man.html"
+}

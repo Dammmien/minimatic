@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Future War",
+    "year": 1997,
+    "cast": [
+      "Daniel Bernhardt"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/future-war.html"
+}

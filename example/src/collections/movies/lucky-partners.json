@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Lucky Partners",
+    "year": 1940,
+    "cast": [
+      "Ronald Colman",
+      "Ginger Rogers",
+      "Jack Carson"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/lucky-partners.html"
+}

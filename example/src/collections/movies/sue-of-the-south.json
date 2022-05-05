@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sue of the South",
+    "year": 1919,
+    "cast": [
+      "Edith Roberts",
+      "George Hackathorne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sue-of-the-south.html"
+}

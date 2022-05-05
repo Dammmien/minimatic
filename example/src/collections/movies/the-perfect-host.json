@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Perfect Host",
+    "year": 2011,
+    "cast": [
+      "David Hyde Pierce",
+      "Clayne Crawford",
+      "Nathaniel Parker",
+      "Megahn Perry",
+      "and",
+      "Helen Reddy"
+    ],
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-perfect-host.html"
+}

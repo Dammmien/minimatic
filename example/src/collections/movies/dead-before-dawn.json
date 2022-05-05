@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dead Before Dawn",
+    "year": 2012,
+    "cast": [
+      "Devon Bostick",
+      "Christopher Lloyd",
+      "Martha MacIsaac",
+      "Brandon Jay McLaren"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/dead-before-dawn.html"
+}

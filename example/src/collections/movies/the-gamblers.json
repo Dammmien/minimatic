@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gamblers",
+    "year": 1929,
+    "cast": [
+      "H. B. Warner",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-gamblers.html"
+}

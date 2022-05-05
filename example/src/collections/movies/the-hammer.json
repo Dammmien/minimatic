@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hammer",
+    "year": 2007,
+    "cast": [
+      "Adam Carolla",
+      "Heather Juergensen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-hammer.html"
+}

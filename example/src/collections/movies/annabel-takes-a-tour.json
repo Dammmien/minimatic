@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Annabel Takes a Tour",
+    "year": 1938,
+    "cast": [
+      "Lucille Ball",
+      "Jack Oakie",
+      "Ruth Donnelly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/annabel-takes-a-tour.html"
+}

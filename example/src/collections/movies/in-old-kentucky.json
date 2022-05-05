@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In Old Kentucky",
+    "year": 1935,
+    "cast": [
+      "Will Rogers",
+      "Dorothy Wilson",
+      "Charles Sellon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/in-old-kentucky.html"
+}

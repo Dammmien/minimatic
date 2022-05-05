@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Exquisite Sinner",
+    "year": 1926,
+    "cast": [
+      "Conrad Nagel",
+      "Renee Adoree"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-exquisite-sinner.html"
+}

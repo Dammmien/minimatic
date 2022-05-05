@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Abilene Town",
+    "year": 1946,
+    "cast": [
+      "Randolph Scott",
+      "Ann Dvorak",
+      "Rhonda Fleming",
+      "Lloyd Bridges"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/abilene-town.html"
+}

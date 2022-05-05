@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Turk 182",
+    "year": 1985,
+    "cast": [
+      "Timothy Hutton",
+      "Robert Urich",
+      "Kim Cattrall",
+      "Robert Culp",
+      "Peter Boyle",
+      "Darren McGavin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/turk-182.html"
+}

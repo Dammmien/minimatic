@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Top o' the Morning",
+    "year": 1949,
+    "cast": [
+      "Bing Crosby",
+      "Ann Blyth",
+      "Barry Fitzgerald"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/top-o--the-morning.html"
+}

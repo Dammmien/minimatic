@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Havana Widows",
+    "year": 1933,
+    "cast": [
+      "Joan Blondell",
+      "Glenda Farrell",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/havana-widows.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Shopworn Angel",
+    "year": 1938,
+    "cast": [
+      "James Stewart",
+      "Margaret Sullavan",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/the-shopworn-angel.html"
+}

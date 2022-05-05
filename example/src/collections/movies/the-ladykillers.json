@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Ladykillers",
+    "year": 2004,
+    "cast": [
+      "Tom Hanks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ladykillers.html"
+}

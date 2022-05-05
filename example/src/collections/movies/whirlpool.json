@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Whirlpool",
+    "year": 1949,
+    "cast": [
+      "Gene Tierney",
+      "José Ferrer",
+      "Charles Bickford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/whirlpool.html"
+}

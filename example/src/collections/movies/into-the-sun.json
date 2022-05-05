@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Into the Sun",
+    "year": 1992,
+    "cast": [
+      "Michael Paré",
+      "Anthony Michael Hall"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/into-the-sun.html"
+}

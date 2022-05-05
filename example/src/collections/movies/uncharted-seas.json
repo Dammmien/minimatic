@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Uncharted Seas",
+    "year": 1921,
+    "cast": [
+      "Alice Lake",
+      "Carl Gerard",
+      "Rudolph Valentino"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/uncharted-seas.html"
+}

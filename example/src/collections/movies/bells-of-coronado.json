@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bells of Coronado",
+    "year": 1950,
+    "cast": [
+      "Roy Rogers",
+      "Dale Evans"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bells-of-coronado.html"
+}

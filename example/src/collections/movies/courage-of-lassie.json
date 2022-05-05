@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Courage of Lassie",
+    "year": 1946,
+    "cast": [
+      "Elizabeth Taylor",
+      "Catherine McLeod",
+      "Frank Morgan"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/courage-of-lassie.html"
+}

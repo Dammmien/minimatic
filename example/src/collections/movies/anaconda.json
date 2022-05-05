@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Anaconda",
+    "year": 1997,
+    "cast": [
+      "Jennifer Lopez",
+      "Jon Voight",
+      "Ice Cube",
+      "Eric Stoltz",
+      "Owen Wilson",
+      "Jonathan Hyde",
+      "Kari Wührer"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/anaconda.html"
+}

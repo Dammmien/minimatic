@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Feudin' Fools",
+    "year": 1952,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Anne Kimbell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/feudin--fools.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "That Night in Rio",
+    "year": 1941,
+    "cast": [
+      "Don Ameche",
+      "Alice Faye",
+      "Carmen Miranda"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/that-night-in-rio.html"
+}

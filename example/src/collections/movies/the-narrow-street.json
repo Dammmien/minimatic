@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Narrow Street",
+    "year": 1925,
+    "cast": [
+      "Matt Moore",
+      "Dorothy Devore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-narrow-street.html"
+}

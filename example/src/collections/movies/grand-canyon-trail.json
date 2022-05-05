@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Grand Canyon Trail",
+    "year": 1948,
+    "cast": [
+      "Roy Rogers",
+      "Jane Frazee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/grand-canyon-trail.html"
+}

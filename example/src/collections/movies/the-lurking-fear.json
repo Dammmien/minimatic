@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lurking Fear",
+    "year": 1994,
+    "cast": [
+      "Blake Bailey",
+      "Jon Finch"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-lurking-fear.html"
+}

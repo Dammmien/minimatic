@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shady Lady",
+    "year": 1945,
+    "cast": [
+      "Charles Coburn",
+      "Ginny Simms"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/shady-lady.html"
+}

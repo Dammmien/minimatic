@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "For Hope",
+    "year": 1996,
+    "cast": [
+      "Dana Delany",
+      "Tracy Nelson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/for-hope.html"
+}

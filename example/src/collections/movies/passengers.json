@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Passengers",
+    "year": 2008,
+    "cast": [
+      "Anne Hathaway",
+      "Patrick Wilson",
+      "David Morse",
+      "Andre Braugher"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/passengers.html"
+}

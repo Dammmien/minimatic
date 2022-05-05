@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Little Adventuress",
+    "year": 1938,
+    "cast": [
+      "Edith Fellows",
+      "Julie Bishop"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-little-adventuress.html"
+}

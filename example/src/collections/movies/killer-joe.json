@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Killer Joe",
+    "year": 2012,
+    "cast": [
+      "Matthew McConaughey",
+      "Emile Hirsch",
+      "Juno Temple",
+      "Gina Gershon",
+      "Thomas Haden Church",
+      "Marc Macaulay"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Comedy"
+    ]
+  },
+  "output": "movies/killer-joe.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sweet Dreams",
+    "year": 1985,
+    "cast": [
+      "Jessica Lange",
+      "Ed Harris",
+      "John Goodman"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/sweet-dreams.html"
+}

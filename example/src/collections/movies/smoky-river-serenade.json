@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smoky River Serenade",
+    "year": 1947,
+    "cast": [
+      "Ruth Terry",
+      "Paul Campbell"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/smoky-river-serenade.html"
+}

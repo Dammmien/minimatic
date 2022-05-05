@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Non-Stop Flight",
+    "year": 1926,
+    "cast": [
+      "Knute Erickson",
+      "Marcella Daly"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-non-stop-flight.html"
+}

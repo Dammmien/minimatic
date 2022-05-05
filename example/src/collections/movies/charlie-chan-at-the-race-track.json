@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Charlie Chan at the Race Track",
+    "year": 1936,
+    "cast": [
+      "Warner Oland",
+      "Keye Luke"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/charlie-chan-at-the-race-track.html"
+}

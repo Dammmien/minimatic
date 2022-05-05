@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Desert Bloom",
+    "year": 1986,
+    "cast": [
+      "Annabeth Gish",
+      "Jon Voight",
+      "Ellen Barkin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/desert-bloom.html"
+}

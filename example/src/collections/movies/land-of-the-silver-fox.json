@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Land of the Silver Fox",
+    "year": 1928,
+    "cast": [
+      "Rin Tin Tin",
+      "Leila Hyams"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/land-of-the-silver-fox.html"
+}

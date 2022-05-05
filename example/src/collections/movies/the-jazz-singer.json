@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Jazz Singer",
+    "year": 1980,
+    "cast": [
+      "Neil Diamond",
+      "Laurence Olivier",
+      "Lucie Arnaz"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/the-jazz-singer.html"
+}

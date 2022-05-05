@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Storm over Wyoming",
+    "year": 1950,
+    "cast": [
+      "Tim Holt",
+      "Noreen Nash"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/storm-over-wyoming.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flying Down to Rio",
+    "year": 1933,
+    "cast": [
+      "Dolores del Río",
+      "Fred Astaire",
+      "Ginger Rogers"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/flying-down-to-rio.html"
+}

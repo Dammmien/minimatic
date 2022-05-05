@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Furlough",
+    "year": 2018,
+    "cast": [
+      "Melissa Leo",
+      "Tessa Thompson",
+      "La La Anthony",
+      "Whoopi Goldberg",
+      "Anna Paquin"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/furlough.html"
+}

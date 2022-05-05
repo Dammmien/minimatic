@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Seven Year Itch",
+    "year": 1955,
+    "cast": [
+      "Tom Ewell",
+      "Marilyn Monroe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-seven-year-itch.html"
+}

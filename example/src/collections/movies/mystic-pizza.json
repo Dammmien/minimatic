@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Mystic Pizza",
+    "year": 1988,
+    "cast": [
+      "Julia Roberts",
+      "Annabeth Gish",
+      "Lili Taylor",
+      "William R. Moses",
+      "Vincent D'Onofrio",
+      "Adam Storke"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mystic-pizza.html"
+}

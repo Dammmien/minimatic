@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Midnight Express",
+    "year": 1924,
+    "cast": [
+      "Elaine Hammerstein",
+      "William Haines"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-midnight-express.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Thunder Afloat",
+    "year": 1939,
+    "cast": [
+      "Wallace Beery",
+      "Chester Morris",
+      "Virginia Grey",
+      "Douglass Dumbrille"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/thunder-afloat.html"
+}

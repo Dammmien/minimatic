@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Jade Cup",
+    "year": 1926,
+    "cast": [
+      "Evelyn Brent",
+      "Jack Luden"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-jade-cup.html"
+}

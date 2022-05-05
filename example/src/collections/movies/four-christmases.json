@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Four Christmases",
+    "year": 2008,
+    "cast": [
+      "Vince Vaughn",
+      "Reese Witherspoon",
+      "Robert Duvall",
+      "Sissy Spacek",
+      "Jon Voight",
+      "Mary Steenburgen"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/four-christmases.html"
+}

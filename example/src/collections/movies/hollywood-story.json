@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hollywood Story",
+    "year": 1951,
+    "cast": [
+      "Julie Adams",
+      "Richard Conte"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/hollywood-story.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "See You in the Morning",
+    "year": 1989,
+    "cast": [
+      "Jeff Bridges",
+      "Alice Krige",
+      "Farrah Fawcett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/see-you-in-the-morning.html"
+}

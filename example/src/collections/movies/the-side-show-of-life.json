@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Side Show of Life",
+    "year": 1924,
+    "cast": [
+      "Ernest Torrence",
+      "Anna Q. Nilsson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-side-show-of-life.html"
+}

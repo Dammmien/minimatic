@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Apache",
+    "year": 1928,
+    "cast": [
+      "Margaret Livingston",
+      "Warner Richmond"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-apache.html"
+}

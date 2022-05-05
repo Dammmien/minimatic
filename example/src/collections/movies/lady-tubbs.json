@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lady Tubbs",
+    "year": 1935,
+    "cast": [
+      "Alice Brady",
+      "Douglass Montgomery",
+      "Anita Louise"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lady-tubbs.html"
+}

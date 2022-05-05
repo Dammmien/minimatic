@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bless Me, Ultima",
+    "year": 2013,
+    "cast": [
+      "Luke Ganalon",
+      "Míriam Colón",
+      "Benito Martinez",
+      "Dolores Heredia"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bless-me--ultima.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Astronaut Farmer",
+    "year": 2006,
+    "cast": [
+      "Billy Bob Thornton",
+      "Virginia Madsen",
+      "Bruce Dern",
+      "Bruce Willis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-astronaut-farmer.html"
+}

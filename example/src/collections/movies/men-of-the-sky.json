@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Men of the Sky",
+    "year": 1931,
+    "cast": [
+      "Irene Delroy",
+      "Bramwell Fletcher"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/men-of-the-sky.html"
+}

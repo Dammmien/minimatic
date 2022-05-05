@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Arcadia",
+    "year": 2012,
+    "cast": [
+      "John Hawkes",
+      "Ryan Simpkins",
+      "Ty Simpkins",
+      "Kendall Toole"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/arcadia.html"
+}

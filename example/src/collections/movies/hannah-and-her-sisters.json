@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Hannah and Her Sisters",
+    "year": 1986,
+    "cast": [
+      "Mia Farrow",
+      "Barbara Hershey",
+      "Dianne Wiest",
+      "Woody Allen",
+      "Michael Caine",
+      "Max von Sydow"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hannah-and-her-sisters.html"
+}

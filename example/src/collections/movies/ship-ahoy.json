@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ship Ahoy",
+    "year": 1942,
+    "cast": [
+      "Eleanor Powell",
+      "Red Skelton"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/ship-ahoy.html"
+}

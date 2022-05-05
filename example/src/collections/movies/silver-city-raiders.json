@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silver City Raiders",
+    "year": 1943,
+    "cast": [
+      "Russell Hayden",
+      "Dub Taylor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/silver-city-raiders.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Witness to Murder",
+    "year": 1954,
+    "cast": [
+      "Barbara Stanwyck",
+      "George Sanders"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/witness-to-murder.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Distinguished Gentleman",
+    "year": 1992,
+    "cast": [
+      "Eddie Murphy",
+      "Lane Smith"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-distinguished-gentleman.html"
+}

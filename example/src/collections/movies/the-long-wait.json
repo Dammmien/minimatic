@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Long Wait",
+    "year": 1954,
+    "cast": [
+      "Anthony Quinn",
+      "Charles Coburn",
+      "Peggie Castle"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-long-wait.html"
+}

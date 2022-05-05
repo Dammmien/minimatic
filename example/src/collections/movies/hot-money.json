@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hot Money",
+    "year": 1936,
+    "cast": [
+      "Joseph Cawthorn",
+      "Beverly Roberts",
+      "Ross Alexander"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hot-money.html"
+}

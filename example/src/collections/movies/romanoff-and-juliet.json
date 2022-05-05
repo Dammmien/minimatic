@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Romanoff and Juliet",
+    "year": 1961,
+    "cast": [
+      "John Gavin",
+      "Sandra Dee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/romanoff-and-juliet.html"
+}

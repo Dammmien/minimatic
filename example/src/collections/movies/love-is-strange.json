@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Love Is Strange",
+    "year": 2014,
+    "cast": [
+      "John Lithgow",
+      "Alfred Molina",
+      "Marisa Tomei",
+      "Charlie Tahan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-is-strange.html"
+}

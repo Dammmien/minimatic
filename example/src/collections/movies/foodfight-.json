@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Foodfight!",
+    "year": 2013,
+    "cast": [
+      "Charlie Sheen",
+      "Wayne Brady",
+      "Hilary Duff",
+      "Robert Costanzo",
+      "Chris Kattan",
+      "Eva Longoria",
+      "Christopher Lloyd",
+      "Ed Asner",
+      "Jerry Stiller",
+      "Christine Baranski"
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/foodfight-.html"
+}

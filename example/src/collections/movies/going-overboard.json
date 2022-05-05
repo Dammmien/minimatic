@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Going Overboard",
+    "year": 1989,
+    "cast": [
+      "Adam Sandler"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/going-overboard.html"
+}

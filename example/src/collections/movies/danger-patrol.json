@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Danger Patrol",
+    "year": 1937,
+    "cast": [
+      "Sally Eilers",
+      "John Beal"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/danger-patrol.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Java Head",
+    "year": 1923,
+    "cast": [
+      "Leatrice Joy",
+      "Jacqueline Logan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/java-head.html"
+}

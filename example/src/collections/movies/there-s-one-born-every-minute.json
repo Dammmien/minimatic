@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "There's One Born Every Minute",
+    "year": 1942,
+    "cast": [
+      "Hugh Herbert",
+      "Peggy Moran"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/there-s-one-born-every-minute.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Savage Mutiny",
+    "year": 1953,
+    "cast": [
+      "Johnny Weissmuller",
+      "Angela Stevens"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/savage-mutiny.html"
+}

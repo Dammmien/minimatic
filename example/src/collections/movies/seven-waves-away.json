@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Seven Waves Away",
+    "year": 1957,
+    "cast": [
+      "Tyrone Power",
+      "Mai Zetterling"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/seven-waves-away.html"
+}

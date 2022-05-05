@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wandering Girls",
+    "year": 1927,
+    "cast": [
+      "Dorothy Revier",
+      "Eugenie Besserer"
+    ],
+    "genres": [
+      "Silent"
+    ]
+  },
+  "output": "movies/wandering-girls.html"
+}

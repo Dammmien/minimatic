@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Stripes in the Sun",
+    "year": 1955,
+    "cast": [
+      "Aldo Ray",
+      "Philip Carey"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/three-stripes-in-the-sun.html"
+}

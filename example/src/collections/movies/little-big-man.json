@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Little Big Man",
+    "year": 1970,
+    "cast": [
+      "Dustin Hoffman",
+      "Faye Dunaway",
+      "Martin Balsam",
+      "Chief Dan George"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/little-big-man.html"
+}

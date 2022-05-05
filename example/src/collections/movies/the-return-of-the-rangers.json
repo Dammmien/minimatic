@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Return of the Rangers",
+    "year": 1943,
+    "cast": [
+      "Dave O'Brien",
+      "Guy Wilkerson",
+      "Nell O'Day"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-return-of-the-rangers.html"
+}

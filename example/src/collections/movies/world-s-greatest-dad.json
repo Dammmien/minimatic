@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "World's Greatest Dad",
+    "year": 2009,
+    "cast": [
+      "Robin Williams",
+      "Alexie Gilmore",
+      "Daryl Sabara",
+      "Henry Simmons"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/world-s-greatest-dad.html"
+}

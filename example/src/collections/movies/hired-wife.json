@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hired Wife",
+    "year": 1940,
+    "cast": [
+      "Rosalind Russell",
+      "Brian Aherne",
+      "Virginia Bruce"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hired-wife.html"
+}

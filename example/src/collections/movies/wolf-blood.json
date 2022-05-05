@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wolf Blood",
+    "year": 1925,
+    "cast": [
+      "George Chesebro",
+      "Marguerite Clayton"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/wolf-blood.html"
+}

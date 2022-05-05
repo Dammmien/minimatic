@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Pit Stop",
+    "year": 2013,
+    "cast": [
+      "Bill Heck",
+      "Marcus DeAnda",
+      "Amy Seimetz",
+      "Alfredo Maduro"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pit-stop.html"
+}

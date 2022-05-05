@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Reader",
+    "year": 2008,
+    "cast": [
+      "Kate Winslet",
+      "Ralph Fiennes",
+      "David Kross",
+      "Lena Olin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-reader.html"
+}

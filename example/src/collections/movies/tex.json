@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tex",
+    "year": 1982,
+    "cast": [
+      "Matt Dillon",
+      "Jim Metzler",
+      "Meg Tilly"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tex.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cruel Path",
+    "year": 1993,
+    "cast": [
+      "Dustin J. Boes",
+      "Dale Vaughan",
+      "Walter Cherry"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-cruel-path.html"
+}

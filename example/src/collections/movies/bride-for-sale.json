@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bride for Sale",
+    "year": 1949,
+    "cast": [
+      "Claudette Colbert",
+      "Robert Young"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bride-for-sale.html"
+}

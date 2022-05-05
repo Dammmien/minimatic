@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Spider Woman",
+    "year": 1944,
+    "cast": [
+      "Basil Rathbone",
+      "Nigel Bruce",
+      "Gale Sondergaard"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-spider-woman.html"
+}

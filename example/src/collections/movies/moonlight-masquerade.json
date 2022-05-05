@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Moonlight Masquerade",
+    "year": 1942,
+    "cast": [
+      "Dennis O'Keefe",
+      "Jane Frazee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/moonlight-masquerade.html"
+}

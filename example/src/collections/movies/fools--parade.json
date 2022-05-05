@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fools' Parade",
+    "year": 1971,
+    "cast": [
+      "James Stewart",
+      "Kurt Russell",
+      "George Kennedy"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/fools--parade.html"
+}

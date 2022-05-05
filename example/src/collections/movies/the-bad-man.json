@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Bad Man",
+    "year": 1941,
+    "cast": [
+      "Wallace Beery",
+      "Lionel Barrymore",
+      "Laraine Day",
+      "Ronald Reagan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-bad-man.html"
+}

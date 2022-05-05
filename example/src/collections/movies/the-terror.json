@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Terror",
+    "year": 1963,
+    "cast": [
+      "Boris Karloff",
+      "Jack Nicholson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-terror.html"
+}

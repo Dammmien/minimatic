@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Slugger's Wife",
+    "year": 1985,
+    "cast": [
+      "Michael O'Keefe",
+      "Rebecca De Mornay"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-slugger-s-wife.html"
+}

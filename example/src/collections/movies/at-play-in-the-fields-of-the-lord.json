@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "At Play in the Fields of the Lord",
+    "year": 1991,
+    "cast": [
+      "Tom Berenger",
+      "Aidan Quinn",
+      "Daryl Hannah",
+      "John Lithgow",
+      "Kathy Bates",
+      "Tom Waits"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/at-play-in-the-fields-of-the-lord.html"
+}

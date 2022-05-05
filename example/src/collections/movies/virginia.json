@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Virginia",
+    "year": 2012,
+    "cast": [
+      "Jennifer Connelly",
+      "Ed Harris",
+      "Emma Roberts",
+      "Harrison Gilbertson",
+      "Amy Madigan",
+      "Carrie Preston",
+      "and",
+      "Toby Jones"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/virginia.html"
+}

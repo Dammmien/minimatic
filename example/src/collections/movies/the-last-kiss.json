@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last Kiss",
+    "year": 2006,
+    "cast": [
+      "Zach Braff",
+      "Jacinda Barrett",
+      "Rachel Bilson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-last-kiss.html"
+}

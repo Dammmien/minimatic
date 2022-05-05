@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Desert Phantom",
+    "year": 1936,
+    "cast": [
+      "Johnny Mack Brown",
+      "Sheila Bromley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/desert-phantom.html"
+}

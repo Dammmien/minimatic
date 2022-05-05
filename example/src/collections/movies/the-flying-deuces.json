@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Flying Deuces",
+    "year": 1939,
+    "cast": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "Jean Parker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-flying-deuces.html"
+}

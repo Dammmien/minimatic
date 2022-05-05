@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "All Saints",
+    "year": 2017,
+    "cast": [
+      "John Corbett",
+      "Cara Buono"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/all-saints.html"
+}

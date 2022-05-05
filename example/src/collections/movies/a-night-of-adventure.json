@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A Night of Adventure",
+    "year": 1944,
+    "cast": [
+      "Tom Conway",
+      "Audrey Long",
+      "John Carradine",
+      "Dean Jagger"
+    ],
+    "genres": [
+      "Crime",
+      "Mystery"
+    ]
+  },
+  "output": "movies/a-night-of-adventure.html"
+}

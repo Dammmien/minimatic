@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Wild Cargo",
+    "year": 1934,
+    "cast": [
+      "Frank Buck"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/wild-cargo.html"
+}

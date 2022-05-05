@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bee Season",
+    "year": 2005,
+    "cast": [
+      "Richard Gere",
+      "Juliette Binoche",
+      "Flora Cross",
+      "Max Minghella"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bee-season.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gasoline Alley",
+    "year": 1951,
+    "cast": [
+      "Scotty Beckett",
+      "Jimmy Lydon",
+      "Susan Morrow"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gasoline-alley.html"
+}

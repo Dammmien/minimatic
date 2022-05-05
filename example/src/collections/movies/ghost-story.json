@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ghost Story",
+    "year": 1981,
+    "cast": [
+      "Fred Astaire",
+      "John Houseman",
+      "Melvyn Douglas"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/ghost-story.html"
+}

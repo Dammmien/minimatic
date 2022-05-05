@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Back Trail",
+    "year": 1924,
+    "cast": [
+      "Jack Hoxie",
+      "Eugenia Gilbert"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-back-trail.html"
+}

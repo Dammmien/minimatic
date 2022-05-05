@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Prairie Wife",
+    "year": 1925,
+    "cast": [
+      "Dorothy Devore",
+      "Herbert Rawlinson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-prairie-wife.html"
+}

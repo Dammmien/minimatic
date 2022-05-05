@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Am the Man",
+    "year": 1924,
+    "cast": [
+      "Lionel Barrymore",
+      "Seena Owen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-am-the-man.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Just Nuts",
+    "year": 1915,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/just-nuts.html"
+}

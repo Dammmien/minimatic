@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Belko Experiment",
+    "year": 2017,
+    "cast": [
+      "John Gallagher Jr.",
+      "Tony Goldwyn",
+      "David Del Rio"
+    ],
+    "genres": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-belko-experiment.html"
+}

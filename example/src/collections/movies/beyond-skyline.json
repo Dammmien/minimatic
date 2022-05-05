@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Beyond Skyline",
+    "year": 2017,
+    "cast": [
+      "Frank Grillo",
+      "Bojana Novakovic",
+      "Callan Mulvey",
+      "Iko Uwais",
+      "Yayan Ruhian",
+      "Betty Gabriel",
+      "Antonio Fargas"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/beyond-skyline.html"
+}

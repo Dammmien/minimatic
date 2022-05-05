@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Monkey's Paw",
+    "year": 1933,
+    "cast": [
+      "Ivan F. Simpson",
+      "C. Aubrey Smith"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-monkey-s-paw.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Holy Rollers",
+    "year": 2010,
+    "cast": [
+      "Jesse Eisenberg",
+      "Justin Bartha",
+      "Ari Graynor",
+      "Danny A. Abeckaser",
+      "Q-Tip",
+      "Jason Fuchs"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/holy-rollers.html"
+}

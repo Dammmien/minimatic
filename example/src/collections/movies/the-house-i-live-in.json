@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The House I Live In",
+    "year": 1945,
+    "cast": [
+      "Frank Sinatra"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-house-i-live-in.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Special Delivery",
+    "year": 1955,
+    "cast": [
+      "Joseph Cotten",
+      "Eva Bartok"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/special-delivery.html"
+}

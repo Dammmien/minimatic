@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Santa with Muscles",
+    "year": 1996,
+    "cast": [
+      "Hulk Hogan"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/santa-with-muscles.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dallas Buyers Club",
+    "year": 2013,
+    "cast": [
+      "Matthew McConaughey",
+      "Jennifer Garner",
+      "Jared Leto"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dallas-buyers-club.html"
+}

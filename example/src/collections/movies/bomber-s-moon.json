@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bomber's Moon",
+    "year": 1943,
+    "cast": [
+      "George Montgomery",
+      "Annabella"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/bomber-s-moon.html"
+}

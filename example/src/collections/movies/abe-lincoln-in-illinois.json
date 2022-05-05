@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Abe Lincoln in Illinois",
+    "year": 1940,
+    "cast": [
+      "Raymond Massey",
+      "Gene Lockhart",
+      "Ruth Gordon"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/abe-lincoln-in-illinois.html"
+}

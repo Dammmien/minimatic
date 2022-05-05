@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Rampart",
+    "year": 2012,
+    "cast": [
+      "Woody Harrelson",
+      "Ned Beatty",
+      "Ben Foster",
+      "Anne Heche",
+      "Ice Cube",
+      "Cynthia Nixon",
+      "Sigourney Weaver",
+      "Robert Wisdom",
+      "Robin Wright",
+      "Steve Buscemi"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/rampart.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Producers",
+    "year": 2005,
+    "cast": [
+      "Nathan Lane",
+      "Matthew Broderick",
+      "Uma Thurman",
+      "Will Ferrell"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-producers.html"
+}

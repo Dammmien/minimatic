@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Long Riders",
+    "year": 1980,
+    "cast": [
+      "David Carradine",
+      "Keith Carradine",
+      "Robert Carradine",
+      "Randy Quaid",
+      "Dennis Quaid",
+      "Stacy Keach",
+      "James Keach",
+      "Christopher Guest",
+      "Nicholas Guest"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-long-riders.html"
+}

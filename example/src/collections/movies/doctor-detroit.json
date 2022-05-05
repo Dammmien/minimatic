@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Doctor Detroit",
+    "year": 1983,
+    "cast": [
+      "Dan Aykroyd",
+      "Fran Drescher",
+      "Donna Dixon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/doctor-detroit.html"
+}

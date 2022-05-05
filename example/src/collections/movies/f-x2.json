@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "F/X2",
+    "year": 1991,
+    "cast": [
+      "Bryan Brown",
+      "Brian Dennehy",
+      "Rachel Ticotin",
+      "Joanna Gleason"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/f-x2.html"
+}

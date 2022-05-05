@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Wind River",
+    "year": 2017,
+    "cast": [
+      "Jeremy Renner",
+      "Elizabeth Olsen",
+      "Jon Bernthal",
+      "Kelsey Chow"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/wind-river.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hoot",
+    "year": 2006,
+    "cast": [
+      "Luke Wilson",
+      "Brie Larson",
+      "Logan Lerman",
+      "Cody Linley"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/hoot.html"
+}

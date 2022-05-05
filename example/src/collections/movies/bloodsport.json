@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bloodsport",
+    "year": 1988,
+    "cast": [
+      "Jean-Claude Van Damme",
+      "Donald Gibb",
+      "Forest Whitaker"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/bloodsport.html"
+}

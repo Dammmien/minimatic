@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Justice of the Wild",
+    "year": 1913,
+    "cast": [
+      "Harry von Meter",
+      "Mona Darkfeather"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/justice-of-the-wild.html"
+}

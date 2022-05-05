@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Sweet Liberty",
+    "year": 1986,
+    "cast": [
+      "Alan Alda",
+      "Michael Caine",
+      "Michelle Pfeiffer",
+      "Bob Hoskins",
+      "Lise Hilboldt",
+      "Lois Chiles"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/sweet-liberty.html"
+}

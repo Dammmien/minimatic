@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Reckless Roads",
+    "year": 1935,
+    "cast": [
+      "Judith Allen",
+      "Regis Toomey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/reckless-roads.html"
+}

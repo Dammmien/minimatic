@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Obsessed",
+    "year": 2009,
+    "cast": [
+      "Idris Elba",
+      "Beyoncé Knowles",
+      "Ali Larter"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/obsessed.html"
+}

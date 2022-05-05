@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Monkeys, Go Home!",
+    "year": 1967,
+    "cast": [
+      "Dean Jones",
+      "Yvette Mimieux"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/monkeys--go-home-.html"
+}

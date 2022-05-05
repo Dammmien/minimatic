@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eyes of the Forest",
+    "year": 1923,
+    "cast": [
+      "Tom Mix",
+      "Pauline Starke"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/eyes-of-the-forest.html"
+}

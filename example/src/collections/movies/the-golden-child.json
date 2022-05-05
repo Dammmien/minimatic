@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Golden Child",
+    "year": 1986,
+    "cast": [
+      "Eddie Murphy",
+      "Charlotte Lewis",
+      "Charles Dance"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-golden-child.html"
+}

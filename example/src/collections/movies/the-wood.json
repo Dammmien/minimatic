@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wood",
+    "year": 1999,
+    "cast": [
+      "Omar Epps",
+      "Richard T. Jones",
+      "Taye Diggs"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-wood.html"
+}

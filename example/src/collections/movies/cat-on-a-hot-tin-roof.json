@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Cat on a Hot Tin Roof",
+    "year": 1958,
+    "cast": [
+      "Elizabeth Taylor",
+      "Paul Newman",
+      "Burl Ives",
+      "Judith Anderson",
+      "Madeleine Sherwood",
+      "Jack Carson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cat-on-a-hot-tin-roof.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Docks of New York",
+    "year": 1945,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/docks-of-new-york.html"
+}

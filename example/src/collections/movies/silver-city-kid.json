@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silver City Kid",
+    "year": 1944,
+    "cast": [
+      "Allan Lane",
+      "Peggy Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/silver-city-kid.html"
+}

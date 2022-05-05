@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Murderers' Row",
+    "year": 1966,
+    "cast": [
+      "Dean Martin",
+      "Ann-Margret",
+      "Karl Malden",
+      "Camilla Sparv",
+      "Beverly Adams",
+      "James Gregory"
+    ],
+    "genres": [
+      "Spy",
+      "Comedy"
+    ]
+  },
+  "output": "movies/murderers--row.html"
+}

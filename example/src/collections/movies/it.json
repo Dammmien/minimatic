@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "It",
+    "year": 2017,
+    "cast": [
+      "Bill Skarsgård",
+      "Jaeden Lieberher",
+      "Finn Wolfhard",
+      "Jack Dylan Grazer",
+      "Sophia Lillis",
+      "Wyatt Oleff",
+      "Chosen Jacobs",
+      "Jeremy Ray Taylor"
+    ],
+    "genres": [
+      "Horror",
+      "Fantasy",
+      "Drama"
+    ]
+  },
+  "output": "movies/it.html"
+}

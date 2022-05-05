@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Broadway Bad",
+    "year": 1933,
+    "cast": [
+      "Joan Blondell",
+      "Ricardo Cortez",
+      "Ginger Rogers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/broadway-bad.html"
+}

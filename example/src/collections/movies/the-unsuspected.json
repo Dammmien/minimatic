@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Unsuspected",
+    "year": 1947,
+    "cast": [
+      "Claude Rains",
+      "Audrey Totter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-unsuspected.html"
+}

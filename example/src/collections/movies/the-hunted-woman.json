@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hunted Woman",
+    "year": 1925,
+    "cast": [
+      "Seena Owen",
+      "Earl Schenck"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hunted-woman.html"
+}

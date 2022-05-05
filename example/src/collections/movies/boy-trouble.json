@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Boy Trouble",
+    "year": 1939,
+    "cast": [
+      "Charles Ruggles",
+      "Mary Boland",
+      "Donald O'Connor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/boy-trouble.html"
+}

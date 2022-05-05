@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dora's Dunking Doughnuts",
+    "year": 1933,
+    "cast": [
+      "Andy Clyde",
+      "Shirley Temple"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dora-s-dunking-doughnuts.html"
+}

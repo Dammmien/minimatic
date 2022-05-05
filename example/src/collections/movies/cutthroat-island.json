@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cutthroat Island",
+    "year": 1995,
+    "cast": [
+      "Geena Davis",
+      "Matthew Modine",
+      "Frank Langella"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/cutthroat-island.html"
+}

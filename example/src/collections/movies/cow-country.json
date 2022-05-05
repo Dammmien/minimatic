@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cow Country",
+    "year": 1953,
+    "cast": [
+      "Edmond O'Brien",
+      "Helen Westcott"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cow-country.html"
+}

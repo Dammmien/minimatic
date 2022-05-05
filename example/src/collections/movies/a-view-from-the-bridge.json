@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A View from the Bridge",
+    "year": 1962,
+    "cast": [
+      "Raf Vallone",
+      "Maureen Stapleton",
+      "Carol Lawrence"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-view-from-the-bridge.html"
+}

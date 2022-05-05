@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Recompense",
+    "year": 1925,
+    "cast": [
+      "Marie Prevost",
+      "Monte Blue"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/recompense.html"
+}

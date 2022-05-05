@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Country Music Holiday",
+    "year": 1958,
+    "cast": [
+      "Ferlin Husky",
+      "Zsa Zsa Gabor"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/country-music-holiday.html"
+}

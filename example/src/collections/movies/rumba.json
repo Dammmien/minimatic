@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rumba",
+    "year": 1935,
+    "cast": [
+      "George Raft",
+      "Carole Lombard",
+      "Gail Patrick"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/rumba.html"
+}

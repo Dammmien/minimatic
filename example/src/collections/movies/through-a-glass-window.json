@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Through a Glass Window",
+    "year": 1922,
+    "cast": [
+      "May McAvoy",
+      "Fanny Midgley",
+      "Raymond McKee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/through-a-glass-window.html"
+}

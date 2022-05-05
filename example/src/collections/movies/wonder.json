@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wonder",
+    "year": 2017,
+    "cast": [
+      "Julia Roberts",
+      "Jacob Tremblay",
+      "Owen Wilson",
+      "Mandy Patinkin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wonder.html"
+}

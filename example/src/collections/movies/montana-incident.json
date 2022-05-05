@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Montana Incident",
+    "year": 1952,
+    "cast": [
+      "Whip Wilson",
+      "Noel Neill",
+      "Peggy Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/montana-incident.html"
+}

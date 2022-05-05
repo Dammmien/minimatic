@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Place for Lovers",
+    "year": 1968,
+    "cast": [
+      "Faye Dunaway",
+      "Marcello Mastroianni"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-place-for-lovers.html"
+}

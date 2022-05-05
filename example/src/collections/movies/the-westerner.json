@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Westerner",
+    "year": 1940,
+    "cast": [
+      "Gary Cooper",
+      "Walter Brennan",
+      "Doris Davenport"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-westerner.html"
+}

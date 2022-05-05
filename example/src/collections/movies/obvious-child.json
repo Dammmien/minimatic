@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Obvious Child",
+    "year": 2014,
+    "cast": [
+      "Jenny Slate",
+      "Jake Lacy",
+      "Gaby Hoffmann",
+      "David Cross"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/obvious-child.html"
+}

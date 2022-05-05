@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ref",
+    "year": 1994,
+    "cast": [
+      "Denis Leary",
+      "Kevin Spacey",
+      "Judy Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ref.html"
+}

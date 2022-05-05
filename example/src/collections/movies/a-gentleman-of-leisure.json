@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Gentleman of Leisure",
+    "year": 1923,
+    "cast": [
+      "Jack Holt",
+      "Sigrid Holmquist"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-gentleman-of-leisure.html"
+}

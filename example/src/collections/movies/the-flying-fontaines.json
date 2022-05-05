@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Flying Fontaines",
+    "year": 1959,
+    "cast": [
+      "Michael Callan",
+      "Joan Evans"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-flying-fontaines.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Courtship of Andy Hardy",
+    "year": 1942,
+    "cast": [
+      "Lewis Stone",
+      "Mickey Rooney",
+      "Cecilia Parker",
+      "Donna Reed"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-courtship-of-andy-hardy.html"
+}

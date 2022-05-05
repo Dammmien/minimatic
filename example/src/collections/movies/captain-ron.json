@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Captain Ron",
+    "year": 1992,
+    "cast": [
+      "Kurt Russell",
+      "Martin Short",
+      "Mary Kay Place"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/captain-ron.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Candleshoe",
+    "year": 1977,
+    "cast": [
+      "David Niven",
+      "Helen Hayes",
+      "Jodie Foster"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/candleshoe.html"
+}

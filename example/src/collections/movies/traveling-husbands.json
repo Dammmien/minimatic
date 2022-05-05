@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Traveling Husbands",
+    "year": 1931,
+    "cast": [
+      "Evelyn Brent",
+      "Constance Cummings"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/traveling-husbands.html"
+}

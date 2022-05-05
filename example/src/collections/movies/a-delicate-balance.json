@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Delicate Balance",
+    "year": 1973,
+    "cast": [
+      "Katharine Hepburn",
+      "Paul Scofield",
+      "Lee Remick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-delicate-balance.html"
+}

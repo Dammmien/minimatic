@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Flamingo Kid",
+    "year": 1984,
+    "cast": [
+      "Matt Dillon",
+      "Richard Crenna",
+      "Héctor Elizondo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-flamingo-kid.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ride the Man Down",
+    "year": 1952,
+    "cast": [
+      "Brian Donlevy",
+      "Ella Raines",
+      "Barbara Britton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ride-the-man-down.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fifth Avenue Models",
+    "year": 1925,
+    "cast": [
+      "Mary Philbin",
+      "Norman Kerry"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fifth-avenue-models.html"
+}

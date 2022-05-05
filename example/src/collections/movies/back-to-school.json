@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Back to School",
+    "year": 1986,
+    "cast": [
+      "Rodney Dangerfield",
+      "Sally Kellerman",
+      "Keith Gordon",
+      "Ned Beatty",
+      "Adrienne Barbeau",
+      "Burt Young",
+      "Robert Downey Jr."
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/back-to-school.html"
+}

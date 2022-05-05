@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sheriff of Sundown",
+    "year": 1944,
+    "cast": [
+      "Allan Lane",
+      "Duncan Renaldo"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sheriff-of-sundown.html"
+}

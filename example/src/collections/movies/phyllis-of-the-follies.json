@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Phyllis of the Follies",
+    "year": 1928,
+    "cast": [
+      "Alice Day",
+      "Matt Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/phyllis-of-the-follies.html"
+}

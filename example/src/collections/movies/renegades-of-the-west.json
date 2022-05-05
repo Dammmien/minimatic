@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Renegades of the West",
+    "year": 1932,
+    "cast": [
+      "Tom Keene",
+      "Roscoe Ates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/renegades-of-the-west.html"
+}

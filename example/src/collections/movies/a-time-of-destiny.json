@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Time of Destiny",
+    "year": 1988,
+    "cast": [
+      "William Hurt",
+      "Timothy Hutton",
+      "Melissa Leo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-time-of-destiny.html"
+}

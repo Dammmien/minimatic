@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Ordinary People",
+    "year": 1980,
+    "cast": [
+      "Mary Tyler Moore",
+      "Donald Sutherland",
+      "Timothy Hutton",
+      "Judd Hirsch",
+      "Elizabeth McGovern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ordinary-people.html"
+}

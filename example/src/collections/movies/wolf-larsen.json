@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wolf Larsen",
+    "year": 1958,
+    "cast": [
+      "Barry Sullivan",
+      "Peter Graves"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/wolf-larsen.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Minute to Zero",
+    "year": 1952,
+    "cast": [
+      "Robert Mitchum",
+      "Ann Blyth"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/one-minute-to-zero.html"
+}

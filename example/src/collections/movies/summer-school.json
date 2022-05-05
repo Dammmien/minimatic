@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Summer School",
+    "year": 1987,
+    "cast": [
+      "Mark Harmon",
+      "Kirstie Alley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/summer-school.html"
+}

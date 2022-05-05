@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Roarin' Lead",
+    "year": 1936,
+    "cast": [
+      "Robert Livingston",
+      "Ray Corrigan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/roarin--lead.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Onionhead",
+    "year": 1958,
+    "cast": [
+      "Andy Griffith",
+      "Walter Matthau",
+      "Joey Bishop",
+      "Felicia Farr",
+      "James Gregory",
+      "Erin O'Brien"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/onionhead.html"
+}

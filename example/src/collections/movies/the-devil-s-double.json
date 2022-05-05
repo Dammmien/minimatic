@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Devil's Double",
+    "year": 2011,
+    "cast": [
+      "Dominic Cooper",
+      "Philip Quast",
+      "Ludivine Sagnier",
+      "Mimoun Oaïssa",
+      "Mehmet Ferda"
+    ],
+    "genres": [
+      "Action",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-devil-s-double.html"
+}

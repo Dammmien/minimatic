@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Dog Trouble",
+    "year": 1942,
+    "cast": [],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/dog-trouble.html"
+}

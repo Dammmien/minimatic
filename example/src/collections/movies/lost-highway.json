@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Lost Highway",
+    "year": 1997,
+    "cast": [
+      "Bill Pullman",
+      "Patricia Arquette",
+      "Balthazar Getty",
+      "Robert Loggia",
+      "Robert Blake"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/lost-highway.html"
+}

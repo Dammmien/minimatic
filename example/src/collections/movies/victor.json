@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Victor",
+    "year": 2017,
+    "cast": [
+      "Patrick Davis",
+      "Nick Eversman",
+      "Cortney Palm",
+      "Rick Gonzalez",
+      "Matt Marquez",
+      "Lisa Vidal",
+      "Josh Pence"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/victor.html"
+}

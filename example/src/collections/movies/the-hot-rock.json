@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hot Rock",
+    "year": 1972,
+    "cast": [
+      "Robert Redford",
+      "George Segal",
+      "Zero Mostel"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-hot-rock.html"
+}

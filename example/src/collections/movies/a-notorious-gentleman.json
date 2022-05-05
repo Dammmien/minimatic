@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Notorious Gentleman",
+    "year": 1935,
+    "cast": [
+      "Charles Bickford",
+      "Helen Vinson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-notorious-gentleman.html"
+}

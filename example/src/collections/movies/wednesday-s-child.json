@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wednesday's Child",
+    "year": 1934,
+    "cast": [
+      "Karen Morley",
+      "Edward Arnold",
+      "Frankie Thomas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wednesday-s-child.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Tutor",
+    "year": 1983,
+    "cast": [
+      "Caren Kaye",
+      "Matt Lattanzi",
+      "Crispin Glover"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-tutor.html"
+}

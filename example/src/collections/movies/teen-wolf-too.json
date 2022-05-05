@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Teen Wolf Too",
+    "year": 1987,
+    "cast": [
+      "Jason Bateman",
+      "Kim Darby",
+      "John Astin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/teen-wolf-too.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Melinda and Melinda",
+    "year": 2004,
+    "cast": [
+      "Chiwetel Ejiofor",
+      "Will Ferrell",
+      "Jonny Lee Miller",
+      "Radha Mitchell",
+      "Amanda Peet",
+      "Chloë Sevigny",
+      "Wallace Shawn"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/melinda-and-melinda.html"
+}

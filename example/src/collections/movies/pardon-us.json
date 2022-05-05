@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pardon Us",
+    "year": 1931,
+    "cast": [
+      "Stan Laurel",
+      "Oliver Hardy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pardon-us.html"
+}

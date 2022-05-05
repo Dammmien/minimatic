@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Just You and Me, Kid",
+    "year": 1979,
+    "cast": [
+      "George Burns",
+      "Brooke Shields"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/just-you-and-me--kid.html"
+}

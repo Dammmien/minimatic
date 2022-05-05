@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Four's a Crowd",
+    "year": 1938,
+    "cast": [
+      "Errol Flynn",
+      "Olivia de Havilland",
+      "Rosalind Russell"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/four-s-a-crowd.html"
+}

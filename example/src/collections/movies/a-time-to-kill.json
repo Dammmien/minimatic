@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "A Time to Kill",
+    "year": 1996,
+    "cast": [
+      "Matthew McConaughey",
+      "Sandra Bullock",
+      "Samuel L. Jackson",
+      "Kevin Spacey",
+      "Donald Sutherland",
+      "Kiefer Sutherland",
+      "Ashley Judd",
+      "Patrick McGoohan",
+      "Brenda Fricker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-time-to-kill.html"
+}

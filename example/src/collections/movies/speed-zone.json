@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Speed Zone",
+    "year": 1989,
+    "cast": [
+      "John Candy",
+      "Eugene Levy",
+      "Joe Flaherty",
+      "Brooke Shields"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/speed-zone.html"
+}

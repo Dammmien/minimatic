@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Slaughterhouse Rock",
+    "year": 1988,
+    "cast": [
+      "Toni Basil"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/slaughterhouse-rock.html"
+}

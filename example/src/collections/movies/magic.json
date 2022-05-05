@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Magic",
+    "year": 1978,
+    "cast": [
+      "Anthony Hopkins",
+      "Ann-Margret",
+      "Burgess Meredith"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/magic.html"
+}

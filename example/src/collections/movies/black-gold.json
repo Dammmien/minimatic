@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Black Gold",
+    "year": 2006,
+    "cast": [
+      "international",
+      "coffee",
+      "trade"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/black-gold.html"
+}

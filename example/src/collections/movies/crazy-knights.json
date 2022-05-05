@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Crazy Knights",
+    "year": 1944,
+    "cast": [
+      "Billy Gilbert",
+      "Shemp Howard",
+      "Max Rosenbloom"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/crazy-knights.html"
+}

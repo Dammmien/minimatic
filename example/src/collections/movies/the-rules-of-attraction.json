@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Rules of Attraction",
+    "year": 2002,
+    "cast": [
+      "James Van Der Beek",
+      "Shannyn Sossamon",
+      "Ian Somerhalder"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-rules-of-attraction.html"
+}

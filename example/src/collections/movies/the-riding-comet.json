@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Riding Comet",
+    "year": 1925,
+    "cast": [
+      "Yakima Canutt",
+      "Dorothy Wood"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-riding-comet.html"
+}

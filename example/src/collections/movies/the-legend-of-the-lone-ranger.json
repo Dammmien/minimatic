@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Legend of the Lone Ranger",
+    "year": 1981,
+    "cast": [
+      "Klinton Spilsbury",
+      "Michael Horse",
+      "Christopher Lloyd",
+      "Jason Robards"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-legend-of-the-lone-ranger.html"
+}

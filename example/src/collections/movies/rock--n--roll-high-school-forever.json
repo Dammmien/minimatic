@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Rock 'n' Roll High School Forever",
+    "year": 1990,
+    "cast": [
+      "Corey Feldman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rock--n--roll-high-school-forever.html"
+}

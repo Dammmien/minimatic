@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rodeo King and the Senorita",
+    "year": 1951,
+    "cast": [
+      "Rex Allen",
+      "Buddy Ebsen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rodeo-king-and-the-senorita.html"
+}

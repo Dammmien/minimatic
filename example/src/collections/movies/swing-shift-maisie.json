@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Swing Shift Maisie",
+    "year": 1943,
+    "cast": [
+      "Ann Sothern",
+      "James Craig"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/swing-shift-maisie.html"
+}

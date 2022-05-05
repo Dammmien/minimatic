@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Texan",
+    "year": 1930,
+    "cast": [
+      "Gary Cooper",
+      "Fay Wray",
+      "Emma Dunn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-texan.html"
+}

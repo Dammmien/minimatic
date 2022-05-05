@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ninja III: The Domination",
+    "year": 1984,
+    "cast": [
+      "Sho Kosugi",
+      "Lucinda Dickey"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/ninja-iii--the-domination.html"
+}

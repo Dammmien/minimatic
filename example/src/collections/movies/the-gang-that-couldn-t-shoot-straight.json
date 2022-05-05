@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gang That Couldn't Shoot Straight",
+    "year": 1971,
+    "cast": [
+      "Jerry Orbach",
+      "Robert De Niro"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-gang-that-couldn-t-shoot-straight.html"
+}

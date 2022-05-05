@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kiss of the Spider Woman",
+    "year": 1985,
+    "cast": [
+      "William Hurt",
+      "Raúl Juliá",
+      "Sônia Braga"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kiss-of-the-spider-woman.html"
+}

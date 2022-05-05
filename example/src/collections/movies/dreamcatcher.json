@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Dreamcatcher",
+    "year": 2003,
+    "cast": [
+      "Morgan Freeman",
+      "Thomas Jane",
+      "Jason Lee",
+      "Damian Lewis",
+      "Timothy Olyphant",
+      "Tom Sizemore",
+      "Donnie Wahlberg"
+    ],
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/dreamcatcher.html"
+}

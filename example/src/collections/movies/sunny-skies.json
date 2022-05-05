@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sunny Skies",
+    "year": 1930,
+    "cast": [
+      "Benny Rubin",
+      "Marceline Day",
+      "Rex Lease"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/sunny-skies.html"
+}

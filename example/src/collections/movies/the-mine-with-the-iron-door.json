@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mine with the Iron Door",
+    "year": 1936,
+    "cast": [
+      "Richard Arlen",
+      "Cecilia Parker"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-mine-with-the-iron-door.html"
+}

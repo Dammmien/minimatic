@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Robert Patrick",
+      "Edward Furlong"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/terminator-2--judgment-day.html"
+}

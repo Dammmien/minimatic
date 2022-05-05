@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Torrid Zone",
+    "year": 1940,
+    "cast": [
+      "James Cagney",
+      "Ann Sheridan",
+      "Pat O'Brien"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/torrid-zone.html"
+}

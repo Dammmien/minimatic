@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daffy Duck's Fantastic Island",
+    "year": 1983,
+    "cast": [
+      "Mel Blanc",
+      "June Foray"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/daffy-duck-s-fantastic-island.html"
+}

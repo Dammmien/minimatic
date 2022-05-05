@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sweepstakes Winner",
+    "year": 1939,
+    "cast": [
+      "Marie Wilson",
+      "Johnnie Davis",
+      "Allen Jenkins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sweepstakes-winner.html"
+}

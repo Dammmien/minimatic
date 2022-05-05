@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gorilla Man",
+    "year": 1943,
+    "cast": [
+      "Ruth Ford",
+      "John Loder"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-gorilla-man.html"
+}

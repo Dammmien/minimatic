@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Tree of Life",
+    "year": 2011,
+    "cast": [
+      "Brad Pitt",
+      "Sean Penn",
+      "Jessica Chastain"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-tree-of-life.html"
+}

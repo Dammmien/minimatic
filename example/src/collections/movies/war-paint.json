@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "War Paint",
+    "year": 1953,
+    "cast": [
+      "Robert Stack",
+      "Joan Taylor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/war-paint.html"
+}

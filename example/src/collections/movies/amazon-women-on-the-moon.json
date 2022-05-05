@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Amazon Women on the Moon",
+    "year": 1987,
+    "cast": [
+      "Arsenio Hall",
+      "Carrie Fisher",
+      "Sybil Danning",
+      "Griffin Dunne",
+      "Kelly Preston",
+      "David Alan Grier",
+      "Steve Forrest",
+      "Steve Allen",
+      "Steve Guttenberg",
+      "Rosanna Arquette",
+      "Michelle Pfeiffer"
+    ],
+    "genres": [
+      "Comedy",
+      "Satire"
+    ]
+  },
+  "output": "movies/amazon-women-on-the-moon.html"
+}

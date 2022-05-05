@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Guardian",
+    "year": 2006,
+    "cast": [
+      "Kevin Costner",
+      "Ashton Kutcher"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-guardian.html"
+}

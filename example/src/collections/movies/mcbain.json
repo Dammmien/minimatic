@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "McBain",
+    "year": 1991,
+    "cast": [
+      "Christopher Walken",
+      "María Conchita Alonso",
+      "Michael Ironside"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mcbain.html"
+}

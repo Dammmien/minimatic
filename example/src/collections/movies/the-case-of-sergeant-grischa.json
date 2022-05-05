@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Case of Sergeant Grischa",
+    "year": 1930,
+    "cast": [
+      "Chester Morris",
+      "Betty Compson"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-case-of-sergeant-grischa.html"
+}

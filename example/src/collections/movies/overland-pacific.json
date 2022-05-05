@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Overland Pacific",
+    "year": 1954,
+    "cast": [
+      "Jock Mahoney",
+      "Peggie Castle",
+      "Adele Jergens"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/overland-pacific.html"
+}

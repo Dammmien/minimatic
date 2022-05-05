@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Just in Time",
+    "year": 1997,
+    "cast": [
+      "Mark Moses",
+      "Brittany Alyse Smith"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/just-in-time.html"
+}

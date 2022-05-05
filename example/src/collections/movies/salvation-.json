@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Salvation!",
+    "year": 1987,
+    "cast": [
+      "Viggo Mortensen",
+      "Exene Cervenka"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/salvation-.html"
+}

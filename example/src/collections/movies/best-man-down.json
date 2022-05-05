@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Best Man Down",
+    "year": 2013,
+    "cast": [
+      "Justin Long",
+      "Tyler Labine",
+      "Jess Weixler",
+      "Addison Timlin",
+      "Frances O'Connor",
+      "Shelley Long"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/best-man-down.html"
+}

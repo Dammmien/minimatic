@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Romance of Tarzan",
+    "year": 1918,
+    "cast": [
+      "Elmo Lincoln",
+      "Enid Markey"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-romance-of-tarzan.html"
+}

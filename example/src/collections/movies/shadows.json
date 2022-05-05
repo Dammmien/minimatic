@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shadows",
+    "year": 1959,
+    "cast": [
+      "Ben Carruthers",
+      "Lelia Goldoni"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shadows.html"
+}

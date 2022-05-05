@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Special Agent",
+    "year": 1949,
+    "cast": [
+      "William Eythe",
+      "Kasey Rogers",
+      "Carole Mathews"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/special-agent.html"
+}

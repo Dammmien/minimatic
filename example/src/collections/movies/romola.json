@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Romola",
+    "year": 1924,
+    "cast": [
+      "Lillian Gish",
+      "Dorothy Gish",
+      "William Powell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/romola.html"
+}

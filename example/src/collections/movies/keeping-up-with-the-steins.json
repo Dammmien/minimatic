@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Keeping Up with the Steins",
+    "year": 2006,
+    "cast": [
+      "Daryl Sabara",
+      "Jami Gertz",
+      "Jeremy Piven"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/keeping-up-with-the-steins.html"
+}

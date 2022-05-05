@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Girl on the Barge",
+    "year": 1929,
+    "cast": [
+      "Jean Hersholt",
+      "Sally O'Neil"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/girl-on-the-barge.html"
+}

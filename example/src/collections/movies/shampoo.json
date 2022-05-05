@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Shampoo",
+    "year": 1975,
+    "cast": [
+      "Warren Beatty",
+      "Julie Christie",
+      "Goldie Hawn",
+      "Jack Warden",
+      "Lee Grant",
+      "Carrie Fisher",
+      "Tony Bill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shampoo.html"
+}

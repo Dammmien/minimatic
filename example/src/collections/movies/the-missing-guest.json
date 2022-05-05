@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Missing Guest",
+    "year": 1938,
+    "cast": [
+      "Paul Kelly",
+      "Constance Moore"
+    ],
+    "genres": [
+      "Mystery",
+      "Horror"
+    ]
+  },
+  "output": "movies/the-missing-guest.html"
+}

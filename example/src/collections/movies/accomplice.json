@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Accomplice",
+    "year": 1946,
+    "cast": [
+      "Richard Arlen",
+      "Veda Ann Borg",
+      "Tom Dugan"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/accomplice.html"
+}

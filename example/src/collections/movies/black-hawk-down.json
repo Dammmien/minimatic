@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Black Hawk Down",
+    "year": 2001,
+    "cast": [
+      "Josh Hartnett",
+      "Ewan McGregor",
+      "Tom Hardy"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/black-hawk-down.html"
+}

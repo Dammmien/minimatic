@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "A Slice of Life",
+    "year": 1914,
+    "cast": [
+      "Charlotte Burton",
+      "Perry Banks"
+    ],
+    "genres": []
+  },
+  "output": "movies/a-slice-of-life.html"
+}

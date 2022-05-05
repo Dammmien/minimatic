@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Majority of One",
+    "year": 1961,
+    "cast": [
+      "Rosalind Russell",
+      "Alec Guinness"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-majority-of-one.html"
+}

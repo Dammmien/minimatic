@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Speak",
+    "year": 2004,
+    "cast": [
+      "Kristen Stewart",
+      "Steve Zahn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/speak.html"
+}

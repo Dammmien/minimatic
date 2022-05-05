@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Andy Hardy's Double Life",
+    "year": 1942,
+    "cast": [
+      "Lewis Stone",
+      "Mickey Rooney",
+      "Fay Holden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/andy-hardy-s-double-life.html"
+}

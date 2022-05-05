@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "An Annapolis Story",
+    "year": 1955,
+    "cast": [
+      "John Derek",
+      "Diana Lynn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/an-annapolis-story.html"
+}

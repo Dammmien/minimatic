@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Space Cowboys",
+    "year": 2000,
+    "cast": [
+      "Clint Eastwood",
+      "Tommy Lee Jones",
+      "Donald Sutherland",
+      "James Garner",
+      "Marcia Gay Harden",
+      "James Cromwell",
+      "Loren Dean",
+      "Courtney B. Vance",
+      "William Devane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/space-cowboys.html"
+}

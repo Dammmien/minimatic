@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It Should Happen to You",
+    "year": 1954,
+    "cast": [
+      "Judy Holliday",
+      "Peter Lawford",
+      "Jack Lemmon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-should-happen-to-you.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Army Surgeon",
+    "year": 1942,
+    "cast": [
+      "Jane Wyatt",
+      "James Ellison"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/army-surgeon.html"
+}

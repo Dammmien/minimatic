@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Flirtation Walk",
+    "year": 1934,
+    "cast": [
+      "Dick Powell",
+      "Ruby Keeler",
+      "Ross Alexander"
+    ],
+    "genres": [
+      "Musical",
+      "Romance"
+    ]
+  },
+  "output": "movies/flirtation-walk.html"
+}

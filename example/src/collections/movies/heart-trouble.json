@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Heart Trouble",
+    "year": 1928,
+    "cast": [
+      "Harry Langdon",
+      "Doris Dawson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/heart-trouble.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "His People",
+    "year": 1925,
+    "cast": [
+      "Rudolph Schildkraut",
+      "Rosa Rosanova"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/his-people.html"
+}

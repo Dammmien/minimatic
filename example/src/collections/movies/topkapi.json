@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Topkapi",
+    "year": 1964,
+    "cast": [
+      "Melina Mercouri",
+      "Peter Ustinov",
+      "Maximilian Schell"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/topkapi.html"
+}

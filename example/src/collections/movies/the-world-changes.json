@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The World Changes",
+    "year": 1933,
+    "cast": [
+      "Paul Muni",
+      "Aline MacMahon",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-world-changes.html"
+}

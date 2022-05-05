@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting Fate",
+    "year": 1925,
+    "cast": [
+      "Billy Sullivan",
+      "Tom McGuire"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/fighting-fate.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Falling Down",
+    "year": 1993,
+    "cast": [
+      "Michael Douglas",
+      "Robert Duvall",
+      "Barbara Hershey",
+      "Rachel Ticotin",
+      "Frederic Forrest",
+      "Tuesday Weld"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/falling-down.html"
+}

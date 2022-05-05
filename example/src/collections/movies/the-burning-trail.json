@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Burning Trail",
+    "year": 1925,
+    "cast": [
+      "William Desmond",
+      "Albert J. Smith"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-burning-trail.html"
+}

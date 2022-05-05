@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Shane",
+    "year": 1953,
+    "cast": [
+      "Alan Ladd",
+      "Van Heflin",
+      "Jean Arthur",
+      "Brandon De Wilde",
+      "Jack Palance",
+      "Ben Johnson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/shane.html"
+}

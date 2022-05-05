@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Common Cause",
+    "year": 1919,
+    "cast": [
+      "Effie Shannon",
+      "Irene Castle",
+      "Marjorie Rambeau"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-common-cause.html"
+}

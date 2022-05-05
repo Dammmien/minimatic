@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Extreme Movie",
+    "year": 2007,
+    "cast": [
+      "Ryan Pinkston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/extreme-movie.html"
+}

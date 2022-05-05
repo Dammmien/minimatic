@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Underworld",
+    "year": 2003,
+    "cast": [
+      "Kate Beckinsale",
+      "Scott Speedman",
+      "Michael Sheen",
+      "Shane Broller",
+      "Erwin Leder",
+      "Bill Nighy"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/underworld.html"
+}

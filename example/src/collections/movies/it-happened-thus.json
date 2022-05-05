@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It Happened Thus",
+    "year": 1912,
+    "cast": [
+      "Charlotte Burton",
+      "Owen Moore"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/it-happened-thus.html"
+}

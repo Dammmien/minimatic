@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Some Baby",
+    "year": 1915,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": []
+  },
+  "output": "movies/some-baby.html"
+}

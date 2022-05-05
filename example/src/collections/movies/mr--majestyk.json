@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Majestyk",
+    "year": 1974,
+    "cast": [
+      "Charles Bronson",
+      "Al Lettieri",
+      "Linda Cristal"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/mr--majestyk.html"
+}

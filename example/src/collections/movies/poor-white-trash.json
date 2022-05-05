@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Poor White Trash",
+    "year": 2000,
+    "cast": [
+      "Sean Young",
+      "William Devane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/poor-white-trash.html"
+}

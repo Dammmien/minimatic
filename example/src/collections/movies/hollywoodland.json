@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hollywoodland",
+    "year": 2006,
+    "cast": [
+      "Adrien Brody",
+      "Diane Lane",
+      "Ben Affleck"
+    ],
+    "genres": [
+      "Biography",
+      "Crime"
+    ]
+  },
+  "output": "movies/hollywoodland.html"
+}

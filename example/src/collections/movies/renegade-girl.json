@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Renegade Girl",
+    "year": 1946,
+    "cast": [
+      "Ann Savage",
+      "Alan Curtis",
+      "Jack Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/renegade-girl.html"
+}

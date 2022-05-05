@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Road to Yesterday",
+    "year": 1925,
+    "cast": [
+      "Joseph Schildkraut",
+      "Jetta Goudal",
+      "William Boyd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-road-to-yesterday.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Golden West",
+    "year": 1932,
+    "cast": [
+      "George O'Brien",
+      "Marion Burns"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-golden-west.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Bad Kids Go to Hell",
+    "year": 2012,
+    "cast": [
+      "Cameron Deane Stewart",
+      "Augie Duke",
+      "Ali Faulkner",
+      "Roger Edwards",
+      "Amanda Alch",
+      "Marc Donato"
+    ],
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ]
+  },
+  "output": "movies/bad-kids-go-to-hell.html"
+}

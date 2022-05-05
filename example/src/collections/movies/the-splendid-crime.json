@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Splendid Crime",
+    "year": 1925,
+    "cast": [
+      "Bebe Daniels",
+      "Neil Hamilton"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-splendid-crime.html"
+}

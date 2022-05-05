@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Man of La Mancha",
+    "year": 1972,
+    "cast": [
+      "Peter O'Toole",
+      "Sophia Loren",
+      "James Coco"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/man-of-la-mancha.html"
+}

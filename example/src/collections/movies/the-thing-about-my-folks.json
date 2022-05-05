@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Thing About My Folks",
+    "year": 2005,
+    "cast": [
+      "Peter Falk",
+      "Paul Reiser",
+      "Olympia Dukakis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-thing-about-my-folks.html"
+}

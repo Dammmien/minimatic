@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Caged Heat",
+    "year": 1974,
+    "cast": [
+      "Erica Gavin",
+      "Juanita Brown"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/caged-heat.html"
+}

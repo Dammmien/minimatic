@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jailhouse Rock",
+    "year": 1957,
+    "cast": [
+      "Elvis Presley",
+      "Judy Tyler",
+      "Mickey Shaughnessy"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/jailhouse-rock.html"
+}

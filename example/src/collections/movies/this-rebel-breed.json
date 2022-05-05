@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "This Rebel Breed",
+    "year": 1960,
+    "cast": [
+      "Rita Moreno",
+      "Gerald Mohr",
+      "Dyan Cannon"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/this-rebel-breed.html"
+}

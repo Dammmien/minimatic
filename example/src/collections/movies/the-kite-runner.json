@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Kite Runner",
+    "year": 2007,
+    "cast": [
+      "Khalid Abdalla",
+      "Homayoun Ershadi",
+      "Shaun Toub"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-kite-runner.html"
+}

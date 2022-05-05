@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Killer Is Loose",
+    "year": 1956,
+    "cast": [
+      "Joseph Cotten",
+      "Rhonda Fleming",
+      "Wendell Corey",
+      "Alan Hale Jr."
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-killer-is-loose.html"
+}

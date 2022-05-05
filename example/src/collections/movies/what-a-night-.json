@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "What a Night!",
+    "year": 1928,
+    "cast": [
+      "Bebe Daniels",
+      "Neil Hamilton",
+      "William Austin"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/what-a-night-.html"
+}

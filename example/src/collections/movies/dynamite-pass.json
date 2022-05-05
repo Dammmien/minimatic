@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dynamite Pass",
+    "year": 1950,
+    "cast": [
+      "Tim Holt",
+      "Lynne Roberts"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/dynamite-pass.html"
+}

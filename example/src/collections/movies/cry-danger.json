@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cry Danger",
+    "year": 1951,
+    "cast": [
+      "Dick Powell",
+      "Rhonda Fleming",
+      "William Conrad"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/cry-danger.html"
+}

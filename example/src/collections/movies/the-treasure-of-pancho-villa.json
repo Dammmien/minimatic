@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Treasure of Pancho Villa",
+    "year": 1955,
+    "cast": [
+      "Rory Calhoun",
+      "Shelley Winters",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-treasure-of-pancho-villa.html"
+}

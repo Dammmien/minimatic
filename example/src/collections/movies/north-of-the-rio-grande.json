@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "North of the Rio Grande",
+    "year": 1937,
+    "cast": [
+      "William Boyd",
+      "Gabby Hayes",
+      "Lee J. Cobb"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/north-of-the-rio-grande.html"
+}

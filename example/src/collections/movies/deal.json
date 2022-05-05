@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Deal",
+    "year": 2008,
+    "cast": [
+      "Bret Harrison",
+      "Burt Reynolds",
+      "Shannon Elizabeth"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/deal.html"
+}

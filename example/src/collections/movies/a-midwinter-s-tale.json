@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Midwinter's Tale",
+    "year": 1995,
+    "cast": [
+      "Michael Maloney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-midwinter-s-tale.html"
+}

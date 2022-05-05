@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sinners in Silk",
+    "year": 1924,
+    "cast": [
+      "Eleanor Boardman",
+      "Adolphe Menjou"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sinners-in-silk.html"
+}

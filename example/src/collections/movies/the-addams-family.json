@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Addams Family",
+    "year": 1991,
+    "cast": [
+      "Anjelica Huston",
+      "Raúl Juliá",
+      "Christopher Lloyd",
+      "Christina Ricci",
+      "Dan Hedaya"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-addams-family.html"
+}

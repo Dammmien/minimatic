@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Raggedy Rose",
+    "year": 1926,
+    "cast": [
+      "Mabel Normand",
+      "Carl Miller",
+      "James Finlayson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/raggedy-rose.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man Without a Face",
+    "year": 1993,
+    "cast": [
+      "Mel Gibson",
+      "Nick Stahl",
+      "Gaby Hoffmann"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-without-a-face.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Alien Hunter",
+    "year": 2003,
+    "cast": [
+      "James Spader"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/alien-hunter.html"
+}

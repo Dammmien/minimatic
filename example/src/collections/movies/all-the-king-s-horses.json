@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "All the King's Horses",
+    "year": 1935,
+    "cast": [
+      "Carl Brisson",
+      "Mary Ellis",
+      "Edward Everett Horton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/all-the-king-s-horses.html"
+}

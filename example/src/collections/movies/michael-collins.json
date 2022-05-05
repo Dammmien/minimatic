@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Michael Collins",
+    "year": 1996,
+    "cast": [
+      "Liam Neeson",
+      "Aidan Quinn",
+      "Stephen Rea",
+      "Alan Rickman",
+      "Julia Roberts"
+    ],
+    "genres": [
+      "Historical",
+      "Biography"
+    ]
+  },
+  "output": "movies/michael-collins.html"
+}

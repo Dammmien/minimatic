@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Werewolves on Wheels",
+    "year": 1971,
+    "cast": [
+      "Billy Gray"
+    ],
+    "genres": [
+      "Horror",
+      "Action"
+    ]
+  },
+  "output": "movies/werewolves-on-wheels.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Full Moon High",
+    "year": 1981,
+    "cast": [
+      "Adam Arkin",
+      "Ed McMahon"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/full-moon-high.html"
+}

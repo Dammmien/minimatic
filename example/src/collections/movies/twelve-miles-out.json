@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Twelve Miles Out",
+    "year": 1927,
+    "cast": [
+      "John Gilbert",
+      "Joan Crawford"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/twelve-miles-out.html"
+}

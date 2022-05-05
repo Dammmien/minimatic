@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Buccaneer",
+    "year": 1958,
+    "cast": [
+      "Yul Brynner",
+      "Claire Bloom",
+      "Charles Boyer",
+      "Inger Stevens",
+      "Charlton Heston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-buccaneer.html"
+}

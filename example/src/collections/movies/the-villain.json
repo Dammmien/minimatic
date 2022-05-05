@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Villain",
+    "year": 1979,
+    "cast": [
+      "Kirk Douglas",
+      "Ann-Margret",
+      "Arnold Schwarzenegger"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-villain.html"
+}

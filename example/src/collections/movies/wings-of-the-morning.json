@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wings of the Morning",
+    "year": 1919,
+    "cast": [
+      "William Farnum",
+      "Herschel Mayall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wings-of-the-morning.html"
+}

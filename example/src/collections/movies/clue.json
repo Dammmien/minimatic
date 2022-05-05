@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Clue",
+    "year": 1985,
+    "cast": [
+      "Tim Curry",
+      "Madeline Kahn",
+      "Lesley Ann Warren",
+      "Martin Mull",
+      "Eileen Brennan",
+      "Christopher Lloyd",
+      "Michael McKean",
+      "Colleen Camp"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/clue.html"
+}

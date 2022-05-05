@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Night Ride",
+    "year": 1930,
+    "cast": [
+      "Joseph Schildkraut",
+      "Barbara Kent",
+      "Edward G. Robinson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/night-ride.html"
+}

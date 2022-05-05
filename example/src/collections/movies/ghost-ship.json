@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Ghost Ship",
+    "year": 2002,
+    "cast": [
+      "Gabriel Byrne",
+      "Julianna Margulies",
+      "Desmond Harrington",
+      "Isaiah Washington",
+      "Karl Urban",
+      "Emily Browning"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/ghost-ship.html"
+}

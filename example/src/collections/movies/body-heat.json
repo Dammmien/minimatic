@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Body Heat",
+    "year": 1981,
+    "cast": [
+      "William Hurt",
+      "Kathleen Turner",
+      "Richard Crenna",
+      "Ted Danson",
+      "J. A. Preston",
+      "Mickey Rourke"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/body-heat.html"
+}

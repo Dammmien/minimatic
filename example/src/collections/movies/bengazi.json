@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bengazi",
+    "year": 1955,
+    "cast": [
+      "Richard Conte",
+      "Victor McLaglen",
+      "Mala Powers"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/bengazi.html"
+}

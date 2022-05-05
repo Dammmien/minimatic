@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Dispatch from Reuter's",
+    "year": 1940,
+    "cast": [
+      "Edward G. Robinson",
+      "Edna Best",
+      "Eddie Albert"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/a-dispatch-from-reuter-s.html"
+}

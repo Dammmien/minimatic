@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lady with Red Hair",
+    "year": 1940,
+    "cast": [
+      "Miriam Hopkins",
+      "Claude Rains",
+      "Richard Ainley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lady-with-red-hair.html"
+}

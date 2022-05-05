@@ -1,0 +1,27 @@
+{
+  "data": {
+    "title": "Turbo",
+    "year": 2013,
+    "cast": [
+      "Ryan Reynolds",
+      "Paul Giamatti",
+      "Michael Peña",
+      "Luis Guzmán",
+      "Bill Hader",
+      "Richard Jenkins",
+      "Ken Jeong",
+      "Michelle Rodriguez",
+      "Maya Rudolph",
+      "Ben Schwartz",
+      "Kurtwood Smith",
+      "Snoop Dogg",
+      "Samuel L. Jackson"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/turbo.html"
+}

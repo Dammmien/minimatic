@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Force of One",
+    "year": 1979,
+    "cast": [
+      "Chuck Norris",
+      "Jennifer O'Neill",
+      "Clu Gulager"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/a-force-of-one.html"
+}

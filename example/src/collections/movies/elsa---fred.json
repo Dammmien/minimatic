@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Elsa & Fred",
+    "year": 2014,
+    "cast": [
+      "Shirley MacLaine",
+      "Christopher Plummer",
+      "Marcia Gay Harden"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/elsa---fred.html"
+}

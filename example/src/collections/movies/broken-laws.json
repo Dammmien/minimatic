@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Broken Laws",
+    "year": 1924,
+    "cast": [
+      "Dorothy Davenport",
+      "Percy Marmont"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/broken-laws.html"
+}

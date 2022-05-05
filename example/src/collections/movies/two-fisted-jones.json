@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Two-Fisted Jones",
+    "year": 1925,
+    "cast": [
+      "Jack Hoxie",
+      "Kathryn McGuire"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/two-fisted-jones.html"
+}

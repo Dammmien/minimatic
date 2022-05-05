@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Innocent Lie",
+    "year": 1916,
+    "cast": [
+      "Valentine Grant",
+      "Jack J. Clark"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-innocent-lie.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Call of the Canyon",
+    "year": 1923,
+    "cast": [
+      "Richard Dix",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-call-of-the-canyon.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "His Double Life",
+    "year": 1933,
+    "cast": [
+      "Roland Young",
+      "Lillian Gish",
+      "Montagu Love"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/his-double-life.html"
+}

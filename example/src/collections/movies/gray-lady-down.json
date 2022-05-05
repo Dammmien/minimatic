@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Gray Lady Down",
+    "year": 1978,
+    "cast": [
+      "Charlton Heston",
+      "Ned Beatty",
+      "Ronny Cox",
+      "Stacy Keach",
+      "Rosemary Forsyth"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/gray-lady-down.html"
+}

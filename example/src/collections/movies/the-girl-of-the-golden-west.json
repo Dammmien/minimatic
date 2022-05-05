@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Girl of the Golden West",
+    "year": 1938,
+    "cast": [
+      "Jeanette MacDonald",
+      "Nelson Eddy",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Western",
+      "Musical"
+    ]
+  },
+  "output": "movies/the-girl-of-the-golden-west.html"
+}

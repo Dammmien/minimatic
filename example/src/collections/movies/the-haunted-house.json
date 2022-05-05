@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Haunted House",
+    "year": 1928,
+    "cast": [
+      "Larry Kent",
+      "Thelma Todd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-haunted-house.html"
+}

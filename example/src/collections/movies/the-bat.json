@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bat",
+    "year": 1959,
+    "cast": [
+      "Vincent Price",
+      "Agnes Moorehead",
+      "Darla Hood"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-bat.html"
+}

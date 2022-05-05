@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Out of the West",
+    "year": 1926,
+    "cast": [
+      "Tom Tyler",
+      "Ethan Laidlaw"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/out-of-the-west.html"
+}

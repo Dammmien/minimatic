@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Heist",
+    "year": 2001,
+    "cast": [
+      "Gene Hackman",
+      "Danny DeVito",
+      "Delroy Lindo",
+      "Sam Rockwell",
+      "Rebecca Pidgeon",
+      "Ricky Jay"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/heist.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "J.W. Coop",
+    "year": 1972,
+    "cast": [
+      "Cliff Robertson",
+      "Geraldine Page"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/j-w--coop.html"
+}

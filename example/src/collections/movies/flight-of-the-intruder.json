@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Flight of the Intruder",
+    "year": 1991,
+    "cast": [
+      "Danny Glover",
+      "Willem Dafoe",
+      "Brad Johnson",
+      "Rosanna Arquette",
+      "Tom Sizemore"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/flight-of-the-intruder.html"
+}

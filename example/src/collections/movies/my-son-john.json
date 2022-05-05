@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Son John",
+    "year": 1952,
+    "cast": [
+      "Dean Jagger",
+      "Helen Hayes",
+      "Van Heflin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-son-john.html"
+}

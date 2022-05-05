@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fools of Fashion",
+    "year": 1926,
+    "cast": [
+      "Mae Busch",
+      "Marceline Day"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fools-of-fashion.html"
+}

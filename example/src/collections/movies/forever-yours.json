@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Forever Yours",
+    "year": 1945,
+    "cast": [
+      "Gale Storm",
+      "C. Aubrey Smith",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/forever-yours.html"
+}

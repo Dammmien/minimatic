@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Down in San Diego",
+    "year": 1941,
+    "cast": [
+      "Bonita Granville",
+      "Dan Dailey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/down-in-san-diego.html"
+}

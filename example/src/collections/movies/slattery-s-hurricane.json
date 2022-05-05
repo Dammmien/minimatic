@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Slattery's Hurricane",
+    "year": 1949,
+    "cast": [
+      "Richard Widmark",
+      "Linda Darnell",
+      "Veronica Lake"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/slattery-s-hurricane.html"
+}

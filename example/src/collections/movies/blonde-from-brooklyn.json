@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blonde from Brooklyn",
+    "year": 1945,
+    "cast": [
+      "Bob Haymes",
+      "Lynn Merrick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blonde-from-brooklyn.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Batman Forever",
+    "year": 1995,
+    "cast": [
+      "Val Kilmer",
+      "Tommy Lee Jones",
+      "Jim Carrey",
+      "Nicole Kidman",
+      "Chris O'Donnell",
+      "Drew Barrymore",
+      "Debi Mazar"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/batman-forever.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Die Hard 2",
+    "year": 1990,
+    "cast": [
+      "Bruce Willis",
+      "Bonnie Bedelia",
+      "William Atherton",
+      "William Sadler"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/die-hard-2.html"
+}

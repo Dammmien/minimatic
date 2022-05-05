@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Zero Day",
+    "year": 2003,
+    "cast": [
+      "Andre Keuck",
+      "Cal Robertson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/zero-day.html"
+}

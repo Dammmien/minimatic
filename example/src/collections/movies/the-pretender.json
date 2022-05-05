@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pretender",
+    "year": 1947,
+    "cast": [
+      "Albert Dekker",
+      "Catherine Craig"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-pretender.html"
+}

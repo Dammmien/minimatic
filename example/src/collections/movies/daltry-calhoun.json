@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Daltry Calhoun",
+    "year": 2005,
+    "cast": [
+      "Johnny Knoxville"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/daltry-calhoun.html"
+}

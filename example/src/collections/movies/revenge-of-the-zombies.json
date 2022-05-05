@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Revenge of the Zombies",
+    "year": 1943,
+    "cast": [
+      "Gale Storm",
+      "John Carradine"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/revenge-of-the-zombies.html"
+}

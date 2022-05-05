@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "White Lightning",
+    "year": 1973,
+    "cast": [
+      "Burt Reynolds",
+      "Ned Beatty",
+      "Bo Hopkins"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/white-lightning.html"
+}

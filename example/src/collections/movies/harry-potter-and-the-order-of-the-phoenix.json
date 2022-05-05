@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "year": 2007,
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Michael Gambon",
+      "Imelda Staunton",
+      "Helena Bonham Carter",
+      "Gary Oldman",
+      "Ralph Fiennes"
+    ],
+    "genres": [
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/harry-potter-and-the-order-of-the-phoenix.html"
+}

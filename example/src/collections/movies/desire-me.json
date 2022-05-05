@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Desire Me",
+    "year": 1947,
+    "cast": [
+      "Greer Garson",
+      "Robert Mitchum"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/desire-me.html"
+}

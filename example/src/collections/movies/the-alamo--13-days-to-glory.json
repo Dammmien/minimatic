@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Alamo: 13 Days to Glory",
+    "year": 1987,
+    "cast": [
+      "Brian Keith",
+      "James Arness",
+      "Alec Baldwin",
+      "Raúl Juliá"
+    ],
+    "genres": [
+      "Western",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-alamo--13-days-to-glory.html"
+}

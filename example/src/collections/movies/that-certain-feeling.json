@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "That Certain Feeling",
+    "year": 1956,
+    "cast": [
+      "Bob Hope",
+      "Eva Marie Saint",
+      "Pearl Bailey",
+      "George Sanders",
+      "Jerry Mathers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-certain-feeling.html"
+}

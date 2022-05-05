@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Leap of Faith",
+    "year": 1992,
+    "cast": [
+      "Steve Martin",
+      "Debra Winger",
+      "Liam Neeson",
+      "Lolita Davidovich",
+      "Lukas Haas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/leap-of-faith.html"
+}

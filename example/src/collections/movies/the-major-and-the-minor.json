@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Major and the Minor",
+    "year": 1942,
+    "cast": [
+      "Ginger Rogers",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-major-and-the-minor.html"
+}

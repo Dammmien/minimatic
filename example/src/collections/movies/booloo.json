@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Booloo",
+    "year": 1938,
+    "cast": [
+      "Colin Tapley",
+      "Jayne Regan"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/booloo.html"
+}

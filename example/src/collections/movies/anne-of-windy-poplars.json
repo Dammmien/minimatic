@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Anne of Windy Poplars",
+    "year": 1940,
+    "cast": [
+      "Anne Shirley",
+      "James Ellison",
+      "Henry Travers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/anne-of-windy-poplars.html"
+}

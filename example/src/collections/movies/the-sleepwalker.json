@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sleepwalker",
+    "year": 1922,
+    "cast": [
+      "Constance Binney",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sleepwalker.html"
+}

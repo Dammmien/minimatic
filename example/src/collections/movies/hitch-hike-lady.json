@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hitch Hike Lady",
+    "year": 1935,
+    "cast": [
+      "Alison Skipworth",
+      "Mae Clarke"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hitch-hike-lady.html"
+}

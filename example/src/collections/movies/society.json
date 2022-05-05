@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Society",
+    "year": 1992,
+    "cast": [
+      "Billy Warlock"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/society.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Jimmy Zip",
+    "year": 1996,
+    "cast": [
+      "Alyssa Milano"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/jimmy-zip.html"
+}

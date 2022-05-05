@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Young Man with a Horn",
+    "year": 1950,
+    "cast": [
+      "Lauren Bacall",
+      "Doris Day",
+      "Kirk Douglas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/young-man-with-a-horn.html"
+}

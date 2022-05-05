@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lawless Empire",
+    "year": 1945,
+    "cast": [
+      "Charles Starrett",
+      "Dub Taylor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lawless-empire.html"
+}

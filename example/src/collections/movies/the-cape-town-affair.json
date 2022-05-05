@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cape Town Affair",
+    "year": 1967,
+    "cast": [
+      "Jacqueline Bisset",
+      "James Brolin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-cape-town-affair.html"
+}

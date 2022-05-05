@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "An Angel Comes to Brooklyn",
+    "year": 1945,
+    "cast": [
+      "Barbara Perry",
+      "Charles Kemper"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/an-angel-comes-to-brooklyn.html"
+}

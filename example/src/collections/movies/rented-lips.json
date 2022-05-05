@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rented Lips",
+    "year": 1988,
+    "cast": [
+      "Martin Mull",
+      "Jennifer Tilly",
+      "Dick Shawn",
+      "Robert Downey, Jr."
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rented-lips.html"
+}

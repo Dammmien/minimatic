@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Whirlwind",
+    "year": 1933,
+    "cast": [
+      "Tim McCoy",
+      "Pat O'Malley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-whirlwind.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Law of the Lash",
+    "year": 1947,
+    "cast": [
+      "Lash LaRue",
+      "Al St. John",
+      "Lee Roberts"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/law-of-the-lash.html"
+}

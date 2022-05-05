@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ladies Must Dress",
+    "year": 1927,
+    "cast": [
+      "Virginia Valli",
+      "Lawrence Gray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ladies-must-dress.html"
+}

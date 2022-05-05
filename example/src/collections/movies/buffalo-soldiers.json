@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Buffalo Soldiers",
+    "year": 2001,
+    "cast": [
+      "Joaquin Phoenix",
+      "Ed Harris",
+      "Anna Paquin"
+    ],
+    "genres": [
+      "War",
+      "Comedy"
+    ]
+  },
+  "output": "movies/buffalo-soldiers.html"
+}

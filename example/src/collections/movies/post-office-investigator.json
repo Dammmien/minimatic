@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Post Office Investigator",
+    "year": 1949,
+    "cast": [
+      "Audrey Long",
+      "Warren Douglas"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/post-office-investigator.html"
+}

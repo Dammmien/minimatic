@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Trigger Effect",
+    "year": 1996,
+    "cast": [
+      "Kyle MacLachlan",
+      "Dermot Mulroney",
+      "Elisabeth Shue"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-trigger-effect.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Two Jakes",
+    "year": 1990,
+    "cast": [
+      "Jack Nicholson",
+      "Harvey Keitel",
+      "Meg Tilly",
+      "Madeleine Stowe",
+      "Eli Wallach",
+      "Ruben Blades",
+      "Perry Lopez",
+      "Richard Farnsworth"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-two-jakes.html"
+}

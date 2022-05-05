@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Perfect Lover",
+    "year": 1919,
+    "cast": [
+      "Eugene O'Brien",
+      "Mary Boland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-perfect-lover.html"
+}

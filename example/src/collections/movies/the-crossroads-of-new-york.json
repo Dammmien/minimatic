@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Crossroads of New York",
+    "year": 1922,
+    "cast": [
+      "Noah Beery",
+      "Ethel Grey Terry"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-crossroads-of-new-york.html"
+}

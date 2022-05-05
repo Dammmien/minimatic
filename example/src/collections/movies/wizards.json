@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wizards",
+    "year": 1977,
+    "cast": [
+      "Voices of",
+      "Mark Hamill",
+      "David Proval"
+    ],
+    "genres": [
+      "Animated",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/wizards.html"
+}

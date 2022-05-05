@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paris",
+    "year": 1929,
+    "cast": [
+      "Irene Bordoni",
+      "Jack Buchanan"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/paris.html"
+}

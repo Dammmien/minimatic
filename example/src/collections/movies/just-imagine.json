@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Just Imagine",
+    "year": 1930,
+    "cast": [
+      "Maureen O'Sullivan",
+      "John Garrick"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/just-imagine.html"
+}

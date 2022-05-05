@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Universal Soldier: The Return",
+    "year": 1999,
+    "cast": [
+      "Jean-Claude Van Damme",
+      "Michael Jai White"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/universal-soldier--the-return.html"
+}

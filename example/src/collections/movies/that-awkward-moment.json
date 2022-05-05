@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "That Awkward Moment",
+    "year": 2014,
+    "cast": [
+      "Zac Efron",
+      "Miles Teller",
+      "Michael B. Jordan",
+      "Imogen Poots"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-awkward-moment.html"
+}

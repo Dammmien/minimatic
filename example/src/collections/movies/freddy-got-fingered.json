@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Freddy Got Fingered",
+    "year": 2001,
+    "cast": [
+      "Tom Green",
+      "Rip Torn",
+      "Harland Williams",
+      "Marisa Coughlan",
+      "Eddie Kaye Thomas",
+      "Julie Hagerty"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/freddy-got-fingered.html"
+}

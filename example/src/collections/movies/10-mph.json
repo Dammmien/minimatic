@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "10 MPH",
+    "year": 2007,
+    "cast": [
+      "Josh Caldwell's trip across the United States on his",
+      "Segway HT"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/10-mph.html"
+}

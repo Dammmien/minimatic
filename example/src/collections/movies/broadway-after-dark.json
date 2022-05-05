@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Broadway After Dark",
+    "year": 1924,
+    "cast": [
+      "Adolphe Menjou",
+      "Norma Shearer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/broadway-after-dark.html"
+}

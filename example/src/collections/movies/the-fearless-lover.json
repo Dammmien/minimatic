@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fearless Lover",
+    "year": 1925,
+    "cast": [
+      "William Fairbanks",
+      "Eva Novak"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fearless-lover.html"
+}

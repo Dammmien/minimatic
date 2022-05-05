@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Race with the Devil",
+    "year": 1975,
+    "cast": [
+      "Peter Fonda",
+      "Warren Oates"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/race-with-the-devil.html"
+}

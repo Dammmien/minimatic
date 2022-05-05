@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ma and Pa Kettle",
+    "year": 1949,
+    "cast": [
+      "Marjorie Main",
+      "Percy Kilbride"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ma-and-pa-kettle.html"
+}

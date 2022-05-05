@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Johnny Belinda",
+    "year": 1948,
+    "cast": [
+      "Jane Wyman",
+      "Lew Ayres",
+      "Agnes Moorehead"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/johnny-belinda.html"
+}

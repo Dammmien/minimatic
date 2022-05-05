@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Heart Raider",
+    "year": 1923,
+    "cast": [
+      "Agnes Ayres",
+      "Mahlon Hamilton",
+      "Charles Ruggles"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-heart-raider.html"
+}

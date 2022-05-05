@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Big Broadcast",
+    "year": 1932,
+    "cast": [
+      "Bing Crosby",
+      "George Burns",
+      "Gracie Allen"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/the-big-broadcast.html"
+}

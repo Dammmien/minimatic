@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Man Afraid",
+    "year": 1957,
+    "cast": [
+      "George Nader",
+      "Phyllis Thaxter",
+      "Tim Hovey"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/man-afraid.html"
+}

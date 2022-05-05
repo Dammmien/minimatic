@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Nice Little Bank That Should Be Robbed",
+    "year": 1958,
+    "cast": [
+      "Tom Ewell",
+      "Mickey Rooney",
+      "Dina Merrill"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-nice-little-bank-that-should-be-robbed.html"
+}

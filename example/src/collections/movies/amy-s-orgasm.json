@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Amy's Orgasm",
+    "year": 2001,
+    "cast": [
+      "Julie Davis",
+      "Nick Chinlund",
+      "Jeff Cesario"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/amy-s-orgasm.html"
+}

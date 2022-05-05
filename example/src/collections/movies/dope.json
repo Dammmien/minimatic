@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dope",
+    "year": 2015,
+    "cast": [
+      "Shameik Moore",
+      "Tony Revolori",
+      "Kiersey Clemons"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/dope.html"
+}

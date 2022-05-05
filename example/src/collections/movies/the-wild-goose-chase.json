@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wild Goose Chase",
+    "year": 1915,
+    "cast": [
+      "Ina Claire",
+      "Lucien Littlefield"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wild-goose-chase.html"
+}

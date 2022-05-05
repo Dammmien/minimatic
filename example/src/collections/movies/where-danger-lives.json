@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Where Danger Lives",
+    "year": 1950,
+    "cast": [
+      "Robert Mitchum",
+      "Faith Domergue"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/where-danger-lives.html"
+}

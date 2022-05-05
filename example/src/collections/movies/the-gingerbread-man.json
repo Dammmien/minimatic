@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Gingerbread Man",
+    "year": 1998,
+    "cast": [
+      "Kenneth Branagh",
+      "Robert Downey, Jr.",
+      "Embeth Davidtz",
+      "Robert Duvall",
+      "Daryl Hannah",
+      "Tom Berenger"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-gingerbread-man.html"
+}

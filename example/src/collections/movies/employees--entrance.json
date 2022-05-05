@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Employees' Entrance",
+    "year": 1933,
+    "cast": [
+      "Loretta Young",
+      "Warren William",
+      "Wallace Ford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/employees--entrance.html"
+}

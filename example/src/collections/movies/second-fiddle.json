@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Second Fiddle",
+    "year": 1939,
+    "cast": [
+      "Sonja Henie",
+      "Tyrone Power",
+      "Rudy Vallée"
+    ],
+    "genres": [
+      "Musical",
+      "Romance"
+    ]
+  },
+  "output": "movies/second-fiddle.html"
+}

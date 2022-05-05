@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bad Men of the Border",
+    "year": 1945,
+    "cast": [
+      "Kirby Grant",
+      "Armida"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bad-men-of-the-border.html"
+}

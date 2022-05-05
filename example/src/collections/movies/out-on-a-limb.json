@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Out on a Limb",
+    "year": 1992,
+    "cast": [
+      "Matthew Broderick",
+      "Jeffrey Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/out-on-a-limb.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hotel Berlin",
+    "year": 1945,
+    "cast": [
+      "Faye Emerson",
+      "Raymond Massey",
+      "Andrea King",
+      "Peter Lorre"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hotel-berlin.html"
+}

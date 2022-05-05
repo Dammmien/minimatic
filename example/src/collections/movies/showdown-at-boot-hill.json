@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Showdown at Boot Hill",
+    "year": 1958,
+    "cast": [
+      "Charles Bronson",
+      "Carole Mathews"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/showdown-at-boot-hill.html"
+}

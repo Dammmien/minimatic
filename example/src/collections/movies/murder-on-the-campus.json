@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Murder on the Campus",
+    "year": 1933,
+    "cast": [
+      "Charles Starrett"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder-on-the-campus.html"
+}

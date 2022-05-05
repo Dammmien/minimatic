@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bold Caballero",
+    "year": 1936,
+    "cast": [
+      "Robert Livingston",
+      "Heather Angel",
+      "Sig Ruman"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-bold-caballero.html"
+}

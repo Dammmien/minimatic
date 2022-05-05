@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Border Treasure",
+    "year": 1950,
+    "cast": [
+      "Tim Holt",
+      "Jane Nigh"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/border-treasure.html"
+}

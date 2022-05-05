@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Moonstruck",
+    "year": 1987,
+    "cast": [
+      "Cher",
+      "Nicolas Cage",
+      "Olympia Dukakis",
+      "Danny Aiello",
+      "Vincent Gardenia",
+      "John Mahoney"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/moonstruck.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Lady of Quality",
+    "year": 1924,
+    "cast": [
+      "Virginia Valli",
+      "Milton Sills"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/a-lady-of-quality.html"
+}

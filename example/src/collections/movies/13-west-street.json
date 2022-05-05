@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "13 West Street",
+    "year": 1962,
+    "cast": [
+      "Alan Ladd",
+      "Rod Steiger"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/13-west-street.html"
+}

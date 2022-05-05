@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Drum Beat",
+    "year": 1954,
+    "cast": [
+      "Alan Ladd",
+      "Audrey Dalton",
+      "Marisa Pavan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/drum-beat.html"
+}

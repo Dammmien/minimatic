@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Two Lovers",
+    "year": 1928,
+    "cast": [
+      "Vilma Bánky",
+      "Ronald Colman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/two-lovers.html"
+}

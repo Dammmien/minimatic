@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "A Big Hand for the Little Lady",
+    "year": 1966,
+    "cast": [
+      "Henry Fonda",
+      "Joanne Woodward",
+      "Jason Robards",
+      "Kevin McCarthy",
+      "Burgess Meredith",
+      "Paul Ford"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-big-hand-for-the-little-lady.html"
+}

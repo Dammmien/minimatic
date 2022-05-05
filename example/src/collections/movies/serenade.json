@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Serenade",
+    "year": 1956,
+    "cast": [
+      "Mario Lanza",
+      "Joan Fontaine",
+      "Sara Montiel"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/serenade.html"
+}

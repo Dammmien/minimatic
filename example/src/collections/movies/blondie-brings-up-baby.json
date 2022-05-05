@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blondie Brings Up Baby",
+    "year": 1939,
+    "cast": [
+      "Penny Singleton",
+      "Arthur Lake"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blondie-brings-up-baby.html"
+}

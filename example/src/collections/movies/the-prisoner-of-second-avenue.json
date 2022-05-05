@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Prisoner of Second Avenue",
+    "year": 1975,
+    "cast": [
+      "Jack Lemmon",
+      "Anne Bancroft",
+      "Gene Saks"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-prisoner-of-second-avenue.html"
+}

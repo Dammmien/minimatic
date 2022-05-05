@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Big Top Scooby-Doo!",
+    "year": 2012,
+    "cast": [
+      "Frank Welker",
+      "Matthew Lillard",
+      "Grey DeLisle",
+      "Mindy Cohn",
+      "Craig Ferguson"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/big-top-scooby-doo-.html"
+}

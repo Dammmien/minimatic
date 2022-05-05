@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Raw Edge",
+    "year": 1956,
+    "cast": [
+      "Rory Calhoun",
+      "Yvonne De Carlo"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/raw-edge.html"
+}

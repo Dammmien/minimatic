@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Impostor",
+    "year": 2002,
+    "cast": [
+      "Gary Sinise",
+      "Madeleine Stowe",
+      "Mekhi Phifer",
+      "Vincent D'Onofrio"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/impostor.html"
+}

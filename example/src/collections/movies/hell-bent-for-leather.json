@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hell Bent for Leather",
+    "year": 1960,
+    "cast": [
+      "Audie Murphy",
+      "Felicia Farr",
+      "Stephen McNally"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hell-bent-for-leather.html"
+}

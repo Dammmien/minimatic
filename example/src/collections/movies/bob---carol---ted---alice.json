@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bob & Carol & Ted & Alice",
+    "year": 1969,
+    "cast": [
+      "Elliott Gould",
+      "Dyan Cannon",
+      "Natalie Wood",
+      "Robert Culp"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bob---carol---ted---alice.html"
+}

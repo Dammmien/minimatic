@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dancing at Lughnasa",
+    "year": 1998,
+    "cast": [
+      "Meryl Streep",
+      "Catherine McCormack",
+      "Kathy Burke"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dancing-at-lughnasa.html"
+}

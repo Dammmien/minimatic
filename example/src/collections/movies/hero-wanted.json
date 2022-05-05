@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hero Wanted",
+    "year": 2008,
+    "cast": [
+      "Cuba Gooding, Jr.",
+      "Ray Liotta"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/hero-wanted.html"
+}

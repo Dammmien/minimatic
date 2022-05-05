@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Buddy",
+    "year": 1997,
+    "cast": [
+      "Rene Russo",
+      "Robbie Coltrane",
+      "Alan Cumming"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/buddy.html"
+}

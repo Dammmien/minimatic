@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The One Way Trail",
+    "year": 1931,
+    "cast": [
+      "Tim McCoy",
+      "Doris Hill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-one-way-trail.html"
+}

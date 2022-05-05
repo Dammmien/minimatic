@@ -1,0 +1,20 @@
+{
+  "id": 358,
+  "name": {
+    "english": "Chimecho",
+    "japanese": "チリーン",
+    "chinese": "风铃铃",
+    "french": "Éoko"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "HP": 75,
+    "Attack": 50,
+    "Defense": 80,
+    "Sp. Attack": 95,
+    "Sp. Defense": 90,
+    "Speed": 65
+  }
+}

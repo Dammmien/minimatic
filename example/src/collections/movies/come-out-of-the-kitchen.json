@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Come Out of the Kitchen",
+    "year": 1919,
+    "cast": [
+      "Marguerite Clark",
+      "Eugene O'Brien"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/come-out-of-the-kitchen.html"
+}

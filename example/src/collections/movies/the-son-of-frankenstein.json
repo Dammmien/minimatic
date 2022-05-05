@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Son of Frankenstein",
+    "year": 1939,
+    "cast": [
+      "Bela Lugosi",
+      "Boris Karloff"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-son-of-frankenstein.html"
+}

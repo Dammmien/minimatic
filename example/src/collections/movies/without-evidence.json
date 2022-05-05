@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Without Evidence",
+    "year": 1995,
+    "cast": [
+      "Scott Plank",
+      "Angelina Jolie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/without-evidence.html"
+}

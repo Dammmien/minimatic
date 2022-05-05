@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cavalry",
+    "year": 1936,
+    "cast": [
+      "Bob Steele",
+      "Frances Grant"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cavalry.html"
+}

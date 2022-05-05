@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Starting Over",
+    "year": 1979,
+    "cast": [
+      "Burt Reynolds",
+      "Jill Clayburgh",
+      "Candice Bergen"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/starting-over.html"
+}

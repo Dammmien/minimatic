@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Little Irish Girl",
+    "year": 1926,
+    "cast": [
+      "Dolores Costello",
+      "John Harron"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-little-irish-girl.html"
+}

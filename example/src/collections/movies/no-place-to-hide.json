@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No Place to Hide",
+    "year": 1955,
+    "cast": [
+      "Marsha Hunt",
+      "David Brian"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/no-place-to-hide.html"
+}

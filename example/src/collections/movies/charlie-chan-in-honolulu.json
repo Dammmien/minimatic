@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Charlie Chan in Honolulu",
+    "year": 1938,
+    "cast": [
+      "Sidney Toler",
+      "Phyllis Brooks"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/charlie-chan-in-honolulu.html"
+}

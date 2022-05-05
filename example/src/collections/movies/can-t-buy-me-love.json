@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Can't Buy Me Love",
+    "year": 1987,
+    "cast": [
+      "Patrick Dempsey",
+      "Amanda Peterson",
+      "Seth Green"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/can-t-buy-me-love.html"
+}

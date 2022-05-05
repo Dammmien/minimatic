@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Believers",
+    "year": 1987,
+    "cast": [
+      "Martin Sheen",
+      "Helen Shaver",
+      "Robert Loggia",
+      "Jimmy Smits",
+      "Elizabeth Wilson",
+      "Harris Yulin"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-believers.html"
+}

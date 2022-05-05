@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hey, Let's Twist!",
+    "year": 1961,
+    "cast": [
+      "Joey Dee",
+      "Jo Ann Campbell"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hey--let-s-twist-.html"
+}

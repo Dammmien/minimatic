@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Walk Among the Tombstones",
+    "year": 2014,
+    "cast": [
+      "Liam Neeson",
+      "Dan Stevens",
+      "Boyd Holbrook"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/a-walk-among-the-tombstones.html"
+}

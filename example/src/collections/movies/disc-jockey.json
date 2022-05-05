@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Disc Jockey",
+    "year": 1951,
+    "cast": [
+      "Ginny Simms",
+      "Tom Drake",
+      "Jane Nigh"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/disc-jockey.html"
+}

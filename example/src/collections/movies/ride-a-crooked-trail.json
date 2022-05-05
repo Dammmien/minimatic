@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ride a Crooked Trail",
+    "year": 1958,
+    "cast": [
+      "Audie Murphy",
+      "Gia Scala",
+      "Henry Silva",
+      "Walter Matthau"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ride-a-crooked-trail.html"
+}

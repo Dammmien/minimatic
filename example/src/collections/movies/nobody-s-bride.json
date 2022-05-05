@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nobody's Bride",
+    "year": 1923,
+    "cast": [
+      "Herbert Rawlinson",
+      "Edna Murphy",
+      "Alice Lake"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/nobody-s-bride.html"
+}

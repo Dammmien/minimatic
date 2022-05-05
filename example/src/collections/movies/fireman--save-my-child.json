@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fireman, Save My Child",
+    "year": 1932,
+    "cast": [
+      "Joe E. Brown",
+      "Lilian Bond"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fireman--save-my-child.html"
+}

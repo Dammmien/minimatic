@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Time to Love",
+    "year": 1927,
+    "cast": [
+      "Raymond Griffith",
+      "William Powell",
+      "Vera Voronina"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/time-to-love.html"
+}

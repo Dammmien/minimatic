@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No Direction Home",
+    "year": 2005,
+    "cast": [
+      "the life of",
+      "Bob Dylan"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/no-direction-home.html"
+}

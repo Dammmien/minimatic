@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Goose Hangs High",
+    "year": 1925,
+    "cast": [
+      "Constance Bennett",
+      "Myrtle Stedman",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-goose-hangs-high.html"
+}

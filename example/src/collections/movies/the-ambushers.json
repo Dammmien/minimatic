@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ambushers",
+    "year": 1967,
+    "cast": [
+      "Dean Martin",
+      "Janice Rule"
+    ],
+    "genres": [
+      "Spy",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ambushers.html"
+}

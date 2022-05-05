@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Amos & Andrew",
+    "year": 1993,
+    "cast": [
+      "Nicolas Cage",
+      "Samuel L. Jackson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/amos---andrew.html"
+}

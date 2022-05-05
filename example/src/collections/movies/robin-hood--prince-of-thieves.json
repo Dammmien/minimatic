@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Robin Hood: Prince of Thieves",
+    "year": 1991,
+    "cast": [
+      "Kevin Costner",
+      "Morgan Freeman",
+      "Mary Elizabeth Mastrantonio",
+      "Alan Rickman",
+      "Christian Slater"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/robin-hood--prince-of-thieves.html"
+}

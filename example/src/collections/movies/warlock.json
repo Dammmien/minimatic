@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Warlock",
+    "year": 1989,
+    "cast": [
+      "Julian Sands",
+      "Lori Singer"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/warlock.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Delinquent Daughters",
+    "year": 1944,
+    "cast": [
+      "June Carlson",
+      "Fifi D'Orsay",
+      "Teala Loring"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/delinquent-daughters.html"
+}

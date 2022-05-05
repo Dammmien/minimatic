@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chain of Desire",
+    "year": 1992,
+    "cast": [
+      "Malcolm McDowell",
+      "Linda Fiorentino",
+      "Elias Koteas"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/chain-of-desire.html"
+}

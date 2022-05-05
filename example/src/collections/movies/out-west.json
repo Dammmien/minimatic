@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Out West",
+    "year": 1918,
+    "cast": [
+      "Fatty Arbuckle",
+      "Buster Keaton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/out-west.html"
+}

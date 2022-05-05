@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Romance of the Underworld",
+    "year": 1928,
+    "cast": [
+      "Mary Astor",
+      "John Boles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/romance-of-the-underworld.html"
+}

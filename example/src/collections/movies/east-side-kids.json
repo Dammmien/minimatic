@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "East Side Kids",
+    "year": 1940,
+    "cast": [
+      "Leon Ames",
+      "Dennis Moore",
+      "Joyce Bryant"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/east-side-kids.html"
+}

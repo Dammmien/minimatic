@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Charlie Chan in City in Darkness",
+    "year": 1939,
+    "cast": [
+      "Sidney Toler",
+      "Lynn Bari"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/charlie-chan-in-city-in-darkness.html"
+}

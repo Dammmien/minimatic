@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shadrach",
+    "year": 1998,
+    "cast": [
+      "Harvey Keitel",
+      "Andie MacDowell",
+      "John Franklin Sawyer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shadrach.html"
+}

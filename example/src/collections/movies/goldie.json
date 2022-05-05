@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Goldie",
+    "year": 1931,
+    "cast": [
+      "Spencer Tracy",
+      "Jean Harlow"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/goldie.html"
+}

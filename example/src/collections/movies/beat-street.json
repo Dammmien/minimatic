@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beat Street",
+    "year": 1984,
+    "cast": [
+      "Rae Dawn Chong",
+      "Guy Davis"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/beat-street.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Face on the Barroom Floor",
+    "year": 1932,
+    "cast": [
+      "Dulcie Cooper",
+      "Bramwell Fletcher"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-face-on-the-barroom-floor.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Not Damaged",
+    "year": 1930,
+    "cast": [
+      "Lois Moran",
+      "Robert Ames"
+    ],
+    "genres": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/not-damaged.html"
+}

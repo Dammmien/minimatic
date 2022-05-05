@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Love You, Man",
+    "year": 2009,
+    "cast": [
+      "Paul Rudd",
+      "Jason Segel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-love-you--man.html"
+}

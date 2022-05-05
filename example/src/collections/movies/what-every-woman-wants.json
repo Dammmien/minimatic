@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "What Every Woman Wants",
+    "year": 1919,
+    "cast": [
+      "Grace Darmond",
+      "Wilfred Lucas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/what-every-woman-wants.html"
+}

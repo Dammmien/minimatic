@@ -1,0 +1,30 @@
+{
+  "data": {
+    "title": "Madagascar 3: Europe's Most Wanted",
+    "year": 2012,
+    "cast": [
+      "Ben Stiller",
+      "Chris Rock",
+      "David Schwimmer",
+      "Jada Pinkett Smith",
+      "Frances McDormand",
+      "Sacha Baron Cohen",
+      "Cedric the Entertainer",
+      "Andy Richter",
+      "Bryan Cranston",
+      "Jessica Chastain",
+      "Martin Short",
+      "Paz Vega",
+      "Tom McGrath",
+      "Chris Miller",
+      "Christopher Knights",
+      "John DiMaggio",
+      "Conrad Vernon"
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/madagascar-3--europe-s-most-wanted.html"
+}

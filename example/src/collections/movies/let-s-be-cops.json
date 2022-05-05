@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Let's Be Cops",
+    "year": 2014,
+    "cast": [
+      "Damon Wayans, Jr.",
+      "Jake Johnson",
+      "Nina Dobrev",
+      "Rob Riggle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-s-be-cops.html"
+}

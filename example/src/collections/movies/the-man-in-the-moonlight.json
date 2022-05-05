@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man in the Moonlight",
+    "year": 1919,
+    "cast": [
+      "Monroe Salisbury",
+      "Colleen Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-in-the-moonlight.html"
+}

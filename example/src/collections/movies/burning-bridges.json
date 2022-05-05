@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Burning Bridges",
+    "year": 1928,
+    "cast": [
+      "Harry Carey",
+      "William Bailey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/burning-bridges.html"
+}

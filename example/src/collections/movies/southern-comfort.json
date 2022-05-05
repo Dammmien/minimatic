@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Southern Comfort",
+    "year": 2001,
+    "cast": [
+      "Robert Eads"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/southern-comfort.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Splash, Too",
+    "year": 1988,
+    "cast": [
+      "Amy Yasbeck",
+      "Todd Waring"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/splash--too.html"
+}

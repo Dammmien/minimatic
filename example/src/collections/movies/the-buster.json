@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Buster",
+    "year": 1923,
+    "cast": [
+      "Dustin Farnum",
+      "Francis McDonald"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-buster.html"
+}

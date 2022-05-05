@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shanghaied Love",
+    "year": 1931,
+    "cast": [
+      "Richard Cromwell",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shanghaied-love.html"
+}

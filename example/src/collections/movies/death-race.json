@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Death Race",
+    "year": 2008,
+    "cast": [
+      "Jason Statham",
+      "Tyrese Gibson",
+      "Joan Allen",
+      "Ian McShane"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/death-race.html"
+}

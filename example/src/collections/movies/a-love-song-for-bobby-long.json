@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Love Song for Bobby Long",
+    "year": 2004,
+    "cast": [
+      "John Travolta",
+      "Scarlett Johansson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-love-song-for-bobby-long.html"
+}

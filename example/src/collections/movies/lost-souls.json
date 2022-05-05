@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lost Souls",
+    "year": 2000,
+    "cast": [
+      "Winona Ryder",
+      "Ben Chaplin"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/lost-souls.html"
+}

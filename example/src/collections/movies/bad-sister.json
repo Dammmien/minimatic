@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bad Sister",
+    "year": 1931,
+    "cast": [
+      "Conrad Nagel",
+      "Bette Davis",
+      "Humphrey Bogart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bad-sister.html"
+}

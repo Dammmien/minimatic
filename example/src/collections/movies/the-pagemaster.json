@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pagemaster",
+    "year": 1994,
+    "cast": [
+      "Macaulay Culkin",
+      "Christopher Lloyd"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-pagemaster.html"
+}

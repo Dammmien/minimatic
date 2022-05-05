@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Two Flags West",
+    "year": 1950,
+    "cast": [
+      "Joseph Cotten",
+      "Linda Darnell"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/two-flags-west.html"
+}

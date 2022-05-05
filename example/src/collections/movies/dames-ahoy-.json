@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dames Ahoy!",
+    "year": 1930,
+    "cast": [
+      "Glenn Tryon",
+      "Gertrude Astor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dames-ahoy-.html"
+}

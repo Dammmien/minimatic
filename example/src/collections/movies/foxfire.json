@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Foxfire",
+    "year": 1996,
+    "cast": [
+      "Angelina Jolie",
+      "Jenny Shimizu"
+    ],
+    "genres": []
+  },
+  "output": "movies/foxfire.html"
+}

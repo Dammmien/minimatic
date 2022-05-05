@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Passport to Suez",
+    "year": 1943,
+    "cast": [
+      "Warren William",
+      "Ann Savage"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/passport-to-suez.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Angel on My Shoulder",
+    "year": 1946,
+    "cast": [
+      "Paul Muni",
+      "Anne Baxter",
+      "Claude Rains"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/angel-on-my-shoulder.html"
+}

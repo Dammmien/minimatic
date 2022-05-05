@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man from Cairo",
+    "year": 1953,
+    "cast": [
+      "George Raft",
+      "Irene Pappas",
+      "Massimo Serato"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-man-from-cairo.html"
+}

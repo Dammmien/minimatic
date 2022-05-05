@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Border Law",
+    "year": 1931,
+    "cast": [
+      "Buck Jones",
+      "Jim Mason",
+      "Lupita Tovar"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/border-law.html"
+}

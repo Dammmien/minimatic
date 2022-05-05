@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Police Academy: Mission to Moscow",
+    "year": 1994,
+    "cast": [
+      "George Gaynes",
+      "Michael Winslow"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/police-academy--mission-to-moscow.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Ticket to Tomahawk",
+    "year": 1950,
+    "cast": [
+      "Dan Dailey",
+      "Anne Baxter",
+      "Rory Calhoun"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-ticket-to-tomahawk.html"
+}

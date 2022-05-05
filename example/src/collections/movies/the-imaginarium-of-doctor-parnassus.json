@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Imaginarium of Doctor Parnassus",
+    "year": 2009,
+    "cast": [
+      "Heath Ledger",
+      "Christopher Plummer",
+      "Lily Cole",
+      "Verne Troyer",
+      "Andrew Garfield",
+      "Tom Waits",
+      "Johnny Depp",
+      "Jude Law",
+      "Colin Farrell"
+    ],
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-imaginarium-of-doctor-parnassus.html"
+}

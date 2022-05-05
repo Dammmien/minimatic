@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "RoboCop 3",
+    "year": 1993,
+    "cast": [
+      "Robert John Burke",
+      "Nancy Allen",
+      "Rip Torn"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/robocop-3.html"
+}

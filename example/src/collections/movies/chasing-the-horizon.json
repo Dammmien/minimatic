@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chasing the Horizon",
+    "year": 2006,
+    "cast": [
+      "the",
+      "Baja 1000",
+      "off-road race"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/chasing-the-horizon.html"
+}

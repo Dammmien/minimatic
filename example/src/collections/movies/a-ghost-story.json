@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A Ghost Story",
+    "year": 2017,
+    "cast": [
+      "Casey Affleck",
+      "Rooney Mara"
+    ],
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Romance"
+    ]
+  },
+  "output": "movies/a-ghost-story.html"
+}

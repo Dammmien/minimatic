@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ride",
+    "year": 1998,
+    "cast": [
+      "Malik Yoba",
+      "Melissa De Sousa",
+      "John Witherspoon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ride.html"
+}

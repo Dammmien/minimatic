@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Homicide for Three",
+    "year": 1948,
+    "cast": [
+      "Audrey Long",
+      "Grant Withers"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/homicide-for-three.html"
+}

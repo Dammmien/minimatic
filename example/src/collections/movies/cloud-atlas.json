@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "Cloud Atlas",
+    "year": 2012,
+    "cast": [
+      "Tom Hanks",
+      "Halle Berry",
+      "Jim Broadbent",
+      "Hugo Weaving",
+      "Jim Sturgess",
+      "Bae Doona",
+      "Ben Whishaw",
+      "James D'Arcy",
+      "Zhou Xun",
+      "Keith David",
+      "David Gyasi",
+      "Susan Sarandon",
+      "Hugh Grant"
+    ],
+    "genres": [
+      "Adventure",
+      "Drama"
+    ]
+  },
+  "output": "movies/cloud-atlas.html"
+}

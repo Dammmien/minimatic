@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Finian's Rainbow",
+    "year": 1968,
+    "cast": [
+      "Fred Astaire",
+      "Petula Clark",
+      "Keenan Wynn",
+      "Tommy Steele",
+      "Don Francks",
+      "Al Freeman Jr."
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/finian-s-rainbow.html"
+}

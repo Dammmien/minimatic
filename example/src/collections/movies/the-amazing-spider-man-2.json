@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Amazing Spider-Man 2",
+    "year": 2014,
+    "cast": [
+      "Andrew Garfield",
+      "Emma Stone",
+      "Jamie Foxx",
+      "Dane DeHaan"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-amazing-spider-man-2.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "1,000 Dollars a Minute",
+    "year": 1935,
+    "cast": [
+      "Leila Hyams",
+      "Edward Brophy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/1-000-dollars-a-minute.html"
+}

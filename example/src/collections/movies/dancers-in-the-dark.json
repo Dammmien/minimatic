@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dancers in the Dark",
+    "year": 1932,
+    "cast": [
+      "Miriam Hopkins",
+      "George Raft"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dancers-in-the-dark.html"
+}

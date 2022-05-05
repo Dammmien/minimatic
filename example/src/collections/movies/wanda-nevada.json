@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wanda Nevada",
+    "year": 1979,
+    "cast": [
+      "Peter Fonda",
+      "Brooke Shields"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wanda-nevada.html"
+}

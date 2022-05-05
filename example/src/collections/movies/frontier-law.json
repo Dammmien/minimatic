@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Frontier Law",
+    "year": 1943,
+    "cast": [
+      "Russell Hayden",
+      "Jennifer Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/frontier-law.html"
+}

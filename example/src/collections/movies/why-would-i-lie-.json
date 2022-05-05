@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Why Would I Lie?",
+    "year": 1980,
+    "cast": [
+      "Treat Williams",
+      "Lisa Eichhorn"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/why-would-i-lie-.html"
+}

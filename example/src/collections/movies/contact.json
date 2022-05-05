@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Contact",
+    "year": 1997,
+    "cast": [
+      "Jodie Foster",
+      "Matthew McConaughey",
+      "James Woods",
+      "Angela Bassett",
+      "John Hurt",
+      "Tom Skerritt",
+      "David Morse"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/contact.html"
+}

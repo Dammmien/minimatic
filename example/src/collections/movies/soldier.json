@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Soldier",
+    "year": 1998,
+    "cast": [
+      "Kurt Russell",
+      "Jason Scott Lee",
+      "Connie Nielsen",
+      "Gary Busey"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/soldier.html"
+}

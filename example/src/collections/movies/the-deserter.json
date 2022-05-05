@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Deserter",
+    "year": 1971,
+    "cast": [
+      "Bekim Fehmiu",
+      "John Huston",
+      "Richard Crenna",
+      "Ricardo Montalbán",
+      "Chuck Connors"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-deserter.html"
+}

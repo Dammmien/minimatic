@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hook and Ladder",
+    "year": 1924,
+    "cast": [
+      "Hoot Gibson",
+      "Frank Beal"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hook-and-ladder.html"
+}

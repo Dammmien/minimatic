@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stranger on the Third Floor",
+    "year": 1940,
+    "cast": [
+      "Peter Lorre",
+      "Charles Waldron"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/stranger-on-the-third-floor.html"
+}

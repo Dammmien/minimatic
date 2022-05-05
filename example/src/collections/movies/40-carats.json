@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "40 Carats",
+    "year": 1973,
+    "cast": [
+      "Edward Albert",
+      "Liv Ullmann",
+      "Binnie Barnes",
+      "Gene Kelly"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/40-carats.html"
+}

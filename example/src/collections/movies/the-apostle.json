@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Apostle",
+    "year": 1997,
+    "cast": [
+      "Robert Duvall",
+      "Miranda Richardson",
+      "Farrah Fawcett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-apostle.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Strapless",
+    "year": 1989,
+    "cast": [
+      "Bridget Fonda",
+      "Bruno Ganz",
+      "Blair Brown"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/strapless.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Guest",
+    "year": 2014,
+    "cast": [
+      "Dan Stevens",
+      "Maika Monroe",
+      "Brendan Meyer",
+      "Chase Williamson"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-guest.html"
+}

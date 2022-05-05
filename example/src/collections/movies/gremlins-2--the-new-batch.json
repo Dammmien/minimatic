@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gremlins 2: The New Batch",
+    "year": 1990,
+    "cast": [
+      "Phoebe Cates",
+      "Zach Galligan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gremlins-2--the-new-batch.html"
+}

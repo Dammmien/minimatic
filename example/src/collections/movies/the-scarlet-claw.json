@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Scarlet Claw",
+    "year": 1944,
+    "cast": [
+      "Basil Rathbone",
+      "Nigel Bruce",
+      "Paul Cavanagh"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-scarlet-claw.html"
+}

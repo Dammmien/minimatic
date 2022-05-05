@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Big Shot",
+    "year": 1942,
+    "cast": [
+      "Humphrey Bogart",
+      "Irene Manning"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-big-shot.html"
+}

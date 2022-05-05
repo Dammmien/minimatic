@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "A Tale of Two Mice",
+    "year": 1945,
+    "cast": [],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/a-tale-of-two-mice.html"
+}

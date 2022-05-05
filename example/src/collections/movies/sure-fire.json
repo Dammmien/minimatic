@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Sure Fire",
+    "year": 1921,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sure-fire.html"
+}

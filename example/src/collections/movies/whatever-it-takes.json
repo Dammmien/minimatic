@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Whatever It Takes",
+    "year": 2000,
+    "cast": [
+      "Shane West",
+      "Marla Sokoloff",
+      "Jodi Lyn O'Keefe",
+      "James Franco"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/whatever-it-takes.html"
+}

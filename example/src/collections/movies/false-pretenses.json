@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "False Pretenses",
+    "year": 1935,
+    "cast": [
+      "Irene Ware",
+      "Sidney Blackmer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/false-pretenses.html"
+}

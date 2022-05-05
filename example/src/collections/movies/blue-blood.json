@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Blue Blood",
+    "year": 1951,
+    "cast": [
+      "Bill Williams",
+      "Jane Nigh",
+      "Arthur Shields",
+      "Audrey Long"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/blue-blood.html"
+}

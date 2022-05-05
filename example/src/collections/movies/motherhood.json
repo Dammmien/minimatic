@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Motherhood",
+    "year": 2009,
+    "cast": [
+      "Uma Thurman",
+      "Minnie Driver",
+      "Anthony Edwards"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/motherhood.html"
+}

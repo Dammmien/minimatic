@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sweet Music",
+    "year": 1935,
+    "cast": [
+      "Rudy Vallée",
+      "Ann Dvorak",
+      "Helen Morgan"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/sweet-music.html"
+}

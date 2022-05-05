@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Phantom of the Range",
+    "year": 1936,
+    "cast": [
+      "Tom Tyler",
+      "Beth Marion"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-phantom-of-the-range.html"
+}

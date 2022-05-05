@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Long Distance",
+    "year": 2005,
+    "cast": [
+      "Monica Keena"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/long-distance.html"
+}

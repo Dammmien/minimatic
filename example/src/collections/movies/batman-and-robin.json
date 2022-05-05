@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Batman and Robin",
+    "year": 1997,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "George Clooney",
+      "Chris O'Donnell",
+      "Uma Thurman",
+      "Alicia Silverstone",
+      "John Glover",
+      "Elle Macpherson"
+    ],
+    "genres": [
+      "Action",
+      "Superhero"
+    ]
+  },
+  "output": "movies/batman-and-robin.html"
+}

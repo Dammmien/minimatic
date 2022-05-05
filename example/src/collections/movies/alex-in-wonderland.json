@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Alex in Wonderland",
+    "year": 1970,
+    "cast": [
+      "Donald Sutherland",
+      "Ellen Burstyn",
+      "Federico Fellini"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/alex-in-wonderland.html"
+}

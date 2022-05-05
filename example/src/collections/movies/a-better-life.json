@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Better Life",
+    "year": 2011,
+    "cast": [
+      "Demián Bichir",
+      "José Julián"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-better-life.html"
+}

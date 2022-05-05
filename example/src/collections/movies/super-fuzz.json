@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Super Fuzz",
+    "year": 1980,
+    "cast": [
+      "Michelle Smutny",
+      "Ernest Borgnine"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/super-fuzz.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Doctor's Diary",
+    "year": 1937,
+    "cast": [
+      "George Bancroft",
+      "Helen Burgess"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-doctor-s-diary.html"
+}

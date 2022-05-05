@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Love Girl",
+    "year": 1916,
+    "cast": [
+      "Ella Hall",
+      "Adele Farrington"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-love-girl.html"
+}

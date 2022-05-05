@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Everybody Sing",
+    "year": 1938,
+    "cast": [
+      "Judy Garland",
+      "Fanny Brice",
+      "Billie Burke"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/everybody-sing.html"
+}

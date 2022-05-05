@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Arizonian",
+    "year": 1935,
+    "cast": [
+      "Richard Dix",
+      "Margot Grahame",
+      "Preston Foster",
+      "Louis Calhern"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-arizonian.html"
+}

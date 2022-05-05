@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting Caravans",
+    "year": 1931,
+    "cast": [
+      "Gary Cooper",
+      "Lili Damita"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fighting-caravans.html"
+}

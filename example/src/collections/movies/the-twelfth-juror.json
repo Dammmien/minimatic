@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Twelfth Juror",
+    "year": 1913,
+    "cast": [
+      "Ben F. Wilson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-twelfth-juror.html"
+}

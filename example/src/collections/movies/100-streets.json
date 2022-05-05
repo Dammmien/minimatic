@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "100 Streets",
+    "year": 2017,
+    "cast": [
+      "Idris Elba",
+      "Gemma Arterton",
+      "Charlie Creed-Miles",
+      "Franz Drameh",
+      "Kierston Wareing",
+      "Tom Cullen",
+      "Ken Stott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/100-streets.html"
+}

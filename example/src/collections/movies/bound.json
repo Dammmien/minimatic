@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bound",
+    "year": 1996,
+    "cast": [
+      "Gina Gershon",
+      "Jennifer Tilly",
+      "Joe Pantoliano"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/bound.html"
+}

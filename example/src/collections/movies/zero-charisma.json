@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Zero Charisma",
+    "year": 2013,
+    "cast": [
+      "Sam Eidson",
+      "Anne Gee Byrd",
+      "Brock England",
+      "Garrett Graham",
+      "Cyndi Williams"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/zero-charisma.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Willow",
+    "year": 1988,
+    "cast": [
+      "Warwick Davis",
+      "Val Kilmer",
+      "Joanne Whalley",
+      "Jean Marsh",
+      "Billy Barty"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/willow.html"
+}

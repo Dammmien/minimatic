@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Golden Bed",
+    "year": 1925,
+    "cast": [
+      "Lillian Rich",
+      "Henry B. Walthall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-golden-bed.html"
+}

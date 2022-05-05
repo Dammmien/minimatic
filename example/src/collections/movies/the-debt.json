@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Debt",
+    "year": 2011,
+    "cast": [
+      "Helen Mirren",
+      "Sam Worthington",
+      "Jessica Chastain",
+      "Jesper Christensen",
+      "Marton Csokas",
+      "Ciarán Hinds",
+      "Tom Wilkinson"
+    ],
+    "genres": [
+      "Drama",
+      "Spy",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-debt.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "A Star Is Born",
+    "year": 2018,
+    "cast": [
+      "Bradley Cooper",
+      "Lady Gaga",
+      "Andrew Dice Clay",
+      "Dave Chappelle",
+      "Sam Elliott"
+    ],
+    "genres": [
+      "Romance",
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/a-star-is-born.html"
+}

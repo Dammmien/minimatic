@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It's Alive",
+    "year": 1974,
+    "cast": [
+      "John P. Ryan",
+      "Sharon Farrell"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/it-s-alive.html"
+}

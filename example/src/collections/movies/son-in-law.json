@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Son in Law",
+    "year": 1993,
+    "cast": [
+      "Pauly Shore",
+      "Carla Gugino",
+      "Lane Smith"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/son-in-law.html"
+}

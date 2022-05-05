@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Blue Danube",
+    "year": 1928,
+    "cast": [
+      "Leatrice Joy",
+      "Joseph Schildkraut",
+      "Nils Asther"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-blue-danube.html"
+}

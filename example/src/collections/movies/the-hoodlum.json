@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hoodlum",
+    "year": 1951,
+    "cast": [
+      "Lawrence Tierney",
+      "Allene Roberts"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hoodlum.html"
+}

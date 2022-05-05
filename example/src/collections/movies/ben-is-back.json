@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ben Is Back",
+    "year": 2018,
+    "cast": [
+      "Lucas Hedges",
+      "Julia Roberts",
+      "Kathryn Newton",
+      "Courtney B. Vance"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ben-is-back.html"
+}

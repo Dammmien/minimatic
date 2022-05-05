@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "As Good as Married",
+    "year": 1937,
+    "cast": [
+      "John Boles",
+      "Doris Nolan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/as-good-as-married.html"
+}

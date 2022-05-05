@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Sainted Devil",
+    "year": 1924,
+    "cast": [
+      "Rudolph Valentino",
+      "Nita Naldi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-sainted-devil.html"
+}

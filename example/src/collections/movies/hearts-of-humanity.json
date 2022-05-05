@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hearts of Humanity",
+    "year": 1932,
+    "cast": [
+      "Jean Hersholt",
+      "Claudia Dell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hearts-of-humanity.html"
+}

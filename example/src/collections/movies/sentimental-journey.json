@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sentimental Journey",
+    "year": 1946,
+    "cast": [
+      "Maureen O'Hara",
+      "John Payne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sentimental-journey.html"
+}

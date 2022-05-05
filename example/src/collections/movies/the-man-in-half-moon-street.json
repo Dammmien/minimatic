@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man in Half Moon Street",
+    "year": 1945,
+    "cast": [
+      "Helen Walker",
+      "Nils Asther"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-in-half-moon-street.html"
+}

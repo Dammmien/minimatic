@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Self-Made Wife",
+    "year": 1923,
+    "cast": [
+      "Ethel Grey Terry",
+      "Crauford Kent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-self-made-wife.html"
+}

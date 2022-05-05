@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Rings",
+    "year": 2017,
+    "cast": [
+      "Matilda Lutz",
+      "Alex Roe",
+      "Johnny Galecki",
+      "Aimee Teegarden",
+      "Laura Wiggins",
+      "Zach Roerig",
+      "Vincent D'Onofrio",
+      "Andrea Laing",
+      "Patrick R. Walker"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/rings.html"
+}

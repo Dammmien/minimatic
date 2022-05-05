@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strictly Dynamite",
+    "year": 1934,
+    "cast": [
+      "Jimmy Durante",
+      "Lupe Vélez"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/strictly-dynamite.html"
+}

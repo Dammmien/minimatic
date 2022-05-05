@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "This Is the Army",
+    "year": 1943,
+    "cast": [
+      "George Murphy",
+      "Ronald Reagan",
+      "Joan Leslie",
+      "Kate Smith"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/this-is-the-army.html"
+}

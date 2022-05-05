@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Clarence",
+    "year": 1937,
+    "cast": [
+      "Roscoe Karns",
+      "Eleanore Whitney",
+      "Eugene Pallette"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/clarence.html"
+}

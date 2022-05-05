@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Randy Rides Alone",
+    "year": 1934,
+    "cast": [
+      "John Wayne",
+      "Alberta Vaughn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/randy-rides-alone.html"
+}

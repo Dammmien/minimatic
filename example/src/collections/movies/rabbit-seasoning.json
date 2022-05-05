@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rabbit Seasoning",
+    "year": 1952,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/rabbit-seasoning.html"
+}

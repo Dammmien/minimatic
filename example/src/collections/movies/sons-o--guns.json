@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sons o' Guns",
+    "year": 1936,
+    "cast": [
+      "Joe E. Brown",
+      "Joan Blondell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sons-o--guns.html"
+}

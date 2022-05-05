@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Love Story",
+    "year": 1970,
+    "cast": [
+      "Ryan O'Neal",
+      "Ali MacGraw",
+      "Ray Milland",
+      "John Marley"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/love-story.html"
+}

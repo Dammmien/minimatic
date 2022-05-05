@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Life in the Balance",
+    "year": 1955,
+    "cast": [
+      "Ricardo Montalban",
+      "Anne Bancroft"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/a-life-in-the-balance.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Dune",
+    "year": 1984,
+    "cast": [
+      "Kyle MacLachlan",
+      "Sting",
+      "Sean Young",
+      "Kenneth McMillan",
+      "Francesca Annis",
+      "José Ferrer",
+      "Patrick Stewart",
+      "Alicia Witt",
+      "Virginia Madsen"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/dune.html"
+}

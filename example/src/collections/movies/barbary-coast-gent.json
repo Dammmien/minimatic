@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Barbary Coast Gent",
+    "year": 1944,
+    "cast": [
+      "Wallace Beery",
+      "Binnie Barnes"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/barbary-coast-gent.html"
+}

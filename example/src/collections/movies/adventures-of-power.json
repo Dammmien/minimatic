@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Adventures of Power",
+    "year": 2010,
+    "cast": [
+      "Ari Gold",
+      "Michael McKean",
+      "Jane Lynch",
+      "Shoshannah Stern",
+      "Chiu Chi Ling",
+      "Adrian Grenier"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/adventures-of-power.html"
+}

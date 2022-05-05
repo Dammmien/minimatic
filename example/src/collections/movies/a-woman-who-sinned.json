@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Woman Who Sinned",
+    "year": 1924,
+    "cast": [
+      "Morgan Wallace",
+      "Irene Rich"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-woman-who-sinned.html"
+}

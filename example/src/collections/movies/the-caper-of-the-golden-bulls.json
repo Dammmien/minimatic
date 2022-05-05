@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Caper of the Golden Bulls",
+    "year": 1967,
+    "cast": [
+      "Yvette Mimieux",
+      "Stephen Boyd"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-caper-of-the-golden-bulls.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Broadway Damage",
+    "year": 1997,
+    "cast": [
+      "Mara Hobel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/broadway-damage.html"
+}

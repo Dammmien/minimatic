@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Texas Bearcat",
+    "year": 1925,
+    "cast": [
+      "Bob Custer",
+      "Sally Rand"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-texas-bearcat.html"
+}

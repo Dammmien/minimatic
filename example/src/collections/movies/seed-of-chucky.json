@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Seed of Chucky",
+    "year": 2004,
+    "cast": [
+      "Jennifer Tilly",
+      "Redman",
+      "Hannah Spearritt",
+      "John Waters"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/seed-of-chucky.html"
+}

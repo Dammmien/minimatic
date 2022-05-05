@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dangerous Years",
+    "year": 1947,
+    "cast": [
+      "Billy Halop",
+      "Ann E. Todd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dangerous-years.html"
+}

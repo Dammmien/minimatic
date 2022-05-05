@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Edge",
+    "year": 1997,
+    "cast": [
+      "Anthony Hopkins",
+      "Alec Baldwin",
+      "Harold Perrineau"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-edge.html"
+}

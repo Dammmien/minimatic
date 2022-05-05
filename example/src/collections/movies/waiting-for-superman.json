@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Waiting for Superman",
+    "year": 2010,
+    "cast": [
+      "The analyzation of the failing",
+      "American public education system",
+      "."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/waiting-for-superman.html"
+}

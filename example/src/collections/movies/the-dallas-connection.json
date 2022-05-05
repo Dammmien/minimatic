@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Dallas Connection",
+    "year": 1994,
+    "cast": [
+      "Julie Strain"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-dallas-connection.html"
+}

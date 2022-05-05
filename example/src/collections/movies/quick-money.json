@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Quick Money",
+    "year": 1937,
+    "cast": [
+      "Fred Stone",
+      "Berton Churchill"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/quick-money.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Hulk",
+    "year": 2003,
+    "cast": [
+      "Eric Bana",
+      "Jennifer Connelly",
+      "Nick Nolte",
+      "Sam Elliott",
+      "Josh Lucas"
+    ],
+    "genres": [
+      "Superhero",
+      "Action"
+    ]
+  },
+  "output": "movies/hulk.html"
+}

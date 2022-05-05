@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Honeymoon Flats",
+    "year": 1928,
+    "cast": [
+      "George J. Lewis",
+      "Dorothy Gulliver"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/honeymoon-flats.html"
+}

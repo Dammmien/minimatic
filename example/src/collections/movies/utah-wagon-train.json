@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Utah Wagon Train",
+    "year": 1951,
+    "cast": [
+      "Rex Allen",
+      "Penny Edwards"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/utah-wagon-train.html"
+}

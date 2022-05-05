@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Death Watch",
+    "year": 1980,
+    "cast": [
+      "Harvey Keitel",
+      "Romy Schneider",
+      "Harry Dean Stanton"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/death-watch.html"
+}

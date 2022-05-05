@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Man in the Iron Mask",
+    "year": 1998,
+    "cast": [
+      "Leonardo DiCaprio",
+      "John Malkovich",
+      "Gabriel Byrne",
+      "Gérard Depardieu",
+      "Jeremy Irons"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-in-the-iron-mask.html"
+}

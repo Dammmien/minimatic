@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Campground Massacre",
+    "year": 1994,
+    "cast": [
+      "Walter Cherry",
+      "Wesley Shane Winter",
+      "Jeremy Winter",
+      "Dustin J. Boes",
+      "Mathew Vaughan",
+      "Janie Dull"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/campground-massacre.html"
+}

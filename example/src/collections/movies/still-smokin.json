@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Still Smokin",
+    "year": 1983,
+    "cast": [
+      "Cheech Marin",
+      "Tommy Chong"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/still-smokin.html"
+}

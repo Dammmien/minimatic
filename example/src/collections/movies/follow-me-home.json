@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Follow Me Home",
+    "year": 1996,
+    "cast": [
+      "Alfre Woodard",
+      "Benjamin Bratt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/follow-me-home.html"
+}

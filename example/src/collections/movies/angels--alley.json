@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Angels' Alley",
+    "year": 1948,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Rosemary LaPlanche"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/angels--alley.html"
+}

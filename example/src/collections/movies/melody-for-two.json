@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Melody for Two",
+    "year": 1937,
+    "cast": [
+      "James Melton",
+      "Patricia Ellis",
+      "Marie Wilson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/melody-for-two.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Song of India",
+    "year": 1949,
+    "cast": [
+      "Sabu",
+      "Turhan Bey",
+      "Gail Russell"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/song-of-india.html"
+}

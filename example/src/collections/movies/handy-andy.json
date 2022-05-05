@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Handy Andy",
+    "year": 1934,
+    "cast": [
+      "Will Rogers",
+      "Mary Carlisle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/handy-andy.html"
+}

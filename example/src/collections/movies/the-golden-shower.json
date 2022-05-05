@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Golden Shower",
+    "year": 1919,
+    "cast": [
+      "Frank Morgan",
+      "Estelle Taylor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-golden-shower.html"
+}

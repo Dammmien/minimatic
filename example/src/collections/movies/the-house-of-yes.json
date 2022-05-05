@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The House of Yes",
+    "year": 1997,
+    "cast": [
+      "Parker Posey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-house-of-yes.html"
+}

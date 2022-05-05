@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Born to the Saddle",
+    "year": 1953,
+    "cast": [
+      "Chuck Courtney",
+      "Donald Woods"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/born-to-the-saddle.html"
+}

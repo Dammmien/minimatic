@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shanghai Madness",
+    "year": 1933,
+    "cast": [
+      "Spencer Tracy",
+      "Fay Wray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shanghai-madness.html"
+}

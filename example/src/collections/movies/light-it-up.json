@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Light It Up",
+    "year": 1999,
+    "cast": [
+      "Usher Raymond",
+      "Forest Whitaker",
+      "Judd Nelson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/light-it-up.html"
+}

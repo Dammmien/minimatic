@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wonder Man",
+    "year": 1945,
+    "cast": [
+      "Danny Kaye",
+      "Virginia Mayo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wonder-man.html"
+}

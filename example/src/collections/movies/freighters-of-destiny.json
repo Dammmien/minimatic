@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Freighters of Destiny",
+    "year": 1931,
+    "cast": [
+      "Tom Keene",
+      "Barbara Kent"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/freighters-of-destiny.html"
+}

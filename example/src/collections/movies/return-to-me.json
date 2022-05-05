@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Return to Me",
+    "year": 2000,
+    "cast": [
+      "Minnie Driver",
+      "David Duchovny",
+      "Carroll O'Connor"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/return-to-me.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mr. Moto Takes a Chance",
+    "year": 1938,
+    "cast": [
+      "Peter Lorre",
+      "Rochelle Hudson"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/mr--moto-takes-a-chance.html"
+}

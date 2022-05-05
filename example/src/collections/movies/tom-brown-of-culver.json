@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tom Brown of Culver",
+    "year": 1932,
+    "cast": [
+      "Tom Brown",
+      "Richard Cromwell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tom-brown-of-culver.html"
+}

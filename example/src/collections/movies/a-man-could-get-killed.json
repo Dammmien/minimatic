@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Man Could Get Killed",
+    "year": 1966,
+    "cast": [
+      "James Garner",
+      "Sandra Dee"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/a-man-could-get-killed.html"
+}

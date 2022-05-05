@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bulldog Edition",
+    "year": 1936,
+    "cast": [
+      "Evalyn Knapp",
+      "Ray Walker"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/bulldog-edition.html"
+}

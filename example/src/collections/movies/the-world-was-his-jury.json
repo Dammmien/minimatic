@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The World Was His Jury",
+    "year": 1958,
+    "cast": [
+      "Edmond O'Brien",
+      "Mona Freeman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-world-was-his-jury.html"
+}

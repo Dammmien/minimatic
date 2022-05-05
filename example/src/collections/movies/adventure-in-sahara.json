@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Adventure in Sahara",
+    "year": 1938,
+    "cast": [
+      "Paul Kelly",
+      "Lorna Gray",
+      "C. Henry Gordon"
+    ],
+    "genres": [
+      "Drama",
+      "Action"
+    ]
+  },
+  "output": "movies/adventure-in-sahara.html"
+}

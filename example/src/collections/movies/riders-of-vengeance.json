@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riders of Vengeance",
+    "year": 1919,
+    "cast": [
+      "Harry Carey",
+      "Seena Owen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/riders-of-vengeance.html"
+}

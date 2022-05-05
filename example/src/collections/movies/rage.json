@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Rage",
+    "year": 2014,
+    "cast": [
+      "Nicolas Cage",
+      "Peter Stormare",
+      "Danny Glover",
+      "Max Ryan"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/rage.html"
+}

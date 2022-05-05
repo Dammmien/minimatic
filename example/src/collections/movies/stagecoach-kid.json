@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stagecoach Kid",
+    "year": 1949,
+    "cast": [
+      "Tim Holt",
+      "Richard Martin",
+      "Jeff Donnell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/stagecoach-kid.html"
+}

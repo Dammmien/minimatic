@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Poodle Springs",
+    "year": 1998,
+    "cast": [
+      "James Caan",
+      "David Keith",
+      "Dina Meyer",
+      "Joe Don Baker",
+      "Brian Cox"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/poodle-springs.html"
+}

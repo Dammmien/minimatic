@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Call",
+    "year": 2013,
+    "cast": [
+      "Halle Berry",
+      "Abigail Breslin",
+      "Morris Chestnut",
+      "Michael Eklund",
+      "Michael Imperioli"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-call.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eternally Yours",
+    "year": 1939,
+    "cast": [
+      "Loretta Young",
+      "David Niven"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/eternally-yours.html"
+}

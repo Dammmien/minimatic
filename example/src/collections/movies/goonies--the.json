@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Goonies, The",
+    "year": 1985,
+    "cast": [
+      "Sean Astin",
+      "Josh Brolin",
+      "Jeff Cohen",
+      "Corey Feldman",
+      "Kerri Green",
+      "Martha Plimpton",
+      "Jonathan Ke Quan",
+      "Anne Ramsey",
+      "Robert Davi",
+      "Joe Pantoliano"
+    ],
+    "genres": [
+      "Adventure",
+      "Family"
+    ]
+  },
+  "output": "movies/goonies--the.html"
+}

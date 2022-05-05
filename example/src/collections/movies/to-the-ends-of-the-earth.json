@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "To the Ends of the Earth",
+    "year": 1948,
+    "cast": [
+      "Dick Powell",
+      "Signe Hasso"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/to-the-ends-of-the-earth.html"
+}

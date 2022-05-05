@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fortunes of Captain Blood",
+    "year": 1950,
+    "cast": [
+      "Louis Hayward",
+      "Patricia Medina"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/fortunes-of-captain-blood.html"
+}

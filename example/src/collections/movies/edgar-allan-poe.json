@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Edgar Allan Poe",
+    "year": 1909,
+    "cast": [
+      "Barry O'Moore",
+      "Linda Arvidson"
+    ],
+    "genres": []
+  },
+  "output": "movies/edgar-allan-poe.html"
+}

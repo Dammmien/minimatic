@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Guest Wife",
+    "year": 1945,
+    "cast": [
+      "Claudette Colbert",
+      "Don Ameche"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/guest-wife.html"
+}

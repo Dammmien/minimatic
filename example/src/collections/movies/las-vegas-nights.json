@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Las Vegas Nights",
+    "year": 1941,
+    "cast": [
+      "Bert Wheeler",
+      "Constance Moore",
+      "Tommy Dorsey"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/las-vegas-nights.html"
+}

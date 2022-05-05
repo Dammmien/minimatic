@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Surf II",
+    "year": 1984,
+    "cast": [
+      "Eddie Deezen",
+      "Cleavon Little",
+      "Eric Stoltz"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/surf-ii.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Moran of the Mounted",
+    "year": 1926,
+    "cast": [
+      "Reed Howes",
+      "Sheldon Lewis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/moran-of-the-mounted.html"
+}

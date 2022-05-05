@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "River Lady",
+    "year": 1948,
+    "cast": [
+      "Yvonne De Carlo",
+      "Dan Duryea"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/river-lady.html"
+}

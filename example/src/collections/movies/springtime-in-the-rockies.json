@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Springtime in the Rockies",
+    "year": 1942,
+    "cast": [
+      "Betty Grable",
+      "John Payne",
+      "Cesar Romero"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/springtime-in-the-rockies.html"
+}

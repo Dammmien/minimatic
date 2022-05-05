@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Kiss Me Deadly",
+    "year": 1955,
+    "cast": [
+      "Ralph Meeker",
+      "Albert Dekker",
+      "Gaby Rodgers",
+      "Cloris Leachman"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/kiss-me-deadly.html"
+}

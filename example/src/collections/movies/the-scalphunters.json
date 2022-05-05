@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Scalphunters",
+    "year": 1968,
+    "cast": [
+      "Burt Lancaster",
+      "Ossie Davis",
+      "Telly Savalas"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-scalphunters.html"
+}

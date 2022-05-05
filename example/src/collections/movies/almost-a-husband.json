@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Almost a Husband",
+    "year": 1919,
+    "cast": [
+      "Will Rogers",
+      "Peggy Wood",
+      "Herbert Standing"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/almost-a-husband.html"
+}

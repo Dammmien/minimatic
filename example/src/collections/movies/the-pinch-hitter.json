@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pinch Hitter",
+    "year": 1925,
+    "cast": [
+      "Glenn Hunter",
+      "Constance Bennett"
+    ],
+    "genres": [
+      "Sports",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-pinch-hitter.html"
+}

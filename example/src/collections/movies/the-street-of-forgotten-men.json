@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Street of Forgotten Men",
+    "year": 1925,
+    "cast": [
+      "Percy Marmont",
+      "Louise Brooks"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-street-of-forgotten-men.html"
+}

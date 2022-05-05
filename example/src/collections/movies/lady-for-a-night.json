@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady for a Night",
+    "year": 1942,
+    "cast": [
+      "John Wayne",
+      "Joan Blondell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lady-for-a-night.html"
+}

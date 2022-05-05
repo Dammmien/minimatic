@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Evening Star",
+    "year": 1996,
+    "cast": [
+      "Shirley MacLaine",
+      "Bill Paxton",
+      "Juliette Lewis",
+      "Miranda Richardson",
+      "George Newbern",
+      "Mackenzie Astin",
+      "Scott Wolf",
+      "Ben Johnson",
+      "Marion Ross"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-evening-star.html"
+}

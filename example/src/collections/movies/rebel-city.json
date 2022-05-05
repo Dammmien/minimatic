@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rebel City",
+    "year": 1953,
+    "cast": [
+      "Wild Bill Elliott",
+      "Marjorie Lord"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rebel-city.html"
+}

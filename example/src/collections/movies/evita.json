@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Evita",
+    "year": 1996,
+    "cast": [
+      "Antonio Banderas",
+      "Madonna",
+      "Jonathan Pryce"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/evita.html"
+}

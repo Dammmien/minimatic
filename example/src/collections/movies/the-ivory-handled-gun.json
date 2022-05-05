@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ivory-Handled Gun",
+    "year": 1935,
+    "cast": [
+      "Buck Jones",
+      "Walter Miller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-ivory-handled-gun.html"
+}

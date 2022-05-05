@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tomorrow Is Forever",
+    "year": 1946,
+    "cast": [
+      "Claudette Colbert",
+      "Orson Welles",
+      "George Brent"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/tomorrow-is-forever.html"
+}

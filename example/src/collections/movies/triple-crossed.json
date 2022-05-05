@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Triple Crossed",
+    "year": 1950,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/triple-crossed.html"
+}

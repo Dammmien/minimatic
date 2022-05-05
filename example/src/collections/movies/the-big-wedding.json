@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Big Wedding",
+    "year": 2013,
+    "cast": [
+      "Robert De Niro",
+      "Katherine Heigl",
+      "Diane Keaton",
+      "Amanda Seyfried",
+      "Topher Grace",
+      "Ben Barnes",
+      "Susan Sarandon",
+      "Robin Williams"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-big-wedding.html"
+}

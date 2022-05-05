@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Amazons",
+    "year": 1986,
+    "cast": [
+      "Penelope Reed",
+      "Joseph Whipp"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/amazons.html"
+}

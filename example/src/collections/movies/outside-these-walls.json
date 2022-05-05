@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Outside These Walls",
+    "year": 1939,
+    "cast": [
+      "Dolores Costello",
+      "Virginia Weidler"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/outside-these-walls.html"
+}

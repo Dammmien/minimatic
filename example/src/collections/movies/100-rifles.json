@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "100 Rifles",
+    "year": 1969,
+    "cast": [
+      "Burt Reynolds",
+      "Raquel Welch",
+      "Jim Brown"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/100-rifles.html"
+}

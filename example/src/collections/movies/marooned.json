@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Marooned",
+    "year": 1969,
+    "cast": [
+      "Gregory Peck",
+      "Gene Hackman",
+      "David Janssen",
+      "Richard Crenna",
+      "James Franciscus",
+      "Lee Grant",
+      "Mariette Hartley",
+      "Nancy Kovack"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/marooned.html"
+}

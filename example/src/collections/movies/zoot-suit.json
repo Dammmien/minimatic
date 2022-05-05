@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Zoot Suit",
+    "year": 1981,
+    "cast": [
+      "Edward James Olmos",
+      "Daniel Valdez",
+      "Tyne Daly"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/zoot-suit.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Miracle Man",
+    "year": 1932,
+    "cast": [
+      "Sylvia Sidney",
+      "Chester Morris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-miracle-man.html"
+}

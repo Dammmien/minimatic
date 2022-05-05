@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "The Informers",
+    "year": 2009,
+    "cast": [
+      "Billy Bob Thornton",
+      "Kim Basinger",
+      "Winona Ryder",
+      "Mickey Rourke",
+      "Jon Foster",
+      "Amber Heard",
+      "Rhys Ifans",
+      "Chris Isaak",
+      "Austin Nichols",
+      "Lou Taylor Pucci",
+      "Mel Raido",
+      "Brad Renfro"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-informers.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crazy Love",
+    "year": 2007,
+    "cast": [
+      "Burt Pugach",
+      "Linda Riss"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/crazy-love.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Yanks Are Coming",
+    "year": 1942,
+    "cast": [
+      "Mary Healy",
+      "Henry King"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-yanks-are-coming.html"
+}

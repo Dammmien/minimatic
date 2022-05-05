@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Four Seasons",
+    "year": 1981,
+    "cast": [
+      "Alan Alda",
+      "Carol Burnett",
+      "Rita Moreno",
+      "Len Cariou",
+      "Jack Weston",
+      "Sandy Dennis",
+      "Bess Armstrong"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-four-seasons.html"
+}

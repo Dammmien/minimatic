@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Best Men",
+    "year": 1997,
+    "cast": [
+      "Fred Ward",
+      "Drew Barrymore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/best-men.html"
+}

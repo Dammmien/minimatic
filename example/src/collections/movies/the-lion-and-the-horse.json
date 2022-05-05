@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lion and the Horse",
+    "year": 1952,
+    "cast": [
+      "Steve Cochran",
+      "Ray Teal"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-lion-and-the-horse.html"
+}

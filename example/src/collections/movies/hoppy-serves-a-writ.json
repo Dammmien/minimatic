@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hoppy Serves a Writ",
+    "year": 1943,
+    "cast": [
+      "William Boyd",
+      "George Reeves",
+      "Robert Mitchum"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hoppy-serves-a-writ.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Malice",
+    "year": 1993,
+    "cast": [
+      "Alec Baldwin",
+      "Nicole Kidman",
+      "Bill Pullman",
+      "Anne Bancroft",
+      "Bebe Neuwirth",
+      "Peter Gallagher",
+      "George C. Scott"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/malice.html"
+}

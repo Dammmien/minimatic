@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Catch Me If You Can",
+    "year": 2002,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Tom Hanks",
+      "Christopher Walken",
+      "Amy Adams",
+      "Martin Sheen",
+      "Nathalie Baye",
+      "James Brolin"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/catch-me-if-you-can.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hugs and Mugs",
+    "year": 1950,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/hugs-and-mugs.html"
+}

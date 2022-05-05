@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gung Ho!",
+    "year": 1943,
+    "cast": [
+      "Randolph Scott",
+      "Robert Mitchum"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/gung-ho-.html"
+}

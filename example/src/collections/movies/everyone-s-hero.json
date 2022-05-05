@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Everyone's Hero",
+    "year": 2006,
+    "cast": [
+      "Jake T. Austin",
+      "Rob Reiner",
+      "William H. Macy"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/everyone-s-hero.html"
+}

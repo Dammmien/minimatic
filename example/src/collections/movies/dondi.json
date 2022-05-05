@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dondi",
+    "year": 1961,
+    "cast": [
+      "David Janssen",
+      "Patti Page",
+      "Walter Winchell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dondi.html"
+}

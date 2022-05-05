@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Adventures of the Flying Cadets",
+    "year": 1943,
+    "cast": [
+      "Johnny Downs",
+      "Eduardo Ciannelli"
+    ],
+    "genres": []
+  },
+  "output": "movies/adventures-of-the-flying-cadets.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Haunted Bedroom",
+    "year": 1919,
+    "cast": [
+      "Enid Bennett",
+      "Jack Nelson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-haunted-bedroom.html"
+}

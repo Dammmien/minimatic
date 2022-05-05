@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mr. Cinderella",
+    "year": 1936,
+    "cast": [
+      "Betty Furness",
+      "Arthur Treacher"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--cinderella.html"
+}

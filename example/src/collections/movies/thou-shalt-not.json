@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thou Shalt Not",
+    "year": 1919,
+    "cast": [
+      "Evelyn Nesbit",
+      "Crauford Kent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thou-shalt-not.html"
+}

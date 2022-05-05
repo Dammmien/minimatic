@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Atom the Amazing Zombie Killer",
+    "year": 2012,
+    "cast": [
+      "Mark Shonsey",
+      "Lindy Starr",
+      "Zachary Byron Helm",
+      "Lloyd Kaufman"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/atom-the-amazing-zombie-killer.html"
+}

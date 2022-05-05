@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hellzapoppin'",
+    "year": 1941,
+    "cast": [
+      "Ole Olsen",
+      "Chic Johnson",
+      "Martha Raye"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hellzapoppin-.html"
+}

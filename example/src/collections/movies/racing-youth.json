@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Racing Youth",
+    "year": 1932,
+    "cast": [
+      "Slim Summerville",
+      "Louise Fazenda"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/racing-youth.html"
+}

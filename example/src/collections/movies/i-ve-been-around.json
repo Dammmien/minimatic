@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I've Been Around",
+    "year": 1935,
+    "cast": [
+      "Chester Morris",
+      "Rochelle Hudson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-ve-been-around.html"
+}

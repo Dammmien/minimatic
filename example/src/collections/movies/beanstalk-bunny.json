@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Beanstalk Bunny",
+    "year": 1955,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/beanstalk-bunny.html"
+}

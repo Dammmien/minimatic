@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Heathers",
+    "year": 1989,
+    "cast": [
+      "Winona Ryder",
+      "Christian Slater",
+      "Shannen Doherty",
+      "Kim Walker",
+      "Lisanne Falk"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/heathers.html"
+}

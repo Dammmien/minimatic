@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Newman's Law",
+    "year": 1974,
+    "cast": [
+      "George Peppard",
+      "Roger Robinson"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/newman-s-law.html"
+}

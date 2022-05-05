@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Boy in the Striped Pyjamas",
+    "year": 2008,
+    "cast": [
+      "Vera Farmiga",
+      "Jack Scanlon",
+      "David Thewlis",
+      "Asa Butterfield"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-boy-in-the-striped-pyjamas.html"
+}

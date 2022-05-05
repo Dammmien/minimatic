@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Big Trouble",
+    "year": 2002,
+    "cast": [
+      "Tim Allen",
+      "Rene Russo",
+      "Stanley Tucci",
+      "Dennis Farina",
+      "Jason Lee",
+      "Tom Sizemore",
+      "Omar Epps",
+      "Zooey Deschanel",
+      "Ben Foster",
+      "Sofía Vergara"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/big-trouble.html"
+}

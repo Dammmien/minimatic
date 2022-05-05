@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Scoop",
+    "year": 2006,
+    "cast": [
+      "Scarlett Johansson",
+      "Hugh Jackman",
+      "Woody Allen",
+      "Ian McShane"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/scoop.html"
+}

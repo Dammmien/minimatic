@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fight for Life",
+    "year": 1987,
+    "cast": [
+      "Jerry Lewis",
+      "Patty Duke",
+      "Morgan Freeman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fight-for-life.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Road to El Dorado",
+    "year": 2000,
+    "cast": [
+      "Kevin Kline",
+      "Kenneth Branagh",
+      "Rosie Perez"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-road-to-el-dorado.html"
+}

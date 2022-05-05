@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Nebraskan",
+    "year": 1953,
+    "cast": [
+      "Philip Carey",
+      "Lee Van Cleef"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-nebraskan.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gift of Gab",
+    "year": 1934,
+    "cast": [
+      "Edmund Lowe",
+      "Gloria Stuart",
+      "Ruth Etting"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/gift-of-gab.html"
+}

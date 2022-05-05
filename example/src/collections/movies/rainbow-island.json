@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rainbow Island",
+    "year": 1944,
+    "cast": [
+      "Dorothy Lamour",
+      "Eddie Bracken"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rainbow-island.html"
+}

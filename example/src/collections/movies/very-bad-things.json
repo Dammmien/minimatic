@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Very Bad Things",
+    "year": 1998,
+    "cast": [
+      "Christian Slater",
+      "Cameron Diaz",
+      "Jon Favreau",
+      "Daniel Stern",
+      "Jeremy Piven",
+      "Jeanne Tripplehorn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/very-bad-things.html"
+}

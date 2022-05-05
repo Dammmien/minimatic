@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Helldorado",
+    "year": 1934,
+    "cast": [
+      "Richard Arlen",
+      "Madge Evans"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/helldorado.html"
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Grease",
+    "year": 1978,
+    "cast": [
+      "John Travolta",
+      "Olivia Newton-John",
+      "Stockard Channing",
+      "Jeff Conaway",
+      "Eve Arden",
+      "Sid Caesar",
+      "Frankie Avalon",
+      "Edd Byrnes",
+      "Didi Conn"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/grease.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Promises in the Dark",
+    "year": 1979,
+    "cast": [
+      "Marsha Mason",
+      "Ned Beatty"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/promises-in-the-dark.html"
+}

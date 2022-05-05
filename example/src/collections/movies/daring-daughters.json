@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Daring Daughters",
+    "year": 1933,
+    "cast": [
+      "Marian Marsh",
+      "Kenneth Thomson",
+      "Bert Roach"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/daring-daughters.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wheel",
+    "year": 1925,
+    "cast": [
+      "Margaret Livingston",
+      "Harrison Ford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wheel.html"
+}

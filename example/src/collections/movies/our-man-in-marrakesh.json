@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Our Man in Marrakesh",
+    "year": 1966,
+    "cast": [
+      "Tony Randall",
+      "Herbert Lom",
+      "Klaus Kinski"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/our-man-in-marrakesh.html"
+}

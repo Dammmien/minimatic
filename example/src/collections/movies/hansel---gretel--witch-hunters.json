@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "Hansel & Gretel: Witch Hunters",
+    "year": 2013,
+    "cast": [
+      "Jeremy Renner",
+      "Gemma Arterton",
+      "Famke Janssen",
+      "Peter Stormare",
+      "Pihla Viitala",
+      "Thomas Mann",
+      "Derek Mears",
+      "Robin Atkin Downes",
+      "(voice)",
+      "Rainer Bock",
+      "Monique Ganderton",
+      "Ingrid Bolsø Berdal",
+      "Zoë Bell",
+      "Joanna Kulig"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ]
+  },
+  "output": "movies/hansel---gretel--witch-hunters.html"
+}

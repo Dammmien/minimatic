@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Austin Powers: The Spy Who Shagged Me",
+    "year": 1999,
+    "cast": [
+      "Mike Myers",
+      "Heather Graham",
+      "Robert Wagner",
+      "Seth Green",
+      "Michael York",
+      "Verne Troyer",
+      "Will Ferrell"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/austin-powers--the-spy-who-shagged-me.html"
+}

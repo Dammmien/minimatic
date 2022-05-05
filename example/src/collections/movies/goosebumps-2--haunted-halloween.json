@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Goosebumps 2: Haunted Halloween",
+    "year": 2018,
+    "cast": [
+      "Wendi McLendon-Covey",
+      "Madison Iseman",
+      "Jeremy Ray Taylor",
+      "Caleel Harris",
+      "Chris Parnell",
+      "Ken Jeong",
+      "Jack Black"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/goosebumps-2--haunted-halloween.html"
+}

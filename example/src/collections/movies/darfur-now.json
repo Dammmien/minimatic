@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Darfur Now",
+    "year": 2007,
+    "cast": [
+      "The",
+      "War in Darfur"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/darfur-now.html"
+}

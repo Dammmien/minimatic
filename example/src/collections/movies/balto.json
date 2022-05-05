@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Balto",
+    "year": 1995,
+    "cast": [
+      "Voices of",
+      "Kevin Bacon",
+      "Bob Hoskins",
+      "Bridget Fonda",
+      "Phil Collins"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/balto.html"
+}

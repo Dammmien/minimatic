@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bagdad Café",
+    "year": 1987,
+    "cast": [
+      "Marianne Sägebrecht",
+      "C. C. H. Pounder"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bagdad-caf-.html"
+}

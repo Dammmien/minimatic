@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Diary of a Chambermaid",
+    "year": 1946,
+    "cast": [
+      "Paulette Goddard",
+      "Burgess Meredith",
+      "Hurd Hatfield"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-diary-of-a-chambermaid.html"
+}

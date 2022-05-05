@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sweet Home Alabama",
+    "year": 2002,
+    "cast": [
+      "Reese Witherspoon",
+      "Josh Lucas",
+      "Patrick Dempsey",
+      "Candice Bergen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sweet-home-alabama.html"
+}

@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Sorry to Bother You",
+    "year": 2018,
+    "cast": [
+      "Lakeith Stanfield",
+      "Tessa Thompson",
+      "Armie Hammer",
+      "Steven Yeun",
+      "Jermaine Fowler",
+      "Omari Hardwick",
+      "Terry Crews",
+      "Danny Glover",
+      "Patton Oswalt",
+      "David Cross"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Fantasy",
+      "Comedy"
+    ]
+  },
+  "output": "movies/sorry-to-bother-you.html"
+}

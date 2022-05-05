@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Big Bad Mama",
+    "year": 1974,
+    "cast": [
+      "Angie Dickinson",
+      "William Shatner"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/big-bad-mama.html"
+}

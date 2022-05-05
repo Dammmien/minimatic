@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Missing Corpse",
+    "year": 1945,
+    "cast": [
+      "J. Edward Bromberg",
+      "Isabel Randolph"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-missing-corpse.html"
+}

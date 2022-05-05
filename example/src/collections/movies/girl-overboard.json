@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Girl Overboard",
+    "year": 1937,
+    "cast": [
+      "Gloria Stuart",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/girl-overboard.html"
+}

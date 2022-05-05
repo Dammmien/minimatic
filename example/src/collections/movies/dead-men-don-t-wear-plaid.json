@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dead Men Don't Wear Plaid",
+    "year": 1982,
+    "cast": [
+      "Steve Martin",
+      "Rachel Ward",
+      "Carl Reiner"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dead-men-don-t-wear-plaid.html"
+}

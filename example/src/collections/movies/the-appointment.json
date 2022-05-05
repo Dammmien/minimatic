@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Appointment",
+    "year": 1969,
+    "cast": [
+      "Omar Sharif",
+      "Anouk Aimée"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-appointment.html"
+}

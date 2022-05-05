@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Imitation General",
+    "year": 1958,
+    "cast": [
+      "Glenn Ford",
+      "Red Buttons",
+      "Taina Elg"
+    ],
+    "genres": [
+      "War",
+      "Comedy"
+    ]
+  },
+  "output": "movies/imitation-general.html"
+}

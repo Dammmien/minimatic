@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pride of St. Louis",
+    "year": 1952,
+    "cast": [
+      "Dan Dailey",
+      "Joanne Dru",
+      "Richard Crenna"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-pride-of-st--louis.html"
+}

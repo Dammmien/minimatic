@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Daredevils of the West",
+    "year": 1943,
+    "cast": [
+      "Allan Lane",
+      "Kay Aldridge"
+    ],
+    "genres": []
+  },
+  "output": "movies/daredevils-of-the-west.html"
+}

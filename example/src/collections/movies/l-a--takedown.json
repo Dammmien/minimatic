@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "L.A. Takedown",
+    "year": 1989,
+    "cast": [
+      "Michael Rooker",
+      "Scott Plank"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/l-a--takedown.html"
+}

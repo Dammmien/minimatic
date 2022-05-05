@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In Gay Madrid",
+    "year": 1930,
+    "cast": [
+      "Ramon Novarro",
+      "Dorothy Jordan"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/in-gay-madrid.html"
+}

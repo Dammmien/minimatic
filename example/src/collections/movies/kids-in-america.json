@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kids in America",
+    "year": 2005,
+    "cast": [
+      "Gregory Smith",
+      "Chris Morris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kids-in-america.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Northfield Minnesota Raid",
+    "year": 1972,
+    "cast": [
+      "Cliff Robertson",
+      "Robert Duvall"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-great-northfield-minnesota-raid.html"
+}

@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "The Wasp",
+    "year": 1915,
+    "cast": [
+      "Vivian Rich"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-wasp.html"
+}

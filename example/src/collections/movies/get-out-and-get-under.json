@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Get Out and Get Under",
+    "year": 1920,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/get-out-and-get-under.html"
+}

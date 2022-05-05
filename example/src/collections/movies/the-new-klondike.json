@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The New Klondike",
+    "year": 1926,
+    "cast": [
+      "Thomas Meighan",
+      "Lila Lee"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-new-klondike.html"
+}

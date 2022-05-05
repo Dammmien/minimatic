@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Little City",
+    "year": 1997,
+    "cast": [
+      "Josh Charles",
+      "Jon Bon Jovi",
+      "Penelope Ann Miller"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-city.html"
+}

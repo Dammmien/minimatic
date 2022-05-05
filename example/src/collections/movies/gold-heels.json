@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gold Heels",
+    "year": 1924,
+    "cast": [
+      "Robert Agnew",
+      "Peggy Shaw"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gold-heels.html"
+}

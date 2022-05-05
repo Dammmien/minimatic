@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spy Hunt",
+    "year": 1950,
+    "cast": [
+      "Howard Duff",
+      "Märta Torén"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/spy-hunt.html"
+}

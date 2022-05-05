@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trail of the Rustlers",
+    "year": 1950,
+    "cast": [
+      "Charles Starrett",
+      "Gail Davis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/trail-of-the-rustlers.html"
+}

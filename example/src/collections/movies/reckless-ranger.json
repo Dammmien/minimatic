@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Reckless Ranger",
+    "year": 1937,
+    "cast": [
+      "Robert Allen",
+      "Jack Perrin"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/reckless-ranger.html"
+}

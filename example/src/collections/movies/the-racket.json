@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Racket",
+    "year": 1951,
+    "cast": [
+      "Robert Mitchum",
+      "Robert Ryan",
+      "Lizabeth Scott",
+      "William Talman",
+      "Joyce MacKenzie"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-racket.html"
+}

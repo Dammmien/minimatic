@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Thirteen",
+    "year": 2003,
+    "cast": [
+      "Evan Rachel Wood",
+      "Holly Hunter",
+      "Nikki Reed"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/thirteen.html"
+}

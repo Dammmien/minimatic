@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Stolen Harmony",
+    "year": 1935,
+    "cast": [
+      "George Raft",
+      "Ben Bernie",
+      "Lloyd Nolan"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/stolen-harmony.html"
+}

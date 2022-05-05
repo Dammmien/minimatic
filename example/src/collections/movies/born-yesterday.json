@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Born Yesterday",
+    "year": 1993,
+    "cast": [
+      "Melanie Griffith",
+      "Don Johnson",
+      "John Goodman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/born-yesterday.html"
+}

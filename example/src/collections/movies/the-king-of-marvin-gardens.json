@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The King of Marvin Gardens",
+    "year": 1972,
+    "cast": [
+      "Jack Nicholson",
+      "Ellen Burstyn",
+      "Bruce Dern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-king-of-marvin-gardens.html"
+}

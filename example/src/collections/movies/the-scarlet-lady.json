@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Scarlet Lady",
+    "year": 1928,
+    "cast": [
+      "Lya de Putti",
+      "Don Alvarado"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-scarlet-lady.html"
+}

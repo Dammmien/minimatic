@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Road to Mandalay",
+    "year": 1926,
+    "cast": [
+      "Lon Chaney",
+      "Lois Moran",
+      "Owen Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-road-to-mandalay.html"
+}

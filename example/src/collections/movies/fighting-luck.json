@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting Luck",
+    "year": 1925,
+    "cast": [
+      "Bob Reeves",
+      "Lew Meehan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fighting-luck.html"
+}

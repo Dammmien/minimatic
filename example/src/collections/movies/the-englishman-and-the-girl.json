@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Englishman and the Girl",
+    "year": 1910,
+    "cast": [
+      "Charles Craig",
+      "Mary Pickford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-englishman-and-the-girl.html"
+}

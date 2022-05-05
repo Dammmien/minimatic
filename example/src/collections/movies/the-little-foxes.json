@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Little Foxes",
+    "year": 1941,
+    "cast": [
+      "Bette Davis",
+      "Herbert Marshall",
+      "Teresa Wright"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-little-foxes.html"
+}

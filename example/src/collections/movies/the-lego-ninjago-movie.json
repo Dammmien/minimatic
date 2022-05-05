@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "The Lego Ninjago Movie",
+    "year": 2017,
+    "cast": [
+      "Jackie Chan",
+      "Justin Theroux",
+      "Dave Franco",
+      "Olivia Munn",
+      "Michael Peña",
+      "Abbi Jacobson",
+      "Kumail Nanjiani",
+      "Zach Woods",
+      "Fred Armisen"
+    ],
+    "genres": [
+      "Animated",
+      "Action",
+      "Comedy",
+      "Martial Arts"
+    ]
+  },
+  "output": "movies/the-lego-ninjago-movie.html"
+}

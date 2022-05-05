@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Demon",
+    "year": 1925,
+    "cast": [
+      "Richard Talmadge",
+      "Lorraine Eason"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-fighting-demon.html"
+}

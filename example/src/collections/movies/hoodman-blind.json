@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hoodman Blind",
+    "year": 1923,
+    "cast": [
+      "David Butler",
+      "Gladys Hulette"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hoodman-blind.html"
+}

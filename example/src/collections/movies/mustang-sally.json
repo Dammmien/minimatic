@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mustang Sally",
+    "year": 2006,
+    "cast": [
+      "Elizabeth Daily",
+      "Mark Anthony Parrish"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/mustang-sally.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder in Mississippi",
+    "year": 1990,
+    "cast": [
+      "Tom Hulce",
+      "Blair Underwood"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/murder-in-mississippi.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No Down Payment",
+    "year": 1957,
+    "cast": [
+      "Joanne Woodward",
+      "Sheree North"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/no-down-payment.html"
+}

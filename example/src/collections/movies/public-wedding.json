@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Public Wedding",
+    "year": 1937,
+    "cast": [
+      "Jane Wyman",
+      "Dick Purcell",
+      "Marie Wilson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/public-wedding.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Troubles of a Bride",
+    "year": 1924,
+    "cast": [
+      "Robert Agnew",
+      "Mildred June"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/troubles-of-a-bride.html"
+}

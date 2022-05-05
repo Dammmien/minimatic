@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "It's Love I'm After",
+    "year": 1937,
+    "cast": [
+      "Bette Davis",
+      "Olivia de Havilland",
+      "Leslie Howard"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-love-i-m-after.html"
+}

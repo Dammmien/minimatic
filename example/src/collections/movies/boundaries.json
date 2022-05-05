@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Boundaries",
+    "year": 2018,
+    "cast": [
+      "Vera Farmiga",
+      "Christopher Plummer",
+      "Lewis MacDougall",
+      "Bobby Cannavale",
+      "Kristen Schaal"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/boundaries.html"
+}

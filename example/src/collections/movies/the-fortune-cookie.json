@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fortune Cookie",
+    "year": 1966,
+    "cast": [
+      "Walter Matthau",
+      "Jack Lemmon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fortune-cookie.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Heaven Only Knows",
+    "year": 1947,
+    "cast": [
+      "Robert Cummings",
+      "Brian Donlevy",
+      "Marjorie Reynolds"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/heaven-only-knows.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Muck",
+    "year": 2015,
+    "cast": [
+      "Kane Hodder",
+      "Jaclyn Swedberg",
+      "Lachlan Buchanan",
+      "Bryce Draper"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/muck.html"
+}

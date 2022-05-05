@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spellcaster",
+    "year": 1988,
+    "cast": [
+      "Adam Ant",
+      "Gail O'Grady"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/spellcaster.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Great Balls of Fire!",
+    "year": 1989,
+    "cast": [
+      "Dennis Quaid",
+      "Winona Ryder",
+      "John Doe",
+      "Alec Baldwin"
+    ],
+    "genres": [
+      "Comedy",
+      "Biography"
+    ]
+  },
+  "output": "movies/great-balls-of-fire-.html"
+}

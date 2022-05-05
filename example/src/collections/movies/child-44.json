@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Child 44",
+    "year": 2015,
+    "cast": [
+      "Tom Hardy",
+      "Noomi Rapace",
+      "Joel Kinnaman",
+      "Gary Oldman"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/child-44.html"
+}

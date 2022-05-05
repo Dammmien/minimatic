@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fright",
+    "year": 1971,
+    "cast": [
+      "Honor Blackman",
+      "Susan George"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/fright.html"
+}

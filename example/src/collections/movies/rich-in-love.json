@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rich in Love",
+    "year": 1993,
+    "cast": [
+      "Albert Finney",
+      "Jill Clayburgh",
+      "Kyle MacLachlan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rich-in-love.html"
+}

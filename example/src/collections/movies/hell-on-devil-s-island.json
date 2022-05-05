@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hell on Devil's Island",
+    "year": 1957,
+    "cast": [
+      "William Talman",
+      "Helmut Dantine",
+      "Donna Martell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hell-on-devil-s-island.html"
+}

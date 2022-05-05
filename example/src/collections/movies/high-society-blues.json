@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "High Society Blues",
+    "year": 1930,
+    "cast": [
+      "Janet Gaynor",
+      "Charles Farrell",
+      "Hedda Hopper"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/high-society-blues.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shake, Rattle & Rock!",
+    "year": 1956,
+    "cast": [
+      "Mike Connors",
+      "Lisa Gaye"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/shake--rattle---rock-.html"
+}

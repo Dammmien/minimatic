@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mark of the Renegade",
+    "year": 1951,
+    "cast": [
+      "Ricardo Montalban",
+      "Cyd Charisse",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-mark-of-the-renegade.html"
+}

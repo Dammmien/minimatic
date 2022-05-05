@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting Youth",
+    "year": 1935,
+    "cast": [
+      "Charles Farrell",
+      "June Martel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fighting-youth.html"
+}

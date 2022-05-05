@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman on the Jury",
+    "year": 1924,
+    "cast": [
+      "Sylvia Breamer",
+      "Frank Mayo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woman-on-the-jury.html"
+}

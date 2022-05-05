@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Like Father Like Son",
+    "year": 1987,
+    "cast": [
+      "Kirk Cameron",
+      "Dudley Moore",
+      "Sean Astin",
+      "Catherine Hicks",
+      "Margaret Colin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/like-father-like-son.html"
+}

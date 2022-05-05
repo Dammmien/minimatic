@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Joe Versus the Volcano",
+    "year": 1990,
+    "cast": [
+      "Tom Hanks",
+      "Meg Ryan",
+      "Lloyd Bridges",
+      "Robert Stack",
+      "Ossie Davis"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/joe-versus-the-volcano.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Tom and Chérie",
+    "year": 1955,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/tom-and-ch-rie.html"
+}

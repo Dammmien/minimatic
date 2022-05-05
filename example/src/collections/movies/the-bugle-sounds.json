@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bugle Sounds",
+    "year": 1942,
+    "cast": [
+      "Wallace Beery",
+      "Marjorie Main",
+      "Donna Reed"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-bugle-sounds.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Breathe In",
+    "year": 2013,
+    "cast": [
+      "Guy Pearce",
+      "Felicity Jones",
+      "Amy Ryan",
+      "Kyle MacLachlan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/breathe-in.html"
+}

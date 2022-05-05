@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Contract",
+    "year": 2006,
+    "cast": [
+      "Morgan Freeman",
+      "John Cusack"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-contract.html"
+}

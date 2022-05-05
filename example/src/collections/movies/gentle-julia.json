@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gentle Julia",
+    "year": 1936,
+    "cast": [
+      "Jane Withers",
+      "Tom Brown",
+      "Marsha Hunt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gentle-julia.html"
+}

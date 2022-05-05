@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tarzan's Fight for Life",
+    "year": 1958,
+    "cast": [
+      "Gordon Scott",
+      "Eve Brent"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-s-fight-for-life.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Walk on the Wild Side",
+    "year": 1962,
+    "cast": [
+      "Jane Fonda",
+      "Barbara Stanwyck",
+      "Laurence Harvey",
+      "Capucine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/walk-on-the-wild-side.html"
+}

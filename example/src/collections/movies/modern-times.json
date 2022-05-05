@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Modern Times",
+    "year": 1936,
+    "cast": [
+      "Charles Chaplin",
+      "Paulette Goddard"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/modern-times.html"
+}

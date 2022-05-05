@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The King and I",
+    "year": 1999,
+    "cast": [
+      "Miranda Richardson",
+      "Martin Vidnovic",
+      "Ian Richardson"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-king-and-i.html"
+}

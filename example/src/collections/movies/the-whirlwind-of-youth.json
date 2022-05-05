@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Whirlwind of Youth",
+    "year": 1927,
+    "cast": [
+      "Lois Moran",
+      "Vera Veronina"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-whirlwind-of-youth.html"
+}

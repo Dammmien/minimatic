@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Battle of the Year",
+    "year": 2013,
+    "cast": [
+      "Josh Holloway",
+      "Laz Alonso",
+      "Josh Peck",
+      "Caity Lotz",
+      "Chris Brown"
+    ],
+    "genres": [
+      "Dance",
+      "Drama"
+    ]
+  },
+  "output": "movies/battle-of-the-year.html"
+}

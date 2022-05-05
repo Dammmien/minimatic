@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Guinevere",
+    "year": 1999,
+    "cast": [
+      "Stephen Rea",
+      "Sarah Polley",
+      "Gina Gershon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/guinevere.html"
+}

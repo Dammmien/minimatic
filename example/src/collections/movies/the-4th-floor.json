@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The 4th Floor",
+    "year": 1999,
+    "cast": [
+      "Juliette Lewis",
+      "William Hurt",
+      "Shelley Duvall"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-4th-floor.html"
+}

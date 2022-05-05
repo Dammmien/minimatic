@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Risen",
+    "year": 2016,
+    "cast": [
+      "Joseph Fiennes",
+      "Tom Felton"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/risen.html"
+}

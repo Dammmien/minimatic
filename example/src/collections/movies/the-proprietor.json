@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Proprietor",
+    "year": 1996,
+    "cast": [
+      "Jeanne Moreau",
+      "Sean Young"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-proprietor.html"
+}

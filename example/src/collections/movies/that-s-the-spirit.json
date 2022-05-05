@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That's the Spirit",
+    "year": 1945,
+    "cast": [
+      "Peggy Ryan",
+      "Jack Oakie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-s-the-spirit.html"
+}

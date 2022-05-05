@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Holiday Rhythm",
+    "year": 1950,
+    "cast": [
+      "Mary Beth Hughes",
+      "Tex Ritter"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/holiday-rhythm.html"
+}

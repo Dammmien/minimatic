@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Friend Flicka",
+    "year": 1943,
+    "cast": [
+      "Roddy McDowall",
+      "Preston Foster",
+      "Rita Johnson"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/my-friend-flicka.html"
+}

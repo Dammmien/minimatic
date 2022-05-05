@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "An Adventure in Hearts",
+    "year": 1919,
+    "cast": [
+      "Robert Warwick",
+      "Helene Chadwick"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/an-adventure-in-hearts.html"
+}

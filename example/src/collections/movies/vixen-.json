@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Vixen!",
+    "year": 1968,
+    "cast": [
+      "Erica Gavin"
+    ],
+    "genres": []
+  },
+  "output": "movies/vixen-.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "X the Unknown",
+    "year": 1956,
+    "cast": [
+      "Dean Jagger",
+      "Edward Chapman"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/x-the-unknown.html"
+}

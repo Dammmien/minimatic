@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Firehouse",
+    "year": 1997,
+    "cast": [
+      "Richard Dean Anderson",
+      "Edie Falco"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/firehouse.html"
+}

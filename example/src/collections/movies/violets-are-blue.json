@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Violets Are Blue",
+    "year": 1986,
+    "cast": [
+      "Sissy Spacek",
+      "Kevin Kline",
+      "Bonnie Bedelia"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/violets-are-blue.html"
+}

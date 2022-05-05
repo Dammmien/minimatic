@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Sioux Uprising",
+    "year": 1953,
+    "cast": [
+      "Jeff Chandler",
+      "Faith Domergue",
+      "Lyle Bettger"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-great-sioux-uprising.html"
+}

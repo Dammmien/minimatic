@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Burning Up",
+    "year": 1930,
+    "cast": [
+      "Richard Arlen",
+      "Francis McDonald",
+      "Charles Sellon"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/burning-up.html"
+}

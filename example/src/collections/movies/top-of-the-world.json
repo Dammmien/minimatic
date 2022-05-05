@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Top of the World",
+    "year": 1997,
+    "cast": [
+      "Peter Weller",
+      "Dennis Hopper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/top-of-the-world.html"
+}

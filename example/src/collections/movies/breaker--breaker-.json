@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Breaker! Breaker!",
+    "year": 1977,
+    "cast": [
+      "Chuck Norris",
+      "George Murdock"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/breaker--breaker-.html"
+}

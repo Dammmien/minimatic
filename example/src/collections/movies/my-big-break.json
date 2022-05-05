@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "My Big Break",
+    "year": 2001,
+    "cast": [
+      "careers of",
+      "Wes Bentley",
+      "Tony Zierra",
+      "Brad Rowe",
+      "Chad Lindberg",
+      "Greg Fawcett"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/my-big-break.html"
+}

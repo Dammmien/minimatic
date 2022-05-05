@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Horror Island",
+    "year": 1941,
+    "cast": [
+      "Dick Foran",
+      "Peggy Moran"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/horror-island.html"
+}

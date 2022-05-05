@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Slither",
+    "year": 2006,
+    "cast": [
+      "Nathan Fillion",
+      "Elizabeth Banks",
+      "Michael Rooker"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/slither.html"
+}

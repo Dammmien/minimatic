@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Dennis the Menace Strikes Again",
+    "year": 1998,
+    "cast": [
+      "Justin Cooper",
+      "Don Rickles",
+      "Betty White",
+      "George Kennedy",
+      "Brian Doyle-Murray",
+      "Scott 'Carrot Top' Thompson"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/dennis-the-menace-strikes-again.html"
+}

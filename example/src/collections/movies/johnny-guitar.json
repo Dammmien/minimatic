@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Johnny Guitar",
+    "year": 1954,
+    "cast": [
+      "Joan Crawford",
+      "Sterling Hayden",
+      "Mercedes McCambridge",
+      "Ernest Borgnine",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/johnny-guitar.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fastest Gun Alive",
+    "year": 1956,
+    "cast": [
+      "Glenn Ford",
+      "Jeanne Crain",
+      "Broderick Crawford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fastest-gun-alive.html"
+}

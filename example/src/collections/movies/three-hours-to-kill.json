@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Hours to Kill",
+    "year": 1954,
+    "cast": [
+      "Dana Andrews",
+      "Donna Reed"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/three-hours-to-kill.html"
+}

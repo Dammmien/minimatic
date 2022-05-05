@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rockabilly Baby",
+    "year": 1957,
+    "cast": [
+      "Virginia Field",
+      "Douglas Kennedy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rockabilly-baby.html"
+}

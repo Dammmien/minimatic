@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Comin' Round the Mountain",
+    "year": 1951,
+    "cast": [
+      "Abbott and Costello",
+      "Dorothy Shay"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/comin--round-the-mountain.html"
+}

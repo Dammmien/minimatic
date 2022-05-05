@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Wheeler Dealers",
+    "year": 1963,
+    "cast": [
+      "James Garner",
+      "Lee Remick",
+      "Chill Wills",
+      "Jim Backus",
+      "Pat Crowley",
+      "Phil Harris",
+      "Louis Nye"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-wheeler-dealers.html"
+}

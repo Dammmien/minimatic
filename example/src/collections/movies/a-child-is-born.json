@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A Child Is Born",
+    "year": 1939,
+    "cast": [
+      "Geraldine Fitzgerald",
+      "Jeffrey Lynn",
+      "Gladys George",
+      "Gale Page",
+      "Spring Byington"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-child-is-born.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Star Packer",
+    "year": 1934,
+    "cast": [
+      "John Wayne",
+      "Gabby Hayes",
+      "Verna Hillie"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-star-packer.html"
+}

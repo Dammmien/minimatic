@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Addams Family Reunion",
+    "year": 1998,
+    "cast": [
+      "Tim Curry",
+      "Daryl Hannah"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/addams-family-reunion.html"
+}

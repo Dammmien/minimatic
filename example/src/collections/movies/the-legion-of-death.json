@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Legion of Death",
+    "year": 1918,
+    "cast": [
+      "Edith Storey",
+      "Philo McCullough"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-legion-of-death.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hit Parade of 1947",
+    "year": 1947,
+    "cast": [
+      "Eddie Albert",
+      "Constance Moore"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hit-parade-of-1947.html"
+}

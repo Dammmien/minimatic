@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Primeval",
+    "year": 2007,
+    "cast": [
+      "Dominic Purcell",
+      "Orlando Jones"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/primeval.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Submarine D-1",
+    "year": 1937,
+    "cast": [
+      "Pat O'Brien",
+      "George Brent",
+      "Wayne Morris"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/submarine-d-1.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Joker Is Wild",
+    "year": 1957,
+    "cast": [
+      "Frank Sinatra",
+      "Mitzi Gaynor",
+      "Jeanne Crain"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-joker-is-wild.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Noise in Newboro",
+    "year": 1923,
+    "cast": [
+      "Viola Dana",
+      "David Butler",
+      "Eva Novak"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-noise-in-newboro.html"
+}

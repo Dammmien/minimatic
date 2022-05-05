@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Amazing Grace",
+    "year": 2006,
+    "cast": [
+      "Ioan Gruffudd"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/amazing-grace.html"
+}

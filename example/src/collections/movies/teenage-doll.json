@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Teenage Doll",
+    "year": 1957,
+    "cast": [
+      "June Kenney",
+      "Fay Spain"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/teenage-doll.html"
+}

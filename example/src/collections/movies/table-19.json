@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Table 19",
+    "year": 2017,
+    "cast": [
+      "Anna Kendrick",
+      "Amanda Crew",
+      "Stephen Merchant",
+      "Lisa Kudrow",
+      "Wyatt Russell",
+      "Craig Robinson",
+      "Tony Revolori",
+      "June Squibb"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/table-19.html"
+}

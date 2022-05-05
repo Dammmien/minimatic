@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Baggage Claim",
+    "year": 2013,
+    "cast": [
+      "Paula Patton",
+      "Derek Luke",
+      "Taye Diggs",
+      "Jill Scott",
+      "Boris Kodjoe",
+      "Trey Songz",
+      "Adam Brody",
+      "Tia Mowry",
+      "La La Anthony",
+      "Djimon Hounsou"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/baggage-claim.html"
+}

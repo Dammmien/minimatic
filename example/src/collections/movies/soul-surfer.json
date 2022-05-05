@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Soul Surfer",
+    "year": 2011,
+    "cast": [
+      "AnnaSophia Robb",
+      "Helen Hunt",
+      "Lorraine Nicholson",
+      "Dennis Quaid",
+      "Carrie Underwood"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/soul-surfer.html"
+}

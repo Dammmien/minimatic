@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Reluctant Saint",
+    "year": 1962,
+    "cast": [
+      "Maximilian Schell",
+      "Ricardo Montalbán"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-reluctant-saint.html"
+}

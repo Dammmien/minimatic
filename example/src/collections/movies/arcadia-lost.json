@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Arcadia Lost",
+    "year": 2009,
+    "cast": [
+      "Nick Nolte",
+      "Haley Bennett",
+      "Carter Jenkins",
+      "Dato Bakhtadze",
+      "Lachlan Buchanan",
+      "James Ivory"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/arcadia-lost.html"
+}

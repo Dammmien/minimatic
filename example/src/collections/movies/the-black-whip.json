@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Black Whip",
+    "year": 1956,
+    "cast": [
+      "Hugh Marlowe",
+      "Coleen Gray",
+      "Adele Mara",
+      "Angie Dickinson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-black-whip.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Johnny Concho",
+    "year": 1956,
+    "cast": [
+      "Frank Sinatra",
+      "Phyllis Kirk"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/johnny-concho.html"
+}

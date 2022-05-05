@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "It Happened In Athens",
+    "year": 1962,
+    "cast": [
+      "Jayne Mansfield"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-happened-in-athens.html"
+}

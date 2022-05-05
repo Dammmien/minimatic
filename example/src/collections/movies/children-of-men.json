@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Children of Men",
+    "year": 2006,
+    "cast": [
+      "Clive Owen",
+      "Julianne Moore"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/children-of-men.html"
+}

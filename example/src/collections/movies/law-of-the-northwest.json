@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Law of the Northwest",
+    "year": 1943,
+    "cast": [
+      "Charles Starrett",
+      "Shirley Patterson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/law-of-the-northwest.html"
+}

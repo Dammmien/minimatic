@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Phffft!",
+    "year": 1954,
+    "cast": [
+      "Judy Holliday",
+      "Jack Lemmon",
+      "Jack Carson"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/phffft-.html"
+}

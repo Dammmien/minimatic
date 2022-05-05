@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Werewolf of Woodstock",
+    "year": 1975,
+    "cast": [
+      "Tige Andrews",
+      "Michael Parks"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-werewolf-of-woodstock.html"
+}

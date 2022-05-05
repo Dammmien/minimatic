@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Price of Innocence",
+    "year": 1919,
+    "cast": [
+      "Anders Randolf",
+      "Margaret Campbell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-price-of-innocence.html"
+}

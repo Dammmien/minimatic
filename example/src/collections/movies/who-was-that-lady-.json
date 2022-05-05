@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Who Was That Lady?",
+    "year": 1960,
+    "cast": [
+      "Dean Martin",
+      "Tony Curtis",
+      "Janet Leigh"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/who-was-that-lady-.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Court House Crooks",
+    "year": 1915,
+    "cast": [
+      "Ford Sterling",
+      "Charles Arling"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/court-house-crooks.html"
+}

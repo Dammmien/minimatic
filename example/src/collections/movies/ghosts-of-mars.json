@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ghosts of Mars",
+    "year": 2001,
+    "cast": [
+      "Ice Cube",
+      "Natasha Henstridge",
+      "Joanna Cassidy"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/ghosts-of-mars.html"
+}

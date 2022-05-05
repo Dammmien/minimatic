@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Aspen Extreme",
+    "year": 1993,
+    "cast": [
+      "Paul Gross",
+      "Peter Berg",
+      "Finola Hughes",
+      "Teri Polo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/aspen-extreme.html"
+}

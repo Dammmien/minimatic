@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Strike Me Pink",
+    "year": 1936,
+    "cast": [
+      "Eddie Cantor",
+      "Ethel Merman"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/strike-me-pink.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Reign Over Me",
+    "year": 2007,
+    "cast": [
+      "Adam Sandler",
+      "Don Cheadle",
+      "Liv Tyler"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/reign-over-me.html"
+}

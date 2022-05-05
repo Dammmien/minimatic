@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Comedian",
+    "year": 2002,
+    "cast": [
+      "the",
+      "stand-up comedy",
+      "of",
+      "Jerry Seinfeld"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/comedian.html"
+}

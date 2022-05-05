@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "My Girl 2",
+    "year": 1994,
+    "cast": [
+      "Anna Chlumsky",
+      "Dan Aykroyd",
+      "Jamie Lee Curtis",
+      "Austin O'Brien"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-girl-2.html"
+}

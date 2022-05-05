@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Black Marble",
+    "year": 1980,
+    "cast": [
+      "Robert Foxworth",
+      "Paula Prentiss",
+      "Harry Dean Stanton"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-black-marble.html"
+}

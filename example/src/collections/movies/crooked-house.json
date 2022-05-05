@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Crooked House",
+    "year": 2017,
+    "cast": [
+      "Max Irons",
+      "Glenn Close",
+      "Gillian Anderson",
+      "Christina Hendricks",
+      "Terence Stamp"
+    ],
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/crooked-house.html"
+}

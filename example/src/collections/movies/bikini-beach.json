@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bikini Beach",
+    "year": 1964,
+    "cast": [
+      "Frankie Avalon",
+      "Annette Funicello",
+      "Martha Hyer",
+      "Don Rickles"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bikini-beach.html"
+}

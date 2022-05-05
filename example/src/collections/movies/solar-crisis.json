@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Solar Crisis",
+    "year": 1990,
+    "cast": [
+      "Tim Matheson",
+      "Charlton Heston",
+      "Peter Boyle"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/solar-crisis.html"
+}

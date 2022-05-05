@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Action",
+    "year": 1921,
+    "cast": [
+      "Hoot Gibson",
+      "Francis Ford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/action.html"
+}

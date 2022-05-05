@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Four Jills in a Jeep",
+    "year": 1944,
+    "cast": [
+      "Kay Francis",
+      "Carole Landis",
+      "Martha Raye"
+    ],
+    "genres": [
+      "War",
+      "Musical"
+    ]
+  },
+  "output": "movies/four-jills-in-a-jeep.html"
+}

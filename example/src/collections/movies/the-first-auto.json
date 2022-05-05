@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The First Auto",
+    "year": 1927,
+    "cast": [
+      "Russell Simpson",
+      "Charles Emmett Mack"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-first-auto.html"
+}

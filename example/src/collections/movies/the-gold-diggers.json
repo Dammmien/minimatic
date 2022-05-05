@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gold Diggers",
+    "year": 1923,
+    "cast": [
+      "Hope Hampton",
+      "Wyndham Standing",
+      "Louise Fazenda"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-gold-diggers.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Main Street",
+    "year": 1923,
+    "cast": [
+      "Florence Vidor",
+      "Monte Blue",
+      "Louise Fazenda"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/main-street.html"
+}

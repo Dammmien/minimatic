@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "From Laramie to London",
+    "year": 1917,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/from-laramie-to-london.html"
+}

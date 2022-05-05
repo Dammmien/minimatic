@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Knockout",
+    "year": 1925,
+    "cast": [
+      "Milton Sills",
+      "Harry Cording"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/the-knockout.html"
+}

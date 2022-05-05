@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Guilty or Not Guilty",
+    "year": 1932,
+    "cast": [
+      "Betty Compson",
+      "Claudia Dell"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/guilty-or-not-guilty.html"
+}

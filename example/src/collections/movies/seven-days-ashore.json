@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Seven Days Ashore",
+    "year": 1944,
+    "cast": [
+      "Marcy McGuire",
+      "Virginia Mayo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/seven-days-ashore.html"
+}

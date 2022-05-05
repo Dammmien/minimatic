@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Spare Parts",
+    "year": 2015,
+    "cast": [
+      "George Lopez",
+      "Jamie Lee Curtis",
+      "Carlos PenaVega",
+      "Esai Morales"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/spare-parts.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Yellow Stain",
+    "year": 1922,
+    "cast": [
+      "John Gilbert",
+      "Claire Anderson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-yellow-stain.html"
+}

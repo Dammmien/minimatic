@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Last of the Pony Riders",
+    "year": 1953,
+    "cast": [
+      "Gene Autry",
+      "Kathleen Case"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/last-of-the-pony-riders.html"
+}

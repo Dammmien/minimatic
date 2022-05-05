@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Is That Nice?",
+    "year": 1926,
+    "cast": [
+      "George O'Hara",
+      "Doris Hill"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/is-that-nice-.html"
+}

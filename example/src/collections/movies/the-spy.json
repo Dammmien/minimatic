@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Spy",
+    "year": 1931,
+    "cast": [
+      "Kay Johnson",
+      "Neil Hamilton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-spy.html"
+}

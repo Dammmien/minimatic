@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Bianca",
+    "year": 1913,
+    "cast": [
+      "George Cooper"
+    ],
+    "genres": []
+  },
+  "output": "movies/bianca.html"
+}

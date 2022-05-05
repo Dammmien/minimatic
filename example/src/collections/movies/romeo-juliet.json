@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Romeo-Juliet",
+    "year": 1990,
+    "cast": [
+      "John Hurt",
+      "Vanessa Redgrave"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/romeo-juliet.html"
+}

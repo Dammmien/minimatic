@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Any Wednesday",
+    "year": 1966,
+    "cast": [
+      "Jane Fonda",
+      "Jason Robards"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/any-wednesday.html"
+}

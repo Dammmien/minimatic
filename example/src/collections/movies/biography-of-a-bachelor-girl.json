@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Biography of a Bachelor Girl",
+    "year": 1935,
+    "cast": [
+      "Ann Harding",
+      "Robert Montgomery",
+      "Edward Arnold"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/biography-of-a-bachelor-girl.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mad Dog Coll",
+    "year": 1961,
+    "cast": [
+      "John Davis Chandler",
+      "Kay Doubleday",
+      "Jerry Orbach"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/mad-dog-coll.html"
+}

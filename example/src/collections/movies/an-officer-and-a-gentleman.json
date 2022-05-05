@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "An Officer and a Gentleman",
+    "year": 1982,
+    "cast": [
+      "Richard Gere",
+      "Louis Gossett, Jr.",
+      "Debra Winger",
+      "David Keith",
+      "Lisa Blount"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/an-officer-and-a-gentleman.html"
+}

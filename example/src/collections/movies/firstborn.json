@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Firstborn",
+    "year": 1984,
+    "cast": [
+      "Teri Garr",
+      "Peter Weller",
+      "Corey Haim"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/firstborn.html"
+}

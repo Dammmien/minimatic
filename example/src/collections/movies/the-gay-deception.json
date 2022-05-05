@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gay Deception",
+    "year": 1935,
+    "cast": [
+      "Francis Lederer",
+      "Frances Dee"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-gay-deception.html"
+}

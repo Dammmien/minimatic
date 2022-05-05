@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Hour with You",
+    "year": 1932,
+    "cast": [
+      "Jeanette MacDonald",
+      "Maurice Chevalier",
+      "Genevieve Tobin"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/one-hour-with-you.html"
+}

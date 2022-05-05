@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Where the West Begins",
+    "year": 1938,
+    "cast": [
+      "Jack Randall",
+      "Fuzzy Knight",
+      "Luana Walters"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/where-the-west-begins.html"
+}

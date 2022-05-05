@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Ironweed",
+    "year": 1987,
+    "cast": [
+      "Jack Nicholson",
+      "Meryl Streep",
+      "Tom Waits",
+      "Fred Gwynne",
+      "Michael O'Keefe",
+      "Carroll Baker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ironweed.html"
+}

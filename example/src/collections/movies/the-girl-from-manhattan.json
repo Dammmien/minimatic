@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Girl from Manhattan",
+    "year": 1948,
+    "cast": [
+      "Dorothy Lamour",
+      "George Montgomery",
+      "Charles Laughton"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-girl-from-manhattan.html"
+}

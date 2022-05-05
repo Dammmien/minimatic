@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Man Who Invented Christmas",
+    "year": 2017,
+    "cast": [
+      "Dan Stevens",
+      "Christopher Plummer",
+      "Jonathan Pryce"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-who-invented-christmas.html"
+}

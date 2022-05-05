@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Thoroughbreds",
+    "year": 2018,
+    "cast": [
+      "Olivia Cooke",
+      "Anya Taylor-Joy",
+      "Anton Yelchin",
+      "Paul Sparks",
+      "Francie Swift"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/thoroughbreds.html"
+}

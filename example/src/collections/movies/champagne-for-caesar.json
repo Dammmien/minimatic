@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Champagne for Caesar",
+    "year": 1950,
+    "cast": [
+      "Ronald Colman",
+      "Celeste Holm",
+      "Art Linkletter",
+      "Vincent Price",
+      "Barbara Britton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/champagne-for-caesar.html"
+}

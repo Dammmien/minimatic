@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Flaming Forties",
+    "year": 1924,
+    "cast": [
+      "Harry Carey",
+      "Jacqueline Gadsden"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-flaming-forties.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "King of the Wild Horses",
+    "year": 1947,
+    "cast": [
+      "Preston Foster",
+      "Gail Patrick"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/king-of-the-wild-horses.html"
+}

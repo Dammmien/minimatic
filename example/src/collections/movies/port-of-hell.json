@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Port of Hell",
+    "year": 1954,
+    "cast": [
+      "Dane Clark",
+      "Carole Mathews"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/port-of-hell.html"
+}

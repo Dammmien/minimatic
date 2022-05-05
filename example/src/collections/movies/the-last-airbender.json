@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "The Last Airbender",
+    "year": 2010,
+    "cast": [
+      "Noah Ringer",
+      "Nicola Peltz",
+      "Jackson Rathbone",
+      "Dev Patel",
+      "Shaun Toub",
+      "Aasif Mandvi",
+      "Cliff Curtis",
+      "Jessica Andres",
+      "Katharine Houghton",
+      "Seychelle Gabriel"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Family"
+    ]
+  },
+  "output": "movies/the-last-airbender.html"
+}

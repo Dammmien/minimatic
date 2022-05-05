@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mugger",
+    "year": 1958,
+    "cast": [
+      "Kent Smith",
+      "Nan Martin",
+      "James Franciscus"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mugger.html"
+}

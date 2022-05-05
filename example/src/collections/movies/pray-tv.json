@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pray TV",
+    "year": 1980,
+    "cast": [
+      "Rosemary Alexander",
+      "Dabney Coleman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pray-tv.html"
+}

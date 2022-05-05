@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Dixie Handicap",
+    "year": 1924,
+    "cast": [
+      "Claire Windsor",
+      "Lloyd Hughes"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-dixie-handicap.html"
+}

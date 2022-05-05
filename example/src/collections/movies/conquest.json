@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Conquest",
+    "year": 1937,
+    "cast": [
+      "Greta Garbo",
+      "Charles Boyer",
+      "Dame May Whitty"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/conquest.html"
+}

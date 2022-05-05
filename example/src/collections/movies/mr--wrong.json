@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Mr. Wrong",
+    "year": 1996,
+    "cast": [
+      "Ellen DeGeneres",
+      "Bill Pullman",
+      "Dean Stockwell",
+      "Joan Cusack",
+      "Joan Plowright"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--wrong.html"
+}

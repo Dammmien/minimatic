@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Catman of Paris",
+    "year": 1946,
+    "cast": [
+      "Carl Esmond",
+      "Lenore Aubert",
+      "Adele Mara"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-catman-of-paris.html"
+}

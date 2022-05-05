@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Home in Wyomin'",
+    "year": 1942,
+    "cast": [
+      "Gene Autry",
+      "Fay McKenzie"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/home-in-wyomin-.html"
+}

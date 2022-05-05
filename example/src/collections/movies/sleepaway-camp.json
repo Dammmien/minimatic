@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sleepaway Camp",
+    "year": 1983,
+    "cast": [
+      "Felissa Rose",
+      "Jonathan Tiersten"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/sleepaway-camp.html"
+}

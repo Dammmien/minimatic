@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Custer of the West",
+    "year": 1967,
+    "cast": [
+      "Robert Shaw",
+      "Jeffrey Hunter",
+      "Mary Ure",
+      "Ty Hardin"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/custer-of-the-west.html"
+}

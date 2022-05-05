@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sons of the Saddle",
+    "year": 1930,
+    "cast": [
+      "Ken Maynard",
+      "Doris Hill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sons-of-the-saddle.html"
+}

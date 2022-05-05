@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "You Can't Fool Your Wife",
+    "year": 1940,
+    "cast": [
+      "Lucille Ball",
+      "James Ellison"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-can-t-fool-your-wife.html"
+}

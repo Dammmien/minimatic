@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sky Dragon",
+    "year": 1949,
+    "cast": [
+      "Roland Winters",
+      "Noel Neill"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/sky-dragon.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "American Manners",
+    "year": 1924,
+    "cast": [
+      "Richard Talmadge",
+      "Mark Fenton"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/american-manners.html"
+}

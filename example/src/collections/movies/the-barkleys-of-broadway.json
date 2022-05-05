@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Barkleys of Broadway",
+    "year": 1949,
+    "cast": [
+      "Fred Astaire",
+      "Ginger Rogers"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-barkleys-of-broadway.html"
+}

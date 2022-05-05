@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Bird in the Head",
+    "year": 1946,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/a-bird-in-the-head.html"
+}

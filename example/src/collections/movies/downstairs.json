@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Downstairs",
+    "year": 1932,
+    "cast": [
+      "John Gilbert",
+      "Paul Lukas",
+      "Hedda Hopper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/downstairs.html"
+}

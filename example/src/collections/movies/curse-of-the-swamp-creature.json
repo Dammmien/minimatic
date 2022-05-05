@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Curse of the Swamp Creature",
+    "year": 1966,
+    "cast": [
+      "John Agar",
+      "Francine York"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/curse-of-the-swamp-creature.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Reckless Moment",
+    "year": 1949,
+    "cast": [
+      "James Mason",
+      "Joan Bennett",
+      "Geraldine Brooks"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-reckless-moment.html"
+}

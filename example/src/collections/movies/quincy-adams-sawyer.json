@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Quincy Adams Sawyer",
+    "year": 1922,
+    "cast": [
+      "John Bowers",
+      "Blanche Sweet",
+      "Lon Chaney"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/quincy-adams-sawyer.html"
+}

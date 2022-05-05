@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "That Darn Cat!",
+    "year": 1965,
+    "cast": [
+      "Hayley Mills",
+      "Dean Jones",
+      "Dorothy Provine"
+    ],
+    "genres": [
+      "Family",
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-darn-cat-.html"
+}

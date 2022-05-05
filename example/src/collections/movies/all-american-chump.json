@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "All American Chump",
+    "year": 1936,
+    "cast": [
+      "Stuart Erwin",
+      "Betty Furness",
+      "Edmund Gwenn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/all-american-chump.html"
+}

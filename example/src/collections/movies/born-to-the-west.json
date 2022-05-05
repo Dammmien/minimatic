@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Born to the West",
+    "year": 1937,
+    "cast": [
+      "John Wayne",
+      "Marsha Hunt",
+      "Johnny Mack Brown"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/born-to-the-west.html"
+}

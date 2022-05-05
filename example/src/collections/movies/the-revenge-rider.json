@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Revenge Rider",
+    "year": 1935,
+    "cast": [
+      "Tim McCoy",
+      "Billie Seward"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-revenge-rider.html"
+}

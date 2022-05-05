@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Shadow of a Doubt",
+    "year": 1943,
+    "cast": [
+      "Teresa Wright",
+      "Joseph Cotten",
+      "Macdonald Carey",
+      "Hume Cronyn"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/shadow-of-a-doubt.html"
+}

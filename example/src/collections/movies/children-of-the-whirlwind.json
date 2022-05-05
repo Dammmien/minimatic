@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Children of the Whirlwind",
+    "year": 1925,
+    "cast": [
+      "Lionel Barrymore",
+      "Marguerite De La Motte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/children-of-the-whirlwind.html"
+}

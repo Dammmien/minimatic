@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Alibi",
+    "year": 2006,
+    "cast": [
+      "Steve Coogan",
+      "Rebecca Romijn",
+      "James Marsden"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-alibi.html"
+}

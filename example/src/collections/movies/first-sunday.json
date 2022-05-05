@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "First Sunday",
+    "year": 2008,
+    "cast": [
+      "Ice Cube",
+      "Katt Williams",
+      "Tracy Morgan"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/first-sunday.html"
+}

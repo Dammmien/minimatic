@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prince of Players",
+    "year": 1955,
+    "cast": [
+      "Richard Burton",
+      "John Derek"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/prince-of-players.html"
+}

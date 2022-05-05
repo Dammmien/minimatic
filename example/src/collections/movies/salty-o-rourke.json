@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Salty O'Rourke",
+    "year": 1945,
+    "cast": [
+      "Alan Ladd",
+      "Gail Russell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/salty-o-rourke.html"
+}

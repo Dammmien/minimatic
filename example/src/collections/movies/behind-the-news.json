@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Behind the News",
+    "year": 1940,
+    "cast": [
+      "Lloyd Nolan",
+      "Doris Davenport",
+      "Frank Albertson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/behind-the-news.html"
+}

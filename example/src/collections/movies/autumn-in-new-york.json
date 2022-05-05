@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Autumn in New York",
+    "year": 2000,
+    "cast": [
+      "Richard Gere",
+      "Winona Ryder"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/autumn-in-new-york.html"
+}

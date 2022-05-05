@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blood on the Moon",
+    "year": 1948,
+    "cast": [
+      "Robert Mitchum",
+      "Robert Preston",
+      "Barbara Bel Geddes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/blood-on-the-moon.html"
+}

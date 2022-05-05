@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Dog's Best Friend",
+    "year": 1959,
+    "cast": [
+      "Bill Williams",
+      "Marcia Henderson"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/a-dog-s-best-friend.html"
+}

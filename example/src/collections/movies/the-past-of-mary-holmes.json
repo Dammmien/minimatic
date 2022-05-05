@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Past of Mary Holmes",
+    "year": 1933,
+    "cast": [
+      "Eric Linden",
+      "Jean Arthur"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-past-of-mary-holmes.html"
+}

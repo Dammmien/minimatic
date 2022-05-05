@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "S1m0ne",
+    "year": 2002,
+    "cast": [
+      "Al Pacino",
+      "Catherine Keener",
+      "Rachel Roberts"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/s1m0ne.html"
+}

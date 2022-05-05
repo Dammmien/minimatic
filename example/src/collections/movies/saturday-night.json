@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Saturday Night",
+    "year": 1922,
+    "cast": [
+      "Leatrice Joy",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/saturday-night.html"
+}

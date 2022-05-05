@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Zachariah",
+    "year": 1971,
+    "cast": [
+      "John Rubinstein",
+      "Dick Van Patten",
+      "Don Johnson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/zachariah.html"
+}

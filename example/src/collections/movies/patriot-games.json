@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Patriot Games",
+    "year": 1992,
+    "cast": [
+      "Harrison Ford",
+      "Anne Archer",
+      "Sean Bean",
+      "Patrick Bergin",
+      "James Earl Jones",
+      "Polly Walker",
+      "Thora Birch",
+      "Richard Harris"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/patriot-games.html"
+}

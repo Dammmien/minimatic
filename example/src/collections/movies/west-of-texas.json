@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "West of Texas",
+    "year": 1943,
+    "cast": [
+      "Dave O'Brien",
+      "Guy Wilkerson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/west-of-texas.html"
+}

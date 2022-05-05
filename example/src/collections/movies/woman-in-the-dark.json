@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Woman in the Dark",
+    "year": 1952,
+    "cast": [
+      "Penny Edwards",
+      "Ross Elliott"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/woman-in-the-dark.html"
+}

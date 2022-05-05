@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Now and Forever",
+    "year": 1934,
+    "cast": [
+      "Gary Cooper",
+      "Carole Lombard",
+      "Shirley Temple"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/now-and-forever.html"
+}

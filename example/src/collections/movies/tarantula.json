@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tarantula",
+    "year": 1955,
+    "cast": [
+      "Leo G. Carroll",
+      "John Agar",
+      "Mara Corday"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/tarantula.html"
+}

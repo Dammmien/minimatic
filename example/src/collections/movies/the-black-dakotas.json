@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Black Dakotas",
+    "year": 1954,
+    "cast": [
+      "Wanda Hendrix",
+      "Gary Merrill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-black-dakotas.html"
+}

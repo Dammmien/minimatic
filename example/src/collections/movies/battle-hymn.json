@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Battle Hymn",
+    "year": 1957,
+    "cast": [
+      "Rock Hudson",
+      "Anna Kashfi",
+      "Dan Duryea"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/battle-hymn.html"
+}

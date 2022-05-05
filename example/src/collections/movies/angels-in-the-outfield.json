@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Angels in the Outfield",
+    "year": 1994,
+    "cast": [
+      "Danny Glover",
+      "Tony Danza",
+      "Christopher Lloyd",
+      "Joseph Gordon-Levitt",
+      "Brenda Fricker",
+      "Jay O. Sanders"
+    ],
+    "genres": [
+      "Comedy",
+      "Sports"
+    ]
+  },
+  "output": "movies/angels-in-the-outfield.html"
+}

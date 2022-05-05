@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sport of Kings",
+    "year": 1947,
+    "cast": [
+      "Paul Campbell",
+      "Gloria Henry"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/sport-of-kings.html"
+}

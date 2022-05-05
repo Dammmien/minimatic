@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Behave Yourself!",
+    "year": 1951,
+    "cast": [
+      "Farley Granger",
+      "Shelley Winters"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/behave-yourself-.html"
+}

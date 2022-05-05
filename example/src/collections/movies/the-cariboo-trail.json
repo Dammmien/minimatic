@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cariboo Trail",
+    "year": 1950,
+    "cast": [
+      "Randolph Scott",
+      "Karin Booth",
+      "George \"Gabby\" Hayes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-cariboo-trail.html"
+}

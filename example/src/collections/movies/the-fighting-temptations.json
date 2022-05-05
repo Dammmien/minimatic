@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fighting Temptations",
+    "year": 2003,
+    "cast": [
+      "Cuba Gooding, Jr.",
+      "Beyoncé Knowles"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fighting-temptations.html"
+}

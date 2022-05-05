@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Pride",
+    "year": 2007,
+    "cast": [
+      "Bernie Mac"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pride.html"
+}

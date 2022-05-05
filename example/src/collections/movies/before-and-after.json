@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Before and After",
+    "year": 1996,
+    "cast": [
+      "Meryl Streep",
+      "Liam Neeson",
+      "Edward Furlong"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/before-and-after.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Driftin' Kid",
+    "year": 1921,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-driftin--kid.html"
+}

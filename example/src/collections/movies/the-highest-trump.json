@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Highest Trump",
+    "year": 1919,
+    "cast": [
+      "Earle Williams",
+      "Grace Darmond"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-highest-trump.html"
+}

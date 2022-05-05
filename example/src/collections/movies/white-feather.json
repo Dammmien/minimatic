@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "White Feather",
+    "year": 1955,
+    "cast": [
+      "Robert Wagner",
+      "Debra Paget",
+      "John Lund",
+      "Jeffrey Hunter",
+      "Virginia Leith"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/white-feather.html"
+}

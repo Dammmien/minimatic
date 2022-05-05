@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "3,2,1... Frankie Go Boom",
+    "year": 2012,
+    "cast": [
+      "Charlie Hunnam",
+      "Chris O'Dowd",
+      "Lizzy Caplan",
+      "Nora Dunn",
+      "Whitney Cummings",
+      "Ron Perlman",
+      "Chris Noth"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/3-2-1----frankie-go-boom.html"
+}

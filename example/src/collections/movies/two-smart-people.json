@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two Smart People",
+    "year": 1946,
+    "cast": [
+      "Lucille Ball",
+      "John Hodiak",
+      "Lloyd Nolan"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/two-smart-people.html"
+}

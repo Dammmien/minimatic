@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "House Arrest",
+    "year": 1996,
+    "cast": [
+      "Jamie Lee Curtis",
+      "Kevin Pollak",
+      "Jennifer Tilly",
+      "Christopher McDonald",
+      "Jennifer Love Hewitt",
+      "Ray Walston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/house-arrest.html"
+}

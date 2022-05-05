@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "There's Always Tomorrow",
+    "year": 1956,
+    "cast": [
+      "Barbara Stanwyck",
+      "Fred MacMurray",
+      "Joan Bennett",
+      "Patricia Crowley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/there-s-always-tomorrow.html"
+}

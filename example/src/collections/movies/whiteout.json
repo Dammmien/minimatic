@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Whiteout",
+    "year": 2009,
+    "cast": [
+      "Kate Beckinsale",
+      "Gabriel Macht",
+      "Alex O'Loughlin",
+      "Columbus Short",
+      "Tom Skerritt"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/whiteout.html"
+}

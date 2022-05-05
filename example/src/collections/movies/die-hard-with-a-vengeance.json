@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Die Hard with a Vengeance",
+    "year": 1995,
+    "cast": [
+      "Bruce Willis",
+      "Jeremy Irons",
+      "Samuel L. Jackson"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/die-hard-with-a-vengeance.html"
+}

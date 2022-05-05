@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Good Day for a Hanging",
+    "year": 1959,
+    "cast": [
+      "Fred MacMurray",
+      "Margaret Hayes",
+      "Robert Vaughn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/good-day-for-a-hanging.html"
+}

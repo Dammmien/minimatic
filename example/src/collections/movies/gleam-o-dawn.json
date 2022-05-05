@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gleam o'Dawn",
+    "year": 1922,
+    "cast": [
+      "John Gilbert",
+      "Barbara Bedford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gleam-o-dawn.html"
+}

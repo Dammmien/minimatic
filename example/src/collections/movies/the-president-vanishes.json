@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The President Vanishes",
+    "year": 1934,
+    "cast": [
+      "Edward Arnold",
+      "Arthur Byron"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-president-vanishes.html"
+}

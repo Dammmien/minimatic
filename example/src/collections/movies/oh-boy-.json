@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Oh Boy!",
+    "year": 1919,
+    "cast": [
+      "June Caprice",
+      "Creighton Hale",
+      "Zena Keefe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/oh-boy-.html"
+}

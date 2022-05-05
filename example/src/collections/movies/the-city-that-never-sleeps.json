@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The City That Never Sleeps",
+    "year": 1924,
+    "cast": [
+      "Louise Dresser",
+      "Ricardo Cortez"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-city-that-never-sleeps.html"
+}

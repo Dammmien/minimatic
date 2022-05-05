@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paris Model",
+    "year": 1953,
+    "cast": [
+      "Paulette Goddard",
+      "Marilyn Maxwell",
+      "Eva Gabor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/paris-model.html"
+}

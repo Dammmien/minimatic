@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Early to Bed",
+    "year": 1936,
+    "cast": [
+      "Charles Ruggles",
+      "Mary Boland",
+      "Lucien Littlefield"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/early-to-bed.html"
+}

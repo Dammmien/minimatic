@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Lost World",
+    "year": 1960,
+    "cast": [
+      "Michael Rennie",
+      "Jill St. John",
+      "David Hedison",
+      "Fernando Lamas",
+      "Claude Rains"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-lost-world.html"
+}

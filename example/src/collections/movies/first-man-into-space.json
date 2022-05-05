@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "First Man into Space",
+    "year": 1959,
+    "cast": [
+      "Marshall Thompson",
+      "Marla Landi"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/first-man-into-space.html"
+}

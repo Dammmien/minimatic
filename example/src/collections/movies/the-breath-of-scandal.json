@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Breath of Scandal",
+    "year": 1924,
+    "cast": [
+      "Betty Blythe",
+      "Patsy Ruth Miller",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-breath-of-scandal.html"
+}

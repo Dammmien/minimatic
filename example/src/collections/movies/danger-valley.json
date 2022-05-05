@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Danger Valley",
+    "year": 1937,
+    "cast": [
+      "Addison Randall",
+      "Lois Wilde"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/danger-valley.html"
+}

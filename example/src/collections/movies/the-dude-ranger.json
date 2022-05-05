@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dude Ranger",
+    "year": 1934,
+    "cast": [
+      "George O'Brien",
+      "Irene Hervey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-dude-ranger.html"
+}

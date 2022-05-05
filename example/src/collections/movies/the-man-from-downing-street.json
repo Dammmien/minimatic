@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man from Downing Street",
+    "year": 1922,
+    "cast": [
+      "Earle Williams",
+      "Boris Karloff",
+      "Betty Ross Clarke"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-man-from-downing-street.html"
+}

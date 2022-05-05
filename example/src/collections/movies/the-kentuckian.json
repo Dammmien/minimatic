@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Kentuckian",
+    "year": 1955,
+    "cast": [
+      "Burt Lancaster",
+      "Dianne Foster",
+      "Diana Lynn"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-kentuckian.html"
+}

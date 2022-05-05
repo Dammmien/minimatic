@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Delta Force",
+    "year": 1986,
+    "cast": [
+      "Chuck Norris",
+      "Lee Marvin"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-delta-force.html"
+}

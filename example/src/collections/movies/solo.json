@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Solo",
+    "year": 1996,
+    "cast": [
+      "Mario van Peebles",
+      "William Sadler"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/solo.html"
+}

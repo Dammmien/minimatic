@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Love & Mercy",
+    "year": 2015,
+    "cast": [
+      "John Cusack",
+      "Paul Dano",
+      "Elizabeth Banks"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/love---mercy.html"
+}

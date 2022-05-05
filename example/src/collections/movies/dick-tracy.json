@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Dick Tracy",
+    "year": 1990,
+    "cast": [
+      "Warren Beatty",
+      "Al Pacino",
+      "Madonna",
+      "Glenne Headly",
+      "Charlie Korsmo"
+    ],
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/dick-tracy.html"
+}

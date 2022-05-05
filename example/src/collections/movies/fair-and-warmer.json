@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fair and Warmer",
+    "year": 1919,
+    "cast": [
+      "May Allison",
+      "Eugene Pallette"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/fair-and-warmer.html"
+}

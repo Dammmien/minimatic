@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sisters Under the Skin",
+    "year": 1934,
+    "cast": [
+      "Elissa Landi",
+      "Frank Morgan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sisters-under-the-skin.html"
+}

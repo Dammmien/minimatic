@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Syncopating Sue",
+    "year": 1926,
+    "cast": [
+      "Corinne Griffith",
+      "Tom Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/syncopating-sue.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Ace of Hearts",
+    "year": 1921,
+    "cast": [
+      "Lon Chaney",
+      "Leatrice Joy",
+      "John Bowers",
+      "Hardee Kirkland",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-ace-of-hearts.html"
+}

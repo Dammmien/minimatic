@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Suspiria",
+    "year": 2018,
+    "cast": [
+      "Dakota Johnson",
+      "Tilda Swinton",
+      "Mia Goth",
+      "Lutz Ebersdorf",
+      "Jessica Harper",
+      "Chloë Grace Moretz"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/suspiria.html"
+}

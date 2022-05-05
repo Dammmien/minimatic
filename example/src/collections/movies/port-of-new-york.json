@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Port of New York",
+    "year": 1949,
+    "cast": [
+      "Scott Brady",
+      "K. T. Stevens",
+      "Yul Brynner"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/port-of-new-york.html"
+}

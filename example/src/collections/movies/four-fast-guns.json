@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Four Fast Guns",
+    "year": 1960,
+    "cast": [
+      "Martha Vickers",
+      "James Craig"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/four-fast-guns.html"
+}

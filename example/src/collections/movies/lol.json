@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "LOL",
+    "year": 2006,
+    "cast": [
+      "Kevin Bewersdorf",
+      "Joe Swanberg"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/lol.html"
+}

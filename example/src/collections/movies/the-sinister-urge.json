@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sinister Urge",
+    "year": 1961,
+    "cast": [
+      "Kenne Duncan",
+      "Jean Fontaine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sinister-urge.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Passage to Marseille",
+    "year": 1944,
+    "cast": [
+      "Humphrey Bogart",
+      "Claude Rains",
+      "Sydney Greenstreet",
+      "Peter Lorre"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/passage-to-marseille.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "High, Wide and Handsome",
+    "year": 1937,
+    "cast": [
+      "Irene Dunne",
+      "Randolph Scott",
+      "Dorothy Lamour"
+    ],
+    "genres": [
+      "Western",
+      "Musical"
+    ]
+  },
+  "output": "movies/high--wide-and-handsome.html"
+}

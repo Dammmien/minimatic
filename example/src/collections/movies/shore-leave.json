@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shore Leave",
+    "year": 1925,
+    "cast": [
+      "Richard Barthelmess",
+      "Dorothy Mackaill"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/shore-leave.html"
+}

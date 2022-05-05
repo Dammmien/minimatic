@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Dad",
+    "year": 1989,
+    "cast": [
+      "Jack Lemmon",
+      "Ted Danson",
+      "Ethan Hawke",
+      "Olympia Dukakis",
+      "Kathy Baker",
+      "Kevin Spacey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dad.html"
+}

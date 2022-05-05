@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sergeant Deadhead",
+    "year": 1965,
+    "cast": [
+      "Frankie Avalon",
+      "Deborah Walley",
+      "Cesar Romero"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/sergeant-deadhead.html"
+}

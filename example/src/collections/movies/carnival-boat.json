@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Carnival Boat",
+    "year": 1932,
+    "cast": [
+      "William Boyd",
+      "Ginger Rogers"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/carnival-boat.html"
+}

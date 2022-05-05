@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "The Great Wall",
+    "year": 2017,
+    "cast": [
+      "Andy Lau",
+      "Matt Damon",
+      "Willem Dafoe",
+      "Jing Tian",
+      "Pedro Pascal",
+      "Zhang Hanyu",
+      "Eddie Peng",
+      "Lu Han",
+      "Lin Gengxin",
+      "Chen Xuedong",
+      "Huang Xuan",
+      "Wang Junkai",
+      "Ryan Zheng",
+      "Yu Xintian",
+      "Liu Qiong"
+    ],
+    "genres": [
+      "Action",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-great-wall.html"
+}

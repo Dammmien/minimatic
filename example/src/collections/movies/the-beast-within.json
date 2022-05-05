@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Beast Within",
+    "year": 1982,
+    "cast": [
+      "Ronny Cox",
+      "Bibi Besch",
+      "L.Q. Jones"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-beast-within.html"
+}

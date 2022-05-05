@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Half Baked",
+    "year": 1998,
+    "cast": [
+      "Dave Chappelle",
+      "Jim Breuer",
+      "Guillermo Diaz",
+      "Harland Williams",
+      "Clarence Williams III"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/half-baked.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Elvira's Haunted Hills",
+    "year": 2001,
+    "cast": [
+      "Cassandra Peterson",
+      "Richard O'Brien",
+      "Mary Scheer"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/elvira-s-haunted-hills.html"
+}

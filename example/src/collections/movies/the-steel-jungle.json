@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Steel Jungle",
+    "year": 1956,
+    "cast": [
+      "Perry Lopez",
+      "Beverly Garland",
+      "Walter Abel"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-steel-jungle.html"
+}

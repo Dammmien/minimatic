@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild West Romance",
+    "year": 1928,
+    "cast": [
+      "Rex Bell",
+      "Caryl Lincoln"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wild-west-romance.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wild Country",
+    "year": 1970,
+    "cast": [
+      "Vera Miles",
+      "Steve Forrest"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-wild-country.html"
+}

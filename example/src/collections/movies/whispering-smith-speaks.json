@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Whispering Smith Speaks",
+    "year": 1935,
+    "cast": [
+      "George O'Brien",
+      "Irene Ware"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/whispering-smith-speaks.html"
+}

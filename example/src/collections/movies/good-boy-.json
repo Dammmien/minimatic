@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Good Boy!",
+    "year": 2003,
+    "cast": [
+      "Liam Aiken",
+      "Molly Shannon",
+      "Kevin Nealon",
+      "Matthew Broderick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/good-boy-.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Cruel Intentions",
+    "year": 1999,
+    "cast": [
+      "Sarah Michelle Gellar",
+      "Ryan Phillippe",
+      "Reese Witherspoon",
+      "Selma Blair",
+      "Joshua Jackson",
+      "Christine Baranski",
+      "Swoosie Kurtz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cruel-intentions.html"
+}

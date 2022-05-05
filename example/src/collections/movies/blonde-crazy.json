@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blonde Crazy",
+    "year": 1931,
+    "cast": [
+      "James Cagney",
+      "Joan Blondell",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blonde-crazy.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Moon-Spinners",
+    "year": 1964,
+    "cast": [
+      "Hayley Mills",
+      "Eli Wallach",
+      "Pola Negri"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-moon-spinners.html"
+}

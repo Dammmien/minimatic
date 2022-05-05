@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Fortress",
+    "year": 2012,
+    "cast": [
+      "Bug Hall",
+      "Donnie Jeffcoat",
+      "Sean McGowan",
+      "Manu Intiraymi",
+      "Howard Gibson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fortress.html"
+}

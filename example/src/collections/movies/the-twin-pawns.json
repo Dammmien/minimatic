@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Twin Pawns",
+    "year": 1919,
+    "cast": [
+      "Mae Murray",
+      "Warner Oland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-twin-pawns.html"
+}

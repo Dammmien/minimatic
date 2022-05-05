@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Black Doll",
+    "year": 1938,
+    "cast": [
+      "C. Henry Gordon",
+      "Nan Grey",
+      "Donald Woods"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-black-doll.html"
+}

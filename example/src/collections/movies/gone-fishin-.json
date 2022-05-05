@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gone Fishin'",
+    "year": 1997,
+    "cast": [
+      "Joe Pesci",
+      "Danny Glover",
+      "Rosanna Arquette",
+      "Lynn Whitfield"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gone-fishin-.html"
+}

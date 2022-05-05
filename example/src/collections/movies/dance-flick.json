@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dance Flick",
+    "year": 2009,
+    "cast": [
+      "Shoshana Bush",
+      "Damon Wayans, Jr."
+    ],
+    "genres": [
+      "Dance",
+      "Satire"
+    ]
+  },
+  "output": "movies/dance-flick.html"
+}

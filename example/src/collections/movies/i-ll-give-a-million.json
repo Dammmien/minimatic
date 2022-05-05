@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "I'll Give a Million",
+    "year": 1938,
+    "cast": [
+      "Warner Baxter",
+      "Peter Lorre",
+      "Jean Hersholt"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/i-ll-give-a-million.html"
+}

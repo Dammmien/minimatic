@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Luke's Busy Day",
+    "year": 1917,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/luke-s-busy-day.html"
+}

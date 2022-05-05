@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smiles",
+    "year": 1919,
+    "cast": [
+      "Jane Lee",
+      "Katherine Lee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/smiles.html"
+}

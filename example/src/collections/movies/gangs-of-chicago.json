@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gangs of Chicago",
+    "year": 1940,
+    "cast": [
+      "Lloyd Nolan",
+      "Lola Lane"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/gangs-of-chicago.html"
+}

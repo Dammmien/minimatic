@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Scandal in Paris",
+    "year": 1946,
+    "cast": [
+      "George Sanders",
+      "Carole Landis",
+      "Signe Hasso"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-scandal-in-paris.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tonight and Every Night",
+    "year": 1945,
+    "cast": [
+      "Rita Hayworth",
+      "Lee Bowman",
+      "Janet Blair"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tonight-and-every-night.html"
+}

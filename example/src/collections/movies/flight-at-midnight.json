@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flight at Midnight",
+    "year": 1939,
+    "cast": [
+      "Phil Regan",
+      "Jean Parker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flight-at-midnight.html"
+}

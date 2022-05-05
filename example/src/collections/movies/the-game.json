@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Game",
+    "year": 1997,
+    "cast": [
+      "Michael Douglas",
+      "Sean Penn",
+      "James Rebhorn",
+      "Deborah Kara Unger",
+      "Carroll Baker"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-game.html"
+}

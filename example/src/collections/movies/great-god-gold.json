@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Great God Gold",
+    "year": 1935,
+    "cast": [
+      "Sidney Blackmer",
+      "Martha Sleeper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/great-god-gold.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Perfect Storm",
+    "year": 2000,
+    "cast": [
+      "George Clooney",
+      "Mark Wahlberg",
+      "Diane Lane",
+      "Mary Elizabeth Mastrantonio",
+      "John C. Reilly",
+      "Karen Allen"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-perfect-storm.html"
+}

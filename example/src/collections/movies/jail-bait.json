@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jail Bait",
+    "year": 1954,
+    "cast": [
+      "Dolores Fuller",
+      "Steve Reeves"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jail-bait.html"
+}

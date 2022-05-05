@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "With Honors",
+    "year": 1994,
+    "cast": [
+      "Brendan Fraser",
+      "Joe Pesci",
+      "Moira Kelly",
+      "Patrick Dempsey",
+      "Josh Hamilton",
+      "Gore Vidal"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/with-honors.html"
+}

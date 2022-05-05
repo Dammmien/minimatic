@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "La ley del harem",
+    "year": 1931,
+    "cast": [
+      "Jose Mojica",
+      "Carmen Larrabeiti"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/la-ley-del-harem.html"
+}

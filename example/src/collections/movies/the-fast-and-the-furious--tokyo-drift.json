@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fast and the Furious: Tokyo Drift",
+    "year": 2006,
+    "cast": [
+      "Lucas Black",
+      "Bow Wow"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-fast-and-the-furious--tokyo-drift.html"
+}

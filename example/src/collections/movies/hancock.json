@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hancock",
+    "year": 2008,
+    "cast": [
+      "Will Smith",
+      "Charlize Theron",
+      "Jason Bateman"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/hancock.html"
+}

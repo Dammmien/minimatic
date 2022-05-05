@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Once to Every Bachelor",
+    "year": 1934,
+    "cast": [
+      "Marian Nixon",
+      "Neil Hamilton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/once-to-every-bachelor.html"
+}

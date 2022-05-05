@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dino",
+    "year": 1957,
+    "cast": [
+      "Sal Mineo",
+      "Brian Keith",
+      "Susan Kohner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dino.html"
+}

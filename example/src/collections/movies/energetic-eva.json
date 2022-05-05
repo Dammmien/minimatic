@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Energetic Eva",
+    "year": 1916,
+    "cast": [
+      "Eva Tanguay"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/energetic-eva.html"
+}

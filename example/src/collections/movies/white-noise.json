@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "White Noise",
+    "year": 2005,
+    "cast": [
+      "Michael Keaton",
+      "Deborah Kara Unger",
+      "Chandra West"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/white-noise.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cutie and the Boxer",
+    "year": 2013,
+    "cast": [
+      "Noriko Shinohara",
+      "Ushio Shinohara"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/cutie-and-the-boxer.html"
+}

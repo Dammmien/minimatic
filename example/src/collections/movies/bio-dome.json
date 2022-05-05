@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Bio-Dome",
+    "year": 1996,
+    "cast": [
+      "Pauly Shore",
+      "Stephen Baldwin",
+      "William Atherton",
+      "Joey Lauren Adams",
+      "Teresa Hill"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bio-dome.html"
+}

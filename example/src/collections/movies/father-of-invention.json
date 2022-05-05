@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "Father of Invention",
+    "year": 2011,
+    "cast": [
+      "Kevin Spacey",
+      "Camilla Belle",
+      "Heather Graham",
+      "Johnny Knoxville",
+      "with",
+      "Craig Robinson",
+      "and",
+      "Virginia Madsen",
+      "Michael Rosenbaum",
+      "John Stamos",
+      "Rhoda Griffis",
+      "Jack McGee",
+      "Danny Comden"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/father-of-invention.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Lymelife",
+    "year": 2009,
+    "cast": [
+      "Alec Baldwin",
+      "Emma Roberts",
+      "Rory Culkin",
+      "Kieran Culkin",
+      "Jill Hennessy",
+      "Timothy Hutton",
+      "Cynthia Nixon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lymelife.html"
+}

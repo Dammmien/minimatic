@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Louisiana Story",
+    "year": 1948,
+    "cast": [],
+    "genres": [
+      "Documentary",
+      "Drama"
+    ]
+  },
+  "output": "movies/louisiana-story.html"
+}

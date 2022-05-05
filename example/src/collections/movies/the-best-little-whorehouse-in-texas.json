@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Best Little Whorehouse in Texas",
+    "year": 1982,
+    "cast": [
+      "Dolly Parton",
+      "Burt Reynolds",
+      "Charles Durning",
+      "Dom DeLuise",
+      "Jim Nabors"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-best-little-whorehouse-in-texas.html"
+}

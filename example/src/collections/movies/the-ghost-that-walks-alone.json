@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Ghost That Walks Alone",
+    "year": 1944,
+    "cast": [
+      "Arthur Lake",
+      "Janis Carter",
+      "Lynne Roberts"
+    ],
+    "genres": [
+      "Mystery",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ghost-that-walks-alone.html"
+}

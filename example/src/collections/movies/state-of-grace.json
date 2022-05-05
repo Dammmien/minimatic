@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "State of Grace",
+    "year": 1990,
+    "cast": [
+      "Sean Penn",
+      "Ed Harris",
+      "Gary Oldman",
+      "Robin Wright",
+      "John Turturro",
+      "John C. Reilly"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/state-of-grace.html"
+}

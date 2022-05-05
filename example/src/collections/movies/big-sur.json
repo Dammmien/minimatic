@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Big Sur",
+    "year": 2013,
+    "cast": [
+      "Josh Lucas",
+      "Jean-Marc Barr",
+      "Radha Mitchell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/big-sur.html"
+}

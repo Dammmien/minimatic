@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sundown Valley",
+    "year": 1944,
+    "cast": [
+      "Charles Starrett",
+      "Jeanne Bates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sundown-valley.html"
+}

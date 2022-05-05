@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Alien Nation: The Enemy Within",
+    "year": 1996,
+    "cast": [
+      "Gary Graham",
+      "Eric Pierpoint",
+      "Michele Scarabelli"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/alien-nation--the-enemy-within.html"
+}

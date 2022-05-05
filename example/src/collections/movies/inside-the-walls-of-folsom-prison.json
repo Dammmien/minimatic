@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Inside the Walls of Folsom Prison",
+    "year": 1951,
+    "cast": [
+      "Steve Cochran",
+      "David Brian"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/inside-the-walls-of-folsom-prison.html"
+}

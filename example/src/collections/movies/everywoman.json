@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Everywoman",
+    "year": 1919,
+    "cast": [
+      "Theodore Roberts",
+      "Violet Heming"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/everywoman.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Show People",
+    "year": 1928,
+    "cast": [
+      "Marion Davies",
+      "William Haines"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/show-people.html"
+}

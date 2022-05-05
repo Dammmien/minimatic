@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Let's Get Harry",
+    "year": 1986,
+    "cast": [
+      "Michael Schoeffling",
+      "Mark Harmon",
+      "Robert Duvall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-s-get-harry.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Garfield: A Tail of Two Kitties",
+    "year": 2006,
+    "cast": [
+      "Breckin Meyer",
+      "Jennifer Love Hewitt",
+      "Billy Connolly",
+      "Bill Murray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/garfield--a-tail-of-two-kitties.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Beautiful City",
+    "year": 1925,
+    "cast": [
+      "Richard Barthelmess",
+      "Dorothy Gish",
+      "William Powell"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-beautiful-city.html"
+}

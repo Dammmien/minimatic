@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Good-Bye Kiss",
+    "year": 1928,
+    "cast": [
+      "Johnny Burke",
+      "Sally Eilers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-good-bye-kiss.html"
+}

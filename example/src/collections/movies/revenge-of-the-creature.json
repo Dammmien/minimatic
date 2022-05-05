@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Revenge of the Creature",
+    "year": 1955,
+    "cast": [
+      "John Agar",
+      "Lori Nelson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/revenge-of-the-creature.html"
+}

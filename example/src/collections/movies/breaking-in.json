@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Breaking In",
+    "year": 2018,
+    "cast": [
+      "Gabrielle Union",
+      "Billy Burke",
+      "Richard Cabral",
+      "Seth Carr",
+      "Levi Meaden",
+      "Ajiona Alexus",
+      "Christa Miller"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/breaking-in.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Modern Husbands",
+    "year": 1919,
+    "cast": [
+      "Henry B. Walthall",
+      "Claire Du Brey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/modern-husbands.html"
+}

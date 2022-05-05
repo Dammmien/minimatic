@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smoke Tree Range",
+    "year": 1937,
+    "cast": [
+      "Buck Jones",
+      "Muriel Evans"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/smoke-tree-range.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In Her Shoes",
+    "year": 2005,
+    "cast": [
+      "Cameron Diaz",
+      "Toni Collette",
+      "Shirley MacLaine"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/in-her-shoes.html"
+}

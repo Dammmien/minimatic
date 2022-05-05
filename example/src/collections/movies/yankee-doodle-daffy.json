@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Yankee Doodle Daffy",
+    "year": 1943,
+    "cast": [
+      "Daffy Duck",
+      "Porky Pig"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/yankee-doodle-daffy.html"
+}

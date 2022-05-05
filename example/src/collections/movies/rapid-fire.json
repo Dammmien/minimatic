@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Rapid Fire",
+    "year": 1992,
+    "cast": [
+      "Brandon Lee"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/rapid-fire.html"
+}

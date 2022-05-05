@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Agatha",
+    "year": 1979,
+    "cast": [
+      "Dustin Hoffman",
+      "Vanessa Redgrave"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/agatha.html"
+}

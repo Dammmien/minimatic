@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "After the Dance",
+    "year": 1935,
+    "cast": [
+      "Nancy Carroll",
+      "George Murphy",
+      "Thelma Todd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/after-the-dance.html"
+}

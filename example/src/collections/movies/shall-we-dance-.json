@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shall We Dance?",
+    "year": 2004,
+    "cast": [
+      "Richard Gere",
+      "Jennifer Lopez",
+      "Susan Sarandon"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/shall-we-dance-.html"
+}

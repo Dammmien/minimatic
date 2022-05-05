@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Attack of the 50 Foot Woman",
+    "year": 1958,
+    "cast": [
+      "Allison Hayes",
+      "Yvette Vickers"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/attack-of-the-50-foot-woman.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Fish That Saved Pittsburgh",
+    "year": 1979,
+    "cast": [
+      "Jonathan Winters",
+      "Julius Erving",
+      "Flip Wilson"
+    ],
+    "genres": [
+      "Comedy",
+      "Sports"
+    ]
+  },
+  "output": "movies/the-fish-that-saved-pittsburgh.html"
+}

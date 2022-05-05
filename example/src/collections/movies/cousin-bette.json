@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Cousin Bette",
+    "year": 1998,
+    "cast": [
+      "Jessica Lange",
+      "Elisabeth Shue",
+      "Hugh Laurie",
+      "Bob Hoskins"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/cousin-bette.html"
+}

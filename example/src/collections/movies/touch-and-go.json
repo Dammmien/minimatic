@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Touch and Go",
+    "year": 1986,
+    "cast": [
+      "Michael Keaton",
+      "María Conchita Alonso"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/touch-and-go.html"
+}

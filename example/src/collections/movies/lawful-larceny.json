@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lawful Larceny",
+    "year": 1930,
+    "cast": [
+      "Bebe Daniels",
+      "Olive Tell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lawful-larceny.html"
+}

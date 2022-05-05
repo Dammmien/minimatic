@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Big Brawl",
+    "year": 1980,
+    "cast": [
+      "Jackie Chan"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-big-brawl.html"
+}

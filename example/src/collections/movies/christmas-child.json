@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Christmas Child",
+    "year": 2003,
+    "cast": [
+      "William R. Moses",
+      "Steven Curtis Chapman",
+      "Megan Follows"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/christmas-child.html"
+}

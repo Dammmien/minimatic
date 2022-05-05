@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shine On, Harvest Moon",
+    "year": 1944,
+    "cast": [
+      "Ann Sheridan",
+      "Dennis Morgan",
+      "Jack Carson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/shine-on--harvest-moon.html"
+}

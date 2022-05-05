@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Headin' East",
+    "year": 1937,
+    "cast": [
+      "Buck Jones",
+      "Ruth Coleman"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/headin--east.html"
+}

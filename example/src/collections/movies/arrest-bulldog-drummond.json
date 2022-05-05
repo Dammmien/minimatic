@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Arrest Bulldog Drummond",
+    "year": 1939,
+    "cast": [
+      "John Howard",
+      "Heather Angel",
+      "H. B. Warner",
+      "Reginald Denny"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/arrest-bulldog-drummond.html"
+}

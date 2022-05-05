@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Crazy Heart",
+    "year": 2009,
+    "cast": [
+      "Jeff Bridges",
+      "Maggie Gyllenhaal",
+      "Robert Duvall",
+      "Colin Farrell"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/crazy-heart.html"
+}

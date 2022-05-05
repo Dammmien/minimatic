@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Angels & Demons",
+    "year": 2009,
+    "cast": [
+      "Tom Hanks",
+      "Ayelet Zurer",
+      "Ewan McGregor",
+      "Stellan Skarsgård",
+      "Armin Mueller-Stahl",
+      "Pierfrancesco Favino",
+      "Nikolaj Lie Kaas"
+    ],
+    "genres": [
+      "Adventure",
+      "Mystery"
+    ]
+  },
+  "output": "movies/angels---demons.html"
+}

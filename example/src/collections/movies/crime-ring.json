@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Crime Ring",
+    "year": 1938,
+    "cast": [
+      "Allan Lane",
+      "Clara Blandick",
+      "Bradley Page"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/crime-ring.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Rising Sun",
+    "year": 1993,
+    "cast": [
+      "Sean Connery",
+      "Wesley Snipes",
+      "Harvey Keitel",
+      "Tia Carrere",
+      "Cary-Hiroyuki Tagawa",
+      "Kevin Anderson"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/rising-sun.html"
+}

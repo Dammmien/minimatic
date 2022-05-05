@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "American Born",
+    "year": 1913,
+    "cast": [
+      "Sydney Ayres",
+      "Harry von Meter",
+      "Charles Cummings"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/american-born.html"
+}

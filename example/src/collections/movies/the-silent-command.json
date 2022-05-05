@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Silent Command",
+    "year": 1923,
+    "cast": [
+      "Edmund Lowe",
+      "Béla Lugosi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-silent-command.html"
+}

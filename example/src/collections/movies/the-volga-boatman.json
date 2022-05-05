@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Volga Boatman",
+    "year": 1926,
+    "cast": [
+      "William Boyd",
+      "Elinor Fair"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-volga-boatman.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jungle Gents",
+    "year": 1954,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Laurette Luez"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/jungle-gents.html"
+}

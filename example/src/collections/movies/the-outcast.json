@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Outcast",
+    "year": 1954,
+    "cast": [
+      "John Derek",
+      "Joan Evans",
+      "Jim Davis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-outcast.html"
+}

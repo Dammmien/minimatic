@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Boys in the Band",
+    "year": 1970,
+    "cast": [
+      "Kenneth Nelson",
+      "Cliff Gorman"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-boys-in-the-band.html"
+}

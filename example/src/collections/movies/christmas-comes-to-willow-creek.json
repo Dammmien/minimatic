@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Christmas Comes to Willow Creek",
+    "year": 1987,
+    "cast": [
+      "John Schneider",
+      "Tom Wopat",
+      "Kim Delaney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/christmas-comes-to-willow-creek.html"
+}

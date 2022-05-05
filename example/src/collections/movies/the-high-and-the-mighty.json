@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The High and the Mighty",
+    "year": 1954,
+    "cast": [
+      "John Wayne",
+      "Robert Stack",
+      "Laraine Day",
+      "Claire Trevor",
+      "Jan Sterling",
+      "Robert Newton",
+      "Sidney Blackmer",
+      "Phil Harris",
+      "Paul Fix",
+      "Doe Avedon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-high-and-the-mighty.html"
+}

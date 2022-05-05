@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nobody's Widow",
+    "year": 1927,
+    "cast": [
+      "Leatrice Joy",
+      "Phyllis Haver"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nobody-s-widow.html"
+}

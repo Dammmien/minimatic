@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Smoky Mountain Melody",
+    "year": 1948,
+    "cast": [
+      "Roy Acuff",
+      "Russell Arms"
+    ],
+    "genres": [
+      "Musical",
+      "Western"
+    ]
+  },
+  "output": "movies/smoky-mountain-melody.html"
+}

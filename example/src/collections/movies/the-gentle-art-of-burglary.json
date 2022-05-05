@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gentle Art of Burglary",
+    "year": 1916,
+    "cast": [
+      "William Garwood",
+      "Violet Mersereau"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-gentle-art-of-burglary.html"
+}

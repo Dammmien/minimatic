@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Advise & Consent",
+    "year": 1962,
+    "cast": [
+      "Henry Fonda",
+      "Charles Laughton",
+      "Don Murray",
+      "Walter Pidgeon",
+      "Gene Tierney",
+      "Peter Lawford",
+      "George Grizzard",
+      "Burgess Meredith",
+      "Lew Ayres",
+      "Paul Ford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/advise---consent.html"
+}

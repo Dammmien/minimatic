@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Young Daniel Boone",
+    "year": 1950,
+    "cast": [
+      "David Bruce",
+      "Kristine Miller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/young-daniel-boone.html"
+}

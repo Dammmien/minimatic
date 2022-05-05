@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Girl in Bohemia",
+    "year": 1919,
+    "cast": [
+      "Peggy Hyland",
+      "Josef Swickard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-girl-in-bohemia.html"
+}

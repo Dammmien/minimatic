@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Armored Car Robbery",
+    "year": 1950,
+    "cast": [
+      "Charles McGraw",
+      "Adele Jergens",
+      "William Talman"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/armored-car-robbery.html"
+}

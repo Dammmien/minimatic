@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Breakin' 2: Electric Boogaloo",
+    "year": 1984,
+    "cast": [
+      "Lucinda Dickey",
+      "Adolfo Quinones",
+      "Ice-T"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/breakin--2--electric-boogaloo.html"
+}

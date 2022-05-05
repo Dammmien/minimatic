@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "A Nightmare on Elm Street",
+    "year": 2010,
+    "cast": [
+      "Jackie Earle Haley",
+      "Rooney Mara",
+      "Thomas Dekker",
+      "Kellan Lutz",
+      "Katie Cassidy",
+      "Connie Britton",
+      "Clancy Brown"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/a-nightmare-on-elm-street.html"
+}

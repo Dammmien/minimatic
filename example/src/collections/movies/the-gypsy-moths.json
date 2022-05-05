@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gypsy Moths",
+    "year": 1969,
+    "cast": [
+      "Burt Lancaster",
+      "Deborah Kerr",
+      "Gene Hackman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-gypsy-moths.html"
+}

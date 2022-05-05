@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Right at Your Door",
+    "year": 2006,
+    "cast": [
+      "Mary McCormack",
+      "Rory Cochrane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/right-at-your-door.html"
+}

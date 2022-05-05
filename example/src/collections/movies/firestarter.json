@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Firestarter",
+    "year": 1984,
+    "cast": [
+      "Drew Barrymore",
+      "David Keith",
+      "George C. Scott",
+      "Martin Sheen",
+      "Heather Locklear",
+      "Louise Fletcher"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/firestarter.html"
+}

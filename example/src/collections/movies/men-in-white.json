@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Men in White",
+    "year": 1934,
+    "cast": [
+      "Clark Gable",
+      "Jean Hersholt",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/men-in-white.html"
+}

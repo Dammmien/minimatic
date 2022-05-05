@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Roulette",
+    "year": 1924,
+    "cast": [
+      "Edith Roberts",
+      "Norman Trevor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/roulette.html"
+}

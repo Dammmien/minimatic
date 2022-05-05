@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Montana Moon",
+    "year": 1930,
+    "cast": [
+      "Joan Crawford",
+      "Ricardo Cortez"
+    ],
+    "genres": [
+      "Western",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/montana-moon.html"
+}

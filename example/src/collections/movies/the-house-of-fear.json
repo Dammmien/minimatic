@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The House of Fear",
+    "year": 1939,
+    "cast": [
+      "William Gargan",
+      "Irene Hervey"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-house-of-fear.html"
+}

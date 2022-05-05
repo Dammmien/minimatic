@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pied Piper Malone",
+    "year": 1924,
+    "cast": [
+      "Thomas Meighan",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/pied-piper-malone.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Side of the Law",
+    "year": 1950,
+    "cast": [
+      "Viveca Lindfors",
+      "Janis Paige",
+      "Robert Douglas"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/this-side-of-the-law.html"
+}

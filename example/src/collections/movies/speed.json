@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Speed",
+    "year": 1994,
+    "cast": [
+      "Keanu Reeves",
+      "Sandra Bullock",
+      "Dennis Hopper",
+      "Jeff Daniels",
+      "Joe Morton"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/speed.html"
+}

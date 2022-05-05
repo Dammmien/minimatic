@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "Dodsworth",
+    "year": 1936,
+    "cast": [
+      "Walter Huston",
+      "(",
+      "Best Actor",
+      "nominee)",
+      "Ruth Chatterton",
+      "Paul Lukas",
+      "Mary Astor",
+      "Kathryn Marlow",
+      "David Niven",
+      "Gregory Gaye",
+      "Maria Ouspenskaya",
+      "(",
+      "Best Supporting Actress",
+      "nominee)"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dodsworth.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Operation C.I.A.",
+    "year": 1965,
+    "cast": [
+      "Burt Reynolds",
+      "Danielle Aubrey",
+      "John Hoyt"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/operation-c-i-a-.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Back to the Woods",
+    "year": 1918,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/back-to-the-woods.html"
+}

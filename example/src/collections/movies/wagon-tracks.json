@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wagon Tracks",
+    "year": 1919,
+    "cast": [
+      "William S. Hart",
+      "Jane Novak"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wagon-tracks.html"
+}

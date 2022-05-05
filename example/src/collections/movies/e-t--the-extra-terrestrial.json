@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "cast": [
+      "Dee Wallace",
+      "Henry Thomas",
+      "Peter Coyote",
+      "Drew Barrymore",
+      "Robert MacNaughton"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/e-t--the-extra-terrestrial.html"
+}

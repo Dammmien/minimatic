@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cattle Raiders",
+    "year": 1938,
+    "cast": [
+      "Charles Starrett",
+      "Iris Meredith",
+      "Donald Grayson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cattle-raiders.html"
+}

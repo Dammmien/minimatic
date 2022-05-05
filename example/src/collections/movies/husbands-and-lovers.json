@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Husbands and Lovers",
+    "year": 1924,
+    "cast": [
+      "Lewis Stone",
+      "Florence Vidor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/husbands-and-lovers.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Volcano!",
+    "year": 1926,
+    "cast": [
+      "Bebe Daniels",
+      "Ricardo Cortez",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/volcano-.html"
+}

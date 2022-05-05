@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Quick and the Undead",
+    "year": 2006,
+    "cast": [
+      "Clint Glenn"
+    ],
+    "genres": [
+      "Horror",
+      "Western"
+    ]
+  },
+  "output": "movies/the-quick-and-the-undead.html"
+}

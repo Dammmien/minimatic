@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Blue Hour",
+    "year": 2007,
+    "cast": [
+      "Alyssa Milano"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-blue-hour.html"
+}

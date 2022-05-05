@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Jet Cage",
+    "year": 1962,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/the-jet-cage.html"
+}

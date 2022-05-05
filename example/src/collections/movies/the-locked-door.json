@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Locked Door",
+    "year": 1929,
+    "cast": [
+      "Rod LaRocque",
+      "Barbara Stanwyck",
+      "William \"Stage\" Boyd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-locked-door.html"
+}

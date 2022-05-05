@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Follow the Sun",
+    "year": 1951,
+    "cast": [
+      "Anne Baxter",
+      "Glenn Ford"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/follow-the-sun.html"
+}

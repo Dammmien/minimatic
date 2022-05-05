@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Three Worlds of Gulliver",
+    "year": 1960,
+    "cast": [
+      "Kerwin Mathews",
+      "June Thorburn"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-three-worlds-of-gulliver.html"
+}

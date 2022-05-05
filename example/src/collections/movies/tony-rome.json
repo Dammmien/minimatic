@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Tony Rome",
+    "year": 1967,
+    "cast": [
+      "Frank Sinatra",
+      "Jill St. John",
+      "Gena Rowlands",
+      "Richard Conte",
+      "Simon Oakland",
+      "Sue Lyon",
+      "Shecky Greene"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/tony-rome.html"
+}

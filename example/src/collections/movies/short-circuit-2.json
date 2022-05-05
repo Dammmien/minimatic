@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Short Circuit 2",
+    "year": 1988,
+    "cast": [
+      "Fisher Stevens",
+      "Michael McKean",
+      "Cynthia Gibb"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/short-circuit-2.html"
+}

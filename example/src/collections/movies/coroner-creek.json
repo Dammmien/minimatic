@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Coroner Creek",
+    "year": 1948,
+    "cast": [
+      "Randolph Scott",
+      "Marguerite Chapman"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/coroner-creek.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thunder in the Sun",
+    "year": 1959,
+    "cast": [
+      "Susan Hayward",
+      "Jeff Chandler"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/thunder-in-the-sun.html"
+}

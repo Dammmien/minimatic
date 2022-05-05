@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Burning Hills",
+    "year": 1956,
+    "cast": [
+      "Tab Hunter",
+      "Natalie Wood",
+      "Skip Homeier",
+      "Claude Akins"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-burning-hills.html"
+}

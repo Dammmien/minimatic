@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Framed Cat",
+    "year": 1950,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-framed-cat.html"
+}

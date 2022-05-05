@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Josie and the Pussycats",
+    "year": 2001,
+    "cast": [
+      "Rachael Leigh Cook",
+      "Tara Reid",
+      "Rosario Dawson"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/josie-and-the-pussycats.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riders in the Sky",
+    "year": 1949,
+    "cast": [
+      "Gene Autry",
+      "Gloria Henry"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/riders-in-the-sky.html"
+}

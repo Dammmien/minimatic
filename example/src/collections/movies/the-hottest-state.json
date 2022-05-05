@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hottest State",
+    "year": 2006,
+    "cast": [
+      "Mark Webber",
+      "Catalina Sandino Moreno",
+      "Michelle Williams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hottest-state.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Enemy at the Gates",
+    "year": 2001,
+    "cast": [
+      "Jude Law",
+      "Ed Harris",
+      "Rachel Weisz",
+      "Joseph Fiennes",
+      "Bob Hoskins"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/enemy-at-the-gates.html"
+}

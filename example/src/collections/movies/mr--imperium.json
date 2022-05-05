@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Imperium",
+    "year": 1951,
+    "cast": [
+      "Lana Turner",
+      "Ezio Pinza",
+      "Marjorie Main"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/mr--imperium.html"
+}

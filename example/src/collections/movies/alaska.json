@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Alaska",
+    "year": 1996,
+    "cast": [
+      "Thora Birch",
+      "Vincent Kartheiser",
+      "Dirk Benedict",
+      "Charlton Heston"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/alaska.html"
+}

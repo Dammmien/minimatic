@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Where the Truth Lies",
+    "year": 2005,
+    "cast": [
+      "Colin Firth",
+      "Kevin Bacon",
+      "Alison Lohman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/where-the-truth-lies.html"
+}

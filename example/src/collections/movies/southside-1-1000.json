@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Southside 1-1000",
+    "year": 1950,
+    "cast": [
+      "Don DeFore",
+      "Andrea King"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/southside-1-1000.html"
+}

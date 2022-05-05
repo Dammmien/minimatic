@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Careless Years",
+    "year": 1957,
+    "cast": [
+      "Dean Stockwell",
+      "Natalie Trundy",
+      "John Larch"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-careless-years.html"
+}

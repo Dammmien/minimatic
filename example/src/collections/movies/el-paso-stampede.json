@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "El Paso Stampede",
+    "year": 1953,
+    "cast": [
+      "Allan Lane",
+      "Phyllis Coates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/el-paso-stampede.html"
+}

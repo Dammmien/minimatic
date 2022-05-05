@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Taxi to the Dark Side",
+    "year": 2007,
+    "cast": [
+      "the murder of",
+      "Dilawar"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/taxi-to-the-dark-side.html"
+}

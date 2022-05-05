@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Moby Dick",
+    "year": 1956,
+    "cast": [
+      "Gregory Peck",
+      "Richard Basehart",
+      "James Robertson Justice"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/moby-dick.html"
+}

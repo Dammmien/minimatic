@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rarin' to Go",
+    "year": 1924,
+    "cast": [
+      "Jay Wilsey",
+      "Olin Francis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rarin--to-go.html"
+}

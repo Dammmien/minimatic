@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Killer Elite",
+    "year": 1975,
+    "cast": [
+      "James Caan",
+      "Robert Duvall",
+      "Burt Young",
+      "Mako"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-killer-elite.html"
+}

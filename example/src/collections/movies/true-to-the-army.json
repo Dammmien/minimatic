@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "True to the Army",
+    "year": 1942,
+    "cast": [
+      "Judy Canova",
+      "Ann Miller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/true-to-the-army.html"
+}

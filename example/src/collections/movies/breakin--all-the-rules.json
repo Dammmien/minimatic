@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Breakin' All the Rules",
+    "year": 2004,
+    "cast": [
+      "Jamie Foxx",
+      "Morris Chestnut",
+      "Gabrielle Union"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/breakin--all-the-rules.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Jupiter Ascending",
+    "year": 2015,
+    "cast": [
+      "Channing Tatum",
+      "Mila Kunis",
+      "Sean Bean",
+      "Eddie Redmayne"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/jupiter-ascending.html"
+}

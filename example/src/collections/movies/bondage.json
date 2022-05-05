@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bondage",
+    "year": 1933,
+    "cast": [
+      "Dorothy Jordan",
+      "Alexander Kirkland",
+      "Merle Tottenham"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bondage.html"
+}

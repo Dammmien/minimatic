@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Storm Over Tibet",
+    "year": 1952,
+    "cast": [
+      "Rex Reason",
+      "Diana Douglas"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/storm-over-tibet.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Haunted Spooks",
+    "year": 1920,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/haunted-spooks.html"
+}

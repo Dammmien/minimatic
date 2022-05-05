@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Oklahoma Annie",
+    "year": 1952,
+    "cast": [
+      "Judy Canova",
+      "Grant Withers"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/oklahoma-annie.html"
+}

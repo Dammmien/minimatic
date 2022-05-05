@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Night Flier",
+    "year": 1997,
+    "cast": [
+      "Miguel Ferrer"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-night-flier.html"
+}

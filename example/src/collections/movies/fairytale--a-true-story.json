@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "FairyTale: A True Story",
+    "year": 1997,
+    "cast": [
+      "Peter O'Toole",
+      "Harvey Keitel"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/fairytale--a-true-story.html"
+}

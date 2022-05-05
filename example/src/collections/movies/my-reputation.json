@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Reputation",
+    "year": 1946,
+    "cast": [
+      "Barbara Stanwyck",
+      "George Brent",
+      "Eve Arden"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/my-reputation.html"
+}

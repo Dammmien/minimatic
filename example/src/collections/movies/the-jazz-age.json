@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Jazz Age",
+    "year": 1929,
+    "cast": [
+      "Douglas Fairbanks Jr.",
+      "Marceline Day"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-jazz-age.html"
+}

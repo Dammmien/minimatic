@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "An Itch in Time",
+    "year": 1943,
+    "cast": [
+      "Elmer Fudd"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/an-itch-in-time.html"
+}

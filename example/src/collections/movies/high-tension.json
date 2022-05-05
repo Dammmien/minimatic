@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "High Tension",
+    "year": 1936,
+    "cast": [
+      "Brian Donlevy",
+      "Glenda Farrell",
+      "Norman Foster"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/high-tension.html"
+}

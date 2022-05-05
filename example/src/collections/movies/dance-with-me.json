@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dance with Me",
+    "year": 1998,
+    "cast": [
+      "Vanessa L. Williams",
+      "Chayanne",
+      "Kris Kristofferson",
+      "Joan Plowright"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/dance-with-me.html"
+}

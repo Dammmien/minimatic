@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Elmer Gantry",
+    "year": 1960,
+    "cast": [
+      "Burt Lancaster",
+      "Jean Simmons",
+      "Arthur Kennedy",
+      "Shirley Jones",
+      "Dean Jagger",
+      "Patti Page"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/elmer-gantry.html"
+}

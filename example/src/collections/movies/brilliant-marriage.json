@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brilliant Marriage",
+    "year": 1936,
+    "cast": [
+      "Joan Marsh",
+      "Hugh Marlowe",
+      "Inez Courtney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/brilliant-marriage.html"
+}

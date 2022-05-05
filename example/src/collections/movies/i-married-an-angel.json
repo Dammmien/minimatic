@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Married an Angel",
+    "year": 1942,
+    "cast": [
+      "Jeanette MacDonald",
+      "Nelson Eddy"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/i-married-an-angel.html"
+}

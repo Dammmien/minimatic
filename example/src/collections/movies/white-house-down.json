@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "White House Down",
+    "year": 2013,
+    "cast": [
+      "Channing Tatum",
+      "Jamie Foxx",
+      "Maggie Gyllenhaal",
+      "Jason Clarke",
+      "Richard Jenkins",
+      "James Woods"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/white-house-down.html"
+}

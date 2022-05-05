@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hawk of Wild River",
+    "year": 1952,
+    "cast": [
+      "Charles Starrett",
+      "Clayton Moore"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-hawk-of-wild-river.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "After the Show",
+    "year": 1921,
+    "cast": [
+      "Jack Holt",
+      "Lila Lee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/after-the-show.html"
+}

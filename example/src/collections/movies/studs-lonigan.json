@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Studs Lonigan",
+    "year": 1960,
+    "cast": [
+      "Frank Gorshin",
+      "Jack Nicholson",
+      "Venetia Stevenson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/studs-lonigan.html"
+}

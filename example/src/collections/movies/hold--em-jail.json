@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hold 'Em Jail",
+    "year": 1932,
+    "cast": [
+      "Bert Wheeler",
+      "Robert Woolsey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hold--em-jail.html"
+}

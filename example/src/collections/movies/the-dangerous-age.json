@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Dangerous Age",
+    "year": 1923,
+    "cast": [
+      "Lewis Stone",
+      "Edith Roberts",
+      "Ruth Clifford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-dangerous-age.html"
+}

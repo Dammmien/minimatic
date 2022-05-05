@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Step Up 3D",
+    "year": 2010,
+    "cast": [
+      "Rick Malambri",
+      "Adam G. Sevani",
+      "Sharni Vinson",
+      "Alyson Stoner"
+    ],
+    "genres": [
+      "Dance",
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/step-up-3d.html"
+}

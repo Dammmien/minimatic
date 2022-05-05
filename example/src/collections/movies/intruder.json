@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Intruder",
+    "year": 1989,
+    "cast": [
+      "Renee Estevez"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/intruder.html"
+}

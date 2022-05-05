@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Love Trouble",
+    "year": 1994,
+    "cast": [
+      "Julia Roberts",
+      "Nick Nolte"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-love-trouble.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Streets of Laredo",
+    "year": 1949,
+    "cast": [
+      "William Holden",
+      "William Bendix",
+      "Macdonald Carey",
+      "Mona Freeman"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/streets-of-laredo.html"
+}

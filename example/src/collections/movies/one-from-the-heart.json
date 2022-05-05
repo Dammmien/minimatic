@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "One from the Heart",
+    "year": 1982,
+    "cast": [
+      "Teri Garr",
+      "Frederic Forrest",
+      "Nastassja Kinski",
+      "Raúl Juliá"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/one-from-the-heart.html"
+}

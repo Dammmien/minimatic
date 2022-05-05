@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Indiana Jones and the Temple of Doom",
+    "year": 1984,
+    "cast": [
+      "Harrison Ford",
+      "Jonathan Ke Quan",
+      "Kate Capshaw"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/indiana-jones-and-the-temple-of-doom.html"
+}

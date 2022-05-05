@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Death Flies East",
+    "year": 1935,
+    "cast": [
+      "Conrad Nagel",
+      "Florence Rice"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/death-flies-east.html"
+}

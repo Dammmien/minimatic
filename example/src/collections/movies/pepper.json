@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pepper",
+    "year": 1936,
+    "cast": [
+      "Jane Withers",
+      "Irvin S. Cobb",
+      "Dean Jagger"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pepper.html"
+}

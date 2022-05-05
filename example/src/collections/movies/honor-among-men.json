@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Honor Among Men",
+    "year": 1924,
+    "cast": [
+      "Edmund Lowe",
+      "Claire Adams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/honor-among-men.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last Musketeer",
+    "year": 1952,
+    "cast": [
+      "Rex Allen",
+      "Mary Ellen Kay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-last-musketeer.html"
+}

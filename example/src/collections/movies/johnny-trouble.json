@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Johnny Trouble",
+    "year": 1957,
+    "cast": [
+      "Ethel Barrymore",
+      "Stuart Whitman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/johnny-trouble.html"
+}

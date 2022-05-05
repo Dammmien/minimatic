@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Midnight Morals",
+    "year": 1932,
+    "cast": [
+      "Alberta Vaughn",
+      "Rex Lease"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/midnight-morals.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Nothing in Common",
+    "year": 1986,
+    "cast": [
+      "Tom Hanks",
+      "Jackie Gleason",
+      "Eva Marie Saint",
+      "Sela Ward",
+      "Barry Corbin",
+      "Héctor Elizondo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/nothing-in-common.html"
+}

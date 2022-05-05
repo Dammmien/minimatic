@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lotus Eater",
+    "year": 1921,
+    "cast": [
+      "John Barrymore",
+      "Colleen Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lotus-eater.html"
+}

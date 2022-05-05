@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Excuse My Dust",
+    "year": 1951,
+    "cast": [
+      "Red Skelton",
+      "Sally Forrest"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/excuse-my-dust.html"
+}

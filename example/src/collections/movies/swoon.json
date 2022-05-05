@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Swoon",
+    "year": 1992,
+    "cast": [
+      "Darell Schlachet"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/swoon.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Race Street",
+    "year": 1948,
+    "cast": [
+      "George Raft",
+      "Marilyn Maxwell",
+      "William Bendix"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/race-street.html"
+}

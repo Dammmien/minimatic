@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Strangers When We Meet",
+    "year": 1960,
+    "cast": [
+      "Kirk Douglas",
+      "Kim Novak",
+      "Ernie Kovacs"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/strangers-when-we-meet.html"
+}

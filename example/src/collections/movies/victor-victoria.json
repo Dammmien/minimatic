@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Victor Victoria",
+    "year": 1982,
+    "cast": [
+      "Julie Andrews",
+      "James Garner",
+      "Robert Preston",
+      "Lesley Ann Warren",
+      "Alex Karras",
+      "John Rhys-Davies"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/victor-victoria.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Florodora Girl",
+    "year": 1930,
+    "cast": [
+      "Marion Davies",
+      "Lawrence Gray"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-florodora-girl.html"
+}

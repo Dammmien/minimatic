@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hide and Seek",
+    "year": 2005,
+    "cast": [
+      "Robert De Niro",
+      "Dakota Fanning"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/hide-and-seek.html"
+}

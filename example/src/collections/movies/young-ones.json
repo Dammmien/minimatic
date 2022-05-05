@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Young Ones",
+    "year": 2014,
+    "cast": [
+      "Kodi Smit-McPhee",
+      "Elle Fanning",
+      "Michael Shannon",
+      "Nicholas Hoult"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/young-ones.html"
+}

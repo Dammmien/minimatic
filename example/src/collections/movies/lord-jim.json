@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lord Jim",
+    "year": 1925,
+    "cast": [
+      "Percy Marmont",
+      "Shirley Mason",
+      "Noah Beery Sr."
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/lord-jim.html"
+}

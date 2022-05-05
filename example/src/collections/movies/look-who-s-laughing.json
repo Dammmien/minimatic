@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Look Who's Laughing",
+    "year": 1941,
+    "cast": [
+      "Edgar Bergen",
+      "Lucille Ball",
+      "Jim Jordan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/look-who-s-laughing.html"
+}

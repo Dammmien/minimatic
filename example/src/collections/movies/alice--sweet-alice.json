@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Alice, Sweet Alice",
+    "year": 1976,
+    "cast": [
+      "Linda Miller",
+      "Brooke Shields"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/alice--sweet-alice.html"
+}

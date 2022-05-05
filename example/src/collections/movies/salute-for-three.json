@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Salute for Three",
+    "year": 1943,
+    "cast": [
+      "Betty Jane Rhodes",
+      "Macdonald Carey"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/salute-for-three.html"
+}

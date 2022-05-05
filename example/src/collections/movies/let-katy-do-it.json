@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Let Katy Do It",
+    "year": 1916,
+    "cast": [
+      "Jane Grey",
+      "Tully Marshall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/let-katy-do-it.html"
+}

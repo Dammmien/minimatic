@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Star Wars: Episode II – Attack of the Clones",
+    "year": 2002,
+    "cast": [
+      "Ewan McGregor",
+      "Natalie Portman",
+      "Hayden Christensen"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/star-wars--episode-ii---attack-of-the-clones.html"
+}

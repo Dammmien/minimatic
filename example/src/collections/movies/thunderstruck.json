@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Thunderstruck",
+    "year": 2012,
+    "cast": [
+      "Kevin Durant",
+      "Taylor Gray",
+      "Brandon T. Jackson",
+      "Doc Shaw",
+      "Jim Belushi"
+    ],
+    "genres": [
+      "Family",
+      "Sports",
+      "Comedy"
+    ]
+  },
+  "output": "movies/thunderstruck.html"
+}

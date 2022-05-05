@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tall, Dark and Handsome",
+    "year": 1941,
+    "cast": [
+      "Cesar Romero",
+      "Virginia Gilmore",
+      "Milton Berle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tall--dark-and-handsome.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Back in Business",
+    "year": 1997,
+    "cast": [
+      "Brian Bosworth",
+      "Joe Torry"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/back-in-business.html"
+}

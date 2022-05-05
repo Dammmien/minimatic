@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sundowner",
+    "year": 2010,
+    "cast": [
+      "Jon Bendz",
+      "Tim Tomchak"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-sundowner.html"
+}

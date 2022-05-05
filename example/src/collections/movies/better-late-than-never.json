@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Better Late Than Never",
+    "year": 1983,
+    "cast": [
+      "David Niven",
+      "Maggie Smith",
+      "Art Carney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/better-late-than-never.html"
+}

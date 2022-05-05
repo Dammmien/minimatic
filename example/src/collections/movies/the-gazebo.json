@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gazebo",
+    "year": 1959,
+    "cast": [
+      "Glenn Ford",
+      "Debbie Reynolds",
+      "Carl Reiner"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-gazebo.html"
+}

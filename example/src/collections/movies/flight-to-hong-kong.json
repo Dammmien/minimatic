@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flight to Hong Kong",
+    "year": 1956,
+    "cast": [
+      "Rory Calhoun",
+      "Barbara Rush"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flight-to-hong-kong.html"
+}

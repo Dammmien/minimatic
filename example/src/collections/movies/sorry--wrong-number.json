@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sorry, Wrong Number",
+    "year": 1948,
+    "cast": [
+      "Barbara Stanwyck",
+      "Burt Lancaster"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/sorry--wrong-number.html"
+}

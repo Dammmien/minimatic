@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In Tune",
+    "year": 1914,
+    "cast": [
+      "Charlotte Burton",
+      "Edward Coxen",
+      "George Field",
+      "Winifred Greenwood"
+    ],
+    "genres": []
+  },
+  "output": "movies/in-tune.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "September Affair",
+    "year": 1950,
+    "cast": [
+      "Joan Fontaine",
+      "Joseph Cotten",
+      "Françoise Rosay"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/september-affair.html"
+}

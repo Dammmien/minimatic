@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Push",
+    "year": 2009,
+    "cast": [
+      "Chris Evans",
+      "Dakota Fanning",
+      "Camilla Belle",
+      "Djimon Hounsou"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/push.html"
+}

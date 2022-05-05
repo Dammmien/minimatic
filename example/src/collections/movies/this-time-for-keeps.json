@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "This Time for Keeps",
+    "year": 1947,
+    "cast": [
+      "Esther Williams",
+      "Jimmy Durante"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/this-time-for-keeps.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bamboo Saucer",
+    "year": 1968,
+    "cast": [
+      "Dan Duryea",
+      "John Ericson",
+      "Lois Nettleton"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-bamboo-saucer.html"
+}

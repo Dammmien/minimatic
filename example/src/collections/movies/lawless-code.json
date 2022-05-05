@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lawless Code",
+    "year": 1949,
+    "cast": [
+      "Jimmy Wakely",
+      "Dub Taylor",
+      "Ellen Hall"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lawless-code.html"
+}

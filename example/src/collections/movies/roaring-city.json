@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Roaring City",
+    "year": 1951,
+    "cast": [
+      "Hugh Beaumont",
+      "Wanda McKay"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/roaring-city.html"
+}

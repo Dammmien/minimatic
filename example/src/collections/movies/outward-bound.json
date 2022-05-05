@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Outward Bound",
+    "year": 1930,
+    "cast": [
+      "Leslie Howard",
+      "Douglas Fairbanks, Jr.",
+      "Helen Chandler"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/outward-bound.html"
+}

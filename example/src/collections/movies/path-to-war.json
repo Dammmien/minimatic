@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Path to War",
+    "year": 2002,
+    "cast": [
+      "Michael Gambon",
+      "Alec Baldwin",
+      "Donald Sutherland",
+      "Felicity Huffman",
+      "Tom Skerritt",
+      "Frederic Forrest",
+      "Diana Scarwid"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/path-to-war.html"
+}

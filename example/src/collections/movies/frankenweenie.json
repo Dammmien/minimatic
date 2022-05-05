@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Frankenweenie",
+    "year": 2012,
+    "cast": [
+      "Catherine O'Hara",
+      "Martin Short",
+      "Martin Landau",
+      "Charlie Tahan",
+      "Atticus Shaffer",
+      "Winona Ryder",
+      "Robert Capron",
+      "Conchata Ferrell"
+    ],
+    "genres": [
+      "Animated",
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/frankenweenie.html"
+}

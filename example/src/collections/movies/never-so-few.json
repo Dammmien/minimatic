@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Never So Few",
+    "year": 1959,
+    "cast": [
+      "Frank Sinatra",
+      "Steve McQueen",
+      "Peter Lawford",
+      "Gina Lollobrigida"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/never-so-few.html"
+}

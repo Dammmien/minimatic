@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Third Day",
+    "year": 1965,
+    "cast": [
+      "George Peppard",
+      "Elizabeth Ashley",
+      "Roddy McDowall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-third-day.html"
+}

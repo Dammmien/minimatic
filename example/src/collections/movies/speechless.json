@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Speechless",
+    "year": 1994,
+    "cast": [
+      "Michael Keaton",
+      "Geena Davis",
+      "Christopher Reeve"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/speechless.html"
+}

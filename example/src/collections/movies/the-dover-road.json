@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dover Road",
+    "year": 1934,
+    "cast": [
+      "Diana Wynyard",
+      "Clive Brook"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-dover-road.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Empty Saddles",
+    "year": 1936,
+    "cast": [
+      "Buck Jones",
+      "Louise Brooks"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/empty-saddles.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell on Frisco Bay",
+    "year": 1955,
+    "cast": [
+      "Alan Ladd",
+      "Edward G. Robinson"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/hell-on-frisco-bay.html"
+}

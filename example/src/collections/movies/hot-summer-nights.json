@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hot Summer Nights",
+    "year": 2018,
+    "cast": [
+      "Timothée Chalamet",
+      "Maika Monroe",
+      "Alex Roe",
+      "Maia Mitchell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hot-summer-nights.html"
+}

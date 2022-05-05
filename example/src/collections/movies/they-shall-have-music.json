@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "They Shall Have Music",
+    "year": 1939,
+    "cast": [
+      "Jascha Heifetz",
+      "Joel McCrea",
+      "Andrea Leeds"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/they-shall-have-music.html"
+}

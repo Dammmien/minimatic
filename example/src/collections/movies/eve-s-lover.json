@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Eve's Lover",
+    "year": 1925,
+    "cast": [
+      "Irene Rich",
+      "Bert Lytell",
+      "Clara Bow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/eve-s-lover.html"
+}

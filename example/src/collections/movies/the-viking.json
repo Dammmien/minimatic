@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Viking",
+    "year": 1931,
+    "cast": [
+      "Louise Huntington",
+      "Charles Starrett",
+      "Arthur Vinton"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-viking.html"
+}

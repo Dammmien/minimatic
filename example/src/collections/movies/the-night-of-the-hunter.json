@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Night of the Hunter",
+    "year": 1955,
+    "cast": [
+      "Robert Mitchum",
+      "Shelley Winters"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-night-of-the-hunter.html"
+}

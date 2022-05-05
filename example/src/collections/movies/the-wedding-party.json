@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wedding Party",
+    "year": 1969,
+    "cast": [
+      "Jill Clayburgh",
+      "Robert De Niro"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-wedding-party.html"
+}

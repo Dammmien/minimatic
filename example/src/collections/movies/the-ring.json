@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ring",
+    "year": 2002,
+    "cast": [
+      "Naomi Watts",
+      "Daveigh Chase",
+      "Martin Henderson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-ring.html"
+}

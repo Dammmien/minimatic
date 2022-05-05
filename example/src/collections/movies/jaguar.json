@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jaguar",
+    "year": 1956,
+    "cast": [
+      "Sabu",
+      "Barton MacLane"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/jaguar.html"
+}

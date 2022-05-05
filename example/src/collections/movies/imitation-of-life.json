@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Imitation of Life",
+    "year": 1959,
+    "cast": [
+      "Lana Turner",
+      "John Gavin",
+      "Sandra Dee",
+      "Juanita Moore",
+      "Susan Kohner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/imitation-of-life.html"
+}

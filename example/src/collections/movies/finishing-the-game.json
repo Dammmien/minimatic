@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Finishing the Game",
+    "year": 2007,
+    "cast": [
+      "James Franco",
+      "Roger Fan",
+      "Sung Kang"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/finishing-the-game.html"
+}

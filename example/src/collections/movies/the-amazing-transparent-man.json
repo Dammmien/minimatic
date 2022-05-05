@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Amazing Transparent Man",
+    "year": 1960,
+    "cast": [
+      "Marguerite Chapman",
+      "Douglas Kennedy"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-amazing-transparent-man.html"
+}

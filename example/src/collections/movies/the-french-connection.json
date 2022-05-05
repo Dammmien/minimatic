@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The French Connection",
+    "year": 1971,
+    "cast": [
+      "Gene Hackman",
+      "Roy Scheider"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-french-connection.html"
+}

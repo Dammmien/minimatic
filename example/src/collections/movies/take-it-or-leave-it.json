@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Take It or Leave It",
+    "year": 1944,
+    "cast": [
+      "Phil Baker",
+      "Madge Meredith"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/take-it-or-leave-it.html"
+}

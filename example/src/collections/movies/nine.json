@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Nine",
+    "year": 2009,
+    "cast": [
+      "Daniel Day-Lewis",
+      "Marion Cotillard",
+      "Nicole Kidman",
+      "Penélope Cruz",
+      "Kate Hudson",
+      "Judi Dench",
+      "Fergie",
+      "Sophia Loren"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/nine.html"
+}

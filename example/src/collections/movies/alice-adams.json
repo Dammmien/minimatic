@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Alice Adams",
+    "year": 1935,
+    "cast": [
+      "Katharine Hepburn",
+      "Fred MacMurray",
+      "Evelyn Venable"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/alice-adams.html"
+}

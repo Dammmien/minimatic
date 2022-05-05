@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dough and Dynamite",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Chester Conklin",
+      "Fritz Schade"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dough-and-dynamite.html"
+}

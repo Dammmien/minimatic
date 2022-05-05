@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Two-Fisted Law",
+    "year": 1932,
+    "cast": [
+      "Tim McCoy",
+      "John Wayne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/two-fisted-law.html"
+}

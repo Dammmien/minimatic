@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gallowwalker",
+    "year": 2009,
+    "cast": [
+      "Wesley Snipes",
+      "Riley Smith",
+      "Patrick Bergin"
+    ],
+    "genres": [
+      "Horror",
+      "Western"
+    ]
+  },
+  "output": "movies/gallowwalker.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "War Correspondent",
+    "year": 1932,
+    "cast": [
+      "Jack Holt",
+      "Ralph Graves",
+      "Lila Lee"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/war-correspondent.html"
+}

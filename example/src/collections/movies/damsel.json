@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Damsel",
+    "year": 2018,
+    "cast": [
+      "Robert Pattinson",
+      "Mia Wasikowska"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/damsel.html"
+}

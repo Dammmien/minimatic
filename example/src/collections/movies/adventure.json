@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Adventure",
+    "year": 1945,
+    "cast": [
+      "Clark Gable",
+      "Greer Garson",
+      "Joan Blondell"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/adventure.html"
+}

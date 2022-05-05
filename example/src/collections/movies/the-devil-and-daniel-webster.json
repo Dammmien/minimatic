@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Devil and Daniel Webster",
+    "year": 1941,
+    "cast": [
+      "Edward Arnold",
+      "Walter Huston",
+      "James Craig"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-devil-and-daniel-webster.html"
+}

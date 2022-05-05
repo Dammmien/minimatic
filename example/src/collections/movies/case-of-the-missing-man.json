@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Case of the Missing Man",
+    "year": 1935,
+    "cast": [
+      "Roger Pryor",
+      "Joan Perry"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/case-of-the-missing-man.html"
+}

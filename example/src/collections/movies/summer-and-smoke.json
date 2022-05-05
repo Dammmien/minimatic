@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Summer and Smoke",
+    "year": 1961,
+    "cast": [
+      "Laurence Harvey",
+      "Geraldine Page",
+      "Rita Moreno",
+      "Thomas Gomez",
+      "Una Merkel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/summer-and-smoke.html"
+}

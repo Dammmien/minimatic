@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Night Falls on Manhattan",
+    "year": 1997,
+    "cast": [
+      "Andy García",
+      "Richard Dreyfuss",
+      "Lena Olin",
+      "Ian Holm",
+      "Ron Leibman",
+      "James Gandolfini"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/night-falls-on-manhattan.html"
+}

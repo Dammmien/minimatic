@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Telefon",
+    "year": 1977,
+    "cast": [
+      "Charles Bronson",
+      "Lee Remick",
+      "Donald Pleasence"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/telefon.html"
+}

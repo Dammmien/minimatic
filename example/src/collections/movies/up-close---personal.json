@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Up Close & Personal",
+    "year": 1996,
+    "cast": [
+      "Robert Redford",
+      "Michelle Pfeiffer",
+      "Joe Mantegna",
+      "Stockard Channing",
+      "Kate Nelligan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/up-close---personal.html"
+}

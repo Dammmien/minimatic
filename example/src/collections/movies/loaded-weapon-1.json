@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Loaded Weapon 1",
+    "year": 1993,
+    "cast": [
+      "Emilio Estevez",
+      "Samuel L. Jackson"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/loaded-weapon-1.html"
+}

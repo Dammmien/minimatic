@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Gentleman at Heart",
+    "year": 1942,
+    "cast": [
+      "Carole Landis",
+      "Milton Berle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-gentleman-at-heart.html"
+}

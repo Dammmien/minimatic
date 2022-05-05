@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Like Mike",
+    "year": 2002,
+    "cast": [
+      "Bow Wow",
+      "Morris Chestnut",
+      "Jonathan Lipnicki"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/like-mike.html"
+}

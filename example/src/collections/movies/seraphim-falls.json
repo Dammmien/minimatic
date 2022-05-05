@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Seraphim Falls",
+    "year": 2007,
+    "cast": [
+      "Pierce Brosnan",
+      "Liam Neeson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/seraphim-falls.html"
+}

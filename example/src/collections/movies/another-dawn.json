@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Another Dawn",
+    "year": 1937,
+    "cast": [
+      "Kay Francis",
+      "Errol Flynn",
+      "Ian Hunter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/another-dawn.html"
+}

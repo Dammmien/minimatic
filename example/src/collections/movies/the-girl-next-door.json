@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Girl Next Door",
+    "year": 2004,
+    "cast": [
+      "Elisha Cuthbert",
+      "Emile Hirsch",
+      "Timothy Olyphant"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-girl-next-door.html"
+}

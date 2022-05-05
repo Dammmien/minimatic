@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Autumn Leaves",
+    "year": 1956,
+    "cast": [
+      "Joan Crawford",
+      "Cliff Robertson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/autumn-leaves.html"
+}

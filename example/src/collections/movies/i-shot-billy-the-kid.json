@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Shot Billy the Kid",
+    "year": 1950,
+    "cast": [
+      "Don 'Red' Barry",
+      "Robert Lowery"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/i-shot-billy-the-kid.html"
+}

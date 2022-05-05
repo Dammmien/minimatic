@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Pirates of the High Seas",
+    "year": 1950,
+    "cast": [
+      "Buster Crabbe",
+      "Lois Hall"
+    ],
+    "genres": []
+  },
+  "output": "movies/pirates-of-the-high-seas.html"
+}

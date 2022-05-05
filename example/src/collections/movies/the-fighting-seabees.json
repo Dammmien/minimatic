@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Seabees",
+    "year": 1944,
+    "cast": [
+      "John Wayne",
+      "Susan Hayward"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-fighting-seabees.html"
+}

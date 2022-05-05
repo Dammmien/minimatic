@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Professor Tom",
+    "year": 1948,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/professor-tom.html"
+}

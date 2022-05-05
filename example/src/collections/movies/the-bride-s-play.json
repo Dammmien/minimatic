@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bride's Play",
+    "year": 1922,
+    "cast": [
+      "Marion Davies",
+      "John B. O'Brien"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-bride-s-play.html"
+}

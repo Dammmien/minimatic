@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rough Riders",
+    "year": 1997,
+    "cast": [
+      "Tom Berenger",
+      "Chris Noth",
+      "Gary Busey",
+      "Sam Elliott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rough-riders.html"
+}

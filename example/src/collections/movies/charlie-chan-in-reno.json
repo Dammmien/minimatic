@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Charlie Chan in Reno",
+    "year": 1939,
+    "cast": [
+      "Sidney Toler",
+      "Ricardo Cortez",
+      "Phyllis Brooks",
+      "Slim Summerville"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/charlie-chan-in-reno.html"
+}

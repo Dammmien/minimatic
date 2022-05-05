@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dancing Mothers",
+    "year": 1926,
+    "cast": [
+      "Alice Joyce",
+      "Conway Tearle",
+      "Clara Bow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dancing-mothers.html"
+}

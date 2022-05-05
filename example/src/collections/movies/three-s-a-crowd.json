@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three's a Crowd",
+    "year": 1945,
+    "cast": [
+      "Pamela Blake",
+      "Gertrude Michael"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/three-s-a-crowd.html"
+}

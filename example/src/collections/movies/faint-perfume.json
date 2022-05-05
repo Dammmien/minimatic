@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Faint Perfume",
+    "year": 1925,
+    "cast": [
+      "Seena Owen",
+      "William Powell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/faint-perfume.html"
+}

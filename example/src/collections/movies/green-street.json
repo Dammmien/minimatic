@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Green Street",
+    "year": 2005,
+    "cast": [
+      "Elijah Wood",
+      "Charlie Hunnam",
+      "Claire Forlani"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/green-street.html"
+}

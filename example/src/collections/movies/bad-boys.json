@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Bad Boys",
+    "year": 1995,
+    "cast": [
+      "Martin Lawrence",
+      "Will Smith",
+      "Téa Leoni",
+      "Tcheky Karyo",
+      "Theresa Randle",
+      "Joe Pantoliano"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/bad-boys.html"
+}

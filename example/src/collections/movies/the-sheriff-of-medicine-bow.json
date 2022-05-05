@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sheriff of Medicine Bow",
+    "year": 1948,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-sheriff-of-medicine-bow.html"
+}

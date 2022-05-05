@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Private Lives",
+    "year": 1931,
+    "cast": [
+      "Norma Shearer",
+      "Robert Montgomery",
+      "Reginald Denny"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/private-lives.html"
+}

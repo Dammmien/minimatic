@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Red Lights Ahead",
+    "year": 1936,
+    "cast": [
+      "Andy Clyde",
+      "Lucile Gleason",
+      "Ann Doran"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/red-lights-ahead.html"
+}

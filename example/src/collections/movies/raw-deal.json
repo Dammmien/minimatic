@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Raw Deal",
+    "year": 1986,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Kathryn Harrold"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/raw-deal.html"
+}

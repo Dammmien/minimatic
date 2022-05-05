@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Frailty",
+    "year": 2001,
+    "cast": [
+      "Bill Paxton",
+      "Powers Boothe",
+      "Matthew McConaughey"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/frailty.html"
+}

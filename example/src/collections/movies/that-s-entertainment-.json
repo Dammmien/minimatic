@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "That's Entertainment!",
+    "year": 1974,
+    "cast": [
+      "Fred Astaire",
+      "Gene Kelly",
+      "Frank Sinatra",
+      "Elizabeth Taylor",
+      "Mickey Rooney",
+      "Liza Minnelli",
+      "Debbie Reynolds",
+      "James Stewart",
+      "Bing Crosby"
+    ],
+    "genres": [
+      "Documentary",
+      "Musical"
+    ]
+  },
+  "output": "movies/that-s-entertainment-.html"
+}

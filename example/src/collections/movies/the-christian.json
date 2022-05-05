@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Christian",
+    "year": 1923,
+    "cast": [
+      "Richard Dix",
+      "Mae Busch",
+      "Gareth Hughes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-christian.html"
+}

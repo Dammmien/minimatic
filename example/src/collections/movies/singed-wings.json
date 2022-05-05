@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Singed Wings",
+    "year": 1922,
+    "cast": [
+      "Bebe Daniels",
+      "Conrad Nagel",
+      "Adolphe Menjou"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/singed-wings.html"
+}

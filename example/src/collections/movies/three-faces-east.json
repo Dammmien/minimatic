@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Faces East",
+    "year": 1930,
+    "cast": [
+      "Constance Bennett",
+      "Erich von Stroheim"
+    ],
+    "genres": [
+      "War",
+      "Romance"
+    ]
+  },
+  "output": "movies/three-faces-east.html"
+}

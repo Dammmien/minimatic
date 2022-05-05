@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cowboy Canteen",
+    "year": 1944,
+    "cast": [
+      "Jane Frazee",
+      "Tex Ritter"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/cowboy-canteen.html"
+}

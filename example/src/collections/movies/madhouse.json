@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Madhouse",
+    "year": 1990,
+    "cast": [
+      "Kirstie Alley",
+      "John Larroquette"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/madhouse.html"
+}

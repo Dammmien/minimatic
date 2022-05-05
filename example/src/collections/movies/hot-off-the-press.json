@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hot Off the Press",
+    "year": 1935,
+    "cast": [
+      "Jack La Rue",
+      "Monte Blue"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hot-off-the-press.html"
+}

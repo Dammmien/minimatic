@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Psychic Killer",
+    "year": 1975,
+    "cast": [
+      "Jim Hutton",
+      "Julie Adams"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/psychic-killer.html"
+}

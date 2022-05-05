@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ladies of the Jury",
+    "year": 1932,
+    "cast": [
+      "Edna May Oliver",
+      "Jill Esmond",
+      "Roscoe Ates"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ladies-of-the-jury.html"
+}

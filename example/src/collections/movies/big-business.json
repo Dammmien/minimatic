@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Big Business",
+    "year": 1988,
+    "cast": [
+      "Lily Tomlin",
+      "Bette Midler"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/big-business.html"
+}

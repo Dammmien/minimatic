@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Drift Fence",
+    "year": 1936,
+    "cast": [
+      "Buster Crabbe",
+      "Katherine DeMille",
+      "Tom Keene"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/drift-fence.html"
+}

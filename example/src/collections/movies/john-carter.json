@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "John Carter",
+    "year": 2012,
+    "cast": [
+      "Taylor Kitsch",
+      "Lynn Collins",
+      "Samantha Morton",
+      "Mark Strong",
+      "Ciarán Hinds",
+      "Dominic West",
+      "James Purefoy",
+      "Willem Dafoe",
+      "Bryan Cranston",
+      "Polly Walker",
+      "Daryl Sabara"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/john-carter.html"
+}

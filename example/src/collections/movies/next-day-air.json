@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Next Day Air",
+    "year": 2009,
+    "cast": [
+      "Donald Faison",
+      "Mike Epps",
+      "Wood Harris",
+      "Omari Hardwick",
+      "Darius McCrary",
+      "Yasmin Deliz",
+      "Mos Def"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/next-day-air.html"
+}

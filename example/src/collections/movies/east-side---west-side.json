@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "East Side - West Side",
+    "year": 1923,
+    "cast": [
+      "Kenneth Harlan",
+      "Eileen Percy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/east-side---west-side.html"
+}

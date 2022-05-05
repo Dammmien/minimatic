@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Parallax View",
+    "year": 1974,
+    "cast": [
+      "Warren Beatty",
+      "Paula Prentiss",
+      "Hume Cronyn",
+      "William Daniels"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-parallax-view.html"
+}

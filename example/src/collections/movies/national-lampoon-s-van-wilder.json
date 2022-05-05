@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "National Lampoon's Van Wilder",
+    "year": 2002,
+    "cast": [
+      "Ryan Reynolds",
+      "Tara Reid",
+      "Kal Penn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/national-lampoon-s-van-wilder.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hot Tip",
+    "year": 1935,
+    "cast": [
+      "ZaSu Pitts",
+      "James Gleason",
+      "Margaret Callahan",
+      "Russell Gleason"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hot-tip.html"
+}

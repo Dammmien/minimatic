@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last Edition",
+    "year": 1925,
+    "cast": [
+      "Ralph Lewis",
+      "Lila Leslie",
+      "Ray Hallor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-last-edition.html"
+}

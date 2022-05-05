@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Matinee Idol",
+    "year": 1928,
+    "cast": [
+      "Bessie Love",
+      "Johnnie Walker"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-matinee-idol.html"
+}

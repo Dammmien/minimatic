@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mugsy's Girls",
+    "year": 1985,
+    "cast": [
+      "Laura Branigan",
+      "Ruth Gordon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mugsy-s-girls.html"
+}

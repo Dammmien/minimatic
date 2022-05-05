@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shield for Murder",
+    "year": 1954,
+    "cast": [
+      "Edmond O'Brien",
+      "Marla English",
+      "John Agar"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/shield-for-murder.html"
+}

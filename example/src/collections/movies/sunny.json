@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sunny",
+    "year": 1941,
+    "cast": [
+      "Anna Neagle",
+      "Ray Bolger",
+      "Edward Everett Horton"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/sunny.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Butterfly",
+    "year": 1982,
+    "cast": [
+      "Pia Zadora",
+      "Ed McMahon",
+      "Orson Welles",
+      "Lois Nettleton",
+      "June Lockhart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/butterfly.html"
+}

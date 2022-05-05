@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Singing Cowboy",
+    "year": 1936,
+    "cast": [
+      "Gene Autry",
+      "Lois Wilde"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-singing-cowboy.html"
+}

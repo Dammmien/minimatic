@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "That's My Daddy",
+    "year": 1928,
+    "cast": [
+      "Reginald Denny",
+      "Barbara Kent",
+      "Lillian Rich"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-s-my-daddy.html"
+}

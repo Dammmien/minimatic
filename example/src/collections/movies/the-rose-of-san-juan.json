@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Rose of San Juan",
+    "year": 1913,
+    "cast": [
+      "Sydney Ayres",
+      "Charlotte Burton",
+      "Louise Lester"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-rose-of-san-juan.html"
+}

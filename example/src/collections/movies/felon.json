@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Felon",
+    "year": 2008,
+    "cast": [
+      "Stephen Dorff",
+      "Val Kilmer"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/felon.html"
+}

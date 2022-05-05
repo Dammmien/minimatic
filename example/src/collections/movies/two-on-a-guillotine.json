@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two on a Guillotine",
+    "year": 1965,
+    "cast": [
+      "Connie Stevens",
+      "Cesar Romero",
+      "Dean Jones"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/two-on-a-guillotine.html"
+}

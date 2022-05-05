@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Big Parade",
+    "year": 1925,
+    "cast": [
+      "John Gilbert",
+      "Renée Adorée"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-big-parade.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "In Dreams",
+    "year": 1999,
+    "cast": [
+      "Annette Bening",
+      "Katie Sagona",
+      "Aidan Quinn",
+      "Robert Downey Jr.",
+      "Stephen Rea"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/in-dreams.html"
+}

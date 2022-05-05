@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kentucky Days",
+    "year": 1923,
+    "cast": [
+      "Dustin Farnum",
+      "Bruce Gordon"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/kentucky-days.html"
+}

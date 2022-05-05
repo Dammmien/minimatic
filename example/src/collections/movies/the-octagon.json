@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Octagon",
+    "year": 1980,
+    "cast": [
+      "Chuck Norris"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-octagon.html"
+}

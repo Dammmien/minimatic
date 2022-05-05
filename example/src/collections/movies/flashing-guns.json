@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flashing Guns",
+    "year": 1947,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/flashing-guns.html"
+}

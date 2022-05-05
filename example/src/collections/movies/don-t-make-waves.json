@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Don't Make Waves",
+    "year": 1967,
+    "cast": [
+      "Tony Curtis",
+      "Claudia Cardinale",
+      "Sharon Tate"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/don-t-make-waves.html"
+}

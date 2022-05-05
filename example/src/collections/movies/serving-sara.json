@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Serving Sara",
+    "year": 2002,
+    "cast": [
+      "Matthew Perry",
+      "Elizabeth Hurley",
+      "Bruce Campbell"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/serving-sara.html"
+}

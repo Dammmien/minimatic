@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Marked for Murder",
+    "year": 1945,
+    "cast": [
+      "Tex Ritter",
+      "Dave O'Brien"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/marked-for-murder.html"
+}

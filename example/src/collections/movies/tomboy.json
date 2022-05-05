@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tomboy",
+    "year": 1985,
+    "cast": [
+      "Betsy Russell",
+      "Kristi Somers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tomboy.html"
+}

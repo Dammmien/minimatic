@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Funeral",
+    "year": 1996,
+    "cast": [
+      "Christopher Walken",
+      "Chris Penn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-funeral.html"
+}

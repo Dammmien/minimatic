@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Against the Ropes",
+    "year": 2004,
+    "cast": [
+      "Meg Ryan",
+      "Omar Epps"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/against-the-ropes.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Sexy Beast",
+    "year": 2000,
+    "cast": [
+      "Ray Winstone",
+      "Ben Kingsley",
+      "Ian McShane",
+      "Amanda Redman",
+      "James Fox"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/sexy-beast.html"
+}

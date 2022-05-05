@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Power and the Glory",
+    "year": 1933,
+    "cast": [
+      "Spencer Tracy",
+      "Colleen Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-power-and-the-glory.html"
+}

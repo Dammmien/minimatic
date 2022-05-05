@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Zoom",
+    "year": 2006,
+    "cast": [
+      "Tim Allen",
+      "Courteney Cox"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/zoom.html"
+}

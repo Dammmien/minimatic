@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The WAC from Walla Walla",
+    "year": 1952,
+    "cast": [
+      "Judy Canova",
+      "Stephen Dunne"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-wac-from-walla-walla.html"
+}

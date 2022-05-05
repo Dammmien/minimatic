@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sealed Verdict",
+    "year": 1948,
+    "cast": [
+      "Ray Milland",
+      "Florence Marly",
+      "Broderick Crawford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sealed-verdict.html"
+}

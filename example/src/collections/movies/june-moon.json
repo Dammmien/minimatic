@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "June Moon",
+    "year": 1931,
+    "cast": [
+      "Frances Dee",
+      "June MacCloy",
+      "Wynne Gibson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/june-moon.html"
+}

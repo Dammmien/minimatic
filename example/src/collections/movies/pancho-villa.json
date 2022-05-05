@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pancho Villa",
+    "year": 1972,
+    "cast": [
+      "Telly Savalas",
+      "Clint Walker",
+      "Chuck Connors"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/pancho-villa.html"
+}

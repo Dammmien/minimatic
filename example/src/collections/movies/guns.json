@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Guns",
+    "year": 1990,
+    "cast": [
+      "Erik Estrada",
+      "Dona Speir"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/guns.html"
+}

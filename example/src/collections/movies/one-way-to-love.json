@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Way to Love",
+    "year": 1946,
+    "cast": [
+      "Marguerite Chapman",
+      "Chester Morris",
+      "Janis Carter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-way-to-love.html"
+}

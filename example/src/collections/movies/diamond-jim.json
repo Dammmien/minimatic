@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Diamond Jim",
+    "year": 1935,
+    "cast": [
+      "Edward Arnold",
+      "Jean Arthur",
+      "Binnie Barnes"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/diamond-jim.html"
+}

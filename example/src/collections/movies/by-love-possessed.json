@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "By Love Possessed",
+    "year": 1961,
+    "cast": [
+      "Lana Turner",
+      "Efrem Zimbalist, Jr.",
+      "Jason Robards"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/by-love-possessed.html"
+}

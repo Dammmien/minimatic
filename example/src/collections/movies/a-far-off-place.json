@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Far Off Place",
+    "year": 1993,
+    "cast": [
+      "Reese Witherspoon",
+      "Ethan Embry"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/a-far-off-place.html"
+}

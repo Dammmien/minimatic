@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mother's Day",
+    "year": 2016,
+    "cast": [
+      "Jennifer Aniston",
+      "Julia Roberts"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/mother-s-day.html"
+}

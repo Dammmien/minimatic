@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The War Room",
+    "year": 1993,
+    "cast": [
+      "James Carville",
+      "Paul Begala"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-war-room.html"
+}

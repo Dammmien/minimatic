@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Arizona Manhunt",
+    "year": 1951,
+    "cast": [
+      "Michael Chapin",
+      "Eilene Janssen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/arizona-manhunt.html"
+}

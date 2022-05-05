@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Terror by Night",
+    "year": 1946,
+    "cast": [
+      "Basil Rathbone",
+      "Nigel Bruce"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/terror-by-night.html"
+}

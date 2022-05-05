@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dry Martini",
+    "year": 1928,
+    "cast": [
+      "Mary Astor",
+      "Sally Eilers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dry-martini.html"
+}

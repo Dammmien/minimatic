@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "For the Boys",
+    "year": 1991,
+    "cast": [
+      "Bette Midler",
+      "James Caan",
+      "George Segal",
+      "Arye Gross"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/for-the-boys.html"
+}

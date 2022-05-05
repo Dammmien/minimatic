@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Disaster Zone: Volcano in New York",
+    "year": 2006,
+    "cast": [
+      "Costas Mandylor",
+      "Alexandra Paul",
+      "Michael Ironside"
+    ],
+    "genres": [
+      "Disaster"
+    ]
+  },
+  "output": "movies/disaster-zone--volcano-in-new-york.html"
+}

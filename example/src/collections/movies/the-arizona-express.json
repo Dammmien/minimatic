@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Arizona Express",
+    "year": 1924,
+    "cast": [
+      "Pauline Starke",
+      "Evelyn Brent"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-arizona-express.html"
+}

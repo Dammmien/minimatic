@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Modern Age",
+    "year": 1931,
+    "cast": [
+      "Joan Crawford",
+      "Neil Hamilton",
+      "Pauline Frederick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/this-modern-age.html"
+}

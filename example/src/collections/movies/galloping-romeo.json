@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Galloping Romeo",
+    "year": 1933,
+    "cast": [
+      "Bob Steele",
+      "Doris Hill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/galloping-romeo.html"
+}

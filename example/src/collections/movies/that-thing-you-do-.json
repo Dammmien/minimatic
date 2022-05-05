@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "That Thing You Do!",
+    "year": 1996,
+    "cast": [
+      "Tom Everett Scott",
+      "Liv Tyler",
+      "Steve Zahn",
+      "Ethan Embry",
+      "Johnathon Schaech",
+      "Tom Hanks"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/that-thing-you-do-.html"
+}

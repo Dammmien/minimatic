@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hot Rhythm",
+    "year": 1944,
+    "cast": [
+      "Dona Drake",
+      "Robert Lowery",
+      "Irene Ryan"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hot-rhythm.html"
+}

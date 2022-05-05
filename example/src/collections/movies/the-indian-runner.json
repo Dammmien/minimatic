@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Indian Runner",
+    "year": 1991,
+    "cast": [
+      "Viggo Mortensen",
+      "David Morse",
+      "Valeria Golino",
+      "Patricia Arquette",
+      "Charles Bronson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-indian-runner.html"
+}

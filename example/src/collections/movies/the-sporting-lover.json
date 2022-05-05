@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sporting Lover",
+    "year": 1926,
+    "cast": [
+      "Conway Tearle",
+      "Barbara Bedford",
+      "Ward Crane"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/the-sporting-lover.html"
+}

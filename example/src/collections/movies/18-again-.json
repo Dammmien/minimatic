@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "18 Again!",
+    "year": 1988,
+    "cast": [
+      "George Burns",
+      "Charlie Schlatter",
+      "Tony Roberts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/18-again-.html"
+}

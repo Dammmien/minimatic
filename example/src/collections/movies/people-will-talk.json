@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "People Will Talk",
+    "year": 1951,
+    "cast": [
+      "Cary Grant",
+      "Jeanne Crain",
+      "Sidney Blackmer",
+      "Hume Cronyn",
+      "Walter Slezak",
+      "Finlay Currie"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/people-will-talk.html"
+}

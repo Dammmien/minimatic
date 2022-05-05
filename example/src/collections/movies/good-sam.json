@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Good Sam",
+    "year": 1948,
+    "cast": [
+      "Gary Cooper",
+      "Ann Sheridan",
+      "Edmund Lowe"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/good-sam.html"
+}

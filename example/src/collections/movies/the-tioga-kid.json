@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Tioga Kid",
+    "year": 1948,
+    "cast": [
+      "Eddie Dean",
+      "Roscoe Ates",
+      "Jennifer Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-tioga-kid.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "You Can't Have Everything",
+    "year": 1937,
+    "cast": [
+      "Alice Faye",
+      "Gypsy Rose Lee",
+      "The Ritz Brothers"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-can-t-have-everything.html"
+}

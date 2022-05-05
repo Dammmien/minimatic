@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chasing Yesterday",
+    "year": 1935,
+    "cast": [
+      "Anne Shirley",
+      "O. P. Heggie",
+      "Helen Westley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/chasing-yesterday.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sword of Monte Cristo",
+    "year": 1951,
+    "cast": [
+      "George Montgomery",
+      "Rita Corday"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-sword-of-monte-cristo.html"
+}

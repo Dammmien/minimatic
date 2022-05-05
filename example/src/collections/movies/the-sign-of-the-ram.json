@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sign of the Ram",
+    "year": 1948,
+    "cast": [
+      "Susan Peters",
+      "Alexander Knox"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sign-of-the-ram.html"
+}

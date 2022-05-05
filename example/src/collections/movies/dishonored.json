@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dishonored",
+    "year": 1931,
+    "cast": [
+      "Marlene Dietrich",
+      "Victor McLaglen",
+      "Warner Oland"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/dishonored.html"
+}

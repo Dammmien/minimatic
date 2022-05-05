@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Longest Yard",
+    "year": 2005,
+    "cast": [
+      "Adam Sandler",
+      "Burt Reynolds",
+      "Chris Rock"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-longest-yard.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Greedy",
+    "year": 1994,
+    "cast": [
+      "Michael J. Fox",
+      "Kirk Douglas",
+      "Nancy Travis",
+      "Phil Hartman",
+      "Ed Begley, Jr.",
+      "Bob Balaban",
+      "Colleen Camp",
+      "Olivia d'Abo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/greedy.html"
+}

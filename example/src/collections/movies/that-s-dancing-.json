@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "That's Dancing!",
+    "year": 1985,
+    "cast": [
+      "Gene Kelly",
+      "Mikhail Baryshnikov",
+      "Ray Bolger",
+      "Sammy Davis Jr.",
+      "Liza Minnelli"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/that-s-dancing-.html"
+}

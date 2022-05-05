@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl from Outside",
+    "year": 1919,
+    "cast": [
+      "Clara Horton",
+      "Cullen Landis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-girl-from-outside.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Granny Get Your Gun",
+    "year": 1940,
+    "cast": [
+      "May Robson",
+      "Margot Stevenson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/granny-get-your-gun.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Red Sundown",
+    "year": 1956,
+    "cast": [
+      "Rory Calhoun",
+      "Martha Hyer",
+      "Dean Jagger"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/red-sundown.html"
+}

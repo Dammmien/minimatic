@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Undercover Girl",
+    "year": 1950,
+    "cast": [
+      "Alexis Smith",
+      "Scott Brady",
+      "Richard Egan"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/undercover-girl.html"
+}

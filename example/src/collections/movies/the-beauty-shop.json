@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Beauty Shop",
+    "year": 1922,
+    "cast": [
+      "Raymond Hitchcock",
+      "Louise Fazenda"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-beauty-shop.html"
+}

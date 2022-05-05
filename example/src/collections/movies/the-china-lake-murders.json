@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The China Lake Murders",
+    "year": 1990,
+    "cast": [
+      "Tom Skerritt",
+      "Michael Parks"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-china-lake-murders.html"
+}

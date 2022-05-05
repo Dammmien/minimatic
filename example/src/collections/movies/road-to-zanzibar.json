@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Road to Zanzibar",
+    "year": 1941,
+    "cast": [
+      "Bob Hope",
+      "Bing Crosby",
+      "Dorothy Lamour"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/road-to-zanzibar.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "You're Next",
+    "year": 2013,
+    "cast": [
+      "Sharni Vinson",
+      "Nicholas Tucci",
+      "Wendy Glenn",
+      "A. J. Bowen",
+      "Joe Swanberg",
+      "Barbara Crampton",
+      "Rob Moran"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/you-re-next.html"
+}

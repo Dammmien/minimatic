@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gay Senorita",
+    "year": 1945,
+    "cast": [
+      "Jinx Falkenburg",
+      "Jim Bannon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-gay-senorita.html"
+}

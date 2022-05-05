@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "On the Waterfront",
+    "year": 1954,
+    "cast": [
+      "Marlon Brando",
+      "Eva Marie Saint",
+      "Karl Malden",
+      "Rod Steiger",
+      "Lee J. Cobb"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/on-the-waterfront.html"
+}

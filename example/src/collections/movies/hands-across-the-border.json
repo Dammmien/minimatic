@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hands Across the Border",
+    "year": 1944,
+    "cast": [
+      "Roy Rogers",
+      "Trigger",
+      "Ruth Terry"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hands-across-the-border.html"
+}

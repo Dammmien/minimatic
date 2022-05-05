@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Million Dollar Mystery",
+    "year": 1987,
+    "cast": [
+      "Tom Bosley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/million-dollar-mystery.html"
+}

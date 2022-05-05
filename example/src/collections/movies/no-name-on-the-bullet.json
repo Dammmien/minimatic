@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "No Name on the Bullet",
+    "year": 1959,
+    "cast": [
+      "Audie Murphy",
+      "Charles Drake",
+      "Joan Evans"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/no-name-on-the-bullet.html"
+}

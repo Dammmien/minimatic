@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shout at the Devil",
+    "year": 1976,
+    "cast": [
+      "Lee Marvin",
+      "Roger Moore"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/shout-at-the-devil.html"
+}

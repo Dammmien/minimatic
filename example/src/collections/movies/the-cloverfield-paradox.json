@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Cloverfield Paradox",
+    "year": 2018,
+    "cast": [
+      "Daniel Brühl",
+      "Elizabeth Debicki",
+      "Aksel Hennie",
+      "Gugu Mbatha-Raw",
+      "Chris O'Dowd",
+      "John Ortiz",
+      "David Oyelowo",
+      "Zhang Ziyi"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-cloverfield-paradox.html"
+}

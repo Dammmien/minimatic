@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Forsaking All Others",
+    "year": 1934,
+    "cast": [
+      "Joan Crawford",
+      "Clark Gable",
+      "Robert Montgomery"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/forsaking-all-others.html"
+}

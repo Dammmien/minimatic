@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Midnight Guest",
+    "year": 1923,
+    "cast": [
+      "Grace Darmond",
+      "Mahlon Hamilton"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-midnight-guest.html"
+}

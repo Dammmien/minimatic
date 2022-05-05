@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Deciding Kiss",
+    "year": 1918,
+    "cast": [
+      "Edith Roberts",
+      "Hallam Cooley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-deciding-kiss.html"
+}

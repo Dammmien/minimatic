@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Some Bride",
+    "year": 1919,
+    "cast": [
+      "Viola Dana",
+      "Irving Cummings"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/some-bride.html"
+}

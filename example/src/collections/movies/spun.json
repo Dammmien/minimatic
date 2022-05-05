@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Spun",
+    "year": 2002,
+    "cast": [
+      "Jason Schwartzman",
+      "Brittany Murphy",
+      "Mickey Rourke"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/spun.html"
+}

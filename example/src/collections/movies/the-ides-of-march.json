@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "The Ides of March",
+    "year": 2011,
+    "cast": [
+      "Ryan Gosling",
+      "George Clooney",
+      "Philip Seymour Hoffman",
+      "Paul Giamatti",
+      "Marisa Tomei",
+      "Jeffrey Wright",
+      "and",
+      "Evan Rachel Wood"
+    ],
+    "genres": [
+      "Political",
+      "Drama",
+      "Political",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-ides-of-march.html"
+}

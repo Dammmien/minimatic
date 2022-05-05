@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cabin in the Cotton",
+    "year": 1932,
+    "cast": [
+      "Bette Davis",
+      "Richard Barthelmess",
+      "Dorothy Jordan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-cabin-in-the-cotton.html"
+}

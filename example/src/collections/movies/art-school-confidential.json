@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Art School Confidential",
+    "year": 2006,
+    "cast": [
+      "Max Minghella",
+      "Sophia Myles",
+      "John Malkovich"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/art-school-confidential.html"
+}

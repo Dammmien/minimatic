@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ratatouille",
+    "year": 2007,
+    "cast": [
+      "Patton Oswalt",
+      "Lou Romano",
+      "Peter Sohn",
+      "Brad Garrett"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/ratatouille.html"
+}

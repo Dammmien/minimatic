@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Showboy",
+    "year": 2002,
+    "cast": [
+      "Christian Taylor",
+      "Lindy Heymann",
+      "Joe Daly"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/showboy.html"
+}

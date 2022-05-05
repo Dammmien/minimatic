@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wrecking Crew",
+    "year": 1942,
+    "cast": [
+      "Jean Parker",
+      "Richard Arlen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wrecking-crew.html"
+}

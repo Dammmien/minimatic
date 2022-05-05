@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Don Juan DeMarco",
+    "year": 1995,
+    "cast": [
+      "Marlon Brando",
+      "Johnny Depp",
+      "Faye Dunaway"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/don-juan-demarco.html"
+}

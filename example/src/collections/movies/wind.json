@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wind",
+    "year": 1992,
+    "cast": [
+      "Matthew Modine",
+      "Jennifer Grey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wind.html"
+}

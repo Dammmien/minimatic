@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "P.J.",
+    "year": 1968,
+    "cast": [
+      "George Peppard",
+      "Raymond Burr",
+      "Gayle Hunnicutt"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/p-j-.html"
+}

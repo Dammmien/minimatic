@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Operation Pacific",
+    "year": 1951,
+    "cast": [
+      "John Wayne",
+      "Patricia Neal"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/operation-pacific.html"
+}

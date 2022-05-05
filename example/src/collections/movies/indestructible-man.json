@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Indestructible Man",
+    "year": 1956,
+    "cast": [
+      "Lon Chaney Jr.",
+      "Ross Elliott"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/indestructible-man.html"
+}

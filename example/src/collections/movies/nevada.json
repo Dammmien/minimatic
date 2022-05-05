@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nevada",
+    "year": 1997,
+    "cast": [
+      "Amy Brenneman",
+      "Kirstie Alley",
+      "Gabrielle Anwar"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/nevada.html"
+}

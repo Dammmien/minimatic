@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl Who Came Back",
+    "year": 1935,
+    "cast": [
+      "Shirley Grey",
+      "Noel Madison"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-girl-who-came-back.html"
+}

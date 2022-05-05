@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Servants' Entrance",
+    "year": 1934,
+    "cast": [
+      "Janet Gaynor",
+      "Lew Ayres"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/servants--entrance.html"
+}

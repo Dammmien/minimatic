@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fifty Shades of Black",
+    "year": 2016,
+    "cast": [
+      "Marlon Wayans",
+      "Kali Hawk",
+      "Mike Epps"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fifty-shades-of-black.html"
+}

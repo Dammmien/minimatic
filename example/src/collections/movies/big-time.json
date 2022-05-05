@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Big Time",
+    "year": 1988,
+    "cast": [
+      "Tom Waits"
+    ],
+    "genres": [
+      "Performance"
+    ]
+  },
+  "output": "movies/big-time.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Second Woman",
+    "year": 1950,
+    "cast": [
+      "Robert Young",
+      "Betsy Drake"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-second-woman.html"
+}

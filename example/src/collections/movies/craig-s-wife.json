@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Craig's Wife",
+    "year": 1936,
+    "cast": [
+      "Rosalind Russell",
+      "John Boles",
+      "Alma Kruger"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/craig-s-wife.html"
+}

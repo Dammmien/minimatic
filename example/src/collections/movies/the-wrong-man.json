@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wrong Man",
+    "year": 1993,
+    "cast": [
+      "Rosanna Arquette",
+      "Kevin Anderson",
+      "John Lithgow"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-wrong-man.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "They Drive by Night",
+    "year": 1940,
+    "cast": [
+      "George Raft",
+      "Humphrey Bogart",
+      "Ida Lupino",
+      "Ann Sheridan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/they-drive-by-night.html"
+}

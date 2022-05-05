@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Marriage-Go-Round",
+    "year": 1961,
+    "cast": [
+      "Julie Newmar",
+      "James Mason",
+      "Susan Hayward"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-marriage-go-round.html"
+}

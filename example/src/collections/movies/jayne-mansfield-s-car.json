@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Jayne Mansfield's Car",
+    "year": 2013,
+    "cast": [
+      "Robert Duvall",
+      "John Hurt",
+      "Billy Bob Thornton",
+      "Kevin Bacon",
+      "Robert Patrick",
+      "Ray Stevenson",
+      "Katherine LaNasa",
+      "Frances O'Connor",
+      "Shawnee Smith",
+      "Ron White"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jayne-mansfield-s-car.html"
+}

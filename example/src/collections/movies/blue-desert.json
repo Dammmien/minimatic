@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blue Desert",
+    "year": 1991,
+    "cast": [
+      "Courteney Cox",
+      "D. B. Sweeney"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/blue-desert.html"
+}

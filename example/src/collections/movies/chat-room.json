@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chat Room",
+    "year": 2002,
+    "cast": [
+      "Brian Hooks",
+      "Christopher Richards"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/chat-room.html"
+}

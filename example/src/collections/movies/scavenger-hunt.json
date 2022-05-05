@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Scavenger Hunt",
+    "year": 1979,
+    "cast": [
+      "Cloris Leachman",
+      "Cleavon Little",
+      "Tony Randall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/scavenger-hunt.html"
+}

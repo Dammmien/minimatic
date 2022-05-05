@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Inspector Gadget",
+    "year": 1999,
+    "cast": [
+      "Matthew Broderick",
+      "Rupert Everett",
+      "Joely Fisher",
+      "Michelle Trachtenberg",
+      "Andy Dick"
+    ],
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/inspector-gadget.html"
+}

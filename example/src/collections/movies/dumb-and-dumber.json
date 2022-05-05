@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dumb and Dumber",
+    "year": 1994,
+    "cast": [
+      "Jim Carrey",
+      "Jeff Daniels",
+      "Lauren Holly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dumb-and-dumber.html"
+}

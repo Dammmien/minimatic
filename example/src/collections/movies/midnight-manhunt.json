@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Midnight Manhunt",
+    "year": 1945,
+    "cast": [
+      "William Gargan",
+      "Ann Savage"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/midnight-manhunt.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Destry Rides Again",
+    "year": 1939,
+    "cast": [
+      "Marlene Dietrich",
+      "James Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/destry-rides-again.html"
+}

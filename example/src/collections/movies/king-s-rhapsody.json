@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "King's Rhapsody",
+    "year": 1955,
+    "cast": [
+      "Errol Flynn",
+      "Patrice Wymore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/king-s-rhapsody.html"
+}

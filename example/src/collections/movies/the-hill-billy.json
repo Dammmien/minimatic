@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hill Billy",
+    "year": 1924,
+    "cast": [
+      "Jack Pickford",
+      "Lucille Ricksen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hill-billy.html"
+}

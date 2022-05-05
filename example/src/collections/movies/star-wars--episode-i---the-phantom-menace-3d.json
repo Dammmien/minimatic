@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "Star Wars: Episode I – The Phantom Menace 3D",
+    "year": 2012,
+    "cast": [
+      "Liam Neeson",
+      "Ewan McGregor",
+      "Jake Lloyd",
+      "Ahmed Best",
+      "Pernilla August",
+      "Ian McDiarmid",
+      "Anthony Daniels",
+      "Kenny Baker",
+      "Frank Oz",
+      "Ray Park",
+      "Silas Carson",
+      "Sofia Coppola",
+      "Keira Knightley",
+      "Samuel L. Jackson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/star-wars--episode-i---the-phantom-menace-3d.html"
+}

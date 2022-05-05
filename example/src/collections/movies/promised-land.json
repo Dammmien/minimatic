@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Promised Land",
+    "year": 1987,
+    "cast": [
+      "Kiefer Sutherland",
+      "Meg Ryan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/promised-land.html"
+}

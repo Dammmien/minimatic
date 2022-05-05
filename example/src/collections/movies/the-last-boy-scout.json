@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Last Boy Scout",
+    "year": 1991,
+    "cast": [
+      "Bruce Willis",
+      "Damon Wayans",
+      "Chelsea Field",
+      "Noble Willingham",
+      "Taylor Negron",
+      "Danielle Harris",
+      "Halle Berry"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-last-boy-scout.html"
+}

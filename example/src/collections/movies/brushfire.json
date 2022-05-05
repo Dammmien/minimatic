@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Brushfire",
+    "year": 1962,
+    "cast": [
+      "John Ireland",
+      "Jo Morrow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/brushfire.html"
+}

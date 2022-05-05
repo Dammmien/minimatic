@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Promotion",
+    "year": 2008,
+    "cast": [
+      "Seann William Scott",
+      "John C. Reilly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-promotion.html"
+}

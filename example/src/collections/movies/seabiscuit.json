@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Seabiscuit",
+    "year": 2003,
+    "cast": [
+      "Tobey Maguire",
+      "Jeff Bridges",
+      "Chris Cooper",
+      "Elizabeth Banks",
+      "William H. Macy",
+      "Gary Stevens"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/seabiscuit.html"
+}

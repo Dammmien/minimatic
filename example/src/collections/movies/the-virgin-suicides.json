@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Virgin Suicides",
+    "year": 1999,
+    "cast": [
+      "James Woods",
+      "Kathleen Turner",
+      "Kirsten Dunst",
+      "Josh Hartnett",
+      "A. J. Cook"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-virgin-suicides.html"
+}

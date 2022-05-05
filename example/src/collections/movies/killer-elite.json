@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Killer Elite",
+    "year": 2011,
+    "cast": [
+      "Jason Statham",
+      "Clive Owen",
+      "and",
+      "Robert De Niro",
+      "Dominic Purcell",
+      "Aden Young",
+      "Yvonne Strahovski",
+      "Ben Mendelsohn",
+      "Adewale Akinnuoye-Agbaje",
+      "Grant Bowler",
+      "Matthew Nable"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/killer-elite.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Diary of a Mad Housewife",
+    "year": 1970,
+    "cast": [
+      "Carrie Snodgress",
+      "Richard Benjamin",
+      "Frank Langella"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/diary-of-a-mad-housewife.html"
+}

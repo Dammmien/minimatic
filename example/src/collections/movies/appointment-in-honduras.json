@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Appointment in Honduras",
+    "year": 1953,
+    "cast": [
+      "Glenn Ford",
+      "Ann Sheridan",
+      "Zachary Scott"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/appointment-in-honduras.html"
+}

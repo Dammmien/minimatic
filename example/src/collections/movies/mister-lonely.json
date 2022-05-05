@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mister Lonely",
+    "year": 2007,
+    "cast": [
+      "Diego Luna",
+      "Samantha Morton"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/mister-lonely.html"
+}

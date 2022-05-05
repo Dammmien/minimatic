@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sin City: A Dame to Kill For",
+    "year": 2014,
+    "cast": [
+      "Mickey Rourke",
+      "Jessica Alba",
+      "Josh Brolin",
+      "Bruce Willis"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/sin-city--a-dame-to-kill-for.html"
+}

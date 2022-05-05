@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "CBGB",
+    "year": 2013,
+    "cast": [
+      "Alan Rickman",
+      "Malin Åkerman",
+      "Freddy Rodriguez",
+      "Stana Katic",
+      "Howard Deklerk",
+      "Rupert Grint",
+      "Justin Bartha",
+      "Joel David Moore",
+      "Johnny Galecki",
+      "Donal Logue",
+      "Ashley Greene",
+      "Taylor Hawkins",
+      "Mickey Sumner"
+    ],
+    "genres": [
+      "Historical",
+      "Musical"
+    ]
+  },
+  "output": "movies/cbgb.html"
+}

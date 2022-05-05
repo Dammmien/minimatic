@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jalna",
+    "year": 1935,
+    "cast": [
+      "Kay Johnson",
+      "Ian Hunter",
+      "C. Aubrey Smith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jalna.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Cleopatra",
+    "year": 1963,
+    "cast": [
+      "Elizabeth Taylor",
+      "Richard Burton",
+      "Rex Harrison",
+      "Roddy McDowall",
+      "Martin Landau",
+      "Carroll O'Connor",
+      "Hume Cronyn"
+    ],
+    "genres": []
+  },
+  "output": "movies/cleopatra.html"
+}

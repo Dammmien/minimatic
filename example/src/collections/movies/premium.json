@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Premium",
+    "year": 2006,
+    "cast": [
+      "Dorian Missick",
+      "Zoe Saldana",
+      "Hill Harper"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/premium.html"
+}

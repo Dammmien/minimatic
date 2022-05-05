@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Just Out of College",
+    "year": 1920,
+    "cast": [
+      "Jack Pickford",
+      "Molly Malone"
+    ],
+    "genres": []
+  },
+  "output": "movies/just-out-of-college.html"
+}

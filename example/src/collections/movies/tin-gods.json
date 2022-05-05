@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tin Gods",
+    "year": 1926,
+    "cast": [
+      "Thomas Meighan",
+      "Renee Adoree",
+      "William Powell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tin-gods.html"
+}

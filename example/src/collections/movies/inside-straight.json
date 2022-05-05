@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Inside Straight",
+    "year": 1951,
+    "cast": [
+      "Mercedes McCambridge",
+      "Arlene Dahl"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/inside-straight.html"
+}

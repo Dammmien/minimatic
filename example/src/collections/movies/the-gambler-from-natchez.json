@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gambler from Natchez",
+    "year": 1954,
+    "cast": [
+      "Dale Robertson",
+      "Debra Paget"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-gambler-from-natchez.html"
+}

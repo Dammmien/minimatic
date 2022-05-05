@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stolen Sweets",
+    "year": 1934,
+    "cast": [
+      "Sally Blane",
+      "Jameson Thomas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stolen-sweets.html"
+}

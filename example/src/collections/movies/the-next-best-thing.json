@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Next Best Thing",
+    "year": 2000,
+    "cast": [
+      "Rupert Everett",
+      "Madonna",
+      "Benjamin Bratt"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-next-best-thing.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Imagine That",
+    "year": 2009,
+    "cast": [
+      "Eddie Murphy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/imagine-that.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Buried Alive",
+    "year": 1939,
+    "cast": [
+      "Beverly Roberts",
+      "Robert Wilcox"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/buried-alive.html"
+}

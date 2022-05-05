@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Dolly Sisters",
+    "year": 1945,
+    "cast": [
+      "Betty Grable",
+      "June Haver",
+      "John Payne"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-dolly-sisters.html"
+}

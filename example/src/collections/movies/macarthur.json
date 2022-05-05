@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "MacArthur",
+    "year": 1977,
+    "cast": [
+      "Gregory Peck",
+      "G. D. Spradlin"
+    ],
+    "genres": [
+      "War",
+      "Biography"
+    ]
+  },
+  "output": "movies/macarthur.html"
+}

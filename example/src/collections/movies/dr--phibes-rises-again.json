@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Dr. Phibes Rises Again",
+    "year": 1972,
+    "cast": [
+      "Vincent Price",
+      "Peter Cushing",
+      "Robert Quarry",
+      "Beryl Reid",
+      "Fiona Lewis",
+      "Terry-Thomas"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dr--phibes-rises-again.html"
+}

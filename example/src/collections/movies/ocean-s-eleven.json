@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Ocean's Eleven",
+    "year": 2001,
+    "cast": [
+      "George Clooney",
+      "Matt Damon",
+      "Brad Pitt",
+      "Andy García",
+      "Julia Roberts",
+      "Don Cheadle",
+      "Casey Affleck",
+      "Elliott Gould",
+      "Bernie Mac",
+      "Carl Reiner",
+      "Casey Affleck",
+      "Scott Caan"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/ocean-s-eleven.html"
+}

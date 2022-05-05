@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Forgotten Women",
+    "year": 1949,
+    "cast": [
+      "Elyse Knox",
+      "Edward Norris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/forgotten-women.html"
+}

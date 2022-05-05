@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Troll in Central Park",
+    "year": 1994,
+    "cast": [
+      "voices of",
+      "Cloris Leachman",
+      "Dom DeLuise"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/a-troll-in-central-park.html"
+}

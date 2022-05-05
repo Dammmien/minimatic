@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell's Four Hundred",
+    "year": 1926,
+    "cast": [
+      "Harrison Ford",
+      "Marceline Day"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hell-s-four-hundred.html"
+}

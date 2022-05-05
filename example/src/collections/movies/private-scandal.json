@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Private Scandal",
+    "year": 1934,
+    "cast": [
+      "ZaSu Pitts",
+      "Phillips Holmes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/private-scandal.html"
+}

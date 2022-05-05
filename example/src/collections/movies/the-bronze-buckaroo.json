@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bronze Buckaroo",
+    "year": 1939,
+    "cast": [
+      "Herb Jeffries",
+      "Lucius Brooks"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-bronze-buckaroo.html"
+}

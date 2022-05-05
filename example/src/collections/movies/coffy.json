@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Coffy",
+    "year": 1973,
+    "cast": [
+      "Pam Grier"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/coffy.html"
+}

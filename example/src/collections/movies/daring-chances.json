@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daring Chances",
+    "year": 1924,
+    "cast": [
+      "Jack Hoxie",
+      "Alta Allen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/daring-chances.html"
+}

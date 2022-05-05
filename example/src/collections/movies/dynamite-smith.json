@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dynamite Smith",
+    "year": 1924,
+    "cast": [
+      "Jacqueline Logan",
+      "Bessie Love",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dynamite-smith.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "High Stakes",
+    "year": 1931,
+    "cast": [
+      "Mae Murray",
+      "Karen Morley"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/high-stakes.html"
+}

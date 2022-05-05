@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tom Sawyer",
+    "year": 1973,
+    "cast": [
+      "Jodie Foster",
+      "Warren Oates"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/tom-sawyer.html"
+}

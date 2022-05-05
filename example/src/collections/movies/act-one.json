@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Act One",
+    "year": 1963,
+    "cast": [
+      "George Hamilton",
+      "Jason Robards",
+      "Jack Klugman",
+      "George Segal"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/act-one.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman from Tangier",
+    "year": 1948,
+    "cast": [
+      "Adele Jergens",
+      "Stephen Dunne"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-woman-from-tangier.html"
+}

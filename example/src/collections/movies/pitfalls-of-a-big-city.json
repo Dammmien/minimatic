@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pitfalls of a Big City",
+    "year": 1919,
+    "cast": [
+      "Gladys Brockwell",
+      "Neva Gerber"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pitfalls-of-a-big-city.html"
+}

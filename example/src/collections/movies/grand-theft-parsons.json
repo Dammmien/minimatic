@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Grand Theft Parsons",
+    "year": 2003,
+    "cast": [
+      "Johnny Knoxville",
+      "Michael Shannon",
+      "Christina Applegate"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/grand-theft-parsons.html"
+}

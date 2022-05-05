@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "They Rode West",
+    "year": 1954,
+    "cast": [
+      "Robert Francis",
+      "Donna Reed",
+      "Philip Carey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/they-rode-west.html"
+}

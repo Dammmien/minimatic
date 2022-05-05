@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yukon Flight",
+    "year": 1940,
+    "cast": [
+      "Louise Stanley",
+      "James Newill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/yukon-flight.html"
+}

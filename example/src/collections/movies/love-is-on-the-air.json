@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Love Is on the Air",
+    "year": 1937,
+    "cast": [
+      "Ronald Reagan",
+      "June Travis",
+      "Eddie Acuff"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/love-is-on-the-air.html"
+}

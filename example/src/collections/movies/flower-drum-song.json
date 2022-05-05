@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Flower Drum Song",
+    "year": 1961,
+    "cast": [
+      "Nancy Kwan",
+      "James Shigeta",
+      "Jack Soo",
+      "Miyoshi Umeki"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/flower-drum-song.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Eagle and the Hawk",
+    "year": 1950,
+    "cast": [
+      "John Payne",
+      "Rhonda Fleming",
+      "Dennis O'Keefe"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-eagle-and-the-hawk.html"
+}

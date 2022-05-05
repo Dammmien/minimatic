@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "No Exit",
+    "year": 1995,
+    "cast": [
+      "Jeff Wincott"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/no-exit.html"
+}

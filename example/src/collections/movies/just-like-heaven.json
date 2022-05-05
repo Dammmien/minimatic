@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Just Like Heaven",
+    "year": 2005,
+    "cast": [
+      "Reese Witherspoon",
+      "Mark Ruffalo",
+      "Donal Logue"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/just-like-heaven.html"
+}

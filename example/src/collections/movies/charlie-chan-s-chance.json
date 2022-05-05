@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Charlie Chan's Chance",
+    "year": 1932,
+    "cast": [
+      "Warner Oland",
+      "Marian Nixon",
+      "H. B. Warner"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/charlie-chan-s-chance.html"
+}

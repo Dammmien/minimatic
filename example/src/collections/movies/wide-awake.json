@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Wide Awake",
+    "year": 1998,
+    "cast": [
+      "Joseph Cross",
+      "Timothy Reifsnyder",
+      "Dana Delany",
+      "Denis Leary"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/wide-awake.html"
+}

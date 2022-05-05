@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Voodoo Tiger",
+    "year": 1952,
+    "cast": [
+      "Johnny Weissmuller",
+      "Jean Byron"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/voodoo-tiger.html"
+}

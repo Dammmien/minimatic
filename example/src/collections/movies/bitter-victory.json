@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bitter Victory",
+    "year": 1957,
+    "cast": [
+      "Richard Burton",
+      "Curd Jürgens",
+      "Ruth Roman"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/bitter-victory.html"
+}

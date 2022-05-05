@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Flirtation",
+    "year": 1934,
+    "cast": [
+      "Elissa Landi",
+      "Adolphe Menjou",
+      "David Manners"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-great-flirtation.html"
+}

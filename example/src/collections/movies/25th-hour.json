@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "25th Hour",
+    "year": 2002,
+    "cast": [
+      "Edward Norton",
+      "Philip Seymour Hoffman",
+      "Barry Pepper",
+      "Rosario Dawson",
+      "Anna Paquin",
+      "Brian Cox"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/25th-hour.html"
+}

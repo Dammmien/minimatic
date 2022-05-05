@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Larceny on the Air",
+    "year": 1937,
+    "cast": [
+      "Robert Livingston",
+      "Grace Bradley"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/larceny-on-the-air.html"
+}

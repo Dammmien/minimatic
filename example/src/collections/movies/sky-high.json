@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Sky High",
+    "year": 2005,
+    "cast": [
+      "Michael Angarano",
+      "Kurt Russell",
+      "Kelly Preston",
+      "Danielle Panabaker",
+      "Mary Elizabeth Winstead"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/sky-high.html"
+}

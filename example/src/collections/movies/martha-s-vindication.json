@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Martha's Vindication",
+    "year": 1916,
+    "cast": [
+      "Norma Talmadge",
+      "Seena Owen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/martha-s-vindication.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mohawk",
+    "year": 1956,
+    "cast": [
+      "Scott Brady",
+      "Allison Hayes",
+      "Lori Nelson",
+      "Rita Gam"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/mohawk.html"
+}

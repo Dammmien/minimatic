@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Shuttered Room",
+    "year": 1967,
+    "cast": [
+      "Gig Young",
+      "Carol Lynley"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-shuttered-room.html"
+}

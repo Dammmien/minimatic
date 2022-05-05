@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Devil Makes Three",
+    "year": 1952,
+    "cast": [
+      "Gene Kelly",
+      "Pier Angeli"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-devil-makes-three.html"
+}

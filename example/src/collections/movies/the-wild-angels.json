@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Wild Angels",
+    "year": 1966,
+    "cast": [
+      "Peter Fonda",
+      "Nancy Sinatra"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-wild-angels.html"
+}

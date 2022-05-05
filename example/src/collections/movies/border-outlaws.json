@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Border Outlaws",
+    "year": 1950,
+    "cast": [
+      "Spade Cooley",
+      "Maria Hart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/border-outlaws.html"
+}

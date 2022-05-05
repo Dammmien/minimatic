@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rush Hour 2",
+    "year": 2001,
+    "cast": [
+      "Jackie Chan",
+      "Chris Tucker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rush-hour-2.html"
+}

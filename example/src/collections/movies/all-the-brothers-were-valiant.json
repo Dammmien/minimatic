@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "All the Brothers Were Valiant",
+    "year": 1953,
+    "cast": [
+      "Robert Taylor",
+      "Stewart Granger",
+      "Ann Blyth"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/all-the-brothers-were-valiant.html"
+}

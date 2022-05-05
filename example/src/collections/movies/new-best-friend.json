@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "New Best Friend",
+    "year": 2002,
+    "cast": [
+      "Mia Kirshner",
+      "Meredith Monroe",
+      "Dominique Swain"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/new-best-friend.html"
+}

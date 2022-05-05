@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "His First Command",
+    "year": 1929,
+    "cast": [
+      "William Boyd",
+      "Dorothy Sebastian"
+    ],
+    "genres": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/his-first-command.html"
+}

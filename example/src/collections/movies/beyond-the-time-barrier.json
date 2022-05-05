@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beyond the Time Barrier",
+    "year": 1960,
+    "cast": [
+      "Darlene Tompkins",
+      "Robert Clarke"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/beyond-the-time-barrier.html"
+}

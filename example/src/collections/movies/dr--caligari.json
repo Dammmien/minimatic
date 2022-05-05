@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Dr. Caligari",
+    "year": 1989,
+    "cast": [
+      "Madeleine Reynal",
+      "Laura Albert"
+    ],
+    "genres": []
+  },
+  "output": "movies/dr--caligari.html"
+}

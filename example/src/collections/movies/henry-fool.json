@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Henry Fool",
+    "year": 1997,
+    "cast": [
+      "Thomas Jay Ryan",
+      "Parker Posey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/henry-fool.html"
+}

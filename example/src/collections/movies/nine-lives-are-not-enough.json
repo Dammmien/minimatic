@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nine Lives Are Not Enough",
+    "year": 1941,
+    "cast": [
+      "Ronald Reagan",
+      "Joan Perry"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/nine-lives-are-not-enough.html"
+}

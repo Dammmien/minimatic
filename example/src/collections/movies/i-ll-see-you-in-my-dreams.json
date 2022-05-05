@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I'll See You in My Dreams",
+    "year": 1951,
+    "cast": [
+      "Doris Day",
+      "Danny Thomas"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/i-ll-see-you-in-my-dreams.html"
+}

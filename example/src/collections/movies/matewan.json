@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Matewan",
+    "year": 1987,
+    "cast": [
+      "Chris Cooper",
+      "Will Oldham",
+      "David Strathairn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/matewan.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Great Diamond Mystery",
+    "year": 1924,
+    "cast": [
+      "Shirley Mason",
+      "Jackie Saunders"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/great-diamond-mystery.html"
+}

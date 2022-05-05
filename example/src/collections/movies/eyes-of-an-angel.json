@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Eyes of an Angel",
+    "year": 1991,
+    "cast": [
+      "John Travolta",
+      "Ellie Raab",
+      "Tito Larriva"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/eyes-of-an-angel.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Glenn Miller Story",
+    "year": 1954,
+    "cast": [
+      "James Stewart",
+      "June Allyson",
+      "Charles Drake",
+      "George Tobias",
+      "Harry Morgan"
+    ],
+    "genres": [
+      "Biography",
+      "Musical"
+    ]
+  },
+  "output": "movies/the-glenn-miller-story.html"
+}

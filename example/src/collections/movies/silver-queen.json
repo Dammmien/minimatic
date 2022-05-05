@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silver Queen",
+    "year": 1942,
+    "cast": [
+      "George Brent",
+      "Priscilla Lane"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/silver-queen.html"
+}

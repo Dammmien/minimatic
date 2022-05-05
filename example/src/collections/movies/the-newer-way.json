@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "The Newer Way",
+    "year": 1915,
+    "cast": [
+      "Joseph Galbraith"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-newer-way.html"
+}

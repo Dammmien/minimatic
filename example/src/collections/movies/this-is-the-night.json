@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Is the Night",
+    "year": 1932,
+    "cast": [
+      "Roland Young",
+      "Thelma Todd",
+      "Cary Grant"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/this-is-the-night.html"
+}

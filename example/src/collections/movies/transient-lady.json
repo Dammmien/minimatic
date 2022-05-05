@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Transient Lady",
+    "year": 1935,
+    "cast": [
+      "Gene Raymond",
+      "Henry Hull",
+      "Frances Drake"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/transient-lady.html"
+}

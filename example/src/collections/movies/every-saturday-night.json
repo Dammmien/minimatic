@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Every Saturday Night",
+    "year": 1936,
+    "cast": [
+      "June Lang",
+      "Thomas Beck"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/every-saturday-night.html"
+}

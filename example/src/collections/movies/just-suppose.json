@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Just Suppose",
+    "year": 1926,
+    "cast": [
+      "Richard Barthelmess",
+      "Lois Moran",
+      "Henry Vibart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/just-suppose.html"
+}

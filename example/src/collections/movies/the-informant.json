@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Informant",
+    "year": 1997,
+    "cast": [
+      "Cary Elwes",
+      "Timothy Dalton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-informant.html"
+}

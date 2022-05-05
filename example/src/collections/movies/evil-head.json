@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Evil Head",
+    "year": 2012,
+    "cast": [
+      "Joanna Angel",
+      "Tommy Pistol",
+      "Veruca James",
+      "Danny Wylde"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/evil-head.html"
+}

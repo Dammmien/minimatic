@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kiss of Araby",
+    "year": 1933,
+    "cast": [
+      "Maria Alba",
+      "Walter Byron"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/kiss-of-araby.html"
+}

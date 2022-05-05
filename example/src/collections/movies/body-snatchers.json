@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Body Snatchers",
+    "year": 1993,
+    "cast": [
+      "Gabrielle Anwar",
+      "R. Lee Ermey",
+      "Terry Kinney",
+      "Meg Tilly",
+      "Forest Whitaker",
+      "Billy Wirth"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/body-snatchers.html"
+}

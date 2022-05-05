@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Crimson City",
+    "year": 1928,
+    "cast": [
+      "Myrna Loy",
+      "Leila Hyams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-crimson-city.html"
+}

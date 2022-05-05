@@ -1,0 +1,20 @@
+{
+  "id": 438,
+  "name": {
+    "english": "Bonsly",
+    "japanese": "ウソハチ",
+    "chinese": "盆才怪",
+    "french": "Manzaï"
+  },
+  "type": [
+    "Rock"
+  ],
+  "base": {
+    "HP": 50,
+    "Attack": 80,
+    "Defense": 95,
+    "Sp. Attack": 10,
+    "Sp. Defense": 45,
+    "Speed": 10
+  }
+}

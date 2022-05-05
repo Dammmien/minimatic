@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman Under Cover",
+    "year": 1919,
+    "cast": [
+      "Fritzi Brunette",
+      "Fontaine La Rue"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woman-under-cover.html"
+}

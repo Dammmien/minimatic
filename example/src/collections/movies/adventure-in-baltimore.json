@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Adventure in Baltimore",
+    "year": 1949,
+    "cast": [
+      "Shirley Temple",
+      "Robert Young"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/adventure-in-baltimore.html"
+}

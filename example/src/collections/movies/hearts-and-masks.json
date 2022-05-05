@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hearts and Masks",
+    "year": 1921,
+    "cast": [
+      "Elinor Field",
+      "Lloyd Bacon"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hearts-and-masks.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl and the Gambler",
+    "year": 1939,
+    "cast": [
+      "Tim Holt",
+      "Steffi Duna"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-girl-and-the-gambler.html"
+}

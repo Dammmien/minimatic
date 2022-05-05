@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Poppy Is Also a Flower",
+    "year": 1966,
+    "cast": [
+      "Senta Berger",
+      "Stephen Boyd",
+      "Yul Brynner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-poppy-is-also-a-flower.html"
+}

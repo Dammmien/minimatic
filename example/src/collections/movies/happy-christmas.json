@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Happy Christmas",
+    "year": 2014,
+    "cast": [
+      "Anna Kendrick",
+      "Lena Dunham",
+      "Melanie Lynskey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/happy-christmas.html"
+}

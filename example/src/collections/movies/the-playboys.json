@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Playboys",
+    "year": 1992,
+    "cast": [
+      "Robin Wright",
+      "Aidan Quinn",
+      "Albert Finney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-playboys.html"
+}

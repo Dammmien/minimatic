@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Zander the Great",
+    "year": 1925,
+    "cast": [
+      "Marion Davies",
+      "Emily Fitzroy",
+      "Hedda Hopper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/zander-the-great.html"
+}

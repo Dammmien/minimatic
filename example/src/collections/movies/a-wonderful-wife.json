@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Wonderful Wife",
+    "year": 1922,
+    "cast": [
+      "Miss DuPont",
+      "Vernon Steele"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-wonderful-wife.html"
+}

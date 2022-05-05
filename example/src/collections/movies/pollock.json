@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pollock",
+    "year": 2000,
+    "cast": [
+      "Ed Harris",
+      "Marcia Gay Harden",
+      "Jennifer Connelly"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/pollock.html"
+}

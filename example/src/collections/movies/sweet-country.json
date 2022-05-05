@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sweet Country",
+    "year": 2018,
+    "cast": [
+      "Bryan Brown",
+      "Sam Neill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sweet-country.html"
+}

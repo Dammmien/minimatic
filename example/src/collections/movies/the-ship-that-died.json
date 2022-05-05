@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Ship That Died",
+    "year": 1938,
+    "cast": [
+      "John Nesbitt",
+      "Leonard Penn",
+      "Rhea Mitchell"
+    ],
+    "genres": [
+      "Short",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-ship-that-died.html"
+}

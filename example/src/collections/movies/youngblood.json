@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Youngblood",
+    "year": 1986,
+    "cast": [
+      "Rob Lowe",
+      "Patrick Swayze",
+      "Cynthia Gibb",
+      "Keanu Reeves"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/youngblood.html"
+}

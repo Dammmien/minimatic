@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Roxie Hart",
+    "year": 1942,
+    "cast": [
+      "Ginger Rogers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/roxie-hart.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Arizona Sweepstakes",
+    "year": 1926,
+    "cast": [
+      "Hoot Gibson",
+      "Helen Lynch",
+      "Philo McCullough"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/arizona-sweepstakes.html"
+}

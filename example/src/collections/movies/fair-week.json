@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fair Week",
+    "year": 1924,
+    "cast": [
+      "Walter Hiers",
+      "Carmen Phillips"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fair-week.html"
+}

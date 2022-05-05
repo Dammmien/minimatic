@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beauty Parlor",
+    "year": 1932,
+    "cast": [
+      "Barbara Kent",
+      "Joyce Compton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beauty-parlor.html"
+}

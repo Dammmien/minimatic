@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rabbit, Run",
+    "year": 1970,
+    "cast": [
+      "James Caan",
+      "Carrie Snodgress",
+      "Anjanette Comer"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/rabbit--run.html"
+}

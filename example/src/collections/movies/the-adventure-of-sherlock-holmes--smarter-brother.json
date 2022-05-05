@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Adventure of Sherlock Holmes' Smarter Brother",
+    "year": 1975,
+    "cast": [
+      "Gene Wilder",
+      "Marty Feldman",
+      "Madeline Kahn",
+      "Leo McKern",
+      "Dom DeLuise"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-adventure-of-sherlock-holmes--smarter-brother.html"
+}

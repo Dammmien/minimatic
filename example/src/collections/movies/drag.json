@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Drag",
+    "year": 1929,
+    "cast": [
+      "Richard Barthelmess",
+      "Alice Day"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/drag.html"
+}

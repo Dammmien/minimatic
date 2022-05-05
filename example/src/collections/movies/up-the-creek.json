@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Up the Creek",
+    "year": 1984,
+    "cast": [
+      "Tim Matheson",
+      "Jennifer Runyon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/up-the-creek.html"
+}

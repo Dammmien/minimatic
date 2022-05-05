@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Take Down",
+    "year": 1979,
+    "cast": [
+      "Lorenzo Lamas",
+      "Edward Herrmann",
+      "Kathleen Lloyd"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/take-down.html"
+}

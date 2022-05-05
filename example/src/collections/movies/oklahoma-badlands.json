@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Oklahoma Badlands",
+    "year": 1948,
+    "cast": [
+      "Allan Lane",
+      "Eddy Waller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/oklahoma-badlands.html"
+}

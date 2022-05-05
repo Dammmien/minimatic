@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Search for One-eye Jimmy",
+    "year": 1994,
+    "cast": [
+      "Steve Buscemi",
+      "Samuel L. Jackson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-search-for-one-eye-jimmy.html"
+}

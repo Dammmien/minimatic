@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jivaro",
+    "year": 1954,
+    "cast": [
+      "Fernando Lamas",
+      "Rhonda Fleming",
+      "Brian Keith"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/jivaro.html"
+}

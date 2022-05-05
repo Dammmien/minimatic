@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Travelin' On",
+    "year": 1922,
+    "cast": [
+      "William S. Hart",
+      "Ethel Grey Terry"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/travelin--on.html"
+}

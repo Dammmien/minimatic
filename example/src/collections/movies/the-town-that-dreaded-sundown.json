@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Town That Dreaded Sundown",
+    "year": 1976,
+    "cast": [
+      "Ben Johnson",
+      "Andrew Prine",
+      "Dawn Wells"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-town-that-dreaded-sundown.html"
+}

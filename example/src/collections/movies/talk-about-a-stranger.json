@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Talk About a Stranger",
+    "year": 1952,
+    "cast": [
+      "George Murphy",
+      "Nancy Davis"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/talk-about-a-stranger.html"
+}

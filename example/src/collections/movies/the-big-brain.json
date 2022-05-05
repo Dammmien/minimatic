@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Big Brain",
+    "year": 1933,
+    "cast": [
+      "Phillips Holmes",
+      "Fay Wray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-big-brain.html"
+}

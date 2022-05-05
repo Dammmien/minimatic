@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Transcontinental Limited",
+    "year": 1926,
+    "cast": [
+      "Johnnie Walker",
+      "Eugenia Gilbert"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/transcontinental-limited.html"
+}

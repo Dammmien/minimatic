@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ghost Town",
+    "year": 2008,
+    "cast": [
+      "Ricky Gervais",
+      "Téa Leoni",
+      "Greg Kinnear"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ghost-town.html"
+}

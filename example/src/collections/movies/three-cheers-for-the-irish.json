@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Cheers for the Irish",
+    "year": 1940,
+    "cast": [
+      "Priscilla Lane",
+      "Dennis Morgan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-cheers-for-the-irish.html"
+}

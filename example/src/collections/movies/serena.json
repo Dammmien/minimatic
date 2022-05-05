@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Serena",
+    "year": 2015,
+    "cast": [
+      "Bradley Cooper",
+      "Jennifer Lawrence",
+      "Rhys Ifans",
+      "Sean Harris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/serena.html"
+}

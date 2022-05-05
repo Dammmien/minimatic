@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sun Also Rises",
+    "year": 1957,
+    "cast": [
+      "Tyrone Power",
+      "Ava Gardner",
+      "Errol Flynn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sun-also-rises.html"
+}

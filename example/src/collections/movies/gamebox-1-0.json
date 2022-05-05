@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gamebox 1.0",
+    "year": 2004,
+    "cast": [
+      "Nate Richert",
+      "Danielle Fishel"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/gamebox-1-0.html"
+}

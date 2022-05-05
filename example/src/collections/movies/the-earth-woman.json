@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Earth Woman",
+    "year": 1926,
+    "cast": [
+      "Mary Alden",
+      "Priscilla Bonner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-earth-woman.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love & Basketball",
+    "year": 2000,
+    "cast": [
+      "Omar Epps",
+      "Sanaa Lathan",
+      "Dennis Haysbert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love---basketball.html"
+}

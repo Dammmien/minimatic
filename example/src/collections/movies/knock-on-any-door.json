@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Knock on Any Door",
+    "year": 1949,
+    "cast": [
+      "Humphrey Bogart",
+      "John Derek",
+      "George Macready"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/knock-on-any-door.html"
+}

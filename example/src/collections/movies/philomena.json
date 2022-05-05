@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Philomena",
+    "year": 2013,
+    "cast": [
+      "Judi Dench",
+      "Steve Coogan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/philomena.html"
+}

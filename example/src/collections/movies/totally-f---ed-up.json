@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Totally F***ed Up",
+    "year": 1993,
+    "cast": [
+      "James Duval",
+      "Craig Gilmore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/totally-f---ed-up.html"
+}

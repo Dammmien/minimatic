@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "7 Faces of Dr. Lao",
+    "year": 1964,
+    "cast": [
+      "Tony Randall",
+      "Arthur O'Connell",
+      "Barbara Eden"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/7-faces-of-dr--lao.html"
+}

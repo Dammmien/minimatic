@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "All Ashore",
+    "year": 1953,
+    "cast": [
+      "Mickey Rooney",
+      "Dick Haymes"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/all-ashore.html"
+}

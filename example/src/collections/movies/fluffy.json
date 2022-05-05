@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fluffy",
+    "year": 1965,
+    "cast": [
+      "Tony Randall",
+      "Shirley Jones",
+      "Celia Kaye"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/fluffy.html"
+}

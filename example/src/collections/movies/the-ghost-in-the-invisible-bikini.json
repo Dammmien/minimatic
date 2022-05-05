@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ghost in the Invisible Bikini",
+    "year": 1966,
+    "cast": [
+      "Tommy Kirk",
+      "Nancy Sinatra"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ghost-in-the-invisible-bikini.html"
+}

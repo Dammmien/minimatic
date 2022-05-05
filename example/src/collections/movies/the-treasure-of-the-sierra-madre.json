@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Treasure of the Sierra Madre",
+    "year": 1948,
+    "cast": [
+      "Humphrey Bogart",
+      "Walter Huston",
+      "Tim Holt",
+      "Bruce Bennett"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-treasure-of-the-sierra-madre.html"
+}

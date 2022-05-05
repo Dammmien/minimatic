@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Texas Chainsaw Massacre",
+    "year": 2003,
+    "cast": [
+      "Jessica Biel",
+      "Jonathan Tucker",
+      "Eric Balfour",
+      "Mike Vogel",
+      "Erica Leershen",
+      "R. Lee Ermey"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-texas-chainsaw-massacre.html"
+}

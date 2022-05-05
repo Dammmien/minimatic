@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chopping Mall",
+    "year": 1986,
+    "cast": [
+      "Kelli Maroney",
+      "Barbara Crampton",
+      "Dick Miller"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/chopping-mall.html"
+}

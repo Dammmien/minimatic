@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Young Man of Manhattan",
+    "year": 1930,
+    "cast": [
+      "Claudette Colbert",
+      "Ginger Rogers",
+      "Charles Ruggles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/young-man-of-manhattan.html"
+}

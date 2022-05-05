@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night of Mystery",
+    "year": 1937,
+    "cast": [
+      "Grant Richards",
+      "Roscoe Karns"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/night-of-mystery.html"
+}

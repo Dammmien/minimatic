@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wyoming Renegades",
+    "year": 1954,
+    "cast": [
+      "Phil Carey",
+      "Gene Evans",
+      "Martha Hyer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wyoming-renegades.html"
+}

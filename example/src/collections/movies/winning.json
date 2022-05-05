@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Winning",
+    "year": 1969,
+    "cast": [
+      "Paul Newman",
+      "Joanne Woodward",
+      "Robert Wagner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/winning.html"
+}

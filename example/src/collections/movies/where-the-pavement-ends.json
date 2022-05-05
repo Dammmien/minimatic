@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Where the Pavement Ends",
+    "year": 1923,
+    "cast": [
+      "Alice Terry",
+      "Ramon Novarro"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/where-the-pavement-ends.html"
+}

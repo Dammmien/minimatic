@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Moonshine",
+    "year": 2006,
+    "cast": [
+      "Brian Greer"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/moonshine.html"
+}

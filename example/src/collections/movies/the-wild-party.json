@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wild Party",
+    "year": 1975,
+    "cast": [
+      "Raquel Welch",
+      "James Coco",
+      "Perry King"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wild-party.html"
+}

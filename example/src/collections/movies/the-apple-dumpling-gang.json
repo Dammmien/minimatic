@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Apple Dumpling Gang",
+    "year": 1975,
+    "cast": [
+      "Tim Conway",
+      "Don Knotts",
+      "Harry Morgan"
+    ],
+    "genres": [
+      "Family",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-apple-dumpling-gang.html"
+}

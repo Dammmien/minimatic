@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Let's Go Navy!",
+    "year": 1951,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Allen Jenkins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-s-go-navy-.html"
+}

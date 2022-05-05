@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hour Before the Dawn",
+    "year": 1944,
+    "cast": [
+      "Veronica Lake",
+      "Franchot Tone",
+      "Binnie Barnes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hour-before-the-dawn.html"
+}

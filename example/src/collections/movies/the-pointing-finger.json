@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pointing Finger",
+    "year": 1919,
+    "cast": [
+      "Mary MacLaren",
+      "David Butler"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-pointing-finger.html"
+}

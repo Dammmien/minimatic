@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Code of the Lawless",
+    "year": 1945,
+    "cast": [
+      "Kirby Grant",
+      "Jane Adams"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/code-of-the-lawless.html"
+}

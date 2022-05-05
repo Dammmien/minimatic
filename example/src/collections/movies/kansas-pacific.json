@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kansas Pacific",
+    "year": 1953,
+    "cast": [
+      "Sterling Hayden",
+      "Eve Miller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/kansas-pacific.html"
+}

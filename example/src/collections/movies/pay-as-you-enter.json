@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pay as You Enter",
+    "year": 1928,
+    "cast": [
+      "Louise Fazenda",
+      "Clyde Cook"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pay-as-you-enter.html"
+}

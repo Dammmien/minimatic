@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Narrow Margin",
+    "year": 1952,
+    "cast": [
+      "Charles McGraw",
+      "Marie Windsor"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-narrow-margin.html"
+}

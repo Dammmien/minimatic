@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dead Reckoning",
+    "year": 1947,
+    "cast": [
+      "Humphrey Bogart",
+      "Lizabeth Scott"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/dead-reckoning.html"
+}

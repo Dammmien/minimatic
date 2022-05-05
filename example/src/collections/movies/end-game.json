@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "End Game",
+    "year": 2006,
+    "cast": [
+      "Cuba Gooding, Jr.",
+      "James Woods",
+      "Angie Harmon"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/end-game.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wicked",
+    "year": 1931,
+    "cast": [
+      "Elissa Landi",
+      "Victor McLaglen",
+      "Una Merkel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wicked.html"
+}

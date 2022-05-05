@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Guns in the Dark",
+    "year": 1937,
+    "cast": [
+      "Johnny Mack Brown",
+      "Syd Saylor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/guns-in-the-dark.html"
+}

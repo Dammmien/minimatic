@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Canon City",
+    "year": 1948,
+    "cast": [
+      "Scott Brady",
+      "Jeff Corey"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/canon-city.html"
+}

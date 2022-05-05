@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lipstick",
+    "year": 1976,
+    "cast": [
+      "Margaux Hemingway",
+      "Mariel Hemingway"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lipstick.html"
+}

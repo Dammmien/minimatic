@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Know Who Killed Me",
+    "year": 2007,
+    "cast": [
+      "Lindsay Lohan",
+      "Julia Ormond",
+      "Neal McDonough"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/i-know-who-killed-me.html"
+}

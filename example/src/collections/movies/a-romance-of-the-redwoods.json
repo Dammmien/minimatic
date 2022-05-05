@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Romance of the Redwoods",
+    "year": 1917,
+    "cast": [
+      "Mary Pickford",
+      "Elliott Dexter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-romance-of-the-redwoods.html"
+}

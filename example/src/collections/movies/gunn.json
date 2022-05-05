@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gunn",
+    "year": 1967,
+    "cast": [
+      "Craig Stevens",
+      "Edward Asner"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/gunn.html"
+}

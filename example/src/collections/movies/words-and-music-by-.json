@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Words and Music by-",
+    "year": 1919,
+    "cast": [
+      "Albert Ray",
+      "Elinor Fair"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/words-and-music-by-.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "High Pressure",
+    "year": 1932,
+    "cast": [
+      "William Powell",
+      "Evelyn Brent"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/high-pressure.html"
+}

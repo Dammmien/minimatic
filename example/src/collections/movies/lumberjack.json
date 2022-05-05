@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lumberjack",
+    "year": 1944,
+    "cast": [
+      "William Boyd",
+      "Andy Clyde",
+      "Ellen Hall"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lumberjack.html"
+}

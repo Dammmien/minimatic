@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The English Teacher",
+    "year": 2013,
+    "cast": [
+      "Julianne Moore",
+      "Michael Angarano",
+      "Greg Kinnear",
+      "Lily Collins",
+      "Nathan Lane"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-english-teacher.html"
+}

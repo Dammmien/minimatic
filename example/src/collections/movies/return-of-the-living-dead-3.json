@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Return of the Living Dead 3",
+    "year": 1993,
+    "cast": [
+      "Melinda Clarke",
+      "J. Trevor Edmond"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/return-of-the-living-dead-3.html"
+}

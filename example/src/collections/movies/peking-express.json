@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Peking Express",
+    "year": 1951,
+    "cast": [
+      "Joseph Cotten",
+      "Corinne Calvet"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/peking-express.html"
+}

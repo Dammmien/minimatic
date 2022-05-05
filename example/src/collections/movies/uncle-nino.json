@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Uncle Nino",
+    "year": 2003,
+    "cast": [
+      "Joe Mantegna",
+      "Pierrino Mascarino",
+      "Anne Archer"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/uncle-nino.html"
+}

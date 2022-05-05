@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Battlefield Earth",
+    "year": 2000,
+    "cast": [
+      "John Travolta",
+      "Forest Whitaker",
+      "Barry Pepper"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/battlefield-earth.html"
+}

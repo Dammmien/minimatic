@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Time Travelers",
+    "year": 1964,
+    "cast": [
+      "Preston Foster",
+      "Merry Anders"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/time-travelers.html"
+}

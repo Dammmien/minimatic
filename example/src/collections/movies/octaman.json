@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Octaman",
+    "year": 1971,
+    "cast": [
+      "Pier Angeli",
+      "Jeff Morrow"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/octaman.html"
+}

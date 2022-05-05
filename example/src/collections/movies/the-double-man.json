@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Double Man",
+    "year": 1967,
+    "cast": [
+      "Yul Brynner",
+      "Britt Ekland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-double-man.html"
+}

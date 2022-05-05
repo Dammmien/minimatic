@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "High Hell",
+    "year": 1958,
+    "cast": [
+      "Elaine Stewart",
+      "John Derek"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/high-hell.html"
+}

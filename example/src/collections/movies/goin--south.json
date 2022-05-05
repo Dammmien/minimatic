@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Goin' South",
+    "year": 1978,
+    "cast": [
+      "Jack Nicholson",
+      "Mary Steenburgen",
+      "John Belushi",
+      "Veronica Cartwright",
+      "Christopher Lloyd"
+    ],
+    "genres": [
+      "Comedy",
+      "Western"
+    ]
+  },
+  "output": "movies/goin--south.html"
+}

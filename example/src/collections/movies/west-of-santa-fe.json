@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "West of Santa Fe",
+    "year": 1928,
+    "cast": [
+      "Bob Custer",
+      "Peggy Montgomery"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/west-of-santa-fe.html"
+}

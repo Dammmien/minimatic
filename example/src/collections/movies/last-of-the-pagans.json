@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Last of the Pagans",
+    "year": 1935,
+    "cast": [
+      "Ray Mala",
+      "Lotus Long"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/last-of-the-pagans.html"
+}

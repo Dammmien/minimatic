@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The New Guy",
+    "year": 2002,
+    "cast": [
+      "DJ Qualls",
+      "Eliza Dushku",
+      "Zooey Deschanel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-new-guy.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cyrus",
+    "year": 2010,
+    "cast": [
+      "John C. Reilly",
+      "Jonah Hill",
+      "Marisa Tomei",
+      "Catherine Keener"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cyrus.html"
+}

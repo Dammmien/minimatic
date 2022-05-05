@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Falcon in Mexico",
+    "year": 1944,
+    "cast": [
+      "Tom Conway",
+      "Mona Maris"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-falcon-in-mexico.html"
+}

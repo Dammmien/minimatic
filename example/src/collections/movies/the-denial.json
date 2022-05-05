@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Denial",
+    "year": 1925,
+    "cast": [
+      "Claire Windsor",
+      "Bert Roach"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-denial.html"
+}

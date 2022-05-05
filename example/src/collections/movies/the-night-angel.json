@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Night Angel",
+    "year": 1931,
+    "cast": [
+      "Nancy Carroll",
+      "Fredric March"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-night-angel.html"
+}

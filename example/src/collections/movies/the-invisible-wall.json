@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Invisible Wall",
+    "year": 1947,
+    "cast": [
+      "Virginia Christine",
+      "Don Castle"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-invisible-wall.html"
+}

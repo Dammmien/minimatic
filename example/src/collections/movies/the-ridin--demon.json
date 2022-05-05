@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ridin' Demon",
+    "year": 1929,
+    "cast": [
+      "Ted Wells",
+      "Kathleen Collins"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-ridin--demon.html"
+}

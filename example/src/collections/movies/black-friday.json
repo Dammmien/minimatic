@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Black Friday",
+    "year": 1940,
+    "cast": [
+      "Boris Karloff",
+      "Bela Lugosi",
+      "Stanley Ridges"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/black-friday.html"
+}

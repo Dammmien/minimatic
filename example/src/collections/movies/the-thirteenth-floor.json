@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Thirteenth Floor",
+    "year": 1999,
+    "cast": [
+      "Craig Bierko",
+      "Gretchen Mol",
+      "Vincent D'Onofrio"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-thirteenth-floor.html"
+}

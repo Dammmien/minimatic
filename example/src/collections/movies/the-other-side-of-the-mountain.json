@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Other Side of the Mountain",
+    "year": 1975,
+    "cast": [
+      "Marilyn Hassett",
+      "Beau Bridges"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-other-side-of-the-mountain.html"
+}

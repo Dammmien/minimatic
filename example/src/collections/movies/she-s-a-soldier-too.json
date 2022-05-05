@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "She's a Soldier Too",
+    "year": 1944,
+    "cast": [
+      "Beulah Bondi",
+      "Nina Foch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/she-s-a-soldier-too.html"
+}

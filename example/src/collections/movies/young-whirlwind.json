@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Young Whirlwind",
+    "year": 1928,
+    "cast": [
+      "Buzz Barton",
+      "Edmund Cobb"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/young-whirlwind.html"
+}

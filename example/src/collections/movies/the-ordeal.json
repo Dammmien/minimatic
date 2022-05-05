@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ordeal",
+    "year": 1922,
+    "cast": [
+      "Agnes Ayres",
+      "Conrad Nagel",
+      "Edna Murphy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-ordeal.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lovers' Lane",
+    "year": 1924,
+    "cast": [
+      "Robert Ellis",
+      "Gertrude Olmstead"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/lovers--lane.html"
+}

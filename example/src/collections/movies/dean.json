@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Dean",
+    "year": 2017,
+    "cast": [
+      "Demetri Martin",
+      "Kevin Kline",
+      "Gillian Jacobs",
+      "Mary Steenburgen",
+      "Reid Scott",
+      "Rory Scovel",
+      "Christine Woods",
+      "Ginger Gonzaga",
+      "Peter Scolari",
+      "Briga Heelan"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/dean.html"
+}

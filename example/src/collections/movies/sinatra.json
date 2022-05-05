@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sinatra",
+    "year": 1992,
+    "cast": [
+      "Philip Casnoff",
+      "Olympia Dukakis",
+      "Gina Gershon"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/sinatra.html"
+}

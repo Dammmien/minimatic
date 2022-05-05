@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Primitive Lover",
+    "year": 1922,
+    "cast": [
+      "Constance Talmadge",
+      "Harrison Ford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-primitive-lover.html"
+}

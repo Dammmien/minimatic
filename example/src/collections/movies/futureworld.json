@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Futureworld",
+    "year": 1976,
+    "cast": [
+      "Blythe Danner",
+      "Peter Fonda",
+      "Arthur Hill",
+      "Yul Brynner"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/futureworld.html"
+}

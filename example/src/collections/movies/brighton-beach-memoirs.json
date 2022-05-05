@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Brighton Beach Memoirs",
+    "year": 1986,
+    "cast": [
+      "Jonathan Silverman",
+      "Blythe Danner",
+      "Judith Ivey"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/brighton-beach-memoirs.html"
+}

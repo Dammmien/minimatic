@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Our Dancing Daughters",
+    "year": 1928,
+    "cast": [
+      "Joan Crawford",
+      "Nils Asther"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/our-dancing-daughters.html"
+}

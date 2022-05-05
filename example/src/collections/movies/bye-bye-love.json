@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Bye Bye Love",
+    "year": 1995,
+    "cast": [
+      "Matthew Modine",
+      "Randy Quaid",
+      "Paul Reiser",
+      "Janeane Garofalo",
+      "Amy Brenneman",
+      "Lindsay Crouse",
+      "Rob Reiner"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bye-bye-love.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Fine Mess",
+    "year": 1986,
+    "cast": [
+      "Ted Danson",
+      "Howie Mandel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-fine-mess.html"
+}

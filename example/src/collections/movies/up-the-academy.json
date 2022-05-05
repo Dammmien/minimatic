@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Up the Academy",
+    "year": 1980,
+    "cast": [
+      "Ralph Macchio",
+      "Barbara Bach"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/up-the-academy.html"
+}

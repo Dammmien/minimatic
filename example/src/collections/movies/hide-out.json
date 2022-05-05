@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hide-Out",
+    "year": 1934,
+    "cast": [
+      "Maureen O'Sullivan",
+      "Robert Montgomery",
+      "Edward Arnold"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/hide-out.html"
+}

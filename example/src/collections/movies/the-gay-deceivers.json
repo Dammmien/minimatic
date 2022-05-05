@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Gay Deceivers",
+    "year": 1969,
+    "cast": [
+      "Kevin Coughlin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-gay-deceivers.html"
+}

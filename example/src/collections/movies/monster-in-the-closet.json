@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Monster in the Closet",
+    "year": 1986,
+    "cast": [
+      "Paul Dooley",
+      "Claude Akins",
+      "Stella Stevens",
+      "Howard Duff",
+      "Frank Ashmore"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/monster-in-the-closet.html"
+}

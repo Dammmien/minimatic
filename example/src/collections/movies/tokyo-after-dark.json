@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tokyo After Dark",
+    "year": 1959,
+    "cast": [
+      "Richard Long",
+      "Lawrence Dobkin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tokyo-after-dark.html"
+}

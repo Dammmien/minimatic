@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tea: With a Kick!",
+    "year": 1923,
+    "cast": [
+      "Doris May",
+      "Creighton Hale",
+      "Ralph Lewis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tea--with-a-kick-.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dakota",
+    "year": 1945,
+    "cast": [
+      "John Wayne",
+      "Vera Ralston"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/dakota.html"
+}

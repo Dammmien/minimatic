@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Heller in Pink Tights",
+    "year": 1960,
+    "cast": [
+      "Sophia Loren",
+      "Anthony Quinn",
+      "Margaret O'Brien",
+      "Steve Forrest"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/heller-in-pink-tights.html"
+}

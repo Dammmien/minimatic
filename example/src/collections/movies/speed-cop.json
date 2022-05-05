@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Speed Cop",
+    "year": 1926,
+    "cast": [
+      "Billy Sullivan",
+      "Francis Ford"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/speed-cop.html"
+}

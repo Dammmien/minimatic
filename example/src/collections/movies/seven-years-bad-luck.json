@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Seven Years Bad Luck",
+    "year": 1921,
+    "cast": [
+      "Max Linder",
+      "Alta Allen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/seven-years-bad-luck.html"
+}

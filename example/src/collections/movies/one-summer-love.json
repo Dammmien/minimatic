@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Summer Love",
+    "year": 1976,
+    "cast": [
+      "Beau Bridges",
+      "Susan Sarandon",
+      "James Noble"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/one-summer-love.html"
+}

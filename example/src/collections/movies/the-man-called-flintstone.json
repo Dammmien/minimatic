@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man Called Flintstone",
+    "year": 1966,
+    "cast": [
+      "Alan Reed",
+      "Mel Blanc",
+      "(voices)"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-man-called-flintstone.html"
+}

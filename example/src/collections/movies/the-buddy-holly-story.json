@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Buddy Holly Story",
+    "year": 1978,
+    "cast": [
+      "Gary Busey",
+      "Charles Martin Smith",
+      "Don Stroud",
+      "Conrad Janis"
+    ],
+    "genres": [
+      "Biography",
+      "Musical"
+    ]
+  },
+  "output": "movies/the-buddy-holly-story.html"
+}

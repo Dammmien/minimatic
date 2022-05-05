@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Truth About Charlie",
+    "year": 2002,
+    "cast": [
+      "Mark Wahlberg",
+      "Thandie Newton",
+      "Tim Robbins"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-truth-about-charlie.html"
+}

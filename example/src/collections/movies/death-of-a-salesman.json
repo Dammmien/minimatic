@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Death of a Salesman",
+    "year": 1951,
+    "cast": [
+      "Fredric March",
+      "Mildred Dunnock"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/death-of-a-salesman.html"
+}

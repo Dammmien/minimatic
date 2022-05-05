@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Little Wildcat",
+    "year": 1922,
+    "cast": [
+      "Alice Calhoun",
+      "Oliver Hardy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-wildcat.html"
+}

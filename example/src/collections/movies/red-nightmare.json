@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Red Nightmare",
+    "year": 1962,
+    "cast": [
+      "Jack Webb",
+      "Jack Kelly"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/red-nightmare.html"
+}

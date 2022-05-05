@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "To Die For",
+    "year": 1995,
+    "cast": [
+      "Nicole Kidman",
+      "Matt Dillon",
+      "Joaquin Phoenix",
+      "Illeana Douglas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/to-die-for.html"
+}

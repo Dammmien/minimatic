@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crack in the World",
+    "year": 1965,
+    "cast": [
+      "Dana Andrews",
+      "Janette Scott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/crack-in-the-world.html"
+}

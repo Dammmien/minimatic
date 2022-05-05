@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Woman Times Seven",
+    "year": 1967,
+    "cast": [
+      "Shirley MacLaine",
+      "Peter Sellers",
+      "Michael Caine"
+    ],
+    "genres": []
+  },
+  "output": "movies/woman-times-seven.html"
+}

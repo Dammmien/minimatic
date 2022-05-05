@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Notorious Sophie Lang",
+    "year": 1934,
+    "cast": [
+      "Gertrude Michael",
+      "Paul Cavanagh"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-notorious-sophie-lang.html"
+}

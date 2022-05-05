@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ollie Hopnoodle's Haven of Bliss",
+    "year": 1988,
+    "cast": [
+      "Jerry O'Connell",
+      "James Sikking",
+      "Jean Shepherd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ollie-hopnoodle-s-haven-of-bliss.html"
+}

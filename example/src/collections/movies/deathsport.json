@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Deathsport",
+    "year": 1978,
+    "cast": [
+      "Claudia Jennings",
+      "David Carradine"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/deathsport.html"
+}

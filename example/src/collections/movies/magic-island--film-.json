@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Magic Island (film)",
+    "year": 1995,
+    "cast": [
+      "Zachery Ty Bryan",
+      "Andrew Divoff",
+      "Edward Kerr",
+      "Lee Armstrong",
+      "French Stewart",
+      "Jessie-Ann Friend",
+      "Oscar Dillon",
+      "Abraham Benrubi",
+      "Sean O'Kane",
+      "Schae Harrison",
+      "Ja'net Dubois"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/magic-island--film-.html"
+}

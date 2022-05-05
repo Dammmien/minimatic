@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Eran Trece",
+    "year": 1931,
+    "cast": [
+      "Juan Torena",
+      "Ana Maria Custodio"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/eran-trece.html"
+}

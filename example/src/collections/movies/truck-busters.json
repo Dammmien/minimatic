@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Truck Busters",
+    "year": 1943,
+    "cast": [
+      "Richard Travis",
+      "Ruth Ford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/truck-busters.html"
+}

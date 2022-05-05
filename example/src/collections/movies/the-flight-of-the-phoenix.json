@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Flight of the Phoenix",
+    "year": 1965,
+    "cast": [
+      "James Stewart",
+      "Peter Finch",
+      "Richard Attenborough",
+      "Hardy Kruger",
+      "Dan Duryea",
+      "George Kennedy",
+      "Ernest Borgnine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-flight-of-the-phoenix.html"
+}

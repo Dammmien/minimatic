@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Smiling Irish Eyes",
+    "year": 1929,
+    "cast": [
+      "Colleen Moore",
+      "James Hall"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/smiling-irish-eyes.html"
+}

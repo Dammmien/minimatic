@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Family Honor",
+    "year": 1920,
+    "cast": [
+      "Florence Vidor",
+      "Roscoe Karns"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-family-honor.html"
+}

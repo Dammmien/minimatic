@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gospel",
+    "year": 2005,
+    "cast": [
+      "Boris Kodjoe",
+      "Idris Elba",
+      "Clifton Powell"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-gospel.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Waterboy",
+    "year": 1998,
+    "cast": [
+      "Adam Sandler",
+      "Henry Winkler",
+      "Kathy Bates",
+      "Fairuza Balk"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-waterboy.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady and the Tramp",
+    "year": 1955,
+    "cast": [
+      "Peggy Lee",
+      "Barbara Luddy"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/lady-and-the-tramp.html"
+}

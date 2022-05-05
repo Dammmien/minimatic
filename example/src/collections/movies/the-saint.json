@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Saint",
+    "year": 1997,
+    "cast": [
+      "Val Kilmer",
+      "Elisabeth Shue"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-saint.html"
+}

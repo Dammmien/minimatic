@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Temple Tower",
+    "year": 1930,
+    "cast": [
+      "Kenneth MacKenna",
+      "Marceline Day"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/temple-tower.html"
+}

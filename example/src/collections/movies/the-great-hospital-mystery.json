@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Hospital Mystery",
+    "year": 1937,
+    "cast": [
+      "Jane Darwell",
+      "Sig Ruman",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-great-hospital-mystery.html"
+}

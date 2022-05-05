@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "This Way Please",
+    "year": 1937,
+    "cast": [
+      "Betty Grable",
+      "Charles Rogers",
+      "Porter Hall"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/this-way-please.html"
+}

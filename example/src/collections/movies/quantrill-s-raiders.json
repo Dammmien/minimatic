@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Quantrill's Raiders",
+    "year": 1958,
+    "cast": [
+      "Steve Cochran",
+      "Diane Brewster"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/quantrill-s-raiders.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Drusilla with a Million",
+    "year": 1925,
+    "cast": [
+      "Mary Carr",
+      "Priscilla Bonner",
+      "Kenneth Harlan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/drusilla-with-a-million.html"
+}

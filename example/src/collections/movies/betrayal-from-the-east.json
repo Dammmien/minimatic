@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Betrayal from the East",
+    "year": 1945,
+    "cast": [
+      "Lee Tracy",
+      "Nancy Kelly"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/betrayal-from-the-east.html"
+}

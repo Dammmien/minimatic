@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Singin' Spurs",
+    "year": 1948,
+    "cast": [
+      "Kirby Grant",
+      "Patricia Barry",
+      "Lee Patrick"
+    ],
+    "genres": [
+      "Musical",
+      "Western"
+    ]
+  },
+  "output": "movies/singin--spurs.html"
+}

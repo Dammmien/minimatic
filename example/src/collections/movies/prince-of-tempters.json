@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prince of Tempters",
+    "year": 1926,
+    "cast": [
+      "Lois Moran",
+      "Ben Lyon"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/prince-of-tempters.html"
+}

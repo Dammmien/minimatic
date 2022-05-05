@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Margaret's Museum",
+    "year": 1995,
+    "cast": [
+      "Helena Bonham Carter",
+      "Kate Nelligan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/margaret-s-museum.html"
+}

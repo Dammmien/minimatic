@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Boss of Rawhide",
+    "year": 1943,
+    "cast": [
+      "Dave O'Brien",
+      "Nell O'Day"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/boss-of-rawhide.html"
+}

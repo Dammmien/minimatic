@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Simple Things",
+    "year": 1953,
+    "cast": [
+      "Mickey Mouse"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-simple-things.html"
+}

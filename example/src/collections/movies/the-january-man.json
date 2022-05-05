@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The January Man",
+    "year": 1989,
+    "cast": [
+      "Kevin Kline",
+      "Susan Sarandon",
+      "Mary Elizabeth Mastrantonio",
+      "Harvey Keitel",
+      "Danny Aiello",
+      "Rod Steiger"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-january-man.html"
+}

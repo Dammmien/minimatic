@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Devil's Rain",
+    "year": 1975,
+    "cast": [
+      "Ernest Borgnine",
+      "Ida Lupino",
+      "William Shatner"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-devil-s-rain.html"
+}

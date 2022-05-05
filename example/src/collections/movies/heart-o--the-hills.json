@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Heart o' the Hills",
+    "year": 1919,
+    "cast": [
+      "Mary Pickford",
+      "Harold Goodwin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/heart-o--the-hills.html"
+}

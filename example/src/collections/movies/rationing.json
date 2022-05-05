@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rationing",
+    "year": 1944,
+    "cast": [
+      "Wallace Beery",
+      "Marjorie Main"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rationing.html"
+}

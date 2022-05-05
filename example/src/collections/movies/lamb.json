@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lamb",
+    "year": 2016,
+    "cast": [
+      "Ross Partridge",
+      "Oona Laurence",
+      "Jess Weixler"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lamb.html"
+}

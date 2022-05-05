@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shark River",
+    "year": 1953,
+    "cast": [
+      "Steve Cochran",
+      "Carole Mathews"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/shark-river.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Because of You",
+    "year": 1952,
+    "cast": [
+      "Loretta Young",
+      "Jeff Chandler",
+      "Frances Dee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/because-of-you.html"
+}

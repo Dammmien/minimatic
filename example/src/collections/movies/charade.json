@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Charade",
+    "year": 1963,
+    "cast": [
+      "Audrey Hepburn",
+      "Cary Grant",
+      "Walter Matthau",
+      "James Coburn",
+      "Ned Glass",
+      "George Kennedy"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/charade.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Visit to a Small Planet",
+    "year": 1960,
+    "cast": [
+      "Jerry Lewis",
+      "Joan Blackman",
+      "Earl Holliman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/visit-to-a-small-planet.html"
+}

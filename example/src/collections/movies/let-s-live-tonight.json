@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Let's Live Tonight",
+    "year": 1935,
+    "cast": [
+      "Lilian Harvey",
+      "Tullio Carminati",
+      "Hugh Williams"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/let-s-live-tonight.html"
+}

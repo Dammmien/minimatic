@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love's Wilderness",
+    "year": 1924,
+    "cast": [
+      "Corinne Griffith",
+      "Holmes Herbert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-s-wilderness.html"
+}

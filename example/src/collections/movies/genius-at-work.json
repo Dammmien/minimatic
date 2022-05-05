@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Genius at Work",
+    "year": 1946,
+    "cast": [
+      "Anne Jeffreys",
+      "Wally Brown",
+      "Alan Carney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/genius-at-work.html"
+}

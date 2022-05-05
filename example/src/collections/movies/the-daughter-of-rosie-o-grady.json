@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Daughter of Rosie O'Grady",
+    "year": 1950,
+    "cast": [
+      "June Haver",
+      "Gordon MacRae",
+      "Debbie Reynolds",
+      "James Barton",
+      "Gene Nelson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-daughter-of-rosie-o-grady.html"
+}

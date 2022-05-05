@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stick to Your Story",
+    "year": 1926,
+    "cast": [
+      "Billy Sullivan",
+      "Bruce Gordon"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/stick-to-your-story.html"
+}

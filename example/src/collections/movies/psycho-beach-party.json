@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Psycho Beach Party",
+    "year": 2000,
+    "cast": [
+      "Thomas Gibson",
+      "Lauren Ambrose",
+      "Charles Busch"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/psycho-beach-party.html"
+}

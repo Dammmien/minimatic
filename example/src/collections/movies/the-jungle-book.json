@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Jungle Book",
+    "year": 2016,
+    "cast": [
+      "Bill Murray",
+      "Ben Kingsley",
+      "Idris Elba"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-jungle-book.html"
+}

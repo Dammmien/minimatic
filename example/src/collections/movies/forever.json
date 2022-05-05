@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Forever",
+    "year": 1921,
+    "cast": [
+      "Wallace Reid",
+      "Elsie Ferguson",
+      "Montagu Love"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/forever.html"
+}

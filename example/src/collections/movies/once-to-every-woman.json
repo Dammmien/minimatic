@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Once to Every Woman",
+    "year": 1934,
+    "cast": [
+      "Ralph Bellamy",
+      "Fay Wray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/once-to-every-woman.html"
+}

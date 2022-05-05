@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Air Hawk",
+    "year": 1924,
+    "cast": [
+      "Al Wilson",
+      "Virginia Brown Faire"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-air-hawk.html"
+}

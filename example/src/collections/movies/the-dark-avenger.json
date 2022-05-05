@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dark Avenger",
+    "year": 1955,
+    "cast": [
+      "Errol Flynn",
+      "Joanne Dru"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-dark-avenger.html"
+}

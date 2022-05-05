@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Reckless Age",
+    "year": 1944,
+    "cast": [
+      "Gloria Jean",
+      "Henry Stephenson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/reckless-age.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Our Daily Bread",
+    "year": 1934,
+    "cast": [
+      "Karen Morley",
+      "Tom Keene",
+      "Barbara Pepper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/our-daily-bread.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Too Many Blondes",
+    "year": 1941,
+    "cast": [
+      "Rudy Vallée",
+      "Helen Parrish"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/too-many-blondes.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Croods",
+    "year": 2013,
+    "cast": [
+      "Nicolas Cage",
+      "Ryan Reynolds",
+      "Emma Stone",
+      "Catherine Keener",
+      "Clark Duke",
+      "Cloris Leachman"
+    ],
+    "genres": [
+      "Adventure",
+      "Animated",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-croods.html"
+}

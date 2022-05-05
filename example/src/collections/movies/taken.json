@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Taken",
+    "year": 2008,
+    "cast": [
+      "Liam Neeson",
+      "Famke Janssen",
+      "Maggie Grace"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/taken.html"
+}

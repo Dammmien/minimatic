@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Duck",
+    "year": 2005,
+    "cast": [
+      "Philip Baker Hall",
+      "Bill Cobbs",
+      "Bill Brochtrup",
+      "Amy Hill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/duck.html"
+}

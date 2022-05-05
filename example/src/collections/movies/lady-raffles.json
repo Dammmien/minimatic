@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lady Raffles",
+    "year": 1928,
+    "cast": [
+      "Estelle Taylor",
+      "Roland Drew"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/lady-raffles.html"
+}

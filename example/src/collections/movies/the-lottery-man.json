@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lottery Man",
+    "year": 1919,
+    "cast": [
+      "Wallace Reid",
+      "Wanda Hawley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-lottery-man.html"
+}

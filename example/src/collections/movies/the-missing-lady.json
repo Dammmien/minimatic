@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Missing Lady",
+    "year": 1946,
+    "cast": [
+      "Kane Richmond",
+      "Barbara Read"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-missing-lady.html"
+}

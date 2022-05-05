@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Double",
+    "year": 2011,
+    "cast": [
+      "Richard Gere",
+      "Topher Grace",
+      "Stephen Moyer",
+      "Odette Yustman",
+      "Stana Katic",
+      "Chris Marquette",
+      "Tamer Hassan",
+      "and",
+      "Michael Sheen"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/the-double.html"
+}

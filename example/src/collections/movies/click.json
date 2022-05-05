@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Click",
+    "year": 2006,
+    "cast": [
+      "Adam Sandler",
+      "Kate Beckinsale",
+      "Christopher Walken",
+      "David Hasselhoff"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/click.html"
+}

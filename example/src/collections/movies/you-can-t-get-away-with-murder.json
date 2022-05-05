@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "You Can't Get Away with Murder",
+    "year": 1939,
+    "cast": [
+      "Humphrey Bogart",
+      "Gale Page",
+      "Billy Halop",
+      "John Litel"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/you-can-t-get-away-with-murder.html"
+}

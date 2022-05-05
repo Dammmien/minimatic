@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rhinoceros",
+    "year": 1974,
+    "cast": [
+      "Gene Wilder",
+      "Zero Mostel",
+      "Karen Black"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rhinoceros.html"
+}

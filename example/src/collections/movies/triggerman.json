@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Triggerman",
+    "year": 1948,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton",
+      "Virginia Carroll"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/triggerman.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fast Workers",
+    "year": 1933,
+    "cast": [
+      "John Gilbert",
+      "Robert Armstrong",
+      "Mae Clarke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fast-workers.html"
+}

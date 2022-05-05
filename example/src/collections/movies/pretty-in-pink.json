@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Pretty in Pink",
+    "year": 1986,
+    "cast": [
+      "Molly Ringwald",
+      "Andrew McCarthy",
+      "Jon Cryer",
+      "Harry Dean Stanton",
+      "Annie Potts",
+      "James Spader"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pretty-in-pink.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Perfect Marriage",
+    "year": 1947,
+    "cast": [
+      "Loretta Young",
+      "David Niven",
+      "Virginia Field"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-perfect-marriage.html"
+}

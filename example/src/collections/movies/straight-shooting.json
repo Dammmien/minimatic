@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Straight Shooting",
+    "year": 1917,
+    "cast": [
+      "Harry Carey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/straight-shooting.html"
+}

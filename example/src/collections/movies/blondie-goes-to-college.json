@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blondie Goes to College",
+    "year": 1942,
+    "cast": [
+      "Penny Singleton",
+      "Arthur Lake",
+      "Janet Blair"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blondie-goes-to-college.html"
+}

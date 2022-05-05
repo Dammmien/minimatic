@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "They Shoot Horses, Don't They?",
+    "year": 1969,
+    "cast": [
+      "Jane Fonda",
+      "Michael Sarrazin",
+      "Gig Young",
+      "Susannah York",
+      "Red Buttons"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/they-shoot-horses--don-t-they-.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Failure to Launch",
+    "year": 2006,
+    "cast": [
+      "Matthew McConaughey",
+      "Sarah Jessica Parker",
+      "Terry Bradshaw",
+      "Kathy Bates"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/failure-to-launch.html"
+}

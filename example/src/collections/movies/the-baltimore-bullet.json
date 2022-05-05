@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Baltimore Bullet",
+    "year": 1980,
+    "cast": [
+      "James Coburn",
+      "Omar Sharif",
+      "Ronee Blakley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-baltimore-bullet.html"
+}

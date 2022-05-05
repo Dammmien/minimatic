@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lady Has Plans",
+    "year": 1942,
+    "cast": [
+      "Paulette Goddard",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-lady-has-plans.html"
+}

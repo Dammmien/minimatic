@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "From Here to Eternity",
+    "year": 1953,
+    "cast": [
+      "Montgomery Clift",
+      "Deborah Kerr",
+      "Burt Lancaster",
+      "Frank Sinatra",
+      "Donna Reed",
+      "George Reeves",
+      "Ernest Borgnine"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/from-here-to-eternity.html"
+}

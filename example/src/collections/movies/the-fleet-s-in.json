@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fleet's In",
+    "year": 1942,
+    "cast": [
+      "Dorothy Lamour",
+      "William Holden"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-fleet-s-in.html"
+}

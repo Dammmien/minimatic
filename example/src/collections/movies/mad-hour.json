@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mad Hour",
+    "year": 1928,
+    "cast": [
+      "Sally O'Neil",
+      "Alice White"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mad-hour.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fort Vengeance",
+    "year": 1953,
+    "cast": [
+      "James Craig",
+      "Rita Moreno",
+      "Reginald Denny"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fort-vengeance.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "On Your Back",
+    "year": 1930,
+    "cast": [
+      "Irene Rich",
+      "Raymond Hackett",
+      "H. B. Warner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/on-your-back.html"
+}

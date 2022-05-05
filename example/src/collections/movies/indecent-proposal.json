@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Indecent Proposal",
+    "year": 1993,
+    "cast": [
+      "Robert Redford",
+      "Demi Moore",
+      "Woody Harrelson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/indecent-proposal.html"
+}

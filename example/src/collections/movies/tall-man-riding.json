@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tall Man Riding",
+    "year": 1955,
+    "cast": [
+      "Randolph Scott",
+      "Dorothy Malone",
+      "Peggie Castle"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/tall-man-riding.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Don Juan",
+    "year": 1926,
+    "cast": [
+      "John Barrymore",
+      "Mary Astor",
+      "Warner Oland",
+      "Estelle Taylor"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/don-juan.html"
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Sherlock Holmes: A Game of Shadows",
+    "year": 2011,
+    "cast": [
+      "Robert Downey, Jr.",
+      "Jude Law",
+      "Noomi Rapace",
+      "Jared Harris",
+      "Eddie Marsan",
+      "Rachel McAdams",
+      "Stephen Fry",
+      "Geraldine James",
+      "Kelly Reilly"
+    ],
+    "genres": [
+      "Action",
+      "Mystery"
+    ]
+  },
+  "output": "movies/sherlock-holmes--a-game-of-shadows.html"
+}

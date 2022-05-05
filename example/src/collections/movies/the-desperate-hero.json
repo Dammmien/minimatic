@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Desperate Hero",
+    "year": 1920,
+    "cast": [
+      "Owen Moore",
+      "Gloria Hope"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-desperate-hero.html"
+}

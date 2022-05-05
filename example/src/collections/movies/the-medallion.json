@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Medallion",
+    "year": 2003,
+    "cast": [
+      "Jackie Chan",
+      "Lee Evans",
+      "Claire Forlani"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-medallion.html"
+}

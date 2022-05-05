@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Safe Place",
+    "year": 1971,
+    "cast": [
+      "Jack Nicholson",
+      "Tuesday Weld",
+      "Orson Welles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-safe-place.html"
+}

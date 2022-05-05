@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crooklyn",
+    "year": 1994,
+    "cast": [
+      "Alfre Woodard",
+      "Delroy Lindo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/crooklyn.html"
+}

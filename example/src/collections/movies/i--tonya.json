@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "I, Tonya",
+    "year": 2017,
+    "cast": [
+      "Margot Robbie",
+      "Sebastian Stan",
+      "Allison Janney",
+      "Julianne Nicholson",
+      "Mckenna Grace"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/i--tonya.html"
+}

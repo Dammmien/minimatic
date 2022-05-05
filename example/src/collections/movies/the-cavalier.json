@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cavalier",
+    "year": 1928,
+    "cast": [
+      "Richard Talmadge",
+      "Barbara Bedford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-cavalier.html"
+}

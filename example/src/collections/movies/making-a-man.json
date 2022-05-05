@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Making a Man",
+    "year": 1922,
+    "cast": [
+      "Jack Holt",
+      "Eva Novak"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/making-a-man.html"
+}

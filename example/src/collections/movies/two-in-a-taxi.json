@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Two in a Taxi",
+    "year": 1941,
+    "cast": [
+      "Anita Louise",
+      "Russell Hayden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/two-in-a-taxi.html"
+}

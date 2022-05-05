@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Count of Monte Cristo",
+    "year": 2002,
+    "cast": [
+      "James Caviezel",
+      "Guy Pearce",
+      "Dagmara Domińczyk",
+      "Richard Harris"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-count-of-monte-cristo.html"
+}

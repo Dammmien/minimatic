@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Caravan",
+    "year": 1934,
+    "cast": [
+      "Charles Boyer",
+      "Loretta Young",
+      "Jean Parker"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/caravan.html"
+}

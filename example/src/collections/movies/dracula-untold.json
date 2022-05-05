@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dracula Untold",
+    "year": 2014,
+    "cast": [
+      "Luke Evans",
+      "Sarah Gadon",
+      "Dominic Cooper",
+      "Zach McGowan"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/dracula-untold.html"
+}

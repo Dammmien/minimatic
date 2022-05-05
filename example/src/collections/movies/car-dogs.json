@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Car Dogs",
+    "year": 2017,
+    "cast": [
+      "Patrick J. Adams",
+      "George Lopez",
+      "Nia Vardalos",
+      "Octavia Spencer",
+      "Josh Hopkins",
+      "Dash Mihok",
+      "Chris Mulkey",
+      "Alessandra Torresani",
+      "Cory Hardrict",
+      "Stefanie Butler",
+      "Joe Massingill"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/car-dogs.html"
+}

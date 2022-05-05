@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Take the Money and Run",
+    "year": 1969,
+    "cast": [
+      "Woody Allen",
+      "Janet Margolin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/take-the-money-and-run.html"
+}

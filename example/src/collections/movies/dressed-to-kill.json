@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dressed to Kill",
+    "year": 1980,
+    "cast": [
+      "Michael Caine",
+      "Angie Dickinson",
+      "Nancy Allen",
+      "Keith Gordon",
+      "Dennis Franz"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/dressed-to-kill.html"
+}

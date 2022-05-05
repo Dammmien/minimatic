@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Buccaneer's Girl",
+    "year": 1950,
+    "cast": [
+      "Yvonne De Carlo"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/buccaneer-s-girl.html"
+}

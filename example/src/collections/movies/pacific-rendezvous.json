@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pacific Rendezvous",
+    "year": 1942,
+    "cast": [
+      "Lee Bowman",
+      "Jean Rogers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pacific-rendezvous.html"
+}

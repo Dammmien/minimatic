@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "North of the Great Divide",
+    "year": 1950,
+    "cast": [
+      "Roy Rogers",
+      "Penny Edwards"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/north-of-the-great-divide.html"
+}

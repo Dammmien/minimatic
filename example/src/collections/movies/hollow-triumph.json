@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hollow Triumph",
+    "year": 1948,
+    "cast": [
+      "Paul Henreid",
+      "Joan Bennett"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/hollow-triumph.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Breezing Home",
+    "year": 1937,
+    "cast": [
+      "Binnie Barnes",
+      "William Gargan",
+      "Wendy Barrie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/breezing-home.html"
+}

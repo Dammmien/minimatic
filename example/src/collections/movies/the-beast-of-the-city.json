@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Beast of the City",
+    "year": 1932,
+    "cast": [
+      "Walter Huston",
+      "Jean Harlow",
+      "Wallace Ford"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-beast-of-the-city.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Senseless",
+    "year": 1998,
+    "cast": [
+      "Marlon Wayans",
+      "David Spade",
+      "Matthew Lillard",
+      "Brad Dourif"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/senseless.html"
+}

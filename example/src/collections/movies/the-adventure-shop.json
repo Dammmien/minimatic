@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Adventure Shop",
+    "year": 1919,
+    "cast": [
+      "Corinne Griffith",
+      "Walter McGrail"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-adventure-shop.html"
+}

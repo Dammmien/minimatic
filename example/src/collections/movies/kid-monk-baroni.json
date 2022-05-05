@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kid Monk Baroni",
+    "year": 1952,
+    "cast": [
+      "Bruce Cabot",
+      "Leonard Nimoy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kid-monk-baroni.html"
+}

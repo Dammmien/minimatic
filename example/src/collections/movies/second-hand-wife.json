@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Second Hand Wife",
+    "year": 1933,
+    "cast": [
+      "Sally Eilers",
+      "Helen Vinson",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/second-hand-wife.html"
+}

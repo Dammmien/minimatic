@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Identity Unknown",
+    "year": 1945,
+    "cast": [
+      "Richard Arlen",
+      "Cheryl Walker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/identity-unknown.html"
+}

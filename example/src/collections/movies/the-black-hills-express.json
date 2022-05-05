@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Black Hills Express",
+    "year": 1943,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Wally Vernon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-black-hills-express.html"
+}

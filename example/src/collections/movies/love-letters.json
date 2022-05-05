@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Letters",
+    "year": 1984,
+    "cast": [
+      "Jamie Lee Curtis",
+      "James Keach",
+      "Bonnie Bartlett"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/love-letters.html"
+}

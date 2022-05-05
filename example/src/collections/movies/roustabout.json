@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Roustabout",
+    "year": 1964,
+    "cast": [
+      "Elvis Presley",
+      "Barbara Stanwyck"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/roustabout.html"
+}

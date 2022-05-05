@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Kid Rides Again",
+    "year": 1943,
+    "cast": [
+      "Buster Crabbe",
+      "Iris Meredith"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-kid-rides-again.html"
+}

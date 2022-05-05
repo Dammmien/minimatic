@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Niagara",
+    "year": 1953,
+    "cast": [
+      "Marilyn Monroe",
+      "Jean Peters",
+      "Joseph Cotten"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/niagara.html"
+}

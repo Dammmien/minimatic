@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trail to San Antone",
+    "year": 1947,
+    "cast": [
+      "Gene Autry",
+      "Peggy Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/trail-to-san-antone.html"
+}

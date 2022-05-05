@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wagon Show",
+    "year": 1928,
+    "cast": [
+      "Ken Maynard",
+      "Ena Gregory"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-wagon-show.html"
+}

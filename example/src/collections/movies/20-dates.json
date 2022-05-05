@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "20 Dates",
+    "year": 1998,
+    "cast": [
+      "Myles Berkowitz",
+      "Elisabeth Wagner",
+      "Tia Carrere"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/20-dates.html"
+}

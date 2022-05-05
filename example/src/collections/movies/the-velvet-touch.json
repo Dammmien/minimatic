@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Velvet Touch",
+    "year": 1948,
+    "cast": [
+      "Rosalind Russell",
+      "Leo Genn",
+      "Claire Trevor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-velvet-touch.html"
+}

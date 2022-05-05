@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Honeymoon Lane",
+    "year": 1931,
+    "cast": [
+      "June Collyer",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/honeymoon-lane.html"
+}

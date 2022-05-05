@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Jersey Boys",
+    "year": 2014,
+    "cast": [
+      "John Lloyd Young",
+      "Erich Bergen",
+      "Vincent Piazza",
+      "Christopher Walken"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/jersey-boys.html"
+}

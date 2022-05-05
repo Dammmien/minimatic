@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It's a Joke, Son!",
+    "year": 1947,
+    "cast": [
+      "Kenny Delmar",
+      "Una Merkel",
+      "June Lockhart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-a-joke--son-.html"
+}

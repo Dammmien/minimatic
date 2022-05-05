@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild Horse Canyon",
+    "year": 1925,
+    "cast": [
+      "Yakima Canutt",
+      "Helene Rosson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wild-horse-canyon.html"
+}

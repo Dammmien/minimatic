@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Punisher",
+    "year": 2004,
+    "cast": [
+      "Thomas Jane",
+      "John Travolta",
+      "Rebecca Romijn"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/the-punisher.html"
+}

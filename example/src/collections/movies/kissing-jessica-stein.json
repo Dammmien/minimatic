@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Kissing Jessica Stein",
+    "year": 2001,
+    "cast": [
+      "Jennifer Westfeldt",
+      "Heather Juergensen",
+      "Scott Cohen",
+      "Jackie Hoffman"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/kissing-jessica-stein.html"
+}

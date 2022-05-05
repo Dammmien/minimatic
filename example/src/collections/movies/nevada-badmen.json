@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nevada Badmen",
+    "year": 1951,
+    "cast": [
+      "Whip Wilson",
+      "Phyllis Coates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/nevada-badmen.html"
+}

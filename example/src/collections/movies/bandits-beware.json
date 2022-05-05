@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Bandits Beware",
+    "year": 1921,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bandits-beware.html"
+}

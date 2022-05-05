@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Absolute Quiet",
+    "year": 1936,
+    "cast": [
+      "Lionel Atwill",
+      "Raymond Walburn",
+      "Irene Hervey"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/absolute-quiet.html"
+}

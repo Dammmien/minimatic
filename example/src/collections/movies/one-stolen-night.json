@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Stolen Night",
+    "year": 1929,
+    "cast": [
+      "Betty Bronson",
+      "William Collier"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/one-stolen-night.html"
+}

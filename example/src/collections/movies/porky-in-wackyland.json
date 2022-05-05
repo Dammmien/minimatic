@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Porky in Wackyland",
+    "year": 1949,
+    "cast": [
+      "Porky Pig"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/porky-in-wackyland.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Roar of the Dragon",
+    "year": 1932,
+    "cast": [
+      "Richard Dix",
+      "Gwili Andre",
+      "Edward Everett Horton"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/roar-of-the-dragon.html"
+}

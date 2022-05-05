@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Idol",
+    "year": 1966,
+    "cast": [
+      "Jennifer Jones",
+      "Michael Parks"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-idol.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shalako",
+    "year": 1968,
+    "cast": [
+      "Sean Connery",
+      "Brigitte Bardot"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/shalako.html"
+}

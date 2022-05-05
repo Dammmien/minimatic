@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "King of Alcatraz",
+    "year": 1938,
+    "cast": [
+      "Lloyd Nolan",
+      "Robert Preston",
+      "J. Carrol Naish"
+    ],
+    "genres": [
+      "Drama",
+      "Action"
+    ]
+  },
+  "output": "movies/king-of-alcatraz.html"
+}

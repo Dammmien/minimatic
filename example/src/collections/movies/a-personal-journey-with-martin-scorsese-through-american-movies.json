@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Personal Journey with Martin Scorsese Through American Movies",
+    "year": 1995,
+    "cast": [
+      "Martin Scorsese"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/a-personal-journey-with-martin-scorsese-through-american-movies.html"
+}

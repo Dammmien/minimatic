@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The New School Teacher",
+    "year": 1924,
+    "cast": [
+      "Doris Kenyon",
+      "Mickey Bennett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-new-school-teacher.html"
+}

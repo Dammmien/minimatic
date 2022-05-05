@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Road to Happiness",
+    "year": 1942,
+    "cast": [
+      "John Boles",
+      "Mona Barrie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/road-to-happiness.html"
+}

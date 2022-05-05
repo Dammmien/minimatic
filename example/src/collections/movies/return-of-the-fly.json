@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Return of the Fly",
+    "year": 1959,
+    "cast": [
+      "Vincent Price",
+      "Brett Halsey"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/return-of-the-fly.html"
+}

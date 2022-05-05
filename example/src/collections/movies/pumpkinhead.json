@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pumpkinhead",
+    "year": 1989,
+    "cast": [
+      "Lance Henriksen",
+      "Jeff East"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/pumpkinhead.html"
+}

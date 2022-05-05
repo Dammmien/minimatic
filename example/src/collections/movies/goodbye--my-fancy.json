@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Goodbye, My Fancy",
+    "year": 1951,
+    "cast": [
+      "Joan Crawford",
+      "Robert Young"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/goodbye--my-fancy.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mexican Spitfire",
+    "year": 1940,
+    "cast": [
+      "Lupe Vélez",
+      "Leon Errol"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mexican-spitfire.html"
+}

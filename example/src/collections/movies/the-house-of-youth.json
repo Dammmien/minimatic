@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The House of Youth",
+    "year": 1924,
+    "cast": [
+      "Jacqueline Logan",
+      "Malcolm McGregor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-house-of-youth.html"
+}

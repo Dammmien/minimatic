@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "This Above All",
+    "year": 1942,
+    "cast": [
+      "Tyrone Power",
+      "Joan Fontaine"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/this-above-all.html"
+}

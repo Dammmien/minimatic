@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Make Mine Music",
+    "year": 1946,
+    "cast": [
+      "Dinah Shore",
+      "Benny Goodman",
+      "Nelson Eddy",
+      "Andrews Sisters"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/make-mine-music.html"
+}

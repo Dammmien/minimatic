@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Pies and Guys",
+    "year": 1958,
+    "cast": [
+      "Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pies-and-guys.html"
+}

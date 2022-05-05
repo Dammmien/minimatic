@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Now and Then",
+    "year": 1995,
+    "cast": [
+      "Demi Moore",
+      "Melanie Griffith",
+      "Rosie O'Donnell",
+      "Rita Wilson",
+      "Christina Ricci",
+      "Thora Birch",
+      "Gaby Hoffmann",
+      "Ashleigh Blair Sterling"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/now-and-then.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Valmont",
+    "year": 1989,
+    "cast": [
+      "Colin Firth",
+      "Annette Bening",
+      "Meg Tilly",
+      "Fairuza Balk"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/valmont.html"
+}

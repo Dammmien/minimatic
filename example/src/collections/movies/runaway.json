@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Runaway",
+    "year": 1984,
+    "cast": [
+      "Tom Selleck",
+      "Gene Simmons",
+      "Cynthia Rhodes"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/runaway.html"
+}

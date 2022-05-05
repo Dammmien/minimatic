@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Winning Team",
+    "year": 1952,
+    "cast": [
+      "Doris Day",
+      "Ronald Reagan",
+      "Frank Lovejoy"
+    ],
+    "genres": [
+      "Sports",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-winning-team.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Some Liar",
+    "year": 1919,
+    "cast": [
+      "William Russell",
+      "Eileen Percy"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/some-liar.html"
+}

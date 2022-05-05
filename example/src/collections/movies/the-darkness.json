@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Darkness",
+    "year": 2016,
+    "cast": [
+      "Kevin Bacon",
+      "Radha Mitchell"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-darkness.html"
+}

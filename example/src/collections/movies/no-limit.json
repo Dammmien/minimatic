@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "No Limit",
+    "year": 2006,
+    "cast": [
+      "the professional",
+      "poker",
+      "tournament circuit"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/no-limit.html"
+}

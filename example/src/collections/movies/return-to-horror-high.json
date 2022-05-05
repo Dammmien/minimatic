@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Return to Horror High",
+    "year": 1987,
+    "cast": [
+      "Vince Edwards"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/return-to-horror-high.html"
+}

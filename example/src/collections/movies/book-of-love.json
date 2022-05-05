@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Book of Love",
+    "year": 2004,
+    "cast": [
+      "Frances O'Connor",
+      "Simon Baker",
+      "Gregory Smith"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/book-of-love.html"
+}

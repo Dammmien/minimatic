@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Martians Go Home",
+    "year": 1990,
+    "cast": [
+      "Randy Quaid",
+      "Margaret Colin",
+      "Anita Morris"
+    ],
+    "genres": [
+      "Comedy",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/martians-go-home.html"
+}

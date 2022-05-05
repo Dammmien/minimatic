@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Apollo 13",
+    "year": 1995,
+    "cast": [
+      "Tom Hanks",
+      "Kevin Bacon",
+      "Bill Paxton",
+      "Gary Sinise",
+      "Ed Harris",
+      "Kathleen Quinlan"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/apollo-13.html"
+}

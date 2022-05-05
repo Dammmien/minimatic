@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Metallica Through the Never",
+    "year": 2013,
+    "cast": [
+      "Dane DeHaan",
+      "James Hetfield",
+      "Lars Ulrich",
+      "Kirk Hammett",
+      "Robert Trujillo"
+    ],
+    "genres": [
+      "Documentary",
+      "Musical"
+    ]
+  },
+  "output": "movies/metallica-through-the-never.html"
+}

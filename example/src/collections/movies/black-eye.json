@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Black Eye",
+    "year": 1974,
+    "cast": [
+      "Fred Williamson",
+      "Rosemary Forsyth"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/black-eye.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Top Speed",
+    "year": 1930,
+    "cast": [
+      "Joe E. Brown",
+      "Laura Lee",
+      "Frank McHugh"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/top-speed.html"
+}

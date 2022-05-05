@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman Hater",
+    "year": 1925,
+    "cast": [
+      "Helene Chadwick",
+      "Clive Brook"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woman-hater.html"
+}

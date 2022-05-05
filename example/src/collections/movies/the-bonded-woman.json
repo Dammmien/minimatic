@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bonded Woman",
+    "year": 1922,
+    "cast": [
+      "Betty Compson",
+      "John Bowers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bonded-woman.html"
+}

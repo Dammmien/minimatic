@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Adorable",
+    "year": 1933,
+    "cast": [
+      "Janet Gaynor",
+      "Henri Garat",
+      "C. Aubrey Smith"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/adorable.html"
+}

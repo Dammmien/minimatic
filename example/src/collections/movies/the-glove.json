@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Glove",
+    "year": 1979,
+    "cast": [
+      "John Saxon",
+      "Joanna Cassidy",
+      "Roosevelt Grier",
+      "Joan Blondell"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-glove.html"
+}

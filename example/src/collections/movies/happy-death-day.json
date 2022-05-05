@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Happy Death Day",
+    "year": 2017,
+    "cast": [
+      "Jessica Rothe",
+      "Israel Broussard",
+      "Ruby Modine"
+    ],
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  "output": "movies/happy-death-day.html"
+}

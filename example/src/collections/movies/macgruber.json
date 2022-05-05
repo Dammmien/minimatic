@@ -1,0 +1,27 @@
+{
+  "data": {
+    "title": "MacGruber",
+    "year": 2010,
+    "cast": [
+      "Will Forte",
+      "Kristen Wiig",
+      "Ryan Phillippe",
+      "Powers Boothe",
+      "Maya Rudolph",
+      "Derek Mears",
+      "Val Kilmer",
+      "Mark Henry",
+      "Chris Jericho",
+      "Glenn Jacobs",
+      "Paul Wight",
+      "Montel Vontavious Porter",
+      "The Great Khali"
+    ],
+    "genres": [
+      "Action",
+      "Comedy",
+      "Satire"
+    ]
+  },
+  "output": "movies/macgruber.html"
+}

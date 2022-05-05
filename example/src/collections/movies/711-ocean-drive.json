@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "711 Ocean Drive",
+    "year": 1950,
+    "cast": [
+      "Edmond O'Brien",
+      "Joanne Dru",
+      "Dorothy Patrick"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/711-ocean-drive.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gypsy",
+    "year": 1962,
+    "cast": [
+      "Rosalind Russell",
+      "Karl Malden",
+      "Natalie Wood"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/gypsy.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Panama Hattie",
+    "year": 1942,
+    "cast": [
+      "Red Skelton",
+      "Ann Sothern"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/panama-hattie.html"
+}

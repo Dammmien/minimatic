@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Kenny",
+    "year": 1988,
+    "cast": [
+      "Kenny Easterday"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/kenny.html"
+}

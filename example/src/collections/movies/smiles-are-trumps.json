@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smiles Are Trumps",
+    "year": 1922,
+    "cast": [
+      "Maurice \"Lefty\" Flynn",
+      "Ora Carew"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/smiles-are-trumps.html"
+}

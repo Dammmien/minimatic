@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Villain Still Pursued Her",
+    "year": 1940,
+    "cast": [
+      "Buster Keaton",
+      "Billy Gilbert"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-villain-still-pursued-her.html"
+}

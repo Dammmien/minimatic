@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stand-In",
+    "year": 1937,
+    "cast": [
+      "Leslie Howard",
+      "Humphrey Bogart",
+      "Joan Blondell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stand-in.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Man's Land",
+    "year": 1932,
+    "cast": [
+      "Hoot Gibson",
+      "Marion Shilling"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-man-s-land.html"
+}

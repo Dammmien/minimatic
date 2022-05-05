@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Campus Confessions",
+    "year": 1938,
+    "cast": [
+      "Betty Grable",
+      "Thurston Hall",
+      "William Henry"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/campus-confessions.html"
+}

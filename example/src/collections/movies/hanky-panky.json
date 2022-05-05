@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hanky Panky",
+    "year": 1982,
+    "cast": [
+      "Gene Wilder",
+      "Gilda Radner",
+      "Richard Widmark"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hanky-panky.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Double Door",
+    "year": 1934,
+    "cast": [
+      "Evelyn Venable",
+      "Anne Revere",
+      "Kent Taylor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/double-door.html"
+}

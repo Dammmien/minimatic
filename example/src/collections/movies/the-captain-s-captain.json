@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Captain's Captain",
+    "year": 1919,
+    "cast": [
+      "Alice Joyce",
+      "Percy Standing"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-captain-s-captain.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Rough Riders",
+    "year": 1927,
+    "cast": [
+      "Noah Beery",
+      "Charles Farrell",
+      "George Bancroft"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-rough-riders.html"
+}

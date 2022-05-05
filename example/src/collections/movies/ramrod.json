@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ramrod",
+    "year": 1947,
+    "cast": [
+      "Joel McCrea",
+      "Veronica Lake",
+      "Donald Crisp"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ramrod.html"
+}

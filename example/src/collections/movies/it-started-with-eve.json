@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It Started with Eve",
+    "year": 1941,
+    "cast": [
+      "Deanna Durbin",
+      "Charles Laughton",
+      "Robert Cummings"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/it-started-with-eve.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strangers May Kiss",
+    "year": 1931,
+    "cast": [
+      "Norma Shearer",
+      "Robert Montgomery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/strangers-may-kiss.html"
+}

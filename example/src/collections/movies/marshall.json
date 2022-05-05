@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Marshall",
+    "year": 2017,
+    "cast": [
+      "Chadwick Boseman",
+      "Josh Gad",
+      "Kate Hudson",
+      "Dan Stevens",
+      "James Cromwell",
+      "Sterling K. Brown"
+    ],
+    "genres": [
+      "Biography",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/marshall.html"
+}

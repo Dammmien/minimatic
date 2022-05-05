@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Subterraneans",
+    "year": 1960,
+    "cast": [
+      "Leslie Caron",
+      "George Peppard",
+      "Janice Rule"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-subterraneans.html"
+}

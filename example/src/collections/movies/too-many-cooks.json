@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Too Many Cooks",
+    "year": 1931,
+    "cast": [
+      "Bert Wheeler",
+      "Dorothy Lee"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/too-many-cooks.html"
+}

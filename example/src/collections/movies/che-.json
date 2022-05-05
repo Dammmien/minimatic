@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Che!",
+    "year": 1969,
+    "cast": [
+      "Omar Sharif",
+      "Jack Palance",
+      "Cesare Danova"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/che-.html"
+}

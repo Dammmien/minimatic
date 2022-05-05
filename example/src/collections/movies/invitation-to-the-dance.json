@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Invitation to the Dance",
+    "year": 1956,
+    "cast": [
+      "Gene Kelly",
+      "Tamara Toumanova",
+      "Belita"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/invitation-to-the-dance.html"
+}

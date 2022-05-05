@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "White Comanche",
+    "year": 1968,
+    "cast": [
+      "William Shatner",
+      "Joseph Cotten"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/white-comanche.html"
+}

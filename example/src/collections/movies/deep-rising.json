@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Deep Rising",
+    "year": 1998,
+    "cast": [
+      "Treat Williams",
+      "Famke Janssen",
+      "Wes Studi",
+      "Kevin J. O'Connor",
+      "Anthony Heald",
+      "Jason Flemyng",
+      "Djimon Hounsou",
+      "Clifton Powell",
+      "Derrick O'Connor"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/deep-rising.html"
+}

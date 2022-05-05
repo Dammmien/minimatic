@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bluffer",
+    "year": 1919,
+    "cast": [
+      "June Elvidge",
+      "Irving Cummings",
+      "Frank Mayo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bluffer.html"
+}

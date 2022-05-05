@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "El Alamein",
+    "year": 1953,
+    "cast": [
+      "Scott Brady",
+      "Edward Ashley",
+      "Rita Moreno"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/el-alamein.html"
+}

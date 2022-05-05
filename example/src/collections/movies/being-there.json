@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Being There",
+    "year": 1979,
+    "cast": [
+      "Peter Sellers",
+      "Shirley MacLaine",
+      "Melvyn Douglas",
+      "Richard Basehart",
+      "Richard A. Dysart",
+      "Jack Warden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/being-there.html"
+}

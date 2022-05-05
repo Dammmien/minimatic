@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lions for Lambs",
+    "year": 2007,
+    "cast": [
+      "Robert Redford",
+      "Meryl Streep",
+      "Tom Cruise"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lions-for-lambs.html"
+}

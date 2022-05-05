@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Date Night",
+    "year": 2010,
+    "cast": [
+      "Steve Carell",
+      "Tina Fey"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/date-night.html"
+}

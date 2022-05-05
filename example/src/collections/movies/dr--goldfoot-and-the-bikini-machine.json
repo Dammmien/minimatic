@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dr. Goldfoot and the Bikini Machine",
+    "year": 1965,
+    "cast": [
+      "Vincent Price",
+      "Frankie Avalon",
+      "Dwayne Hickman",
+      "Susan Hart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dr--goldfoot-and-the-bikini-machine.html"
+}

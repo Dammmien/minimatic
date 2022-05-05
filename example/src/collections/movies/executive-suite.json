@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Executive Suite",
+    "year": 1954,
+    "cast": [
+      "William Holden",
+      "Barbara Stanwyck",
+      "Fredric March",
+      "June Allyson",
+      "Walter Pidgeon",
+      "Paul Douglas",
+      "Shelley Winters",
+      "Louis Calhern",
+      "Nina Foch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/executive-suite.html"
+}

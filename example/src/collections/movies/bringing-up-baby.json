@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bringing Up Baby",
+    "year": 1938,
+    "cast": [
+      "Katharine Hepburn",
+      "Cary Grant",
+      "May Robson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bringing-up-baby.html"
+}

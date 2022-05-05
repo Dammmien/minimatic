@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Laura",
+    "year": 1944,
+    "cast": [
+      "Gene Tierney",
+      "Dana Andrews",
+      "Clifton Webb",
+      "Vincent Price",
+      "Judith Anderson"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/laura.html"
+}

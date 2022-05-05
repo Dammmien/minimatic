@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gothika",
+    "year": 2003,
+    "cast": [
+      "Halle Berry",
+      "Robert Downey, Jr.",
+      "Penélope Cruz",
+      "Charles S. Dutton"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/gothika.html"
+}

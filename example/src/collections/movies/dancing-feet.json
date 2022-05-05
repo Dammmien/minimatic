@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dancing Feet",
+    "year": 1936,
+    "cast": [
+      "Ben Lyon",
+      "Joan Marsh"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dancing-feet.html"
+}

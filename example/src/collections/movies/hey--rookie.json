@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hey, Rookie",
+    "year": 1944,
+    "cast": [
+      "Ann Miller",
+      "Joe Besser",
+      "Larry Parks"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hey--rookie.html"
+}

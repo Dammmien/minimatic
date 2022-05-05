@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Drip-Along Daffy",
+    "year": 1951,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/drip-along-daffy.html"
+}

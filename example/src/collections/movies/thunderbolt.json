@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thunderbolt",
+    "year": 1947,
+    "cast": [
+      "James Stewart"
+    ],
+    "genres": [
+      "War",
+      "Documentary"
+    ]
+  },
+  "output": "movies/thunderbolt.html"
+}

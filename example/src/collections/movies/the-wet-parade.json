@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wet Parade",
+    "year": 1932,
+    "cast": [
+      "Robert Young",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wet-parade.html"
+}

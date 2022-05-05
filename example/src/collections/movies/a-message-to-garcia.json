@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Message to Garcia",
+    "year": 1936,
+    "cast": [
+      "John Boles",
+      "Barbara Stanwyck",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/a-message-to-garcia.html"
+}

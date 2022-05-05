@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Date with Judy",
+    "year": 1948,
+    "cast": [
+      "Wallace Beery",
+      "Jane Powell",
+      "Elizabeth Taylor"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/a-date-with-judy.html"
+}

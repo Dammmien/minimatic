@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Marrying Man",
+    "year": 1991,
+    "cast": [
+      "Alec Baldwin",
+      "Kim Basinger",
+      "Elisabeth Shue",
+      "Paul Reiser",
+      "Fisher Stevens",
+      "Robert Loggia"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-marrying-man.html"
+}

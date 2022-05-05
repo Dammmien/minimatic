@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Hannah Montana: The Movie",
+    "year": 2009,
+    "cast": [
+      "Miley Cyrus",
+      "Emily Osment",
+      "Jason Earles",
+      "Mitchel Musso",
+      "Moisés Arias",
+      "Melora Hardin",
+      "Vanessa Williams",
+      "Billy Ray Cyrus",
+      "Lucas Till"
+    ],
+    "genres": [
+      "Family",
+      "Musical"
+    ]
+  },
+  "output": "movies/hannah-montana--the-movie.html"
+}

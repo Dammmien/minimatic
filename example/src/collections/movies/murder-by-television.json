@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder by Television",
+    "year": 1935,
+    "cast": [
+      "Bela Lugosi",
+      "June Collyer"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder-by-television.html"
+}

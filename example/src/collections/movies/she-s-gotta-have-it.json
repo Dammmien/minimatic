@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "She's Gotta Have It",
+    "year": 1986,
+    "cast": [
+      "Tracy Camilla Johns",
+      "Tommy Redmond"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/she-s-gotta-have-it.html"
+}

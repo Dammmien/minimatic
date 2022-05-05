@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Funny Farm",
+    "year": 1988,
+    "cast": [
+      "Chevy Chase",
+      "Madolyn Smith"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/funny-farm.html"
+}

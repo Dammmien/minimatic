@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Back Street",
+    "year": 1961,
+    "cast": [
+      "Susan Hayward",
+      "John Gavin",
+      "Vera Miles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/back-street.html"
+}

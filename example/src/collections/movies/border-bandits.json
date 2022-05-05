@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Border Bandits",
+    "year": 1946,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/border-bandits.html"
+}

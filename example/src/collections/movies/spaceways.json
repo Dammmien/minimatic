@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spaceways",
+    "year": 1953,
+    "cast": [
+      "Howard Duff",
+      "Eva Bartók"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/spaceways.html"
+}

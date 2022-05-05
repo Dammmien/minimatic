@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "National Velvet",
+    "year": 1944,
+    "cast": [
+      "Mickey Rooney",
+      "Elizabeth Taylor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/national-velvet.html"
+}

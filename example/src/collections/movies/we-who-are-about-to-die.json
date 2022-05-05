@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "We Who Are About to Die",
+    "year": 1937,
+    "cast": [
+      "Ann Dvorak",
+      "Preston Foster",
+      "Willie Fung"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/we-who-are-about-to-die.html"
+}

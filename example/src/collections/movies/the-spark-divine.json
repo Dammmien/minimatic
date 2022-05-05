@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Spark Divine",
+    "year": 1919,
+    "cast": [
+      "Alice Joyce",
+      "Eulalie Jensen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-spark-divine.html"
+}

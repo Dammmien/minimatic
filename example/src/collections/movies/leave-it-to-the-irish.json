@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Leave It to the Irish",
+    "year": 1944,
+    "cast": [
+      "James Dunn",
+      "Wanda McKay"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/leave-it-to-the-irish.html"
+}

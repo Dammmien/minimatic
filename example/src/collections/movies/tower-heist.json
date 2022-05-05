@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Tower Heist",
+    "year": 2011,
+    "cast": [
+      "Ben Stiller",
+      "Eddie Murphy",
+      "Casey Affleck",
+      "Alan Alda",
+      "Matthew Broderick",
+      "Téa Leoni",
+      "Michael Peña",
+      "Gabourey Sidibe",
+      "Judd Hirsch"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/tower-heist.html"
+}

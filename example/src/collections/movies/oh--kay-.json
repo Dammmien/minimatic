@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Oh, Kay!",
+    "year": 1928,
+    "cast": [
+      "Colleen Moore",
+      "Lawrence Gray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/oh--kay-.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Chinatown After Dark",
+    "year": 1931,
+    "cast": [
+      "Carmel Myers",
+      "Rex Lease",
+      "Barbara Kent"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/chinatown-after-dark.html"
+}

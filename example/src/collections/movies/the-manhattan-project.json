@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Manhattan Project",
+    "year": 1986,
+    "cast": [
+      "John Lithgow",
+      "Christopher Collet",
+      "Cynthia Nixon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-manhattan-project.html"
+}

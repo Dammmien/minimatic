@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "She's My Weakness",
+    "year": 1930,
+    "cast": [
+      "Sue Carol",
+      "Arthur Lake"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-s-my-weakness.html"
+}

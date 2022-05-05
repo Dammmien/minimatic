@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shottas",
+    "year": 2006,
+    "cast": [
+      "Ky-Mani Marley",
+      "Spragga Benz"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/shottas.html"
+}

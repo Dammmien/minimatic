@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lady Wants Mink",
+    "year": 1953,
+    "cast": [
+      "Dennis O'Keefe",
+      "Ruth Hussey",
+      "Eve Arden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-lady-wants-mink.html"
+}

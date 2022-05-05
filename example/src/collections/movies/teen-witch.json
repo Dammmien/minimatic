@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Teen Witch",
+    "year": 1989,
+    "cast": [
+      "Robyn Lively",
+      "Dan Gauthier"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/teen-witch.html"
+}

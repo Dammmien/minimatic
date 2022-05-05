@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Badlands",
+    "year": 1973,
+    "cast": [
+      "Martin Sheen",
+      "Sissy Spacek",
+      "Warren Oates"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/badlands.html"
+}

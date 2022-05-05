@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Brass Buttons",
+    "year": 1919,
+    "cast": [
+      "William Russell",
+      "Eileen Percy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/brass-buttons.html"
+}

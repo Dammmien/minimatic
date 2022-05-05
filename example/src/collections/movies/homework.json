@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Homework",
+    "year": 1989,
+    "cast": [],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/homework.html"
+}

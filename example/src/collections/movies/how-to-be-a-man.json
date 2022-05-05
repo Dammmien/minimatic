@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "How to Be a Man",
+    "year": 2013,
+    "cast": [
+      "Gavin McInnes",
+      "Liam Aiken"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/how-to-be-a-man.html"
+}

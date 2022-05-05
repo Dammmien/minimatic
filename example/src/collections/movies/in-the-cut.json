@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "In the Cut",
+    "year": 2003,
+    "cast": [
+      "Meg Ryan",
+      "Mark Ruffalo",
+      "Jennifer Jason Leigh"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/in-the-cut.html"
+}

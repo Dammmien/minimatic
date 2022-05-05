@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Signs",
+    "year": 2002,
+    "cast": [
+      "Mel Gibson",
+      "Joaquin Phoenix",
+      "Rory Culkin",
+      "Abigail Breslin"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/signs.html"
+}

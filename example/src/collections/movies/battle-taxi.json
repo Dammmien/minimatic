@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Battle Taxi",
+    "year": 1955,
+    "cast": [
+      "Sterling Hayden",
+      "Arthur Franz"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/battle-taxi.html"
+}

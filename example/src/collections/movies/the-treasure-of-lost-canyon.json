@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Treasure of Lost Canyon",
+    "year": 1952,
+    "cast": [
+      "William Powell",
+      "Julie Adams",
+      "Rosemary DeCamp"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-treasure-of-lost-canyon.html"
+}

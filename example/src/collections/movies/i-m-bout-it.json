@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "I'm Bout It",
+    "year": 1997,
+    "cast": [
+      "Master P"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-m-bout-it.html"
+}

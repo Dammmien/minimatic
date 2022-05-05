@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Street of Sin",
+    "year": 1928,
+    "cast": [
+      "Olga Baclanova",
+      "Emil Jannings",
+      "Fay Wray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-street-of-sin.html"
+}

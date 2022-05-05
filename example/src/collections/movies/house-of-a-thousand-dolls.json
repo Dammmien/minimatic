@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "House of a Thousand Dolls",
+    "year": 1967,
+    "cast": [
+      "Vincent Price",
+      "Martha Hyer",
+      "George Nader"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/house-of-a-thousand-dolls.html"
+}

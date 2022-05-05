@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Favorite Spy",
+    "year": 1951,
+    "cast": [
+      "Bob Hope",
+      "Hedy Lamarr",
+      "Francis L. Sullivan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-favorite-spy.html"
+}

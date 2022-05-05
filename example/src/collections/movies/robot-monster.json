@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Robot Monster",
+    "year": 1953,
+    "cast": [
+      "George Nader",
+      "Claudia Barrett",
+      "Selena Royle"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/robot-monster.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "God's Country",
+    "year": 1946,
+    "cast": [
+      "Robert Lowery",
+      "Helen Gilbert",
+      "Buster Keaton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/god-s-country.html"
+}

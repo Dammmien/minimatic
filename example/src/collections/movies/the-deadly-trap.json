@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Deadly Trap",
+    "year": 1971,
+    "cast": [
+      "Faye Dunaway",
+      "Frank Langella"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-deadly-trap.html"
+}

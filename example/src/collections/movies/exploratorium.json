@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Exploratorium",
+    "year": 1974,
+    "cast": [],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/exploratorium.html"
+}

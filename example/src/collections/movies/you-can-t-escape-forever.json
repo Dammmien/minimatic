@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "You Can't Escape Forever",
+    "year": 1942,
+    "cast": [
+      "George Brent",
+      "Brenda Marshall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/you-can-t-escape-forever.html"
+}

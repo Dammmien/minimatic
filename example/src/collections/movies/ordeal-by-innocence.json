@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ordeal by Innocence",
+    "year": 1985,
+    "cast": [
+      "Donald Sutherland",
+      "Faye Dunaway"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/ordeal-by-innocence.html"
+}

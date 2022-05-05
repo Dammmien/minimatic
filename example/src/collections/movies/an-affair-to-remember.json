@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "An Affair to Remember",
+    "year": 1957,
+    "cast": [
+      "Cary Grant",
+      "Deborah Kerr",
+      "Cathleen Nesbitt",
+      "Richard Denning"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/an-affair-to-remember.html"
+}

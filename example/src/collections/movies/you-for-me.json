@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "You for Me",
+    "year": 1952,
+    "cast": [
+      "Jane Greer",
+      "Peter Lawford"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/you-for-me.html"
+}

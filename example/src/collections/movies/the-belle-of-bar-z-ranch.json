@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Belle of Bar-Z Ranch",
+    "year": 1912,
+    "cast": [
+      "Harry von Meter",
+      "Vivian Rich"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-belle-of-bar-z-ranch.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Nothing but Trouble",
+    "year": 1991,
+    "cast": [
+      "Chevy Chase",
+      "Demi Moore",
+      "John Candy",
+      "Dan Aykroyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nothing-but-trouble.html"
+}

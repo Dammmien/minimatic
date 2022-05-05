@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Blackbeard's Ghost",
+    "year": 1968,
+    "cast": [
+      "Peter Ustinov",
+      "Suzanne Pleshette",
+      "Dean Jones"
+    ],
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/blackbeard-s-ghost.html"
+}

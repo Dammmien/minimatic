@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hot Rod Rumble",
+    "year": 1957,
+    "cast": [
+      "Leigh Snowden",
+      "Wright King"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hot-rod-rumble.html"
+}

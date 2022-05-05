@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Maisie Was a Lady",
+    "year": 1940,
+    "cast": [
+      "Ann Sothern",
+      "Lew Ayres"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/maisie-was-a-lady.html"
+}

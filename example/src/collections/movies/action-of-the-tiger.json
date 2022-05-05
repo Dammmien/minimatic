@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Action of the Tiger",
+    "year": 1957,
+    "cast": [
+      "Van Johnson",
+      "Martine Carol",
+      "Herbert Lom"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/action-of-the-tiger.html"
+}

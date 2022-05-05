@@ -1,0 +1,20 @@
+{
+  "id": 772,
+  "name": {
+    "english": "Type: Null",
+    "japanese": "タイプ：ヌル",
+    "chinese": "属性：空",
+    "french": "Silvallié"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "HP": 95,
+    "Attack": 95,
+    "Defense": 95,
+    "Sp. Attack": 95,
+    "Sp. Defense": 95,
+    "Speed": 59
+  }
+}

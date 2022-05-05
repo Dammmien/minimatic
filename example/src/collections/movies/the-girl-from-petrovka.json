@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Girl from Petrovka",
+    "year": 1974,
+    "cast": [
+      "Goldie Hawn",
+      "Hal Holbrook",
+      "Anthony Hopkins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-girl-from-petrovka.html"
+}

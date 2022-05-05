@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Almost an Angel",
+    "year": 1990,
+    "cast": [
+      "Paul Hogan",
+      "Elias Koteas",
+      "Charlton Heston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/almost-an-angel.html"
+}

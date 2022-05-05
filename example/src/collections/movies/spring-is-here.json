@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spring Is Here",
+    "year": 1930,
+    "cast": [
+      "Lawrence Gray",
+      "Bernice Claire"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/spring-is-here.html"
+}

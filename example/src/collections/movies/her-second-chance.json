@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Her Second Chance",
+    "year": 1926,
+    "cast": [
+      "Anna Q. Nilsson",
+      "Huntley Gordon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/her-second-chance.html"
+}

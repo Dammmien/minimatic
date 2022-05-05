@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Beautiful Creatures",
+    "year": 2013,
+    "cast": [
+      "Alden Ehrenreich",
+      "Alice Englert",
+      "Jeremy Irons",
+      "Viola Davis",
+      "Emmy Rossum",
+      "Thomas Mann",
+      "Emma Thompson"
+    ],
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ]
+  },
+  "output": "movies/beautiful-creatures.html"
+}

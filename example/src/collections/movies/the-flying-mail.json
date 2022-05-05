@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Flying Mail",
+    "year": 1926,
+    "cast": [
+      "Joseph W. Girard",
+      "Kathleen Myers"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-flying-mail.html"
+}

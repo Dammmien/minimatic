@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Muppets",
+    "year": 2011,
+    "cast": [
+      "Jason Segel",
+      "Amy Adams",
+      "Chris Cooper",
+      "Rashida Jones"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/the-muppets.html"
+}

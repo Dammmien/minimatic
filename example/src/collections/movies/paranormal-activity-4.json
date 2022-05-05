@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Paranormal Activity 4",
+    "year": 2012,
+    "cast": [
+      "Katie Featherston",
+      "Kathryn Newton",
+      "Matt Shively",
+      "Brady Allen",
+      "Aiden Lovekamp",
+      "Stephen Dunham",
+      "Alexondra Lee"
+    ],
+    "genres": [
+      "Supernatural",
+      "Horror"
+    ]
+  },
+  "output": "movies/paranormal-activity-4.html"
+}

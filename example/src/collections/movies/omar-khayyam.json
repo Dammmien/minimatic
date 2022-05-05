@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Omar Khayyam",
+    "year": 1957,
+    "cast": [
+      "Cornel Wilde",
+      "Michael Rennie",
+      "Debra Paget"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/omar-khayyam.html"
+}

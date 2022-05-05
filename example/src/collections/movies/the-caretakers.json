@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Caretakers",
+    "year": 1963,
+    "cast": [
+      "Joan Crawford",
+      "Robert Stack",
+      "Polly Bergen"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-caretakers.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Flying Horseman",
+    "year": 1926,
+    "cast": [
+      "Buck Jones",
+      "Gladys McConnell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-flying-horseman.html"
+}

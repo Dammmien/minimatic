@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "One True Thing",
+    "year": 1998,
+    "cast": [
+      "Meryl Streep",
+      "Renée Zellweger",
+      "William Hurt",
+      "Tom Everett Scott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/one-true-thing.html"
+}

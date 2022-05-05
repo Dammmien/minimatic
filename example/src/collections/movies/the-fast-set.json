@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fast Set",
+    "year": 1924,
+    "cast": [
+      "Betty Compson",
+      "Adolphe Menjou"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fast-set.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Edge of Eternity",
+    "year": 1959,
+    "cast": [
+      "Cornel Wilde",
+      "Victoria Shaw"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/edge-of-eternity.html"
+}

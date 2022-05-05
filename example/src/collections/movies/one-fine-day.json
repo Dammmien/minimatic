@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Fine Day",
+    "year": 1996,
+    "cast": [
+      "George Clooney",
+      "Michelle Pfeiffer"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-fine-day.html"
+}

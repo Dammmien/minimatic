@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bushwhacked",
+    "year": 1995,
+    "cast": [
+      "Daniel Stern",
+      "Brad Sullivan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bushwhacked.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Greed",
+    "year": 1924,
+    "cast": [
+      "ZaSu Pitts",
+      "Gibson Gowland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/greed.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mad Empress",
+    "year": 1939,
+    "cast": [
+      "Conrad Nagel",
+      "Medea de Novara"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mad-empress.html"
+}

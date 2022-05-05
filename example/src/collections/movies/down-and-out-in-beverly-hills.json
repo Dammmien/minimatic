@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Down and Out in Beverly Hills",
+    "year": 1986,
+    "cast": [
+      "Nick Nolte",
+      "Richard Dreyfuss",
+      "Bette Midler",
+      "Elizabeth Peña"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/down-and-out-in-beverly-hills.html"
+}

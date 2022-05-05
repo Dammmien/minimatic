@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ridin' Pretty",
+    "year": 1925,
+    "cast": [
+      "William Desmond",
+      "Ann Forrest"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ridin--pretty.html"
+}

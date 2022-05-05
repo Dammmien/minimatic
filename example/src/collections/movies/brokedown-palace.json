@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Brokedown Palace",
+    "year": 1999,
+    "cast": [
+      "Claire Danes",
+      "Kate Beckinsale",
+      "Bill Pullman",
+      "Lou Diamond Phillips"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/brokedown-palace.html"
+}

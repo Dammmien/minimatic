@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gorilla My Dreams",
+    "year": 1948,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/gorilla-my-dreams.html"
+}

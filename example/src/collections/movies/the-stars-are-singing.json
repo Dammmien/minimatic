@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Stars Are Singing",
+    "year": 1953,
+    "cast": [
+      "Rosemary Clooney",
+      "Anna Maria Alberghetti"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-stars-are-singing.html"
+}

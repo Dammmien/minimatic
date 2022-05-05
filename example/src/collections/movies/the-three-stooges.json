@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "The Three Stooges",
+    "year": 2012,
+    "cast": [
+      "Chris Diamantopoulos",
+      "Will Sasso",
+      "Sean Hayes",
+      "Jane Lynch",
+      "Larry David",
+      "Brian Doyle-Murray",
+      "Sofía Vergara",
+      "Jennifer Hudson",
+      "Lin Shaye",
+      "Stephen Collins",
+      "Carly Craig",
+      "Craig Bierko",
+      "Kirby Heyborne",
+      "Isaiah Mustafa",
+      "Dwight Howard",
+      "Kate Upton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-three-stooges.html"
+}

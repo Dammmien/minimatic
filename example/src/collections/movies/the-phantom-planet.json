@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Phantom Planet",
+    "year": 1961,
+    "cast": [
+      "Coleen Gray",
+      "Anthony Dexter"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-phantom-planet.html"
+}

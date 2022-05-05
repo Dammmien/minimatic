@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Away All Boats",
+    "year": 1956,
+    "cast": [
+      "Jeff Chandler",
+      "George Nader",
+      "Julie Adams"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/away-all-boats.html"
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Core",
+    "year": 2003,
+    "cast": [
+      "Aaron Eckhart",
+      "Hilary Swank",
+      "Delroy Lindo",
+      "Stanley Tucci",
+      "Tchéky Karyo",
+      "Bruce Greenwood",
+      "DJ Qualls",
+      "Richard Jenkins",
+      "Alfre Woodard"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-core.html"
+}

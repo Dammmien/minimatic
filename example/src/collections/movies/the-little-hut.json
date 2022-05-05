@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Little Hut",
+    "year": 1957,
+    "cast": [
+      "Ava Gardner",
+      "Stewart Granger",
+      "David Niven"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-little-hut.html"
+}

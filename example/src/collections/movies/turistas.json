@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Turistas",
+    "year": 2006,
+    "cast": [
+      "Josh Duhamel",
+      "Melissa George",
+      "Olivia Wilde"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/turistas.html"
+}

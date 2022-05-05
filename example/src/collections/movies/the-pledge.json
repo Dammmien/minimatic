@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Pledge",
+    "year": 2001,
+    "cast": [
+      "Jack Nicholson",
+      "Patricia Clarkson",
+      "Benicio del Toro"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-pledge.html"
+}

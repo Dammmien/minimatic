@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kiss Tomorrow Goodbye",
+    "year": 1950,
+    "cast": [
+      "James Cagney",
+      "Barbara Payton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kiss-tomorrow-goodbye.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Last Flag Flying",
+    "year": 2017,
+    "cast": [
+      "Steve Carell",
+      "Bryan Cranston",
+      "Laurence Fishburne",
+      "Yul Vazquez"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/last-flag-flying.html"
+}

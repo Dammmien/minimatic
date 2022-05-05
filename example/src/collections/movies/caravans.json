@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Caravans",
+    "year": 1978,
+    "cast": [
+      "Anthony Quinn",
+      "Michael Sarrazin",
+      "Behrouz Vossoughi"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/caravans.html"
+}

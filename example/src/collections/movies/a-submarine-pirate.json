@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Submarine Pirate",
+    "year": 1915,
+    "cast": [
+      "Syd Chaplin",
+      "Wesley Ruggles"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-submarine-pirate.html"
+}

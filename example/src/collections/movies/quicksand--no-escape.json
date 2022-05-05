@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Quicksand: No Escape",
+    "year": 1992,
+    "cast": [
+      "Donald Sutherland",
+      "Tim Matheson",
+      "Felicity Huffman"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/quicksand--no-escape.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man with My Face",
+    "year": 1951,
+    "cast": [
+      "Barry Nelson",
+      "Carole Mathews"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-man-with-my-face.html"
+}

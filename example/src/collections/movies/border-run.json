@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Border Run",
+    "year": 2012,
+    "cast": [
+      "Sharon Stone",
+      "Billy Zane",
+      "Manolo Cardona",
+      "Rosemberg Salgado"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/border-run.html"
+}

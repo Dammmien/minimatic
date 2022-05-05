@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Society Doctor",
+    "year": 1935,
+    "cast": [
+      "Robert Taylor",
+      "Virginia Bruce"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/society-doctor.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bluff",
+    "year": 1924,
+    "cast": [
+      "Agnes Ayres",
+      "Antonio Moreno"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bluff.html"
+}

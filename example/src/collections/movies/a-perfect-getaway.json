@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "A Perfect Getaway",
+    "year": 2009,
+    "cast": [
+      "Timothy Olyphant",
+      "Milla Jovovich",
+      "Kiele Sanchez",
+      "Steve Zahn",
+      "Marley Shelton",
+      "Chris Hemsworth"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/a-perfect-getaway.html"
+}

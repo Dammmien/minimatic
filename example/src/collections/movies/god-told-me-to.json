@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "God Told Me To",
+    "year": 1976,
+    "cast": [
+      "Tony LoBianco",
+      "Sandy Dennis",
+      "Deborah Raffin"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/god-told-me-to.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Price of Fear",
+    "year": 1956,
+    "cast": [
+      "Merle Oberon",
+      "Lex Barker"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-price-of-fear.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Murder by Numbers",
+    "year": 2002,
+    "cast": [
+      "Sandra Bullock",
+      "Ben Chaplin",
+      "Ryan Gosling",
+      "Michael Pitt"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/murder-by-numbers.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dark City",
+    "year": 1998,
+    "cast": [
+      "Jennifer Connelly",
+      "William Hurt",
+      "Rufus Sewell",
+      "Kiefer Sutherland"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/dark-city.html"
+}

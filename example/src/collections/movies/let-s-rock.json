@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Let's Rock",
+    "year": 1958,
+    "cast": [
+      "Julius LaRosa",
+      "Phyllis Newman"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/let-s-rock.html"
+}

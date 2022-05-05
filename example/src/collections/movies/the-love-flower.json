@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Love Flower",
+    "year": 1920,
+    "cast": [
+      "Carol Dempster",
+      "Richard Barthelmess"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-love-flower.html"
+}

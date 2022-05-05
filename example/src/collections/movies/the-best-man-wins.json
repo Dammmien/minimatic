@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Best Man Wins",
+    "year": 1935,
+    "cast": [
+      "Edmund Lowe",
+      "Jack Holt",
+      "Bela Lugosi"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-best-man-wins.html"
+}

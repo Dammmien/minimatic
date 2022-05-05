@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Slave of Dreams",
+    "year": 1995,
+    "cast": [
+      "Adrian Pasdar",
+      "Sherilyn Fenn",
+      "Edward James Olmos"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/slave-of-dreams.html"
+}

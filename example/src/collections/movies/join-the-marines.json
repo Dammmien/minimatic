@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Join the Marines",
+    "year": 1937,
+    "cast": [
+      "Paul Kelly",
+      "June Travis",
+      "Reginald Denny"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/join-the-marines.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Bye Bye Man",
+    "year": 2017,
+    "cast": [
+      "Douglas Smith",
+      "Doug Jones",
+      "Michael Trucco",
+      "Cressida Bonas",
+      "Lucien Laviscount",
+      "Carrie-Anne Moss",
+      "Faye Dunaway"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-bye-bye-man.html"
+}

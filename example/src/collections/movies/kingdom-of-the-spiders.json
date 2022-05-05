@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kingdom of the Spiders",
+    "year": 1977,
+    "cast": [
+      "William Shatner",
+      "Woody Strode",
+      "Tiffany Bolling"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/kingdom-of-the-spiders.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rachel and the Stranger",
+    "year": 1948,
+    "cast": [
+      "William Holden",
+      "Loretta Young"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rachel-and-the-stranger.html"
+}

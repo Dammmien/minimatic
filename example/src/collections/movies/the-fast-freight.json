@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fast Freight",
+    "year": 1922,
+    "cast": [
+      "Roscoe Arbuckle",
+      "Lila Lee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fast-freight.html"
+}

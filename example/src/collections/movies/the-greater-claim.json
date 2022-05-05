@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Greater Claim",
+    "year": 1921,
+    "cast": [
+      "Alice Lake",
+      "Jack Dougherty"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-greater-claim.html"
+}

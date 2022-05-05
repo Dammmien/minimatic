@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Count Five and Die",
+    "year": 1957,
+    "cast": [
+      "Jeffrey Hunter",
+      "Nigel Patrick"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/count-five-and-die.html"
+}

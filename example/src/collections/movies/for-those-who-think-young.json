@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "For Those Who Think Young",
+    "year": 1964,
+    "cast": [
+      "Pamela Tiffin",
+      "James Darren",
+      "Bob Denver",
+      "Nancy Sinatra",
+      "Tina Louise",
+      "Ellen Burstyn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/for-those-who-think-young.html"
+}

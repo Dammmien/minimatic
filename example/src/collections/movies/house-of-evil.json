@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "House of Evil",
+    "year": 1968,
+    "cast": [
+      "Boris Karloff",
+      "Julissa"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/house-of-evil.html"
+}

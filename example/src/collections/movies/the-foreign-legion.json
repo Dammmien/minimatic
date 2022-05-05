@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Foreign Legion",
+    "year": 1928,
+    "cast": [
+      "Norman Kerry",
+      "Lewis Stone",
+      "Mary Nolan"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-foreign-legion.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "White Pongo",
+    "year": 1945,
+    "cast": [
+      "Richard Fraser",
+      "Maris Wrixon"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/white-pongo.html"
+}

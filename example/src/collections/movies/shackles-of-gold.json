@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shackles of Gold",
+    "year": 1922,
+    "cast": [
+      "William Farnum",
+      "Marie Shotwell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shackles-of-gold.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Kull the Conqueror",
+    "year": 1997,
+    "cast": [
+      "Kevin Sorbo",
+      "Tia Carrere",
+      "Thomas Ian Griffith",
+      "Litefoot",
+      "Harvey Fierstein"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/kull-the-conqueror.html"
+}

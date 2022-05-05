@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Greatest Show on Earth",
+    "year": 1952,
+    "cast": [
+      "Charlton Heston",
+      "Betty Hutton",
+      "James Stewart",
+      "Cornel Wilde",
+      "Dorothy Lamour",
+      "Henry Wilcoxon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-greatest-show-on-earth.html"
+}

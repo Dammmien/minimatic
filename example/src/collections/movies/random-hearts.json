@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Random Hearts",
+    "year": 1999,
+    "cast": [
+      "Harrison Ford",
+      "Kristin Scott Thomas",
+      "Charles S. Dutton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/random-hearts.html"
+}

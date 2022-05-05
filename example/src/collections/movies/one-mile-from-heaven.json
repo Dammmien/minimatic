@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Mile from Heaven",
+    "year": 1937,
+    "cast": [
+      "Claire Trevor",
+      "Fredi Washington",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/one-mile-from-heaven.html"
+}

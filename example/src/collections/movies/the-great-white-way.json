@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great White Way",
+    "year": 1924,
+    "cast": [
+      "Anita Stewart",
+      "Oscar Shaw"
+    ],
+    "genres": [
+      "Sports",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-great-white-way.html"
+}

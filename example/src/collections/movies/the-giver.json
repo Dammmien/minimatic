@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Giver",
+    "year": 2014,
+    "cast": [
+      "Jeff Bridges",
+      "Meryl Streep",
+      "Brenton Thwaites",
+      "Katie Holmes"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-giver.html"
+}

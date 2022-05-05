@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Goodbye Charlie",
+    "year": 1964,
+    "cast": [
+      "Tony Curtis",
+      "Debbie Reynolds",
+      "Pat Boone"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/goodbye-charlie.html"
+}

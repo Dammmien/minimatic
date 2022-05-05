@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "An Inconvenient Truth",
+    "year": 2006,
+    "cast": [
+      "global warming"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/an-inconvenient-truth.html"
+}

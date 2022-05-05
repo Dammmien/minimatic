@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rebecca",
+    "year": 1940,
+    "cast": [
+      "Laurence Olivier",
+      "Joan Fontaine"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/rebecca.html"
+}

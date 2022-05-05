@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Citizen Kane",
+    "year": 1941,
+    "cast": [
+      "Orson Welles",
+      "Joseph Cotten",
+      "Everett Sloane",
+      "Paul Stewart",
+      "Dorothy Comingore",
+      "Agnes Moorehead"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/citizen-kane.html"
+}

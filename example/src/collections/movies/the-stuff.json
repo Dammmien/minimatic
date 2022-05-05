@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Stuff",
+    "year": 1985,
+    "cast": [
+      "Michael Moriarty",
+      "Andrea Marcovicci",
+      "Garrett Morris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-stuff.html"
+}

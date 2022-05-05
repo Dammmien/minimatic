@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Inspector",
+    "year": 1962,
+    "cast": [
+      "Stephen Boyd",
+      "Dolores Hart",
+      "Leo McKern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-inspector.html"
+}

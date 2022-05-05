@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Son of the Wolf",
+    "year": 1922,
+    "cast": [
+      "Wheeler Oakman",
+      "Edith Roberts"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-son-of-the-wolf.html"
+}

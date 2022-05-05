@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Youth to Youth",
+    "year": 1922,
+    "cast": [
+      "Billie Dove",
+      "Edythe Chapman",
+      "Hardee Kirkland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/youth-to-youth.html"
+}

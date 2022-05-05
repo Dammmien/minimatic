@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Taking of Pelham 123",
+    "year": 2009,
+    "cast": [
+      "Denzel Washington",
+      "John Travolta",
+      "John Turturro",
+      "James Gandolfini"
+    ],
+    "genres": [
+      "Action",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-taking-of-pelham-123.html"
+}

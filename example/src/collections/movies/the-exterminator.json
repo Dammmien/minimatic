@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Exterminator",
+    "year": 1980,
+    "cast": [
+      "Robert Ginty",
+      "Samantha Eggar"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-exterminator.html"
+}

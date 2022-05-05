@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Faithful",
+    "year": 1996,
+    "cast": [
+      "Cher",
+      "Ryan O'Neal",
+      "Chazz Palminteri"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/faithful.html"
+}

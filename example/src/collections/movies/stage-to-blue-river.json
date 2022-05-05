@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stage to Blue River",
+    "year": 1951,
+    "cast": [
+      "Whip Wilson",
+      "Fuzzy Knight",
+      "Phyllis Coates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/stage-to-blue-river.html"
+}

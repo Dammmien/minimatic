@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "O, My Darling Clementine",
+    "year": 1943,
+    "cast": [
+      "Roy Acuff",
+      "Isabel Randolph"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/o--my-darling-clementine.html"
+}

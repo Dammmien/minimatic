@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ordeal of Rosetta",
+    "year": 1918,
+    "cast": [
+      "Alice Brady",
+      "Crauford Kent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-ordeal-of-rosetta.html"
+}

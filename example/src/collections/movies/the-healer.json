@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Healer",
+    "year": 1935,
+    "cast": [
+      "Ralph Bellamy",
+      "Judith Allen",
+      "Mickey Rooney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-healer.html"
+}

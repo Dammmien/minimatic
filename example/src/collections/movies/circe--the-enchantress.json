@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Circe, the Enchantress",
+    "year": 1924,
+    "cast": [
+      "Mae Murray",
+      "James Kirkwood Sr.",
+      "Tom Rickets"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/circe--the-enchantress.html"
+}

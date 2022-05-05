@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "My Flesh and Blood",
+    "year": 2003,
+    "cast": [
+      "Susam Tom and 11 children with disabilities"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/my-flesh-and-blood.html"
+}

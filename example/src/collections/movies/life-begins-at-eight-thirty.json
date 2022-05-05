@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Life Begins at Eight-Thirty",
+    "year": 1942,
+    "cast": [
+      "Ida Lupino",
+      "Monty Woolley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/life-begins-at-eight-thirty.html"
+}

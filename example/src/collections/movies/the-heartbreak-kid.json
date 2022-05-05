@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Heartbreak Kid",
+    "year": 2007,
+    "cast": [
+      "Ben Stiller",
+      "Michelle Monaghan",
+      "Jerry Stiller",
+      "Malin Åkerman"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-heartbreak-kid.html"
+}

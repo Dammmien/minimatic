@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Little Tough Guy",
+    "year": 1938,
+    "cast": [
+      "Huntz Hall",
+      "Helen Parrish",
+      "Robert Wilcox"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/little-tough-guy.html"
+}

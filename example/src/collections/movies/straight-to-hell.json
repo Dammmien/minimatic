@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Straight to Hell",
+    "year": 1987,
+    "cast": [
+      "Courtney Love",
+      "Dennis Hopper"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/straight-to-hell.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Racketeer Rabbit",
+    "year": 1946,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/racketeer-rabbit.html"
+}

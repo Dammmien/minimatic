@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Valencia",
+    "year": 1926,
+    "cast": [
+      "Mae Murray",
+      "Lloyd Hughes"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/valencia.html"
+}

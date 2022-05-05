@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Saphead",
+    "year": 1920,
+    "cast": [
+      "Buster Keaton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-saphead.html"
+}

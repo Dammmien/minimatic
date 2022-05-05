@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Milkman",
+    "year": 1950,
+    "cast": [
+      "Donald O'Connor",
+      "Jimmy Durante",
+      "Piper Laurie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-milkman.html"
+}

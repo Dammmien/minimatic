@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fifty Million Frenchmen",
+    "year": 1931,
+    "cast": [
+      "Ole Olsen",
+      "Chic Johnson",
+      "William Gaxton"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/fifty-million-frenchmen.html"
+}

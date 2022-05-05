@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stork Bites Man",
+    "year": 1947,
+    "cast": [
+      "Jackie Cooper",
+      "Meg Randall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stork-bites-man.html"
+}

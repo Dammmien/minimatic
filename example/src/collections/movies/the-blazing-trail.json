@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Blazing Trail",
+    "year": 1949,
+    "cast": [
+      "Charles Starrett",
+      "Marjorie Stapp"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-blazing-trail.html"
+}

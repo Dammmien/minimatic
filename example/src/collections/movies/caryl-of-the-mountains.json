@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Caryl of the Mountains",
+    "year": 1936,
+    "cast": [
+      "Lois Wilde",
+      "Ralph Bushman"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/caryl-of-the-mountains.html"
+}

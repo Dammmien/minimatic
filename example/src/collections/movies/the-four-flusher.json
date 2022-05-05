@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Four Flusher",
+    "year": 1919,
+    "cast": [
+      "Hale Hamilton",
+      "Ruth Stonehouse"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-four-flusher.html"
+}

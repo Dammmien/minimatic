@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Family Business",
+    "year": 1989,
+    "cast": [
+      "Sean Connery",
+      "Dustin Hoffman",
+      "Matthew Broderick"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/family-business.html"
+}

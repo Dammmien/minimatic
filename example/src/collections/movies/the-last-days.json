@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last Days",
+    "year": 1998,
+    "cast": [
+      "Interviews with",
+      "Holocaust",
+      "survivors"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-last-days.html"
+}

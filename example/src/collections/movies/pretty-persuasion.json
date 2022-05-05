@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Pretty Persuasion",
+    "year": 2005,
+    "cast": [
+      "Evan Rachel Wood",
+      "James Woods",
+      "Ron Livingston",
+      "Jane Krakowski"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/pretty-persuasion.html"
+}

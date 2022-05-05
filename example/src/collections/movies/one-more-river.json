@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One More River",
+    "year": 1934,
+    "cast": [
+      "Diana Wynyard",
+      "Frank Lawton",
+      "Jane Wyatt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/one-more-river.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "All the Right Moves",
+    "year": 1983,
+    "cast": [
+      "Tom Cruise",
+      "Craig T. Nelson",
+      "Lea Thompson",
+      "Chris Penn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/all-the-right-moves.html"
+}

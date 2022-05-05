@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silent Rage",
+    "year": 1982,
+    "cast": [
+      "Chuck Norris",
+      "Ron Silver"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/silent-rage.html"
+}

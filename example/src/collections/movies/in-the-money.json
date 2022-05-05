@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In the Money",
+    "year": 1958,
+    "cast": [
+      "Huntz Hall",
+      "Stanley Clements"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/in-the-money.html"
+}

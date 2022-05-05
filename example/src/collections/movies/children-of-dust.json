@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Children of Dust",
+    "year": 1923,
+    "cast": [
+      "Johnnie Walker",
+      "Pauline Garon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/children-of-dust.html"
+}

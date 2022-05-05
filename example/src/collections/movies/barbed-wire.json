@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Barbed Wire",
+    "year": 1952,
+    "cast": [
+      "Gene Autry",
+      "Leonard Penn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/barbed-wire.html"
+}

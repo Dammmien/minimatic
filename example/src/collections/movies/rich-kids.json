@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rich Kids",
+    "year": 1979,
+    "cast": [
+      "Trini Alvarado",
+      "Jeremy Levy",
+      "John Lithgow"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rich-kids.html"
+}

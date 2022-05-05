@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Tell Tale Wire",
+    "year": 1919,
+    "cast": [
+      "Hoot Gibson",
+      "Josephine Hill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-tell-tale-wire.html"
+}

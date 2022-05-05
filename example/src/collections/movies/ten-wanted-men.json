@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Ten Wanted Men",
+    "year": 1955,
+    "cast": [
+      "Randolph Scott",
+      "Jocelyn Brando",
+      "Richard Boone",
+      "Alfonso Bedoya",
+      "Donna Martell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ten-wanted-men.html"
+}

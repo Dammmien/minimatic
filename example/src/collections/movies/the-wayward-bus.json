@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wayward Bus",
+    "year": 1957,
+    "cast": [
+      "Jayne Mansfield",
+      "Joan Collins",
+      "Dan Dailey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wayward-bus.html"
+}

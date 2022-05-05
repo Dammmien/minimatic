@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It Had to Happen",
+    "year": 1936,
+    "cast": [
+      "George Raft",
+      "Rosalind Russell",
+      "Alan Dinehart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/it-had-to-happen.html"
+}

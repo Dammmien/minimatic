@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tarzan's Peril",
+    "year": 1951,
+    "cast": [
+      "Lex Barker",
+      "Virginia Huston"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-s-peril.html"
+}

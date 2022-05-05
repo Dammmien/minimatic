@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Sex Drive",
+    "year": 2008,
+    "cast": [
+      "Josh Zuckerman",
+      "Amanda Crew",
+      "Clark Duke",
+      "Seth Green",
+      "James Marsden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sex-drive.html"
+}

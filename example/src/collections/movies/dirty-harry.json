@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Dirty Harry",
+    "year": 1971,
+    "cast": [
+      "Clint Eastwood",
+      "Andrew Robinson",
+      "Reni Santoni",
+      "Harry Guardino",
+      "John Vernon"
+    ],
+    "genres": [
+      "Drama",
+      "Action"
+    ]
+  },
+  "output": "movies/dirty-harry.html"
+}

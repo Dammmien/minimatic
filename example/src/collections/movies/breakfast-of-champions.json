@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Breakfast of Champions",
+    "year": 1999,
+    "cast": [
+      "Bruce Willis",
+      "Albert Finney",
+      "Nick Nolte",
+      "Barbara Hershey",
+      "Lukas Haas",
+      "Omar Epps",
+      "Glenne Headly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/breakfast-of-champions.html"
+}

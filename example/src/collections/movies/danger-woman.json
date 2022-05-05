@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Danger Woman",
+    "year": 1946,
+    "cast": [
+      "Don Porter",
+      "Brenda Joyce",
+      "Patricia Morison"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/danger-woman.html"
+}

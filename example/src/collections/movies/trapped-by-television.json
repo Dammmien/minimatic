@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Trapped by Television",
+    "year": 1936,
+    "cast": [
+      "Mary Astor",
+      "Lyle Talbot",
+      "Joyce Compton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/trapped-by-television.html"
+}

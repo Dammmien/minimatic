@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Leap Year",
+    "year": 2010,
+    "cast": [
+      "Amy Adams",
+      "Matthew Goode",
+      "Adam Scott",
+      "John Lithgow"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/leap-year.html"
+}

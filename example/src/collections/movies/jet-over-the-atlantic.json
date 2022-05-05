@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jet Over the Atlantic",
+    "year": 1959,
+    "cast": [
+      "Guy Madison",
+      "Virginia Mayo",
+      "George Raft"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jet-over-the-atlantic.html"
+}

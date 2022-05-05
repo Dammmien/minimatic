@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Singing Sheriff",
+    "year": 1944,
+    "cast": [
+      "Bob Crosby",
+      "Fay McKenzie"
+    ],
+    "genres": [
+      "Musical",
+      "Western"
+    ]
+  },
+  "output": "movies/the-singing-sheriff.html"
+}

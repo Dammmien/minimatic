@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "47 Ronin",
+    "year": 2013,
+    "cast": [
+      "Keanu Reeves",
+      "Tadanobu Asano",
+      "Hiroyuki Sanada",
+      "Rinko Kikuchi",
+      "Kou Shibasaki",
+      "Jin Akanishi",
+      "Min Tanaka",
+      "Cary-Hiroyuki Tagawa"
+    ],
+    "genres": [
+      "Action",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/47-ronin.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Seven Little Foys",
+    "year": 1955,
+    "cast": [
+      "Bob Hope",
+      "James Cagney"
+    ],
+    "genres": [
+      "Comedy",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-seven-little-foys.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Atlas Shrugged: Part III",
+    "year": 2014,
+    "cast": [
+      "Laura Regan",
+      "Kristoffer Polaha",
+      "Joaquim de Almeida",
+      "Eric Allan Kramer",
+      "Rob Morrow"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/atlas-shrugged--part-iii.html"
+}

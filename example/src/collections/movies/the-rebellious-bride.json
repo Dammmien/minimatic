@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Rebellious Bride",
+    "year": 1919,
+    "cast": [
+      "Peggy Hyland",
+      "George Nichols"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-rebellious-bride.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Egyptian",
+    "year": 1954,
+    "cast": [
+      "Jean Simmons",
+      "Victor Mature",
+      "Gene Tierney",
+      "Michael Wilding",
+      "Peter Ustinov"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-egyptian.html"
+}

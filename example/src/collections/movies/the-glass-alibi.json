@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Glass Alibi",
+    "year": 1946,
+    "cast": [
+      "Maris Wrixon",
+      "Anne Gwynne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-glass-alibi.html"
+}

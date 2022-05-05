@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Man's Law",
+    "year": 1940,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Janet Waldo"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/one-man-s-law.html"
+}

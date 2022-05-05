@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wicked City",
+    "year": 1949,
+    "cast": [
+      "Maria Montez",
+      "Jean-Pierre Aumont",
+      "Lilli Palmer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wicked-city.html"
+}

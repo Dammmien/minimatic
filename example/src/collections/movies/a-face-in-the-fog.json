@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Face in the Fog",
+    "year": 1936,
+    "cast": [
+      "Lawrence Gray",
+      "June Collyer",
+      "Forrest Taylor"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/a-face-in-the-fog.html"
+}

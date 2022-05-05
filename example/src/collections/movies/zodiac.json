@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Zodiac",
+    "year": 2007,
+    "cast": [
+      "Jake Gyllenhaal",
+      "Robert Downey Jr.",
+      "Mark Ruffalo",
+      "Anthony Edwards",
+      "Chloë Sevigny",
+      "John Carroll Lynch",
+      "Brian Cox"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/zodiac.html"
+}

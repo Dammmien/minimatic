@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Angel in My Pocket",
+    "year": 1969,
+    "cast": [
+      "Andy Griffith",
+      "Jerry Van Dyke"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/angel-in-my-pocket.html"
+}

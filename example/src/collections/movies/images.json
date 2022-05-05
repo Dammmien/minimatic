@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Images",
+    "year": 1972,
+    "cast": [
+      "Susannah York",
+      "René Auberjonois"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/images.html"
+}

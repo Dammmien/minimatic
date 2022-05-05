@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Woman Obsessed",
+    "year": 1959,
+    "cast": [
+      "Susan Hayward",
+      "Stephen Boyd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/woman-obsessed.html"
+}

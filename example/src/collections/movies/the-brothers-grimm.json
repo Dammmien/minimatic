@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Brothers Grimm",
+    "year": 2005,
+    "cast": [
+      "Matt Damon",
+      "Heath Ledger",
+      "Jonathan Pryce"
+    ],
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-brothers-grimm.html"
+}

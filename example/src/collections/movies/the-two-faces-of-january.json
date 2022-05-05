@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Two Faces of January",
+    "year": 2014,
+    "cast": [
+      "Viggo Mortensen",
+      "Kirsten Dunst",
+      "Oscar Isaac"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-two-faces-of-january.html"
+}

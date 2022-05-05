@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Merry-Go-Round",
+    "year": 1923,
+    "cast": [
+      "Norman Kerry",
+      "Mary Philbin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/merry-go-round.html"
+}

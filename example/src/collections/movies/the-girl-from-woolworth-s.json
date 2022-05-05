@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl from Woolworth's",
+    "year": 1929,
+    "cast": [
+      "Alice White",
+      "Gladden James"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-girl-from-woolworth-s.html"
+}

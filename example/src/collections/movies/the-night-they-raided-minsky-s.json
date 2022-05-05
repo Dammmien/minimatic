@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Night They Raided Minsky's",
+    "year": 1968,
+    "cast": [
+      "Jason Robards",
+      "Elliott Gould",
+      "Forrest Tucker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-night-they-raided-minsky-s.html"
+}

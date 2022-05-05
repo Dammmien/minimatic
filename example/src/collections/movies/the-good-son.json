@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Good Son",
+    "year": 1993,
+    "cast": [
+      "Macaulay Culkin",
+      "Elijah Wood",
+      "Wendy Crewson",
+      "David Morse",
+      "Daniel Hugh Kelly"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-good-son.html"
+}

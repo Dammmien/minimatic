@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Splendid Road",
+    "year": 1925,
+    "cast": [
+      "Lionel Barrymore",
+      "Marceline Day"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-splendid-road.html"
+}

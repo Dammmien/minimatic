@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Panther",
+    "year": 1995,
+    "cast": [
+      "Kadeem Hardison",
+      "Courtney B. Vance"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/panther.html"
+}

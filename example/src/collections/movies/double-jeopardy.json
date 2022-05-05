@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Double Jeopardy",
+    "year": 1999,
+    "cast": [
+      "Tommy Lee Jones",
+      "Ashley Judd",
+      "Bruce Greenwood",
+      "Annabeth Gish"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/double-jeopardy.html"
+}

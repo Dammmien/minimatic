@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl Who Ran Wild",
+    "year": 1922,
+    "cast": [
+      "Gladys Walton",
+      "Vernon Steele"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-girl-who-ran-wild.html"
+}

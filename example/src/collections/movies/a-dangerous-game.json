@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Dangerous Game",
+    "year": 1922,
+    "cast": [
+      "Gladys Walton",
+      "Spottiswoode Aitken"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-dangerous-game.html"
+}

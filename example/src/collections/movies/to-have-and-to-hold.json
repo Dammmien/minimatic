@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "To Have and to Hold",
+    "year": 1922,
+    "cast": [
+      "Bert Lytell",
+      "Betty Compson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/to-have-and-to-hold.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Strangers' Banquet",
+    "year": 1922,
+    "cast": [
+      "Hobart Bosworth",
+      "Claire Windsor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-strangers--banquet.html"
+}

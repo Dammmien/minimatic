@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Adam and Eva",
+    "year": 1923,
+    "cast": [
+      "Marion Davies",
+      "T. Roy Barnes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/adam-and-eva.html"
+}

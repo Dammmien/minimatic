@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Hellboy",
+    "year": 2004,
+    "cast": [
+      "Ron Perlman",
+      "Doug Jones",
+      "Selma Blair",
+      "John Hurt",
+      "Rupert Evans"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/hellboy.html"
+}

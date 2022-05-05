@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lost Zeppelin",
+    "year": 1929,
+    "cast": [
+      "Conway Tearle",
+      "Virginia Valli"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-lost-zeppelin.html"
+}

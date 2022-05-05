@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Timber Wolf",
+    "year": 1925,
+    "cast": [
+      "Buck Jones",
+      "Elinor Fair"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-timber-wolf.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "We Moderns",
+    "year": 1925,
+    "cast": [
+      "Colleen Moore",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/we-moderns.html"
+}

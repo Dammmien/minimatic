@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Red Danube",
+    "year": 1949,
+    "cast": [
+      "Peter Lawford",
+      "Janet Leigh",
+      "Angela Lansbury"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-red-danube.html"
+}

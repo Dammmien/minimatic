@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ruby Gentry",
+    "year": 1952,
+    "cast": [
+      "Jennifer Jones",
+      "Charlton Heston",
+      "Karl Malden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ruby-gentry.html"
+}

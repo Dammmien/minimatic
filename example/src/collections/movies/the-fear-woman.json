@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fear Woman",
+    "year": 1919,
+    "cast": [
+      "Pauline Frederick",
+      "Milton Sills"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fear-woman.html"
+}

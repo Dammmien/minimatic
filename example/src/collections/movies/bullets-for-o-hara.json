@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bullets for O'Hara",
+    "year": 1941,
+    "cast": [
+      "Joan Perry",
+      "Anthony Quinn"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/bullets-for-o-hara.html"
+}

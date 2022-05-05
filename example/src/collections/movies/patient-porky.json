@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Patient Porky",
+    "year": 1940,
+    "cast": [
+      "Porky Pig"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/patient-porky.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Doll Face",
+    "year": 1945,
+    "cast": [
+      "Vivian Blaine",
+      "Carmen Miranda",
+      "Dennis O'Keefe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/doll-face.html"
+}

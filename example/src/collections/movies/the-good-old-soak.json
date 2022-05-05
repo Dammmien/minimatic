@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Good Old Soak",
+    "year": 1937,
+    "cast": [
+      "Wallace Beery",
+      "Una Merkel",
+      "Judith Barrett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-good-old-soak.html"
+}

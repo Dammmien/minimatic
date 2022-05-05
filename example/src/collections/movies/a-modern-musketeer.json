@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Modern Musketeer",
+    "year": 1917,
+    "cast": [
+      "Douglas Fairbanks",
+      "Marjorie Daw"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/a-modern-musketeer.html"
+}

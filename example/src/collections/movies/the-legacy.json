@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Legacy",
+    "year": 1978,
+    "cast": [
+      "Katharine Ross",
+      "Sam Elliott",
+      "Roger Daltrey"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-legacy.html"
+}

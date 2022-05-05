@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Not Exactly Gentlemen",
+    "year": 1931,
+    "cast": [
+      "Victor McLaglen",
+      "Fay Wray"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/not-exactly-gentlemen.html"
+}

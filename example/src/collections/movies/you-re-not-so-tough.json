@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "You're Not So Tough",
+    "year": 1940,
+    "cast": [
+      "Billy Halop",
+      "Huntz Hall",
+      "Bobby Jordan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/you-re-not-so-tough.html"
+}

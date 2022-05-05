@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Man of Stone",
+    "year": 1921,
+    "cast": [
+      "Conway Tearle",
+      "Martha Mansfield"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-man-of-stone.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Nowhere to Run",
+    "year": 1993,
+    "cast": [
+      "Jean-Claude Van Damme",
+      "Rosanna Arquette",
+      "Kieran Culkin",
+      "Ted Levine",
+      "Joss Ackland"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/nowhere-to-run.html"
+}

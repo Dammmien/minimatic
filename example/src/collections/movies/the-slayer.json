@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Slayer",
+    "year": 1982,
+    "cast": [
+      "Sarah Kendall",
+      "Frederick Flynn"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-slayer.html"
+}

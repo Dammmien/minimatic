@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big City",
+    "year": 1928,
+    "cast": [
+      "Lon Chaney",
+      "Betty Compson",
+      "Marceline Day"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-big-city.html"
+}

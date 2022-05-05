@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Iron Man 2",
+    "year": 2010,
+    "cast": [
+      "Robert Downey Jr.",
+      "Don Cheadle",
+      "Mickey Rourke",
+      "Gwyneth Paltrow",
+      "Sam Rockwell",
+      "Scarlett Johansson",
+      "Samuel L. Jackson"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/iron-man-2.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Alfie",
+    "year": 2004,
+    "cast": [
+      "Jude Law",
+      "Susan Sarandon",
+      "Marisa Tomei",
+      "Nia Long",
+      "Sienna Miller",
+      "Jane Krakowski",
+      "Omar Epps"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/alfie.html"
+}

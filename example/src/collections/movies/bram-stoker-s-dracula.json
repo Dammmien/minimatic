@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bram Stoker's Dracula",
+    "year": 1992,
+    "cast": [
+      "Gary Oldman",
+      "Winona Ryder",
+      "Keanu Reeves",
+      "Anthony Hopkins"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/bram-stoker-s-dracula.html"
+}

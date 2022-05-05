@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Phat Girlz",
+    "year": 2006,
+    "cast": [
+      "Mo'Nique"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/phat-girlz.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Period of Adjustment",
+    "year": 1962,
+    "cast": [
+      "Jane Fonda",
+      "Tony Franciosa",
+      "Jim Hutton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/period-of-adjustment.html"
+}

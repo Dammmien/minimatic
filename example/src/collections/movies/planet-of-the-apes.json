@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Planet of the Apes",
+    "year": 2001,
+    "cast": [
+      "Mark Wahlberg",
+      "Tim Roth",
+      "Helena Bonham Carter",
+      "Michael Clarke Duncan",
+      "Estella Warren",
+      "Kris Kristofferson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/planet-of-the-apes.html"
+}

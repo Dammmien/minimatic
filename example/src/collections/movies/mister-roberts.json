@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Mister Roberts",
+    "year": 1955,
+    "cast": [
+      "Henry Fonda",
+      "James Cagney",
+      "Jack Lemmon",
+      "William Powell",
+      "Ward Bond",
+      "Betsy Palmer"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/mister-roberts.html"
+}

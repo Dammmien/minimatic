@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fluffer",
+    "year": 2001,
+    "cast": [
+      "Scott Gurney",
+      "Taylor Negron",
+      "Roxanne Day"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fluffer.html"
+}

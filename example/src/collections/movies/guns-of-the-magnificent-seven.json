@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Guns of the Magnificent Seven",
+    "year": 1969,
+    "cast": [
+      "George Kennedy",
+      "James Whitmore",
+      "Reni Santoni",
+      "Monte Markham",
+      "Bernie Casey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/guns-of-the-magnificent-seven.html"
+}

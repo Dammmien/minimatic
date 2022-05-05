@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dudley Do-Right",
+    "year": 1999,
+    "cast": [
+      "Brendan Fraser",
+      "Sarah Jessica Parker",
+      "Alfred Molina"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dudley-do-right.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Something's Got to Give",
+    "year": 1962,
+    "cast": [
+      "Marilyn Monroe",
+      "Dean Martin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/something-s-got-to-give.html"
+}

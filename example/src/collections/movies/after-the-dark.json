@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "After the Dark",
+    "year": 2014,
+    "cast": [
+      "Sophie Lowe",
+      "Rhys Wakefield",
+      "James D'Arcy"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/after-the-dark.html"
+}

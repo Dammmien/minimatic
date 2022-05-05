@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Escape to Burma",
+    "year": 1955,
+    "cast": [
+      "Barbara Stanwyck",
+      "Robert Ryan"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/escape-to-burma.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Savage Horde",
+    "year": 1950,
+    "cast": [
+      "Lorna Gray",
+      "Grant Withers"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-savage-horde.html"
+}

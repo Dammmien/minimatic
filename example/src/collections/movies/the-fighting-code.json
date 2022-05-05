@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fighting Code",
+    "year": 1933,
+    "cast": [
+      "Buck Jones",
+      "Diane Sinclair",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fighting-code.html"
+}

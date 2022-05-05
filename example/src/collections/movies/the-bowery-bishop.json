@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bowery Bishop",
+    "year": 1924,
+    "cast": [
+      "Henry B. Walthall",
+      "Leota Lorraine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bowery-bishop.html"
+}

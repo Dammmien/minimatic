@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Mrs. Doubtfire",
+    "year": 1993,
+    "cast": [
+      "Robin Williams",
+      "Sally Field",
+      "Pierce Brosnan",
+      "Harvey Fierstein",
+      "Polly Holliday",
+      "Robert Prosky",
+      "Lisa Jakub",
+      "Matthew Lawrence",
+      "Mara Wilson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mrs--doubtfire.html"
+}

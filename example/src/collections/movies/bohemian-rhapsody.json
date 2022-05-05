@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Bohemian Rhapsody",
+    "year": 2018,
+    "cast": [
+      "Rami Malek",
+      "Lucy Boynton",
+      "Gwilym Lee",
+      "Ben Hardy",
+      "Joseph Mazzello",
+      "Aidan Gillen",
+      "Tom Hollander",
+      "Allen Leech",
+      "Mike Myers"
+    ],
+    "genres": [
+      "Biography",
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/bohemian-rhapsody.html"
+}

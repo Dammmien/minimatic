@@ -1,0 +1,21 @@
+{
+  "id": 226,
+  "name": {
+    "english": "Mantine",
+    "japanese": "マンタイン",
+    "chinese": "巨翅飞鱼",
+    "french": "Démanta"
+  },
+  "type": [
+    "Water",
+    "Flying"
+  ],
+  "base": {
+    "HP": 85,
+    "Attack": 40,
+    "Defense": 70,
+    "Sp. Attack": 80,
+    "Sp. Defense": 140,
+    "Speed": 70
+  }
+}

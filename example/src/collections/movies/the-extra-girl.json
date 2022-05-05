@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Extra Girl",
+    "year": 1923,
+    "cast": [
+      "Mabel Normand",
+      "Ralph Graves"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-extra-girl.html"
+}

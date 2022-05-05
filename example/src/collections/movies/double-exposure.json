@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Double Exposure",
+    "year": 1944,
+    "cast": [
+      "Chester Morris",
+      "Nancy Kelly"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/double-exposure.html"
+}

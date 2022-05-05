@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Kazaam",
+    "year": 1996,
+    "cast": [
+      "Shaquille O'Neal"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/kazaam.html"
+}

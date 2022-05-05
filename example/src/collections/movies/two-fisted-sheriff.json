@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Two-Fisted Sheriff",
+    "year": 1937,
+    "cast": [
+      "Charles Starrett",
+      "Barbara Weeks"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/two-fisted-sheriff.html"
+}

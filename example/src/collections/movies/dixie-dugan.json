@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dixie Dugan",
+    "year": 1943,
+    "cast": [
+      "Lois Andrews",
+      "James Ellison",
+      "Charlotte Greenwood"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dixie-dugan.html"
+}

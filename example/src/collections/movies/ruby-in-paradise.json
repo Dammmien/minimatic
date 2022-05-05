@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ruby in Paradise",
+    "year": 1993,
+    "cast": [
+      "Ashley Judd",
+      "Dorothy Lyman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ruby-in-paradise.html"
+}

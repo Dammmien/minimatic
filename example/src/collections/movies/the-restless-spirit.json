@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Restless Spirit",
+    "year": 1913,
+    "cast": [
+      "J. Warren Kerrigan",
+      "Pauline Bush"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-restless-spirit.html"
+}

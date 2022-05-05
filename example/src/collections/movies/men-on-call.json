@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Men on Call",
+    "year": 1931,
+    "cast": [
+      "Edmund Lowe",
+      "Mae Clarke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/men-on-call.html"
+}

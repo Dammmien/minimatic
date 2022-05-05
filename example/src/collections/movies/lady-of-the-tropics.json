@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Lady of the Tropics",
+    "year": 1939,
+    "cast": [
+      "Robert Taylor",
+      "Hedy Lamarr",
+      "Joseph Schildkraut"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/lady-of-the-tropics.html"
+}

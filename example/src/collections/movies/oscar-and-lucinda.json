@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Oscar and Lucinda",
+    "year": 1997,
+    "cast": [
+      "Ralph Fiennes",
+      "Cate Blanchett",
+      "Tom Wilkinson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/oscar-and-lucinda.html"
+}

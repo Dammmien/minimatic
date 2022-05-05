@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mysterious Mr. Valentine",
+    "year": 1946,
+    "cast": [
+      "William Henry",
+      "Linda Stirling",
+      "Virginia Christine"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-mysterious-mr--valentine.html"
+}

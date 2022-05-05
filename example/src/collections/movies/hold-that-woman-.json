@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hold That Woman!",
+    "year": 1940,
+    "cast": [
+      "Frances Gifford",
+      "James Dunn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hold-that-woman-.html"
+}

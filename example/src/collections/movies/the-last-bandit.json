@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last Bandit",
+    "year": 1949,
+    "cast": [
+      "Bill Elliott",
+      "Lorna Gray"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-last-bandit.html"
+}

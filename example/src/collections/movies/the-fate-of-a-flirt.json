@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fate of a Flirt",
+    "year": 1925,
+    "cast": [
+      "Dorothy Revier",
+      "Forrest Stanley"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fate-of-a-flirt.html"
+}

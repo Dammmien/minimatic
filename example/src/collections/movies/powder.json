@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Powder",
+    "year": 1995,
+    "cast": [
+      "Sean Patrick Flanery",
+      "Mary Steenburgen",
+      "Jeff Goldblum"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/powder.html"
+}

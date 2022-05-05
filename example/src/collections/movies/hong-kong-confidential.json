@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hong Kong Confidential",
+    "year": 1958,
+    "cast": [
+      "Gene Barry",
+      "Beverly Tyler",
+      "Allison Hayes"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/hong-kong-confidential.html"
+}

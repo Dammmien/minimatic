@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Baby Take a Bow",
+    "year": 1934,
+    "cast": [
+      "Shirley Temple",
+      "Claire Trevor",
+      "James Dunn"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/baby-take-a-bow.html"
+}

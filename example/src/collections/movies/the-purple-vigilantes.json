@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Purple Vigilantes",
+    "year": 1938,
+    "cast": [
+      "Robert Livingston",
+      "Ray Corrigan",
+      "Joan Barclay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-purple-vigilantes.html"
+}

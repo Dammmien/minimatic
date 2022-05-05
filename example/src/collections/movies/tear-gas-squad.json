@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tear Gas Squad",
+    "year": 1940,
+    "cast": [
+      "John Payne",
+      "Dennis Morgan"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/tear-gas-squad.html"
+}

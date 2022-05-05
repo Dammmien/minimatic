@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ladies and Gentlemen, the Fabulous Stains",
+    "year": 1981,
+    "cast": [
+      "Diane Lane",
+      "Laura Dern",
+      "Ray Winstone"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ladies-and-gentlemen--the-fabulous-stains.html"
+}

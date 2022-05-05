@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Lili",
+    "year": 1953,
+    "cast": [
+      "Leslie Caron",
+      "Mel Ferrer",
+      "Jean-Pierre Aumont",
+      "Zsa Zsa Gabor"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/lili.html"
+}

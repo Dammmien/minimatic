@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Five Pennies",
+    "year": 1959,
+    "cast": [
+      "Danny Kaye",
+      "Louis Armstrong"
+    ],
+    "genres": [
+      "Biography",
+      "Musical"
+    ]
+  },
+  "output": "movies/the-five-pennies.html"
+}

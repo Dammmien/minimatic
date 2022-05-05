@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Roseanna McCoy",
+    "year": 1949,
+    "cast": [
+      "Farley Granger",
+      "Joan Evans"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/roseanna-mccoy.html"
+}

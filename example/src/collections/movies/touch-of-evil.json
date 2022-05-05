@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Touch of Evil",
+    "year": 1958,
+    "cast": [
+      "Charlton Heston",
+      "Janet Leigh",
+      "Orson Welles",
+      "Joseph Calleia",
+      "Akim Tamiroff",
+      "Marlene Dietrich"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/touch-of-evil.html"
+}

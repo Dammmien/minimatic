@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Serial",
+    "year": 1980,
+    "cast": [
+      "Martin Mull",
+      "Tuesday Weld",
+      "Christopher Lee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/serial.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Wife and I",
+    "year": 1925,
+    "cast": [
+      "Irene Rich",
+      "Huntley Gordon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-wife-and-i.html"
+}

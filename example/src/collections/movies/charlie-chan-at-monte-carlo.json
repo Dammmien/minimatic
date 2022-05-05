@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Charlie Chan at Monte Carlo",
+    "year": 1937,
+    "cast": [
+      "Warner Oland",
+      "Keye Luke",
+      "Virginia Field"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/charlie-chan-at-monte-carlo.html"
+}

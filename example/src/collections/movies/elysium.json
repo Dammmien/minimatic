@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Elysium",
+    "year": 2013,
+    "cast": [
+      "Matt Damon",
+      "Jodie Foster",
+      "Sharlto Copley",
+      "Alice Braga",
+      "Diego Luna",
+      "Wagner Moura",
+      "William Fichtner"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/elysium.html"
+}

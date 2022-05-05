@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bad Influence",
+    "year": 1990,
+    "cast": [
+      "Rob Lowe",
+      "James Spader"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/bad-influence.html"
+}

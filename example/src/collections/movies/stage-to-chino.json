@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stage to Chino",
+    "year": 1940,
+    "cast": [
+      "George O'Brien",
+      "Virginia Vale"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/stage-to-chino.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Monkeybone",
+    "year": 2001,
+    "cast": [
+      "Brendan Fraser",
+      "Bridget Fonda",
+      "Chris Kattan"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/monkeybone.html"
+}

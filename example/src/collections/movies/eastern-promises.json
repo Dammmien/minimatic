@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Eastern Promises",
+    "year": 2007,
+    "cast": [
+      "Viggo Mortensen",
+      "Naomi Watts",
+      "Vincent Cassel"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/eastern-promises.html"
+}

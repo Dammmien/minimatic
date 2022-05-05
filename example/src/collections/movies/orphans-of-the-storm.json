@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Orphans of the Storm",
+    "year": 1921,
+    "cast": [
+      "Lillian Gish",
+      "Dorothy Gish"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/orphans-of-the-storm.html"
+}

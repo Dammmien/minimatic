@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lucky Ghost",
+    "year": 1942,
+    "cast": [
+      "Mantan Moreland",
+      "F. E. Miller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lucky-ghost.html"
+}

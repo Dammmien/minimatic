@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Hunger Games: Mockingjay – Part 1",
+    "year": 2014,
+    "cast": [
+      "Josh Hutcherson",
+      "Jennifer Lawrence",
+      "Liam Hemsworth",
+      "Donald Sutherland"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-hunger-games--mockingjay---part-1.html"
+}

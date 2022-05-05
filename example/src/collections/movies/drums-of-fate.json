@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Drums of Fate",
+    "year": 1923,
+    "cast": [
+      "Mary Miles Minter",
+      "George Fawcett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/drums-of-fate.html"
+}

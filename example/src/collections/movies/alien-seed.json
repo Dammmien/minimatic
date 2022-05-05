@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Alien Seed",
+    "year": 1989,
+    "cast": [
+      "Erik Estrada"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/alien-seed.html"
+}

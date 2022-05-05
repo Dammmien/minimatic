@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Dan in Real Life",
+    "year": 2007,
+    "cast": [
+      "Steve Carell",
+      "Juliette Binoche",
+      "Dane Cook",
+      "John Mahoney",
+      "Emily Blunt",
+      "Dianne Wiest"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/dan-in-real-life.html"
+}

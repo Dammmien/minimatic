@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Box",
+    "year": 2009,
+    "cast": [
+      "Cameron Diaz",
+      "James Marsden",
+      "Frank Langella",
+      "James Rebhorn",
+      "Holmes Osborne",
+      "Gillian Jacobs"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-box.html"
+}

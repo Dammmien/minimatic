@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Red House",
+    "year": 1947,
+    "cast": [
+      "Edward G. Robinson",
+      "Judith Anderson"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-red-house.html"
+}

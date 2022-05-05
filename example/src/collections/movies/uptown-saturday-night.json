@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Uptown Saturday Night",
+    "year": 1974,
+    "cast": [
+      "Sidney Poitier",
+      "Bill Cosby",
+      "Richard Pryor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/uptown-saturday-night.html"
+}

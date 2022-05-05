@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Twice Blessed",
+    "year": 1945,
+    "cast": [
+      "Lee and Lyn Wilde",
+      "Gail Patrick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/twice-blessed.html"
+}

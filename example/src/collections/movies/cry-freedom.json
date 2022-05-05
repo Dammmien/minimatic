@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cry Freedom",
+    "year": 1987,
+    "cast": [
+      "Denzel Washington",
+      "Kevin Kline"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/cry-freedom.html"
+}

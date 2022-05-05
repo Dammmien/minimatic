@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ladies' Day",
+    "year": 1943,
+    "cast": [
+      "Lupe Vélez",
+      "Eddie Albert"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ladies--day.html"
+}

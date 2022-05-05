@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Back to Bataan",
+    "year": 1945,
+    "cast": [
+      "John Wayne",
+      "Anthony Quinn",
+      "Beulah Bondi"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/back-to-bataan.html"
+}

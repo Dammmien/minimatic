@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Arabian Nights",
+    "year": 1942,
+    "cast": [
+      "Maria Montez",
+      "Jon Hall",
+      "Sabu",
+      "Leif Erickson",
+      "Billy Gilbert",
+      "Turhan Bey",
+      "Shemp Howard"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/arabian-nights.html"
+}

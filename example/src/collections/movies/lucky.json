@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Lucky",
+    "year": 2011,
+    "cast": [
+      "Colin Hanks",
+      "Ari Graynor",
+      "Ann-Margret",
+      "Mimi Rogers",
+      "Jeffrey Tambor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lucky.html"
+}

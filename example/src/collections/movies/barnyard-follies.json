@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Barnyard Follies",
+    "year": 1940,
+    "cast": [
+      "Mary Lee",
+      "Harry Cheshire",
+      "Rufe Davis",
+      "June Storey",
+      "Isabel Randolph"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/barnyard-follies.html"
+}

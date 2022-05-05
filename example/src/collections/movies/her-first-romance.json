@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Her First Romance",
+    "year": 1951,
+    "cast": [
+      "Margaret O'Brien",
+      "Ann Doran"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/her-first-romance.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "National Lampoon's Gold Diggers",
+    "year": 2003,
+    "cast": [
+      "Will Friedle",
+      "Chris Owen",
+      "Louise Lasser",
+      "Renée Taylor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/national-lampoon-s-gold-diggers.html"
+}

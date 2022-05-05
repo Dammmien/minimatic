@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Skid Proof",
+    "year": 1923,
+    "cast": [
+      "Buck Jones",
+      "Jacqueline Gadsden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/skid-proof.html"
+}

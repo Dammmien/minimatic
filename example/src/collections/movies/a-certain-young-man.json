@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Certain Young Man",
+    "year": 1928,
+    "cast": [
+      "Ramon Novarro",
+      "Marceline Day"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/a-certain-young-man.html"
+}

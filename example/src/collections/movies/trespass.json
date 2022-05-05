@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Trespass",
+    "year": 2011,
+    "cast": [
+      "Nicolas Cage",
+      "Nicole Kidman",
+      "Ben Mendelsohn",
+      "Cam Gigandet",
+      "Liana Liberato",
+      "Jordana Spiro",
+      "Dash Mihok",
+      "Emily Meade",
+      "Nico Tortorella"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/trespass.html"
+}

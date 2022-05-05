@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gidget Goes to Rome",
+    "year": 1963,
+    "cast": [
+      "Cindy Carol",
+      "Don Porter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gidget-goes-to-rome.html"
+}

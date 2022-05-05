@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Obsession",
+    "year": 1976,
+    "cast": [
+      "Cliff Robertson",
+      "Geneviève Bujold",
+      "John Lithgow"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/obsession.html"
+}

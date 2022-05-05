@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hound of the Baskervilles",
+    "year": 1939,
+    "cast": [
+      "Basil Rathbone",
+      "Nigel Bruce",
+      "Richard Greene"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-hound-of-the-baskervilles.html"
+}

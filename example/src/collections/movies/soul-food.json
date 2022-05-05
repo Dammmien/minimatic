@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Soul Food",
+    "year": 1997,
+    "cast": [
+      "Vanessa L. Williams",
+      "Vivica A. Fox",
+      "Nia Long",
+      "Michael Beach"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/soul-food.html"
+}

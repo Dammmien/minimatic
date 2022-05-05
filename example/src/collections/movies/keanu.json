@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Keanu",
+    "year": 2016,
+    "cast": [
+      "Jordan Peele",
+      "Keegan-Michael Key"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/keanu.html"
+}

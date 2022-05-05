@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Little Miss Smiles",
+    "year": 1922,
+    "cast": [
+      "Shirley Mason",
+      "Gaston Glass"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-miss-smiles.html"
+}

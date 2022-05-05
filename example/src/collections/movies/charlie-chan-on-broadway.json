@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Charlie Chan on Broadway",
+    "year": 1937,
+    "cast": [
+      "Warner Oland",
+      "Keye Luke"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/charlie-chan-on-broadway.html"
+}

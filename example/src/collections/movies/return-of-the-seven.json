@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Return of the Seven",
+    "year": 1966,
+    "cast": [
+      "Yul Brynner",
+      "Warren Oates",
+      "Elisa Montes",
+      "Robert Fuller",
+      "Claude Akins"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/return-of-the-seven.html"
+}

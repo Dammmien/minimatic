@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hair-Trigger Baxter",
+    "year": 1926,
+    "cast": [
+      "Bob Custer",
+      "Eugenia Gilbert"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hair-trigger-baxter.html"
+}

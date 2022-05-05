@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Deadly Outbreak",
+    "year": 1996,
+    "cast": [
+      "Jeff Speakman",
+      "Ron Silver"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/deadly-outbreak.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Texans",
+    "year": 1938,
+    "cast": [
+      "Joan Bennett",
+      "Randolph Scott",
+      "Robert Cummings"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-texans.html"
+}

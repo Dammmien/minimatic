@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tough Assignment",
+    "year": 1949,
+    "cast": [
+      "Don Barry",
+      "Marjorie Steele"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/tough-assignment.html"
+}

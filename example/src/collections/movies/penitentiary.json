@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Penitentiary",
+    "year": 1979,
+    "cast": [
+      "Leon Issac Kennedy",
+      "Badja Djola"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/penitentiary.html"
+}

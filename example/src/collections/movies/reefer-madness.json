@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Reefer Madness",
+    "year": 1936,
+    "cast": [
+      "Dorothy Short",
+      "Kenneth Craig"
+    ],
+    "genres": []
+  },
+  "output": "movies/reefer-madness.html"
+}

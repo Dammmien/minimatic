@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Today We Live",
+    "year": 1933,
+    "cast": [
+      "Joan Crawford",
+      "Gary Cooper",
+      "Roland Young"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/today-we-live.html"
+}

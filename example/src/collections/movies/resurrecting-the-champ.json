@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Resurrecting the Champ",
+    "year": 2007,
+    "cast": [
+      "Samuel L. Jackson",
+      "Josh Hartnett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/resurrecting-the-champ.html"
+}

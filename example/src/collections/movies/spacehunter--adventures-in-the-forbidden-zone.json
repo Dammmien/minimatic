@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Spacehunter: Adventures in the Forbidden Zone",
+    "year": 1983,
+    "cast": [
+      "Peter Strauss",
+      "Molly Ringwald",
+      "Ernie Hudson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/spacehunter--adventures-in-the-forbidden-zone.html"
+}

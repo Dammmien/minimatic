@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Apache Country",
+    "year": 1952,
+    "cast": [
+      "Gene Autry",
+      "Carolina Cotton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/apache-country.html"
+}

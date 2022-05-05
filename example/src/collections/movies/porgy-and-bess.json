@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Porgy and Bess",
+    "year": 1959,
+    "cast": [
+      "Sidney Poitier",
+      "Dorothy Dandridge",
+      "Sammy Davis, Jr.",
+      "Pearl Bailey",
+      "Diahann Carroll",
+      "Ivan Dixon",
+      "Brock Peters"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/porgy-and-bess.html"
+}

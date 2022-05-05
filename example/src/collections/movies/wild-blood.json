@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild Blood",
+    "year": 1929,
+    "cast": [
+      "Jack Perrin",
+      "Ethlyne Clair"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wild-blood.html"
+}

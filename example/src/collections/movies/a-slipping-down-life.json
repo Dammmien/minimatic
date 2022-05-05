@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Slipping-Down Life",
+    "year": 1999,
+    "cast": [
+      "Lili Taylor",
+      "Guy Pearce"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/a-slipping-down-life.html"
+}

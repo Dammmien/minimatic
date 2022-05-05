@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Star of Texas",
+    "year": 1953,
+    "cast": [
+      "Wayne Morris",
+      "Paul Fix"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/star-of-texas.html"
+}

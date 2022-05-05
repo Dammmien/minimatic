@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stark Mad",
+    "year": 1929,
+    "cast": [
+      "H. B. Warner",
+      "Louise Fazenda",
+      "Jacqueline Logan"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/stark-mad.html"
+}

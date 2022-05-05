@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Old Gringo",
+    "year": 1989,
+    "cast": [
+      "Jane Fonda",
+      "Gregory Peck",
+      "Jimmy Smits"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/old-gringo.html"
+}

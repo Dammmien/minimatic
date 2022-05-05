@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Town & Country",
+    "year": 2001,
+    "cast": [
+      "Warren Beatty",
+      "Diane Keaton",
+      "Goldie Hawn",
+      "Andie MacDowell",
+      "Nastassja Kinski",
+      "Charlton Heston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/town---country.html"
+}

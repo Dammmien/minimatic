@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Eat My Dust",
+    "year": 1976,
+    "cast": [
+      "Ron Howard"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/eat-my-dust.html"
+}

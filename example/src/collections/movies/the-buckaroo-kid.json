@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Buckaroo Kid",
+    "year": 1926,
+    "cast": [
+      "Hoot Gibson",
+      "Ethel Shannon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-buckaroo-kid.html"
+}

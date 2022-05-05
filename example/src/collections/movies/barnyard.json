@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Barnyard",
+    "year": 2006,
+    "cast": [
+      "Kevin James",
+      "Courteney Cox",
+      "Sam Elliott",
+      "Danny Glover"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/barnyard.html"
+}

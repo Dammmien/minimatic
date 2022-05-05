@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Deterrence",
+    "year": 1999,
+    "cast": [
+      "Kevin Pollak",
+      "Timothy Hutton",
+      "Sean Astin"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/deterrence.html"
+}

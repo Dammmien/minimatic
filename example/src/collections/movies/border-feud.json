@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Border Feud",
+    "year": 1947,
+    "cast": [
+      "Lash La Rue",
+      "Al St. John"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/border-feud.html"
+}

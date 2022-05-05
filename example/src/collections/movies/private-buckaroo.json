@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Private Buckaroo",
+    "year": 1942,
+    "cast": [
+      "The Andrews Sisters",
+      "Harry James",
+      "Joe E. Lewis"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/private-buckaroo.html"
+}

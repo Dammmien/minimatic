@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cradle Snatchers",
+    "year": 1927,
+    "cast": [
+      "Louise Fazenda",
+      "Ethel Wales"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cradle-snatchers.html"
+}

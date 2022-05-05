@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Hello Again",
+    "year": 1987,
+    "cast": [
+      "Shelley Long",
+      "Corbin Bernsen",
+      "Judith Ivey",
+      "Gabriel Byrne",
+      "Sela Ward"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hello-again.html"
+}

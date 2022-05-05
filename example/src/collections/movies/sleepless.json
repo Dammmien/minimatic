@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Sleepless",
+    "year": 2017,
+    "cast": [
+      "Jamie Foxx",
+      "T.I.",
+      "Drew Sidora",
+      "Lloyd Banks",
+      "Gabrielle Union",
+      "David Harbour",
+      "Young Jeezy",
+      "Michelle Monaghan",
+      "Scoot McNairy",
+      "Sala Baker"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/sleepless.html"
+}

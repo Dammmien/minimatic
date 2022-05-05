@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Journey into Fear",
+    "year": 1943,
+    "cast": [
+      "Joseph Cotten",
+      "Dolores del Río",
+      "Orson Welles"
+    ],
+    "genres": [
+      "Spy",
+      "Thriller"
+    ]
+  },
+  "output": "movies/journey-into-fear.html"
+}

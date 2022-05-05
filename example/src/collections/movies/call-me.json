@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Call Me",
+    "year": 1988,
+    "cast": [
+      "Patricia Charbonneau",
+      "Boyd Gaines",
+      "Steve Buscemi"
+    ],
+    "genres": [
+      "Erotic",
+      "Thriller"
+    ]
+  },
+  "output": "movies/call-me.html"
+}

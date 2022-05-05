@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Night Full of Rain",
+    "year": 1978,
+    "cast": [
+      "Giancarlo Giannini",
+      "Candice Bergen"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/a-night-full-of-rain.html"
+}

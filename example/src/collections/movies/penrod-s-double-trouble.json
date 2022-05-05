@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Penrod's Double Trouble",
+    "year": 1938,
+    "cast": [
+      "Billy and Bobby Mauch",
+      "Gene Lockhart",
+      "Kathleen Lockhart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/penrod-s-double-trouble.html"
+}

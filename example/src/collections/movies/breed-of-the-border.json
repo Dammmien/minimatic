@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Breed of the Border",
+    "year": 1933,
+    "cast": [
+      "Bob Steele",
+      "Marion Byron"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/breed-of-the-border.html"
+}

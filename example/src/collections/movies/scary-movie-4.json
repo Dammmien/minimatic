@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Scary Movie 4",
+    "year": 2006,
+    "cast": [
+      "Anna Faris",
+      "Regina Hall",
+      "Craig Bierko",
+      "Bill Pullman"
+    ],
+    "genres": [
+      "Comedy",
+      "Satire"
+    ]
+  },
+  "output": "movies/scary-movie-4.html"
+}

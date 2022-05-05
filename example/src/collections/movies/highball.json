@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Highball",
+    "year": 1997,
+    "cast": [
+      "Justine Bateman",
+      "Peter Bogdanovich"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/highball.html"
+}

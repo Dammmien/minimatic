@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Pay Your Dues",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pay-your-dues.html"
+}

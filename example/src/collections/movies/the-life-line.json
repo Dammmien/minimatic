@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Life Line",
+    "year": 1919,
+    "cast": [
+      "Jack Holt",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-life-line.html"
+}

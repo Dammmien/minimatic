@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wonderland",
+    "year": 2003,
+    "cast": [
+      "Val Kilmer",
+      "Kate Bosworth",
+      "Dylan McDermott"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/wonderland.html"
+}

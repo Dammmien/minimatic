@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Prêt-à-Porter",
+    "year": 1994,
+    "cast": [
+      "Marcello Mastroianni",
+      "Sophia Loren",
+      "Julia Roberts",
+      "Jean-Pierre Cassel",
+      "Kim Basinger",
+      "Tim Robbins",
+      "Forest Whitaker",
+      "Danny Aiello"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pr-t---porter.html"
+}

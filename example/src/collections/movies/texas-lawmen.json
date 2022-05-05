@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Texas Lawmen",
+    "year": 1951,
+    "cast": [
+      "Johnny Mack Brown",
+      "James Ellison"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/texas-lawmen.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The High Sign",
+    "year": 1921,
+    "cast": [
+      "Buster Keaton",
+      "Bartine Burkett"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/the-high-sign.html"
+}

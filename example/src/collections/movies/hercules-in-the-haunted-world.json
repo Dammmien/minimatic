@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hercules in the Haunted World",
+    "year": 1961,
+    "cast": [
+      "Reg Park",
+      "Christopher Lee"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/hercules-in-the-haunted-world.html"
+}

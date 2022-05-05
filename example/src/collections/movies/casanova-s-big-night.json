@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Casanova's Big Night",
+    "year": 1954,
+    "cast": [
+      "Bob Hope",
+      "Joan Fontaine",
+      "Basil Rathbone"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/casanova-s-big-night.html"
+}

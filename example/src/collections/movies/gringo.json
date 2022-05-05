@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Gringo",
+    "year": 2018,
+    "cast": [
+      "David Oyelowo",
+      "Charlize Theron",
+      "Joel Edgerton",
+      "Amanda Seyfried",
+      "Thandie Newton",
+      "Sharlto Copley"
+    ],
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/gringo.html"
+}

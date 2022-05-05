@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hurry, Charlie, Hurry",
+    "year": 1941,
+    "cast": [
+      "Leon Errol",
+      "Mildred Coles"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hurry--charlie--hurry.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Man of the People",
+    "year": 1937,
+    "cast": [
+      "Joseph Calleia",
+      "Florence Rice",
+      "Ted Healy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/man-of-the-people.html"
+}

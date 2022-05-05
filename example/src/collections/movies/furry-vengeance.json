@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Furry Vengeance",
+    "year": 2010,
+    "cast": [
+      "Brendan Fraser",
+      "Brooke Shields",
+      "Dick Van Dyke",
+      "Ken Jeong",
+      "Rob Riggle",
+      "Angela Kinsey",
+      "Matt Prokop"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/furry-vengeance.html"
+}

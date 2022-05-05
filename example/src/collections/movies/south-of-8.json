@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "South of 8",
+    "year": 2016,
+    "cast": [
+      "Brian Patrick Butler",
+      "George Jac"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/south-of-8.html"
+}

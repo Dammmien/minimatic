@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Just Wright",
+    "year": 2010,
+    "cast": [
+      "Queen Latifah",
+      "Common",
+      "Paula Patton"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/just-wright.html"
+}

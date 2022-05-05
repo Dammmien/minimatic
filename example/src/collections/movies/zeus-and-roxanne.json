@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Zeus and Roxanne",
+    "year": 1997,
+    "cast": [
+      "Steve Guttenberg",
+      "Kathleen Quinlan"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/zeus-and-roxanne.html"
+}

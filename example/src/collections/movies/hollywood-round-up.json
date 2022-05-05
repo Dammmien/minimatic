@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hollywood Round-Up",
+    "year": 1937,
+    "cast": [
+      "Buck Jones",
+      "Helen Twelvetrees"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hollywood-round-up.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Brother Orchid",
+    "year": 1940,
+    "cast": [
+      "Edward G. Robinson",
+      "Humphrey Bogart",
+      "Ann Sothern"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/brother-orchid.html"
+}

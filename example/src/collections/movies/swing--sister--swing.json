@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Swing, Sister, Swing",
+    "year": 1938,
+    "cast": [
+      "Ken Murray",
+      "Kathryn Kane",
+      "Nana Bryant"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/swing--sister--swing.html"
+}

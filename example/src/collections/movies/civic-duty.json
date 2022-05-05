@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Civic Duty",
+    "year": 2006,
+    "cast": [
+      "Peter Krause",
+      "Khaled Abol Naga",
+      "Richard Schiff"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/civic-duty.html"
+}

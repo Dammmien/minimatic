@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stella Dallas",
+    "year": 1937,
+    "cast": [
+      "Barbara Stanwyck",
+      "John Boles",
+      "Alan Hale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stella-dallas.html"
+}

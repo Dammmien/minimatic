@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Lords of Salem",
+    "year": 2013,
+    "cast": [
+      "Sheri Moon Zombie",
+      "Bruce Davison",
+      "Jeff Daniel Phillips",
+      "Ken Foree",
+      "Patricia Quinn",
+      "Dee Wallace",
+      "María Conchita Alonso",
+      "Judy Geeson",
+      "Meg Foster"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-lords-of-salem.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When We Were Twenty-One",
+    "year": 1921,
+    "cast": [
+      "H. B. Warner",
+      "Claire Anderson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/when-we-were-twenty-one.html"
+}

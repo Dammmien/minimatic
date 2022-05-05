@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "After Midnight with Boston Blackie",
+    "year": 1943,
+    "cast": [
+      "Chester Morris",
+      "Ann Savage"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/after-midnight-with-boston-blackie.html"
+}

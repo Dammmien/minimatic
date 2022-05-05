@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Benji",
+    "year": 1974,
+    "cast": [
+      "Patsy Garrett"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/benji.html"
+}

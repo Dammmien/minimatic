@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sting of the Lash",
+    "year": 1921,
+    "cast": [
+      "Pauline Frederick",
+      "Clyde Fillmore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sting-of-the-lash.html"
+}

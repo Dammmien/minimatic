@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Smooth Talk",
+    "year": 1985,
+    "cast": [
+      "Laura Dern",
+      "Treat Williams",
+      "Levon Helm"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/smooth-talk.html"
+}

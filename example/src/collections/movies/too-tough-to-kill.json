@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Too Tough to Kill",
+    "year": 1935,
+    "cast": [
+      "Victor Jory",
+      "Sally O'Neil"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/too-tough-to-kill.html"
+}

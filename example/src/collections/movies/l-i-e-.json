@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "L.I.E.",
+    "year": 2001,
+    "cast": [
+      "Brian Cox",
+      "Paul Dano",
+      "Billy Kay"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/l-i-e-.html"
+}

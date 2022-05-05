@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Thing of Ours",
+    "year": 2003,
+    "cast": [
+      "Danny Provenzano",
+      "Frank Vincent"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/this-thing-of-ours.html"
+}

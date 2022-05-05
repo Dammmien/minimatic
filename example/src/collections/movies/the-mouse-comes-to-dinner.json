@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Mouse Comes to Dinner",
+    "year": 1945,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-mouse-comes-to-dinner.html"
+}

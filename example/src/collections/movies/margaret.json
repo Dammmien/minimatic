@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Margaret",
+    "year": 2011,
+    "cast": [
+      "Anna Paquin",
+      "J. Smith-Cameron",
+      "Jean Reno",
+      "Jeannie Berlin",
+      "Allison Janney",
+      "Matthew Broderick",
+      "Mark Ruffalo",
+      "Matt Damon",
+      "Kieran Culkin",
+      "Olivia Thirlby",
+      "John Gallagher, Jr.",
+      "Rosemarie DeWitt",
+      "Matt Bush"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/margaret.html"
+}

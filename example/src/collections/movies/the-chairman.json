@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Chairman",
+    "year": 1969,
+    "cast": [
+      "Gregory Peck",
+      "Anne Heywood",
+      "Arthur Hill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-chairman.html"
+}

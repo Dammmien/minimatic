@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smarty",
+    "year": 1934,
+    "cast": [
+      "Joan Blondell",
+      "Warren William"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/smarty.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Power",
+    "year": 1986,
+    "cast": [
+      "Richard Gere",
+      "Julie Christie",
+      "Gene Hackman",
+      "Denzel Washington",
+      "Kate Capshaw"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/power.html"
+}

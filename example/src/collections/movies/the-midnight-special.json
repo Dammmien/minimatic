@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Midnight Special",
+    "year": 1930,
+    "cast": [
+      "Glenn Tryon",
+      "Merna Kennedy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-midnight-special.html"
+}

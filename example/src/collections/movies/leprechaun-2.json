@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Leprechaun 2",
+    "year": 1994,
+    "cast": [
+      "Warwick Davis"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/leprechaun-2.html"
+}

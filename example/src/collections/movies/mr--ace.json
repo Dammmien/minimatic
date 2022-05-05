@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Ace",
+    "year": 1946,
+    "cast": [
+      "George Raft",
+      "Sylvia Sydney",
+      "Jerome Cowan"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/mr--ace.html"
+}

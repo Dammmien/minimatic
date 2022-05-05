@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Money from Home",
+    "year": 1953,
+    "cast": [
+      "Dean Martin",
+      "Jerry Lewis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/money-from-home.html"
+}

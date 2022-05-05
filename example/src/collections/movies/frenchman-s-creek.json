@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Frenchman's Creek",
+    "year": 1944,
+    "cast": [
+      "Joan Fontaine",
+      "Basil Rathbone",
+      "Nigel Bruce"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/frenchman-s-creek.html"
+}

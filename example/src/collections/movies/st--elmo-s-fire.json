@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "St. Elmo's Fire",
+    "year": 1985,
+    "cast": [
+      "Rob Lowe",
+      "Emilio Estevez",
+      "Demi Moore",
+      "Judd Nelson",
+      "Ally Sheedy",
+      "Andrew McCarthy",
+      "Mare Winningham",
+      "Andie MacDowell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/st--elmo-s-fire.html"
+}

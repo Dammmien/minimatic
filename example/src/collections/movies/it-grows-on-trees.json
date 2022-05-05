@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It Grows on Trees",
+    "year": 1952,
+    "cast": [
+      "Irene Dunne",
+      "Dean Jagger"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-grows-on-trees.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Black Swan",
+    "year": 1942,
+    "cast": [
+      "Tyrone Power",
+      "Maureen O'Hara"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-black-swan.html"
+}

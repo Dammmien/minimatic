@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Greatest Game Ever Played",
+    "year": 2005,
+    "cast": [
+      "Shia LaBeouf"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-greatest-game-ever-played.html"
+}

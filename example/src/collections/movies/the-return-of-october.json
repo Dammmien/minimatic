@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Return of October",
+    "year": 1948,
+    "cast": [
+      "Glenn Ford",
+      "Terry Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-return-of-october.html"
+}

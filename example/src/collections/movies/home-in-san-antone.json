@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Home in San Antone",
+    "year": 1949,
+    "cast": [
+      "Roy Acuff",
+      "Lyn Thomas"
+    ],
+    "genres": [
+      "Western",
+      "Musical"
+    ]
+  },
+  "output": "movies/home-in-san-antone.html"
+}

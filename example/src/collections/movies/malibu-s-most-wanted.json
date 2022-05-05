@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Malibu's Most Wanted",
+    "year": 2003,
+    "cast": [
+      "Jamie Kennedy"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/malibu-s-most-wanted.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "China Passage",
+    "year": 1937,
+    "cast": [
+      "Leslie Fenton",
+      "Vinton Hayworth",
+      "Constance Worth"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/china-passage.html"
+}

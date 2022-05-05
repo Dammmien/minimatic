@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Auntie's Portrait",
+    "year": 1915,
+    "cast": [
+      "Sidney Drew",
+      "Ethel Lee"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/auntie-s-portrait.html"
+}

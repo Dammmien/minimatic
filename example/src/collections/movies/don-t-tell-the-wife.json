@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Don't Tell the Wife",
+    "year": 1937,
+    "cast": [
+      "Guy Kibbee",
+      "Una Merkel",
+      "Guinn Williams"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/don-t-tell-the-wife.html"
+}

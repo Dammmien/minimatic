@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wink of an Eye",
+    "year": 1958,
+    "cast": [
+      "Doris Dowling",
+      "Barbara Turner"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wink-of-an-eye.html"
+}

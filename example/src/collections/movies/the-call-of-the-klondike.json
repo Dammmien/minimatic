@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Call of the Klondike",
+    "year": 1926,
+    "cast": [
+      "Gaston Glass",
+      "Dorothy Dwan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-call-of-the-klondike.html"
+}

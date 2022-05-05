@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Voodoo Dawn",
+    "year": 1990,
+    "cast": [
+      "Raymond St. Jacques",
+      "Theresa Merritt",
+      "Gina Gershon"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/voodoo-dawn.html"
+}

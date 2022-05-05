@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fire Coward",
+    "year": 1913,
+    "cast": [
+      "Earle Foxe",
+      "Irene Boyle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fire-coward.html"
+}

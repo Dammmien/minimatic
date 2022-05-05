@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Adventures of Captain Marvel",
+    "year": 1941,
+    "cast": [
+      "Tom Tyler",
+      "Frank Coghlan Jr.",
+      "Louise Currie"
+    ],
+    "genres": []
+  },
+  "output": "movies/adventures-of-captain-marvel.html"
+}

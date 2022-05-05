@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Never Sang for My Father",
+    "year": 1970,
+    "cast": [
+      "Melvyn Douglas",
+      "Gene Hackman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-never-sang-for-my-father.html"
+}

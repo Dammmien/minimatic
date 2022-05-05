@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cops and Robbers",
+    "year": 1973,
+    "cast": [
+      "Joseph Bologna",
+      "Cliff Gorman"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/cops-and-robbers.html"
+}

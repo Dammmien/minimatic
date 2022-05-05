@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Jobs",
+    "year": 2013,
+    "cast": [
+      "Ashton Kutcher",
+      "Dermot Mulroney",
+      "Josh Gad",
+      "Lukas Haas",
+      "J. K. Simmons",
+      "Lesley Ann Warren",
+      "Ron Eldard",
+      "Ahna O'Reilly",
+      "John Getz",
+      "James Woods",
+      "Matthew Modine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jobs.html"
+}

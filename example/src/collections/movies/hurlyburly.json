@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Hurlyburly",
+    "year": 1998,
+    "cast": [
+      "Sean Penn",
+      "Kevin Spacey",
+      "Chazz Palminteri",
+      "Garry Shandling",
+      "Meg Ryan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hurlyburly.html"
+}

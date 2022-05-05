@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Together We Live",
+    "year": 1935,
+    "cast": [
+      "Ben Lyon",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/together-we-live.html"
+}

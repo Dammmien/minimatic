@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Chocolat",
+    "year": 2000,
+    "cast": [
+      "Juliette Binoche",
+      "Judi Dench",
+      "Alfred Molina",
+      "Lena Olin",
+      "Johnny Depp"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/chocolat.html"
+}

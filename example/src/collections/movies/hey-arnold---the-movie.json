@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hey Arnold!: The Movie",
+    "year": 2002,
+    "cast": [
+      "Spencer Klein",
+      "Francesca Smith",
+      "Jamil Walker Smith"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/hey-arnold---the-movie.html"
+}

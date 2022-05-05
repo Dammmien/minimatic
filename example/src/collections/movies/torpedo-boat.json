@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Torpedo Boat",
+    "year": 1942,
+    "cast": [
+      "Richard Arlen",
+      "Jean Parker"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/torpedo-boat.html"
+}

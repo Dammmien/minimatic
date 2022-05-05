@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Fallbrook Story",
+    "year": 1952,
+    "cast": [
+      "town's fight for water rights"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-fallbrook-story.html"
+}

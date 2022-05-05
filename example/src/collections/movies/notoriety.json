@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Notoriety",
+    "year": 1922,
+    "cast": [
+      "Mary Alden",
+      "Rod La Rocque"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/notoriety.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Brigand",
+    "year": 1952,
+    "cast": [
+      "Anthony Dexter",
+      "Jody Lawrence"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-brigand.html"
+}

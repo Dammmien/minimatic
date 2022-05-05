@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Siege at Red River",
+    "year": 1954,
+    "cast": [
+      "Van Johnson",
+      "Joanne Dru"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/siege-at-red-river.html"
+}

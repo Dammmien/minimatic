@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "American Animals",
+    "year": 2018,
+    "cast": [
+      "Evan Peters",
+      "Barry Keoghan",
+      "Blake Jenner",
+      "Jared Abrahamson",
+      "Udo Kier",
+      "Ann Dowd"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/american-animals.html"
+}

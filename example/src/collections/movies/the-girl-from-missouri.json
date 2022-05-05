@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Girl from Missouri",
+    "year": 1934,
+    "cast": [
+      "Jean Harlow",
+      "Lionel Barrymore",
+      "Franchot Tone"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-girl-from-missouri.html"
+}

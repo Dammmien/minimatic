@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cowboy Cavalier",
+    "year": 1948,
+    "cast": [
+      "Jimmy Wakely",
+      "Dub Taylor"
+    ],
+    "genres": [
+      "Western",
+      "Musical"
+    ]
+  },
+  "output": "movies/cowboy-cavalier.html"
+}

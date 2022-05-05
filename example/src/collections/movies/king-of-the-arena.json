@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "King of the Arena",
+    "year": 1933,
+    "cast": [
+      "Ken Maynard",
+      "Lucile Browne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/king-of-the-arena.html"
+}

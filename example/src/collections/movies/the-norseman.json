@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Norseman",
+    "year": 1978,
+    "cast": [
+      "Lee Majors",
+      "Cornel Wilde",
+      "Mel Ferrer"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-norseman.html"
+}

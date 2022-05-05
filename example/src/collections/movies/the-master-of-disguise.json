@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Master of Disguise",
+    "year": 2002,
+    "cast": [
+      "Dana Carvey",
+      "Jennifer Esposito",
+      "Harold Gould"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-master-of-disguise.html"
+}

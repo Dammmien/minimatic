@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Exorcist: The Beginning",
+    "year": 2004,
+    "cast": [
+      "Stellan Skarsgård",
+      "Izabella Scorupco",
+      "James D'Arcy",
+      "Ralph Brown"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/exorcist--the-beginning.html"
+}

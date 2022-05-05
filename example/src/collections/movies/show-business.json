@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Show Business",
+    "year": 1944,
+    "cast": [
+      "Eddie Cantor",
+      "George Murphy",
+      "Joan Davis"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/show-business.html"
+}

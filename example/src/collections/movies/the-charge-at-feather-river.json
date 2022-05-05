@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Charge at Feather River",
+    "year": 1953,
+    "cast": [
+      "Guy Madison",
+      "Vera Miles"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-charge-at-feather-river.html"
+}

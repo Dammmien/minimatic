@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Snatch",
+    "year": 2000,
+    "cast": [
+      "Benicio del Toro",
+      "Jason Statham",
+      "Brad Pitt",
+      "Stephen Graham",
+      "Dennis Farina"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/snatch.html"
+}

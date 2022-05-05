@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Long Gone",
+    "year": 1987,
+    "cast": [
+      "William Petersen",
+      "Virginia Madsen",
+      "Dermot Mulroney"
+    ],
+    "genres": [
+      "Sports",
+      "Comedy"
+    ]
+  },
+  "output": "movies/long-gone.html"
+}

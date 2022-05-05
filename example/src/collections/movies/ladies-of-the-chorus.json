@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ladies of the Chorus",
+    "year": 1948,
+    "cast": [
+      "Marilyn Monroe",
+      "Adele Jergens"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/ladies-of-the-chorus.html"
+}

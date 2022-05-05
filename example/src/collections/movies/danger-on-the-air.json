@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Danger on the Air",
+    "year": 1938,
+    "cast": [
+      "Donald Woods",
+      "Nan Grey",
+      "Jed Prouty"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/danger-on-the-air.html"
+}

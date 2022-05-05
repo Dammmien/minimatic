@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Watch the Birdie",
+    "year": 1950,
+    "cast": [
+      "Red Skelton",
+      "Arlene Dahl",
+      "Ann Miller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/watch-the-birdie.html"
+}

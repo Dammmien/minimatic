@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wagon Master",
+    "year": 1950,
+    "cast": [
+      "Ben Johnson",
+      "Harry Carey Jr."
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wagon-master.html"
+}

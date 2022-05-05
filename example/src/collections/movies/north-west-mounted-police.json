@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "North West Mounted Police",
+    "year": 1940,
+    "cast": [
+      "Gary Cooper",
+      "Madeleine Carroll",
+      "Paulette Goddard"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/north-west-mounted-police.html"
+}

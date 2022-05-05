@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Camp Nowhere",
+    "year": 1994,
+    "cast": [
+      "Jonathan Jackson",
+      "Christopher Lloyd",
+      "Melody Kay",
+      "Andrew Keegan",
+      "Marnette Patterson",
+      "Jessica Alba"
+    ],
+    "genres": [
+      "Family",
+      "Comedy"
+    ]
+  },
+  "output": "movies/camp-nowhere.html"
+}

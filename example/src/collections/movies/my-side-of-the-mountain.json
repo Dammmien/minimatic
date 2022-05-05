@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Side of the Mountain",
+    "year": 1969,
+    "cast": [
+      "Theodore Bikel",
+      "Teddy Eccles"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/my-side-of-the-mountain.html"
+}

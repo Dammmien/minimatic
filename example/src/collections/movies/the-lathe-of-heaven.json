@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lathe of Heaven",
+    "year": 1980,
+    "cast": [
+      "Kevin Conway",
+      "Bruce Davison"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-lathe-of-heaven.html"
+}

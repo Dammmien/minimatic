@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Little Yellow House",
+    "year": 1928,
+    "cast": [
+      "Orville Caldwell",
+      "Martha Sleeper"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-little-yellow-house.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "As Above, So Below",
+    "year": 2014,
+    "cast": [
+      "Perdita Weeks",
+      "Ben Feldman",
+      "Edwin Hodge",
+      "François Civil"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/as-above--so-below.html"
+}

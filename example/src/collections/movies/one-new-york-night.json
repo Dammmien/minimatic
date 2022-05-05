@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One New York Night",
+    "year": 1935,
+    "cast": [
+      "Franchot Tone",
+      "Una Merkel",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-new-york-night.html"
+}

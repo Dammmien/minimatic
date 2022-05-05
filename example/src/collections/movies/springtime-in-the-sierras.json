@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Springtime in the Sierras",
+    "year": 1947,
+    "cast": [
+      "Roy Rogers",
+      "Jane Frazee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/springtime-in-the-sierras.html"
+}

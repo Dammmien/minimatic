@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Red Riders of Canada",
+    "year": 1928,
+    "cast": [
+      "Patsy Ruth Miller",
+      "Charles Byer"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/red-riders-of-canada.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That Brennan Girl",
+    "year": 1946,
+    "cast": [
+      "Mona Freeman",
+      "James Dunn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/that-brennan-girl.html"
+}

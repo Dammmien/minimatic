@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "And So It Goes",
+    "year": 2014,
+    "cast": [
+      "Michael Douglas",
+      "Diane Keaton",
+      "Sterling Jernis",
+      "Annie Parisse"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/and-so-it-goes.html"
+}

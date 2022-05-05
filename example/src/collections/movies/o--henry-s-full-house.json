@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "O. Henry's Full House",
+    "year": 1952,
+    "cast": [
+      "Charles Laughton",
+      "Marilyn Monroe",
+      "Anne Baxter",
+      "Oscar Levant",
+      "Jean Peters",
+      "Jeanne Crain",
+      "Dale Robertson",
+      "David Wayne",
+      "Fred Allen"
+    ],
+    "genres": []
+  },
+  "output": "movies/o--henry-s-full-house.html"
+}

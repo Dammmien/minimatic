@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jeremiah Johnson",
+    "year": 1972,
+    "cast": [
+      "Robert Redford",
+      "Will Geer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/jeremiah-johnson.html"
+}

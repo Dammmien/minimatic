@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Who Returned to Life",
+    "year": 1942,
+    "cast": [
+      "Lucile Fairbanks",
+      "John Howard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-who-returned-to-life.html"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 645,
+  "name": {
+    "english": "Landorus",
+    "japanese": "ランドロス",
+    "chinese": "土地云",
+    "french": "Démétéros"
+  },
+  "type": [
+    "Ground",
+    "Flying"
+  ],
+  "base": {
+    "HP": 89,
+    "Attack": 125,
+    "Defense": 90,
+    "Sp. Attack": 115,
+    "Sp. Defense": 80,
+    "Speed": 101
+  }
+}

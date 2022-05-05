@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hellraiser: Bloodline",
+    "year": 1996,
+    "cast": [
+      "Bruce Ramsay"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/hellraiser--bloodline.html"
+}

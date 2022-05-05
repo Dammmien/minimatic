@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Christina",
+    "year": 1929,
+    "cast": [
+      "Janet Gaynor",
+      "Charles Morton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/christina.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mack the Knife",
+    "year": 1990,
+    "cast": [
+      "Raúl Juliá",
+      "Richard Harris",
+      "Julie Walters"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mack-the-knife.html"
+}

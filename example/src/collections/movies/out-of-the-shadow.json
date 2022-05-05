@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Out of the Shadow",
+    "year": 1919,
+    "cast": [
+      "Pauline Frederick",
+      "Wyndham Standing"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/out-of-the-shadow.html"
+}

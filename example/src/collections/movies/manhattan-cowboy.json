@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Manhattan Cowboy",
+    "year": 1928,
+    "cast": [
+      "Bob Custer",
+      "Lafe McKee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/manhattan-cowboy.html"
+}

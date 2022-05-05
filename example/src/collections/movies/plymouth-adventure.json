@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Plymouth Adventure",
+    "year": 1952,
+    "cast": [
+      "Spencer Tracy",
+      "Gene Tierney",
+      "Van Johnson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/plymouth-adventure.html"
+}

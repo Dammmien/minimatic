@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Harold",
+    "year": 2008,
+    "cast": [
+      "Spencer Breslin",
+      "Cuba Gooding, Jr.",
+      "Nikki Blonsky",
+      "Ally Sheedy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/harold.html"
+}

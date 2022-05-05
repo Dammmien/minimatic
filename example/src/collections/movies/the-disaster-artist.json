@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Disaster Artist",
+    "year": 2017,
+    "cast": [
+      "James Franco",
+      "Dave Franco",
+      "Seth Rogen",
+      "Alison Brie",
+      "Ari Graynor",
+      "Josh Hutcherson",
+      "Jacki Weaver"
+    ],
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-disaster-artist.html"
+}

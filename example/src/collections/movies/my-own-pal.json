@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Own Pal",
+    "year": 1926,
+    "cast": [
+      "Tom Mix",
+      "Olive Borden",
+      "Tom Santschi"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/my-own-pal.html"
+}

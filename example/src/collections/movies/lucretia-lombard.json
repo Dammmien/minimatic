@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lucretia Lombard",
+    "year": 1923,
+    "cast": [
+      "Irene Rich",
+      "Monte Blue",
+      "Norma Shearer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lucretia-lombard.html"
+}

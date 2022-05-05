@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Butterflies Are Free",
+    "year": 1972,
+    "cast": [
+      "Goldie Hawn",
+      "Edward Albert",
+      "Eileen Heckart",
+      "Paul Michael Glaser"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/butterflies-are-free.html"
+}

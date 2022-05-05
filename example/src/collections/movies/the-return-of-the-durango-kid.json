@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Return of the Durango Kid",
+    "year": 1945,
+    "cast": [
+      "Charles Starrett",
+      "Jean Stevens"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-return-of-the-durango-kid.html"
+}

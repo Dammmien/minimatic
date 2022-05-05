@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "License to Drive",
+    "year": 1988,
+    "cast": [
+      "Corey Haim",
+      "Corey Feldman",
+      "Carol Kane",
+      "Heather Graham"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/license-to-drive.html"
+}

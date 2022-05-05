@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Code of the Saddle",
+    "year": 1947,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton",
+      "Kay Morley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/code-of-the-saddle.html"
+}

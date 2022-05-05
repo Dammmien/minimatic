@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Crime by Night",
+    "year": 1944,
+    "cast": [
+      "Jane Wyman",
+      "Jerome Cowan"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/crime-by-night.html"
+}

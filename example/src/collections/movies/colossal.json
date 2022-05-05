@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Colossal",
+    "year": 2017,
+    "cast": [
+      "Anne Hathaway",
+      "Jason Sudeikis",
+      "Dan Stevens",
+      "Austin Stowell",
+      "Tim Blake Nelson"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Comedy"
+    ]
+  },
+  "output": "movies/colossal.html"
+}

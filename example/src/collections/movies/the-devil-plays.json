@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Devil Plays",
+    "year": 1931,
+    "cast": [
+      "Jameson Thomas",
+      "Dorothy Christy"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-devil-plays.html"
+}

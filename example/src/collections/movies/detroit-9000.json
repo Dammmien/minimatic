@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Detroit 9000",
+    "year": 1973,
+    "cast": [
+      "Alex Rocco",
+      "Hari Rhodes"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/detroit-9000.html"
+}

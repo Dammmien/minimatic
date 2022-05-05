@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Red Scorpion",
+    "year": 1989,
+    "cast": [
+      "Dolph Lundgren",
+      "M. Emmet Walsh"
+    ],
+    "genres": [
+      "War",
+      "Action"
+    ]
+  },
+  "output": "movies/red-scorpion.html"
+}

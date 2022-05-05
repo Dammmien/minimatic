@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Killer Shark",
+    "year": 1950,
+    "cast": [
+      "Roddy McDowall",
+      "Laurette Luez"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/killer-shark.html"
+}

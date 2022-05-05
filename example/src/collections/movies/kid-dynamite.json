@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kid Dynamite",
+    "year": 1943,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Pamela Blake"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kid-dynamite.html"
+}

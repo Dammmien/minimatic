@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "City Island",
+    "year": 2010,
+    "cast": [
+      "Andy García",
+      "Julianna Margulies",
+      "Steven Strait",
+      "Alan Arkin",
+      "Emily Mortimer"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/city-island.html"
+}

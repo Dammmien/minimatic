@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sometimes They Come Back",
+    "year": 1991,
+    "cast": [
+      "Tim Matheson",
+      "Brooke Adams"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/sometimes-they-come-back.html"
+}

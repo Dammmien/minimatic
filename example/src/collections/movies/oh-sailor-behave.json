@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Oh Sailor Behave",
+    "year": 1930,
+    "cast": [
+      "Irene Delroy",
+      "Lowell Sherman"
+    ],
+    "genres": [
+      "Musical",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/oh-sailor-behave.html"
+}

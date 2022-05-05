@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Son of Flubber",
+    "year": 1963,
+    "cast": [
+      "Fred MacMurray",
+      "Nancy Olson",
+      "Tommy Kirk"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/son-of-flubber.html"
+}

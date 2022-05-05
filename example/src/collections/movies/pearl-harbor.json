@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Pearl Harbor",
+    "year": 2001,
+    "cast": [
+      "Ben Affleck",
+      "Josh Hartnett",
+      "Kate Beckinsale",
+      "Tom Sizemore",
+      "Cuba Gooding Jr.",
+      "Alec Baldwin",
+      "Jon Voight"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/pearl-harbor.html"
+}

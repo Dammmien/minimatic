@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Boy from Oklahoma",
+    "year": 1954,
+    "cast": [
+      "Will Rogers Jr.",
+      "Nancy Olson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-boy-from-oklahoma.html"
+}

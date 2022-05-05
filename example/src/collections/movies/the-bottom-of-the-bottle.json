@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bottom of the Bottle",
+    "year": 1956,
+    "cast": [
+      "Joseph Cotten",
+      "Van Johnson",
+      "Ruth Roman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bottom-of-the-bottle.html"
+}

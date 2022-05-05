@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Sweet and Hot",
+    "year": 1958,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sweet-and-hot.html"
+}

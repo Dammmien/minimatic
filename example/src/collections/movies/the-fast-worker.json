@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fast Worker",
+    "year": 1924,
+    "cast": [
+      "Reginald Denny",
+      "Laura La Plante"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fast-worker.html"
+}

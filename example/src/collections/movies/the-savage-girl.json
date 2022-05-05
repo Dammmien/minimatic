@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Savage Girl",
+    "year": 1932,
+    "cast": [
+      "Rochelle Hudson",
+      "Walter Byron",
+      "Harry Myers"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-savage-girl.html"
+}

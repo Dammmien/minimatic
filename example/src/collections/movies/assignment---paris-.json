@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Assignment – Paris!",
+    "year": 1952,
+    "cast": [
+      "Dana Andrews",
+      "Märta Torén",
+      "George Sanders"
+    ],
+    "genres": [
+      "Spy",
+      "Drama"
+    ]
+  },
+  "output": "movies/assignment---paris-.html"
+}

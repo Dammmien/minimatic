@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Amazing Adventures of the Living Corpse",
+    "year": 2012,
+    "cast": [
+      "Michael Villar",
+      "Marshall Hilton",
+      "Ryan McGivern"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-amazing-adventures-of-the-living-corpse.html"
+}

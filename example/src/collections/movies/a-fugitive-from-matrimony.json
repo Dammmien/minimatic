@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Fugitive from Matrimony",
+    "year": 1919,
+    "cast": [
+      "H. B. Warner",
+      "Seena Owen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-fugitive-from-matrimony.html"
+}

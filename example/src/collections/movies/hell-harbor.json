@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hell Harbor",
+    "year": 1930,
+    "cast": [
+      "Lupe Velez",
+      "Jean Hersholt"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/hell-harbor.html"
+}

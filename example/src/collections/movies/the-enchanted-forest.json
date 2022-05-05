@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Enchanted Forest",
+    "year": 1945,
+    "cast": [
+      "Edmund Lowe",
+      "Brenda Joyce"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-enchanted-forest.html"
+}

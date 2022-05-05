@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Naked Lunch",
+    "year": 1991,
+    "cast": [
+      "Peter Weller",
+      "Judy Davis",
+      "Roy Scheider"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/naked-lunch.html"
+}

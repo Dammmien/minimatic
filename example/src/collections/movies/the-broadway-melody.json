@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Broadway Melody",
+    "year": 1929,
+    "cast": [
+      "Charles King",
+      "Anita Page",
+      "Bessie Love"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-broadway-melody.html"
+}

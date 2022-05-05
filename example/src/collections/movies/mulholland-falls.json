@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Mulholland Falls",
+    "year": 1996,
+    "cast": [
+      "Nick Nolte",
+      "Jennifer Connelly",
+      "Melanie Griffith",
+      "John Malkovich",
+      "Michael Madsen",
+      "Chazz Palminteri",
+      "Chris Penn",
+      "Treat Williams"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/mulholland-falls.html"
+}

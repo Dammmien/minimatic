@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Eddie Murphy Raw",
+    "year": 1987,
+    "cast": [
+      "Eddie Murphy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/eddie-murphy-raw.html"
+}

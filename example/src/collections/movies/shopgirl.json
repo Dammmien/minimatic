@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shopgirl",
+    "year": 2005,
+    "cast": [
+      "Steve Martin",
+      "Claire Danes",
+      "Jason Schwartzman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shopgirl.html"
+}

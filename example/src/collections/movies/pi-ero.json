@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Piñero",
+    "year": 2001,
+    "cast": [
+      "Benjamin Bratt",
+      "Talisa Soto",
+      "Giancarlo Esposito"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/pi-ero.html"
+}

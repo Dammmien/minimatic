@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Night of Mystery",
+    "year": 1928,
+    "cast": [
+      "Adolphe Menjou",
+      "Evelyn Brent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-night-of-mystery.html"
+}

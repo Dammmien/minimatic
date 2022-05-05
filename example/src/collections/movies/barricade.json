@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Barricade",
+    "year": 2012,
+    "cast": [
+      "Eric McCormack",
+      "Jody Thompson",
+      "Donnelly Rhodes",
+      "Conner Dwelly",
+      "Ryan Grantham"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/barricade.html"
+}

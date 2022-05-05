@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thundergate",
+    "year": 1923,
+    "cast": [
+      "Owen Moore",
+      "Virginia Brown Faire"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thundergate.html"
+}

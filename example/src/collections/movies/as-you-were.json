@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "As You Were",
+    "year": 1951,
+    "cast": [
+      "Joe Sawyer",
+      "Sondra Rodgers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/as-you-were.html"
+}

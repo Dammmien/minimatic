@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Inside Job",
+    "year": 1946,
+    "cast": [
+      "Preston Foster",
+      "Ann Rutherford"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/inside-job.html"
+}

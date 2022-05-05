@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jezebel",
+    "year": 1938,
+    "cast": [
+      "Bette Davis",
+      "Henry Fonda",
+      "George Brent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jezebel.html"
+}

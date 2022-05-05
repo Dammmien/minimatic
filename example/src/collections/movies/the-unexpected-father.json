@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Unexpected Father",
+    "year": 1932,
+    "cast": [
+      "Slim Summerville",
+      "ZaSu Pitts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-unexpected-father.html"
+}

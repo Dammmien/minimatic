@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Smart Girl",
+    "year": 1935,
+    "cast": [
+      "Ida Lupino",
+      "Kent Taylor",
+      "Joseph Cawthorn"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/smart-girl.html"
+}

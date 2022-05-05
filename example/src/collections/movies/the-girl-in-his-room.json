@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl in His Room",
+    "year": 1922,
+    "cast": [
+      "Alice Calhoun",
+      "Warner Baxter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-girl-in-his-room.html"
+}

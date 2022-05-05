@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Song of the Drifter",
+    "year": 1948,
+    "cast": [
+      "Jimmy Wakely",
+      "Dub Taylor",
+      "Mildred Coles"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/song-of-the-drifter.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last Time I Saw Paris",
+    "year": 1954,
+    "cast": [
+      "Van Johnson",
+      "Elizabeth Taylor",
+      "Donna Reed"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-last-time-i-saw-paris.html"
+}

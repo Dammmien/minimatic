@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Funny Lady",
+    "year": 1975,
+    "cast": [
+      "Barbra Streisand",
+      "James Caan"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/funny-lady.html"
+}

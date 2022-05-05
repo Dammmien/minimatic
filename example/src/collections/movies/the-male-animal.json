@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Male Animal",
+    "year": 1942,
+    "cast": [
+      "Henry Fonda",
+      "Olivia de Havilland"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-male-animal.html"
+}

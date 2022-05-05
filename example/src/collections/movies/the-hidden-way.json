@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hidden Way",
+    "year": 1926,
+    "cast": [
+      "Mary Carr",
+      "Gloria Grey",
+      "Tom Santschi"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-hidden-way.html"
+}

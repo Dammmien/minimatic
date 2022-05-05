@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wish Upon a Star",
+    "year": 1996,
+    "cast": [
+      "Katherine Heigl",
+      "Danielle Harris"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/wish-upon-a-star.html"
+}

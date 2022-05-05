@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Garage",
+    "year": 1920,
+    "cast": [
+      "Fatty Arbuckle",
+      "Buster Keaton"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/the-garage.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Last House on the Left",
+    "year": 2009,
+    "cast": [
+      "Garret Dillahunt",
+      "Rhys Coiro",
+      "Martha MacIsaac",
+      "Riki Lindhome",
+      "Tony Goldwyn",
+      "Monica Potter",
+      "Spencer Treat Clark",
+      "Sara Paxton"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-last-house-on-the-left.html"
+}

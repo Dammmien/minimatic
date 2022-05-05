@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "X-Men: First Class",
+    "year": 2011,
+    "cast": [
+      "James McAvoy",
+      "Michael Fassbender",
+      "Kevin Bacon",
+      "January Jones",
+      "Rose Byrne",
+      "Nicholas Hoult",
+      "Jennifer Lawrence",
+      "Oliver Platt",
+      "Ray Wise",
+      "Zoë Kravitz",
+      "Caleb Landry Jones",
+      "Lucas Till",
+      "Edi Gathegi",
+      "Jason Flemyng"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/x-men--first-class.html"
+}

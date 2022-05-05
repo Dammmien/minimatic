@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bachelor Apartment",
+    "year": 1931,
+    "cast": [
+      "Irene Dunne",
+      "Lowell Sherman",
+      "Mae Murray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bachelor-apartment.html"
+}

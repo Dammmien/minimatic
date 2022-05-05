@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Undercover Brother",
+    "year": 2002,
+    "cast": [
+      "Eddie Griffin",
+      "Chris Kattan",
+      "Dave Chappelle"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/undercover-brother.html"
+}

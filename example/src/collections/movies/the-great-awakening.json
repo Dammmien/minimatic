@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Awakening",
+    "year": 1941,
+    "cast": [
+      "Ilona Massey",
+      "Alan Curtis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-great-awakening.html"
+}

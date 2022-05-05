@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Silence of the Hams",
+    "year": 1994,
+    "cast": [
+      "Billy Zane",
+      "Dom DeLuise"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-silence-of-the-hams.html"
+}

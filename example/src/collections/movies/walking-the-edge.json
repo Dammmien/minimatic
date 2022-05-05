@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Walking the Edge",
+    "year": 1983,
+    "cast": [
+      "Robert Forster",
+      "Nancy Kwan",
+      "Joe Spinell"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/walking-the-edge.html"
+}

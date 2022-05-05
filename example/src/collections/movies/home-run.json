@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Home Run",
+    "year": 2013,
+    "cast": [
+      "Scott Elrod",
+      "Dorian Brown",
+      "Charles Henry Wyson",
+      "Vivica A. Fox"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/home-run.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Doughboys in Ireland",
+    "year": 1943,
+    "cast": [
+      "Kenny Baker",
+      "Jeff Donnell",
+      "Lynn Merrick"
+    ],
+    "genres": [
+      "War",
+      "Musical"
+    ]
+  },
+  "output": "movies/doughboys-in-ireland.html"
+}

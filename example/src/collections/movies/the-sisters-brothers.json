@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Sisters Brothers",
+    "year": 2018,
+    "cast": [
+      "John C. Reilly",
+      "Joaquin Phoenix",
+      "Jake Gyllenhaal",
+      "Riz Ahmed"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-sisters-brothers.html"
+}

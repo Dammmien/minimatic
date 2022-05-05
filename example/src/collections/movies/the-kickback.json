@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Kickback",
+    "year": 1922,
+    "cast": [
+      "Harry Carey",
+      "Henry B. Walthall"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-kickback.html"
+}

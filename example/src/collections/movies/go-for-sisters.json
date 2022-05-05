@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Go for Sisters",
+    "year": 2013,
+    "cast": [
+      "Lisa Gay Hamilton",
+      "Edward James Olmos",
+      "Yolonda Ross",
+      "Hilary Barraford"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/go-for-sisters.html"
+}

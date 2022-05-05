@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Glory of Clementina",
+    "year": 1922,
+    "cast": [
+      "Pauline Frederick",
+      "Edward Martindel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-glory-of-clementina.html"
+}

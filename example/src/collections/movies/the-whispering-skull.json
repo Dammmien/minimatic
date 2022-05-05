@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Whispering Skull",
+    "year": 1944,
+    "cast": [
+      "Tex Ritter",
+      "Guy Wilkerson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-whispering-skull.html"
+}

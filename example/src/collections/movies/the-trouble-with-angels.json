@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Trouble with Angels",
+    "year": 1966,
+    "cast": [
+      "Rosalind Russell",
+      "Hayley Mills",
+      "June Harding"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-trouble-with-angels.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Painted People",
+    "year": 1924,
+    "cast": [
+      "Colleen Moore",
+      "Ben Lyon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/painted-people.html"
+}

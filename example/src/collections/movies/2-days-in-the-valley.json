@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "2 Days in the Valley",
+    "year": 1996,
+    "cast": [
+      "Danny Aiello",
+      "Jeff Daniels",
+      "James Spader",
+      "Charlize Theron",
+      "Teri Hatcher",
+      "Marsha Mason",
+      "Eric Stoltz"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/2-days-in-the-valley.html"
+}

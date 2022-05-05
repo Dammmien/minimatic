@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Magnum Force",
+    "year": 1973,
+    "cast": [
+      "Clint Eastwood",
+      "Hal Holbrook",
+      "Tim Matheson",
+      "David Soul",
+      "Robert Urich"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/magnum-force.html"
+}

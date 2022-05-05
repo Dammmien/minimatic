@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lost Chord",
+    "year": 1925,
+    "cast": [
+      "David Powell",
+      "Alice Lake"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lost-chord.html"
+}

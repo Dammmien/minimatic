@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Prince of Persia: The Sands of Time",
+    "year": 2010,
+    "cast": [
+      "Jake Gyllenhaal",
+      "Ben Kingsley",
+      "Gemma Arterton",
+      "Alfred Molina"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/prince-of-persia--the-sands-of-time.html"
+}

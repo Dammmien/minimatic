@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "An American Rhapsody",
+    "year": 2001,
+    "cast": [
+      "Scarlett Johansson",
+      "Nastassja Kinski",
+      "Tony Goldwyn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/an-american-rhapsody.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Alias the Champ",
+    "year": 1949,
+    "cast": [
+      "Audrey Long",
+      "Gorgeous George"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/alias-the-champ.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Day of the Wolves",
+    "year": 1971,
+    "cast": [
+      "Richard Egan",
+      "Martha Hyer",
+      "Jan Murray"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/day-of-the-wolves.html"
+}

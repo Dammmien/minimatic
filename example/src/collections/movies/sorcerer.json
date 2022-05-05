@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sorcerer",
+    "year": 1977,
+    "cast": [
+      "Roy Scheider",
+      "Francisco Rabal",
+      "Bruno Cremer"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/sorcerer.html"
+}

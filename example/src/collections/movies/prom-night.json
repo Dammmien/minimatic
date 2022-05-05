@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Prom Night",
+    "year": 2008,
+    "cast": [
+      "Brittany Snow",
+      "Scott Porter",
+      "Johnathon Schaech",
+      "Idris Elba"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/prom-night.html"
+}

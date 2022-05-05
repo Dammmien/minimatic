@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Captain Salvation",
+    "year": 1927,
+    "cast": [
+      "Lars Hanson",
+      "Marceline Day",
+      "Pauline Starke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/captain-salvation.html"
+}

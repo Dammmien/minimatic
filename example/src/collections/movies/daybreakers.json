@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Daybreakers",
+    "year": 2010,
+    "cast": [
+      "Ethan Hawke",
+      "Willem Dafoe",
+      "Isabel Lucas",
+      "Sam Neill"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/daybreakers.html"
+}

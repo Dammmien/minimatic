@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Bird on a Wire",
+    "year": 1990,
+    "cast": [
+      "Mel Gibson",
+      "Goldie Hawn",
+      "David Carradine",
+      "Bill Duke",
+      "Stephen Tobolowsky",
+      "Joan Severance"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/bird-on-a-wire.html"
+}

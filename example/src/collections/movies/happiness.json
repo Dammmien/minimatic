@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Happiness",
+    "year": 1998,
+    "cast": [
+      "Philip Seymour Hoffman",
+      "Dylan Baker",
+      "Ben Gazzara",
+      "Camryn Manheim",
+      "Jane Adams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/happiness.html"
+}

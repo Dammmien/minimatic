@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Trust the Man",
+    "year": 2006,
+    "cast": [
+      "Billy Crudup",
+      "David Duchovny",
+      "Maggie Gyllenhaal"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/trust-the-man.html"
+}

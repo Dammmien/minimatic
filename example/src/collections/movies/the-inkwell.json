@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Inkwell",
+    "year": 1994,
+    "cast": [
+      "Larenz Tate",
+      "Joe Morton",
+      "Jada Pinkett Smith"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-inkwell.html"
+}

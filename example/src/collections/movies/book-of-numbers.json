@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Book of Numbers",
+    "year": 1973,
+    "cast": [
+      "Raymond St. Jacques",
+      "Philip Michael Thomas",
+      "Freda Payne",
+      "Hope Clarke"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/book-of-numbers.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wanderer of the Wasteland",
+    "year": 1945,
+    "cast": [
+      "James Warren",
+      "Audrey Long"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wanderer-of-the-wasteland.html"
+}

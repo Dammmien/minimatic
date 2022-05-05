@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Courage Under Fire",
+    "year": 1996,
+    "cast": [
+      "Denzel Washington",
+      "Meg Ryan",
+      "Lou Diamond Phillips",
+      "Matt Damon"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/courage-under-fire.html"
+}

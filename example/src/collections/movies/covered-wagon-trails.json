@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Covered Wagon Trails",
+    "year": 1940,
+    "cast": [
+      "Jack Randall",
+      "Sally Cairns",
+      "David Sharpe"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/covered-wagon-trails.html"
+}

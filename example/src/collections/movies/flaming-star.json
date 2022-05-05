@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Flaming Star",
+    "year": 1960,
+    "cast": [
+      "Elvis Presley",
+      "Steve Forrest",
+      "Barbara Eden",
+      "John McIntire",
+      "Dolores del Río"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/flaming-star.html"
+}

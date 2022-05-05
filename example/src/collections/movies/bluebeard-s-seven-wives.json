@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bluebeard's Seven Wives",
+    "year": 1926,
+    "cast": [
+      "Ben Lyon",
+      "Lois Wilson",
+      "Blanche Sweet"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bluebeard-s-seven-wives.html"
+}

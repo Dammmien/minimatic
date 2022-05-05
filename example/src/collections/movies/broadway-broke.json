@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Broadway Broke",
+    "year": 1923,
+    "cast": [
+      "Mary Carr",
+      "Percy Marmont"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/broadway-broke.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Metropolitan",
+    "year": 1990,
+    "cast": [
+      "Carolyn Farina"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/metropolitan.html"
+}

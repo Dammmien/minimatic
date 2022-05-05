@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Old Yeller",
+    "year": 1957,
+    "cast": [
+      "Dorothy McGuire",
+      "Fess Parker",
+      "Tommy Kirk"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/old-yeller.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Song of the West",
+    "year": 1930,
+    "cast": [
+      "John Boles",
+      "Vivienne Segal"
+    ],
+    "genres": [
+      "Musical",
+      "Western"
+    ]
+  },
+  "output": "movies/song-of-the-west.html"
+}

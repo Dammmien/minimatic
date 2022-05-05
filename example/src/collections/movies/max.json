@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Max",
+    "year": 2015,
+    "cast": [
+      "Josh Wiggins",
+      "Dejon LaQuake",
+      "Thomas Haden Church"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/max.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rent-A-Cop",
+    "year": 1988,
+    "cast": [
+      "Burt Reynolds",
+      "Liza Minnelli"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/rent-a-cop.html"
+}

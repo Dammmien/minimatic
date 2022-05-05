@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wings Over the Pacific",
+    "year": 1943,
+    "cast": [
+      "Edward Norris",
+      "Inez Cooper",
+      "Montagu Love"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/wings-over-the-pacific.html"
+}

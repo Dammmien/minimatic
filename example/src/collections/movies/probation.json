@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Probation",
+    "year": 1932,
+    "cast": [
+      "Sally Blane",
+      "John Darrow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/probation.html"
+}

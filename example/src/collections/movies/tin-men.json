@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tin Men",
+    "year": 1987,
+    "cast": [
+      "Richard Dreyfuss",
+      "Danny DeVito",
+      "Barbara Hershey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tin-men.html"
+}

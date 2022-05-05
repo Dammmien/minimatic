@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hoodlum Priest",
+    "year": 1961,
+    "cast": [
+      "Don Murray",
+      "Keir Dullea"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/hoodlum-priest.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Heroic Lover",
+    "year": 1929,
+    "cast": [
+      "Leonard St. Leo",
+      "Barbara Bedford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-heroic-lover.html"
+}

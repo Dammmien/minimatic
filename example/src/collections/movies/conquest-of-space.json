@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Conquest of Space",
+    "year": 1955,
+    "cast": [
+      "Walter Brooke",
+      "Mickey Shaughnessy"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/conquest-of-space.html"
+}

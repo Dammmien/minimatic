@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Colombiana",
+    "year": 2011,
+    "cast": [
+      "Zoe Saldana",
+      "Jordi Mollà",
+      "Lennie James",
+      "Michael Vartan",
+      "Cliff Curtis"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/colombiana.html"
+}

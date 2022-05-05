@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Kid from Broken Gun",
+    "year": 1952,
+    "cast": [
+      "Charles Starrett",
+      "Jock Mahoney",
+      "Angela Stevens"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-kid-from-broken-gun.html"
+}

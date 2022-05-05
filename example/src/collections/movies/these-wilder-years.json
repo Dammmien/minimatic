@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "These Wilder Years",
+    "year": 1956,
+    "cast": [
+      "James Cagney",
+      "Barbara Stanwyck"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/these-wilder-years.html"
+}

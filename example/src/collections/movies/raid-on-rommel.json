@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Raid on Rommel",
+    "year": 1971,
+    "cast": [
+      "Richard Burton",
+      "John Colicos",
+      "Wolfgang Preiss"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/raid-on-rommel.html"
+}

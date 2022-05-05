@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Great Gatsby",
+    "year": 2013,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Tobey Maguire",
+      "Carey Mulligan",
+      "Joel Edgerton",
+      "Amitabh Bachchan",
+      "Isla Fisher",
+      "Jason Clarke",
+      "Elizabeth Debicki"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-great-gatsby.html"
+}

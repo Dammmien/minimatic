@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Calling Wild Bill Elliott",
+    "year": 1943,
+    "cast": [
+      "Wild Bill Elliott",
+      "Anne Jeffreys"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/calling-wild-bill-elliott.html"
+}

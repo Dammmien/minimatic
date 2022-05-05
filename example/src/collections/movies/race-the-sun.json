@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Race the Sun",
+    "year": 1996,
+    "cast": [
+      "Halle Berry",
+      "James Belushi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/race-the-sun.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Here Come the Nelsons",
+    "year": 1952,
+    "cast": [
+      "Ozzie Nelson",
+      "Harriet Nelson",
+      "Ricky Nelson",
+      "David Nelson",
+      "Rock Hudson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/here-come-the-nelsons.html"
+}

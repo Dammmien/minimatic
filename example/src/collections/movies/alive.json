@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Alive",
+    "year": 1993,
+    "cast": [
+      "Ethan Hawke",
+      "Vincent Spano",
+      "Josh Hamilton"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/alive.html"
+}

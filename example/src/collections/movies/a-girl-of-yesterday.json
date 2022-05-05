@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Girl of Yesterday",
+    "year": 1915,
+    "cast": [
+      "Mary Pickford",
+      "Jack Pickford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-girl-of-yesterday.html"
+}

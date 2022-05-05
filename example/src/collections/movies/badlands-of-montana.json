@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Badlands of Montana",
+    "year": 1957,
+    "cast": [
+      "Rex Reason",
+      "Margia Dean",
+      "Beverly Garland"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/badlands-of-montana.html"
+}

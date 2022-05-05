@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Diner",
+    "year": 1982,
+    "cast": [
+      "Mickey Rourke",
+      "Paul Reiser",
+      "Ellen Barkin",
+      "Steve Guttenberg",
+      "Kevin Bacon",
+      "Daniel Stern",
+      "Tim Daly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/diner.html"
+}

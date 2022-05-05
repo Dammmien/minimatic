@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Nightmare in the Sun",
+    "year": 1965,
+    "cast": [
+      "John Derek",
+      "Ursula Andress",
+      "Sammy Davis, Jr."
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/nightmare-in-the-sun.html"
+}

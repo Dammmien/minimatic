@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Men with Wings",
+    "year": 1938,
+    "cast": [
+      "Fred MacMurray",
+      "Ray Milland",
+      "Louise Campbell"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/men-with-wings.html"
+}

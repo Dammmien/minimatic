@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gunman's Walk",
+    "year": 1958,
+    "cast": [
+      "Van Heflin",
+      "Tab Hunter",
+      "Kathryn Grant"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gunman-s-walk.html"
+}

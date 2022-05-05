@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cell",
+    "year": 2000,
+    "cast": [
+      "Jennifer Lopez",
+      "Vince Vaughn",
+      "Vincent D'Onofrio"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-cell.html"
+}

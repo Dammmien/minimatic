@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love Is an Awful Thing",
+    "year": 1922,
+    "cast": [
+      "Owen Moore",
+      "Marjorie Daw"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-is-an-awful-thing.html"
+}

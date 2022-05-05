@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Career Opportunities",
+    "year": 1991,
+    "cast": [
+      "Jennifer Connelly",
+      "Frank Whaley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/career-opportunities.html"
+}

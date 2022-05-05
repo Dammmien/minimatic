@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Curious Case of Benjamin Button",
+    "year": 2008,
+    "cast": [
+      "Brad Pitt",
+      "Cate Blanchett",
+      "Tilda Swinton",
+      "Taraji P. Henson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-curious-case-of-benjamin-button.html"
+}

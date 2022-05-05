@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "In Darkness",
+    "year": 2018,
+    "cast": [
+      "Natalie Dormer",
+      "Emily Ratajkowski",
+      "Ed Skrein",
+      "Joely Richardson",
+      "Neil Maskell",
+      "James Cosmo",
+      "Jan Bijvoet"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/in-darkness.html"
+}

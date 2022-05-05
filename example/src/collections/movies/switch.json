@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Switch",
+    "year": 1991,
+    "cast": [
+      "Ellen Barkin",
+      "Bruce Payne",
+      "Jimmy Smits",
+      "JoBeth Williams"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/switch.html"
+}

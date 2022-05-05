@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Black Orchid",
+    "year": 1959,
+    "cast": [
+      "Sophia Loren",
+      "Anthony Quinn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-black-orchid.html"
+}

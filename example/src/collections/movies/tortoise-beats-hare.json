@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tortoise Beats Hare",
+    "year": 1941,
+    "cast": [
+      "Bugs Bunny",
+      "Cecil Turtle"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/tortoise-beats-hare.html"
+}

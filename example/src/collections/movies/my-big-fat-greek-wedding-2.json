@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Big Fat Greek Wedding 2",
+    "year": 2016,
+    "cast": [
+      "Nia Vardalos",
+      "John Corbett"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-big-fat-greek-wedding-2.html"
+}

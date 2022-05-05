@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Skin Deep",
+    "year": 1989,
+    "cast": [
+      "John Ritter",
+      "Alyson Reed",
+      "Vincent Gardenia"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/skin-deep.html"
+}

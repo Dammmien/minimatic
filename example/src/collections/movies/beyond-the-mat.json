@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Beyond the Mat",
+    "year": 1999,
+    "cast": [
+      "Mick Foley",
+      "Terry Funk",
+      "Jesse Ventura",
+      "The Rock"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/beyond-the-mat.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bill Henry",
+    "year": 1919,
+    "cast": [
+      "Charles Ray",
+      "Edith Roberts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bill-henry.html"
+}

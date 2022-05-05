@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Psycho IV: The Beginning",
+    "year": 1990,
+    "cast": [
+      "Anthony Perkins",
+      "Olivia Hussey"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/psycho-iv--the-beginning.html"
+}

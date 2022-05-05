@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighter Squadron",
+    "year": 1948,
+    "cast": [
+      "Edmond O'Brien",
+      "Robert Stack"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/fighter-squadron.html"
+}

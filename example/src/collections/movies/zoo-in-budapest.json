@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Zoo in Budapest",
+    "year": 1933,
+    "cast": [
+      "Loretta Young",
+      "Gene Raymond"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/zoo-in-budapest.html"
+}

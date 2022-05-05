@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "My Voyage to Italy",
+    "year": 1999,
+    "cast": [],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/my-voyage-to-italy.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Arizona",
+    "year": 1940,
+    "cast": [
+      "Jean Arthur",
+      "William Holden",
+      "Warren William"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/arizona.html"
+}

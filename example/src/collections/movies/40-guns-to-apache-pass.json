@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "40 Guns to Apache Pass",
+    "year": 1967,
+    "cast": [
+      "Audie Murphy",
+      "Kenneth Tobey",
+      "Laraine Stephens"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/40-guns-to-apache-pass.html"
+}

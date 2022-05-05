@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two Years Before the Mast",
+    "year": 1946,
+    "cast": [
+      "Alan Ladd",
+      "Barry Fitzgerald",
+      "Esther Fernandez"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/two-years-before-the-mast.html"
+}

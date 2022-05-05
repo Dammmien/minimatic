@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady Bodyguard",
+    "year": 1943,
+    "cast": [
+      "Eddie Albert",
+      "Anne Shirley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lady-bodyguard.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Two Evil Eyes",
+    "year": 1991,
+    "cast": [
+      "Harvey Keitel",
+      "E. G. Marshall",
+      "Martin Balsam",
+      "Adrienne Barbeau"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/two-evil-eyes.html"
+}

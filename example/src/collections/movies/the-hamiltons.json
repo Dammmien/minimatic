@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hamiltons",
+    "year": 2006,
+    "cast": [
+      "Cory Knauf",
+      "Samuel Child",
+      "Joseph McKelheer"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-hamiltons.html"
+}

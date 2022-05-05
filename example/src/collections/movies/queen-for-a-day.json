@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Queen for a Day",
+    "year": 1951,
+    "cast": [
+      "Jack Bailey",
+      "Phyllis Avery"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/queen-for-a-day.html"
+}

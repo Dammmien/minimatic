@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two Guys from Milwaukee",
+    "year": 1946,
+    "cast": [
+      "Dennis Morgan",
+      "Jack Carson",
+      "Joan Leslie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/two-guys-from-milwaukee.html"
+}

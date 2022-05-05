@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Ducksters",
+    "year": 1950,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-ducksters.html"
+}

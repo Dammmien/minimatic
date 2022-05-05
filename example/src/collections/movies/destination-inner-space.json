@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Destination Inner Space",
+    "year": 1966,
+    "cast": [
+      "Scott Brady",
+      "Gary Merrill",
+      "Sheree North"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/destination-inner-space.html"
+}

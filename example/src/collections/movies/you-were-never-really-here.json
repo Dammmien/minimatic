@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "You Were Never Really Here",
+    "year": 2018,
+    "cast": [
+      "Joaquin Phoenix",
+      "Ekaterina Samsonov",
+      "Alex Manette",
+      "John Doman",
+      "Judith Roberts"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/you-were-never-really-here.html"
+}

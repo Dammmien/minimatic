@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Khyber Patrol",
+    "year": 1954,
+    "cast": [
+      "Richard Egan",
+      "Dawn Addams",
+      "Raymond Burr"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/khyber-patrol.html"
+}

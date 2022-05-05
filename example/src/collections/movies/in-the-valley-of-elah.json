@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In the Valley of Elah",
+    "year": 2007,
+    "cast": [
+      "Tommy Lee Jones",
+      "Charlize Theron",
+      "Susan Sarandon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/in-the-valley-of-elah.html"
+}

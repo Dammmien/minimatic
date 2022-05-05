@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stool Pigeon",
+    "year": 1928,
+    "cast": [
+      "Olive Borden",
+      "Charles Delaney"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/stool-pigeon.html"
+}

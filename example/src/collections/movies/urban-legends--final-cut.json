@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Urban Legends: Final Cut",
+    "year": 2000,
+    "cast": [
+      "Jennifer Morrison",
+      "Matthew Davis",
+      "Hart Bochner"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/urban-legends--final-cut.html"
+}

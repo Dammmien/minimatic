@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "year": 2006,
+    "cast": [
+      "Johnny Depp",
+      "Orlando Bloom",
+      "Keira Knightley",
+      "Geoffrey Rush"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/pirates-of-the-caribbean--dead-man-s-chest.html"
+}

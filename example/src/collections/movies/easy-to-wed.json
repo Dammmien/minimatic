@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Easy to Wed",
+    "year": 1946,
+    "cast": [
+      "Lucille Ball",
+      "Esther Williams",
+      "Van Johnson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/easy-to-wed.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Milestones",
+    "year": 1975,
+    "cast": [
+      "Grace Paley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/milestones.html"
+}

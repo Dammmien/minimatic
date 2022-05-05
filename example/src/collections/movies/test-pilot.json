@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Test Pilot",
+    "year": 1938,
+    "cast": [
+      "Clark Gable",
+      "Myrna Loy",
+      "Spencer Tracy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/test-pilot.html"
+}

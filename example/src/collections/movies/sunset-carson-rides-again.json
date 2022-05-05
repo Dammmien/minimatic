@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sunset Carson Rides Again",
+    "year": 1948,
+    "cast": [
+      "Sunset Carson",
+      "Dan White"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sunset-carson-rides-again.html"
+}

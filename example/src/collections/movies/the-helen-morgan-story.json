@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Helen Morgan Story",
+    "year": 1957,
+    "cast": [
+      "Ann Blyth",
+      "Paul Newman",
+      "Richard Carlson"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-helen-morgan-story.html"
+}

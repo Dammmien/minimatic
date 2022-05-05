@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cahill U.S. Marshal",
+    "year": 1973,
+    "cast": [
+      "John Wayne",
+      "Gary Grimes",
+      "George Kennedy",
+      "Neville Brand"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cahill-u-s--marshal.html"
+}

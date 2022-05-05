@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Open Water",
+    "year": 2003,
+    "cast": [
+      "Blanchard Ryan",
+      "Daniel Travis"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/open-water.html"
+}

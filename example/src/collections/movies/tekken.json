@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tekken",
+    "year": 2009,
+    "cast": [
+      "Jon Foo",
+      "Kelly Overton",
+      "Cary-Hiroyuki Tagawa"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/tekken.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Babes in Bagdad",
+    "year": 1952,
+    "cast": [
+      "Paulette Goddard",
+      "Gypsy Rose Lee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/babes-in-bagdad.html"
+}

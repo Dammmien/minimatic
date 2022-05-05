@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hoop-La",
+    "year": 1933,
+    "cast": [
+      "Clara Bow",
+      "Preston Foster"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hoop-la.html"
+}

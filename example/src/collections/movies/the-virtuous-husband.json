@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Virtuous Husband",
+    "year": 1931,
+    "cast": [
+      "Betty Compson",
+      "Elliott Nugent",
+      "Jean Arthur"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-virtuous-husband.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gravity",
+    "year": 2013,
+    "cast": [
+      "Sandra Bullock",
+      "George Clooney"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/gravity.html"
+}

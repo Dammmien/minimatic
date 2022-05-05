@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love Streams",
+    "year": 1984,
+    "cast": [
+      "Gena Rowlands",
+      "John Cassavetes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-streams.html"
+}

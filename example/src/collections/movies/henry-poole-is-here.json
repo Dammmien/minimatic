@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Henry Poole Is Here",
+    "year": 2008,
+    "cast": [
+      "Luke Wilson",
+      "Radha Mitchell",
+      "George Lopez"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/henry-poole-is-here.html"
+}

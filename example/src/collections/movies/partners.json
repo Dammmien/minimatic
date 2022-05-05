@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Partners",
+    "year": 1982,
+    "cast": [
+      "John Hurt",
+      "Ryan O'Neal"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/partners.html"
+}

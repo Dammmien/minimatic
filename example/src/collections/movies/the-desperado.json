@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Desperado",
+    "year": 1954,
+    "cast": [
+      "Wayne Morris",
+      "Beverly Garland"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-desperado.html"
+}

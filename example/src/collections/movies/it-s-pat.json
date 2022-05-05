@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It's Pat",
+    "year": 1994,
+    "cast": [
+      "Julia Sweeney",
+      "Dave Foley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-pat.html"
+}

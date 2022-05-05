@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Air Mail",
+    "year": 1932,
+    "cast": [
+      "Ralph Bellamy",
+      "Pat O'Brien",
+      "Gloria Stuart"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/air-mail.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Doom",
+    "year": 2005,
+    "cast": [
+      "Karl Urban",
+      "Dwayne Johnson",
+      "Ben Daniels"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/doom.html"
+}

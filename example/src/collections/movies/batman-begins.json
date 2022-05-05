@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Batman Begins",
+    "year": 2005,
+    "cast": [
+      "Christian Bale",
+      "Michael Caine",
+      "Liam Neeson",
+      "Katie Holmes",
+      "Gary Oldman",
+      "Morgan Freeman"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/batman-begins.html"
+}

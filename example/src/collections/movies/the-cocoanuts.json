@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cocoanuts",
+    "year": 1929,
+    "cast": [
+      "Marx Brothers",
+      "Mary Eaton"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-cocoanuts.html"
+}

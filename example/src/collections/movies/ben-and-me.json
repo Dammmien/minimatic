@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Ben and Me",
+    "year": 1953,
+    "cast": [],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/ben-and-me.html"
+}

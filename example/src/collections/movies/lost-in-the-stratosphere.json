@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lost in the Stratosphere",
+    "year": 1934,
+    "cast": [
+      "William Cagney",
+      "June Collyer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lost-in-the-stratosphere.html"
+}

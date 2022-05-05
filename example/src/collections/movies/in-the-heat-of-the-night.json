@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "In the Heat of the Night",
+    "year": 1967,
+    "cast": [
+      "Rod Steiger",
+      "Sidney Poitier",
+      "Warren Oates",
+      "Lee Grant"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/in-the-heat-of-the-night.html"
+}

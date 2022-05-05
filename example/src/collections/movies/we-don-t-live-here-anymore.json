@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "We Don't Live Here Anymore",
+    "year": 2004,
+    "cast": [
+      "Mark Ruffalo",
+      "Laura Dern",
+      "Naomi Watts",
+      "Peter Krause"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/we-don-t-live-here-anymore.html"
+}

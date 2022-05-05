@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Santa Fe Stampede",
+    "year": 1938,
+    "cast": [
+      "John Wayne",
+      "Ray Corrigan",
+      "June Martel"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/santa-fe-stampede.html"
+}

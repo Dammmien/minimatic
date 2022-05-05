@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Captive Wild Woman",
+    "year": 1943,
+    "cast": [
+      "John Carradine",
+      "Milburn Stone",
+      "Paula Dupree"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/captive-wild-woman.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Expiration Date",
+    "year": 2006,
+    "cast": [
+      "Rober Guthrie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/expiration-date.html"
+}

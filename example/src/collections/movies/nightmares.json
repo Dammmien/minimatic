@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nightmares",
+    "year": 1983,
+    "cast": [
+      "Lance Henriksen",
+      "Emilio Estevez"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/nightmares.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lulu Belle",
+    "year": 1948,
+    "cast": [
+      "Dorothy Lamour",
+      "George Montgomery"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lulu-belle.html"
+}

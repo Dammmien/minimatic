@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Ugly American",
+    "year": 1963,
+    "cast": [
+      "Marlon Brando",
+      "Sandra Church",
+      "Eiji Okada",
+      "Jocelyn Brando",
+      "Arthur Hill",
+      "Pat Hingle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-ugly-american.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Social Lion",
+    "year": 1930,
+    "cast": [
+      "Jack Oakie",
+      "Mary Brian",
+      "Richard 'Skeets' Gallagher"
+    ],
+    "genres": [
+      "Sports",
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-social-lion.html"
+}

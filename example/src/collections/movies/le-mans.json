@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Le Mans",
+    "year": 1971,
+    "cast": [
+      "Steve McQueen",
+      "Siegfried Rauch"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/le-mans.html"
+}

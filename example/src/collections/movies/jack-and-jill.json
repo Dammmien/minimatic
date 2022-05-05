@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Jack and Jill",
+    "year": 2011,
+    "cast": [
+      "Adam Sandler",
+      "Katie Holmes",
+      "and",
+      "Al Pacino"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/jack-and-jill.html"
+}

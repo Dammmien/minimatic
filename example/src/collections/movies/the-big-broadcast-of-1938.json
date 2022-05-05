@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Big Broadcast of 1938",
+    "year": 1938,
+    "cast": [
+      "W. C. Fields",
+      "Bob Hope",
+      "Dorothy Lamour"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-big-broadcast-of-1938.html"
+}

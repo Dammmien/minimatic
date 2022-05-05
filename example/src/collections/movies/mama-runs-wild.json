@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mama Runs Wild",
+    "year": 1937,
+    "cast": [
+      "Mary Boland",
+      "Ernest Truex"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mama-runs-wild.html"
+}

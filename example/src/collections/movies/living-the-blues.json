@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Living the Blues",
+    "year": 1986,
+    "cast": [
+      "Galyn Gorg",
+      "Sam Taylor"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/living-the-blues.html"
+}

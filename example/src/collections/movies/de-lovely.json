@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "De-Lovely",
+    "year": 2004,
+    "cast": [
+      "Kevin Kline",
+      "Ashley Judd"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/de-lovely.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thieves Fall Out",
+    "year": 1941,
+    "cast": [
+      "Eddie Albert",
+      "Joan Leslie",
+      "Jane Darwell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/thieves-fall-out.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Killing",
+    "year": 1956,
+    "cast": [
+      "Sterling Hayden",
+      "Coleen Gray",
+      "Marie Windsor",
+      "Vince Edwards"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-killing.html"
+}

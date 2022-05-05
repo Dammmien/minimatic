@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Who Won",
+    "year": 1923,
+    "cast": [
+      "Dustin Farnum",
+      "Jacqueline Gadsden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-who-won.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bushranger",
+    "year": 1928,
+    "cast": [
+      "Tim McCoy",
+      "Ena Gregory"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-bushranger.html"
+}

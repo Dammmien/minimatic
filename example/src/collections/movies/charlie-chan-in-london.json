@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Charlie Chan in London",
+    "year": 1934,
+    "cast": [
+      "Warner Oland",
+      "Mona Barrie",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/charlie-chan-in-london.html"
+}

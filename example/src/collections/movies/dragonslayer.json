@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dragonslayer",
+    "year": 1981,
+    "cast": [
+      "Peter MacNicol",
+      "Ralph Richardson"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/dragonslayer.html"
+}

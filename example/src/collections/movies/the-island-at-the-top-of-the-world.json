@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Island at the Top of the World",
+    "year": 1974,
+    "cast": [
+      "David Hartman",
+      "Mako"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-island-at-the-top-of-the-world.html"
+}

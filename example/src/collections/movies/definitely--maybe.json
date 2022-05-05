@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Definitely, Maybe",
+    "year": 2008,
+    "cast": [
+      "Ryan Reynolds",
+      "Isla Fisher",
+      "Derek Luke",
+      "Abigail Breslin",
+      "Elizabeth Banks",
+      "Rachel Weisz"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/definitely--maybe.html"
+}

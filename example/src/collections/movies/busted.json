@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Busted",
+    "year": 1996,
+    "cast": [
+      "Corey Feldman",
+      "Corey Haim",
+      "Dominick Brascia",
+      "Ava Fabian"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/busted.html"
+}

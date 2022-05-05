@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "X-Men: Apocalypse",
+    "year": 2016,
+    "cast": [
+      "James McAvoy",
+      "Michael Fassbender",
+      "Oscar Isaac"
+    ],
+    "genres": [
+      "Superhero",
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/x-men--apocalypse.html"
+}

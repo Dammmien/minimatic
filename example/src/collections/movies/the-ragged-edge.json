@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ragged Edge",
+    "year": 1923,
+    "cast": [
+      "Alfred Lunt",
+      "George MacQuarrie"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-ragged-edge.html"
+}

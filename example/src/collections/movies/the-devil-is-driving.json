@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Devil Is Driving",
+    "year": 1937,
+    "cast": [
+      "Richard Dix",
+      "Joan Perry"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-devil-is-driving.html"
+}

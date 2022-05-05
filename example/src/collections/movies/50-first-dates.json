@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "50 First Dates",
+    "year": 2004,
+    "cast": [
+      "Adam Sandler",
+      "Drew Barrymore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/50-first-dates.html"
+}

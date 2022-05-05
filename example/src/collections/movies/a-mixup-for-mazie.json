@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Mixup for Mazie",
+    "year": 1915,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-mixup-for-mazie.html"
+}

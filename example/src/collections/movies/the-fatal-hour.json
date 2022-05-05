@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fatal Hour",
+    "year": 1940,
+    "cast": [
+      "Boris Karloff",
+      "Marjorie Reynolds",
+      "Grant Withers"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-fatal-hour.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brigadoon",
+    "year": 1954,
+    "cast": [
+      "Gene Kelly",
+      "Van Johnson",
+      "Cyd Charisse"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/brigadoon.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Six Cylinder Love",
+    "year": 1931,
+    "cast": [
+      "Spencer Tracy",
+      "Edward Everett Horton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/six-cylinder-love.html"
+}

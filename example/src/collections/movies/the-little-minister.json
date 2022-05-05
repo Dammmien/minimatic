@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Little Minister",
+    "year": 1934,
+    "cast": [
+      "Katharine Hepburn",
+      "John Beal"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-little-minister.html"
+}

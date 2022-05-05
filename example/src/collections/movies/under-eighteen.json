@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Under Eighteen",
+    "year": 1931,
+    "cast": [
+      "Marian Marsh",
+      "Anita Page"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/under-eighteen.html"
+}

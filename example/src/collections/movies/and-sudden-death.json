@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "And Sudden Death",
+    "year": 1936,
+    "cast": [
+      "Randolph Scott",
+      "Frances Drake"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/and-sudden-death.html"
+}

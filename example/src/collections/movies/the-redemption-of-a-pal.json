@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Redemption of a Pal",
+    "year": 1914,
+    "cast": [
+      "Edith Borella",
+      "Charlotte Burton",
+      "George Field"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-redemption-of-a-pal.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Fifi Blows Her Top",
+    "year": 1958,
+    "cast": [
+      "Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fifi-blows-her-top.html"
+}

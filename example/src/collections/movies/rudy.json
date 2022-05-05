@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Rudy",
+    "year": 1993,
+    "cast": [
+      "Sean Astin",
+      "Charles S. Dutton",
+      "Ned Beatty",
+      "Jon Favreau"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/rudy.html"
+}

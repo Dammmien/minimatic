@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Frankfurters and Quail",
+    "year": 1912,
+    "cast": [
+      "William Garwood"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/frankfurters-and-quail.html"
+}

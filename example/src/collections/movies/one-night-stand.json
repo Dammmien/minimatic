@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "One Night Stand",
+    "year": 1997,
+    "cast": [
+      "Wesley Snipes",
+      "Nastassja Kinski",
+      "Kyle MacLachlan",
+      "Ming-Na Wen",
+      "Robert Downey, Jr.",
+      "Glenn Plummer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/one-night-stand.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thicker than Water",
+    "year": 1999,
+    "cast": [
+      "Mack 10",
+      "Fat Joe",
+      "Ice Cube"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thicker-than-water.html"
+}

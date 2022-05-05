@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Journey into Light",
+    "year": 1951,
+    "cast": [
+      "Sterling Hayden",
+      "Viveca Lindfors"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/journey-into-light.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Red Sky at Morning",
+    "year": 1971,
+    "cast": [
+      "Desi Arnaz, Jr.",
+      "Catherine Burns",
+      "Richard Crenna"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/red-sky-at-morning.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flywheel",
+    "year": 2003,
+    "cast": [
+      "Lisa Arnold",
+      "Alex Kendrick",
+      "Tracy Goode"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flywheel.html"
+}

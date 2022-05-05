@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wildfire",
+    "year": 1945,
+    "cast": [
+      "Bob Steele",
+      "Sterling Holloway"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wildfire.html"
+}

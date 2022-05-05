@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Safe House",
+    "year": 2012,
+    "cast": [
+      "Denzel Washington",
+      "Ryan Reynolds",
+      "Vera Farmiga",
+      "Brendan Gleeson",
+      "Sam Shepard",
+      "Rubén Blades",
+      "Nora Arnezeder",
+      "Robert Patrick"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/safe-house.html"
+}

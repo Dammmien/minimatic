@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tovarich",
+    "year": 1937,
+    "cast": [
+      "Claudette Colbert",
+      "Charles Boyer",
+      "Basil Rathbone"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tovarich.html"
+}

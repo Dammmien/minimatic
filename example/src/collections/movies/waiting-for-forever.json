@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Waiting for Forever",
+    "year": 2011,
+    "cast": [
+      "Rachel Bilson",
+      "Tom Sturridge",
+      "Scott Mechlowicz",
+      "Richard Jenkins",
+      "Nikki Blonsky",
+      "Matthew Davis",
+      "Jaime King",
+      "Blythe Danner"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/waiting-for-forever.html"
+}

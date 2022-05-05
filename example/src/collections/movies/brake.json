@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Brake",
+    "year": 2012,
+    "cast": [
+      "Stephen Dorff",
+      "Chyler Leigh",
+      "JR Bourne",
+      "Tom Berenger",
+      "Pruitt Taylor Vince"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/brake.html"
+}

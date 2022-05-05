@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Under Fire",
+    "year": 1983,
+    "cast": [
+      "Nick Nolte",
+      "Gene Hackman",
+      "Joanna Cassidy",
+      "Ed Harris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/under-fire.html"
+}

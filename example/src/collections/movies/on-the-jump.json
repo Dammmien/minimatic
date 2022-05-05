@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "On the Jump",
+    "year": 1918,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/on-the-jump.html"
+}

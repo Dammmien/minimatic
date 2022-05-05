@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night Without Sleep",
+    "year": 1952,
+    "cast": [
+      "Linda Darnell",
+      "Hildegarde Neff"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/night-without-sleep.html"
+}

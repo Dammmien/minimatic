@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cold Mountain",
+    "year": 2003,
+    "cast": [
+      "Jude Law",
+      "Nicole Kidman",
+      "Renée Zellweger"
+    ],
+    "genres": [
+      "Romance",
+      "War"
+    ]
+  },
+  "output": "movies/cold-mountain.html"
+}

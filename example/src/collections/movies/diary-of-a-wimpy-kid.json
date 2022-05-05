@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Diary of a Wimpy Kid",
+    "year": 2010,
+    "cast": [
+      "Zachary Gordon",
+      "Robert Capron",
+      "Rachel Harris",
+      "Steve Zahn",
+      "Devon Bostick",
+      "Chloë Grace Moretz"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/diary-of-a-wimpy-kid.html"
+}

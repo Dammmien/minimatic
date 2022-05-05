@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Women Love Once",
+    "year": 1931,
+    "cast": [
+      "Paul Lukas",
+      "Eleanor Boardman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/women-love-once.html"
+}

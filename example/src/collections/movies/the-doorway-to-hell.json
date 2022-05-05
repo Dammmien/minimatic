@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Doorway to Hell",
+    "year": 1930,
+    "cast": [
+      "James Cagney",
+      "Lew Ayres",
+      "Robert Elliott"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-doorway-to-hell.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Casper",
+    "year": 1995,
+    "cast": [
+      "Christina Ricci",
+      "Bill Pullman",
+      "Cathy Moriarty",
+      "Eric Idle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/casper.html"
+}

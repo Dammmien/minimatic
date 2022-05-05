@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Call Me Bwana",
+    "year": 1963,
+    "cast": [
+      "Bob Hope",
+      "Anita Ekberg",
+      "Edie Adams"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/call-me-bwana.html"
+}

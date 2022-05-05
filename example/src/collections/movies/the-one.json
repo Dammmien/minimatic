@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The One",
+    "year": 2001,
+    "cast": [
+      "Jet Li",
+      "Delroy Lindo",
+      "Carla Gugino"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-one.html"
+}

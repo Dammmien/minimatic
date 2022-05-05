@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Last Rites",
+    "year": 1988,
+    "cast": [
+      "Tom Berenger",
+      "Daphne Zuniga",
+      "Anne Twomey"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/last-rites.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hoodlum Empire",
+    "year": 1952,
+    "cast": [
+      "Claire Trevor",
+      "Brian Donlevy"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/hoodlum-empire.html"
+}

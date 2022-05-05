@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Misleading Lady",
+    "year": 1932,
+    "cast": [
+      "Claudette Colbert",
+      "Edmund Lowe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/misleading-lady.html"
+}

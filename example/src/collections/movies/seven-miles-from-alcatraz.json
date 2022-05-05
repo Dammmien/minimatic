@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Seven Miles from Alcatraz",
+    "year": 1942,
+    "cast": [
+      "James Craig",
+      "Bonita Granville"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/seven-miles-from-alcatraz.html"
+}

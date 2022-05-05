@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Little Wildcat",
+    "year": 1928,
+    "cast": [
+      "Audrey Ferris",
+      "James Murray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-little-wildcat.html"
+}

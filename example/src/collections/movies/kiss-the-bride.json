@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kiss the Bride",
+    "year": 2002,
+    "cast": [
+      "Amanda Detmer",
+      "Sean Patrick Flanery",
+      "Brooke Langton"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/kiss-the-bride.html"
+}

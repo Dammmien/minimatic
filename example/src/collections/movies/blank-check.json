@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Blank Check",
+    "year": 1994,
+    "cast": [
+      "Brian Bonsall",
+      "Karen Duffy",
+      "Miguel Ferrer",
+      "James Rebhorn",
+      "Tone Loc",
+      "Jayne Atkinson",
+      "Michael Lerner"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blank-check.html"
+}

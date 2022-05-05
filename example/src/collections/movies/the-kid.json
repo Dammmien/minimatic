@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Kid",
+    "year": 2000,
+    "cast": [
+      "Bruce Willis",
+      "Lily Tomlin",
+      "Jean Smart",
+      "Spencer Breslin"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-kid.html"
+}

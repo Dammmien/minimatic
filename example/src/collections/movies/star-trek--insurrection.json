@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Star Trek: Insurrection",
+    "year": 1998,
+    "cast": [
+      "Patrick Stewart",
+      "F. Murray Abraham",
+      "Donna Murphy"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/star-trek--insurrection.html"
+}

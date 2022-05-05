@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Shining Through",
+    "year": 1992,
+    "cast": [
+      "Michael Douglas",
+      "Melanie Griffith",
+      "Liam Neeson",
+      "Joely Richardson",
+      "John Gielgud"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shining-through.html"
+}

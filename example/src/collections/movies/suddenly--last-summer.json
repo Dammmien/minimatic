@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Suddenly, Last Summer",
+    "year": 1959,
+    "cast": [
+      "Katharine Hepburn",
+      "Elizabeth Taylor",
+      "Montgomery Clift"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/suddenly--last-summer.html"
+}

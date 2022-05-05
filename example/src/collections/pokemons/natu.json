@@ -1,0 +1,21 @@
+{
+  "id": 177,
+  "name": {
+    "english": "Natu",
+    "japanese": "ネイティ",
+    "chinese": "天然雀",
+    "french": "Natu"
+  },
+  "type": [
+    "Psychic",
+    "Flying"
+  ],
+  "base": {
+    "HP": 40,
+    "Attack": 50,
+    "Defense": 45,
+    "Sp. Attack": 70,
+    "Sp. Defense": 45,
+    "Speed": 70
+  }
+}

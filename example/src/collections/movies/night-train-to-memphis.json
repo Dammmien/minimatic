@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night Train to Memphis",
+    "year": 1946,
+    "cast": [
+      "Roy Acuff",
+      "Allan Lane"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/night-train-to-memphis.html"
+}

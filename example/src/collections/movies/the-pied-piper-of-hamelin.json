@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pied Piper of Hamelin",
+    "year": 1957,
+    "cast": [
+      "Van Johnson",
+      "Claude Rains",
+      "Lori Nelson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-pied-piper-of-hamelin.html"
+}

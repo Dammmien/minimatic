@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Happiest Millionaire",
+    "year": 1967,
+    "cast": [
+      "Fred MacMurray",
+      "Lesley Ann Warren"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-happiest-millionaire.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Social Animals",
+    "year": 2018,
+    "cast": [
+      "Noël Wells",
+      "Josh Radnor",
+      "Aya Cash",
+      "Carly Chaikin",
+      "Fortune Feimster",
+      "Samira Wiley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/social-animals.html"
+}

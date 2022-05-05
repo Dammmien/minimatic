@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Black Widow",
+    "year": 1987,
+    "cast": [
+      "Debra Winger",
+      "Theresa Russell",
+      "Sami Frey",
+      "Nicol Williamson",
+      "Dennis Hopper"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/black-widow.html"
+}

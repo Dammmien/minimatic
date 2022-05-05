@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It All Came True",
+    "year": 1940,
+    "cast": [
+      "Ann Sheridan",
+      "Jeffrey Lynn",
+      "Humphrey Bogart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-all-came-true.html"
+}

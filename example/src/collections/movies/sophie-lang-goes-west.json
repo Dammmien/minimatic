@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sophie Lang Goes West",
+    "year": 1937,
+    "cast": [
+      "Gertrude Michael",
+      "Lee Bowman"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/sophie-lang-goes-west.html"
+}

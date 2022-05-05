@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Looker",
+    "year": 1981,
+    "cast": [
+      "Albert Finney",
+      "James Coburn",
+      "Susan Dey"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/looker.html"
+}

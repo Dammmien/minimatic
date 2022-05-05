@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pad and How to Use It",
+    "year": 1966,
+    "cast": [
+      "Julie Sommars",
+      "James Farentino",
+      "Brian Bedford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-pad-and-how-to-use-it.html"
+}

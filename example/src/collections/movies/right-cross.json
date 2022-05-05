@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Right Cross",
+    "year": 1950,
+    "cast": [
+      "June Allyson",
+      "Dick Powell",
+      "Ricardo Montalbán"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/right-cross.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Streets of Ghost Town",
+    "year": 1950,
+    "cast": [
+      "Charles Starrett",
+      "Mary Ellen Kay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/streets-of-ghost-town.html"
+}

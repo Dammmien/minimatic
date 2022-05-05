@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Woman Walks Ahead",
+    "year": 2018,
+    "cast": [
+      "Jessica Chastain",
+      "Michael Greyeyes",
+      "Chaske Spencer",
+      "Sam Rockwell"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/woman-walks-ahead.html"
+}

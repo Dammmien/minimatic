@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mean Dog Blues",
+    "year": 1978,
+    "cast": [
+      "Gregg Henry",
+      "Kay Lenz",
+      "Scatman Crothers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mean-dog-blues.html"
+}

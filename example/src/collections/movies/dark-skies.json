@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dark Skies",
+    "year": 2013,
+    "cast": [
+      "Keri Russell",
+      "Josh Hamilton",
+      "Dakota Goyo",
+      "J. K. Simmons"
+    ],
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/dark-skies.html"
+}

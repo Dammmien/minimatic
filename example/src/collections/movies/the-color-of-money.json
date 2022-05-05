@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Color of Money",
+    "year": 1986,
+    "cast": [
+      "Paul Newman",
+      "Tom Cruise",
+      "Mary Elizabeth Mastrantonio",
+      "John Turturro",
+      "Helen Shaver",
+      "Forest Whitaker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-color-of-money.html"
+}

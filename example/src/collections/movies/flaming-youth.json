@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flaming Youth",
+    "year": 1923,
+    "cast": [
+      "Colleen Moore",
+      "Milton Sills",
+      "Elliott Dexter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flaming-youth.html"
+}

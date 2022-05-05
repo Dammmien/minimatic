@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "So This Is Washington",
+    "year": 1943,
+    "cast": [
+      "Lum and Abner",
+      "Mildred Coles"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/so-this-is-washington.html"
+}

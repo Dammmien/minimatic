@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Love Light",
+    "year": 1921,
+    "cast": [
+      "Mary Pickford",
+      "Raymond Bloomer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-love-light.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hill",
+    "year": 1965,
+    "cast": [
+      "Sean Connery",
+      "Ian Bannen",
+      "Ossie Davis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hill.html"
+}

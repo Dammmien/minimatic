@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Huntress",
+    "year": 1923,
+    "cast": [
+      "Colleen Moore",
+      "Lloyd Hughes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-huntress.html"
+}

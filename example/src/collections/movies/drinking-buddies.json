@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Drinking Buddies",
+    "year": 2013,
+    "cast": [
+      "Olivia Wilde",
+      "Jake Johnson",
+      "Anna Kendrick",
+      "Ron Livingston",
+      "Ti West",
+      "Jason Sudeikis"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/drinking-buddies.html"
+}

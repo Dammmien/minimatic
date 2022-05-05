@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "What the Daisy Said",
+    "year": 1910,
+    "cast": [
+      "Clara T. Bracy",
+      "Mary Pickford",
+      "Mack Sennett"
+    ],
+    "genres": []
+  },
+  "output": "movies/what-the-daisy-said.html"
+}

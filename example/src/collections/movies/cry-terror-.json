@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Cry Terror!",
+    "year": 1958,
+    "cast": [
+      "James Mason",
+      "Inger Stevens",
+      "Rod Steiger",
+      "Neville Brand",
+      "Angie Dickinson"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/cry-terror-.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Law of the Valley",
+    "year": 1944,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton",
+      "Lynne Carver"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/law-of-the-valley.html"
+}

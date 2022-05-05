@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Jerry and Jumbo",
+    "year": 1951,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/jerry-and-jumbo.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Return to Salem's Lot",
+    "year": 1987,
+    "cast": [
+      "Michael Moriarty",
+      "Samuel Fuller",
+      "Evelyn Keyes"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/a-return-to-salem-s-lot.html"
+}

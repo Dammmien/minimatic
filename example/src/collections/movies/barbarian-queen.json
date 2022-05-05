@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Barbarian Queen",
+    "year": 1985,
+    "cast": [
+      "Lana Clarkson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/barbarian-queen.html"
+}

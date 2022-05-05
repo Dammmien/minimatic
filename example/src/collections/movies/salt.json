@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Salt",
+    "year": 2010,
+    "cast": [
+      "Angelina Jolie",
+      "Liev Schreiber",
+      "Chiwetel Ejiofor"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/salt.html"
+}

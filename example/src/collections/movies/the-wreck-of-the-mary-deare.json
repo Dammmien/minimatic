@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wreck of the Mary Deare",
+    "year": 1959,
+    "cast": [
+      "Gary Cooper",
+      "Charlton Heston",
+      "Michael Redgrave"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-wreck-of-the-mary-deare.html"
+}

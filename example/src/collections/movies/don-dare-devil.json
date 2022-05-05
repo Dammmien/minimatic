@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Don Dare Devil",
+    "year": 1925,
+    "cast": [
+      "Jack Hoxie",
+      "William Welsh"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/don-dare-devil.html"
+}

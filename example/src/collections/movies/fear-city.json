@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fear City",
+    "year": 1984,
+    "cast": [
+      "Tom Berenger",
+      "Billy Dee Williams",
+      "Melanie Griffith"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/fear-city.html"
+}

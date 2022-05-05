@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sagebrush Troubadour",
+    "year": 1935,
+    "cast": [
+      "Gene Autry",
+      "Barbara Pepper"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-sagebrush-troubadour.html"
+}

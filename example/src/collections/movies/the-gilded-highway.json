@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gilded Highway",
+    "year": 1926,
+    "cast": [
+      "Dorothy Devore",
+      "John Harron",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-gilded-highway.html"
+}

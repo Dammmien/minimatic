@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Extra Man",
+    "year": 2010,
+    "cast": [
+      "Kevin Kline",
+      "Paul Dano",
+      "Katie Holmes",
+      "John C. Reilly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-extra-man.html"
+}

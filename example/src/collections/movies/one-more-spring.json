@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One More Spring",
+    "year": 1935,
+    "cast": [
+      "Janet Gaynor",
+      "Warner Baxter"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/one-more-spring.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Silent Hill",
+    "year": 2006,
+    "cast": [
+      "Radha Mitchell",
+      "Sean Bean",
+      "Laurie Holden",
+      "Jodelle Ferland"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/silent-hill.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "While Paris Sleeps",
+    "year": 1932,
+    "cast": [
+      "Victor McLaglen",
+      "Helen Mack"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/while-paris-sleeps.html"
+}

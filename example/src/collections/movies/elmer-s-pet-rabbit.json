@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Elmer's Pet Rabbit",
+    "year": 1941,
+    "cast": [
+      "Elmer Fudd",
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/elmer-s-pet-rabbit.html"
+}

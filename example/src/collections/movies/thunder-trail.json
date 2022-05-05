@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thunder Trail",
+    "year": 1937,
+    "cast": [
+      "Gilbert Roland",
+      "Charles Bickford",
+      "Marsha Hunt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/thunder-trail.html"
+}

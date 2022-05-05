@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stone Cold",
+    "year": 1991,
+    "cast": [
+      "Brian Bosworth",
+      "William Forsythe"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/stone-cold.html"
+}

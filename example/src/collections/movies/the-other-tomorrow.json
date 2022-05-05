@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Other Tomorrow",
+    "year": 1930,
+    "cast": [
+      "Billie Dove",
+      "Kenneth Thomson",
+      "Grant Withers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-other-tomorrow.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gleaming the Cube",
+    "year": 1989,
+    "cast": [
+      "Christian Slater",
+      "Steven Bauer",
+      "Tony Hawk"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gleaming-the-cube.html"
+}

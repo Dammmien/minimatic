@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Power Within",
+    "year": 1995,
+    "cast": [
+      "Karen Valentine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-power-within.html"
+}

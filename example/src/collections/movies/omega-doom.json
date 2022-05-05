@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Omega Doom",
+    "year": 1997,
+    "cast": [
+      "Rutger Hauer"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/omega-doom.html"
+}

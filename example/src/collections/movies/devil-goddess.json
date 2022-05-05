@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Devil Goddess",
+    "year": 1955,
+    "cast": [
+      "Johnny Weissmuller",
+      "Angela Stevens"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/devil-goddess.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Teenage Rebel",
+    "year": 1956,
+    "cast": [
+      "Ginger Rogers",
+      "Michael Rennie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/teenage-rebel.html"
+}

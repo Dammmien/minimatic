@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Westward Ho the Wagons!",
+    "year": 1956,
+    "cast": [
+      "Fess Parker",
+      "Kathleen Crowley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/westward-ho-the-wagons-.html"
+}

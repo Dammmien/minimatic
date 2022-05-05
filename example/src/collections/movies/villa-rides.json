@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Villa Rides",
+    "year": 1968,
+    "cast": [
+      "Yul Brynner",
+      "Robert Mitchum",
+      "Charles Bronson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/villa-rides.html"
+}

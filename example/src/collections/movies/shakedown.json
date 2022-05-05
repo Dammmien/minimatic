@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Shakedown",
+    "year": 1989,
+    "cast": [
+      "Peter Weller",
+      "Sam Elliott"
+    ],
+    "genres": [
+      "Crime",
+      "Drama",
+      "Action"
+    ]
+  },
+  "output": "movies/shakedown.html"
+}

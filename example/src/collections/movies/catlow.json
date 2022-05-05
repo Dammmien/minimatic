@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Catlow",
+    "year": 1971,
+    "cast": [
+      "Yul Brynner",
+      "Richard Crenna",
+      "Leonard Nimoy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/catlow.html"
+}

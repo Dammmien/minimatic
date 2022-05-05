@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Ed's Next Move",
+    "year": 1996,
+    "cast": [
+      "Matt Ross"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ed-s-next-move.html"
+}

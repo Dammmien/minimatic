@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Riddler's Moon",
+    "year": 1998,
+    "cast": [
+      "Corbin Bernsen",
+      "Kate Mulgrew",
+      "Daniel Newman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/riddler-s-moon.html"
+}

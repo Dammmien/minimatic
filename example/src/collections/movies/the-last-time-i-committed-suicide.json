@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last Time I Committed Suicide",
+    "year": 1997,
+    "cast": [
+      "Thomas Jane",
+      "Keanu Reeves"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-last-time-i-committed-suicide.html"
+}

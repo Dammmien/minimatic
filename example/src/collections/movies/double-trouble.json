@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Double Trouble",
+    "year": 1967,
+    "cast": [
+      "Elvis Presley",
+      "John Williams",
+      "Yvonne Romain"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/double-trouble.html"
+}

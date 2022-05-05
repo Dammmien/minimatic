@@ -1,0 +1,27 @@
+{
+  "data": {
+    "title": "Fantastic Beasts: The Crimes of Grindelwald",
+    "year": 2018,
+    "cast": [
+      "Eddie Redmayne",
+      "Katherine Waterston",
+      "Alison Sudol",
+      "Dan Fogler",
+      "Ezra Miller",
+      "Jude Law",
+      "Johnny Depp",
+      "Zoë Kravitz",
+      "Callum Turner",
+      "Claudia Kim",
+      "William Nadylam",
+      "Carmen Ejogo",
+      "Kevin Guthrie",
+      "Poppy Corby-Tuech"
+    ],
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ]
+  },
+  "output": "movies/fantastic-beasts--the-crimes-of-grindelwald.html"
+}

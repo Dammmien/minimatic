@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hi-De-Ho",
+    "year": 1947,
+    "cast": [
+      "Cab Calloway",
+      "Jeni Le Gon"
+    ],
+    "genres": [
+      "Musical",
+      "Drama"
+    ]
+  },
+  "output": "movies/hi-de-ho.html"
+}

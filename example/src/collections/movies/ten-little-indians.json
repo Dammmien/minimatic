@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ten Little Indians",
+    "year": 1989,
+    "cast": [
+      "Donald Pleasence",
+      "Brenda Vaccaro",
+      "Frank Stallone",
+      "Herbert Lom"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/ten-little-indians.html"
+}

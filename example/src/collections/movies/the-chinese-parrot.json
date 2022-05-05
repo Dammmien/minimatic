@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Chinese Parrot",
+    "year": 1927,
+    "cast": [
+      "Marian Nixon",
+      "Florence Turner"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-chinese-parrot.html"
+}

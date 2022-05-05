@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Battle Stations",
+    "year": 1956,
+    "cast": [
+      "John Lund",
+      "William Bendix",
+      "Richard Boone"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/battle-stations.html"
+}

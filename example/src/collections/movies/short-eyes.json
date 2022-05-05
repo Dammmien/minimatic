@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Short Eyes",
+    "year": 1977,
+    "cast": [
+      "Bruce Davison",
+      "Jose Perez"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/short-eyes.html"
+}

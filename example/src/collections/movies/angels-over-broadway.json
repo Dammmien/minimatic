@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Angels Over Broadway",
+    "year": 1940,
+    "cast": [
+      "Douglas Fairbanks Jr.",
+      "Rita Hayworth",
+      "Thomas Mitchell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/angels-over-broadway.html"
+}

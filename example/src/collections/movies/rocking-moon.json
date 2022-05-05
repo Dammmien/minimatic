@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rocking Moon",
+    "year": 1926,
+    "cast": [
+      "Lilyan Tashman",
+      "John Bowers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rocking-moon.html"
+}

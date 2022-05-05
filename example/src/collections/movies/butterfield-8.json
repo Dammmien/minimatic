@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Butterfield 8",
+    "year": 1960,
+    "cast": [
+      "Elizabeth Taylor",
+      "Laurence Harvey",
+      "Eddie Fisher",
+      "Dina Merrill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/butterfield-8.html"
+}

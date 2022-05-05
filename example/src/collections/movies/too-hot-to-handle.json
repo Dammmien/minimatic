@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Too Hot to Handle",
+    "year": 1960,
+    "cast": [
+      "Jayne Mansfield",
+      "Leo Genn",
+      "Karlheinz Böhm"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/too-hot-to-handle.html"
+}

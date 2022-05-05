@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Last of Mrs. Cheyney",
+    "year": 1937,
+    "cast": [
+      "Joan Crawford",
+      "William Powell",
+      "Nigel Bruce"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-last-of-mrs--cheyney.html"
+}

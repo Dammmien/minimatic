@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Infernal Machine",
+    "year": 1933,
+    "cast": [
+      "Chester Morris",
+      "Genevieve Tobin"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/infernal-machine.html"
+}

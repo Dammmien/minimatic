@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Gung Ho",
+    "year": 1986,
+    "cast": [
+      "Michael Keaton",
+      "John Turturro",
+      "Mimi Rogers",
+      "Gedde Watanabe",
+      "George Wendt"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gung-ho.html"
+}

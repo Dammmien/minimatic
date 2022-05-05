@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Put Up Your Hands!",
+    "year": 1919,
+    "cast": [
+      "Margarita Fischer",
+      "Emory Johnson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/put-up-your-hands-.html"
+}

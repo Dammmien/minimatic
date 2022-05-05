@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Johnny Come Lately",
+    "year": 1943,
+    "cast": [
+      "James Cagney",
+      "Marjorie Lord"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/johnny-come-lately.html"
+}

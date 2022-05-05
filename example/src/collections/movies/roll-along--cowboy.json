@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Roll Along, Cowboy",
+    "year": 1937,
+    "cast": [
+      "Smith Ballew",
+      "Cecilia Parker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/roll-along--cowboy.html"
+}

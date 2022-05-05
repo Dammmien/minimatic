@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Remember the Day",
+    "year": 1941,
+    "cast": [
+      "Claudette Colbert",
+      "John Payne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/remember-the-day.html"
+}

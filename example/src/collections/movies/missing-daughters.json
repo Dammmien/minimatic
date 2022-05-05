@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Missing Daughters",
+    "year": 1939,
+    "cast": [
+      "Richard Arlen",
+      "Rochelle Hudson",
+      "Marian Marsh",
+      "Isabel Jewell"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/missing-daughters.html"
+}

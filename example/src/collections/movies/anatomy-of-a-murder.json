@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Anatomy of a Murder",
+    "year": 1959,
+    "cast": [
+      "James Stewart",
+      "Lee Remick",
+      "George C. Scott",
+      "Ben Gazzara",
+      "Arthur O'Connell",
+      "Eve Arden",
+      "Joseph N. Welch",
+      "Kathryn Grant"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/anatomy-of-a-murder.html"
+}

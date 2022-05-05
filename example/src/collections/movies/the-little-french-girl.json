@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Little French Girl",
+    "year": 1925,
+    "cast": [
+      "Mary Brian",
+      "Maurice de Canonge"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-little-french-girl.html"
+}

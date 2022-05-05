@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Interlude",
+    "year": 1957,
+    "cast": [
+      "June Allyson",
+      "Rossano Brazzi",
+      "Marianne Koch",
+      "Françoise Rosay",
+      "Keith Andes"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/interlude.html"
+}

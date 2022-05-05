@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lawnmower Man",
+    "year": 1992,
+    "cast": [
+      "Jeff Fahey",
+      "Pierce Brosnan"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-lawnmower-man.html"
+}

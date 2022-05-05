@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tempest",
+    "year": 1982,
+    "cast": [
+      "John Cassavetes",
+      "Gena Rowlands",
+      "Molly Ringwald"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/tempest.html"
+}

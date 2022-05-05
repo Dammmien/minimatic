@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hulda from Holland",
+    "year": 1916,
+    "cast": [
+      "Mary Pickford",
+      "Frank Losee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hulda-from-holland.html"
+}

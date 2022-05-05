@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Counsel for Crime",
+    "year": 1937,
+    "cast": [
+      "Otto Kruger",
+      "Douglass Montgomery",
+      "Thurston Hall"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/counsel-for-crime.html"
+}

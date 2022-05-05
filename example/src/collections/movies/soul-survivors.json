@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Soul Survivors",
+    "year": 2001,
+    "cast": [
+      "Melissa Sagemiller",
+      "Casey Affleck",
+      "Eliza Dushku"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/soul-survivors.html"
+}

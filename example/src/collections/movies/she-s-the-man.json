@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "She's the Man",
+    "year": 2006,
+    "cast": [
+      "Amanda Bynes",
+      "Channing Tatum"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-s-the-man.html"
+}

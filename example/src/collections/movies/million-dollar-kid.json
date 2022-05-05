@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Million Dollar Kid",
+    "year": 1944,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Louise Currie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/million-dollar-kid.html"
+}

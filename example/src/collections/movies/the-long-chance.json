@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Long Chance",
+    "year": 1922,
+    "cast": [
+      "Henry B. Walthall",
+      "Marjorie Daw"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-long-chance.html"
+}

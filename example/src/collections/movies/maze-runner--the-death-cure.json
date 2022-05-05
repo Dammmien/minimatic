@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Maze Runner: The Death Cure",
+    "year": 2018,
+    "cast": [
+      "Dylan O'Brien",
+      "Kaya Scodelario",
+      "Thomas Brodie-Sangster",
+      "Ki Hong Lee",
+      "Giancarlo Esposito",
+      "Aidan Gillen",
+      "Walton Goggins",
+      "Barry Pepper",
+      "Will Poulter",
+      "Patricia Clarkson"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Thriller"
+    ]
+  },
+  "output": "movies/maze-runner--the-death-cure.html"
+}

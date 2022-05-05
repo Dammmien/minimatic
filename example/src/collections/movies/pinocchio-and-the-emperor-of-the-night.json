@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Pinocchio and the Emperor of the Night",
+    "year": 1987,
+    "cast": [
+      "voices of",
+      "Scott Grimes",
+      "Tom Bosley",
+      "Don Knotts",
+      "Ed Asner",
+      "James Earl Jones",
+      "Rickie Lee Jones"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/pinocchio-and-the-emperor-of-the-night.html"
+}

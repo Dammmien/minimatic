@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eye of the Beholder",
+    "year": 1999,
+    "cast": [
+      "Ewan McGregor",
+      "Ashley Judd"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/eye-of-the-beholder.html"
+}

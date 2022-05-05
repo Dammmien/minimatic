@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Golden Boy",
+    "year": 1939,
+    "cast": [
+      "Barbara Stanwyck",
+      "Adolphe Menjou",
+      "William Holden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/golden-boy.html"
+}

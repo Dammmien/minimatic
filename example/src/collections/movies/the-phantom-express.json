@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Phantom Express",
+    "year": 1932,
+    "cast": [
+      "William Collier Jr.",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-phantom-express.html"
+}

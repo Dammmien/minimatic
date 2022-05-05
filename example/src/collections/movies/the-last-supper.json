@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Last Supper",
+    "year": 1995,
+    "cast": [
+      "Cameron Diaz",
+      "Ron Eldard",
+      "Annabeth Gish",
+      "Courtney B. Vance"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-last-supper.html"
+}

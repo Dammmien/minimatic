@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Married a Doctor",
+    "year": 1936,
+    "cast": [
+      "Pat O'Brien",
+      "Josephine Hutchinson",
+      "Ross Alexander"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-married-a-doctor.html"
+}

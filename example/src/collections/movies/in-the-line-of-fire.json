@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "In the Line of Fire",
+    "year": 1993,
+    "cast": [
+      "Clint Eastwood",
+      "John Malkovich",
+      "Rene Russo",
+      "Dylan McDermott",
+      "Gary Cole"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/in-the-line-of-fire.html"
+}

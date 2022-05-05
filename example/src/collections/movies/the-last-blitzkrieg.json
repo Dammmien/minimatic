@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last Blitzkrieg",
+    "year": 1959,
+    "cast": [
+      "Van Johnson",
+      "Dick York"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-last-blitzkrieg.html"
+}

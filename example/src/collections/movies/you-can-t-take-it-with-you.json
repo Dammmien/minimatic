@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "You Can't Take It with You",
+    "year": 1938,
+    "cast": [
+      "James Stewart",
+      "Jean Arthur",
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-can-t-take-it-with-you.html"
+}

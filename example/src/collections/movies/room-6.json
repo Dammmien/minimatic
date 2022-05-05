@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Room 6",
+    "year": 2006,
+    "cast": [
+      "Christine Taylor",
+      "Jerry O'Connell",
+      "Shane Brolly"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/room-6.html"
+}

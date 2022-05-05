@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bigger Than Barnum's",
+    "year": 1926,
+    "cast": [
+      "Ralph Lewis",
+      "Viola Dana"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bigger-than-barnum-s.html"
+}

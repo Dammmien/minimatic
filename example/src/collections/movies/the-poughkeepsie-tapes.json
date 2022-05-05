@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Poughkeepsie Tapes",
+    "year": 2007,
+    "cast": [
+      "Samantha Robson",
+      "Ivar Brogger"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-poughkeepsie-tapes.html"
+}

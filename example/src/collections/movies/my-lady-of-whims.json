@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Lady of Whims",
+    "year": 1925,
+    "cast": [
+      "Clara Bow",
+      "Donald Keith"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-lady-of-whims.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The 13th Letter",
+    "year": 1951,
+    "cast": [
+      "Linda Darnell",
+      "Charles Boyer",
+      "Constance Smith"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-13th-letter.html"
+}

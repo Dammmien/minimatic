@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Shark Night 3D",
+    "year": 2011,
+    "cast": [
+      "Sara Paxton",
+      "Dustin Milligan",
+      "Katharine McPhee",
+      "Alyssa Diaz",
+      "Joel David Moore",
+      "Joshua Leonard",
+      "Chris Zylka",
+      "Chris Carmack",
+      "Donal Logue"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/shark-night-3d.html"
+}

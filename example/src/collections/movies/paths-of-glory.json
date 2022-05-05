@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Paths of Glory",
+    "year": 1957,
+    "cast": [
+      "Kirk Douglas",
+      "Ralph Meeker",
+      "Adolphe Menjou",
+      "George Macready",
+      "Timothy Carey"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/paths-of-glory.html"
+}

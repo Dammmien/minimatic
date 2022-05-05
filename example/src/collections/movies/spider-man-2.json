@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Spider-Man 2",
+    "year": 2004,
+    "cast": [
+      "Tobey Maguire",
+      "Kirsten Dunst",
+      "James Franco",
+      "Alfred Molina",
+      "Rosemary Harris"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/spider-man-2.html"
+}

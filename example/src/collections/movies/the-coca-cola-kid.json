@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Coca-Cola Kid",
+    "year": 1985,
+    "cast": [
+      "Eric Roberts",
+      "Greta Scacchi"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-coca-cola-kid.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Eagle's Brood",
+    "year": 1935,
+    "cast": [
+      "William Boyd",
+      "James Ellison"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-eagle-s-brood.html"
+}

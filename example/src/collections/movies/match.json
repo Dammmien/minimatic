@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Match",
+    "year": 2015,
+    "cast": [
+      "Patrick Stewart",
+      "Carla Gugino",
+      "Matthew Lillard",
+      "Rob Yang"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/match.html"
+}

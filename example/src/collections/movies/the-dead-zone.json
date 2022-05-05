@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Dead Zone",
+    "year": 1983,
+    "cast": [
+      "Christopher Walken",
+      "Martin Sheen",
+      "Herbert Lom",
+      "Brooke Adams",
+      "Tom Skerritt",
+      "Anthony Zerbe"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-dead-zone.html"
+}

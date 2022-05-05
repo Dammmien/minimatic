@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Girls About Town",
+    "year": 1931,
+    "cast": [
+      "Kay Francis",
+      "Lilyan Tashman",
+      "Joel McCrea"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/girls-about-town.html"
+}

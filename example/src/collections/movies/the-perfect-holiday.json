@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Perfect Holiday",
+    "year": 2007,
+    "cast": [
+      "Morris Chestnut",
+      "Gabrielle Union",
+      "Charlie Murphy",
+      "Katt Williams",
+      "Faizon Love",
+      "Terrence Howard",
+      "Queen Latifah"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-perfect-holiday.html"
+}

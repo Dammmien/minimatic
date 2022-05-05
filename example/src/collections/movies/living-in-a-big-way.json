@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Living in a Big Way",
+    "year": 1947,
+    "cast": [
+      "Gene Kelly",
+      "Marie McDonald",
+      "Charles Winninger"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/living-in-a-big-way.html"
+}

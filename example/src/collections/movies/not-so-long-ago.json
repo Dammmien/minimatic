@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Not So Long Ago",
+    "year": 1925,
+    "cast": [
+      "Betty Bronson",
+      "Ricardo Cortez"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/not-so-long-ago.html"
+}

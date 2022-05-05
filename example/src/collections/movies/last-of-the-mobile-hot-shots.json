@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Last of the Mobile Hot Shots",
+    "year": 1970,
+    "cast": [
+      "James Coburn",
+      "Lynn Redgrave"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/last-of-the-mobile-hot-shots.html"
+}

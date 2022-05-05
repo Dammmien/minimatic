@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Young in Heart",
+    "year": 1938,
+    "cast": [
+      "Janet Gaynor",
+      "Douglas Fairbanks Jr.",
+      "Billie Burke"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-young-in-heart.html"
+}

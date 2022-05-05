@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Heart and Souls",
+    "year": 1993,
+    "cast": [
+      "Robert Downey, Jr.",
+      "Charles Grodin",
+      "Alfre Woodard",
+      "Elisabeth Shue",
+      "Kyra Sedgwick",
+      "Tom Sizemore",
+      "David Paymer"
+    ],
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/heart-and-souls.html"
+}

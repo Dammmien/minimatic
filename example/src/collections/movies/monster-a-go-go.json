@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Monster A Go-Go",
+    "year": 1965,
+    "cast": [
+      "June Travis",
+      "Phil Morton"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/monster-a-go-go.html"
+}

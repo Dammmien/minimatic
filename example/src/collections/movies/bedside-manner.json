@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bedside Manner",
+    "year": 1945,
+    "cast": [
+      "John Carroll",
+      "Ruth Hussey",
+      "Ann Rutherford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bedside-manner.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bride Came C.O.D.",
+    "year": 1941,
+    "cast": [
+      "James Cagney",
+      "Bette Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bride-came-c-o-d-.html"
+}

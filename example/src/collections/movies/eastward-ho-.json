@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eastward Ho!",
+    "year": 1919,
+    "cast": [
+      "William Russell",
+      "Johnny Hines"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/eastward-ho-.html"
+}

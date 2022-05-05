@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Vigilante Force",
+    "year": 1976,
+    "cast": [
+      "Kris Kristofferson",
+      "Jan-Michael Vincent",
+      "Victoria Principal"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/vigilante-force.html"
+}

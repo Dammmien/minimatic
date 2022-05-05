@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Death Warrant",
+    "year": 1990,
+    "cast": [
+      "Jean-Claude Van Damme"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/death-warrant.html"
+}

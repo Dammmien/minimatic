@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Whipsaw",
+    "year": 1935,
+    "cast": [
+      "Spencer Tracy",
+      "Myrna Loy",
+      "John Qualen"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/whipsaw.html"
+}

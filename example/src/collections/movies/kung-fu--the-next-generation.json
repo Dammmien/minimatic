@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Kung Fu: The Next Generation",
+    "year": 1987,
+    "cast": [
+      "Brandon Lee"
+    ],
+    "genres": [
+      "Martial Arts"
+    ]
+  },
+  "output": "movies/kung-fu--the-next-generation.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prelude to a Kiss",
+    "year": 1992,
+    "cast": [
+      "Alec Baldwin",
+      "Meg Ryan"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/prelude-to-a-kiss.html"
+}

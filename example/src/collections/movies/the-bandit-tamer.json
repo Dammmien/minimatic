@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bandit Tamer",
+    "year": 1925,
+    "cast": [
+      "Franklyn Farnum",
+      "Marguerite Clayton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-bandit-tamer.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Moontrap",
+    "year": 1989,
+    "cast": [
+      "Walter Koenig",
+      "Bruce Campbell"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/moontrap.html"
+}

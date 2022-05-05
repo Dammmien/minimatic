@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Women Everywhere",
+    "year": 1930,
+    "cast": [
+      "J. Harold Murray",
+      "Fifi D'Orsay"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/women-everywhere.html"
+}

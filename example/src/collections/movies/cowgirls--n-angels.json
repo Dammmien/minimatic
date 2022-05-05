@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Cowgirls 'n Angels",
+    "year": 2012,
+    "cast": [
+      "Bailee Madison",
+      "James Cromwell",
+      "Jackson Rathbone",
+      "Alicia Witt",
+      "Kathleen Rose Perkins",
+      "Frankie Faison"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/cowgirls--n-angels.html"
+}

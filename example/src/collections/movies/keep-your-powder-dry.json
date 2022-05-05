@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Keep Your Powder Dry",
+    "year": 1945,
+    "cast": [
+      "Lana Turner",
+      "Laraine Day",
+      "Susan Peters"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/keep-your-powder-dry.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gentleman from Nowhere",
+    "year": 1948,
+    "cast": [
+      "Warner Baxter",
+      "Fay Baker"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-gentleman-from-nowhere.html"
+}

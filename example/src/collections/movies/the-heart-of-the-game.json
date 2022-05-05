@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Heart of the Game",
+    "year": 2006,
+    "cast": [
+      "the",
+      "Roosevelt Roughriders",
+      "girls basketball team"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-heart-of-the-game.html"
+}

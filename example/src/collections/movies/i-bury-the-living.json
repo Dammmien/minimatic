@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Bury the Living",
+    "year": 1958,
+    "cast": [
+      "Richard Boone",
+      "Theodore Bikel"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/i-bury-the-living.html"
+}

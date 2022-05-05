@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Right Approach",
+    "year": 1961,
+    "cast": [
+      "Frankie Vaughan",
+      "Martha Hyer",
+      "Juliet Prowse"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-right-approach.html"
+}

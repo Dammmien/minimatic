@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Those Three French Girls",
+    "year": 1930,
+    "cast": [
+      "Fifi D'Orsay",
+      "Reginald Denny"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/those-three-french-girls.html"
+}

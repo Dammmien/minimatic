@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Great White Hype",
+    "year": 1996,
+    "cast": [
+      "Damon Wayans",
+      "Peter Berg",
+      "Jeff Goldblum",
+      "Samuel L. Jackson",
+      "Jamie Foxx"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-great-white-hype.html"
+}

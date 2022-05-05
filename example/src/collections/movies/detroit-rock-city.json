@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Detroit Rock City",
+    "year": 1999,
+    "cast": [
+      "Giuseppe Andrews",
+      "James DeBello",
+      "Edward Furlong",
+      "Sam Huntington",
+      "Lin Shaye",
+      "Melanie Lynskey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/detroit-rock-city.html"
+}

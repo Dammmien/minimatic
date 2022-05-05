@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rhapsody in Blue",
+    "year": 1945,
+    "cast": [
+      "Robert Alda",
+      "Alexis Smith"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/rhapsody-in-blue.html"
+}

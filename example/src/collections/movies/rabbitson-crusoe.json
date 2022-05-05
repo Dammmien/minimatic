@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Rabbitson Crusoe",
+    "year": 1956,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/rabbitson-crusoe.html"
+}

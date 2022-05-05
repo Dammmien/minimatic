@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beware of Bachelors",
+    "year": 1928,
+    "cast": [
+      "Audrey Ferris",
+      "William Collier Jr."
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/beware-of-bachelors.html"
+}

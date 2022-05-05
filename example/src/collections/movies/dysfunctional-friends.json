@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dysfunctional Friends",
+    "year": 2012,
+    "cast": [
+      "Stacey Dash",
+      "Reagan Gomez-Preston",
+      "Wesley Jonathan",
+      "Stacy Keibler",
+      "Terrell Owens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dysfunctional-friends.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Huckleberry Finn",
+    "year": 1974,
+    "cast": [
+      "Jeff East",
+      "Paul Winfield",
+      "David Wayne",
+      "Arthur O'Connell",
+      "Harvey Korman"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/huckleberry-finn.html"
+}

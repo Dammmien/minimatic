@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Peggy, the Will O' the Wisp",
+    "year": 1917,
+    "cast": [
+      "Mabel Taliaferro",
+      "Thomas Carrigan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/peggy--the-will-o--the-wisp.html"
+}

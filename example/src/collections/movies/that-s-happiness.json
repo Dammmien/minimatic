@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That's Happiness",
+    "year": 1911,
+    "cast": [
+      "William Garwood",
+      "Bertha Blanchard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/that-s-happiness.html"
+}

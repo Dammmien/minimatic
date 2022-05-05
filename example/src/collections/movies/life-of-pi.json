@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Life of Pi",
+    "year": 2012,
+    "cast": [
+      "Suraj Sharma",
+      "Irrfan Khan",
+      "Tabu",
+      "Rafe Spall",
+      "Gérard Depardieu"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ]
+  },
+  "output": "movies/life-of-pi.html"
+}

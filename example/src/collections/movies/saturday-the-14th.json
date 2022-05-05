@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Saturday the 14th",
+    "year": 1981,
+    "cast": [
+      "Richard Benjamin",
+      "Paula Prentiss",
+      "Severn Darden"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/saturday-the-14th.html"
+}

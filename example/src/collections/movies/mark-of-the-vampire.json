@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mark of the Vampire",
+    "year": 1935,
+    "cast": [
+      "Bela Lugosi",
+      "Lionel Barrymore",
+      "Elizabeth Allan"
+    ],
+    "genres": [
+      "Mystery",
+      "Horror"
+    ]
+  },
+  "output": "movies/mark-of-the-vampire.html"
+}

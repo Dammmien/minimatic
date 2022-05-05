@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Six Days",
+    "year": 1923,
+    "cast": [
+      "Corinne Griffith",
+      "Frank Mayo",
+      "Myrtle Stedman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/six-days.html"
+}

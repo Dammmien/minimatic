@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pardon My Rhythm",
+    "year": 1944,
+    "cast": [
+      "Gloria Jean",
+      "Marjorie Weaver",
+      "Mel Tormé"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/pardon-my-rhythm.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That Girl from Paris",
+    "year": 1937,
+    "cast": [
+      "Lily Pons",
+      "Jack Oakie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-girl-from-paris.html"
+}

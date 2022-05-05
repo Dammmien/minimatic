@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Human Experiments",
+    "year": 1979,
+    "cast": [
+      "Aldo Ray",
+      "Linda Haynes",
+      "Geoffrey Lewis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/human-experiments.html"
+}

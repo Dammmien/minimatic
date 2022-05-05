@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beyond the Law",
+    "year": 1934,
+    "cast": [
+      "Tim McCoy",
+      "Shirley Grey"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/beyond-the-law.html"
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Paul",
+    "year": 2011,
+    "cast": [
+      "Simon Pegg",
+      "Nick Frost",
+      "Jason Bateman",
+      "Kristen Wiig",
+      "Sigourney Weaver",
+      "Seth Rogen",
+      "(voice)",
+      "Bill Hader",
+      "Jane Lynch",
+      "Jeffrey Tambor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/paul.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Clock",
+    "year": 1945,
+    "cast": [
+      "Judy Garland",
+      "Robert Walker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-clock.html"
+}

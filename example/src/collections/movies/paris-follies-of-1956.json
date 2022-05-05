@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Paris Follies of 1956",
+    "year": 1955,
+    "cast": [
+      "Forrest Tucker",
+      "Margaret Whiting",
+      "Barbara Whiting",
+      "Martha Hyer"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/paris-follies-of-1956.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Kentucky",
+    "year": 1938,
+    "cast": [
+      "Loretta Young",
+      "Walter Brennan",
+      "Richard Greene"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/kentucky.html"
+}

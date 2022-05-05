@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Outlawed Guns",
+    "year": 1935,
+    "cast": [
+      "Buck Jones",
+      "Roy D'Arcy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/outlawed-guns.html"
+}

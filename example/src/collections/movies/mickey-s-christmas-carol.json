@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Mickey's Christmas Carol",
+    "year": 1983,
+    "cast": [],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/mickey-s-christmas-carol.html"
+}

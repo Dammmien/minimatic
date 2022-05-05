@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Indian Territory",
+    "year": 1950,
+    "cast": [
+      "Gene Autry",
+      "Gail Davis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/indian-territory.html"
+}

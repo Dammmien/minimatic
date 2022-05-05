@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Mean Girls",
+    "year": 2004,
+    "cast": [
+      "Lindsay Lohan",
+      "Rachel McAdams",
+      "Lacey Chabert",
+      "Amanda Seyfried",
+      "Tina Fey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mean-girls.html"
+}

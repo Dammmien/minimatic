@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Illegal Traffic",
+    "year": 1938,
+    "cast": [
+      "J. Carrol Naish",
+      "Mary Carlisle",
+      "Robert Preston"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/illegal-traffic.html"
+}

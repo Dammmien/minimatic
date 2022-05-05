@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Preview Murder Mystery",
+    "year": 1936,
+    "cast": [
+      "Reginald Denny",
+      "Frances Drake",
+      "Gail Patrick"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-preview-murder-mystery.html"
+}

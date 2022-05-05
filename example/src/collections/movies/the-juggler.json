@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Juggler",
+    "year": 1953,
+    "cast": [
+      "Kirk Douglas",
+      "Milly Vitale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-juggler.html"
+}

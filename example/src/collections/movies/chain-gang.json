@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chain Gang",
+    "year": 1950,
+    "cast": [
+      "Douglas Kennedy",
+      "Marjorie Lord"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/chain-gang.html"
+}

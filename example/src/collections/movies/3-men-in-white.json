@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "3 Men in White",
+    "year": 1944,
+    "cast": [
+      "Lionel Barrymore",
+      "Van Johnson",
+      "Marilyn Maxwell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/3-men-in-white.html"
+}

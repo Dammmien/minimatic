@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sasquatch Gang",
+    "year": 2006,
+    "cast": [
+      "Jeremy Sumpter",
+      "Justin Long",
+      "Joey Kern"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-sasquatch-gang.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Intersection",
+    "year": 1994,
+    "cast": [
+      "Richard Gere",
+      "Sharon Stone",
+      "Lolita Davidovich",
+      "Martin Landau"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/intersection.html"
+}

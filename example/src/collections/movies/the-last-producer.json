@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last Producer",
+    "year": 2000,
+    "cast": [
+      "Burt Reynolds",
+      "Rod Steiger",
+      "Benjamin Bratt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-last-producer.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cool and the Crazy",
+    "year": 1958,
+    "cast": [
+      "Scott Marlowe",
+      "Gigi Perreau"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-cool-and-the-crazy.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pathfinder",
+    "year": 2007,
+    "cast": [
+      "Karl Urban",
+      "Moon Bloodgood",
+      "Russell Means"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/pathfinder.html"
+}

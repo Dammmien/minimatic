@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Inkheart",
+    "year": 2008,
+    "cast": [
+      "Brendan Fraser",
+      "Eliza Bennett",
+      "Sienna Guillory",
+      "Paul Bettany",
+      "Helen Mirren",
+      "Andy Serkis"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/inkheart.html"
+}

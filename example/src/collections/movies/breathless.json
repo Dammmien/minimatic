@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Breathless",
+    "year": 1983,
+    "cast": [
+      "Richard Gere",
+      "Valérie Kaprisky"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/breathless.html"
+}

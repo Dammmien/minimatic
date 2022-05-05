@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Young Guns",
+    "year": 1956,
+    "cast": [
+      "Russ Tamblyn",
+      "Gloria Talbott"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-young-guns.html"
+}

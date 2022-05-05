@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Grudge",
+    "year": 2004,
+    "cast": [
+      "Sarah Michelle Gellar"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-grudge.html"
+}

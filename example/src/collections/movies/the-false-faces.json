@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The False Faces",
+    "year": 1919,
+    "cast": [
+      "Henry B. Walthall",
+      "Lon Chaney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-false-faces.html"
+}

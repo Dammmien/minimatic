@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bridget Jones: The Edge of Reason",
+    "year": 2004,
+    "cast": [
+      "Renée Zellweger",
+      "Colin Firth",
+      "Hugh Grant"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/bridget-jones--the-edge-of-reason.html"
+}

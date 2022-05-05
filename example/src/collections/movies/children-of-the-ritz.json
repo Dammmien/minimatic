@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Children of the Ritz",
+    "year": 1929,
+    "cast": [
+      "Dorothy Mackaill",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/children-of-the-ritz.html"
+}

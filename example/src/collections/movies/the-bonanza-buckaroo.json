@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bonanza Buckaroo",
+    "year": 1926,
+    "cast": [
+      "Jay Wilsey",
+      "Lafe McKee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-bonanza-buckaroo.html"
+}

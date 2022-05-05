@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hopalong Cassidy Returns",
+    "year": 1936,
+    "cast": [
+      "William Boyd",
+      "Gabby Hayes",
+      "Gail Sheridan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hopalong-cassidy-returns.html"
+}

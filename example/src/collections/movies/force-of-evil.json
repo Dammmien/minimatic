@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Force of Evil",
+    "year": 1948,
+    "cast": [
+      "John Garfield",
+      "Beatrice Pearson"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/force-of-evil.html"
+}

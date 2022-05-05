@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Irish Eyes Are Smiling",
+    "year": 1944,
+    "cast": [
+      "Monty Woolley",
+      "June Haver"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/irish-eyes-are-smiling.html"
+}

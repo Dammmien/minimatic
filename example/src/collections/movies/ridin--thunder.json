@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ridin' Thunder",
+    "year": 1925,
+    "cast": [
+      "Jack Hoxie",
+      "Katherine Grant"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ridin--thunder.html"
+}

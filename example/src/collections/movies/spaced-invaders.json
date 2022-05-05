@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Spaced Invaders",
+    "year": 1990,
+    "cast": [
+      "Douglas Barr"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/spaced-invaders.html"
+}

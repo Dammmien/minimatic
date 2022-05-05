@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Alaskan",
+    "year": 1924,
+    "cast": [
+      "Thomas Meighan",
+      "Estelle Taylor"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-alaskan.html"
+}

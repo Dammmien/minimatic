@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Adorable Cheat",
+    "year": 1928,
+    "cast": [
+      "Lila Lee",
+      "Reginald Sheffield"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-adorable-cheat.html"
+}

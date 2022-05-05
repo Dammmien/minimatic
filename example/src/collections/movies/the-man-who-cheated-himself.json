@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man Who Cheated Himself",
+    "year": 1950,
+    "cast": [
+      "Lee J. Cobb",
+      "Jane Wyatt",
+      "John Dall"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-man-who-cheated-himself.html"
+}

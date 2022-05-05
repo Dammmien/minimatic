@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Viva Knievel!",
+    "year": 1977,
+    "cast": [
+      "Evel Knievel",
+      "Lauren Hutton",
+      "Gene Kelly"
+    ],
+    "genres": [
+      "Action",
+      "Biography"
+    ]
+  },
+  "output": "movies/viva-knievel-.html"
+}

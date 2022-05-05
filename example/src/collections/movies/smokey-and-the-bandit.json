@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Smokey and the Bandit",
+    "year": 1977,
+    "cast": [
+      "Burt Reynolds",
+      "Jackie Gleason",
+      "Sally Field",
+      "Jerry Reed"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/smokey-and-the-bandit.html"
+}

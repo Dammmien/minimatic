@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Racket Man",
+    "year": 1944,
+    "cast": [
+      "Hugh Beaumont",
+      "Tom Neal",
+      "Jeanne Bates"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-racket-man.html"
+}

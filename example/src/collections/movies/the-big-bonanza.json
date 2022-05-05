@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Bonanza",
+    "year": 1944,
+    "cast": [
+      "Jane Frazee",
+      "Richard Arlen",
+      "Lynne Roberts"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-big-bonanza.html"
+}

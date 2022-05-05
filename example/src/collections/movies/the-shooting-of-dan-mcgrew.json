@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Shooting of Dan McGrew",
+    "year": 1924,
+    "cast": [
+      "Barbara La Marr",
+      "Lew Cody",
+      "Mae Busch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-shooting-of-dan-mcgrew.html"
+}

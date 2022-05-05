@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Spaniard",
+    "year": 1925,
+    "cast": [
+      "Ricardo Cortez",
+      "Jetta Goudal"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-spaniard.html"
+}

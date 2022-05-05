@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Shrimp on the Barbie",
+    "year": 1990,
+    "cast": [
+      "Cheech Marin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-shrimp-on-the-barbie.html"
+}

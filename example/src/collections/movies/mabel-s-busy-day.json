@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mabel's Busy Day",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Mabel Normand"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mabel-s-busy-day.html"
+}

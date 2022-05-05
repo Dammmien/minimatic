@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Money Trap",
+    "year": 1965,
+    "cast": [
+      "Glenn Ford",
+      "Elke Sommer",
+      "Rita Hayworth"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-money-trap.html"
+}

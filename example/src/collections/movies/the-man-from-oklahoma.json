@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man from Oklahoma",
+    "year": 1945,
+    "cast": [
+      "Roy Rogers",
+      "Dale Evans"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-man-from-oklahoma.html"
+}

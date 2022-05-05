@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Romantic Englishwoman",
+    "year": 1975,
+    "cast": [
+      "Glenda Jackson",
+      "Michael Caine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-romantic-englishwoman.html"
+}

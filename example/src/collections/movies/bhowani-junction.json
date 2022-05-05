@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bhowani Junction",
+    "year": 1956,
+    "cast": [
+      "Ava Gardner",
+      "Stewart Granger",
+      "Bill Travers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bhowani-junction.html"
+}

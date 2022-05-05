@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "4 Devils",
+    "year": 1928,
+    "cast": [
+      "Janet Gaynor",
+      "Anders Randolf"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/4-devils.html"
+}

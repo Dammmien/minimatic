@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thrill of a Romance",
+    "year": 1945,
+    "cast": [
+      "Van Johnson",
+      "Esther Williams",
+      "Frances Gifford"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/thrill-of-a-romance.html"
+}

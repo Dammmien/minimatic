@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "She Got What She Wanted",
+    "year": 1930,
+    "cast": [
+      "Betty Compson",
+      "Lee Tracy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-got-what-she-wanted.html"
+}

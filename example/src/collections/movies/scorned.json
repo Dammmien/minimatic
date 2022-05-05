@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Scorned",
+    "year": 2014,
+    "cast": [
+      "AnnaLynne McCord",
+      "Billy Zane",
+      "Viva Bianca"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/scorned.html"
+}

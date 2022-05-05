@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Border Sheriff",
+    "year": 1926,
+    "cast": [
+      "Jack Hoxie",
+      "Olive Hasbrouck"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-border-sheriff.html"
+}

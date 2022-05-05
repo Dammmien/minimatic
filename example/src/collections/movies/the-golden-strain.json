@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Golden Strain",
+    "year": 1925,
+    "cast": [
+      "Hobart Bosworth",
+      "Kenneth Harlan",
+      "Madge Bellamy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-golden-strain.html"
+}

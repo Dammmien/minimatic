@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Young Adult",
+    "year": 2011,
+    "cast": [
+      "Charlize Theron",
+      "Patton Oswalt",
+      "Patrick Wilson",
+      "Elizabeth Reaser",
+      "J. K. Simmons",
+      "Collette Wolfe",
+      "Hettienne Park"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/young-adult.html"
+}

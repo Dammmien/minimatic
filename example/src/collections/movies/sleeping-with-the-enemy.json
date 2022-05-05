@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sleeping with the Enemy",
+    "year": 1991,
+    "cast": [
+      "Julia Roberts",
+      "Patrick Bergin",
+      "Kevin Anderson"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/sleeping-with-the-enemy.html"
+}

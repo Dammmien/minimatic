@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Escape Artist",
+    "year": 1982,
+    "cast": [
+      "Raúl Juliá",
+      "Griffin O'Neal",
+      "Teri Garr",
+      "Desi Arnaz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-escape-artist.html"
+}

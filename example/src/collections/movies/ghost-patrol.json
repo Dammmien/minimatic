@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ghost Patrol",
+    "year": 1936,
+    "cast": [
+      "Tim McCoy",
+      "Claudia Dell"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/ghost-patrol.html"
+}

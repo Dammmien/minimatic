@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Colorado Territory",
+    "year": 1949,
+    "cast": [
+      "Joel McCrea",
+      "Virginia Mayo"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/colorado-territory.html"
+}

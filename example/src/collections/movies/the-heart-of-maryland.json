@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Heart of Maryland",
+    "year": 1927,
+    "cast": [
+      "Dolores Costello",
+      "Jason Robards Sr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-heart-of-maryland.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Road Agent",
+    "year": 1925,
+    "cast": [
+      "Al Hoxie",
+      "Lew Meehan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-road-agent.html"
+}

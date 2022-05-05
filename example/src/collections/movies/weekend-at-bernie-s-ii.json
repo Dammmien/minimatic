@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Weekend at Bernie's II",
+    "year": 1993,
+    "cast": [
+      "Andrew McCarthy",
+      "Jonathan Silverman",
+      "Terry Kiser"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/weekend-at-bernie-s-ii.html"
+}

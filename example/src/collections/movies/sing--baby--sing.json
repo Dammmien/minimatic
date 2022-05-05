@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sing, Baby, Sing",
+    "year": 1936,
+    "cast": [
+      "Alice Faye",
+      "Adolphe Menjou",
+      "Gregory Ratoff"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/sing--baby--sing.html"
+}

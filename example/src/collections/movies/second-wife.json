@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Second Wife",
+    "year": 1936,
+    "cast": [
+      "Gertrude Michael",
+      "Walter Abel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/second-wife.html"
+}

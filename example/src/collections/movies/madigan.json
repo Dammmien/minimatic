@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Madigan",
+    "year": 1968,
+    "cast": [
+      "Richard Widmark",
+      "Henry Fonda",
+      "Inger Stevens",
+      "James Whitmore",
+      "Harry Guardino",
+      "Susan Clark"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/madigan.html"
+}

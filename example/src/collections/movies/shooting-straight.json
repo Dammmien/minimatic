@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shooting Straight",
+    "year": 1930,
+    "cast": [
+      "Richard Dix",
+      "James Neill"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/shooting-straight.html"
+}

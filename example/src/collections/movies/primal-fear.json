@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Primal Fear",
+    "year": 1996,
+    "cast": [
+      "Richard Gere",
+      "Edward Norton",
+      "Laura Linney",
+      "John Mahoney",
+      "Alfre Woodard",
+      "Frances McDormand",
+      "Andre Braugher"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/primal-fear.html"
+}

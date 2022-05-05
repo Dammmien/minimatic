@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jaws of Steel",
+    "year": 1927,
+    "cast": [
+      "Rin Tin Tin",
+      "Jason Robards Sr.",
+      "Helen Ferguson"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/jaws-of-steel.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wanderer",
+    "year": 1925,
+    "cast": [
+      "Greta Nissen",
+      "Wallace Beery",
+      "Tyrone Power Sr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wanderer.html"
+}

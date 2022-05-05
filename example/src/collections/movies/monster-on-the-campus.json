@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Monster on the Campus",
+    "year": 1958,
+    "cast": [
+      "Arthur Franz",
+      "Joanna Moore"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/monster-on-the-campus.html"
+}

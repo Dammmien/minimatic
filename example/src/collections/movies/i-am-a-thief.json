@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "I Am a Thief",
+    "year": 1934,
+    "cast": [
+      "Mary Astor",
+      "Ricardo Cortez",
+      "Dudley Digges"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/i-am-a-thief.html"
+}

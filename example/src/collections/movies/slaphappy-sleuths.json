@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Slaphappy Sleuths",
+    "year": 1950,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/slaphappy-sleuths.html"
+}

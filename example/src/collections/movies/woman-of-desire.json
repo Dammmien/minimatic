@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Woman of Desire",
+    "year": 1993,
+    "cast": [
+      "Bo Derek",
+      "Robert Mitchum",
+      "Jeff Fahey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/woman-of-desire.html"
+}

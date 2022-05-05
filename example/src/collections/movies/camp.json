@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Camp",
+    "year": 2003,
+    "cast": [
+      "Daniel Letterle",
+      "Joanna Chilcoat",
+      "Robin de Jesus"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/camp.html"
+}

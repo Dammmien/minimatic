@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Silent Fall",
+    "year": 1994,
+    "cast": [
+      "Richard Dreyfuss",
+      "Linda Hamilton",
+      "John Lithgow",
+      "Liv Tyler"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/silent-fall.html"
+}

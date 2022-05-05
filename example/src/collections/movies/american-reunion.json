@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "American Reunion",
+    "year": 2012,
+    "cast": [
+      "Jason Biggs",
+      "Alyson Hannigan",
+      "Thomas Ian Nicholas",
+      "Chris Klein",
+      "Seann William Scott",
+      "Eddie Kaye Thomas",
+      "Tara Reid",
+      "Shannon Elizabeth",
+      "Natasha Lyonne",
+      "Mena Suvari",
+      "Chris Owen",
+      "Eugene Levy",
+      "Jennifer Coolidge",
+      "John Cho",
+      "Katrina Bowden",
+      "Jay Harrington"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/american-reunion.html"
+}

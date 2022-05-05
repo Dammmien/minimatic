@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Artifact",
+    "year": 2013,
+    "cast": [
+      "The making of",
+      "Thirty Seconds to Mars",
+      "' album",
+      "This Is War"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/artifact.html"
+}

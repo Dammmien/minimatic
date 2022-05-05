@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Week-End Marriage",
+    "year": 1932,
+    "cast": [
+      "Loretta Young",
+      "Norman Foster"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/week-end-marriage.html"
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Hotel Transylvania",
+    "year": 2012,
+    "cast": [
+      "Adam Sandler",
+      "Andy Samberg",
+      "Selena Gomez",
+      "Kevin James",
+      "Fran Drescher",
+      "Steve Buscemi",
+      "Molly Shannon",
+      "David Spade",
+      "Cee Lo Green"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hotel-transylvania.html"
+}

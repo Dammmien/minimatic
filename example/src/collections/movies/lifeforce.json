@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lifeforce",
+    "year": 1985,
+    "cast": [
+      "Steve Railsback",
+      "Mathilda May"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/lifeforce.html"
+}

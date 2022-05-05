@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Duets",
+    "year": 2000,
+    "cast": [
+      "Maria Bello",
+      "Andre Braugher",
+      "Paul Giamatti",
+      "Huey Lewis",
+      "Gwyneth Paltrow",
+      "Angie Dickinson"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/duets.html"
+}

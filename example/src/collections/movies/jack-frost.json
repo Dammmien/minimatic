@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Jack Frost",
+    "year": 1998,
+    "cast": [
+      "Michael Keaton",
+      "Kelly Preston",
+      "Joseph Cross",
+      "Mark Addy",
+      "Henry Rollins"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/jack-frost.html"
+}

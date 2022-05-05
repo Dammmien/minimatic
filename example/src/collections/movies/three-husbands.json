@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Husbands",
+    "year": 1951,
+    "cast": [
+      "Eve Arden",
+      "Ruth Warrick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-husbands.html"
+}

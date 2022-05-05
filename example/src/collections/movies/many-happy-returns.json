@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Many Happy Returns",
+    "year": 1934,
+    "cast": [
+      "Gracie Allen",
+      "George Burns",
+      "George Barbier"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/many-happy-returns.html"
+}

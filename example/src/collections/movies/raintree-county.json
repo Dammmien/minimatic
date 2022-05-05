@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Raintree County",
+    "year": 1957,
+    "cast": [
+      "Montgomery Clift",
+      "Eva Marie Saint",
+      "Elizabeth Taylor",
+      "Rod Taylor",
+      "Agnes Moorehead",
+      "Lee Marvin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/raintree-county.html"
+}

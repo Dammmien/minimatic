@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Zapped!",
+    "year": 1982,
+    "cast": [
+      "Scott Baio",
+      "Willie Aames"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/zapped-.html"
+}

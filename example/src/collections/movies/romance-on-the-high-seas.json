@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Romance on the High Seas",
+    "year": 1948,
+    "cast": [
+      "Jack Carson",
+      "Janis Paige",
+      "Doris Day"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/romance-on-the-high-seas.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sunchaser",
+    "year": 1996,
+    "cast": [
+      "Woody Harrelson",
+      "Jon Seda"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sunchaser.html"
+}

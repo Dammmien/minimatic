@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Desert Rats",
+    "year": 1953,
+    "cast": [
+      "Richard Burton",
+      "James Mason",
+      "Robert Newton"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-desert-rats.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Unlikely Angel",
+    "year": 1996,
+    "cast": [
+      "Dolly Parton",
+      "Roddy McDowall"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/unlikely-angel.html"
+}

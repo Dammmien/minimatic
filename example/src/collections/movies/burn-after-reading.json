@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Burn After Reading",
+    "year": 2008,
+    "cast": [
+      "George Clooney",
+      "Frances McDormand",
+      "John Malkovich",
+      "Tilda Swinton",
+      "Brad Pitt",
+      "Richard Jenkins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/burn-after-reading.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Enemy of the State",
+    "year": 1998,
+    "cast": [
+      "Will Smith",
+      "Gene Hackman",
+      "Jon Voight",
+      "Barry Pepper",
+      "Regina King",
+      "Lisa Bonet"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/enemy-of-the-state.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Passionate Youth",
+    "year": 1925,
+    "cast": [
+      "Beverly Bayne",
+      "Frank Mayo",
+      "Pauline Garon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/passionate-youth.html"
+}

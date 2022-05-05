@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sons of Steel",
+    "year": 1934,
+    "cast": [
+      "Charles Starrett",
+      "Polly Ann Young"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sons-of-steel.html"
+}

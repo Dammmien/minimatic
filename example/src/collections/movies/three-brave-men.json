@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Brave Men",
+    "year": 1956,
+    "cast": [
+      "Ray Milland",
+      "Ernest Borgnine",
+      "Nina Foch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/three-brave-men.html"
+}

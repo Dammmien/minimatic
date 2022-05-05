@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "True Crime",
+    "year": 1999,
+    "cast": [
+      "Clint Eastwood",
+      "Isaiah Washington",
+      "Denis Leary"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/true-crime.html"
+}

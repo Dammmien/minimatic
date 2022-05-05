@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Frontier Investigator",
+    "year": 1949,
+    "cast": [
+      "Allan Lane",
+      "Gail Davis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/frontier-investigator.html"
+}

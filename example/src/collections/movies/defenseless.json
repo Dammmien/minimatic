@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Defenseless",
+    "year": 1991,
+    "cast": [
+      "Barbara Hershey",
+      "Sam Shepard",
+      "J.T. Walsh"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/defenseless.html"
+}

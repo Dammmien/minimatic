@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Purple Heart",
+    "year": 1944,
+    "cast": [
+      "Dana Andrews",
+      "Richard Conte",
+      "Farley Granger"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-purple-heart.html"
+}

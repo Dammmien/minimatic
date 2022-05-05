@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Jurassic World",
+    "year": 2015,
+    "cast": [
+      "Vincent D'Onofrio",
+      "Judy Greer",
+      "Chris Pratt"
+    ],
+    "genres": [
+      "Adventure",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/jurassic-world.html"
+}

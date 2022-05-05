@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Miss Tatlock's Millions",
+    "year": 1948,
+    "cast": [
+      "John Lund",
+      "Wanda Hendrix",
+      "Barry Fitzgerald"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/miss-tatlock-s-millions.html"
+}

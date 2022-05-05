@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "American Graffiti",
+    "year": 1973,
+    "cast": [
+      "Richard Dreyfuss",
+      "Ron Howard",
+      "Candy Clark",
+      "Harrison Ford",
+      "Cindy Williams",
+      "Paul Le Mat",
+      "Mackenzie Phillips",
+      "Charles Martin Smith"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/american-graffiti.html"
+}

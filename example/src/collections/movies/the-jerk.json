@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Jerk",
+    "year": 1979,
+    "cast": [
+      "Steve Martin",
+      "Bernadette Peters"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-jerk.html"
+}

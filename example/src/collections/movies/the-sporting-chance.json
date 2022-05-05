@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sporting Chance",
+    "year": 1925,
+    "cast": [
+      "Lou Tellegen",
+      "Dorothy Phillips"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/the-sporting-chance.html"
+}

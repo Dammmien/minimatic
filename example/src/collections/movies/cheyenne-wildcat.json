@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cheyenne Wildcat",
+    "year": 1944,
+    "cast": [
+      "Bill Elliott",
+      "Robert Blake",
+      "Alice Fleming"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cheyenne-wildcat.html"
+}

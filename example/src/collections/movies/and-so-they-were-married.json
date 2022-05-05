@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "And So They Were Married",
+    "year": 1936,
+    "cast": [
+      "Mary Astor",
+      "Melvyn Douglas",
+      "Edith Fellows"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/and-so-they-were-married.html"
+}

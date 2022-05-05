@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Paperboy",
+    "year": 2012,
+    "cast": [
+      "Matthew McConaughey",
+      "Zac Efron",
+      "John Cusack",
+      "Nicole Kidman",
+      "David Oyelowo",
+      "Macy Gray",
+      "(narrator)",
+      "Scott Glenn",
+      "Nikolette Noel",
+      "Ned Bellamy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-paperboy.html"
+}

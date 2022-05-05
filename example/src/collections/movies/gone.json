@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Gone",
+    "year": 2012,
+    "cast": [
+      "Amanda Seyfried",
+      "Daniel Sunjata",
+      "Jennifer Carpenter",
+      "Sebastian Stan",
+      "Wes Bentley"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/gone.html"
+}

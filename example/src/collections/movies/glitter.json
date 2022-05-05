@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Glitter",
+    "year": 2001,
+    "cast": [
+      "Mariah Carey",
+      "Max Beesley",
+      "Terrence Howard",
+      "Ann Magnuson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/glitter.html"
+}

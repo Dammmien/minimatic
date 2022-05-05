@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Winchester '73",
+    "year": 1950,
+    "cast": [
+      "James Stewart",
+      "Dan Duryea",
+      "Shelley Winters",
+      "Stephen McNally",
+      "Will Geer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/winchester--73.html"
+}

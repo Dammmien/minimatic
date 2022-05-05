@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ferris Bueller's Day Off",
+    "year": 1986,
+    "cast": [
+      "Matthew Broderick",
+      "Alan Ruck",
+      "Mia Sara",
+      "Jennifer Grey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ferris-bueller-s-day-off.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "King Kong Lives",
+    "year": 1986,
+    "cast": [
+      "Linda Hamilton",
+      "Brian Kerwin"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/king-kong-lives.html"
+}

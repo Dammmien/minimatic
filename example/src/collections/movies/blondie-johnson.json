@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blondie Johnson",
+    "year": 1933,
+    "cast": [
+      "Joan Blondell",
+      "Chester Morris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blondie-johnson.html"
+}

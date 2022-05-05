@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Forty-Niners",
+    "year": 1954,
+    "cast": [
+      "Bill Elliott",
+      "Virginia Grey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-forty-niners.html"
+}

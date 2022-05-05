@@ -1,0 +1,29 @@
+{
+  "data": {
+    "title": "Cats & Dogs: The Revenge of Kitty Galore",
+    "year": 2010,
+    "cast": [
+      "Christina Applegate",
+      "Michael Clarke Duncan",
+      "Neil Patrick Harris",
+      "Sean Hayes",
+      "James Marsden",
+      "Bette Midler",
+      "Nick Nolte",
+      "Joe Pantoliano",
+      "Katt Williams",
+      "Chris O'Donnell",
+      "Jack McBrayer",
+      "Fred Armisen",
+      "Paul Rodriguez",
+      "Alec Baldwin",
+      "Roger Moore"
+    ],
+    "genres": [
+      "Family",
+      "Live Action",
+      "Animated"
+    ]
+  },
+  "output": "movies/cats---dogs--the-revenge-of-kitty-galore.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Court Jester",
+    "year": 1956,
+    "cast": [
+      "Danny Kaye",
+      "Basil Rathbone",
+      "Angela Lansbury"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-court-jester.html"
+}

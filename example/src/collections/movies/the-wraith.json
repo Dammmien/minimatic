@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Wraith",
+    "year": 1986,
+    "cast": [
+      "Charlie Sheen",
+      "Sherilyn Fenn",
+      "Nick Cassavetes",
+      "Randy Quaid"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-wraith.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Blondes in His Life",
+    "year": 1961,
+    "cast": [
+      "Jock Mahoney",
+      "Greta Thyssen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-blondes-in-his-life.html"
+}

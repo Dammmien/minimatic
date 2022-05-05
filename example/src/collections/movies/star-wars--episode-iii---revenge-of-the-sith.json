@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Star Wars: Episode III – Revenge of the Sith",
+    "year": 2005,
+    "cast": [
+      "Ewan McGregor",
+      "Hayden Christensen",
+      "Natalie Portman",
+      "Ian McDiarmid",
+      "Samuel L. Jackson",
+      "Jimmy Smits"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Action"
+    ]
+  },
+  "output": "movies/star-wars--episode-iii---revenge-of-the-sith.html"
+}

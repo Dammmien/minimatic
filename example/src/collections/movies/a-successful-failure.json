@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Successful Failure",
+    "year": 1934,
+    "cast": [
+      "Russell Hopton",
+      "Gloria Shea",
+      "Jameson Thomas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-successful-failure.html"
+}

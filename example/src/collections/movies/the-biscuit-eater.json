@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Biscuit Eater",
+    "year": 1940,
+    "cast": [
+      "Billy Lee",
+      "Cordell Hickman",
+      "Richard Lane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-biscuit-eater.html"
+}

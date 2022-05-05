@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Hotel New Hampshire",
+    "year": 1984,
+    "cast": [
+      "Jodie Foster",
+      "Beau Bridges",
+      "Rob Lowe",
+      "Nastassja Kinski",
+      "Anita Morris",
+      "Matthew Modine"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hotel-new-hampshire.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Fighting Colleen",
+    "year": 1919,
+    "cast": [
+      "Bessie Love",
+      "Anne Schaefer"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-fighting-colleen.html"
+}

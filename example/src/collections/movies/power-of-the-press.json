@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Power of the Press",
+    "year": 1943,
+    "cast": [
+      "Guy Kibbee",
+      "Gloria Dickson",
+      "Lee Tracy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/power-of-the-press.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bowery Boys Meet the Monsters",
+    "year": 1954,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bowery-boys-meet-the-monsters.html"
+}

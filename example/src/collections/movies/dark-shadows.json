@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Dark Shadows",
+    "year": 2012,
+    "cast": [
+      "Johnny Depp",
+      "Michelle Pfeiffer",
+      "Helena Bonham Carter",
+      "Eva Green",
+      "Jackie Earle Haley",
+      "Bella Heathcote",
+      "Chloë Grace Moretz",
+      "Jonny Lee Miller",
+      "Gulliver McGrath"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/dark-shadows.html"
+}

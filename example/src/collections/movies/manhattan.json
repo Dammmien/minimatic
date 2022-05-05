@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Manhattan",
+    "year": 1979,
+    "cast": [
+      "Woody Allen",
+      "Diane Keaton",
+      "Mariel Hemingway",
+      "Meryl Streep"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/manhattan.html"
+}

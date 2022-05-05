@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Stranger from Ponca City",
+    "year": 1947,
+    "cast": [
+      "Charles Starrett",
+      "Smiley Burnette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-stranger-from-ponca-city.html"
+}

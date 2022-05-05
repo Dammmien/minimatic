@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Dark Star",
+    "year": 1974,
+    "cast": [
+      "Dan O'Bannon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dark-star.html"
+}

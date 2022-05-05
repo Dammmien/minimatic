@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Once Is Not Enough",
+    "year": 1975,
+    "cast": [
+      "Kirk Douglas",
+      "Alexis Smith",
+      "David Janssen",
+      "Deborah Raffin",
+      "Brenda Vaccaro",
+      "George Hamilton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/once-is-not-enough.html"
+}

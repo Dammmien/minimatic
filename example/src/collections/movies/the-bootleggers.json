@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bootleggers",
+    "year": 1922,
+    "cast": [
+      "Walter Miller",
+      "Paul Panzer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bootleggers.html"
+}

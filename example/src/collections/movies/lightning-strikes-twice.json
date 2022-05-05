@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lightning Strikes Twice",
+    "year": 1951,
+    "cast": [
+      "Ruth Roman",
+      "Richard Todd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lightning-strikes-twice.html"
+}

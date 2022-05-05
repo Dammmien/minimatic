@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "27 Dresses",
+    "year": 2008,
+    "cast": [
+      "Katherine Heigl",
+      "James Marsden",
+      "Malin Åkerman",
+      "Edward Burns",
+      "Judy Greer"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/27-dresses.html"
+}

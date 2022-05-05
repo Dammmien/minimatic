@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Number, Please?",
+    "year": 1920,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/number--please-.html"
+}

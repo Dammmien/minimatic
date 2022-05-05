@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "In the Heart of the Sea",
+    "year": 2015,
+    "cast": [
+      "Chris Hemsworth",
+      "Benjamin Walker",
+      "Cillian Murphy",
+      "Ben Whishaw"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/in-the-heart-of-the-sea.html"
+}

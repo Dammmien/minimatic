@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Snowboard Academy",
+    "year": 1996,
+    "cast": [
+      "Corey Haim",
+      "Jim Varney",
+      "Brigitte Nielsen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/snowboard-academy.html"
+}

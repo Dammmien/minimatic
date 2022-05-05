@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hollywood Varieties",
+    "year": 1950,
+    "cast": [
+      "Robert Alda",
+      "Peggy Stewart"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hollywood-varieties.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shadows in the Night",
+    "year": 1944,
+    "cast": [
+      "Warner Baxter",
+      "Nina Foch"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/shadows-in-the-night.html"
+}

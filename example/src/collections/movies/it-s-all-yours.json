@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It's All Yours",
+    "year": 1937,
+    "cast": [
+      "Madeleine Carroll",
+      "Mischa Auer",
+      "Francis Lederer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-all-yours.html"
+}

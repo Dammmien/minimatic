@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Guy",
+    "year": 1939,
+    "cast": [
+      "Victor McLaglen",
+      "Jackie Cooper",
+      "Ona Munson"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-big-guy.html"
+}

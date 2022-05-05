@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love Hungry",
+    "year": 1928,
+    "cast": [
+      "Lois Moran",
+      "Marjorie Beebe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-hungry.html"
+}

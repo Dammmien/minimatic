@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lost & Found",
+    "year": 1999,
+    "cast": [
+      "David Spade",
+      "Sophie Marceau",
+      "Martin Sheen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lost---found.html"
+}

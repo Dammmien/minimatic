@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "House on Haunted Hill",
+    "year": 1999,
+    "cast": [
+      "Geoffrey Rush",
+      "Famke Janssen",
+      "Taye Diggs",
+      "Peter Gallagher",
+      "Chris Kattan",
+      "Ali Larter",
+      "Bridgette Wilson",
+      "Max Perlich"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/house-on-haunted-hill.html"
+}

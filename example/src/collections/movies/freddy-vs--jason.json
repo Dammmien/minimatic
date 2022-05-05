@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Freddy vs. Jason",
+    "year": 2003,
+    "cast": [
+      "Robert Englund",
+      "Ken Kirzinger",
+      "Monica Keena",
+      "Jason Ritter"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/freddy-vs--jason.html"
+}

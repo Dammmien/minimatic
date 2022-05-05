@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Bunny Hugged",
+    "year": 1951,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/bunny-hugged.html"
+}

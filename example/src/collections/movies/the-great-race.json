@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Great Race",
+    "year": 1965,
+    "cast": [
+      "Tony Curtis",
+      "Natalie Wood",
+      "Jack Lemmon",
+      "Peter Falk"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-great-race.html"
+}

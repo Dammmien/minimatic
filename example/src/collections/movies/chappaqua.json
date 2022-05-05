@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chappaqua",
+    "year": 1966,
+    "cast": [
+      "Jean-Louis Barrault",
+      "William S. Burroughs"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/chappaqua.html"
+}

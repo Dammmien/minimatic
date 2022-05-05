@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Power Inside",
+    "year": 2013,
+    "cast": [
+      "Harvey Keitel",
+      "Analeigh Tipton",
+      "Craig Roberts",
+      "Reid Ewing",
+      "Zack Pearlman"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-power-inside.html"
+}

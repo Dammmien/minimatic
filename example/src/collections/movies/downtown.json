@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Downtown",
+    "year": 1990,
+    "cast": [
+      "Anthony Edwards",
+      "Forest Whitaker",
+      "Joe Pantoliano",
+      "Penelope Ann Miller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/downtown.html"
+}

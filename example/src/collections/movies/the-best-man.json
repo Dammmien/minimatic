@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Best Man",
+    "year": 1999,
+    "cast": [
+      "Taye Diggs",
+      "Monica Calhoun",
+      "Morris Chestnut",
+      "Nia Long"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-best-man.html"
+}

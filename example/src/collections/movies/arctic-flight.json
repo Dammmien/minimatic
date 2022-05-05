@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Arctic Flight",
+    "year": 1952,
+    "cast": [
+      "Wayne Morris",
+      "Lola Albright"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/arctic-flight.html"
+}

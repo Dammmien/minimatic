@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Traffic in Crime",
+    "year": 1946,
+    "cast": [
+      "Kane Richmond",
+      "Anne Nagel",
+      "Adele Mara"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/traffic-in-crime.html"
+}

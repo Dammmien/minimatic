@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Champagne Waltz",
+    "year": 1937,
+    "cast": [
+      "Fred MacMurray",
+      "Jack Oakie",
+      "Vivienne Osborne"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/champagne-waltz.html"
+}

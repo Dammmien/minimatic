@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Port of Seven Seas",
+    "year": 1938,
+    "cast": [
+      "Wallace Beery",
+      "Maureen O'Sullivan",
+      "Frank Morgan"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/port-of-seven-seas.html"
+}

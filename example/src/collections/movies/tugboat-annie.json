@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tugboat Annie",
+    "year": 1933,
+    "cast": [
+      "Marie Dressler",
+      "Wallace Beery",
+      "Maureen O'Sullivan"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/tugboat-annie.html"
+}

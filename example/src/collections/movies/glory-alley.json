@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Glory Alley",
+    "year": 1952,
+    "cast": [
+      "Ralph Meeker",
+      "Leslie Caron"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/glory-alley.html"
+}

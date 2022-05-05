@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Final Hour",
+    "year": 1936,
+    "cast": [
+      "Ralph Bellamy",
+      "Marguerite Churchill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-final-hour.html"
+}

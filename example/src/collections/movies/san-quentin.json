@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "San Quentin",
+    "year": 1946,
+    "cast": [
+      "Lawrence Tierney",
+      "Barton MacLane",
+      "Carol Forman"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/san-quentin.html"
+}

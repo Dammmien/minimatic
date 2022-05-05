@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Joe Palooka in Triple Cross",
+    "year": 1951,
+    "cast": [
+      "Joe Kirkwood",
+      "Cathy Downs",
+      "James Gleason"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/joe-palooka-in-triple-cross.html"
+}

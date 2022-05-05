@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Small Town Girl",
+    "year": 1953,
+    "cast": [
+      "Jane Powell",
+      "Farley Granger",
+      "Ann Miller"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/small-town-girl.html"
+}

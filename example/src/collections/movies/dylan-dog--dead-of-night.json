@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Dylan Dog: Dead of Night",
+    "year": 2011,
+    "cast": [
+      "Brandon Routh",
+      "Sam Huntington",
+      "Anita Briem",
+      "Peter Stormare",
+      "Taye Diggs"
+    ],
+    "genres": [
+      "Action",
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/dylan-dog--dead-of-night.html"
+}

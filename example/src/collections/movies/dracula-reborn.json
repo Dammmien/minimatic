@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dracula Reborn",
+    "year": 2012,
+    "cast": [
+      "Corey Landis",
+      "Victoria Summer",
+      "Krash Miller",
+      "Stuart Rigby",
+      "Ian Pfister"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dracula-reborn.html"
+}

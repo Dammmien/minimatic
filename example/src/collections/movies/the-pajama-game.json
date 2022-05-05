@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pajama Game",
+    "year": 1957,
+    "cast": [
+      "Doris Day",
+      "John Raitt",
+      "Eddie Foy Jr."
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-pajama-game.html"
+}

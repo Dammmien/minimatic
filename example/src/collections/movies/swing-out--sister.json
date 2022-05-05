@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Swing Out, Sister",
+    "year": 1945,
+    "cast": [
+      "Rod Cameron",
+      "Billie Burke"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/swing-out--sister.html"
+}

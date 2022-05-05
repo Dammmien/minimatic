@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Men of Action",
+    "year": 1935,
+    "cast": [
+      "Frankie Darro",
+      "Edwin Maxwell",
+      "Fred Kohler"
+    ],
+    "genres": [
+      "Drama",
+      "Action"
+    ]
+  },
+  "output": "movies/men-of-action.html"
+}

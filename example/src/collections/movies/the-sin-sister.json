@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Sin Sister",
+    "year": 1929,
+    "cast": [
+      "Nancy Carroll",
+      "Josephine Dunn"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sin-sister.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sinner's Parade",
+    "year": 1928,
+    "cast": [
+      "Victor Varconi",
+      "Dorothy Revier"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/sinner-s-parade.html"
+}

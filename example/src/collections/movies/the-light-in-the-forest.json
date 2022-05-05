@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Light in the Forest",
+    "year": 1958,
+    "cast": [
+      "Fess Parker",
+      "Wendell Corey",
+      "Joanne Dru"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-light-in-the-forest.html"
+}

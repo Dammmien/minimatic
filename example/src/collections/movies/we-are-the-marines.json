@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "We Are the Marines",
+    "year": 1942,
+    "cast": [],
+    "genres": [
+      "War",
+      "Documentary"
+    ]
+  },
+  "output": "movies/we-are-the-marines.html"
+}

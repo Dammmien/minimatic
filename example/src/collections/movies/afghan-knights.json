@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Afghan Knights",
+    "year": 2007,
+    "cast": [
+      "Steve Bacic",
+      "Michael Madsen",
+      "Colin Lawrence",
+      "Steven Cree Molison",
+      "Chris Kramer",
+      "Pete Antico"
+    ],
+    "genres": [
+      "War",
+      "Horror"
+    ]
+  },
+  "output": "movies/afghan-knights.html"
+}

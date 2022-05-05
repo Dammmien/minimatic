@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crowned and Dangerous",
+    "year": 1997,
+    "cast": [
+      "Yasmine Bleeth",
+      "Jill Clayburgh"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/crowned-and-dangerous.html"
+}

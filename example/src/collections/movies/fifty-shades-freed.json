@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Fifty Shades Freed",
+    "year": 2018,
+    "cast": [
+      "Dakota Johnson",
+      "Jamie Dornan",
+      "Kim Basinger",
+      "Eric Johnson",
+      "Max Martini",
+      "Brant Daugherty",
+      "Fay Masterson",
+      "Luke Grimes",
+      "Rita Ora",
+      "Arielle Kebbel"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/fifty-shades-freed.html"
+}

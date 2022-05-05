@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Klondike Annie",
+    "year": 1936,
+    "cast": [
+      "Mae West",
+      "Victor McLaglen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/klondike-annie.html"
+}

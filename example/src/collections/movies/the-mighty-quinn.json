@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mighty Quinn",
+    "year": 1989,
+    "cast": [
+      "Denzel Washington",
+      "Robert Townsend"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mighty-quinn.html"
+}

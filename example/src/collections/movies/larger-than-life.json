@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Larger Than Life",
+    "year": 1996,
+    "cast": [
+      "Bill Murray",
+      "Janeane Garofalo",
+      "Pat Hingle",
+      "Matthew McConaughey",
+      "Linda Fiorentino"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/larger-than-life.html"
+}

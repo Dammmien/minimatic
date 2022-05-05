@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pal Joey",
+    "year": 1957,
+    "cast": [
+      "Frank Sinatra",
+      "Rita Hayworth",
+      "Kim Novak"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/pal-joey.html"
+}

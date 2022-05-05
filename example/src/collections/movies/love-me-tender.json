@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love Me Tender",
+    "year": 1956,
+    "cast": [
+      "Elvis Presley",
+      "Debra Paget"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/love-me-tender.html"
+}

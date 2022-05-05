@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Loaded Door",
+    "year": 1922,
+    "cast": [
+      "Hoot Gibson",
+      "Gertrude Olmstead"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-loaded-door.html"
+}

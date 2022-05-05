@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mister Dynamite",
+    "year": 1935,
+    "cast": [
+      "Edmund Lowe",
+      "Matt McHugh",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/mister-dynamite.html"
+}

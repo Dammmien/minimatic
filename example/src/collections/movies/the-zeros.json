@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Zeros",
+    "year": 2001,
+    "cast": [
+      "Rachel Wilson",
+      "Jennifer Morrison",
+      "Kyle Gass"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-zeros.html"
+}

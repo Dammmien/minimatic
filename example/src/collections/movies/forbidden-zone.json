@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Forbidden Zone",
+    "year": 1982,
+    "cast": [
+      "Hervé Villechaize",
+      "Susan Tyrell",
+      "Danny Elfman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/forbidden-zone.html"
+}

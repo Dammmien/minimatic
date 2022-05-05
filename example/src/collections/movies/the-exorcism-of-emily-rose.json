@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Exorcism of Emily Rose",
+    "year": 2005,
+    "cast": [
+      "Laura Linney",
+      "Tom Wilkinson",
+      "Jennifer Carpenter",
+      "Campbell Scott"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-exorcism-of-emily-rose.html"
+}

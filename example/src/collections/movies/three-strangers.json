@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Strangers",
+    "year": 1946,
+    "cast": [
+      "Sydney Greenstreet",
+      "Geraldine Fitzgerald",
+      "Peter Lorre"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/three-strangers.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lusty Men",
+    "year": 1952,
+    "cast": [
+      "Robert Mitchum",
+      "Susan Hayward"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-lusty-men.html"
+}

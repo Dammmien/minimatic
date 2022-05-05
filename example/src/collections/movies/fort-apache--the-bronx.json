@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Fort Apache, the Bronx",
+    "year": 1981,
+    "cast": [
+      "Paul Newman",
+      "Edward Asner",
+      "Ken Wahl",
+      "Pam Grier"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/fort-apache--the-bronx.html"
+}

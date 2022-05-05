@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Love That Man",
+    "year": 1933,
+    "cast": [
+      "Edmund Lowe",
+      "Nancy Carroll"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-love-that-man.html"
+}

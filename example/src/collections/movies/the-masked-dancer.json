@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Masked Dancer",
+    "year": 1924,
+    "cast": [
+      "Lowell Sherman",
+      "Helene Chadwick"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-masked-dancer.html"
+}

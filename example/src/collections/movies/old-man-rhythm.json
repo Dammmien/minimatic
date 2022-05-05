@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Old Man Rhythm",
+    "year": 1935,
+    "cast": [
+      "Charles \"Buddy\" Rogers",
+      "George Barbier",
+      "Barbara Kent",
+      "Grace Bradley"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/old-man-rhythm.html"
+}

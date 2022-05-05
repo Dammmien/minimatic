@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dancing on a Dime",
+    "year": 1940,
+    "cast": [
+      "Robert Paige",
+      "Peter Lind Hayes",
+      "Eddie Quillan"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/dancing-on-a-dime.html"
+}

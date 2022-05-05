@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The X-Files",
+    "year": 1998,
+    "cast": [
+      "Gillian Anderson",
+      "David Duchovny",
+      "Martin Landau"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-x-files.html"
+}

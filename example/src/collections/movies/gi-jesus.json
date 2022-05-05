@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "GI Jesus",
+    "year": 2006,
+    "cast": [
+      "Joe Arquette"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/gi-jesus.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dirty Mary, Crazy Larry",
+    "year": 1974,
+    "cast": [
+      "Susan George",
+      "Peter Fonda",
+      "Vic Morrow"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/dirty-mary--crazy-larry.html"
+}

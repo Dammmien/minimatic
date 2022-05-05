@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Merry Monahans",
+    "year": 1944,
+    "cast": [
+      "Donald O'Connor",
+      "Peggy Ryan",
+      "Jack Oakie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-merry-monahans.html"
+}

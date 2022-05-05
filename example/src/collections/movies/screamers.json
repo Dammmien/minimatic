@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Screamers",
+    "year": 1995,
+    "cast": [
+      "Peter Weller",
+      "Jennifer Rubin"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/screamers.html"
+}

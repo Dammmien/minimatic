@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Heaven or Vegas",
+    "year": 1999,
+    "cast": [
+      "Richard Grieco",
+      "Yasmine Bleeth",
+      "Andy Romano"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/heaven-or-vegas.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Elf",
+    "year": 2003,
+    "cast": [
+      "Will Ferrell",
+      "James Caan",
+      "Zooey Deschanel",
+      "Mary Steenburgen",
+      "Bob Newhart",
+      "Ed Asner"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/elf.html"
+}

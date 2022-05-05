@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In the Heart of a Fool",
+    "year": 1920,
+    "cast": [
+      "James Kirkwood",
+      "Anna Q. Nilsson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/in-the-heart-of-a-fool.html"
+}

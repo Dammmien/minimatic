@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "One Foot in Heaven",
+    "year": 1941,
+    "cast": [
+      "Fredric March",
+      "Martha Scott",
+      "Beulah Bondi",
+      "Gene Lockhart"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/one-foot-in-heaven.html"
+}

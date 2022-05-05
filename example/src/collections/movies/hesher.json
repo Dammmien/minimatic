@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Hesher",
+    "year": 2011,
+    "cast": [
+      "Joseph Gordon-Levitt",
+      "Devin Brochu",
+      "Rainn Wilson",
+      "and",
+      "Natalie Portman",
+      "Piper Laurie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hesher.html"
+}

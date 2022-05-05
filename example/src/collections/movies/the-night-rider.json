@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Night Rider",
+    "year": 1932,
+    "cast": [
+      "Harry Carey",
+      "Elinor Fair"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-night-rider.html"
+}

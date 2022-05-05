@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Fiddler on the Roof",
+    "year": 1971,
+    "cast": [
+      "Topol",
+      "Norma Crane",
+      "Molly Picon",
+      "Paul Mann",
+      "Leonard Frey",
+      "Rosalind Harris",
+      "Michele Marsh"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/fiddler-on-the-roof.html"
+}

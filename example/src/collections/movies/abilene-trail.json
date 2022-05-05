@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Abilene Trail",
+    "year": 1951,
+    "cast": [
+      "Whip Wilson",
+      "Noel Neill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/abilene-trail.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Change-Up",
+    "year": 2011,
+    "cast": [
+      "Ryan Reynolds",
+      "Jason Bateman",
+      "Leslie Mann",
+      "Olivia Wilde",
+      "Alan Arkin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-change-up.html"
+}

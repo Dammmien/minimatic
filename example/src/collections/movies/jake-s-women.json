@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Jake's Women",
+    "year": 1996,
+    "cast": [
+      "Alan Alda"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/jake-s-women.html"
+}

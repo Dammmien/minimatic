@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The College Hero",
+    "year": 1927,
+    "cast": [
+      "Pauline Garon",
+      "Ben Turpin",
+      "Robert Agnew"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-college-hero.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Spy Chasers",
+    "year": 1955,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Sig Ruman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/spy-chasers.html"
+}

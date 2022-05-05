@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Barnstormer",
+    "year": 1922,
+    "cast": [
+      "Wilfred Lucas",
+      "Florence Oberle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-barnstormer.html"
+}

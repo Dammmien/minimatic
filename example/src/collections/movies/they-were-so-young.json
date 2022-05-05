@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "They Were So Young",
+    "year": 1954,
+    "cast": [
+      "Raymond Burr",
+      "Scott Brady",
+      "Johanna Matz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/they-were-so-young.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Is Everybody Happy?",
+    "year": 1943,
+    "cast": [
+      "Ted Lewis",
+      "Larry Parks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/is-everybody-happy-.html"
+}

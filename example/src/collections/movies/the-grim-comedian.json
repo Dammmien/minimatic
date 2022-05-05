@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Grim Comedian",
+    "year": 1921,
+    "cast": [
+      "Jack Holt",
+      "Gloria Hope"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-grim-comedian.html"
+}

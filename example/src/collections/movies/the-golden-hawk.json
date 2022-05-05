@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Golden Hawk",
+    "year": 1952,
+    "cast": [
+      "Rhonda Fleming",
+      "Sterling Hayden"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-golden-hawk.html"
+}

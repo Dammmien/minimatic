@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Change of Mind",
+    "year": 1969,
+    "cast": [
+      "Raymond St. Jacques",
+      "Susan Oliver"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/change-of-mind.html"
+}

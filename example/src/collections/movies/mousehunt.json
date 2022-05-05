@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "MouseHunt",
+    "year": 1997,
+    "cast": [
+      "Nathan Lane",
+      "Lee Evans",
+      "Christopher Walken",
+      "Maury Chaykin",
+      "William Hickey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mousehunt.html"
+}

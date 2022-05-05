@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Coogan's Bluff",
+    "year": 1968,
+    "cast": [
+      "Clint Eastwood",
+      "Lee J. Cobb",
+      "Susan Clark"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/coogan-s-bluff.html"
+}

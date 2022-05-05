@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kissing a Fool",
+    "year": 1998,
+    "cast": [
+      "David Schwimmer",
+      "Jason Lee",
+      "Mili Avital"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kissing-a-fool.html"
+}

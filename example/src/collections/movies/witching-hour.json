@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Witching Hour",
+    "year": 2014,
+    "cast": [
+      "Reanna Roanne",
+      "Emily Johnson-Erday",
+      "Patrick Ferrara"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/witching-hour.html"
+}

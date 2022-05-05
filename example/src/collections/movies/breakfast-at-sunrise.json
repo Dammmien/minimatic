@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Breakfast at Sunrise",
+    "year": 1927,
+    "cast": [
+      "Constance Talmadge",
+      "Alice White"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/breakfast-at-sunrise.html"
+}

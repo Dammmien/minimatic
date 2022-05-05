@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smashing the Rackets",
+    "year": 1938,
+    "cast": [
+      "Chester Morris",
+      "Rita Johnson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/smashing-the-rackets.html"
+}

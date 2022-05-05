@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thunder Over the Plains",
+    "year": 1953,
+    "cast": [
+      "Randolph Scott",
+      "Lex Barker",
+      "Phyllis Kirk"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/thunder-over-the-plains.html"
+}

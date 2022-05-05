@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Artie Lange's Beer League",
+    "year": 2006,
+    "cast": [
+      "Artie Lange",
+      "Ralph Macchio"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/artie-lange-s-beer-league.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rustler's Paradise",
+    "year": 1935,
+    "cast": [
+      "Harry Carey",
+      "Slim Whitaker",
+      "Carmen Bailey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rustler-s-paradise.html"
+}

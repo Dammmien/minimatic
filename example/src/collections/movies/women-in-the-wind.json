@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Women in the Wind",
+    "year": 1939,
+    "cast": [
+      "Kay Francis",
+      "William Gargan",
+      "Victor Jory"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/women-in-the-wind.html"
+}

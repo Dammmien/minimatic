@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "China Cry",
+    "year": 1990,
+    "cast": [
+      "Julia Nickson",
+      "France Nuyen",
+      "and",
+      "James Shigeta"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/china-cry.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Vampire's Kiss",
+    "year": 1989,
+    "cast": [
+      "Nicolas Cage",
+      "Jennifer Beals",
+      "María Conchita Alonso"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/vampire-s-kiss.html"
+}

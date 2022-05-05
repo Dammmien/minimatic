@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gallavants",
+    "year": 1984,
+    "cast": [
+      "Robert Lydiard",
+      "Vic Perrin",
+      "Peter Cullen"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/gallavants.html"
+}

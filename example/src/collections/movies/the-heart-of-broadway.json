@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Heart of Broadway",
+    "year": 1928,
+    "cast": [
+      "Pauline Garon",
+      "Robert Agnew"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-heart-of-broadway.html"
+}

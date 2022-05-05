@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bank Alarm",
+    "year": 1937,
+    "cast": [
+      "Conrad Nagel",
+      "Eleanor Hunt",
+      "Vince Barnett"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/bank-alarm.html"
+}

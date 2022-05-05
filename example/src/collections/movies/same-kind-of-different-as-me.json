@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Same Kind of Different as Me",
+    "year": 2017,
+    "cast": [
+      "Renée Zellweger",
+      "Jon Voight",
+      "Djimon Hounsou",
+      "Olivia Holt",
+      "Greg Kinnear",
+      "Stephanie Leigh Schlund"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/same-kind-of-different-as-me.html"
+}

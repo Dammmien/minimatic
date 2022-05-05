@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ice-Capades",
+    "year": 1940,
+    "cast": [
+      "James Ellison",
+      "Renie Riano",
+      "Phil Silvers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ice-capades.html"
+}

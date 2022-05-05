@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Apache Territory",
+    "year": 1958,
+    "cast": [
+      "Rory Calhoun",
+      "Barbara Bates",
+      "John Dehner"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/apache-territory.html"
+}

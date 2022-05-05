@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Scary Movie 3",
+    "year": 2003,
+    "cast": [
+      "Anna Faris",
+      "Charlie Sheen",
+      "Anthony Anderson",
+      "Leslie Nielsen",
+      "Simon Rex"
+    ],
+    "genres": [
+      "Comedy",
+      "Satire"
+    ]
+  },
+  "output": "movies/scary-movie-3.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Miss Nobody",
+    "year": 1926,
+    "cast": [
+      "Anna Q. Nilsson",
+      "Walter Pidgeon",
+      "Louise Fazenda"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/miss-nobody.html"
+}

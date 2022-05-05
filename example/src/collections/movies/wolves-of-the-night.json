@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wolves of the Night",
+    "year": 1919,
+    "cast": [
+      "William Farnum",
+      "Louise Lovely",
+      "Lamar Johnstone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wolves-of-the-night.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Get Low",
+    "year": 2010,
+    "cast": [
+      "Robert Duvall",
+      "Bill Murray",
+      "Sissy Spacek",
+      "Lucas Black"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/get-low.html"
+}

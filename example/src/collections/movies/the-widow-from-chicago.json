@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Widow From Chicago",
+    "year": 1930,
+    "cast": [
+      "Edward G. Robinson",
+      "Alice White",
+      "Frank McHugh"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-widow-from-chicago.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The American",
+    "year": 2010,
+    "cast": [
+      "George Clooney",
+      "Violante Placido",
+      "Thekla Reuten",
+      "Paolo Bonacelli"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-american.html"
+}

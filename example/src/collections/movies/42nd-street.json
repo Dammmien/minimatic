@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "42nd Street",
+    "year": 1933,
+    "cast": [
+      "Dick Powell",
+      "Ruby Keeler",
+      "Ginger Rogers"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/42nd-street.html"
+}

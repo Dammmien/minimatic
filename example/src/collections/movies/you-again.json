@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "You Again",
+    "year": 2010,
+    "cast": [
+      "Kristen Bell",
+      "Jamie Lee Curtis",
+      "Sigourney Weaver",
+      "Odette Yustman",
+      "Kristin Chenoweth",
+      "Victor Garber",
+      "Betty White",
+      "Kyle Bornheimer",
+      "Christine Lakin",
+      "Cloris Leachman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-again.html"
+}

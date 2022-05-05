@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Mom for Christmas",
+    "year": 1990,
+    "cast": [
+      "Olivia Newton-John"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/a-mom-for-christmas.html"
+}

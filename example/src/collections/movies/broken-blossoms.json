@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Broken Blossoms",
+    "year": 1919,
+    "cast": [
+      "Lillian Gish",
+      "Richard Barthelmess"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/broken-blossoms.html"
+}

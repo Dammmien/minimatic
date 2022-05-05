@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Greater Than a Crown",
+    "year": 1925,
+    "cast": [
+      "Edmund Lowe",
+      "Dolores Costello"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/greater-than-a-crown.html"
+}

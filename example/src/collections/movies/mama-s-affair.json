@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mama's Affair",
+    "year": 1921,
+    "cast": [
+      "Constance Talmadge",
+      "Effie Shannon",
+      "Kenneth Harlan"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/mama-s-affair.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Straight Talk",
+    "year": 1992,
+    "cast": [
+      "Dolly Parton",
+      "James Woods",
+      "Griffin Dunne"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/straight-talk.html"
+}

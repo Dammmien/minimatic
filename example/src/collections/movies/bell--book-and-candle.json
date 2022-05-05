@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bell, Book and Candle",
+    "year": 1958,
+    "cast": [
+      "James Stewart",
+      "Kim Novak",
+      "Jack Lemmon",
+      "Ernie Kovacs"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bell--book-and-candle.html"
+}

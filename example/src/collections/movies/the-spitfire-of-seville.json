@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Spitfire of Seville",
+    "year": 1919,
+    "cast": [
+      "Hedda Nova",
+      "Thurston Hall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-spitfire-of-seville.html"
+}

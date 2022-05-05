@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shrek the Third",
+    "year": 2007,
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/shrek-the-third.html"
+}

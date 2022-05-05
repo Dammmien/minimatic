@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Bandslam",
+    "year": 2009,
+    "cast": [
+      "Aly Michalka",
+      "Vanessa Hudgens",
+      "Gaelan Connell",
+      "Scott Porter",
+      "Lisa Kudrow"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/bandslam.html"
+}

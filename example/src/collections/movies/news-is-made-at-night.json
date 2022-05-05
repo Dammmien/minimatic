@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "News Is Made at Night",
+    "year": 1939,
+    "cast": [
+      "Preston Foster",
+      "Lynn Bari"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/news-is-made-at-night.html"
+}

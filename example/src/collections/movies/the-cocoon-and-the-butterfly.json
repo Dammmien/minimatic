@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cocoon and the Butterfly",
+    "year": 1914,
+    "cast": [
+      "William Garwood",
+      "Louise Lester"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-cocoon-and-the-butterfly.html"
+}

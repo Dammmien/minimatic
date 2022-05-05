@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Boots",
+    "year": 1919,
+    "cast": [
+      "Dorothy Gish",
+      "Richard Barthelmess"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/boots.html"
+}

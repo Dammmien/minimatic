@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Chip Off the Old Block",
+    "year": 1944,
+    "cast": [
+      "Donald O'Connor",
+      "Peggy Ryan",
+      "Ann Blyth"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/chip-off-the-old-block.html"
+}

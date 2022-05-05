@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Strongest Man in the World",
+    "year": 1975,
+    "cast": [
+      "Kurt Russell",
+      "Joe Flynn",
+      "Phil Silvers"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-strongest-man-in-the-world.html"
+}

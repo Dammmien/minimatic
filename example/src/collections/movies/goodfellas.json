@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Goodfellas",
+    "year": 1990,
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco",
+      "Paul Sorvino",
+      "Frank Vincent",
+      "Michael Imperioli"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/goodfellas.html"
+}

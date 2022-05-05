@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night of the Ghouls",
+    "year": 1959,
+    "cast": [
+      "Kenne Duncan",
+      "Duke Moore"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/night-of-the-ghouls.html"
+}

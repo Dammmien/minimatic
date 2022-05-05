@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Defending Your Life",
+    "year": 1991,
+    "cast": [
+      "Albert Brooks",
+      "Meryl Streep",
+      "Rip Torn",
+      "Lee Grant"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/defending-your-life.html"
+}

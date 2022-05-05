@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Finding Neverland",
+    "year": 2004,
+    "cast": [
+      "Johnny Depp",
+      "Kate Winslet",
+      "Julie Christie",
+      "Dustin Hoffman"
+    ],
+    "genres": [
+      "Drama",
+      "Family"
+    ]
+  },
+  "output": "movies/finding-neverland.html"
+}

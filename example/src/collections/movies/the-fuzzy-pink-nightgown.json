@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fuzzy Pink Nightgown",
+    "year": 1957,
+    "cast": [
+      "Jane Russell",
+      "Keenan Wynn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fuzzy-pink-nightgown.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Orchestra Wives",
+    "year": 1942,
+    "cast": [
+      "Ann Rutherford",
+      "George Montgomery",
+      "Glenn Miller"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/orchestra-wives.html"
+}

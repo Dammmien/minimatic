@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "30 Minutes or Less",
+    "year": 2011,
+    "cast": [
+      "Jesse Eisenberg",
+      "Danny McBride",
+      "Aziz Ansari",
+      "Nick Swardson",
+      "Michael Peña",
+      "Fred Ward"
+    ],
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ]
+  },
+  "output": "movies/30-minutes-or-less.html"
+}

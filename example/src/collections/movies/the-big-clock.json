@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Big Clock",
+    "year": 1948,
+    "cast": [
+      "Charles Laughton",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-big-clock.html"
+}

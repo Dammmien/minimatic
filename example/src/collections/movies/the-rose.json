@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Rose",
+    "year": 1979,
+    "cast": [
+      "Bette Midler",
+      "Alan Bates",
+      "Frederic Forrest"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-rose.html"
+}

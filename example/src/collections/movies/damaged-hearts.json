@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Damaged Hearts",
+    "year": 1924,
+    "cast": [
+      "Mary Carr",
+      "Jerry Devine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/damaged-hearts.html"
+}

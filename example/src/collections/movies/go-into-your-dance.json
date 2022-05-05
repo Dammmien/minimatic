@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Go Into Your Dance",
+    "year": 1935,
+    "cast": [
+      "Al Jolson",
+      "Ruby Keeler",
+      "Glenda Farrell"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/go-into-your-dance.html"
+}

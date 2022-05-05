@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Heaven with a Barbed Wire Fence",
+    "year": 1939,
+    "cast": [
+      "Glenn Ford",
+      "Jean Rogers",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/heaven-with-a-barbed-wire-fence.html"
+}

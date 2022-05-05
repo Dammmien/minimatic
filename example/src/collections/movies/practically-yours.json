@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Practically Yours",
+    "year": 1944,
+    "cast": [
+      "Claudette Colbert",
+      "Fred MacMurray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/practically-yours.html"
+}

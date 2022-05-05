@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Johnny Tremain",
+    "year": 1957,
+    "cast": [
+      "Hal Stalmaster",
+      "Luana Patten"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/johnny-tremain.html"
+}

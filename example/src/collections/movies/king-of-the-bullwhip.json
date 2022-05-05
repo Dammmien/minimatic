@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "King of the Bullwhip",
+    "year": 1950,
+    "cast": [
+      "Lash LaRue",
+      "Jack Holt",
+      "Anne Gwynne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/king-of-the-bullwhip.html"
+}

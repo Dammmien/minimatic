@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mountain Music",
+    "year": 1937,
+    "cast": [
+      "Bob Burns",
+      "Martha Raye"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/mountain-music.html"
+}

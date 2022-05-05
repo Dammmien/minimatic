@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Wife's Relations",
+    "year": 1922,
+    "cast": [
+      "Buster Keaton",
+      "Monte Collins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-wife-s-relations.html"
+}

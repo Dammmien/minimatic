@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Search",
+    "year": 1948,
+    "cast": [
+      "Montgomery Clift",
+      "Aline MacMahon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-search.html"
+}

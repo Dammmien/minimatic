@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Sunset Boulevard",
+    "year": 1950,
+    "cast": [
+      "William Holden",
+      "Gloria Swanson",
+      "Nancy Olson",
+      "Erich von Stroheim",
+      "Jack Webb"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/sunset-boulevard.html"
+}

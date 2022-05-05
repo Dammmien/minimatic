@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bobbie Jo and the Outlaw",
+    "year": 1976,
+    "cast": [
+      "Lynda Carter",
+      "Marjoe Gortner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bobbie-jo-and-the-outlaw.html"
+}

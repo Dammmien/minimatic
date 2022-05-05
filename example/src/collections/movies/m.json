@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "M",
+    "year": 1951,
+    "cast": [
+      "David Wayne",
+      "Howard Da Silva"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/m.html"
+}

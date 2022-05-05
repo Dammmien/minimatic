@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "That's My Mommy",
+    "year": 1955,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/that-s-my-mommy.html"
+}

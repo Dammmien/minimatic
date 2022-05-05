@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Roommates",
+    "year": 1995,
+    "cast": [
+      "Peter Falk",
+      "D. B. Sweeney",
+      "Julianne Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/roommates.html"
+}

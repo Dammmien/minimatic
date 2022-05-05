@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Border G-Man",
+    "year": 1938,
+    "cast": [
+      "George O'Brien",
+      "Laraine Day",
+      "Rita La Roy"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/border-g-man.html"
+}

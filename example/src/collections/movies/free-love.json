@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Free Love",
+    "year": 1930,
+    "cast": [
+      "Conrad Nagel",
+      "Genevieve Tobin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/free-love.html"
+}

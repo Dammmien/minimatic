@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two Against the World",
+    "year": 1936,
+    "cast": [
+      "Humphrey Bogart",
+      "Beverly Roberts",
+      "Claire Dodd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/two-against-the-world.html"
+}

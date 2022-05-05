@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Music Master",
+    "year": 1926,
+    "cast": [
+      "Alec B. Francis",
+      "Lois Moran",
+      "Neil Hamilton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-music-master.html"
+}

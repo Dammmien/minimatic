@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Lost Horizon",
+    "year": 1973,
+    "cast": [
+      "Liv Ullmann",
+      "Olivia Hussey",
+      "Peter Finch",
+      "Sally Kellerman",
+      "Charles Boyer",
+      "Michael York",
+      "John Gielgud",
+      "George Kennedy",
+      "Bobby Van"
+    ],
+    "genres": [
+      "Musical",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/lost-horizon.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Notebook",
+    "year": 2004,
+    "cast": [
+      "Ryan Gosling",
+      "Rachel McAdams",
+      "James Marsden",
+      "James Garner",
+      "Gena Rowlands"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-notebook.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Loyal Lives",
+    "year": 1923,
+    "cast": [
+      "Mary Carr",
+      "Faire Binney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/loyal-lives.html"
+}

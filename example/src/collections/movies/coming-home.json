@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Coming Home",
+    "year": 1978,
+    "cast": [
+      "Jon Voight",
+      "Jane Fonda",
+      "Bruce Dern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/coming-home.html"
+}

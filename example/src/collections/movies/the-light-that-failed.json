@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Light That Failed",
+    "year": 1940,
+    "cast": [
+      "Ronald Colman",
+      "Walter Huston",
+      "Ida Lupino"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-light-that-failed.html"
+}

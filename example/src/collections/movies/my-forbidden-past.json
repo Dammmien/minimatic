@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Forbidden Past",
+    "year": 1951,
+    "cast": [
+      "Ava Gardner",
+      "Robert Mitchum"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-forbidden-past.html"
+}

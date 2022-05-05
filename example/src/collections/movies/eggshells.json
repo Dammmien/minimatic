@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eggshells",
+    "year": 1969,
+    "cast": [
+      "Kim Henkel",
+      "Amy Lester"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/eggshells.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Home Room",
+    "year": 2002,
+    "cast": [
+      "Erika Christensen",
+      "Busy Philipps",
+      "Victor Garber"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/home-room.html"
+}

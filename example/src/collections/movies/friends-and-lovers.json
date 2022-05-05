@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Friends and Lovers",
+    "year": 1931,
+    "cast": [
+      "Lili Damita",
+      "Adolphe Menjou",
+      "Laurence Olivier"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/friends-and-lovers.html"
+}

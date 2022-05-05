@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mean Johnny Barrows",
+    "year": 1976,
+    "cast": [
+      "Fred Williamson",
+      "Elliott Gould"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/mean-johnny-barrows.html"
+}

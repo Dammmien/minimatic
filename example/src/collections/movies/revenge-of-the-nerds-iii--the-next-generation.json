@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Revenge of the Nerds III: The Next Generation",
+    "year": 1992,
+    "cast": [
+      "Robert Carradine",
+      "Ted McGinley",
+      "Curtis Armstrong",
+      "Julia Montgomery"
+    ],
+    "genres": [
+      "Comedy",
+      "Teen"
+    ]
+  },
+  "output": "movies/revenge-of-the-nerds-iii--the-next-generation.html"
+}

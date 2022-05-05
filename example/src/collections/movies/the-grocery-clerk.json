@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Grocery Clerk",
+    "year": 1919,
+    "cast": [
+      "Larry Semon",
+      "Lucille Carlisle",
+      "Monty Banks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-grocery-clerk.html"
+}

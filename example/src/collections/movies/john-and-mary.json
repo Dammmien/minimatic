@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "John and Mary",
+    "year": 1969,
+    "cast": [
+      "Mia Farrow",
+      "Dustin Hoffman",
+      "Olympia Dukakis"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/john-and-mary.html"
+}

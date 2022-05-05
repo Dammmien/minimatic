@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Princess and the Pirate",
+    "year": 1944,
+    "cast": [
+      "Bob Hope",
+      "Virginia Mayo",
+      "Walter Brennan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-princess-and-the-pirate.html"
+}

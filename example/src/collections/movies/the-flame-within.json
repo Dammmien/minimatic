@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Flame Within",
+    "year": 1935,
+    "cast": [
+      "Maureen O'Sullivan",
+      "Ann Harding",
+      "Louis Heyward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-flame-within.html"
+}

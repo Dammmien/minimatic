@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Redline",
+    "year": 2007,
+    "cast": [
+      "Tim Matheson",
+      "Nathan Phillips",
+      "Nadia Bjorlin",
+      "Eddie Griffin"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/redline.html"
+}

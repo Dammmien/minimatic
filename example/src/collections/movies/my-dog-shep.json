@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Dog Shep",
+    "year": 1946,
+    "cast": [
+      "Tom Neal",
+      "William Farnum"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-dog-shep.html"
+}

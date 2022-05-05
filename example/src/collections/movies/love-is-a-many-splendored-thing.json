@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love Is a Many-Splendored Thing",
+    "year": 1955,
+    "cast": [
+      "Jennifer Jones",
+      "William Holden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-is-a-many-splendored-thing.html"
+}

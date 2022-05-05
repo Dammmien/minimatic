@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Million to One",
+    "year": 1937,
+    "cast": [
+      "Bruce Bennett",
+      "Joan Fontaine",
+      "Monte Blue"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/a-million-to-one.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Enemy of Women",
+    "year": 1944,
+    "cast": [
+      "Claudia Drake",
+      "Wolfgang Zilzer",
+      "Donald Woods"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/enemy-of-women.html"
+}

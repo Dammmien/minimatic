@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Have Rocket, Will Travel",
+    "year": 1959,
+    "cast": [
+      "Three Stooges"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/have-rocket--will-travel.html"
+}

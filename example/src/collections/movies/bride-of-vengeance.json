@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bride of Vengeance",
+    "year": 1949,
+    "cast": [
+      "Paulette Goddard",
+      "John Lund"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bride-of-vengeance.html"
+}

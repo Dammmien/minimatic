@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cloud Rider",
+    "year": 1925,
+    "cast": [
+      "Al Wilson",
+      "Virginia Lee Corbin"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-cloud-rider.html"
+}

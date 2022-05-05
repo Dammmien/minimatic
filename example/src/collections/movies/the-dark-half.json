@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dark Half",
+    "year": 1993,
+    "cast": [
+      "Timothy Hutton",
+      "Amy Madigan"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-dark-half.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Divorce Invitation",
+    "year": 2012,
+    "cast": [
+      "Jamie-Lynn Sigler",
+      "Jonathan Bennett",
+      "Paul Sorvino",
+      "Lainie Kazan",
+      "Elliott Gould"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/divorce-invitation.html"
+}

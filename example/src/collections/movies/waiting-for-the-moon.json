@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Waiting for the Moon",
+    "year": 1987,
+    "cast": [
+      "Linda Hunt",
+      "Linda Bassett"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/waiting-for-the-moon.html"
+}

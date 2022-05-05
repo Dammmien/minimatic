@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Let's Talk It Over",
+    "year": 1934,
+    "cast": [
+      "Chester Morris",
+      "Mae Clarke"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-s-talk-it-over.html"
+}

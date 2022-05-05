@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hornet's Nest",
+    "year": 1919,
+    "cast": [
+      "Earle Williams",
+      "Vola Vale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hornet-s-nest.html"
+}

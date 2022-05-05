@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "At Close Range",
+    "year": 1986,
+    "cast": [
+      "Christopher Walken",
+      "Sean Penn",
+      "Chris Penn",
+      "Mary Stuart Masterson"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/at-close-range.html"
+}

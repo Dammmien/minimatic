@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Who's the Man?",
+    "year": 1993,
+    "cast": [
+      "Ice-T",
+      "Bernie Mac",
+      "Denis Leary"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/who-s-the-man-.html"
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Dinner for Schmucks",
+    "year": 2010,
+    "cast": [
+      "Steve Carell",
+      "Paul Rudd",
+      "Jemaine Clement",
+      "Jeff Dunham",
+      "Zach Galifianakis",
+      "Bruce Greenwood",
+      "Ron Livingston",
+      "Rick Overton",
+      "Lucy Punch",
+      "Andrea Savage",
+      "David Walliams"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dinner-for-schmucks.html"
+}

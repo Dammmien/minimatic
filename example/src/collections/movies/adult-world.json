@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Adult World",
+    "year": 2014,
+    "cast": [
+      "Emma Roberts",
+      "John Cusack",
+      "Evan Peters"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/adult-world.html"
+}

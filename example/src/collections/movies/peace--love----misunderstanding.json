@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Peace, Love, & Misunderstanding",
+    "year": 2012,
+    "cast": [
+      "Jane Fonda",
+      "Catherine Keener",
+      "Jeffrey Dean Morgan",
+      "Chace Crawford",
+      "Elizabeth Olsen",
+      "Nat Wolff",
+      "Rosanna Arquette",
+      "Kyle MacLachlan"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/peace--love----misunderstanding.html"
+}

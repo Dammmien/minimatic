@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shanghai Lady",
+    "year": 1929,
+    "cast": [
+      "Mary Nolan",
+      "James Murray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shanghai-lady.html"
+}

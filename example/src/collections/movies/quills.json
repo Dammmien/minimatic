@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Quills",
+    "year": 2000,
+    "cast": [
+      "Geoffrey Rush",
+      "Kate Winslet",
+      "Joaquin Phoenix",
+      "Michael Caine"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/quills.html"
+}

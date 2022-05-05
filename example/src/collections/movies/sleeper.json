@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sleeper",
+    "year": 1973,
+    "cast": [
+      "Woody Allen",
+      "Diane Keaton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sleeper.html"
+}

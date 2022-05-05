@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I'm Still Alive",
+    "year": 1940,
+    "cast": [
+      "Kent Taylor",
+      "Linda Hayes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-m-still-alive.html"
+}

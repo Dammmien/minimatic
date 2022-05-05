@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kongo",
+    "year": 1932,
+    "cast": [
+      "Walter Huston",
+      "Lupe Vélez"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kongo.html"
+}

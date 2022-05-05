@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bedevilled",
+    "year": 1955,
+    "cast": [
+      "Anne Baxter",
+      "Steve Forrest"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/bedevilled.html"
+}

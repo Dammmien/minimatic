@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Loneliest Planet",
+    "year": 2012,
+    "cast": [
+      "Gael García Bernal",
+      "Hani Furstenberg",
+      "Bidzina Gujabidze"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-loneliest-planet.html"
+}

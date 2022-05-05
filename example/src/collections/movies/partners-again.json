@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Partners Again",
+    "year": 1926,
+    "cast": [
+      "George Sydney",
+      "Allan Forrest"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/partners-again.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Rabbit Fire",
+    "year": 1951,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/rabbit-fire.html"
+}

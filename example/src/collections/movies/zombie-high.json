@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Zombie High",
+    "year": 1987,
+    "cast": [
+      "Virginia Madsen"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/zombie-high.html"
+}

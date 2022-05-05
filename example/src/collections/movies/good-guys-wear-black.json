@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Good Guys Wear Black",
+    "year": 1978,
+    "cast": [
+      "Chuck Norris",
+      "Dana Andrews",
+      "Anne Archer"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/good-guys-wear-black.html"
+}

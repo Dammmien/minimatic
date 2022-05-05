@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Double Adventure",
+    "year": 1921,
+    "cast": [
+      "Charles Hutchison",
+      "Josie Sedgwick"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/double-adventure.html"
+}

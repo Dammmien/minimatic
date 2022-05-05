@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Crow: City of Angels",
+    "year": 1996,
+    "cast": [
+      "Vincent Pérez",
+      "Mia Kirshner",
+      "Richard Brooks",
+      "Iggy Pop",
+      "Thuy Trang"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-crow--city-of-angels.html"
+}

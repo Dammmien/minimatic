@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "San Francisco",
+    "year": 1936,
+    "cast": [
+      "Clark Gable",
+      "Jeanette MacDonald",
+      "Spencer Tracy",
+      "(",
+      "Best Actor",
+      "nominee)"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/san-francisco.html"
+}

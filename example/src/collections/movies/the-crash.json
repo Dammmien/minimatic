@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Crash",
+    "year": 1932,
+    "cast": [
+      "Ruth Chatterton",
+      "George Brent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-crash.html"
+}

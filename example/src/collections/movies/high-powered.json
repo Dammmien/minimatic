@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "High Powered",
+    "year": 1945,
+    "cast": [
+      "Phyllis Brooks",
+      "Robert Lowery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/high-powered.html"
+}

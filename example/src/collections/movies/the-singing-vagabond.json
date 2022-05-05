@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Singing Vagabond",
+    "year": 1935,
+    "cast": [
+      "Gene Autry",
+      "Ann Rutherford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-singing-vagabond.html"
+}

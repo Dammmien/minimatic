@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Surf's Up",
+    "year": 2007,
+    "cast": [
+      "Shia LaBeouf",
+      "Jeff Bridges",
+      "Zooey Deschanel"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/surf-s-up.html"
+}

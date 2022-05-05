@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Steel Preferred",
+    "year": 1925,
+    "cast": [
+      "Vera Reynolds",
+      "William Boyd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/steel-preferred.html"
+}

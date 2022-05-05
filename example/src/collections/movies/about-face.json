@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "About Face",
+    "year": 1952,
+    "cast": [
+      "Gordon MacRae",
+      "Virginia Gibson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/about-face.html"
+}

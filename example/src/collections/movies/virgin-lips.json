@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Virgin Lips",
+    "year": 1928,
+    "cast": [
+      "Olive Borden",
+      "John Boles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/virgin-lips.html"
+}

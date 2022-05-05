@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mr. Winkle Goes to War",
+    "year": 1944,
+    "cast": [
+      "Edward G. Robinson",
+      "Ruth Warrick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--winkle-goes-to-war.html"
+}

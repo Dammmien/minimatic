@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mexicali Rose",
+    "year": 1939,
+    "cast": [
+      "Gene Autry",
+      "Smiley Burnette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/mexicali-rose.html"
+}

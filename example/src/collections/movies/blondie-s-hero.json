@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blondie's Hero",
+    "year": 1950,
+    "cast": [
+      "Penny Singleton",
+      "Arthur Lake"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blondie-s-hero.html"
+}

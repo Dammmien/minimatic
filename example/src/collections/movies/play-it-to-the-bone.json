@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Play It to the Bone",
+    "year": 1999,
+    "cast": [
+      "Antonio Banderas",
+      "Woody Harrelson",
+      "Lolita Davidovich",
+      "Lucy Liu"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/play-it-to-the-bone.html"
+}

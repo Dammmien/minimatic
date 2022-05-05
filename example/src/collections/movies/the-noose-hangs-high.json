@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Noose Hangs High",
+    "year": 1948,
+    "cast": [
+      "Abbott and Costello"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-noose-hangs-high.html"
+}

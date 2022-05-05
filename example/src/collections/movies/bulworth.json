@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Bulworth",
+    "year": 1998,
+    "cast": [
+      "Warren Beatty",
+      "Halle Berry",
+      "Oliver Platt",
+      "Don Cheadle",
+      "Paul Sorvino",
+      "Isaiah Washington"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bulworth.html"
+}

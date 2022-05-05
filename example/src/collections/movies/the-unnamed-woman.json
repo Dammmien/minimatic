@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Unnamed Woman",
+    "year": 1925,
+    "cast": [
+      "Katherine MacDonald",
+      "Herbert Rawlinson",
+      "Wanda Hawley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-unnamed-woman.html"
+}

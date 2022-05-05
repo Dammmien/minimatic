@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Unholy Wife",
+    "year": 1957,
+    "cast": [
+      "Diana Dors",
+      "Rod Steiger",
+      "Tom Tryon"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-unholy-wife.html"
+}

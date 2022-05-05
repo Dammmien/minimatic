@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gallant Fool",
+    "year": 1926,
+    "cast": [
+      "Billy Sullivan",
+      "Hazel Deane",
+      "Ruth Royce"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-gallant-fool.html"
+}

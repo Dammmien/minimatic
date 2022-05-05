@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Black Pirates",
+    "year": 1954,
+    "cast": [
+      "Anthony Dexter",
+      "Martha Roth"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-black-pirates.html"
+}

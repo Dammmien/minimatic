@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Four Friends",
+    "year": 1981,
+    "cast": [
+      "Craig Wasson",
+      "Jodi Thelen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/four-friends.html"
+}

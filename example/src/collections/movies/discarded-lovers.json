@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Discarded Lovers",
+    "year": 1932,
+    "cast": [
+      "Natalie Moorhead",
+      "Russell Hopton"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/discarded-lovers.html"
+}

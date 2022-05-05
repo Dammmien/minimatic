@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Forty Winks",
+    "year": 1925,
+    "cast": [
+      "Raymond Griffith",
+      "Theodore Roberts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/forty-winks.html"
+}

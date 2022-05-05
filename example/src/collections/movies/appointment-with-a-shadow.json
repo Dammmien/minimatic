@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Appointment with a Shadow",
+    "year": 1957,
+    "cast": [
+      "George Nader",
+      "Joanna Moore",
+      "Brian Keith",
+      "Virginia Field"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/appointment-with-a-shadow.html"
+}

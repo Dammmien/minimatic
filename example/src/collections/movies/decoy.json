@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Decoy",
+    "year": 1946,
+    "cast": [
+      "Jean Gillie",
+      "Edward Norris",
+      "Robert Armstrong"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/decoy.html"
+}

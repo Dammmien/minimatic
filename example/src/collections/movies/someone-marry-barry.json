@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Someone Marry Barry",
+    "year": 2014,
+    "cast": [
+      "Tyler Labine",
+      "Damon Wayans, Jr.",
+      "Lucy Punch",
+      "Hayes MacArthur"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/someone-marry-barry.html"
+}

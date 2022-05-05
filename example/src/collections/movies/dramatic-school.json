@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dramatic School",
+    "year": 1938,
+    "cast": [
+      "Luise Rainer",
+      "Paulette Goddard",
+      "Lana Turner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dramatic-school.html"
+}

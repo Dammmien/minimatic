@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wonderful World of the Brothers Grimm",
+    "year": 1962,
+    "cast": [
+      "Laurence Harvey",
+      "Claire Bloom",
+      "Barbara Eden"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-wonderful-world-of-the-brothers-grimm.html"
+}

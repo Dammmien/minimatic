@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Big Business Girl",
+    "year": 1931,
+    "cast": [
+      "Loretta Young",
+      "Frank Albertson",
+      "Ricardo Cortez"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/big-business-girl.html"
+}

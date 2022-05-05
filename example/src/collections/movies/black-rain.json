@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Black Rain",
+    "year": 1989,
+    "cast": [
+      "Michael Douglas",
+      "Andy García",
+      "Ken Takakura",
+      "Kate Capshaw"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/black-rain.html"
+}

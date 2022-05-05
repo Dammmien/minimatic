@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Clambake",
+    "year": 1967,
+    "cast": [
+      "Elvis Presley",
+      "Shelley Fabares"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/clambake.html"
+}

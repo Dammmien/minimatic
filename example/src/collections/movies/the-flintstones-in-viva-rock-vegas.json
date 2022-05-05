@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Flintstones in Viva Rock Vegas",
+    "year": 2000,
+    "cast": [
+      "Mark Addy",
+      "Stephen Baldwin",
+      "Kristen Johnston",
+      "Jane Krakowski",
+      "Alan Cumming",
+      "Joan Collins",
+      "Harvey Korman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-flintstones-in-viva-rock-vegas.html"
+}

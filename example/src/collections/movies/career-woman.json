@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Career Woman",
+    "year": 1936,
+    "cast": [
+      "Claire Trevor",
+      "Michael Whalen",
+      "Isabel Jewell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/career-woman.html"
+}

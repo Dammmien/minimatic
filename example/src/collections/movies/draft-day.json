@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Draft Day",
+    "year": 2014,
+    "cast": [
+      "Kevin Costner",
+      "Jennifer Garner",
+      "Denis Leary",
+      "Frank Langella"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/draft-day.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Four Brothers",
+    "year": 2005,
+    "cast": [
+      "Mark Wahlberg",
+      "Tyrese Gibson",
+      "Andre Benjamin",
+      "Garrett Hedlund",
+      "Terrence Howard"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/four-brothers.html"
+}

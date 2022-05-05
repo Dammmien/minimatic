@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bounty Killer",
+    "year": 1965,
+    "cast": [
+      "Dan Duryea",
+      "Audrey Dalton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-bounty-killer.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "American Pop",
+    "year": 1981,
+    "cast": [
+      "Lisa Jane Persky",
+      "Ron Thompson"
+    ],
+    "genres": [
+      "Drama",
+      "Animated"
+    ]
+  },
+  "output": "movies/american-pop.html"
+}

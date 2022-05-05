@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "House by the River",
+    "year": 1950,
+    "cast": [
+      "Louis Hayward",
+      "Jane Wyatt",
+      "Lee Bowman"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/house-by-the-river.html"
+}

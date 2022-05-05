@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Black Lash",
+    "year": 1952,
+    "cast": [
+      "Lash LaRue",
+      "Peggy Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-black-lash.html"
+}

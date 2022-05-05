@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Santa Fe Scouts",
+    "year": 1943,
+    "cast": [
+      "Bob Steele",
+      "Tom Tyler",
+      "Lois Collier"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/santa-fe-scouts.html"
+}

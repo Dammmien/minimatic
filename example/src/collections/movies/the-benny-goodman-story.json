@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Benny Goodman Story",
+    "year": 1956,
+    "cast": [
+      "Steve Allen",
+      "Donna Reed"
+    ],
+    "genres": [
+      "Biography",
+      "Musical"
+    ]
+  },
+  "output": "movies/the-benny-goodman-story.html"
+}

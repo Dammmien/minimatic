@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Vision Quest",
+    "year": 1985,
+    "cast": [
+      "Matthew Modine",
+      "Linda Fiorentino"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/vision-quest.html"
+}

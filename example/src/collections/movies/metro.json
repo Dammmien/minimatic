@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Metro",
+    "year": 1997,
+    "cast": [
+      "Eddie Murphy",
+      "Michael Wincott",
+      "Michael Rapaport"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/metro.html"
+}

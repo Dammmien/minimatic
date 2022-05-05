@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Always Leave Them Laughing",
+    "year": 1949,
+    "cast": [
+      "Milton Berle",
+      "Virginia Mayo",
+      "Bert Lahr"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/always-leave-them-laughing.html"
+}

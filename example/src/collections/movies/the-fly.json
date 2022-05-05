@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fly",
+    "year": 1986,
+    "cast": [
+      "Jeff Goldblum",
+      "Geena Davis",
+      "John Getz"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-fly.html"
+}

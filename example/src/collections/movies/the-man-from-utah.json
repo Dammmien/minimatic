@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man from Utah",
+    "year": 1934,
+    "cast": [
+      "John Wayne",
+      "Polly Ann Young",
+      "George \"Gabby\" Hayes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-man-from-utah.html"
+}

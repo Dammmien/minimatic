@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shake Hands with the Devil",
+    "year": 1959,
+    "cast": [
+      "James Cagney",
+      "Don Murray",
+      "Dana Wynter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shake-hands-with-the-devil.html"
+}

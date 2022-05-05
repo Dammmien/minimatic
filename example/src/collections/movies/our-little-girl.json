@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Our Little Girl",
+    "year": 1935,
+    "cast": [
+      "Shirley Temple",
+      "Rosemary Ames",
+      "Joel McCrea"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/our-little-girl.html"
+}

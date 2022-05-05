@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Singer Jim McKee",
+    "year": 1924,
+    "cast": [
+      "William S. Hart",
+      "Phyllis Haver"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/singer-jim-mckee.html"
+}

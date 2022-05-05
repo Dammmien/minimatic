@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Young Doctors in Love",
+    "year": 1982,
+    "cast": [
+      "Michael McKean",
+      "Sean Young"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/young-doctors-in-love.html"
+}

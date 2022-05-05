@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Antony and Cleopatra",
+    "year": 1908,
+    "cast": [
+      "Florence Lawrence",
+      "William V. Ranous"
+    ],
+    "genres": []
+  },
+  "output": "movies/antony-and-cleopatra.html"
+}

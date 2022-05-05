@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Fig Leaf for Eve",
+    "year": 1944,
+    "cast": [
+      "Jan Wiley",
+      "Eddie Dunn",
+      "Betty Blythe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-fig-leaf-for-eve.html"
+}

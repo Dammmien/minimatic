@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Payment on Demand",
+    "year": 1951,
+    "cast": [
+      "Bette Davis",
+      "Barry Sullivan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/payment-on-demand.html"
+}

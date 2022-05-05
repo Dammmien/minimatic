@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kalamazoo?",
+    "year": 2006,
+    "cast": [
+      "Josie Davis",
+      "Mayim Bialik"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kalamazoo-.html"
+}

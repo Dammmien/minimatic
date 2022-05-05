@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Torchy Runs for Mayor",
+    "year": 1939,
+    "cast": [
+      "Glenda Farrell",
+      "Barton MacLane"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/torchy-runs-for-mayor.html"
+}

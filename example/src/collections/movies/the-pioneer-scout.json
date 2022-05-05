@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pioneer Scout",
+    "year": 1928,
+    "cast": [
+      "Fred Thomson",
+      "Nora Lane"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-pioneer-scout.html"
+}

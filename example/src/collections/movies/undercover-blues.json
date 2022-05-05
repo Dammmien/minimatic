@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Undercover Blues",
+    "year": 1993,
+    "cast": [
+      "Kathleen Turner",
+      "Dennis Quaid"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/undercover-blues.html"
+}

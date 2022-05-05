@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love and Kisses",
+    "year": 1965,
+    "cast": [
+      "Ricky Nelson",
+      "Jerry Van Dyke",
+      "Kris Harmon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-and-kisses.html"
+}

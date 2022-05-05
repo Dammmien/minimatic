@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Drums Along the Mohawk",
+    "year": 1939,
+    "cast": [
+      "Claudette Colbert",
+      "Henry Fonda"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/drums-along-the-mohawk.html"
+}

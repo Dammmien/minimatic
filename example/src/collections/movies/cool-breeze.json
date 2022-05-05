@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cool Breeze",
+    "year": 1972,
+    "cast": [
+      "Thalmus Rasulala",
+      "Judy Pace"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/cool-breeze.html"
+}

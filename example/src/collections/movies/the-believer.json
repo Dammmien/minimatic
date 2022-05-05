@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Believer",
+    "year": 2001,
+    "cast": [
+      "Ryan Gosling",
+      "Billy Zane",
+      "Theresa Russell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-believer.html"
+}

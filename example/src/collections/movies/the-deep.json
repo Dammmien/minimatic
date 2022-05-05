@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Deep",
+    "year": 1977,
+    "cast": [
+      "Jacqueline Bisset",
+      "Robert Shaw",
+      "Nick Nolte"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-deep.html"
+}

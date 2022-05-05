@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Desert Trail",
+    "year": 1935,
+    "cast": [
+      "John Wayne",
+      "Mary Kornman"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-desert-trail.html"
+}

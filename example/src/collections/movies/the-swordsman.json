@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Swordsman",
+    "year": 1948,
+    "cast": [
+      "Larry Parks",
+      "Ellen Drew"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-swordsman.html"
+}

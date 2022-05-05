@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I'll Be Seeing You",
+    "year": 1944,
+    "cast": [
+      "Ginger Rogers",
+      "Shirley Temple"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-ll-be-seeing-you.html"
+}

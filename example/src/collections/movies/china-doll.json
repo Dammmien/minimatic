@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "China Doll",
+    "year": 1958,
+    "cast": [
+      "Victor Mature",
+      "Li Hua Li",
+      "Ward Bond"
+    ],
+    "genres": [
+      "War",
+      "Romance"
+    ]
+  },
+  "output": "movies/china-doll.html"
+}

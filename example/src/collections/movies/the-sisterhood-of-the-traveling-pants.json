@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Sisterhood of the Traveling Pants",
+    "year": 2005,
+    "cast": [
+      "Amber Tamblyn",
+      "America Ferrera",
+      "Blake Lively",
+      "Alexis Bledel"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sisterhood-of-the-traveling-pants.html"
+}

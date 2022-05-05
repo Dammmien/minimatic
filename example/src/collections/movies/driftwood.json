@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Driftwood",
+    "year": 2006,
+    "cast": [
+      "Raviv Ullman",
+      "Diamond Dallas Page",
+      "Talan Torriero"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/driftwood.html"
+}

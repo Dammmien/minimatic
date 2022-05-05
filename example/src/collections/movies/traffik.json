@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Traffik",
+    "year": 2018,
+    "cast": [
+      "Paula Patton",
+      "Omar Epps",
+      "Missi Pyle",
+      "William Fichtner",
+      "Roselyn Sanchez",
+      "Dawn Olivieri",
+      "Laz Alonso"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/traffik.html"
+}

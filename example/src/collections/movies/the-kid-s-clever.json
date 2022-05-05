@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Kid's Clever",
+    "year": 1929,
+    "cast": [
+      "Glenn Tryon",
+      "Kathryn Crawford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-kid-s-clever.html"
+}

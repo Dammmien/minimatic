@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tower of Terror",
+    "year": 1997,
+    "cast": [
+      "Steve Guttenberg",
+      "Kirsten Dunst"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/tower-of-terror.html"
+}

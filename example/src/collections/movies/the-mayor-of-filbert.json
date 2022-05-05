@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mayor of Filbert",
+    "year": 1919,
+    "cast": [
+      "Jack Richardson",
+      "Belle Bennett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mayor-of-filbert.html"
+}

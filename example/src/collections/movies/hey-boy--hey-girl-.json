@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hey Boy! Hey Girl!",
+    "year": 1959,
+    "cast": [
+      "Louis Prima",
+      "Keely Smith"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hey-boy--hey-girl-.html"
+}

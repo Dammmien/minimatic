@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rio Rattler",
+    "year": 1935,
+    "cast": [
+      "Tom Tyler",
+      "Marion Shilling"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rio-rattler.html"
+}

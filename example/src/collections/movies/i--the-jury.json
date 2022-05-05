@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I, the Jury",
+    "year": 1982,
+    "cast": [
+      "Armand Assante",
+      "Paul Sorvino",
+      "Barbara Carrera"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/i--the-jury.html"
+}

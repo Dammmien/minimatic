@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Idiot's Delight",
+    "year": 1939,
+    "cast": [
+      "Norma Shearer",
+      "Clark Gable",
+      "Edward Arnold"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/idiot-s-delight.html"
+}

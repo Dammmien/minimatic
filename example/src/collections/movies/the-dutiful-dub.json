@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Dutiful Dub",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd",
+      "Snub Pollard",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-dutiful-dub.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Conquering Power",
+    "year": 1921,
+    "cast": [
+      "Rudolph Valentino",
+      "Alice Terry"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-conquering-power.html"
+}

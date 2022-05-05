@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Great Buck Howard",
+    "year": 2009,
+    "cast": [
+      "John Malkovich",
+      "Colin Hanks",
+      "Emily Blunt",
+      "Steve Zahn",
+      "Tom Hanks"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-great-buck-howard.html"
+}

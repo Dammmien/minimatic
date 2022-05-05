@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Slappy and the Stinkers",
+    "year": 1998,
+    "cast": [
+      "B. D. Wong",
+      "Bronson Pinchot",
+      "Jennifer Coolidge"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/slappy-and-the-stinkers.html"
+}

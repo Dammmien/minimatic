@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Little Eva Ascends",
+    "year": 1922,
+    "cast": [
+      "Gareth Hughes",
+      "May Collins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-eva-ascends.html"
+}

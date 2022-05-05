@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Topper Takes a Trip",
+    "year": 1938,
+    "cast": [
+      "Constance Bennett",
+      "Roland Young",
+      "Billie Burke"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/topper-takes-a-trip.html"
+}

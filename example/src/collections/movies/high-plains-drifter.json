@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "High Plains Drifter",
+    "year": 1973,
+    "cast": [
+      "Clint Eastwood",
+      "Geoffrey Lewis",
+      "Verna Bloom",
+      "Marianna Hill",
+      "Mitchell Ryan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/high-plains-drifter.html"
+}

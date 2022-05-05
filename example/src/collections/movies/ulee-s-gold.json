@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ulee's Gold",
+    "year": 1997,
+    "cast": [
+      "Peter Fonda",
+      "Patricia Richardson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ulee-s-gold.html"
+}

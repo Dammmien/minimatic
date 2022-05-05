@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hers to Hold",
+    "year": 1943,
+    "cast": [
+      "Deanna Durbin",
+      "Joseph Cotten"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/hers-to-hold.html"
+}

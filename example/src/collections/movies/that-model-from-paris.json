@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "That Model from Paris",
+    "year": 1926,
+    "cast": [
+      "Marceline Day",
+      "Bert Lytell"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/that-model-from-paris.html"
+}

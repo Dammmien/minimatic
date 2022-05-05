@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Trapped",
+    "year": 2002,
+    "cast": [
+      "Charlize Theron",
+      "Courtney Love",
+      "Stuart Townsend",
+      "Kevin Bacon",
+      "Dakota Fanning"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/trapped.html"
+}

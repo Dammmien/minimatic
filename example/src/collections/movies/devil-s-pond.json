@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Devil's Pond",
+    "year": 2003,
+    "cast": [
+      "Tara Reid",
+      "Kip Pardue"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/devil-s-pond.html"
+}

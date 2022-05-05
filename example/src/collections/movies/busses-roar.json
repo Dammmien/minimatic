@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Busses Roar",
+    "year": 1942,
+    "cast": [
+      "Richard Travis",
+      "Julie Bishop",
+      "Eleanor Parker"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/busses-roar.html"
+}

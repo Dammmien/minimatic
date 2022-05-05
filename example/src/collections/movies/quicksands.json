@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Quicksands",
+    "year": 1923,
+    "cast": [
+      "Helene Chadwick",
+      "Richard Dix",
+      "Alan Hale"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/quicksands.html"
+}

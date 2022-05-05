@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Black Pirate",
+    "year": 1926,
+    "cast": [
+      "Douglas Fairbanks",
+      "Billie Dove"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-black-pirate.html"
+}

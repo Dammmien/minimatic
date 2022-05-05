@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wagon Wheels",
+    "year": 1934,
+    "cast": [
+      "Randolph Scott",
+      "Gail Patrick"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wagon-wheels.html"
+}

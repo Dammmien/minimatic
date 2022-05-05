@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Shout",
+    "year": 1991,
+    "cast": [
+      "Jamie Walters",
+      "Heather Graham",
+      "Linda Fiorentino",
+      "John Travolta"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shout.html"
+}

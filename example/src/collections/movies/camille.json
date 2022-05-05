@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Camille",
+    "year": 1936,
+    "cast": [
+      "Greta Garbo",
+      "Robert Taylor",
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/camille.html"
+}

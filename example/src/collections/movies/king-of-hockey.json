@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "King of Hockey",
+    "year": 1936,
+    "cast": [
+      "Dick Purcell",
+      "Anne Nagel",
+      "Marie Wilson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/king-of-hockey.html"
+}

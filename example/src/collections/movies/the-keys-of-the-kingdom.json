@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Keys of the Kingdom",
+    "year": 1944,
+    "cast": [
+      "Gregory Peck",
+      "Thomas Mitchell",
+      "Roddy McDowall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-keys-of-the-kingdom.html"
+}

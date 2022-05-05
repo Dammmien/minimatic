@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "White Man",
+    "year": 1924,
+    "cast": [
+      "Kenneth Harlan",
+      "Alice Joyce"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/white-man.html"
+}

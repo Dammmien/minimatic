@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Welcome to L.A.",
+    "year": 1976,
+    "cast": [
+      "Keith Carradine",
+      "Geraldine Chaplin",
+      "Harvey Keitel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/welcome-to-l-a-.html"
+}

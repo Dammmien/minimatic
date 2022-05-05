@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Senator Was Indiscreet",
+    "year": 1947,
+    "cast": [
+      "William Powell",
+      "Ella Raines"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-senator-was-indiscreet.html"
+}

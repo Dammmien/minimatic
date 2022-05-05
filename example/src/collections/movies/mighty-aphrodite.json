@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Mighty Aphrodite",
+    "year": 1995,
+    "cast": [
+      "Woody Allen",
+      "Mira Sorvino",
+      "Helena Bonham Carter",
+      "Michael Rapaport",
+      "F. Murray Abraham"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mighty-aphrodite.html"
+}

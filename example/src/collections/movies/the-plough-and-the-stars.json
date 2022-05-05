@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Plough and the Stars",
+    "year": 1937,
+    "cast": [
+      "Barbara Stanwyck",
+      "Preston Foster",
+      "Barry Fitzgerald"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-plough-and-the-stars.html"
+}

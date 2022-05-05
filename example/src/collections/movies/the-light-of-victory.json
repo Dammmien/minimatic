@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Light of Victory",
+    "year": 1919,
+    "cast": [
+      "Monroe Salisbury",
+      "Betty Compson"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-light-of-victory.html"
+}

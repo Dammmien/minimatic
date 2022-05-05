@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Young Fugitives",
+    "year": 1938,
+    "cast": [
+      "Robert Wilcox",
+      "Harry Davenport",
+      "Dorothea Kent"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/young-fugitives.html"
+}

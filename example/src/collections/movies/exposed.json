@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Exposed",
+    "year": 1983,
+    "cast": [
+      "Nastassja Kinski",
+      "Rudolf Nureyev",
+      "Harvey Keitel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/exposed.html"
+}

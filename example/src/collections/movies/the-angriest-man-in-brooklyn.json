@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Angriest Man in Brooklyn",
+    "year": 2014,
+    "cast": [
+      "Peter Dinklage",
+      "Robin Williams",
+      "Mila Kunis",
+      "James Earl Jones"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-angriest-man-in-brooklyn.html"
+}

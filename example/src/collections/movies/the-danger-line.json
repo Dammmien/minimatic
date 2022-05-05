@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Danger Line",
+    "year": 1924,
+    "cast": [
+      "Sessue Hayakawa",
+      "Tsuru Aoki",
+      "Gina Palerme"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-danger-line.html"
+}

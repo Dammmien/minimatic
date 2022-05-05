@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Resurrection",
+    "year": 1980,
+    "cast": [
+      "Ellen Burstyn",
+      "Richard Farnsworth",
+      "Sam Shepard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/resurrection.html"
+}

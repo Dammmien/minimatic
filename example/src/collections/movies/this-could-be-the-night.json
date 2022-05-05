@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Could Be the Night",
+    "year": 1957,
+    "cast": [
+      "Jean Simmons",
+      "Tony Franciosa"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/this-could-be-the-night.html"
+}

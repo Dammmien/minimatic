@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Birth",
+    "year": 2004,
+    "cast": [
+      "Nicole Kidman",
+      "Cameron Bright",
+      "Danny Huston",
+      "Lauren Bacall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/birth.html"
+}

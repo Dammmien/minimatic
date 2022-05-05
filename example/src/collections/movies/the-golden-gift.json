@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Golden Gift",
+    "year": 1922,
+    "cast": [
+      "Alice Lake",
+      "John Bowers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-golden-gift.html"
+}

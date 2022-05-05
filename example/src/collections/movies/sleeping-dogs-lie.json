@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sleeping Dogs Lie",
+    "year": 2006,
+    "cast": [
+      "Melinda Page Hamilton",
+      "Bryce Johnson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sleeping-dogs-lie.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Hoosiers",
+    "year": 1986,
+    "cast": [
+      "Gene Hackman",
+      "Barbara Hershey",
+      "Dennis Hopper",
+      "Sheb Wooley"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/hoosiers.html"
+}

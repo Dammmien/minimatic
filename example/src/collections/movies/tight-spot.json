@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tight Spot",
+    "year": 1955,
+    "cast": [
+      "Ginger Rogers",
+      "Edward G. Robinson",
+      "Brian Keith"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/tight-spot.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Beyond Therapy",
+    "year": 1987,
+    "cast": [
+      "Julie Hagerty",
+      "Jeff Goldblum",
+      "Glenda Jackson",
+      "Tom Conti",
+      "Christopher Guest"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/beyond-therapy.html"
+}

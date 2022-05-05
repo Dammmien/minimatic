@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Father the Hero",
+    "year": 1994,
+    "cast": [
+      "Gérard Depardieu",
+      "Katherine Heigl",
+      "Dalton James"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-father-the-hero.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Return to the Blue Lagoon",
+    "year": 1991,
+    "cast": [
+      "Milla Jovovich",
+      "Brian Krause"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/return-to-the-blue-lagoon.html"
+}

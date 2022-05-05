@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Magic Face",
+    "year": 1951,
+    "cast": [
+      "Luther Adler",
+      "Patricia Knight"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-magic-face.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rawhide",
+    "year": 1951,
+    "cast": [
+      "Tyrone Power",
+      "Susan Hayward"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rawhide.html"
+}

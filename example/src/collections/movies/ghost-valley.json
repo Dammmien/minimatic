@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ghost Valley",
+    "year": 1932,
+    "cast": [
+      "Tom Keene",
+      "Merna Kennedy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ghost-valley.html"
+}

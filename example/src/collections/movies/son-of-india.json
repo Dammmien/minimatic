@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Son of India",
+    "year": 1931,
+    "cast": [
+      "Ramón Novarro",
+      "Madge Evans"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/son-of-india.html"
+}

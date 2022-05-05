@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Fighting Lady",
+    "year": 1944,
+    "cast": [],
+    "genres": [
+      "War",
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-fighting-lady.html"
+}

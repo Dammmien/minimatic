@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Anne of Avonlea",
+    "year": 1987,
+    "cast": [
+      "Megan Follows",
+      "Colleen Dewhurst",
+      "Wendy Hiller"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/anne-of-avonlea.html"
+}

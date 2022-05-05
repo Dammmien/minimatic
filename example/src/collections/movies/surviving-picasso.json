@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Surviving Picasso",
+    "year": 1996,
+    "cast": [
+      "Anthony Hopkins",
+      "Natascha McElhone",
+      "Julianne Moore"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/surviving-picasso.html"
+}

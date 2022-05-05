@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Black Beauty",
+    "year": 1994,
+    "cast": [
+      "Alan Cumming",
+      "Sean Bean"
+    ],
+    "genres": [
+      "Family",
+      "Drama"
+    ]
+  },
+  "output": "movies/black-beauty.html"
+}

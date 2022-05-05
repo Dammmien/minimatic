@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blazing Six Shooters",
+    "year": 1940,
+    "cast": [
+      "Charles Starrett",
+      "Iris Meredith",
+      "Dick Curtis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/blazing-six-shooters.html"
+}

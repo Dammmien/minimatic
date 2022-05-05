@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Virgin Queen",
+    "year": 1955,
+    "cast": [
+      "Bette Davis",
+      "Richard Todd",
+      "Joan Collins"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/the-virgin-queen.html"
+}

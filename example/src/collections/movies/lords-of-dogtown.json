@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lords of Dogtown",
+    "year": 2005,
+    "cast": [
+      "Heath Ledger",
+      "Emile Hirsch",
+      "John Robinson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lords-of-dogtown.html"
+}

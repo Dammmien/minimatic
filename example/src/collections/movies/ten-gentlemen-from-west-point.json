@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ten Gentlemen from West Point",
+    "year": 1942,
+    "cast": [
+      "George Montgomery",
+      "Maureen O'Hara"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ten-gentlemen-from-west-point.html"
+}

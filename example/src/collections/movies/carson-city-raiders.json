@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Carson City Raiders",
+    "year": 1948,
+    "cast": [
+      "Allan Lane",
+      "Eddy Waller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/carson-city-raiders.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Saturday Night Kid",
+    "year": 1929,
+    "cast": [
+      "Clara Bow",
+      "Jean Arthur"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-saturday-night-kid.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Charlie Wilson's War",
+    "year": 2007,
+    "cast": [
+      "Tom Hanks",
+      "Julia Roberts",
+      "Philip Seymour Hoffman"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/charlie-wilson-s-war.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lady for a Day",
+    "year": 1933,
+    "cast": [
+      "Warren William",
+      "May Robson",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lady-for-a-day.html"
+}

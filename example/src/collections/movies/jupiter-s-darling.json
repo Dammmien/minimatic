@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Jupiter's Darling",
+    "year": 1955,
+    "cast": [
+      "Esther Williams",
+      "Howard Keel",
+      "Marge Champion",
+      "Gower Champion"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/jupiter-s-darling.html"
+}

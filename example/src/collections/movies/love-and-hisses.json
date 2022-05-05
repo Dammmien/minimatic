@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love and Hisses",
+    "year": 1937,
+    "cast": [
+      "Walter Winchell",
+      "Simone Simon",
+      "Joan Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-and-hisses.html"
+}

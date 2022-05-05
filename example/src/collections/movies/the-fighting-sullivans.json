@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fighting Sullivans",
+    "year": 1944,
+    "cast": [
+      "Anne Baxter",
+      "Thomas Mitchell"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fighting-sullivans.html"
+}

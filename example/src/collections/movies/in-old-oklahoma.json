@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In Old Oklahoma",
+    "year": 1943,
+    "cast": [
+      "John Wayne",
+      "Martha Scott",
+      "Dale Evans"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/in-old-oklahoma.html"
+}

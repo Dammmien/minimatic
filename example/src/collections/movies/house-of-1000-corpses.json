@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "House of 1000 Corpses",
+    "year": 2003,
+    "cast": [
+      "Sid Haig",
+      "Bill Moseley",
+      "Erin Daniels"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/house-of-1000-corpses.html"
+}

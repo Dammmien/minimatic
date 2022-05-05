@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last American Hero",
+    "year": 1973,
+    "cast": [
+      "Jeff Bridges",
+      "Valerie Perrine",
+      "Ned Beatty"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-last-american-hero.html"
+}

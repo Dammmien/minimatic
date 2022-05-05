@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dark Swan",
+    "year": 1924,
+    "cast": [
+      "Marie Prevost",
+      "Monte Blue"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-dark-swan.html"
+}

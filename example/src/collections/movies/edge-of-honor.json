@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Edge of Honor",
+    "year": 1991,
+    "cast": [
+      "Corey Feldman",
+      "Meredith Salenger"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/edge-of-honor.html"
+}

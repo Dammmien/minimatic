@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell in the Pacific",
+    "year": 1968,
+    "cast": [
+      "Lee Marvin",
+      "Toshiro Mifune"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/hell-in-the-pacific.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Prime Cut",
+    "year": 1972,
+    "cast": [
+      "Lee Marvin",
+      "Gene Hackman",
+      "Sissy Spacek",
+      "Angel Tompkins"
+    ],
+    "genres": [
+      "Drama",
+      "Action"
+    ]
+  },
+  "output": "movies/prime-cut.html"
+}

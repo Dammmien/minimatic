@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mary Reilly",
+    "year": 1996,
+    "cast": [
+      "Julia Roberts",
+      "John Malkovich",
+      "Glenn Close"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mary-reilly.html"
+}

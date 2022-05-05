@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Five Heartbeats",
+    "year": 1991,
+    "cast": [
+      "Robert Townsend",
+      "Michael Wright",
+      "Leon Robinson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-five-heartbeats.html"
+}

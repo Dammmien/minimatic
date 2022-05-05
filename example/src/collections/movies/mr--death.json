@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Death",
+    "year": 1999,
+    "cast": [
+      "Fred A. Leuchter",
+      "David Irving",
+      "Ernst Zündel"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/mr--death.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The First Purge",
+    "year": 2018,
+    "cast": [
+      "Y'lan Noel",
+      "Lex Scott Davis",
+      "Joivan Wade",
+      "Luna Lauren Velez",
+      "Marisa Tomei"
+    ],
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-first-purge.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pioneer Trails",
+    "year": 1923,
+    "cast": [
+      "Cullen Landis",
+      "Alice Calhoun"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/pioneer-trails.html"
+}

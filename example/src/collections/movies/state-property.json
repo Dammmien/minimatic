@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "State Property",
+    "year": 2002,
+    "cast": [
+      "Beanie Sigel",
+      "Jay-Z",
+      "Damon Dash"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/state-property.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Among the Missing",
+    "year": 1934,
+    "cast": [
+      "Richard Cromwell",
+      "Billie Seward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/among-the-missing.html"
+}

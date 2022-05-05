@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Square Dance Jubilee",
+    "year": 1949,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Mary Beth Hughes",
+      "Wally Vernon"
+    ],
+    "genres": [
+      "Musical",
+      "Western"
+    ]
+  },
+  "output": "movies/square-dance-jubilee.html"
+}

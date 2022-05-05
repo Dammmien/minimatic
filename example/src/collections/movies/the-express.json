@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Express",
+    "year": 2008,
+    "cast": [
+      "Dennis Quaid",
+      "Rob Brown",
+      "Omar Benson Miller"
+    ],
+    "genres": [
+      "Biography",
+      "Sports"
+    ]
+  },
+  "output": "movies/the-express.html"
+}

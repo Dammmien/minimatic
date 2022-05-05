@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Got the Hook Up",
+    "year": 1998,
+    "cast": [
+      "Master P",
+      "Anthony Johnson",
+      "Tommy 'Tiny' Lister"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-got-the-hook-up.html"
+}

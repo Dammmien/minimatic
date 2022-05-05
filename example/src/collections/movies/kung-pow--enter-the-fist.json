@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kung Pow! Enter the Fist",
+    "year": 2002,
+    "cast": [
+      "Steve Oedekerk",
+      "Jennifer Tung",
+      "Lung Fei"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kung-pow--enter-the-fist.html"
+}

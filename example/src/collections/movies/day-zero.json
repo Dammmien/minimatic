@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Day Zero",
+    "year": 2007,
+    "cast": [
+      "Elijah Wood"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/day-zero.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Let's Go, Gallagher",
+    "year": 1925,
+    "cast": [
+      "Tom Tyler",
+      "Olin Francis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/let-s-go--gallagher.html"
+}

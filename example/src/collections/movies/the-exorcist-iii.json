@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Exorcist III",
+    "year": 1990,
+    "cast": [
+      "George C. Scott",
+      "Ed Flanders",
+      "Brad Dourif",
+      "Nicol Williamson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-exorcist-iii.html"
+}

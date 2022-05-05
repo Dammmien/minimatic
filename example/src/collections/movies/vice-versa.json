@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Vice Versa",
+    "year": 1988,
+    "cast": [
+      "Judge Reinhold",
+      "Fred Savage",
+      "Swoosie Kurtz"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/vice-versa.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Dog's Life",
+    "year": 1918,
+    "cast": [
+      "Charlie Chaplin",
+      "Edna Purviance"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-dog-s-life.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Challenge",
+    "year": 1948,
+    "cast": [
+      "Tom Conway",
+      "June Vincent"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-challenge.html"
+}

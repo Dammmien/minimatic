@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sugar & Spice",
+    "year": 2001,
+    "cast": [
+      "Marla Sokoloff",
+      "Marley Shelton",
+      "Mena Suvari"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sugar---spice.html"
+}

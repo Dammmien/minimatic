@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Remember Last Night?",
+    "year": 1935,
+    "cast": [
+      "Constance Cummings",
+      "Robert Young",
+      "Edward Arnold"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/remember-last-night-.html"
+}

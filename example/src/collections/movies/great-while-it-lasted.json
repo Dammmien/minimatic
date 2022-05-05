@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Great While It Lasted",
+    "year": 1915,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/great-while-it-lasted.html"
+}

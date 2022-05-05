@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Coffee Date",
+    "year": 2006,
+    "cast": [
+      "Jonathan Bray",
+      "Wilson Cruz"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/coffee-date.html"
+}

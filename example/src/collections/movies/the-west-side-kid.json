@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The West Side Kid",
+    "year": 1943,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Dale Evans"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-west-side-kid.html"
+}

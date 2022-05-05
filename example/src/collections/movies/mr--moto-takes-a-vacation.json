@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Moto Takes a Vacation",
+    "year": 1939,
+    "cast": [
+      "Peter Lorre",
+      "Joseph Schildkraut",
+      "Virginia Field"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/mr--moto-takes-a-vacation.html"
+}

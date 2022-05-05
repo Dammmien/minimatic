@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Broadway Billy",
+    "year": 1926,
+    "cast": [
+      "Billy Sullivan",
+      "Virginia Brown Faire"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/broadway-billy.html"
+}

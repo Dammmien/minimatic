@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Here Comes Carter",
+    "year": 1936,
+    "cast": [
+      "Ross Alexander",
+      "Glenda Farrell",
+      "Anne Nagel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/here-comes-carter.html"
+}

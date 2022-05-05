@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beyond Glory",
+    "year": 1948,
+    "cast": [
+      "Donna Reed",
+      "Alan Ladd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beyond-glory.html"
+}

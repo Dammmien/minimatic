@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Leopard Woman",
+    "year": 1920,
+    "cast": [
+      "Louise Glaum",
+      "House Peters"
+    ],
+    "genres": [
+      "Adventure",
+      "Romance"
+    ]
+  },
+  "output": "movies/the-leopard-woman.html"
+}

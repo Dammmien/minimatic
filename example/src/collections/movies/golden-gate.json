@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Golden Gate",
+    "year": 1994,
+    "cast": [
+      "Matt Dillon",
+      "Joan Chen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/golden-gate.html"
+}

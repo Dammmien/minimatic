@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Goldie Gets Along",
+    "year": 1933,
+    "cast": [
+      "Lili Damita",
+      "Charles Morton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/goldie-gets-along.html"
+}

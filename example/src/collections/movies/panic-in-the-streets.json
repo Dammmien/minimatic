@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Panic in the Streets",
+    "year": 1950,
+    "cast": [
+      "Richard Widmark",
+      "Paul Douglas"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/panic-in-the-streets.html"
+}

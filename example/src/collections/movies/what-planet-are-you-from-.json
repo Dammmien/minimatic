@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "What Planet Are You From?",
+    "year": 2000,
+    "cast": [
+      "Garry Shandling",
+      "Annette Bening",
+      "John Goodman",
+      "Greg Kinnear",
+      "Linda Fiorentino"
+    ],
+    "genres": [
+      "Comedy",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/what-planet-are-you-from-.html"
+}

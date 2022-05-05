@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three for Bedroom \"C\"",
+    "year": 1952,
+    "cast": [
+      "Gloria Swanson",
+      "James Warren"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-for-bedroom--c-.html"
+}

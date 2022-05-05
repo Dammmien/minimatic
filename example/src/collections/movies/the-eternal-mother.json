@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Eternal Mother",
+    "year": 1912,
+    "cast": [
+      "Edwin August",
+      "Blanche Sweet"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-eternal-mother.html"
+}

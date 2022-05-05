@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Battleground",
+    "year": 1949,
+    "cast": [
+      "Van Johnson",
+      "Ricardo Montalbán"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/battleground.html"
+}

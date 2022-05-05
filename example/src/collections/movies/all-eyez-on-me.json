@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "All Eyez on Me",
+    "year": 2017,
+    "cast": [
+      "Demetrius Shipp Jr.",
+      "Kat Graham",
+      "Lauren Cohan",
+      "Hill Harper",
+      "Danai Gurira"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/all-eyez-on-me.html"
+}

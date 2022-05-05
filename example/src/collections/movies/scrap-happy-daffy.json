@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scrap Happy Daffy",
+    "year": 1943,
+    "cast": [
+      "Daffy Duck"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/scrap-happy-daffy.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Alias Boston Blackie",
+    "year": 1942,
+    "cast": [
+      "Chester Morris",
+      "Adele Mara",
+      "George E. Stone"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/alias-boston-blackie.html"
+}

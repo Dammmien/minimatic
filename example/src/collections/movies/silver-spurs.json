@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silver Spurs",
+    "year": 1943,
+    "cast": [
+      "Roy Rogers",
+      "Phyllis Brooks"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/silver-spurs.html"
+}

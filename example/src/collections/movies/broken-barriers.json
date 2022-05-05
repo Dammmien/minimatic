@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Broken Barriers",
+    "year": 1924,
+    "cast": [
+      "James Kirkwood",
+      "Norma Shearer",
+      "Adolphe Menjou"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/broken-barriers.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Limit Up",
+    "year": 1989,
+    "cast": [
+      "Nancy Allen",
+      "Ray Charles"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/limit-up.html"
+}

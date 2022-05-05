@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Audrey Rose",
+    "year": 1977,
+    "cast": [
+      "Marsha Mason",
+      "Anthony Hopkins",
+      "John Beck"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/audrey-rose.html"
+}

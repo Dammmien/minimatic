@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beyond the Sierras",
+    "year": 1928,
+    "cast": [
+      "Tim McCoy",
+      "Polly Moran"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/beyond-the-sierras.html"
+}

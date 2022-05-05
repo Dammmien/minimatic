@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Road to Wellville",
+    "year": 1994,
+    "cast": [
+      "Anthony Hopkins",
+      "Matthew Broderick",
+      "John Cusack",
+      "Bridget Fonda",
+      "Dana Carvey",
+      "Lara Flynn Boyle",
+      "Camryn Manheim"
+    ],
+    "genres": [
+      "Comedy",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-road-to-wellville.html"
+}

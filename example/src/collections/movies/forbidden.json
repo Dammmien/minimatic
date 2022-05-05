@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Forbidden",
+    "year": 1953,
+    "cast": [
+      "Tony Curtis",
+      "Joanne Dru"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/forbidden.html"
+}

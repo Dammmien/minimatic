@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Branded",
+    "year": 2012,
+    "cast": [
+      "Ed Stoppard",
+      "Leelee Sobieski",
+      "Jeffrey Tambor",
+      "Ingeborga Dapkūnaitė",
+      "Max von Sydow"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/branded.html"
+}

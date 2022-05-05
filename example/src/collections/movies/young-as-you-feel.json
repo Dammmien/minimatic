@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Young as You Feel",
+    "year": 1940,
+    "cast": [
+      "Jed Prouty",
+      "Spring Byington"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/young-as-you-feel.html"
+}

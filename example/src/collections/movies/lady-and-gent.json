@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady and Gent",
+    "year": 1932,
+    "cast": [
+      "George Bancroft",
+      "Wynne Gibson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lady-and-gent.html"
+}

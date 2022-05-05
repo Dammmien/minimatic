@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Range Law",
+    "year": 1944,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/range-law.html"
+}

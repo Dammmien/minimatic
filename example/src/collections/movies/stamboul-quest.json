@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stamboul Quest",
+    "year": 1934,
+    "cast": [
+      "Myrna Loy",
+      "George Brent",
+      "Lionel Atwill"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/stamboul-quest.html"
+}

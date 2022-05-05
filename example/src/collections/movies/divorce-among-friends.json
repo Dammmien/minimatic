@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Divorce Among Friends",
+    "year": 1930,
+    "cast": [
+      "James Hall",
+      "Irene Delroy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/divorce-among-friends.html"
+}

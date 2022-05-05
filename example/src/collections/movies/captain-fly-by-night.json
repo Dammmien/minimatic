@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Captain Fly-by-Night",
+    "year": 1922,
+    "cast": [
+      "Johnnie Walker",
+      "Francis McDonald"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/captain-fly-by-night.html"
+}

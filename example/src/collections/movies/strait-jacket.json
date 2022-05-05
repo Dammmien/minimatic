@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Strait-Jacket",
+    "year": 1964,
+    "cast": [
+      "Joan Crawford",
+      "Diane Baker",
+      "George Kennedy"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/strait-jacket.html"
+}

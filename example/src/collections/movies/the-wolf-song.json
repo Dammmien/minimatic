@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wolf Song",
+    "year": 1929,
+    "cast": [
+      "Gary Cooper",
+      "Lupe Vélez"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-wolf-song.html"
+}

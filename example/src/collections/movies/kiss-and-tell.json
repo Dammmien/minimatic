@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Kiss and Tell",
+    "year": 1945,
+    "cast": [
+      "Shirley Temple",
+      "Jerome Courtland",
+      "Walter Abel",
+      "Robert Benchley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kiss-and-tell.html"
+}

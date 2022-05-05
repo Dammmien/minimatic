@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Ten Commandments",
+    "year": 1956,
+    "cast": [
+      "Charlton Heston",
+      "Yul Brynner",
+      "Edward G. Robinson",
+      "Anne Baxter",
+      "Yvonne De Carlo",
+      "Debra Paget",
+      "John Derek",
+      "Vincent Price",
+      "Martha Scott",
+      "Judith Anderson",
+      "Nina Foch"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-ten-commandments.html"
+}

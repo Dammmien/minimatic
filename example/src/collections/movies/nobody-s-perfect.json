@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nobody's Perfect",
+    "year": 1968,
+    "cast": [
+      "Doug McClure",
+      "Nancy Kwan",
+      "James Whitmore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nobody-s-perfect.html"
+}

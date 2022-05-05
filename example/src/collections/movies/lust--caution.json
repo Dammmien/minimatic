@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Lust, Caution",
+    "year": 2007,
+    "cast": [
+      "Tony Leung Chiu-Wai",
+      "Tang Wei",
+      "Joan Chen",
+      "Leehom Wang"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/lust--caution.html"
+}

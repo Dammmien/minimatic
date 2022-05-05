@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Americathon",
+    "year": 1979,
+    "cast": [
+      "John Ritter",
+      "Harvey Korman",
+      "Fred Willard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/americathon.html"
+}

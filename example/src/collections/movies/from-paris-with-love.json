@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "From Paris with Love",
+    "year": 2010,
+    "cast": [
+      "John Travolta",
+      "Jonathan Rhys Meyers"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/from-paris-with-love.html"
+}

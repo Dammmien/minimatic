@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Murder, Inc.",
+    "year": 1960,
+    "cast": [
+      "Stuart Whitman",
+      "May Britt",
+      "Peter Falk",
+      "Henry Morgan"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/murder--inc-.html"
+}

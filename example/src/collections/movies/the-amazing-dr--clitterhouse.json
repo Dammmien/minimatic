@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Amazing Dr. Clitterhouse",
+    "year": 1938,
+    "cast": [
+      "Edward G. Robinson",
+      "Humphrey Bogart",
+      "Donald Crisp"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-amazing-dr--clitterhouse.html"
+}

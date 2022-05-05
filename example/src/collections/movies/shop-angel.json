@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shop Angel",
+    "year": 1932,
+    "cast": [
+      "Marion Shilling",
+      "Holmes Herbert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shop-angel.html"
+}

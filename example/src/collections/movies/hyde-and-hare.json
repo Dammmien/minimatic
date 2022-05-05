@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hyde and Hare",
+    "year": 1955,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/hyde-and-hare.html"
+}

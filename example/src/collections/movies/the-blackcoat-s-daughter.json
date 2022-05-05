@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Blackcoat's Daughter",
+    "year": 2017,
+    "cast": [
+      "Emma Roberts",
+      "Kiernan Shipka",
+      "Lucy Boynton",
+      "Lauren Holly",
+      "James Remar"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-blackcoat-s-daughter.html"
+}

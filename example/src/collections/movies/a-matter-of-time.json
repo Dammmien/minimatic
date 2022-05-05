@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Matter of Time",
+    "year": 1976,
+    "cast": [
+      "Ingrid Bergman",
+      "Charles Boyer",
+      "Liza Minnelli"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/a-matter-of-time.html"
+}

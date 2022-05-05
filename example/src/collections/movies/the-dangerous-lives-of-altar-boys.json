@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Dangerous Lives of Altar Boys",
+    "year": 2002,
+    "cast": [
+      "Emile Hirsch",
+      "Kieran Culkin",
+      "Jena Malone"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-dangerous-lives-of-altar-boys.html"
+}

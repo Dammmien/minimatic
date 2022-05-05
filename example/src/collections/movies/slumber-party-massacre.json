@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Slumber Party Massacre",
+    "year": 1982,
+    "cast": [
+      "Michelle Michaels",
+      "Andree Honore"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/slumber-party-massacre.html"
+}

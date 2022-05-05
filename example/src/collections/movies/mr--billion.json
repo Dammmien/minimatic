@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Billion",
+    "year": 1977,
+    "cast": [
+      "Terence Hill",
+      "Valerie Perrine",
+      "Jackie Gleason"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/mr--billion.html"
+}

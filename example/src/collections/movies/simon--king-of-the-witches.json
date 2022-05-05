@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Simon, King of the Witches",
+    "year": 1971,
+    "cast": [
+      "Allyson Ames"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/simon--king-of-the-witches.html"
+}

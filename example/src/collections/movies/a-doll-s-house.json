@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Doll's House",
+    "year": 1922,
+    "cast": [
+      "Alan Hale Sr.",
+      "Alla Nazimova"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-doll-s-house.html"
+}

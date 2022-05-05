@@ -1,0 +1,30 @@
+{
+  "data": {
+    "title": "Mirror Mirror",
+    "year": 2012,
+    "cast": [
+      "Julia Roberts",
+      "Lily Collins",
+      "Armie Hammer",
+      "Nathan Lane",
+      "Sean Bean",
+      "Mare Winningham",
+      "Michael Lerner",
+      "Robert Emms",
+      "Mark Povinelli",
+      "Danny Woodburn",
+      "Jordan Prentice",
+      "Ronald Lee Clark",
+      "Sebastian Saraceno",
+      "Martin Klebba",
+      "Joe Gnoffo",
+      "Bonnie Bentley",
+      "Nadia Verrucci"
+    ],
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/mirror-mirror.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "All the Young Men",
+    "year": 1960,
+    "cast": [
+      "Alan Ladd",
+      "Sidney Poitier",
+      "James Darren"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/all-the-young-men.html"
+}

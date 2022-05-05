@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ghost and Mrs. Muir",
+    "year": 1947,
+    "cast": [
+      "Gene Tierney",
+      "Rex Harrison"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ghost-and-mrs--muir.html"
+}

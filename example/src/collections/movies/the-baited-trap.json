@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Baited Trap",
+    "year": 1926,
+    "cast": [
+      "Ben F. Wilson",
+      "Neva Gerber"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-baited-trap.html"
+}

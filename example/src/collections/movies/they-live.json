@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "They Live",
+    "year": 1988,
+    "cast": [
+      "Roddy Piper",
+      "Keith David",
+      "Meg Foster"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/they-live.html"
+}

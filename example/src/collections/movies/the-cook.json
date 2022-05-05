@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cook",
+    "year": 1918,
+    "cast": [
+      "Fatty Arbuckle",
+      "Buster Keaton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-cook.html"
+}

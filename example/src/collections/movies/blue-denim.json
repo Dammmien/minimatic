@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blue Denim",
+    "year": 1959,
+    "cast": [
+      "Carol Lynley",
+      "Macdonald Carey",
+      "Brandon deWilde"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blue-denim.html"
+}

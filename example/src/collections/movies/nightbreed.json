@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Nightbreed",
+    "year": 1990,
+    "cast": [
+      "Craig Sheffer"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/nightbreed.html"
+}

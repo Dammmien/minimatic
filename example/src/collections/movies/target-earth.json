@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Target Earth",
+    "year": 1954,
+    "cast": [
+      "Richard Denning",
+      "Kathleen Crowley"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/target-earth.html"
+}

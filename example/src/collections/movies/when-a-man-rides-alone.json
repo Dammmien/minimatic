@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When a Man Rides Alone",
+    "year": 1919,
+    "cast": [
+      "William Russell",
+      "Carl Stockdale"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/when-a-man-rides-alone.html"
+}

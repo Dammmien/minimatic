@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Black Castle",
+    "year": 1952,
+    "cast": [
+      "Richard Greene",
+      "Boris Karloff",
+      "Stephen McNally"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-black-castle.html"
+}

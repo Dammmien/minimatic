@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paris Trout",
+    "year": 1991,
+    "cast": [
+      "Dennis Hopper",
+      "Barbara Hershey",
+      "Ed Harris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/paris-trout.html"
+}

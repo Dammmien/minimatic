@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sky Murder",
+    "year": 1940,
+    "cast": [
+      "Walter Pidgeon",
+      "Joyce Compton"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/sky-murder.html"
+}

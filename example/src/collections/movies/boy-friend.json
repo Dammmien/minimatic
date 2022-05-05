@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Boy Friend",
+    "year": 1939,
+    "cast": [
+      "Jane Withers",
+      "Arleen Whelan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/boy-friend.html"
+}

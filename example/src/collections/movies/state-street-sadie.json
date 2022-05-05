@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "State Street Sadie",
+    "year": 1928,
+    "cast": [
+      "Conrad Nagel",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/state-street-sadie.html"
+}

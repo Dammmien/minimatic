@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Tattered Dress",
+    "year": 1957,
+    "cast": [
+      "Jeff Chandler",
+      "Jeanne Crain",
+      "Elaine Stewart"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-tattered-dress.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Garbo Talks",
+    "year": 1984,
+    "cast": [
+      "Anne Bancroft",
+      "Ron Silver",
+      "Carrie Fisher"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/garbo-talks.html"
+}

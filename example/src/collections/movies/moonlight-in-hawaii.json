@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Moonlight in Hawaii",
+    "year": 1941,
+    "cast": [
+      "Jane Frazee",
+      "Johnny Downs"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/moonlight-in-hawaii.html"
+}

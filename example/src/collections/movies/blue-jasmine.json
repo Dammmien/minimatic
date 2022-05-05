@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Blue Jasmine",
+    "year": 2013,
+    "cast": [
+      "Alec Baldwin",
+      "Cate Blanchett",
+      "Louis C.K.",
+      "Bobby Cannavale",
+      "Andrew Dice Clay",
+      "Sally Hawkins",
+      "Peter Sarsgaard",
+      "Michael Stuhlbarg"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blue-jasmine.html"
+}

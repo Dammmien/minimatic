@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Small Bachelor",
+    "year": 1927,
+    "cast": [
+      "Barbara Kent",
+      "George Beranger"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-small-bachelor.html"
+}

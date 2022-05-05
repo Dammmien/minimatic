@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Hitler Gang",
+    "year": 1944,
+    "cast": [
+      "Robert Watson",
+      "Roman Bohnen",
+      "Victor Varconi"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-hitler-gang.html"
+}

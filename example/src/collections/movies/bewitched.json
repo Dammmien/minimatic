@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Bewitched",
+    "year": 2005,
+    "cast": [
+      "Nicole Kidman",
+      "Will Ferrell",
+      "Michael Caine",
+      "Jason Schwartzman",
+      "Shirley MacLaine"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bewitched.html"
+}

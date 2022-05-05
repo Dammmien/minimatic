@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "12 Years a Slave",
+    "year": 2013,
+    "cast": [
+      "Chiwetel Ejiofor",
+      "Michael Fassbender",
+      "Benedict Cumberbatch",
+      "Paul Dano",
+      "Paul Giamatti",
+      "Lupita Nyong'o",
+      "Sarah Paulson",
+      "Brad Pitt",
+      "Alfre Woodard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/12-years-a-slave.html"
+}

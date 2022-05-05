@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Insidious: Chapter 3",
+    "year": 2015,
+    "cast": [
+      "Lin Shaye",
+      "Dermot Mulroney",
+      "Stefanie Scott"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/insidious--chapter-3.html"
+}

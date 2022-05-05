@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Judy of Rogue's Harbor",
+    "year": 1920,
+    "cast": [
+      "Mary Miles Minter",
+      "Charles Meredith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/judy-of-rogue-s-harbor.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flying High",
+    "year": 1931,
+    "cast": [
+      "Bert Lahr",
+      "Kathryn Crawford",
+      "Charles Winninger"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/flying-high.html"
+}

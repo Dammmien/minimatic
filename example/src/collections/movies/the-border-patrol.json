@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Border Patrol",
+    "year": 1928,
+    "cast": [
+      "Harry Carey",
+      "Phillips Smalley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-border-patrol.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Girls on the Loose",
+    "year": 1958,
+    "cast": [
+      "Mara Corday",
+      "Lita Milan",
+      "Barbara Bostock"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/girls-on-the-loose.html"
+}

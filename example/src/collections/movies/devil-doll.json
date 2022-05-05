@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Devil Doll",
+    "year": 1964,
+    "cast": [
+      "Bryant Haliday",
+      "William Sylvester"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/devil-doll.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Pilgrim Lady",
+    "year": 1947,
+    "cast": [
+      "Lynne Roberts",
+      "Warren Douglas",
+      "Alan Mowbray",
+      "Veda Ann Borg"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-pilgrim-lady.html"
+}

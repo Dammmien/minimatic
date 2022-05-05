@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bulldog Drummond Strikes Back",
+    "year": 1947,
+    "cast": [
+      "Ron Randell",
+      "Gloria Henry"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/bulldog-drummond-strikes-back.html"
+}

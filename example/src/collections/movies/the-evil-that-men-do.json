@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Evil That Men Do",
+    "year": 1984,
+    "cast": [
+      "Charles Bronson",
+      "José Ferrer"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-evil-that-men-do.html"
+}

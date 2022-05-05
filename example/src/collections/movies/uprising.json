@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Uprising",
+    "year": 2001,
+    "cast": [
+      "Leelee Sobieski",
+      "Hank Azaria",
+      "David Schwimmer",
+      "Jon Voight"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/uprising.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Roberta",
+    "year": 1935,
+    "cast": [
+      "Irene Dunne",
+      "Fred Astaire",
+      "Ginger Rogers"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/roberta.html"
+}

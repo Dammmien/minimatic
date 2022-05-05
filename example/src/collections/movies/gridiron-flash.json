@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gridiron Flash",
+    "year": 1934,
+    "cast": [
+      "Eddie Quillan",
+      "Betty Furness"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/gridiron-flash.html"
+}

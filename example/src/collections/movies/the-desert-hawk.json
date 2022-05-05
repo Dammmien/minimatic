@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Desert Hawk",
+    "year": 1950,
+    "cast": [
+      "Yvonne De Carlo",
+      "Jackie Gleason"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-desert-hawk.html"
+}

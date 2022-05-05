@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Six Convicts",
+    "year": 1952,
+    "cast": [
+      "Gilbert Roland",
+      "Millard Mitchell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-six-convicts.html"
+}

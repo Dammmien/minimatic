@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "War of the Worlds",
+    "year": 2005,
+    "cast": [
+      "Tom Cruise",
+      "Dakota Fanning",
+      "Justin Chatwin"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/war-of-the-worlds.html"
+}

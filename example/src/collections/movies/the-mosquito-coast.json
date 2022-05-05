@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mosquito Coast",
+    "year": 1986,
+    "cast": [
+      "Harrison Ford",
+      "Helen Mirren",
+      "River Phoenix"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mosquito-coast.html"
+}

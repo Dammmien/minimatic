@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Bluebeard",
+    "year": 1972,
+    "cast": [
+      "Richard Burton",
+      "Raquel Welch",
+      "Joey Heatherton",
+      "Virna Lisi",
+      "Nathalie Delon"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/bluebeard.html"
+}

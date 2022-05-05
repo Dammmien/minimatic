@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Renegades of the Sage",
+    "year": 1949,
+    "cast": [
+      "Charles Starrett",
+      "Smiley Burnette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/renegades-of-the-sage.html"
+}

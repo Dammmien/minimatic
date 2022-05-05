@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Green Berets",
+    "year": 1968,
+    "cast": [
+      "John Wayne",
+      "David Janssen",
+      "Jim Hutton",
+      "Aldo Ray"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-green-berets.html"
+}

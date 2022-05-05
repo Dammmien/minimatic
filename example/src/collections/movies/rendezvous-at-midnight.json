@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rendezvous at Midnight",
+    "year": 1935,
+    "cast": [
+      "Ralph Bellamy",
+      "Valerie Hobson"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/rendezvous-at-midnight.html"
+}

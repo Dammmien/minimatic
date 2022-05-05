@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Broadway to Hollywood",
+    "year": 1933,
+    "cast": [
+      "Alice Brady",
+      "Frank Morgan"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/broadway-to-hollywood.html"
+}

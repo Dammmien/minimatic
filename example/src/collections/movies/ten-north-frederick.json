@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ten North Frederick",
+    "year": 1958,
+    "cast": [
+      "Gary Cooper",
+      "Geraldine Fitzgerald",
+      "Suzy Parker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ten-north-frederick.html"
+}

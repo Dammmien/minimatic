@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Breakout",
+    "year": 1975,
+    "cast": [
+      "Charles Bronson",
+      "Robert Duvall",
+      "Jill Ireland",
+      "John Huston"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/breakout.html"
+}

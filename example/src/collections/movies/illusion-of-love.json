@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Illusion of Love",
+    "year": 1929,
+    "cast": [
+      "John Ho",
+      "Florence Lee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/illusion-of-love.html"
+}

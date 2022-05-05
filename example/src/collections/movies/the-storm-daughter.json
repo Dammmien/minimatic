@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Storm Daughter",
+    "year": 1924,
+    "cast": [
+      "Priscilla Dean",
+      "Tom Santschi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-storm-daughter.html"
+}

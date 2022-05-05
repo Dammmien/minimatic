@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Making Mr. Right",
+    "year": 1987,
+    "cast": [
+      "John Malkovich",
+      "Ann Magnuson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/making-mr--right.html"
+}

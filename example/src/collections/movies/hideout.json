@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hideout",
+    "year": 1949,
+    "cast": [
+      "Lloyd Bridges",
+      "Lorna Gray"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/hideout.html"
+}

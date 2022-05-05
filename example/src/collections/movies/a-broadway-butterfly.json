@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Broadway Butterfly",
+    "year": 1925,
+    "cast": [
+      "Dorothy Devore",
+      "Louise Fazenda"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-broadway-butterfly.html"
+}

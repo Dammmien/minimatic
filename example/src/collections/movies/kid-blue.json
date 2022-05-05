@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kid Blue",
+    "year": 1973,
+    "cast": [
+      "Dennis Hopper",
+      "Warren Oates",
+      "Peter Boyle"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/kid-blue.html"
+}

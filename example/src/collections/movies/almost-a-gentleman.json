@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Almost a Gentleman",
+    "year": 1939,
+    "cast": [
+      "James Ellison",
+      "June Clayworth"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/almost-a-gentleman.html"
+}

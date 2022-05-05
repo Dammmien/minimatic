@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Joe Smith, American",
+    "year": 1942,
+    "cast": [
+      "Robert Young",
+      "Marsha Hunt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/joe-smith--american.html"
+}

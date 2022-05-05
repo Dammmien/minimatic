@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The First Deadly Sin",
+    "year": 1980,
+    "cast": [
+      "Frank Sinatra",
+      "Faye Dunaway",
+      "David Dukes",
+      "Brenda Vaccaro",
+      "James Whitmore"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-first-deadly-sin.html"
+}

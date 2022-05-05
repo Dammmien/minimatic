@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "East Lynne",
+    "year": 1931,
+    "cast": [
+      "Ann Harding",
+      "Clive Brook"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/east-lynne.html"
+}

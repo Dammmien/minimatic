@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hidalgo",
+    "year": 2004,
+    "cast": [
+      "Viggo Mortensen",
+      "Zuleikha Robinson",
+      "Omar Sharif"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hidalgo.html"
+}

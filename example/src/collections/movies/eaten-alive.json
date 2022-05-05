@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eaten Alive",
+    "year": 1977,
+    "cast": [
+      "Carolyn Jones",
+      "Michael Berryman"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/eaten-alive.html"
+}

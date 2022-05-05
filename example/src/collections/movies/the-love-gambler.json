@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Love Gambler",
+    "year": 1922,
+    "cast": [
+      "John Gilbert",
+      "Carmel Myers"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-love-gambler.html"
+}

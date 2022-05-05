@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tillie's Punctured Romance",
+    "year": 1928,
+    "cast": [
+      "W. C. Fields",
+      "Louise Fazenda",
+      "Chester Conklin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tillie-s-punctured-romance.html"
+}

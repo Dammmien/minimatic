@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Smartest Girl in Town",
+    "year": 1936,
+    "cast": [
+      "Ann Sothern",
+      "Gene Raymond",
+      "Eric Blore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/smartest-girl-in-town.html"
+}

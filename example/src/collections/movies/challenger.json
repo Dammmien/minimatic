@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Challenger",
+    "year": 1990,
+    "cast": [
+      "Karen Allen",
+      "Barry Bostwick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/challenger.html"
+}

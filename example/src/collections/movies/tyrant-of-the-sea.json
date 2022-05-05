@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tyrant of the Sea",
+    "year": 1950,
+    "cast": [
+      "Ron Randell",
+      "Rhys Williams"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/tyrant-of-the-sea.html"
+}

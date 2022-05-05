@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Good Bad Man",
+    "year": 1916,
+    "cast": [
+      "Douglas Fairbanks",
+      "Sam De Grasse"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-good-bad-man.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Block-Heads",
+    "year": 1938,
+    "cast": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "Patricia Ellis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/block-heads.html"
+}

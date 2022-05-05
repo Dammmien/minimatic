@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Damsel in Distress",
+    "year": 1937,
+    "cast": [
+      "Fred Astaire",
+      "Joan Fontaine",
+      "Montagu Love"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/a-damsel-in-distress.html"
+}

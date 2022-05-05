@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Market of Souls",
+    "year": 1919,
+    "cast": [
+      "Dorothy Dalton",
+      "Holmes Herbert",
+      "Philo McCullough"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-market-of-souls.html"
+}

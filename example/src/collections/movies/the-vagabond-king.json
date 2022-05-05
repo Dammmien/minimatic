@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Vagabond King",
+    "year": 1956,
+    "cast": [
+      "Kathryn Grayson",
+      "Rita Moreno"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-vagabond-king.html"
+}

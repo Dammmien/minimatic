@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Go West",
+    "year": 1940,
+    "cast": [
+      "Marx Brothers",
+      "John Carroll",
+      "Diana Lewis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/go-west.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Haunted Palace",
+    "year": 1963,
+    "cast": [
+      "Vincent Price",
+      "Debra Paget"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-haunted-palace.html"
+}

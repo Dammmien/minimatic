@@ -1,0 +1,38 @@
+{
+  "data": {
+    "title": "Scary Movie 5",
+    "year": 2013,
+    "cast": [
+      "Ashley Tisdale",
+      "Simon Rex",
+      "Erica Ash",
+      "Katrina Bowden",
+      "Heather Locklear",
+      "Terry Crews",
+      "J. P. Manoux",
+      "Mac Miller",
+      "Jerry O'Connell",
+      "Molly Shannon",
+      "Snoop Dogg",
+      "Kate Walsh",
+      "Katt Williams",
+      "Sarah Hyland",
+      "Bow Wow",
+      "Jasmine Guy",
+      "Lil Duval",
+      "Chris Elliott",
+      "Kendra Wilkinson",
+      "Audrina Patridge",
+      "Tyler Posey",
+      "Mike Tyson",
+      "Charlie Sheen",
+      "Lindsay Lohan"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy",
+      "Satire"
+    ]
+  },
+  "output": "movies/scary-movie-5.html"
+}

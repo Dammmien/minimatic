@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Santiago",
+    "year": 1956,
+    "cast": [
+      "Alan Ladd",
+      "Rossana Podestà"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/santiago.html"
+}

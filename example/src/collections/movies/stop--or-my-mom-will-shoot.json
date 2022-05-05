@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Stop! Or My Mom Will Shoot",
+    "year": 1992,
+    "cast": [
+      "Sylvester Stallone",
+      "Estelle Getty",
+      "JoBeth Williams",
+      "Roger Rees"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stop--or-my-mom-will-shoot.html"
+}

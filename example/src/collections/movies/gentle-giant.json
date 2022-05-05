@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gentle Giant",
+    "year": 1967,
+    "cast": [
+      "Vera Miles",
+      "Dennis Weaver",
+      "Clint Howard"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/gentle-giant.html"
+}

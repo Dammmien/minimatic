@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Marie Antoinette",
+    "year": 2006,
+    "cast": [
+      "Kirsten Dunst",
+      "Jason Schwartzman",
+      "Judy Davis"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/marie-antoinette.html"
+}

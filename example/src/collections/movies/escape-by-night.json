@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Escape by Night",
+    "year": 1937,
+    "cast": [
+      "William Hall",
+      "Dean Jagger",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/escape-by-night.html"
+}

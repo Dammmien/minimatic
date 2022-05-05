@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Inn of the Sixth Happiness",
+    "year": 1958,
+    "cast": [
+      "Ingrid Bergman",
+      "Curt Jurgens",
+      "Robert Donat"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-inn-of-the-sixth-happiness.html"
+}

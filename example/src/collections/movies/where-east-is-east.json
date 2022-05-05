@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Where East is East",
+    "year": 1929,
+    "cast": [
+      "Lon Chaney",
+      "Lupe Vélez"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/where-east-is-east.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Easy Come, Easy Go",
+    "year": 1967,
+    "cast": [
+      "Elvis Presley",
+      "Pat Priest"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/easy-come--easy-go.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Grateful Dead Movie",
+    "year": 1977,
+    "cast": [
+      "Bob Weir",
+      "Jerry Garcia"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-grateful-dead-movie.html"
+}

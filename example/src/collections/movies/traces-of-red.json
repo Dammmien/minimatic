@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Traces of Red",
+    "year": 1992,
+    "cast": [
+      "James Belushi",
+      "Lorraine Bracco",
+      "Tony Goldwyn"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/traces-of-red.html"
+}

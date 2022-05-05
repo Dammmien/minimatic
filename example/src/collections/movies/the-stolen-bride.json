@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Stolen Bride",
+    "year": 1927,
+    "cast": [
+      "Billie Dove",
+      "Lloyd Hughes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-stolen-bride.html"
+}

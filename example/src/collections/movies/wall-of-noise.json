@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wall of Noise",
+    "year": 1963,
+    "cast": [
+      "Suzanne Pleshette",
+      "Dorothy Provine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wall-of-noise.html"
+}

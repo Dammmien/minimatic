@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Crimes",
+    "year": 1992,
+    "cast": [
+      "Sean Young",
+      "Patrick Bergin",
+      "Arnetia Walker"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/love-crimes.html"
+}

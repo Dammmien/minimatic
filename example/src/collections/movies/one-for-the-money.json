@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "One for the Money",
+    "year": 2012,
+    "cast": [
+      "Katherine Heigl",
+      "Jason O'Mara",
+      "Daniel Sunjata",
+      "John Leguizamo",
+      "Sherri Shepherd",
+      "Debbie Reynolds"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-for-the-money.html"
+}

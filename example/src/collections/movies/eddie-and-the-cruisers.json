@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Eddie and the Cruisers",
+    "year": 1983,
+    "cast": [
+      "Michael Paré",
+      "Tom Berenger",
+      "Ellen Barkin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/eddie-and-the-cruisers.html"
+}

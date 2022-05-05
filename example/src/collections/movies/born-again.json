@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Born Again",
+    "year": 1978,
+    "cast": [
+      "Dean Jones",
+      "Anne Francis",
+      "Dana Andrews"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/born-again.html"
+}

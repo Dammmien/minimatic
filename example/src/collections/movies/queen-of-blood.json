@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Queen of Blood",
+    "year": 1966,
+    "cast": [
+      "John Saxon",
+      "Dennis Hopper"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/queen-of-blood.html"
+}

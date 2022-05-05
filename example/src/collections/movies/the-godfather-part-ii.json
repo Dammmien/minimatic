@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "The Godfather Part II",
+    "year": 1974,
+    "cast": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Lee Strasberg",
+      "Diane Keaton",
+      "Robert Duvall",
+      "John Cazale",
+      "Talia Shire",
+      "G. D. Spradlin",
+      "Bruno Kirby",
+      "Michael V. Gazzo",
+      "James Caan"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-godfather-part-ii.html"
+}

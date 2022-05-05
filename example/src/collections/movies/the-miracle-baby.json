@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Miracle Baby",
+    "year": 1923,
+    "cast": [
+      "Harry Carey",
+      "Margaret Landis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-miracle-baby.html"
+}

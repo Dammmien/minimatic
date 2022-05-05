@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mrs. Miniver",
+    "year": 1942,
+    "cast": [
+      "Greer Garson",
+      "Walter Pidgeon",
+      "Teresa Wright"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/mrs--miniver.html"
+}

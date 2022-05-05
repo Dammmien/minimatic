@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Prince and Me",
+    "year": 2004,
+    "cast": [
+      "Julia Stiles",
+      "Luke Mably",
+      "Ben Miller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-prince-and-me.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Five Weeks in a Balloon",
+    "year": 1962,
+    "cast": [
+      "Red Buttons",
+      "Barbara Eden"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/five-weeks-in-a-balloon.html"
+}

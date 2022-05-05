@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Monkey Kingdom",
+    "year": 2015,
+    "cast": [
+      "Tina Fey"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/monkey-kingdom.html"
+}

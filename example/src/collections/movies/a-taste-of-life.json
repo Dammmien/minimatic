@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Taste of Life",
+    "year": 1919,
+    "cast": [
+      "Edith Roberts",
+      "Billy Mason"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-taste-of-life.html"
+}

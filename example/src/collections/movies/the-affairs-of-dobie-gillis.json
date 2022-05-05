@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Affairs of Dobie Gillis",
+    "year": 1953,
+    "cast": [
+      "Debbie Reynolds",
+      "Bob Fosse"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-affairs-of-dobie-gillis.html"
+}

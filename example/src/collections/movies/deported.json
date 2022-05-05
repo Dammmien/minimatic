@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Deported",
+    "year": 1950,
+    "cast": [
+      "Märta Torén",
+      "Jeff Chandler"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/deported.html"
+}

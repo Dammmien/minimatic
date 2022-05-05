@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No Man's Woman",
+    "year": 1955,
+    "cast": [
+      "Marie Windsor",
+      "Patric Knowles"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/no-man-s-woman.html"
+}

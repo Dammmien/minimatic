@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Muppet Christmas Carol",
+    "year": 1992,
+    "cast": [
+      "Michael Caine"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-muppet-christmas-carol.html"
+}

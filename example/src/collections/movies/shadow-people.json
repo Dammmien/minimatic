@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Shadow People",
+    "year": 2013,
+    "cast": [
+      "Dallas Roberts",
+      "Alison Eastwood",
+      "Anne Dudek",
+      "Mariah Bonner",
+      "Mattie Liptak"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/shadow-people.html"
+}

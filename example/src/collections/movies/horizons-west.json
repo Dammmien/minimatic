@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Horizons West",
+    "year": 1952,
+    "cast": [
+      "Robert Ryan",
+      "Julie Adams",
+      "Rock Hudson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/horizons-west.html"
+}

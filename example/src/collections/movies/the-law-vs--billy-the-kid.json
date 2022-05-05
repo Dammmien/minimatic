@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Law vs. Billy the Kid",
+    "year": 1954,
+    "cast": [
+      "Scott Brady",
+      "Betta St. John"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-law-vs--billy-the-kid.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Daring Years",
+    "year": 1923,
+    "cast": [
+      "Mildred Harris",
+      "Charles Emmett Mack",
+      "Clara Bow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-daring-years.html"
+}

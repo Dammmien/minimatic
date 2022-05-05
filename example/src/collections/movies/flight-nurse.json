@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flight Nurse",
+    "year": 1953,
+    "cast": [
+      "Joan Leslie",
+      "Forrest Tucker"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/flight-nurse.html"
+}

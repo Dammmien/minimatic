@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Brooklyn Orchid",
+    "year": 1942,
+    "cast": [
+      "William Bendix",
+      "Grace Bradley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/brooklyn-orchid.html"
+}

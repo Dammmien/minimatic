@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "King of the Zombies",
+    "year": 1941,
+    "cast": [
+      "Dick Purcell",
+      "Joan Woodbury"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/king-of-the-zombies.html"
+}

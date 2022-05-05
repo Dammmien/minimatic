@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wes Craven's New Nightmare",
+    "year": 1994,
+    "cast": [
+      "Robert Englund",
+      "Heather Langenkamp"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/wes-craven-s-new-nightmare.html"
+}

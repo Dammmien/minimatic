@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hot Potato",
+    "year": 1976,
+    "cast": [
+      "Jim Kelly"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/hot-potato.html"
+}

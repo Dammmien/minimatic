@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Florida Project",
+    "year": 2017,
+    "cast": [
+      "Willem Dafoe",
+      "Bria Vinaite",
+      "Brooklynn Prince",
+      "Valeria Cotto",
+      "Caleb Landry Jones"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-florida-project.html"
+}

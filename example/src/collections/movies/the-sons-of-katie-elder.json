@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Sons of Katie Elder",
+    "year": 1965,
+    "cast": [
+      "John Wayne",
+      "Dean Martin",
+      "Earl Holliman",
+      "George Kennedy",
+      "James Gregory",
+      "Martha Hyer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-sons-of-katie-elder.html"
+}

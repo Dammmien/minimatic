@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "A Forest Romance",
+    "year": 1913,
+    "cast": [
+      "Harry von Meter",
+      "Mona Darkfeather"
+    ],
+    "genres": []
+  },
+  "output": "movies/a-forest-romance.html"
+}

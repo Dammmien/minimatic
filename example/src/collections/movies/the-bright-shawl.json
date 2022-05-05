@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bright Shawl",
+    "year": 1923,
+    "cast": [
+      "Richard Barthelmess",
+      "Dorothy Gish",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bright-shawl.html"
+}

@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Tweetie Pie",
+    "year": 1947,
+    "cast": [],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/tweetie-pie.html"
+}

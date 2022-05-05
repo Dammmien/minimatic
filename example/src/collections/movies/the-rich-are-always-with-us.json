@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Rich Are Always with Us",
+    "year": 1932,
+    "cast": [
+      "Ruth Chatterton",
+      "George Brent"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-rich-are-always-with-us.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Andersonville",
+    "year": 1996,
+    "cast": [
+      "Frederic Forrest",
+      "Carmen Argenziano",
+      "Jayce Bartok"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/andersonville.html"
+}

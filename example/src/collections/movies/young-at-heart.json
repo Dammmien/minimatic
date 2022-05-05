@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Young at Heart",
+    "year": 1954,
+    "cast": [
+      "Doris Day",
+      "Frank Sinatra"
+    ],
+    "genres": [
+      "Musical",
+      "Drama"
+    ]
+  },
+  "output": "movies/young-at-heart.html"
+}

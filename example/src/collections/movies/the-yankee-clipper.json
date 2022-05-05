@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Yankee Clipper",
+    "year": 1927,
+    "cast": [
+      "William Boyd",
+      "Elinor Fair",
+      "Junior Coghlan",
+      "John Miljan"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-yankee-clipper.html"
+}

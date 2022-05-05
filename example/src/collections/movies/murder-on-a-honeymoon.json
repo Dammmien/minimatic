@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Murder on a Honeymoon",
+    "year": 1935,
+    "cast": [
+      "Edna May Oliver",
+      "Leo G. Carroll",
+      "Lola Lane"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder-on-a-honeymoon.html"
+}

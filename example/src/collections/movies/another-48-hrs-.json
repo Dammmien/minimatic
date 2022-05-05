@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Another 48 Hrs.",
+    "year": 1990,
+    "cast": [
+      "Eddie Murphy",
+      "Nick Nolte"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/another-48-hrs-.html"
+}

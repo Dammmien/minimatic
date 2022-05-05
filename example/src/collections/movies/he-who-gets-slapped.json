@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "He Who Gets Slapped",
+    "year": 1924,
+    "cast": [
+      "Lon Chaney",
+      "Norma Shearer",
+      "John Gilbert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/he-who-gets-slapped.html"
+}

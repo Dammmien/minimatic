@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Piranha 3-D",
+    "year": 2010,
+    "cast": [
+      "Elisabeth Shue",
+      "Adam Scott",
+      "Jerry O'Connell",
+      "Ving Rhames",
+      "Jessica Szohr",
+      "Steven R. McQueen",
+      "Christopher Lloyd",
+      "Richard Dreyfuss",
+      "Kelly Brook",
+      "Riley Steele",
+      "Ricardo Chavira",
+      "Paul Scheer"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/piranha-3-d.html"
+}

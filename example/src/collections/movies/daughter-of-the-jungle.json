@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daughter of the Jungle",
+    "year": 1949,
+    "cast": [
+      "Lois Hall",
+      "Sheldon Leonard"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/daughter-of-the-jungle.html"
+}

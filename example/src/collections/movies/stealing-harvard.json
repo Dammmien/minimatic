@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Stealing Harvard",
+    "year": 2002,
+    "cast": [
+      "Jason Lee",
+      "Tom Green",
+      "Leslie Mann",
+      "Megan Mullally",
+      "Tammy Blanchard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stealing-harvard.html"
+}

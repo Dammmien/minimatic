@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chicago Syndicate",
+    "year": 1955,
+    "cast": [
+      "Dennis O'Keefe",
+      "Abbe Lane"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/chicago-syndicate.html"
+}

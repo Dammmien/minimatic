@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Scream 3",
+    "year": 2000,
+    "cast": [
+      "David Arquette",
+      "Neve Campbell",
+      "Courteney Cox",
+      "Patrick Dempsey",
+      "Scott Foley",
+      "Emily Mortimer"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/scream-3.html"
+}

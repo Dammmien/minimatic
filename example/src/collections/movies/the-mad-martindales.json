@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Mad Martindales",
+    "year": 1942,
+    "cast": [
+      "Jane Withers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-mad-martindales.html"
+}

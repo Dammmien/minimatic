@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Married a Woman",
+    "year": 1958,
+    "cast": [
+      "George Gobel",
+      "Diana Dors"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-married-a-woman.html"
+}

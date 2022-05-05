@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Twinkler",
+    "year": 1916,
+    "cast": [
+      "William Russell",
+      "Charlotte Burton"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-twinkler.html"
+}

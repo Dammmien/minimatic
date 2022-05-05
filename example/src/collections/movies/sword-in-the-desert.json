@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sword in the Desert",
+    "year": 1949,
+    "cast": [
+      "Dana Andrews",
+      "Märta Torén"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/sword-in-the-desert.html"
+}

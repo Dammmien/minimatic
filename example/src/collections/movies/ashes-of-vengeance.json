@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ashes of Vengeance",
+    "year": 1923,
+    "cast": [
+      "Norma Talmadge",
+      "Conway Tearle",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ashes-of-vengeance.html"
+}

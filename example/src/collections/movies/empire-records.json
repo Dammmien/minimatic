@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Empire Records",
+    "year": 1995,
+    "cast": [
+      "Anthony LaPaglia",
+      "Maxwell Caulfield",
+      "Debi Mazar",
+      "Rory Cochrane",
+      "Robin Tunney",
+      "Ethan Embry",
+      "Johnny Whitworth",
+      "Renée Zellweger",
+      "Liv Tyler"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/empire-records.html"
+}

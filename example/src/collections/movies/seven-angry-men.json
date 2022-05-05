@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Seven Angry Men",
+    "year": 1955,
+    "cast": [
+      "Raymond Massey",
+      "Jeffrey Hunter",
+      "Debra Paget"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/seven-angry-men.html"
+}

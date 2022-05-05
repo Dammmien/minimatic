@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Too Many Women",
+    "year": 1942,
+    "cast": [
+      "June Lang",
+      "Joyce Compton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/too-many-women.html"
+}

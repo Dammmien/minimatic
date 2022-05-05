@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Champ",
+    "year": 1979,
+    "cast": [
+      "Jon Voight",
+      "Rick Schroder",
+      "Faye Dunaway"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-champ.html"
+}

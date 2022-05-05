@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When Romance Rides",
+    "year": 1922,
+    "cast": [
+      "Claire Adams",
+      "Carl Gantvoort"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/when-romance-rides.html"
+}

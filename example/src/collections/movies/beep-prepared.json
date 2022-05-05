@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beep Prepared",
+    "year": 1961,
+    "cast": [
+      "voice of",
+      "Paul Julian"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/beep-prepared.html"
+}

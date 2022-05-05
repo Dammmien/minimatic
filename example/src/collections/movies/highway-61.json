@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Highway 61",
+    "year": 1991,
+    "cast": [
+      "Valerie Buhagiar"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/highway-61.html"
+}

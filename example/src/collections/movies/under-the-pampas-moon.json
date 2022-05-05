@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Under the Pampas Moon",
+    "year": 1935,
+    "cast": [
+      "Warner Baxter",
+      "Ketti Gallian",
+      "Jack La Rue"
+    ],
+    "genres": [
+      "Western",
+      "Musical"
+    ]
+  },
+  "output": "movies/under-the-pampas-moon.html"
+}

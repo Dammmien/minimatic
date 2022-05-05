@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "To the Limit",
+    "year": 1995,
+    "cast": [
+      "Anna Nicole Smith",
+      "Michael Nouri"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/to-the-limit.html"
+}

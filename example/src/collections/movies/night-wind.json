@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night Wind",
+    "year": 1948,
+    "cast": [
+      "Charles Russell",
+      "Virginia Christine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/night-wind.html"
+}

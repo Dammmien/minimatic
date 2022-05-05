@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Arizona Romeo",
+    "year": 1925,
+    "cast": [
+      "Buck Jones",
+      "Lucy Fox"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-arizona-romeo.html"
+}

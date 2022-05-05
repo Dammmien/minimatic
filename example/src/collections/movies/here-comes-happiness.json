@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Here Comes Happiness",
+    "year": 1941,
+    "cast": [
+      "Mildred Coles",
+      "Edward Norris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/here-comes-happiness.html"
+}

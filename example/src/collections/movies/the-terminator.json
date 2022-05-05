@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Terminator",
+    "year": 1984,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Michael Biehn",
+      "Lance Henriksen",
+      "Paul Winfield"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-terminator.html"
+}

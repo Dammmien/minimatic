@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Holy Man",
+    "year": 1998,
+    "cast": [
+      "Eddie Murphy",
+      "Jeff Goldblum",
+      "Kelly Preston",
+      "Robert Loggia",
+      "Morgan Fairchild"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/holy-man.html"
+}

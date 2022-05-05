@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Crime Spree",
+    "year": 2003,
+    "cast": [
+      "Gérard Depardieu",
+      "Harvey Keitel",
+      "Johnny Hallyday"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/crime-spree.html"
+}

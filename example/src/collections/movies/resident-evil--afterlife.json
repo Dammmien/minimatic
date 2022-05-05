@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Resident Evil: Afterlife",
+    "year": 2010,
+    "cast": [
+      "Milla Jovovich",
+      "Ali Larter",
+      "Kim Coates",
+      "Shawn Roberts",
+      "Sergio Peris-Mencheta",
+      "Spencer Locke",
+      "Boris Kodjoe",
+      "Wentworth Miller"
+    ],
+    "genres": [
+      "Action",
+      "Horror",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/resident-evil--afterlife.html"
+}

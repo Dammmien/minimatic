@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kilroy Was Here",
+    "year": 1947,
+    "cast": [
+      "Jackie Cooper",
+      "Jackie Coogan",
+      "Wanda McKay"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kilroy-was-here.html"
+}

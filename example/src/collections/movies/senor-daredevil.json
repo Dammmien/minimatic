@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Senor Daredevil",
+    "year": 1926,
+    "cast": [
+      "Ken Maynard",
+      "Dorothy Devore"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/senor-daredevil.html"
+}

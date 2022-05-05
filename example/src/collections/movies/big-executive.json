@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Big Executive",
+    "year": 1933,
+    "cast": [
+      "Ricardo Cortez",
+      "Sharon Lynn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/big-executive.html"
+}

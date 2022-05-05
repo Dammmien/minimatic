@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Turn in the Road",
+    "year": 1919,
+    "cast": [
+      "George Nichols",
+      "Lloyd Hughes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-turn-in-the-road.html"
+}

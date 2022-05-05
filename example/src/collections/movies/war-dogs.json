@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "War Dogs",
+    "year": 2016,
+    "cast": [
+      "Jonah Hill",
+      "Miles Teller"
+    ],
+    "genres": [
+      "Crime",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/war-dogs.html"
+}

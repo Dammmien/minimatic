@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Spikes Gang",
+    "year": 1974,
+    "cast": [
+      "Lee Marvin",
+      "Gary Grimes",
+      "Ron Howard"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-spikes-gang.html"
+}

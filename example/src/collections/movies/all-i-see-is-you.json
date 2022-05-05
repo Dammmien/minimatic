@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "All I See Is You",
+    "year": 2017,
+    "cast": [
+      "Blake Lively",
+      "Jason Clarke",
+      "Yvonne Strahovski",
+      "Danny Huston",
+      "Wes Chatham"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/all-i-see-is-you.html"
+}

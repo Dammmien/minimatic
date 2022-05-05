@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Flying Saucer Daffy",
+    "year": 1958,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/flying-saucer-daffy.html"
+}

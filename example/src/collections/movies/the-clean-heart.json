@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Clean Heart",
+    "year": 1924,
+    "cast": [
+      "Percy Marmont",
+      "Otis Harlan",
+      "Marguerite De La Motte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-clean-heart.html"
+}

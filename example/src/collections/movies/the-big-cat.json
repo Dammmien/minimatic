@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Cat",
+    "year": 1949,
+    "cast": [
+      "Lon McCallister",
+      "Peggy Ann Garner",
+      "Preston Foster"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-big-cat.html"
+}

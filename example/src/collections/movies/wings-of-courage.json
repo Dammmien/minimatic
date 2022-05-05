@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Wings of Courage",
+    "year": 1995,
+    "cast": [
+      "Craig Sheffer",
+      "Elizabeth McGovern"
+    ],
+    "genres": []
+  },
+  "output": "movies/wings-of-courage.html"
+}

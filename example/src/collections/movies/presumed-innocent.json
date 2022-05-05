@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Presumed Innocent",
+    "year": 1990,
+    "cast": [
+      "Harrison Ford",
+      "Greta Scacchi",
+      "Bonnie Bedelia",
+      "Brian Dennehy",
+      "Raúl Juliá",
+      "Paul Winfield",
+      "John Spencer"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/presumed-innocent.html"
+}

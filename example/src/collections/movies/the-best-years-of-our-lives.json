@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Best Years of Our Lives",
+    "year": 1946,
+    "cast": [
+      "Fredric March",
+      "Myrna Loy",
+      "Dana Andrews",
+      "Teresa Wright",
+      "Virginia Mayo",
+      "Hoagy Carmichael",
+      "Harold Russell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-best-years-of-our-lives.html"
+}

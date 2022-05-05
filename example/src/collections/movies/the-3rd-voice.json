@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The 3rd Voice",
+    "year": 1960,
+    "cast": [
+      "Edmond O'Brien",
+      "Laraine Day",
+      "Julie London"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-3rd-voice.html"
+}

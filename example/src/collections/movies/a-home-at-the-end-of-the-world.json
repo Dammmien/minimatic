@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Home at the End of the World",
+    "year": 2004,
+    "cast": [
+      "Colin Farrell",
+      "Robin Wright Penn",
+      "Dallas Roberts",
+      "Sissy Spacek"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-home-at-the-end-of-the-world.html"
+}

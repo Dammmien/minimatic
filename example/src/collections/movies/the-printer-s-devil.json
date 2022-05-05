@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Printer's Devil",
+    "year": 1923,
+    "cast": [
+      "Wesley Barry",
+      "Harry Myers",
+      "Kathryn McGuire"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-printer-s-devil.html"
+}

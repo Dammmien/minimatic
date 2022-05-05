@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Undercover Man",
+    "year": 1936,
+    "cast": [
+      "Johnny Mack Brown",
+      "Suzanne Kaaren"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/undercover-man.html"
+}

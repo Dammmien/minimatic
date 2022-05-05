@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Big Wheel",
+    "year": 1949,
+    "cast": [
+      "Mickey Rooney",
+      "Thomas Mitchell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-big-wheel.html"
+}

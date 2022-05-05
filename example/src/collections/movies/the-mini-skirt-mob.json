@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mini-Skirt Mob",
+    "year": 1968,
+    "cast": [
+      "Diane McBain",
+      "Jeremy Slate"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mini-skirt-mob.html"
+}

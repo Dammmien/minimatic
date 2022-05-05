@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Great Mom Swap",
+    "year": 1995,
+    "cast": [
+      "Shelley Fabares",
+      "Valerie Harper",
+      "Mary Kate Schellhardt",
+      "Hillary Tuck"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-great-mom-swap.html"
+}

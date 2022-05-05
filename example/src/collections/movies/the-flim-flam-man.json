@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Flim-Flam Man",
+    "year": 1967,
+    "cast": [
+      "George C. Scott",
+      "Sue Lyon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-flim-flam-man.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dead Bang",
+    "year": 1989,
+    "cast": [
+      "Don Johnson",
+      "Tim Reid",
+      "Penelope Ann Miller"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/dead-bang.html"
+}

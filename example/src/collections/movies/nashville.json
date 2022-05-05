@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Nashville",
+    "year": 1975,
+    "cast": [
+      "Keith Carradine",
+      "Karen Black",
+      "Ned Beatty",
+      "Ronee Blakley",
+      "Lily Tomlin",
+      "Barbara Harris",
+      "Gwen Welles"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/nashville.html"
+}

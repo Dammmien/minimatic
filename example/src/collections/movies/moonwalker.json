@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Moonwalker",
+    "year": 1988,
+    "cast": [
+      "Michael Jackson",
+      "Joe Pesci",
+      "Sean Lennon"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/moonwalker.html"
+}

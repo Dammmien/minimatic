@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Now, Voyager",
+    "year": 1942,
+    "cast": [
+      "Bette Davis",
+      "Paul Henreid",
+      "Claude Rains",
+      "Gladys Cooper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/now--voyager.html"
+}

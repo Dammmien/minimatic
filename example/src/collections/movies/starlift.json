@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Starlift",
+    "year": 1951,
+    "cast": [
+      "Janice Rule",
+      "Dick Wesson",
+      "Ruth Roman"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/starlift.html"
+}

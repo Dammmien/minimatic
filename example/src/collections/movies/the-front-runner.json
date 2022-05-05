@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Front Runner",
+    "year": 2018,
+    "cast": [
+      "Hugh Jackman",
+      "Vera Farmiga",
+      "J. K. Simmons",
+      "Alfred Molina"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-front-runner.html"
+}

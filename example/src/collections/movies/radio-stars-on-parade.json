@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Radio Stars on Parade",
+    "year": 1945,
+    "cast": [
+      "Brown and Carney",
+      "Frances Langford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/radio-stars-on-parade.html"
+}

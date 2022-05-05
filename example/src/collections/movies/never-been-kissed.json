@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Never Been Kissed",
+    "year": 1999,
+    "cast": [
+      "Drew Barrymore",
+      "David Arquette",
+      "Molly Shannon",
+      "James Franco"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/never-been-kissed.html"
+}

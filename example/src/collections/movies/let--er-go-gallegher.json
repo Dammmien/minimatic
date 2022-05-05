@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Let 'Er Go Gallegher",
+    "year": 1928,
+    "cast": [
+      "Frank Coghlan Jr.",
+      "Harrison Ford"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/let--er-go-gallegher.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "West of Broadway",
+    "year": 1931,
+    "cast": [
+      "John Gilbert",
+      "Lois Moran"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/west-of-broadway.html"
+}

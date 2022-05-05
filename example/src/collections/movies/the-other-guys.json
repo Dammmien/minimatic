@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Other Guys",
+    "year": 2010,
+    "cast": [
+      "Samuel L. Jackson",
+      "Mark Wahlberg",
+      "Will Ferrell",
+      "Dwayne Johnson",
+      "Eva Mendes",
+      "Anne Heche",
+      "Michael Keaton",
+      "Steve Coogan",
+      "Ray Stevenson"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-other-guys.html"
+}

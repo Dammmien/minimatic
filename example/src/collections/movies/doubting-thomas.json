@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Doubting Thomas",
+    "year": 1935,
+    "cast": [
+      "Will Rogers",
+      "Billie Burke",
+      "Alison Skipworth"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/doubting-thomas.html"
+}

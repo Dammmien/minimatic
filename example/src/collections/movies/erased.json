@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Erased",
+    "year": 2013,
+    "cast": [
+      "Aaron Eckhart",
+      "Olga Kurylenko",
+      "Liana Liberato",
+      "Alexander Fehling",
+      "Garrick Hagon"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/erased.html"
+}

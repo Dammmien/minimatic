@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Godfather Part III",
+    "year": 1990,
+    "cast": [
+      "Al Pacino",
+      "Andy García",
+      "Diane Keaton",
+      "Talia Shire",
+      "Sofia Coppola",
+      "Joe Mantegna",
+      "Eli Wallach"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-godfather-part-iii.html"
+}

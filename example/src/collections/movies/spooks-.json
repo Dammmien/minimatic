@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spooks!",
+    "year": 1953,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/spooks-.html"
+}

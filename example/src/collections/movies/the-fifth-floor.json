@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fifth Floor",
+    "year": 1979,
+    "cast": [
+      "Sharon Farrell",
+      "Bo Hopkins"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-fifth-floor.html"
+}

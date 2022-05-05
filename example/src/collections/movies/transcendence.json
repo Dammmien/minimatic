@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Transcendence",
+    "year": 2014,
+    "cast": [
+      "Johnny Depp",
+      "Morgan Freeman",
+      "Rebecca Hall"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/transcendence.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When I Grow Up",
+    "year": 1951,
+    "cast": [
+      "Robert Preston",
+      "Martha Scott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/when-i-grow-up.html"
+}

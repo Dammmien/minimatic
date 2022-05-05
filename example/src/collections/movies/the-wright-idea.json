@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wright Idea",
+    "year": 1928,
+    "cast": [
+      "Johnny Hines",
+      "Louise Lorraine"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-wright-idea.html"
+}

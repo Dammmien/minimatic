@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Road to Divorce",
+    "year": 1920,
+    "cast": [
+      "Mary MacLaren",
+      "William Ellingford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-road-to-divorce.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Green Dolphin Street",
+    "year": 1947,
+    "cast": [
+      "Lana Turner",
+      "Van Heflin",
+      "Donna Reed"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/green-dolphin-street.html"
+}

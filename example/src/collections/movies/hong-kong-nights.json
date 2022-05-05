@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hong Kong Nights",
+    "year": 1935,
+    "cast": [
+      "Tom Keene",
+      "Wera Engels"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/hong-kong-nights.html"
+}

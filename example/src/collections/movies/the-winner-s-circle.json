@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Winner's Circle",
+    "year": 1948,
+    "cast": [
+      "Jean Willes",
+      "Morgan Farley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-winner-s-circle.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Runaway Train",
+    "year": 1985,
+    "cast": [
+      "Jon Voight",
+      "Eric Roberts",
+      "Rebecca De Mornay"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/runaway-train.html"
+}

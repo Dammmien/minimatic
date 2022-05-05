@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Hunger Games: Catching Fire",
+    "year": 2013,
+    "cast": [
+      "Jennifer Lawrence",
+      "Josh Hutcherson",
+      "Liam Hemsworth",
+      "Woody Harrelson",
+      "Elizabeth Banks",
+      "Sam Claflin",
+      "Jena Malone"
+    ],
+    "genres": [
+      "Action",
+      "Drama",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-hunger-games--catching-fire.html"
+}

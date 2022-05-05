@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Crisis",
+    "year": 1950,
+    "cast": [
+      "Cary Grant",
+      "José Ferrer",
+      "Paula Raymond"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/crisis.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dance of Death",
+    "year": 1969,
+    "cast": [
+      "Boris Karloff",
+      "Julissa"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dance-of-death.html"
+}

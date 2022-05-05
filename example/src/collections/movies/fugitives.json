@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fugitives",
+    "year": 1929,
+    "cast": [
+      "Madge Bellamy",
+      "Don Terry"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fugitives.html"
+}

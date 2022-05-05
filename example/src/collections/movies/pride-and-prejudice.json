@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pride and Prejudice",
+    "year": 1940,
+    "cast": [
+      "Greer Garson",
+      "Laurence Olivier",
+      "Edward Ashley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pride-and-prejudice.html"
+}

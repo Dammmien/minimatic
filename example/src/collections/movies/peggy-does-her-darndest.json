@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Peggy Does Her Darndest",
+    "year": 1919,
+    "cast": [
+      "May Allison",
+      "Rosemary Theby"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/peggy-does-her-darndest.html"
+}

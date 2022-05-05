@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hearts of Oak",
+    "year": 1924,
+    "cast": [
+      "Hobart Bosworth",
+      "Pauline Starke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hearts-of-oak.html"
+}

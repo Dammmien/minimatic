@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mobs, Inc.",
+    "year": 1956,
+    "cast": [
+      "Marjorie Reynolds",
+      "Lisa Howard"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/mobs--inc-.html"
+}

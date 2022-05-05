@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lover of Camille",
+    "year": 1924,
+    "cast": [
+      "Monte Blue",
+      "Willard Louis",
+      "Marie Prevost"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-lover-of-camille.html"
+}

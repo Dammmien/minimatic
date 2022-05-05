@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Superman IV: The Quest for Peace",
+    "year": 1987,
+    "cast": [
+      "Christopher Reeve",
+      "Gene Hackman",
+      "Margot Kidder",
+      "Mariel Hemingway",
+      "Jon Cryer",
+      "Jackie Cooper"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/superman-iv--the-quest-for-peace.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beneath",
+    "year": 2013,
+    "cast": [
+      "Daniel Zovatto",
+      "Bonnie Dennison",
+      "Mackenzie Rosman"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/beneath.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Andy Hardy's Blonde Trouble",
+    "year": 1944,
+    "cast": [
+      "Lewis Stone",
+      "Mickey Rooney",
+      "Fay Holden"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/andy-hardy-s-blonde-trouble.html"
+}

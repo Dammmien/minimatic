@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Julie & Julia",
+    "year": 2009,
+    "cast": [
+      "Meryl Streep",
+      "Amy Adams",
+      "Stanley Tucci",
+      "Chris Messina",
+      "Linda Emond"
+    ],
+    "genres": [
+      "Biography",
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/julie---julia.html"
+}

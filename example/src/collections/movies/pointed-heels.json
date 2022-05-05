@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Pointed Heels",
+    "year": 1929,
+    "cast": [
+      "William Powell",
+      "Fay Wray"
+    ],
+    "genres": [
+      "Musical",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/pointed-heels.html"
+}

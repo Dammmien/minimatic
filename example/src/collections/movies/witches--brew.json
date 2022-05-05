@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Witches' Brew",
+    "year": 1980,
+    "cast": [
+      "Teri Garr",
+      "Richard Benjamin",
+      "Lana Turner"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/witches--brew.html"
+}

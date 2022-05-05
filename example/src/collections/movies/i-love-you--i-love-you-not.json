@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Love You, I Love You Not",
+    "year": 1996,
+    "cast": [
+      "Jeanne Moreau",
+      "Jude Law",
+      "Claire Danes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-love-you--i-love-you-not.html"
+}

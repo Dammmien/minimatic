@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mouthpiece",
+    "year": 1932,
+    "cast": [
+      "Warren William",
+      "Sidney Fox"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-mouthpiece.html"
+}

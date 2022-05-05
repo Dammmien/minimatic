@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trail of the Mounties",
+    "year": 1947,
+    "cast": [
+      "Russell Hayden",
+      "Jennifer Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/trail-of-the-mounties.html"
+}

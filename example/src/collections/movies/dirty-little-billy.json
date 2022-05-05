@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dirty Little Billy",
+    "year": 1972,
+    "cast": [
+      "Michael J. Pollard",
+      "Lee Purcell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/dirty-little-billy.html"
+}

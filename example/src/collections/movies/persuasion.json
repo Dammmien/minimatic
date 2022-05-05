@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Persuasion",
+    "year": 1995,
+    "cast": [
+      "Amanda Root",
+      "Ciarán Hinds"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/persuasion.html"
+}

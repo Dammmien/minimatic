@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Vehicle 19",
+    "year": 2013,
+    "cast": [
+      "Paul Walker",
+      "Naima McLean",
+      "Gys de Villiers",
+      "Leyla Haidarian"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/vehicle-19.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Outside of Paradise",
+    "year": 1938,
+    "cast": [
+      "Phil Regan",
+      "Penny Singleton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/outside-of-paradise.html"
+}

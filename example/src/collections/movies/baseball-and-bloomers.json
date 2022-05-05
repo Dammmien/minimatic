@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Baseball and Bloomers",
+    "year": 1911,
+    "cast": [
+      "William Garwood",
+      "Marguerite Snow"
+    ],
+    "genres": [
+      "Silent",
+      "Sports"
+    ]
+  },
+  "output": "movies/baseball-and-bloomers.html"
+}

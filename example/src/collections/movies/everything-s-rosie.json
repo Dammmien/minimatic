@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Everything's Rosie",
+    "year": 1931,
+    "cast": [
+      "Robert Woolsey",
+      "Anita Louise",
+      "John Darrow"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/everything-s-rosie.html"
+}

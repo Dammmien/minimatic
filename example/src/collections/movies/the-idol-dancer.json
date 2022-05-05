@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Idol Dancer",
+    "year": 1920,
+    "cast": [
+      "Richard Barthelmess",
+      "Clarine Seymour"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-idol-dancer.html"
+}

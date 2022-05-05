@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Possession",
+    "year": 2002,
+    "cast": [
+      "Aaron Eckhart",
+      "Gwyneth Paltrow",
+      "Jeremy Northam",
+      "Jennifer Ehle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/possession.html"
+}

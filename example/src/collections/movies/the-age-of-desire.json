@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Age of Desire",
+    "year": 1923,
+    "cast": [
+      "Josef Swickard",
+      "William Collier Jr.",
+      "Mary Philbin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-age-of-desire.html"
+}

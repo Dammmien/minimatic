@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Flower",
+    "year": 2018,
+    "cast": [
+      "Zoey Deutch",
+      "Kathryn Hahn",
+      "Tim Heidecker",
+      "Joey Morgan",
+      "Adam Scott"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/flower.html"
+}

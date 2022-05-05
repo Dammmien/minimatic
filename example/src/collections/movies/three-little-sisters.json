@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Little Sisters",
+    "year": 1944,
+    "cast": [
+      "Mary Lee",
+      "Ruth Terry",
+      "Cheryl Walker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-little-sisters.html"
+}

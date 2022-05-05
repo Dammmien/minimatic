@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "London Suite",
+    "year": 1996,
+    "cast": [
+      "Kelsey Grammer",
+      "Patricia Clarkson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/london-suite.html"
+}

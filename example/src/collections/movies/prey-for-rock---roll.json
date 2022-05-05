@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Prey for Rock & Roll",
+    "year": 2003,
+    "cast": [
+      "Gina Gershon",
+      "Drea de Matteo",
+      "Lori Petty",
+      "Shelly Cole"
+    ],
+    "genres": [
+      "Musical",
+      "Drama"
+    ]
+  },
+  "output": "movies/prey-for-rock---roll.html"
+}

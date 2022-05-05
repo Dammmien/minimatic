@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The SpongeBob Movie: Sponge Out of Water",
+    "year": 2015,
+    "cast": [
+      "Antonio Banderas",
+      "Tom Kenny",
+      "Clancy Brown",
+      "Rodger Bumpass"
+    ],
+    "genres": [
+      "Animated",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-spongebob-movie--sponge-out-of-water.html"
+}

@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Detroit",
+    "year": 2017,
+    "cast": [
+      "John Boyega",
+      "Will Poulter",
+      "Algee Smith",
+      "Jacob Latimore",
+      "Jason Mitchell",
+      "Hannah Murray",
+      "Kaitlyn Dever",
+      "Jack Reynor",
+      "Ben O'Toole",
+      "John Krasinski",
+      "Anthony Mackie"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/detroit.html"
+}

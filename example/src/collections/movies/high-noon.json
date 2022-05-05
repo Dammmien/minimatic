@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "High Noon",
+    "year": 1952,
+    "cast": [
+      "Gary Cooper",
+      "Grace Kelly",
+      "Katy Jurado",
+      "Thomas Mitchell",
+      "Lloyd Bridges"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/high-noon.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love Island",
+    "year": 1952,
+    "cast": [
+      "Paul Valentine",
+      "Eva Gabor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-island.html"
+}

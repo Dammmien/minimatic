@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "College Road Trip",
+    "year": 2008,
+    "cast": [
+      "Raven-Symoné",
+      "Martin Lawrence"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/college-road-trip.html"
+}

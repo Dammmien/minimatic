@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A-Lad-In His Lamp",
+    "year": 1948,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/a-lad-in-his-lamp.html"
+}

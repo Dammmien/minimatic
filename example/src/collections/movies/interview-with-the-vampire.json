@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Interview with the Vampire",
+    "year": 1994,
+    "cast": [
+      "Tom Cruise",
+      "Brad Pitt",
+      "Kirsten Dunst",
+      "Christian Slater",
+      "Stephen Rea",
+      "Antonio Banderas",
+      "Thandie Newton"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/interview-with-the-vampire.html"
+}

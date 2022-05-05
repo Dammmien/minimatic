@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fourth Musketeer",
+    "year": 1923,
+    "cast": [
+      "Johnnie Walker",
+      "Eileen Percy",
+      "Eddie Gribbon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fourth-musketeer.html"
+}

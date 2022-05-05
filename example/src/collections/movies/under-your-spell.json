@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Under Your Spell",
+    "year": 1936,
+    "cast": [
+      "Lawrence Tibbett",
+      "Wendy Barrie",
+      "Berton Churchill"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/under-your-spell.html"
+}

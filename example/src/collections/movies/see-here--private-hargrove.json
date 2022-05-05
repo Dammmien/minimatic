@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "See Here, Private Hargrove",
+    "year": 1944,
+    "cast": [
+      "Robert Walker",
+      "Donna Reed",
+      "Keenan Wynn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/see-here--private-hargrove.html"
+}

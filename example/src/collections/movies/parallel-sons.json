@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Parallel Sons",
+    "year": 1995,
+    "cast": [
+      "Gabriel Mann"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/parallel-sons.html"
+}

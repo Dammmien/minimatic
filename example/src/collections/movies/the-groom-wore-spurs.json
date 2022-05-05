@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Groom Wore Spurs",
+    "year": 1951,
+    "cast": [
+      "Ginger Rogers",
+      "Jack Carson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-groom-wore-spurs.html"
+}

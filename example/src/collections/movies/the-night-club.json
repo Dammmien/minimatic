@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Night Club",
+    "year": 1925,
+    "cast": [
+      "Raymond Griffith",
+      "Vera Reynolds",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-night-club.html"
+}

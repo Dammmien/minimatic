@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Youth for Sale",
+    "year": 1924,
+    "cast": [
+      "May Allison",
+      "Sigrid Holmquist"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/youth-for-sale.html"
+}

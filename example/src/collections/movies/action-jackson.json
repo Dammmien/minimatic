@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Action Jackson",
+    "year": 1988,
+    "cast": [
+      "Carl Weathers",
+      "Vanity",
+      "Craig T. Nelson",
+      "Sharon Stone"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/action-jackson.html"
+}

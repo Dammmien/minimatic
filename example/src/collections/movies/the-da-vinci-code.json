@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Da Vinci Code",
+    "year": 2006,
+    "cast": [
+      "Tom Hanks",
+      "Audrey Tautou",
+      "Ian McKellen",
+      "Alfred Molina",
+      "Paul Bettany",
+      "Jean Reno",
+      "Jürgen Prochnow"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-da-vinci-code.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rustlers' Roundup",
+    "year": 1933,
+    "cast": [
+      "Tom Mix",
+      "Diane Sinclair"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rustlers--roundup.html"
+}

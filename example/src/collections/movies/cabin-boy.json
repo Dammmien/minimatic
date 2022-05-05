@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cabin Boy",
+    "year": 1994,
+    "cast": [
+      "Chris Elliott",
+      "Andy Richter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cabin-boy.html"
+}

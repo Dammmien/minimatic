@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dead Man's Burden",
+    "year": 2012,
+    "cast": [
+      "Barlow Jacobs",
+      "Clare Bowen",
+      "David Call",
+      "Richard Riehle",
+      "Joseph Lyle Taylor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/dead-man-s-burden.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lancer Spy",
+    "year": 1937,
+    "cast": [
+      "Dolores del Río",
+      "George Sanders",
+      "Peter Lorre"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lancer-spy.html"
+}

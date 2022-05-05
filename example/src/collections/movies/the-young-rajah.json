@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Young Rajah",
+    "year": 1922,
+    "cast": [
+      "Rudolph Valentino",
+      "Wanda Hawley"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-young-rajah.html"
+}

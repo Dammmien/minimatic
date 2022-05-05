@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love Is Dangerous",
+    "year": 1933,
+    "cast": [
+      "John Warburton",
+      "Rochelle Hudson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-is-dangerous.html"
+}

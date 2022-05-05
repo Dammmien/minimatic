@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Madame Bovary",
+    "year": 1949,
+    "cast": [
+      "Jennifer Jones",
+      "James Mason",
+      "Van Heflin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/madame-bovary.html"
+}

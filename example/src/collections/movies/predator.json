@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Predator",
+    "year": 1987,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Carl Weathers",
+      "Jesse Ventura"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/predator.html"
+}

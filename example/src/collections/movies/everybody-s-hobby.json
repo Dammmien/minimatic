@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Everybody's Hobby",
+    "year": 1939,
+    "cast": [
+      "Irene Rich",
+      "Jackie Moran"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/everybody-s-hobby.html"
+}

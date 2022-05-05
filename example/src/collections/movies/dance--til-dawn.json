@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Dance 'Til Dawn",
+    "year": 1988,
+    "cast": [
+      "Alyssa Milano"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dance--til-dawn.html"
+}

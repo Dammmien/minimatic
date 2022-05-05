@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "George of the Jungle",
+    "year": 1997,
+    "cast": [
+      "Brendan Fraser",
+      "Leslie Mann",
+      "Thomas Haden Church"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/george-of-the-jungle.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ride a Violent Mile",
+    "year": 1957,
+    "cast": [
+      "John Agar",
+      "Penny Edwards",
+      "Bing Russell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ride-a-violent-mile.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Marked Woman",
+    "year": 1937,
+    "cast": [
+      "Bette Davis",
+      "Humphrey Bogart",
+      "Eduardo Ciannelli"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/marked-woman.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man in the Glass Booth",
+    "year": 1975,
+    "cast": [
+      "Maximilian Schell",
+      "Lois Nettleton"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-man-in-the-glass-booth.html"
+}

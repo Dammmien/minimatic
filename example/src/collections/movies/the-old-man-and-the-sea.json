@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Old Man and the Sea",
+    "year": 1958,
+    "cast": [
+      "Spencer Tracy"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-old-man-and-the-sea.html"
+}

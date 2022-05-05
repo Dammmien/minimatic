@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Week of Life",
+    "year": 1919,
+    "cast": [
+      "Pauline Frederick",
+      "Thomas Holding"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/one-week-of-life.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "North Shore",
+    "year": 1987,
+    "cast": [
+      "Matt Adler"
+    ],
+    "genres": [
+      "Sport"
+    ]
+  },
+  "output": "movies/north-shore.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Support Your Local Sheriff",
+    "year": 1969,
+    "cast": [
+      "James Garner",
+      "Walter Brennan",
+      "Joan Hackett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/support-your-local-sheriff.html"
+}

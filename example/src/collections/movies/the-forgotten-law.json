@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Forgotten Law",
+    "year": 1922,
+    "cast": [
+      "Milton Sills",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-forgotten-law.html"
+}

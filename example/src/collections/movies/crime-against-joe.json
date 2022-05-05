@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Crime Against Joe",
+    "year": 1956,
+    "cast": [
+      "Julie London",
+      "John Bromfield"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/crime-against-joe.html"
+}

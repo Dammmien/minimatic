@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Clubs Are Trump",
+    "year": 1917,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/clubs-are-trump.html"
+}

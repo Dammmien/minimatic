@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cross-Country Romance",
+    "year": 1940,
+    "cast": [
+      "Gene Raymond",
+      "Wendy Barrie",
+      "Hedda Hopper"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/cross-country-romance.html"
+}

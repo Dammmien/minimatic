@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man from the West",
+    "year": 1926,
+    "cast": [
+      "Art Acord",
+      "Eugenia Gilbert"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-man-from-the-west.html"
+}

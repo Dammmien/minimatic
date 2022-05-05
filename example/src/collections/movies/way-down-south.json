@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Way Down South",
+    "year": 1939,
+    "cast": [
+      "Bobby Breen",
+      "Alan Mowbray",
+      "Steffi Duna"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/way-down-south.html"
+}

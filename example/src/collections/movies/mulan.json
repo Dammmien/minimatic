@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Mulan",
+    "year": 1998,
+    "cast": [
+      "Voices of",
+      "Ming-Na",
+      "Eddie Murphy",
+      "Lea Salonga",
+      "Miguel Ferrer"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/mulan.html"
+}

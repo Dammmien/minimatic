@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Black Arrow",
+    "year": 1985,
+    "cast": [
+      "Oliver Reed",
+      "Fernando Rey",
+      "Donald Pleasence"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/black-arrow.html"
+}

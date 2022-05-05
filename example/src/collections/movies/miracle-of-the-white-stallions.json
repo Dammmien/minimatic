@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Miracle of the White Stallions",
+    "year": 1963,
+    "cast": [
+      "Robert Taylor",
+      "Lilli Palmer",
+      "Curd Jürgens"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/miracle-of-the-white-stallions.html"
+}

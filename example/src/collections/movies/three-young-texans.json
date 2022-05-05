@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Young Texans",
+    "year": 1954,
+    "cast": [
+      "Jeffrey Hunter",
+      "Keefe Brasselle",
+      "Mitzi Gaynor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/three-young-texans.html"
+}

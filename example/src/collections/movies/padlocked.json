@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Padlocked",
+    "year": 1926,
+    "cast": [
+      "Lois Moran",
+      "Noah Beery Sr.",
+      "Louise Dresser"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/padlocked.html"
+}

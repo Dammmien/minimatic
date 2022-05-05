@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Return of the Ape Man",
+    "year": 1944,
+    "cast": [
+      "Bela Lugosi",
+      "John Carradine",
+      "Frank Moran"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/return-of-the-ape-man.html"
+}

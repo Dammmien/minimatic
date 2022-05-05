@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Che",
+    "year": 2008,
+    "cast": [
+      "Benicio del Toro",
+      "Franka Potente",
+      "Catalina Sandino Moreno"
+    ],
+    "genres": [
+      "Biography",
+      "War"
+    ]
+  },
+  "output": "movies/che.html"
+}

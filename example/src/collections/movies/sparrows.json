@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Sparrows",
+    "year": 1926,
+    "cast": [
+      "Mary Pickford",
+      "Roy Stewart",
+      "Gustav von Seyffertitz"
+    ],
+    "genres": []
+  },
+  "output": "movies/sparrows.html"
+}

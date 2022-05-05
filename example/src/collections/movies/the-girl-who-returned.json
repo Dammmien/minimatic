@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Girl Who Returned",
+    "year": 1969,
+    "cast": [
+      "Michael Herz"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-girl-who-returned.html"
+}

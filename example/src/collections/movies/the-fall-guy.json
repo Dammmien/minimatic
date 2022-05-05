@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Fall Guy",
+    "year": 1930,
+    "cast": [
+      "Ned Sparks",
+      "Mae Clarke",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fall-guy.html"
+}

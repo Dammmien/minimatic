@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "For Whom the Bell Tolls",
+    "year": 1943,
+    "cast": [
+      "Gary Cooper",
+      "Ingrid Bergman",
+      "Arturo de Córdova"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/for-whom-the-bell-tolls.html"
+}

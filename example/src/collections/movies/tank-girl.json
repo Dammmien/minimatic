@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tank Girl",
+    "year": 1995,
+    "cast": [
+      "Lori Petty",
+      "Malcolm McDowell",
+      "Ice-T",
+      "Naomi Watts"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/tank-girl.html"
+}

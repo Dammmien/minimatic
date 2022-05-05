@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Timid Terror",
+    "year": 1926,
+    "cast": [
+      "George O'Hara",
+      "Edith Yorke"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-timid-terror.html"
+}

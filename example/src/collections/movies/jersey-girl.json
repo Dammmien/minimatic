@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Jersey Girl",
+    "year": 2004,
+    "cast": [
+      "Ben Affleck",
+      "Liv Tyler",
+      "George Carlin",
+      "Stephen Root",
+      "Mike Starr",
+      "Raquel Castro",
+      "Jason Biggs",
+      "Jennifer Lopez"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/jersey-girl.html"
+}

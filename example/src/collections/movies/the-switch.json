@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Switch",
+    "year": 2010,
+    "cast": [
+      "Jennifer Aniston",
+      "Jason Bateman",
+      "Patrick Wilson",
+      "Jeff Goldblum",
+      "Juliette Lewis"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-switch.html"
+}

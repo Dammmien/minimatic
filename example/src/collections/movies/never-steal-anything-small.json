@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Never Steal Anything Small",
+    "year": 1959,
+    "cast": [
+      "James Cagney",
+      "Shirley Jones"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/never-steal-anything-small.html"
+}

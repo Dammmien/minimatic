@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mysterious Intruder",
+    "year": 1946,
+    "cast": [
+      "Richard Dix",
+      "Barton MacLane",
+      "Nina Vale"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/mysterious-intruder.html"
+}

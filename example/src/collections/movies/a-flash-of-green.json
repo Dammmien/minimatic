@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Flash of Green",
+    "year": 1984,
+    "cast": [
+      "Ed Harris",
+      "Blair Brown"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-flash-of-green.html"
+}

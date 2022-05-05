@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pool Sharks",
+    "year": 1915,
+    "cast": [
+      "W. C. Fields"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/pool-sharks.html"
+}

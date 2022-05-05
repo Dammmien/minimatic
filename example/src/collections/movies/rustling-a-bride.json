@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rustling a Bride",
+    "year": 1919,
+    "cast": [
+      "Lila Lee",
+      "Monte Blue"
+    ],
+    "genres": [
+      "Comedy",
+      "Western"
+    ]
+  },
+  "output": "movies/rustling-a-bride.html"
+}

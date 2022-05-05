@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Want a Divorce",
+    "year": 1940,
+    "cast": [
+      "Joan Blondell",
+      "Dick Powell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-want-a-divorce.html"
+}

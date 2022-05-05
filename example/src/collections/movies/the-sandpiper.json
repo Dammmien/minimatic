@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Sandpiper",
+    "year": 1965,
+    "cast": [
+      "Elizabeth Taylor",
+      "Richard Burton",
+      "Eva Marie Saint",
+      "Robert Webber",
+      "Charles Bronson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sandpiper.html"
+}

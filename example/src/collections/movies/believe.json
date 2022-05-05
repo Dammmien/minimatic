@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Believe",
+    "year": 2007,
+    "cast": [
+      "Larry Bagby"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/believe.html"
+}

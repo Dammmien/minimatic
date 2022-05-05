@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "My Cousin Vinny",
+    "year": 1992,
+    "cast": [
+      "Joe Pesci",
+      "Ralph Macchio",
+      "Marisa Tomei",
+      "Mitchell Whitfield",
+      "Fred Gwynne"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-cousin-vinny.html"
+}

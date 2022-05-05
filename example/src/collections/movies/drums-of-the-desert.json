@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Drums of the Desert",
+    "year": 1940,
+    "cast": [
+      "Ralph Byrd",
+      "Lorna Gray"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/drums-of-the-desert.html"
+}

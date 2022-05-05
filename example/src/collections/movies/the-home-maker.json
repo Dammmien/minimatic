@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Home Maker",
+    "year": 1925,
+    "cast": [
+      "Alice Joyce",
+      "Clive Brook"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-home-maker.html"
+}

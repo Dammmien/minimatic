@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Virginian Outcast",
+    "year": 1924,
+    "cast": [
+      "Jack Perrin",
+      "Marjorie Daw",
+      "Otto Lederer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/virginian-outcast.html"
+}

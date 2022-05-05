@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Me and My Gal",
+    "year": 1932,
+    "cast": [
+      "Spencer Tracy",
+      "Joan Bennett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/me-and-my-gal.html"
+}

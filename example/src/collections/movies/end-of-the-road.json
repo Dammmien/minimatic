@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "End of the Road",
+    "year": 1970,
+    "cast": [
+      "Stacy Keach",
+      "Harris Yulin",
+      "Dorothy Tristan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/end-of-the-road.html"
+}

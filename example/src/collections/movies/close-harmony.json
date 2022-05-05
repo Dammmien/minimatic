@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Close Harmony",
+    "year": 1929,
+    "cast": [
+      "Charles \"Buddy\" Rogers",
+      "Nancy Carroll"
+    ],
+    "genres": [
+      "Musical",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/close-harmony.html"
+}

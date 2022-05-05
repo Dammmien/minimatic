@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sherlock Holmes Faces Death",
+    "year": 1943,
+    "cast": [
+      "Basil Rathbone",
+      "Nigel Bruce",
+      "Hillary Brooke"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/sherlock-holmes-faces-death.html"
+}

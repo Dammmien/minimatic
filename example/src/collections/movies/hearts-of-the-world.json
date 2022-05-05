@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hearts of the World",
+    "year": 1918,
+    "cast": [
+      "Lillian Gish",
+      "Dorothy Gish"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/hearts-of-the-world.html"
+}

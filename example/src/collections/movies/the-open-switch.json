@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Open Switch",
+    "year": 1925,
+    "cast": [
+      "Helen Holmes",
+      "Jack Perrin"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-open-switch.html"
+}

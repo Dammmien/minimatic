@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Racket Busters",
+    "year": 1938,
+    "cast": [
+      "George Brent",
+      "Allen Jenkins",
+      "Humphrey Bogart"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/racket-busters.html"
+}

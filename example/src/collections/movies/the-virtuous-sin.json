@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Virtuous Sin",
+    "year": 1930,
+    "cast": [
+      "Walter Huston",
+      "Kay Francis"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-virtuous-sin.html"
+}

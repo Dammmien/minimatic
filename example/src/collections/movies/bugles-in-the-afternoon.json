@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bugles in the Afternoon",
+    "year": 1952,
+    "cast": [
+      "Ray Milland",
+      "Helena Carter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bugles-in-the-afternoon.html"
+}

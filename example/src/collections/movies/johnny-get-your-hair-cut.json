@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Johnny Get Your Hair Cut",
+    "year": 1927,
+    "cast": [
+      "Harry Carey",
+      "Jackie Coogan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/johnny-get-your-hair-cut.html"
+}

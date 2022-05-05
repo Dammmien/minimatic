@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Jungle Bride",
+    "year": 1933,
+    "cast": [
+      "Anita Page",
+      "Charles Starrett",
+      "Kenneth Thomson"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/jungle-bride.html"
+}

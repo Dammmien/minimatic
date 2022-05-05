@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Roaring Westward",
+    "year": 1949,
+    "cast": [
+      "Jimmy Wakely",
+      "Lois Hall"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/roaring-westward.html"
+}

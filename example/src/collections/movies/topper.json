@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Topper",
+    "year": 1937,
+    "cast": [
+      "Constance Bennett",
+      "Roland Young",
+      "Cary Grant"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/topper.html"
+}

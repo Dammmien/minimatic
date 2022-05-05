@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cookout",
+    "year": 2004,
+    "cast": [
+      "Tim Meadows",
+      "Ja Rule",
+      "Eve"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-cookout.html"
+}

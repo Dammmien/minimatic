@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beauty and the Bad Man",
+    "year": 1925,
+    "cast": [
+      "Mabel Ballin",
+      "Forrest Stanley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/beauty-and-the-bad-man.html"
+}

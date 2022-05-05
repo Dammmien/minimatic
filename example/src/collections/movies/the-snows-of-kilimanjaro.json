@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Snows of Kilimanjaro",
+    "year": 1952,
+    "cast": [
+      "Gregory Peck",
+      "Ava Gardner",
+      "Susan Hayward"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-snows-of-kilimanjaro.html"
+}

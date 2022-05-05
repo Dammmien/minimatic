@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rock, Rock, Rock",
+    "year": 1956,
+    "cast": [
+      "Chuck Berry",
+      "Tuesday Weld"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/rock--rock--rock.html"
+}

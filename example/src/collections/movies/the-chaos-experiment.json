@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Chaos Experiment",
+    "year": 2009,
+    "cast": [
+      "Val Kilmer",
+      "Armand Assante",
+      "Eric Roberts"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-chaos-experiment.html"
+}

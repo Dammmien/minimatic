@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Possession of Joel Delaney",
+    "year": 1972,
+    "cast": [
+      "Shirley MacLaine",
+      "Perry King",
+      "Michael Hordern"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-possession-of-joel-delaney.html"
+}

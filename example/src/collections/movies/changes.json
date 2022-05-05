@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Changes",
+    "year": 1969,
+    "cast": [
+      "Michele Carey",
+      "Jack Albertson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/changes.html"
+}

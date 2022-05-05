@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Impersonation",
+    "year": 1942,
+    "cast": [
+      "Ralph Bellamy",
+      "Evelyn Ankers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-great-impersonation.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Songcatcher",
+    "year": 2000,
+    "cast": [
+      "Janet McTeer",
+      "Aidan Quinn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/songcatcher.html"
+}

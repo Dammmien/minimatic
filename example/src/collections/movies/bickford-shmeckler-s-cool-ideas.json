@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bickford Shmeckler's Cool Ideas",
+    "year": 2006,
+    "cast": [
+      "Patrick Fugit",
+      "Olivia Wilde",
+      "Fran Kranz",
+      "John Cho"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bickford-shmeckler-s-cool-ideas.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Golden Hoofs",
+    "year": 1941,
+    "cast": [
+      "Jane Withers",
+      "Buddy Rogers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/golden-hoofs.html"
+}

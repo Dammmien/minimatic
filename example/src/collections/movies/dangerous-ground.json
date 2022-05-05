@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dangerous Ground",
+    "year": 1997,
+    "cast": [
+      "Ice Cube",
+      "Elizabeth Hurley"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/dangerous-ground.html"
+}

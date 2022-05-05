@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Divergent Series: Insurgent",
+    "year": 2015,
+    "cast": [
+      "Shailene Woodley",
+      "Theo James",
+      "Octavia Spencer",
+      "Naomi Watts"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-divergent-series--insurgent.html"
+}

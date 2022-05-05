@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nemesis",
+    "year": 1992,
+    "cast": [
+      "Olivier Gruner",
+      "Tim Thomerson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/nemesis.html"
+}

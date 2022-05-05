@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Her Summer",
+    "year": 2004,
+    "cast": [
+      "Justin Marxen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/her-summer.html"
+}

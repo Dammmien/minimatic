@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pony Soldier",
+    "year": 1952,
+    "cast": [
+      "Tyrone Power",
+      "Robert Horton",
+      "Thomas Gomez"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/pony-soldier.html"
+}

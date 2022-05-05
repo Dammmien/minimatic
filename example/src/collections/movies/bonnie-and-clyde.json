@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Bonnie and Clyde",
+    "year": 1967,
+    "cast": [
+      "Warren Beatty",
+      "Faye Dunaway",
+      "Gene Hackman",
+      "Estelle Parsons",
+      "Michael J. Pollard"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/bonnie-and-clyde.html"
+}

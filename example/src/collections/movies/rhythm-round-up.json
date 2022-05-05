@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rhythm Round-Up",
+    "year": 1945,
+    "cast": [
+      "Ken Curtis",
+      "Cheryl Walker"
+    ],
+    "genres": [
+      "Western",
+      "Musical"
+    ]
+  },
+  "output": "movies/rhythm-round-up.html"
+}

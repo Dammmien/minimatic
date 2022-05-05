@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Polly of the Follies",
+    "year": 1922,
+    "cast": [
+      "Constance Talmadge",
+      "Thomas Carr"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/polly-of-the-follies.html"
+}

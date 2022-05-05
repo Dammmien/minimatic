@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Inequality for All",
+    "year": 2013,
+    "cast": [
+      "Shows income inequality in the",
+      "United States",
+      "."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/inequality-for-all.html"
+}

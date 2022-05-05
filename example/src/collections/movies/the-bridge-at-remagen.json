@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bridge at Remagen",
+    "year": 1969,
+    "cast": [
+      "George Segal",
+      "Ben Gazzara",
+      "E. G. Marshall"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-bridge-at-remagen.html"
+}

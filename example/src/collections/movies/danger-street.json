@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Danger Street",
+    "year": 1947,
+    "cast": [
+      "Jane Withers",
+      "Robert Lowery",
+      "Elaine Riley"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/danger-street.html"
+}

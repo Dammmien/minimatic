@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Born to Fight",
+    "year": 1936,
+    "cast": [
+      "Frankie Darro",
+      "Jack La Rue",
+      "Sheila Bromley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/born-to-fight.html"
+}

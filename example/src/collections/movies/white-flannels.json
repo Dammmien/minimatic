@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "White Flannels",
+    "year": 1927,
+    "cast": [
+      "Virginia Brown",
+      "Louise Dresser",
+      "Jason Robards Sr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/white-flannels.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Love Bandit",
+    "year": 1924,
+    "cast": [
+      "Doris Kenyon",
+      "Victor Sutherland"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-love-bandit.html"
+}

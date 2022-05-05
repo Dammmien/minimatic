@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The World's Champion",
+    "year": 1922,
+    "cast": [
+      "Wallace Reid",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-world-s-champion.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Insomnia",
+    "year": 2002,
+    "cast": [
+      "Al Pacino",
+      "Robin Williams",
+      "Hilary Swank"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/insomnia.html"
+}

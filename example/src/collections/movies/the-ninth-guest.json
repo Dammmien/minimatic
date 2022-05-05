@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ninth Guest",
+    "year": 1934,
+    "cast": [
+      "Genevieve Tobin",
+      "Donald Cook"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-ninth-guest.html"
+}

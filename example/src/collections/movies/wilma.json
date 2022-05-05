@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wilma",
+    "year": 1977,
+    "cast": [
+      "Shirley Jo Finney",
+      "Cicely Tyson",
+      "Denzel Washington"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/wilma.html"
+}

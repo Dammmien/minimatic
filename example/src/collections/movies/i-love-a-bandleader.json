@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "I Love a Bandleader",
+    "year": 1945,
+    "cast": [
+      "Phil Harris",
+      "Eddie \"Rochester\" Anderson",
+      "Leslie Brooks"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-love-a-bandleader.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Booty Call",
+    "year": 1997,
+    "cast": [
+      "Jamie Foxx",
+      "Tommy Davidson",
+      "Vivica A. Fox",
+      "Tamala Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/booty-call.html"
+}

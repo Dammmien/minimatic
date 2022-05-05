@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man of the Year",
+    "year": 2006,
+    "cast": [
+      "Robin Williams",
+      "Laura Linney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/man-of-the-year.html"
+}

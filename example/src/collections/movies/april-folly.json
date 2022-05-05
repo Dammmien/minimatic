@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "April Folly",
+    "year": 1920,
+    "cast": [
+      "Marion Davies",
+      "Conway Tearle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/april-folly.html"
+}

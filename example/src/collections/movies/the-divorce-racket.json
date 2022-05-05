@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Divorce Racket",
+    "year": 1932,
+    "cast": [
+      "James Rennie",
+      "Olive Borden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-divorce-racket.html"
+}

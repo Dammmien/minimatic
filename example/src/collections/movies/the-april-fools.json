@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The April Fools",
+    "year": 1969,
+    "cast": [
+      "Jack Lemmon",
+      "Catherine Deneuve",
+      "Peter Lawford",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-april-fools.html"
+}

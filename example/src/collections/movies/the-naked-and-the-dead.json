@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Naked and the Dead",
+    "year": 1958,
+    "cast": [
+      "Cliff Robertson",
+      "Raymond Massey",
+      "Aldo Ray"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-naked-and-the-dead.html"
+}

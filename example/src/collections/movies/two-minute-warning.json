@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Two-Minute Warning",
+    "year": 1976,
+    "cast": [
+      "Charlton Heston",
+      "John Cassavetes",
+      "Jack Klugman",
+      "David Janssen",
+      "Beau Bridges",
+      "Marilyn Hassett",
+      "Walter Pidgeon",
+      "Gena Rowlands"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/two-minute-warning.html"
+}

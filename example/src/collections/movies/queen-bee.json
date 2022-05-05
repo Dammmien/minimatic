@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Queen Bee",
+    "year": 1955,
+    "cast": [
+      "Joan Crawford",
+      "Betsy Palmer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/queen-bee.html"
+}

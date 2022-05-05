@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dynamite",
+    "year": 1949,
+    "cast": [
+      "William Gargan",
+      "Richard Crane"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/dynamite.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Life",
+    "year": 2017,
+    "cast": [
+      "Rebecca Ferguson",
+      "Jake Gyllenhaal",
+      "Ryan Reynolds",
+      "Hiroyuki Sanada"
+    ],
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/life.html"
+}

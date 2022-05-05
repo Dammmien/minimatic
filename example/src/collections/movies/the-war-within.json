@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The War Within",
+    "year": 2005,
+    "cast": [
+      "Ayad Aktar",
+      "Firdous Bamji",
+      "Nandana Sen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-war-within.html"
+}

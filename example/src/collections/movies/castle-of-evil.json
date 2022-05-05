@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Castle of Evil",
+    "year": 1966,
+    "cast": [
+      "Virginia Mayo",
+      "Scott Brady",
+      "Lisa Gaye"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/castle-of-evil.html"
+}

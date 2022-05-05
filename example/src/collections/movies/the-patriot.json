@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Patriot",
+    "year": 2000,
+    "cast": [
+      "Mel Gibson",
+      "Heath Ledger",
+      "Joely Richardson",
+      "Jason Isaacs",
+      "Chris Cooper",
+      "Tom Wilkinson"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-patriot.html"
+}

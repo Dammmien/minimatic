@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Our Song",
+    "year": 2000,
+    "cast": [
+      "Kerry Washington",
+      "Melissa Martinez"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/our-song.html"
+}

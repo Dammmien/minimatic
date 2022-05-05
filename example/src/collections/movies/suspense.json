@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Suspense",
+    "year": 1946,
+    "cast": [
+      "Barry Sullivan",
+      "Belita",
+      "Albert Dekker"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/suspense.html"
+}

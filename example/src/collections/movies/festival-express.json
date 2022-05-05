@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Festival Express",
+    "year": 2003,
+    "cast": [
+      "the Trans Continental Pop Festival"
+    ],
+    "genres": [
+      "Musical",
+      "Documentary"
+    ]
+  },
+  "output": "movies/festival-express.html"
+}

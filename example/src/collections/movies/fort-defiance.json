@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fort Defiance",
+    "year": 1951,
+    "cast": [
+      "Dane Clark",
+      "Ben Johnson",
+      "Peter Graves"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fort-defiance.html"
+}

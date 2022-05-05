@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "No More Women",
+    "year": 1934,
+    "cast": [
+      "Edmund Lowe",
+      "Victor McLaglen",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/no-more-women.html"
+}

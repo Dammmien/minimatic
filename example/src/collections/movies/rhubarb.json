@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rhubarb",
+    "year": 1951,
+    "cast": [
+      "Ray Milland",
+      "Jan Sterling",
+      "Gene Lockhart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rhubarb.html"
+}

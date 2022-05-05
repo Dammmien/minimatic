@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The No Mercy Man",
+    "year": 1973,
+    "cast": [
+      "Sid Haig",
+      "Ron Thompson"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-no-mercy-man.html"
+}

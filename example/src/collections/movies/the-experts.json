@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Experts",
+    "year": 1989,
+    "cast": [
+      "John Travolta",
+      "Arye Gross",
+      "Kelly Preston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-experts.html"
+}

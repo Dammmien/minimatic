@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Anything Else",
+    "year": 2003,
+    "cast": [
+      "Jason Biggs",
+      "Christina Ricci",
+      "Stockard Channing",
+      "Danny DeVito",
+      "Jimmy Fallon",
+      "Woody Allen"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/anything-else.html"
+}

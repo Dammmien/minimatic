@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Son of Kong",
+    "year": 1933,
+    "cast": [
+      "Robert Armstrong",
+      "Helen Mack"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/son-of-kong.html"
+}

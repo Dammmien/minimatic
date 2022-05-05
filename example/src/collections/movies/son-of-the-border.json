@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Son of the Border",
+    "year": 1933,
+    "cast": [
+      "Tom Keene",
+      "Julie Haydon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/son-of-the-border.html"
+}

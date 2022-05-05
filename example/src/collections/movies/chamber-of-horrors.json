@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chamber of Horrors",
+    "year": 1966,
+    "cast": [
+      "Patrick O'Neal",
+      "Wilfrid Hyde-White"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/chamber-of-horrors.html"
+}

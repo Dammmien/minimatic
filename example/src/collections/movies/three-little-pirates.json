@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Three Little Pirates",
+    "year": 1946,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/three-little-pirates.html"
+}

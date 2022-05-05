@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gunsmoke in Tucson",
+    "year": 1958,
+    "cast": [
+      "Mark Stevens",
+      "Forrest Tucker",
+      "Gale Robbins"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gunsmoke-in-tucson.html"
+}

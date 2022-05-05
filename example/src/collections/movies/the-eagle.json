@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Eagle",
+    "year": 2011,
+    "cast": [
+      "Channing Tatum",
+      "Jamie Bell",
+      "Donald Sutherland",
+      "Mark Strong"
+    ],
+    "genres": [
+      "Adventure",
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-eagle.html"
+}

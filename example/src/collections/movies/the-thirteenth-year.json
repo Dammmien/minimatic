@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Thirteenth Year",
+    "year": 1999,
+    "cast": [
+      "Chez Starbuck",
+      "Courtnee Draper"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-thirteenth-year.html"
+}

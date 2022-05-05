@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Illustrious Prince",
+    "year": 1919,
+    "cast": [
+      "Sessue Hayakawa",
+      "Mabel Ballin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-illustrious-prince.html"
+}

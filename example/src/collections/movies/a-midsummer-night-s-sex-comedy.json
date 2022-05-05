@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "A Midsummer Night's Sex Comedy",
+    "year": 1982,
+    "cast": [
+      "Mia Farrow",
+      "Woody Allen",
+      "José Ferrer",
+      "Julie Hagerty",
+      "Mary Steenburgen",
+      "Tony Roberts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-midsummer-night-s-sex-comedy.html"
+}

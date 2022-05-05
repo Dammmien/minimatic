@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pride of the Plains",
+    "year": 1944,
+    "cast": [
+      "Robert Livingston",
+      "Smiley Burnette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/pride-of-the-plains.html"
+}

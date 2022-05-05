@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Love Machine",
+    "year": 1971,
+    "cast": [
+      "Dyan Cannon",
+      "John Phillip Law",
+      "Robert Ryan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-love-machine.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Foreign Affair",
+    "year": 1948,
+    "cast": [
+      "Jean Arthur",
+      "Marlene Dietrich"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-foreign-affair.html"
+}

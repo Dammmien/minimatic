@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Muppets Most Wanted",
+    "year": 2014,
+    "cast": [
+      "Ricky Gervais",
+      "Ty Burrell",
+      "Steve Whitmire",
+      "Tina Fey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/muppets-most-wanted.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "South of Santa Fe",
+    "year": 1942,
+    "cast": [
+      "Roy Rogers",
+      "Linda Hayes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/south-of-santa-fe.html"
+}

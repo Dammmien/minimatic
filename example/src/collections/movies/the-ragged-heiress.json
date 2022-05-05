@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ragged Heiress",
+    "year": 1922,
+    "cast": [
+      "Shirley Mason",
+      "John Harron"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-ragged-heiress.html"
+}

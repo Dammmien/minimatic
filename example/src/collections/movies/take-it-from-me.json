@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Take It from Me",
+    "year": 1926,
+    "cast": [
+      "Reginald Denny",
+      "Blanche Mehaffey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/take-it-from-me.html"
+}

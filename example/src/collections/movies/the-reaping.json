@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Reaping",
+    "year": 2007,
+    "cast": [
+      "Hilary Swank",
+      "AnnaSophia Robb",
+      "David Morrissey",
+      "Stephen Rea"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-reaping.html"
+}

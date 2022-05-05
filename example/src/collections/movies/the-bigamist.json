@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bigamist",
+    "year": 1953,
+    "cast": [
+      "Joan Fontaine",
+      "Ida Lupino",
+      "Edmond O'Brien"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bigamist.html"
+}

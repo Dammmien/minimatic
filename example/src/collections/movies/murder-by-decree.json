@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder by Decree",
+    "year": 1979,
+    "cast": [
+      "James Mason",
+      "Christopher Plummer"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder-by-decree.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Garden Murder Case",
+    "year": 1936,
+    "cast": [
+      "Edmund Lowe",
+      "Virginia Bruce",
+      "Benita Hume"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-garden-murder-case.html"
+}

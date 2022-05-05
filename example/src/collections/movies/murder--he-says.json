@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder, He Says",
+    "year": 1945,
+    "cast": [
+      "Fred MacMurray",
+      "Helen Walker"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder--he-says.html"
+}

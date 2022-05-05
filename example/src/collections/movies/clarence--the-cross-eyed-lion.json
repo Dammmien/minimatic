@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Clarence, the Cross-Eyed Lion",
+    "year": 1965,
+    "cast": [
+      "Marshall Thompson",
+      "Betsy Drake"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/clarence--the-cross-eyed-lion.html"
+}

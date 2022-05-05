@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Scrapper",
+    "year": 2013,
+    "cast": [
+      "Michael Beach",
+      "Anna Giles",
+      "Aidan Gillen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/scrapper.html"
+}

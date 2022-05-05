@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Behind Closed Doors",
+    "year": 1929,
+    "cast": [
+      "Virginia Valli",
+      "Gaston Glass"
+    ],
+    "genres": [
+      "Mystery",
+      "Drama"
+    ]
+  },
+  "output": "movies/behind-closed-doors.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Desperadoes of Dodge City",
+    "year": 1948,
+    "cast": [
+      "Allan Lane",
+      "Mildred Coles"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/desperadoes-of-dodge-city.html"
+}

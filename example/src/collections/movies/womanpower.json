@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Womanpower",
+    "year": 1926,
+    "cast": [
+      "Ralph Graves",
+      "Katherine Perry",
+      "Margaret Livingston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/womanpower.html"
+}

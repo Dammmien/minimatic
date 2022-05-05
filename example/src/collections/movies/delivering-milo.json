@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Delivering Milo",
+    "year": 2001,
+    "cast": [
+      "Anton Yelchin",
+      "Albert Finney",
+      "Bridget Fonda"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/delivering-milo.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jubilee Trail",
+    "year": 1954,
+    "cast": [
+      "John Russell",
+      "Joan Leslie"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/jubilee-trail.html"
+}

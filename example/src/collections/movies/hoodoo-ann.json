@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hoodoo Ann",
+    "year": 1916,
+    "cast": [
+      "Mae Marsh",
+      "Robert Harron"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/hoodoo-ann.html"
+}

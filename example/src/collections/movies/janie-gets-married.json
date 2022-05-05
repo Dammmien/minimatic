@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Janie Gets Married",
+    "year": 1946,
+    "cast": [
+      "Joan Leslie",
+      "Ann Harding",
+      "Edward Arnold"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/janie-gets-married.html"
+}

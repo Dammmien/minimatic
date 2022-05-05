@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Blonde from Singapore",
+    "year": 1941,
+    "cast": [
+      "Florence Rice",
+      "Leif Erickson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-blonde-from-singapore.html"
+}

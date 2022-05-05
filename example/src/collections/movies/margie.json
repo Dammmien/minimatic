@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Margie",
+    "year": 1946,
+    "cast": [
+      "Jeanne Crain",
+      "Glenn Langan",
+      "Lynn Bari"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/margie.html"
+}

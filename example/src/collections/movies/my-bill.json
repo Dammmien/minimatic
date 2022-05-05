@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Bill",
+    "year": 1938,
+    "cast": [
+      "Kay Francis",
+      "Dickie Moore",
+      "Bonita Granville"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-bill.html"
+}

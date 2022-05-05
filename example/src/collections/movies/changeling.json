@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Changeling",
+    "year": 2008,
+    "cast": [
+      "Angelina Jolie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/changeling.html"
+}

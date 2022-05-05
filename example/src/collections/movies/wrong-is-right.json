@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wrong Is Right",
+    "year": 1982,
+    "cast": [
+      "Sean Connery",
+      "Katharine Ross"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wrong-is-right.html"
+}

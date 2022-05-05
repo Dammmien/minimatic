@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Dressmaker from Paris",
+    "year": 1925,
+    "cast": [
+      "Leatrice Joy",
+      "Ernest Torrence"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-dressmaker-from-paris.html"
+}

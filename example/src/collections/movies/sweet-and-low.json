@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sweet and Low",
+    "year": 1914,
+    "cast": [
+      "William Garwood",
+      "Harry von Meter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sweet-and-low.html"
+}

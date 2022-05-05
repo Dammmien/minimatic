@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tell Them Willie Boy Is Here",
+    "year": 1969,
+    "cast": [
+      "Robert Redford",
+      "Katharine Ross",
+      "Robert Blake"
+    ],
+    "genres": [
+      "Drama",
+      "Western"
+    ]
+  },
+  "output": "movies/tell-them-willie-boy-is-here.html"
+}

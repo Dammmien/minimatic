@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Candy",
+    "year": 1968,
+    "cast": [
+      "Marlon Brando",
+      "Richard Burton",
+      "Charles Aznavour",
+      "Walter Matthau",
+      "James Coburn",
+      "Ringo Starr"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/candy.html"
+}

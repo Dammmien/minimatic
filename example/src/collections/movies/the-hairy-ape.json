@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hairy Ape",
+    "year": 1944,
+    "cast": [
+      "William Bendix",
+      "Susan Hayward",
+      "John Loder"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hairy-ape.html"
+}

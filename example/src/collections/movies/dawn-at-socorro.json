@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dawn at Socorro",
+    "year": 1954,
+    "cast": [
+      "Rory Calhoun",
+      "Piper Laurie",
+      "David Brian",
+      "Kathleen Hughes",
+      "Alex Nicol"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/dawn-at-socorro.html"
+}

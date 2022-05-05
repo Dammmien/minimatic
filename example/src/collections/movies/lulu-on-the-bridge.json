@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lulu on the Bridge",
+    "year": 1998,
+    "cast": [
+      "Harvey Keitel",
+      "Mira Sorvino",
+      "Vanessa Redgrave"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lulu-on-the-bridge.html"
+}

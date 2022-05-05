@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Road to Rio",
+    "year": 1947,
+    "cast": [
+      "Bob Hope",
+      "Bing Crosby",
+      "Dorothy Lamour"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/road-to-rio.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Tully",
+    "year": 2018,
+    "cast": [
+      "Charlize Theron",
+      "Mackenzie Davis",
+      "Mark Duplass",
+      "Ron Livingston"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/tully.html"
+}

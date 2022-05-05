@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Razor's Edge",
+    "year": 1984,
+    "cast": [
+      "Bill Murray",
+      "Theresa Russell",
+      "Catherine Hicks",
+      "Denholm Elliott",
+      "Brian Doyle-Murray",
+      "James Keach"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-razor-s-edge.html"
+}

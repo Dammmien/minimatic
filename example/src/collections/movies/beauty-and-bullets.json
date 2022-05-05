@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beauty and Bullets",
+    "year": 1928,
+    "cast": [
+      "Ted Wells",
+      "Duane Thompson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/beauty-and-bullets.html"
+}

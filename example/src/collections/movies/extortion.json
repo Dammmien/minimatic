@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Extortion",
+    "year": 1938,
+    "cast": [
+      "Scott Kolk",
+      "Mary Russell"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/extortion.html"
+}

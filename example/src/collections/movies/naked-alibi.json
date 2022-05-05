@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Naked Alibi",
+    "year": 1954,
+    "cast": [
+      "Sterling Hayden",
+      "Gloria Grahame",
+      "Gene Barry"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/naked-alibi.html"
+}

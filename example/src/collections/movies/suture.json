@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Suture",
+    "year": 1993,
+    "cast": [
+      "Dennis Haysbert",
+      "Mel Harris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/suture.html"
+}

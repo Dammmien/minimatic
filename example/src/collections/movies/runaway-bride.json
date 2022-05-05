@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Runaway Bride",
+    "year": 1999,
+    "cast": [
+      "Richard Gere",
+      "Julia Roberts",
+      "Joan Cusack"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/runaway-bride.html"
+}

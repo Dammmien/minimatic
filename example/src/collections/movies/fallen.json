@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fallen",
+    "year": 1998,
+    "cast": [
+      "Denzel Washington",
+      "John Goodman",
+      "Embeth Davidtz",
+      "James Gandolfini"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/fallen.html"
+}

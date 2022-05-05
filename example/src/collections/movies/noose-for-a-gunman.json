@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Noose for a Gunman",
+    "year": 1960,
+    "cast": [
+      "Jim Davis",
+      "Lyn Thomas"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/noose-for-a-gunman.html"
+}

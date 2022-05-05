@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Star in the Dust",
+    "year": 1956,
+    "cast": [
+      "John Agar",
+      "Mamie Van Doren",
+      "Richard Boone"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/star-in-the-dust.html"
+}

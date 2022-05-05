@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Summer Storm",
+    "year": 1944,
+    "cast": [
+      "Linda Darnell",
+      "George Sanders",
+      "Anna Lee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/summer-storm.html"
+}

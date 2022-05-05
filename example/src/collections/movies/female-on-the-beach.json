@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Female on the Beach",
+    "year": 1955,
+    "cast": [
+      "Joan Crawford",
+      "Jeff Chandler"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/female-on-the-beach.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bred in Old Kentucky",
+    "year": 1926,
+    "cast": [
+      "Viola Dana",
+      "Jed Prouty"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/bred-in-old-kentucky.html"
+}

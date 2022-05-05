@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Heroes of the Alamo",
+    "year": 1937,
+    "cast": [
+      "Rex Lease",
+      "Lane Chandler",
+      "Earle Hodgins"
+    ],
+    "genres": [
+      "Western",
+      "War"
+    ]
+  },
+  "output": "movies/heroes-of-the-alamo.html"
+}

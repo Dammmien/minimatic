@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Here's to Romance",
+    "year": 1935,
+    "cast": [
+      "Nino Martini",
+      "Genevieve Tobin",
+      "Anita Louise"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/here-s-to-romance.html"
+}

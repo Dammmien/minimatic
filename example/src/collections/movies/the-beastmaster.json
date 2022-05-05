@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Beastmaster",
+    "year": 1982,
+    "cast": [
+      "Marc Singer",
+      "Tanya Roberts"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-beastmaster.html"
+}

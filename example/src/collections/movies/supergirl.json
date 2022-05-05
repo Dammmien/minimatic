@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Supergirl",
+    "year": 1984,
+    "cast": [
+      "Helen Slater",
+      "Peter O'Toole",
+      "Faye Dunaway"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/supergirl.html"
+}

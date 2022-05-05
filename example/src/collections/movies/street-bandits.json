@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Street Bandits",
+    "year": 1951,
+    "cast": [
+      "Penny Edwards",
+      "Robert Clarke"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/street-bandits.html"
+}

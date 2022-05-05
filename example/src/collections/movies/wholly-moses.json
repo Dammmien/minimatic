@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wholly Moses",
+    "year": 1980,
+    "cast": [
+      "Dudley Moore",
+      "Laraine Newman",
+      "Jack Gilford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wholly-moses.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Lady Without Passport",
+    "year": 1950,
+    "cast": [
+      "Hedy Lamarr",
+      "John Hodiak",
+      "James Craig"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/a-lady-without-passport.html"
+}

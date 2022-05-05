@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Oz the Great and Powerful",
+    "year": 2013,
+    "cast": [
+      "James Franco",
+      "Mila Kunis",
+      "Rachel Weisz",
+      "Michelle Williams",
+      "Zach Braff",
+      "Bill Cobbs",
+      "Joey King",
+      "(voice)",
+      "Tony Cox"
+    ],
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/oz-the-great-and-powerful.html"
+}

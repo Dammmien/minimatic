@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Guilty Hands",
+    "year": 1931,
+    "cast": [
+      "Lionel Barrymore",
+      "Kay Francis",
+      "Polly Moran"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/guilty-hands.html"
+}

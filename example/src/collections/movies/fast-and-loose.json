@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fast and Loose",
+    "year": 1939,
+    "cast": [
+      "Robert Montgomery",
+      "Rosalind Russell"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/fast-and-loose.html"
+}

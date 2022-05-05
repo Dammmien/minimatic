@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "My Gal Sal",
+    "year": 1942,
+    "cast": [
+      "Rita Hayworth",
+      "Victor Mature",
+      "Carole Landis",
+      "Phil Silvers"
+    ],
+    "genres": [
+      "Musical",
+      "Biography"
+    ]
+  },
+  "output": "movies/my-gal-sal.html"
+}

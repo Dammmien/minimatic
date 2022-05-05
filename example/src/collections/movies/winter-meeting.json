@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Winter Meeting",
+    "year": 1948,
+    "cast": [
+      "Bette Davis",
+      "Janis Paige"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/winter-meeting.html"
+}

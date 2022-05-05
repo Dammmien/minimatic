@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Halliday Brand",
+    "year": 1957,
+    "cast": [
+      "Joseph Cotten",
+      "Viveca Lindfors",
+      "Betsy Blair"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-halliday-brand.html"
+}

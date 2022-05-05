@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Devil's Disciple",
+    "year": 1959,
+    "cast": [
+      "Burt Lancaster",
+      "Kirk Douglas",
+      "Laurence Olivier"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-devil-s-disciple.html"
+}

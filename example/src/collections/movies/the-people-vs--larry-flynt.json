@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The People vs. Larry Flynt",
+    "year": 1996,
+    "cast": [
+      "Woody Harrelson",
+      "Courtney Love",
+      "Edward Norton"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-people-vs--larry-flynt.html"
+}

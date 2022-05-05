@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Lost Squadron",
+    "year": 1932,
+    "cast": [
+      "Richard Dix",
+      "Mary Astor",
+      "Erich von Stroheim"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/the-lost-squadron.html"
+}

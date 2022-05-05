@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The False Madonna",
+    "year": 1931,
+    "cast": [
+      "Kay Francis",
+      "Conway Tearle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-false-madonna.html"
+}

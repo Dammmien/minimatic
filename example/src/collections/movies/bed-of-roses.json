@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bed of Roses",
+    "year": 1996,
+    "cast": [
+      "Mary Stuart Masterson",
+      "Christian Slater"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/bed-of-roses.html"
+}

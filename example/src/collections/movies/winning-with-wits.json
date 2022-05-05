@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Winning with Wits",
+    "year": 1922,
+    "cast": [
+      "Barbara Bedford",
+      "Harry Northrup"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/winning-with-wits.html"
+}

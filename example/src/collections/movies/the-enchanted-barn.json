@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Enchanted Barn",
+    "year": 1919,
+    "cast": [
+      "Bessie Love",
+      "J. Frank Glendon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-enchanted-barn.html"
+}

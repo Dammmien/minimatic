@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Parisian Nights",
+    "year": 1925,
+    "cast": [
+      "Elaine Hammerstein",
+      "Gaston Glass"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/parisian-nights.html"
+}

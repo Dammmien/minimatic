@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cymbeline",
+    "year": 2015,
+    "cast": [
+      "Ed Harris",
+      "Milla Jovovich",
+      "Ethan Hawke",
+      "John Leguizamo"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/cymbeline.html"
+}

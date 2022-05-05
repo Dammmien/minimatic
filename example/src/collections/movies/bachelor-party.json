@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bachelor Party",
+    "year": 1984,
+    "cast": [
+      "Tom Hanks",
+      "Tawny Kitaen",
+      "Adrian Zmed"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bachelor-party.html"
+}

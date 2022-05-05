@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Design for Scandal",
+    "year": 1941,
+    "cast": [
+      "Rosalind Russell",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/design-for-scandal.html"
+}

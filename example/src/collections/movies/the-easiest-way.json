@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Easiest Way",
+    "year": 1931,
+    "cast": [
+      "Constance Bennett",
+      "Adolphe Menjou",
+      "Clark Gable"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-easiest-way.html"
+}

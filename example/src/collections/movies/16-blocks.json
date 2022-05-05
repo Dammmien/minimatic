@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "16 Blocks",
+    "year": 2006,
+    "cast": [
+      "Bruce Willis",
+      "Mos Def"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/16-blocks.html"
+}

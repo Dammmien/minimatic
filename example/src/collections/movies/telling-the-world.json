@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Telling the World",
+    "year": 1928,
+    "cast": [
+      "William Haines",
+      "Anita Page"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/telling-the-world.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Newsboys' Home",
+    "year": 1938,
+    "cast": [
+      "Jackie Cooper",
+      "Edmund Lowe",
+      "Wendy Barrie"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/newsboys--home.html"
+}

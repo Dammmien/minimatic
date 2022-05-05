@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Strangler",
+    "year": 1964,
+    "cast": [
+      "Victor Buono"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-strangler.html"
+}

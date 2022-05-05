@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lakeview Terrace",
+    "year": 2008,
+    "cast": [
+      "Samuel L. Jackson",
+      "Kerry Washington",
+      "Patrick Wilson"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/lakeview-terrace.html"
+}

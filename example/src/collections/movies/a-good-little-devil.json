@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Good Little Devil",
+    "year": 1914,
+    "cast": [
+      "Mary Pickford",
+      "Ernest Truex",
+      "David Belasco"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-good-little-devil.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Madness of Youth",
+    "year": 1923,
+    "cast": [
+      "John Gilbert",
+      "Billie Dove"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/madness-of-youth.html"
+}

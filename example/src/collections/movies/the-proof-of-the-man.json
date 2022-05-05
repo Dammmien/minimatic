@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Proof of the Man",
+    "year": 1913,
+    "cast": [
+      "Alexander Gaden",
+      "Edna Maison"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-proof-of-the-man.html"
+}

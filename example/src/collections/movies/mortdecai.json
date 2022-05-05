@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mortdecai",
+    "year": 2015,
+    "cast": [
+      "Johnny Depp",
+      "Gwyneth Paltrow",
+      "Ewan McGregor",
+      "Olivia Munn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mortdecai.html"
+}

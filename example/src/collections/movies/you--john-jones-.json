@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "You, John Jones!",
+    "year": 1943,
+    "cast": [
+      "James Cagney",
+      "Ann Sothern"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/you--john-jones-.html"
+}

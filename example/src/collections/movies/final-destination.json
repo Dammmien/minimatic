@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Final Destination",
+    "year": 2000,
+    "cast": [
+      "Devon Sawa",
+      "Ali Larter",
+      "Kerr Smith",
+      "Seann William Scott"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/final-destination.html"
+}

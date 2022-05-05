@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bone",
+    "year": 1972,
+    "cast": [
+      "Yaphet Kotto",
+      "Andrew Duggan",
+      "Joyce Van Patten"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/bone.html"
+}

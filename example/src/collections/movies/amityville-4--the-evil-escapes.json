@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Amityville 4: The Evil Escapes",
+    "year": 1989,
+    "cast": [
+      "Patty Duke",
+      "Jane Wyatt",
+      "Fredric Lehne"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/amityville-4--the-evil-escapes.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "How to Frame a Figg",
+    "year": 1971,
+    "cast": [
+      "Don Knotts",
+      "Joe Flynn",
+      "Yvonne Craig"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/how-to-frame-a-figg.html"
+}

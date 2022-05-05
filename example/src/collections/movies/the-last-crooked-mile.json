@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last Crooked Mile",
+    "year": 1946,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Ann Savage",
+      "Adele Mara"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-last-crooked-mile.html"
+}

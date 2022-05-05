@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Graffiti Bridge",
+    "year": 1990,
+    "cast": [
+      "Prince",
+      "Morris Day",
+      "Ingrid Chavez"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/graffiti-bridge.html"
+}

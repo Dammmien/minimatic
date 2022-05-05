@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "What a Girl Wants",
+    "year": 2003,
+    "cast": [
+      "Amanda Bynes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/what-a-girl-wants.html"
+}

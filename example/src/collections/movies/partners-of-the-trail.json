@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Partners of the Trail",
+    "year": 1944,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton",
+      "Christine McIntyre"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/partners-of-the-trail.html"
+}

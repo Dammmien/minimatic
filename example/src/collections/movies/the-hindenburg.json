@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Hindenburg",
+    "year": 1975,
+    "cast": [
+      "George C. Scott",
+      "Anne Bancroft",
+      "Roy Thinnes",
+      "Charles Durning",
+      "Gig Young"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-hindenburg.html"
+}

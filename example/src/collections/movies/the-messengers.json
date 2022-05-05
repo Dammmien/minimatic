@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Messengers",
+    "year": 2007,
+    "cast": [
+      "Kristen Stewart",
+      "Dylan McDermott",
+      "Penelope Ann Miller"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-messengers.html"
+}

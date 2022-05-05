@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Behemoth, the Sea Monster",
+    "year": 1959,
+    "cast": [
+      "Gene Evans",
+      "André Morell"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/behemoth--the-sea-monster.html"
+}

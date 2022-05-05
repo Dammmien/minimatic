@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Stitch in Time",
+    "year": 1919,
+    "cast": [
+      "Agnes Ayres",
+      "Gladys Leslie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-stitch-in-time.html"
+}

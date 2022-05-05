@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fair Warning",
+    "year": 1937,
+    "cast": [
+      "J. Edward Bromberg",
+      "Betty Furness",
+      "Bill Burrud"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/fair-warning.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Branded Men",
+    "year": 1931,
+    "cast": [
+      "Ken Maynard",
+      "June Clyde",
+      "Irving Bacon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/branded-men.html"
+}

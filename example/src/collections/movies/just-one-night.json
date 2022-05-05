@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Just One Night",
+    "year": 2000,
+    "cast": [
+      "Timothy Hutton",
+      "Maria Grazia Cucinotta"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/just-one-night.html"
+}

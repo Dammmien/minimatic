@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The National Barn Dance",
+    "year": 1944,
+    "cast": [
+      "Jean Heather",
+      "Charles Quigley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-national-barn-dance.html"
+}

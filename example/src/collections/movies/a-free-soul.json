@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Free Soul",
+    "year": 1931,
+    "cast": [
+      "Norma Shearer",
+      "Lionel Barrymore",
+      "Clark Gable"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-free-soul.html"
+}

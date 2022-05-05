@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gumball Rally",
+    "year": 1976,
+    "cast": [
+      "Gary Busey",
+      "Tim McIntire",
+      "Michael Sarrazin"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-gumball-rally.html"
+}

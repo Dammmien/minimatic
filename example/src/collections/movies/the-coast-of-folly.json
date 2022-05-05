@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Coast of Folly",
+    "year": 1925,
+    "cast": [
+      "Gloria Swanson",
+      "Alec B. Francis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-coast-of-folly.html"
+}

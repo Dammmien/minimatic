@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lucky Dog",
+    "year": 1933,
+    "cast": [
+      "Tom O'Brien",
+      "Harry Holman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lucky-dog.html"
+}

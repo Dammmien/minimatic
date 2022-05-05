@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Pink Narcissus",
+    "year": 1971,
+    "cast": [
+      "Don Brooks"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/pink-narcissus.html"
+}

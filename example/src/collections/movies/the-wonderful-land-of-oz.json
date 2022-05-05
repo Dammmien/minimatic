@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Wonderful Land of Oz",
+    "year": 1969,
+    "cast": [
+      "Al Joseph"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-wonderful-land-of-oz.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Youth Runs Wild",
+    "year": 1944,
+    "cast": [
+      "Bonita Granville",
+      "Kent Smith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/youth-runs-wild.html"
+}

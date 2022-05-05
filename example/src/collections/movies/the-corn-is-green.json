@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Corn Is Green",
+    "year": 1945,
+    "cast": [
+      "Bette Davis",
+      "Joan Lorring",
+      "John Dall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-corn-is-green.html"
+}

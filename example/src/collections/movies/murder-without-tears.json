@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder Without Tears",
+    "year": 1953,
+    "cast": [
+      "Craig Stevens",
+      "Joyce Holden"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/murder-without-tears.html"
+}

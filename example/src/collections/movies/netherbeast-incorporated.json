@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Netherbeast Incorporated",
+    "year": 2007,
+    "cast": [
+      "Darrell Hammond",
+      "Judd Nelson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/netherbeast-incorporated.html"
+}

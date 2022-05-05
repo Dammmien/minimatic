@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Working Man",
+    "year": 1933,
+    "cast": [
+      "George Arliss",
+      "Bette Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-working-man.html"
+}

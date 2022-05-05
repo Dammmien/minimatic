@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Speak Easily",
+    "year": 1932,
+    "cast": [
+      "Buster Keaton",
+      "Jimmy Durante",
+      "Thelma Todd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/speak-easily.html"
+}

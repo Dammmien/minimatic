@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Picking Up the Pieces",
+    "year": 2000,
+    "cast": [
+      "Woody Allen",
+      "Sharon Stone",
+      "David Schwimmer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/picking-up-the-pieces.html"
+}

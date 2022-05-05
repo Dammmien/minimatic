@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Assassination of a High School President",
+    "year": 2009,
+    "cast": [
+      "Bruce Willis",
+      "Reece Thompson",
+      "Mischa Barton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/assassination-of-a-high-school-president.html"
+}

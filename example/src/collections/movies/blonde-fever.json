@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Blonde Fever",
+    "year": 1944,
+    "cast": [
+      "Philip Dorn",
+      "Mary Astor",
+      "Gloria Grahame"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/blonde-fever.html"
+}

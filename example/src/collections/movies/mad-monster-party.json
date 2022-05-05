@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mad Monster Party",
+    "year": 1967,
+    "cast": [
+      "Boris Karloff",
+      "Allen Swift",
+      "Phyllis Diller"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/mad-monster-party.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder in the Private Car",
+    "year": 1934,
+    "cast": [
+      "Charles Ruggles",
+      "Una Merkel"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder-in-the-private-car.html"
+}

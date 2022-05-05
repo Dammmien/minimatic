@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Faces",
+    "year": 1968,
+    "cast": [
+      "Gena Rowlands",
+      "John Marley",
+      "Seymour Cassel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/faces.html"
+}

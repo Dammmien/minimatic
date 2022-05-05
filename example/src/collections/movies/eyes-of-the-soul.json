@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eyes of the Soul",
+    "year": 1919,
+    "cast": [
+      "Elsie Ferguson",
+      "Wyndham Standing"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/eyes-of-the-soul.html"
+}

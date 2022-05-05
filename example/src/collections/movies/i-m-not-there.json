@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "I'm Not There",
+    "year": 2007,
+    "cast": [
+      "Christian Bale",
+      "Cate Blanchett",
+      "Marcus Carl Franklin",
+      "Richard Gere",
+      "Heath Ledger",
+      "Ben Whishaw"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/i-m-not-there.html"
+}

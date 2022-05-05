@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "A Boy Named Sue",
+    "year": 2001,
+    "cast": [],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/a-boy-named-sue.html"
+}

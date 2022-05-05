@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chicago Calling",
+    "year": 1951,
+    "cast": [
+      "Dan Duryea",
+      "Mary Anderson"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/chicago-calling.html"
+}

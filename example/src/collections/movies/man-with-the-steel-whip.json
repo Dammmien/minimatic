@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Man with the Steel Whip",
+    "year": 1954,
+    "cast": [
+      "Dick Simmons",
+      "Dale Van Sickel"
+    ],
+    "genres": []
+  },
+  "output": "movies/man-with-the-steel-whip.html"
+}

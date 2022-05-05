@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Honky Tonk",
+    "year": 1941,
+    "cast": [
+      "Clark Gable",
+      "Lana Turner",
+      "Claire Trevor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/honky-tonk.html"
+}

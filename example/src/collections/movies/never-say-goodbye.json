@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Never Say Goodbye",
+    "year": 1956,
+    "cast": [
+      "Rock Hudson",
+      "Cornell Borchers"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/never-say-goodbye.html"
+}

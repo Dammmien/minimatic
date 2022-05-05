@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ginger in the Morning",
+    "year": 1974,
+    "cast": [
+      "Fred Ward",
+      "Sissy Spacek",
+      "Monte Markham"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/ginger-in-the-morning.html"
+}

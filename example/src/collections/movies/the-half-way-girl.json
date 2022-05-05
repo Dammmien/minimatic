@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Half-Way Girl",
+    "year": 1925,
+    "cast": [
+      "Doris Kenyon",
+      "Lloyd Hughes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-half-way-girl.html"
+}

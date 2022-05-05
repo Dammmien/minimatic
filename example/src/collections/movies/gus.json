@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gus",
+    "year": 1976,
+    "cast": [
+      "Edward Asner",
+      "Don Knotts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gus.html"
+}

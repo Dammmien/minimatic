@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Elvis on Tour",
+    "year": 1972,
+    "cast": [
+      "Elvis Presley"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/elvis-on-tour.html"
+}

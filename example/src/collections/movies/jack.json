@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Jack",
+    "year": 1996,
+    "cast": [
+      "Robin Williams",
+      "Diane Lane",
+      "Brian Kerwin",
+      "Jennifer Lopez",
+      "Fran Drescher",
+      "Bill Cosby"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/jack.html"
+}

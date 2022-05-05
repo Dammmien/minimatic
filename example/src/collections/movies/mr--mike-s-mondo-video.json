@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Mike's Mondo Video",
+    "year": 1979,
+    "cast": [
+      "Dan Aykroyd",
+      "Jane Curtin",
+      "Teri Garr"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--mike-s-mondo-video.html"
+}

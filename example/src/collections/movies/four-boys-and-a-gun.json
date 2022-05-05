@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Four Boys and a Gun",
+    "year": 1957,
+    "cast": [
+      "Frank Sutton",
+      "James Franciscus"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/four-boys-and-a-gun.html"
+}

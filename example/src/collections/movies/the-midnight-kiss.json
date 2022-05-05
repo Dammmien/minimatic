@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Midnight Kiss",
+    "year": 1926,
+    "cast": [
+      "Janet Gaynor",
+      "Doris Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-midnight-kiss.html"
+}

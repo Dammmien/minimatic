@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flaming Bullets",
+    "year": 1945,
+    "cast": [
+      "Tex Ritter",
+      "Dave O'Brien"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/flaming-bullets.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hawaiian Nights",
+    "year": 1939,
+    "cast": [
+      "Constance Moore",
+      "Johnny Downs"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/hawaiian-nights.html"
+}

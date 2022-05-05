@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Easy Listening",
+    "year": 2002,
+    "cast": [
+      "David Ian",
+      "Traci Crouch",
+      "Timothy Crow"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/easy-listening.html"
+}

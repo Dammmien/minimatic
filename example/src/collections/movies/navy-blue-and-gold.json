@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Navy Blue and Gold",
+    "year": 1937,
+    "cast": [
+      "James Stewart",
+      "Robert Young",
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Comedy",
+      "Sports"
+    ]
+  },
+  "output": "movies/navy-blue-and-gold.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ladies Man",
+    "year": 2000,
+    "cast": [
+      "Tim Meadows",
+      "Billy Dee Williams",
+      "Will Ferrell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ladies-man.html"
+}

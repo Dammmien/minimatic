@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Satin Girl",
+    "year": 1923,
+    "cast": [
+      "Norman Kerry",
+      "Marc McDermott"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-satin-girl.html"
+}

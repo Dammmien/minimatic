@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jacknife",
+    "year": 1989,
+    "cast": [
+      "Robert De Niro",
+      "Ed Harris",
+      "Kathy Baker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jacknife.html"
+}

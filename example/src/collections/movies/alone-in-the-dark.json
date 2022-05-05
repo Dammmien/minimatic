@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Alone in the Dark",
+    "year": 2005,
+    "cast": [
+      "Christian Slater",
+      "Tara Reid",
+      "Stephen Dorff"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/alone-in-the-dark.html"
+}

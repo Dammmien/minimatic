@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The General's Daughter",
+    "year": 1999,
+    "cast": [
+      "John Travolta",
+      "Madeleine Stowe",
+      "James Woods",
+      "Timothy Hutton",
+      "James Cromwell",
+      "Clarence Williams III"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-general-s-daughter.html"
+}

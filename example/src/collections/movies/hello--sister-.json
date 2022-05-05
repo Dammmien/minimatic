@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hello, Sister!",
+    "year": 1933,
+    "cast": [
+      "James Dunn",
+      "ZaSu Pitts"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hello--sister-.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Enchanted Hill",
+    "year": 1926,
+    "cast": [
+      "Jack Holt",
+      "Florence Vidor",
+      "Mary Brian"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-enchanted-hill.html"
+}

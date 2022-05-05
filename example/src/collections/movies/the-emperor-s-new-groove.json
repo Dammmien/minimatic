@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Emperor's New Groove",
+    "year": 2000,
+    "cast": [
+      "David Spade",
+      "John Goodman",
+      "Eartha Kitt",
+      "Patrick Warburton"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-emperor-s-new-groove.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Justine",
+    "year": 1969,
+    "cast": [
+      "Robert Forster",
+      "Anouk Aimée",
+      "Dirk Bogarde",
+      "Michael York"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/justine.html"
+}

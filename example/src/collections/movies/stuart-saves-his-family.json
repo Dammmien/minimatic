@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stuart Saves His Family",
+    "year": 1995,
+    "cast": [
+      "Al Franken",
+      "Laura San Giacomo",
+      "Vincent D'Onofrio"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stuart-saves-his-family.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild Horse Rodeo",
+    "year": 1937,
+    "cast": [
+      "Robert Livingston",
+      "June Martel"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wild-horse-rodeo.html"
+}

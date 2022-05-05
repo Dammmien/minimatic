@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Buy & Cell",
+    "year": 1987,
+    "cast": [
+      "Robert Carradine",
+      "Randall \"Tex\" Cobb",
+      "Ben Vereen",
+      "Imogene Coca",
+      "Roddy Piper"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/buy---cell.html"
+}

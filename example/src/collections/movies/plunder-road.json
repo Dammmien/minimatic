@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Plunder Road",
+    "year": 1957,
+    "cast": [
+      "Gene Raymond",
+      "Jeanne Cooper"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/plunder-road.html"
+}

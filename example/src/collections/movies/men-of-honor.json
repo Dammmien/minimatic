@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Men of Honor",
+    "year": 2000,
+    "cast": [
+      "Robert De Niro",
+      "Cuba Gooding, Jr.",
+      "Charlize Theron"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/men-of-honor.html"
+}

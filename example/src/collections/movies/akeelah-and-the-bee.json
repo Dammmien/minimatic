@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Akeelah and the Bee",
+    "year": 2006,
+    "cast": [
+      "Keke Palmer",
+      "Laurence Fishburne",
+      "Angela Bassett"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/akeelah-and-the-bee.html"
+}

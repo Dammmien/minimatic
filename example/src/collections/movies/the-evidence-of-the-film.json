@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Evidence of the Film",
+    "year": 1913,
+    "cast": [
+      "William Garwood",
+      "Marie Eline"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-evidence-of-the-film.html"
+}

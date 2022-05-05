@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Everything but the Truth",
+    "year": 1956,
+    "cast": [
+      "Maureen O'Hara",
+      "John Forsythe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/everything-but-the-truth.html"
+}

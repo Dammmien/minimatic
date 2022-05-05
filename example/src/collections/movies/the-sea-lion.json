@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sea Lion",
+    "year": 1921,
+    "cast": [
+      "Hobart Bosworth",
+      "Bessie Love",
+      "Emory Johnson"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-sea-lion.html"
+}

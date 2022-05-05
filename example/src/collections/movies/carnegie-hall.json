@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Carnegie Hall",
+    "year": 1947,
+    "cast": [
+      "Marsha Hunt",
+      "William Prince"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/carnegie-hall.html"
+}

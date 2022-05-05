@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Christmas Holiday",
+    "year": 1944,
+    "cast": [
+      "Deanna Durbin",
+      "Gene Kelly"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/christmas-holiday.html"
+}

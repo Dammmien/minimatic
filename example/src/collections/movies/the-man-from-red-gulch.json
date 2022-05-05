@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man from Red Gulch",
+    "year": 1925,
+    "cast": [
+      "Harry Carey",
+      "Harriet Hammond"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-man-from-red-gulch.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Heathcliff: The Movie",
+    "year": 1986,
+    "cast": [
+      "Mel Blanc"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/heathcliff--the-movie.html"
+}

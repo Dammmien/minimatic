@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Public Enemy's Wife",
+    "year": 1936,
+    "cast": [
+      "Pat O'Brien",
+      "Margaret Lindsay",
+      "Cesar Romero"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/public-enemy-s-wife.html"
+}

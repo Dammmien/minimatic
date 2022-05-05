@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The World of Abbott and Costello",
+    "year": 1965,
+    "cast": [
+      "Bud Abbott",
+      "Lou Costello"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-world-of-abbott-and-costello.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hell Cat",
+    "year": 1934,
+    "cast": [
+      "Robert Armstrong",
+      "Ann Sothern",
+      "Minna Gombell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hell-cat.html"
+}

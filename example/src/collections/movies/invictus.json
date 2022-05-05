@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Invictus",
+    "year": 2009,
+    "cast": [
+      "Morgan Freeman",
+      "Matt Damon"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/invictus.html"
+}

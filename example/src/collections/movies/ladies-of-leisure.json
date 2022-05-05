@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ladies of Leisure",
+    "year": 1930,
+    "cast": [
+      "Barbara Stanwyck",
+      "Ralph Graves"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/ladies-of-leisure.html"
+}

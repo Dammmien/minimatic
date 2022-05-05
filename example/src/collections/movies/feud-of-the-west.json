@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Feud of the West",
+    "year": 1936,
+    "cast": [
+      "Hoot Gibson",
+      "Joan Barclay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/feud-of-the-west.html"
+}

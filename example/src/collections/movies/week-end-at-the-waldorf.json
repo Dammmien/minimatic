@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Week-End at the Waldorf",
+    "year": 1945,
+    "cast": [
+      "Lana Turner",
+      "Ginger Rogers",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/week-end-at-the-waldorf.html"
+}

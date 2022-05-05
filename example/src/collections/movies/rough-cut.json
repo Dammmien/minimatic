@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rough Cut",
+    "year": 1980,
+    "cast": [
+      "Burt Reynolds",
+      "David Niven",
+      "Lesley-Anne Down"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/rough-cut.html"
+}

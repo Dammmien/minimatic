@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Klondike",
+    "year": 1932,
+    "cast": [
+      "Thelma Todd",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/klondike.html"
+}

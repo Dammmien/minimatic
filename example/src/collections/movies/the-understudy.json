@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Understudy",
+    "year": 1922,
+    "cast": [
+      "Doris May",
+      "Wallace MacDonald"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-understudy.html"
+}

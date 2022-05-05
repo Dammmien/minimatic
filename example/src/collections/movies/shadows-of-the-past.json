@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shadows of the Past",
+    "year": 1919,
+    "cast": [
+      "Anita Stewart",
+      "Harry T. Morey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shadows-of-the-past.html"
+}

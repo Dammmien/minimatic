@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Magnificent Ambersons",
+    "year": 1942,
+    "cast": [
+      "Joseph Cotten",
+      "Anne Baxter",
+      "Dolores Costello",
+      "Agnes Moorehead",
+      "Tim Holt"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/the-magnificent-ambersons.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Rocky Balboa",
+    "year": 2006,
+    "cast": [
+      "Sylvester Stallone",
+      "Burt Young",
+      "Geraldine Hughes",
+      "Milo Ventimiglia",
+      "Antonio Tarver",
+      "Tony Burton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rocky-balboa.html"
+}

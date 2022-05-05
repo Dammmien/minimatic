@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Vigilante",
+    "year": 1983,
+    "cast": [
+      "Robert Forster",
+      "Fred Williamson",
+      "Rutanya Alda"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/vigilante.html"
+}

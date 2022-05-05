@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Private Eyes",
+    "year": 1953,
+    "cast": [
+      "Bowery Boys",
+      "Joyce Holden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/private-eyes.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Switching Channels",
+    "year": 1988,
+    "cast": [
+      "Burt Reynolds",
+      "Kathleen Turner",
+      "Christopher Reeve"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/switching-channels.html"
+}

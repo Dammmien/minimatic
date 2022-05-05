@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Soldier's Story",
+    "year": 1984,
+    "cast": [
+      "Howard Rollins",
+      "Adolph Caesar",
+      "Denzel Washington"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-soldier-s-story.html"
+}

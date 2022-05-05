@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Call of the South Seas",
+    "year": 1944,
+    "cast": [
+      "Janet Martin",
+      "Allan Lane",
+      "William Henry"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/call-of-the-south-seas.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Winning Girl",
+    "year": 1919,
+    "cast": [
+      "Shirley Mason",
+      "Theodore Roberts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-winning-girl.html"
+}

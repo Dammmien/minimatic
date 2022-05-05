@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Oil and Water",
+    "year": 1913,
+    "cast": [
+      "Blanche Sweet",
+      "Henry B. Walthall",
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/oil-and-water.html"
+}

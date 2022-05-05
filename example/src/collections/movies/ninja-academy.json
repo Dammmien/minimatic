@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Ninja Academy",
+    "year": 1990,
+    "cast": [
+      "Will Egan"
+    ],
+    "genres": [
+      "Martial Arts"
+    ]
+  },
+  "output": "movies/ninja-academy.html"
+}

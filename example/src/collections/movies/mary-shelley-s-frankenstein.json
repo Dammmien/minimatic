@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Mary Shelley's Frankenstein",
+    "year": 1994,
+    "cast": [
+      "Robert De Niro",
+      "Helena Bonham Carter",
+      "Kenneth Branagh",
+      "Aidan Quinn",
+      "Tom Hulce",
+      "Ian Holm"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/mary-shelley-s-frankenstein.html"
+}

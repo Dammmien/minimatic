@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Neon Demon",
+    "year": 2016,
+    "cast": [
+      "Elle Fanning",
+      "Karl Glusman",
+      "Jena Malone"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-neon-demon.html"
+}

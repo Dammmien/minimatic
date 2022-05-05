@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Road House",
+    "year": 1989,
+    "cast": [
+      "Patrick Swayze",
+      "Kelly Lynch",
+      "Sam Elliott",
+      "Ben Gazzara"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/road-house.html"
+}

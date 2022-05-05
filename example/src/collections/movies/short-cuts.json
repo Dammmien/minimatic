@@ -1,0 +1,33 @@
+{
+  "data": {
+    "title": "Short Cuts",
+    "year": 1993,
+    "cast": [
+      "Julianne Moore",
+      "Jack Lemmon",
+      "Robert Downey, Jr.",
+      "Tim Robbins",
+      "Chris Penn",
+      "Jennifer Jason Leigh",
+      "Madeleine Stowe",
+      "Matthew Modine",
+      "Anne Archer",
+      "Fred Ward",
+      "Lily Tomlin",
+      "Tom Waits",
+      "Andie MacDowell",
+      "Bruce Davison",
+      "Lili Taylor",
+      "Peter Gallagher",
+      "Frances McDormand",
+      "Lori Singer",
+      "Huey Lewis",
+      "Annie Ross",
+      "Lyle Lovett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/short-cuts.html"
+}

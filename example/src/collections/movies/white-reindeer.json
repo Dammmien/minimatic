@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "White Reindeer",
+    "year": 2013,
+    "cast": [
+      "Anna Margaret Hollyman",
+      "Laura Lemar-Goldsborough",
+      "Lydia Hyslop"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/white-reindeer.html"
+}

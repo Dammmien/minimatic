@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Lady of Chance",
+    "year": 1928,
+    "cast": [
+      "Norma Shearer",
+      "Lowell Sherman"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/a-lady-of-chance.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The President's Analyst",
+    "year": 1967,
+    "cast": [
+      "James Coburn",
+      "Godfrey Cambridge"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-president-s-analyst.html"
+}

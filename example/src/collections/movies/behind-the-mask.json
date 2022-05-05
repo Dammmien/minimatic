@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Behind the Mask",
+    "year": 1946,
+    "cast": [
+      "Kane Richmond",
+      "Barbara Read"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/behind-the-mask.html"
+}

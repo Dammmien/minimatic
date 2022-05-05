@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Domestic Disturbance",
+    "year": 2001,
+    "cast": [
+      "John Travolta",
+      "Vince Vaughn",
+      "Teri Polo"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/domestic-disturbance.html"
+}

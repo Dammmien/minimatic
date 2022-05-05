@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Around the World Under the Sea",
+    "year": 1966,
+    "cast": [
+      "Lloyd Bridges",
+      "Keenan Wynn",
+      "Gary Merrill",
+      "Shirley Eaton",
+      "David McCallum"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/around-the-world-under-the-sea.html"
+}

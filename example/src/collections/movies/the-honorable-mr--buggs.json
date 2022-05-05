@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Honorable Mr. Buggs",
+    "year": 1927,
+    "cast": [
+      "Matt Moore",
+      "Anna May Wong",
+      "Oliver Hardy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-honorable-mr--buggs.html"
+}

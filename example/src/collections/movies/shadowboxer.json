@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shadowboxer",
+    "year": 2005,
+    "cast": [
+      "Helen Mirren",
+      "Cuba Gooding, Jr.",
+      "Mo'Nique"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/shadowboxer.html"
+}

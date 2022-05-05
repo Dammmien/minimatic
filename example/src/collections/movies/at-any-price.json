@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "At Any Price",
+    "year": 2013,
+    "cast": [
+      "Dennis Quaid",
+      "Zac Efron",
+      "Kim Dickens",
+      "Heather Graham",
+      "Clancy Brown"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/at-any-price.html"
+}

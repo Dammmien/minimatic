@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cinema Murder",
+    "year": 1919,
+    "cast": [
+      "Marion Davies",
+      "Eulalie Jensen",
+      "Anders Randolf"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-cinema-murder.html"
+}

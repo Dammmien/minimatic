@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Topsy and Eva",
+    "year": 1927,
+    "cast": [
+      "Rosetta Duncan",
+      "Vivian Duncan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/topsy-and-eva.html"
+}

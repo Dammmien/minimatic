@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Bride Wore Red",
+    "year": 1937,
+    "cast": [
+      "Joan Crawford",
+      "Franchot Tone",
+      "Billie Burke"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bride-wore-red.html"
+}

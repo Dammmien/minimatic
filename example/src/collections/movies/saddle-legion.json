@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Saddle Legion",
+    "year": 1951,
+    "cast": [
+      "Tim Holt",
+      "Dorothy Malone"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/saddle-legion.html"
+}

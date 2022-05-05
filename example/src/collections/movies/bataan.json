@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bataan",
+    "year": 1943,
+    "cast": [
+      "Robert Taylor",
+      "George Murphy",
+      "Lloyd Nolan"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/bataan.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dancing in the Dark",
+    "year": 1949,
+    "cast": [
+      "William Powell",
+      "Betsy Drake"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/dancing-in-the-dark.html"
+}

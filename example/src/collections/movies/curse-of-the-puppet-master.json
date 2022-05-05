@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Curse of the Puppet Master",
+    "year": 1998,
+    "cast": [
+      "George Peck",
+      "Emily Harrison",
+      "Josh Green"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/curse-of-the-puppet-master.html"
+}

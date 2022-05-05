@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Capone",
+    "year": 1975,
+    "cast": [
+      "Ben Gazzara",
+      "Susan Blakely",
+      "John Cassavetes",
+      "Sylvester Stallone"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/capone.html"
+}

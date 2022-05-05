@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Agony and the Ecstasy",
+    "year": 1965,
+    "cast": [
+      "Rex Harrison",
+      "Charlton Heston",
+      "Diane Cilento"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-agony-and-the-ecstasy.html"
+}

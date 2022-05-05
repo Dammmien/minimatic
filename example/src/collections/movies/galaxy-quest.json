@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Galaxy Quest",
+    "year": 1999,
+    "cast": [
+      "Tim Allen",
+      "Alan Rickman",
+      "Sigourney Weaver",
+      "Tony Shalhoub",
+      "Sam Rockwell",
+      "Daryl Mitchell"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Comedy"
+    ]
+  },
+  "output": "movies/galaxy-quest.html"
+}

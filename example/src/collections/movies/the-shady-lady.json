@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Shady Lady",
+    "year": 1928,
+    "cast": [
+      "Phyllis Haver",
+      "Louis Wolheim"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-shady-lady.html"
+}

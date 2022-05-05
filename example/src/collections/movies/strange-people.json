@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strange People",
+    "year": 1933,
+    "cast": [
+      "John Darrow",
+      "Gloria Shea"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/strange-people.html"
+}

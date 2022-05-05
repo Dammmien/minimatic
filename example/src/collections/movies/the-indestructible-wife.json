@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Indestructible Wife",
+    "year": 1919,
+    "cast": [
+      "Alice Brady",
+      "Anne Cornwall",
+      "Percy Marmont"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-indestructible-wife.html"
+}

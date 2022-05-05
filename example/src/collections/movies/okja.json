@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "Okja",
+    "year": 2017,
+    "cast": [
+      "Tilda Swinton",
+      "Paul Dano",
+      "Ahn Seo-hyun",
+      "Byun Hee-bong",
+      "Steven Yeun",
+      "Lily Collins",
+      "Yoon Je-moon",
+      "Shirley Henderson",
+      "Daniel Henshall",
+      "Devon Bostick",
+      "Choi Woo-shik",
+      "Giancarlo Esposito",
+      "Jake Gyllenhaal"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/okja.html"
+}

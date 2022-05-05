@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Cheaper by the Dozen",
+    "year": 2003,
+    "cast": [
+      "Steve Martin",
+      "Bonnie Hunt",
+      "Hilary Duff",
+      "Tom Welling",
+      "Piper Perabo",
+      "Ashton Kutcher"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/cheaper-by-the-dozen.html"
+}

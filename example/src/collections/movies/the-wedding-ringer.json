@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Wedding Ringer",
+    "year": 2015,
+    "cast": [
+      "Kevin Hart",
+      "Josh Gad",
+      "Olivia Thirlby",
+      "Kaley Cuoco",
+      "Alan Ritchson"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-wedding-ringer.html"
+}

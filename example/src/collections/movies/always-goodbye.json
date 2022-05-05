@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Always Goodbye",
+    "year": 1938,
+    "cast": [
+      "Barbara Stanwyck",
+      "Herbert Marshall",
+      "Cesar Romero"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/always-goodbye.html"
+}

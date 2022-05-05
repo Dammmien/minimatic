@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Andy Hardy Gets Spring Fever",
+    "year": 1939,
+    "cast": [
+      "Lewis Stone",
+      "Mickey Rooney",
+      "Cecilia Parker",
+      "Fay Holden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/andy-hardy-gets-spring-fever.html"
+}

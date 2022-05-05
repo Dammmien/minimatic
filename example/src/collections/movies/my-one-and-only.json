@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My One and Only",
+    "year": 2009,
+    "cast": [
+      "Renée Zellweger",
+      "Chris Noth",
+      "Kevin Bacon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-one-and-only.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ultimate Thrill",
+    "year": 1974,
+    "cast": [
+      "Barry Brown",
+      "Britt Ekland"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-ultimate-thrill.html"
+}

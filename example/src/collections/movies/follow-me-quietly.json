@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Follow Me Quietly",
+    "year": 1949,
+    "cast": [
+      "William Lundigan",
+      "Dorothy Patrick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/follow-me-quietly.html"
+}

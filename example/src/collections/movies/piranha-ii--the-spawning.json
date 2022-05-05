@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Piranha II: The Spawning",
+    "year": 1981,
+    "cast": [
+      "Tricia O'Neil",
+      "Lance Henriksen"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/piranha-ii--the-spawning.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Girls Demand Excitement",
+    "year": 1931,
+    "cast": [
+      "Virginia Cherrill",
+      "John Wayne"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/girls-demand-excitement.html"
+}

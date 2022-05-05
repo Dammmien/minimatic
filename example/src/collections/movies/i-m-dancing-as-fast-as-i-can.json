@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "I'm Dancing as Fast as I Can",
+    "year": 1982,
+    "cast": [
+      "Jill Clayburgh",
+      "Nicol Williamson",
+      "Dianne Wiest"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/i-m-dancing-as-fast-as-i-can.html"
+}

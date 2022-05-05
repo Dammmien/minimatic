@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "I'll Do Anything",
+    "year": 1994,
+    "cast": [
+      "Nick Nolte",
+      "Joely Richardson",
+      "Albert Brooks",
+      "Tracey Ullman",
+      "Julie Kavner",
+      "Whittni Wright"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/i-ll-do-anything.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Kids Are All Right",
+    "year": 2010,
+    "cast": [
+      "Annette Bening",
+      "Julianne Moore",
+      "Mark Ruffalo",
+      "Mia Wasikowska",
+      "Josh Hutcherson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-kids-are-all-right.html"
+}

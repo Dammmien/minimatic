@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Come See the Paradise",
+    "year": 1990,
+    "cast": [
+      "Dennis Quaid",
+      "Tamlyn Tomita"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/come-see-the-paradise.html"
+}

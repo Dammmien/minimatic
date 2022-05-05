@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fire Flingers",
+    "year": 1919,
+    "cast": [
+      "Fred Kelsey",
+      "Jane Novak"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-fire-flingers.html"
+}

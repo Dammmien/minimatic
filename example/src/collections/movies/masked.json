@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Masked",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson",
+      "Virginia Browne Faire"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/masked.html"
+}

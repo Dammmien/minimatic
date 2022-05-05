@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Around the Corner",
+    "year": 1930,
+    "cast": [
+      "Charles Murray",
+      "George Sidney",
+      "Joan Peers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/around-the-corner.html"
+}

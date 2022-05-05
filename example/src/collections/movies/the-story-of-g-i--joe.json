@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Story of G.I. Joe",
+    "year": 1945,
+    "cast": [
+      "Burgess Meredith",
+      "Robert Mitchum"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-story-of-g-i--joe.html"
+}

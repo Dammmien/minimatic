@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Magnificent Rogue",
+    "year": 1946,
+    "cast": [
+      "Lynne Roberts",
+      "Stephanie Bachelor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-magnificent-rogue.html"
+}

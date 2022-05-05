@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lost Angel",
+    "year": 1943,
+    "cast": [
+      "Margaret O'Brien",
+      "Marsha Hunt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lost-angel.html"
+}

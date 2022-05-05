@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rough Waters",
+    "year": 1930,
+    "cast": [
+      "Rin Tin Tin",
+      "Jobyna Ralston"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/rough-waters.html"
+}

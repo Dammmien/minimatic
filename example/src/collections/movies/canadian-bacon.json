@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Canadian Bacon",
+    "year": 1995,
+    "cast": [
+      "Alan Alda",
+      "John Candy",
+      "Bill Nunn",
+      "Rhea Perlman",
+      "Rip Torn"
+    ],
+    "genres": [
+      "Comedy",
+      "Satire"
+    ]
+  },
+  "output": "movies/canadian-bacon.html"
+}

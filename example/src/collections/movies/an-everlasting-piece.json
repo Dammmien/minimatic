@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "An Everlasting Piece",
+    "year": 2000,
+    "cast": [
+      "Barry McEvoy",
+      "Brían F. O'Byrne",
+      "Anna Friel",
+      "Billy Connolly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/an-everlasting-piece.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hercules in New York",
+    "year": 1970,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Arnold Stang"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hercules-in-new-york.html"
+}

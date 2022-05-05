@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hare Remover",
+    "year": 1946,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/hare-remover.html"
+}

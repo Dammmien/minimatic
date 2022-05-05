@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Marked Trails",
+    "year": 1944,
+    "cast": [
+      "Hoot Gibson",
+      "Bob Steele",
+      "Veda Ann Borg"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/marked-trails.html"
+}

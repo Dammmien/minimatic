@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dawn Trail",
+    "year": 1930,
+    "cast": [
+      "Marceline Day",
+      "Miriam Seegar"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-dawn-trail.html"
+}

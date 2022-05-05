@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mystery Street",
+    "year": 1950,
+    "cast": [
+      "Ricardo Montalbán",
+      "Sally Forrest"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/mystery-street.html"
+}

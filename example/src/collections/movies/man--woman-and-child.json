@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man, Woman and Child",
+    "year": 1983,
+    "cast": [
+      "Martin Sheen",
+      "Blythe Danner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/man--woman-and-child.html"
+}

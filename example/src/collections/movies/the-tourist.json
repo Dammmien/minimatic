@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Tourist",
+    "year": 2010,
+    "cast": [
+      "Johnny Depp",
+      "Angelina Jolie",
+      "Paul Bettany",
+      "Rufus Sewell",
+      "Timothy Dalton",
+      "Steven Berkoff"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-tourist.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Double Crossers",
+    "year": 1921,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/double-crossers.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Fool and His Money",
+    "year": 1925,
+    "cast": [
+      "Madge Bellamy",
+      "William Haines"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-fool-and-his-money.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Big Easy",
+    "year": 1987,
+    "cast": [
+      "Dennis Quaid",
+      "Ellen Barkin",
+      "Ned Beatty"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-big-easy.html"
+}

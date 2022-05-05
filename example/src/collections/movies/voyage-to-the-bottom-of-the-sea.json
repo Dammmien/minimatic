@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Voyage to the Bottom of the Sea",
+    "year": 1961,
+    "cast": [
+      "Walter Pidgeon",
+      "Joan Fontaine",
+      "Barbara Eden"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/voyage-to-the-bottom-of-the-sea.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Convict 13",
+    "year": 1920,
+    "cast": [
+      "Buster Keaton",
+      "Joe Roberts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/convict-13.html"
+}

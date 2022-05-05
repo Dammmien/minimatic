@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Brother Future",
+    "year": 1991,
+    "cast": [
+      "Phill Lewis",
+      "Moses Gunn"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/brother-future.html"
+}

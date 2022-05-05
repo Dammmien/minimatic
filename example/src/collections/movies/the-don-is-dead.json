@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Don Is Dead",
+    "year": 1973,
+    "cast": [
+      "Anthony Quinn",
+      "Angel Tompkins",
+      "Robert Forster",
+      "Al Lettieri"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-don-is-dead.html"
+}

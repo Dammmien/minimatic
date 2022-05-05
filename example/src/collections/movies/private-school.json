@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Private School",
+    "year": 1983,
+    "cast": [
+      "Phoebe Cates",
+      "Betsy Russell",
+      "Matthew Modine"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/private-school.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Melody Lane",
+    "year": 1929,
+    "cast": [
+      "Eddie Leonard",
+      "Josephine Dunn"
+    ],
+    "genres": [
+      "Musical",
+      "Drama"
+    ]
+  },
+  "output": "movies/melody-lane.html"
+}

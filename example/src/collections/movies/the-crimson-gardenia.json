@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Crimson Gardenia",
+    "year": 1919,
+    "cast": [
+      "Owen Moore",
+      "Hedda Nova"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-crimson-gardenia.html"
+}

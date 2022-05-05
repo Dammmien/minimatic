@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bank Shot",
+    "year": 1974,
+    "cast": [
+      "George C. Scott",
+      "Joanna Cassidy"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/bank-shot.html"
+}

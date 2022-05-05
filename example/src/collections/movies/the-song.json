@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Song",
+    "year": 2014,
+    "cast": [
+      "Alan Powell",
+      "Ali Faulkner",
+      "Danny Vinson"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-song.html"
+}

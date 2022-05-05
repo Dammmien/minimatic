@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Goodbye Love",
+    "year": 1933,
+    "cast": [
+      "Charles Ruggles",
+      "Verree Teasdale"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/goodbye-love.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dunwich Horror",
+    "year": 1970,
+    "cast": [
+      "Sandra Dee",
+      "Dean Stockwell"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-dunwich-horror.html"
+}

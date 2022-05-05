@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sweet Genevieve",
+    "year": 1947,
+    "cast": [
+      "Jean Porter",
+      "Jimmy Lydon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sweet-genevieve.html"
+}

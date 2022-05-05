@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Twelve Monkeys",
+    "year": 1995,
+    "cast": [
+      "Bruce Willis",
+      "Madeleine Stowe",
+      "Brad Pitt"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/twelve-monkeys.html"
+}

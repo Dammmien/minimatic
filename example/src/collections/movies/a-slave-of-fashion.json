@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Slave of Fashion",
+    "year": 1925,
+    "cast": [
+      "Norma Shearer",
+      "Lew Cody"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-slave-of-fashion.html"
+}

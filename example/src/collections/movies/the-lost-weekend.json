@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lost Weekend",
+    "year": 1945,
+    "cast": [
+      "Ray Milland",
+      "Jane Wyman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lost-weekend.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Cool as Ice",
+    "year": 1991,
+    "cast": [
+      "Vanilla Ice",
+      "Kristin Minter",
+      "Michael Gross",
+      "Candy Clark",
+      "John Haymes Newton",
+      "Naomi Campbell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cool-as-ice.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Son-Daughter",
+    "year": 1932,
+    "cast": [
+      "Helen Hayes",
+      "Ramon Novarro"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-son-daughter.html"
+}

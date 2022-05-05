@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Thief",
+    "year": 1952,
+    "cast": [
+      "Ray Milland",
+      "Martin Gabel"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-thief.html"
+}

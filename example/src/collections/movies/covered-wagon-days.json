@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Covered Wagon Days",
+    "year": 1940,
+    "cast": [
+      "Robert Livingston",
+      "Raymond Hatton",
+      "Duncan Renaldo"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/covered-wagon-days.html"
+}

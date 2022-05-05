@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "See No Evil",
+    "year": 2006,
+    "cast": [
+      "Glenn Jacobs",
+      "Christina Vidal",
+      "Samantha Noble"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/see-no-evil.html"
+}

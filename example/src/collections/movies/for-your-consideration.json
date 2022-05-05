@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "For Your Consideration",
+    "year": 2006,
+    "cast": [
+      "Catherine O'Hara",
+      "Parker Posey",
+      "Harry Shearer",
+      "Eugene Levy",
+      "Fred Willard",
+      "Jane Lynch"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/for-your-consideration.html"
+}

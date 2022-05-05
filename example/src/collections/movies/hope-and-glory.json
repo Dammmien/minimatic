@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hope and Glory",
+    "year": 1987,
+    "cast": [
+      "Sarah Miles",
+      "Sammi Davis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hope-and-glory.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Walk Alone",
+    "year": 1948,
+    "cast": [
+      "Burt Lancaster",
+      "Lizabeth Scott",
+      "Kirk Douglas"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/i-walk-alone.html"
+}

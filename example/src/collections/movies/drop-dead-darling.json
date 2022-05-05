@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Drop Dead Darling",
+    "year": 1966,
+    "cast": [
+      "Tony Curtis",
+      "Zsa Zsa Gabor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/drop-dead-darling.html"
+}

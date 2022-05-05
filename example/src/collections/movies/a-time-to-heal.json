@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Time to Heal",
+    "year": 1994,
+    "cast": [
+      "Nicollette Sheridan",
+      "Gary Cole"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-time-to-heal.html"
+}

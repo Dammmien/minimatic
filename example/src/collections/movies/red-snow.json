@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Red Snow",
+    "year": 1952,
+    "cast": [
+      "Guy Madison",
+      "Ray Mala",
+      "Carole Mathews"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/red-snow.html"
+}

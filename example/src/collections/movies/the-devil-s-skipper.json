@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Devil's Skipper",
+    "year": 1928,
+    "cast": [
+      "Belle Bennett",
+      "Montagu Love"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-devil-s-skipper.html"
+}

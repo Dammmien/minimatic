@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sing, Dance, Plenty Hot",
+    "year": 1940,
+    "cast": [
+      "Ruth Terry",
+      "Johnny Downs",
+      "Mary Lee"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/sing--dance--plenty-hot.html"
+}

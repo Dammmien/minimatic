@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It Happened in Hollywood",
+    "year": 1937,
+    "cast": [
+      "Fay Wray",
+      "Richard Dix",
+      "Franklin Pangborn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-happened-in-hollywood.html"
+}

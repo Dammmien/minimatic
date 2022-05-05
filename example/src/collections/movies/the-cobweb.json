@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Cobweb",
+    "year": 1955,
+    "cast": [
+      "Richard Widmark",
+      "Gloria Grahame",
+      "Lauren Bacall",
+      "Lillian Gish",
+      "Charles Boyer",
+      "John Kerr",
+      "Susan Strasberg",
+      "Fay Wray",
+      "Adele Jergens",
+      "Oscar Levant"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-cobweb.html"
+}

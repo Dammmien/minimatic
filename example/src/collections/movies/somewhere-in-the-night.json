@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Somewhere in the Night",
+    "year": 1946,
+    "cast": [
+      "John Hodiak",
+      "Lloyd Nolan",
+      "Nancy Guild"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/somewhere-in-the-night.html"
+}

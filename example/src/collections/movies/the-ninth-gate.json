@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ninth Gate",
+    "year": 1999,
+    "cast": [
+      "Johnny Depp",
+      "Lena Olin",
+      "Frank Langella"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-ninth-gate.html"
+}

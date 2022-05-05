@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Popi",
+    "year": 1969,
+    "cast": [
+      "Alan Arkin",
+      "Rita Moreno"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/popi.html"
+}

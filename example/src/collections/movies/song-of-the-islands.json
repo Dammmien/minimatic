@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Song of the Islands",
+    "year": 1942,
+    "cast": [
+      "Betty Grable",
+      "Victor Mature",
+      "Jack Oakie"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/song-of-the-islands.html"
+}

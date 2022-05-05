@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "I'm From the City",
+    "year": 1938,
+    "cast": [
+      "Joe Penner",
+      "Richard Lane",
+      "Lorraine Krueger"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-m-from-the-city.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Karla",
+    "year": 2006,
+    "cast": [
+      "Laura Prepon",
+      "Misha Collins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/karla.html"
+}

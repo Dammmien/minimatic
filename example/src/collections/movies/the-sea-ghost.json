@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sea Ghost",
+    "year": 1931,
+    "cast": [
+      "Alan Hale",
+      "Laura La Plante"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sea-ghost.html"
+}

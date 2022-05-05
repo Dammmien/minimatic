@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Price of Glory",
+    "year": 2000,
+    "cast": [
+      "Jimmy Smits"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/price-of-glory.html"
+}

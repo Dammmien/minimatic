@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mickey Blue Eyes",
+    "year": 1999,
+    "cast": [
+      "Hugh Grant",
+      "James Caan",
+      "Jeanne Tripplehorn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mickey-blue-eyes.html"
+}

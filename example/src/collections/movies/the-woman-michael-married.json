@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman Michael Married",
+    "year": 1919,
+    "cast": [
+      "Bessie Barriscale",
+      "Jack Holt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woman-michael-married.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Musketeer",
+    "year": 2001,
+    "cast": [
+      "Tim Roth",
+      "Catherine Deneuve",
+      "Mena Suvari",
+      "Stephen Rea",
+      "Justin Chambers"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-musketeer.html"
+}

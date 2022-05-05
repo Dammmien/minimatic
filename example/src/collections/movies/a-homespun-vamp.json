@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Homespun Vamp",
+    "year": 1922,
+    "cast": [
+      "May McAvoy",
+      "Lincoln Stedman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-homespun-vamp.html"
+}

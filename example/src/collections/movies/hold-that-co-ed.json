@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hold That Co-ed",
+    "year": 1938,
+    "cast": [
+      "John Barrymore",
+      "George Murphy",
+      "Joan Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hold-that-co-ed.html"
+}

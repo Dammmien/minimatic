@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Crazy Summer",
+    "year": 1986,
+    "cast": [
+      "John Cusack",
+      "Bobcat Goldthwait",
+      "Demi Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-crazy-summer.html"
+}

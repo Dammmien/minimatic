@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dial 1119",
+    "year": 1950,
+    "cast": [
+      "Marshall Thompson",
+      "Virginia Field",
+      "Sam Levene"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/dial-1119.html"
+}

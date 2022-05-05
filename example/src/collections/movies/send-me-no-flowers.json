@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Send Me No Flowers",
+    "year": 1964,
+    "cast": [
+      "Rock Hudson",
+      "Doris Day",
+      "Tony Randall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/send-me-no-flowers.html"
+}

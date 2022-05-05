@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "D2: The Mighty Ducks",
+    "year": 1994,
+    "cast": [
+      "Emilio Estevez",
+      "Joshua Jackson"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/d2--the-mighty-ducks.html"
+}

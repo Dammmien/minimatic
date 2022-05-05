@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Pal Trigger",
+    "year": 1946,
+    "cast": [
+      "Roy Rogers",
+      "Dale Evans",
+      "Jack Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/my-pal-trigger.html"
+}

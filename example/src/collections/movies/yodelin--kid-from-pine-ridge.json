@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yodelin' Kid from Pine Ridge",
+    "year": 1937,
+    "cast": [
+      "Gene Autry",
+      "Betty Bronson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/yodelin--kid-from-pine-ridge.html"
+}

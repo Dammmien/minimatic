@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woods",
+    "year": 2006,
+    "cast": [
+      "Agnes Bruckner",
+      "Patricia Clarkson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-woods.html"
+}

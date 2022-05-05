@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rookies in Burma",
+    "year": 1943,
+    "cast": [
+      "Wally Brown",
+      "Alan Carney"
+    ],
+    "genres": [
+      "War",
+      "Comedy"
+    ]
+  },
+  "output": "movies/rookies-in-burma.html"
+}

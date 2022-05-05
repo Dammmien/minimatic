@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Pet Shop",
+    "year": 1994,
+    "cast": [],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/pet-shop.html"
+}

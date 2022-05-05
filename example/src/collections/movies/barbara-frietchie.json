@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Barbara Frietchie",
+    "year": 1924,
+    "cast": [
+      "Florence Vidor",
+      "Edmund Lowe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/barbara-frietchie.html"
+}

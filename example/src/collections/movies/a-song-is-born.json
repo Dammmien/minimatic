@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Song Is Born",
+    "year": 1948,
+    "cast": [
+      "Danny Kaye",
+      "Virginia Mayo",
+      "Tommy Dorsey",
+      "Benny Goodman"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/a-song-is-born.html"
+}

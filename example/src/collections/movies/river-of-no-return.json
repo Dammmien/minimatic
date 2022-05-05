@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "River of No Return",
+    "year": 1954,
+    "cast": [
+      "Robert Mitchum",
+      "Marilyn Monroe",
+      "Rory Calhoun"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/river-of-no-return.html"
+}

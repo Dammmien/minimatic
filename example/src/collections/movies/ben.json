@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ben",
+    "year": 1972,
+    "cast": [
+      "Meredith Baxter",
+      "Joseph Campanella"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/ben.html"
+}

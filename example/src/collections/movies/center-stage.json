@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Center Stage",
+    "year": 2000,
+    "cast": [
+      "Amanda Schull",
+      "Peter Gallagher",
+      "Ethan Stiefel"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/center-stage.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tyrant of Red Gulch",
+    "year": 1928,
+    "cast": [
+      "Tom Tyler",
+      "Frankie Darro"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/tyrant-of-red-gulch.html"
+}

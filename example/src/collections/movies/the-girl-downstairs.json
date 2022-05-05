@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Girl Downstairs",
+    "year": 1938,
+    "cast": [
+      "Franciska Gaal",
+      "Franchot Tone",
+      "Walter Connolly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-girl-downstairs.html"
+}

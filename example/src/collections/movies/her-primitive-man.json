@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Her Primitive Man",
+    "year": 1944,
+    "cast": [
+      "Louise Allbritton",
+      "Robert Paige",
+      "Robert Benchley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/her-primitive-man.html"
+}

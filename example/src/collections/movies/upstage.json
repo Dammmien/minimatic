@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Upstage",
+    "year": 1926,
+    "cast": [
+      "Norma Shearer",
+      "Oscar Shaw",
+      "Dorothy Phillips"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/upstage.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Public Cowboy No. 1",
+    "year": 1937,
+    "cast": [
+      "Gene Autry",
+      "Ann Rutherford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/public-cowboy-no--1.html"
+}

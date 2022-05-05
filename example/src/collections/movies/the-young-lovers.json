@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Young Lovers",
+    "year": 1964,
+    "cast": [
+      "Peter Fonda",
+      "Sharon Hugueny"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-young-lovers.html"
+}

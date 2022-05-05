@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Darby O'Gill and the Little People",
+    "year": 1959,
+    "cast": [
+      "Albert Sharpe",
+      "Janet Munro",
+      "Sean Connery"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/darby-o-gill-and-the-little-people.html"
+}

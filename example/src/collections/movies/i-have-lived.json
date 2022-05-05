@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Have Lived",
+    "year": 1933,
+    "cast": [
+      "Alan Dinehart",
+      "Anita Page"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-have-lived.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sensation Hunters",
+    "year": 1945,
+    "cast": [
+      "Doris Merrick",
+      "Robert Lowery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sensation-hunters.html"
+}

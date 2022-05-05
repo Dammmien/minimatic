@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Cure for Wellness",
+    "year": 2017,
+    "cast": [
+      "Dane DeHaan",
+      "Mia Goth",
+      "Jason Isaacs"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/a-cure-for-wellness.html"
+}

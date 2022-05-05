@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "DeepStar Six",
+    "year": 1989,
+    "cast": [
+      "Greg Evigan",
+      "Nia Peeples",
+      "Miguel Ferrer"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/deepstar-six.html"
+}

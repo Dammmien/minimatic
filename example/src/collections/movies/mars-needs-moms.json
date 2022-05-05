@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Mars Needs Moms",
+    "year": 2011,
+    "cast": [
+      "Seth Green",
+      "(Seth Dusky (voice))",
+      "Dan Fogler",
+      "Elisabeth Harnois",
+      "Mindy Sterling",
+      "Joan Cusack"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy"
+    ]
+  },
+  "output": "movies/mars-needs-moms.html"
+}

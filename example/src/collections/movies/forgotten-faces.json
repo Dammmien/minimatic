@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Forgotten Faces",
+    "year": 1936,
+    "cast": [
+      "Herbert Marshall",
+      "Gertrude Michael"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/forgotten-faces.html"
+}

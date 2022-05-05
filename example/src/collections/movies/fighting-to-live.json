@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting to Live",
+    "year": 1934,
+    "cast": [
+      "Marion Shilling",
+      "Steve Pendleton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fighting-to-live.html"
+}

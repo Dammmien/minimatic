@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Lethal Weapon 4",
+    "year": 1998,
+    "cast": [
+      "Mel Gibson",
+      "Danny Glover",
+      "Joe Pesci",
+      "Rene Russo",
+      "Chris Rock",
+      "Jet Li"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/lethal-weapon-4.html"
+}

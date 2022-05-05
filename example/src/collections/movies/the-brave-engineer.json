@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Brave Engineer",
+    "year": 1950,
+    "cast": [
+      "The King's Men"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-brave-engineer.html"
+}

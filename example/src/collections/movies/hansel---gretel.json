@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Hansel & Gretel",
+    "year": 2013,
+    "cast": [
+      "Dee Wallace",
+      "Brent Lydic",
+      "Stephanie Greco",
+      "Steve Hanks",
+      "Clark Perry"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/hansel---gretel.html"
+}

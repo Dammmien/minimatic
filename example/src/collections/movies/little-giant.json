@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Little Giant",
+    "year": 1946,
+    "cast": [
+      "Abbott and Costello",
+      "Brenda Joyce",
+      "Elena Verdugo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-giant.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Francis in the Navy",
+    "year": 1955,
+    "cast": [
+      "Donald O'Connor",
+      "Martha Hyer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/francis-in-the-navy.html"
+}

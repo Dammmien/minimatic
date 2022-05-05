@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Morganson's Finish",
+    "year": 1926,
+    "cast": [
+      "Anita Stewart",
+      "Johnnie Walker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/morganson-s-finish.html"
+}

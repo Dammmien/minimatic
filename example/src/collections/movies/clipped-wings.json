@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Clipped Wings",
+    "year": 1953,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "June Vincent"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/clipped-wings.html"
+}

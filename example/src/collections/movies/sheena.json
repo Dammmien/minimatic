@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sheena",
+    "year": 1984,
+    "cast": [
+      "Tanya Roberts",
+      "Ted Wass",
+      "Donovan Scott"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/sheena.html"
+}

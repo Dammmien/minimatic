@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Split Decisions",
+    "year": 1988,
+    "cast": [
+      "Craig Sheffer",
+      "Jeff Fahey",
+      "Gene Hackman",
+      "Jennifer Beals"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/split-decisions.html"
+}

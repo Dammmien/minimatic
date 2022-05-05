@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "I, Robot",
+    "year": 2004,
+    "cast": [
+      "Will Smith",
+      "Bridget Moynahan",
+      "Bruce Greenwood",
+      "James Cromwell",
+      "Chi McBride",
+      "Alan Tudyk",
+      "Shia LaBeouf"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/i--robot.html"
+}

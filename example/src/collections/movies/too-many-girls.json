@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Too Many Girls",
+    "year": 1940,
+    "cast": [
+      "Lucille Ball",
+      "Frances Langford",
+      "Desi Arnaz"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/too-many-girls.html"
+}

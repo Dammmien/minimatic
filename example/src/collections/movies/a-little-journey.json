@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Little Journey",
+    "year": 1927,
+    "cast": [
+      "Claire Windsor",
+      "William Haines",
+      "Harry Carey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-little-journey.html"
+}

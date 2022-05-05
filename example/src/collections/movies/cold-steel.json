@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cold Steel",
+    "year": 1987,
+    "cast": [
+      "Brad Davis",
+      "Sharon Stone",
+      "Adam Ant"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/cold-steel.html"
+}

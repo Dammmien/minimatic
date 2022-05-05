@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Me or Leave Me",
+    "year": 1955,
+    "cast": [
+      "Doris Day",
+      "James Cagney"
+    ],
+    "genres": [
+      "Musical",
+      "Biography"
+    ]
+  },
+  "output": "movies/love-me-or-leave-me.html"
+}

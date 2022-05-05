@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Punchy Cowpunchers",
+    "year": 1950,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/punchy-cowpunchers.html"
+}

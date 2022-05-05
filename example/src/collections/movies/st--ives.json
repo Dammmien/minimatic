@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "St. Ives",
+    "year": 1976,
+    "cast": [
+      "Charles Bronson",
+      "Jacqueline Bisset",
+      "John Houseman"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/st--ives.html"
+}

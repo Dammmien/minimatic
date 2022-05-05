@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tornado!",
+    "year": 1996,
+    "cast": [
+      "Bruce Campbell",
+      "Shannon Sturges"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/tornado-.html"
+}

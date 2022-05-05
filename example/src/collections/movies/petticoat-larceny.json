@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Petticoat Larceny",
+    "year": 1943,
+    "cast": [
+      "Ruth Warrick",
+      "Joan Carroll"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/petticoat-larceny.html"
+}

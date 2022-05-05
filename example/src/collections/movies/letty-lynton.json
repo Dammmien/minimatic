@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Letty Lynton",
+    "year": 1932,
+    "cast": [
+      "Joan Crawford",
+      "Robert Montgomery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/letty-lynton.html"
+}

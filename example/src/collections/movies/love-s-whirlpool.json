@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love's Whirlpool",
+    "year": 1924,
+    "cast": [
+      "James Kirkwood",
+      "Lila Lee"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/love-s-whirlpool.html"
+}

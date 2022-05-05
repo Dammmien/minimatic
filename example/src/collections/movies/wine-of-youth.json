@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wine of Youth",
+    "year": 1924,
+    "cast": [
+      "Eleanor Boardman",
+      "William Haines"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/wine-of-youth.html"
+}

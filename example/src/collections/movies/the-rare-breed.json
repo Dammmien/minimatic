@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Rare Breed",
+    "year": 1966,
+    "cast": [
+      "James Stewart",
+      "Maureen O'Hara",
+      "Jack Elam"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-rare-breed.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Attorney for the Defense",
+    "year": 1932,
+    "cast": [
+      "Edmund Lowe",
+      "Constance Cummings",
+      "Evelyn Brent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/attorney-for-the-defense.html"
+}

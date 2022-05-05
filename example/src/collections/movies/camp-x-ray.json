@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Camp X-Ray",
+    "year": 2014,
+    "cast": [
+      "Kristen Stewart",
+      "Peyman Moaadi",
+      "Julia Duffy",
+      "Lane Garrison"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/camp-x-ray.html"
+}

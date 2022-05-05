@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Freakshow",
+    "year": 2007,
+    "cast": [
+      "Rebekah Kochan"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/freakshow.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In Line of Duty",
+    "year": 1931,
+    "cast": [
+      "Sue Carol",
+      "Noah Beery"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/in-line-of-duty.html"
+}

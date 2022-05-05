@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Walk in the Sun",
+    "year": 1945,
+    "cast": [
+      "Dana Andrews",
+      "Richard Conte"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-walk-in-the-sun.html"
+}

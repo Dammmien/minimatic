@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Temp",
+    "year": 1993,
+    "cast": [
+      "Timothy Hutton",
+      "Lara Flynn Boyle",
+      "Faye Dunaway",
+      "Dwight Schultz",
+      "Oliver Platt",
+      "Steven Weber"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-temp.html"
+}

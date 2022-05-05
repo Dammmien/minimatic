@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Power of Melody",
+    "year": 1912,
+    "cast": [
+      "Harry von Meter",
+      "Vivian Rich",
+      "Eugenie Forde"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-power-of-melody.html"
+}

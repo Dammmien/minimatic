@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Travels with My Aunt",
+    "year": 1972,
+    "cast": [
+      "Maggie Smith",
+      "Louis Gossett Jr."
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/travels-with-my-aunt.html"
+}

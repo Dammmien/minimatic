@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Death Wish II",
+    "year": 1982,
+    "cast": [
+      "Charles Bronson",
+      "Jill Ireland",
+      "Vincent Gardenia"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/death-wish-ii.html"
+}

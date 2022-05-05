@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Child's Play",
+    "year": 1988,
+    "cast": [
+      "Catherine Hicks",
+      "Chris Sarandon",
+      "Alex Vincent",
+      "Brad Dourif"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/child-s-play.html"
+}

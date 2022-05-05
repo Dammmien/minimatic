@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mask of Lopez",
+    "year": 1924,
+    "cast": [
+      "Fred Thomson",
+      "Wilfred Lucas"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-mask-of-lopez.html"
+}

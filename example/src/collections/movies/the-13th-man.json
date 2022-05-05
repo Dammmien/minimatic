@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The 13th Man",
+    "year": 1937,
+    "cast": [
+      "Weldon Heyburn",
+      "Milburn Stone",
+      "Robert Homans"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-13th-man.html"
+}

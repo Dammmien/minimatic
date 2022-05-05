@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Killer's Kiss",
+    "year": 1955,
+    "cast": [
+      "Jamie Smith",
+      "Frank Silvera"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/killer-s-kiss.html"
+}

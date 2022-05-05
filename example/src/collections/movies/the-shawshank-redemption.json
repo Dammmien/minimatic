@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "James Whitmore",
+      "Clancy Brown",
+      "William Sadler",
+      "Gil Bellows",
+      "Bob Gunton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-shawshank-redemption.html"
+}

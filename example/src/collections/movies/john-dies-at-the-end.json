@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "John Dies at the End",
+    "year": 2013,
+    "cast": [
+      "Chase Williamson",
+      "Rob Mayes",
+      "Paul Giamatti",
+      "Clancy Brown",
+      "Glynn Turman",
+      "Doug Jones",
+      "Daniel Roebuck"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/john-dies-at-the-end.html"
+}

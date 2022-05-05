@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bella",
+    "year": 2006,
+    "cast": [
+      "Eduardo Verástegui",
+      "Tammy Blanchard",
+      "Manny Pérez"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bella.html"
+}

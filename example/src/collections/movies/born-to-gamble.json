@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Born to Gamble",
+    "year": 1935,
+    "cast": [
+      "Onslow Stevens",
+      "H. B. Warner",
+      "Maxine Doyle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/born-to-gamble.html"
+}

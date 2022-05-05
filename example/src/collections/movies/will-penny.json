@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Will Penny",
+    "year": 1968,
+    "cast": [
+      "Charlton Heston",
+      "Joan Hackett",
+      "Bruce Dern"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/will-penny.html"
+}

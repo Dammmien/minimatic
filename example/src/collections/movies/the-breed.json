@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Breed",
+    "year": 2006,
+    "cast": [
+      "Michelle Rodriguez",
+      "Eric Lively",
+      "Oliver Hudson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-breed.html"
+}

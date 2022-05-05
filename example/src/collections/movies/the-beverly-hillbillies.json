@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Beverly Hillbillies",
+    "year": 1993,
+    "cast": [
+      "Cloris Leachman",
+      "Jim Varney",
+      "Lily Tomlin",
+      "Dabney Coleman",
+      "Erika Eleniak",
+      "Diedrich Bader",
+      "Lea Thompson",
+      "Rob Schneider",
+      "Dolly Parton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-beverly-hillbillies.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Adoration",
+    "year": 1928,
+    "cast": [
+      "Billie Dove",
+      "Antonio Moreno"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/adoration.html"
+}

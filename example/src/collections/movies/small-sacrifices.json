@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Small Sacrifices",
+    "year": 1989,
+    "cast": [
+      "Farrah Fawcett",
+      "Ryan O'Neal",
+      "Gordon Clapp"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/small-sacrifices.html"
+}

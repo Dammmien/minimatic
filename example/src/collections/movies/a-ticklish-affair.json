@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Ticklish Affair",
+    "year": 1963,
+    "cast": [
+      "Shirley Jones",
+      "Gig Young",
+      "Red Buttons"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-ticklish-affair.html"
+}

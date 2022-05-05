@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Count of Ten",
+    "year": 1928,
+    "cast": [
+      "Charles Ray",
+      "Jobyna Ralston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-count-of-ten.html"
+}

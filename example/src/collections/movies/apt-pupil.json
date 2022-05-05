@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Apt Pupil",
+    "year": 1998,
+    "cast": [
+      "Ian McKellen",
+      "Brad Renfro",
+      "Joshua Jackson"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/apt-pupil.html"
+}

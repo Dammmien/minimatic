@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Skulls",
+    "year": 2000,
+    "cast": [
+      "Joshua Jackson",
+      "Paul Walker"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-skulls.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "And the Angels Sing",
+    "year": 1944,
+    "cast": [
+      "Fred MacMurray",
+      "Betty Hutton",
+      "Dorothy Lamour"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/and-the-angels-sing.html"
+}

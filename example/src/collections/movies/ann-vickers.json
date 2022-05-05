@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ann Vickers",
+    "year": 1933,
+    "cast": [
+      "Irene Dunne",
+      "Walter Huston",
+      "Edna May Oliver"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ann-vickers.html"
+}

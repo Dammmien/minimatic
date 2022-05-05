@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Artists and Models",
+    "year": 1955,
+    "cast": [
+      "Dean Martin",
+      "Jerry Lewis",
+      "Shirley MacLaine",
+      "Dorothy Malone"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/artists-and-models.html"
+}

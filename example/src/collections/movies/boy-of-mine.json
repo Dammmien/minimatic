@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Boy of Mine",
+    "year": 1923,
+    "cast": [
+      "Rockliffe Fellowes",
+      "Irene Rich"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/boy-of-mine.html"
+}

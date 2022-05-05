@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Old Wyoming Trail",
+    "year": 1937,
+    "cast": [
+      "Charles Starrett",
+      "Barbara Weeks"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-old-wyoming-trail.html"
+}

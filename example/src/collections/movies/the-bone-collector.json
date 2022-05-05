@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bone Collector",
+    "year": 1999,
+    "cast": [
+      "Denzel Washington",
+      "Angelina Jolie"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-bone-collector.html"
+}

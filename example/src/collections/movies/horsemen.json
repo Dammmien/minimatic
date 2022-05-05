@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Horsemen",
+    "year": 2009,
+    "cast": [
+      "Dennis Quaid",
+      "Zhang Ziyi",
+      "Clifton Collins, Jr.",
+      "Patrick Fugit",
+      "Peter Stormare"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/horsemen.html"
+}

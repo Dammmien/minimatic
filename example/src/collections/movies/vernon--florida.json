@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Vernon, Florida",
+    "year": 1981,
+    "cast": [
+      "Snake Reynolds"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/vernon--florida.html"
+}

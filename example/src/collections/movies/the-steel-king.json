@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Steel King",
+    "year": 1919,
+    "cast": [
+      "Montagu Love",
+      "June Elvidge"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-steel-king.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cool Hand Luke",
+    "year": 1967,
+    "cast": [
+      "Paul Newman",
+      "George Kennedy",
+      "Strother Martin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cool-hand-luke.html"
+}

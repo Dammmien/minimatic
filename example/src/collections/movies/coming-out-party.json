@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Coming Out Party",
+    "year": 1934,
+    "cast": [
+      "Frances Dee",
+      "Gene Raymond",
+      "Nigel Bruce"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/coming-out-party.html"
+}

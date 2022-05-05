@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Millionaire Pirate",
+    "year": 1919,
+    "cast": [
+      "Monroe Salisbury",
+      "Ruth Clifford"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-millionaire-pirate.html"
+}

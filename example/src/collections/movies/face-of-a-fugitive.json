@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Face of a Fugitive",
+    "year": 1959,
+    "cast": [
+      "Fred MacMurray",
+      "Myrna Fahey",
+      "James Coburn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/face-of-a-fugitive.html"
+}

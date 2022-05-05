@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Which Way Is Up?",
+    "year": 1977,
+    "cast": [
+      "Richard Pryor",
+      "Lonette McKee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/which-way-is-up-.html"
+}

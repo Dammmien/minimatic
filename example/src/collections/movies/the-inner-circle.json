@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Inner Circle",
+    "year": 1991,
+    "cast": [
+      "Tom Hulce",
+      "Lolita Davidovich",
+      "Bob Hoskins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-inner-circle.html"
+}

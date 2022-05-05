@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Larceny",
+    "year": 1948,
+    "cast": [
+      "John Payne",
+      "Joan Caulfield",
+      "Dan Duryea",
+      "Shelley Winters"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/larceny.html"
+}

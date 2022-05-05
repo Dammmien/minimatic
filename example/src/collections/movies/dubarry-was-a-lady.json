@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "DuBarry Was a Lady",
+    "year": 1943,
+    "cast": [
+      "Red Skelton",
+      "Lucille Ball",
+      "Gene Kelly"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/dubarry-was-a-lady.html"
+}

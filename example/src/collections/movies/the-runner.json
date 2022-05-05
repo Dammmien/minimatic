@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Runner",
+    "year": 1999,
+    "cast": [
+      "Ron Eldard",
+      "Courteney Cox",
+      "John Goodman"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-runner.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "In Again, Out Again",
+    "year": 1917,
+    "cast": [
+      "Douglas Fairbanks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/in-again--out-again.html"
+}

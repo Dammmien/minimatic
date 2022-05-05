@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man Alive",
+    "year": 1945,
+    "cast": [
+      "Pat O'Brien",
+      "Ellen Drew"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/man-alive.html"
+}

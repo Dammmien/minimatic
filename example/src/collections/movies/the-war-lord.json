@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The War Lord",
+    "year": 1965,
+    "cast": [
+      "Charlton Heston",
+      "Richard Boone",
+      "Rosemary Forsyth"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/the-war-lord.html"
+}

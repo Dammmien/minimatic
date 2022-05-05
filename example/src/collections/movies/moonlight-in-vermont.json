@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Moonlight in Vermont",
+    "year": 1943,
+    "cast": [
+      "Gloria Jean",
+      "Fay Helm"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/moonlight-in-vermont.html"
+}

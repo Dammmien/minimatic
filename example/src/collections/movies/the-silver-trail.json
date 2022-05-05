@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Silver Trail",
+    "year": 1937,
+    "cast": [
+      "Rex Lease",
+      "Roger Williams"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-silver-trail.html"
+}

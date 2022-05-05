@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Referee",
+    "year": 1922,
+    "cast": [
+      "Conway Tearle",
+      "Anders Randolf",
+      "Gladys Hulette"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-referee.html"
+}

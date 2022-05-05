@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ten Thousand Bedrooms",
+    "year": 1957,
+    "cast": [
+      "Dean Martin",
+      "Anna Maria Alberghetti"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/ten-thousand-bedrooms.html"
+}

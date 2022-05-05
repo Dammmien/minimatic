@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Slightly Married",
+    "year": 1932,
+    "cast": [
+      "Evalyn Knapp",
+      "Marie Prevost"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/slightly-married.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "One False Move",
+    "year": 1992,
+    "cast": [
+      "Bill Paxton",
+      "Cynda Williams",
+      "Michael Beach",
+      "Billy Bob Thornton"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/one-false-move.html"
+}

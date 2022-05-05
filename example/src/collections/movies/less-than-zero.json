@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Less Than Zero",
+    "year": 1987,
+    "cast": [
+      "Andrew McCarthy",
+      "Jami Gertz",
+      "Robert Downey Jr.",
+      "James Spader"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/less-than-zero.html"
+}

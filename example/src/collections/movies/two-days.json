@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two Days",
+    "year": 2003,
+    "cast": [
+      "Paul Rudd",
+      "Donal Logue",
+      "Mackenzie Astin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/two-days.html"
+}

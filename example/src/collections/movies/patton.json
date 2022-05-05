@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Patton",
+    "year": 1970,
+    "cast": [
+      "George C. Scott",
+      "Karl Malden"
+    ],
+    "genres": [
+      "War",
+      "Biography"
+    ]
+  },
+  "output": "movies/patton.html"
+}

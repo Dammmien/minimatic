@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Island",
+    "year": 2005,
+    "cast": [
+      "Ewan McGregor",
+      "Scarlett Johansson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-island.html"
+}

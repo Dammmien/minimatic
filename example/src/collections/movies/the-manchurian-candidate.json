@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Manchurian Candidate",
+    "year": 2004,
+    "cast": [
+      "Denzel Washington",
+      "Meryl Streep",
+      "Liev Schreiber",
+      "Jon Voight",
+      "Kimberly Elise",
+      "Vera Farmiga",
+      "Jeffrey Wright"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-manchurian-candidate.html"
+}

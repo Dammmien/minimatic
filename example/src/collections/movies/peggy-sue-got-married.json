@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Peggy Sue Got Married",
+    "year": 1986,
+    "cast": [
+      "Kathleen Turner",
+      "Nicolas Cage",
+      "Catherine Hicks",
+      "Joan Allen",
+      "Jim Carrey",
+      "Helen Hunt"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/peggy-sue-got-married.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Soldier and the Lady",
+    "year": 1937,
+    "cast": [
+      "Anton Walbrook",
+      "Elizabeth Allan",
+      "Akim Tamiroff"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-soldier-and-the-lady.html"
+}

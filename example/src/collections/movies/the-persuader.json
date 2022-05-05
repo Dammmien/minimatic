@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Persuader",
+    "year": 1957,
+    "cast": [
+      "William Talman",
+      "Kristine Miller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-persuader.html"
+}

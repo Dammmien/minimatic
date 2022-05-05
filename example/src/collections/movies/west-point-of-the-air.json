@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "West Point of the Air",
+    "year": 1935,
+    "cast": [
+      "Robert Taylor",
+      "Wallace Beery",
+      "Rosalind Russell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/west-point-of-the-air.html"
+}

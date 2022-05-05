@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Chasing Ice",
+    "year": 2012,
+    "cast": [
+      "Publicizing the effects of climate change"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/chasing-ice.html"
+}

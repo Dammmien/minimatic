@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "All About the Benjamins",
+    "year": 2002,
+    "cast": [
+      "Ice Cube",
+      "Mike Epps",
+      "Eva Mendes"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/all-about-the-benjamins.html"
+}

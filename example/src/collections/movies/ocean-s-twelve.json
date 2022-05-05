@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Ocean's Twelve",
+    "year": 2004,
+    "cast": [
+      "George Clooney",
+      "Brad Pitt",
+      "Matt Damon",
+      "Catherine Zeta-Jones",
+      "Andy García",
+      "Don Cheadle",
+      "Bernie Mac",
+      "Julia Roberts"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/ocean-s-twelve.html"
+}

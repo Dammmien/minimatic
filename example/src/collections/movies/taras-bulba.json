@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Taras Bulba",
+    "year": 1962,
+    "cast": [
+      "Yul Brynner",
+      "Tony Curtis",
+      "Sam Wanamaker",
+      "Christine Kaufmann",
+      "Brad Dexter"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/taras-bulba.html"
+}

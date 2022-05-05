@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Winnie the Pooh",
+    "year": 2011,
+    "cast": [
+      "Jim Cummings",
+      "Tom Kenny",
+      "Craig Ferguson",
+      "Travis Oates",
+      "Bud Luckey",
+      "Jack Boulter",
+      "Kristen Anderson-Lopez",
+      "Wyatt Dean Hall",
+      "John Cleese",
+      "(narrator)"
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/winnie-the-pooh.html"
+}

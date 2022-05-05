@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Act of Violence",
+    "year": 1949,
+    "cast": [
+      "Van Heflin",
+      "Robert Ryan",
+      "Janet Leigh",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/act-of-violence.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "cast": [
+      "Vin Diesel",
+      "Dave Bautista",
+      "Zoe Saldana",
+      "Chris Pratt",
+      "Bradley Cooper"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/guardians-of-the-galaxy.html"
+}

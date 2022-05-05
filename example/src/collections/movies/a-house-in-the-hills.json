@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A House in the Hills",
+    "year": 1993,
+    "cast": [
+      "Michael Madsen",
+      "Helen Slater",
+      "Jeffrey Tambor"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/a-house-in-the-hills.html"
+}

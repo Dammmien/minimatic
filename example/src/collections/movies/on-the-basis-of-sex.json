@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "On the Basis of Sex",
+    "year": 2018,
+    "cast": [
+      "Felicity Jones",
+      "Armie Hammer",
+      "Justin Theroux",
+      "Jack Reynor",
+      "Cailee Spaeny",
+      "Sam Waterston",
+      "Kathy Bates"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/on-the-basis-of-sex.html"
+}

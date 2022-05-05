@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Court Martial",
+    "year": 1928,
+    "cast": [
+      "Jack Holt",
+      "Betty Compson"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/court-martial.html"
+}

@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Logan",
+    "year": 2017,
+    "cast": [
+      "Hugh Jackman",
+      "Patrick Stewart",
+      "Boyd Holbrook",
+      "Stephen Merchant",
+      "Richard E. Grant",
+      "Eriq La Salle",
+      "Elise Neal",
+      "Elizabeth Rodriguez",
+      "Dafne Keen"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Superhero",
+      "Drama"
+    ]
+  },
+  "output": "movies/logan.html"
+}

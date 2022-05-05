@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Slumber Party Massacre II",
+    "year": 1987,
+    "cast": [
+      "Crystal Bernard"
+    ],
+    "genres": [
+      "Slasher"
+    ]
+  },
+  "output": "movies/slumber-party-massacre-ii.html"
+}

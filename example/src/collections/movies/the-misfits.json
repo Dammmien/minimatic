@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Misfits",
+    "year": 1961,
+    "cast": [
+      "Clark Gable",
+      "Marilyn Monroe",
+      "Montgomery Clift"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-misfits.html"
+}

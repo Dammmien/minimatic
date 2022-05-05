@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Always in Trouble",
+    "year": 1938,
+    "cast": [
+      "Jane Withers",
+      "Nana Bryant",
+      "Eddie Collins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/always-in-trouble.html"
+}

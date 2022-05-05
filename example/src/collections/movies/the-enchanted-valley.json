@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Enchanted Valley",
+    "year": 1948,
+    "cast": [
+      "Alan Curtis",
+      "Anne Gwynne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-enchanted-valley.html"
+}

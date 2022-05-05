@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Two-Fisted Stranger",
+    "year": 1946,
+    "cast": [
+      "Charles Starrett",
+      "Smiley Burnette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/two-fisted-stranger.html"
+}

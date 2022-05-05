@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Nobody Walks",
+    "year": 2012,
+    "cast": [
+      "John Krasinski",
+      "Olivia Thirlby",
+      "Rosemarie DeWitt",
+      "India Ennenga",
+      "Justin Kirk"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/nobody-walks.html"
+}

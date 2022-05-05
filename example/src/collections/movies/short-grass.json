@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Short Grass",
+    "year": 1950,
+    "cast": [
+      "Rod Cameron",
+      "Cathy Downs"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/short-grass.html"
+}

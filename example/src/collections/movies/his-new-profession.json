@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "His New Profession",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Charley Chase",
+      "Fatty Arbuckle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/his-new-profession.html"
+}

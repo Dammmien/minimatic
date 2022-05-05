@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Confessions of a Shopaholic",
+    "year": 2009,
+    "cast": [
+      "Isla Fisher",
+      "Hugh Dancy",
+      "Joan Cusack",
+      "John Goodman",
+      "John Lithgow",
+      "Kristin Scott Thomas",
+      "Leslie Bibb"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/confessions-of-a-shopaholic.html"
+}

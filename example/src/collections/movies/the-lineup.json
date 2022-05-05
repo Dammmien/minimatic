@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lineup",
+    "year": 1958,
+    "cast": [
+      "Eli Wallach",
+      "Robert Keith",
+      "Richard Jaeckel"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-lineup.html"
+}

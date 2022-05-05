@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Against All Odds",
+    "year": 1984,
+    "cast": [
+      "Jeff Bridges",
+      "Rachel Ward",
+      "James Woods",
+      "Richard Widmark",
+      "Dorian Harewood",
+      "Alex Karras",
+      "Jane Greer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/against-all-odds.html"
+}

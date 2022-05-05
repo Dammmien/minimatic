@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Finder's Fee",
+    "year": 2001,
+    "cast": [
+      "Erik Palladino",
+      "James Earl Jones",
+      "Ryan Reynolds",
+      "Dash Mihok"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/finder-s-fee.html"
+}

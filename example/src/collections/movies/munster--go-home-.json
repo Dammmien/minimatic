@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Munster, Go Home!",
+    "year": 1966,
+    "cast": [
+      "Fred Gwynne",
+      "Yvonne De Carlo",
+      "Al Lewis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/munster--go-home-.html"
+}

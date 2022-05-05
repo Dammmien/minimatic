@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Here Comes Trouble",
+    "year": 1948,
+    "cast": [
+      "Joe Sawyer",
+      "William Tracy",
+      "Joan Woodbury"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/here-comes-trouble.html"
+}

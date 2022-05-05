@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Bumblebee",
+    "year": 2018,
+    "cast": [
+      "Hailee Steinfeld",
+      "John Cena",
+      "Jorge Lendeborg Jr.",
+      "Jason Drucker",
+      "Rachel Crow",
+      "Pamela Adlon"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/bumblebee.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Street of Sinners",
+    "year": 1957,
+    "cast": [
+      "George Montgomery",
+      "Geraldine Brooks"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/street-of-sinners.html"
+}

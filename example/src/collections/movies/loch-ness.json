@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Loch Ness",
+    "year": 1996,
+    "cast": [
+      "Ted Danson",
+      "Joely Richardson"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/loch-ness.html"
+}

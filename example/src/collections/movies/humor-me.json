@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Humor Me",
+    "year": 2018,
+    "cast": [
+      "Jemaine Clement",
+      "Elliott Gould",
+      "Ingrid Michaelson",
+      "Annie Potts",
+      "Priscilla Lopez",
+      "Bebe Neuwirth",
+      "Maria Dizzia"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/humor-me.html"
+}

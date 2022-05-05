@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wings of the Navy",
+    "year": 1939,
+    "cast": [
+      "George Brent",
+      "Olivia de Havilland",
+      "John Payne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wings-of-the-navy.html"
+}

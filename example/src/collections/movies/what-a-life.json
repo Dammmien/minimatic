@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "What a Life",
+    "year": 1939,
+    "cast": [
+      "Jackie Cooper",
+      "Betty Field",
+      "Janice Logan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/what-a-life.html"
+}

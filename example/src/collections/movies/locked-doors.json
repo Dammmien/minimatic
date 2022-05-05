@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Locked Doors",
+    "year": 1925,
+    "cast": [
+      "Betty Compson",
+      "Theodore von Eltz"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/locked-doors.html"
+}

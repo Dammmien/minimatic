@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Snowball Express",
+    "year": 1972,
+    "cast": [
+      "Nancy Olson",
+      "Dean Jones"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/snowball-express.html"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 576,
+  "name": {
+    "english": "Gothitelle",
+    "japanese": "ゴチルゼル",
+    "chinese": "哥德小姐",
+    "french": "Sidérella"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "HP": 70,
+    "Attack": 55,
+    "Defense": 95,
+    "Sp. Attack": 95,
+    "Sp. Defense": 110,
+    "Speed": 65
+  }
+}

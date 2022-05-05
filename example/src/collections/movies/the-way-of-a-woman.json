@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Way of a Woman",
+    "year": 1919,
+    "cast": [
+      "Norma Talmadge",
+      "Conway Tearle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-way-of-a-woman.html"
+}

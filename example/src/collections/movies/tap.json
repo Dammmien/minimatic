@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tap",
+    "year": 1989,
+    "cast": [
+      "Gregory Hines",
+      "Suzzanne Douglas",
+      "Sammy Davis, Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tap.html"
+}

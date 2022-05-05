@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Silver City Bonanza",
+    "year": 1951,
+    "cast": [
+      "Rex Allen",
+      "Buddy Ebsen",
+      "Mary Ellen Kay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/silver-city-bonanza.html"
+}

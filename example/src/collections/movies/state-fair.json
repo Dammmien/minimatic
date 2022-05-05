@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "State Fair",
+    "year": 1962,
+    "cast": [
+      "Tom Ewell",
+      "Pat Boone",
+      "Pamela Tiffin",
+      "Ann-Margret",
+      "Alice Faye",
+      "Bobby Darin"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/state-fair.html"
+}

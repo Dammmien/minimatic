@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Davy Crockett, King of the Wild Frontier",
+    "year": 1955,
+    "cast": [
+      "Fess Parker",
+      "Buddy Ebsen"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/davy-crockett--king-of-the-wild-frontier.html"
+}

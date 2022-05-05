@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "If I Had a Million",
+    "year": 1932,
+    "cast": [
+      "Gary Cooper",
+      "Charles Laughton",
+      "W. C. Fields"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/if-i-had-a-million.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mary Regan",
+    "year": 1919,
+    "cast": [
+      "Anita Stewart",
+      "Frank Mayo"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/mary-regan.html"
+}

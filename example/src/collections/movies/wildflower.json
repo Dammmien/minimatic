@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wildflower",
+    "year": 1914,
+    "cast": [
+      "Marguerite Clark",
+      "Harold Lockwood"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/wildflower.html"
+}

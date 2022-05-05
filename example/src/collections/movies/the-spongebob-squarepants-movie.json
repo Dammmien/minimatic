@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The SpongeBob SquarePants Movie",
+    "year": 2004,
+    "cast": [
+      "Tom Kenny",
+      "Clancy Brown",
+      "Rodger Bumpass",
+      "Bill Fagerbakke"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-spongebob-squarepants-movie.html"
+}

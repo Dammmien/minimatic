@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Battle of Wits",
+    "year": 1912,
+    "cast": [
+      "Tom Moore",
+      "Alice Joyce",
+      "Earle Foxe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-battle-of-wits.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "How Do You Dooo?",
+    "year": 1945,
+    "cast": [
+      "Bert Gordon",
+      "Harry von Zell",
+      "Cheryl Walker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/how-do-you-dooo-.html"
+}

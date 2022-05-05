@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ghost Town Renegades",
+    "year": 1947,
+    "cast": [
+      "Lash La Rue",
+      "Jennifer Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ghost-town-renegades.html"
+}

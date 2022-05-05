@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Texas Carnival",
+    "year": 1951,
+    "cast": [
+      "Esther Williams",
+      "Red Skelton",
+      "Howard Keel",
+      "Ann Miller"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/texas-carnival.html"
+}

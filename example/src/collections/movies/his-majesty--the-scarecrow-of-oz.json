@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "His Majesty, the Scarecrow of Oz",
+    "year": 1914,
+    "cast": [
+      "Violet MacMillan",
+      "Pierre Couderc"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/his-majesty--the-scarecrow-of-oz.html"
+}

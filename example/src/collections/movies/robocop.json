@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "RoboCop",
+    "year": 2014,
+    "cast": [
+      "Joel Kinnaman",
+      "Gary Oldman",
+      "Michael Keaton",
+      "Samuel L. Jackson"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/robocop.html"
+}

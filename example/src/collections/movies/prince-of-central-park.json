@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Prince of Central Park",
+    "year": 2000,
+    "cast": [
+      "Kathleen Turner",
+      "Danny Aiello",
+      "Harvey Keitel"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/prince-of-central-park.html"
+}

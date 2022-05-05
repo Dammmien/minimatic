@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Caddy",
+    "year": 1953,
+    "cast": [
+      "Dean Martin",
+      "Jerry Lewis",
+      "Donna Reed"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-caddy.html"
+}

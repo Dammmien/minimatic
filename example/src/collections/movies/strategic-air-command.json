@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strategic Air Command",
+    "year": 1955,
+    "cast": [
+      "James Stewart",
+      "June Allyson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/strategic-air-command.html"
+}

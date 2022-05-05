@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three O'Clock High",
+    "year": 1987,
+    "cast": [
+      "Casey Siemaszko",
+      "Richard Tyson",
+      "Jeffrey Tambor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-o-clock-high.html"
+}

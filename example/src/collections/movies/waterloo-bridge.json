@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Waterloo Bridge",
+    "year": 1940,
+    "cast": [
+      "Vivien Leigh",
+      "Robert Taylor",
+      "Lucile Watson"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/waterloo-bridge.html"
+}

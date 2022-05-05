@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Visitors",
+    "year": 1972,
+    "cast": [
+      "Patrick McVey",
+      "Patricia Joyce",
+      "James Woods"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-visitors.html"
+}

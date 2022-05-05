@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ace of Clubs",
+    "year": 1925,
+    "cast": [
+      "Al Hoxie",
+      "Peggy Montgomery"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-ace-of-clubs.html"
+}

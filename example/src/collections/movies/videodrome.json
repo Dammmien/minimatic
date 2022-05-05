@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Videodrome",
+    "year": 1983,
+    "cast": [
+      "James Woods",
+      "Deborah Harry"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/videodrome.html"
+}

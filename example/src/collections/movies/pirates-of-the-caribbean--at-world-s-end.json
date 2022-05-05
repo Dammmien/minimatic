@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Pirates of the Caribbean: At World's End",
+    "year": 2007,
+    "cast": [
+      "Johnny Depp",
+      "Orlando Bloom",
+      "Keira Knightley",
+      "Bill Nighy",
+      "Geoffrey Rush",
+      "Chow Yun-fat"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/pirates-of-the-caribbean--at-world-s-end.html"
+}

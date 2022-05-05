@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hannah Lee",
+    "year": 1953,
+    "cast": [
+      "Joanne Dru",
+      "John Ireland"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hannah-lee.html"
+}

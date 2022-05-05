@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mister Big",
+    "year": 1943,
+    "cast": [
+      "Donald O'Connor",
+      "Gloria Jean",
+      "Peggy Ryan"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/mister-big.html"
+}

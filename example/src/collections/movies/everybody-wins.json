@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Everybody Wins",
+    "year": 1990,
+    "cast": [
+      "Nick Nolte",
+      "Debra Winger",
+      "Jack Warden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/everybody-wins.html"
+}

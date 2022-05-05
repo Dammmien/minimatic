@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Paris Is Burning",
+    "year": 1990,
+    "cast": [
+      "ball culture of",
+      "drag queens"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/paris-is-burning.html"
+}

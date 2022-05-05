@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Shattered Glass",
+    "year": 2003,
+    "cast": [
+      "Hayden Christensen",
+      "Peter Sarsgaard",
+      "Chloë Sevigny",
+      "Hank Azaria",
+      "Steve Zahn",
+      "Rosario Dawson"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/shattered-glass.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Beauty Shop",
+    "year": 2005,
+    "cast": [
+      "Queen Latifah"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/beauty-shop.html"
+}

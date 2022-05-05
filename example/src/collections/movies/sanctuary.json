@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sanctuary",
+    "year": 1961,
+    "cast": [
+      "Lee Remick",
+      "Yves Montand"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sanctuary.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stormy",
+    "year": 1935,
+    "cast": [
+      "Noah Beery Jr.",
+      "Fred Kohler",
+      "J. Farrell MacDonald"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/stormy.html"
+}

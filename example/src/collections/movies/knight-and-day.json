@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Knight and Day",
+    "year": 2010,
+    "cast": [
+      "Tom Cruise",
+      "Cameron Diaz",
+      "Maggie Grace",
+      "Peter Sarsgaard",
+      "Paul Dano",
+      "Viola Davis"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/knight-and-day.html"
+}

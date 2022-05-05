@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Monkey's Uncle",
+    "year": 1965,
+    "cast": [
+      "Annette Funicello",
+      "Tommy Kirk",
+      "Arthur O'Connell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-monkey-s-uncle.html"
+}

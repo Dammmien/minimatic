@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Machete",
+    "year": 2010,
+    "cast": [
+      "Danny Trejo",
+      "Michelle Rodriguez",
+      "Cheech Marin",
+      "Jeff Fahey",
+      "Lindsay Lohan",
+      "Don Johnson",
+      "Jessica Alba",
+      "Steven Seagal",
+      "Robert De Niro",
+      "Daryl Sabara",
+      "Tom Savini"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/machete.html"
+}

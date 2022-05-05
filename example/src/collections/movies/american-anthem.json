@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "American Anthem",
+    "year": 1986,
+    "cast": [
+      "Mitchell Gaylord",
+      "Janet Jones"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/american-anthem.html"
+}

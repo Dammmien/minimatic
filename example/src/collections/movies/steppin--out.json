@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Steppin' Out",
+    "year": 1925,
+    "cast": [
+      "Dorothy Revier",
+      "Ford Sterling"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/steppin--out.html"
+}

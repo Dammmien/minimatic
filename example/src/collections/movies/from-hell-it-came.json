@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "From Hell It Came",
+    "year": 1957,
+    "cast": [
+      "Tod Andrews",
+      "Linda Watkins"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/from-hell-it-came.html"
+}

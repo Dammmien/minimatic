@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Casper Meets Wendy",
+    "year": 1998,
+    "cast": [
+      "Hilary Duff",
+      "Cathy Moriarty-Gentile",
+      "Shelley Duvall",
+      "Teri Garr"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/casper-meets-wendy.html"
+}

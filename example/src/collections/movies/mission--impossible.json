@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Mission: Impossible",
+    "year": 1996,
+    "cast": [
+      "Tom Cruise",
+      "Ving Rhames",
+      "Jon Voight",
+      "Vanessa Redgrave",
+      "Emmanuelle Béart",
+      "Kristin Scott Thomas",
+      "Jean Reno"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/mission--impossible.html"
+}

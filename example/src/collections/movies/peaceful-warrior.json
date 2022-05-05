@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Peaceful Warrior",
+    "year": 2006,
+    "cast": [
+      "Scott Mechlowicz",
+      "Nick Nolte",
+      "Amy Smart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/peaceful-warrior.html"
+}

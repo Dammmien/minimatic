@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tillie",
+    "year": 1922,
+    "cast": [
+      "Mary Miles Minter",
+      "Noah Beery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tillie.html"
+}

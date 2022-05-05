@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Shaggy D.A.",
+    "year": 1976,
+    "cast": [
+      "Dean Jones",
+      "Suzanne Pleshette"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-shaggy-d-a-.html"
+}

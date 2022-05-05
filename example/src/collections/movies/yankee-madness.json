@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yankee Madness",
+    "year": 1924,
+    "cast": [
+      "George Larkin",
+      "Billie Dove"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/yankee-madness.html"
+}

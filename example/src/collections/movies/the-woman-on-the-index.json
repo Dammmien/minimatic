@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman on the Index",
+    "year": 1919,
+    "cast": [
+      "Pauline Frederick",
+      "Wyndham Standing"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woman-on-the-index.html"
+}

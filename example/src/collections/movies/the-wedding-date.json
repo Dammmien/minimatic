@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wedding Date",
+    "year": 2005,
+    "cast": [
+      "Debra Messing",
+      "Dermot Mulroney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-wedding-date.html"
+}

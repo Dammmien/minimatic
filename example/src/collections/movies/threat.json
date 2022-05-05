@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Threat",
+    "year": 2006,
+    "cast": [
+      "Carlos Puga",
+      "Katie Nisa"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/threat.html"
+}

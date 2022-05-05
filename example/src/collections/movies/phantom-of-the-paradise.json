@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Phantom of the Paradise",
+    "year": 1974,
+    "cast": [
+      "Paul Williams",
+      "Jessica Harper"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/phantom-of-the-paradise.html"
+}

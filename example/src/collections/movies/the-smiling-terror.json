@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Smiling Terror",
+    "year": 1929,
+    "cast": [
+      "Ted Wells",
+      "Derelys Perdue"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-smiling-terror.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Irish Luck",
+    "year": 1925,
+    "cast": [
+      "Thomas Meighan",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/irish-luck.html"
+}

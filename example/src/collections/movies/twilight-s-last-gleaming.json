@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Twilight's Last Gleaming",
+    "year": 1977,
+    "cast": [
+      "Burt Lancaster",
+      "Richard Widmark",
+      "Charles Durning",
+      "Paul Winfield",
+      "Burt Young",
+      "Joseph Cotten",
+      "William Marshall",
+      "Melvyn Douglas"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/twilight-s-last-gleaming.html"
+}

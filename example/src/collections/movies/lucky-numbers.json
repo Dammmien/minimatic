@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Lucky Numbers",
+    "year": 2000,
+    "cast": [
+      "John Travolta",
+      "Lisa Kudrow",
+      "Tim Roth",
+      "Michael Moore"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/lucky-numbers.html"
+}

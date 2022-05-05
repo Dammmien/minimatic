@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Border Buckaroos",
+    "year": 1943,
+    "cast": [
+      "Dave O'Brien",
+      "Christine McIntyre"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/border-buckaroos.html"
+}

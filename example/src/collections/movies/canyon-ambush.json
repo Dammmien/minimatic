@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Canyon Ambush",
+    "year": 1952,
+    "cast": [
+      "Johnny Mack Brown",
+      "Phyllis Coates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/canyon-ambush.html"
+}

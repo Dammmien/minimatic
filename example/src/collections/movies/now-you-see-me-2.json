@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Now You See Me 2",
+    "year": 2016,
+    "cast": [
+      "Jesse Eisenberg",
+      "Mark Ruffalo"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/now-you-see-me-2.html"
+}

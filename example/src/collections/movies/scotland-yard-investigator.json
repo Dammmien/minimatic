@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scotland Yard Investigator",
+    "year": 1945,
+    "cast": [
+      "C. Aubrey Smith",
+      "Erich von Stroheim"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/scotland-yard-investigator.html"
+}

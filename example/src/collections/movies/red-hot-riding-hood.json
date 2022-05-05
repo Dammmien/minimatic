@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Red Hot Riding Hood",
+    "year": 1943,
+    "cast": [],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/red-hot-riding-hood.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Young Land",
+    "year": 1959,
+    "cast": [
+      "Dennis Hopper",
+      "Patrick Wayne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-young-land.html"
+}

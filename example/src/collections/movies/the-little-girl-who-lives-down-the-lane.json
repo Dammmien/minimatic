@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Little Girl Who Lives Down the Lane",
+    "year": 1976,
+    "cast": [
+      "Martin Sheen",
+      "Jodie Foster"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-little-girl-who-lives-down-the-lane.html"
+}

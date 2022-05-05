@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Greatest Thing in Life",
+    "year": 1918,
+    "cast": [
+      "Robert Harron",
+      "Lillian Gish"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-greatest-thing-in-life.html"
+}

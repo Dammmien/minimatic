@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Do or Die",
+    "year": 1991,
+    "cast": [
+      "Pat Morita",
+      "Erik Estrada"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/do-or-die.html"
+}

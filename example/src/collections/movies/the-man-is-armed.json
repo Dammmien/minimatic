@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man Is Armed",
+    "year": 1956,
+    "cast": [
+      "Dane Clark",
+      "William Talman",
+      "May Wynn"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-man-is-armed.html"
+}

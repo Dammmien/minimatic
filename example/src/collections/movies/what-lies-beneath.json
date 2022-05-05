@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "What Lies Beneath",
+    "year": 2000,
+    "cast": [
+      "Harrison Ford",
+      "Michelle Pfeiffer",
+      "Joe Morton"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/what-lies-beneath.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Magic Flame",
+    "year": 1927,
+    "cast": [
+      "Ronald Colman",
+      "Vilma Banky",
+      "Agostino Borgato"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-magic-flame.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Return of the Living Dead Part II",
+    "year": 1988,
+    "cast": [
+      "James Karen",
+      "Thom Mathews"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/return-of-the-living-dead-part-ii.html"
+}

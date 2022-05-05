@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Swing Your Lady",
+    "year": 1938,
+    "cast": [
+      "Humphrey Bogart",
+      "Louise Fazenda",
+      "Ronald Reagan"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/swing-your-lady.html"
+}

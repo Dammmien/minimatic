@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Superman Returns",
+    "year": 2006,
+    "cast": [
+      "Brandon Routh",
+      "Kate Bosworth",
+      "Kevin Spacey",
+      "Frank Langella",
+      "James Marsden",
+      "Eva Marie Saint"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/superman-returns.html"
+}

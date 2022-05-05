@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Along Came Youth",
+    "year": 1930,
+    "cast": [
+      "Frances Dee",
+      "Charles Rogers",
+      "Evelyn Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/along-came-youth.html"
+}

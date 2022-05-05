@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Hush… Hush, Sweet Charlotte",
+    "year": 1964,
+    "cast": [
+      "Bette Davis",
+      "Olivia de Havilland",
+      "Joseph Cotten",
+      "Agnes Moorehead",
+      "Mary Astor",
+      "George Kennedy"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/hush--hush--sweet-charlotte.html"
+}

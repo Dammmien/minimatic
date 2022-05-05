@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Horse Feathers",
+    "year": 1932,
+    "cast": [
+      "Groucho Marx",
+      "Chico Marx",
+      "Thelma Todd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/horse-feathers.html"
+}

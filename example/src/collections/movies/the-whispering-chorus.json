@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Whispering Chorus",
+    "year": 1918,
+    "cast": [
+      "Raymond Hatton",
+      "Kathlyn Williams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-whispering-chorus.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "King of the Saddle",
+    "year": 1926,
+    "cast": [
+      "Bill Cody",
+      "Billy Franey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/king-of-the-saddle.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fog of War",
+    "year": 2003,
+    "cast": [
+      "life and times of",
+      "Robert McNamara"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-fog-of-war.html"
+}

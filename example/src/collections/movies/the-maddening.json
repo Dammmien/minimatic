@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Maddening",
+    "year": 1995,
+    "cast": [
+      "Angie Dickinson",
+      "Burt Reynolds",
+      "Mia Sara"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-maddening.html"
+}

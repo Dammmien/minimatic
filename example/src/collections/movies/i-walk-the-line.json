@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Walk the Line",
+    "year": 1970,
+    "cast": [
+      "Gregory Peck",
+      "Tuesday Weld"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-walk-the-line.html"
+}

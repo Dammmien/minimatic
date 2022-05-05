@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Butcher Boy",
+    "year": 1997,
+    "cast": [
+      "Stephen Rea"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-butcher-boy.html"
+}

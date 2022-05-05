@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Santa Clause 2",
+    "year": 2002,
+    "cast": [
+      "Tim Allen",
+      "Elizabeth Mitchell",
+      "David Krumholtz"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-santa-clause-2.html"
+}

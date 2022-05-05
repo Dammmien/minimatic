@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Crimson Canyon",
+    "year": 1928,
+    "cast": [
+      "Ted Wells",
+      "Lotus Thompson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-crimson-canyon.html"
+}

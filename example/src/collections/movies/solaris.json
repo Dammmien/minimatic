@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Solaris",
+    "year": 2002,
+    "cast": [
+      "George Clooney",
+      "Natascha McElhone",
+      "Viola Davis"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/solaris.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pursuit of D. B. Cooper",
+    "year": 1981,
+    "cast": [
+      "Treat Williams",
+      "Robert Duvall",
+      "Kathryn Harrold"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-pursuit-of-d--b--cooper.html"
+}

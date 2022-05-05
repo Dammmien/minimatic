@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Creeper",
+    "year": 1948,
+    "cast": [
+      "Eduardo Ciannelli",
+      "Onslow Stevens",
+      "June Vincent"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-creeper.html"
+}

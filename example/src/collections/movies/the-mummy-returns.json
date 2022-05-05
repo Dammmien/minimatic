@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Mummy Returns",
+    "year": 2001,
+    "cast": [
+      "Brendan Fraser",
+      "Rachel Weisz",
+      "John Hannah",
+      "Oded Fehr",
+      "Dwayne Johnson"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-mummy-returns.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mirrors",
+    "year": 2008,
+    "cast": [
+      "Kiefer Sutherland",
+      "Paula Patton",
+      "Amy Smart"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/mirrors.html"
+}

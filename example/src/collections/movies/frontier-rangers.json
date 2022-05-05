@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Frontier Rangers",
+    "year": 1959,
+    "cast": [
+      "Keith Larsen",
+      "Buddy Ebsen"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/frontier-rangers.html"
+}

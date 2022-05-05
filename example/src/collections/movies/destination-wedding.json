@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Destination Wedding",
+    "year": 2018,
+    "cast": [
+      "Winona Ryder",
+      "Keanu Reeves"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/destination-wedding.html"
+}

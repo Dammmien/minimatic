@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Life and Death of Peter Sellers",
+    "year": 2004,
+    "cast": [
+      "Geoffrey Rush",
+      "Charlize Theron",
+      "Emily Watson"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-life-and-death-of-peter-sellers.html"
+}

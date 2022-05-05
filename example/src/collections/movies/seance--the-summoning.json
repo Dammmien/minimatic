@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Seance: The Summoning",
+    "year": 2011,
+    "cast": [
+      "Bobby Campo",
+      "Chris Olivero",
+      "Cortney Palm"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/seance--the-summoning.html"
+}

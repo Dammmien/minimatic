@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Killer That Stalked New York",
+    "year": 1950,
+    "cast": [
+      "Evelyn Keyes",
+      "Charles Korvin"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-killer-that-stalked-new-york.html"
+}

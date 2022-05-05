@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Somewhere Slow",
+    "year": 2014,
+    "cast": [
+      "Jessalyn Gilsig",
+      "David Costabile",
+      "Graham Patrick Martin",
+      "Wallace Langham"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/somewhere-slow.html"
+}

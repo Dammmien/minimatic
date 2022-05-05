@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Father Goose",
+    "year": 1964,
+    "cast": [
+      "Cary Grant",
+      "Leslie Caron",
+      "Trevor Howard"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/father-goose.html"
+}

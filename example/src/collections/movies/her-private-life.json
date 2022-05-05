@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Her Private Life",
+    "year": 1929,
+    "cast": [
+      "Billie Dove",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/her-private-life.html"
+}

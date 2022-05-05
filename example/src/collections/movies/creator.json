@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Creator",
+    "year": 1985,
+    "cast": [
+      "Peter O'Toole",
+      "Mariel Hemingway",
+      "Vincent Spano",
+      "Virginia Madsen"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Comedy"
+    ]
+  },
+  "output": "movies/creator.html"
+}

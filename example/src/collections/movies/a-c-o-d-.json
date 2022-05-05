@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A.C.O.D.",
+    "year": 2013,
+    "cast": [
+      "Adam Scott",
+      "Amy Poehler",
+      "Jessica Alba",
+      "Jane Lynch",
+      "Richard Jenkins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-c-o-d-.html"
+}

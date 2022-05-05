@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Together Alone",
+    "year": 1991,
+    "cast": [
+      "Terry Curry",
+      "Todd Stites"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/together-alone.html"
+}

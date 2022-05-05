@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Without Compromise",
+    "year": 1922,
+    "cast": [
+      "William Farnum",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/without-compromise.html"
+}

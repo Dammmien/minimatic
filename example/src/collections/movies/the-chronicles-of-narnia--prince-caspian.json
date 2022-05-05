@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Chronicles of Narnia: Prince Caspian",
+    "year": 2008,
+    "cast": [
+      "Ben Barnes",
+      "William Moseley",
+      "Anna Popplewell",
+      "Skandar Keynes"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-chronicles-of-narnia--prince-caspian.html"
+}

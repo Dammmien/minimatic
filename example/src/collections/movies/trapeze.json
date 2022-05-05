@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Trapeze",
+    "year": 1956,
+    "cast": [
+      "Burt Lancaster",
+      "Tony Curtis",
+      "Gina Lollobrigida",
+      "Katy Jurado",
+      "Thomas Gomez"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/trapeze.html"
+}

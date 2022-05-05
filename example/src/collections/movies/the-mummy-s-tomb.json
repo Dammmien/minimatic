@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mummy's Tomb",
+    "year": 1942,
+    "cast": [
+      "Lon Chaney Jr.",
+      "Dick Foran"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-mummy-s-tomb.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bounce",
+    "year": 2000,
+    "cast": [
+      "Ben Affleck",
+      "Gwyneth Paltrow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bounce.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Santa Fe Passage",
+    "year": 1955,
+    "cast": [
+      "John Payne",
+      "Faith Domergue"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/santa-fe-passage.html"
+}

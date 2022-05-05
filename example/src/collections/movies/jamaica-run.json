@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jamaica Run",
+    "year": 1953,
+    "cast": [
+      "Ray Milland",
+      "Arlene Dahl",
+      "Patric Knowles"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/jamaica-run.html"
+}

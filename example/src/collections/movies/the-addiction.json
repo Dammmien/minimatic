@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Addiction",
+    "year": 1995,
+    "cast": [
+      "Lili Taylor",
+      "Christopher Walken",
+      "Annabella Sciorra"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-addiction.html"
+}

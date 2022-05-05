@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lightnin' Crandall",
+    "year": 1937,
+    "cast": [
+      "Bob Steele",
+      "Lois January"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lightnin--crandall.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Outlaw Women",
+    "year": 1952,
+    "cast": [
+      "Marie Windsor",
+      "Carla Balenda"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/outlaw-women.html"
+}

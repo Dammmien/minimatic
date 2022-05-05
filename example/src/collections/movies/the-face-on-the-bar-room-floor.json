@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Face on the Bar-Room Floor",
+    "year": 1923,
+    "cast": [
+      "Henry B. Walthall",
+      "Ruth Clifford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-face-on-the-bar-room-floor.html"
+}

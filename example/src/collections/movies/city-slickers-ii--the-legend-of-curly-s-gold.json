@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "City Slickers II: The Legend of Curly's Gold",
+    "year": 1994,
+    "cast": [
+      "Billy Crystal",
+      "Jack Palance",
+      "Jon Lovitz",
+      "Daniel Stern",
+      "Patricia Wettig"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/city-slickers-ii--the-legend-of-curly-s-gold.html"
+}

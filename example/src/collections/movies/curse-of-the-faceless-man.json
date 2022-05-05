@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Curse of the Faceless Man",
+    "year": 1958,
+    "cast": [
+      "Richard Anderson",
+      "Adele Mara"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/curse-of-the-faceless-man.html"
+}

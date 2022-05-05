@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Follow that Dream",
+    "year": 1962,
+    "cast": [
+      "Elvis Presley",
+      "Arthur O'Connell",
+      "Joanna Moore"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/follow-that-dream.html"
+}

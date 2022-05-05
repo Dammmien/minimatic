@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Abbott and Costello Meet Dr. Jekyll and Mr. Hyde",
+    "year": 1953,
+    "cast": [
+      "Abbott and Costello",
+      "Boris Karloff"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/abbott-and-costello-meet-dr--jekyll-and-mr--hyde.html"
+}

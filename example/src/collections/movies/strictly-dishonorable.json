@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Strictly Dishonorable",
+    "year": 1951,
+    "cast": [
+      "Ezio Pinza",
+      "Janet Leigh"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/strictly-dishonorable.html"
+}

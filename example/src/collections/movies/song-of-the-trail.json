@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Song of the Trail",
+    "year": 1936,
+    "cast": [
+      "Kermit Maynard",
+      "Evelyn Brent"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/song-of-the-trail.html"
+}

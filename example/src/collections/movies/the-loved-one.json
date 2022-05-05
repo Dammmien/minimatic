@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Loved One",
+    "year": 1965,
+    "cast": [
+      "Robert Morse",
+      "Jonathan Winters",
+      "John Gielgud",
+      "Liberace",
+      "Milton Berle",
+      "Tab Hunter",
+      "Rod Steiger"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-loved-one.html"
+}

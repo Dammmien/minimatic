@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman of the Town",
+    "year": 1943,
+    "cast": [
+      "Claire Trevor",
+      "Albert Dekker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-woman-of-the-town.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Pardon My Sarong",
+    "year": 1942,
+    "cast": [
+      "Abbott and Costello"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pardon-my-sarong.html"
+}

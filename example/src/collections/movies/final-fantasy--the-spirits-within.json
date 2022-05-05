@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Final Fantasy: The Spirits Within",
+    "year": 2001,
+    "cast": [
+      "Ming-Na",
+      "Alec Baldwin",
+      "James Woods",
+      "Donald Sutherland",
+      "Ving Rhames",
+      "Steve Buscemi",
+      "Peri Gilpin"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/final-fantasy--the-spirits-within.html"
+}

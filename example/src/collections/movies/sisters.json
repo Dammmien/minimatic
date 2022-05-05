@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sisters",
+    "year": 1973,
+    "cast": [
+      "Margot Kidder",
+      "Jennifer Salt"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/sisters.html"
+}

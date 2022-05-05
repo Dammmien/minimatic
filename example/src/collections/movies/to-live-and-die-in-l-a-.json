@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "To Live and Die in L.A.",
+    "year": 1985,
+    "cast": [
+      "William Petersen",
+      "Willem Dafoe",
+      "John Turturro",
+      "John Pankow",
+      "Darlanne Fleugel",
+      "Dean Stockwell"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/to-live-and-die-in-l-a-.html"
+}

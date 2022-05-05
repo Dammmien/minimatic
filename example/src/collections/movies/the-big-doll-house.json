@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Big Doll House",
+    "year": 1971,
+    "cast": [
+      "Roberta Collins",
+      "Pam Grier"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-big-doll-house.html"
+}

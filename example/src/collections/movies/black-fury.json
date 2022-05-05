@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Black Fury",
+    "year": 1935,
+    "cast": [
+      "Paul Muni",
+      "Karen Morley",
+      "Barton MacLane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/black-fury.html"
+}

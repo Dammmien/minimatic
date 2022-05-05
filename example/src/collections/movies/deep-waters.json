@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Deep Waters",
+    "year": 1948,
+    "cast": [
+      "Jean Peters",
+      "Dana Andrews"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/deep-waters.html"
+}

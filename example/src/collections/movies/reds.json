@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Reds",
+    "year": 1981,
+    "cast": [
+      "Warren Beatty",
+      "Diane Keaton",
+      "Gene Hackman",
+      "Maureen Stapleton",
+      "Jerzy Kosinski",
+      "Paul Sorvino",
+      "Jack Nicholson"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/reds.html"
+}

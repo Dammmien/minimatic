@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Land",
+    "year": 1957,
+    "cast": [
+      "Alan Ladd",
+      "Virginia Mayo",
+      "Edmond O'Brien"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-big-land.html"
+}

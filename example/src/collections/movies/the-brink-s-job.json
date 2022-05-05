@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Brink's Job",
+    "year": 1978,
+    "cast": [
+      "Peter Falk",
+      "Peter Boyle",
+      "Warren Oates",
+      "Gena Rowlands",
+      "Paul Sorvino"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-brink-s-job.html"
+}

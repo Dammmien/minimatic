@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Search for Danger",
+    "year": 1949,
+    "cast": [
+      "John Calvert",
+      "Albert Dekker"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/search-for-danger.html"
+}

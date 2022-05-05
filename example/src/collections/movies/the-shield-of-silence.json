@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Shield of Silence",
+    "year": 1925,
+    "cast": [
+      "Leo D. Maloney",
+      "Josephine Hill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-shield-of-silence.html"
+}

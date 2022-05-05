@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Koyaanisqatsi",
+    "year": 1982,
+    "cast": [
+      "Musical score by",
+      "Philip Glass"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/koyaanisqatsi.html"
+}

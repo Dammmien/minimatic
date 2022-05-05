@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stir Crazy",
+    "year": 1980,
+    "cast": [
+      "Richard Pryor",
+      "Gene Wilder"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stir-crazy.html"
+}

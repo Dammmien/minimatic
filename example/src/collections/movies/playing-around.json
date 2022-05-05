@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Playing Around",
+    "year": 1930,
+    "cast": [
+      "Alice White",
+      "Chester Morris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/playing-around.html"
+}

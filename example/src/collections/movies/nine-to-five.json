@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Nine to Five",
+    "year": 1980,
+    "cast": [
+      "Jane Fonda",
+      "Dolly Parton",
+      "Lily Tomlin",
+      "Dabney Coleman",
+      "Elizabeth Wilson",
+      "Sterling Hayden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nine-to-five.html"
+}

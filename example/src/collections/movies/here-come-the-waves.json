@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Here Come the Waves",
+    "year": 1944,
+    "cast": [
+      "Bing Crosby",
+      "Betty Hutton",
+      "Sonny Tufts"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/here-come-the-waves.html"
+}

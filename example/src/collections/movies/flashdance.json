@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flashdance",
+    "year": 1983,
+    "cast": [
+      "Jennifer Beals",
+      "Michael Nouri",
+      "Belinda Bauer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flashdance.html"
+}

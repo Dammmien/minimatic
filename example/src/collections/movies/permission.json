@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Permission",
+    "year": 2018,
+    "cast": [
+      "Rebecca Hall",
+      "Dan Stevens",
+      "Morgan Spector",
+      "David Joseph Craig",
+      "Gina Gershon",
+      "Jason Sudeikis"
+    ],
+    "genres": [
+      "Drama",
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/permission.html"
+}

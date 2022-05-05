@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Club Paradise",
+    "year": 1986,
+    "cast": [
+      "Robin Williams",
+      "Peter O'Toole",
+      "Rick Moranis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/club-paradise.html"
+}

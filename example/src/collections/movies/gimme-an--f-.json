@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gimme an 'F'",
+    "year": 1984,
+    "cast": [
+      "Stephen Shellen",
+      "Jennifer Cooke",
+      "Beth Miller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gimme-an--f-.html"
+}

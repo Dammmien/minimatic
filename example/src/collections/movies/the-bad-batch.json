@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Bad Batch",
+    "year": 2017,
+    "cast": [
+      "Suki Waterhouse",
+      "Jason Momoa",
+      "Giovanni Ribisi",
+      "Yolonda Ross",
+      "Diego Luna",
+      "Keanu Reeves",
+      "Jim Carrey"
+    ],
+    "genres": [
+      "Romance",
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-bad-batch.html"
+}

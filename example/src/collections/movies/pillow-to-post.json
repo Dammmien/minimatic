@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pillow to Post",
+    "year": 1945,
+    "cast": [
+      "Ida Lupino",
+      "Sydney Greenstreet"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pillow-to-post.html"
+}

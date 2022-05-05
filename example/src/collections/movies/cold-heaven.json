@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cold Heaven",
+    "year": 1991,
+    "cast": [
+      "Theresa Russell",
+      "Mark Harmon",
+      "James Russo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cold-heaven.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Savage Is Loose",
+    "year": 1974,
+    "cast": [
+      "George C. Scott",
+      "Trish Van Devere"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-savage-is-loose.html"
+}

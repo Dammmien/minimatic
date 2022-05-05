@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "She's Out of My League",
+    "year": 2010,
+    "cast": [
+      "Jay Baruchel",
+      "Alice Eve",
+      "T. J. Miller",
+      "Mike Vogel",
+      "Nate Torrence",
+      "Krysten Ritter",
+      "Geoff Stults",
+      "Lindsay Sloane"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-s-out-of-my-league.html"
+}

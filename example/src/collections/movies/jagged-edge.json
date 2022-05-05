@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Jagged Edge",
+    "year": 1985,
+    "cast": [
+      "Jeff Bridges",
+      "Glenn Close",
+      "Robert Loggia"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/jagged-edge.html"
+}

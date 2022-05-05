@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Lowriders",
+    "year": 2017,
+    "cast": [
+      "Demián Bichir",
+      "Gabriel Chavarria",
+      "Theo Rossi",
+      "Melissa Benoist",
+      "Tony Revolori",
+      "Eva Longoria",
+      "Cress Williams",
+      "Yvette Monreal"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lowriders.html"
+}

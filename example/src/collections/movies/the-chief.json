@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Chief",
+    "year": 1933,
+    "cast": [
+      "Ed Wynn",
+      "Dorothy Mackaill"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-chief.html"
+}

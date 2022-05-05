@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Usual Suspects",
+    "year": 1995,
+    "cast": [
+      "Stephen Baldwin",
+      "Gabriel Byrne",
+      "Benicio del Toro",
+      "Kevin Pollak",
+      "Kevin Spacey",
+      "Chazz Palminteri",
+      "Suzy Amis",
+      "Giancarlo Esposito",
+      "Pete Postlethwaite"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-usual-suspects.html"
+}

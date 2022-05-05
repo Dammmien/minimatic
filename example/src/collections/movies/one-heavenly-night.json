@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Heavenly Night",
+    "year": 1931,
+    "cast": [
+      "Evelyn Laye",
+      "John Boles"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-heavenly-night.html"
+}

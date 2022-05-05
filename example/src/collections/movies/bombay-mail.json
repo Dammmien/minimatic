@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bombay Mail",
+    "year": 1934,
+    "cast": [
+      "Edmund Lowe",
+      "Ralph Forbes",
+      "Shirley Grey"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/bombay-mail.html"
+}

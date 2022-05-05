@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Return of the Killer Tomatoes",
+    "year": 1988,
+    "cast": [
+      "John Astin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/return-of-the-killer-tomatoes.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dont Look Back",
+    "year": 1967,
+    "cast": [
+      "Bob Dylan",
+      "Joan Baez",
+      "Donovan"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/dont-look-back.html"
+}

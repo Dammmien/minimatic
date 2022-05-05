@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blondie",
+    "year": 1938,
+    "cast": [
+      "Arthur Lake",
+      "Penny Singleton",
+      "Jonathan Hale"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blondie.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fever Pitch",
+    "year": 2005,
+    "cast": [
+      "Drew Barrymore",
+      "Jimmy Fallon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fever-pitch.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Room Service",
+    "year": 1938,
+    "cast": [
+      "Marx Brothers",
+      "Lucille Ball",
+      "Ann Miller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/room-service.html"
+}

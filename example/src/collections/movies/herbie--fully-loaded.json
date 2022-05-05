@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Herbie: Fully Loaded",
+    "year": 2005,
+    "cast": [
+      "Lindsay Lohan",
+      "Michael Keaton",
+      "Matt Dillon",
+      "Cheryl Hines"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/herbie--fully-loaded.html"
+}

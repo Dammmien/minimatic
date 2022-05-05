@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Joe Palooka in Humphrey Takes a Chance",
+    "year": 1950,
+    "cast": [
+      "Leon Errol",
+      "Joe Kirkwood",
+      "Lois Collier"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/joe-palooka-in-humphrey-takes-a-chance.html"
+}

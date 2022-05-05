@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Concentratin' Kid",
+    "year": 1930,
+    "cast": [
+      "Hoot Gibson",
+      "Kathryn Crawford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-concentratin--kid.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Whiskey Tango Foxtrot",
+    "year": 2016,
+    "cast": [
+      "Tina Fey",
+      "Martin Freeman"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/whiskey-tango-foxtrot.html"
+}

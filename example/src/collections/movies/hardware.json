@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hardware",
+    "year": 1990,
+    "cast": [
+      "Dylan McDermott",
+      "Stacey Travis",
+      "Iggy Pop"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/hardware.html"
+}

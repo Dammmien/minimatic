@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Islands in the Stream",
+    "year": 1977,
+    "cast": [
+      "George C. Scott",
+      "David Hemmings",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/islands-in-the-stream.html"
+}

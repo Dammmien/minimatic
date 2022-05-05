@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Girls",
+    "year": 1919,
+    "cast": [
+      "Marguerite Clark",
+      "Helene Chadwick"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/girls.html"
+}

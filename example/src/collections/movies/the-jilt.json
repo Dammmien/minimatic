@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Jilt",
+    "year": 1922,
+    "cast": [
+      "Marguerite De La Motte",
+      "Ralph Graves"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-jilt.html"
+}

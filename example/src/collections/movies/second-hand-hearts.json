@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Second-Hand Hearts",
+    "year": 1981,
+    "cast": [
+      "Robert Blake",
+      "Barbara Harris"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/second-hand-hearts.html"
+}

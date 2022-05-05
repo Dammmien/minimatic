@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Wonder Wheel",
+    "year": 2017,
+    "cast": [
+      "Kate Winslet",
+      "Justin Timberlake",
+      "Juno Temple",
+      "Jim Belushi",
+      "Tony Sirico"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/wonder-wheel.html"
+}

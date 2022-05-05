@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Amateur Crook",
+    "year": 1937,
+    "cast": [
+      "Joan Barclay",
+      "Bruce Bennett",
+      "Vivien Oakland"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/amateur-crook.html"
+}

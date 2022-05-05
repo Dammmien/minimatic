@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ghost Walks",
+    "year": 1934,
+    "cast": [
+      "June Collyer",
+      "John Miljan"
+    ],
+    "genres": [
+      "Mystery",
+      "Horror"
+    ]
+  },
+  "output": "movies/the-ghost-walks.html"
+}

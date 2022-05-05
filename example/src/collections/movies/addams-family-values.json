@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Addams Family Values",
+    "year": 1993,
+    "cast": [
+      "Anjelica Huston",
+      "Raúl Juliá",
+      "Christopher Lloyd",
+      "Christina Ricci",
+      "Joan Cusack"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/addams-family-values.html"
+}

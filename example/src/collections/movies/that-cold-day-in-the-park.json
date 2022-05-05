@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "That Cold Day in the Park",
+    "year": 1969,
+    "cast": [
+      "Sandy Dennis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/that-cold-day-in-the-park.html"
+}

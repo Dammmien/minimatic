@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A Stranger Among Us",
+    "year": 1992,
+    "cast": [
+      "Melanie Griffith",
+      "Tracy Pollan",
+      "John Pankow",
+      "Mia Sara"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-stranger-among-us.html"
+}

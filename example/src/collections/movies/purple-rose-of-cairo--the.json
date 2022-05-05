@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Purple Rose of Cairo, The",
+    "year": 1985,
+    "cast": [
+      "Mia Farrow",
+      "Jeff Daniels",
+      "Danny Aiello",
+      "John Wood",
+      "Deborah Rush",
+      "Van Johnson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/purple-rose-of-cairo--the.html"
+}

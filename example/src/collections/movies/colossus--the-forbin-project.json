@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Colossus: The Forbin Project",
+    "year": 1970,
+    "cast": [
+      "Susan Clark",
+      "Eric Braeden"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/colossus--the-forbin-project.html"
+}

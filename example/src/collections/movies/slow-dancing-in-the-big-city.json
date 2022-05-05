@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Slow Dancing in the Big City",
+    "year": 1978,
+    "cast": [
+      "Paul Sorvino",
+      "Anne Ditchburn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/slow-dancing-in-the-big-city.html"
+}

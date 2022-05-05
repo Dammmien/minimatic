@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Final Destination 5",
+    "year": 2011,
+    "cast": [
+      "Nicholas D'Agosto",
+      "Emma Bell",
+      "Miles Fisher",
+      "Arlen Escarpeta",
+      "with",
+      "David Koechner",
+      "and",
+      "Tony Todd",
+      "P. J. Byrne",
+      "Courtney B. Vance",
+      "Jacqueline MacInnes Wood"
+    ],
+    "genres": [
+      "Supernatural",
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/final-destination-5.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Torpedo Alley",
+    "year": 1952,
+    "cast": [
+      "Mark Stevens",
+      "Dorothy Malone"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/torpedo-alley.html"
+}

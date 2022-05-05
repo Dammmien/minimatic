@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Golden Cocoon",
+    "year": 1925,
+    "cast": [
+      "Huntley Gordon",
+      "Helene Chadwick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-golden-cocoon.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fox and the Hound",
+    "year": 1981,
+    "cast": [
+      "voices of",
+      "Pearl Bailey",
+      "Mickey Rooney"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-fox-and-the-hound.html"
+}

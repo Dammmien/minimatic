@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shadow of Doubt",
+    "year": 1935,
+    "cast": [
+      "Ricardo Cortez",
+      "Virginia Bruce"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/shadow-of-doubt.html"
+}

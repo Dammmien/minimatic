@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Wait",
+    "year": 2013,
+    "cast": [
+      "Jena Malone",
+      "Chloë Sevigny",
+      "Luke Grimes",
+      "Devon Gearhart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wait.html"
+}

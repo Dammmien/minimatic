@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Paddington",
+    "year": 2015,
+    "cast": [
+      "Ben Whishaw",
+      "Hugh Bonneville",
+      "Sally Hawkins",
+      "Madeleine Harris",
+      "Samuel Joslin",
+      "Julie Walters",
+      "Nicole Kidman"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/paddington.html"
+}

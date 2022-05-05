@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tess of the d'Urbervilles",
+    "year": 1924,
+    "cast": [
+      "Blanche Sweet",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tess-of-the-d-urbervilles.html"
+}

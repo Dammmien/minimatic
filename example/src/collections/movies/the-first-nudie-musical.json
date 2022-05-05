@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The First Nudie Musical",
+    "year": 1976,
+    "cast": [
+      "Cindy Williams",
+      "Diana Canova"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-first-nudie-musical.html"
+}

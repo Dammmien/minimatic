@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Legally Blonde",
+    "year": 2001,
+    "cast": [
+      "Reese Witherspoon",
+      "Luke Wilson",
+      "Selma Blair",
+      "Matthew Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/legally-blonde.html"
+}

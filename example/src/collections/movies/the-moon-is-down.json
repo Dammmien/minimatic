@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Moon Is Down",
+    "year": 1943,
+    "cast": [
+      "Cedric Hardwicke",
+      "Lee J. Cobb"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-moon-is-down.html"
+}

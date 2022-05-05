@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bullet Code",
+    "year": 1940,
+    "cast": [
+      "George O'Brien",
+      "Virginia Vale",
+      "Slim Whitaker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bullet-code.html"
+}

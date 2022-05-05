@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Light at the Edge of the World",
+    "year": 1971,
+    "cast": [
+      "Kirk Douglas",
+      "Yul Brynner",
+      "Samantha Eggar"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-light-at-the-edge-of-the-world.html"
+}

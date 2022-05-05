@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Regeneration",
+    "year": 1915,
+    "cast": [
+      "Rockliffe Fellowes",
+      "Anna Q. Nilsson"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/regeneration.html"
+}

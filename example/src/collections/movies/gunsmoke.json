@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gunsmoke",
+    "year": 1953,
+    "cast": [
+      "Audie Murphy",
+      "Susan Cabot"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gunsmoke.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Forger",
+    "year": 2012,
+    "cast": [
+      "Josh Hutcherson",
+      "Hayden Panettiere",
+      "Lauren Bacall",
+      "Alfred Molina",
+      "Dina Eastwood"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-forger.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Monster of Phantom Lake",
+    "year": 2006,
+    "cast": [
+      "Josh Craig"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-monster-of-phantom-lake.html"
+}

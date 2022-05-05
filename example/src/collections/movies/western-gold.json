@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Western Gold",
+    "year": 1937,
+    "cast": [
+      "Smith Ballew",
+      "Heather Angel"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/western-gold.html"
+}

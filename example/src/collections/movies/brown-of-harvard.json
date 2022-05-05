@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brown of Harvard",
+    "year": 1926,
+    "cast": [
+      "William Haines",
+      "Jack Pickford",
+      "Mary Brian"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/brown-of-harvard.html"
+}

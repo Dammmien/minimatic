@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Grit Wins",
+    "year": 1929,
+    "cast": [
+      "Ted Wells",
+      "Kathleen Collins"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/grit-wins.html"
+}

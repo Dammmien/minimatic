@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "House of Mystery",
+    "year": 1934,
+    "cast": [
+      "Clay Clement",
+      "Joyzelle Joyner",
+      "Gabby Hayes"
+    ],
+    "genres": [
+      "Mystery",
+      "Horror"
+    ]
+  },
+  "output": "movies/house-of-mystery.html"
+}

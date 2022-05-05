@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Year of the Yao",
+    "year": 2004,
+    "cast": [
+      "The first of year of",
+      "Yao Ming",
+      "'s American career"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-year-of-the-yao.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Terror Street",
+    "year": 1953,
+    "cast": [
+      "Dan Duryea",
+      "Elsie Albiin"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/terror-street.html"
+}

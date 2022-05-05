@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Flower of Doom",
+    "year": 1917,
+    "cast": [
+      "Wedgwood Nowell",
+      "Yvette Mitchell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-flower-of-doom.html"
+}

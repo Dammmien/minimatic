@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Getting Gertie's Garter",
+    "year": 1945,
+    "cast": [
+      "Dennis O'Keefe",
+      "Marie McDonald",
+      "Barry Sullivan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/getting-gertie-s-garter.html"
+}

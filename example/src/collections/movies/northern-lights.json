@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Northern Lights",
+    "year": 1997,
+    "cast": [
+      "Diane Keaton"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/northern-lights.html"
+}

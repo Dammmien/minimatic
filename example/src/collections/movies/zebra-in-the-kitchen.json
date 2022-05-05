@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Zebra in the Kitchen",
+    "year": 1965,
+    "cast": [
+      "Jay North",
+      "Martin Milner"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/zebra-in-the-kitchen.html"
+}

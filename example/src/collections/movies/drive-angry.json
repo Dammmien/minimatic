@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Drive Angry",
+    "year": 2011,
+    "cast": [
+      "Nicolas Cage",
+      "Amber Heard",
+      "William Fichtner",
+      "Billy Burke",
+      "Charlotte Ross",
+      "Christa Campbell",
+      "Tom Atkins",
+      "Katy Mixon",
+      "Todd Farmer",
+      "David Morse"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/drive-angry.html"
+}

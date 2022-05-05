@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rocky Mountain",
+    "year": 1950,
+    "cast": [
+      "Errol Flynn",
+      "Patrice Wymore"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rocky-mountain.html"
+}

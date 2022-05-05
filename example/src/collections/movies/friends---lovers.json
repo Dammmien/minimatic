@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Friends & Lovers",
+    "year": 1999,
+    "cast": [
+      "Stephen Baldwin",
+      "Claudia Schiffer",
+      "Robert Downey Jr."
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/friends---lovers.html"
+}

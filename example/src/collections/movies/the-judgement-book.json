@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Judgement Book",
+    "year": 1935,
+    "cast": [
+      "Conway Tearle",
+      "Bernadene Hayes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-judgement-book.html"
+}

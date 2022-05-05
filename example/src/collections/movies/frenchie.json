@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Frenchie",
+    "year": 1950,
+    "cast": [
+      "Shelley Winters",
+      "Joel McCrea"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/frenchie.html"
+}

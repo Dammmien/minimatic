@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Killer Force",
+    "year": 1976,
+    "cast": [
+      "Telly Savalas",
+      "Peter Fonda"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/killer-force.html"
+}

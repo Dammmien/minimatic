@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Living on Velvet",
+    "year": 1935,
+    "cast": [
+      "George Brent",
+      "Kay Francis",
+      "Henry O'Neill"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/living-on-velvet.html"
+}

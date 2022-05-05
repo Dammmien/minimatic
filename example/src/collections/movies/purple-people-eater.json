@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Purple People Eater",
+    "year": 1988,
+    "cast": [
+      "Neil Patrick Harris",
+      "Ned Beatty",
+      "Thora Birch"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/purple-people-eater.html"
+}

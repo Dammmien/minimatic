@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "City Beneath the Sea",
+    "year": 1953,
+    "cast": [
+      "Robert Ryan",
+      "Anthony Quinn",
+      "Mala Powers"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/city-beneath-the-sea.html"
+}

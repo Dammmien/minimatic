@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Boston Blackie's Rendezvous",
+    "year": 1945,
+    "cast": [
+      "Chester Morris",
+      "Nina Foch"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/boston-blackie-s-rendezvous.html"
+}

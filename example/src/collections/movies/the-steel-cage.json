@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Steel Cage",
+    "year": 1954,
+    "cast": [
+      "Maureen O'Sullivan",
+      "Lawrence Tierney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-steel-cage.html"
+}

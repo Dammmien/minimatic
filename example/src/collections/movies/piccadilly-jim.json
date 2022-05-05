@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Piccadilly Jim",
+    "year": 1919,
+    "cast": [
+      "Owen Moore",
+      "Zena Keefe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/piccadilly-jim.html"
+}

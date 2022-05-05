@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Racing Hearts",
+    "year": 1923,
+    "cast": [
+      "Agnes Ayres",
+      "Richard Dix"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/racing-hearts.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "I Dream of Jeanie",
+    "year": 1952,
+    "cast": [
+      "Ray Middleton",
+      "Bill Shirley",
+      "Rex Allen",
+      "Muriel Lawrence",
+      "Lynn Bari"
+    ],
+    "genres": [
+      "Musical",
+      "Biography"
+    ]
+  },
+  "output": "movies/i-dream-of-jeanie.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Deerslayer",
+    "year": 1957,
+    "cast": [
+      "Rita Moreno",
+      "Lex Barker",
+      "Cathy O'Donnell"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-deerslayer.html"
+}

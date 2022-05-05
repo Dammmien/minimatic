@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Remembrance",
+    "year": 1922,
+    "cast": [
+      "Cullen Landis",
+      "Claude Gillingwater",
+      "Patsy Ruth Miller"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/remembrance.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Remember Me",
+    "year": 2010,
+    "cast": [
+      "Robert Pattinson",
+      "Emilie de Ravin",
+      "Chris Cooper",
+      "Lena Olin",
+      "Pierce Brosnan"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/remember-me.html"
+}

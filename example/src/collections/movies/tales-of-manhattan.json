@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Tales of Manhattan",
+    "year": 1942,
+    "cast": [
+      "Charles Boyer",
+      "Rita Hayworth",
+      "Ginger Rogers",
+      "Henry Fonda",
+      "Charles Laughton",
+      "Edward G. Robinson",
+      "Paul Robeson"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/tales-of-manhattan.html"
+}

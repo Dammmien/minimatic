@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Alone with Her",
+    "year": 2006,
+    "cast": [
+      "Ana Claudia Talancón",
+      "Colin Hanks",
+      "Jordana Spiro"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/alone-with-her.html"
+}

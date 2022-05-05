@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hills of Utah",
+    "year": 1951,
+    "cast": [
+      "Gene Autry",
+      "Elaine Riley",
+      "Donna Martell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-hills-of-utah.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Grandma's Boy",
+    "year": 2006,
+    "cast": [
+      "Linda Cardellini",
+      "Allen Covert",
+      "Peter Dante",
+      "Doris Roberts",
+      "Shirley Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/grandma-s-boy.html"
+}

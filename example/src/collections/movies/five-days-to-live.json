@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Five Days to Live",
+    "year": 1922,
+    "cast": [
+      "Sessue Hayakawa",
+      "Tsuru Aoki"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/five-days-to-live.html"
+}

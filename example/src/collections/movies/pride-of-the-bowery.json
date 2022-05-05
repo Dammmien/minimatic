@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pride of the Bowery",
+    "year": 1940,
+    "cast": [
+      "East Side Kids",
+      "Mary Ainslee"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/pride-of-the-bowery.html"
+}

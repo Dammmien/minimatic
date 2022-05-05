@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Me and Captain Kidd",
+    "year": 1919,
+    "cast": [
+      "Evelyn Greeley",
+      "Raymond McKee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/me-and-captain-kidd.html"
+}

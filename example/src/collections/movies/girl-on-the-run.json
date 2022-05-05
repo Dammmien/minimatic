@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Girl on the Run",
+    "year": 1958,
+    "cast": [
+      "Efrem Zimbalist Jr.",
+      "Erin O'Brien"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/girl-on-the-run.html"
+}

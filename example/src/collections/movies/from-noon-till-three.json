@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "From Noon till Three",
+    "year": 1976,
+    "cast": [
+      "Charles Bronson",
+      "Jill Ireland"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/from-noon-till-three.html"
+}

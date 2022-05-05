@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Echo Park",
+    "year": 1986,
+    "cast": [
+      "Susan Dey",
+      "Tom Hulce",
+      "Cheech Marin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/echo-park.html"
+}

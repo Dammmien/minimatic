@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Under Arizona Skies",
+    "year": 1946,
+    "cast": [
+      "Johnny Mack Brown",
+      "Reno Browne",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/under-arizona-skies.html"
+}

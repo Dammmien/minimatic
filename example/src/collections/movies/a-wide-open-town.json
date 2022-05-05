@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Wide Open Town",
+    "year": 1922,
+    "cast": [
+      "Conway Tearle",
+      "Faire Binney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-wide-open-town.html"
+}

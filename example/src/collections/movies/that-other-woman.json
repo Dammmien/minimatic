@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "That Other Woman",
+    "year": 1942,
+    "cast": [
+      "Virginia Gilmore",
+      "Janis Carter",
+      "James Ellison"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-other-woman.html"
+}

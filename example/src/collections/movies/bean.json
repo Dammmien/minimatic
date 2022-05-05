@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Bean",
+    "year": 1997,
+    "cast": [
+      "Rowan Atkinson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bean.html"
+}

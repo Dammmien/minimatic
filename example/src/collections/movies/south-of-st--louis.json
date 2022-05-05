@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "South of St. Louis",
+    "year": 1949,
+    "cast": [
+      "Joel McCrea",
+      "Zachary Scott",
+      "Victor Jory"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/south-of-st--louis.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Harold & Kumar Go to White Castle",
+    "year": 2004,
+    "cast": [
+      "John Cho",
+      "Kal Penn",
+      "Neil Patrick Harris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/harold---kumar-go-to-white-castle.html"
+}

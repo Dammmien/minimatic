@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The First Texan",
+    "year": 1956,
+    "cast": [
+      "Joel McCrea",
+      "Felicia Farr",
+      "Jeff Morrow"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-first-texan.html"
+}

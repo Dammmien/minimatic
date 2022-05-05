@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Groomsmen",
+    "year": 2006,
+    "cast": [
+      "Edward Burns",
+      "John Leguizamo",
+      "Matthew Lillard",
+      "Donal Logue"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-groomsmen.html"
+}

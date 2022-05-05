@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fine Manners",
+    "year": 1926,
+    "cast": [
+      "Gloria Swanson",
+      "Eugene O'Brien"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fine-manners.html"
+}

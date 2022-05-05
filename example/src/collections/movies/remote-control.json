@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Remote Control",
+    "year": 1988,
+    "cast": [
+      "Kevin Dillon",
+      "Jennifer Tilly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/remote-control.html"
+}

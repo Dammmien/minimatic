@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Caffeine",
+    "year": 2006,
+    "cast": [
+      "Mena Suvari",
+      "Marsha Thomason",
+      "Katherine Heigl"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/caffeine.html"
+}

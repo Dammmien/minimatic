@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man from Frisco",
+    "year": 1944,
+    "cast": [
+      "Michael O'Shea",
+      "Anne Shirley"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/man-from-frisco.html"
+}

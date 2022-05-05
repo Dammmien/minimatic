@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Battle of San Pietro",
+    "year": 1945,
+    "cast": [
+      "Mark W. Clark",
+      "John Huston",
+      "(narrator)"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-battle-of-san-pietro.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Patch of Blue",
+    "year": 1965,
+    "cast": [
+      "Sidney Poitier",
+      "Elizabeth Hartman",
+      "Shelley Winters"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-patch-of-blue.html"
+}

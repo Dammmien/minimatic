@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Refuge",
+    "year": 1923,
+    "cast": [
+      "Katherine MacDonald",
+      "Hugh Thompson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/refuge.html"
+}

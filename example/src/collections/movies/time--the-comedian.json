@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Time, the Comedian",
+    "year": 1925,
+    "cast": [
+      "Mae Busch",
+      "Lew Cody"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/time--the-comedian.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sierra Baron",
+    "year": 1958,
+    "cast": [
+      "Brian Keith",
+      "Mala Powers",
+      "Rita Gam"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sierra-baron.html"
+}

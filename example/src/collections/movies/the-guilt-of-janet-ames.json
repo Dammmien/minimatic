@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Guilt of Janet Ames",
+    "year": 1947,
+    "cast": [
+      "Rosalind Russell",
+      "Melvyn Douglas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-guilt-of-janet-ames.html"
+}

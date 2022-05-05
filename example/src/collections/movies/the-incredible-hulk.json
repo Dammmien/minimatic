@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Incredible Hulk",
+    "year": 2008,
+    "cast": [
+      "Edward Norton",
+      "Liv Tyler",
+      "Tim Roth",
+      "William Hurt"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/the-incredible-hulk.html"
+}

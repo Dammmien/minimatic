@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Eye of the Cat",
+    "year": 1969,
+    "cast": [
+      "Michael Sarrazin",
+      "Gayle Hunnicutt",
+      "Eleanor Parker"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/eye-of-the-cat.html"
+}

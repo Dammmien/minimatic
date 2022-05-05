@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tampico",
+    "year": 1944,
+    "cast": [
+      "Edward G. Robinson",
+      "Lynn Bari",
+      "Victor McLaglen"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/tampico.html"
+}

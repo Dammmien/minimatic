@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "40 Days and 40 Nights",
+    "year": 2002,
+    "cast": [
+      "Josh Hartnett",
+      "Shannyn Sossamon",
+      "Paulo Costanzo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/40-days-and-40-nights.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Scissors",
+    "year": 1991,
+    "cast": [
+      "Sharon Stone",
+      "Ronny Cox",
+      "Steve Railsback"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/scissors.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Francis Joins the WACS",
+    "year": 1954,
+    "cast": [
+      "Donald O'Connor",
+      "Julie Adams",
+      "Mamie Van Doren"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/francis-joins-the-wacs.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Way Down East",
+    "year": 1935,
+    "cast": [
+      "Henry Fonda",
+      "Rochelle Hudson",
+      "Margaret Hamilton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/way-down-east.html"
+}

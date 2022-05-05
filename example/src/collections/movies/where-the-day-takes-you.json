@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Where the Day Takes You",
+    "year": 1992,
+    "cast": [
+      "Sean Astin",
+      "Lara Flynn Boyle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/where-the-day-takes-you.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Death Wish",
+    "year": 2018,
+    "cast": [
+      "Bruce Willis",
+      "Vincent D'Onofrio",
+      "Dean Norris",
+      "Kimberly Elise",
+      "Mike Epps",
+      "Elisabeth Shue",
+      "Camila Morrone"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/death-wish.html"
+}

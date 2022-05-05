@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Steamboat Round the Bend",
+    "year": 1935,
+    "cast": [
+      "Will Rogers",
+      "Anne Shirley",
+      "Eugene Pallette"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/steamboat-round-the-bend.html"
+}

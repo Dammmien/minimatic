@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "My Favorite Duck",
+    "year": 1942,
+    "cast": [
+      "Porky Pig",
+      "and",
+      "Daffy Duck"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-favorite-duck.html"
+}

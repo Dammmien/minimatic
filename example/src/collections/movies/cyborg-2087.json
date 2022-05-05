@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cyborg 2087",
+    "year": 1966,
+    "cast": [
+      "Michael Rennie",
+      "Karen Steele"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/cyborg-2087.html"
+}

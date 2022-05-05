@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Teeth of the Tiger",
+    "year": 1919,
+    "cast": [
+      "David Powell",
+      "Marguerite Courtot"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-teeth-of-the-tiger.html"
+}

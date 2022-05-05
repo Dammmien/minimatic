@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Foolish Age",
+    "year": 1921,
+    "cast": [
+      "Doris May",
+      "Hallam Cooley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-foolish-age.html"
+}

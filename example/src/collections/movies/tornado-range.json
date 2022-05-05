@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tornado Range",
+    "year": 1948,
+    "cast": [
+      "Eddie Dean",
+      "Roscoe Ates",
+      "Jennifer Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/tornado-range.html"
+}

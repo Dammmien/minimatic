@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Crossed Trails",
+    "year": 1948,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton",
+      "Lynne Carver"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/crossed-trails.html"
+}

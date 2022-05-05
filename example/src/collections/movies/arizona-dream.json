@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Arizona Dream",
+    "year": 1993,
+    "cast": [
+      "Johnny Depp",
+      "Jerry Lewis",
+      "Faye Dunaway"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/arizona-dream.html"
+}

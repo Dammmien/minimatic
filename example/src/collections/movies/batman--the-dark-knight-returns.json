@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Batman: The Dark Knight Returns",
+    "year": 2012,
+    "cast": [
+      "Peter Weller",
+      "Ariel Winter",
+      "David Selby",
+      "Wade Williams"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/batman--the-dark-knight-returns.html"
+}

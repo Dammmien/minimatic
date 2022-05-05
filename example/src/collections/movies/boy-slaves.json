@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Boy Slaves",
+    "year": 1939,
+    "cast": [
+      "Anne Shirley",
+      "Roger Daniel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/boy-slaves.html"
+}

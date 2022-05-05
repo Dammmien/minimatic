@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Walk East on Beacon",
+    "year": 1952,
+    "cast": [
+      "Virginia Gilmore",
+      "George Murphy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/walk-east-on-beacon.html"
+}

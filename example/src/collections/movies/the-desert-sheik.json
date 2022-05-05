@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Desert Sheik",
+    "year": 1924,
+    "cast": [
+      "Wanda Hawley",
+      "Nigel Barrie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-desert-sheik.html"
+}

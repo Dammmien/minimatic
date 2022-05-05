@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Brother to Brother",
+    "year": 2004,
+    "cast": [
+      "Anthony Mackie",
+      "Roger Robinson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/brother-to-brother.html"
+}

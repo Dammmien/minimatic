@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Damn Citizen",
+    "year": 1958,
+    "cast": [
+      "Keith Andes",
+      "Margaret Hayes"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/damn-citizen.html"
+}

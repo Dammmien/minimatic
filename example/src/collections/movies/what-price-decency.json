@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "What Price Decency",
+    "year": 1933,
+    "cast": [
+      "Dorothy Burgess",
+      "Alan Hale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/what-price-decency.html"
+}

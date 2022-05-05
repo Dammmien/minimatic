@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Desperate Adventure",
+    "year": 1938,
+    "cast": [
+      "Ramon Novarro",
+      "Marian Marsh",
+      "Eric Blore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-desperate-adventure.html"
+}

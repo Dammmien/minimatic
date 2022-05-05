@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "War Drums",
+    "year": 1957,
+    "cast": [
+      "Lex Barker",
+      "Joan Taylor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/war-drums.html"
+}

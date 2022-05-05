@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "California Split",
+    "year": 1974,
+    "cast": [
+      "Elliott Gould",
+      "George Segal"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/california-split.html"
+}

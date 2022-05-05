@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Night Riders",
+    "year": 1939,
+    "cast": [
+      "John Wayne",
+      "Ray Corrigan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-night-riders.html"
+}

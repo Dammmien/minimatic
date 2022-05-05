@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Roosevelt in Africa",
+    "year": 1910,
+    "cast": [
+      "Theodore Roosevelt"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/roosevelt-in-africa.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lost Trail",
+    "year": 1945,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton",
+      "Jennifer Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-lost-trail.html"
+}

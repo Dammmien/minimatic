@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Loves of Edgar Allan Poe",
+    "year": 1942,
+    "cast": [
+      "Linda Darnell",
+      "Shepperd Strudwick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-loves-of-edgar-allan-poe.html"
+}

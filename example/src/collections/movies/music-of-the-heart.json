@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Music of the Heart",
+    "year": 1999,
+    "cast": [
+      "Meryl Streep",
+      "Angela Bassett",
+      "Aidan Quinn",
+      "Gloria Estefan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/music-of-the-heart.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Luxury Liner",
+    "year": 1948,
+    "cast": [
+      "Jane Powell",
+      "George Brent"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/luxury-liner.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Girl, a Guy and a Gob",
+    "year": 1941,
+    "cast": [
+      "Lucille Ball",
+      "George Murphy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-girl--a-guy-and-a-gob.html"
+}

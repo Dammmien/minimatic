@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Outlaws' Paradise",
+    "year": 1939,
+    "cast": [
+      "Tim McCoy",
+      "Joan Barclay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/outlaws--paradise.html"
+}

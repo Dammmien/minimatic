@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dark Star",
+    "year": 1919,
+    "cast": [
+      "Marion Davies",
+      "Norman Kerry"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-dark-star.html"
+}

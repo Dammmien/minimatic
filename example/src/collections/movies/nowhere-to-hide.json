@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nowhere to Hide",
+    "year": 1987,
+    "cast": [
+      "Amy Madigan",
+      "Michael Ironside"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/nowhere-to-hide.html"
+}

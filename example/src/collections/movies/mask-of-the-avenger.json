@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mask of the Avenger",
+    "year": 1951,
+    "cast": [
+      "John Derek",
+      "Anthony Quinn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mask-of-the-avenger.html"
+}

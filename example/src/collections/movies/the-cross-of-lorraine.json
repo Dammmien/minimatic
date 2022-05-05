@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cross of Lorraine",
+    "year": 1943,
+    "cast": [
+      "Jean-Pierre Aumont",
+      "Gene Kelly",
+      "Cedric Hardwicke"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-cross-of-lorraine.html"
+}

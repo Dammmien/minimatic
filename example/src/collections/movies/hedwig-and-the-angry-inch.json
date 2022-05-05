@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Hedwig and the Angry Inch",
+    "year": 2001,
+    "cast": [
+      "John Cameron Mitchell",
+      "Miriam Shor",
+      "Stephen Trask",
+      "Theodore Liscinski",
+      "Rob Campbell"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hedwig-and-the-angry-inch.html"
+}

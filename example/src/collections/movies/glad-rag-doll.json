@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Glad Rag Doll",
+    "year": 1929,
+    "cast": [
+      "Dolores Costello",
+      "Ralph Graves"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/glad-rag-doll.html"
+}

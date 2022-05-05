@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wizard of Oz",
+    "year": 1925,
+    "cast": [
+      "Bryant Washburn",
+      "Dorothy Dwan"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/wizard-of-oz.html"
+}

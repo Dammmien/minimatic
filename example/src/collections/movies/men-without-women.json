@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Men Without Women",
+    "year": 1930,
+    "cast": [
+      "Kenneth MacKenna",
+      "Frank Albertson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/men-without-women.html"
+}

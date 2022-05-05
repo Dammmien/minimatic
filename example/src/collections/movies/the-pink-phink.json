@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Pink Phink",
+    "year": 1964,
+    "cast": [
+      "Pink Panther"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-pink-phink.html"
+}

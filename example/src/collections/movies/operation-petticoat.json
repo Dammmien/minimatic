@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Operation Petticoat",
+    "year": 1959,
+    "cast": [
+      "Cary Grant",
+      "Tony Curtis"
+    ],
+    "genres": [
+      "War",
+      "Comedy"
+    ]
+  },
+  "output": "movies/operation-petticoat.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Attack",
+    "year": 1956,
+    "cast": [
+      "Jack Palance",
+      "Eddie Albert",
+      "Lee Marvin"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/attack.html"
+}

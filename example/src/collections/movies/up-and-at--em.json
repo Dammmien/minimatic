@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Up and at 'Em",
+    "year": 1922,
+    "cast": [
+      "Doris May",
+      "Hallam Cooley"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/up-and-at--em.html"
+}

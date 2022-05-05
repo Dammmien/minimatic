@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Crossing Over",
+    "year": 2009,
+    "cast": [
+      "Harrison Ford",
+      "Sean Penn",
+      "Jim Sturgess",
+      "Ashley Judd",
+      "Alice Eve",
+      "Alice Braga",
+      "Cliff Curtis",
+      "Summer Bishil",
+      "Ray Liotta"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/crossing-over.html"
+}

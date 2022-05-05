@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lenny",
+    "year": 1974,
+    "cast": [
+      "Dustin Hoffman",
+      "Valerie Perrine"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/lenny.html"
+}

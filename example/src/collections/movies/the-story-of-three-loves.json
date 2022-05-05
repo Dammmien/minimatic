@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Story of Three Loves",
+    "year": 1953,
+    "cast": [
+      "Pier Angeli",
+      "Kirk Douglas",
+      "Leslie Caron",
+      "Ethel Barrymore",
+      "James Mason",
+      "Farley Granger",
+      "Ricky Nelson"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-story-of-three-loves.html"
+}

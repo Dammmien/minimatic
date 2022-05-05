@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Men with Guns",
+    "year": 1997,
+    "cast": [
+      "Mandy Patinkin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/men-with-guns.html"
+}

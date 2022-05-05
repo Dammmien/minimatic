@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Woman",
+    "year": 1933,
+    "cast": [
+      "Helen Twelvetrees",
+      "Victor Jory"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/my-woman.html"
+}

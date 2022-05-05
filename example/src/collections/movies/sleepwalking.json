@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Sleepwalking",
+    "year": 2008,
+    "cast": [
+      "Nick Stahl",
+      "AnnaSophia Robb",
+      "Charlize Theron",
+      "Woody Harrelson",
+      "Dennis Hopper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sleepwalking.html"
+}

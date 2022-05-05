@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cool World",
+    "year": 1992,
+    "cast": [
+      "Kim Basinger",
+      "Gabriel Byrne",
+      "Brad Pitt"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/cool-world.html"
+}

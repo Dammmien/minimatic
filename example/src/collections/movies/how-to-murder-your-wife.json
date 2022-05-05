@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "How to Murder Your Wife",
+    "year": 1965,
+    "cast": [
+      "Jack Lemmon",
+      "Terry-Thomas",
+      "Virna Lisi"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/how-to-murder-your-wife.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "All About Steve",
+    "year": 2009,
+    "cast": [
+      "Sandra Bullock",
+      "Bradley Cooper",
+      "Thomas Haden Church"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/all-about-steve.html"
+}

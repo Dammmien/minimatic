@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rustlers of the Badlands",
+    "year": 1945,
+    "cast": [
+      "Charles Starrett",
+      "Carla Balenda"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rustlers-of-the-badlands.html"
+}

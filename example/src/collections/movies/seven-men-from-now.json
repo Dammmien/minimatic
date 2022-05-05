@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Seven Men from Now",
+    "year": 1956,
+    "cast": [
+      "Randolph Scott",
+      "Lee Marvin"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/seven-men-from-now.html"
+}

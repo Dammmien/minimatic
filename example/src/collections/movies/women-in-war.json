@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Women in War",
+    "year": 1940,
+    "cast": [
+      "Elsie Janis",
+      "Wendy Barrie",
+      "Patric Knowles"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/women-in-war.html"
+}

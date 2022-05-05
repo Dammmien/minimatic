@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lawless Valley",
+    "year": 1938,
+    "cast": [
+      "George O'Brien",
+      "Kay Sutton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lawless-valley.html"
+}

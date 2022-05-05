@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "54",
+    "year": 1998,
+    "cast": [
+      "Ryan Phillippe",
+      "Salma Hayek",
+      "Mike Myers",
+      "Neve Campbell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/54.html"
+}

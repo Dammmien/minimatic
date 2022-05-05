@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Seven-Ups",
+    "year": 1973,
+    "cast": [
+      "Roy Scheider",
+      "Tony Lo Bianco"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-seven-ups.html"
+}

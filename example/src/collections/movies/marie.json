@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Marie",
+    "year": 1985,
+    "cast": [
+      "Sissy Spacek",
+      "Jeff Daniels",
+      "Keith Szarabajka",
+      "Morgan Freeman"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/marie.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pi",
+    "year": 1998,
+    "cast": [
+      "Mark Margolis",
+      "Pamela Hart",
+      "Sean Gullette"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/pi.html"
+}

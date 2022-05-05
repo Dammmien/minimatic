@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Go Chase Yourself",
+    "year": 1938,
+    "cast": [
+      "Lucille Ball",
+      "Joe Penner",
+      "Fritz Feld"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/go-chase-yourself.html"
+}

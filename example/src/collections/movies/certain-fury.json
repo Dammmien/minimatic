@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Certain Fury",
+    "year": 1985,
+    "cast": [
+      "Tatum O'Neal",
+      "Irene Cara",
+      "Peter Fonda"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/certain-fury.html"
+}

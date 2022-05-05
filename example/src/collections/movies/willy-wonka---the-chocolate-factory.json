@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Willy Wonka & the Chocolate Factory",
+    "year": 1971,
+    "cast": [
+      "Gene Wilder",
+      "Jack Albertson",
+      "Peter Ostrum"
+    ],
+    "genres": [
+      "Musical",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/willy-wonka---the-chocolate-factory.html"
+}

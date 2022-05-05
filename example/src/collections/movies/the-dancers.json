@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Dancers",
+    "year": 1930,
+    "cast": [
+      "Lois Moran",
+      "Phillips Holmes",
+      "Mae Clarke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-dancers.html"
+}

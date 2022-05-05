@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Death at a Funeral",
+    "year": 2010,
+    "cast": [
+      "Loretta Devine",
+      "Peter Dinklage",
+      "Danny Glover",
+      "Regina Hall",
+      "Martin Lawrence",
+      "James Marsden",
+      "Tracy Morgan",
+      "Chris Rock",
+      "Zoe Saldana",
+      "Columbus Short",
+      "Luke Wilson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/death-at-a-funeral.html"
+}

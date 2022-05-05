@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hottie and the Nottie",
+    "year": 2008,
+    "cast": [
+      "Paris Hilton",
+      "Joel David Moore",
+      "Christine Lakin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-hottie-and-the-nottie.html"
+}

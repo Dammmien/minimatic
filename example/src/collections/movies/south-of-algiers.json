@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "South of Algiers",
+    "year": 1953,
+    "cast": [
+      "Van Heflin",
+      "Wanda Hendrix"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/south-of-algiers.html"
+}

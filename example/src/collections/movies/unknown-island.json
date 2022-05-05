@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Unknown Island",
+    "year": 1948,
+    "cast": [
+      "Virginia Grey",
+      "Richard Denning"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/unknown-island.html"
+}

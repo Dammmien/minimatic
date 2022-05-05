@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Carny",
+    "year": 1980,
+    "cast": [
+      "Gary Busey",
+      "Jodie Foster",
+      "Robbie Robertson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/carny.html"
+}

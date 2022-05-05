@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Into the Woods",
+    "year": 2014,
+    "cast": [
+      "Meryl Streep",
+      "Emily Blunt",
+      "James Corden",
+      "Anna Kendrick"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/into-the-woods.html"
+}

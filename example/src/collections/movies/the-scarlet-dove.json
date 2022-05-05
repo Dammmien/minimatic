@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Scarlet Dove",
+    "year": 1928,
+    "cast": [
+      "Lowell Sherman",
+      "Josephine Borio"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-scarlet-dove.html"
+}

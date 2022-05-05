@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cub Reporter's Temptation",
+    "year": 1913,
+    "cast": [
+      "Earle Foxe",
+      "Alice Joyce",
+      "Tom Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-cub-reporter-s-temptation.html"
+}

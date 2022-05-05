@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In Old California",
+    "year": 1942,
+    "cast": [
+      "John Wayne",
+      "Binnie Barnes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/in-old-california.html"
+}

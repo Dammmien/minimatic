@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Wicker Man",
+    "year": 2006,
+    "cast": [
+      "Nicolas Cage",
+      "Ellen Burstyn",
+      "Kate Beahan",
+      "Frances Conroy",
+      "Leelee Sobieski",
+      "Molly Parker",
+      "Diane Delano"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-wicker-man.html"
+}

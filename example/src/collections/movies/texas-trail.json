@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Texas Trail",
+    "year": 1937,
+    "cast": [
+      "William Boyd",
+      "Russell Hayden"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/texas-trail.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Shocking Miss Pilgrim",
+    "year": 1947,
+    "cast": [
+      "Betty Grable",
+      "Dick Haymes",
+      "Anne Revere"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-shocking-miss-pilgrim.html"
+}

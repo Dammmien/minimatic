@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Story of Seabiscuit",
+    "year": 1949,
+    "cast": [
+      "Shirley Temple",
+      "Barry Fitzgerald"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-story-of-seabiscuit.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Goodbye, Columbus",
+    "year": 1969,
+    "cast": [
+      "Richard Benjamin",
+      "Ali MacGraw",
+      "Jack Klugman"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/goodbye--columbus.html"
+}

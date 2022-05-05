@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bye Bye Braverman",
+    "year": 1968,
+    "cast": [
+      "George Segal",
+      "Jack Warden",
+      "Alan King"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bye-bye-braverman.html"
+}

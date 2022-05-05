@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Nona Tapes",
+    "year": 1995,
+    "cast": [
+      "Alice in Chains"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/the-nona-tapes.html"
+}

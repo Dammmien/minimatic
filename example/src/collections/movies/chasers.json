@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Chasers",
+    "year": 1994,
+    "cast": [
+      "Tom Berenger",
+      "William McNamara",
+      "Erika Eleniak",
+      "Gary Busey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/chasers.html"
+}

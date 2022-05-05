@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gangsters of the Frontier",
+    "year": 1944,
+    "cast": [
+      "Dave O'Brien",
+      "Tex Ritter"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gangsters-of-the-frontier.html"
+}

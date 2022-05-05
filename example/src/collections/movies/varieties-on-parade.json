@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Varieties on Parade",
+    "year": 1951,
+    "cast": [
+      "Jackie Coogan",
+      "Tom Neal"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/varieties-on-parade.html"
+}

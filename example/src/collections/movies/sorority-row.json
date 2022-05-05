@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Sorority Row",
+    "year": 2009,
+    "cast": [
+      "Briana Evigan",
+      "Jamie Chung",
+      "Rumer Willis",
+      "Leah Pipes",
+      "Audrina Patridge",
+      "Matt O'Leary",
+      "Julian Morris",
+      "Margo Harshman",
+      "Matt Lanter",
+      "Carrie Fisher"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/sorority-row.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "G.I. Joe: The Movie",
+    "year": 1987,
+    "cast": [
+      "voices of",
+      "Don Johnson",
+      "Burgess Meredith",
+      "Sgt. Slaughter",
+      "Chris Latta",
+      "Michael Bell",
+      "Neil Ross"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/g-i--joe--the-movie.html"
+}

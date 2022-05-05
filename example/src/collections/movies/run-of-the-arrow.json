@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Run of the Arrow",
+    "year": 1957,
+    "cast": [
+      "Rod Steiger",
+      "Brian Keith",
+      "Ralph Meeker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/run-of-the-arrow.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Three Lives of Thomasina",
+    "year": 1964,
+    "cast": [
+      "Patrick McGoohan",
+      "Karen Dotrice"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-three-lives-of-thomasina.html"
+}

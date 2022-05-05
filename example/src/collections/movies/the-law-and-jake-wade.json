@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Law and Jake Wade",
+    "year": 1958,
+    "cast": [
+      "Robert Taylor",
+      "Richard Widmark"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-law-and-jake-wade.html"
+}

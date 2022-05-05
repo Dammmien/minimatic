@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bannerline",
+    "year": 1951,
+    "cast": [
+      "Sally Forrest",
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bannerline.html"
+}

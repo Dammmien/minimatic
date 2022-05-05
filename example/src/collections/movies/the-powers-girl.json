@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Powers Girl",
+    "year": 1943,
+    "cast": [
+      "Carole Landis",
+      "Anne Shirley",
+      "George Murphy",
+      "Benny Goodman",
+      "Peggy Lee"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-powers-girl.html"
+}

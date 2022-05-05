@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mob",
+    "year": 1951,
+    "cast": [
+      "Broderick Crawford",
+      "Betty Buehler"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-mob.html"
+}

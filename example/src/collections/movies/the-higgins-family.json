@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Higgins Family",
+    "year": 1938,
+    "cast": [
+      "James Gleason",
+      "Lucile Gleason",
+      "Lynne Roberts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-higgins-family.html"
+}

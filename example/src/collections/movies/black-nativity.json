@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Black Nativity",
+    "year": 2013,
+    "cast": [
+      "Forest Whitaker",
+      "Angela Bassett",
+      "Tyrese Gibson",
+      "Jacob Latimore",
+      "Mary J. Blige",
+      "Nasir Jones",
+      "Jennifer Hudson"
+    ],
+    "genres": [
+      "Musical",
+      "Drama"
+    ]
+  },
+  "output": "movies/black-nativity.html"
+}

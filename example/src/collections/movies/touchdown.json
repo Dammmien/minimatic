@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Touchdown",
+    "year": 1931,
+    "cast": [
+      "Richard Arlen",
+      "Peggy Shannon"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/touchdown.html"
+}

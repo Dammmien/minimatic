@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Citizen",
+    "year": 2012,
+    "cast": [
+      "Khaled El Nabawy",
+      "Agnes Bruckner",
+      "Rizwan Manji"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-citizen.html"
+}

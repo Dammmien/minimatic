@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Frank & Jesse",
+    "year": 1994,
+    "cast": [
+      "Rob Lowe",
+      "Bill Paxton"
+    ],
+    "genres": [
+      "Western",
+      "Biography"
+    ]
+  },
+  "output": "movies/frank---jesse.html"
+}

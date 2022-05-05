@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Empty Mirror",
+    "year": 1996,
+    "cast": [
+      "Norman Rodway",
+      "Camilla Søeberg"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-empty-mirror.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kickin' It Old Skool",
+    "year": 2007,
+    "cast": [
+      "Jamie Kennedy",
+      "Miguel A. Núñez, Jr.",
+      "Maria Menounos"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kickin--it-old-skool.html"
+}

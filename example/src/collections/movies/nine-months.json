@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Nine Months",
+    "year": 1995,
+    "cast": [
+      "Hugh Grant",
+      "Julianne Moore",
+      "Jeff Goldblum",
+      "Robin Williams",
+      "Tom Arnold",
+      "Joan Cusack"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/nine-months.html"
+}

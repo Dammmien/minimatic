@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Masters of Men",
+    "year": 1923,
+    "cast": [
+      "Earle Williams",
+      "Alice Calhoun",
+      "Cullen Landis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/masters-of-men.html"
+}

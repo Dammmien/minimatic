@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Barbershop",
+    "year": 2002,
+    "cast": [
+      "Ice Cube",
+      "Cedric the Entertainer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/barbershop.html"
+}

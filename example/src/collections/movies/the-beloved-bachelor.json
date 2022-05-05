@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Beloved Bachelor",
+    "year": 1931,
+    "cast": [
+      "Paul Lukas",
+      "Dorothy Jordan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-beloved-bachelor.html"
+}

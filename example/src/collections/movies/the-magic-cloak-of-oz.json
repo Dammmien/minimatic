@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Magic Cloak of Oz",
+    "year": 1914,
+    "cast": [
+      "Juanita Hansen",
+      "Violet MacMillan",
+      "Mildred Harris"
+    ],
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-magic-cloak-of-oz.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hollywood Cavalcade",
+    "year": 1939,
+    "cast": [
+      "Alice Faye",
+      "Don Ameche"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hollywood-cavalcade.html"
+}

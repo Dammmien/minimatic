@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Crashout",
+    "year": 1955,
+    "cast": [
+      "William Bendix",
+      "William Talman",
+      "Arthur Kennedy"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/crashout.html"
+}

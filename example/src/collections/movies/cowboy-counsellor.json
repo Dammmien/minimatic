@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cowboy Counsellor",
+    "year": 1932,
+    "cast": [
+      "Hoot Gibson",
+      "Sheila Bromley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cowboy-counsellor.html"
+}

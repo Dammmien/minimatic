@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Jubal",
+    "year": 1956,
+    "cast": [
+      "Glenn Ford",
+      "Ernest Borgnine",
+      "Felicia Farr",
+      "Rod Steiger"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/jubal.html"
+}

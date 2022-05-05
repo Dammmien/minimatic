@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lighthouse by the Sea",
+    "year": 1924,
+    "cast": [
+      "William Collier Jr.",
+      "Louise Fazenda"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-lighthouse-by-the-sea.html"
+}

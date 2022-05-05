@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Ninja Assassin",
+    "year": 2009,
+    "cast": [
+      "Rain",
+      "Naomie Harris",
+      "Rick Yune",
+      "Ben Miles",
+      "Sho Kosugi",
+      "Sung Kang"
+    ],
+    "genres": [
+      "Action",
+      "Martial Arts"
+    ]
+  },
+  "output": "movies/ninja-assassin.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Compulsion",
+    "year": 1959,
+    "cast": [
+      "Bradford Dillman",
+      "Dean Stockwell",
+      "Diane Varsi",
+      "Orson Welles"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/compulsion.html"
+}

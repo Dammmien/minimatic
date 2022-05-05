@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Song of Old Wyoming",
+    "year": 1945,
+    "cast": [
+      "Eddie Dean",
+      "Sarah Padden"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/song-of-old-wyoming.html"
+}

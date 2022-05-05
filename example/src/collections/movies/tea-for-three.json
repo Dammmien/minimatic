@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tea for Three",
+    "year": 1927,
+    "cast": [
+      "Lew Cody",
+      "Aileen Pringle",
+      "Owen Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tea-for-three.html"
+}

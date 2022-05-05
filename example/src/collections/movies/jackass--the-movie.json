@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jackass: The Movie",
+    "year": 2002,
+    "cast": [
+      "Johnny Knoxville",
+      "Bam Margera",
+      "Chris Pontius",
+      "Steve-O"
+    ],
+    "genres": []
+  },
+  "output": "movies/jackass--the-movie.html"
+}

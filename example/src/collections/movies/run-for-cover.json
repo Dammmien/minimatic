@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Run for Cover",
+    "year": 1955,
+    "cast": [
+      "James Cagney",
+      "Viveca Lindfors",
+      "John Derek"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/run-for-cover.html"
+}

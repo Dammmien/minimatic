@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Side Effects",
+    "year": 2013,
+    "cast": [
+      "Jude Law",
+      "Rooney Mara",
+      "Catherine Zeta-Jones",
+      "Channing Tatum"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/side-effects.html"
+}

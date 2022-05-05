@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Home, Sweet Home",
+    "year": 1914,
+    "cast": [
+      "Earle Foxe",
+      "Henry B. Walthall",
+      "Dorothy Gish"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/home--sweet-home.html"
+}

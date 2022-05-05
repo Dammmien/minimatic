@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Come Next Spring",
+    "year": 1956,
+    "cast": [
+      "Ann Sheridan",
+      "Steve Cochran",
+      "Walter Brennan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/come-next-spring.html"
+}

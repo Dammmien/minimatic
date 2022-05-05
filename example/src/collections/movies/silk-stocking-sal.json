@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silk Stocking Sal",
+    "year": 1924,
+    "cast": [
+      "Evelyn Brent",
+      "Robert Ellis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/silk-stocking-sal.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Road Back",
+    "year": 1937,
+    "cast": [
+      "Slim Summerville",
+      "Andy Devine",
+      "John Emery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-road-back.html"
+}

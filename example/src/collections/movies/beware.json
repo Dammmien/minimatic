@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beware",
+    "year": 1946,
+    "cast": [
+      "Louis Jordan",
+      "Frank L. Wilson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beware.html"
+}

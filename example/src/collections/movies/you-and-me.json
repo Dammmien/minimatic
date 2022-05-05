@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "You and Me",
+    "year": 1938,
+    "cast": [
+      "Sylvia Sidney",
+      "George Raft",
+      "Barton MacLane"
+    ],
+    "genres": [
+      "Crime",
+      "Noir"
+    ]
+  },
+  "output": "movies/you-and-me.html"
+}

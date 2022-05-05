@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Despicable Me 3",
+    "year": 2017,
+    "cast": [
+      "Steve Carell",
+      "Kristen Wiig",
+      "Trey Parker",
+      "Miranda Cosgrove",
+      "Dana Gaier",
+      "Nev Scharrel",
+      "Steve Coogan",
+      "Jenny Slate",
+      "Julie Andrews"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy",
+      "Adventure",
+      "Action"
+    ]
+  },
+  "output": "movies/despicable-me-3.html"
+}

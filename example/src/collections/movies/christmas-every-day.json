@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Christmas Every Day",
+    "year": 1996,
+    "cast": [
+      "Erik von Detten",
+      "Robert Hays",
+      "Bess Armstrong"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/christmas-every-day.html"
+}

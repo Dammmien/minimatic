@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strangers All",
+    "year": 1935,
+    "cast": [
+      "May Robson",
+      "Preston Foster"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/strangers-all.html"
+}

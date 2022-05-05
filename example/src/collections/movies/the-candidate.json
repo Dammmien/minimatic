@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Candidate",
+    "year": 1972,
+    "cast": [
+      "Robert Redford",
+      "Melvyn Douglas",
+      "Peter Boyle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-candidate.html"
+}

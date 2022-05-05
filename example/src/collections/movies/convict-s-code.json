@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Convict's Code",
+    "year": 1939,
+    "cast": [
+      "Sidney Blackmer",
+      "Anne Nagel"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/convict-s-code.html"
+}

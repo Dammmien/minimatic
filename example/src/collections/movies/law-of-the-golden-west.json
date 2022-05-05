@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Law of the Golden West",
+    "year": 1949,
+    "cast": [
+      "Monte Hale",
+      "Gail Davis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/law-of-the-golden-west.html"
+}

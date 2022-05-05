@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tracked to Earth",
+    "year": 1922,
+    "cast": [
+      "Frank Mayo",
+      "Virginia Valli"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/tracked-to-earth.html"
+}

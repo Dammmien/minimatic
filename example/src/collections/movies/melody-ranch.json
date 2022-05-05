@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Melody Ranch",
+    "year": 1940,
+    "cast": [
+      "Gene Autry",
+      "Jimmy Durante",
+      "Ann Miller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/melody-ranch.html"
+}

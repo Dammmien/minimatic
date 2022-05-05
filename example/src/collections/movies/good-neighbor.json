@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Good Neighbor",
+    "year": 2001,
+    "cast": [
+      "Billy Dee Williams",
+      "Danica McKellar",
+      "Tobin Bell"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/good-neighbor.html"
+}

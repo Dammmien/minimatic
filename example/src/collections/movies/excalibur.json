@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Excalibur",
+    "year": 1981,
+    "cast": [
+      "Nigel Terry",
+      "Helen Mirren"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/excalibur.html"
+}

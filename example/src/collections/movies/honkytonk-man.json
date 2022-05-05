@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Honkytonk Man",
+    "year": 1982,
+    "cast": [
+      "Clint Eastwood",
+      "Kyle Eastwood",
+      "Verna Bloom"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/honkytonk-man.html"
+}

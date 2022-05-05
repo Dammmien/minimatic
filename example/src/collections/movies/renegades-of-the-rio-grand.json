@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Renegades of the Rio Grand",
+    "year": 1945,
+    "cast": [
+      "Rod Cameron",
+      "Jennifer Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/renegades-of-the-rio-grand.html"
+}

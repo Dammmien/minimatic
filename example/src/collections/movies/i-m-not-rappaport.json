@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "I'm Not Rappaport",
+    "year": 1996,
+    "cast": [
+      "Walter Matthau",
+      "Ossie Davis",
+      "Amy Irving",
+      "Martha Plimpton",
+      "Craig T. Nelson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-m-not-rappaport.html"
+}

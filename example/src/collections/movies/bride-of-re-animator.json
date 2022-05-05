@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Bride of Re-Animator",
+    "year": 1991,
+    "cast": [
+      "Bruce Abbott"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/bride-of-re-animator.html"
+}

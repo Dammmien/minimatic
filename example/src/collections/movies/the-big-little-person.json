@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Big Little Person",
+    "year": 1919,
+    "cast": [
+      "Mae Marsh",
+      "Rudolph Valentino"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-big-little-person.html"
+}

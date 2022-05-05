@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Wrecking Crew",
+    "year": 1969,
+    "cast": [
+      "Dean Martin",
+      "Elke Sommer",
+      "Nancy Kwan",
+      "Sharon Tate"
+    ],
+    "genres": [
+      "Spy",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-wrecking-crew.html"
+}

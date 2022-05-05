@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jammin' the Blues",
+    "year": 1944,
+    "cast": [
+      "Marie Bryant",
+      "Jo Jones",
+      "Illinois Jacquet"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/jammin--the-blues.html"
+}

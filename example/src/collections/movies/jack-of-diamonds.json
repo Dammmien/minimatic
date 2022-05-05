@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jack of Diamonds",
+    "year": 1967,
+    "cast": [
+      "George Hamilton",
+      "Joseph Cotten"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/jack-of-diamonds.html"
+}

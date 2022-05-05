@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Still Green",
+    "year": 2007,
+    "cast": [
+      "Sarah Jones",
+      "Ryan Kelley",
+      "Douglas Spain"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/still-green.html"
+}

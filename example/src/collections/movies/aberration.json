@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Aberration",
+    "year": 1997,
+    "cast": [
+      "Pamela Gidley"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/aberration.html"
+}

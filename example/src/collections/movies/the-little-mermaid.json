@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Little Mermaid",
+    "year": 1989,
+    "cast": [
+      "voices of",
+      "Jodi Benson",
+      "Pat Carroll",
+      "Buddy Hackett"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-little-mermaid.html"
+}

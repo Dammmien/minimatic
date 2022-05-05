@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hat Check Girl",
+    "year": 1932,
+    "cast": [
+      "Sally Eilers",
+      "Ben Lyon",
+      "Ginger Rogers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hat-check-girl.html"
+}

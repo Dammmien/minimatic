@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "'Gator Bait",
+    "year": 1974,
+    "cast": [
+      "Claudia Jennings"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/-gator-bait.html"
+}

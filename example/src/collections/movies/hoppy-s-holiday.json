@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hoppy's Holiday",
+    "year": 1947,
+    "cast": [
+      "William Boyd",
+      "Andy Clyde"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hoppy-s-holiday.html"
+}

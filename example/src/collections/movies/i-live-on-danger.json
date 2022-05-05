@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Live on Danger",
+    "year": 1942,
+    "cast": [
+      "Chester Morris",
+      "Jean Parker"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/i-live-on-danger.html"
+}

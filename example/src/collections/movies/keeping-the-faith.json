@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Keeping the Faith",
+    "year": 2000,
+    "cast": [
+      "Ben Stiller",
+      "Jenna Elfman",
+      "Edward Norton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/keeping-the-faith.html"
+}

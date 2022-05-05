@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mike",
+    "year": 1926,
+    "cast": [
+      "Sally O'Neil",
+      "William Haines"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mike.html"
+}

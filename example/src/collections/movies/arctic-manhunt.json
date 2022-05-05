@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Arctic Manhunt",
+    "year": 1949,
+    "cast": [
+      "Mikel Conrad",
+      "Carol Thurston"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/arctic-manhunt.html"
+}

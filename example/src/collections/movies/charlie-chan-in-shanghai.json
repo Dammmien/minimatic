@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Charlie Chan in Shanghai",
+    "year": 1935,
+    "cast": [
+      "Warner Oland",
+      "Irene Hervey",
+      "Jon Hall"
+    ],
+    "genres": [
+      "Mystery",
+      "Comedy"
+    ]
+  },
+  "output": "movies/charlie-chan-in-shanghai.html"
+}

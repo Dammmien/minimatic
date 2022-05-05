@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Doolins of Oklahoma",
+    "year": 1949,
+    "cast": [
+      "Randolph Scott",
+      "George Macready",
+      "Louise Allbritton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-doolins-of-oklahoma.html"
+}

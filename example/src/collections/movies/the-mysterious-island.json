@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mysterious Island",
+    "year": 1929,
+    "cast": [
+      "Lionel Barrymore",
+      "Jacqueline Gadsden"
+    ],
+    "genres": [
+      "Adventure",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-mysterious-island.html"
+}

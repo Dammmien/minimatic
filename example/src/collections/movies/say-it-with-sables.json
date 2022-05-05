@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Say It with Sables",
+    "year": 1928,
+    "cast": [
+      "Francis X. Bushman",
+      "Helene Chadwick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/say-it-with-sables.html"
+}

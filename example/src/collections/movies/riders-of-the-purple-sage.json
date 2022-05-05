@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Riders of the Purple Sage",
+    "year": 1996,
+    "cast": [
+      "Ed Harris",
+      "Amy Madigan",
+      "Robin Tunney"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/riders-of-the-purple-sage.html"
+}

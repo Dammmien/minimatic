@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Stuart Little 2",
+    "year": 2002,
+    "cast": [
+      "Geena Davis",
+      "Hugh Laurie",
+      "Jonathan Lipnicki",
+      "Michael J. Fox",
+      "Melanie Griffith",
+      "Nathan Lane",
+      "James Woods",
+      "Steve Zahn"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/stuart-little-2.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gift of Love",
+    "year": 1958,
+    "cast": [
+      "Lauren Bacall",
+      "Robert Stack",
+      "Lorne Greene"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-gift-of-love.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Life of David Gale",
+    "year": 2003,
+    "cast": [
+      "Kevin Spacey",
+      "Kate Winslet",
+      "Laura Linney"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-life-of-david-gale.html"
+}

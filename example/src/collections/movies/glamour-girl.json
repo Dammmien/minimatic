@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Glamour Girl",
+    "year": 1948,
+    "cast": [
+      "Gene Krupa",
+      "Virginia Grey"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/glamour-girl.html"
+}

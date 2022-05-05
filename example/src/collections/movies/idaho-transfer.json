@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Idaho Transfer",
+    "year": 1973,
+    "cast": [
+      "Keith Carradine"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/idaho-transfer.html"
+}

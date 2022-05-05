@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Blume in Love",
+    "year": 1973,
+    "cast": [
+      "George Segal",
+      "Susan Anspach",
+      "Kris Kristofferson",
+      "Shelley Winters"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/blume-in-love.html"
+}

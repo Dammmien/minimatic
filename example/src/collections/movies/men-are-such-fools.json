@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Men Are Such Fools",
+    "year": 1938,
+    "cast": [
+      "Priscilla Lane",
+      "Humphrey Bogart",
+      "Wayne Morris"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/men-are-such-fools.html"
+}

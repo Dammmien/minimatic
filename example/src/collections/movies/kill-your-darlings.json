@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Kill Your Darlings",
+    "year": 2013,
+    "cast": [
+      "Daniel Radcliffe",
+      "Dane DeHaan",
+      "Ben Foster",
+      "Michael C. Hall",
+      "Jack Huston",
+      "Jennifer Jason Leigh",
+      "Elizabeth Olsen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kill-your-darlings.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Breaking the Ice",
+    "year": 1938,
+    "cast": [
+      "Charles Ruggles",
+      "Dolores Costello",
+      "John King"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/breaking-the-ice.html"
+}

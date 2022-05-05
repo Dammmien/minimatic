@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Small Town Girl",
+    "year": 1915,
+    "cast": [
+      "Pauline Bush",
+      "William Lloyd",
+      "Lon Chaney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-small-town-girl.html"
+}

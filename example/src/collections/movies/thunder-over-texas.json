@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thunder Over Texas",
+    "year": 1934,
+    "cast": [
+      "Guinn \"Big Boy\" Williams",
+      "Marion Shilling"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/thunder-over-texas.html"
+}

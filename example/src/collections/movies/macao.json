@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Macao",
+    "year": 1952,
+    "cast": [
+      "Robert Mitchum",
+      "Jane Russell",
+      "William Bendix",
+      "Gloria Grahame"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/macao.html"
+}

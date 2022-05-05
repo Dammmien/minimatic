@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mothers Cry",
+    "year": 1930,
+    "cast": [
+      "Dorothy Peterson",
+      "Helen Chandler",
+      "David Manners"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mothers-cry.html"
+}

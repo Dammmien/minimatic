@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "We Were Strangers",
+    "year": 1949,
+    "cast": [
+      "Jennifer Jones",
+      "John Garfield",
+      "Pedro Armendáriz"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/we-were-strangers.html"
+}

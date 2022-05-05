@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Liz: The Elizabeth Taylor Story",
+    "year": 1995,
+    "cast": [
+      "Sherilyn Fenn",
+      "Angus Macfadyen"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/liz--the-elizabeth-taylor-story.html"
+}

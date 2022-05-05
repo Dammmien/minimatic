@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The White Cliffs of Dover",
+    "year": 1944,
+    "cast": [
+      "Irene Dunne",
+      "Alan Marshal"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-white-cliffs-of-dover.html"
+}

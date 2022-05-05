@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Police Patrol",
+    "year": 1925,
+    "cast": [
+      "James Kirkwood",
+      "Edna Murphy"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-police-patrol.html"
+}

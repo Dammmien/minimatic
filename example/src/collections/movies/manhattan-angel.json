@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Manhattan Angel",
+    "year": 1949,
+    "cast": [
+      "Gloria Jean",
+      "Patricia Barry"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/manhattan-angel.html"
+}

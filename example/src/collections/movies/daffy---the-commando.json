@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daffy – The Commando",
+    "year": 1943,
+    "cast": [
+      "Daffy Duck"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/daffy---the-commando.html"
+}

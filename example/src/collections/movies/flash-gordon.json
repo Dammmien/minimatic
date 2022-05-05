@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Flash Gordon",
+    "year": 1980,
+    "cast": [
+      "Timothy Dalton",
+      "Sam J. Jones",
+      "Max von Sydow",
+      "Melody Anderson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/flash-gordon.html"
+}

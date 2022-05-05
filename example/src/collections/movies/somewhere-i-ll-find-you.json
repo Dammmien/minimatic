@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Somewhere I'll Find You",
+    "year": 1942,
+    "cast": [
+      "Clark Gable",
+      "Lana Turner"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/somewhere-i-ll-find-you.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Who's Been Sleeping in My Bed?",
+    "year": 1963,
+    "cast": [
+      "Dean Martin",
+      "Elizabeth Montgomery",
+      "Carol Burnett",
+      "Richard Conte",
+      "Martin Balsam",
+      "Jill St. John"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/who-s-been-sleeping-in-my-bed-.html"
+}

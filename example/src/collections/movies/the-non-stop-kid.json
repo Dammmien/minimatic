@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Non-Stop Kid",
+    "year": 1918,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-non-stop-kid.html"
+}

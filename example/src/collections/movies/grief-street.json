@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Grief Street",
+    "year": 1931,
+    "cast": [
+      "Barbara Kent",
+      "John Holland",
+      "Dorothy Christy"
+    ],
+    "genres": [
+      "Romance",
+      "Crime",
+      "Mystery"
+    ]
+  },
+  "output": "movies/grief-street.html"
+}

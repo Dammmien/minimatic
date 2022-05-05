@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Old School",
+    "year": 2003,
+    "cast": [
+      "Luke Wilson",
+      "Will Ferrell",
+      "Vince Vaughn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/old-school.html"
+}

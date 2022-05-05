@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Headline Hunters",
+    "year": 1955,
+    "cast": [
+      "Rod Cameron",
+      "Julie Bishop"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/headline-hunters.html"
+}

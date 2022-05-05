@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Scarlet Honeymoon",
+    "year": 1925,
+    "cast": [
+      "Shirley Mason",
+      "Pierre Gendron"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-scarlet-honeymoon.html"
+}

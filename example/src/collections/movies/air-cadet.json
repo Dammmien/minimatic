@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Air Cadet",
+    "year": 1951,
+    "cast": [
+      "Gail Russell",
+      "Stephen McNally"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/air-cadet.html"
+}

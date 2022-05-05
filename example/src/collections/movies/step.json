@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Step",
+    "year": 2017,
+    "cast": [
+      "Blessin Giraldo",
+      "Cori Grainger",
+      "Tayla Solomon",
+      "Gari McIntyre",
+      "Paula Dofat"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/step.html"
+}

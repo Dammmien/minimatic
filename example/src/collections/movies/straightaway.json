@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Straightaway",
+    "year": 1933,
+    "cast": [
+      "Tim McCoy",
+      "Sue Carol"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/straightaway.html"
+}

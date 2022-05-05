@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Swimmer",
+    "year": 1968,
+    "cast": [
+      "Burt Lancaster",
+      "Janice Rule",
+      "Marge Champion"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-swimmer.html"
+}

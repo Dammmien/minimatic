@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Calaboose",
+    "year": 1943,
+    "cast": [
+      "Mary Brian",
+      "Jean Porter"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/calaboose.html"
+}

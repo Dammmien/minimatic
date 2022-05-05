@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Man of the West",
+    "year": 1958,
+    "cast": [
+      "Gary Cooper",
+      "Lee J. Cobb",
+      "Julie London",
+      "Jack Lord",
+      "Arthur O'Connell",
+      "John Dehner"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/man-of-the-west.html"
+}

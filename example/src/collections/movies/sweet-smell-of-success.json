@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sweet Smell of Success",
+    "year": 1957,
+    "cast": [
+      "Burt Lancaster",
+      "Tony Curtis",
+      "Martin Milner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sweet-smell-of-success.html"
+}

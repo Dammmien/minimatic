@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "White Hands",
+    "year": 1922,
+    "cast": [
+      "Hobart Bosworth",
+      "Elinor Fair"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/white-hands.html"
+}

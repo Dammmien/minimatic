@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Vigilantes of Dodge City",
+    "year": 1944,
+    "cast": [
+      "Wild Bill Elliott",
+      "Linda Stirling"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/vigilantes-of-dodge-city.html"
+}

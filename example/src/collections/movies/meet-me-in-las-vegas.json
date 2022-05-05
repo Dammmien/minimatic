@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Meet Me in Las Vegas",
+    "year": 1956,
+    "cast": [
+      "Cyd Charisse",
+      "Dan Dailey"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/meet-me-in-las-vegas.html"
+}

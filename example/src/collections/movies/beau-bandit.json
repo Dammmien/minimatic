@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beau Bandit",
+    "year": 1930,
+    "cast": [
+      "Rod La Rocque",
+      "Doris Kenyon"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/beau-bandit.html"
+}

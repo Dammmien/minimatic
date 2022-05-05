@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sand",
+    "year": 1949,
+    "cast": [
+      "Coleen Gray",
+      "Mark Stevens"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sand.html"
+}

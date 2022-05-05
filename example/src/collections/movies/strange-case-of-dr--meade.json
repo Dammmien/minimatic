@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strange Case of Dr. Meade",
+    "year": 1938,
+    "cast": [
+      "Jack Holt",
+      "Beverly Roberts"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/strange-case-of-dr--meade.html"
+}

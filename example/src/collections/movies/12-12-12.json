@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "12/12/12",
+    "year": 2012,
+    "cast": [
+      "Sara Malakul Lane",
+      "Jesus Guevara",
+      "Steve Hanks",
+      "Carl Donelson",
+      "Laura Ramos"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/12-12-12.html"
+}

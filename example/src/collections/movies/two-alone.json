@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Two Alone",
+    "year": 1934,
+    "cast": [
+      "Tom Brown",
+      "Jean Parker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/two-alone.html"
+}

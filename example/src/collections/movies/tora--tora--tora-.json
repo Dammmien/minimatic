@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Tora! Tora! Tora!",
+    "year": 1970,
+    "cast": [
+      "Jason Robards",
+      "So Yamamura",
+      "Martin Balsam",
+      "Joseph Cotten",
+      "James Whitmore",
+      "E.G. Marshall"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/tora--tora--tora-.html"
+}

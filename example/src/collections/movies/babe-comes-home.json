@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Babe Comes Home",
+    "year": 1927,
+    "cast": [
+      "Babe Ruth",
+      "Anna Q. Nilsson"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/babe-comes-home.html"
+}

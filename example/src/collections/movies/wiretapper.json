@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wiretapper",
+    "year": 1955,
+    "cast": [
+      "Bill Williams",
+      "Douglas Kennedy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wiretapper.html"
+}

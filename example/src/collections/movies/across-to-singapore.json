@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Across to Singapore",
+    "year": 1928,
+    "cast": [
+      "Ramón Novarro",
+      "Joan Crawford"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/across-to-singapore.html"
+}

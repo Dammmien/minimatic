@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Town",
+    "year": 2010,
+    "cast": [
+      "Ben Affleck",
+      "Rebecca Hall",
+      "Jon Hamm",
+      "Blake Lively",
+      "Jeremy Renner",
+      "Titus Welliver",
+      "Pete Postlethwaite",
+      "Chris Cooper",
+      "Slaine"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-town.html"
+}

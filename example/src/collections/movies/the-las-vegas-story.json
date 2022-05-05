@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Las Vegas Story",
+    "year": 1952,
+    "cast": [
+      "Jane Russell",
+      "Vincent Price"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-las-vegas-story.html"
+}

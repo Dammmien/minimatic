@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Li'l Abner",
+    "year": 1959,
+    "cast": [
+      "Peter Palmer",
+      "Leslie Parrish",
+      "Stella Stevens",
+      "Howard St. John",
+      "Stubby Kaye",
+      "Julie Newmar"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/li-l-abner.html"
+}

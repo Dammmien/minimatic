@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Black Windmill",
+    "year": 1974,
+    "cast": [
+      "Michael Caine",
+      "John Vernon"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-black-windmill.html"
+}

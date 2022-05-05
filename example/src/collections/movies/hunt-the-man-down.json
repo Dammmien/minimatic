@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hunt the Man Down",
+    "year": 1952,
+    "cast": [
+      "Gig Young",
+      "Carla Balenda"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/hunt-the-man-down.html"
+}

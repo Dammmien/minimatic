@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Superman: Unbound",
+    "year": 2013,
+    "cast": [
+      "Matt Bomer",
+      "Stana Katic",
+      "John Noble",
+      "Molly Quinn",
+      "Diedrich Bader",
+      "Alexander Gould",
+      "Frances Conroy"
+    ],
+    "genres": [
+      "Animated",
+      "Superhero"
+    ]
+  },
+  "output": "movies/superman--unbound.html"
+}

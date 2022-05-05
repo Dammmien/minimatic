@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Running Scared",
+    "year": 2006,
+    "cast": [
+      "Paul Walker"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/running-scared.html"
+}

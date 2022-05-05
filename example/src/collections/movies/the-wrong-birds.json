@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Wrong Birds",
+    "year": 1914,
+    "cast": [
+      "Edith Borella",
+      "Charlotte Burton",
+      "George Field",
+      "Edward Coxen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wrong-birds.html"
+}

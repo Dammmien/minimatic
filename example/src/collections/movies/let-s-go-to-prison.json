@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Let's Go to Prison",
+    "year": 2006,
+    "cast": [
+      "Will Arnett",
+      "Dax Shepard",
+      "Chi McBride"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-s-go-to-prison.html"
+}

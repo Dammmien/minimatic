@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Safari 3000",
+    "year": 1982,
+    "cast": [
+      "David Carradine",
+      "Stockard Channing"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/safari-3000.html"
+}

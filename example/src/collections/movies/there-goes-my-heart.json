@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "There Goes My Heart",
+    "year": 1938,
+    "cast": [
+      "Fredric March",
+      "Patsy Kelly",
+      "Virginia Bruce"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/there-goes-my-heart.html"
+}

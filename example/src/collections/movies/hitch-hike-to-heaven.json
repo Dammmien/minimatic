@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hitch Hike to Heaven",
+    "year": 1936,
+    "cast": [
+      "Henrietta Crosman",
+      "Herbert Rawlinson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hitch-hike-to-heaven.html"
+}

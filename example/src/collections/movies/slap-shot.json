@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Slap Shot",
+    "year": 1977,
+    "cast": [
+      "Paul Newman",
+      "Strother Martin",
+      "Michael Ontkean",
+      "Lindsay Crouse",
+      "Jennifer Warren",
+      "M. Emmet Walsh"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/slap-shot.html"
+}

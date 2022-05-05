@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Clean and Sober",
+    "year": 1988,
+    "cast": [
+      "Michael Keaton",
+      "Morgan Freeman",
+      "Kathy Baker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/clean-and-sober.html"
+}

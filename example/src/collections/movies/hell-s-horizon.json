@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell's Horizon",
+    "year": 1955,
+    "cast": [
+      "John Ireland",
+      "Marla English"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/hell-s-horizon.html"
+}

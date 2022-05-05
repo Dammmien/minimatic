@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Magic Christmas",
+    "year": 1985,
+    "cast": [
+      "Mary Steenburgen",
+      "Harry Dean Stanton"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/one-magic-christmas.html"
+}

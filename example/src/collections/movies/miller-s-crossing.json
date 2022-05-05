@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Miller's Crossing",
+    "year": 1990,
+    "cast": [
+      "Gabriel Byrne",
+      "Albert Finney",
+      "Marcia Gay Harden",
+      "John Turturro",
+      "Jon Polito"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/miller-s-crossing.html"
+}

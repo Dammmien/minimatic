@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Arrivederci Roma",
+    "year": 1958,
+    "cast": [
+      "Mario Lanza",
+      "Marisa Allasio"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/arrivederci-roma.html"
+}

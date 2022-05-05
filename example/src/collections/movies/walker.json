@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Walker",
+    "year": 1987,
+    "cast": [
+      "Ed Harris",
+      "Marlee Matlin"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/walker.html"
+}

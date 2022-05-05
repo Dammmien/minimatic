@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Silent Witness",
+    "year": 1932,
+    "cast": [
+      "Lionel Atwill",
+      "Greta Nissen",
+      "Helen Mack"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-silent-witness.html"
+}

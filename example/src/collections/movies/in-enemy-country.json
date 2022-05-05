@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In Enemy Country",
+    "year": 1968,
+    "cast": [
+      "Anthony Franciosa",
+      "Anjanette Comer"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/in-enemy-country.html"
+}

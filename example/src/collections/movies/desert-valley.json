@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Desert Valley",
+    "year": 1926,
+    "cast": [
+      "Buck Jones",
+      "Virginia Brown Faire",
+      "Malcolm Waite"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/desert-valley.html"
+}

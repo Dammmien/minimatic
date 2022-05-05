@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Shot in the Dark",
+    "year": 1964,
+    "cast": [
+      "Peter Sellers",
+      "Elke Sommer",
+      "George Sanders"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-shot-in-the-dark.html"
+}

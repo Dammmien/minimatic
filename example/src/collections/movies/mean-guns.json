@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mean Guns",
+    "year": 1997,
+    "cast": [
+      "Ice-T",
+      "Christopher Lambert"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/mean-guns.html"
+}

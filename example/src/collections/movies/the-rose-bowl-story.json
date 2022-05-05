@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Rose Bowl Story",
+    "year": 1952,
+    "cast": [
+      "Marshall Thompson",
+      "Vera Miles"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-rose-bowl-story.html"
+}

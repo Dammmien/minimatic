@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dr. Giggles",
+    "year": 1992,
+    "cast": [
+      "Larry Drake",
+      "Holly Marie Combs",
+      "Cliff DeYoung"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dr--giggles.html"
+}

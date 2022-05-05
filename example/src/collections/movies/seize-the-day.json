@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Seize the Day",
+    "year": 1986,
+    "cast": [
+      "Robin Williams",
+      "Jerry Stiller",
+      "Joseph Wiseman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/seize-the-day.html"
+}

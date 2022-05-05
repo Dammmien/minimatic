@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Seas Beneath",
+    "year": 1931,
+    "cast": [
+      "George O'Brien",
+      "Mona Maris"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/seas-beneath.html"
+}

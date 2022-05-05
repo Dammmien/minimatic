@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Kiss Barrier",
+    "year": 1925,
+    "cast": [
+      "Edmund Lowe",
+      "Claire Adams"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-kiss-barrier.html"
+}

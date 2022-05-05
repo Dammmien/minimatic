@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stolen Hours",
+    "year": 1963,
+    "cast": [
+      "Susan Hayward",
+      "Diane Baker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stolen-hours.html"
+}

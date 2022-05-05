@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last Train from Madrid",
+    "year": 1937,
+    "cast": [
+      "Dorothy Lamour",
+      "Lew Ayres",
+      "Anthony Quinn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-last-train-from-madrid.html"
+}

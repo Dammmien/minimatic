@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Killers",
+    "year": 1964,
+    "cast": [
+      "Lee Marvin",
+      "Angie Dickinson",
+      "John Cassavetes",
+      "Ronald Reagan"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-killers.html"
+}

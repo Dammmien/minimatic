@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Boy Who Cried Werewolf",
+    "year": 1973,
+    "cast": [
+      "Robert J. Wilke"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-boy-who-cried-werewolf.html"
+}

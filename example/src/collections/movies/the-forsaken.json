@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Forsaken",
+    "year": 2001,
+    "cast": [
+      "Kerr Smith",
+      "Brendan Fehr",
+      "Izabella Miko"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-forsaken.html"
+}

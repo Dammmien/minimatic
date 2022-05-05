@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Girl of the Port",
+    "year": 1930,
+    "cast": [
+      "Sally O'Neil",
+      "Mitchell Lewis"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/girl-of-the-port.html"
+}

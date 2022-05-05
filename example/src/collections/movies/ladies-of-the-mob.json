@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ladies of the Mob",
+    "year": 1928,
+    "cast": [
+      "Clara Bow",
+      "Richard Arlen",
+      "Helen Lynch",
+      "Mary Alden"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/ladies-of-the-mob.html"
+}

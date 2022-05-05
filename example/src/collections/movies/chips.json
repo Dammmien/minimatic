@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "CHiPs",
+    "year": 2017,
+    "cast": [
+      "Dax Shepard",
+      "Michael Peña",
+      "Vincent D'Onofrio",
+      "Adam Brody",
+      "Rosa Salazar",
+      "Vida Guerra",
+      "Kristen Bell"
+    ],
+    "genres": [
+      "Comedy",
+      "Action"
+    ]
+  },
+  "output": "movies/chips.html"
+}

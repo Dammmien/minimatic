@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jet Job",
+    "year": 1952,
+    "cast": [
+      "Stanley Clements",
+      "John Litel",
+      "Elena Verdugo"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/jet-job.html"
+}

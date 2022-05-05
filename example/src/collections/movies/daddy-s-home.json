@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Daddy's Home",
+    "year": 2015,
+    "cast": [
+      "Mark Wahlberg",
+      "Will Ferrell",
+      "Linda Cardellini"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/daddy-s-home.html"
+}

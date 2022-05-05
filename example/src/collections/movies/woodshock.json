@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Woodshock",
+    "year": 2017,
+    "cast": [
+      "Kirsten Dunst",
+      "Joe Cole",
+      "Pilou Asbæk",
+      "Lorelei Linklater",
+      "Jack Kilmer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/woodshock.html"
+}

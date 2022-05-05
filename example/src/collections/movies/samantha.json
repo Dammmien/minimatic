@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Samantha",
+    "year": 1992,
+    "cast": [
+      "Martha Plimpton",
+      "Dermot Mulroney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/samantha.html"
+}

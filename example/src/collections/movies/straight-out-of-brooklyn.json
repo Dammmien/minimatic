@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Straight Out of Brooklyn",
+    "year": 1991,
+    "cast": [
+      "Larry Gilliard, Jr.",
+      "Matty Rich"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/straight-out-of-brooklyn.html"
+}

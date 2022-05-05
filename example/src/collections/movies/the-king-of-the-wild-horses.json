@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The King of the Wild Horses",
+    "year": 1924,
+    "cast": [
+      "Edna Murphy",
+      "Charley Chase"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-king-of-the-wild-horses.html"
+}

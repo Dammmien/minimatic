@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "King of the Pecos",
+    "year": 1936,
+    "cast": [
+      "John Wayne",
+      "Muriel Evans"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/king-of-the-pecos.html"
+}

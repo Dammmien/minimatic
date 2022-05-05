@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "13 Fighting Men",
+    "year": 1960,
+    "cast": [
+      "Grant Williams",
+      "Carole Matthews"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/13-fighting-men.html"
+}

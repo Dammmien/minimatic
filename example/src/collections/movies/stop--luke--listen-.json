@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Stop! Luke! Listen!",
+    "year": 1917,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stop--luke--listen-.html"
+}

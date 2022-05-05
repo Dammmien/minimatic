@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Perfect Clown",
+    "year": 1925,
+    "cast": [
+      "Larry Semon",
+      "Dorothy Dwan",
+      "Oliver Hardy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-perfect-clown.html"
+}

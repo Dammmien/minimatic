@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Pecker",
+    "year": 1998,
+    "cast": [
+      "Edward Furlong",
+      "Christina Ricci",
+      "Bess Armstrong",
+      "Mary Kay Place",
+      "Lili Taylor",
+      "Martha Plimpton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pecker.html"
+}

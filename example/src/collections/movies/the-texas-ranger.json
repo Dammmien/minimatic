@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Texas Ranger",
+    "year": 1931,
+    "cast": [
+      "Buck Jones",
+      "Carmelita Geraghty"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-texas-ranger.html"
+}

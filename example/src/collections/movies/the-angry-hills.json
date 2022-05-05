@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Angry Hills",
+    "year": 1959,
+    "cast": [
+      "Robert Mitchum",
+      "Stanley Baker",
+      "Gia Scala"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-angry-hills.html"
+}

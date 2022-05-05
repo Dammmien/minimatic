@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Kickboxer",
+    "year": 1989,
+    "cast": [
+      "Jean-Claude Van Damme"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/kickboxer.html"
+}

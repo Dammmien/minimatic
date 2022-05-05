@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Muppets Take Manhattan",
+    "year": 1984,
+    "cast": [
+      "Jim Henson",
+      "Frank Oz",
+      "Dave Goelz"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-muppets-take-manhattan.html"
+}

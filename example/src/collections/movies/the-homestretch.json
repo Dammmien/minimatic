@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Homestretch",
+    "year": 1947,
+    "cast": [
+      "Cornel Wilde",
+      "Maureen O'Hara"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-homestretch.html"
+}

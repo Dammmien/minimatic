@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Racing with the Moon",
+    "year": 1984,
+    "cast": [
+      "Sean Penn",
+      "Nicolas Cage",
+      "Elizabeth McGovern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/racing-with-the-moon.html"
+}

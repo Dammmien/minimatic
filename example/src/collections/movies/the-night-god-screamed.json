@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Night God Screamed",
+    "year": 1971,
+    "cast": [
+      "Jeanne Crain",
+      "Alex Nicol",
+      "Daniel Spelling",
+      "Michael Sugich",
+      "Barbara Hancock",
+      "Dawn Cleary",
+      "Gary Morgan"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-night-god-screamed.html"
+}

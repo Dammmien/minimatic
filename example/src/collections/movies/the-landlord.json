@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Landlord",
+    "year": 1970,
+    "cast": [
+      "Beau Bridges",
+      "Louis Gossett Jr.",
+      "Lee Grant",
+      "Diana Sands",
+      "Pearl Bailey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-landlord.html"
+}

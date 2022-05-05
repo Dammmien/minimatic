@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "My Boss's Daughter",
+    "year": 2003,
+    "cast": [
+      "Ashton Kutcher",
+      "Tara Reid",
+      "Terence Stamp"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-boss-s-daughter.html"
+}

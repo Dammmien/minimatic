@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Around the World in Eighty Days",
+    "year": 1956,
+    "cast": [
+      "David Niven",
+      "Cantinflas",
+      "Shirley MacLaine",
+      "Robert Newton"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/around-the-world-in-eighty-days.html"
+}

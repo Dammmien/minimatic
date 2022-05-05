@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Wisdom",
+    "year": 1986,
+    "cast": [
+      "Emilio Estevez",
+      "Demi Moore",
+      "Tom Skerritt",
+      "Veronica Cartwright"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/wisdom.html"
+}

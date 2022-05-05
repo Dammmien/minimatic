@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Door in the Floor",
+    "year": 2004,
+    "cast": [
+      "Jeff Bridges",
+      "Kim Basinger",
+      "Jon Foster"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-door-in-the-floor.html"
+}

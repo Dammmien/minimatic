@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Eight Days a Week",
+    "year": 1997,
+    "cast": [
+      "Keri Russell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/eight-days-a-week.html"
+}

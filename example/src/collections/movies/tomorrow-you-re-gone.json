@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tomorrow You're Gone",
+    "year": 2012,
+    "cast": [
+      "Michelle Monaghan",
+      "Willem Dafoe",
+      "Stephen Dorff"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/tomorrow-you-re-gone.html"
+}

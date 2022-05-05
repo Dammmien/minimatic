@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Renegades",
+    "year": 1989,
+    "cast": [
+      "Lou Diamond Phillips",
+      "Kiefer Sutherland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/renegades.html"
+}

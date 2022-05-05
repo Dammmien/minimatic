@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Opposite of Sex",
+    "year": 1998,
+    "cast": [
+      "Christina Ricci",
+      "Martin Donovan",
+      "Lisa Kudrow",
+      "Lyle Lovett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-opposite-of-sex.html"
+}

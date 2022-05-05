@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Extraordinary Measures",
+    "year": 2010,
+    "cast": [
+      "Brendan Fraser",
+      "Harrison Ford",
+      "Keri Russell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/extraordinary-measures.html"
+}

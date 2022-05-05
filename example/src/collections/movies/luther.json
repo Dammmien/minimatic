@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Luther",
+    "year": 1973,
+    "cast": [
+      "Stacy Keach",
+      "Patrick Magee"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/luther.html"
+}

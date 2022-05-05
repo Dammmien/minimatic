@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lured",
+    "year": 1947,
+    "cast": [
+      "Lucille Ball",
+      "Charles Coburn",
+      "Boris Karloff"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/lured.html"
+}

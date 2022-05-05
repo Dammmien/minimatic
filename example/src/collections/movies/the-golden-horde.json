@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Golden Horde",
+    "year": 1951,
+    "cast": [
+      "Ann Blyth",
+      "David Farrar"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/the-golden-horde.html"
+}

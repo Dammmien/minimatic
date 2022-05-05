@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Garment Jungle",
+    "year": 1957,
+    "cast": [
+      "Lee J. Cobb",
+      "Kerwin Mathews",
+      "Gia Scala"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-garment-jungle.html"
+}

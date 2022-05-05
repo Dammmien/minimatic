@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bounty Killer",
+    "year": 2013,
+    "cast": [
+      "Matthew Marsden",
+      "Kristanna Loken",
+      "Beverly D'Angelo"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/bounty-killer.html"
+}

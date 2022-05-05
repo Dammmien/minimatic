@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "War",
+    "year": 2007,
+    "cast": [
+      "Jet Li",
+      "Jason Statham"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/war.html"
+}

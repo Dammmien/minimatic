@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fraulein",
+    "year": 1958,
+    "cast": [
+      "Dana Wynter",
+      "Mel Ferrer",
+      "Dolores Michaels"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fraulein.html"
+}

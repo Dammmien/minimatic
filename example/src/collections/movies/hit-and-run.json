@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Hit and Run",
+    "year": 2012,
+    "cast": [
+      "Dax Shepard",
+      "Kristen Bell",
+      "Bradley Cooper",
+      "Tom Arnold",
+      "Kristin Chenoweth",
+      "Michael Rosenbaum",
+      "Joy Bryant",
+      "Ryan Hansen",
+      "Beau Bridges"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hit-and-run.html"
+}

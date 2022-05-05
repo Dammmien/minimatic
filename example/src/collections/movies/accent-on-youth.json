@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Accent on Youth",
+    "year": 1935,
+    "cast": [
+      "Sylvia Sidney",
+      "Herbert Marshall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/accent-on-youth.html"
+}

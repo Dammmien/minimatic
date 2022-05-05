@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Czar of Black Hollywood",
+    "year": 2014,
+    "cast": [
+      "Oscar Micheaux"
+    ],
+    "genres": [
+      "Biography",
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-czar-of-black-hollywood.html"
+}

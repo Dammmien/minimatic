@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Going! Going! Gone!",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd",
+      "Snub Pollard",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/going--going--gone-.html"
+}

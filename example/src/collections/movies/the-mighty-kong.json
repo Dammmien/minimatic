@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mighty Kong",
+    "year": 1998,
+    "cast": [
+      "Dudley Moore",
+      "Jodi Benson",
+      "William Sage"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-mighty-kong.html"
+}

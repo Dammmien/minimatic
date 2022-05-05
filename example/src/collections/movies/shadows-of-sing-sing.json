@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shadows of Sing Sing",
+    "year": 1933,
+    "cast": [
+      "Mary Brian",
+      "Bruce Cabot"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shadows-of-sing-sing.html"
+}

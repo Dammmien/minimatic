@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crooked Alley",
+    "year": 1923,
+    "cast": [
+      "Thomas Carrigan",
+      "Laura La Plante"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/crooked-alley.html"
+}

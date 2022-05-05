@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Out of the Blue",
+    "year": 1980,
+    "cast": [
+      "Dennis Hopper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/out-of-the-blue.html"
+}

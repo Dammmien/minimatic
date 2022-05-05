@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Don't Go to Sleep",
+    "year": 1982,
+    "cast": [
+      "Valerie Harper",
+      "Dennis Weaver",
+      "Robin Ignico",
+      "Kristen Cumming",
+      "Oliver Robbins",
+      "Ruth Gordon"
+    ],
+    "genres": [
+      "Horror",
+      "Mystery"
+    ]
+  },
+  "output": "movies/don-t-go-to-sleep.html"
+}

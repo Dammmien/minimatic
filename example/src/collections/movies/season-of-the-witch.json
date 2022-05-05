@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Season of the Witch",
+    "year": 2011,
+    "cast": [
+      "Nicolas Cage",
+      "Ron Perlman",
+      "Stephen Campbell Moore",
+      "Claire Foy",
+      "Stephen Graham",
+      "Ulrich Thomsen",
+      "Robert Sheehan",
+      "Christopher Lee"
+    ],
+    "genres": [
+      "Action",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/season-of-the-witch.html"
+}

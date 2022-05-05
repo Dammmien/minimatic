@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mademoiselle Fifi",
+    "year": 1944,
+    "cast": [
+      "Simone Simon",
+      "Kurt Kreuger"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mademoiselle-fifi.html"
+}

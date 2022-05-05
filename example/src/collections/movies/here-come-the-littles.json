@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Here Come the Littles",
+    "year": 1985,
+    "cast": [
+      "Gregg Berger",
+      "Bettina Bush",
+      "Pat Fraley"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/here-come-the-littles.html"
+}

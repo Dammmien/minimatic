@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Shaft",
+    "year": 2000,
+    "cast": [
+      "Samuel L. Jackson",
+      "Vanessa Williams",
+      "Jeffrey Wright",
+      "Richard Roundtree",
+      "Christian Bale"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/shaft.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Who'll Stop the Rain",
+    "year": 1978,
+    "cast": [
+      "Nick Nolte",
+      "Tuesday Weld",
+      "Michael Moriarty",
+      "Anthony Zerbe",
+      "Gail Strickland"
+    ],
+    "genres": [
+      "Drama",
+      "Action"
+    ]
+  },
+  "output": "movies/who-ll-stop-the-rain.html"
+}

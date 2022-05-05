@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Eye",
+    "year": 2008,
+    "cast": [
+      "Jessica Alba"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-eye.html"
+}

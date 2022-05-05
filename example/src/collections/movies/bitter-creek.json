@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bitter Creek",
+    "year": 1954,
+    "cast": [
+      "Bill Elliott",
+      "Beverly Garland"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bitter-creek.html"
+}

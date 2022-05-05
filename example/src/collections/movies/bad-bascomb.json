@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bad Bascomb",
+    "year": 1946,
+    "cast": [
+      "Wallace Beery",
+      "Margaret O'Brien",
+      "Marjorie Main"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bad-bascomb.html"
+}

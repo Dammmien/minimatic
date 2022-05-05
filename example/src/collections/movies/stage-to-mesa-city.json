@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stage to Mesa City",
+    "year": 1947,
+    "cast": [
+      "Lash La Rue",
+      "Jennifer Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/stage-to-mesa-city.html"
+}

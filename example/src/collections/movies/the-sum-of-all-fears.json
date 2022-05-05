@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sum of All Fears",
+    "year": 2002,
+    "cast": [
+      "Ben Affleck",
+      "Morgan Freeman",
+      "James Cromwell"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-sum-of-all-fears.html"
+}

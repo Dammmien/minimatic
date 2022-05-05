@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Saved by the Belle",
+    "year": 1939,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/saved-by-the-belle.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Terminus",
+    "year": 1987,
+    "cast": [
+      "Karen Allen",
+      "Jürgen Prochnow"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/terminus.html"
+}

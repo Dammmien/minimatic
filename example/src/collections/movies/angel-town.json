@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Angel Town",
+    "year": 1990,
+    "cast": [
+      "Olivier Gruner",
+      "Theresa Saldana"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/angel-town.html"
+}

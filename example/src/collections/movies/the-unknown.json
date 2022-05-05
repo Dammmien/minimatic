@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Unknown",
+    "year": 1946,
+    "cast": [
+      "Karen Morley",
+      "Jeff Donnell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-unknown.html"
+}

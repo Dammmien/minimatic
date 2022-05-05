@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Scarlet Hour",
+    "year": 1956,
+    "cast": [
+      "Carol Ohmart",
+      "Tom Tryon"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-scarlet-hour.html"
+}

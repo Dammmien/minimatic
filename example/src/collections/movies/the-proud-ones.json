@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Proud Ones",
+    "year": 1956,
+    "cast": [
+      "Robert Ryan",
+      "Virginia Mayo"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-proud-ones.html"
+}

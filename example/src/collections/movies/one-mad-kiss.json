@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Mad Kiss",
+    "year": 1930,
+    "cast": [
+      "José Mojica",
+      "Mona Maris"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/one-mad-kiss.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Royal Scandal",
+    "year": 1945,
+    "cast": [
+      "Tallulah Bankhead",
+      "Charles Coburn",
+      "Anne Baxter",
+      "Vincent Price"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-royal-scandal.html"
+}

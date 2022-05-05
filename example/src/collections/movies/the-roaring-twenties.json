@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Roaring Twenties",
+    "year": 1939,
+    "cast": [
+      "James Cagney",
+      "Priscilla Lane",
+      "Humphrey Bogart"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-roaring-twenties.html"
+}

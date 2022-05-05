@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ride, Tenderfoot, Ride",
+    "year": 1940,
+    "cast": [
+      "Gene Autry",
+      "Mary Lee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ride--tenderfoot--ride.html"
+}

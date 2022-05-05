@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Faster",
+    "year": 2010,
+    "cast": [
+      "Dwayne Johnson",
+      "Billy Bob Thornton",
+      "Carla Gugino",
+      "Maggie Grace",
+      "Oliver Jackson-Cohen",
+      "Moon Bloodgood"
+    ],
+    "genres": [
+      "Action",
+      "Drama"
+    ]
+  },
+  "output": "movies/faster.html"
+}

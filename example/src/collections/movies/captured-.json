@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Captured!",
+    "year": 1933,
+    "cast": [
+      "Leslie Howard",
+      "Douglas Fairbanks Jr.",
+      "Margaret Lindsay"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/captured-.html"
+}

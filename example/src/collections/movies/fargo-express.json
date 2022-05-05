@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fargo Express",
+    "year": 1933,
+    "cast": [
+      "Ken Maynard",
+      "Helen Mack",
+      "Paul Fix"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fargo-express.html"
+}

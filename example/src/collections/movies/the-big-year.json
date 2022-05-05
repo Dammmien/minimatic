@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "The Big Year",
+    "year": 2011,
+    "cast": [
+      "Steve Martin",
+      "Jack Black",
+      "Owen Wilson",
+      "Rashida Jones",
+      "Anjelica Huston",
+      "Jim Parsons",
+      "Rosamund Pike",
+      "JoBeth Williams",
+      "Brian Dennehy",
+      "Dianne Wiest",
+      "Anthony Anderson",
+      "Tim Blake Nelson",
+      "Kevin Pollak",
+      "Joel McHale"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-big-year.html"
+}

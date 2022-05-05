@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Behind That Curtain",
+    "year": 1929,
+    "cast": [
+      "Warner Baxter",
+      "Lois Moran"
+    ],
+    "genres": [
+      "Mystery",
+      "Drama"
+    ]
+  },
+  "output": "movies/behind-that-curtain.html"
+}

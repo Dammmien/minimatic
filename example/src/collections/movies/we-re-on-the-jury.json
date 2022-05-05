@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "We're on the Jury",
+    "year": 1937,
+    "cast": [
+      "Victor Moore",
+      "Helen Broderick",
+      "Charles Lane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/we-re-on-the-jury.html"
+}

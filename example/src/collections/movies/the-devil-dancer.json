@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Devil Dancer",
+    "year": 1927,
+    "cast": [
+      "Gilda Gray",
+      "Clive Brook",
+      "Anna May Wong"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-devil-dancer.html"
+}

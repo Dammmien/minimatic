@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Magic of Lassie",
+    "year": 1978,
+    "cast": [
+      "James Stewart",
+      "Mickey Rooney",
+      "Pernell Roberts"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-magic-of-lassie.html"
+}

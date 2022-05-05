@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "No Reservations",
+    "year": 2007,
+    "cast": [
+      "Catherine Zeta-Jones",
+      "Aaron Eckhart",
+      "Abigail Breslin"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/no-reservations.html"
+}

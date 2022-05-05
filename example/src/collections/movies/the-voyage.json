@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Voyage",
+    "year": 1974,
+    "cast": [
+      "Sophia Loren",
+      "Richard Burton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-voyage.html"
+}

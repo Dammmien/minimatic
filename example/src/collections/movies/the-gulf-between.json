@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gulf Between",
+    "year": 1917,
+    "cast": [
+      "Grace Darmond",
+      "Niles Welch"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-gulf-between.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder by the Clock",
+    "year": 1931,
+    "cast": [
+      "Lilyan Tashman",
+      "Regis Toomey"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder-by-the-clock.html"
+}

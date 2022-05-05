@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sky Devils",
+    "year": 1932,
+    "cast": [
+      "Spencer Tracy",
+      "Ann Dvorak"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sky-devils.html"
+}

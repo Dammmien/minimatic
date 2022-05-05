@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Test",
+    "year": 2013,
+    "cast": [
+      "Kevin Clarke",
+      "Kristoffer Cusick",
+      "Scott Marlowe",
+      "Matthew Risch",
+      "Damon K. Sperber"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/test.html"
+}

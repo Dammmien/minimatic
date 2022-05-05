@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "100 Pygmies and Andy Panda",
+    "year": 1940,
+    "cast": [
+      "Bernice Hansen",
+      "(voice)",
+      "Dick Nelson",
+      "(voice)"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/100-pygmies-and-andy-panda.html"
+}

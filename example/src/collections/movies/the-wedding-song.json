@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wedding Song",
+    "year": 1925,
+    "cast": [
+      "Leatrice Joy",
+      "Robert Ames",
+      "Charles K. Gerrard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wedding-song.html"
+}

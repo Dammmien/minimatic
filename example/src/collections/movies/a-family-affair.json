@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Family Affair",
+    "year": 1937,
+    "cast": [
+      "Lionel Barrymore",
+      "Spring Byington",
+      "Mickey Rooney"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-family-affair.html"
+}

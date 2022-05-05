@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sweet Memories",
+    "year": 1911,
+    "cast": [
+      "Mary Pickford",
+      "King Baggot"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sweet-memories.html"
+}

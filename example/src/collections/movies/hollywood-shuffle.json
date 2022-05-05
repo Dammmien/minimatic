@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hollywood Shuffle",
+    "year": 1987,
+    "cast": [
+      "Robert Townsend"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hollywood-shuffle.html"
+}

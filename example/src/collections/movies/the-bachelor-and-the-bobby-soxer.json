@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bachelor and the Bobby-Soxer",
+    "year": 1947,
+    "cast": [
+      "Cary Grant",
+      "Shirley Temple",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bachelor-and-the-bobby-soxer.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Of Fox and Hounds",
+    "year": 1940,
+    "cast": [
+      "Willoughby the Dog"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/of-fox-and-hounds.html"
+}

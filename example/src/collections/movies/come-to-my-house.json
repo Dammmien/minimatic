@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Come to My House",
+    "year": 1927,
+    "cast": [
+      "Olive Borden",
+      "Antonio Moreno"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/come-to-my-house.html"
+}

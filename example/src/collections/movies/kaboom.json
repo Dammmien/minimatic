@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Kaboom",
+    "year": 2010,
+    "cast": [
+      "Roxane Mesquida",
+      "Thomas Dekker",
+      "Juno Temple",
+      "Haley Bennett",
+      "James Duval"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/kaboom.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sequoia",
+    "year": 1934,
+    "cast": [
+      "Jean Parker",
+      "Samuel S. Hinds"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/sequoia.html"
+}

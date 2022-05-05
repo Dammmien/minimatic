@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Naked Edge",
+    "year": 1961,
+    "cast": [
+      "Gary Cooper",
+      "Deborah Kerr"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-naked-edge.html"
+}

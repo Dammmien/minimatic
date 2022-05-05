@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Ten Cents a Dance",
+    "year": 1945,
+    "cast": [
+      "Jane Frazee"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/ten-cents-a-dance.html"
+}

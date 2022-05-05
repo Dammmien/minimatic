@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When Gangland Strikes",
+    "year": 1956,
+    "cast": [
+      "Raymond Greenleaf",
+      "Marjie Millar"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/when-gangland-strikes.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Something New",
+    "year": 2006,
+    "cast": [
+      "Sanaa Lathan",
+      "Simon Baker",
+      "Mike Epps",
+      "Donald Faison"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/something-new.html"
+}

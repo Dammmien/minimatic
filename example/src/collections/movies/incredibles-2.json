@@ -1,0 +1,30 @@
+{
+  "data": {
+    "title": "Incredibles 2",
+    "year": 2018,
+    "cast": [
+      "Holly Hunter",
+      "Craig T. Nelson",
+      "Sarah Vowell",
+      "Huck Milner",
+      "Samuel L. Jackson",
+      "Bob Odenkirk",
+      "Catherine Keener",
+      "Brad Bird",
+      "Jonathan Banks",
+      "Michael Bird",
+      "Sophia Bush",
+      "Phil LaMarr",
+      "Paul Eiding",
+      "Bill Wise",
+      "Isabella Rossellini",
+      "John Ratzenberger"
+    ],
+    "genres": [
+      "Superhero",
+      "Family",
+      "Animated"
+    ]
+  },
+  "output": "movies/incredibles-2.html"
+}

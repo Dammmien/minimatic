@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady at Midnight",
+    "year": 1948,
+    "cast": [
+      "Richard Denning",
+      "Frances Rafferty"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/lady-at-midnight.html"
+}

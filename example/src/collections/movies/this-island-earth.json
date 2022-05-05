@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Island Earth",
+    "year": 1955,
+    "cast": [
+      "Rex Reason",
+      "Jeff Morrow",
+      "Faith Domergue"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/this-island-earth.html"
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "The Shape of Water",
+    "year": 2017,
+    "cast": [
+      "Sally Hawkins",
+      "Michael Shannon",
+      "Richard Jenkins",
+      "Doug Jones",
+      "Lauren Lee Smith",
+      "Michael Stuhlbarg",
+      "Octavia Spencer"
+    ],
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-shape-of-water.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sporting Blood",
+    "year": 1940,
+    "cast": [
+      "Robert Young",
+      "Maureen O'Sullivan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sporting-blood.html"
+}

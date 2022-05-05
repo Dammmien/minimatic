@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Young Frankenstein",
+    "year": 1974,
+    "cast": [
+      "Gene Wilder",
+      "Peter Boyle",
+      "Marty Feldman",
+      "Madeline Kahn",
+      "Cloris Leachman",
+      "Teri Garr",
+      "Kenneth Mars",
+      "Gene Hackman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/young-frankenstein.html"
+}

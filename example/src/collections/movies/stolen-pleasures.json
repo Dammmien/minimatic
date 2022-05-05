@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stolen Pleasures",
+    "year": 1927,
+    "cast": [
+      "Helene Chadwick",
+      "Gayne Whitman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stolen-pleasures.html"
+}

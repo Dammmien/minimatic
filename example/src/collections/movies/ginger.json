@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ginger",
+    "year": 1946,
+    "cast": [
+      "Frank Albertson",
+      ".",
+      "Barbara Read"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ginger.html"
+}

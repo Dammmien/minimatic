@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Meet Me in St. Louis",
+    "year": 1944,
+    "cast": [
+      "Judy Garland",
+      "Margaret O'Brien",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/meet-me-in-st--louis.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Earth Is Mine",
+    "year": 1959,
+    "cast": [
+      "Rock Hudson",
+      "Jean Simmons",
+      "Dorothy McGuire"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/this-earth-is-mine.html"
+}

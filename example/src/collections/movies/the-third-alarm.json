@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Third Alarm",
+    "year": 1930,
+    "cast": [
+      "Anita Louise",
+      "Jean Hersholt"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-third-alarm.html"
+}

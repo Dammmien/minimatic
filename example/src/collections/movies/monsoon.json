@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Monsoon",
+    "year": 1952,
+    "cast": [
+      "Ursula Thiess",
+      "Diana Douglas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/monsoon.html"
+}

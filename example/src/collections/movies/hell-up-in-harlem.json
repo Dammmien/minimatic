@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hell Up in Harlem",
+    "year": 1973,
+    "cast": [
+      "Fred Williamson",
+      "Julius Harris",
+      "Gloria Hendry"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/hell-up-in-harlem.html"
+}

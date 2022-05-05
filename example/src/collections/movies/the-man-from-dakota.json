@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man from Dakota",
+    "year": 1940,
+    "cast": [
+      "Wallace Beery",
+      "Dolores del Río"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-from-dakota.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Very Good Young Man",
+    "year": 1919,
+    "cast": [
+      "Bryant Washburn",
+      "Helene Chadwick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-very-good-young-man.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hollywood",
+    "year": 1923,
+    "cast": [
+      "George K. Arthur",
+      "Ruby Lafayette"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hollywood.html"
+}

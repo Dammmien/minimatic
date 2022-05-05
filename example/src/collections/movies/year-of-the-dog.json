@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Year of the Dog",
+    "year": 2007,
+    "cast": [
+      "Molly Shannon",
+      "Laura Dern"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/year-of-the-dog.html"
+}

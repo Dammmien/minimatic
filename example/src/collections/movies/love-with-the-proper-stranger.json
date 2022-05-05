@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love with the Proper Stranger",
+    "year": 1963,
+    "cast": [
+      "Natalie Wood",
+      "Steve McQueen",
+      "Edie Adams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-with-the-proper-stranger.html"
+}

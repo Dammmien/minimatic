@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Crack in the Mirror",
+    "year": 1960,
+    "cast": [
+      "Orson Welles",
+      "Juliette Gréco",
+      "Bradford Dillman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/crack-in-the-mirror.html"
+}

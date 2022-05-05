@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Critical Condition",
+    "year": 1987,
+    "cast": [
+      "Richard Pryor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/critical-condition.html"
+}

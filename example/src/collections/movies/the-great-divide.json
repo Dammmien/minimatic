@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Divide",
+    "year": 1929,
+    "cast": [
+      "Dorothy Mackaill",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-great-divide.html"
+}

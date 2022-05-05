@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Angie",
+    "year": 1994,
+    "cast": [
+      "Geena Davis",
+      "Stephen Rea",
+      "James Gandolfini",
+      "Aida Turturro"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/angie.html"
+}

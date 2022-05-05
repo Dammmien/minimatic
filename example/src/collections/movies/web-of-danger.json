@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Web of Danger",
+    "year": 1947,
+    "cast": [
+      "Adele Mara",
+      "Bill Kennedy"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/web-of-danger.html"
+}

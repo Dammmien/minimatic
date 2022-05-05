@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Oh in Ohio",
+    "year": 2006,
+    "cast": [
+      "Parker Posey",
+      "Paul Rudd",
+      "Danny DeVito",
+      "Mischa Barton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-oh-in-ohio.html"
+}

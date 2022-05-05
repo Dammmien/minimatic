@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Paper Man",
+    "year": 2010,
+    "cast": [
+      "Jeff Daniels",
+      "Emma Stone",
+      "Ryan Reynolds",
+      "Lisa Kudrow"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/paper-man.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Honeymoon Killers",
+    "year": 1970,
+    "cast": [
+      "Shirley Stoler",
+      "Tony LoBianco"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-honeymoon-killers.html"
+}

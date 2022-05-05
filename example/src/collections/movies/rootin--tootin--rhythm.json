@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rootin' Tootin' Rhythm",
+    "year": 1937,
+    "cast": [
+      "Gene Autry",
+      "Monte Blue",
+      "Armida"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rootin--tootin--rhythm.html"
+}

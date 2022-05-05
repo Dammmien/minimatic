@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder in the Clouds",
+    "year": 1934,
+    "cast": [
+      "Lyle Talbot",
+      "Ann Dvorak"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder-in-the-clouds.html"
+}

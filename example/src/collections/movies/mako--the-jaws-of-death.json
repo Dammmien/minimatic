@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mako: The Jaws of Death",
+    "year": 1976,
+    "cast": [
+      "Richard Jaeckel",
+      "Jennifer Bishop"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/mako--the-jaws-of-death.html"
+}

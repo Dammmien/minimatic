@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cowboy in Manhattan",
+    "year": 1943,
+    "cast": [
+      "Frances Langford",
+      "Robert Paige",
+      "Leon Errol"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cowboy-in-manhattan.html"
+}

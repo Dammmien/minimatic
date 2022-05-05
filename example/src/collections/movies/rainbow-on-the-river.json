@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rainbow on the River",
+    "year": 1936,
+    "cast": [
+      "Bobby Breen",
+      "May Robson",
+      "Charles Butterworth"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/rainbow-on-the-river.html"
+}

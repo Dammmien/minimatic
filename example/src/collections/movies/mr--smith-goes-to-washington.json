@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Smith Goes to Washington",
+    "year": 1939,
+    "cast": [
+      "James Stewart",
+      "Jean Arthur",
+      "Claude Rains"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mr--smith-goes-to-washington.html"
+}

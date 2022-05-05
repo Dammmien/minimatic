@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mad Game",
+    "year": 1933,
+    "cast": [
+      "Spencer Tracy",
+      "Claire Trevor",
+      "J. Carrol Naish"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mad-game.html"
+}

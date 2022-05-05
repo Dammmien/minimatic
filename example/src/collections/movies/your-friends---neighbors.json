@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Your Friends & Neighbors",
+    "year": 1998,
+    "cast": [
+      "Amy Brenneman",
+      "Aaron Eckhart",
+      "Nastassja Kinski",
+      "Jason Patric",
+      "Catherine Keener",
+      "Ben Stiller"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/your-friends---neighbors.html"
+}

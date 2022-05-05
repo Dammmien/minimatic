@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Part Time Wife",
+    "year": 1925,
+    "cast": [
+      "Alice Calhoun",
+      "Robert Ellis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-part-time-wife.html"
+}

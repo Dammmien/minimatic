@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wings of Eagles",
+    "year": 1957,
+    "cast": [
+      "John Wayne",
+      "Maureen O'Hara",
+      "Dan Dailey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wings-of-eagles.html"
+}

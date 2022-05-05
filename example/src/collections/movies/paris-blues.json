@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paris Blues",
+    "year": 1961,
+    "cast": [
+      "Sidney Poitier",
+      "Paul Newman",
+      "Joanne Woodward"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/paris-blues.html"
+}

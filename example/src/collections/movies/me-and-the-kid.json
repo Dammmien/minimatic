@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Me and the Kid",
+    "year": 1993,
+    "cast": [
+      "Danny Aiello",
+      "Joe Pantoliano",
+      "Ben Stein"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/me-and-the-kid.html"
+}

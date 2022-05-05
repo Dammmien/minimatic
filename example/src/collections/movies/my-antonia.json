@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Antonia",
+    "year": 1995,
+    "cast": [
+      "Jason Robards",
+      "Eva Marie Saint",
+      "Neil Patrick Harris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-antonia.html"
+}

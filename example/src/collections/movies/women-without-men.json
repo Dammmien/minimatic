@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Women Without Men",
+    "year": 1956,
+    "cast": [
+      "Beverly Michaels",
+      "Joan Rice"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/women-without-men.html"
+}

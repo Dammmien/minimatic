@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Salute to the Marines",
+    "year": 1943,
+    "cast": [
+      "Wallace Beery",
+      "Fay Bainter"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/salute-to-the-marines.html"
+}

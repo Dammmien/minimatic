@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hi, Mom!",
+    "year": 1970,
+    "cast": [
+      "Robert De Niro",
+      "Allen Garfield"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hi--mom-.html"
+}

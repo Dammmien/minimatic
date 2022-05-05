@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Hotel for Dogs",
+    "year": 2009,
+    "cast": [
+      "Emma Roberts",
+      "Jake T. Austin",
+      "Kyla Pratt",
+      "Don Cheadle",
+      "Lisa Kudrow",
+      "Kevin Dillon"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/hotel-for-dogs.html"
+}

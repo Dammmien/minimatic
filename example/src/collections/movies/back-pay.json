@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Back Pay",
+    "year": 1930,
+    "cast": [
+      "Corinne Griffith",
+      "Grant Withers",
+      "Vivien Oakland"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/back-pay.html"
+}

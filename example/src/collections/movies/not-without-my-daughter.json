@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Not Without My Daughter",
+    "year": 1991,
+    "cast": [
+      "Sally Field",
+      "Alfred Molina"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/not-without-my-daughter.html"
+}

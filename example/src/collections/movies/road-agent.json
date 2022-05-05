@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Road Agent",
+    "year": 1952,
+    "cast": [
+      "Tim Holt",
+      "Dorothy Patrick"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/road-agent.html"
+}

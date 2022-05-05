@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Strange Adventure",
+    "year": 1956,
+    "cast": [
+      "Joan Evans",
+      "Ben Cooper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-strange-adventure.html"
+}

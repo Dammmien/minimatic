@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Silver Bullet",
+    "year": 1935,
+    "cast": [
+      "Tom Tyler",
+      "Jayne Regan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-silver-bullet.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tough Guys",
+    "year": 1986,
+    "cast": [
+      "Burt Lancaster",
+      "Kirk Douglas",
+      "Eli Wallach",
+      "Dana Carvey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tough-guys.html"
+}

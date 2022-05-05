@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Trial and Error",
+    "year": 1997,
+    "cast": [
+      "Michael Richards",
+      "Jeff Daniels",
+      "Charlize Theron"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/trial-and-error.html"
+}

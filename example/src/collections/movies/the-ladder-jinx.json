@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ladder Jinx",
+    "year": 1922,
+    "cast": [
+      "Edward Everett Horton",
+      "Margaret Landis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ladder-jinx.html"
+}

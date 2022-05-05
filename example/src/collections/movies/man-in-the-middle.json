@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man in the Middle",
+    "year": 1964,
+    "cast": [
+      "Robert Mitchum",
+      "France Nuyen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/man-in-the-middle.html"
+}

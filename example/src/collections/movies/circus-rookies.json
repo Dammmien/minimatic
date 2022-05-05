@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Circus Rookies",
+    "year": 1928,
+    "cast": [
+      "Karl Dane",
+      "George K. Arthur"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/circus-rookies.html"
+}

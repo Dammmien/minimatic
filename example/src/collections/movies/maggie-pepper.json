@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Maggie Pepper",
+    "year": 1919,
+    "cast": [
+      "Ethel Clayton",
+      "Elliott Dexter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/maggie-pepper.html"
+}

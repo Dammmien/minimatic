@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gertie the Dinosaur",
+    "year": 1914,
+    "cast": [
+      "Winsor McCay",
+      "George McManus"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/gertie-the-dinosaur.html"
+}

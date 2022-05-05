@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dying Gaul",
+    "year": 2005,
+    "cast": [
+      "Patricia Clarkson",
+      "Peter Sarsgaard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-dying-gaul.html"
+}

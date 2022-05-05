@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Elizabethtown",
+    "year": 2005,
+    "cast": [
+      "Orlando Bloom",
+      "Kirsten Dunst",
+      "Susan Sarandon",
+      "Alec Baldwin",
+      "Jessica Biel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/elizabethtown.html"
+}

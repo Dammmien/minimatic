@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Luck o' the Foolish",
+    "year": 1924,
+    "cast": [
+      "Harry Langdon",
+      "Marceline Day",
+      "Frank J. Coleman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-luck-o--the-foolish.html"
+}

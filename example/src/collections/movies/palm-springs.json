@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Palm Springs",
+    "year": 1936,
+    "cast": [
+      "Frances Langford",
+      "Guy Standing"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/palm-springs.html"
+}

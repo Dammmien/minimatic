@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Big Bird Cage",
+    "year": 1972,
+    "cast": [
+      "Pam Grier",
+      "Anitra Ford",
+      "Sid Haig"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-big-bird-cage.html"
+}

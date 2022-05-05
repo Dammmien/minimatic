@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Serpent's Egg",
+    "year": 1977,
+    "cast": [
+      "Liv Ullmann",
+      "David Carradine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-serpent-s-egg.html"
+}

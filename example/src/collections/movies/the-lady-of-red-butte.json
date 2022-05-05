@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lady of Red Butte",
+    "year": 1919,
+    "cast": [
+      "Dorothy Dalton",
+      "Tully Marshall"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-lady-of-red-butte.html"
+}

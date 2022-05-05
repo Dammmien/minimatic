@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Runaway Jury",
+    "year": 2003,
+    "cast": [
+      "John Cusack",
+      "Gene Hackman",
+      "Dustin Hoffman",
+      "Rachel Weisz"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/runaway-jury.html"
+}

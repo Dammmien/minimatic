@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fresh",
+    "year": 1994,
+    "cast": [
+      "Sean Nelson",
+      "Samuel L. Jackson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fresh.html"
+}

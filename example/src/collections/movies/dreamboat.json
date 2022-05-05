@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dreamboat",
+    "year": 1952,
+    "cast": [
+      "Clifton Webb",
+      "Ginger Rogers",
+      "Anne Francis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dreamboat.html"
+}

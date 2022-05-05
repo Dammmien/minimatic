@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Too Much Business",
+    "year": 1922,
+    "cast": [
+      "Edward Everett Horton",
+      "Ethel Grey Terry"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/too-much-business.html"
+}

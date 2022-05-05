@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "We're Rich Again",
+    "year": 1934,
+    "cast": [
+      "Billie Burke",
+      "Edna May Oliver",
+      "Buster Crabbe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/we-re-rich-again.html"
+}

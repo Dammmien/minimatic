@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cooley High",
+    "year": 1975,
+    "cast": [
+      "Lawrence Hilton-Jacobs",
+      "Glynn Turman",
+      "Garrett Morris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cooley-high.html"
+}

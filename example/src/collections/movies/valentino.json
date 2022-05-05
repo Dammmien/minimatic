@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Valentino",
+    "year": 1977,
+    "cast": [
+      "Rudolf Nureyev",
+      "Leslie Caron",
+      "Carol Kane"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/valentino.html"
+}

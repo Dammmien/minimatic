@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Deception",
+    "year": 1926,
+    "cast": [
+      "Ben Lyon",
+      "Aileen Pringle",
+      "Basil Rathbone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-great-deception.html"
+}

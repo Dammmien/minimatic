@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gauntlet",
+    "year": 1977,
+    "cast": [
+      "Clint Eastwood",
+      "Pat Hingle",
+      "Sondra Locke"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-gauntlet.html"
+}

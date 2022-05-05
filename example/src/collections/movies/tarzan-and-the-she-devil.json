@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tarzan and the She-Devil",
+    "year": 1953,
+    "cast": [
+      "Lex Barker",
+      "Joyce MacKenzie",
+      "Tom Conway"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-and-the-she-devil.html"
+}

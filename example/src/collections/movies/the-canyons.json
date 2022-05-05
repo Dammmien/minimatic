@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Canyons",
+    "year": 2013,
+    "cast": [
+      "Lindsay Lohan",
+      "James Deen",
+      "Nolan Gerard Funk",
+      "Amanda Brooks",
+      "Tenille Houston",
+      "Gus Van Sant"
+    ],
+    "genres": [
+      "Erotic",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-canyons.html"
+}

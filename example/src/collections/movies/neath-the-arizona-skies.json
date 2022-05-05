@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Neath the Arizona Skies",
+    "year": 1934,
+    "cast": [
+      "John Wayne",
+      "Sheila Terry"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/neath-the-arizona-skies.html"
+}

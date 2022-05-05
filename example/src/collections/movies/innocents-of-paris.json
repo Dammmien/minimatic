@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Innocents of Paris",
+    "year": 1929,
+    "cast": [
+      "Maurice Chevalier",
+      "Sylvia Beecher"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/innocents-of-paris.html"
+}

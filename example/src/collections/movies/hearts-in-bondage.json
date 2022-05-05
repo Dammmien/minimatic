@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hearts in Bondage",
+    "year": 1936,
+    "cast": [
+      "James Dunn",
+      "Mae Clarke",
+      "David Manners"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/hearts-in-bondage.html"
+}

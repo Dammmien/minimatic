@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Eleni",
+    "year": 1985,
+    "cast": [
+      "Kate Nelligan",
+      "John Malkovich",
+      "Linda Hunt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/eleni.html"
+}

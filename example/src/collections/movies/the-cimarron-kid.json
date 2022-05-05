@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cimarron Kid",
+    "year": 1952,
+    "cast": [
+      "Audie Murphy",
+      "Beverly Tyler"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-cimarron-kid.html"
+}

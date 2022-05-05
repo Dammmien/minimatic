@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Skeleton Twins",
+    "year": 2014,
+    "cast": [
+      "Kristen Wiig",
+      "Bill Hader",
+      "Luke Wilson",
+      "Ty Burrell"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-skeleton-twins.html"
+}

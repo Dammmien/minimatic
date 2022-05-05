@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hell Hunters",
+    "year": 1986,
+    "cast": [
+      "Maud Adams",
+      "Stewart Granger",
+      "Candice Daly"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/hell-hunters.html"
+}

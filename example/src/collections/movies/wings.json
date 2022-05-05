@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wings",
+    "year": 1927,
+    "cast": [
+      "Clara Bow",
+      "Charles \"Buddy\" Rogers",
+      "Richard Arlen",
+      "Jobyna Ralston"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/wings.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rubber Racketeers",
+    "year": 1942,
+    "cast": [
+      "Rochelle Hudson",
+      "Ricardo Cortez"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/rubber-racketeers.html"
+}

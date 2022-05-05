@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Beauty and the Beast 3D",
+    "year": 2012,
+    "cast": [
+      "Paige O'Hara",
+      "Robby Benson",
+      "Richard White",
+      "Jerry Orbach",
+      "David Ogden Stiers",
+      "Angela Lansbury",
+      "Bradley Pierce",
+      "Rex Everhart",
+      "Jesse Corti",
+      "Hal Smith",
+      "Jo Anne Worley"
+    ],
+    "genres": [
+      "Family",
+      "Animated",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/beauty-and-the-beast-3d.html"
+}

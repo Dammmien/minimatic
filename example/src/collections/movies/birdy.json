@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Birdy",
+    "year": 1984,
+    "cast": [
+      "Matthew Modine",
+      "Nicolas Cage"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/birdy.html"
+}

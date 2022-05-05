@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Ice Age: Dawn of the Dinosaurs",
+    "year": 2009,
+    "cast": [
+      "Ray Romano",
+      "John Leguizamo",
+      "Denis Leary",
+      "Queen Latifah",
+      "Josh Peck",
+      "Simon Pegg"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/ice-age--dawn-of-the-dinosaurs.html"
+}

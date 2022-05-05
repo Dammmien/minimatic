@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Never Let Me Go",
+    "year": 2010,
+    "cast": [
+      "Carey Mulligan",
+      "Andrew Garfield",
+      "Keira Knightley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/never-let-me-go.html"
+}

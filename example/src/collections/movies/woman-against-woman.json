@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Woman Against Woman",
+    "year": 1938,
+    "cast": [
+      "Herbert Marshall",
+      "Virginia Bruce",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/woman-against-woman.html"
+}

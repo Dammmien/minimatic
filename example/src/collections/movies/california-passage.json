@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "California Passage",
+    "year": 1950,
+    "cast": [
+      "Forrest Tucker",
+      "Adele Mara"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/california-passage.html"
+}

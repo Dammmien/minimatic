@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Three Stooges in Orbit",
+    "year": 1962,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-three-stooges-in-orbit.html"
+}

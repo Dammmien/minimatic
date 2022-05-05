@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Escape Me Never",
+    "year": 1947,
+    "cast": [
+      "Errol Flynn",
+      "Ida Lupino"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/escape-me-never.html"
+}

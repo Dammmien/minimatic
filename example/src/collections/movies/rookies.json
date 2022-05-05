@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rookies",
+    "year": 1927,
+    "cast": [
+      "Karl Dane",
+      "George K. Arthur",
+      "Marceline Day"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rookies.html"
+}

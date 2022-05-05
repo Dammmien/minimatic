@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Alias a Gentleman",
+    "year": 1948,
+    "cast": [
+      "Wallace Beery",
+      "Dorothy Patrick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/alias-a-gentleman.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sons of the Desert",
+    "year": 1933,
+    "cast": [
+      "Stan Laurel",
+      "Oliver Hardy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sons-of-the-desert.html"
+}

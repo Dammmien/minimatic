@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sea Tiger",
+    "year": 1952,
+    "cast": [
+      "Marguerite Chapman",
+      "Mara Corday"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sea-tiger.html"
+}

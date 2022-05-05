@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Your Cheatin' Heart",
+    "year": 1964,
+    "cast": [
+      "George Hamilton",
+      "Susan Oliver",
+      "Red Buttons"
+    ],
+    "genres": [
+      "Musical",
+      "Biography"
+    ]
+  },
+  "output": "movies/your-cheatin--heart.html"
+}

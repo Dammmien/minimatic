@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Cloverfield",
+    "year": 2008,
+    "cast": [
+      "Michael Stahl-David",
+      "Mike Vogel",
+      "Odette Yustman",
+      "Lizzy Caplan"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ]
+  },
+  "output": "movies/cloverfield.html"
+}

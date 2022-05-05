@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Flirting with Disaster",
+    "year": 1996,
+    "cast": [
+      "Ben Stiller",
+      "Téa Leoni",
+      "Patricia Arquette",
+      "Alan Alda",
+      "Mary Tyler Moore",
+      "George Segal",
+      "Lily Tomlin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/flirting-with-disaster.html"
+}

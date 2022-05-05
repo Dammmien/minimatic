@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The All American",
+    "year": 1953,
+    "cast": [
+      "Tony Curtis",
+      "Lori Nelson",
+      "Mamie Van Doren"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-all-american.html"
+}

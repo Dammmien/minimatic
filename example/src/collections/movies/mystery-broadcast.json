@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mystery Broadcast",
+    "year": 1943,
+    "cast": [
+      "Ruth Terry",
+      "Frank Albertson"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/mystery-broadcast.html"
+}

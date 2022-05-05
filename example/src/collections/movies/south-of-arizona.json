@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "South of Arizona",
+    "year": 1938,
+    "cast": [
+      "Charles Starrett",
+      "Iris Meredith"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/south-of-arizona.html"
+}

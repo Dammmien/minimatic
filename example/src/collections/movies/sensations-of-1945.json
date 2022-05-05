@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Sensations of 1945",
+    "year": 1944,
+    "cast": [
+      "Eleanor Powell",
+      "Dennis O'Keefe",
+      "W. C. Fields",
+      "Sophie Tucker",
+      "Cab Callaway",
+      "Woody Herman"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/sensations-of-1945.html"
+}

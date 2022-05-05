@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Desperate Game",
+    "year": 1926,
+    "cast": [
+      "Pete Morrison",
+      "Lew Meehan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-desperate-game.html"
+}

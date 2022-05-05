@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lost in the Stars",
+    "year": 1974,
+    "cast": [
+      "Brock Peters",
+      "Melba Moore",
+      "Clifton Davis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lost-in-the-stars.html"
+}

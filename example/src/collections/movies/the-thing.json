@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "The Thing",
+    "year": 2011,
+    "cast": [
+      "Mary Elizabeth Winstead",
+      "Joel Edgerton",
+      "Ulrich Thomsen",
+      "Adewale Akinnuoye-Agbaje",
+      "Eric Christian Olsen",
+      "Kim Bubbs",
+      "Jørgen Langhelle",
+      "Jonathan Lloyd Walker",
+      "Trond Espen Seim",
+      "Stig Henrik Hoff",
+      "Carsten Bjørnlund",
+      "Jan Gunnar Røise",
+      "Paul Braunstein"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-thing.html"
+}

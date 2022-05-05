@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bandits of the Badlands",
+    "year": 1945,
+    "cast": [
+      "Sunset Carson",
+      "Peggy Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bandits-of-the-badlands.html"
+}

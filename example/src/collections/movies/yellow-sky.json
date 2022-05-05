@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Yellow Sky",
+    "year": 1948,
+    "cast": [
+      "Gregory Peck",
+      "Richard Widmark",
+      "Anne Baxter"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/yellow-sky.html"
+}

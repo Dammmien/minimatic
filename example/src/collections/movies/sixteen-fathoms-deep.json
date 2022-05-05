@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sixteen Fathoms Deep",
+    "year": 1948,
+    "cast": [
+      "Lloyd Bridges",
+      "Lon Chaney Jr."
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/sixteen-fathoms-deep.html"
+}

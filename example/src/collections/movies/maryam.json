@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Maryam",
+    "year": 2000,
+    "cast": [
+      "Mariam Parris",
+      "Shaun Toub",
+      "Shohreh Aghdashloo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/maryam.html"
+}

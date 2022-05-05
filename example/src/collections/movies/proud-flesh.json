@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Proud Flesh",
+    "year": 1925,
+    "cast": [
+      "Eleanor Boardman",
+      "Pat O'Malley"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/proud-flesh.html"
+}

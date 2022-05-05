@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Plot Thickens",
+    "year": 1936,
+    "cast": [
+      "James Gleason",
+      "ZaSu Pitts",
+      "Louise Latimer"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-plot-thickens.html"
+}

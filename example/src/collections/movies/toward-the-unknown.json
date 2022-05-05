@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Toward the Unknown",
+    "year": 1956,
+    "cast": [
+      "William Holden",
+      "Virginia Leith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/toward-the-unknown.html"
+}

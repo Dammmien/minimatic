@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thrill of a Lifetime",
+    "year": 1937,
+    "cast": [
+      "James V. Kern",
+      "Judy Canova"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/thrill-of-a-lifetime.html"
+}

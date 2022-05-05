@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Double-Dyed Deceiver",
+    "year": 1920,
+    "cast": [
+      "Jack Pickford",
+      "Marie Dunn"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-double-dyed-deceiver.html"
+}

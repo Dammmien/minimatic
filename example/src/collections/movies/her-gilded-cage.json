@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Her Gilded Cage",
+    "year": 1922,
+    "cast": [
+      "Gloria Swanson",
+      "David Powell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/her-gilded-cage.html"
+}

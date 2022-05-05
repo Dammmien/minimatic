@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Night Before",
+    "year": 1988,
+    "cast": [
+      "Keanu Reeves",
+      "Lori Loughlin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-night-before.html"
+}

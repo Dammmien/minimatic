@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dangerous Holiday",
+    "year": 1937,
+    "cast": [
+      "Guinn \"Big Boy\" Williams",
+      "Hedda Hopper",
+      "Jack La Rue"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dangerous-holiday.html"
+}

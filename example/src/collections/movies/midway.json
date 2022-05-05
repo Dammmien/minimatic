@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Midway",
+    "year": 1976,
+    "cast": [
+      "Charlton Heston",
+      "Henry Fonda",
+      "Robert Mitchum",
+      "Glenn Ford",
+      "Robert Wagner",
+      "Cliff Robertson",
+      "James Coburn"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/midway.html"
+}

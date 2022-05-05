@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Houdini",
+    "year": 1953,
+    "cast": [
+      "Tony Curtis",
+      "Janet Leigh"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/houdini.html"
+}

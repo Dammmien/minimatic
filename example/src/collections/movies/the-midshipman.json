@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Midshipman",
+    "year": 1925,
+    "cast": [
+      "Ramon Novarro",
+      "Harriet Hammond"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-midshipman.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Under the Yum Yum Tree",
+    "year": 1963,
+    "cast": [
+      "Jack Lemmon",
+      "Carol Lynley",
+      "Dean Jones",
+      "Edie Adams",
+      "Imogene Coca",
+      "Paul Lynde"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/under-the-yum-yum-tree.html"
+}

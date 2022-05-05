@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "An Alan Smithee Film: Burn Hollywood Burn",
+    "year": 1998,
+    "cast": [
+      "Ryan O'Neal",
+      "Coolio",
+      "Eric Idle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/an-alan-smithee-film--burn-hollywood-burn.html"
+}

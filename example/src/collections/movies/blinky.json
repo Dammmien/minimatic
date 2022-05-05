@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blinky",
+    "year": 1923,
+    "cast": [
+      "Hoot Gibson",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Comedy",
+      "Western"
+    ]
+  },
+  "output": "movies/blinky.html"
+}

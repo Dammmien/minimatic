@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Forget Paris",
+    "year": 1995,
+    "cast": [
+      "Billy Crystal",
+      "Debra Winger",
+      "Joe Mantegna"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/forget-paris.html"
+}

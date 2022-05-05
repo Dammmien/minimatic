@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Cassandra's Dream",
+    "year": 2007,
+    "cast": [
+      "Hayley Atwell",
+      "Colin Farrell",
+      "Sally Hawkins",
+      "Ewan McGregor",
+      "Tom Wilkinson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cassandra-s-dream.html"
+}

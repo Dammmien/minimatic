@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pride of the Blue Grass",
+    "year": 1954,
+    "cast": [
+      "Lloyd Bridges",
+      "Vera Miles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pride-of-the-blue-grass.html"
+}

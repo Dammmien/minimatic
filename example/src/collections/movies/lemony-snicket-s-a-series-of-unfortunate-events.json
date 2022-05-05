@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Lemony Snicket's A Series of Unfortunate Events",
+    "year": 2004,
+    "cast": [
+      "Jim Carrey",
+      "Jude Law",
+      "Liam Aiken",
+      "Emily Browning",
+      "Meryl Streep"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/lemony-snicket-s-a-series-of-unfortunate-events.html"
+}

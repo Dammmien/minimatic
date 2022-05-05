@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Under Suspicion",
+    "year": 2000,
+    "cast": [
+      "Gene Hackman",
+      "Morgan Freeman",
+      "Monica Bellucci"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/under-suspicion.html"
+}

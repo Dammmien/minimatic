@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Limited Mail",
+    "year": 1925,
+    "cast": [
+      "Monte Blue",
+      "Vera Reynolds"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-limited-mail.html"
+}

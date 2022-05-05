@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "First Snow",
+    "year": 2006,
+    "cast": [
+      "Guy Pearce",
+      "Piper Perabo",
+      "J.K. Simmons"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/first-snow.html"
+}

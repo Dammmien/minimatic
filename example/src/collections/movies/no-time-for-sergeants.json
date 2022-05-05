@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "No Time for Sergeants",
+    "year": 1958,
+    "cast": [
+      "Andy Griffith",
+      "Nick Adams",
+      "Myron McCormick",
+      "Murray Hamilton",
+      "Will Hutchins",
+      "Dub Taylor",
+      "Don Knotts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/no-time-for-sergeants.html"
+}

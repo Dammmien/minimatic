@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rose O'Salem-Town",
+    "year": 1910,
+    "cast": [
+      "Henry B. Walthall"
+    ],
+    "genres": [
+      "Drama",
+      "Short"
+    ]
+  },
+  "output": "movies/rose-o-salem-town.html"
+}

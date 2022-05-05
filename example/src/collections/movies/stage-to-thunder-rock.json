@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stage to Thunder Rock",
+    "year": 1964,
+    "cast": [
+      "Barry Sullivan",
+      "Marilyn Maxwell",
+      "John Agar"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/stage-to-thunder-rock.html"
+}

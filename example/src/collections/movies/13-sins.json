@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "13 Sins",
+    "year": 2014,
+    "cast": [
+      "Devon Graye",
+      "Mark Webber",
+      "Ron Perlman"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/13-sins.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Glorious Betsy",
+    "year": 1928,
+    "cast": [
+      "Dolores Costello",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/glorious-betsy.html"
+}

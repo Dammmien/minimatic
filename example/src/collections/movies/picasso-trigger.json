@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Picasso Trigger",
+    "year": 1988,
+    "cast": [
+      "Dona Speir"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/picasso-trigger.html"
+}

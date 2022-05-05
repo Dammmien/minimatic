@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "40 Pounds of Trouble",
+    "year": 1962,
+    "cast": [
+      "Tony Curtis",
+      "Suzanne Pleshette"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/40-pounds-of-trouble.html"
+}

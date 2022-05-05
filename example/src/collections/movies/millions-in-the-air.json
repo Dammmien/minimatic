@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Millions in the Air",
+    "year": 1935,
+    "cast": [
+      "John Howard",
+      "Wendy Barrie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/millions-in-the-air.html"
+}

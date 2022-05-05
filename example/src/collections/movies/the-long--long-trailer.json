@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Long, Long Trailer",
+    "year": 1954,
+    "cast": [
+      "Lucille Ball",
+      "Desi Arnaz"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-long--long-trailer.html"
+}

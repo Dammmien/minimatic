@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "By Indian Post",
+    "year": 1919,
+    "cast": [
+      "Pete Morrison",
+      "Duke R. Lee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/by-indian-post.html"
+}

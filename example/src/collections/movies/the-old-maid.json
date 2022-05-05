@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Old Maid",
+    "year": 1939,
+    "cast": [
+      "Bette Davis",
+      "Miriam Hopkins",
+      "George Brent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-old-maid.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "DOA: Dead or Alive",
+    "year": 2006,
+    "cast": [
+      "Jaime Pressly",
+      "Holly Valance",
+      "Sarah Carter",
+      "Natassia Malthe",
+      "Devon Aoki",
+      "Eric Roberts"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/doa--dead-or-alive.html"
+}

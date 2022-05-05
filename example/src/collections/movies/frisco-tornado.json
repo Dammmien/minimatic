@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Frisco Tornado",
+    "year": 1950,
+    "cast": [
+      "Allan Lane",
+      "Martha Hyer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/frisco-tornado.html"
+}

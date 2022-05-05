@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Herbie Goes Bananas",
+    "year": 1980,
+    "cast": [
+      "Cloris Leachman",
+      "Harvey Korman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/herbie-goes-bananas.html"
+}

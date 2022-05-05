@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Experimental Marriage",
+    "year": 1919,
+    "cast": [
+      "Constance Talmadge",
+      "Harrison Ford"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/experimental-marriage.html"
+}

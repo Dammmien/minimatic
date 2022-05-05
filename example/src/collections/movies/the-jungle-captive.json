@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Jungle Captive",
+    "year": 1945,
+    "cast": [
+      "Otto Kruger",
+      "Amelita Ward"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-jungle-captive.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Welcome to Marwen",
+    "year": 2018,
+    "cast": [
+      "Steve Carell",
+      "Leslie Mann",
+      "Diane Kruger",
+      "Falk Hentschel",
+      "Janelle Monáe",
+      "Eiza Gonzalez",
+      "Gwendoline Christie"
+    ],
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ]
+  },
+  "output": "movies/welcome-to-marwen.html"
+}

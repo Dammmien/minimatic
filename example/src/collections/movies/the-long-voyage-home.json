@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Long Voyage Home",
+    "year": 1940,
+    "cast": [
+      "John Wayne",
+      "Thomas Mitchell",
+      "Ian Hunter"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-long-voyage-home.html"
+}

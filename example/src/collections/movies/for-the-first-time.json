@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "For the First Time",
+    "year": 1959,
+    "cast": [
+      "Mario Lanza",
+      "Johanna von Koczian",
+      "Zsa Zsa Gabor"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/for-the-first-time.html"
+}

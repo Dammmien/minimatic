@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady on a Train",
+    "year": 1945,
+    "cast": [
+      "Deanna Durbin",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/lady-on-a-train.html"
+}

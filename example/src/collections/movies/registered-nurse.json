@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Registered Nurse",
+    "year": 1934,
+    "cast": [
+      "Bebe Daniels",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/registered-nurse.html"
+}

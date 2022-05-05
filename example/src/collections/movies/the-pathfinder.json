@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pathfinder",
+    "year": 1952,
+    "cast": [
+      "George Montgomery",
+      "Helena Carter"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-pathfinder.html"
+}

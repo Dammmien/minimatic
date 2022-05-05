@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Five Finger Exercise",
+    "year": 1962,
+    "cast": [
+      "Rosalind Russell",
+      "Jack Hawkins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/five-finger-exercise.html"
+}

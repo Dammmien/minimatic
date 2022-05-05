@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Charlie Chan at Treasure Island",
+    "year": 1939,
+    "cast": [
+      "Sidney Toler",
+      "Victor Sen Yung",
+      "Cesar Romero"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/charlie-chan-at-treasure-island.html"
+}

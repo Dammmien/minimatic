@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Terror from the Year 5000",
+    "year": 1958,
+    "cast": [
+      "Salome Jens",
+      "Ward Costello"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/terror-from-the-year-5000.html"
+}

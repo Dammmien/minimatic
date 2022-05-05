@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beyond Victory",
+    "year": 1931,
+    "cast": [
+      "Bill Boyd",
+      "James Gleason"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/beyond-victory.html"
+}

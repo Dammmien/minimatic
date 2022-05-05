@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Everybody's Fine",
+    "year": 2009,
+    "cast": [
+      "Robert De Niro",
+      "Drew Barrymore",
+      "Kate Beckinsale",
+      "Sam Rockwell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/everybody-s-fine.html"
+}

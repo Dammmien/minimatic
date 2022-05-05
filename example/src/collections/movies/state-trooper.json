@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "State Trooper",
+    "year": 1933,
+    "cast": [
+      "Regis Toomey",
+      "Evalyn Knapp"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/state-trooper.html"
+}

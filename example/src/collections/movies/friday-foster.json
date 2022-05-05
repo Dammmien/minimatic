@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Friday Foster",
+    "year": 1975,
+    "cast": [
+      "Pam Grier",
+      "Yaphet Kotto",
+      "Eartha Kitt"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/friday-foster.html"
+}

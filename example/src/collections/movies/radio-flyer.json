@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Radio Flyer",
+    "year": 1992,
+    "cast": [
+      "Elijah Wood",
+      "Joseph Mazzello",
+      "Lorraine Bracco",
+      "John Heard",
+      "Adam Baldwin"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/radio-flyer.html"
+}

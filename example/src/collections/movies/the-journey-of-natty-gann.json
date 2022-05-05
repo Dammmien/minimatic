@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Journey of Natty Gann",
+    "year": 1985,
+    "cast": [
+      "Meredith Salenger",
+      "John Cusack",
+      "Ray Wise"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-journey-of-natty-gann.html"
+}

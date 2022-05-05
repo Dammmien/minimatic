@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Young Fury",
+    "year": 1965,
+    "cast": [
+      "Rory Calhoun",
+      "Virginia Mayo"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/young-fury.html"
+}

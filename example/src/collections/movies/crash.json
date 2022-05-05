@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Crash",
+    "year": 2004,
+    "cast": [
+      "Sandra Bullock",
+      "Don Cheadle",
+      "Matt Dillon",
+      "Jennifer Esposito",
+      "Brendan Fraser",
+      "Terrence Howard",
+      "Chris \"Ludacris\" Bridges",
+      "Thandie Newton",
+      "Ryan Phillippe"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/crash.html"
+}

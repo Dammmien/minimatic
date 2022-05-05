@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fleetwing",
+    "year": 1928,
+    "cast": [
+      "Barry Norton",
+      "Dorothy Janis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fleetwing.html"
+}

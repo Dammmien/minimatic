@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spring Tonic",
+    "year": 1935,
+    "cast": [
+      "Lew Ayres",
+      "Claire Trevor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/spring-tonic.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smoke Signal",
+    "year": 1955,
+    "cast": [
+      "Dana Andrews",
+      "Piper Laurie"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/smoke-signal.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Scarlet Drop",
+    "year": 1918,
+    "cast": [
+      "Harry Carey",
+      "Molly Malone"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-scarlet-drop.html"
+}

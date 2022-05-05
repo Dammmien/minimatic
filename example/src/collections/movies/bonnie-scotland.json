@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bonnie Scotland",
+    "year": 1935,
+    "cast": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "June Lang"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bonnie-scotland.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Undefeatable",
+    "year": 1994,
+    "cast": [
+      "Cynthia Rothrock"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/undefeatable.html"
+}

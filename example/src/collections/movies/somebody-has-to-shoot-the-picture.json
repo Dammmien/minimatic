@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Somebody has to Shoot the Picture",
+    "year": 1990,
+    "cast": [
+      "Roy Scheider",
+      "Bonnie Bedelia"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/somebody-has-to-shoot-the-picture.html"
+}

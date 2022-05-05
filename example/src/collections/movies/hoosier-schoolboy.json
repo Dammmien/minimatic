@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hoosier Schoolboy",
+    "year": 1937,
+    "cast": [
+      "Mickey Rooney",
+      "Anne Nagel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hoosier-schoolboy.html"
+}

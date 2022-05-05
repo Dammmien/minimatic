@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Lucky Number Slevin",
+    "year": 2006,
+    "cast": [
+      "Josh Hartnett",
+      "Morgan Freeman",
+      "Ben Kingsley",
+      "Lucy Liu",
+      "Stanley Tucci",
+      "Bruce Willis"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/lucky-number-slevin.html"
+}

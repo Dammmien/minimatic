@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Girl in Progress",
+    "year": 2012,
+    "cast": [
+      "Eva Mendes",
+      "Matthew Modine",
+      "Cierra Ramirez",
+      "Patricia Arquette",
+      "Eugenio Derbez"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/girl-in-progress.html"
+}

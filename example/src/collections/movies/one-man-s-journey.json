@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Man's Journey",
+    "year": 1933,
+    "cast": [
+      "Lionel Barrymore",
+      "May Robson",
+      "Joel McCrea"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/one-man-s-journey.html"
+}

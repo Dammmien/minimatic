@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Girl from Havana",
+    "year": 1940,
+    "cast": [
+      "Claire Carleton",
+      "Dennis O'Keefe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/girl-from-havana.html"
+}

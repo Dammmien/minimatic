@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Roommates",
+    "year": 1973,
+    "cast": [
+      "Marki Bey",
+      "Pat Woodell"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-roommates.html"
+}

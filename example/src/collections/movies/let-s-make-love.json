@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Let's Make Love",
+    "year": 1960,
+    "cast": [
+      "Marilyn Monroe",
+      "Yves Montand",
+      "Tony Randall",
+      "Frankie Vaughan",
+      "Milton Berle",
+      "Gene Kelly",
+      "Bing Crosby"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-s-make-love.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Twenty Plus Two",
+    "year": 1961,
+    "cast": [
+      "David Janssen",
+      "Jeanne Crain",
+      "Dina Merrill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/twenty-plus-two.html"
+}

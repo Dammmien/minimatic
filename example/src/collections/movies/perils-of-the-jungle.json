@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Perils of the Jungle",
+    "year": 1953,
+    "cast": [
+      "Clyde Beatty",
+      "Phyllis Coates"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/perils-of-the-jungle.html"
+}

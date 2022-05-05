@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yes, We Have No Bonanza",
+    "year": 1939,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/yes--we-have-no-bonanza.html"
+}

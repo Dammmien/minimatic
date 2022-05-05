@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nothing But a Man",
+    "year": 1964,
+    "cast": [
+      "Ivan Dixon",
+      "Yaphet Kotto"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/nothing-but-a-man.html"
+}

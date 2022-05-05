@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sheepman",
+    "year": 1958,
+    "cast": [
+      "Glenn Ford",
+      "Shirley MacLaine"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-sheepman.html"
+}

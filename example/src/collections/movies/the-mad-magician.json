@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mad Magician",
+    "year": 1954,
+    "cast": [
+      "Vincent Price",
+      "Eva Gabor"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-mad-magician.html"
+}

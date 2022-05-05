@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Return of Rin Tin Tin",
+    "year": 1947,
+    "cast": [
+      "Donald Woods",
+      "Claudia Drake"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-return-of-rin-tin-tin.html"
+}

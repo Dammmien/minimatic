@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Six-String Samurai",
+    "year": 1998,
+    "cast": [
+      "Jeffrey Falcon",
+      "Clifford Hugo",
+      "Lora Witty"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/six-string-samurai.html"
+}

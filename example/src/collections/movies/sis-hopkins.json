@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sis Hopkins",
+    "year": 1941,
+    "cast": [
+      "Judy Canova",
+      "Bob Crosby",
+      "Susan Hayward"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sis-hopkins.html"
+}

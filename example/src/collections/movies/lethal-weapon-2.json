@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Lethal Weapon 2",
+    "year": 1989,
+    "cast": [
+      "Mel Gibson",
+      "Danny Glover",
+      "Joe Pesci"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/lethal-weapon-2.html"
+}

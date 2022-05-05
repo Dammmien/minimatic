@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Romance of a Million Dollars",
+    "year": 1926,
+    "cast": [
+      "Glenn Hunter",
+      "Alyce Mills",
+      "Gaston Glass"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-romance-of-a-million-dollars.html"
+}

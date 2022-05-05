@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rumble Fish",
+    "year": 1983,
+    "cast": [
+      "Matt Dillon",
+      "Mickey Rourke",
+      "Diane Lane",
+      "Nicolas Cage"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rumble-fish.html"
+}

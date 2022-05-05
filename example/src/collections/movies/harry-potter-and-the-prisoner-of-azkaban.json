@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "year": 2004,
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Robbie Coltrane",
+      "Michael Gambon",
+      "Richard Griffiths",
+      "Gary Oldman",
+      "Alan Rickman",
+      "Fiona Shaw",
+      "Maggie Smith",
+      "Timothy Spall",
+      "David Thewlis",
+      "Maggie Smith",
+      "Julie Walters",
+      "Dawn French"
+    ],
+    "genres": [
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/harry-potter-and-the-prisoner-of-azkaban.html"
+}

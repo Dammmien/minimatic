@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fatal Instinct",
+    "year": 1993,
+    "cast": [
+      "Armand Assante",
+      "Sherilyn Fenn",
+      "Sean Young",
+      "Kate Nelligan"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/fatal-instinct.html"
+}

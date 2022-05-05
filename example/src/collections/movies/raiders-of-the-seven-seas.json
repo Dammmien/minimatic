@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Raiders of the Seven Seas",
+    "year": 1953,
+    "cast": [
+      "John Payne",
+      "Donna Reed"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/raiders-of-the-seven-seas.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Alias Nick Beal",
+    "year": 1949,
+    "cast": [
+      "Ray Milland",
+      "Audrey Totter",
+      "Thomas Mitchell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/alias-nick-beal.html"
+}

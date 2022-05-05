@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Best of Everything",
+    "year": 1959,
+    "cast": [
+      "Diane Baker",
+      "Stephen Boyd",
+      "Hope Lange",
+      "Louis Jourdan",
+      "Suzy Parker",
+      "Joan Crawford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-best-of-everything.html"
+}

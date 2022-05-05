@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My True Story",
+    "year": 1951,
+    "cast": [
+      "Helen Walker",
+      "Willard Parker"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/my-true-story.html"
+}

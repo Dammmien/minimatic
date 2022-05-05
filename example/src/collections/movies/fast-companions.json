@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fast Companions",
+    "year": 1932,
+    "cast": [
+      "Tom Brown",
+      "Maureen O'Sullivan"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/fast-companions.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Joe Palooka in the Knockout",
+    "year": 1947,
+    "cast": [
+      "Joe Kirkwood Jr.",
+      "Leon Errol",
+      "Trudy Marshall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/joe-palooka-in-the-knockout.html"
+}

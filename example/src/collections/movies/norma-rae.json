@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Norma Rae",
+    "year": 1979,
+    "cast": [
+      "Sally Field",
+      "Ron Leibman",
+      "Beau Bridges"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/norma-rae.html"
+}

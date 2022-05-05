@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Red Pony",
+    "year": 1949,
+    "cast": [
+      "Myrna Loy",
+      "Robert Mitchum",
+      "Louis Calhern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-red-pony.html"
+}

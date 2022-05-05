@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Money Monster",
+    "year": 2016,
+    "cast": [
+      "George Clooney",
+      "Julia Roberts",
+      "Jack O'Connell"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/money-monster.html"
+}

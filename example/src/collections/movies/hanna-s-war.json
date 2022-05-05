@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hanna's War",
+    "year": 1988,
+    "cast": [
+      "Ellen Burstyn",
+      "Maruschka Detmers",
+      "Donald Pleasence"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/hanna-s-war.html"
+}

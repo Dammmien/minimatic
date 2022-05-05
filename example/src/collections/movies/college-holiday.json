@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "College Holiday",
+    "year": 1936,
+    "cast": [
+      "George Burns",
+      "Gracie Allen",
+      "Jack Benny"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/college-holiday.html"
+}

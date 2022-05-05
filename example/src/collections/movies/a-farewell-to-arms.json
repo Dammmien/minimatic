@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Farewell to Arms",
+    "year": 1957,
+    "cast": [
+      "Rock Hudson",
+      "Jennifer Jones"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/a-farewell-to-arms.html"
+}

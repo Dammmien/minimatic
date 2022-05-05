@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Canyon City",
+    "year": 1943,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Helen Talbot"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/canyon-city.html"
+}

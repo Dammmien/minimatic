@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Mamma Mia! Here We Go Again",
+    "year": 2018,
+    "cast": [
+      "Lily James",
+      "Amanda Seyfried",
+      "Pierce Brosnan",
+      "Colin Firth",
+      "Stellan Skarsgård",
+      "Julie Walters",
+      "Christine Baranski",
+      "Dominic Cooper",
+      "Meryl Streep",
+      "Cher",
+      "Andy García"
+    ],
+    "genres": [
+      "Romance",
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/mamma-mia--here-we-go-again.html"
+}

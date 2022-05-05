@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Cock-Eyed World",
+    "year": 1929,
+    "cast": [
+      "Victor McLaglen",
+      "Edmund Lowe",
+      "Lili Damita"
+    ],
+    "genres": [
+      "Musical",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-cock-eyed-world.html"
+}

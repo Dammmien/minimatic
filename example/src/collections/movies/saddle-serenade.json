@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Saddle Serenade",
+    "year": 1945,
+    "cast": [
+      "Jimmy Wakely",
+      "Jack Ingram"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/saddle-serenade.html"
+}

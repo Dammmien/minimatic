@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Business of Strangers",
+    "year": 2001,
+    "cast": [
+      "Julia Stiles",
+      "Stockard Channing",
+      "Marcus Giamatti"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-business-of-strangers.html"
+}

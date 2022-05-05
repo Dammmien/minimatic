@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lightnin' Bill Carson",
+    "year": 1936,
+    "cast": [
+      "Tim McCoy",
+      "Lois January",
+      "Rex Lease"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lightnin--bill-carson.html"
+}

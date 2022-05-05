@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Next Man",
+    "year": 1976,
+    "cast": [
+      "Sean Connery",
+      "Cornelia Sharpe"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-next-man.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hollywood Ending",
+    "year": 2002,
+    "cast": [
+      "Woody Allen",
+      "George Hamilton",
+      "Téa Leoni",
+      "Debra Messing"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hollywood-ending.html"
+}

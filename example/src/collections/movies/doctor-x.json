@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Doctor X",
+    "year": 1932,
+    "cast": [
+      "Fay Wray",
+      "Lionel Atwill",
+      "Lee Tracy"
+    ],
+    "genres": [
+      "Drama",
+      "Horror"
+    ]
+  },
+  "output": "movies/doctor-x.html"
+}

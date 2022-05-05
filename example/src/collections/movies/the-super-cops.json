@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Super Cops",
+    "year": 1974,
+    "cast": [
+      "Ron Leibman",
+      "David Selby"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-super-cops.html"
+}

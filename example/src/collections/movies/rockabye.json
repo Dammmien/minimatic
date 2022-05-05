@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rockabye",
+    "year": 1932,
+    "cast": [
+      "Constance Bennett",
+      "Joel McCrea"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rockabye.html"
+}

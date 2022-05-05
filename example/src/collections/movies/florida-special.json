@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Florida Special",
+    "year": 1936,
+    "cast": [
+      "Frances Drake",
+      "Jack Oakie",
+      "Claude Gillingwater"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/florida-special.html"
+}

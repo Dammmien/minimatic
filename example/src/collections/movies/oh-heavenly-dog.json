@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Oh Heavenly Dog",
+    "year": 1980,
+    "cast": [
+      "Chevy Chase",
+      "Jane Seymour",
+      "Omar Sharif"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/oh-heavenly-dog.html"
+}

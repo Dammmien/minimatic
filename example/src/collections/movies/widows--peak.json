@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Widows' Peak",
+    "year": 1994,
+    "cast": [
+      "Mia Farrow",
+      "Natasha Richardson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/widows--peak.html"
+}

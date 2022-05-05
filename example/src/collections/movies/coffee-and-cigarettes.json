@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Coffee and Cigarettes",
+    "year": 2003,
+    "cast": [
+      "Roberto Benigni",
+      "Steven Wright",
+      "Joie Lee"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/coffee-and-cigarettes.html"
+}

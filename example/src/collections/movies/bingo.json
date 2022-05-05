@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bingo",
+    "year": 1991,
+    "cast": [
+      "Cindy Williams",
+      "David Rasche"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/bingo.html"
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "King Arthur: Legend of the Sword",
+    "year": 2017,
+    "cast": [
+      "Charlie Hunnam",
+      "Aidan Gillen",
+      "Àstrid Bergès-Frisbey",
+      "Eric Bana",
+      "Jude Law",
+      "Djimon Hounsou",
+      "Kingsley Ben-Adir",
+      "Neil Maskell",
+      "Millie Brady",
+      "David Beckham",
+      "Katie McGrath",
+      "Michael McElhatton"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/king-arthur--legend-of-the-sword.html"
+}

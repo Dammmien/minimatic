@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Peach O'Reno",
+    "year": 1931,
+    "cast": [
+      "Bert Wheeler",
+      "Robert Woolsey",
+      "Dorothy Lee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/peach-o-reno.html"
+}

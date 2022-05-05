@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Prophecy",
+    "year": 1979,
+    "cast": [
+      "Robert Foxworth",
+      "Talia Shire",
+      "Armand Assante"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/prophecy.html"
+}

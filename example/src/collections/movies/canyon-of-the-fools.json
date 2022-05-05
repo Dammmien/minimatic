@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Canyon of the Fools",
+    "year": 1923,
+    "cast": [
+      "Harry Carey",
+      "Marguerite Clayton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/canyon-of-the-fools.html"
+}

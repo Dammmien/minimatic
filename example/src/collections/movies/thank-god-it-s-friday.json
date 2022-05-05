@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thank God It's Friday",
+    "year": 1978,
+    "cast": [
+      "Jeff Goldblum",
+      "Debra Winger",
+      "Donna Summer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/thank-god-it-s-friday.html"
+}

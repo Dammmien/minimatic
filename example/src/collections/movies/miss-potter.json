@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Miss Potter",
+    "year": 2006,
+    "cast": [
+      "Renée Zellweger",
+      "Ewan McGregor",
+      "Emily Watson"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/miss-potter.html"
+}

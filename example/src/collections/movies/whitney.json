@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Whitney",
+    "year": 2018,
+    "cast": [
+      "Whitney Houston"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/whitney.html"
+}

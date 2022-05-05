@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lost and Found",
+    "year": 1979,
+    "cast": [
+      "Glenda Jackson",
+      "George Segal"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lost-and-found.html"
+}

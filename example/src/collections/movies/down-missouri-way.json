@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Down Missouri Way",
+    "year": 1946,
+    "cast": [
+      "Martha O'Driscoll",
+      "John Carradine",
+      "Eddie Dean"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/down-missouri-way.html"
+}

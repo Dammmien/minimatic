@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Let's Live a Little",
+    "year": 1948,
+    "cast": [
+      "Hedy Lamarr",
+      "Robert Cummings"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-s-live-a-little.html"
+}

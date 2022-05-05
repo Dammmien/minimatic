@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rasputin and the Empress",
+    "year": 1932,
+    "cast": [
+      "John Barrymore",
+      "Lionel Barrymore",
+      "Ethel Barrymore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rasputin-and-the-empress.html"
+}

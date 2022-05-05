@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shanghai Chest",
+    "year": 1948,
+    "cast": [
+      "Roland Winters",
+      "Mantan Moreland"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/shanghai-chest.html"
+}

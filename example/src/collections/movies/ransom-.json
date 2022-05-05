@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ransom!",
+    "year": 1956,
+    "cast": [
+      "Glenn Ford",
+      "Donna Reed",
+      "Leslie Nielsen"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/ransom-.html"
+}

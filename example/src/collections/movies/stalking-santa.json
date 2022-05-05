@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stalking Santa",
+    "year": 2006,
+    "cast": [
+      "Daryn Tufts",
+      "William Shatner"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/stalking-santa.html"
+}

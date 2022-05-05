@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love on Toast",
+    "year": 1937,
+    "cast": [
+      "John Payne",
+      "Stella Adler",
+      "Grant Richards"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-on-toast.html"
+}

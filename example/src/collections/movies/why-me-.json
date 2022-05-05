@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Why Me?",
+    "year": 1990,
+    "cast": [
+      "Christopher Lambert",
+      "Christopher Lloyd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/why-me-.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pirates of Monterey",
+    "year": 1947,
+    "cast": [
+      "Maria Montez",
+      "Rod Cameron",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/pirates-of-monterey.html"
+}

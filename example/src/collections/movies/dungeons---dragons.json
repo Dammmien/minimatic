@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dungeons & Dragons",
+    "year": 2000,
+    "cast": [
+      "Jeremy Irons",
+      "Thora Birch",
+      "Tom Baker",
+      "Marlon Wayans"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/dungeons---dragons.html"
+}

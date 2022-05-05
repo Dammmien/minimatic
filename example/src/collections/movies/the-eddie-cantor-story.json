@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Eddie Cantor Story",
+    "year": 1953,
+    "cast": [
+      "Keefe Brasselle",
+      "Marilyn Erskine",
+      "Aline MacMahon"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-eddie-cantor-story.html"
+}

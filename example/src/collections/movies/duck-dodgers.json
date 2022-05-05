@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Duck Dodgers",
+    "year": 1953,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/duck-dodgers.html"
+}

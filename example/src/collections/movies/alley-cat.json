@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Alley Cat",
+    "year": 1984,
+    "cast": [
+      "Karin Mani",
+      "Robert Torti"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/alley-cat.html"
+}

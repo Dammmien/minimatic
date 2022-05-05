@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bold and the Brave",
+    "year": 1956,
+    "cast": [
+      "Mickey Rooney",
+      "Wendell Corey"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-bold-and-the-brave.html"
+}

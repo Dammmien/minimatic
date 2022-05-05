@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Return of the Terror",
+    "year": 1934,
+    "cast": [
+      "Mary Astor",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/return-of-the-terror.html"
+}

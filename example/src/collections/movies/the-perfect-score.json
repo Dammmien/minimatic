@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Perfect Score",
+    "year": 2004,
+    "cast": [
+      "Scarlett Johansson",
+      "Erika Christensen",
+      "Chris Evans",
+      "Darius Miles"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-perfect-score.html"
+}

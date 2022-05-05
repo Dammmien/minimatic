@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kentucky Rifle",
+    "year": 1955,
+    "cast": [
+      "Chill Wills",
+      "Cathy Downs"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/kentucky-rifle.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Whistle Stop",
+    "year": 1946,
+    "cast": [
+      "George Raft",
+      "Ava Gardner"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/whistle-stop.html"
+}

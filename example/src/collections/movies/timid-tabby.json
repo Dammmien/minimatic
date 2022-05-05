@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Timid Tabby",
+    "year": 1956,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/timid-tabby.html"
+}

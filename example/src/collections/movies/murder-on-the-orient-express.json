@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "Murder on the Orient Express",
+    "year": 2017,
+    "cast": [
+      "Kenneth Branagh",
+      "Penélope Cruz",
+      "Willem Dafoe",
+      "Judi Dench",
+      "Johnny Depp",
+      "Josh Gad",
+      "Derek Jacobi",
+      "Leslie Odom Jr.",
+      "Michelle Pfeiffer",
+      "Daisy Ridley",
+      "Lucy Boynton",
+      "Sergei Polunin"
+    ],
+    "genres": [
+      "Mystery",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/murder-on-the-orient-express.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shotgun Pass",
+    "year": 1931,
+    "cast": [
+      "Tim McCoy",
+      "Virginia Lee Corbin"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/shotgun-pass.html"
+}

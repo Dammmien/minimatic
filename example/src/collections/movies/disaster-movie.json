@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Disaster Movie",
+    "year": 2008,
+    "cast": [
+      "Kim Kardashian",
+      "Carmen Electra",
+      "Vanessa Minnillo",
+      "Matt Lanter"
+    ],
+    "genres": [
+      "Comedy",
+      "Satire"
+    ]
+  },
+  "output": "movies/disaster-movie.html"
+}

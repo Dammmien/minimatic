@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wings of the Storm",
+    "year": 1926,
+    "cast": [
+      "Virginia Brown Faire",
+      "Reed Howes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wings-of-the-storm.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "House of Women",
+    "year": 1962,
+    "cast": [
+      "Shirley Knight",
+      "Andrew Duggan",
+      "Constance Ford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/house-of-women.html"
+}

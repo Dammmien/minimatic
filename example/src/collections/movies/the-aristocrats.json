@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Aristocrats",
+    "year": 2005,
+    "cast": [
+      "the obscure",
+      "dirty joke",
+      "\"",
+      "The Aristocrats",
+      "\""
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-aristocrats.html"
+}

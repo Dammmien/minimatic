@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When You're Smiling",
+    "year": 1950,
+    "cast": [
+      "Frankie Laine",
+      "Lola Albright"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/when-you-re-smiling.html"
+}

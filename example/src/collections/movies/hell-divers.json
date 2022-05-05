@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hell Divers",
+    "year": 1931,
+    "cast": [
+      "Wallace Beery",
+      "Clark Gable",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/hell-divers.html"
+}

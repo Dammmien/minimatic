@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Rendezvous",
+    "year": 1923,
+    "cast": [
+      "Richard Travers",
+      "Lucille Ricksen",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-rendezvous.html"
+}

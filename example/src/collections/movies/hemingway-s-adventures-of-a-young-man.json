@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hemingway's Adventures of a Young Man",
+    "year": 1962,
+    "cast": [
+      "Richard Beymer",
+      "Diane Baker",
+      "Corinne Calvet"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hemingway-s-adventures-of-a-young-man.html"
+}

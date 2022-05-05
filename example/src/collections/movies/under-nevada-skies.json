@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Under Nevada Skies",
+    "year": 1946,
+    "cast": [
+      "Roy Rogers",
+      "Dale Evans"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/under-nevada-skies.html"
+}

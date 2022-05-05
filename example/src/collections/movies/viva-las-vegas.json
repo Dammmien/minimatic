@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Viva Las Vegas",
+    "year": 1964,
+    "cast": [
+      "Elvis Presley",
+      "Ann-Margret"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/viva-las-vegas.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gog",
+    "year": 1954,
+    "cast": [
+      "Richard Egan",
+      "Herbert Marshall",
+      "Constance Dowling"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/gog.html"
+}

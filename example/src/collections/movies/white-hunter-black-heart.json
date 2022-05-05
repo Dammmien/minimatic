@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "White Hunter Black Heart",
+    "year": 1990,
+    "cast": [
+      "Clint Eastwood",
+      "Jeff Fahey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/white-hunter-black-heart.html"
+}

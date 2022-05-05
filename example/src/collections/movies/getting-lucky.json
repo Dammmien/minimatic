@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Getting Lucky",
+    "year": 1990,
+    "cast": [
+      "Steven Cooke",
+      "Lezlie McCraw"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/getting-lucky.html"
+}

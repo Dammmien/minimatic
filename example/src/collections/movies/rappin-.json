@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rappin'",
+    "year": 1985,
+    "cast": [
+      "Mario Van Peebles",
+      "Eriq La Salle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rappin-.html"
+}

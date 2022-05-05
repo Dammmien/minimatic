@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Return of Jimmy Valentine",
+    "year": 1936,
+    "cast": [
+      "Roger Pryor",
+      "Charlotte Henry"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-return-of-jimmy-valentine.html"
+}

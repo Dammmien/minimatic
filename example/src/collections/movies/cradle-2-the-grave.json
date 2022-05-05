@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Cradle 2 the Grave",
+    "year": 2003,
+    "cast": [
+      "Jet Li",
+      "DMX",
+      "Kelly Hu",
+      "Anthony Anderson",
+      "Tom Arnold",
+      "Mark Dacascos",
+      "Gabrielle Union"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/cradle-2-the-grave.html"
+}

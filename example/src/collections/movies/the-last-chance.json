@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last Chance",
+    "year": 1926,
+    "cast": [
+      "Bill Patton",
+      "Merrill McCormick"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-last-chance.html"
+}

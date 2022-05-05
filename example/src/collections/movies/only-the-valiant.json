@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Only the Valiant",
+    "year": 1951,
+    "cast": [
+      "Gregory Peck",
+      "Barbara Payton",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/only-the-valiant.html"
+}

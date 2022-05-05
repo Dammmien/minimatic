@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Florentine",
+    "year": 1999,
+    "cast": [
+      "Jeremy Davies",
+      "Virginia Madsen",
+      "Luke Perry"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-florentine.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gold Diggers of 1935",
+    "year": 1935,
+    "cast": [
+      "Dick Powell",
+      "Alice Brady",
+      "Hugh Herbert"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/gold-diggers-of-1935.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Medal for Benny",
+    "year": 1945,
+    "cast": [
+      "Dorothy Lamour",
+      "Arturo de Córdova"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-medal-for-benny.html"
+}

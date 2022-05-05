@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Vanilla Sky",
+    "year": 2001,
+    "cast": [
+      "Tom Cruise",
+      "Penélope Cruz",
+      "Cameron Diaz",
+      "Jason Lee",
+      "Kurt Russell",
+      "Noah Taylor"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/vanilla-sky.html"
+}

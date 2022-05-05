@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bug",
+    "year": 1975,
+    "cast": [
+      "Bradford Dillman",
+      "Joanna Miles"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/bug.html"
+}

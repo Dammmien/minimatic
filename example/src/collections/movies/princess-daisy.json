@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Princess Daisy",
+    "year": 1983,
+    "cast": [
+      "Rupert Everett",
+      "Lindsay Wagner",
+      "Merete Van Kamp",
+      "Claudia Cardinale",
+      "Barbara Bach"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/princess-daisy.html"
+}

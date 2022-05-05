@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Phantom of the Opera",
+    "year": 1943,
+    "cast": [
+      "Nelson Eddy",
+      "Susanna Foster",
+      "Claude Rains"
+    ],
+    "genres": [
+      "Horror",
+      "Musical"
+    ]
+  },
+  "output": "movies/phantom-of-the-opera.html"
+}

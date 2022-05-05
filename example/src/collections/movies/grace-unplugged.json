@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Grace Unplugged",
+    "year": 2013,
+    "cast": [
+      "AJ Michalka",
+      "James Denton",
+      "Kevin Pollak",
+      "Michael Welch",
+      "Shawnee Smith",
+      "Chris Tomlin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/grace-unplugged.html"
+}

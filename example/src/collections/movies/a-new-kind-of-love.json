@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A New Kind of Love",
+    "year": 1963,
+    "cast": [
+      "Paul Newman",
+      "Joanne Woodward",
+      "Eva Gabor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-new-kind-of-love.html"
+}

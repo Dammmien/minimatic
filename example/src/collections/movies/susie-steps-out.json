@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Susie Steps Out",
+    "year": 1946,
+    "cast": [
+      "David Bruce",
+      "Margaret Dumont"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/susie-steps-out.html"
+}

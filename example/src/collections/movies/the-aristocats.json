@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Aristocats",
+    "year": 1970,
+    "cast": [
+      "Phil Harris",
+      "Eva Gabor",
+      "Gary Dubin"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-aristocats.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Over the Border",
+    "year": 1950,
+    "cast": [
+      "Johnny Mack Brown",
+      "Wendy Waldron",
+      "Myron Healey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/over-the-border.html"
+}

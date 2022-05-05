@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Keeping Up with the Joneses",
+    "year": 2016,
+    "cast": [
+      "Isla Fisher",
+      "Jon Hamm"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/keeping-up-with-the-joneses.html"
+}

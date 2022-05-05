@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Contract on Cherry Street",
+    "year": 1977,
+    "cast": [
+      "Frank Sinatra",
+      "Martin Balsam"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/contract-on-cherry-street.html"
+}

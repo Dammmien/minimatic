@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Tanned Legs",
+    "year": 1929,
+    "cast": [
+      "Arthur Lake",
+      "June Clyde",
+      "Dorothy Revier"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/tanned-legs.html"
+}

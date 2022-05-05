@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Elephant",
+    "year": 2003,
+    "cast": [
+      "Alex Frost",
+      "Eric Deulen",
+      "John Robinson"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/elephant.html"
+}

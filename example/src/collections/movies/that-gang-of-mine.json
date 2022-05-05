@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "That Gang of Mine",
+    "year": 1940,
+    "cast": [
+      "Leo Gorcey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-gang-of-mine.html"
+}

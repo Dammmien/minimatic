@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "$1,000 a Touchdown",
+    "year": 1939,
+    "cast": [
+      "Joe E. Brown",
+      "Martha Raye",
+      "Eric Blore",
+      "Susan Hayward"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/-1-000-a-touchdown.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Song of Texas",
+    "year": 1943,
+    "cast": [
+      "Roy Rogers",
+      "Sheila Ryan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/song-of-texas.html"
+}

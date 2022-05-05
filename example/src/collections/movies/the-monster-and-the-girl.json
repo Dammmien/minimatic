@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Monster and the Girl",
+    "year": 1941,
+    "cast": [
+      "Ellen Drew",
+      "Robert Paige",
+      "Paul Lukas"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-monster-and-the-girl.html"
+}

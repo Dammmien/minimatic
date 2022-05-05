@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Martin",
+    "year": 1977,
+    "cast": [
+      "John Amplas",
+      "Christine Forrest",
+      "Tom Savini"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/martin.html"
+}

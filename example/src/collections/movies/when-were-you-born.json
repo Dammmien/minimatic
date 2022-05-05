@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "When Were You Born",
+    "year": 1938,
+    "cast": [
+      "Margaret Lindsay",
+      "Anna May Wong",
+      "Lola Lane"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/when-were-you-born.html"
+}

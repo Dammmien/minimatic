@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Aquaman",
+    "year": 2018,
+    "cast": [
+      "Jason Momoa",
+      "Amber Heard",
+      "Willem Dafoe",
+      "Patrick Wilson",
+      "Dolph Lundgren",
+      "Yahya Abdul-Mateen II",
+      "Nicole Kidman"
+    ],
+    "genres": [
+      "Superhero",
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/aquaman.html"
+}

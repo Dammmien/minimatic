@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Conspiracy Theory",
+    "year": 1997,
+    "cast": [
+      "Mel Gibson",
+      "Julia Roberts",
+      "Patrick Stewart"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/conspiracy-theory.html"
+}

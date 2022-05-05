@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Naughty Marietta",
+    "year": 1935,
+    "cast": [
+      "Jeanette MacDonald",
+      "Nelson Eddy",
+      "Elsa Lanchester"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/naughty-marietta.html"
+}

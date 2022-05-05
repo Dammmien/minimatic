@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Puss Gets the Boot",
+    "year": 1940,
+    "cast": [
+      "Lillian Randolph"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/puss-gets-the-boot.html"
+}

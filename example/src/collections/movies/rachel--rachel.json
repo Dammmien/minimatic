@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rachel, Rachel",
+    "year": 1968,
+    "cast": [
+      "Joanne Woodward",
+      "James Olson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rachel--rachel.html"
+}

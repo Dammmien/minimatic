@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Robinson Crusoe on Mars",
+    "year": 1964,
+    "cast": [
+      "Adam West"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/robinson-crusoe-on-mars.html"
+}

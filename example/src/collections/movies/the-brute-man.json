@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Brute Man",
+    "year": 1946,
+    "cast": [
+      "Rondo Hatton",
+      "Jan Wiley",
+      "Tom Neal"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-brute-man.html"
+}

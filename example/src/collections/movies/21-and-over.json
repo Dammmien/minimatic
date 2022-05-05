@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "21 and Over",
+    "year": 2013,
+    "cast": [
+      "Miles Teller",
+      "Skylar Astin",
+      "Justin Chon",
+      "Sarah Wright"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/21-and-over.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "My Fair Lady",
+    "year": 1964,
+    "cast": [
+      "Audrey Hepburn",
+      "Rex Harrison",
+      "Wilfrid Hyde-White",
+      "Stanley Holloway"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/my-fair-lady.html"
+}

@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Go Now",
+    "year": 1995,
+    "cast": [
+      "Robert Carlyle"
+    ],
+    "genres": []
+  },
+  "output": "movies/go-now.html"
+}

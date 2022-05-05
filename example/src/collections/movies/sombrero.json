@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sombrero",
+    "year": 1953,
+    "cast": [
+      "Ricardo Montalban",
+      "Pier Angeli"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sombrero.html"
+}

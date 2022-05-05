@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "King Solomon of Broadway",
+    "year": 1935,
+    "cast": [
+      "Edmund Lowe",
+      "Dorothy Page"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/king-solomon-of-broadway.html"
+}

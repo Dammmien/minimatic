@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "True Confession",
+    "year": 1937,
+    "cast": [
+      "Carole Lombard",
+      "Fred MacMurray",
+      "John Barrymore"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/true-confession.html"
+}

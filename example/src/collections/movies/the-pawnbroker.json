@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pawnbroker",
+    "year": 1964,
+    "cast": [
+      "Rod Steiger",
+      "Geraldine Fitzgerald",
+      "Brock Peters"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-pawnbroker.html"
+}

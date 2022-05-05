@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Venus Model",
+    "year": 1918,
+    "cast": [
+      "Mabel Normand",
+      "Rod La Rocque"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-venus-model.html"
+}

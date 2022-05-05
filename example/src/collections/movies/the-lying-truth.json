@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lying Truth",
+    "year": 1922,
+    "cast": [
+      "Noah Beery",
+      "Marjorie Daw"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lying-truth.html"
+}

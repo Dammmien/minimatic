@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Office Killer",
+    "year": 1997,
+    "cast": [
+      "Carol Kane",
+      "Molly Ringwald",
+      "Jeanne Tripplehorn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/office-killer.html"
+}

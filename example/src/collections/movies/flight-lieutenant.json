@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flight Lieutenant",
+    "year": 1942,
+    "cast": [
+      "Pat O'Brien",
+      "Glenn Ford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flight-lieutenant.html"
+}

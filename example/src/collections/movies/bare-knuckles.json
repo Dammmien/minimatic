@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bare Knuckles",
+    "year": 1977,
+    "cast": [
+      "Robert Viharo",
+      "Sherry Jackson",
+      "Gloria Hendry"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/bare-knuckles.html"
+}

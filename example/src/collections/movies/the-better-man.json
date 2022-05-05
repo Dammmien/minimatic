@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Better Man",
+    "year": 1926,
+    "cast": [
+      "Richard Talmadge",
+      "Ena Gregory"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-better-man.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sweet Surrender",
+    "year": 1935,
+    "cast": [
+      "Frank Parker",
+      "Tamara Drasin"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/sweet-surrender.html"
+}

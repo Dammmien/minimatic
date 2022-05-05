@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "She Married a Cop",
+    "year": 1939,
+    "cast": [
+      "Jean Parker",
+      "Phil Regan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-married-a-cop.html"
+}

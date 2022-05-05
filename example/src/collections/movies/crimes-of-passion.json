@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crimes of Passion",
+    "year": 1984,
+    "cast": [
+      "Kathleen Turner",
+      "Anthony Perkins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/crimes-of-passion.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Battle of Greed",
+    "year": 1937,
+    "cast": [
+      "James Bush",
+      "Jimmy Butler",
+      "Tom Keene"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/battle-of-greed.html"
+}

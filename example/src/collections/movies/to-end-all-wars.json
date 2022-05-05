@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "To End All Wars",
+    "year": 2001,
+    "cast": [
+      "Robert Carlyle",
+      "Kiefer Sutherland",
+      "Ciarán McMenamin"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/to-end-all-wars.html"
+}

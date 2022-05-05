@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "She Loved a Fireman",
+    "year": 1937,
+    "cast": [
+      "Dick Foran",
+      "Ann Sheridan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-loved-a-fireman.html"
+}

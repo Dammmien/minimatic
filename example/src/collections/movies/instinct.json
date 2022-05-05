@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Instinct",
+    "year": 1999,
+    "cast": [
+      "Anthony Hopkins",
+      "Cuba Gooding Jr.",
+      "Donald Sutherland",
+      "Maura Tierney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/instinct.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Dragonball Evolution",
+    "year": 2009,
+    "cast": [
+      "Justin Chatwin",
+      "Emmy Rossum",
+      "Joon Park",
+      "Chow Yun-fat",
+      "James Marsters",
+      "Eriko Tamura",
+      "Jamie Chung",
+      "Randall Duk Kim"
+    ],
+    "genres": [
+      "Action",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/dragonball-evolution.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Man's Country",
+    "year": 1919,
+    "cast": [
+      "Alma Rubens",
+      "Alan Roscoe",
+      "Lon Chaney"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-man-s-country.html"
+}

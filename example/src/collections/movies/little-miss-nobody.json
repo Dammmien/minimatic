@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Little Miss Nobody",
+    "year": 1936,
+    "cast": [
+      "Jane Withers",
+      "Jane Darwell",
+      "Ralph Morgan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-miss-nobody.html"
+}

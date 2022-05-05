@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love in the Time of Cholera",
+    "year": 2007,
+    "cast": [
+      "Giovanna Mezzogiorno",
+      "John Leguizamo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-in-the-time-of-cholera.html"
+}

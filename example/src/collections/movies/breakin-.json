@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Breakin'",
+    "year": 1984,
+    "cast": [
+      "Lucinda Dickey",
+      "Christopher McDonald",
+      "Ice-T"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/breakin-.html"
+}

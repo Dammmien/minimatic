@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Counterfeit Traitor",
+    "year": 1962,
+    "cast": [
+      "William Holden",
+      "Lilli Palmer",
+      "Hugh Griffith"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-counterfeit-traitor.html"
+}

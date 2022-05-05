@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Sunday Morning",
+    "year": 1926,
+    "cast": [
+      "Lloyd Hamilton",
+      "Estelle Bradley",
+      "Stanley Blystone"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-sunday-morning.html"
+}

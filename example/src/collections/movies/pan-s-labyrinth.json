@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pan's Labyrinth",
+    "year": 2006,
+    "cast": [
+      "Ivana Baquero",
+      "Doug Jones",
+      "Sergi López"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/pan-s-labyrinth.html"
+}

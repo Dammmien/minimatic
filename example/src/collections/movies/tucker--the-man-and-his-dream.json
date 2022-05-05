@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Tucker: The Man and His Dream",
+    "year": 1988,
+    "cast": [
+      "Jeff Bridges",
+      "Joan Allen",
+      "Martin Landau",
+      "Lloyd Bridges"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/tucker--the-man-and-his-dream.html"
+}

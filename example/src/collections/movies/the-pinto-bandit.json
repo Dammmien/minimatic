@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pinto Bandit",
+    "year": 1944,
+    "cast": [
+      "Dave O'Brien",
+      "James Newill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-pinto-bandit.html"
+}

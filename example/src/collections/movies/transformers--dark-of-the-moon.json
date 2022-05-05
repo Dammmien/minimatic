@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Transformers: Dark of the Moon",
+    "year": 2011,
+    "cast": [
+      "Shia LaBeouf",
+      "Josh Duhamel",
+      "John Turturro",
+      "Tyrese Gibson",
+      "Rosie Huntington-Whiteley",
+      "Patrick Dempsey",
+      "Kevin Dunn",
+      "Julie White",
+      "John Malkovich",
+      "Frances McDormand"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/transformers--dark-of-the-moon.html"
+}

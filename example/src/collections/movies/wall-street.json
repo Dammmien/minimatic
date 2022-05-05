@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Wall Street",
+    "year": 1987,
+    "cast": [
+      "Charlie Sheen",
+      "Michael Douglas",
+      "Daryl Hannah",
+      "Martin Sheen",
+      "Hal Holbrook",
+      "Terence Stamp"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wall-street.html"
+}

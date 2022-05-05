@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Mission: Impossible – Fallout",
+    "year": 2018,
+    "cast": [
+      "Tom Cruise",
+      "Henry Cavill",
+      "Ving Rhames",
+      "Simon Pegg",
+      "Rebecca Ferguson",
+      "Sean Harris",
+      "Angela Bassett",
+      "Michelle Monaghan",
+      "Alec Baldwin"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ]
+  },
+  "output": "movies/mission--impossible---fallout.html"
+}

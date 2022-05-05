@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tripoli",
+    "year": 1950,
+    "cast": [
+      "Maureen O'Hara",
+      "John Payne"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/tripoli.html"
+}

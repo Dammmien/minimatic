@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "There You Are!",
+    "year": 1926,
+    "cast": [
+      "Conrad Nagel",
+      "Edith Roberts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/there-you-are-.html"
+}

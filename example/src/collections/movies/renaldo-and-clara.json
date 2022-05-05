@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Renaldo and Clara",
+    "year": 1978,
+    "cast": [
+      "Bob Dylan",
+      "Joan Baez",
+      "Harry Dean Stanton"
+    ],
+    "genres": [
+      "Performance"
+    ]
+  },
+  "output": "movies/renaldo-and-clara.html"
+}

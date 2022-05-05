@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hit the Hay",
+    "year": 1945,
+    "cast": [
+      "Judy Canova",
+      "Ross Hunter",
+      "Gloria Holden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hit-the-hay.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Alien",
+    "year": 1979,
+    "cast": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "Harry Dean Stanton",
+      "Veronica Cartwright",
+      "John Hurt",
+      "Ian Holm",
+      "Yaphet Kotto"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ]
+  },
+  "output": "movies/alien.html"
+}

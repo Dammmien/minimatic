@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ghost in the Machine",
+    "year": 1993,
+    "cast": [
+      "Karen Allen",
+      "Chris Mulkey"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/ghost-in-the-machine.html"
+}

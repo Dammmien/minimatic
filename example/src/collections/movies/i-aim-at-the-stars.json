@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Aim at the Stars",
+    "year": 1960,
+    "cast": [
+      "Curd Jürgens",
+      "Herbert Lom",
+      "Gia Scala"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/i-aim-at-the-stars.html"
+}

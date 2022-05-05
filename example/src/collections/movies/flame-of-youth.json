@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flame of Youth",
+    "year": 1949,
+    "cast": [
+      "Barbra Fuller",
+      "Danny Sue Nolan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flame-of-youth.html"
+}

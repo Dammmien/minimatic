@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Unknown Quantity",
+    "year": 1919,
+    "cast": [
+      "Corinne Griffith",
+      "Huntley Gordon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-unknown-quantity.html"
+}

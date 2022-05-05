@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Magnificent Lie",
+    "year": 1931,
+    "cast": [
+      "Ruth Chatterton",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-magnificent-lie.html"
+}

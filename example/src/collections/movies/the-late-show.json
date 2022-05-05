@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Late Show",
+    "year": 1977,
+    "cast": [
+      "Art Carney",
+      "Lily Tomlin",
+      "Eugene Roche",
+      "Bill Macy",
+      "Joanna Cassidy",
+      "Ruth Nelson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-late-show.html"
+}

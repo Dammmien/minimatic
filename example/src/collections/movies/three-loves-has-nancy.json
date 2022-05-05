@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Loves Has Nancy",
+    "year": 1938,
+    "cast": [
+      "Janet Gaynor",
+      "Robert Montgomery",
+      "Franchot Tone"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-loves-has-nancy.html"
+}

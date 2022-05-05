@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Grim Prairie Tales",
+    "year": 1990,
+    "cast": [
+      "James Earl Jones"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/grim-prairie-tales.html"
+}

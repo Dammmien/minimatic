@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Greater Love",
+    "year": 1913,
+    "cast": [
+      "Charlotte Burton",
+      "Mabel Brown",
+      "Edward Coxen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-greater-love.html"
+}

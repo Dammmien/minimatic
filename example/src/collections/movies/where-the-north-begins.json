@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Where the North Begins",
+    "year": 1923,
+    "cast": [
+      "Claire Adams",
+      "Walter McGrail",
+      "Rin Tin Tin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/where-the-north-begins.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Truth About Cats & Dogs",
+    "year": 1996,
+    "cast": [
+      "Uma Thurman",
+      "Janeane Garafalo",
+      "Ben Chaplin",
+      "Jamie Foxx"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-truth-about-cats---dogs.html"
+}

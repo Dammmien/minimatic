@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "State Police",
+    "year": 1938,
+    "cast": [
+      "William Lundigan",
+      "Constance Moore"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/state-police.html"
+}

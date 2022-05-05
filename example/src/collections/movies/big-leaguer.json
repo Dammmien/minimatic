@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Big Leaguer",
+    "year": 1953,
+    "cast": [
+      "Edward G. Robinson",
+      "Vera-Ellen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/big-leaguer.html"
+}

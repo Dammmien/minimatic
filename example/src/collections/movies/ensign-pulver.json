@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Ensign Pulver",
+    "year": 1964,
+    "cast": [
+      "Robert Walker, Jr.",
+      "Burl Ives",
+      "Walter Matthau",
+      "Larry Hagman",
+      "Peter Marshall",
+      "James Coco",
+      "Jack Nicholson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ensign-pulver.html"
+}

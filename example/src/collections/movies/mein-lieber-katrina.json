@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mein Lieber Katrina",
+    "year": 1914,
+    "cast": [
+      "Charlotte Burton",
+      "George Field",
+      "Ida Lewis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mein-lieber-katrina.html"
+}

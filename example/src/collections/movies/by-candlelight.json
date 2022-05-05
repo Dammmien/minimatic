@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "By Candlelight",
+    "year": 1933,
+    "cast": [
+      "Elissa Landi",
+      "Paul Lukas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/by-candlelight.html"
+}

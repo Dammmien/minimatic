@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Walk Softly, Stranger",
+    "year": 1950,
+    "cast": [
+      "Joseph Cotten",
+      "Alida Valli",
+      "Spring Byington"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/walk-softly--stranger.html"
+}

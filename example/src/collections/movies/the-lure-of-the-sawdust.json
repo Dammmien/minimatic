@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lure of the Sawdust",
+    "year": 1914,
+    "cast": [
+      "Charlotte Burton",
+      "George Field",
+      "Edward Coxen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lure-of-the-sawdust.html"
+}

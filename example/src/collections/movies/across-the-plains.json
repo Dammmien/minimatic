@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Across the Plains",
+    "year": 1939,
+    "cast": [
+      "Addison Randall",
+      "Frank Yaconelli"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/across-the-plains.html"
+}

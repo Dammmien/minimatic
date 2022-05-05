@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chastity",
+    "year": 1969,
+    "cast": [
+      "Cher",
+      "Stephen Whittaker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/chastity.html"
+}

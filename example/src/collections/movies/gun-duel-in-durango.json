@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gun Duel in Durango",
+    "year": 1957,
+    "cast": [
+      "George Montgomery",
+      "Ann Robinson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gun-duel-in-durango.html"
+}

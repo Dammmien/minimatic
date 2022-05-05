@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Back from the Front",
+    "year": 1943,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/back-from-the-front.html"
+}

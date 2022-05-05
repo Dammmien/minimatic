@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Who Died Twice",
+    "year": 1958,
+    "cast": [
+      "Rod Cameron",
+      "Vera Ralston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-who-died-twice.html"
+}

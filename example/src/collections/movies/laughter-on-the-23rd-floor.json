@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Laughter on the 23rd Floor",
+    "year": 2001,
+    "cast": [
+      "Nathan Lane",
+      "Victor Garber",
+      "Peri Gilpin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/laughter-on-the-23rd-floor.html"
+}

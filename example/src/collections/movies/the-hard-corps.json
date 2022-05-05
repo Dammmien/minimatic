@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hard Corps",
+    "year": 2006,
+    "cast": [
+      "Jean-Claude Van Damme",
+      "Vivica A. Fox",
+      "Razaaq Adoti"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-hard-corps.html"
+}

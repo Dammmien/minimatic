@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Elephant Stampede",
+    "year": 1951,
+    "cast": [
+      "Johnny Sheffield",
+      "Donna Martell"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/elephant-stampede.html"
+}

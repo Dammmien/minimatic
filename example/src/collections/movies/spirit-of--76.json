@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spirit of '76",
+    "year": 1990,
+    "cast": [
+      "Carl Reiner",
+      "Rob Reiner"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/spirit-of--76.html"
+}

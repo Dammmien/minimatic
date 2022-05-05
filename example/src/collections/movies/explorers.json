@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Explorers",
+    "year": 1985,
+    "cast": [
+      "River Phoenix",
+      "Ethan Hawke",
+      "Jason Presson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/explorers.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Colorado Ambush",
+    "year": 1951,
+    "cast": [
+      "Johnny Mack Brown",
+      "Lois Hall"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/colorado-ambush.html"
+}

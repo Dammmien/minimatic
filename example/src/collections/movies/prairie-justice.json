@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prairie Justice",
+    "year": 1938,
+    "cast": [
+      "Bob Baker",
+      "Dorothy Fay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/prairie-justice.html"
+}

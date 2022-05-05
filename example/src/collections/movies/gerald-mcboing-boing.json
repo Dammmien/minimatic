@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Gerald McBoing-Boing",
+    "year": 1951,
+    "cast": [
+      "Marvin Miller"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/gerald-mcboing-boing.html"
+}

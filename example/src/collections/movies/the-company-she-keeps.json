@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Company She Keeps",
+    "year": 1951,
+    "cast": [
+      "Lizabeth Scott",
+      "Jane Greer",
+      "Dennis O'Keefe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-company-she-keeps.html"
+}

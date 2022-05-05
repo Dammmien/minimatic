@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Crossroads",
+    "year": 2002,
+    "cast": [
+      "Britney Spears",
+      "Anson Mount",
+      "Zoe Saldana",
+      "Taryn Manning",
+      "Kim Cattrall",
+      "Dan Aykroyd"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/crossroads.html"
+}

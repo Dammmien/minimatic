@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hours and Times",
+    "year": 1991,
+    "cast": [
+      "David Angus",
+      "Ian Hart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hours-and-times.html"
+}

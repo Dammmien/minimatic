@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rosebud",
+    "year": 1975,
+    "cast": [
+      "Peter O'Toole",
+      "Peter Lawford"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/rosebud.html"
+}

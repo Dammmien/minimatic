@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mad Hot Ballroom",
+    "year": 2005,
+    "cast": [
+      "ballroom dance",
+      "in New York school system"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/mad-hot-ballroom.html"
+}

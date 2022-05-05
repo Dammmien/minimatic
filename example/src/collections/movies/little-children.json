@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Little Children",
+    "year": 2006,
+    "cast": [
+      "Kate Winslet",
+      "Patrick Wilson",
+      "Jennifer Connelly",
+      "Jackie Earle Haley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-children.html"
+}

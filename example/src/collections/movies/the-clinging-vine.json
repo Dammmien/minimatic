@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Clinging Vine",
+    "year": 1926,
+    "cast": [
+      "Leatrice Joy",
+      "Tom Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-clinging-vine.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Main Street After Dark",
+    "year": 1945,
+    "cast": [
+      "Edward Arnold",
+      "Dorothy Morris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/main-street-after-dark.html"
+}

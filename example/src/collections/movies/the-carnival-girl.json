@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Carnival Girl",
+    "year": 1926,
+    "cast": [
+      "Marion Mack",
+      "Gladys Brockwell",
+      "Frankie Darro"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-carnival-girl.html"
+}

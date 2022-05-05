@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "American Fable",
+    "year": 2017,
+    "cast": [
+      "Peyton Kennedy",
+      "Richard Schiff",
+      "Kip Pardue",
+      "Marci Miller",
+      "Gavin MacIntosh",
+      "Zuleikha Robinson"
+    ],
+    "genres": [
+      "Thriller",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/american-fable.html"
+}

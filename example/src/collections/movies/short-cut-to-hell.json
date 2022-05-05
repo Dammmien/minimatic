@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Short Cut to Hell",
+    "year": 1957,
+    "cast": [
+      "Robert Ivers",
+      "Georgann Johnson"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/short-cut-to-hell.html"
+}

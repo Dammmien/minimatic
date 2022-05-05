@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "S*P*Y*S",
+    "year": 1974,
+    "cast": [
+      "Donald Sutherland",
+      "Elliott Gould",
+      "Zouzou"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/s-p-y-s.html"
+}

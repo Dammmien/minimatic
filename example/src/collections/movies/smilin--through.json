@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Smilin' Through",
+    "year": 1941,
+    "cast": [
+      "Jeanette MacDonald",
+      "Brian Aherne"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/smilin--through.html"
+}

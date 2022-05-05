@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tony Runs Wild",
+    "year": 1926,
+    "cast": [
+      "Tom Mix",
+      "Jacqueline Logan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/tony-runs-wild.html"
+}

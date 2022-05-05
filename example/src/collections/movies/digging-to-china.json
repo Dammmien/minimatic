@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Digging to China",
+    "year": 1998,
+    "cast": [
+      "Evan Rachel Wood",
+      "Kevin Bacon",
+      "Mary Stuart Masterson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/digging-to-china.html"
+}

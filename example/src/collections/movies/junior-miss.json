@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Junior Miss",
+    "year": 1945,
+    "cast": [
+      "Peggy Ann Garner",
+      "Faye Emerson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/junior-miss.html"
+}

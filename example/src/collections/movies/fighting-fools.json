@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fighting Fools",
+    "year": 1949,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fighting-fools.html"
+}

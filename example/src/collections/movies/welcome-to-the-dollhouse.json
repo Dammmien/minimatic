@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Welcome to the Dollhouse",
+    "year": 1995,
+    "cast": [
+      "Heather Matarazzo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/welcome-to-the-dollhouse.html"
+}

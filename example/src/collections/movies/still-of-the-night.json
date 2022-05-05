@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Still of the Night",
+    "year": 1982,
+    "cast": [
+      "Meryl Streep",
+      "Roy Scheider"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/still-of-the-night.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Reform Girl",
+    "year": 1933,
+    "cast": [
+      "Noel Francis",
+      "Richard Gallagher"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/reform-girl.html"
+}

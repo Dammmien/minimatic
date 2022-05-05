@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Liebestraum",
+    "year": 1991,
+    "cast": [
+      "Bill Pullman",
+      "Kevin Anderson",
+      "Kim Novak"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/liebestraum.html"
+}

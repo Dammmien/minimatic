@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Collide",
+    "year": 2017,
+    "cast": [
+      "Nicholas Hoult",
+      "Felicity Jones",
+      "Anthony Hopkins",
+      "Ben Kingsley"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/collide.html"
+}

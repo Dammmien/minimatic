@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "American Assassin",
+    "year": 2017,
+    "cast": [
+      "Dylan O'Brien",
+      "Michael Keaton",
+      "Sanaa Lathan",
+      "Shiva Negar",
+      "Taylor Kitsch"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/american-assassin.html"
+}

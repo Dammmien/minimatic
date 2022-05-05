@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Deliver Us from Eva",
+    "year": 2003,
+    "cast": [
+      "LL Cool J",
+      "Gabrielle Union"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/deliver-us-from-eva.html"
+}

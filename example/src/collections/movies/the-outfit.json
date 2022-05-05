@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Outfit",
+    "year": 1973,
+    "cast": [
+      "Robert Duvall",
+      "Karen Black",
+      "Joe Don Baker",
+      "Sheree North",
+      "Robert Ryan"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-outfit.html"
+}

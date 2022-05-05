@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "City Streets",
+    "year": 1938,
+    "cast": [
+      "Leo Carrillo",
+      "Edith Fellows"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/city-streets.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Disorganized Crime",
+    "year": 1989,
+    "cast": [
+      "Fred Gwynne",
+      "Lou Diamond Phillips",
+      "Rubén Blades",
+      "Corbin Bernsen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/disorganized-crime.html"
+}

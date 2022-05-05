@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Siren of Bagdad",
+    "year": 1953,
+    "cast": [
+      "Paul Henreid",
+      "Patricia Medina"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/siren-of-bagdad.html"
+}

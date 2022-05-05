@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Uncle Drew",
+    "year": 2018,
+    "cast": [
+      "Kyrie Irving",
+      "Lil Rel Howery",
+      "Shaquille O'Neal",
+      "Reggie Miller",
+      "Nate Robinson",
+      "Chris Webber",
+      "Erica Ash",
+      "Lisa Leslie",
+      "Nick Kroll",
+      "Tiffany Haddish"
+    ],
+    "genres": [
+      "Comedy",
+      "Family",
+      "Sports"
+    ]
+  },
+  "output": "movies/uncle-drew.html"
+}

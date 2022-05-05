@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hogan's Alley",
+    "year": 1925,
+    "cast": [
+      "Monte Blue",
+      "Patsy Ruth Miller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hogan-s-alley.html"
+}

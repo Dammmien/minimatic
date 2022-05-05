@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Wonder Boys",
+    "year": 2000,
+    "cast": [
+      "Michael Douglas",
+      "Tobey Maguire",
+      "Frances McDormand",
+      "Katie Holmes",
+      "Robert Downey, Jr."
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/wonder-boys.html"
+}

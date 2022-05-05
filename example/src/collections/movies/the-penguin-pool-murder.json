@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Penguin Pool Murder",
+    "year": 1932,
+    "cast": [
+      "Edna May Oliver",
+      "Mae Clarke"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-penguin-pool-murder.html"
+}

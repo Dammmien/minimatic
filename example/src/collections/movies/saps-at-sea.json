@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Saps at Sea",
+    "year": 1940,
+    "cast": [
+      "Laurel and Hardy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/saps-at-sea.html"
+}

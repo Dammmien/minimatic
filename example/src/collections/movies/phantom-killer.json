@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Phantom Killer",
+    "year": 1942,
+    "cast": [
+      "Dick Purcell",
+      "Joan Woodbury"
+    ],
+    "genres": [
+      "Romance",
+      "Mystery"
+    ]
+  },
+  "output": "movies/phantom-killer.html"
+}

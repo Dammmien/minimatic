@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting Shadows",
+    "year": 1935,
+    "cast": [
+      "Tim McCoy",
+      "Geneva Mitchell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fighting-shadows.html"
+}

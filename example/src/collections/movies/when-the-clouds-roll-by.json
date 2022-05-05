@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When the Clouds Roll By",
+    "year": 1919,
+    "cast": [
+      "Douglas Fairbanks",
+      "Kathleen Clifford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/when-the-clouds-roll-by.html"
+}

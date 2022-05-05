@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Redeemer",
+    "year": 1920,
+    "cast": [
+      "House Peters",
+      "Marjorie Daw"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-great-redeemer.html"
+}

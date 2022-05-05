@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Presenting Lily Mars",
+    "year": 1943,
+    "cast": [
+      "Judy Garland",
+      "Van Heflin"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/presenting-lily-mars.html"
+}

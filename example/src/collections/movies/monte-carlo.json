@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Monte Carlo",
+    "year": 2011,
+    "cast": [
+      "Selena Gomez",
+      "Leighton Meester",
+      "Katie Cassidy",
+      "Cory Monteith",
+      "Andie MacDowell",
+      "Brett Cullen",
+      "Catherine Tate",
+      "Luke Bracey",
+      "Pierre Boulanger"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/monte-carlo.html"
+}

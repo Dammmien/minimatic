@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Danny Roane: First Time Director",
+    "year": 2006,
+    "cast": [
+      "Andy Dick",
+      "Frankie Muniz",
+      "Jack Black"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/danny-roane--first-time-director.html"
+}

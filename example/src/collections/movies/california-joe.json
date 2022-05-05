@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "California Joe",
+    "year": 1943,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Helen Talbot"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/california-joe.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ben-Hur",
+    "year": 2016,
+    "cast": [
+      "Jack Huston",
+      "Toby Kebbell"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/ben-hur.html"
+}

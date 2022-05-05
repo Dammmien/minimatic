@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Make a Wish",
+    "year": 1937,
+    "cast": [
+      "Bobby Breen",
+      "Basil Rathbone",
+      "Ralph Forbes"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/make-a-wish.html"
+}

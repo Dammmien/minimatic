@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "And the Sea Will Tell",
+    "year": 1991,
+    "cast": [
+      "Rachel Ward",
+      "James Brolin",
+      "Richard Crenna",
+      "Deidre Hall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/and-the-sea-will-tell.html"
+}

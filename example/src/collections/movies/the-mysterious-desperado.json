@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mysterious Desperado",
+    "year": 1949,
+    "cast": [
+      "Tim Holt",
+      "Richard Martin",
+      "Movita Castaneda"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-mysterious-desperado.html"
+}

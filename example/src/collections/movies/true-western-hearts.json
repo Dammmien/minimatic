@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "True Western Hearts",
+    "year": 1914,
+    "cast": [
+      "Sydney Ayres",
+      "Helen Armstrong",
+      "Jacques Jaccard"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/true-western-hearts.html"
+}

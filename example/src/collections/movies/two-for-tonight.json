@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two for Tonight",
+    "year": 1935,
+    "cast": [
+      "Bing Crosby",
+      "Joan Bennett",
+      "Mary Boland"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/two-for-tonight.html"
+}

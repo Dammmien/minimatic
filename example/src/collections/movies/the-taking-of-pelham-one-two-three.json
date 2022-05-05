@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Taking of Pelham One Two Three",
+    "year": 1974,
+    "cast": [
+      "Walter Matthau",
+      "Robert Shaw",
+      "Martin Balsam",
+      "Hector Elizondo",
+      "Jerry Stiller"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-taking-of-pelham-one-two-three.html"
+}

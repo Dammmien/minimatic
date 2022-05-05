@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Repo! The Genetic Opera",
+    "year": 2008,
+    "cast": [
+      "Alexa Vega",
+      "Anthony Stewart Head",
+      "Sarah Brightman",
+      "Paris Hilton"
+    ],
+    "genres": [
+      "Horror",
+      "Musical"
+    ]
+  },
+  "output": "movies/repo--the-genetic-opera.html"
+}

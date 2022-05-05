@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scarecrow",
+    "year": 1973,
+    "cast": [
+      "Gene Hackman",
+      "Al Pacino"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/scarecrow.html"
+}

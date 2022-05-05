@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chimmie Fadden",
+    "year": 1915,
+    "cast": [
+      "Victor Moore"
+    ],
+    "genres": [
+      "Comedy",
+      "Western"
+    ]
+  },
+  "output": "movies/chimmie-fadden.html"
+}

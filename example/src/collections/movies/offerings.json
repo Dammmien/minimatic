@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Offerings",
+    "year": 1989,
+    "cast": [
+      "Loretta Leigh Bowman",
+      "Tobe Sexton"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/offerings.html"
+}

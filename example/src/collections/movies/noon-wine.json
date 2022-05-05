@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Noon Wine",
+    "year": 1985,
+    "cast": [
+      "Stellan Skarsgård",
+      "Fred Ward",
+      "Jon Cryer",
+      "Lise Hilboldt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/noon-wine.html"
+}

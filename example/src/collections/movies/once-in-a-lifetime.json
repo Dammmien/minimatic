@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Once in a Lifetime",
+    "year": 1932,
+    "cast": [
+      "Jack Oakie",
+      "Sidney Fox"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/once-in-a-lifetime.html"
+}

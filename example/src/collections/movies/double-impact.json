@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Double Impact",
+    "year": 1991,
+    "cast": [
+      "Jean-Claude Van Damme"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/double-impact.html"
+}

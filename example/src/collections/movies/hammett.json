@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hammett",
+    "year": 1982,
+    "cast": [
+      "Frederic Forrest",
+      "Marilu Henner",
+      "Peter Boyle"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/hammett.html"
+}

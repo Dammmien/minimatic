@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Colossus of New York",
+    "year": 1958,
+    "cast": [
+      "Ross Martin",
+      "Hardy Krüger",
+      "Mala Powers"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-colossus-of-new-york.html"
+}

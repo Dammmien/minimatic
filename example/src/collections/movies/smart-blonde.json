@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smart Blonde",
+    "year": 1937,
+    "cast": [
+      "Glenda Farrell",
+      "Barton MacLane"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/smart-blonde.html"
+}

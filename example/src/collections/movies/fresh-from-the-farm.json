@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Fresh from the Farm",
+    "year": 1915,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fresh-from-the-farm.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Docks of New York",
+    "year": 1928,
+    "cast": [
+      "George Bancroft",
+      "Betty Compson",
+      "Olga Baclanova"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-docks-of-new-york.html"
+}

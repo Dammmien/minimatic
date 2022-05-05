@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chatterbox",
+    "year": 1943,
+    "cast": [
+      "Joe E. Brown",
+      "Judy Canova"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/chatterbox.html"
+}

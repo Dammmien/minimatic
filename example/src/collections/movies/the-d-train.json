@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The D Train",
+    "year": 2015,
+    "cast": [
+      "Jack Black",
+      "James Marsden",
+      "Kathryn Hahn"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-d-train.html"
+}

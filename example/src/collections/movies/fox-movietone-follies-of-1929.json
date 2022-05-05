@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fox Movietone Follies of 1929",
+    "year": 1929,
+    "cast": [
+      "Sue Carol",
+      "Dixie Lee"
+    ],
+    "genres": [
+      "Musical",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/fox-movietone-follies-of-1929.html"
+}

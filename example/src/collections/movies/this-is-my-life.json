@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "This Is My Life",
+    "year": 1992,
+    "cast": [
+      "Julie Kavner",
+      "Samantha Mathis",
+      "Carrie Fisher"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/this-is-my-life.html"
+}

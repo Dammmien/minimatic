@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Let's Face It",
+    "year": 1943,
+    "cast": [
+      "Betty Hutton",
+      "Bob Hope"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-s-face-it.html"
+}

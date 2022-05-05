@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Movie Crazy",
+    "year": 1932,
+    "cast": [
+      "Harold Lloyd",
+      "Constance Cummings",
+      "Kenneth Thomson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/movie-crazy.html"
+}

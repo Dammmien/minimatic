@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pioneer Marshal",
+    "year": 1949,
+    "cast": [
+      "Monte Hale",
+      "Paul Hurst",
+      "Nan Leslie"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/pioneer-marshal.html"
+}

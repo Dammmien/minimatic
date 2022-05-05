@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Jacob",
+    "year": 1994,
+    "cast": [],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jacob.html"
+}

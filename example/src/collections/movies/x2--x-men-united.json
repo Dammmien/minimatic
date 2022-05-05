@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "X2: X-Men United",
+    "year": 2003,
+    "cast": [
+      "Hugh Jackman",
+      "Patrick Stewart",
+      "Ian McKellen",
+      "Famke Janssen",
+      "Halle Berry",
+      "Anna Paquin"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/x2--x-men-united.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In Our Time",
+    "year": 1944,
+    "cast": [
+      "Ida Lupino",
+      "Paul Henreid"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/in-our-time.html"
+}

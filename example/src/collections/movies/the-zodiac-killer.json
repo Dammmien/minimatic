@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Zodiac Killer",
+    "year": 1971,
+    "cast": [
+      "Hal Reed",
+      "Bob Jones",
+      "Ray Lynch",
+      "Tom Pittman"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-zodiac-killer.html"
+}

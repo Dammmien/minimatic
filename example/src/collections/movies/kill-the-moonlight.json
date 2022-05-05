@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kill the Moonlight",
+    "year": 1994,
+    "cast": [
+      "Thomas Hendrix",
+      "Ross Harris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kill-the-moonlight.html"
+}

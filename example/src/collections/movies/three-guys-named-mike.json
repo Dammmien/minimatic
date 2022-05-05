@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Guys Named Mike",
+    "year": 1951,
+    "cast": [
+      "Jane Wyman",
+      "Van Johnson",
+      "Howard Keel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/three-guys-named-mike.html"
+}

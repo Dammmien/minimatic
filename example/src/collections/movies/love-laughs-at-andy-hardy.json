@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Laughs at Andy Hardy",
+    "year": 1946,
+    "cast": [
+      "Mickey Rooney",
+      "Lewis Stone",
+      "Bonita Granville"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-laughs-at-andy-hardy.html"
+}

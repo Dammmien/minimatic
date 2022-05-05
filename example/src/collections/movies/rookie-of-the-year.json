@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rookie of the Year",
+    "year": 1993,
+    "cast": [
+      "Thomas Ian Nicholas",
+      "Gary Busey",
+      "Dan Hedaya"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rookie-of-the-year.html"
+}

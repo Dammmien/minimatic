@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Forbidden Company",
+    "year": 1932,
+    "cast": [
+      "Sally Blane",
+      "John Darrow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/forbidden-company.html"
+}

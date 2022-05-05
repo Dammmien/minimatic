@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Silencers",
+    "year": 1966,
+    "cast": [
+      "Dean Martin",
+      "Stella Stevens",
+      "Daliah Lavi",
+      "Victor Buono",
+      "Nancy Kovack",
+      "Cyd Charisse"
+    ],
+    "genres": [
+      "Spy",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-silencers.html"
+}

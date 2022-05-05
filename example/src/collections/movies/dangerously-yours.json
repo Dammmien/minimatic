@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dangerously Yours",
+    "year": 1937,
+    "cast": [
+      "Cesar Romero",
+      "Phyllis Brooks"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/dangerously-yours.html"
+}

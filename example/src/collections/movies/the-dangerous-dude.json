@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dangerous Dude",
+    "year": 1926,
+    "cast": [
+      "Reed Howes",
+      "Dorothy Dwan"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-dangerous-dude.html"
+}

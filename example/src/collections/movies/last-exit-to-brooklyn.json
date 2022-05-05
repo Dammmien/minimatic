@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Last Exit to Brooklyn",
+    "year": 1989,
+    "cast": [
+      "Jennifer Jason Leigh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/last-exit-to-brooklyn.html"
+}

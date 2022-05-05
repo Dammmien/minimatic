@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lonesome Luke, Circus King",
+    "year": 1916,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Short",
+      "Comedy"
+    ]
+  },
+  "output": "movies/lonesome-luke--circus-king.html"
+}

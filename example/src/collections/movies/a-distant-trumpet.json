@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Distant Trumpet",
+    "year": 1964,
+    "cast": [
+      "Troy Donahue",
+      "Suzanne Pleshette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-distant-trumpet.html"
+}

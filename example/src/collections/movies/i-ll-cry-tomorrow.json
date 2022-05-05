@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I'll Cry Tomorrow",
+    "year": 1955,
+    "cast": [
+      "Susan Hayward",
+      "Richard Conte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-ll-cry-tomorrow.html"
+}

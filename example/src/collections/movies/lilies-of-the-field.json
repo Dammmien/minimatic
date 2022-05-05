@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lilies of the Field",
+    "year": 1963,
+    "cast": [
+      "Sidney Poitier",
+      "Lilia Skala"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lilies-of-the-field.html"
+}

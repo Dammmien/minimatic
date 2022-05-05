@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Vicky Cristina Barcelona",
+    "year": 2008,
+    "cast": [
+      "Javier Bardem",
+      "Penélope Cruz",
+      "Scarlett Johansson",
+      "Rebecca Hall",
+      "Patricia Clarkson"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/vicky-cristina-barcelona.html"
+}

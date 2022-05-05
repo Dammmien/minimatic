@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Law of the Plains",
+    "year": 1938,
+    "cast": [
+      "Charles Starrett",
+      "Iris Meredith"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/law-of-the-plains.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Rainy Afternoon",
+    "year": 1936,
+    "cast": [
+      "Ida Lupino",
+      "Hugh Herbert",
+      "Roland Young"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-rainy-afternoon.html"
+}

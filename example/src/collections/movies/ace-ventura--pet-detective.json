@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Ace Ventura: Pet Detective",
+    "year": 1994,
+    "cast": [
+      "Jim Carrey",
+      "Courteney Cox",
+      "Sean Young",
+      "Tone Loc",
+      "Dan Marino"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ace-ventura--pet-detective.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mother Knows Best",
+    "year": 1928,
+    "cast": [
+      "Madge Bellamy",
+      "Louise Dresser",
+      "Barry Norton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mother-knows-best.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Deadly Hero",
+    "year": 1976,
+    "cast": [
+      "Don Murray",
+      "James Earl Jones",
+      "Lilia Skala"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/deadly-hero.html"
+}

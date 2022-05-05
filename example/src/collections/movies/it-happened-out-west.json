@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It Happened Out West",
+    "year": 1937,
+    "cast": [
+      "Paul Kelly",
+      "Judith Allen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/it-happened-out-west.html"
+}

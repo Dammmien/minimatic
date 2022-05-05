@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Swing Hostess",
+    "year": 1944,
+    "cast": [
+      "Martha Tilton",
+      "Iris Adrian"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/swing-hostess.html"
+}

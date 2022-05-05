@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Darkman",
+    "year": 1990,
+    "cast": [
+      "Liam Neeson",
+      "Frances McDormand",
+      "Colin Friels",
+      "Larry Drake"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/darkman.html"
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Art of Getting By",
+    "year": 2011,
+    "cast": [
+      "Freddie Highmore",
+      "Emma Roberts",
+      "Michael Angarano",
+      "Elizabeth Reaser",
+      "Sam Robards",
+      "Alicia Silverstone",
+      "Rita Wilson",
+      "Blair Underwood"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Teen"
+    ]
+  },
+  "output": "movies/the-art-of-getting-by.html"
+}

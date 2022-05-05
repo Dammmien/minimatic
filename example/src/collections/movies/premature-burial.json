@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Premature Burial",
+    "year": 1962,
+    "cast": [
+      "Ray Milland",
+      "Hazel Court",
+      "Alan Napier"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/premature-burial.html"
+}

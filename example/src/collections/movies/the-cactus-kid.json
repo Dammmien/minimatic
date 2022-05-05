@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Cactus Kid",
+    "year": 1921,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-cactus-kid.html"
+}

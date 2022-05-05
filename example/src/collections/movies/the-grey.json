@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Grey",
+    "year": 2012,
+    "cast": [
+      "Liam Neeson",
+      "Frank Grillo",
+      "Dermot Mulroney",
+      "Dallas Roberts",
+      "Joe Anderson",
+      "Nonso Anozie",
+      "James Badge Dale"
+    ],
+    "genres": [
+      "Action",
+      "Thriller",
+      "Adventure",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-grey.html"
+}

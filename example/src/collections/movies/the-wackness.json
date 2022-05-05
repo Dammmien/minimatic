@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Wackness",
+    "year": 2008,
+    "cast": [
+      "Ben Kingsley",
+      "Josh Peck",
+      "Famke Janssen",
+      "Olivia Thirlby",
+      "Mary-Kate Olsen",
+      "Method Man"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-wackness.html"
+}

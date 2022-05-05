@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild Bill Hickok",
+    "year": 1923,
+    "cast": [
+      "William S. Hart",
+      "Ethel Grey Terry"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wild-bill-hickok.html"
+}

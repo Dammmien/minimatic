@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Porky's",
+    "year": 1982,
+    "cast": [
+      "Kim Cattrall",
+      "Mark Herrier",
+      "Wyatt Knight"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/porky-s.html"
+}

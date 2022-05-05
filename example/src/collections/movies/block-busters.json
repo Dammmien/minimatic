@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Block Busters",
+    "year": 1944,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Gabriel Dell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/block-busters.html"
+}

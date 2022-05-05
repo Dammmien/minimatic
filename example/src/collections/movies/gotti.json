@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Gotti",
+    "year": 2018,
+    "cast": [
+      "John Travolta",
+      "Kelly Preston",
+      "Stacy Keach",
+      "Pruitt Taylor Vince",
+      "Spencer Lofranco",
+      "William DeMeo",
+      "Leo Rossi",
+      "Victor Gojcaj"
+    ],
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/gotti.html"
+}

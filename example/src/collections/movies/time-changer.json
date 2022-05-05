@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Time Changer",
+    "year": 2002,
+    "cast": [
+      "D. David Morin",
+      "Gavin MacLeod"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/time-changer.html"
+}

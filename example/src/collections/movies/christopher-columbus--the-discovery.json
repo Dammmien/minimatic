@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Christopher Columbus: The Discovery",
+    "year": 1992,
+    "cast": [
+      "Georges Corraface",
+      "Rachel Ward",
+      "Tom Selleck",
+      "Marlon Brando"
+    ],
+    "genres": [
+      "Adventure",
+      "Biography"
+    ]
+  },
+  "output": "movies/christopher-columbus--the-discovery.html"
+}

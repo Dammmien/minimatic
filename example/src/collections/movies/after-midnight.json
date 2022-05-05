@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "After Midnight",
+    "year": 1989,
+    "cast": [
+      "Marg Helgenberger",
+      "Marc McClure"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/after-midnight.html"
+}

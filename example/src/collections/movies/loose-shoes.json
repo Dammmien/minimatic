@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Loose Shoes",
+    "year": 1980,
+    "cast": [
+      "Royce D. Applegate"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/loose-shoes.html"
+}

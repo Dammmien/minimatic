@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Skin Game",
+    "year": 1971,
+    "cast": [
+      "James Garner",
+      "Louis Gossett, Jr.",
+      "Susan Clark"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/skin-game.html"
+}

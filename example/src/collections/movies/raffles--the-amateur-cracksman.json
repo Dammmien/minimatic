@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Raffles, the Amateur Cracksman",
+    "year": 1925,
+    "cast": [
+      "House Peters",
+      "Miss DuPont",
+      "Hedda Hopper"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/raffles--the-amateur-cracksman.html"
+}

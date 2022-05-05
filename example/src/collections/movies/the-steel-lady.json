@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Steel Lady",
+    "year": 1953,
+    "cast": [
+      "Rod Cameron",
+      "Tab Hunter",
+      "John Dehner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-steel-lady.html"
+}

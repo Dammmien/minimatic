@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Nobody's Fool",
+    "year": 2018,
+    "cast": [
+      "Tiffany Haddish",
+      "Tika Sumpter",
+      "Omari Hardwick",
+      "Whoopi Goldberg",
+      "Amber Riley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nobody-s-fool.html"
+}

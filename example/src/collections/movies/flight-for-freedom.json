@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flight for Freedom",
+    "year": 1943,
+    "cast": [
+      "Rosalind Russell",
+      "Fred MacMurray",
+      "Herbert Marshall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flight-for-freedom.html"
+}

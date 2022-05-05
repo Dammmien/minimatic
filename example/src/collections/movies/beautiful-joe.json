@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beautiful Joe",
+    "year": 2000,
+    "cast": [
+      "Sharon Stone",
+      "Billy Connolly"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/beautiful-joe.html"
+}

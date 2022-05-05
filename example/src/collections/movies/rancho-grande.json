@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rancho Grande",
+    "year": 1940,
+    "cast": [
+      "Gene Autry",
+      "June Storey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rancho-grande.html"
+}

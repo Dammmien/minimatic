@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Biggie & Tupac",
+    "year": 2002,
+    "cast": [
+      "deaths of",
+      "Biggie Smalls",
+      "and",
+      "Tupac Shakur"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/biggie---tupac.html"
+}

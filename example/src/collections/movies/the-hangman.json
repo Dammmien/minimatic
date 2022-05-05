@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hangman",
+    "year": 1959,
+    "cast": [
+      "Robert Taylor",
+      "Tina Louise",
+      "Fess Parker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-hangman.html"
+}

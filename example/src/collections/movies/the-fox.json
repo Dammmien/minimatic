@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fox",
+    "year": 1967,
+    "cast": [
+      "Sandy Dennis",
+      "Keir Dullea",
+      "Anne Heywood"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fox.html"
+}

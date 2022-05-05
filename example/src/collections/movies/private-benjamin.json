@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Private Benjamin",
+    "year": 1980,
+    "cast": [
+      "Goldie Hawn",
+      "Armand Assante",
+      "Eileen Brennan",
+      "Albert Brooks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/private-benjamin.html"
+}

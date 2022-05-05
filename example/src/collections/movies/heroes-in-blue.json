@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Heroes in Blue",
+    "year": 1939,
+    "cast": [
+      "Dick Purcell",
+      "Bernadene Hayes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/heroes-in-blue.html"
+}

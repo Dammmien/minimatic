@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Outlaws of Red River",
+    "year": 1927,
+    "cast": [
+      "Tom Mix",
+      "Marjorie Daw"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/outlaws-of-red-river.html"
+}

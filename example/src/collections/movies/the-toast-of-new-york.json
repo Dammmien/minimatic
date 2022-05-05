@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Toast of New York",
+    "year": 1937,
+    "cast": [
+      "Cary Grant",
+      "Frances Farmer",
+      "Edward Arnold"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-toast-of-new-york.html"
+}

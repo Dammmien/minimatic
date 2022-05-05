@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "...And Justice for All",
+    "year": 1979,
+    "cast": [
+      "Al Pacino",
+      "John Forsythe",
+      "Christine Lahti",
+      "Jack Warden",
+      "Jeffrey Tambor"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/---and-justice-for-all.html"
+}

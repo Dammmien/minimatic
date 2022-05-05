@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "10 Cloverfield Lane",
+    "year": 2016,
+    "cast": [
+      "John Goodman",
+      "Mary Elizabeth Winstead"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ]
+  },
+  "output": "movies/10-cloverfield-lane.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blind Fury",
+    "year": 1989,
+    "cast": [
+      "Rutger Hauer",
+      "Terry O'Quinn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blind-fury.html"
+}

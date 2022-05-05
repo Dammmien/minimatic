@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Somebody Loves Me",
+    "year": 1952,
+    "cast": [
+      "Betty Hutton",
+      "Ralph Meeker"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/somebody-loves-me.html"
+}

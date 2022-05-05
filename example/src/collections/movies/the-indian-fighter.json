@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Indian Fighter",
+    "year": 1956,
+    "cast": [
+      "Kirk Douglas",
+      "Walter Matthau"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-indian-fighter.html"
+}

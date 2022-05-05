@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "You Can't Run Away from It",
+    "year": 1956,
+    "cast": [
+      "June Allyson",
+      "Jack Lemmon",
+      "Charles Bickford"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/you-can-t-run-away-from-it.html"
+}

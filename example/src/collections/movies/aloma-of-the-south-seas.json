@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Aloma of the South Seas",
+    "year": 1941,
+    "cast": [
+      "Dorothy Lamour",
+      "Jon Hall"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/aloma-of-the-south-seas.html"
+}

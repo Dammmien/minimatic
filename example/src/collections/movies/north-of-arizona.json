@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "North of Arizona",
+    "year": 1935,
+    "cast": [
+      "Jack Perrin",
+      "Blanche Mehaffey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/north-of-arizona.html"
+}

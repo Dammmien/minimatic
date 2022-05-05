@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Bound for Glory",
+    "year": 1976,
+    "cast": [
+      "David Carradine",
+      "Ronny Cox",
+      "Melinda Dillon",
+      "Randy Quaid",
+      "Gail Strickland"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/bound-for-glory.html"
+}

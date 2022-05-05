@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Lost City of Z",
+    "year": 2017,
+    "cast": [
+      "Charlie Hunnam",
+      "Robert Pattinson",
+      "Tom Holland",
+      "Sienna Miller"
+    ],
+    "genres": [
+      "Adventure",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lost-city-of-z.html"
+}

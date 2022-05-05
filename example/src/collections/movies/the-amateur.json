@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Amateur",
+    "year": 1981,
+    "cast": [
+      "John Savage",
+      "Christopher Plummer"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/the-amateur.html"
+}

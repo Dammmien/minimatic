@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Making Love",
+    "year": 1982,
+    "cast": [
+      "Harry Hamlin",
+      "Kate Jackson",
+      "Michael Ontkean"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/making-love.html"
+}

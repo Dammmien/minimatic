@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Now or Never",
+    "year": 1921,
+    "cast": [
+      "Harold Lloyd",
+      "Mildred Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/now-or-never.html"
+}

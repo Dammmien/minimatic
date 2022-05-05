@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pandora and the Flying Dutchman",
+    "year": 1951,
+    "cast": [
+      "Ava Gardner",
+      "James Mason"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pandora-and-the-flying-dutchman.html"
+}

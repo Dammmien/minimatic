@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Last Dance",
+    "year": 1996,
+    "cast": [
+      "Sharon Stone",
+      "Rob Morrow",
+      "Peter Gallagher",
+      "Randy Quaid"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/last-dance.html"
+}

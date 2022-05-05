@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Out of the Storm",
+    "year": 1948,
+    "cast": [
+      "Jimmy Lydon",
+      "Lois Collier"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/out-of-the-storm.html"
+}

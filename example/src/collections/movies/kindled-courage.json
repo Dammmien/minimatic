@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kindled Courage",
+    "year": 1923,
+    "cast": [
+      "Hoot Gibson",
+      "Beatrice Burnham"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/kindled-courage.html"
+}

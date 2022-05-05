@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Service de Luxe",
+    "year": 1938,
+    "cast": [
+      "Constance Bennett",
+      "Vincent Price"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/service-de-luxe.html"
+}

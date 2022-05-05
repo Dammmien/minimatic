@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Phantom of the Opera",
+    "year": 2004,
+    "cast": [
+      "Gerard Butler",
+      "Emmy Rossum",
+      "Patrick Wilson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-phantom-of-the-opera.html"
+}

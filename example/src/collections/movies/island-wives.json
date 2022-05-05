@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Island Wives",
+    "year": 1922,
+    "cast": [
+      "Corinne Griffith",
+      "Charles Trowbridge"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/island-wives.html"
+}

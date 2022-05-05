@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wives Never Know",
+    "year": 1936,
+    "cast": [
+      "Charlie Ruggles",
+      "Mary Boland",
+      "Adolphe Menjou"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wives-never-know.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wedding March",
+    "year": 1928,
+    "cast": [
+      "Erich von Stroheim",
+      "Fay Wray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wedding-march.html"
+}

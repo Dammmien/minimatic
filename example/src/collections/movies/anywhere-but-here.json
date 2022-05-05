@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Anywhere but Here",
+    "year": 1999,
+    "cast": [
+      "Susan Sarandon",
+      "Natalie Portman",
+      "Shawn Hatosy",
+      "Hart Bochner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/anywhere-but-here.html"
+}

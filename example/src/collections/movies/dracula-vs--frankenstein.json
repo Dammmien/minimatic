@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dracula vs. Frankenstein",
+    "year": 1971,
+    "cast": [
+      "Lon Chaney, Jr.",
+      "J. Carrol Naish"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dracula-vs--frankenstein.html"
+}

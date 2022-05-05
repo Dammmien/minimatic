@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jaws 2",
+    "year": 1978,
+    "cast": [
+      "Roy Scheider",
+      "Murray Hamilton",
+      "Lorraine Gary"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/jaws-2.html"
+}

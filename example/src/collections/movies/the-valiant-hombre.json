@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Valiant Hombre",
+    "year": 1948,
+    "cast": [
+      "Duncan Renaldo",
+      "Leo Carrillo"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-valiant-hombre.html"
+}

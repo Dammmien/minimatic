@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lonesome Luke Leans to the Literary",
+    "year": 1916,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Short",
+      "Comedy"
+    ]
+  },
+  "output": "movies/lonesome-luke-leans-to-the-literary.html"
+}

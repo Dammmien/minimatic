@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Elegy",
+    "year": 2008,
+    "cast": [
+      "Penélope Cruz",
+      "Ben Kingsley",
+      "Peter Sarsgaard"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/elegy.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Woman's Way",
+    "year": 1928,
+    "cast": [
+      "Margaret Livingston",
+      "Warner Baxter"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/a-woman-s-way.html"
+}

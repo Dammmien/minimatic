@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "How the Grinch Stole Christmas",
+    "year": 2000,
+    "cast": [
+      "Jim Carrey",
+      "Christine Baranski",
+      "Jeffrey Tambor",
+      "Molly Shannon",
+      "Taylor Momsen"
+    ],
+    "genres": [
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/how-the-grinch-stole-christmas.html"
+}

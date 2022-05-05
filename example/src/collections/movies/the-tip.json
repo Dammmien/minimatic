@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Tip",
+    "year": 1918,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-tip.html"
+}

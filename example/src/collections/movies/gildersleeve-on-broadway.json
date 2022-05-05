@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gildersleeve on Broadway",
+    "year": 1943,
+    "cast": [
+      "Harold Peary",
+      "Billie Burke"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gildersleeve-on-broadway.html"
+}

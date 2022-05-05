@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "When a Man Loves a Woman",
+    "year": 1994,
+    "cast": [
+      "Andy García",
+      "Meg Ryan",
+      "Tina Majorino",
+      "Mae Whitman",
+      "Ellen Burstyn",
+      "Lauren Tom"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/when-a-man-loves-a-woman.html"
+}

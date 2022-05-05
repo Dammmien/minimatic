@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Buck Benny Rides Again",
+    "year": 1940,
+    "cast": [
+      "Jack Benny",
+      "Ellen Drew",
+      "Eddie Anderson"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/buck-benny-rides-again.html"
+}

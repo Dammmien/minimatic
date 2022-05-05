@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Hit the Deck",
+    "year": 1955,
+    "cast": [
+      "Ann Miller",
+      "Jane Powell",
+      "Debbie Reynolds",
+      "Tony Martin",
+      "Russ Tamblyn",
+      "Vic Damone"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hit-the-deck.html"
+}

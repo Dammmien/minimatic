@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great John L.",
+    "year": 1945,
+    "cast": [
+      "Linda Darnell",
+      "Barbara Britton",
+      "Greg McClure"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-great-john-l-.html"
+}

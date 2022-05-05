@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "June Madness",
+    "year": 1922,
+    "cast": [
+      "Viola Dana",
+      "Bryant Washburn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/june-madness.html"
+}

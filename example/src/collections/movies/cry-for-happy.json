@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cry for Happy",
+    "year": 1961,
+    "cast": [
+      "Glenn Ford",
+      "Donald O'Connor",
+      "James Shigeta"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cry-for-happy.html"
+}

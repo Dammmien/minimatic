@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "House",
+    "year": 1986,
+    "cast": [
+      "William Katt",
+      "Kay Lenz",
+      "George Wendt"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/house.html"
+}

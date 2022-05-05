@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When the Door Opened",
+    "year": 1925,
+    "cast": [
+      "Jacqueline Logan",
+      "Walter McGrail"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/when-the-door-opened.html"
+}

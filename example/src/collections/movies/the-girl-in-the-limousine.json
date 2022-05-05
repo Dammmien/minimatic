@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl in the Limousine",
+    "year": 1924,
+    "cast": [
+      "Larry Semon",
+      "Claire Adams"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-girl-in-the-limousine.html"
+}

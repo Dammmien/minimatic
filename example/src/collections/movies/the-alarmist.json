@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Alarmist",
+    "year": 1997,
+    "cast": [
+      "David Arquette",
+      "Kate Capshaw",
+      "Stanley Tucci"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-alarmist.html"
+}

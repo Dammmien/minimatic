@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Dangerous Profession",
+    "year": 1949,
+    "cast": [
+      "George Raft",
+      "Ella Raines",
+      "Pat O'Brien"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/a-dangerous-profession.html"
+}

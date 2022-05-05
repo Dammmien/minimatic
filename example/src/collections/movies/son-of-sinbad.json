@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Son of Sinbad",
+    "year": 1955,
+    "cast": [
+      "Dale Robertson",
+      "Sally Forrest",
+      "Vincent Price"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/son-of-sinbad.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mad Cowgirl",
+    "year": 2006,
+    "cast": [
+      "Sarah Lassez",
+      "James Duval",
+      "Walter Koenig"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mad-cowgirl.html"
+}

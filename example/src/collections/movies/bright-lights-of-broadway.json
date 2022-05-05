@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bright Lights of Broadway",
+    "year": 1923,
+    "cast": [
+      "Doris Kenyon",
+      "Lowell Sherman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bright-lights-of-broadway.html"
+}

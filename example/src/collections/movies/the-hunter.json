@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Hunter",
+    "year": 1980,
+    "cast": [
+      "Steve McQueen",
+      "Kathryn Harrold",
+      "LeVar Burton",
+      "Ben Johnson",
+      "Eli Wallach"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-hunter.html"
+}

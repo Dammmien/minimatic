@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mask",
+    "year": 1985,
+    "cast": [
+      "Cher",
+      "Eric Stoltz",
+      "Sam Elliott",
+      "Laura Dern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mask.html"
+}

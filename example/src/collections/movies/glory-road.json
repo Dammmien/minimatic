@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Glory Road",
+    "year": 2006,
+    "cast": [
+      "Josh Lucas",
+      "Derek Luke",
+      "Jon Voight"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/glory-road.html"
+}

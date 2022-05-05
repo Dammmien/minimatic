@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Hereditary",
+    "year": 2018,
+    "cast": [
+      "Toni Collette",
+      "Alex Wolff",
+      "Milly Shapiro",
+      "Ann Dowd",
+      "Gabriel Byrne"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/hereditary.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "High Explosive",
+    "year": 1943,
+    "cast": [
+      "Jean Parker",
+      "Chester Morris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/high-explosive.html"
+}

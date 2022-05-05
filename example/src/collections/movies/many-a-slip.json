@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Many a Slip",
+    "year": 1931,
+    "cast": [
+      "Joan Bennett",
+      "Lew Ayres"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/many-a-slip.html"
+}

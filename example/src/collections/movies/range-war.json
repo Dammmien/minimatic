@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Range War",
+    "year": 1939,
+    "cast": [
+      "William Boyd"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/range-war.html"
+}

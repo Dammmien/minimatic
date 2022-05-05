@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Maladies (2012 film)",
+    "year": 2012,
+    "cast": [
+      "James Franco",
+      "Catherine Keener",
+      "Fallon Goodson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/maladies--2012-film-.html"
+}

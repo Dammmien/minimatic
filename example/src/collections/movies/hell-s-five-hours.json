@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell's Five Hours",
+    "year": 1958,
+    "cast": [
+      "Stephen McNally",
+      "Coleen Gray"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/hell-s-five-hours.html"
+}

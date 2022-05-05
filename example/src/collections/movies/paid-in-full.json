@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Paid in Full",
+    "year": 2002,
+    "cast": [
+      "Wood Harris",
+      "Regina Hall",
+      "Kevin Carroll"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/paid-in-full.html"
+}

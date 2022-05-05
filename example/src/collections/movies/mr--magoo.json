@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mr. Magoo",
+    "year": 1997,
+    "cast": [
+      "Leslie Nielsen",
+      "Miguel Ferrer",
+      "Kelly Lynch",
+      "Malcolm McDowell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--magoo.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Way of All Men",
+    "year": 1930,
+    "cast": [
+      "Douglas Fairbanks Jr.",
+      "Dorothy Revier"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-way-of-all-men.html"
+}

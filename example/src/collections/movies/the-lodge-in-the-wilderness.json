@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lodge in the Wilderness",
+    "year": 1926,
+    "cast": [
+      "Anita Stewart",
+      "Edmund Burns"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lodge-in-the-wilderness.html"
+}

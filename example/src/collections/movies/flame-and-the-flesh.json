@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flame and the Flesh",
+    "year": 1954,
+    "cast": [
+      "Lana Turner",
+      "Pier Angeli"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flame-and-the-flesh.html"
+}

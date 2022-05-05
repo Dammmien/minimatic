@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bend of the River",
+    "year": 1952,
+    "cast": [
+      "James Stewart",
+      "Rock Hudson",
+      "Arthur Kennedy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bend-of-the-river.html"
+}

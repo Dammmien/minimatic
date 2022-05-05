@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kiss of Fire",
+    "year": 1955,
+    "cast": [
+      "Jack Palance",
+      "Barbara Rush"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/kiss-of-fire.html"
+}

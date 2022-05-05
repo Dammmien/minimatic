@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Oh Billy, Behave",
+    "year": 1926,
+    "cast": [
+      "Billy West",
+      "Charlotte Merriam",
+      "Lionel Belmore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/oh-billy--behave.html"
+}

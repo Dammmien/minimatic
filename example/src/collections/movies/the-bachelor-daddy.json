@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bachelor Daddy",
+    "year": 1922,
+    "cast": [
+      "Thomas Meighan",
+      "Leatrice Joy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bachelor-daddy.html"
+}

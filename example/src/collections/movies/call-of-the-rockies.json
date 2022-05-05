@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Call of the Rockies",
+    "year": 1944,
+    "cast": [
+      "Smiley Burnette",
+      "Sunset Carson",
+      "Harry Woods"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/call-of-the-rockies.html"
+}

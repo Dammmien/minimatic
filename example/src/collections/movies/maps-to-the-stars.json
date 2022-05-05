@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Maps to the Stars",
+    "year": 2015,
+    "cast": [
+      "Julianne Moore",
+      "Mia Wasikowska",
+      "John Cusack",
+      "Robert Pattinson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/maps-to-the-stars.html"
+}

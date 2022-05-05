@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "King of the Lumberjacks",
+    "year": 1940,
+    "cast": [
+      "John Payne",
+      "Gloria Dickson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/king-of-the-lumberjacks.html"
+}

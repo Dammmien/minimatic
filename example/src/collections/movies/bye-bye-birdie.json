@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Bye Bye Birdie",
+    "year": 1963,
+    "cast": [
+      "Dick Van Dyke",
+      "Ann-Margret",
+      "Janet Leigh",
+      "Bobby Rydell",
+      "Maureen Stapleton",
+      "Paul Lynde",
+      "Jesse Pearson",
+      "Ed Sullivan"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/bye-bye-birdie.html"
+}

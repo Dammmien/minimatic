@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Highlander: Endgame",
+    "year": 2000,
+    "cast": [
+      "Adrian Paul",
+      "Christopher Lambert"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/highlander--endgame.html"
+}

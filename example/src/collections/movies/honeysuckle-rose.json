@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Honeysuckle Rose",
+    "year": 1980,
+    "cast": [
+      "Willie Nelson",
+      "Dyan Cannon",
+      "Amy Irving"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/honeysuckle-rose.html"
+}

@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Larry Crowne",
+    "year": 2011,
+    "cast": [
+      "Tom Hanks",
+      "Julia Roberts",
+      "Bryan Cranston",
+      "Cedric the Entertainer",
+      "Taraji P. Henson",
+      "Gugu Mbatha-Raw",
+      "Wilmer Valderrama",
+      "Pam Grier",
+      "Rita Wilson",
+      "George Takei",
+      "Rob Riggle"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/larry-crowne.html"
+}

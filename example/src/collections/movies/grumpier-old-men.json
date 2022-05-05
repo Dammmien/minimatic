@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Grumpier Old Men",
+    "year": 1995,
+    "cast": [
+      "Jack Lemmon",
+      "Walter Matthau",
+      "Ann-Margret",
+      "Sophia Loren"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/grumpier-old-men.html"
+}

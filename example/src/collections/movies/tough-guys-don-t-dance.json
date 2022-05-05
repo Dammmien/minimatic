@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tough Guys Don't Dance",
+    "year": 1987,
+    "cast": [
+      "Ryan O'Neal",
+      "Isabella Rossellini",
+      "Lawrence Tierney"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/tough-guys-don-t-dance.html"
+}

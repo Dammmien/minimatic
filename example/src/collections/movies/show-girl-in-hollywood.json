@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Show Girl in Hollywood",
+    "year": 1930,
+    "cast": [
+      "Alice White",
+      "Jack Mulhall",
+      "Blanche Sweet"
+    ],
+    "genres": [
+      "Musical",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/show-girl-in-hollywood.html"
+}

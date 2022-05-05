@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Possessed",
+    "year": 1947,
+    "cast": [
+      "Joan Crawford",
+      "Van Heflin",
+      "Raymond Massey"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/possessed.html"
+}

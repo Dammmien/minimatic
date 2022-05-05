@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Alibi Ike",
+    "year": 1935,
+    "cast": [
+      "Joe E. Brown",
+      "Olivia de Havilland"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/alibi-ike.html"
+}

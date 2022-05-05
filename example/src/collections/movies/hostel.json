@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hostel",
+    "year": 2005,
+    "cast": [
+      "Jay Hernandez",
+      "Derek Richardson",
+      "Eythor Gudjonsson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/hostel.html"
+}

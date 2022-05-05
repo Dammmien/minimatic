@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Women Are Like That",
+    "year": 1938,
+    "cast": [
+      "Kay Francis",
+      "Pat O'Brien",
+      "Melville Cooper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/women-are-like-that.html"
+}

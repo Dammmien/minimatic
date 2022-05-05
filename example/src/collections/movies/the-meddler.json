@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Meddler",
+    "year": 1925,
+    "cast": [
+      "William Desmond",
+      "Claire Anderson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-meddler.html"
+}

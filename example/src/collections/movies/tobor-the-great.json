@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tobor the Great",
+    "year": 1954,
+    "cast": [
+      "Charles Drake",
+      "Steven Geray"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/tobor-the-great.html"
+}

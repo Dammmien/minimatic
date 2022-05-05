@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Crash Donovan",
+    "year": 1936,
+    "cast": [
+      "Jack Holt",
+      "Ward Bond",
+      "Nan Grey"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/crash-donovan.html"
+}

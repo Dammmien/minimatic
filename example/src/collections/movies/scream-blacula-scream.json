@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scream Blacula Scream",
+    "year": 1973,
+    "cast": [
+      "William Marshall",
+      "Pam Grier"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/scream-blacula-scream.html"
+}

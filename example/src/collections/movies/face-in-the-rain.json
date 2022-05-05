@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Face in the Rain",
+    "year": 1963,
+    "cast": [
+      "Rory Calhoun",
+      "Marina Berti"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/face-in-the-rain.html"
+}

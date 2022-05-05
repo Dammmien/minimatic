@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tall Story",
+    "year": 1960,
+    "cast": [
+      "Anthony Perkins",
+      "Jane Fonda",
+      "Ray Walston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tall-story.html"
+}

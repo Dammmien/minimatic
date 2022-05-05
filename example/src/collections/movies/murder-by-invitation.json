@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder by Invitation",
+    "year": 1941,
+    "cast": [
+      "Wallace Ford",
+      "Marian Marsh"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder-by-invitation.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Purple Gang",
+    "year": 1960,
+    "cast": [
+      "Barry Sullivan",
+      "Robert Blake"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-purple-gang.html"
+}

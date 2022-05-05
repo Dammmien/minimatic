@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Street Corner",
+    "year": 1948,
+    "cast": [
+      "Johnny Duncan",
+      "Eddie Gribbon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/street-corner.html"
+}

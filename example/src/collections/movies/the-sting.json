@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "The Sting",
+    "year": 1973,
+    "cast": [
+      "Paul Newman",
+      "Robert Redford",
+      "Robert Shaw",
+      "Eileen Brennan",
+      "Ray Walston",
+      "Jack Kehoe",
+      "Charles Durning",
+      "Dana Elcar",
+      "Harold Gould",
+      "Robert Earl Jones",
+      "Dimitra Arliss",
+      "Sally Kirkland"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-sting.html"
+}

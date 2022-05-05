@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Die Laughing",
+    "year": 1980,
+    "cast": [
+      "Robby Benson",
+      "Charles Durning",
+      "Elsa Lanchester"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/die-laughing.html"
+}

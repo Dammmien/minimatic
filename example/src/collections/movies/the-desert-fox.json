@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Desert Fox",
+    "year": 1951,
+    "cast": [
+      "James Mason",
+      "Cedric Hardwicke"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-desert-fox.html"
+}

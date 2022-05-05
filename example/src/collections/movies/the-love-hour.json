@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Love Hour",
+    "year": 1925,
+    "cast": [
+      "Huntley Gordon",
+      "Louise Fazenda"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-love-hour.html"
+}

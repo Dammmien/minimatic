@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Death Becomes Her",
+    "year": 1992,
+    "cast": [
+      "Meryl Streep",
+      "Bruce Willis",
+      "Goldie Hawn",
+      "Isabella Rossellini"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/death-becomes-her.html"
+}

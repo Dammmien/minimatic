@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "An Enemy of the People",
+    "year": 1978,
+    "cast": [
+      "Steve McQueen",
+      "Charles Durning",
+      "Bibi Andersson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/an-enemy-of-the-people.html"
+}

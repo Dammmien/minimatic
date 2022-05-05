@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "To the Victor",
+    "year": 1948,
+    "cast": [
+      "Dennis Morgan",
+      "Viveca Lindfors"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/to-the-victor.html"
+}

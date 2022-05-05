@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Deadly Mantis",
+    "year": 1957,
+    "cast": [
+      "Craig Stevens",
+      "William Hopper"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-deadly-mantis.html"
+}

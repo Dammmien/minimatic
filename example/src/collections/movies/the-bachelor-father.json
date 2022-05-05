@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bachelor Father",
+    "year": 1931,
+    "cast": [
+      "Marion Davies",
+      "Ralph Forbes",
+      "C. Aubrey Smith"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bachelor-father.html"
+}

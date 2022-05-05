@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stop, Look and Listen",
+    "year": 1926,
+    "cast": [
+      "Dorothy Dwan",
+      "Mary Carr",
+      "Oliver Hardy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stop--look-and-listen.html"
+}

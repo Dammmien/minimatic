@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Flight of Dragons",
+    "year": 1982,
+    "cast": [
+      "John Ritter",
+      "Bob McFadden"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-flight-of-dragons.html"
+}

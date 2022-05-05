@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Broken Butterfly",
+    "year": 1919,
+    "cast": [
+      "Lew Cody",
+      "Mary Alden",
+      "Pauline Starke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-broken-butterfly.html"
+}

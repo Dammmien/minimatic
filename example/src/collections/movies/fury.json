@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fury",
+    "year": 2014,
+    "cast": [
+      "Brad Pitt",
+      "Shia LaBeouf",
+      "Logan Lerman",
+      "Michael Peña"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/fury.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Danger Ahead",
+    "year": 1940,
+    "cast": [
+      "James Newill",
+      "Dorothea Kent",
+      "Guy Usher"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/danger-ahead.html"
+}

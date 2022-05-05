@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In the Palace of the King",
+    "year": 1923,
+    "cast": [
+      "Blanche Sweet",
+      "Pauline Starke",
+      "Edmund Lowe"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/in-the-palace-of-the-king.html"
+}

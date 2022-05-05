@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Joe Somebody",
+    "year": 2001,
+    "cast": [
+      "Tim Allen",
+      "James Belushi",
+      "Julie Bowen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/joe-somebody.html"
+}

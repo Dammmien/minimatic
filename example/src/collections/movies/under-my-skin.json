@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Under My Skin",
+    "year": 1950,
+    "cast": [
+      "John Garfield",
+      "Micheline Presle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/under-my-skin.html"
+}

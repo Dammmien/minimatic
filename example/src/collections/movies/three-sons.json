@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Sons",
+    "year": 1939,
+    "cast": [
+      "Edward Ellis",
+      "Katharine Alexander"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/three-sons.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Red Wine",
+    "year": 1928,
+    "cast": [
+      "June Collyer",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/red-wine.html"
+}

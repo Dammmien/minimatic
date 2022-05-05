@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Modern Romance",
+    "year": 1981,
+    "cast": [
+      "Albert Brooks",
+      "Kathryn Harrold",
+      "Bruno Kirby"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/modern-romance.html"
+}

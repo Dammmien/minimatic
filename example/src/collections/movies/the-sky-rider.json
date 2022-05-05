@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sky Rider",
+    "year": 1928,
+    "cast": [
+      "Gareth Hughes",
+      "Josephine Hill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sky-rider.html"
+}

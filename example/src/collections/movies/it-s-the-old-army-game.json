@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It's the Old Army Game",
+    "year": 1926,
+    "cast": [
+      "W. C. Fields",
+      "Louise Brooks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-the-old-army-game.html"
+}

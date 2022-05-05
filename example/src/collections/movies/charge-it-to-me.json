@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Charge It to Me",
+    "year": 1919,
+    "cast": [
+      "Margarita Fischer",
+      "Emory Johnson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/charge-it-to-me.html"
+}

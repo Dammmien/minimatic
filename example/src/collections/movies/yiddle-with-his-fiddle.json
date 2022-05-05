@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yiddle with His Fiddle",
+    "year": 1936,
+    "cast": [
+      "Molly Picon",
+      "Leon Liebgold"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/yiddle-with-his-fiddle.html"
+}

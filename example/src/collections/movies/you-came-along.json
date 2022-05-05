@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "You Came Along",
+    "year": 1945,
+    "cast": [
+      "Lizabeth Scott",
+      "Robert Cummings"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-came-along.html"
+}

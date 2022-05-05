@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Advice to the Lovelorn",
+    "year": 1933,
+    "cast": [
+      "Lee Tracy",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/advice-to-the-lovelorn.html"
+}

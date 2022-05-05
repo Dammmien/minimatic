@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Tennessee",
+    "year": 2009,
+    "cast": [
+      "Ethan Peck",
+      "Adam Rothenberg",
+      "Mariah Carey",
+      "Lance Reddick",
+      "Bill Sage"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tennessee.html"
+}

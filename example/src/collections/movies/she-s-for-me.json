@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "She's for Me",
+    "year": 1943,
+    "cast": [
+      "Grace McDonald",
+      "David Bruce"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/she-s-for-me.html"
+}

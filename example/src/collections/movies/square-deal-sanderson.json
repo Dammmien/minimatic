@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Square Deal Sanderson",
+    "year": 1919,
+    "cast": [
+      "William S. Hart",
+      "Ann Little"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/square-deal-sanderson.html"
+}

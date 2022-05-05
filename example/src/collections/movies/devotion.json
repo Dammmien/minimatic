@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Devotion",
+    "year": 1946,
+    "cast": [
+      "Ida Lupino",
+      "Paul Henreid",
+      "Olivia de Havilland",
+      "Sydney Greenstreet"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/devotion.html"
+}

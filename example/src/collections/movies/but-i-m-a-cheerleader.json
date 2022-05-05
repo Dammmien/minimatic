@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "But I'm a Cheerleader",
+    "year": 1999,
+    "cast": [
+      "Natasha Lyonne",
+      "Cathy Moriarty",
+      "RuPaul",
+      "Clea DuVall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/but-i-m-a-cheerleader.html"
+}

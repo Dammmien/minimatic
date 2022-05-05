@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Regular Girl",
+    "year": 1919,
+    "cast": [
+      "Elsie Janis",
+      "Matt Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-regular-girl.html"
+}

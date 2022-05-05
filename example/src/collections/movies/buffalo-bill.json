@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Buffalo Bill",
+    "year": 1944,
+    "cast": [
+      "Joel McCrea",
+      "Maureen O'Hara"
+    ],
+    "genres": [
+      "Western",
+      "Biography"
+    ]
+  },
+  "output": "movies/buffalo-bill.html"
+}

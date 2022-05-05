@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Strange Impersonation",
+    "year": 1946,
+    "cast": [
+      "Brenda Marshall",
+      "William Gargan",
+      "Hillary Brooke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/strange-impersonation.html"
+}

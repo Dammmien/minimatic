@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dangerous Corner",
+    "year": 1934,
+    "cast": [
+      "Virginia Bruce",
+      "Conrad Nagel",
+      "Melvyn Douglas"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/dangerous-corner.html"
+}

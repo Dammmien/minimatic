@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Astronaut's Wife",
+    "year": 1999,
+    "cast": [
+      "Johnny Depp",
+      "Charlize Theron",
+      "Joe Morton"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-astronaut-s-wife.html"
+}

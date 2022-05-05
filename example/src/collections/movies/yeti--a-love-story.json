@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Yeti: A Love Story",
+    "year": 2006,
+    "cast": [
+      "Adam Malamut",
+      "Eric Gosselin",
+      "Laura Glascott",
+      "Loren Mash",
+      "Dave Paige"
+    ],
+    "genres": [
+      "Romance",
+      "Horror"
+    ]
+  },
+  "output": "movies/yeti--a-love-story.html"
+}

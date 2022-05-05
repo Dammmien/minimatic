@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Operation Crossbow",
+    "year": 1965,
+    "cast": [
+      "Sophia Loren",
+      "George Peppard",
+      "Trevor Howard"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/operation-crossbow.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Most Dangerous Game",
+    "year": 1932,
+    "cast": [
+      "Joel McCrea",
+      "Fay Wray",
+      "Robert Armstrong"
+    ],
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-most-dangerous-game.html"
+}

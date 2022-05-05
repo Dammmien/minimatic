@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cheat",
+    "year": 1931,
+    "cast": [
+      "Tallulah Bankhead",
+      "Harvey Stephens"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-cheat.html"
+}

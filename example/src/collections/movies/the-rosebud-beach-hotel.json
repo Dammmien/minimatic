@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Rosebud Beach Hotel",
+    "year": 1984,
+    "cast": [
+      "Colleen Camp",
+      "Peter Scolari",
+      "Christopher Lee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-rosebud-beach-hotel.html"
+}

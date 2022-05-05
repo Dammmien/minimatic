@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Men",
+    "year": 1924,
+    "cast": [
+      "Pola Negri",
+      "Robert Frazer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/men.html"
+}

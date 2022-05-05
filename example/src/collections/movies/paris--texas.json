@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paris, Texas",
+    "year": 1984,
+    "cast": [
+      "Harry Dean Stanton",
+      "Nastassja Kinski",
+      "Dean Stockwell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/paris--texas.html"
+}

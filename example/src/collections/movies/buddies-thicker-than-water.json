@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Buddies Thicker Than Water",
+    "year": 1962,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/buddies-thicker-than-water.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Vanity's Price",
+    "year": 1924,
+    "cast": [
+      "Anna Q. Nilsson",
+      "Wyndham Standing"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/vanity-s-price.html"
+}

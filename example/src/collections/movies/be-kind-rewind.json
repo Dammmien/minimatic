@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Be Kind Rewind",
+    "year": 2008,
+    "cast": [
+      "Jack Black",
+      "Mos Def",
+      "Danny Glover"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/be-kind-rewind.html"
+}

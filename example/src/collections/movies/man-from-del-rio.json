@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man from Del Rio",
+    "year": 1956,
+    "cast": [
+      "Anthony Quinn",
+      "Katy Jurado"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/man-from-del-rio.html"
+}

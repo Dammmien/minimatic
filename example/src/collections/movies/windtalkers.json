@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Windtalkers",
+    "year": 2002,
+    "cast": [
+      "Nicolas Cage",
+      "Christian Slater",
+      "Adam Beach"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/windtalkers.html"
+}

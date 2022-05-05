@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Molly and Me",
+    "year": 1945,
+    "cast": [
+      "Gracie Fields",
+      "Monty Woolley",
+      "Roddy McDowall"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/molly-and-me.html"
+}

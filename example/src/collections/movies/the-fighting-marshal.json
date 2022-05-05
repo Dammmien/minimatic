@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Marshal",
+    "year": 1931,
+    "cast": [
+      "Tim McCoy",
+      "Dorothy Gulliver"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fighting-marshal.html"
+}

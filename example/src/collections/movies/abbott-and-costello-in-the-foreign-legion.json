@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Abbott and Costello in the Foreign Legion",
+    "year": 1950,
+    "cast": [
+      "Abbott and Costello",
+      "Patricia Medina"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/abbott-and-costello-in-the-foreign-legion.html"
+}

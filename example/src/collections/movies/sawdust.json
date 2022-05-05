@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sawdust",
+    "year": 1923,
+    "cast": [
+      "Gladys Walton",
+      "Niles Welch",
+      "Edith Yorke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sawdust.html"
+}

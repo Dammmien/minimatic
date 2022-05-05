@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It's a Wonderful Life",
+    "year": 1946,
+    "cast": [
+      "James Stewart",
+      "Donna Reed",
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/it-s-a-wonderful-life.html"
+}

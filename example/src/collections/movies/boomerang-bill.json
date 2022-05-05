@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Boomerang Bill",
+    "year": 1922,
+    "cast": [
+      "Lionel Barrymore",
+      "Marguerite Marsh"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/boomerang-bill.html"
+}

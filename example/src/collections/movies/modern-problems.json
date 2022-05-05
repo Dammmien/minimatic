@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Modern Problems",
+    "year": 1981,
+    "cast": [
+      "Chevy Chase",
+      "Dabney Coleman",
+      "Nell Carter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/modern-problems.html"
+}

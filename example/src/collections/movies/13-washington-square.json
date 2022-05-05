@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "13 Washington Square",
+    "year": 1928,
+    "cast": [
+      "Jean Hersholt",
+      "Alice Joyce"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/13-washington-square.html"
+}

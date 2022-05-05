@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man Under Cover",
+    "year": 1922,
+    "cast": [
+      "Herbert Rawlinson",
+      "George Hernandez"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/man-under-cover.html"
+}

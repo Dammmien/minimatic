@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sommersby",
+    "year": 1993,
+    "cast": [
+      "Richard Gere",
+      "Jodie Foster",
+      "Bill Pullman",
+      "James Earl Jones"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sommersby.html"
+}

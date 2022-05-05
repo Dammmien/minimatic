@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Name the Man",
+    "year": 1924,
+    "cast": [
+      "Mae Busch",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/name-the-man.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Nanny",
+    "year": 1993,
+    "cast": [
+      "Hulk Hogan",
+      "Sherman Hemsley",
+      "Austin Pendleton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--nanny.html"
+}

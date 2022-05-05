@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Peyton Place",
+    "year": 1957,
+    "cast": [
+      "Lana Turner",
+      "Sandra Dee",
+      "Diane Varsi",
+      "Hope Lange",
+      "Terry Moore",
+      "Lee Philips",
+      "Betty Field"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/peyton-place.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lasca",
+    "year": 1919,
+    "cast": [
+      "Frank Mayo",
+      "Edith Roberts"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lasca.html"
+}

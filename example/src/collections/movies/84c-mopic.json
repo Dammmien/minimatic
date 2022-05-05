@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "84C MoPic",
+    "year": 1989,
+    "cast": [
+      "Jonathan Emerson",
+      "Nicholas Cascone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/84c-mopic.html"
+}

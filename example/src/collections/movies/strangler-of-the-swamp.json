@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strangler of the Swamp",
+    "year": 1946,
+    "cast": [
+      "Rosemary La Planche",
+      "Blake Edwards"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/strangler-of-the-swamp.html"
+}

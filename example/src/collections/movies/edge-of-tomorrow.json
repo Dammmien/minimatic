@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Edge of Tomorrow",
+    "year": 2014,
+    "cast": [
+      "Tom Cruise",
+      "Emily Blunt",
+      "Bill Paxton"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/edge-of-tomorrow.html"
+}

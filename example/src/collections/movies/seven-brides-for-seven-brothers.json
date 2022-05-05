@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Seven Brides for Seven Brothers",
+    "year": 1954,
+    "cast": [
+      "Howard Keel",
+      "Jane Powell",
+      "Russ Tamblyn",
+      "Jeff Richards",
+      "Julie Newmar",
+      "Ruta Lee"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/seven-brides-for-seven-brothers.html"
+}

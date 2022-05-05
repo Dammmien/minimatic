@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The King on Main Street",
+    "year": 1925,
+    "cast": [
+      "Bessie Love",
+      "Adolphe Menjou"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-king-on-main-street.html"
+}

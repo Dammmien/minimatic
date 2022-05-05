@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Green",
+    "year": 1995,
+    "cast": [
+      "Steve Guttenberg",
+      "Olivia d'Abo",
+      "Bug Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-big-green.html"
+}

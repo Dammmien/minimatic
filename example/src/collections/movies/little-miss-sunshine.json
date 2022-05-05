@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Little Miss Sunshine",
+    "year": 2006,
+    "cast": [
+      "Greg Kinnear",
+      "Steve Carell",
+      "Toni Collette",
+      "Paul Dano",
+      "Abigail Breslin",
+      "Alan Arkin"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/little-miss-sunshine.html"
+}

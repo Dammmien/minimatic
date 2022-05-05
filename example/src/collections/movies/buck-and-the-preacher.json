@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Buck and the Preacher",
+    "year": 1972,
+    "cast": [
+      "Sidney Poitier",
+      "Harry Belafonte",
+      "Ruby Dee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/buck-and-the-preacher.html"
+}

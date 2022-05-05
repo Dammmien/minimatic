@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fastest Guitar Alive",
+    "year": 1967,
+    "cast": [
+      "Roy Orbison",
+      "Joan Freeman",
+      "Patricia Donahue"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-fastest-guitar-alive.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Virtuous Liars",
+    "year": 1924,
+    "cast": [
+      "David Powell",
+      "Edith Allen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/virtuous-liars.html"
+}

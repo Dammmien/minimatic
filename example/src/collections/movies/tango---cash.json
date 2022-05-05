@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tango & Cash",
+    "year": 1989,
+    "cast": [
+      "Sylvester Stallone",
+      "Kurt Russell",
+      "Jack Palance",
+      "Teri Hatcher"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/tango---cash.html"
+}

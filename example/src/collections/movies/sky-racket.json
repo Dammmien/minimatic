@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sky Racket",
+    "year": 1937,
+    "cast": [
+      "Bruce Bennett",
+      "Monte Blue",
+      "Hattie McDaniel"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/sky-racket.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Romeo Is Bleeding",
+    "year": 1994,
+    "cast": [
+      "Gary Oldman",
+      "Lena Olin",
+      "Annabella Sciorra",
+      "Juliette Lewis",
+      "Roy Scheider"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/romeo-is-bleeding.html"
+}

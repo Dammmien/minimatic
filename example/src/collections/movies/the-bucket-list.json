@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bucket List",
+    "year": 2007,
+    "cast": [
+      "Jack Nicholson",
+      "Morgan Freeman"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bucket-list.html"
+}

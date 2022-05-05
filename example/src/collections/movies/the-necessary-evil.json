@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Necessary Evil",
+    "year": 1925,
+    "cast": [
+      "Ben Lyon",
+      "Viola Dana"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-necessary-evil.html"
+}

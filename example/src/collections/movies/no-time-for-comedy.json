@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No Time for Comedy",
+    "year": 1940,
+    "cast": [
+      "James Stewart",
+      "Rosalind Russell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/no-time-for-comedy.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Little Comrade",
+    "year": 1919,
+    "cast": [
+      "Vivian Martin",
+      "Niles Welch"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-comrade.html"
+}

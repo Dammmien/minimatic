@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ruling Passion",
+    "year": 1922,
+    "cast": [
+      "George Arliss",
+      "Doris Kenyon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ruling-passion.html"
+}

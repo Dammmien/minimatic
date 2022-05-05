@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Man with the Golden Arm",
+    "year": 1955,
+    "cast": [
+      "Frank Sinatra",
+      "Eleanor Parker",
+      "Kim Novak",
+      "Darren McGavin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-with-the-golden-arm.html"
+}

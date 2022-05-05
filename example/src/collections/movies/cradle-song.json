@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cradle Song",
+    "year": 1933,
+    "cast": [
+      "Dorothea Wieck",
+      "Evelyn Venable",
+      "Guy Standing"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cradle-song.html"
+}

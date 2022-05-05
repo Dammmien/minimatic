@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hollywood Hotel",
+    "year": 1937,
+    "cast": [
+      "Dick Powell",
+      "Rosemary Lane",
+      "Hugh Herbert"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hollywood-hotel.html"
+}

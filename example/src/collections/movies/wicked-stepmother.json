@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Wicked Stepmother",
+    "year": 1989,
+    "cast": [
+      "Bette Davis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wicked-stepmother.html"
+}

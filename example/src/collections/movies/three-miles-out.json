@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Miles Out",
+    "year": 1924,
+    "cast": [
+      "Madge Kennedy",
+      "Harrison Ford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/three-miles-out.html"
+}

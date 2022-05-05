@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "The Little Hours",
+    "year": 2017,
+    "cast": [
+      "Alison Brie",
+      "Dave Franco",
+      "Kate Micucci",
+      "Aubrey Plaza",
+      "John C. Reilly",
+      "Molly Shannon",
+      "Fred Armisen",
+      "Jemima Kirke",
+      "Lauren Weedman",
+      "Nick Offerman",
+      "Paul Reiser",
+      "Adam Pally",
+      "Paul Weitz",
+      "Jon Gabrus"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-little-hours.html"
+}

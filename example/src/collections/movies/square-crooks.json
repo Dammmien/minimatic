@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Square Crooks",
+    "year": 1928,
+    "cast": [
+      "Robert Armstrong",
+      "Johnny Mack Brown"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/square-crooks.html"
+}

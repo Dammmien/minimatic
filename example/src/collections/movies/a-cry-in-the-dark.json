@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Cry in the Dark",
+    "year": 1988,
+    "cast": [
+      "Meryl Streep",
+      "Sam Neill"
+    ],
+    "genres": [
+      "Documentary",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-cry-in-the-dark.html"
+}

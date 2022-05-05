@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Jack Goes Boating",
+    "year": 2010,
+    "cast": [
+      "Philip Seymour Hoffman",
+      "Amy Ryan",
+      "John Ortiz",
+      "Daphne Rubin-Vega"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/jack-goes-boating.html"
+}

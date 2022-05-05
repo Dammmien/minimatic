@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Born to Speed",
+    "year": 1947,
+    "cast": [
+      "Johnny Sands",
+      "Vivian Austin",
+      "Don Castle"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/born-to-speed.html"
+}

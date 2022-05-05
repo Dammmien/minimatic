@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beau Brummell",
+    "year": 1954,
+    "cast": [
+      "Stewart Granger",
+      "Elizabeth Taylor",
+      "Peter Ustinov"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/beau-brummell.html"
+}

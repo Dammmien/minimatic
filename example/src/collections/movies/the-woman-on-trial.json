@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman on Trial",
+    "year": 1927,
+    "cast": [
+      "Pola Negri",
+      "Einar Hanson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woman-on-trial.html"
+}

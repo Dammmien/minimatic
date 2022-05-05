@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Finger Man",
+    "year": 1955,
+    "cast": [
+      "Forrest Tucker",
+      "Peggie Castle"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/finger-man.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Domino Principle",
+    "year": 1977,
+    "cast": [
+      "Gene Hackman",
+      "Candice Bergen",
+      "Richard Widmark",
+      "Eli Wallach",
+      "Mickey Rooney",
+      "Edward Albert"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-domino-principle.html"
+}

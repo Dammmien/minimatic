@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "After Tonight",
+    "year": 1933,
+    "cast": [
+      "Constance Bennett",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/after-tonight.html"
+}

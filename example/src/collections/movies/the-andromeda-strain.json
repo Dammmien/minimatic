@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Andromeda Strain",
+    "year": 1971,
+    "cast": [
+      "Arthur Hill",
+      "James Olson",
+      "Kate Reid",
+      "David Wayne",
+      "Paula Kelly"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-andromeda-strain.html"
+}

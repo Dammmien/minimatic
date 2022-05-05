@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Something for Everyone",
+    "year": 1970,
+    "cast": [
+      "Angela Lansbury",
+      "Michael York",
+      "Anthony Higgins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/something-for-everyone.html"
+}

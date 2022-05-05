@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Devil's Island",
+    "year": 1939,
+    "cast": [
+      "Boris Karloff",
+      "James Stephenson"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/devil-s-island.html"
+}

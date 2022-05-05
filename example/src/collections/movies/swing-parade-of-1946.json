@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Swing Parade of 1946",
+    "year": 1946,
+    "cast": [
+      "The Three Stooges",
+      "Gale Storm"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/swing-parade-of-1946.html"
+}

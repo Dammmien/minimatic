@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Orient Express",
+    "year": 1934,
+    "cast": [
+      "Heather Angel",
+      "Ralph Morgan"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/orient-express.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ridin' the Wind",
+    "year": 1925,
+    "cast": [
+      "Fred Thomson",
+      "Jacqueline Gadsdon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ridin--the-wind.html"
+}

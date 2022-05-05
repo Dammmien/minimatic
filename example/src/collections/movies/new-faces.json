@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "New Faces",
+    "year": 1954,
+    "cast": [
+      "Ronny Graham",
+      "Eartha Kitt"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/new-faces.html"
+}

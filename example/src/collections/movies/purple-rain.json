@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Purple Rain",
+    "year": 1984,
+    "cast": [
+      "Prince",
+      "Morris Day",
+      "Apollonia Kotero"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/purple-rain.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Flying Fool",
+    "year": 1929,
+    "cast": [
+      "William Boyd",
+      "Marie Prevost"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-flying-fool.html"
+}

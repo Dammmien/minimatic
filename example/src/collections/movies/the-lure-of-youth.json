@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lure of Youth",
+    "year": 1921,
+    "cast": [
+      "Cleo Madison",
+      "Gareth Hughes"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-lure-of-youth.html"
+}

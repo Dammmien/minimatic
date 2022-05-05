@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Donald Gets Drafted",
+    "year": 1942,
+    "cast": [
+      "Donald Duck"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/donald-gets-drafted.html"
+}

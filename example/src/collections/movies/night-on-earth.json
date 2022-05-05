@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Night on Earth",
+    "year": 1991,
+    "cast": [
+      "Winona Ryder",
+      "Gena Rowlands",
+      "Roberto Benigni"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/night-on-earth.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bandit's Baby",
+    "year": 1925,
+    "cast": [
+      "Fred Thomson",
+      "Helen Foster"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-bandit-s-baby.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lazarus Effect",
+    "year": 2015,
+    "cast": [
+      "Mark Duplass",
+      "Evan Peters",
+      "Oliva Wilde"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-lazarus-effect.html"
+}

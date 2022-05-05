@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Flesh and Fantasy",
+    "year": 1943,
+    "cast": [
+      "Edward G. Robinson",
+      "Charles Boyer",
+      "Barbara Stanwyck",
+      "Betty Field"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flesh-and-fantasy.html"
+}

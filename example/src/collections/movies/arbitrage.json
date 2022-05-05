@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Arbitrage",
+    "year": 2012,
+    "cast": [
+      "Richard Gere",
+      "Susan Sarandon",
+      "Tim Roth",
+      "Brit Marling",
+      "Laetitia Casta",
+      "Nate Parker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/arbitrage.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Saint's Vacation",
+    "year": 1941,
+    "cast": [
+      "Hugh Sinclair",
+      "Leueen MacGrath"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-saint-s-vacation.html"
+}

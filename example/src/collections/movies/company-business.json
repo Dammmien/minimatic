@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Company Business",
+    "year": 1991,
+    "cast": [
+      "Gene Hackman",
+      "Mikhail Baryshnikov"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/company-business.html"
+}

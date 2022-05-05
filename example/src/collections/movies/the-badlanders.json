@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Badlanders",
+    "year": 1958,
+    "cast": [
+      "Alan Ladd",
+      "Ernest Borgnine",
+      "Katy Jurado"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-badlanders.html"
+}

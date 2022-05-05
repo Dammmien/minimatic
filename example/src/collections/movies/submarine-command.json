@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Submarine Command",
+    "year": 1951,
+    "cast": [
+      "William Holden",
+      "Nancy Olson"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/submarine-command.html"
+}

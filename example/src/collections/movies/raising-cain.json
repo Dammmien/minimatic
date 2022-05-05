@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Raising Cain",
+    "year": 1992,
+    "cast": [
+      "John Lithgow",
+      "Lolita Davidovich"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/raising-cain.html"
+}

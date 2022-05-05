@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Story of Ruth",
+    "year": 1960,
+    "cast": [
+      "Stuart Whitman",
+      "Tom Tryon",
+      "Peggy Wood",
+      "Elana Eden"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-story-of-ruth.html"
+}

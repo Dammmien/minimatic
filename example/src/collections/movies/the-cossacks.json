@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cossacks",
+    "year": 1928,
+    "cast": [
+      "John Gilbert",
+      "Renée Adorée"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-cossacks.html"
+}

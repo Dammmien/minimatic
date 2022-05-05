@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Other",
+    "year": 1972,
+    "cast": [
+      "Uta Hagen",
+      "Diana Muldaur",
+      "John Ritter"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-other.html"
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Chasing Mavericks",
+    "year": 2012,
+    "cast": [
+      "Gerard Butler",
+      "Jonny Weston",
+      "Elisabeth Shue",
+      "Abigail Spencer",
+      "Leven Rambin",
+      "Taylor Handley",
+      "Scott Eastwood",
+      "Greg Long",
+      "Peter Mel",
+      "Zach Wormhoudt"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/chasing-mavericks.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Night of the Grizzly",
+    "year": 1966,
+    "cast": [
+      "Clint Walker",
+      "Martha Hyer"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-night-of-the-grizzly.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bad Asses on the Bayou",
+    "year": 2015,
+    "cast": [
+      "Danny Trejo",
+      "Danny Glover",
+      "John Amos",
+      "Loni Love"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/bad-asses-on-the-bayou.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Better Angels",
+    "year": 2014,
+    "cast": [
+      "Diane Kruger",
+      "Brit Marling",
+      "Wes Bentley"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-better-angels.html"
+}

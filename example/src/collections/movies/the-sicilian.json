@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sicilian",
+    "year": 1987,
+    "cast": [
+      "Christopher Lambert",
+      "Terence Stamp"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sicilian.html"
+}

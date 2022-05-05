@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Gentleman's Agreement",
+    "year": 1947,
+    "cast": [
+      "Gregory Peck",
+      "John Garfield",
+      "Dorothy McGuire",
+      "Celeste Holm",
+      "Jane Wyatt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gentleman-s-agreement.html"
+}

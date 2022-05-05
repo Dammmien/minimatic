@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Every Man's Wife",
+    "year": 1925,
+    "cast": [
+      "Elaine Hammerstein",
+      "Herbert Rawlinson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/every-man-s-wife.html"
+}

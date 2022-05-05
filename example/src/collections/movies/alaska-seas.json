@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Alaska Seas",
+    "year": 1954,
+    "cast": [
+      "Robert Ryan",
+      "Brian Keith",
+      "Jan Sterling"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/alaska-seas.html"
+}

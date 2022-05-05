@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Along Came a Spider",
+    "year": 2001,
+    "cast": [
+      "Morgan Freeman",
+      "Monica Potter",
+      "Dylan Baker"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/along-came-a-spider.html"
+}

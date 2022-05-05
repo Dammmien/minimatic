@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Never Fear",
+    "year": 1949,
+    "cast": [
+      "Sally Forrest",
+      "Hugh O'Brian"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/never-fear.html"
+}

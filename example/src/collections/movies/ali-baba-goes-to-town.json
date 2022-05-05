@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ali Baba Goes to Town",
+    "year": 1937,
+    "cast": [
+      "Eddie Cantor",
+      "Tony Martin",
+      "Gypsy Rose Lee"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/ali-baba-goes-to-town.html"
+}

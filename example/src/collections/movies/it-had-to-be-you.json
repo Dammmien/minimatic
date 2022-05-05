@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It Had to Be You",
+    "year": 1947,
+    "cast": [
+      "Ginger Rogers",
+      "Cornel Wilde"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-had-to-be-you.html"
+}

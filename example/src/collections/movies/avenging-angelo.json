@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Avenging Angelo",
+    "year": 2002,
+    "cast": [
+      "Sylvester Stallone",
+      "Madeleine Stowe",
+      "Anthony Quinn"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/avenging-angelo.html"
+}

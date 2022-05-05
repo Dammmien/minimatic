@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Shrek",
+    "year": 2001,
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "John Lithgow"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/shrek.html"
+}

@@ -1,0 +1,38 @@
+{
+  "data": {
+    "title": "Argo",
+    "year": 2012,
+    "cast": [
+      "Ben Affleck",
+      "Bryan Cranston",
+      "Alan Arkin",
+      "John Goodman",
+      "Kyle Chandler",
+      "Victor Garber",
+      "Tate Donovan",
+      "Clea DuVall",
+      "Michael Parks",
+      "Tom Lenk",
+      "Christopher Stanley",
+      "Taylor Schilling",
+      "Ashley Wood",
+      "Chris Messina",
+      "Richard Kind",
+      "Titus Welliver",
+      "Rory Cochrane",
+      "Devansh Mehta",
+      "Omid Abtahi",
+      "Scoot McNairy",
+      "Kerry Bishé",
+      "Christopher Denham",
+      "Bob Gunton",
+      "Philip Baker Hall",
+      "Adrienne Barbeau",
+      "Fouad Hajji"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/argo.html"
+}

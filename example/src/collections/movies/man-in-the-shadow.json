@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Man in the Shadow",
+    "year": 1958,
+    "cast": [
+      "Jeff Chandler",
+      "Orson Welles",
+      "Colleen Miller",
+      "Ben Alexander",
+      "Barbara Lawrence"
+    ],
+    "genres": [
+      "Crime",
+      "Western"
+    ]
+  },
+  "output": "movies/man-in-the-shadow.html"
+}

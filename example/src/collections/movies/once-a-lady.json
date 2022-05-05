@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Once a Lady",
+    "year": 1931,
+    "cast": [
+      "Ruth Chatterton",
+      "Ivor Novello",
+      "Jill Esmond"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/once-a-lady.html"
+}

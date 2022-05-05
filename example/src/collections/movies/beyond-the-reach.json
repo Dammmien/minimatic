@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beyond the Reach",
+    "year": 2015,
+    "cast": [
+      "Michael Douglas",
+      "Jeremy Irvine",
+      "Ronny Cox"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/beyond-the-reach.html"
+}

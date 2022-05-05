@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Vanessa: Her Love Story",
+    "year": 1935,
+    "cast": [
+      "Helen Hayes",
+      "Robert Montgomery",
+      "Otto Kruger"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/vanessa--her-love-story.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bride Comes Home",
+    "year": 1935,
+    "cast": [
+      "Claudette Colbert",
+      "Fred MacMurray",
+      "Robert Young"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bride-comes-home.html"
+}

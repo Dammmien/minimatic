@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Requiem for a Heavyweight",
+    "year": 1962,
+    "cast": [
+      "Anthony Quinn",
+      "Jackie Gleason",
+      "Mickey Rooney",
+      "Julie Harris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/requiem-for-a-heavyweight.html"
+}

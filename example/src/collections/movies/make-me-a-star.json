@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Make Me a Star",
+    "year": 1932,
+    "cast": [
+      "Joan Blondell",
+      "Stuart Erwin",
+      "ZaSu Pitts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/make-me-a-star.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Little Hero",
+    "year": 1913,
+    "cast": [
+      "Mabel Normand",
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-little-hero.html"
+}

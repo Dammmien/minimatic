@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Theodore Rex",
+    "year": 1995,
+    "cast": [
+      "Whoopi Goldberg"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/theodore-rex.html"
+}

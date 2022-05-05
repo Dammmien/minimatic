@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hiawatha",
+    "year": 1952,
+    "cast": [
+      "Vince Edwards",
+      "Keith Larsen",
+      "Yvette Dugay"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/hiawatha.html"
+}

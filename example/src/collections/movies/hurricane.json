@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hurricane",
+    "year": 1979,
+    "cast": [
+      "Mia Farrow",
+      "Jason Robards",
+      "Max von Sydow"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/hurricane.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Hitman's Bodyguard",
+    "year": 2017,
+    "cast": [
+      "Ryan Reynolds",
+      "Samuel L. Jackson",
+      "Gary Oldman",
+      "Élodie Yung",
+      "Salma Hayek"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-hitman-s-bodyguard.html"
+}

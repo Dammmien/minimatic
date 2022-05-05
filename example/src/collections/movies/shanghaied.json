@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shanghaied",
+    "year": 1927,
+    "cast": [
+      "Patsy Ruth Miller",
+      "Gertrude Astor"
+    ],
+    "genres": [
+      "Silent"
+    ]
+  },
+  "output": "movies/shanghaied.html"
+}

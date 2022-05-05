@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dangerous Nan McGrew",
+    "year": 1930,
+    "cast": [
+      "Helen Kane",
+      "Victor Moore",
+      "Frank Morgan"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/dangerous-nan-mcgrew.html"
+}

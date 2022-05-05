@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "7th Heaven",
+    "year": 1927,
+    "cast": [
+      "Janet Gaynor",
+      "and",
+      "Charles Farrell"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/7th-heaven.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "All the Kind Strangers",
+    "year": 1974,
+    "cast": [
+      "Stacy Keach",
+      "Samantha Eggar",
+      "John Savage"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/all-the-kind-strangers.html"
+}

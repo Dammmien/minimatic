@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "New Rose Hotel",
+    "year": 1998,
+    "cast": [
+      "Christopher Walken",
+      "Willem Dafoe",
+      "Asia Argento",
+      "Annabella Sciorra"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/new-rose-hotel.html"
+}

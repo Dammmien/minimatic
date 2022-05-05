@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "First Kill",
+    "year": 2017,
+    "cast": [
+      "Hayden Christensen",
+      "Bruce Willis",
+      "Gethin Anthony",
+      "Megan Leonard",
+      "Tyler Jon Olson",
+      "Shea Buckner",
+      "Ty Shelton"
+    ],
+    "genres": [
+      "Thriller",
+      "Action"
+    ]
+  },
+  "output": "movies/first-kill.html"
+}

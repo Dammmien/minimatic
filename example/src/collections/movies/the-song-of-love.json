@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Song of Love",
+    "year": 1923,
+    "cast": [
+      "Norma Talmadge",
+      "Joseph Schildkraut"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-song-of-love.html"
+}

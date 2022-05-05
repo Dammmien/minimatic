@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Billy Two Hats",
+    "year": 1974,
+    "cast": [
+      "Gregory Peck",
+      "Desi Arnaz Jr."
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/billy-two-hats.html"
+}

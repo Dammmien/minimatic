@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Miracle",
+    "year": 2004,
+    "cast": [
+      "Kurt Russell"
+    ],
+    "genres": [
+      "Drama",
+      "Family"
+    ]
+  },
+  "output": "movies/miracle.html"
+}

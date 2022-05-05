@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Without Fear",
+    "year": 1922,
+    "cast": [
+      "Pearl White",
+      "Robert Elliott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/without-fear.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Because They're Young",
+    "year": 1960,
+    "cast": [
+      "Dick Clark",
+      "Tuesday Weld"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/because-they-re-young.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Swiss Conspiracy",
+    "year": 1976,
+    "cast": [
+      "David Janssen",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-swiss-conspiracy.html"
+}

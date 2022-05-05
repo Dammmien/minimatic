@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Mouse in the House",
+    "year": 1947,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/a-mouse-in-the-house.html"
+}

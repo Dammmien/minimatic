@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Innerspace",
+    "year": 1987,
+    "cast": [
+      "Dennis Quaid",
+      "Martin Short",
+      "Meg Ryan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/innerspace.html"
+}

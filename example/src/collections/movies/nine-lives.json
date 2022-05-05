@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Nine Lives",
+    "year": 2016,
+    "cast": [
+      "Kevin Spacey"
+    ],
+    "genres": []
+  },
+  "output": "movies/nine-lives.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Harbor of Missing Men",
+    "year": 1950,
+    "cast": [
+      "Richard Denning",
+      "Barbra Fuller",
+      "Steven Geray"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/harbor-of-missing-men.html"
+}

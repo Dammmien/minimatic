@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Oliver's Story",
+    "year": 1978,
+    "cast": [
+      "Ryan O'Neal",
+      "Candice Bergen",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/oliver-s-story.html"
+}

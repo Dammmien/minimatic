@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Have a Heart",
+    "year": 1934,
+    "cast": [
+      "Jean Parker",
+      "James Dunn",
+      "Stuart Erwin"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/have-a-heart.html"
+}

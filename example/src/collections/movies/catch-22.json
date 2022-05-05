@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Catch-22",
+    "year": 1970,
+    "cast": [
+      "Alan Arkin",
+      "Jon Voight",
+      "Bob Newhart",
+      "Orson Welles",
+      "Buck Henry",
+      "Martin Sheen",
+      "Bob Balaban",
+      "Richard Benjamin",
+      "Charles Grodin",
+      "Art Garfunkel",
+      "Paula Prentiss"
+    ],
+    "genres": [
+      "War",
+      "Comedy"
+    ]
+  },
+  "output": "movies/catch-22.html"
+}

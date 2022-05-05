@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mud and Sand",
+    "year": 1922,
+    "cast": [
+      "Stan Laurel",
+      "Leona Anderson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mud-and-sand.html"
+}

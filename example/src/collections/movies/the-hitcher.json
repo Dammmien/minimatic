@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Hitcher",
+    "year": 2007,
+    "cast": [
+      "Sophia Bush",
+      "Sean Bean",
+      "Zachary Knighton",
+      "Neal McDonough"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-hitcher.html"
+}

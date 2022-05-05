@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Force of Arms",
+    "year": 1951,
+    "cast": [
+      "William Holden",
+      "Nancy Olson",
+      "Frank Lovejoy"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/force-of-arms.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Robin Hood",
+    "year": 2018,
+    "cast": [
+      "Taron Egerton",
+      "Jamie Foxx",
+      "Ben Mendelsohn",
+      "Eve Hewson",
+      "Jamie Dornan",
+      "Tim Minchin",
+      "Paul Anderson"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/robin-hood.html"
+}

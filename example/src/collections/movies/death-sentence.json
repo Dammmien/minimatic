@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Death Sentence",
+    "year": 2007,
+    "cast": [
+      "Kevin Bacon",
+      "Garrett Hedlund",
+      "Kelly Preston",
+      "John Goodman"
+    ],
+    "genres": [
+      "Action",
+      "Crime"
+    ]
+  },
+  "output": "movies/death-sentence.html"
+}

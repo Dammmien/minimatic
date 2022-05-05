@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Girls Town",
+    "year": 1996,
+    "cast": [
+      "Lili Taylor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/girls-town.html"
+}

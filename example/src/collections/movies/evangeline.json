@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Evangeline",
+    "year": 1929,
+    "cast": [
+      "Dolores del Río",
+      "Roland Drew"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/evangeline.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Windows",
+    "year": 1980,
+    "cast": [
+      "Joseph Cortese",
+      "Talia Shire"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/windows.html"
+}

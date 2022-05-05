@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In Old Mexico",
+    "year": 1938,
+    "cast": [
+      "William Boyd",
+      "Gabby Hayes",
+      "Russell Hayden"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/in-old-mexico.html"
+}

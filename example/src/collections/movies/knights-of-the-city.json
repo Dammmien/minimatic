@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Knights of the City",
+    "year": 1986,
+    "cast": [
+      "Leon Isaac Kennedy",
+      "Nicholas Campbell",
+      "John Mengatti"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/knights-of-the-city.html"
+}

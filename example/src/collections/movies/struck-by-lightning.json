@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Struck by Lightning",
+    "year": 2013,
+    "cast": [
+      "Chris Colfer",
+      "Allison Janney",
+      "Christina Hendricks",
+      "Sarah Hyland",
+      "Carter Jenkins",
+      "Brad William Henke",
+      "Rebel Wilson",
+      "Angela Kinsey",
+      "Polly Bergen",
+      "Dermot Mulroney"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Teen"
+    ]
+  },
+  "output": "movies/struck-by-lightning.html"
+}

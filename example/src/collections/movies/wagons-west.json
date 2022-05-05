@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wagons West",
+    "year": 1952,
+    "cast": [
+      "Rod Cameron",
+      "Peggie Castle"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wagons-west.html"
+}

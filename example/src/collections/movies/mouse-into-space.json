@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mouse Into Space",
+    "year": 1962,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/mouse-into-space.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Big City",
+    "year": 1948,
+    "cast": [
+      "Robert Preston",
+      "George Murphy",
+      "Danny Thomas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/big-city.html"
+}

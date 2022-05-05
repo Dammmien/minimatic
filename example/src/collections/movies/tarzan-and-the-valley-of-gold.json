@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tarzan and the Valley of Gold",
+    "year": 1966,
+    "cast": [
+      "Mike Henry",
+      "David Opatoshu",
+      "Nancy Kovack"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-and-the-valley-of-gold.html"
+}

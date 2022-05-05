@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Near the Rainbow's End",
+    "year": 1930,
+    "cast": [
+      "Bob Steele",
+      "Louise Lorraine"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/near-the-rainbow-s-end.html"
+}

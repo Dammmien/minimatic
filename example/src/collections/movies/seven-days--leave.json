@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Seven Days' Leave",
+    "year": 1942,
+    "cast": [
+      "Lucille Ball",
+      "Victor Mature"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/seven-days--leave.html"
+}

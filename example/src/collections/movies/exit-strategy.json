@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Exit Strategy",
+    "year": 2012,
+    "cast": [
+      "Jameel Saleem",
+      "Noelle Balfour",
+      "Kimelia Weathers",
+      "Fuzzy Fantabulous",
+      "Liz Hernandez"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/exit-strategy.html"
+}

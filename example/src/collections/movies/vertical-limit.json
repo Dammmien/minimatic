@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Vertical Limit",
+    "year": 2000,
+    "cast": [
+      "Chris O'Donnell",
+      "Bill Paxton",
+      "Robin Tunney"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/vertical-limit.html"
+}

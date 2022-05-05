@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Richard Pryor: Live on the Sunset Strip",
+    "year": 1982,
+    "cast": [
+      "Richard Pryor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/richard-pryor--live-on-the-sunset-strip.html"
+}

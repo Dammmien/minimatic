@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ape",
+    "year": 1940,
+    "cast": [
+      "Boris Karloff",
+      "Maris Wrixon"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-ape.html"
+}

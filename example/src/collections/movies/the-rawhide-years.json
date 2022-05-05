@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Rawhide Years",
+    "year": 1956,
+    "cast": [
+      "Tony Curtis",
+      "Colleen Miller",
+      "Arthur Kennedy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-rawhide-years.html"
+}

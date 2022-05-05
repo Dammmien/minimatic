@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Scorpion King",
+    "year": 2002,
+    "cast": [
+      "Dwayne Johnson",
+      "Steven Brand",
+      "Kelly Hu",
+      "Michael Clarke Duncan",
+      "Peter Facinelli"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-scorpion-king.html"
+}

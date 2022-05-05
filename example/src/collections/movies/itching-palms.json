@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Itching Palms",
+    "year": 1923,
+    "cast": [
+      "Tom Gallery",
+      "Herschel Mayall"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/itching-palms.html"
+}

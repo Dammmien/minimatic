@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Anything Goes",
+    "year": 1956,
+    "cast": [
+      "Bing Crosby",
+      "Donald O'Connor",
+      "Phil Harris",
+      "Mitzi Gaynor"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/anything-goes.html"
+}

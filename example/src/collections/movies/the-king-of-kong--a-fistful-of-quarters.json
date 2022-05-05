@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The King of Kong: A Fistful of Quarters",
+    "year": 2007,
+    "cast": [
+      "Steve Wiebe",
+      "'s attempts to break the world high score for",
+      "Donkey Kong"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-king-of-kong--a-fistful-of-quarters.html"
+}

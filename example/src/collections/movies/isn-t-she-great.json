@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Isn't She Great",
+    "year": 2000,
+    "cast": [
+      "Bette Midler",
+      "Nathan Lane",
+      "John Cleese",
+      "Stockard Channing",
+      "David Hyde Pierce",
+      "Amanda Peet"
+    ],
+    "genres": [
+      "Biography",
+      "Comedy"
+    ]
+  },
+  "output": "movies/isn-t-she-great.html"
+}

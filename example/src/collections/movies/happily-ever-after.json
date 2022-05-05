@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Happily Ever After",
+    "year": 1993,
+    "cast": [
+      "Irene Cara",
+      "Edward Asner",
+      "Carol Channing"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/happily-ever-after.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Breakfast Club",
+    "year": 1985,
+    "cast": [
+      "Emilio Estevez",
+      "Anthony Michael Hall",
+      "Judd Nelson",
+      "Molly Ringwald",
+      "Ally Sheedy",
+      "Paul Gleason",
+      "John Kapelos"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-breakfast-club.html"
+}

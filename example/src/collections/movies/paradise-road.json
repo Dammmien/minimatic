@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Paradise Road",
+    "year": 1997,
+    "cast": [
+      "Glenn Close",
+      "Frances McDormand",
+      "Julianna Margulies"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/paradise-road.html"
+}

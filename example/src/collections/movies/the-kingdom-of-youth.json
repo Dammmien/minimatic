@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Kingdom of Youth",
+    "year": 1918,
+    "cast": [
+      "Madge Kennedy",
+      "Tom Moore"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-kingdom-of-youth.html"
+}

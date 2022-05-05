@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Held to Answer",
+    "year": 1923,
+    "cast": [
+      "House Peters",
+      "Evelyn Brent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/held-to-answer.html"
+}

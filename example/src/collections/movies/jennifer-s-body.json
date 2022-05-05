@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Jennifer's Body",
+    "year": 2009,
+    "cast": [
+      "Megan Fox",
+      "Amanda Seyfried",
+      "Johnny Simmons",
+      "J. K. Simmons",
+      "Amy Sedaris",
+      "Adam Brody"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Teen"
+    ]
+  },
+  "output": "movies/jennifer-s-body.html"
+}

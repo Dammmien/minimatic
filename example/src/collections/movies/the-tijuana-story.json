@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Tijuana Story",
+    "year": 1957,
+    "cast": [
+      "James Darren",
+      "Rodolfo Acosta",
+      "Jean Willes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-tijuana-story.html"
+}

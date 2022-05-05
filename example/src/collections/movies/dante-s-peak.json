@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dante's Peak",
+    "year": 1997,
+    "cast": [
+      "Pierce Brosnan",
+      "Linda Hamilton"
+    ],
+    "genres": [
+      "Disaster"
+    ]
+  },
+  "output": "movies/dante-s-peak.html"
+}

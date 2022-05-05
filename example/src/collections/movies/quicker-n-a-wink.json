@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Quicker'n a Wink",
+    "year": 1940,
+    "cast": [
+      "Harold E. Edgerton"
+    ],
+    "genres": [
+      "Short",
+      "Documentary"
+    ]
+  },
+  "output": "movies/quicker-n-a-wink.html"
+}

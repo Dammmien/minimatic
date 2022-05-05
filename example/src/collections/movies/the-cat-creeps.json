@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cat Creeps",
+    "year": 1946,
+    "cast": [
+      "Noah Beery Jr.",
+      "Lois Collier"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-cat-creeps.html"
+}

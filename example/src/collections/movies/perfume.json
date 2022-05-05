@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Perfume",
+    "year": 2001,
+    "cast": [
+      "Estella Warren",
+      "Jeff Goldblum",
+      "Mariel Hemingway"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/perfume.html"
+}

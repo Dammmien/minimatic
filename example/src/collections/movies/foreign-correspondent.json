@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Foreign Correspondent",
+    "year": 1940,
+    "cast": [
+      "Joel McCrea",
+      "Laraine Day",
+      "Herbert Marshall"
+    ],
+    "genres": [
+      "Spy",
+      "Thriller"
+    ]
+  },
+  "output": "movies/foreign-correspondent.html"
+}

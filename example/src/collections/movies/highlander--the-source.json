@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Highlander: The Source",
+    "year": 2007,
+    "cast": [
+      "Adrian Paul"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/highlander--the-source.html"
+}

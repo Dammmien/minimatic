@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Miracle of the Hills",
+    "year": 1959,
+    "cast": [
+      "Rex Reason",
+      "Betty Lou Gerson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-miracle-of-the-hills.html"
+}

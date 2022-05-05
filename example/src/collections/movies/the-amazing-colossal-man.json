@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Amazing Colossal Man",
+    "year": 1957,
+    "cast": [
+      "Glenn Langan",
+      "Cathy Downs"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-amazing-colossal-man.html"
+}

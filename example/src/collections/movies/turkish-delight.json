@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Turkish Delight",
+    "year": 1927,
+    "cast": [
+      "Julia Faye",
+      "Rudolph Schildkraut"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/turkish-delight.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hamlet 2",
+    "year": 2008,
+    "cast": [
+      "Steve Coogan",
+      "Catherine Keener",
+      "David Arquette"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hamlet-2.html"
+}

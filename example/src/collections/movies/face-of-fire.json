@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Face of Fire",
+    "year": 1959,
+    "cast": [
+      "Cameron Mitchell",
+      "Bettye Ackerman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/face-of-fire.html"
+}

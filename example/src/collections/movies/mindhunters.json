@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Mindhunters",
+    "year": 2004,
+    "cast": [
+      "LL Cool J",
+      "Jonny Lee Miller",
+      "Kathryn Morris",
+      "Patricia Velasquez",
+      "Clifton Collins, Jr.",
+      "Eion Bailey",
+      "Will Kemp",
+      "Val Kilmer",
+      "Christian Slater"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/mindhunters.html"
+}

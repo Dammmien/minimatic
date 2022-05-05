@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Singing on the Trail",
+    "year": 1946,
+    "cast": [
+      "Ken Curtis",
+      "Jeff Donnell",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/singing-on-the-trail.html"
+}

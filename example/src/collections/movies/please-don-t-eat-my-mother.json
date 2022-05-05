@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Please Don't Eat My Mother",
+    "year": 1973,
+    "cast": [
+      "Buck Kartalian",
+      "Rene Bond"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/please-don-t-eat-my-mother.html"
+}

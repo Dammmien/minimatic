@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Gangster Squad",
+    "year": 2013,
+    "cast": [
+      "Josh Brolin",
+      "Ryan Gosling",
+      "Nick Nolte",
+      "Emma Stone",
+      "Anthony Mackie",
+      "Giovanni Ribisi",
+      "Michael Peña",
+      "Robert Patrick",
+      "Sean Penn"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/gangster-squad.html"
+}

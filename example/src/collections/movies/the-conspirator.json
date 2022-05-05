@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Conspirator",
+    "year": 2011,
+    "cast": [
+      "James McAvoy",
+      "Robin Wright",
+      "Kevin Kline",
+      "Evan Rachel Wood",
+      "Danny Huston",
+      "Justin Long",
+      "Colm Meaney",
+      "Tom Wilkinson"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-conspirator.html"
+}

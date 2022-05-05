@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Du Pont Story",
+    "year": 1950,
+    "cast": [
+      "Sigrid Gurie"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-du-pont-story.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stage Door",
+    "year": 1937,
+    "cast": [
+      "Katharine Hepburn",
+      "Ginger Rogers",
+      "Adolphe Menjou"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stage-door.html"
+}

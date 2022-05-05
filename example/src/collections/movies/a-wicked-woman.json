@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Wicked Woman",
+    "year": 1934,
+    "cast": [
+      "Mady Christians",
+      "Jean Parker",
+      "Charles Bickford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-wicked-woman.html"
+}

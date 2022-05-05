@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Any Number Can Play",
+    "year": 1949,
+    "cast": [
+      "Clark Gable",
+      "Alexis Smith",
+      "Wendell Corey",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/any-number-can-play.html"
+}

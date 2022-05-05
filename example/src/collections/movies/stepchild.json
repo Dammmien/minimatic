@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stepchild",
+    "year": 1947,
+    "cast": [
+      "Brenda Joyce",
+      "Donald Woods",
+      "Vivian Austin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stepchild.html"
+}

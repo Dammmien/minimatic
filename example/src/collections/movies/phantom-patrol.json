@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Phantom Patrol",
+    "year": 1936,
+    "cast": [
+      "Kermit Maynard",
+      "Joan Barclay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/phantom-patrol.html"
+}

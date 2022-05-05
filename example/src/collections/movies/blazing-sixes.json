@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blazing Sixes",
+    "year": 1937,
+    "cast": [
+      "Joan Valerie",
+      "John Merton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/blazing-sixes.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Hurts",
+    "year": 1991,
+    "cast": [
+      "Jeff Daniels",
+      "Judith Ivey",
+      "Cloris Leachman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-hurts.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Make Way for a Lady",
+    "year": 1936,
+    "cast": [
+      "Anne Shirley",
+      "Herbert Marshall",
+      "Gertrude Michael"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/make-way-for-a-lady.html"
+}

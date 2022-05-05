@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gun Law Justice",
+    "year": 1949,
+    "cast": [
+      "Jimmy Wakely",
+      "Jane Adams"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gun-law-justice.html"
+}

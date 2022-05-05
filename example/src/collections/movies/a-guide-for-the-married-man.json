@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Guide for the Married Man",
+    "year": 1967,
+    "cast": [
+      "Walter Matthau",
+      "Robert Morse",
+      "Inger Stevens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-guide-for-the-married-man.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Savage Grace",
+    "year": 2007,
+    "cast": [
+      "Julianne Moore",
+      "Stephen Dillane",
+      "Eddie Redmayne",
+      "Hugh Dancy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/savage-grace.html"
+}

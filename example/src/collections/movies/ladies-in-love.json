@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ladies in Love",
+    "year": 1936,
+    "cast": [
+      "Loretta Young",
+      "Janet Gaynor",
+      "Don Ameche"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/ladies-in-love.html"
+}

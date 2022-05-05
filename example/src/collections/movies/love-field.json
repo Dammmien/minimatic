@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love Field",
+    "year": 1992,
+    "cast": [
+      "Michelle Pfeiffer",
+      "Dennis Haysbert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-field.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Scanner Darkly",
+    "year": 2006,
+    "cast": [
+      "Keanu Reeves",
+      "Robert Downey, Jr.",
+      "Woody Harrelson",
+      "Winona Ryder"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/a-scanner-darkly.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cosmo Jones, Crime Smasher",
+    "year": 1943,
+    "cast": [
+      "Richard Cromwell",
+      "Gale Storm"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/cosmo-jones--crime-smasher.html"
+}

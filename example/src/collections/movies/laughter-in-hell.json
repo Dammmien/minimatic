@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Laughter in Hell",
+    "year": 1933,
+    "cast": [
+      "Pat O'Brien",
+      "Gloria Stuart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/laughter-in-hell.html"
+}

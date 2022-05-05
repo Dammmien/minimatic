@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spurs",
+    "year": 1930,
+    "cast": [
+      "Hoot Gibson",
+      "Robert Homans"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/spurs.html"
+}

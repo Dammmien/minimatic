@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lady Behave!",
+    "year": 1938,
+    "cast": [
+      "Sally Eilers",
+      "Neil Hamilton",
+      "Joseph Schildkraut"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lady-behave-.html"
+}

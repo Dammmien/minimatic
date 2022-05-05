@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dangerous When Wet",
+    "year": 1953,
+    "cast": [
+      "Esther Williams",
+      "Fernando Lamas",
+      "Jack Carson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/dangerous-when-wet.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Suicide Fleet",
+    "year": 1931,
+    "cast": [
+      "William Boyd",
+      "James Gleason",
+      "Ginger Rogers"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/suicide-fleet.html"
+}

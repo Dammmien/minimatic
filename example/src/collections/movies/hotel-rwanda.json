@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Hotel Rwanda",
+    "year": 2004,
+    "cast": [
+      "Don Cheadle",
+      "Sophie Okonedo",
+      "Nick Nolte",
+      "Joaquin Phoenix"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/hotel-rwanda.html"
+}

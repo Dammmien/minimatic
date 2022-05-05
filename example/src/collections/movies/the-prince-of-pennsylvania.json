@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Prince of Pennsylvania",
+    "year": 1988,
+    "cast": [
+      "Keanu Reeves",
+      "Bonnie Bedelia"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-prince-of-pennsylvania.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Kansan",
+    "year": 1943,
+    "cast": [
+      "Richard Dix",
+      "Jane Wyatt",
+      "Albert Dekker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-kansan.html"
+}

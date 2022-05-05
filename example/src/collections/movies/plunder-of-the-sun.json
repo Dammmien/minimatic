@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Plunder of the Sun",
+    "year": 1953,
+    "cast": [
+      "Glenn Ford",
+      "Diana Lynn",
+      "Francis L. Sullivan"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/plunder-of-the-sun.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lloyd",
+    "year": 2001,
+    "cast": [
+      "Todd Bosley",
+      "Brendon Ryan Barret",
+      "Mary Mara"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lloyd.html"
+}

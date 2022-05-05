@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Armed and Dangerous",
+    "year": 1986,
+    "cast": [
+      "John Candy",
+      "Eugene Levy",
+      "Meg Ryan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/armed-and-dangerous.html"
+}

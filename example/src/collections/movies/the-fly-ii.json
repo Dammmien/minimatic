@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fly II",
+    "year": 1989,
+    "cast": [
+      "Eric Stoltz",
+      "Daphne Zuniga"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-fly-ii.html"
+}

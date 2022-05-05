@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Matching Dreams",
+    "year": 1916,
+    "cast": [
+      "Sylvia Ashton",
+      "Vivian Rich"
+    ],
+    "genres": [
+      "Short",
+      "Comedy"
+    ]
+  },
+  "output": "movies/matching-dreams.html"
+}

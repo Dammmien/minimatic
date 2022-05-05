@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "His Picture",
+    "year": 1916,
+    "cast": [
+      "William Garwood",
+      "Violet Mersereau",
+      "Clara Beyers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/his-picture.html"
+}

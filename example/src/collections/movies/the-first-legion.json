@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The First Legion",
+    "year": 1951,
+    "cast": [
+      "Charles Boyer",
+      "Barbara Rush"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-first-legion.html"
+}

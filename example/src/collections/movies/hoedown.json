@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hoedown",
+    "year": 1950,
+    "cast": [
+      "Eddy Arnold",
+      "Jeff Donnell",
+      "Jock Mahoney"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hoedown.html"
+}

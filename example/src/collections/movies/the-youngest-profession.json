@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Youngest Profession",
+    "year": 1943,
+    "cast": [
+      "Virginia Weidler",
+      "Edward Arnold",
+      "Agnes Moorehead"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-youngest-profession.html"
+}

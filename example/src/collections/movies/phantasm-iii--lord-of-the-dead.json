@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Phantasm III: Lord of the Dead",
+    "year": 1994,
+    "cast": [
+      "Reggie Bannister",
+      "Angus Scrimm"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/phantasm-iii--lord-of-the-dead.html"
+}

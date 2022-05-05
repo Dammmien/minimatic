@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Accidental Husband",
+    "year": 2008,
+    "cast": [
+      "Uma Thurman",
+      "Jeffrey Dean Morgan",
+      "Colin Firth"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-accidental-husband.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "I Dream Too Much",
+    "year": 1935,
+    "cast": [
+      "Henry Fonda",
+      "Lily Pons",
+      "Lucille Ball"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/i-dream-too-much.html"
+}

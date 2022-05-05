@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Elvis Meets Nixon",
+    "year": 1997,
+    "cast": [
+      "Rick Peters",
+      "Bob Gunton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/elvis-meets-nixon.html"
+}

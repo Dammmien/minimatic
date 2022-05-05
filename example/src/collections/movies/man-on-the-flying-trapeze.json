@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Man on the Flying Trapeze",
+    "year": 1935,
+    "cast": [
+      "W. C. Fields",
+      "Kathleen Howard",
+      "Mary Brian"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/man-on-the-flying-trapeze.html"
+}

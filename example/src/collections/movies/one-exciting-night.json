@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Exciting Night",
+    "year": 1922,
+    "cast": [
+      "Carol Dempster",
+      "Henry Hull"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/one-exciting-night.html"
+}

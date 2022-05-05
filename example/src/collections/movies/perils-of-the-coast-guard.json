@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Perils of the Coast Guard",
+    "year": 1926,
+    "cast": [
+      "Cullen Landis",
+      "Dorothy Dwan"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/perils-of-the-coast-guard.html"
+}

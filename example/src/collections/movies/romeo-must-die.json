@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Romeo Must Die",
+    "year": 2000,
+    "cast": [
+      "Jet Li",
+      "Aaliyah",
+      "Delroy Lindo"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/romeo-must-die.html"
+}

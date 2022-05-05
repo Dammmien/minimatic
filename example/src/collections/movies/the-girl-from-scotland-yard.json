@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Girl from Scotland Yard",
+    "year": 1937,
+    "cast": [
+      "Karen Morley",
+      "Eduardo Ciannelli",
+      "Katharine Alexander"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-girl-from-scotland-yard.html"
+}

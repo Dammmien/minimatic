@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "We Faw Down",
+    "year": 1928,
+    "cast": [
+      "Stan Laurel",
+      "Oliver Hardy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/we-faw-down.html"
+}

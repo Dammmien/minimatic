@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Finding Dory",
+    "year": 2016,
+    "cast": [
+      "Ellen DeGeneres",
+      "Albert Brooks"
+    ],
+    "genres": [
+      "Animated",
+      "Adventure"
+    ]
+  },
+  "output": "movies/finding-dory.html"
+}

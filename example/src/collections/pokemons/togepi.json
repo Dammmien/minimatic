@@ -1,0 +1,20 @@
+{
+  "id": 175,
+  "name": {
+    "english": "Togepi",
+    "japanese": "トゲピー",
+    "chinese": "波克比",
+    "french": "Togepi"
+  },
+  "type": [
+    "Fairy"
+  ],
+  "base": {
+    "HP": 35,
+    "Attack": 20,
+    "Defense": 65,
+    "Sp. Attack": 40,
+    "Sp. Defense": 65,
+    "Speed": 20
+  }
+}

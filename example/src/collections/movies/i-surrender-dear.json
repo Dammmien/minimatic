@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Surrender Dear",
+    "year": 1948,
+    "cast": [
+      "Gloria Jean",
+      "David Street"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/i-surrender-dear.html"
+}

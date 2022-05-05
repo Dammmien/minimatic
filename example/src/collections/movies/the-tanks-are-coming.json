@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Tanks are Coming",
+    "year": 1951,
+    "cast": [
+      "Steve Cochran",
+      "Philip Carey",
+      "Mari Aldon"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-tanks-are-coming.html"
+}

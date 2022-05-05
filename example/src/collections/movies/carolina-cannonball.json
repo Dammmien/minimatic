@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Carolina Cannonball",
+    "year": 1955,
+    "cast": [
+      "Judy Canova",
+      "Andy Clyde"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/carolina-cannonball.html"
+}

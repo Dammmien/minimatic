@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Renaissance Man",
+    "year": 1994,
+    "cast": [
+      "Danny DeVito",
+      "Gregory Hines",
+      "Mark Wahlberg",
+      "Cliff Robertson",
+      "Kadeem Hardison",
+      "Lillo Brancato, Jr."
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/renaissance-man.html"
+}

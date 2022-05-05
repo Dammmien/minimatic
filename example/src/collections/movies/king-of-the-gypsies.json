@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "King of the Gypsies",
+    "year": 1978,
+    "cast": [
+      "Eric Roberts",
+      "Brooke Shields",
+      "Shelley Winters",
+      "Susan Sarandon",
+      "Sterling Hayden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/king-of-the-gypsies.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thirty Days",
+    "year": 1922,
+    "cast": [
+      "Wallace Reid",
+      "Wanda Hawley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/thirty-days.html"
+}

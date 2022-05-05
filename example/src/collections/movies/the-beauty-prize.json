@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Beauty Prize",
+    "year": 1924,
+    "cast": [
+      "Viola Dana",
+      "Pat O'Malley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-beauty-prize.html"
+}

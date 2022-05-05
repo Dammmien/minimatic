@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chelsea Walls",
+    "year": 2002,
+    "cast": [
+      "Kris Kristofferson",
+      "Uma Thurman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/chelsea-walls.html"
+}

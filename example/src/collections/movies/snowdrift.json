@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Snowdrift",
+    "year": 1923,
+    "cast": [
+      "Buck Jones",
+      "Irene Rich"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/snowdrift.html"
+}

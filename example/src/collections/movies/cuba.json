@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cuba",
+    "year": 1979,
+    "cast": [
+      "Sean Connery",
+      "Brooke Adams",
+      "Chris Sarandon",
+      "Jack Weston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cuba.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Girls of the Big House",
+    "year": 1945,
+    "cast": [
+      "Lynne Roberts",
+      "Virginia Christine"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/girls-of-the-big-house.html"
+}

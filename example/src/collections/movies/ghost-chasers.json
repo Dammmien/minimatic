@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ghost Chasers",
+    "year": 1951,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ghost-chasers.html"
+}

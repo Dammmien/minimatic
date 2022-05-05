@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Janky Promoters",
+    "year": 2009,
+    "cast": [
+      "Ice Cube",
+      "Mike Epps",
+      "Young Jeezy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/janky-promoters.html"
+}

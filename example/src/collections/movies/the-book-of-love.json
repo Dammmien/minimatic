@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Book of Love",
+    "year": 2017,
+    "cast": [
+      "Jason Sudeikis",
+      "Jessica Biel",
+      "Maisie Williams",
+      "Mary Steenburgen",
+      "Orlando Jones",
+      "Paul Reiser"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-book-of-love.html"
+}

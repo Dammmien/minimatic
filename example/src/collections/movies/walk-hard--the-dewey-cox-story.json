@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Walk Hard: The Dewey Cox Story",
+    "year": 2007,
+    "cast": [
+      "John C. Reilly",
+      "Jenna Fischer"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/walk-hard--the-dewey-cox-story.html"
+}

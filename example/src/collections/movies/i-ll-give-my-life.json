@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I'll Give My Life",
+    "year": 1960,
+    "cast": [
+      "Angie Dickinson",
+      "Ray Collins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-ll-give-my-life.html"
+}

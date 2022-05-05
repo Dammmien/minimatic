@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "In the Gloaming",
+    "year": 1997,
+    "cast": [
+      "Glenn Close",
+      "Bridget Fonda",
+      "Whoopi Goldberg",
+      "Robert Sean Leonard",
+      "David Strathairn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/in-the-gloaming.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Strange Love of Molly Louvain",
+    "year": 1932,
+    "cast": [
+      "Ann Dvorak",
+      "Lee Tracy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-strange-love-of-molly-louvain.html"
+}

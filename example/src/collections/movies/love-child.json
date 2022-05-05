@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Child",
+    "year": 1982,
+    "cast": [
+      "Amy Madigan",
+      "Beau Bridges",
+      "Mackenzie Phillips"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/love-child.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Korea Patrol",
+    "year": 1951,
+    "cast": [
+      "Richard Emory",
+      "Benson Fong"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/korea-patrol.html"
+}

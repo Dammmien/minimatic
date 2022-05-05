@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Here We Go Again",
+    "year": 1942,
+    "cast": [
+      "Jim Jordan",
+      "Marian Jordan",
+      "Edgar Bergen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/here-we-go-again.html"
+}

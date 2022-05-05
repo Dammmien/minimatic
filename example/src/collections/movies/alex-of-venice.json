@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Alex of Venice",
+    "year": 2015,
+    "cast": [
+      "Mary Elizabeth Winstead",
+      "Don Johnson",
+      "Chris Messina",
+      "Derek Luke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/alex-of-venice.html"
+}

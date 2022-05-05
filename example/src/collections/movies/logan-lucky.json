@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Logan Lucky",
+    "year": 2017,
+    "cast": [
+      "Channing Tatum",
+      "Adam Driver",
+      "Riley Keough",
+      "Daniel Craig",
+      "Hilary Swank",
+      "Seth MacFarlane",
+      "Katie Holmes",
+      "Katherine Waterston",
+      "Sebastian Stan"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/logan-lucky.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Freebie and the Bean",
+    "year": 1974,
+    "cast": [
+      "Alan Arkin",
+      "James Caan"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/freebie-and-the-bean.html"
+}

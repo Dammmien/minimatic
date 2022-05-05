@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Mystic Circle Murders",
+    "year": 1938,
+    "cast": [
+      "Robert Fiske",
+      "Arthur Gardner",
+      "Helene Le Berthon"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-mystic-circle-murders.html"
+}

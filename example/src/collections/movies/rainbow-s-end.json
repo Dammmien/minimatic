@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rainbow's End",
+    "year": 1935,
+    "cast": [
+      "Hoot Gibson",
+      "Oscar Apfel",
+      "June Gale"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rainbow-s-end.html"
+}

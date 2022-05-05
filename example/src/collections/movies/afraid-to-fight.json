@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Afraid to Fight",
+    "year": 1922,
+    "cast": [
+      "Frank Mayo",
+      "Lillian Rich"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/afraid-to-fight.html"
+}

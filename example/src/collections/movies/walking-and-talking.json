@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Walking and Talking",
+    "year": 1996,
+    "cast": [
+      "Catherine Keener",
+      "Anne Heche",
+      "Liev Schreiber"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/walking-and-talking.html"
+}

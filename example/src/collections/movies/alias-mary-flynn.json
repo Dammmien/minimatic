@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Alias Mary Flynn",
+    "year": 1925,
+    "cast": [
+      "Evelyn Brent",
+      "Malcolm McGregor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/alias-mary-flynn.html"
+}

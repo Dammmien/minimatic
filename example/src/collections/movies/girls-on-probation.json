@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Girls on Probation",
+    "year": 1938,
+    "cast": [
+      "Jane Bryan",
+      "Ronald Reagan",
+      "Susan Heyward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/girls-on-probation.html"
+}

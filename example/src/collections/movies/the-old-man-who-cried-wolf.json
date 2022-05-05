@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Old Man Who Cried Wolf",
+    "year": 1970,
+    "cast": [
+      "Edward G. Robinson",
+      "Martin Balsam",
+      "Diane Baker"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-old-man-who-cried-wolf.html"
+}

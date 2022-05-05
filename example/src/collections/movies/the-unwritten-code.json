@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Unwritten Code",
+    "year": 1944,
+    "cast": [
+      "Ann Savage",
+      "Tom Neal"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-unwritten-code.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Iroquois Trail",
+    "year": 1950,
+    "cast": [
+      "George Montgomery",
+      "Brenda Marshall"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-iroquois-trail.html"
+}

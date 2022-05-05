@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Birdman of Alcatraz",
+    "year": 1962,
+    "cast": [
+      "Burt Lancaster",
+      "Karl Malden",
+      "Telly Savalas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/birdman-of-alcatraz.html"
+}

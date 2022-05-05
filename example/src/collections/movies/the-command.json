@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Command",
+    "year": 1954,
+    "cast": [
+      "Guy Madison",
+      "James Whitmore",
+      "Joan Weldon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-command.html"
+}

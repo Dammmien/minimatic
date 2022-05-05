@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Broadway Gallant",
+    "year": 1926,
+    "cast": [
+      "Richard Talmadge",
+      "Clara Horton"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-broadway-gallant.html"
+}

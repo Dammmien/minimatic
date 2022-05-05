@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "24 Hours",
+    "year": 1931,
+    "cast": [
+      "Kay Francis",
+      "Miriam Hopkins",
+      "Regis Toomey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/24-hours.html"
+}

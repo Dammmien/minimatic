@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Texas Rangers",
+    "year": 1951,
+    "cast": [
+      "George Montgomery",
+      "Gale Storm"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-texas-rangers.html"
+}

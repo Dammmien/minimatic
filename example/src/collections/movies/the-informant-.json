@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Informant!",
+    "year": 2009,
+    "cast": [
+      "Matt Damon",
+      "Scott Bakula",
+      "Joel McHale",
+      "Melanie Lynskey"
+    ],
+    "genres": [
+      "Comedy",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-informant-.html"
+}

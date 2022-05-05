@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flight to Nowhere",
+    "year": 1946,
+    "cast": [
+      "Alan Curtis",
+      "Evelyn Ankers",
+      "Micheline Cheirel"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/flight-to-nowhere.html"
+}

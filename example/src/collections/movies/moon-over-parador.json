@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Moon Over Parador",
+    "year": 1988,
+    "cast": [
+      "Richard Dreyfuss",
+      "Raúl Juliá",
+      "Sônia Braga",
+      "Jonathan Winters"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/moon-over-parador.html"
+}

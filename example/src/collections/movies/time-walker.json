@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Time Walker",
+    "year": 1982,
+    "cast": [
+      "James Karen"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/time-walker.html"
+}

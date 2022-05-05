@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Masquerade",
+    "year": 1988,
+    "cast": [
+      "Rob Lowe",
+      "Meg Tilly",
+      "Kim Cattrall",
+      "Doug Savant",
+      "Dana Delany"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/masquerade.html"
+}

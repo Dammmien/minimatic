@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Freaky Friday",
+    "year": 2003,
+    "cast": [
+      "Lindsay Lohan",
+      "Jamie Lee Curtis",
+      "Chad Michael Murray",
+      "Mark Harmon"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/freaky-friday.html"
+}

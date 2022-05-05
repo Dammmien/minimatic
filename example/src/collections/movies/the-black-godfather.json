@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Black Godfather",
+    "year": 1974,
+    "cast": [
+      "Rod Perry"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-black-godfather.html"
+}

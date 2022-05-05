@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mary of Scotland",
+    "year": 1936,
+    "cast": [
+      "Katharine Hepburn",
+      "Fredric March",
+      "Moroni Olsen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mary-of-scotland.html"
+}

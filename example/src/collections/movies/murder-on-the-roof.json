@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Murder on the Roof",
+    "year": 1930,
+    "cast": [
+      "Dorothy Revier",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Mystery",
+      "Drama"
+    ]
+  },
+  "output": "movies/murder-on-the-roof.html"
+}

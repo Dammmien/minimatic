@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Wild Guitar",
+    "year": 1962,
+    "cast": [
+      "Arch Hall Jr."
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/wild-guitar.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Escape from Red Rock",
+    "year": 1957,
+    "cast": [
+      "Brian Donlevy",
+      "Eilene Janssen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/escape-from-red-rock.html"
+}

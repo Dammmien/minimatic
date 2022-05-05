@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dawn on the Great Divide",
+    "year": 1942,
+    "cast": [
+      "Buck Jones",
+      "Mona Barrie"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/dawn-on-the-great-divide.html"
+}

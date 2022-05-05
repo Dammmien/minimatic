@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thundering Jets",
+    "year": 1958,
+    "cast": [
+      "Audrey Dalton",
+      "Rex Reason"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thundering-jets.html"
+}

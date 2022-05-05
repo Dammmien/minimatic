@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Hollywood Homicide",
+    "year": 2003,
+    "cast": [
+      "Harrison Ford",
+      "Josh Hartnett",
+      "Lena Olin",
+      "Bruce Greenwood",
+      "Lolita Davidovich",
+      "Dwight Yoakam",
+      "Master P",
+      "Martin Landau"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hollywood-homicide.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lady Godiva of Coventry",
+    "year": 1955,
+    "cast": [
+      "Maureen O'Hara",
+      "George Nader",
+      "Victor McLaglen"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/lady-godiva-of-coventry.html"
+}

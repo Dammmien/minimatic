@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Billion Dollar Scandal",
+    "year": 1933,
+    "cast": [
+      "Robert Armstrong",
+      "Constance Cummings"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-billion-dollar-scandal.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Missing in Action 2: The Beginning",
+    "year": 1985,
+    "cast": [
+      "Chuck Norris",
+      "Soon-Tek Oh",
+      "Steven Williams"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/missing-in-action-2--the-beginning.html"
+}

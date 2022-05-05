@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Desert Sands",
+    "year": 1955,
+    "cast": [
+      "Ralph Meeker",
+      "Marla English"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/desert-sands.html"
+}

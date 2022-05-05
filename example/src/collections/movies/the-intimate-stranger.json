@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Intimate Stranger",
+    "year": 1956,
+    "cast": [
+      "Richard Basehart",
+      "Mary Murphy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-intimate-stranger.html"
+}

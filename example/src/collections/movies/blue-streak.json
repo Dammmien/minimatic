@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Blue Streak",
+    "year": 1999,
+    "cast": [
+      "Martin Lawrence",
+      "Luke Wilson",
+      "Peter Greene",
+      "Dave Chappelle"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/blue-streak.html"
+}

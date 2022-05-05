@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Scooby-Doo",
+    "year": 2002,
+    "cast": [
+      "Sarah Michelle Gellar",
+      "Freddie Prinze Jr.",
+      "Matthew Lillard",
+      "Linda Cardellini"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/scooby-doo.html"
+}

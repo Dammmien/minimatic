@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Face of the Screaming Werewolf",
+    "year": 1964,
+    "cast": [
+      "Lon Chaney, Jr."
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/face-of-the-screaming-werewolf.html"
+}

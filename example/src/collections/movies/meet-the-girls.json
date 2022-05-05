@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Meet the Girls",
+    "year": 1938,
+    "cast": [
+      "June Lang",
+      "Lynn Bari"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/meet-the-girls.html"
+}

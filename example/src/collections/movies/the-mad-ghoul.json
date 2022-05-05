@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mad Ghoul",
+    "year": 1943,
+    "cast": [
+      "George Zucco",
+      "Evelyn Ankers",
+      "Robert Armstrong"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-mad-ghoul.html"
+}

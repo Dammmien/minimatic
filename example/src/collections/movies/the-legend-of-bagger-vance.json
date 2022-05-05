@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Legend of Bagger Vance",
+    "year": 2000,
+    "cast": [
+      "Matt Damon",
+      "Will Smith",
+      "Charlize Theron",
+      "Jack Lemmon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-legend-of-bagger-vance.html"
+}

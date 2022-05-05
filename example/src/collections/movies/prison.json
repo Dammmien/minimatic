@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prison",
+    "year": 1988,
+    "cast": [
+      "Viggo Mortensen",
+      "Chelsea Field"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/prison.html"
+}

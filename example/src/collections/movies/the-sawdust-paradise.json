@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sawdust Paradise",
+    "year": 1928,
+    "cast": [
+      "Esther Ralston",
+      "Reed Howes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sawdust-paradise.html"
+}

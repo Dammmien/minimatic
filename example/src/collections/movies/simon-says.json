@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Simon Says",
+    "year": 2006,
+    "cast": [
+      "Crispin Glover",
+      "Margo Harshman"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/simon-says.html"
+}

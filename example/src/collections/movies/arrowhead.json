@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Arrowhead",
+    "year": 1953,
+    "cast": [
+      "Charlton Heston",
+      "Jack Palance",
+      "Katy Jurado"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/arrowhead.html"
+}

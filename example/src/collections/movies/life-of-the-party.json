@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Life of the Party",
+    "year": 2018,
+    "cast": [
+      "Melissa McCarthy",
+      "Maya Rudolph",
+      "Molly Gordon",
+      "Julie Bowen",
+      "Gillian Jacobs",
+      "Debby Ryan",
+      "Matt Walsh",
+      "Jacki Weaver"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/life-of-the-party.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "To the Ladies",
+    "year": 1923,
+    "cast": [
+      "Edward Everett Horton",
+      "Louise Dresser",
+      "Helen Jerome Eddy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/to-the-ladies.html"
+}

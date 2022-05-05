@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tom Sawyer, Detective",
+    "year": 1938,
+    "cast": [
+      "Billy Cook",
+      "Donald O'Connor"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/tom-sawyer--detective.html"
+}

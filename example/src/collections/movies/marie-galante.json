@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Marie Galante",
+    "year": 1934,
+    "cast": [
+      "Spencer Tracy",
+      "Ketti Gallian",
+      "Ned Sparks"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/marie-galante.html"
+}

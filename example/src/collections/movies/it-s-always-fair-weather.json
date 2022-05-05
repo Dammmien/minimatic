@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "It's Always Fair Weather",
+    "year": 1955,
+    "cast": [
+      "Gene Kelly",
+      "Cyd Charisse",
+      "Dan Dailey",
+      "Michael Kidd"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/it-s-always-fair-weather.html"
+}

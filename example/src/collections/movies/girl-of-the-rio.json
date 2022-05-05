@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Girl of the Rio",
+    "year": 1932,
+    "cast": [
+      "Dolores del Río",
+      "Leo Carrillo"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/girl-of-the-rio.html"
+}

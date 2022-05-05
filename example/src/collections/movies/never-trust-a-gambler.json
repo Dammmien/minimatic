@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Never Trust a Gambler",
+    "year": 1951,
+    "cast": [
+      "Dane Clark",
+      "Cathy O'Donnell"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/never-trust-a-gambler.html"
+}

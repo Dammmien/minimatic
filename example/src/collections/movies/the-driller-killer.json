@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Driller Killer",
+    "year": 1979,
+    "cast": [
+      "Abel Ferrara",
+      "Carolyn Marz"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-driller-killer.html"
+}

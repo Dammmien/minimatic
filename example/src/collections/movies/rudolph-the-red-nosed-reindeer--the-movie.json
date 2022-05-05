@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rudolph the Red-Nosed Reindeer: The Movie",
+    "year": 1998,
+    "cast": [
+      "John Goodman",
+      "Alan Arkin",
+      "Eric Idle",
+      "Whoopi Goldberg"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/rudolph-the-red-nosed-reindeer--the-movie.html"
+}

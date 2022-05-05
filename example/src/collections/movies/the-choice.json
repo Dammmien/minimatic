@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Choice",
+    "year": 2016,
+    "cast": [
+      "Benjamin Walker",
+      "Teresa Palmer"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-choice.html"
+}

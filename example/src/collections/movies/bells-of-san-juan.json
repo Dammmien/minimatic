@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bells of San Juan",
+    "year": 1922,
+    "cast": [
+      "Buck Jones",
+      "Fritzi Brunette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bells-of-san-juan.html"
+}

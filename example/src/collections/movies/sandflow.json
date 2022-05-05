@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sandflow",
+    "year": 1937,
+    "cast": [
+      "Buck Jones",
+      "Lita Chevret"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sandflow.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scarlet Dawn",
+    "year": 1932,
+    "cast": [
+      "Douglas Fairbanks Jr.",
+      "Nancy Carroll"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/scarlet-dawn.html"
+}

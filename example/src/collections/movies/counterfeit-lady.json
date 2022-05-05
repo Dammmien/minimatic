@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Counterfeit Lady",
+    "year": 1936,
+    "cast": [
+      "Ralph Bellamy",
+      "Joan Perry"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/counterfeit-lady.html"
+}

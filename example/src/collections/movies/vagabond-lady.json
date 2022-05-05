@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Vagabond Lady",
+    "year": 1935,
+    "cast": [
+      "Robert Young",
+      "Evelyn Venable",
+      "Reginald Denny"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/vagabond-lady.html"
+}

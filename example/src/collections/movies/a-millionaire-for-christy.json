@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Millionaire for Christy",
+    "year": 1951,
+    "cast": [
+      "Eleanor Parker",
+      "Fred MacMurray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-millionaire-for-christy.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Going Wild",
+    "year": 1930,
+    "cast": [
+      "Joe E. Brown",
+      "Lawrence Gray",
+      "Ona Munson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/going-wild.html"
+}

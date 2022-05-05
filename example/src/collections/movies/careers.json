@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Careers",
+    "year": 1929,
+    "cast": [
+      "Billie Dove",
+      "Thelma Todd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/careers.html"
+}

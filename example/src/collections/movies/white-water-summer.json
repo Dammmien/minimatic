@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "White Water Summer",
+    "year": 1987,
+    "cast": [
+      "Kevin Bacon",
+      "Sean Astin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/white-water-summer.html"
+}

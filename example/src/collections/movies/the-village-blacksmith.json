@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Village Blacksmith",
+    "year": 1922,
+    "cast": [
+      "Will Walling",
+      "Virginia True Boardman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-village-blacksmith.html"
+}

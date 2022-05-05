@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Little Madonna",
+    "year": 1914,
+    "cast": [
+      "William Desmond Taylor",
+      "Patricia Palmer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-little-madonna.html"
+}

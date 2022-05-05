@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ghost Breaker",
+    "year": 1922,
+    "cast": [
+      "Wallace Reid",
+      "Lila Lee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ghost-breaker.html"
+}

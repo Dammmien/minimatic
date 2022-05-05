@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Svengali",
+    "year": 1931,
+    "cast": [
+      "John Barrymore",
+      "Marian Marsh",
+      "Donald Crisp"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/svengali.html"
+}

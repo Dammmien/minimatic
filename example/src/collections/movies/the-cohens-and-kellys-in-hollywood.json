@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cohens and Kellys in Hollywood",
+    "year": 1932,
+    "cast": [
+      "June Clyde",
+      "Norman Foster"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-cohens-and-kellys-in-hollywood.html"
+}

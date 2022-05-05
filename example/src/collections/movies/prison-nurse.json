@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Prison Nurse",
+    "year": 1938,
+    "cast": [
+      "Henry Wilcoxon",
+      "Marian Marsh",
+      "Bernadene Hayes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/prison-nurse.html"
+}

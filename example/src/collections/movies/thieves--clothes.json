@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thieves' Clothes",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson",
+      "Alma Bennett"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/thieves--clothes.html"
+}

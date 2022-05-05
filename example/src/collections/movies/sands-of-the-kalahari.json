@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sands of the Kalahari",
+    "year": 1965,
+    "cast": [
+      "Stuart Whitman",
+      "Stanley Baker"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/sands-of-the-kalahari.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Brain Candy",
+    "year": 1996,
+    "cast": [
+      "Kevin McDonald",
+      "Scott Thompson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/brain-candy.html"
+}

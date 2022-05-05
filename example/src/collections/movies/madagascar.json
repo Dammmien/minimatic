@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Madagascar",
+    "year": 2005,
+    "cast": [
+      "Ben Stiller",
+      "Chris Rock",
+      "David Schwimmer",
+      "Jada Pinkett Smith"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy"
+    ]
+  },
+  "output": "movies/madagascar.html"
+}

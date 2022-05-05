@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stranded in Paris",
+    "year": 1926,
+    "cast": [
+      "Bebe Daniels",
+      "Ford Sterling"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stranded-in-paris.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flames",
+    "year": 1932,
+    "cast": [
+      "Johnny Mack Brown",
+      "Noel Francis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flames.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Marshal of Gunsmoke",
+    "year": 1944,
+    "cast": [
+      "Tex Ritter",
+      "Russell Hayden",
+      "Jennifer Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/marshal-of-gunsmoke.html"
+}

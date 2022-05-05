@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Death to Smoochy",
+    "year": 2002,
+    "cast": [
+      "Robin Williams",
+      "Edward Norton",
+      "Danny DeVito",
+      "Catherine Keener",
+      "Jon Stewart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/death-to-smoochy.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Beverly Hills Chihuahua",
+    "year": 2008,
+    "cast": [
+      "Jamie Lee Curtis",
+      "George Lopez",
+      "Drew Barrymore",
+      "Andy García"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/beverly-hills-chihuahua.html"
+}

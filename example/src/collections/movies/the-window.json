@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Window",
+    "year": 1949,
+    "cast": [
+      "Bobby Driscoll",
+      "Barbara Hale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-window.html"
+}

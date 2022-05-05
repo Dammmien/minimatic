@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fire on the Amazon",
+    "year": 1993,
+    "cast": [
+      "Sandra Bullock",
+      "Craig Sheffer",
+      "Juan Fernandez"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/fire-on-the-amazon.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Town of Nazareth",
+    "year": 1914,
+    "cast": [
+      "Charlotte Burton",
+      "William Bertram",
+      "Albert Cavens",
+      "Edward Coxen"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-town-of-nazareth.html"
+}

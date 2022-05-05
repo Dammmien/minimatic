@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Law West of Tombstone",
+    "year": 1938,
+    "cast": [
+      "Tim Holt",
+      "Harry Carey",
+      "Paul Guilfoyle"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-law-west-of-tombstone.html"
+}

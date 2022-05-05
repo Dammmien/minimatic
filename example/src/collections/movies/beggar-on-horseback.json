@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beggar on Horseback",
+    "year": 1925,
+    "cast": [
+      "Edward Everett Horton",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/beggar-on-horseback.html"
+}

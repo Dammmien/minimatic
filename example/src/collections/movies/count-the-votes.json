@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Count the Votes",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd",
+      "Snub Pollard",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/count-the-votes.html"
+}

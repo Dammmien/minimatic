@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Wild Night",
+    "year": 1938,
+    "cast": [
+      "June Lang",
+      "Dick Baldwin",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-wild-night.html"
+}

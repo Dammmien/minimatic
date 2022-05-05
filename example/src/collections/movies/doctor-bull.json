@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Doctor Bull",
+    "year": 1933,
+    "cast": [
+      "Will Rogers",
+      "Marian Nixon",
+      "Vera Allen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/doctor-bull.html"
+}

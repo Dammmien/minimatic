@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dancer, Texas Pop. 81",
+    "year": 1998,
+    "cast": [
+      "Ethan Embry",
+      "Patricia Wettig",
+      "Ashley Johnson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dancer--texas-pop--81.html"
+}

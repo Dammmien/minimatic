@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Blot",
+    "year": 1921,
+    "cast": [
+      "Claire Windsor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-blot.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Paradise Island",
+    "year": 1930,
+    "cast": [
+      "Kenneth Harlan",
+      "Marceline Day"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/paradise-island.html"
+}

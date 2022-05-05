@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Kick-Ass",
+    "year": 2010,
+    "cast": [
+      "Aaron Johnson",
+      "Christopher Mintz-Plasse",
+      "Chloë Grace Moretz",
+      "Mark Strong",
+      "Nicolas Cage"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/kick-ass.html"
+}

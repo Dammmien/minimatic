@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Woman's Place",
+    "year": 1921,
+    "cast": [
+      "Constance Talmadge",
+      "Kenneth Harlan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/woman-s-place.html"
+}

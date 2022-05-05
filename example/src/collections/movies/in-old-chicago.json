@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In Old Chicago",
+    "year": 1938,
+    "cast": [
+      "Tyrone Power",
+      "Alice Faye",
+      "Don Ameche"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/in-old-chicago.html"
+}

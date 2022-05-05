@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Across the Universe",
+    "year": 2007,
+    "cast": [
+      "Jim Sturgess",
+      "Evan Rachel Wood",
+      "Joe Anderson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/across-the-universe.html"
+}

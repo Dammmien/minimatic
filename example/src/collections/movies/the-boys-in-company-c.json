@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Boys in Company C",
+    "year": 1978,
+    "cast": [
+      "Stan Shaw",
+      "Andrew Stevens",
+      "R. Lee Ermey",
+      "James Whitmore Jr."
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/the-boys-in-company-c.html"
+}

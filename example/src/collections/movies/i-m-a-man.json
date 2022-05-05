@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "I'm a Man",
+    "year": 1918,
+    "cast": [
+      "Martin Pendleton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-m-a-man.html"
+}

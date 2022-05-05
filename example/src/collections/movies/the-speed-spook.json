@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Speed Spook",
+    "year": 1924,
+    "cast": [
+      "Johnny Hines",
+      "Faire Binney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-speed-spook.html"
+}

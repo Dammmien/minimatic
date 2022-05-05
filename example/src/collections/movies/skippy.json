@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Skippy",
+    "year": 1931,
+    "cast": [
+      "Jackie Cooper",
+      "Mitzi Green",
+      "Jackie Searl"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/skippy.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flaming Waters",
+    "year": 1925,
+    "cast": [
+      "Malcolm McGregor",
+      "Pauline Garon"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/flaming-waters.html"
+}

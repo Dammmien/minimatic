@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Telltale Knife",
+    "year": 1914,
+    "cast": [
+      "Tom Mix",
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-telltale-knife.html"
+}

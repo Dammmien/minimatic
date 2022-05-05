@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Old Dogs",
+    "year": 2009,
+    "cast": [
+      "John Travolta",
+      "Robin Williams",
+      "Kelly Preston",
+      "Seth Green",
+      "Ella Bleu Travolta",
+      "Conner Rayburn",
+      "Matt Dillon",
+      "Rita Wilson",
+      "Dax Shepard",
+      "Bernie Mac",
+      "Luis Guzmán",
+      "Justin Long"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/old-dogs.html"
+}

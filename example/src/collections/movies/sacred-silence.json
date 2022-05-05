@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sacred Silence",
+    "year": 1919,
+    "cast": [
+      "Agnes Ayres",
+      "George MacQuarrie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sacred-silence.html"
+}

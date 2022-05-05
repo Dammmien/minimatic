@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ride Back",
+    "year": 1957,
+    "cast": [
+      "Anthony Quinn",
+      "William Conrad"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-ride-back.html"
+}

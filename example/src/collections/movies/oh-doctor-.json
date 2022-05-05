@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Oh Doctor!",
+    "year": 1925,
+    "cast": [
+      "Reginald Denny",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/oh-doctor-.html"
+}

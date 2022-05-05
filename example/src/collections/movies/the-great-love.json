@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Love",
+    "year": 1925,
+    "cast": [
+      "Robert Agnew",
+      "Viola Dana",
+      "ZaSu Pitts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-great-love.html"
+}

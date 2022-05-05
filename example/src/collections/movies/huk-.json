@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Huk!",
+    "year": 1956,
+    "cast": [
+      "George Montgomery",
+      "Mona Freeman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/huk-.html"
+}

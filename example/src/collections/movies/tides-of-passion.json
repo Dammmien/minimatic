@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tides of Passion",
+    "year": 1925,
+    "cast": [
+      "Mae Marsh",
+      "Laska Winter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tides-of-passion.html"
+}

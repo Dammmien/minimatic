@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Red Lily",
+    "year": 1924,
+    "cast": [
+      "Ramon Novarro",
+      "Enid Bennett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-red-lily.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Zathura",
+    "year": 2005,
+    "cast": [
+      "Jonah Bobo",
+      "Josh Hutcherson",
+      "Dax Shepard",
+      "Kristen Stewart",
+      "Tim Robbins"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/zathura.html"
+}

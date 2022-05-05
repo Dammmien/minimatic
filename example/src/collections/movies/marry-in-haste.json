@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Marry in Haste",
+    "year": 1924,
+    "cast": [
+      "William Fairbanks",
+      "Dorothy Revier"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/marry-in-haste.html"
+}

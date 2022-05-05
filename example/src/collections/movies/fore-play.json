@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fore Play",
+    "year": 1975,
+    "cast": [
+      "Zero Mostel",
+      "Estelle Parsons"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fore-play.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It's Great to Be Young",
+    "year": 1946,
+    "cast": [
+      "Leslie Brooks",
+      "Jeff Donnell"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/it-s-great-to-be-young.html"
+}

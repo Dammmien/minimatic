@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No Place for a Lady",
+    "year": 1943,
+    "cast": [
+      "William Gargan",
+      "Phyllis Brooks"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/no-place-for-a-lady.html"
+}

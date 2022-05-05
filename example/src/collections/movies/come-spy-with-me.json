@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Come Spy with Me",
+    "year": 1967,
+    "cast": [
+      "Troy Donahue",
+      "Andrea Dromm",
+      "Albert Dekker"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/come-spy-with-me.html"
+}

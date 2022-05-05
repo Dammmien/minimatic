@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Extreme Justice",
+    "year": 1993,
+    "cast": [
+      "Lou Diamond Phillips",
+      "Scott Glenn",
+      "Chelsea Field"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/extreme-justice.html"
+}

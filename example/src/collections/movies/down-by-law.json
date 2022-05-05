@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Down by Law",
+    "year": 1986,
+    "cast": [
+      "Tom Waits",
+      "John Lurie",
+      "Roberto Benigni",
+      "Ellen Barkin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/down-by-law.html"
+}

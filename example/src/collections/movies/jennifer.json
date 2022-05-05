@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jennifer",
+    "year": 1978,
+    "cast": [
+      "Lisa Pelikan",
+      "Nina Foch",
+      "Bert Convy"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/jennifer.html"
+}

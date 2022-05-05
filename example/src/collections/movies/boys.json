@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Boys",
+    "year": 1996,
+    "cast": [
+      "Winona Ryder",
+      "Lukas Haas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/boys.html"
+}

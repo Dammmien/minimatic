@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Midnight Limited",
+    "year": 1926,
+    "cast": [
+      "Gaston Glass",
+      "Wanda Hawley",
+      "Ashton Dearholt"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-midnight-limited.html"
+}

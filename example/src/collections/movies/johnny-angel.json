@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Johnny Angel",
+    "year": 1945,
+    "cast": [
+      "George Raft",
+      "Claire Trevor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/johnny-angel.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Spontaneous Combustion",
+    "year": 1990,
+    "cast": [
+      "Brad Dourif"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/spontaneous-combustion.html"
+}

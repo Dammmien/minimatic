@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Beetlejuice",
+    "year": 1988,
+    "cast": [
+      "Michael Keaton",
+      "Alec Baldwin",
+      "Geena Davis",
+      "Jeffrey Jones",
+      "Catherine O'Hara",
+      "Winona Ryder"
+    ],
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/beetlejuice.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Good Morning, Judge",
+    "year": 1943,
+    "cast": [
+      "Dennis O'Keefe",
+      "Mary Beth Hughes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/good-morning--judge.html"
+}

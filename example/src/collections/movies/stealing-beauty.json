@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stealing Beauty",
+    "year": 1996,
+    "cast": [
+      "Liv Tyler",
+      "Joseph Fiennes",
+      "Jeremy Irons"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stealing-beauty.html"
+}

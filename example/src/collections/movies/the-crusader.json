@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Crusader",
+    "year": 1932,
+    "cast": [
+      "Evelyn Brent",
+      "H. B. Warner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-crusader.html"
+}

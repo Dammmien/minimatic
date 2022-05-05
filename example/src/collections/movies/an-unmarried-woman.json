@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "An Unmarried Woman",
+    "year": 1978,
+    "cast": [
+      "Jill Clayburgh",
+      "Alan Bates",
+      "Michael Murphy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/an-unmarried-woman.html"
+}

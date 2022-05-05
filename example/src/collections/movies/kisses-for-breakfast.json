@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kisses for Breakfast",
+    "year": 1941,
+    "cast": [
+      "Jane Wyatt",
+      "Shirley Ross",
+      "Dennis Morgan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kisses-for-breakfast.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Horsemen",
+    "year": 1971,
+    "cast": [
+      "Omar Sharif",
+      "Leigh Taylor-Young",
+      "Jack Palance"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-horsemen.html"
+}

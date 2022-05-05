@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Hero Stuff",
+    "year": 1919,
+    "cast": [
+      "William Russell",
+      "Winifred Westover"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/this-hero-stuff.html"
+}

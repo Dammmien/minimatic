@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Pacific Rim Uprising",
+    "year": 2018,
+    "cast": [
+      "John Boyega",
+      "Scott Eastwood",
+      "Cailee Spaeny",
+      "Charlie Day",
+      "Burn Gorman",
+      "Rinko Kikuchi",
+      "Jing Tian",
+      "Adria Arjona",
+      "Zhang Jin"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/pacific-rim-uprising.html"
+}

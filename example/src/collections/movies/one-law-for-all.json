@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Law for All",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western",
+      "Short"
+    ]
+  },
+  "output": "movies/one-law-for-all.html"
+}

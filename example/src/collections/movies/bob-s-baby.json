@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Bob's Baby",
+    "year": 1913,
+    "cast": [
+      "Jean Acker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bob-s-baby.html"
+}

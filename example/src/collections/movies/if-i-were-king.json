@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "If I Were King",
+    "year": 1938,
+    "cast": [
+      "Ronald Colman",
+      "Basil Rathbone",
+      "Frances Dee"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/if-i-were-king.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "That Championship Season",
+    "year": 1999,
+    "cast": [
+      "Gary Sinise",
+      "Vincent D'Onofrio",
+      "Tony Shalhoub",
+      "Terry Kinney",
+      "Paul Sorvino"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/that-championship-season.html"
+}

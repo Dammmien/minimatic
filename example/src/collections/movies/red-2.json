@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "RED 2",
+    "year": 2013,
+    "cast": [
+      "Bruce Willis",
+      "John Malkovich",
+      "Mary-Louise Parker",
+      "Catherine Zeta-Jones",
+      "Anthony Hopkins",
+      "Helen Mirren"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/red-2.html"
+}

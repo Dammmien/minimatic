@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Déclassé",
+    "year": 1925,
+    "cast": [
+      "Corinne Griffith",
+      "Clive Brook"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/d-class-.html"
+}

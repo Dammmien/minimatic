@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Indian Agent",
+    "year": 1948,
+    "cast": [
+      "Tim Holt",
+      "Richard Martin",
+      "Nan Leslie"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/indian-agent.html"
+}

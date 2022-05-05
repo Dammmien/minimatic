@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "The Killing of a Sacred Deer",
+    "year": 2017,
+    "cast": [
+      "Colin Farrell",
+      "Nicole Kidman",
+      "Barry Keoghan",
+      "Raffey Cassidy",
+      "Sunny Suljic",
+      "Alicia Silverstone",
+      "Bill Camp"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-killing-of-a-sacred-deer.html"
+}

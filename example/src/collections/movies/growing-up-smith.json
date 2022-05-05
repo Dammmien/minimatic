@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Growing Up Smith",
+    "year": 2017,
+    "cast": [
+      "Jason Lee",
+      "Anjul Nigam",
+      "Brighton Sharbino",
+      "Hilarie Burton",
+      "Roni Akurati"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/growing-up-smith.html"
+}

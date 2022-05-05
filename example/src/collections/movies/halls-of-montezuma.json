@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Halls of Montezuma",
+    "year": 1951,
+    "cast": [
+      "Richard Widmark",
+      "Jack Palance",
+      "Robert Wagner",
+      "Richard Boone"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/halls-of-montezuma.html"
+}

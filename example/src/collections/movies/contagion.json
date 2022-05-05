@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Contagion",
+    "year": 2011,
+    "cast": [
+      "Marion Cotillard",
+      "Matt Damon",
+      "Laurence Fishburne",
+      "Jude Law",
+      "Gwyneth Paltrow",
+      "Kate Winslet",
+      "Bryan Cranston",
+      "Jennifer Ehle",
+      "Sanaa Lathan",
+      "Amr Waked",
+      "John Hawkes",
+      "Demetri Martin"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/contagion.html"
+}

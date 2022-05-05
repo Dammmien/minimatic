@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Anna and the King",
+    "year": 1999,
+    "cast": [
+      "Jodie Foster",
+      "Chow Yun-fat"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/anna-and-the-king.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "China Gate",
+    "year": 1957,
+    "cast": [
+      "Gene Barry",
+      "Angie Dickinson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/china-gate.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Petal on the Current",
+    "year": 1919,
+    "cast": [
+      "Mary MacLaren",
+      "Gertrude Claire"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-petal-on-the-current.html"
+}

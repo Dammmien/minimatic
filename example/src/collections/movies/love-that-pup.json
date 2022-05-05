@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Love That Pup",
+    "year": 1949,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/love-that-pup.html"
+}

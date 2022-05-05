@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Natural",
+    "year": 1984,
+    "cast": [
+      "Robert Redford",
+      "Robert Duvall",
+      "Glenn Close",
+      "Kim Basinger",
+      "Wilford Brimley",
+      "Richard Farnsworth",
+      "Robert Prosky",
+      "Barbara Hershey",
+      "Darren McGavin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-natural.html"
+}

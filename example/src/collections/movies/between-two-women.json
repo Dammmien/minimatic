@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Between Two Women",
+    "year": 1945,
+    "cast": [
+      "Van Johnson",
+      "Gloria DeHaven",
+      "Marilyn Maxwell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/between-two-women.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Daughter of Luxury",
+    "year": 1922,
+    "cast": [
+      "Agnes Ayres",
+      "Tom Gallery",
+      "Edith Yorke"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-daughter-of-luxury.html"
+}

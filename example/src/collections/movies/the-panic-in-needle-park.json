@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Panic in Needle Park",
+    "year": 1971,
+    "cast": [
+      "Al Pacino",
+      "Kitty Winn",
+      "Kiel Martin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-panic-in-needle-park.html"
+}

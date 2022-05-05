@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Guns of the Law",
+    "year": 1944,
+    "cast": [
+      "Dave O'Brien",
+      "James Newill",
+      "Guy Wilkerson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/guns-of-the-law.html"
+}

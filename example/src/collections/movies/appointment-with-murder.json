@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Appointment with Murder",
+    "year": 1948,
+    "cast": [
+      "John Calvert",
+      "Catherine Craig"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/appointment-with-murder.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Two Sisters from Boston",
+    "year": 1946,
+    "cast": [
+      "Kathryn Grayson",
+      "June Allyson",
+      "Peter Lawford",
+      "Jimmy Durante"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/two-sisters-from-boston.html"
+}

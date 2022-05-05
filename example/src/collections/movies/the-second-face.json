@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Second Face",
+    "year": 1950,
+    "cast": [
+      "Ella Raines",
+      "Rita Johnson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-second-face.html"
+}

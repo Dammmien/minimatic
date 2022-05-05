@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Joshua Tree",
+    "year": 1993,
+    "cast": [
+      "Dolph Lundgren",
+      "Kristian Alfonso",
+      "George Segal"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/joshua-tree.html"
+}

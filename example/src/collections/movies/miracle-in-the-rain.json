@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Miracle in the Rain",
+    "year": 1956,
+    "cast": [
+      "Jane Wyman",
+      "Van Johnson"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/miracle-in-the-rain.html"
+}

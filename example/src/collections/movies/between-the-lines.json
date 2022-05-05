@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Between the Lines",
+    "year": 1977,
+    "cast": [
+      "John Heard",
+      "Lindsay Crouse"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/between-the-lines.html"
+}

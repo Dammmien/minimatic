@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hills Have Eyes III",
+    "year": 1995,
+    "cast": [
+      "Lance Henriksen",
+      "Natasha Gregson Wagner",
+      "Giovanni Ribisi"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-hills-have-eyes-iii.html"
+}

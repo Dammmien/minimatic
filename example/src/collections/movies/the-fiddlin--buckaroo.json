@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fiddlin' Buckaroo",
+    "year": 1933,
+    "cast": [
+      "Ken Maynard",
+      "Gloria Shea"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fiddlin--buckaroo.html"
+}

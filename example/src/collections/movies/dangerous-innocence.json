@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dangerous Innocence",
+    "year": 1925,
+    "cast": [
+      "Laura La Plante",
+      "Eugene O'Brien"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/dangerous-innocence.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Black Scorpion",
+    "year": 1957,
+    "cast": [
+      "Richard Denning",
+      "Mara Corday"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-black-scorpion.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rose o' the Sea",
+    "year": 1922,
+    "cast": [
+      "Anita Stewart",
+      "Thomas Holding"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rose-o--the-sea.html"
+}

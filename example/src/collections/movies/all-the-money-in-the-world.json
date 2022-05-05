@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "All the Money in the World",
+    "year": 2017,
+    "cast": [
+      "Michelle Williams",
+      "Mark Wahlberg",
+      "Christopher Plummer",
+      "Timothy Hutton",
+      "Charlie Plummer"
+    ],
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/all-the-money-in-the-world.html"
+}

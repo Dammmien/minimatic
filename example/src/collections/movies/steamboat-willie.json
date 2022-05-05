@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Steamboat Willie",
+    "year": 1928,
+    "cast": [],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/steamboat-willie.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Shrek 2",
+    "year": 2004,
+    "cast": [
+      "Mike Myers",
+      "Cameron Diaz",
+      "Eddie Murphy",
+      "Antonio Banderas"
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/shrek-2.html"
+}

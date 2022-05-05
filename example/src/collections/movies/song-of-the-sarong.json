@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Song of the Sarong",
+    "year": 1945,
+    "cast": [
+      "William Gargan",
+      "Nancy Kelly"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/song-of-the-sarong.html"
+}

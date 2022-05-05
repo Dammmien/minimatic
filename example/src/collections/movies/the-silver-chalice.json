@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Silver Chalice",
+    "year": 1954,
+    "cast": [
+      "Paul Newman",
+      "Virginia Mayo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-silver-chalice.html"
+}

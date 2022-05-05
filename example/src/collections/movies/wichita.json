@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wichita",
+    "year": 1955,
+    "cast": [
+      "Joel McCrea",
+      "Vera Miles",
+      "Lloyd Bridges"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wichita.html"
+}

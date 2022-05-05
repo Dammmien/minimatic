@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Adventures of Rocky and Bullwinkle",
+    "year": 2000,
+    "cast": [
+      "Rene Russo",
+      "Jason Alexander",
+      "Robert De Niro",
+      "Piper Perabo",
+      "June Foray",
+      "Keith Scott"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-adventures-of-rocky-and-bullwinkle.html"
+}

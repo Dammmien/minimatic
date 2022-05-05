@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stand and Deliver",
+    "year": 1988,
+    "cast": [
+      "Edward James Olmos",
+      "Lou Diamond Phillips"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/stand-and-deliver.html"
+}

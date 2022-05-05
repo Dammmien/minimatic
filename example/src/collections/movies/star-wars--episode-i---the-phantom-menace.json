@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Star Wars: Episode I – The Phantom Menace",
+    "year": 1999,
+    "cast": [
+      "Liam Neeson",
+      "Ewan McGregor",
+      "Natalie Portman",
+      "Jake Lloyd"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/star-wars--episode-i---the-phantom-menace.html"
+}

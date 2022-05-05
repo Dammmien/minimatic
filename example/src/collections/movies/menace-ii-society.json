@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Menace II Society",
+    "year": 1993,
+    "cast": [
+      "Larenz Tate",
+      "Tyrin Turner",
+      "Charles S. Dutton",
+      "Jada Pinkett Smith",
+      "Samuel L. Jackson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/menace-ii-society.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hi'ya, Chum",
+    "year": 1943,
+    "cast": [
+      "Ritz Brothers",
+      "Jane Frazee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hi-ya--chum.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Quest",
+    "year": 1996,
+    "cast": [
+      "Jean-Claude Van Damme",
+      "Roger Moore",
+      "James Remar"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-quest.html"
+}

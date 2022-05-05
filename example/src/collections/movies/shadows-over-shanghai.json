@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shadows Over Shanghai",
+    "year": 1938,
+    "cast": [
+      "Ralph Morgan",
+      "Robert Barrat",
+      "Lynda Grey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shadows-over-shanghai.html"
+}

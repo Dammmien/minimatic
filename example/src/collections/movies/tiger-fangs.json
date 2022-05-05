@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tiger Fangs",
+    "year": 1943,
+    "cast": [
+      "Frank Buck",
+      "June Duprez"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tiger-fangs.html"
+}

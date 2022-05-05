@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "White Lies",
+    "year": 1935,
+    "cast": [
+      "Victor Jory",
+      "Fay Wray",
+      "Walter Connolly"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/white-lies.html"
+}

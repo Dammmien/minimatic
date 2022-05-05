@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Homicidal",
+    "year": 1961,
+    "cast": [
+      "Glenn Corbett",
+      "Patricia Breslin",
+      "Eugenie Leontovich"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/homicidal.html"
+}

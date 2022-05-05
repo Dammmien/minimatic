@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Tree Grows in Brooklyn",
+    "year": 1945,
+    "cast": [
+      "Dorothy McGuire",
+      "James Dunn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-tree-grows-in-brooklyn.html"
+}

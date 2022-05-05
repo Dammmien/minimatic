@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "K-19: The Widowmaker",
+    "year": 2002,
+    "cast": [
+      "Harrison Ford",
+      "Liam Neeson"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/k-19--the-widowmaker.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "About a Boy",
+    "year": 2002,
+    "cast": [
+      "Hugh Grant",
+      "Nicholas Hoult",
+      "Toni Collette"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/about-a-boy.html"
+}

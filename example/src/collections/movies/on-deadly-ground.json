@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "On Deadly Ground",
+    "year": 1994,
+    "cast": [
+      "Steven Seagal",
+      "Michael Caine",
+      "Joan Chen"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/on-deadly-ground.html"
+}

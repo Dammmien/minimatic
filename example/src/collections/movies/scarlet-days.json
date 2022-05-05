@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scarlet Days",
+    "year": 1919,
+    "cast": [
+      "Richard Barthelmess",
+      "Eugenie Besserer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/scarlet-days.html"
+}

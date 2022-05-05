@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bohemian Girl",
+    "year": 1936,
+    "cast": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "Thelma Todd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bohemian-girl.html"
+}

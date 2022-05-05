@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Without Regret",
+    "year": 1935,
+    "cast": [
+      "Elissa Landi",
+      "Paul Cavanagh",
+      "Frances Drake"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/without-regret.html"
+}

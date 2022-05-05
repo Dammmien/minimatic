@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Married a Monster from Outer Space",
+    "year": 1958,
+    "cast": [
+      "Tom Tryon",
+      "Gloria Talbott"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/i-married-a-monster-from-outer-space.html"
+}

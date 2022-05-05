@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Kangaroo Kid",
+    "year": 1950,
+    "cast": [
+      "Martha Hyer",
+      "Veda Ann Borg",
+      "Jock Mahoney"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-kangaroo-kid.html"
+}

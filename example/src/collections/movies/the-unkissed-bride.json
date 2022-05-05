@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Unkissed Bride",
+    "year": 1966,
+    "cast": [
+      "Tommy Kirk",
+      "Anne Helm"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-unkissed-bride.html"
+}

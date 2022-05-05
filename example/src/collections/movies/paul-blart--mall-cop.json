@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Paul Blart: Mall Cop",
+    "year": 2009,
+    "cast": [
+      "Kevin James",
+      "Jayma Mays",
+      "Keir O'Donnell",
+      "Bobby Cannavale",
+      "Stephen Rannazzisi",
+      "Shirley Knight"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/paul-blart--mall-cop.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Game 6",
+    "year": 2006,
+    "cast": [
+      "Michael Keaton",
+      "Griffin Dunne",
+      "Robert Downey, Jr."
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/game-6.html"
+}

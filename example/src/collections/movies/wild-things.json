@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Wild Things",
+    "year": 1998,
+    "cast": [
+      "Kevin Bacon",
+      "Matt Dillon",
+      "Neve Campbell",
+      "Denise Richards",
+      "Bill Murray"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/wild-things.html"
+}

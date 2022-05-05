@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stateside",
+    "year": 2004,
+    "cast": [
+      "Rachael Leigh Cook",
+      "Jonathan Tucker",
+      "Agnes Bruckner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stateside.html"
+}

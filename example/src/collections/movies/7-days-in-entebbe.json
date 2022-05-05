@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "7 Days in Entebbe",
+    "year": 2018,
+    "cast": [
+      "Rosamund Pike",
+      "Daniel Bruhl",
+      "Vincent Cassel",
+      "Eddie Marsan",
+      "Ben Schnetzer"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/7-days-in-entebbe.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "G. I. Honeymoon",
+    "year": 1945,
+    "cast": [
+      "Gale Storm",
+      "Arline Judge"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/g--i--honeymoon.html"
+}

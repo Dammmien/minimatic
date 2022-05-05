@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Abysmal Brute",
+    "year": 1923,
+    "cast": [
+      "Reginald Denny",
+      "Mabel Julienne Scott"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/abysmal-brute.html"
+}

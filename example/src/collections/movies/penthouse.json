@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Penthouse",
+    "year": 1933,
+    "cast": [
+      "Warner Baxter",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/penthouse.html"
+}

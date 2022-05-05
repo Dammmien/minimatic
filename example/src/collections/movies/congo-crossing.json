@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Congo Crossing",
+    "year": 1956,
+    "cast": [
+      "Virginia Mayo",
+      "George Nader",
+      "Peter Lorre"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/congo-crossing.html"
+}

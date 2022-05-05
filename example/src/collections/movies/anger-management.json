@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Anger Management",
+    "year": 2003,
+    "cast": [
+      "Adam Sandler",
+      "Jack Nicholson",
+      "Marisa Tomei",
+      "Luis Guzmán",
+      "Woody Harrelson",
+      "John Turturro"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/anger-management.html"
+}

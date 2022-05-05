@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sadie McKee",
+    "year": 1934,
+    "cast": [
+      "Joan Crawford",
+      "Franchot Tone",
+      "Edward Arnold"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sadie-mckee.html"
+}

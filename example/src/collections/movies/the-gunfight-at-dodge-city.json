@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gunfight at Dodge City",
+    "year": 1959,
+    "cast": [
+      "Joel McCrea",
+      "Julie Adams",
+      "John McIntire"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-gunfight-at-dodge-city.html"
+}

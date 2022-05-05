@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Winterset",
+    "year": 1936,
+    "cast": [
+      "Burgess Meredith",
+      "Margo",
+      "Eduardo Ciannelli"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/winterset.html"
+}

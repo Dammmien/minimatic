@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trouble Along the Way",
+    "year": 1953,
+    "cast": [
+      "John Wayne",
+      "Donna Reed"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/trouble-along-the-way.html"
+}

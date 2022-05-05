@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Life's Greatest Game",
+    "year": 1924,
+    "cast": [
+      "Tom Santschi",
+      "Jane Thomas"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/life-s-greatest-game.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Criminal",
+    "year": 2016,
+    "cast": [
+      "Kevin Costner",
+      "Gary Oldman"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/criminal.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lodger",
+    "year": 1944,
+    "cast": [
+      "Merle Oberon",
+      "George Sanders",
+      "Laird Cregar"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-lodger.html"
+}

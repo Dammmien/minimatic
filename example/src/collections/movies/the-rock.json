@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Rock",
+    "year": 1996,
+    "cast": [
+      "Sean Connery",
+      "Nicolas Cage",
+      "Ed Harris"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-rock.html"
+}

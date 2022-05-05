@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "MirrorMask",
+    "year": 2005,
+    "cast": [
+      "Stephanie Leonidas",
+      "Jason Barry",
+      "Rob Brydon"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/mirrormask.html"
+}

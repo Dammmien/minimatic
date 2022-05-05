@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Goodbye Promise",
+    "year": 2012,
+    "cast": [
+      "Gregor Collins",
+      "Sarah Prikryl",
+      "Brian Ronalds"
+    ],
+    "genres": [
+      "Drama",
+      "Independent"
+    ]
+  },
+  "output": "movies/goodbye-promise.html"
+}

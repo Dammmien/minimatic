@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Texan Meets Calamity Jane",
+    "year": 1950,
+    "cast": [
+      "Evelyn Ankers",
+      "James Ellison"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-texan-meets-calamity-jane.html"
+}

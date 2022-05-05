@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Snow White",
+    "year": 1987,
+    "cast": [
+      "Diana Rigg"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/snow-white.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "They Had to See Paris",
+    "year": 1929,
+    "cast": [
+      "Will Rogers",
+      "Marguerite Churchill",
+      "Fifi D'Orsay"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/they-had-to-see-paris.html"
+}

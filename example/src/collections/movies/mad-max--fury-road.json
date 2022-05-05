@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "cast": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult",
+      "Hugh Keays-Byrne",
+      "Josh Helman",
+      "Nathan Jones",
+      "Zoë Kravitz",
+      "Rosie Huntington-Whiteley",
+      "Riley Keough"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/mad-max--fury-road.html"
+}

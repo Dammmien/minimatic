@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "In a World...",
+    "year": 2013,
+    "cast": [
+      "Lake Bell",
+      "Fred Melamed",
+      "Demetri Martin",
+      "Michaela Watkins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/in-a-world---.html"
+}

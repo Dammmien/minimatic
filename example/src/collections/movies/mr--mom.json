@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Mom",
+    "year": 1983,
+    "cast": [
+      "Michael Keaton",
+      "Teri Garr",
+      "Martin Mull"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--mom.html"
+}

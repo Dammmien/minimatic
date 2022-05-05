@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Jayhawkers!",
+    "year": 1959,
+    "cast": [
+      "Jeff Chandler",
+      "Nicole Maurey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-jayhawkers-.html"
+}

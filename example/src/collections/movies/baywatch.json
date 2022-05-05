@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Baywatch",
+    "year": 2017,
+    "cast": [
+      "Dwayne Johnson",
+      "Zac Efron",
+      "Priyanka Chopra",
+      "Alexandra Daddario",
+      "Kelly Rohrbach",
+      "Yahya Abdul-Mateen II",
+      "Ilfenesh Hadera",
+      "Jon Bass"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/baywatch.html"
+}

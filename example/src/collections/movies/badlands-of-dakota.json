@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Badlands of Dakota",
+    "year": 1941,
+    "cast": [
+      "Robert Stack",
+      "Frances Farmer",
+      "Richard Dix"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/badlands-of-dakota.html"
+}

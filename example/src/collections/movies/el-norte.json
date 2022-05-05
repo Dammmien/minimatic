@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "El Norte",
+    "year": 1983,
+    "cast": [
+      "Zaide Silvia Gutiérrez",
+      "David Villalpando"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/el-norte.html"
+}

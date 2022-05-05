@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Star Trek III: The Search for Spock",
+    "year": 1984,
+    "cast": [
+      "William Shatner",
+      "Leonard Nimoy",
+      "George Takei"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/star-trek-iii--the-search-for-spock.html"
+}

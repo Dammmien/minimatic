@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Beach",
+    "year": 2000,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Virginie Ledoyen",
+      "Tilda Swinton"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-beach.html"
+}

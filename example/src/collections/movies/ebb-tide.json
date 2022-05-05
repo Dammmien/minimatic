@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ebb Tide",
+    "year": 1937,
+    "cast": [
+      "Frances Farmer",
+      "Ray Milland",
+      "Oskar Homolka"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/ebb-tide.html"
+}

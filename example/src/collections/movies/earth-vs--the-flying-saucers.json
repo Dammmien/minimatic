@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Earth vs. the Flying Saucers",
+    "year": 1956,
+    "cast": [
+      "Hugh Marlowe",
+      "Joan Taylor"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/earth-vs--the-flying-saucers.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Marshal of Mesa City",
+    "year": 1939,
+    "cast": [
+      "George O'Brien",
+      "Virginia Vale"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-marshal-of-mesa-city.html"
+}

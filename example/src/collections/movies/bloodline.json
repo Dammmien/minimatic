@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bloodline",
+    "year": 1979,
+    "cast": [
+      "Audrey Hepburn",
+      "Ben Gazzara",
+      "James Mason"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bloodline.html"
+}

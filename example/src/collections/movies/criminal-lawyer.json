@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Criminal Lawyer",
+    "year": 1951,
+    "cast": [
+      "Pat O'Brien",
+      "Jane Wyatt",
+      "Mary Castle"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/criminal-lawyer.html"
+}

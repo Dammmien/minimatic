@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Drive, He Said",
+    "year": 1971,
+    "cast": [
+      "William Tepper",
+      "Karen Black",
+      "Bruce Dern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/drive--he-said.html"
+}

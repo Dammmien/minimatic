@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Bloodhounds of Broadway",
+    "year": 1989,
+    "cast": [
+      "Matt Dillon",
+      "Jennifer Grey",
+      "Julie Hagerty",
+      "Rutger Hauer",
+      "Madonna",
+      "Esai Morales",
+      "Anita Morris",
+      "Randy Quaid"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/bloodhounds-of-broadway.html"
+}

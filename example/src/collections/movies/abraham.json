@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Abraham",
+    "year": 1994,
+    "cast": [
+      "Richard Harris",
+      "Barbara Hershey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/abraham.html"
+}

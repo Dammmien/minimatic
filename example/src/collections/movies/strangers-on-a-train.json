@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Strangers on a Train",
+    "year": 1951,
+    "cast": [
+      "Farley Granger",
+      "Ruth Roman",
+      "Robert Walker"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/strangers-on-a-train.html"
+}

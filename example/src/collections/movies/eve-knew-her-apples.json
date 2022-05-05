@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Eve Knew Her Apples",
+    "year": 1945,
+    "cast": [
+      "Ann Miller",
+      "William Wright"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/eve-knew-her-apples.html"
+}

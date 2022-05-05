@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Phantoms",
+    "year": 1998,
+    "cast": [
+      "Ben Affleck",
+      "Peter O'Toole",
+      "Liev Schreiber"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/phantoms.html"
+}

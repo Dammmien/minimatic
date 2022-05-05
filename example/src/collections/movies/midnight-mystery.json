@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Midnight Mystery",
+    "year": 1930,
+    "cast": [
+      "Betty Compson",
+      "Lowell Sherman"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/midnight-mystery.html"
+}

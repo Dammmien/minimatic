@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Creepshow 2",
+    "year": 1987,
+    "cast": [
+      "George Kennedy",
+      "Dorothy Lamour",
+      "Lois Chiles"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/creepshow-2.html"
+}

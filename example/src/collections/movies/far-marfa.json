@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Far Marfa",
+    "year": 2013,
+    "cast": [
+      "Johnny Sneed",
+      "Jesse Bernstein",
+      "Julie Mintz",
+      "Ty Mitchell",
+      "Jolyn Janis",
+      "Will Nelson"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/far-marfa.html"
+}

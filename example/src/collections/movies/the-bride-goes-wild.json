@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bride Goes Wild",
+    "year": 1948,
+    "cast": [
+      "June Allyson",
+      "Van Johnson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bride-goes-wild.html"
+}

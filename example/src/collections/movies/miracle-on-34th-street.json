@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Miracle on 34th Street",
+    "year": 1994,
+    "cast": [
+      "Richard Attenborough",
+      "Elizabeth Perkins",
+      "Dylan McDermott",
+      "Mara Wilson"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/miracle-on-34th-street.html"
+}

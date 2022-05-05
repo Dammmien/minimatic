@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Condorman",
+    "year": 1981,
+    "cast": [
+      "Michael Crawford",
+      "Oliver Reed",
+      "Barbara Carrera"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/condorman.html"
+}

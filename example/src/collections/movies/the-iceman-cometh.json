@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Iceman Cometh",
+    "year": 1973,
+    "cast": [
+      "Lee Marvin",
+      "Robert Ryan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-iceman-cometh.html"
+}

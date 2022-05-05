@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dusk to Dawn",
+    "year": 1922,
+    "cast": [
+      "Florence Vidor",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dusk-to-dawn.html"
+}

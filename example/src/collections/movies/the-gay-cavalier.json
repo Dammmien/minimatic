@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gay Cavalier",
+    "year": 1946,
+    "cast": [
+      "Gilbert Roland",
+      "Martin Garralaga"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-gay-cavalier.html"
+}

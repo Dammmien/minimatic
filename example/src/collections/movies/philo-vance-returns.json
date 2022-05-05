@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Philo Vance Returns",
+    "year": 1947,
+    "cast": [
+      "William Wright",
+      "Vivian Austin",
+      "Ramsay Ames"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/philo-vance-returns.html"
+}

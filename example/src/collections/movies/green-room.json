@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Green Room",
+    "year": 2016,
+    "cast": [
+      "Anton Yelchin",
+      "Imogen Poots"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/green-room.html"
+}

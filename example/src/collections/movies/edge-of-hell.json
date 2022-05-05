@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Edge of Hell",
+    "year": 1956,
+    "cast": [
+      "Hugo Haas",
+      "Jeffrey Stone"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/edge-of-hell.html"
+}

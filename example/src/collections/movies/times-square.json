@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Times Square",
+    "year": 1980,
+    "cast": [
+      "Tim Curry",
+      "Trini Alvarado"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/times-square.html"
+}

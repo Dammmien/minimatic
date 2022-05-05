@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Allnighter",
+    "year": 1987,
+    "cast": [
+      "Susanna Hoffs",
+      "Joan Cusack"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-allnighter.html"
+}

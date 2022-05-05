@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flesh and Bullets",
+    "year": 1985,
+    "cast": [
+      "Glenn McKay",
+      "Susan Silvers",
+      "Cornel Wilde"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/flesh-and-bullets.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Trail of '98",
+    "year": 1928,
+    "cast": [
+      "Dolores del Río",
+      "Ralph Forbes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-trail-of--98.html"
+}

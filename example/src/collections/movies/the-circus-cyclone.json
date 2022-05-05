@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Circus Cyclone",
+    "year": 1925,
+    "cast": [
+      "Art Acord",
+      "Cesare Gravina"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-circus-cyclone.html"
+}

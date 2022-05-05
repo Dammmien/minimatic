@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Better Place",
+    "year": 1997,
+    "cast": [
+      "Elon Bailey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-better-place.html"
+}

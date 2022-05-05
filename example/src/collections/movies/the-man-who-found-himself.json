@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man Who Found Himself",
+    "year": 1937,
+    "cast": [
+      "Joan Fontaine",
+      "George Irving",
+      "John Beal"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-who-found-himself.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Always",
+    "year": 1989,
+    "cast": [
+      "Richard Dreyfuss",
+      "Holly Hunter",
+      "John Goodman",
+      "Brad Johnson",
+      "Audrey Hepburn"
+    ],
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ]
+  },
+  "output": "movies/always.html"
+}

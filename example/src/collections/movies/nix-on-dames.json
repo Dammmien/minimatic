@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nix on Dames",
+    "year": 1929,
+    "cast": [
+      "Mae Clarke",
+      "Robert Ames"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/nix-on-dames.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Desert Guns",
+    "year": 1936,
+    "cast": [
+      "Conway Tearle",
+      "Margaret Morris"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/desert-guns.html"
+}

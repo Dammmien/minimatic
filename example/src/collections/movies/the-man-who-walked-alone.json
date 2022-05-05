@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Who Walked Alone",
+    "year": 1945,
+    "cast": [
+      "Kay Aldridge",
+      "Dave O'Brien"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-man-who-walked-alone.html"
+}

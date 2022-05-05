@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Her Highness and the Bellboy",
+    "year": 1945,
+    "cast": [
+      "Hedy Lamarr",
+      "Robert Walker"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/her-highness-and-the-bellboy.html"
+}

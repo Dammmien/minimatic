@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Calamity Jane and Sam Bass",
+    "year": 1949,
+    "cast": [
+      "Yvonne De Carlo",
+      "Howard Duff",
+      "Dorothy Hart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/calamity-jane-and-sam-bass.html"
+}

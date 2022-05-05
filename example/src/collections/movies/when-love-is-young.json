@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "When Love Is Young",
+    "year": 1937,
+    "cast": [
+      "Virginia Bruce",
+      "Kent Taylor",
+      "Walter Brennan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/when-love-is-young.html"
+}

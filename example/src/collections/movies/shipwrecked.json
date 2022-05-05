@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Shipwrecked",
+    "year": 1992,
+    "cast": [
+      "Gabriel Byrne"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/shipwrecked.html"
+}

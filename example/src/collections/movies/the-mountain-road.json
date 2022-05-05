@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Mountain Road",
+    "year": 1960,
+    "cast": [
+      "James Stewart",
+      "Lisa Lu",
+      "Glenn Corbett",
+      "Harry Morgan"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-mountain-road.html"
+}

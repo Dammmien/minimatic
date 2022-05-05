@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Maurie",
+    "year": 1973,
+    "cast": [
+      "Bernie Casey",
+      "Bo Svenson"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/maurie.html"
+}

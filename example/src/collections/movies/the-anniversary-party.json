@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Anniversary Party",
+    "year": 2001,
+    "cast": [
+      "Alan Cumming",
+      "Jennifer Jason Leigh",
+      "Kevin Kline"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-anniversary-party.html"
+}

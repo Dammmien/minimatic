@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night Editor",
+    "year": 1946,
+    "cast": [
+      "William Gargan",
+      "Janis Carter"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/night-editor.html"
+}

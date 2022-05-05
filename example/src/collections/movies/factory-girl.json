@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Factory Girl",
+    "year": 2006,
+    "cast": [
+      "Sienna Miller",
+      "Hayden Christensen",
+      "Jimmy Fallon"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/factory-girl.html"
+}

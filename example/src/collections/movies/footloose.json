@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Footloose",
+    "year": 2011,
+    "cast": [
+      "Kenny Wormald",
+      "Julianne Hough",
+      "Andie MacDowell",
+      "Dennis Quaid"
+    ],
+    "genres": [
+      "Dance",
+      "Drama",
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/footloose.html"
+}

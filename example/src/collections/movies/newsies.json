@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Newsies",
+    "year": 1992,
+    "cast": [
+      "Christian Bale",
+      "Robert Duvall",
+      "Ann-Margret",
+      "Bill Pullman"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/newsies.html"
+}

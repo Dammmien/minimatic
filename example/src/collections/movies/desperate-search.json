@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Desperate Search",
+    "year": 1952,
+    "cast": [
+      "Howard Keel",
+      "Jane Greer",
+      "Keenan Wynn"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/desperate-search.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Beast with Five Fingers",
+    "year": 1946,
+    "cast": [
+      "Robert Alda",
+      "Andrea King",
+      "Peter Lorre",
+      "Victor Francen",
+      "J. Carrol Naish"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-beast-with-five-fingers.html"
+}

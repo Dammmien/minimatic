@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Commuter",
+    "year": 2018,
+    "cast": [
+      "Liam Neeson",
+      "Vera Farmiga",
+      "Patrick Wilson",
+      "Jonathan Banks",
+      "Elizabeth McGovern",
+      "Sam Neill"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-commuter.html"
+}

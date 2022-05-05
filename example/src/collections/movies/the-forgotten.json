@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Forgotten",
+    "year": 2004,
+    "cast": [
+      "Julianne Moore",
+      "Dominic West",
+      "Anthony Edwards",
+      "Lee Tergesen",
+      "Alfre Woodard",
+      "Gary Sinise"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-forgotten.html"
+}

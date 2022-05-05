@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last of the Duanes",
+    "year": 1930,
+    "cast": [
+      "George O'Brien",
+      "Lucile Browne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-last-of-the-duanes.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Can-Can",
+    "year": 1960,
+    "cast": [
+      "Frank Sinatra",
+      "Shirley MacLaine",
+      "Maurice Chevalier",
+      "Louis Jourdan",
+      "Juliet Prowse"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/can-can.html"
+}

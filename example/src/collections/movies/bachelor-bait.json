@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bachelor Bait",
+    "year": 1934,
+    "cast": [
+      "Stuart Erwin",
+      "Rochelle Hudson",
+      "Grady Sutton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bachelor-bait.html"
+}

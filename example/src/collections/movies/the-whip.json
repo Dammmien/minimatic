@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Whip",
+    "year": 1928,
+    "cast": [
+      "Dorothy Mackaill",
+      "Ralph Forbes",
+      "Anna Q. Nilsson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-whip.html"
+}

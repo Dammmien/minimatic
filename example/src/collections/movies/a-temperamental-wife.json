@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Temperamental Wife",
+    "year": 1919,
+    "cast": [
+      "Constance Talmadge",
+      "Wyndham Standing"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-temperamental-wife.html"
+}

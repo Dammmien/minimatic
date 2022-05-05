@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Burnt Offerings",
+    "year": 1976,
+    "cast": [
+      "Karen Black",
+      "Bette Davis",
+      "Oliver Reed"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/burnt-offerings.html"
+}

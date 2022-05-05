@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Day After",
+    "year": 1983,
+    "cast": [
+      "Jason Robards",
+      "Steve Guttenberg",
+      "JoBeth Williams",
+      "John Lithgow",
+      "John Cullum",
+      "Jeff East"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-day-after.html"
+}

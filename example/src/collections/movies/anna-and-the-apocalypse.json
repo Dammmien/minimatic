@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Anna and the Apocalypse",
+    "year": 2018,
+    "cast": [
+      "Ella Hunt",
+      "Malcolm Cumming",
+      "Marli Siu",
+      "Sarah Swire",
+      "Christopher Leveaux",
+      "Ben Wiggins"
+    ],
+    "genres": [
+      "Horror",
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/anna-and-the-apocalypse.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Undercover Maisie",
+    "year": 1947,
+    "cast": [
+      "Ann Sothern",
+      "Barry Nelson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/undercover-maisie.html"
+}

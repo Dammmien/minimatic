@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strange Culture",
+    "year": 2007,
+    "cast": [
+      "the case of",
+      "Steve Kurtz"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/strange-culture.html"
+}

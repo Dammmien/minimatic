@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bananas",
+    "year": 1971,
+    "cast": [
+      "Woody Allen",
+      "Louise Lasser"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bananas.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silent Scream",
+    "year": 1980,
+    "cast": [
+      "Cameron Mitchell",
+      "Yvonne De Carlo"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/silent-scream.html"
+}

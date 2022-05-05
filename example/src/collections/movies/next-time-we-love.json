@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Next Time We Love",
+    "year": 1936,
+    "cast": [
+      "James Stewart",
+      "Margaret Sullavan",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/next-time-we-love.html"
+}

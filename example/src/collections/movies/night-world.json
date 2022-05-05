@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Night World",
+    "year": 1932,
+    "cast": [
+      "Lew Ayres",
+      "Mae Clarke",
+      "Boris Karloff"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/night-world.html"
+}

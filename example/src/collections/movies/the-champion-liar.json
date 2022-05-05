@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Champion Liar",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western",
+      "Short"
+    ]
+  },
+  "output": "movies/the-champion-liar.html"
+}

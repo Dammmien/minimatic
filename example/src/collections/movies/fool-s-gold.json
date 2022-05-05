@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fool's Gold",
+    "year": 2008,
+    "cast": [
+      "Matthew McConaughey",
+      "Kate Hudson"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/fool-s-gold.html"
+}

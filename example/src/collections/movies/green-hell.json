@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Green Hell",
+    "year": 1940,
+    "cast": [
+      "Douglas Fairbanks Jr.",
+      "Joan Bennett",
+      "John Howard"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/green-hell.html"
+}

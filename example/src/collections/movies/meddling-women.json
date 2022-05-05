@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Meddling Women",
+    "year": 1924,
+    "cast": [
+      "Lionel Barrymore",
+      "Sigrid Holmquist"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/meddling-women.html"
+}

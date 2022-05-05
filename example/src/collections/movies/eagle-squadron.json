@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eagle Squadron",
+    "year": 1942,
+    "cast": [
+      "Robert Stack",
+      "Diana Barrymore"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/eagle-squadron.html"
+}

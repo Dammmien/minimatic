@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Catch a Fire",
+    "year": 2006,
+    "cast": [
+      "Tim Robbins",
+      "Derek Luke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/catch-a-fire.html"
+}

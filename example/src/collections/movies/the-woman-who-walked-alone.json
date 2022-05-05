@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Woman Who Walked Alone",
+    "year": 1922,
+    "cast": [
+      "Dorothy Dalton",
+      "Milton Sills",
+      "Wanda Hawley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woman-who-walked-alone.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Guilty as Sin",
+    "year": 1993,
+    "cast": [
+      "Don Johnson",
+      "Rebecca De Mornay",
+      "Jack Warden",
+      "Stephen Lang"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/guilty-as-sin.html"
+}

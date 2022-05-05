@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Kiss for Corliss",
+    "year": 1949,
+    "cast": [
+      "Shirley Temple",
+      "David Niven"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-kiss-for-corliss.html"
+}

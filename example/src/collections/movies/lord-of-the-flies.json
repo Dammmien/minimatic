@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Lord of the Flies",
+    "year": 1990,
+    "cast": [
+      "Balthazar Getty"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lord-of-the-flies.html"
+}

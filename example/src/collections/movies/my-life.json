@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "My Life",
+    "year": 1993,
+    "cast": [
+      "Nicole Kidman",
+      "Michael Keaton",
+      "Bradley Whitford",
+      "Queen Latifah"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-life.html"
+}

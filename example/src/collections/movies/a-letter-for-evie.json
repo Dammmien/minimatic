@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Letter for Evie",
+    "year": 1946,
+    "cast": [
+      "Marsha Hunt",
+      "Hume Cronyn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-letter-for-evie.html"
+}

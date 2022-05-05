@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Madagascar: Escape 2 Africa",
+    "year": 2008,
+    "cast": [
+      "Ben Stiller",
+      "Chris Rock",
+      "Jada Pinkett Smith",
+      "David Schwimmer"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/madagascar--escape-2-africa.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Don't Knock the Rock",
+    "year": 1956,
+    "cast": [
+      "Alan Dale",
+      "Fay Baker"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/don-t-knock-the-rock.html"
+}

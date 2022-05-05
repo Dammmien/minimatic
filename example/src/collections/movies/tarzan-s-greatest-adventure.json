@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tarzan's Greatest Adventure",
+    "year": 1959,
+    "cast": [
+      "Gordon Scott",
+      "Sean Connery"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-s-greatest-adventure.html"
+}

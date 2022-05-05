@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Rosemary's Baby",
+    "year": 1968,
+    "cast": [
+      "Mia Farrow",
+      "John Cassavetes",
+      "Charles Grodin",
+      "Ruth Gordon",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/rosemary-s-baby.html"
+}

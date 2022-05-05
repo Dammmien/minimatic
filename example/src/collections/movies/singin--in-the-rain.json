@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Singin' in the Rain",
+    "year": 1952,
+    "cast": [
+      "Gene Kelly",
+      "Debbie Reynolds",
+      "Donald O'Connor",
+      "Jean Hagen",
+      "Millard Mitchell"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/singin--in-the-rain.html"
+}

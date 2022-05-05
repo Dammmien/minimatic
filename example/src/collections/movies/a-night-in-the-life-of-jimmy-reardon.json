@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Night in the Life of Jimmy Reardon",
+    "year": 1988,
+    "cast": [
+      "River Phoenix",
+      "Matthew Perry"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-night-in-the-life-of-jimmy-reardon.html"
+}

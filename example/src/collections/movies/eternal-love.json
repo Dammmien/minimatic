@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eternal Love",
+    "year": 1929,
+    "cast": [
+      "John Barrymore",
+      "Camilla Horn"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/eternal-love.html"
+}

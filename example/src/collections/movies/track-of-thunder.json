@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Track of Thunder",
+    "year": 1967,
+    "cast": [
+      "Tommy Kirk",
+      "Faith Domergue"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/track-of-thunder.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pirates Who Don't Do Anything: A VeggieTales Movie",
+    "year": 2008,
+    "cast": [
+      "Mike Nawrocki",
+      "Phil Vischer",
+      "Tim Hodge"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-pirates-who-don-t-do-anything--a-veggietales-movie.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Haunted Gold",
+    "year": 1932,
+    "cast": [
+      "John Wayne",
+      "Sheila Terry",
+      "Blue Washington"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/haunted-gold.html"
+}

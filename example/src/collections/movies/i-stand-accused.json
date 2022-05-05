@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Stand Accused",
+    "year": 1938,
+    "cast": [
+      "Robert Cummings",
+      "Helen Mack",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-stand-accused.html"
+}

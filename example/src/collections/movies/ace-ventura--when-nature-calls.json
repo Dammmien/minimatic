@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ace Ventura: When Nature Calls",
+    "year": 1995,
+    "cast": [
+      "Jim Carrey",
+      "Ian McNeice",
+      "Sophie Okonedo",
+      "Bob Gunton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ace-ventura--when-nature-calls.html"
+}

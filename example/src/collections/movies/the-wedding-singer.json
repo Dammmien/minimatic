@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Wedding Singer",
+    "year": 1998,
+    "cast": [
+      "Adam Sandler",
+      "Drew Barrymore",
+      "Christine Taylor",
+      "Steve Buscemi",
+      "Alexis Arquette"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-wedding-singer.html"
+}

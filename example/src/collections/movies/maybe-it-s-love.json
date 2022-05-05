@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Maybe It's Love",
+    "year": 1935,
+    "cast": [
+      "Gloria Stuart",
+      "Ross Alexander",
+      "Ruth Donnelly"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/maybe-it-s-love.html"
+}

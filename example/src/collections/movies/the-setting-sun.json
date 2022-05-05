@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Setting Sun",
+    "year": 1992,
+    "cast": [
+      "Diane Lane",
+      "Donald Sutherland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-setting-sun.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Maze",
+    "year": 2000,
+    "cast": [
+      "Rob Morrow",
+      "Laura Linney",
+      "Craig Sheffer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/maze.html"
+}

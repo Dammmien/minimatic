@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Savior",
+    "year": 1998,
+    "cast": [
+      "Dennis Quaid",
+      "Nastassja Kinski",
+      "Stellan Skarsgård"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/savior.html"
+}

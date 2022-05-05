@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hercules",
+    "year": 2014,
+    "cast": [
+      "Dwayne Johnson",
+      "Ian McShane",
+      "Rufus Sewell",
+      "Joseph Fiennes"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/hercules.html"
+}

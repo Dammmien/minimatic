@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "They Were Expendable",
+    "year": 1945,
+    "cast": [
+      "John Wayne",
+      "Robert Montgomery",
+      "Donna Reed"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/they-were-expendable.html"
+}

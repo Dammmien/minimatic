@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hidden",
+    "year": 1987,
+    "cast": [
+      "Kyle MacLachlan",
+      "Michael Nouri",
+      "Claudia Christian"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-hidden.html"
+}

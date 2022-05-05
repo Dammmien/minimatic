@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sooky",
+    "year": 1931,
+    "cast": [
+      "Jackie Cooper",
+      "Robert Coogan",
+      "Jackie Searl"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/sooky.html"
+}

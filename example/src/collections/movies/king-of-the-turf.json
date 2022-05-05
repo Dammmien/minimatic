@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "King of the Turf",
+    "year": 1939,
+    "cast": [
+      "Adolphe Menjou",
+      "Dolores Costello",
+      "Roger Daniel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/king-of-the-turf.html"
+}

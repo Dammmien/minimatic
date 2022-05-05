@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Trouble Makers",
+    "year": 1948,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Helen Parrish"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/trouble-makers.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Top Sergeant",
+    "year": 1942,
+    "cast": [
+      "Don Terry",
+      "Elyse Knox"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/top-sergeant.html"
+}

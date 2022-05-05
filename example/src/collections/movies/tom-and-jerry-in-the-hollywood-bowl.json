@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Tom and Jerry in the Hollywood Bowl",
+    "year": 1950,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/tom-and-jerry-in-the-hollywood-bowl.html"
+}

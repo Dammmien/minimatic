@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Houseboat",
+    "year": 1958,
+    "cast": [
+      "Cary Grant",
+      "Sophia Loren"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/houseboat.html"
+}

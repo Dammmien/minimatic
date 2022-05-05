@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rogues' Regiment",
+    "year": 1948,
+    "cast": [
+      "Dick Powell",
+      "Märta Torén",
+      "Vincent Price"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/rogues--regiment.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Memoirs of a Geisha",
+    "year": 2005,
+    "cast": [
+      "Zhang Ziyi",
+      "Ken Watanabe",
+      "Gong Li",
+      "Michelle Yeoh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/memoirs-of-a-geisha.html"
+}

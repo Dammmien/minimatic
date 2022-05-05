@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Borderland",
+    "year": 1937,
+    "cast": [
+      "William Boyd",
+      "Gabby Hayes",
+      "James Ellison"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/borderland.html"
+}

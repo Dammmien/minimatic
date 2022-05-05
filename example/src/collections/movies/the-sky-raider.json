@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sky Raider",
+    "year": 1925,
+    "cast": [
+      "Jacqueline Logan",
+      "Gladys Walton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sky-raider.html"
+}

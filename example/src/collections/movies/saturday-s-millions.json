@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Saturday's Millions",
+    "year": 1933,
+    "cast": [
+      "Robert Young",
+      "Andy Devine",
+      "Leila Hyams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/saturday-s-millions.html"
+}

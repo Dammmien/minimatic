@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Young Sherlock Holmes",
+    "year": 1985,
+    "cast": [
+      "Nicholas Rowe",
+      "Alan Cox"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/young-sherlock-holmes.html"
+}

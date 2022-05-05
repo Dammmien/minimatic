@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "King Cowboy",
+    "year": 1928,
+    "cast": [
+      "Tom Mix",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/king-cowboy.html"
+}

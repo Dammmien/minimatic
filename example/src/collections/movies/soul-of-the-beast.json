@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Soul of the Beast",
+    "year": 1923,
+    "cast": [
+      "Madge Bellamy",
+      "Cullen Landis",
+      "Noah Beery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/soul-of-the-beast.html"
+}

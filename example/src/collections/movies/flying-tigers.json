@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Flying Tigers",
+    "year": 1942,
+    "cast": [
+      "John Wayne"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/flying-tigers.html"
+}

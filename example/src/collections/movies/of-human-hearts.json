@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Of Human Hearts",
+    "year": 1938,
+    "cast": [
+      "Walter Huston",
+      "James Stewart",
+      "John Carradine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/of-human-hearts.html"
+}

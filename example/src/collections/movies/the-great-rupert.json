@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Rupert",
+    "year": 1950,
+    "cast": [
+      "Jimmy Durante",
+      "Tom Drake",
+      "Terry Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-great-rupert.html"
+}

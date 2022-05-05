@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man",
+    "year": 2005,
+    "cast": [
+      "Samuel L. Jackson",
+      "Eugene Levy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-man.html"
+}

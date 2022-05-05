@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Frankenhooker",
+    "year": 1990,
+    "cast": [
+      "James Lorinz"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/frankenhooker.html"
+}

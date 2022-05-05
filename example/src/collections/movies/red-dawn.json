@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Red Dawn",
+    "year": 2012,
+    "cast": [
+      "Chris Hemsworth",
+      "Josh Peck",
+      "Josh Hutcherson",
+      "Adrianne Palicki",
+      "Isabel Lucas",
+      "Connor Cruise",
+      "Jeffrey Dean Morgan"
+    ],
+    "genres": [
+      "Action",
+      "War"
+    ]
+  },
+  "output": "movies/red-dawn.html"
+}

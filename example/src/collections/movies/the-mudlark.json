@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mudlark",
+    "year": 1950,
+    "cast": [
+      "Irene Dunne",
+      "Alec Guinness",
+      "Beatrice Campbell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-mudlark.html"
+}

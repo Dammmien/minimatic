@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Man on Wire",
+    "year": 2008,
+    "cast": [
+      "Philippe Petit",
+      "'s 1974 high-wire walk between",
+      "the Twin Towers"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/man-on-wire.html"
+}

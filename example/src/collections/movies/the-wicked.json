@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Wicked",
+    "year": 2013,
+    "cast": [
+      "Jess Adams",
+      "Diana Hooper",
+      "Devon Werkheiser",
+      "Justin Deeley",
+      "Jamie Kaler"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-wicked.html"
+}

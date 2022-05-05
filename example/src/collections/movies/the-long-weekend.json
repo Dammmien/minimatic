@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Long Weekend",
+    "year": 2006,
+    "cast": [
+      "Chris Klein",
+      "Brendan Fehr"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-long-weekend.html"
+}

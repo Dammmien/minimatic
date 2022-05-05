@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Police Academy 6: City Under Siege",
+    "year": 1989,
+    "cast": [
+      "Bubba Smith",
+      "Michael Winslow",
+      "Leslie Easterbrook"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/police-academy-6--city-under-siege.html"
+}

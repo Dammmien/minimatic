@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Devil on Horseback",
+    "year": 1936,
+    "cast": [
+      "Lili Damita",
+      "Fred Keating"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-devil-on-horseback.html"
+}

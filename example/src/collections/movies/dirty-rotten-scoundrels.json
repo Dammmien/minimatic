@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dirty Rotten Scoundrels",
+    "year": 1988,
+    "cast": [
+      "Michael Caine",
+      "Steve Martin",
+      "Glenne Headly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dirty-rotten-scoundrels.html"
+}

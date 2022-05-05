@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Four-Bit Man",
+    "year": 1919,
+    "cast": [
+      "Hoot Gibson",
+      "Jack Perrin",
+      "Josephine Hill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-four-bit-man.html"
+}

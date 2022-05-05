@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Pope of Greenwich Village",
+    "year": 1984,
+    "cast": [
+      "Mickey Rourke",
+      "Eric Roberts",
+      "Daryl Hannah",
+      "Kenneth McMillan",
+      "Geraldine Page",
+      "M. Emmet Walsh",
+      "Burt Young"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-pope-of-greenwich-village.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Alice Through the Looking Glass",
+    "year": 2016,
+    "cast": [
+      "Mia Wasikowska",
+      "Johnny Depp",
+      "Helena Bonham Carter",
+      "Anne Hathaway"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/alice-through-the-looking-glass.html"
+}

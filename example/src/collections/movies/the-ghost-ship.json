@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ghost Ship",
+    "year": 1943,
+    "cast": [
+      "Richard Dix",
+      "Edith Barrett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-ghost-ship.html"
+}

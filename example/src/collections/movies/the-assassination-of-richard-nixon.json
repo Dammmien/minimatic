@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Assassination of Richard Nixon",
+    "year": 2004,
+    "cast": [
+      "Sean Penn"
+    ],
+    "genres": [
+      "Biography",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-assassination-of-richard-nixon.html"
+}

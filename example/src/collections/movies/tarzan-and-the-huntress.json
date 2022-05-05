@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tarzan and the Huntress",
+    "year": 1947,
+    "cast": [
+      "Johnny Weissmuller",
+      "Patricia Morison"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-and-the-huntress.html"
+}

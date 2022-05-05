@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+    "year": 1978,
+    "cast": [
+      "Peter Frampton",
+      "The Bee Gees",
+      "George Burns"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/sgt--pepper-s-lonely-hearts-club-band.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Once Upon a Crime",
+    "year": 1992,
+    "cast": [
+      "John Candy",
+      "James Belushi",
+      "Cybill Shepherd",
+      "Sean Young",
+      "Richard Lewis",
+      "Ornella Muti",
+      "Giancarlo Giannini",
+      "George Hamilton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/once-upon-a-crime.html"
+}

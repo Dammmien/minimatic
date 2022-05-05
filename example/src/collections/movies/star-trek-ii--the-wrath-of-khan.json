@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Star Trek II: The Wrath of Khan",
+    "year": 1982,
+    "cast": [
+      "William Shatner",
+      "Leonard Nimoy",
+      "Ricardo Montalbán"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/star-trek-ii--the-wrath-of-khan.html"
+}

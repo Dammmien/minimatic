@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bones",
+    "year": 2001,
+    "cast": [
+      "Snoop Dogg",
+      "Pam Grier",
+      "Michael T. Weiss"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/bones.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wild Harvest",
+    "year": 1947,
+    "cast": [
+      "Alan Ladd",
+      "Dorothy Lamour",
+      "Robert Preston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wild-harvest.html"
+}

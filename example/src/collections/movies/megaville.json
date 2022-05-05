@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Megaville",
+    "year": 1990,
+    "cast": [
+      "Billy Zane"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/megaville.html"
+}

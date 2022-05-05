@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bearcat",
+    "year": 1922,
+    "cast": [
+      "Hoot Gibson",
+      "Lillian Rich"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-bearcat.html"
+}

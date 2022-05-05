@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Ringer",
+    "year": 2005,
+    "cast": [
+      "Johnny Knoxville"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ringer.html"
+}

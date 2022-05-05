@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Valley of the Dolls",
+    "year": 1967,
+    "cast": [
+      "Patty Duke",
+      "Barbara Parkins",
+      "Paul Burke",
+      "Martin Milner",
+      "Susan Hayward",
+      "Sharon Tate"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/valley-of-the-dolls.html"
+}

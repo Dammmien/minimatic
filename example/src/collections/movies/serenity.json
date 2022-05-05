@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Serenity",
+    "year": 2018,
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Diane Lane",
+      "Jason Clarke",
+      "Djimon Hounsou",
+      "Jeremy Strong"
+    ],
+    "genres": [
+      "Noir",
+      "Thriller",
+      "Drama"
+    ]
+  },
+  "output": "movies/serenity.html"
+}

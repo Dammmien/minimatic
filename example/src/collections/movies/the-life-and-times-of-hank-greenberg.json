@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Life and Times of Hank Greenberg",
+    "year": 1998,
+    "cast": [
+      "Walter Matthau",
+      "Carl Levin"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-life-and-times-of-hank-greenberg.html"
+}

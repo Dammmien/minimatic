@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Goldtown Ghost Riders",
+    "year": 1953,
+    "cast": [
+      "Gene Autry",
+      "Gail Davis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/goldtown-ghost-riders.html"
+}

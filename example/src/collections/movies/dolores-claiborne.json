@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Dolores Claiborne",
+    "year": 1995,
+    "cast": [
+      "Kathy Bates",
+      "Jennifer Jason Leigh",
+      "David Strathairn",
+      "Christopher Plummer",
+      "John C. Reilly"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/dolores-claiborne.html"
+}

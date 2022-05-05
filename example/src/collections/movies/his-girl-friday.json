@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "His Girl Friday",
+    "year": 1940,
+    "cast": [
+      "Cary Grant",
+      "Rosalind Russell",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/his-girl-friday.html"
+}

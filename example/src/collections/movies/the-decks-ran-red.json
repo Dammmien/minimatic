@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Decks Ran Red",
+    "year": 1958,
+    "cast": [
+      "James Mason",
+      "Dorothy Dandridge"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-decks-ran-red.html"
+}

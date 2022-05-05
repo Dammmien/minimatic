@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Madame Butterfly",
+    "year": 1932,
+    "cast": [
+      "Sylvia Sidney",
+      "Cary Grant",
+      "Irving Pichel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/madame-butterfly.html"
+}

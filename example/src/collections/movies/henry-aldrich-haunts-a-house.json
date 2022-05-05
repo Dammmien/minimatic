@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Henry Aldrich Haunts a House",
+    "year": 1943,
+    "cast": [
+      "Jimmy Lydon",
+      "Olive Blakeney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/henry-aldrich-haunts-a-house.html"
+}

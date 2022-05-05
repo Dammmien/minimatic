@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Great Dan Patch",
+    "year": 1949,
+    "cast": [
+      "Dennis O'Keefe",
+      "Gail Russell",
+      "Ruth Warwick"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-great-dan-patch.html"
+}

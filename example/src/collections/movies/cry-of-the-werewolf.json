@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cry of the Werewolf",
+    "year": 1944,
+    "cast": [
+      "Nina Foch",
+      "Stephen Crane",
+      "Osa Massen"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/cry-of-the-werewolf.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Corpse Vanishes",
+    "year": 1942,
+    "cast": [
+      "Bela Lugosi",
+      "Luana Walters"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-corpse-vanishes.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Phantom of the Rue Morgue",
+    "year": 1954,
+    "cast": [
+      "Karl Malden",
+      "Claude Dauphin",
+      "Patricia Medina"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/phantom-of-the-rue-morgue.html"
+}

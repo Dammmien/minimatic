@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paradise Alley",
+    "year": 1978,
+    "cast": [
+      "Sylvester Stallone",
+      "Armand Assante",
+      "Anne Archer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/paradise-alley.html"
+}

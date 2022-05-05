@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Henry Aldrich, Boy Scout",
+    "year": 1944,
+    "cast": [
+      "Jimmy Lydon",
+      "Charles Smith",
+      "John Litel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/henry-aldrich--boy-scout.html"
+}

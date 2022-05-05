@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trailing Trouble",
+    "year": 1930,
+    "cast": [
+      "Hoot Gibson",
+      "William McCall"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/trailing-trouble.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tap Roots",
+    "year": 1948,
+    "cast": [
+      "Van Heflin",
+      "Susan Hayward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tap-roots.html"
+}

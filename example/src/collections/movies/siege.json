@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Siege",
+    "year": 1940,
+    "cast": [
+      "Julien Bryan"
+    ],
+    "genres": [
+      "Documentary",
+      "Short"
+    ]
+  },
+  "output": "movies/siege.html"
+}

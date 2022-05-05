@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kentucky Moonshine",
+    "year": 1938,
+    "cast": [
+      "Ritz Brothers",
+      "Marjorie Weaver",
+      "Tony Martin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kentucky-moonshine.html"
+}

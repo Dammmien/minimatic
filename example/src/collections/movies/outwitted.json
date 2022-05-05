@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Outwitted",
+    "year": 1925,
+    "cast": [
+      "Helen Holmes",
+      "William Desmond"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/outwitted.html"
+}

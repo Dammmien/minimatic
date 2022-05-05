@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Personal Velocity: Three Portraits",
+    "year": 2002,
+    "cast": [
+      "Kyra Sedgwick",
+      "Parker Posey",
+      "Fairuza Balk"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/personal-velocity--three-portraits.html"
+}

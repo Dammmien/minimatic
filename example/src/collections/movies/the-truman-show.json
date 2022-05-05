@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Truman Show",
+    "year": 1998,
+    "cast": [
+      "Jim Carrey",
+      "Ed Harris",
+      "Laura Linney",
+      "Noah Emmerich",
+      "Natascha McElhone"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-truman-show.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Irma la Douce",
+    "year": 1963,
+    "cast": [
+      "Jack Lemmon",
+      "Shirley MacLaine"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/irma-la-douce.html"
+}

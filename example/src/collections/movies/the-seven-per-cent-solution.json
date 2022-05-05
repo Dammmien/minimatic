@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Seven-Per-Cent Solution",
+    "year": 1976,
+    "cast": [
+      "Robert Duvall",
+      "Alan Arkin",
+      "Nicol Williamson",
+      "Samantha Eggar",
+      "Laurence Olivier"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-seven-per-cent-solution.html"
+}

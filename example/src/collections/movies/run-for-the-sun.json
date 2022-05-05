@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Run for the Sun",
+    "year": 1956,
+    "cast": [
+      "Richard Widmark",
+      "Trevor Howard",
+      "Jane Greer"
+    ],
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ]
+  },
+  "output": "movies/run-for-the-sun.html"
+}

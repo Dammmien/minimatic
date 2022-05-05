@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kid Glove Killer",
+    "year": 1942,
+    "cast": [
+      "Van Heflin",
+      "Marsha Hunt"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/kid-glove-killer.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Salome of the Tenements",
+    "year": 1925,
+    "cast": [
+      "Jetta Goudal",
+      "Godfrey Tearle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/salome-of-the-tenements.html"
+}

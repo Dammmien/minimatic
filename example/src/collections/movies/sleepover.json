@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sleepover",
+    "year": 2004,
+    "cast": [
+      "Alexa Vega",
+      "Sara Paxton",
+      "Mika Boorem",
+      "Sam Huntington"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sleepover.html"
+}

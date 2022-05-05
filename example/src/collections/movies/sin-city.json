@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Sin City",
+    "year": 2005,
+    "cast": [
+      "Jessica Alba",
+      "Bruce Willis",
+      "Benicio del Toro",
+      "Brittany Murphy",
+      "Clive Owen",
+      "Mickey Rourke",
+      "Rosario Dawson",
+      "Josh Hartnett",
+      "Carla Gugino",
+      "Elijah Wood",
+      "Nick Stahl"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/sin-city.html"
+}

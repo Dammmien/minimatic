@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "American Violet",
+    "year": 2009,
+    "cast": [
+      "Nicole Beharie",
+      "Tim Blake Nelson",
+      "Will Patton",
+      "Michael O'Keefe",
+      "Xzibit",
+      "Charles S. Dutton",
+      "Alfre Woodard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/american-violet.html"
+}

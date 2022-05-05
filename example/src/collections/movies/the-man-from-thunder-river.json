@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man from Thunder River",
+    "year": 1943,
+    "cast": [
+      "Wild Bill Elliott",
+      "Anne Jeffreys"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-man-from-thunder-river.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Trading Places",
+    "year": 1983,
+    "cast": [
+      "Eddie Murphy",
+      "Dan Aykroyd",
+      "Jamie Lee Curtis",
+      "Don Ameche",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/trading-places.html"
+}

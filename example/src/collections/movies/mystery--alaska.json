@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mystery, Alaska",
+    "year": 1999,
+    "cast": [
+      "Russell Crowe",
+      "Burt Reynolds",
+      "Colm Meaney"
+    ],
+    "genres": [
+      "Comedy",
+      "Sports"
+    ]
+  },
+  "output": "movies/mystery--alaska.html"
+}

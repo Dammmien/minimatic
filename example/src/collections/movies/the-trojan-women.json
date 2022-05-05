@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Trojan Women",
+    "year": 1971,
+    "cast": [
+      "Katharine Hepburn",
+      "Vanessa Redgrave",
+      "Geneviève Bujold",
+      "Irene Papas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-trojan-women.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Banger Sisters",
+    "year": 2002,
+    "cast": [
+      "Goldie Hawn",
+      "Susan Sarandon",
+      "Geoffrey Rush"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-banger-sisters.html"
+}

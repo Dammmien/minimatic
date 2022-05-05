@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Hello I Must Be Going",
+    "year": 2012,
+    "cast": [
+      "Melanie Lynskey",
+      "Blythe Danner",
+      "Christopher Abbott",
+      "John Rubinstein",
+      "Dan Futterman",
+      "Julie White"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/hello-i-must-be-going.html"
+}

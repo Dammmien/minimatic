@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Angel Face",
+    "year": 1953,
+    "cast": [
+      "Robert Mitchum",
+      "Jean Simmons"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/angel-face.html"
+}

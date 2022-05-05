@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Robots",
+    "year": 2005,
+    "cast": [
+      "Ewan McGregor",
+      "Robin Williams",
+      "Greg Kinnear",
+      "Halle Berry",
+      "Amanda Bynes",
+      "Mel Brooks"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/robots.html"
+}

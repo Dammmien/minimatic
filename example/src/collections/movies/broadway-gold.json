@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Broadway Gold",
+    "year": 1923,
+    "cast": [
+      "Elaine Hammerstein",
+      "Elliott Dexter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/broadway-gold.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bowery Boy",
+    "year": 1940,
+    "cast": [
+      "Dennis O'Keefe",
+      "Louise Campbell",
+      "Jimmy Lydon",
+      "Helen Vinson"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/bowery-boy.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gangster's Boy",
+    "year": 1938,
+    "cast": [
+      "Jackie Cooper",
+      "Lucy Gilman",
+      "Tommy Wonder"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/gangster-s-boy.html"
+}

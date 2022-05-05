@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Airborne",
+    "year": 1993,
+    "cast": [
+      "Shane McDermott",
+      "Seth Green"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/airborne.html"
+}

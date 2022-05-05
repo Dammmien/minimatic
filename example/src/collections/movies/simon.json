@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Simon",
+    "year": 1980,
+    "cast": [
+      "Alan Arkin",
+      "Madeline Kahn",
+      "Austin Pendleton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/simon.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting the Flames",
+    "year": 1925,
+    "cast": [
+      "William Haines",
+      "Dorothy Devore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fighting-the-flames.html"
+}

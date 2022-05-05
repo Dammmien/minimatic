@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Men of the North",
+    "year": 1930,
+    "cast": [
+      "Gilbert Roland",
+      "Arnold Korff"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/men-of-the-north.html"
+}

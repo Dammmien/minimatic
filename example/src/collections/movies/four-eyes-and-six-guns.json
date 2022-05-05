@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Four Eyes and Six Guns",
+    "year": 1992,
+    "cast": [
+      "Judge Reinhold",
+      "Patricia Clarkson",
+      "Fred Ward"
+    ],
+    "genres": [
+      "Comedy",
+      "Western"
+    ]
+  },
+  "output": "movies/four-eyes-and-six-guns.html"
+}

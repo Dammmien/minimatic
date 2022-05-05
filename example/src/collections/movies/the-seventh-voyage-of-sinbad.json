@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Seventh Voyage of Sinbad",
+    "year": 1958,
+    "cast": [
+      "Kerwin Mathews",
+      "Kathryn Grant"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-seventh-voyage-of-sinbad.html"
+}

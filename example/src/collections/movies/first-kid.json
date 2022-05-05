@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "First Kid",
+    "year": 1996,
+    "cast": [
+      "Sinbad",
+      "Brock Pierce"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/first-kid.html"
+}

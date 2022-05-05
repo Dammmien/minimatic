@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nobody's Baby",
+    "year": 1937,
+    "cast": [
+      "Patsy Kelly",
+      "Lyda Roberti",
+      "Lynne Overman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nobody-s-baby.html"
+}

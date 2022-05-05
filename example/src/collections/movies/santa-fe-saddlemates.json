@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Santa Fe Saddlemates",
+    "year": 1945,
+    "cast": [
+      "Sunset Carson",
+      "Linda Stirling"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/santa-fe-saddlemates.html"
+}

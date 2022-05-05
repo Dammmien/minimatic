@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Trip to Chinatown",
+    "year": 1926,
+    "cast": [
+      "Earle Foxe",
+      "Anna May Wong"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-trip-to-chinatown.html"
+}

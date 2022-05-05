@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gay Lord Quex",
+    "year": 1919,
+    "cast": [
+      "Tom Moore",
+      "Gloria Hope",
+      "Naomi Childers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-gay-lord-quex.html"
+}

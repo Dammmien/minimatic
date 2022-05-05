@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Oath of Vengeance",
+    "year": 1944,
+    "cast": [
+      "Buster Crabbe",
+      "Al St. John"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/oath-of-vengeance.html"
+}

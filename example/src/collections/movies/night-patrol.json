@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Night Patrol",
+    "year": 1984,
+    "cast": [
+      "Linda Blair",
+      "Murray Langston",
+      "Pat Paulsen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/night-patrol.html"
+}

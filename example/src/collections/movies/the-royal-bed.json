@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Royal Bed",
+    "year": 1931,
+    "cast": [
+      "Mary Astor",
+      "Anthony Bushell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-royal-bed.html"
+}

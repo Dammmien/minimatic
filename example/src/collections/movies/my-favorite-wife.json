@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Favorite Wife",
+    "year": 1940,
+    "cast": [
+      "Irene Dunne",
+      "Cary Grant",
+      "Randolph Scott"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-favorite-wife.html"
+}

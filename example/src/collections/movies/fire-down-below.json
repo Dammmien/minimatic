@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Fire Down Below",
+    "year": 1997,
+    "cast": [
+      "Steven Seagal",
+      "Marg Helgenberger",
+      "Kris Kristofferson",
+      "Harry Dean Stanton",
+      "Stephen Lang"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/fire-down-below.html"
+}

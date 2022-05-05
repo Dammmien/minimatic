@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Soul of Broadway",
+    "year": 1915,
+    "cast": [
+      "Valeska Suratt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-soul-of-broadway.html"
+}

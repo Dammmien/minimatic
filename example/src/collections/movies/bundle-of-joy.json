@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bundle of Joy",
+    "year": 1956,
+    "cast": [
+      "Debbie Reynolds",
+      "Eddie Fisher"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bundle-of-joy.html"
+}

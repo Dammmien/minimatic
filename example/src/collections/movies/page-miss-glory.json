@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Page Miss Glory",
+    "year": 1935,
+    "cast": [
+      "Marion Davies",
+      "Pat O'Brien",
+      "Dick Powell"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/page-miss-glory.html"
+}

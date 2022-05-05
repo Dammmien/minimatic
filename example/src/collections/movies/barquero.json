@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Barquero",
+    "year": 1970,
+    "cast": [
+      "Lee Van Cleef",
+      "Warren Oates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/barquero.html"
+}

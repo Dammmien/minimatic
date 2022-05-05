@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "A Funny Thing Happened on the Way to the Forum",
+    "year": 1966,
+    "cast": [
+      "Zero Mostel",
+      "Phil Silvers",
+      "Michael Crawford",
+      "Jack Gilford",
+      "Michael Hordern",
+      "Roy Kinnear",
+      "Buster Keaton"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-funny-thing-happened-on-the-way-to-the-forum.html"
+}

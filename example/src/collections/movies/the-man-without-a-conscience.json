@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man Without a Conscience",
+    "year": 1925,
+    "cast": [
+      "Willard Louis",
+      "Irene Rich",
+      "June Marlowe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-without-a-conscience.html"
+}

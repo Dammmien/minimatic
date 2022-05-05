@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Nebraska",
+    "year": 2013,
+    "cast": [
+      "Bruce Dern",
+      "Will Forte",
+      "June Squibb",
+      "Stacy Keach",
+      "Bob Odenkirk"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/nebraska.html"
+}

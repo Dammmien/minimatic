@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Smokers",
+    "year": 2000,
+    "cast": [
+      "Dominique Swain",
+      "Busy Philipps",
+      "Keri Lynn Pratt",
+      "Nicholas M. Loeb",
+      "Oliver Hudson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-smokers.html"
+}

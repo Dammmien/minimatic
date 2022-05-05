@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Megamind",
+    "year": 2010,
+    "cast": [
+      "Will Ferrell",
+      "Tina Fey",
+      "Jonah Hill",
+      "David Cross",
+      "Brad Pitt"
+    ],
+    "genres": [
+      "Comedy",
+      "Superhero"
+    ]
+  },
+  "output": "movies/megamind.html"
+}

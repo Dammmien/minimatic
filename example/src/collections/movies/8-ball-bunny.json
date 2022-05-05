@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "8 Ball Bunny",
+    "year": 1950,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/8-ball-bunny.html"
+}

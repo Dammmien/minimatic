@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mad Max Beyond Thunderdome",
+    "year": 1985,
+    "cast": [
+      "Mel Gibson",
+      "Tina Turner"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/mad-max-beyond-thunderdome.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Being Flynn",
+    "year": 2012,
+    "cast": [
+      "Robert De Niro",
+      "Paul Dano",
+      "Olivia Thirlby",
+      "Lili Taylor",
+      "Julianne Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/being-flynn.html"
+}

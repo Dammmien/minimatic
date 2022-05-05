@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wired",
+    "year": 1989,
+    "cast": [
+      "Michael Chiklis",
+      "J. T. Walsh"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/wired.html"
+}

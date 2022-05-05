@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Some Kind of a Nut",
+    "year": 1969,
+    "cast": [
+      "Dick Van Dyke",
+      "Angie Dickinson",
+      "Rosemary Forsyth"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/some-kind-of-a-nut.html"
+}

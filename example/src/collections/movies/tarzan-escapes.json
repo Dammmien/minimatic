@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tarzan Escapes",
+    "year": 1936,
+    "cast": [
+      "Maureen O'Sullivan",
+      "Johnny Weissmuller",
+      "John Buckler"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-escapes.html"
+}

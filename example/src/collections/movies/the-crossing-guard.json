@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Crossing Guard",
+    "year": 1995,
+    "cast": [
+      "Jack Nicholson",
+      "Anjelica Huston",
+      "David Morse"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-crossing-guard.html"
+}

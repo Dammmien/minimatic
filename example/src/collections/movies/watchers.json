@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Watchers",
+    "year": 1988,
+    "cast": [
+      "Corey Haim"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/watchers.html"
+}

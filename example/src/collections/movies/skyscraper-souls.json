@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Skyscraper Souls",
+    "year": 1932,
+    "cast": [
+      "Warren William",
+      "Maureen O'Sullivan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/skyscraper-souls.html"
+}

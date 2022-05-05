@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pleasures of the Rich",
+    "year": 1926,
+    "cast": [
+      "Helene Chadwick",
+      "Jack Mulhall",
+      "Hedda Hopper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pleasures-of-the-rich.html"
+}

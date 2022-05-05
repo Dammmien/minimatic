@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In His Steps",
+    "year": 1936,
+    "cast": [
+      "Eric Linden",
+      "Cecilia Parker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/in-his-steps.html"
+}

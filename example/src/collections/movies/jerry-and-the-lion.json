@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Jerry and the Lion",
+    "year": 1950,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/jerry-and-the-lion.html"
+}

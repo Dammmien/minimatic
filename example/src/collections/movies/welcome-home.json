@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Welcome Home",
+    "year": 1989,
+    "cast": [
+      "Kris Kristofferson",
+      "JoBeth Williams",
+      "Sam Waterston",
+      "Brian Keith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/welcome-home.html"
+}

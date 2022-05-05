@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Couples Retreat",
+    "year": 2009,
+    "cast": [
+      "Vince Vaughn",
+      "Jon Favreau",
+      "Jason Bateman",
+      "Faizon Love",
+      "Kristin Davis",
+      "Malin Åkerman",
+      "Kristen Bell",
+      "Kali Hawk",
+      "Jean Reno"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/couples-retreat.html"
+}

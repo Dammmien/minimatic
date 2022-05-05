@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Texas Terrors",
+    "year": 1940,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Julie Duncan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/texas-terrors.html"
+}

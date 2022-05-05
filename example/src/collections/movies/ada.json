@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ada",
+    "year": 1961,
+    "cast": [
+      "Susan Hayward",
+      "Dean Martin"
+    ],
+    "genres": [
+      "Political",
+      "Drama"
+    ]
+  },
+  "output": "movies/ada.html"
+}

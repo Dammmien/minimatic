@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Upstairs and Down",
+    "year": 1919,
+    "cast": [
+      "Olive Thomas",
+      "David Butler"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/upstairs-and-down.html"
+}

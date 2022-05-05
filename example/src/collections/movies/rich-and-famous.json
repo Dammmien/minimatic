@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rich and Famous",
+    "year": 1981,
+    "cast": [
+      "Jacqueline Bisset",
+      "Candice Bergen",
+      "Hart Bochner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rich-and-famous.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Sleepy-Time Tom",
+    "year": 1951,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/sleepy-time-tom.html"
+}

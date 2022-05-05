@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man in the Vault",
+    "year": 1956,
+    "cast": [
+      "Anita Ekberg",
+      "Karen Sharpe"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/man-in-the-vault.html"
+}

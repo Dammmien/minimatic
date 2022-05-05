@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Sugarland Express",
+    "year": 1974,
+    "cast": [
+      "Goldie Hawn",
+      "William Atherton",
+      "Ben Johnson"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sugarland-express.html"
+}

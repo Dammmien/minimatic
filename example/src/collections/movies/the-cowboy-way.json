@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Cowboy Way",
+    "year": 1994,
+    "cast": [
+      "Woody Harrelson",
+      "Kiefer Sutherland",
+      "Dylan McDermott",
+      "Ernie Hudson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-cowboy-way.html"
+}

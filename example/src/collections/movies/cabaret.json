@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cabaret",
+    "year": 1972,
+    "cast": [
+      "Liza Minnelli",
+      "Joel Grey",
+      "Michael York"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/cabaret.html"
+}

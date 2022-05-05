@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sitting Bull",
+    "year": 1954,
+    "cast": [
+      "Dale Robertson",
+      "Mary Murphy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/sitting-bull.html"
+}

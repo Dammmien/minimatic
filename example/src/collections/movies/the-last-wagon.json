@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last Wagon",
+    "year": 1956,
+    "cast": [
+      "Richard Widmark",
+      "Felicia Farr"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-last-wagon.html"
+}

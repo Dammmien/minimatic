@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "What's New Pussycat?",
+    "year": 1965,
+    "cast": [
+      "Peter Sellers",
+      "Peter O'Toole",
+      "Paula Prentiss",
+      "Romy Schneider",
+      "Woody Allen",
+      "Capucine"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/what-s-new-pussycat-.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brothers Under the Skin",
+    "year": 1922,
+    "cast": [
+      "Pat O'Malley",
+      "Helene Chadwick",
+      "Mae Busch"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/brothers-under-the-skin.html"
+}

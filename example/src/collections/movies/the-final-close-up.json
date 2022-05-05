@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Final Close-Up",
+    "year": 1919,
+    "cast": [
+      "Shirley Mason",
+      "Francis McDonald"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-final-close-up.html"
+}

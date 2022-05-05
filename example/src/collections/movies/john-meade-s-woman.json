@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "John Meade's Woman",
+    "year": 1937,
+    "cast": [
+      "Edward Arnold",
+      "Gail Patrick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/john-meade-s-woman.html"
+}

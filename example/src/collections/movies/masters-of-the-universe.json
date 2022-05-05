@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Masters of the Universe",
+    "year": 1987,
+    "cast": [
+      "Dolph Lundgren",
+      "Frank Langella",
+      "Courteney Cox",
+      "Billy Barty",
+      "Chelsea Field",
+      "Jon Cypher",
+      "Robert Duncan McNeill",
+      "James Tolkan",
+      "Christina Pickles"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/masters-of-the-universe.html"
+}

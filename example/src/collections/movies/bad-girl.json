@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bad Girl",
+    "year": 1931,
+    "cast": [
+      "Sally Eilers",
+      "James Dunn",
+      "Minna Gombell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bad-girl.html"
+}

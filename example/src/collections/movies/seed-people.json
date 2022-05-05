@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Seed People",
+    "year": 1992,
+    "cast": [
+      "Sam Hennings",
+      "Andrea Roth",
+      "Dane Witherspoon"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/seed-people.html"
+}

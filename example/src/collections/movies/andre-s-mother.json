@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Andre's Mother",
+    "year": 1990,
+    "cast": [
+      "Richard Thomas",
+      "Sada Thompson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/andre-s-mother.html"
+}

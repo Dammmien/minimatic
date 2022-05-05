@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Two Arabian Knights",
+    "year": 1927,
+    "cast": [
+      "William Boyd",
+      "Mary Astor",
+      "Louis Wolheim",
+      "Ian Keith"
+    ],
+    "genres": [
+      "Comedy",
+      "Adventure"
+    ]
+  },
+  "output": "movies/two-arabian-knights.html"
+}

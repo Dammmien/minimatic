@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bedknobs and Broomsticks",
+    "year": 1971,
+    "cast": [
+      "Angela Lansbury",
+      "David Tomlinson"
+    ],
+    "genres": [
+      "Musical",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/bedknobs-and-broomsticks.html"
+}

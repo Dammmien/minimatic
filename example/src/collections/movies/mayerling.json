@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mayerling",
+    "year": 1957,
+    "cast": [
+      "Audrey Hepburn",
+      "Mel Ferrer",
+      "Raymond Massey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mayerling.html"
+}

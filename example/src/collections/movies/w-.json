@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "W.",
+    "year": 2008,
+    "cast": [
+      "Josh Brolin",
+      "James Cromwell",
+      "Ellen Burstyn",
+      "Elizabeth Banks",
+      "Thandie Newton",
+      "Richard Dreyfuss",
+      "Toby Jones",
+      "Jeffrey Wright",
+      "Scott Glenn"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/w-.html"
+}

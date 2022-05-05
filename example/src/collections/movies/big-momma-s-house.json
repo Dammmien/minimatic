@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Big Momma's House",
+    "year": 2000,
+    "cast": [
+      "Martin Lawrence",
+      "Paul Giamatti"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/big-momma-s-house.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Blast from the Past",
+    "year": 1999,
+    "cast": [
+      "Brendan Fraser",
+      "Alicia Silverstone",
+      "Christopher Walken",
+      "Sissy Spacek",
+      "Dave Foley"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/blast-from-the-past.html"
+}

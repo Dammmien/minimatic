@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Wideo Wabbit",
+    "year": 1956,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/wideo-wabbit.html"
+}

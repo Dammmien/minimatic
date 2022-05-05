@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Call of the Flesh",
+    "year": 1930,
+    "cast": [
+      "Ramón Novarro",
+      "Dorothy Jordan",
+      "Ernest Torrence"
+    ],
+    "genres": [
+      "Musical",
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/call-of-the-flesh.html"
+}

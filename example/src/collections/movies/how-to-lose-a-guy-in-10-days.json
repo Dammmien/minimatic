@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "How to Lose a Guy in 10 Days",
+    "year": 2003,
+    "cast": [
+      "Kate Hudson",
+      "Matthew McConaughey"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/how-to-lose-a-guy-in-10-days.html"
+}

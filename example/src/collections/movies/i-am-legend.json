@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "I Am Legend",
+    "year": 2007,
+    "cast": [
+      "Will Smith"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/i-am-legend.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Those Who Dance",
+    "year": 1930,
+    "cast": [
+      "Monte Blue",
+      "Lila Lee",
+      "Betty Compson"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/those-who-dance.html"
+}

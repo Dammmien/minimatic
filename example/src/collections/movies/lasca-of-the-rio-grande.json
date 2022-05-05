@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lasca of the Rio Grande",
+    "year": 1931,
+    "cast": [
+      "Leo Carrillo",
+      "Dorothy Burgess"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lasca-of-the-rio-grande.html"
+}

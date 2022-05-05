@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Righteous Kill",
+    "year": 2008,
+    "cast": [
+      "Robert De Niro",
+      "Al Pacino",
+      "Carla Gugino",
+      "Curtis Jackson",
+      "Donnie Wahlberg"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/righteous-kill.html"
+}

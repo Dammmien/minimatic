@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Saboteur",
+    "year": 1942,
+    "cast": [
+      "Robert Cummings",
+      "Priscilla Lane",
+      "Norman Lloyd"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/saboteur.html"
+}

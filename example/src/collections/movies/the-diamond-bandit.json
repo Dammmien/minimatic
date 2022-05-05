@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Diamond Bandit",
+    "year": 1924,
+    "cast": [
+      "Frank Baker",
+      "Florence Gilbert"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-diamond-bandit.html"
+}

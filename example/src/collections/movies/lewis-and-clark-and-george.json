@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lewis and Clark and George",
+    "year": 1997,
+    "cast": [
+      "Rose McGowan",
+      "Dan Gunther"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lewis-and-clark-and-george.html"
+}

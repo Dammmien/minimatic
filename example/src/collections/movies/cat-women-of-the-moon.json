@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cat-Women of the Moon",
+    "year": 1953,
+    "cast": [
+      "Sonny Tufts",
+      "Victor Jory"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/cat-women-of-the-moon.html"
+}

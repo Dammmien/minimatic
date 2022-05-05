@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Love Bug",
+    "year": 1968,
+    "cast": [
+      "Dean Jones",
+      "Michele Lee",
+      "David Tomlinson"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-love-bug.html"
+}

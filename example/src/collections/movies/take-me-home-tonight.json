@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Take Me Home Tonight",
+    "year": 2011,
+    "cast": [
+      "Topher Grace",
+      "Anna Faris",
+      "Teresa Palmer",
+      "Dan Fogler",
+      "Michelle Trachtenberg",
+      "Chris Pratt",
+      "Robert Hoffman",
+      "Lucy Punch",
+      "Michael Ian Black",
+      "Lauren Conrad",
+      "Audrina Patridge",
+      "Heidi Montag",
+      "Demetri Martin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/take-me-home-tonight.html"
+}

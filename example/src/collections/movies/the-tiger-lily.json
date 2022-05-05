@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Tiger Lily",
+    "year": 1919,
+    "cast": [
+      "Margarita Fischer",
+      "Emory Johnson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-tiger-lily.html"
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Ocean's Thirteen",
+    "year": 2007,
+    "cast": [
+      "George Clooney",
+      "Brad Pitt",
+      "Matt Damon",
+      "Andy García",
+      "Don Cheadle",
+      "Bernie Mac",
+      "Ellen Barkin",
+      "Al Pacino",
+      "Blake Lively"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/ocean-s-thirteen.html"
+}

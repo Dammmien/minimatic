@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Western Jamboree",
+    "year": 1938,
+    "cast": [
+      "Gene Autry",
+      "Jean Rouverol",
+      "Esther Muir"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/western-jamboree.html"
+}

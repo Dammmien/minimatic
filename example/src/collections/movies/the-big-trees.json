@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Trees",
+    "year": 1952,
+    "cast": [
+      "Kirk Douglas",
+      "Eve Miller",
+      "Patrice Wymore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-big-trees.html"
+}

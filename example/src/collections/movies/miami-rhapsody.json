@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Miami Rhapsody",
+    "year": 1995,
+    "cast": [
+      "Sarah Jessica Parker",
+      "Antonio Banderas",
+      "Mia Farrow",
+      "Gil Bellows",
+      "Kevin Pollak"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/miami-rhapsody.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pacific Heights",
+    "year": 1990,
+    "cast": [
+      "Michael Keaton",
+      "Melanie Griffith",
+      "Matthew Modine"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/pacific-heights.html"
+}

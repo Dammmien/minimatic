@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Big Noise",
+    "year": 1944,
+    "cast": [
+      "Laurel and Hardy",
+      "Doris Merrick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-big-noise.html"
+}

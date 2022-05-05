@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Safe",
+    "year": 2012,
+    "cast": [
+      "Jason Statham",
+      "Catherine Chan",
+      "Chris Sarandon",
+      "Anson Mount",
+      "Robert John Burke",
+      "James Hong",
+      "Reggie Lee",
+      "Danny Hoch",
+      "Danni Lang",
+      "Igor Jijikine",
+      "David Kim"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/safe.html"
+}

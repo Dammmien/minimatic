@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Mr. Destiny",
+    "year": 1990,
+    "cast": [
+      "James Belushi",
+      "Michael Caine",
+      "Linda Hamilton",
+      "Hart Bochner",
+      "Jon Lovitz",
+      "Rene Russo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mr--destiny.html"
+}

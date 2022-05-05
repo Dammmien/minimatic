@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fireman Save My Child",
+    "year": 1954,
+    "cast": [
+      "Hugh O'Brian",
+      "Buddy Hackett",
+      "Adele Jergens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fireman-save-my-child.html"
+}

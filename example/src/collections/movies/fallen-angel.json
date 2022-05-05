@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fallen Angel",
+    "year": 1945,
+    "cast": [
+      "Alice Faye",
+      "Dana Andrews",
+      "Linda Darnell"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/fallen-angel.html"
+}

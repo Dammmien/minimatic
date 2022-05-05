@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Walk Tall",
+    "year": 1960,
+    "cast": [
+      "Willard Parker",
+      "Joyce Meadows"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/walk-tall.html"
+}

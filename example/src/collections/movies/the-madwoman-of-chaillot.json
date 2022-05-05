@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Madwoman of Chaillot",
+    "year": 1969,
+    "cast": [
+      "Katharine Hepburn",
+      "Yul Brynner",
+      "Paul Henreid"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-madwoman-of-chaillot.html"
+}

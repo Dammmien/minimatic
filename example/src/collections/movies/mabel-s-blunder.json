@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mabel's Blunder",
+    "year": 1914,
+    "cast": [
+      "Mabel Normand",
+      "Charly Chase",
+      "Al St. John"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mabel-s-blunder.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Penalty",
+    "year": 1941,
+    "cast": [
+      "Lionel Barrymore",
+      "Edward Arnold",
+      "Marsha Hunt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-penalty.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Finger Prints",
+    "year": 1927,
+    "cast": [
+      "Louise Fazenda",
+      "John T. Murray",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/finger-prints.html"
+}

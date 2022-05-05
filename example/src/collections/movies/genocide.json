@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Genocide",
+    "year": 1982,
+    "cast": [
+      "Archive footage of",
+      "Adolf Hitler",
+      "Winston Churchill"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/genocide.html"
+}

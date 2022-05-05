@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Ruthless People",
+    "year": 1986,
+    "cast": [
+      "Bette Midler",
+      "Danny DeVito",
+      "Judge Reinhold",
+      "Helen Slater",
+      "Anita Morris",
+      "Bill Pullman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ruthless-people.html"
+}

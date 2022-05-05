@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Music Is Magic",
+    "year": 1935,
+    "cast": [
+      "Alice Faye",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/music-is-magic.html"
+}

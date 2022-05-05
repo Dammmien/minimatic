@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Computer Wore Tennis Shoes",
+    "year": 1995,
+    "cast": [
+      "Kirk Cameron"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-computer-wore-tennis-shoes.html"
+}

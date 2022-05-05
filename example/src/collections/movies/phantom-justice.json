@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Phantom Justice",
+    "year": 1924,
+    "cast": [
+      "Rod La Rocque",
+      "Kathryn McGuire"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/phantom-justice.html"
+}

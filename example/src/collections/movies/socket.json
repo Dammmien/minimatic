@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Socket",
+    "year": 2007,
+    "cast": [
+      "Derek Long",
+      "Alexandra Billings"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/socket.html"
+}

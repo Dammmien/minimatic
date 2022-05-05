@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rogue Cop",
+    "year": 1954,
+    "cast": [
+      "Robert Taylor",
+      "George Raft",
+      "Janet Leigh"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/rogue-cop.html"
+}

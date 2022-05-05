@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Search for Bridey Murphy",
+    "year": 1956,
+    "cast": [
+      "Teresa Wright",
+      "Louis Hayward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-search-for-bridey-murphy.html"
+}

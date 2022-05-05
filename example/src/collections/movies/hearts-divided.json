@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hearts Divided",
+    "year": 1936,
+    "cast": [
+      "Claude Rains",
+      "Dick Powell",
+      "Marion Davies"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/hearts-divided.html"
+}

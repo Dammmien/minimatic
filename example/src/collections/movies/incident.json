@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Incident",
+    "year": 1949,
+    "cast": [
+      "Jane Frazee",
+      "Joyce Compton"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/incident.html"
+}

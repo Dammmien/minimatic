@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Weekend for Three",
+    "year": 1941,
+    "cast": [
+      "Jane Wyatt",
+      "Dennis O'Keefe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/weekend-for-three.html"
+}

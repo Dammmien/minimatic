@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Navy Way",
+    "year": 1944,
+    "cast": [
+      "Jean Parker",
+      "William Henry"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-navy-way.html"
+}

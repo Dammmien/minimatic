@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "An Innocent Magdalene",
+    "year": 1916,
+    "cast": [
+      "Lillian Gish",
+      "Spottiswoode Aitken"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/an-innocent-magdalene.html"
+}

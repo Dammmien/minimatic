@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Today I Hang",
+    "year": 1942,
+    "cast": [
+      "Walter Woolf King",
+      "Mona Barrie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/today-i-hang.html"
+}

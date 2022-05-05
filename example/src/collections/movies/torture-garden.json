@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Torture Garden",
+    "year": 1967,
+    "cast": [
+      "Jack Palance",
+      "Burgess Meredith",
+      "Beverly Adams"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/torture-garden.html"
+}

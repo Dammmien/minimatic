@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Remember",
+    "year": 1926,
+    "cast": [
+      "Dorothy Phillips",
+      "Lola Todd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/remember.html"
+}

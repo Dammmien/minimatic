@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Nun and the Sergeant",
+    "year": 1962,
+    "cast": [
+      "Robert Webber",
+      "Anna Sten"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-nun-and-the-sergeant.html"
+}

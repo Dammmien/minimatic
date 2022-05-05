@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dangerous Intrigue",
+    "year": 1936,
+    "cast": [
+      "Ralph Bellamy",
+      "Gloria Shea",
+      "Joan Perry"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dangerous-intrigue.html"
+}

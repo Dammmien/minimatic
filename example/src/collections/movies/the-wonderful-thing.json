@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wonderful Thing",
+    "year": 1921,
+    "cast": [
+      "Norma Talmadge",
+      "Harrison Ford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wonderful-thing.html"
+}

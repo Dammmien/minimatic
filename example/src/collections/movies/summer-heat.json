@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Summer Heat",
+    "year": 1987,
+    "cast": [
+      "Lori Singer",
+      "Anthony Edwards"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/summer-heat.html"
+}

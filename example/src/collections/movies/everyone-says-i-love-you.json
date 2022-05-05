@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Everyone Says I Love You",
+    "year": 1996,
+    "cast": [
+      "Edward Norton",
+      "Alan Alda",
+      "Woody Allen",
+      "Goldie Hawn",
+      "Julia Roberts",
+      "Drew Barrymore",
+      "Natalie Portman",
+      "Lukas Haas",
+      "Tim Roth"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/everyone-says-i-love-you.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Romance of the West'",
+    "year": 1946,
+    "cast": [
+      "Eddie Dean",
+      "Emmett Lynn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/romance-of-the-west-.html"
+}

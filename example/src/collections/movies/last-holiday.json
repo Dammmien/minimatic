@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Last Holiday",
+    "year": 2006,
+    "cast": [
+      "Queen Latifah",
+      "LL Cool J",
+      "Timothy Hutton",
+      "Gérard Depardieu"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/last-holiday.html"
+}

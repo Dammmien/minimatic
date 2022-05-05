@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Naughty Baby",
+    "year": 1928,
+    "cast": [
+      "Alice White",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/naughty-baby.html"
+}

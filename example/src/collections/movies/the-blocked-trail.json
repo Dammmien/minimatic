@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Blocked Trail",
+    "year": 1943,
+    "cast": [
+      "Bob Steele",
+      "Tom Tyler"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-blocked-trail.html"
+}

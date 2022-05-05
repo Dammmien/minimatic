@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Jungle Fever",
+    "year": 1991,
+    "cast": [
+      "Wesley Snipes",
+      "Annabella Sciorra",
+      "Spike Lee",
+      "Anthony Quinn",
+      "John Turturro",
+      "Samuel L. Jackson",
+      "Ossie Davis",
+      "Ruby Dee",
+      "Halle Berry"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jungle-fever.html"
+}

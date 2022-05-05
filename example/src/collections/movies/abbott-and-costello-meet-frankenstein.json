@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Abbott and Costello Meet Frankenstein",
+    "year": 1948,
+    "cast": [
+      "Bud Abbott",
+      "Lou Costello",
+      "Lon Chaney Jr.",
+      "Bela Lugosi",
+      "Glenn Strange"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/abbott-and-costello-meet-frankenstein.html"
+}

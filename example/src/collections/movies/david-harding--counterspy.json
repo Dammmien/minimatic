@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "David Harding, Counterspy",
+    "year": 1950,
+    "cast": [
+      "Willard Parker",
+      "Audrey Long"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/david-harding--counterspy.html"
+}

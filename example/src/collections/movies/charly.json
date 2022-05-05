@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Charly",
+    "year": 1968,
+    "cast": [
+      "Cliff Robertson",
+      "Claire Bloom"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/charly.html"
+}

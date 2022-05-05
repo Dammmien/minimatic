@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Old Shoes",
+    "year": 1925,
+    "cast": [
+      "Noah Beery",
+      "ZaSu Pitts"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/old-shoes.html"
+}

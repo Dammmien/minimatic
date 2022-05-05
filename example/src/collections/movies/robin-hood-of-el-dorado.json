@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Robin Hood of El Dorado",
+    "year": 1936,
+    "cast": [
+      "Warner Baxter",
+      "Ann Loring",
+      "Bruce Cabot"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/robin-hood-of-el-dorado.html"
+}

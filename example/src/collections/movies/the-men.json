@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Men",
+    "year": 1950,
+    "cast": [
+      "Marlon Brando",
+      "Teresa Wright"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-men.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wild and the Innocent",
+    "year": 1959,
+    "cast": [
+      "Audie Murphy",
+      "Joanne Dru",
+      "Sandra Dee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-wild-and-the-innocent.html"
+}

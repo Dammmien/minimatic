@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last Horseman",
+    "year": 1944,
+    "cast": [
+      "Russell Hayden",
+      "Ann Savage"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-last-horseman.html"
+}

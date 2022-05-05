@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Slide, Kelly, Slide",
+    "year": 1927,
+    "cast": [
+      "William Haines",
+      "Sally O'Neil"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/slide--kelly--slide.html"
+}

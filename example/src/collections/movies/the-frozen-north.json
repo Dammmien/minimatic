@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Frozen North",
+    "year": 1922,
+    "cast": [
+      "Buster Keaton",
+      "Sybil Seely"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-frozen-north.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pistols for Breakfast",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pistols-for-breakfast.html"
+}

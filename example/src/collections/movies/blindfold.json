@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blindfold",
+    "year": 1966,
+    "cast": [
+      "Rock Hudson",
+      "Claudia Cardinale",
+      "Jack Warden"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/blindfold.html"
+}

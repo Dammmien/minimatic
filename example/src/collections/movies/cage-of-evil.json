@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cage of Evil",
+    "year": 1960,
+    "cast": [
+      "Ron Foster",
+      "Pat Blair"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/cage-of-evil.html"
+}

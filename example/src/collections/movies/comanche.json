@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Comanche",
+    "year": 1956,
+    "cast": [
+      "Dana Andrews",
+      "Kent Smith",
+      "Nestor Paiva"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/comanche.html"
+}

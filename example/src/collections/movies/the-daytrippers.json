@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Daytrippers",
+    "year": 1996,
+    "cast": [
+      "Hope Davis",
+      "Stanley Tucci",
+      "Liev Schreiber",
+      "Parker Posey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-daytrippers.html"
+}

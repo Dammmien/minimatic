@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Baby",
+    "year": 1973,
+    "cast": [
+      "Anjanette Comer",
+      "Ruth Roman",
+      "Marianna Hill"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-baby.html"
+}

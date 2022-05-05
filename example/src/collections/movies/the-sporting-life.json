@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sporting Life",
+    "year": 1925,
+    "cast": [
+      "Bert Lytell",
+      "Marian Nixon"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/the-sporting-life.html"
+}

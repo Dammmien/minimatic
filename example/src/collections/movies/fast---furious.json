@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fast & Furious",
+    "year": 2009,
+    "cast": [
+      "Vin Diesel",
+      "Paul Walker",
+      "Michelle Rodriguez",
+      "Jordana Brewster"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/fast---furious.html"
+}

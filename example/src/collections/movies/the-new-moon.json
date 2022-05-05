@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The New Moon",
+    "year": 1919,
+    "cast": [
+      "Norma Talmadge",
+      "Pedro de Cordoba",
+      "Charles K. Gerrard"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-new-moon.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Idaho Kid",
+    "year": 1936,
+    "cast": [
+      "Rex Bell",
+      "Marion Shilling",
+      "David Sharpe"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/idaho-kid.html"
+}

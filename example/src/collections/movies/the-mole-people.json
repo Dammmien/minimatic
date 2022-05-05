@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mole People",
+    "year": 1956,
+    "cast": [
+      "John Agar",
+      "Hugh Beaumont"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-mole-people.html"
+}

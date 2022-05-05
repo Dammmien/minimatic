@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dying Young",
+    "year": 1991,
+    "cast": [
+      "Julia Roberts",
+      "Campbell Scott",
+      "Vincent D'Onofrio",
+      "Colleen Dewhurst",
+      "David Selby"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dying-young.html"
+}

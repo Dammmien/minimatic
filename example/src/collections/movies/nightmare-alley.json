@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nightmare Alley",
+    "year": 1947,
+    "cast": [
+      "Tyrone Power",
+      "Joan Blondell",
+      "Coleen Gray"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/nightmare-alley.html"
+}

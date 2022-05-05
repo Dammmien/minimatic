@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Winter Soldier",
+    "year": 1972,
+    "cast": [
+      "John Kerry"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/winter-soldier.html"
+}

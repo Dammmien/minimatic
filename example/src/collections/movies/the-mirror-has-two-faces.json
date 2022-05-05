@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Mirror Has Two Faces",
+    "year": 1996,
+    "cast": [
+      "Barbra Streisand",
+      "Jeff Bridges",
+      "Lauren Bacall",
+      "Pierce Brosnan",
+      "Mimi Rogers",
+      "George Segal",
+      "Brenda Vaccaro"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-mirror-has-two-faces.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Safety Second",
+    "year": 1950,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/safety-second.html"
+}

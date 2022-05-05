@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Harlem on the Prairie",
+    "year": 1937,
+    "cast": [
+      "Herb Jeffries",
+      "Mantan Moreland",
+      "Nathan Curry"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/harlem-on-the-prairie.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Lady's Lips",
+    "year": 1925,
+    "cast": [
+      "William Powell",
+      "Clara Bow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-lady-s-lips.html"
+}

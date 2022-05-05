@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Good Year",
+    "year": 2006,
+    "cast": [
+      "Russell Crowe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-good-year.html"
+}

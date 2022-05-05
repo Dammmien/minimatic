@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Under the Tonto Rim",
+    "year": 1947,
+    "cast": [
+      "Tim Holt",
+      "Nan Leslie"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/under-the-tonto-rim.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Illuminata",
+    "year": 1998,
+    "cast": [
+      "John Turturro",
+      "Katherine Borowitz",
+      "Christopher Walken",
+      "Susan Sarandon"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/illuminata.html"
+}

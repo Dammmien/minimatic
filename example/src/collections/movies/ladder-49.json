@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Ladder 49",
+    "year": 2004,
+    "cast": [
+      "Joaquin Phoenix",
+      "John Travolta",
+      "Jay Hernandez",
+      "Morris Chestnut",
+      "Robert Patrick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ladder-49.html"
+}

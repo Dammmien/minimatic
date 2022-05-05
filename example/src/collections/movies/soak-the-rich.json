@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Soak the Rich",
+    "year": 1936,
+    "cast": [
+      "Walter Connolly",
+      "Lionel Stander",
+      "Ilka Chase"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/soak-the-rich.html"
+}

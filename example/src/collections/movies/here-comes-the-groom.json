@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Here Comes the Groom",
+    "year": 1951,
+    "cast": [
+      "Bing Crosby",
+      "Jane Wyman"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/here-comes-the-groom.html"
+}

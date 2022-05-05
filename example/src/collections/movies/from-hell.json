@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "From Hell",
+    "year": 2001,
+    "cast": [
+      "Johnny Depp",
+      "Heather Graham",
+      "Ian Holm"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/from-hell.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "With Six You Get Eggroll",
+    "year": 1968,
+    "cast": [
+      "Doris Day",
+      "Brian Keith",
+      "Barbara Hershey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/with-six-you-get-eggroll.html"
+}

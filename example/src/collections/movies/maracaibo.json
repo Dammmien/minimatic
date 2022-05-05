@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Maracaibo",
+    "year": 1958,
+    "cast": [
+      "Cornel Wilde",
+      "Jean Wallace"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/maracaibo.html"
+}

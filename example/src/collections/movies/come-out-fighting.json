@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Come Out Fighting",
+    "year": 1945,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Billy Benedict"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/come-out-fighting.html"
+}

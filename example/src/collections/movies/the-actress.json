@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Actress",
+    "year": 1953,
+    "cast": [
+      "Jean Simmons",
+      "Spencer Tracy",
+      "Teresa Wright"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-actress.html"
+}

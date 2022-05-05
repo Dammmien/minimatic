@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Rag Man",
+    "year": 1925,
+    "cast": [
+      "Jackie Coogan",
+      "Max Davidson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-rag-man.html"
+}

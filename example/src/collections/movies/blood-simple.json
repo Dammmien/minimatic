@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Blood Simple",
+    "year": 1984,
+    "cast": [
+      "John Getz",
+      "Frances McDormand",
+      "M. Emmet Walsh",
+      "Dan Hedaya",
+      "Samm-Art Williams"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/blood-simple.html"
+}

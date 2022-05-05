@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Grayeagle",
+    "year": 1977,
+    "cast": [
+      "Ben Johnson",
+      "Lana Wood"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/grayeagle.html"
+}

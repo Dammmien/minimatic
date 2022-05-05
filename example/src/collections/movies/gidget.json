@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gidget",
+    "year": 1959,
+    "cast": [
+      "Sandra Dee",
+      "Cliff Robertson",
+      "James Darren"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gidget.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Day of the Evil Gun",
+    "year": 1968,
+    "cast": [
+      "Glenn Ford",
+      "Arthur Kennedy",
+      "Dean Jagger"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/day-of-the-evil-gun.html"
+}

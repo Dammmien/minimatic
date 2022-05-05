@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shaft's Big Score",
+    "year": 1972,
+    "cast": [
+      "Richard Roundtree",
+      "Moses Gunn"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/shaft-s-big-score.html"
+}

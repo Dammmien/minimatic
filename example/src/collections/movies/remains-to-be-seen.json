@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Remains to Be Seen",
+    "year": 1953,
+    "cast": [
+      "June Allyson",
+      "Van Johnson",
+      "Angela Lansbury"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/remains-to-be-seen.html"
+}

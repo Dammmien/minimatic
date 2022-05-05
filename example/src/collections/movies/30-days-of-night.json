@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "30 Days of Night",
+    "year": 2007,
+    "cast": [
+      "Josh Hartnett",
+      "Ben Foster",
+      "Melissa George"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/30-days-of-night.html"
+}

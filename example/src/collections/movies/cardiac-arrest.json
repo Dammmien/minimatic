@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Cardiac Arrest",
+    "year": 1980,
+    "cast": [
+      "Garry Goodrow"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/cardiac-arrest.html"
+}

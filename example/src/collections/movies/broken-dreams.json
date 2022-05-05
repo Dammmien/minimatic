@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Broken Dreams",
+    "year": 1933,
+    "cast": [
+      "Randolph Scott",
+      "Martha Sleeper",
+      "Joseph Cawthorn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/broken-dreams.html"
+}

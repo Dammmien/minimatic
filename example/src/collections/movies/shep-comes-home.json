@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shep Comes Home",
+    "year": 1948,
+    "cast": [
+      "Robert Lowery",
+      "Margia Dean"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shep-comes-home.html"
+}

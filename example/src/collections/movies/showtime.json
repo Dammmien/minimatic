@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Showtime",
+    "year": 2002,
+    "cast": [
+      "Robert De Niro",
+      "Eddie Murphy",
+      "Rene Russo",
+      "William Shatner"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/showtime.html"
+}

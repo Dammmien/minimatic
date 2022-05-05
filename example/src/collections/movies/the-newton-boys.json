@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Newton Boys",
+    "year": 1998,
+    "cast": [
+      "Matthew McConaughey",
+      "Vincent D'Onofrio",
+      "Ethan Hawke",
+      "Skeet Ulrich"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-newton-boys.html"
+}

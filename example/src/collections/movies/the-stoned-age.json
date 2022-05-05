@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Stoned Age",
+    "year": 1994,
+    "cast": [
+      "Bradford Tatum",
+      "Clifton Collins, Jr."
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-stoned-age.html"
+}

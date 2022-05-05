@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Missing Women",
+    "year": 1951,
+    "cast": [
+      "Penny Edwards",
+      "John Alvin"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/missing-women.html"
+}

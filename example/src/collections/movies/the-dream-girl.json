@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Dream Girl",
+    "year": 1916,
+    "cast": [
+      "Mae Murray",
+      "Theodore Roberts",
+      "Earle Foxe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-dream-girl.html"
+}

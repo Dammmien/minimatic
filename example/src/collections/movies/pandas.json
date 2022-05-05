@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Pandas",
+    "year": 2018,
+    "cast": [
+      "Kristen Bell"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/pandas.html"
+}

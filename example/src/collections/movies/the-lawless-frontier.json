@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lawless Frontier",
+    "year": 1934,
+    "cast": [
+      "John Wayne",
+      "Sheila Terry"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-lawless-frontier.html"
+}

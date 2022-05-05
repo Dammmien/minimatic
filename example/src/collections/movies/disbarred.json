@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Disbarred",
+    "year": 1939,
+    "cast": [
+      "Gail Patrick",
+      "Robert Preston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/disbarred.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Prizzi's Honor",
+    "year": 1985,
+    "cast": [
+      "Jack Nicholson",
+      "Kathleen Turner",
+      "Robert Loggia",
+      "Anjelica Huston",
+      "William Hickey",
+      "John Randolph",
+      "Lee Richardson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/prizzi-s-honor.html"
+}

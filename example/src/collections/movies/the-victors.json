@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Victors",
+    "year": 1963,
+    "cast": [
+      "George Peppard",
+      "George Hamilton",
+      "Vince Edwards",
+      "Romy Schneider",
+      "Elke Sommer",
+      "Jeanne Moreau"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-victors.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Meteor",
+    "year": 1979,
+    "cast": [
+      "Sean Connery",
+      "Natalie Wood",
+      "Karl Malden"
+    ],
+    "genres": [
+      "Disaster",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/meteor.html"
+}

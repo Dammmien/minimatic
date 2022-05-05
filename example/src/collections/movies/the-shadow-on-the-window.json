@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Shadow on the Window",
+    "year": 1957,
+    "cast": [
+      "Philip Carey",
+      "Betty Garrett"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-shadow-on-the-window.html"
+}

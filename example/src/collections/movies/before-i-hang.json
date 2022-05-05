@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Before I Hang",
+    "year": 1940,
+    "cast": [
+      "Boris Karloff",
+      "Evelyn Keyes",
+      "Bruce Bennett"
+    ],
+    "genres": [
+      "Crime",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/before-i-hang.html"
+}

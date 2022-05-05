@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Not Quite Decent",
+    "year": 1929,
+    "cast": [
+      "Louise Dresser",
+      "June Collyer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/not-quite-decent.html"
+}

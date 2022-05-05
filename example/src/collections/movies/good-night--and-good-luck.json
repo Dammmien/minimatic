@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Good Night, and Good Luck",
+    "year": 2005,
+    "cast": [
+      "David Strathairn",
+      "Patricia Clarkson",
+      "George Clooney",
+      "Jeff Daniels",
+      "Robert Downey, Jr."
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/good-night--and-good-luck.html"
+}

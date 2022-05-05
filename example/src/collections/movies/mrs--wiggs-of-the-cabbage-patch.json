@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mrs. Wiggs of the Cabbage Patch",
+    "year": 1942,
+    "cast": [
+      "Fay Bainter",
+      "Hugh Herbert"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mrs--wiggs-of-the-cabbage-patch.html"
+}

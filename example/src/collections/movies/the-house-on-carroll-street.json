@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The House on Carroll Street",
+    "year": 1988,
+    "cast": [
+      "Kelly McGillis",
+      "Jeff Daniels",
+      "Mandy Patinkin"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-house-on-carroll-street.html"
+}

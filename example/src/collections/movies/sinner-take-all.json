@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sinner Take All",
+    "year": 1936,
+    "cast": [
+      "Bruce Cabot",
+      "Margaret Lindsay"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/sinner-take-all.html"
+}

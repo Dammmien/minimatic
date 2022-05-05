@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Death Valley Gunfighter",
+    "year": 1949,
+    "cast": [
+      "Allan Lane",
+      "Gail Davis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/death-valley-gunfighter.html"
+}

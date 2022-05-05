@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Monsieur Beaucaire",
+    "year": 1946,
+    "cast": [
+      "Bob Hope",
+      "Joan Caulfield"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/monsieur-beaucaire.html"
+}

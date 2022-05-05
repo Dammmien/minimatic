@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Manhattan Merry-Go-Round",
+    "year": 1937,
+    "cast": [
+      "Ann Dvorak",
+      "Cab Calloway",
+      "Louis Prima"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/manhattan-merry-go-round.html"
+}

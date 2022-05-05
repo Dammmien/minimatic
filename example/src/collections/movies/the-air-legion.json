@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Air Legion",
+    "year": 1929,
+    "cast": [
+      "Antonio Moreno",
+      "Ben Lyon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-air-legion.html"
+}

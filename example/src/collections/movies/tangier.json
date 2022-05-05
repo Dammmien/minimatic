@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tangier",
+    "year": 1946,
+    "cast": [
+      "Maria Montez",
+      "Robert Paige",
+      "Sabu"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/tangier.html"
+}

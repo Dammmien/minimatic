@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shotgun Wedding",
+    "year": 2013,
+    "cast": [
+      "Mike Damus",
+      "Kim Shaw",
+      "Joel McKinnon Miller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/shotgun-wedding.html"
+}

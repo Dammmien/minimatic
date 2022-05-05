@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Show",
+    "year": 1961,
+    "cast": [
+      "Esther Williams",
+      "Cliff Robertson",
+      "Robert Vaughn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-big-show.html"
+}

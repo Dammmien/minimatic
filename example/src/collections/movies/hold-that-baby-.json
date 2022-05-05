@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hold That Baby!",
+    "year": 1949,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hold-that-baby-.html"
+}

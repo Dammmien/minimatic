@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Without Children",
+    "year": 1935,
+    "cast": [
+      "Marguerite Churchill",
+      "Bruce Cabot",
+      "Evelyn Brent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/without-children.html"
+}

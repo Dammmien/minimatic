@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Art Machine",
+    "year": 2012,
+    "cast": [
+      "Joseph Cross",
+      "Jessica Szohr",
+      "Joey Lauren Adams",
+      "Meredith Hagner",
+      "Lynn Cohen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/art-machine.html"
+}

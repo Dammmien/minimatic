@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Anna Christie",
+    "year": 1930,
+    "cast": [
+      "Greta Garbo",
+      "Marie Dressler",
+      "Charles Bickford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/anna-christie.html"
+}

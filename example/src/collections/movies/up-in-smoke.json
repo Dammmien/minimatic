@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Up in Smoke",
+    "year": 1978,
+    "cast": [
+      "Cheech Marin",
+      "Tommy Chong",
+      "Tom Skerritt",
+      "Stacy Keach"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/up-in-smoke.html"
+}

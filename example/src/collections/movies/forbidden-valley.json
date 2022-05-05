@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Forbidden Valley",
+    "year": 1938,
+    "cast": [
+      "Noah Beery Jr.",
+      "Robert Barrat",
+      "Samuel S. Hinds"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/forbidden-valley.html"
+}

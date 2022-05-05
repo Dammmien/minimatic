@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Goodbye Broadway",
+    "year": 1938,
+    "cast": [
+      "Alice Brady",
+      "Charles Winninger",
+      "Dorothea Kent"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/goodbye-broadway.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blast of Silence",
+    "year": 1961,
+    "cast": [
+      "Allen Baron",
+      "Larry Tucker"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/blast-of-silence.html"
+}

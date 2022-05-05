@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lady Takes a Sailor",
+    "year": 1949,
+    "cast": [
+      "Jane Wyman",
+      "Dennis Morgan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-lady-takes-a-sailor.html"
+}

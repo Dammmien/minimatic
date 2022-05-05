@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Lonelyhearts",
+    "year": 1958,
+    "cast": [
+      "Montgomery Clift",
+      "Myrna Loy",
+      "Maureen Stapleton",
+      "Robert Ryan",
+      "Dolores Hart"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/lonelyhearts.html"
+}

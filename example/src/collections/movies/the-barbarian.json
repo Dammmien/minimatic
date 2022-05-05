@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Barbarian",
+    "year": 1933,
+    "cast": [
+      "Myrna Loy",
+      "Ramon Novarro",
+      "Edward Arnold"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-barbarian.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Surf Party",
+    "year": 1964,
+    "cast": [
+      "Patricia Morrow",
+      "Bobby Vinton"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/surf-party.html"
+}

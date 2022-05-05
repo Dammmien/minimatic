@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Duck! Rabbit, Duck!",
+    "year": 1953,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/duck--rabbit--duck-.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lying Wives",
+    "year": 1925,
+    "cast": [
+      "Clara Kimball Young",
+      "Richard Bennett",
+      "Madge Kennedy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lying-wives.html"
+}

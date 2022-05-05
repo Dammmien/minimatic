@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Original Kings of Comedy",
+    "year": 2000,
+    "cast": [
+      "stand-up comedy",
+      "of",
+      "Steve Harvey",
+      "D. L. Hughley",
+      "Cedric the Entertainer",
+      "Bernie Mac"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-original-kings-of-comedy.html"
+}

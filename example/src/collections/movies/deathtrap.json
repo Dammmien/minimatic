@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Deathtrap",
+    "year": 1982,
+    "cast": [
+      "Michael Caine",
+      "Christopher Reeve",
+      "Dyan Cannon"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/deathtrap.html"
+}

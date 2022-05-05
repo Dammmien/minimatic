@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Marci X",
+    "year": 2003,
+    "cast": [
+      "Lisa Kudrow",
+      "Damon Wayans"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/marci-x.html"
+}

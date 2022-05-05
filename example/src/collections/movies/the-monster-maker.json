@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Monster Maker",
+    "year": 1944,
+    "cast": [
+      "J. Carrol Naish",
+      "Ralph Morgan",
+      "Tala Birell"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-monster-maker.html"
+}

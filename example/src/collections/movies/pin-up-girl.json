@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pin Up Girl",
+    "year": 1944,
+    "cast": [
+      "Betty Grable",
+      "Martha Raye"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/pin-up-girl.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Frontier Gal",
+    "year": 1945,
+    "cast": [
+      "Yvonne de Carlo",
+      "Rod Cameron"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/frontier-gal.html"
+}

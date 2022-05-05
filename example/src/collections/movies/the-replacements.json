@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Replacements",
+    "year": 2000,
+    "cast": [
+      "Keanu Reeves",
+      "Gene Hackman",
+      "Brooke Langton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-replacements.html"
+}

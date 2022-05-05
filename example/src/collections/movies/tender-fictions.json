@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Tender Fictions",
+    "year": 1996,
+    "cast": [
+      "Catherine Jauniaux"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tender-fictions.html"
+}

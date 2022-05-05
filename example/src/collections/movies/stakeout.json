@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Stakeout",
+    "year": 1987,
+    "cast": [
+      "Richard Dreyfuss",
+      "Emilio Estevez",
+      "Madeleine Stowe",
+      "Aidan Quinn"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/stakeout.html"
+}

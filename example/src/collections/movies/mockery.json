@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mockery",
+    "year": 1927,
+    "cast": [
+      "Lon Chaney",
+      "Barbara Bedford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mockery.html"
+}

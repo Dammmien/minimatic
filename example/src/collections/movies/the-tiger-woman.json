@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Tiger Woman",
+    "year": 1945,
+    "cast": [
+      "Adele Mara",
+      "Peggy Stewart"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-tiger-woman.html"
+}

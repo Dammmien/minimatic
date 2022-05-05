@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Do You Believe",
+    "year": 2015,
+    "cast": [
+      "Ted McGinley",
+      "Mira Sorvino",
+      "Lee Majors",
+      "Sean Astin",
+      "Brian Bosworth"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/do-you-believe.html"
+}

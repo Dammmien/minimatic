@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Greater Than Love",
+    "year": 1921,
+    "cast": [
+      "Louise Glaum",
+      "Margaret Gibson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/greater-than-love.html"
+}

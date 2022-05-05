@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trail Riders",
+    "year": 1942,
+    "cast": [
+      "John Dusty King",
+      "Max Terhune"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/trail-riders.html"
+}

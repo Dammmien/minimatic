@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great O'Malley",
+    "year": 1937,
+    "cast": [
+      "Pat O'Brien",
+      "Humphrey Bogart",
+      "Ann Sheridan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-great-o-malley.html"
+}

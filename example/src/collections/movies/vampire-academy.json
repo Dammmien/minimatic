@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Vampire Academy",
+    "year": 2014,
+    "cast": [
+      "Zoey Deutch",
+      "Lucy Fry",
+      "Danila Kozlovsky"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/vampire-academy.html"
+}

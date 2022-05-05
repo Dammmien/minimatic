@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Borrower",
+    "year": 1991,
+    "cast": [
+      "Rae Dawn Chong"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-borrower.html"
+}

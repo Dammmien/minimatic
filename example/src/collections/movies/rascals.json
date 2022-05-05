@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rascals",
+    "year": 1938,
+    "cast": [
+      "Jane Withers",
+      "Rochelle Hudson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rascals.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Date and Switch",
+    "year": 2014,
+    "cast": [
+      "Nicholas Braun",
+      "Gary Cole",
+      "Dakota Johnson",
+      "Hunter Cope"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/date-and-switch.html"
+}

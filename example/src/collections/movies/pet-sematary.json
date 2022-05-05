@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pet Sematary",
+    "year": 1989,
+    "cast": [
+      "Dale Midkiff",
+      "Fred Gwynne",
+      "Denise Crosby"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/pet-sematary.html"
+}

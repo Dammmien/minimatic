@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Carolina Moon",
+    "year": 1940,
+    "cast": [
+      "Gene Autry",
+      "Smiley Burnette",
+      "June Storey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/carolina-moon.html"
+}

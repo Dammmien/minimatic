@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dig!",
+    "year": 2004,
+    "cast": [
+      "The bands",
+      "The Dandy Warhols",
+      "and",
+      "The Brian Jonestown Massacre",
+      "."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/dig-.html"
+}

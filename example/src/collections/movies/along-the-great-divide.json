@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Along the Great Divide",
+    "year": 1951,
+    "cast": [
+      "Kirk Douglas",
+      "Virginia Mayo",
+      "Walter Brennan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/along-the-great-divide.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Doc Hollywood",
+    "year": 1991,
+    "cast": [
+      "Michael J. Fox",
+      "Julie Warner",
+      "Woody Harrelson",
+      "Bridget Fonda"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/doc-hollywood.html"
+}

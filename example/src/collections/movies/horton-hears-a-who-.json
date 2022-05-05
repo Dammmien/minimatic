@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Horton Hears a Who!",
+    "year": 2008,
+    "cast": [
+      "Jim Carrey",
+      "Steve Carell",
+      "Carol Burnett",
+      "Dan Fogler"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/horton-hears-a-who-.html"
+}

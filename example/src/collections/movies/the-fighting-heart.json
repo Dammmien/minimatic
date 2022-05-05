@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Heart",
+    "year": 1925,
+    "cast": [
+      "George O'Brien",
+      "Billie Dove"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fighting-heart.html"
+}

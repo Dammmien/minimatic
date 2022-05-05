@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Trade Winds",
+    "year": 1938,
+    "cast": [
+      "Joan Bennett",
+      "Fredric March",
+      "Ann Sothern"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/trade-winds.html"
+}

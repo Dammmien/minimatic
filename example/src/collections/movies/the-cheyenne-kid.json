@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cheyenne Kid",
+    "year": 1933,
+    "cast": [
+      "Tom Keene",
+      "Roscoe Ates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-cheyenne-kid.html"
+}

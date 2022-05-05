@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Housekeeping",
+    "year": 1987,
+    "cast": [
+      "Christine Lahti"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/housekeeping.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "On the Line",
+    "year": 2001,
+    "cast": [
+      "Lance Bass",
+      "Joey Fatone"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/on-the-line.html"
+}

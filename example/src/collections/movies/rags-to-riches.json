@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rags to Riches",
+    "year": 1922,
+    "cast": [
+      "Wesley Barry",
+      "Niles Welch"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rags-to-riches.html"
+}

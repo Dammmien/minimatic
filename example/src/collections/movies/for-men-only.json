@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "For Men Only",
+    "year": 1952,
+    "cast": [
+      "Paul Henreid",
+      "Margaret Field"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/for-men-only.html"
+}

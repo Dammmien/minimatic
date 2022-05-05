@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Body and Soul",
+    "year": 1981,
+    "cast": [
+      "Leon Isaac Kennedy",
+      "Jayne Kennedy",
+      "Michael V. Gazzo"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/body-and-soul.html"
+}

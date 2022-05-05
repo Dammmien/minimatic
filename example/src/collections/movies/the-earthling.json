@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Earthling",
+    "year": 1980,
+    "cast": [
+      "William Holden",
+      "Rick Schroder"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-earthling.html"
+}

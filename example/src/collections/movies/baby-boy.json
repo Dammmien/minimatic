@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Baby Boy",
+    "year": 2001,
+    "cast": [
+      "Tyrese Gibson",
+      "Snoop Dogg",
+      "Ving Rhames"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/baby-boy.html"
+}

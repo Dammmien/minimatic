@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dear God",
+    "year": 1996,
+    "cast": [
+      "Greg Kinnear",
+      "Laurie Metcalf",
+      "Tim Conway"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dear-god.html"
+}

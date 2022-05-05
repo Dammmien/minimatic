@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Girlfriends",
+    "year": 1978,
+    "cast": [
+      "Melanie Mayron",
+      "Eli Wallach",
+      "Bob Balaban",
+      "Viveca Lindfors",
+      "Christopher Guest"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/girlfriends.html"
+}

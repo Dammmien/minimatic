@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Atlantis: The Lost Empire",
+    "year": 2001,
+    "cast": [
+      "Michael J. Fox",
+      "Cree Summer",
+      "James Garner"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/atlantis--the-lost-empire.html"
+}

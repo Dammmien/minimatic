@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dangerous",
+    "year": 1935,
+    "cast": [
+      "Bette Davis",
+      "Franchot Tone",
+      "Alison Skipworth"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dangerous.html"
+}

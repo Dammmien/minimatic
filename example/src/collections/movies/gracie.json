@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gracie",
+    "year": 2007,
+    "cast": [
+      "Elisabeth Shue",
+      "Carly Schroeder",
+      "Dermot Mulroney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gracie.html"
+}

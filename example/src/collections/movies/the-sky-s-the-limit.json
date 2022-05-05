@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Sky's the Limit",
+    "year": 1943,
+    "cast": [
+      "Fred Astaire",
+      "Joan Leslie",
+      "Robert Benchley",
+      "Robert Ryan"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-sky-s-the-limit.html"
+}

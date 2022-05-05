@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Joyride",
+    "year": 1977,
+    "cast": [
+      "Desi Arnaz Jr.",
+      "Melanie Griffith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/joyride.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Die, Monster, Die!",
+    "year": 1965,
+    "cast": [
+      "Boris Karloff",
+      "Nick Adams",
+      "Suzan Farmer"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/die--monster--die-.html"
+}

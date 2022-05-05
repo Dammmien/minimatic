@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Missouri Traveler",
+    "year": 1958,
+    "cast": [
+      "Brandon deWilde",
+      "Lee Marvin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-missouri-traveler.html"
+}

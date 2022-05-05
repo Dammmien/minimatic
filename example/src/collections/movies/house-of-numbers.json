@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "House of Numbers",
+    "year": 1957,
+    "cast": [
+      "Jack Palance",
+      "Barbara Lang"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/house-of-numbers.html"
+}

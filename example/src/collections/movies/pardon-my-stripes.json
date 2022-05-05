@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pardon My Stripes",
+    "year": 1942,
+    "cast": [
+      "Sheila Ryan",
+      "William Henry"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pardon-my-stripes.html"
+}

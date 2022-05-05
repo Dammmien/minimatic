@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beyond Borders",
+    "year": 2003,
+    "cast": [
+      "Angelina Jolie",
+      "Clive Owen"
+    ],
+    "genres": [
+      "Romance",
+      "War"
+    ]
+  },
+  "output": "movies/beyond-borders.html"
+}

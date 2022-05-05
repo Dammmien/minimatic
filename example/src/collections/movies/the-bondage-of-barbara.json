@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bondage of Barbara",
+    "year": 1919,
+    "cast": [
+      "Mae Marsh",
+      "Matt Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bondage-of-barbara.html"
+}

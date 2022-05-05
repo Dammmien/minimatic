@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Strawberry Statement",
+    "year": 1970,
+    "cast": [
+      "Bruce Davison",
+      "Kim Darby",
+      "Bud Cort"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-strawberry-statement.html"
+}

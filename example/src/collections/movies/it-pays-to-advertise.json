@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It Pays to Advertise",
+    "year": 1931,
+    "cast": [
+      "Norman Foster",
+      "Carole Lombard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-pays-to-advertise.html"
+}

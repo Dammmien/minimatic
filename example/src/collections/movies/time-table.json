@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Time Table",
+    "year": 1956,
+    "cast": [
+      "Mark Stevens",
+      "Felicia Farr"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/time-table.html"
+}

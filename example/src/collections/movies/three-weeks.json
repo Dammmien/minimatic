@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Weeks",
+    "year": 1924,
+    "cast": [
+      "Conrad Nagel",
+      "Aileen Pringle"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/three-weeks.html"
+}

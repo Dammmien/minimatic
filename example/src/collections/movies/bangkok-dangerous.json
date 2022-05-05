@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Bangkok Dangerous",
+    "year": 2008,
+    "cast": [
+      "Nicolas Cage"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/bangkok-dangerous.html"
+}

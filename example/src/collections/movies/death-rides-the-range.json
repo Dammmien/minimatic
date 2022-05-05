@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Death Rides the Range",
+    "year": 1939,
+    "cast": [
+      "Fay McKenzie",
+      "Ken Maynard"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/death-rides-the-range.html"
+}

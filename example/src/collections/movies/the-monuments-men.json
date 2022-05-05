@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Monuments Men",
+    "year": 2014,
+    "cast": [
+      "George Clooney",
+      "Matt Damon",
+      "Bill Murray",
+      "John Goodman"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-monuments-men.html"
+}

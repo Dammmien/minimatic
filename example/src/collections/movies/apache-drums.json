@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Apache Drums",
+    "year": 1951,
+    "cast": [
+      "Stephen McNally",
+      "Coleen Gray"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/apache-drums.html"
+}

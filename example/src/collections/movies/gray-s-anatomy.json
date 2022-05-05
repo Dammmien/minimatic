@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Gray's Anatomy",
+    "year": 1996,
+    "cast": [
+      "Spalding Gray"
+    ],
+    "genres": []
+  },
+  "output": "movies/gray-s-anatomy.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Yes, My Darling Daughter",
+    "year": 1939,
+    "cast": [
+      "Priscilla Lane",
+      "Jeffrey Lynn",
+      "Roland Young",
+      "Fay Bainter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/yes--my-darling-daughter.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Three Wise Guys",
+    "year": 1936,
+    "cast": [
+      "Robert Young",
+      "Betty Furness",
+      "Bruce Cabot"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-three-wise-guys.html"
+}

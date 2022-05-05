@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Speed Demon",
+    "year": 1932,
+    "cast": [
+      "William Collier Jr.",
+      "Joan Marsh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/speed-demon.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dear Heart",
+    "year": 1964,
+    "cast": [
+      "Glenn Ford",
+      "Geraldine Page",
+      "Angela Lansbury"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dear-heart.html"
+}

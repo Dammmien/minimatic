@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mob Story",
+    "year": 1990,
+    "cast": [
+      "John Vernon",
+      "Kate Vernon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mob-story.html"
+}

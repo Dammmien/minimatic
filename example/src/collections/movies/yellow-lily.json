@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yellow Lily",
+    "year": 1928,
+    "cast": [
+      "Billie Dove",
+      "Clive Brook"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/yellow-lily.html"
+}

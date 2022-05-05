@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Black Hand",
+    "year": 1950,
+    "cast": [
+      "Gene Kelly",
+      "Teresa Celli"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/black-hand.html"
+}

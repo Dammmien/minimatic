@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The First Time",
+    "year": 2012,
+    "cast": [
+      "Dylan O'Brien",
+      "Britt Robertson",
+      "Craig Roberts",
+      "Joshua Malina",
+      "James Frecheville"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-first-time.html"
+}

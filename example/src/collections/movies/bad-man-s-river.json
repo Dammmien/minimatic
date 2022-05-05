@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bad Man's River",
+    "year": 1971,
+    "cast": [
+      "Lee Van Cleef",
+      "Gina Lollobrigida"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bad-man-s-river.html"
+}

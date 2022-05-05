@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hickey & Boggs",
+    "year": 1972,
+    "cast": [
+      "Bill Cosby",
+      "Robert Culp"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/hickey---boggs.html"
+}

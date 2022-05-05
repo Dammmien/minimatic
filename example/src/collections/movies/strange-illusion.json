@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Strange Illusion",
+    "year": 1945,
+    "cast": [
+      "Jimmy Lydon",
+      "Warren William",
+      "Sally Eilers"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/strange-illusion.html"
+}

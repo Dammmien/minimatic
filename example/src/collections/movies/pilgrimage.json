@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pilgrimage",
+    "year": 1933,
+    "cast": [
+      "Henrietta Crosman",
+      "Norman Foster"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pilgrimage.html"
+}

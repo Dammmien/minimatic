@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Short Time",
+    "year": 1990,
+    "cast": [
+      "Dabney Coleman",
+      "Teri Garr"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/short-time.html"
+}

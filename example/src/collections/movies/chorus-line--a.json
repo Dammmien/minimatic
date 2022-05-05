@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chorus Line, A",
+    "year": 1985,
+    "cast": [
+      "Michael Douglas",
+      "Audrey Landers",
+      "Janet Jones"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/chorus-line--a.html"
+}

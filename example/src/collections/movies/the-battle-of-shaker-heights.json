@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Battle of Shaker Heights",
+    "year": 2003,
+    "cast": [
+      "Shia La Beouf",
+      "Elden Henson",
+      "Amy Smart"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-battle-of-shaker-heights.html"
+}

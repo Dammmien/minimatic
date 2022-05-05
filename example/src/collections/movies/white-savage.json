@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "White Savage",
+    "year": 1943,
+    "cast": [
+      "Maria Montez",
+      "Jon Hall"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/white-savage.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Step Up",
+    "year": 2006,
+    "cast": [
+      "Channing Tatum",
+      "Jenna Dewan"
+    ],
+    "genres": [
+      "Dance"
+    ]
+  },
+  "output": "movies/step-up.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bonjour Tristesse",
+    "year": 1958,
+    "cast": [
+      "Deborah Kerr",
+      "David Niven",
+      "Jean Seberg"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bonjour-tristesse.html"
+}

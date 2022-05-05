@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hellgate",
+    "year": 1952,
+    "cast": [
+      "Sterling Hayden",
+      "Joan Leslie"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hellgate.html"
+}

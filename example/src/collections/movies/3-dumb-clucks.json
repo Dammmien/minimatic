@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "3 Dumb Clucks",
+    "year": 1937,
+    "cast": [
+      "Moe Howard",
+      "Larry Fine",
+      "Curly Howard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/3-dumb-clucks.html"
+}

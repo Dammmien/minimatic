@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady Be Careful",
+    "year": 1936,
+    "cast": [
+      "Lew Ayres",
+      "Mary Carlisle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lady-be-careful.html"
+}

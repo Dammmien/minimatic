@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "RV",
+    "year": 2006,
+    "cast": [
+      "Robin Williams",
+      "Jeff Daniels",
+      "Cheryl Hines",
+      "Kristin Chenoweth",
+      "JoJo",
+      "Josh Hutcherson"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/rv.html"
+}

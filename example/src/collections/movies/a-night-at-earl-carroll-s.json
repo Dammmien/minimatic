@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Night at Earl Carroll's",
+    "year": 1940,
+    "cast": [
+      "Ken Murray",
+      "J. Carrol Naish",
+      "Rose Hobart"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/a-night-at-earl-carroll-s.html"
+}

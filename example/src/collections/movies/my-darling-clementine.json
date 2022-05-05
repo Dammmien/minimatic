@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "My Darling Clementine",
+    "year": 1946,
+    "cast": [
+      "Henry Fonda",
+      "Victor Mature",
+      "Walter Brennan",
+      "Linda Darnell",
+      "Cathy Downs",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/my-darling-clementine.html"
+}

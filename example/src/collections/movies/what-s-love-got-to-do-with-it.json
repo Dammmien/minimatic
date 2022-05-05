@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "What's Love Got to Do with It",
+    "year": 1993,
+    "cast": [
+      "Angela Bassett",
+      "Laurence Fishburne"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/what-s-love-got-to-do-with-it.html"
+}

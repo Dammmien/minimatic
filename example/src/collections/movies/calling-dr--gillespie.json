@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Calling Dr. Gillespie",
+    "year": 1942,
+    "cast": [
+      "Lionel Barrymore",
+      "Donna Reed"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/calling-dr--gillespie.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Return of Monte Cristo",
+    "year": 1946,
+    "cast": [
+      "Louis Hayward",
+      "Barbara Britton"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-return-of-monte-cristo.html"
+}

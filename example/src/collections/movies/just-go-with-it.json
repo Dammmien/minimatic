@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Just Go with It",
+    "year": 2011,
+    "cast": [
+      "Adam Sandler",
+      "Jennifer Aniston",
+      "Brooklyn Decker",
+      "Nick Swardson",
+      "Nicole Kidman",
+      "Dave Matthews",
+      "Bailee Madison"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/just-go-with-it.html"
+}

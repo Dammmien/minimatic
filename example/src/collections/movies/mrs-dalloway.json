@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mrs Dalloway",
+    "year": 1997,
+    "cast": [
+      "Vanessa Redgrave",
+      "Natascha McElhone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mrs-dalloway.html"
+}

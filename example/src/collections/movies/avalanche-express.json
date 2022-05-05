@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Avalanche Express",
+    "year": 1979,
+    "cast": [
+      "Lee Marvin",
+      "Robert Shaw",
+      "Joe Namath"
+    ],
+    "genres": [
+      "Thriller",
+      "Action"
+    ]
+  },
+  "output": "movies/avalanche-express.html"
+}

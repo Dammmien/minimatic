@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Glastonbury",
+    "year": 2006,
+    "cast": [
+      "history of",
+      "Glastonbury Festival"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/glastonbury.html"
+}

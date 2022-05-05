@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Governor's Lady",
+    "year": 1923,
+    "cast": [
+      "Jane Grey",
+      "Anna Luther"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-governor-s-lady.html"
+}

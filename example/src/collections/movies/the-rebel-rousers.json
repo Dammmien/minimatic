@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Rebel Rousers",
+    "year": 1970,
+    "cast": [
+      "Cameron Mitchell",
+      "Jack Nicholson"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-rebel-rousers.html"
+}

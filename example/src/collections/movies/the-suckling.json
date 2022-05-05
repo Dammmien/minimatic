@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Suckling",
+    "year": 1989,
+    "cast": [
+      "Frank Reeves",
+      "Marie Michaels"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-suckling.html"
+}

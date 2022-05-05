@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bongwater",
+    "year": 1997,
+    "cast": [
+      "Luke Wilson",
+      "Jack Black",
+      "Alicia Witt"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bongwater.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trouble Chasers",
+    "year": 1945,
+    "cast": [
+      "Billy Gilbert",
+      "Gloria Marlen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/trouble-chasers.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Happy Tears",
+    "year": 2010,
+    "cast": [
+      "Parker Posey",
+      "Demi Moore",
+      "Rip Torn",
+      "Ellen Barkin"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/happy-tears.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dear Brigitte",
+    "year": 1965,
+    "cast": [
+      "James Stewart",
+      "Fabian",
+      "Ed Wynn",
+      "Bill Mumy",
+      "Brigitte Bardot"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dear-brigitte.html"
+}

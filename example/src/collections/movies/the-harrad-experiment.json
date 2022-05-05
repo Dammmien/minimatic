@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Harrad Experiment",
+    "year": 1973,
+    "cast": [
+      "James Whitmore",
+      "Tippi Hedren",
+      "Don Johnson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-harrad-experiment.html"
+}

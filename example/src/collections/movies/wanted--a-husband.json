@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wanted: A Husband",
+    "year": 1919,
+    "cast": [
+      "Billie Burke",
+      "Charles Willis Lane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wanted--a-husband.html"
+}

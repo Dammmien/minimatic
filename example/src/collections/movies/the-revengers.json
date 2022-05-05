@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Revengers",
+    "year": 1972,
+    "cast": [
+      "William Holden",
+      "Ernest Borgnine"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-revengers.html"
+}

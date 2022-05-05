@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Helen of Troy",
+    "year": 1956,
+    "cast": [
+      "Rossana Podestà",
+      "Jacques Sernas",
+      "Cedric Hardwicke",
+      "Janette Scott"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/helen-of-troy.html"
+}

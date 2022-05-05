@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beyond the Blue Horizon",
+    "year": 1942,
+    "cast": [
+      "Dorothy Lamour",
+      "Richard Denning",
+      "Patricia Morison"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/beyond-the-blue-horizon.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Hour Photo",
+    "year": 2002,
+    "cast": [
+      "Robin Williams",
+      "Connie Nielsen",
+      "Michael Vartan"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/one-hour-photo.html"
+}

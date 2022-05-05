@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Count of Luxembourg",
+    "year": 1926,
+    "cast": [
+      "George Walsh",
+      "Joan Meredith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-count-of-luxembourg.html"
+}

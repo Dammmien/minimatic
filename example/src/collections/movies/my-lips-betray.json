@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Lips Betray",
+    "year": 1933,
+    "cast": [
+      "Lilian Harvey",
+      "John Boles"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-lips-betray.html"
+}

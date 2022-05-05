@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "So This Is Love",
+    "year": 1953,
+    "cast": [
+      "Kathryn Grayson",
+      "Merv Griffin"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/so-this-is-love.html"
+}

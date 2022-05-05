@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flapper Wives",
+    "year": 1924,
+    "cast": [
+      "May Allison",
+      "Rockliffe Fellowes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flapper-wives.html"
+}

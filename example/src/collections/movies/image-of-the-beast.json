@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Image of the Beast",
+    "year": 1980,
+    "cast": [
+      "William Wellman, Jr."
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/image-of-the-beast.html"
+}

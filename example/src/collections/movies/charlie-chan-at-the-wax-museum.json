@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Charlie Chan at the Wax Museum",
+    "year": 1940,
+    "cast": [
+      "Sidney Toler",
+      "Victor Sen Yung",
+      "C. Henry Gordon",
+      "Marguerite Chapman"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/charlie-chan-at-the-wax-museum.html"
+}

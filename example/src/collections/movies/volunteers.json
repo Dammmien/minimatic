@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Volunteers",
+    "year": 1985,
+    "cast": [
+      "Tom Hanks",
+      "John Candy",
+      "Rita Wilson",
+      "Tim Thomerson",
+      "George Plimpton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/volunteers.html"
+}

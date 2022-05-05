@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rings on Her Fingers",
+    "year": 1942,
+    "cast": [
+      "Henry Fonda",
+      "Gene Tierney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rings-on-her-fingers.html"
+}

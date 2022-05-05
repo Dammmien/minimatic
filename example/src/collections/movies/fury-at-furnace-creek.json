@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fury at Furnace Creek",
+    "year": 1948,
+    "cast": [
+      "Victor Mature",
+      "Coleen Gray"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fury-at-furnace-creek.html"
+}

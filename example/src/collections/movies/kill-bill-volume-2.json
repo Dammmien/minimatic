@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Kill Bill Volume 2",
+    "year": 2004,
+    "cast": [
+      "Uma Thurman",
+      "David Carradine",
+      "Daryl Hannah",
+      "Michael Madsen",
+      "Michael Parks"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/kill-bill-volume-2.html"
+}

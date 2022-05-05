@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Girls' School",
+    "year": 1950,
+    "cast": [
+      "Joyce Reynolds",
+      "Ross Ford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/girls--school.html"
+}

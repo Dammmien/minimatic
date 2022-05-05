@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bad for Each Other",
+    "year": 1953,
+    "cast": [
+      "Charlton Heston",
+      "Lizabeth Scott"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/bad-for-each-other.html"
+}

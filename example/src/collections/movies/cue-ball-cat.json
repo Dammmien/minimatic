@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Cue Ball Cat",
+    "year": 1950,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/cue-ball-cat.html"
+}

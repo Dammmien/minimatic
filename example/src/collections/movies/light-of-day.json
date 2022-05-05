@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Light of Day",
+    "year": 1987,
+    "cast": [
+      "Michael J. Fox",
+      "Gena Rowlands",
+      "Joan Jett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/light-of-day.html"
+}

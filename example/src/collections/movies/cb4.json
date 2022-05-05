@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "CB4",
+    "year": 1993,
+    "cast": [
+      "Chris Rock",
+      "Phil Hartman",
+      "Chris Elliott"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cb4.html"
+}

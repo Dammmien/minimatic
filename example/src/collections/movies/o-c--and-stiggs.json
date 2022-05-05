@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "O.C. and Stiggs",
+    "year": 1987,
+    "cast": [
+      "Daniel H. Jenkins",
+      "Neill Barry",
+      "Paul Dooley",
+      "Jane Curtin",
+      "Jon Cryer",
+      "Cynthia Nixon",
+      "Martin Mull"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/o-c--and-stiggs.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Invitation",
+    "year": 1952,
+    "cast": [
+      "Van Johnson",
+      "Dorothy McGuire"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/invitation.html"
+}

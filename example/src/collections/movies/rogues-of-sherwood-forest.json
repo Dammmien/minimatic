@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rogues of Sherwood Forest",
+    "year": 1950,
+    "cast": [
+      "John Derek",
+      "Diana Lynn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rogues-of-sherwood-forest.html"
+}

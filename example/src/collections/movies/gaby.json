@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gaby",
+    "year": 1956,
+    "cast": [
+      "Leslie Caron",
+      "John Kerr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gaby.html"
+}

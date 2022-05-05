@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Career Girl",
+    "year": 1944,
+    "cast": [
+      "Frances Langford",
+      "Edward Norris",
+      "Iris Adrian"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/career-girl.html"
+}

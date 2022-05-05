@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell-Roarin' Reform",
+    "year": 1919,
+    "cast": [
+      "Tom Mix",
+      "Kathleen O'Connor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hell-roarin--reform.html"
+}

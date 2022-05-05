@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Terror Is a Man",
+    "year": 1959,
+    "cast": [
+      "Francis Lederer",
+      "Greta Thyssen"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/terror-is-a-man.html"
+}

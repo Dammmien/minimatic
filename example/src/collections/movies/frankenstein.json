@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Frankenstein",
+    "year": 1931,
+    "cast": [
+      "Boris Karloff",
+      "Frederick Kerr",
+      "Mae Clarke"
+    ],
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/frankenstein.html"
+}

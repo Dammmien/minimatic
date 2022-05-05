@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Something Borrowed",
+    "year": 2011,
+    "cast": [
+      "Kate Hudson",
+      "Ginnifer Goodwin",
+      "John Krasinski",
+      "Colin Egglesfield",
+      "Steve Howey"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/something-borrowed.html"
+}

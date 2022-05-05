@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Wing Commander",
+    "year": 1999,
+    "cast": [
+      "Freddie Prinze Jr.",
+      "Saffron Burrows",
+      "Matthew Lillard",
+      "Tchéky Karyo",
+      "Jürgen Prochnow",
+      "David Suchet"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/wing-commander.html"
+}

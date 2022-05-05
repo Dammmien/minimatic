@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wild West",
+    "year": 1946,
+    "cast": [
+      "Eddie Dean",
+      "Flash",
+      "Roscoe Ates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wild-west.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A New Life",
+    "year": 1988,
+    "cast": [
+      "Alan Alda",
+      "Ann-Margret",
+      "Hal Linden",
+      "Veronica Hamel"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-new-life.html"
+}

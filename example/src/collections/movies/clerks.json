@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Clerks",
+    "year": 1994,
+    "cast": [
+      "Brian O'Halloran",
+      "Jeff Anderson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/clerks.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Freddy's Dead: The Final Nightmare",
+    "year": 1991,
+    "cast": [
+      "Robert Englund",
+      "Lisa Zane"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/freddy-s-dead--the-final-nightmare.html"
+}

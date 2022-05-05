@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When Tomorrow Comes",
+    "year": 1939,
+    "cast": [
+      "Irene Dunne",
+      "Charles Boyer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/when-tomorrow-comes.html"
+}

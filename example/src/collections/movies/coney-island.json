@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Coney Island",
+    "year": 1943,
+    "cast": [
+      "Betty Grable",
+      "George Montgomery",
+      "Cesar Romero",
+      "Phil Silvers"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/coney-island.html"
+}

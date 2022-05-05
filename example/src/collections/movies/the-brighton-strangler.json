@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Brighton Strangler",
+    "year": 1945,
+    "cast": [
+      "John Loder",
+      "June Duprez"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-brighton-strangler.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Alice Upside Down",
+    "year": 2007,
+    "cast": [
+      "Alyson Stoner",
+      "Lucas Grabeel",
+      "Luke Perry",
+      "Penny Marshall",
+      "Ashley Drane",
+      "Parker McKenna Posey"
+    ],
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Family"
+    ]
+  },
+  "output": "movies/alice-upside-down.html"
+}

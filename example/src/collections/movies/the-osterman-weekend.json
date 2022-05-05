@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Osterman Weekend",
+    "year": 1983,
+    "cast": [
+      "Rutger Hauer",
+      "Craig T. Nelson",
+      "John Hurt",
+      "Burt Lancaster",
+      "Dennis Hopper",
+      "Chris Sarandon",
+      "Meg Foster"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-osterman-weekend.html"
+}

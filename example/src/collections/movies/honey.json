@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Honey",
+    "year": 2003,
+    "cast": [
+      "Jessica Alba",
+      "Mekhi Phifer",
+      "Lil' Romeo"
+    ],
+    "genres": [
+      "Musical",
+      "Romance"
+    ]
+  },
+  "output": "movies/honey.html"
+}

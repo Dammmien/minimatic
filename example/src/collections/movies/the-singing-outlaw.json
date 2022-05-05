@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Singing Outlaw",
+    "year": 1938,
+    "cast": [
+      "Bob Baker",
+      "Joan Barclay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-singing-outlaw.html"
+}

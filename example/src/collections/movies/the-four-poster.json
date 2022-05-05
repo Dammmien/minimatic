@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Four Poster",
+    "year": 1952,
+    "cast": [
+      "Rex Harrison",
+      "Lilli Palmer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-four-poster.html"
+}

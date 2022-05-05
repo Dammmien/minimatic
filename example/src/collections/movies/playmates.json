@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Playmates",
+    "year": 1941,
+    "cast": [
+      "Kay Kyser",
+      "Lupe Velez"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/playmates.html"
+}

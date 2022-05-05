@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tarnished Lady",
+    "year": 1931,
+    "cast": [
+      "Tallulah Bankhead",
+      "Clive Brook"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tarnished-lady.html"
+}

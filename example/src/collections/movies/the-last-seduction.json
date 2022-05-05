@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last Seduction",
+    "year": 1994,
+    "cast": [
+      "Linda Fiorentino",
+      "Bill Pullman",
+      "Peter Berg"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-last-seduction.html"
+}

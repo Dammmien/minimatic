@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wife in Name Only",
+    "year": 1923,
+    "cast": [
+      "Edmund Lowe",
+      "Mary Thurman",
+      "Edna May Oliver"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wife-in-name-only.html"
+}

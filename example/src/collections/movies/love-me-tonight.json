@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Me Tonight",
+    "year": 1932,
+    "cast": [
+      "Jeanette MacDonald",
+      "Maurice Chevalier",
+      "Charles Ruggles"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/love-me-tonight.html"
+}

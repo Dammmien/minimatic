@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Me and You and Everyone We Know",
+    "year": 2005,
+    "cast": [
+      "Miranda July",
+      "John Hawkes",
+      "Miles Thompson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/me-and-you-and-everyone-we-know.html"
+}

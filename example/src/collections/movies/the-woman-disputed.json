@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman Disputed",
+    "year": 1928,
+    "cast": [
+      "Norma Talmadge",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woman-disputed.html"
+}

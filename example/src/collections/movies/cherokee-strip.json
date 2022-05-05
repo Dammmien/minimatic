@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cherokee Strip",
+    "year": 1940,
+    "cast": [
+      "Richard Dix",
+      "Florence Rice",
+      "William Henry"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cherokee-strip.html"
+}

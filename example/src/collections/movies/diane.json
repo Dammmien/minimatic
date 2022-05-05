@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Diane",
+    "year": 1956,
+    "cast": [
+      "Lana Turner",
+      "Roger Moore",
+      "Pedro Armendáriz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/diane.html"
+}

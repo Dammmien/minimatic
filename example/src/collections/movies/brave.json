@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Brave",
+    "year": 2012,
+    "cast": [
+      "Kelly Macdonald",
+      "Julie Walters",
+      "Billy Connolly",
+      "Emma Thompson",
+      "Kevin McKidd",
+      "Craig Ferguson",
+      "Robbie Coltrane"
+    ],
+    "genres": [
+      "Adventure",
+      "Animated",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/brave.html"
+}

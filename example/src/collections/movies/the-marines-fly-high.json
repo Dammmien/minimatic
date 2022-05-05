@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Marines Fly High",
+    "year": 1940,
+    "cast": [
+      "Richard Dix",
+      "Chester Morris",
+      "Lucille Ball"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-marines-fly-high.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Final Countdown",
+    "year": 1980,
+    "cast": [
+      "Kirk Douglas",
+      "Katharine Ross",
+      "Martin Sheen"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-final-countdown.html"
+}

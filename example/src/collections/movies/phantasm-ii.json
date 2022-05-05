@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Phantasm II",
+    "year": 1988,
+    "cast": [
+      "James LeGros",
+      "Reggie Bannister",
+      "Angus Scrimm"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/phantasm-ii.html"
+}

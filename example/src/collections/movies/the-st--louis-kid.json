@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The St. Louis Kid",
+    "year": 1934,
+    "cast": [
+      "James Cagney",
+      "Allen Jenkins",
+      "Robert Barrat"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-st--louis-kid.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Big Fix",
+    "year": 1978,
+    "cast": [
+      "Richard Dreyfuss",
+      "Susan Anspach",
+      "Bonnie Bedelia",
+      "John Lithgow",
+      "F. Murray Abraham"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-big-fix.html"
+}

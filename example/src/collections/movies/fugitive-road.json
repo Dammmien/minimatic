@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fugitive Road",
+    "year": 1934,
+    "cast": [
+      "Erich von Stroheim",
+      "Wera Engels"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fugitive-road.html"
+}

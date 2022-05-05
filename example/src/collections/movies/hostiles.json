@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Hostiles",
+    "year": 2017,
+    "cast": [
+      "Christian Bale",
+      "Rosamund Pike",
+      "Wes Studi",
+      "Q'orianka Kilcher",
+      "Ben Foster",
+      "Adam Beach",
+      "Rory Cochrane",
+      "Jesse Plemons",
+      "Timothée Chalamet"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hostiles.html"
+}

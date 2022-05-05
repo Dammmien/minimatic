@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Hard Way",
+    "year": 1991,
+    "cast": [
+      "Michael J. Fox",
+      "James Woods",
+      "Stephen Lang",
+      "Annabella Sciorra",
+      "Delroy Lindo",
+      "Luis Guzman",
+      "Penny Marshall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-hard-way.html"
+}

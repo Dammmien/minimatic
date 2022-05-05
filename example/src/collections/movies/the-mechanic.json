@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mechanic",
+    "year": 2011,
+    "cast": [
+      "Jason Statham",
+      "Ben Foster",
+      "Donald Sutherland"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-mechanic.html"
+}

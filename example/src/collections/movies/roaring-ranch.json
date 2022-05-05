@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Roaring Ranch",
+    "year": 1930,
+    "cast": [
+      "Hoot Gibson",
+      "Sally Eilers"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/roaring-ranch.html"
+}

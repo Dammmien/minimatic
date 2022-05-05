@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man Against Woman",
+    "year": 1932,
+    "cast": [
+      "Jack Holt",
+      "Lillian Miles"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/man-against-woman.html"
+}

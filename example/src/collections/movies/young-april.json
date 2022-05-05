@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Young April",
+    "year": 1926,
+    "cast": [
+      "Joseph Schildkraut",
+      "Rudolph Schildkraut",
+      "Bessie Love"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/young-april.html"
+}

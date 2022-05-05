@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Siege",
+    "year": 1998,
+    "cast": [
+      "Denzel Washington",
+      "Annette Bening",
+      "Tony Shalhoub",
+      "Bruce Willis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-siege.html"
+}

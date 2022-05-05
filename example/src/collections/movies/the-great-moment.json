@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Moment",
+    "year": 1944,
+    "cast": [
+      "Joel McCrea",
+      "Betty Field"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-great-moment.html"
+}

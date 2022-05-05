@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "An Ideal Husband",
+    "year": 1999,
+    "cast": [
+      "Rupert Everett",
+      "Cate Blanchett",
+      "Minnie Driver",
+      "Julianne Moore",
+      "Jeremy Northam"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/an-ideal-husband.html"
+}

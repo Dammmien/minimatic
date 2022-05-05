@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Knickerbocker Holiday",
+    "year": 1944,
+    "cast": [
+      "Constance Dowling",
+      "Nelson Eddy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/knickerbocker-holiday.html"
+}

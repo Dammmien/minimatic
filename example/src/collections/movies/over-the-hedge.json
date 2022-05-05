@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Over the Hedge",
+    "year": 2006,
+    "cast": [
+      "Bruce Willis",
+      "Garry Shandling",
+      "Steve Carell",
+      "Wanda Sykes",
+      "Nick Nolte"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/over-the-hedge.html"
+}

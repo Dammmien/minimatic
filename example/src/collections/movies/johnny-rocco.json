@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Johnny Rocco",
+    "year": 1958,
+    "cast": [
+      "Coleen Gray",
+      "Richard Eyer"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/johnny-rocco.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Main Attraction",
+    "year": 1962,
+    "cast": [
+      "Pat Boone",
+      "Nancy Kwan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-main-attraction.html"
+}

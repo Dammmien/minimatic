@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Little Nikita",
+    "year": 1988,
+    "cast": [
+      "Sidney Poitier",
+      "River Phoenix"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-nikita.html"
+}

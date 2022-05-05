@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Extreme Measures",
+    "year": 1996,
+    "cast": [
+      "Hugh Grant",
+      "Gene Hackman",
+      "Sarah Jessica Parker"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/extreme-measures.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hot Millions",
+    "year": 1968,
+    "cast": [
+      "Peter Ustinov",
+      "Maggie Smith",
+      "Bob Newhart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hot-millions.html"
+}

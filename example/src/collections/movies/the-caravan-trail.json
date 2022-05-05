@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Caravan Trail",
+    "year": 1946,
+    "cast": [
+      "Eddie Dean",
+      "Lash La Rue"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-caravan-trail.html"
+}

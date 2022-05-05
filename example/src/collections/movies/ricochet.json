@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ricochet",
+    "year": 1991,
+    "cast": [
+      "Denzel Washington",
+      "John Lithgow",
+      "Lindsay Wagner"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/ricochet.html"
+}

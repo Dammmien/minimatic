@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Silk Express",
+    "year": 1933,
+    "cast": [
+      "Neil Hamilton",
+      "Sheila Terry"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-silk-express.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Plaza Suite",
+    "year": 1971,
+    "cast": [
+      "Walter Matthau",
+      "Lee Grant",
+      "Maureen Stapleton",
+      "Barbara Harris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/plaza-suite.html"
+}

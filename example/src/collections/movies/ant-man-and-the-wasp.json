@@ -1,0 +1,30 @@
+{
+  "data": {
+    "title": "Ant-Man and the Wasp",
+    "year": 2018,
+    "cast": [
+      "Paul Rudd",
+      "Evangeline Lilly",
+      "Michael Peña",
+      "Michael Douglas",
+      "Michelle Pfeiffer",
+      "Walton Goggins",
+      "Hannah John-Kamen",
+      "Bobby Cannavale",
+      "Judy Greer",
+      "Tip \"T.I.\" Harris",
+      "David Dastmalchian",
+      "Abby Ryder Fortson",
+      "Randall Park",
+      "Laurence Fishburne"
+    ],
+    "genres": [
+      "Superhero",
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/ant-man-and-the-wasp.html"
+}

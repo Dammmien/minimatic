@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hit Parade of 1943",
+    "year": 1943,
+    "cast": [
+      "Susan Hayward",
+      "Gail Patrick",
+      "Eve Arden"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hit-parade-of-1943.html"
+}

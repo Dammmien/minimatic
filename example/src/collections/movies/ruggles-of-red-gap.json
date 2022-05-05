@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ruggles of Red Gap",
+    "year": 1935,
+    "cast": [
+      "Charles Laughton",
+      "Roland Young",
+      "ZaSu Pitts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ruggles-of-red-gap.html"
+}

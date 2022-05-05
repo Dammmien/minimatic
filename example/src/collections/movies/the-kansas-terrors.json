@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Kansas Terrors",
+    "year": 1939,
+    "cast": [
+      "Robert Livingston",
+      "Duncan Renaldo"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-kansas-terrors.html"
+}

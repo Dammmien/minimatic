@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Betty Co-Ed",
+    "year": 1946,
+    "cast": [
+      "Jean Porter",
+      "Shirley Mills"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/betty-co-ed.html"
+}

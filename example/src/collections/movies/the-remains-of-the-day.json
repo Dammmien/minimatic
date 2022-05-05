@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Remains of the Day",
+    "year": 1993,
+    "cast": [
+      "Anthony Hopkins",
+      "Emma Thompson",
+      "James Fox",
+      "Christopher Reeve",
+      "Peter Vaughan",
+      "Ben Chaplin",
+      "Hugh Grant"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-remains-of-the-day.html"
+}

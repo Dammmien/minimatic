@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hostage",
+    "year": 2005,
+    "cast": [
+      "Bruce Willis",
+      "Kevin Pollak"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/hostage.html"
+}

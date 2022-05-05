@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "American Wedding",
+    "year": 2003,
+    "cast": [
+      "Jason Biggs",
+      "Seann William Scott",
+      "Alyson Hannigan",
+      "Eugene Levy",
+      "Fred Willard",
+      "January Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/american-wedding.html"
+}

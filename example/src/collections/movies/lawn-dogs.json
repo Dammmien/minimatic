@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lawn Dogs",
+    "year": 1997,
+    "cast": [
+      "Sam Rockwell",
+      "Mischa Barton",
+      "Kathleen Quinlan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lawn-dogs.html"
+}

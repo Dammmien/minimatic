@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Girl with the Dragon Tattoo",
+    "year": 2011,
+    "cast": [
+      "Daniel Craig",
+      "Rooney Mara",
+      "Christopher Plummer",
+      "Stellan Skarsgård",
+      "Steven Berkoff",
+      "Robin Wright",
+      "Yorick van Wageningen",
+      "Joely Richardson"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-girl-with-the-dragon-tattoo.html"
+}

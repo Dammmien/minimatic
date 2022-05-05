@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Eight on the Lam",
+    "year": 1967,
+    "cast": [
+      "Bob Hope",
+      "Phyllis Diller",
+      "Jonathan Winters",
+      "Shirley Eaton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/eight-on-the-lam.html"
+}

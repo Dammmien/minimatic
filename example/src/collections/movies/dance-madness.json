@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dance Madness",
+    "year": 1926,
+    "cast": [
+      "Conrad Nagel",
+      "Claire Windsor",
+      "Hedda Hopper"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dance-madness.html"
+}

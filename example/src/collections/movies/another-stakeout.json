@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Another Stakeout",
+    "year": 1993,
+    "cast": [
+      "Richard Dreyfuss",
+      "Emilio Estevez",
+      "Rosie O'Donnell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/another-stakeout.html"
+}

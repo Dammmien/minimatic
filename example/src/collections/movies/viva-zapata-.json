@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Viva Zapata!",
+    "year": 1952,
+    "cast": [
+      "Marlon Brando",
+      "Jean Peters",
+      "Anthony Quinn"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/viva-zapata-.html"
+}

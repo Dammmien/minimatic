@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Bankroll",
+    "year": 1961,
+    "cast": [
+      "David Janssen",
+      "Dianne Foster",
+      "Diana Dors"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-big-bankroll.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sweet Bird of Youth",
+    "year": 1989,
+    "cast": [
+      "Elizabeth Taylor",
+      "Mark Harmon",
+      "Valerie Perrine",
+      "Rip Torn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sweet-bird-of-youth.html"
+}

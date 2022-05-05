@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Last Frontier",
+    "year": 1955,
+    "cast": [
+      "Victor Mature",
+      "Guy Madison",
+      "Robert Preston",
+      "Anne Bancroft"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-last-frontier.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Oculus",
+    "year": 2014,
+    "cast": [
+      "Karen Gillan",
+      "Brenton Thwaites",
+      "Rory Cochrane"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/oculus.html"
+}

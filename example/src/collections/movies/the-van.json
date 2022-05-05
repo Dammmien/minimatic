@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Van",
+    "year": 1977,
+    "cast": [
+      "Danny DeVito",
+      "Deborah White"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-van.html"
+}

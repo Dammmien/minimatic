@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Warning Shot",
+    "year": 1967,
+    "cast": [
+      "David Janssen",
+      "Joan Collins",
+      "Stefanie Powers",
+      "Eleanor Parker",
+      "George Grizzard",
+      "Steve Allen",
+      "Lillian Gish"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/warning-shot.html"
+}

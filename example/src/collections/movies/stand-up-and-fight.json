@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stand Up and Fight",
+    "year": 1939,
+    "cast": [
+      "Wallace Beery",
+      "Robert Taylor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stand-up-and-fight.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Pump Up the Volume",
+    "year": 1990,
+    "cast": [
+      "Christian Slater",
+      "Samantha Mathis",
+      "Mimi Kennedy",
+      "Scott Paulin"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/pump-up-the-volume.html"
+}

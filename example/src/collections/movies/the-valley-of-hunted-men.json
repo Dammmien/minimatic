@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Valley of Hunted Men",
+    "year": 1928,
+    "cast": [
+      "Jay Wilsey",
+      "Oscar Apfel"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-valley-of-hunted-men.html"
+}

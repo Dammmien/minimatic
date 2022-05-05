@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Nazi Agent",
+    "year": 1942,
+    "cast": [
+      "Conrad Veidt",
+      "Ann Ayars",
+      "Frank Reicher"
+    ],
+    "genres": [
+      "Spy",
+      "Thriller"
+    ]
+  },
+  "output": "movies/nazi-agent.html"
+}

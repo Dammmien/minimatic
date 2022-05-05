@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Judith",
+    "year": 1966,
+    "cast": [
+      "Sophia Loren",
+      "Peter Finch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/judith.html"
+}

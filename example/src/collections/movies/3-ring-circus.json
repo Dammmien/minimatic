@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "3 Ring Circus",
+    "year": 1954,
+    "cast": [
+      "Dean Martin",
+      "Jerry Lewis",
+      "Zsa Zsa Gabor",
+      "Joanne Dru"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/3-ring-circus.html"
+}

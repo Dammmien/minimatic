@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mogambo",
+    "year": 1953,
+    "cast": [
+      "Clark Gable",
+      "Ava Gardner",
+      "Grace Kelly"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/mogambo.html"
+}

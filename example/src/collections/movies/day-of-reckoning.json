@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Day of Reckoning",
+    "year": 1933,
+    "cast": [
+      "Richard Dix",
+      "Una Merkel",
+      "Stuart Erwin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/day-of-reckoning.html"
+}

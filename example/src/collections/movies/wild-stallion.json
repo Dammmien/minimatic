@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wild Stallion",
+    "year": 1952,
+    "cast": [
+      "Ben Johnson",
+      "Edgar Buchanan",
+      "Martha Hyer"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wild-stallion.html"
+}

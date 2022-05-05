@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kansas City",
+    "year": 1996,
+    "cast": [
+      "Jennifer Jason Leigh",
+      "Harry Belafonte",
+      "Miranda Richardson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kansas-city.html"
+}

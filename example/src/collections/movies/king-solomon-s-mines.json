@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "King Solomon's Mines",
+    "year": 1985,
+    "cast": [
+      "Richard Chamberlain",
+      "Sharon Stone",
+      "Herbert Lom"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/king-solomon-s-mines.html"
+}

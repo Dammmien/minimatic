@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Warrior and the Sorceress",
+    "year": 1984,
+    "cast": [
+      "David Carradine",
+      "Maria Socas"
+    ],
+    "genres": [
+      "Action",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-warrior-and-the-sorceress.html"
+}

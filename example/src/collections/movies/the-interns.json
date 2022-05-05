@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Interns",
+    "year": 1962,
+    "cast": [
+      "Cliff Robertson",
+      "Stefanie Powers",
+      "Telly Savalas",
+      "Michael Callan",
+      "James MacArthur",
+      "Suzy Parker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-interns.html"
+}

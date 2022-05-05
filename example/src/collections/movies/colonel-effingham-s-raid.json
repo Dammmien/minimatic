@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Colonel Effingham's Raid",
+    "year": 1946,
+    "cast": [
+      "Charles Coburn",
+      "Joan Bennett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/colonel-effingham-s-raid.html"
+}

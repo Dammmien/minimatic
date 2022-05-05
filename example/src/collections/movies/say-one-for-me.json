@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Say One for Me",
+    "year": 1959,
+    "cast": [
+      "Bing Crosby",
+      "Debbie Reynolds",
+      "Robert Wagner",
+      "Ray Walston"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/say-one-for-me.html"
+}

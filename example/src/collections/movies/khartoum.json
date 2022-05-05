@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Khartoum",
+    "year": 1966,
+    "cast": [
+      "Charlton Heston",
+      "Laurence Olivier"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/khartoum.html"
+}

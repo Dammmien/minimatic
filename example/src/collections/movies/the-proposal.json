@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Proposal",
+    "year": 2009,
+    "cast": [
+      "Sandra Bullock",
+      "Ryan Reynolds",
+      "Mary Steenburgen",
+      "Craig T. Nelson",
+      "Betty White"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-proposal.html"
+}

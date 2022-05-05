@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rx Murder",
+    "year": 1958,
+    "cast": [
+      "Rick Jason",
+      "Lisa Gastoni",
+      "Marius Goring"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/rx-murder.html"
+}

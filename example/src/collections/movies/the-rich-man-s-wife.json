@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Rich Man's Wife",
+    "year": 1996,
+    "cast": [
+      "Halle Berry",
+      "Clive Owen",
+      "Peter Greene"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-rich-man-s-wife.html"
+}

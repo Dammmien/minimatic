@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Behind the Rising Sun",
+    "year": 1943,
+    "cast": [
+      "Margo Albert",
+      "Tom Neal"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/behind-the-rising-sun.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pilot",
+    "year": 1980,
+    "cast": [
+      "Cliff Robertson",
+      "Diane Baker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-pilot.html"
+}

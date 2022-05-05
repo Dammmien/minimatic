@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Prisoners of the Storm",
+    "year": 1926,
+    "cast": [
+      "House Peters",
+      "Peggy Montgomery",
+      "Walter McGrail"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/prisoners-of-the-storm.html"
+}

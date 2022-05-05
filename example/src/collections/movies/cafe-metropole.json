@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cafe Metropole",
+    "year": 1937,
+    "cast": [
+      "Loretta Young",
+      "Tyrone Power",
+      "Adolphe Menjou"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cafe-metropole.html"
+}

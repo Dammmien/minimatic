@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Comanche Territory",
+    "year": 1950,
+    "cast": [
+      "Maureen O'Hara",
+      "Macdonald Carey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/comanche-territory.html"
+}

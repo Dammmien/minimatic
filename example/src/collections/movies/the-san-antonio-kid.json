@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The San Antonio Kid",
+    "year": 1944,
+    "cast": [
+      "Wild Bill Elliott",
+      "Linda Stirling"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-san-antonio-kid.html"
+}

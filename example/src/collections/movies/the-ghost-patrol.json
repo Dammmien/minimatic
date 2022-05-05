@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ghost Patrol",
+    "year": 1923,
+    "cast": [
+      "Ralph Graves",
+      "Bessie Love"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-ghost-patrol.html"
+}

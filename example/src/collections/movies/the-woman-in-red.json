@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Woman in Red",
+    "year": 1984,
+    "cast": [
+      "Gene Wilder",
+      "Gilda Radner",
+      "Joseph Bologna",
+      "Charles Grodin",
+      "Kelly Le Brock"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-woman-in-red.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Swimfan",
+    "year": 2002,
+    "cast": [
+      "Jesse Bradford",
+      "Erika Christensen",
+      "Shiri Appleby"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/swimfan.html"
+}

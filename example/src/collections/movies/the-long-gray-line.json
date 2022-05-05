@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Long Gray Line",
+    "year": 1955,
+    "cast": [
+      "Tyrone Power",
+      "Maureen O'Hara"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-long-gray-line.html"
+}

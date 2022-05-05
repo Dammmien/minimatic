@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scat Cats",
+    "year": 1957,
+    "cast": [
+      "Spike and Tyke"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/scat-cats.html"
+}

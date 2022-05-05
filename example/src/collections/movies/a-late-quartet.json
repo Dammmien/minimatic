@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "A Late Quartet",
+    "year": 2012,
+    "cast": [
+      "Philip Seymour Hoffman",
+      "Mark Ivanir",
+      "Catherine Keener",
+      "Christopher Walken",
+      "Imogen Poots",
+      "Liraz Charhi",
+      "Wallace Shawn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-late-quartet.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Oliver Twist",
+    "year": 1997,
+    "cast": [
+      "Richard Dreyfuss",
+      "Elijah Wood"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/oliver-twist.html"
+}

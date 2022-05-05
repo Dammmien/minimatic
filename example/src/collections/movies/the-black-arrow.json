@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Black Arrow",
+    "year": 1948,
+    "cast": [
+      "Louis Hayward",
+      "Janet Blair",
+      "George Macready"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-black-arrow.html"
+}

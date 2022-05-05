@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Out West with the Hardys",
+    "year": 1938,
+    "cast": [
+      "Mickey Rooney",
+      "Lewis Stone",
+      "Fay Holden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/out-west-with-the-hardys.html"
+}

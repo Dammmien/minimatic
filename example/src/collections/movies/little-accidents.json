@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Little Accidents",
+    "year": 2015,
+    "cast": [
+      "Elizabeth Banks",
+      "Boyd Holbrook",
+      "Chloë Sevigny",
+      "Josh Lucas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-accidents.html"
+}

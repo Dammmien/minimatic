@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Spider-Man 3",
+    "year": 2007,
+    "cast": [
+      "Tobey Maguire",
+      "Kirsten Dunst",
+      "James Franco",
+      "Thomas Haden Church",
+      "Topher Grace"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/spider-man-3.html"
+}

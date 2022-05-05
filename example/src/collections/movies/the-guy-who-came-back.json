@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Guy Who Came Back",
+    "year": 1951,
+    "cast": [
+      "Paul Douglas",
+      "Joan Bennett",
+      "Linda Darnell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-guy-who-came-back.html"
+}

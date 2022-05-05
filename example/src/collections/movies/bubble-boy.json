@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Bubble Boy",
+    "year": 2001,
+    "cast": [
+      "Jake Gyllenhaal"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bubble-boy.html"
+}

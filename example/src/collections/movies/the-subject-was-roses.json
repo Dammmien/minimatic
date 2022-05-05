@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Subject Was Roses",
+    "year": 1968,
+    "cast": [
+      "Patricia Neal",
+      "Jack Albertson",
+      "Martin Sheen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-subject-was-roses.html"
+}

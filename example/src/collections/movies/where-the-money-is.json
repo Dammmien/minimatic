@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Where the Money Is",
+    "year": 2000,
+    "cast": [
+      "Paul Newman",
+      "Linda Fiorentino",
+      "Dermot Mulroney",
+      "Susan Barnes"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/where-the-money-is.html"
+}

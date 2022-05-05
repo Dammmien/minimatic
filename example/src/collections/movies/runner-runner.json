@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Runner Runner",
+    "year": 2013,
+    "cast": [
+      "Justin Timberlake",
+      "Gemma Arterton",
+      "Anthony Mackie",
+      "Ben Affleck",
+      "David Costabile",
+      "Sam Palladio",
+      "Oliver Cooper"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/runner-runner.html"
+}

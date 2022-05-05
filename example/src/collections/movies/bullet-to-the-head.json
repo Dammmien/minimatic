@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Bullet to the Head",
+    "year": 2013,
+    "cast": [
+      "Sylvester Stallone",
+      "Sung Kang",
+      "Sarah Shahi",
+      "Adewale Akinnuoye-Agbaje",
+      "Christian Slater",
+      "Jason Momoa"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/bullet-to-the-head.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Princess and the Frog",
+    "year": 2009,
+    "cast": [
+      "Anika Noni Rose",
+      "Oprah Winfrey",
+      "Bruno Campos",
+      "Keith David",
+      "Michael-Leon Wooley",
+      "Jennifer Cody",
+      "Jim Cummings",
+      "John Goodman"
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/the-princess-and-the-frog.html"
+}

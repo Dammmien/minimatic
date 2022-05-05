@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Mouse Detective",
+    "year": 1986,
+    "cast": [
+      "Barrie Ingham",
+      "Val Bettin",
+      "Vincent Price"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-great-mouse-detective.html"
+}

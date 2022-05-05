@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sudden Money",
+    "year": 1939,
+    "cast": [
+      "Charles Ruggles",
+      "Marjorie Rambeau"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sudden-money.html"
+}

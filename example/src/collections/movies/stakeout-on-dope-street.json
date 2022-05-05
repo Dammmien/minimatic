@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Stakeout on Dope Street",
+    "year": 1958,
+    "cast": [
+      "Abby Dalton"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/stakeout-on-dope-street.html"
+}

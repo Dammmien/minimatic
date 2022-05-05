@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lucky Lady",
+    "year": 1926,
+    "cast": [
+      "Greta Nissen",
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-lucky-lady.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Dain Curse",
+    "year": 1978,
+    "cast": [
+      "James Coburn",
+      "Héctor Elizondo",
+      "Jean Simmons"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-dain-curse.html"
+}

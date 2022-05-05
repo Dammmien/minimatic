@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Avenging Angel",
+    "year": 1985,
+    "cast": [
+      "Betsy Russell",
+      "Ossie Davis",
+      "Rory Calhoun"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/avenging-angel.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The King's Pirate",
+    "year": 1967,
+    "cast": [
+      "Doug McClure",
+      "Jill St. John",
+      "Mary Ann Mobley"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-king-s-pirate.html"
+}

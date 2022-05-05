@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Kissing Bandit",
+    "year": 1948,
+    "cast": [
+      "Frank Sinatra",
+      "Kathryn Grayson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-kissing-bandit.html"
+}

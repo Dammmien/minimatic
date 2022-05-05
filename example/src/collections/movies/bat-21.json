@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bat*21",
+    "year": 1988,
+    "cast": [
+      "Gene Hackman",
+      "Danny Glover",
+      "Jerry Reed"
+    ],
+    "genres": [
+      "War",
+      "Biography"
+    ]
+  },
+  "output": "movies/bat-21.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thirteen Women",
+    "year": 1932,
+    "cast": [
+      "Myrna Loy",
+      "Irene Dunne",
+      "Ricardo Cortez"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/thirteen-women.html"
+}

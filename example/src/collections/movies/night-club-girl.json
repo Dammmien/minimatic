@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night Club Girl",
+    "year": 1945,
+    "cast": [
+      "Vivian Austin",
+      "Judy Clark"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/night-club-girl.html"
+}

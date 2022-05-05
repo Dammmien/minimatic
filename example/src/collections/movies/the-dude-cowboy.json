@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dude Cowboy",
+    "year": 1926,
+    "cast": [
+      "Bob Custer",
+      "Howard Truesdale"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-dude-cowboy.html"
+}

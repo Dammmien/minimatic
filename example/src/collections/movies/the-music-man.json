@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Music Man",
+    "year": 1962,
+    "cast": [
+      "Robert Preston",
+      "Shirley Jones",
+      "Buddy Hackett",
+      "Ron Howard",
+      "Hermione Gingold",
+      "Paul Ford",
+      "Susan Luckey",
+      "Pert Kelton"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-music-man.html"
+}

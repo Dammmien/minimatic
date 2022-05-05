@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mr. Deeds",
+    "year": 2002,
+    "cast": [
+      "Adam Sandler",
+      "Winona Ryder",
+      "John Turturro",
+      "Peter Gallagher"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--deeds.html"
+}

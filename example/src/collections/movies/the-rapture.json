@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Rapture",
+    "year": 1991,
+    "cast": [
+      "Mimi Rogers",
+      "David Duchovny",
+      "Will Patton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-rapture.html"
+}

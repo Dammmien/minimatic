@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Men of the Fighting Lady",
+    "year": 1954,
+    "cast": [
+      "Van Johnson",
+      "Walter Pidgeon",
+      "Frank Lovejoy"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/men-of-the-fighting-lady.html"
+}

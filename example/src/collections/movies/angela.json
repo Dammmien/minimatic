@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Angela",
+    "year": 1995,
+    "cast": [
+      "Miranda Stuart Rhyne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/angela.html"
+}

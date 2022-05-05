@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Honor Among Lovers",
+    "year": 1931,
+    "cast": [
+      "Claudette Colbert",
+      "Fredric March",
+      "Ginger Rogers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/honor-among-lovers.html"
+}

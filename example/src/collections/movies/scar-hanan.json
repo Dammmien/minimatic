@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scar Hanan",
+    "year": 1925,
+    "cast": [
+      "Yakima Canutt",
+      "Dorothy Wood"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/scar-hanan.html"
+}

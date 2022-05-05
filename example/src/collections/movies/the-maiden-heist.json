@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Maiden Heist",
+    "year": 2009,
+    "cast": [
+      "Christopher Walken",
+      "Morgan Freeman",
+      "William H. Macy"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-maiden-heist.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mutineers",
+    "year": 1949,
+    "cast": [
+      "Jon Hall",
+      "George Reeves"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-mutineers.html"
+}

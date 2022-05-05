@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bayou",
+    "year": 1957,
+    "cast": [
+      "Peter Graves",
+      "Lita Milan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bayou.html"
+}

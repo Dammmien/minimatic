@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Keep the Lights On",
+    "year": 2012,
+    "cast": [
+      "Thure Lindhardt",
+      "Zachary Booth",
+      "David Anzuelo",
+      "Maria Dizzia",
+      "Julianne Nicholson",
+      "Souléymane Sy Savané",
+      "Paprika Steen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/keep-the-lights-on.html"
+}

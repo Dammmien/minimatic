@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tarzan of the Apes",
+    "year": 1918,
+    "cast": [
+      "Elmo Lincoln",
+      "and",
+      "Enid Markey"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-of-the-apes.html"
+}

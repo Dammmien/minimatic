@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hard to Kill",
+    "year": 1990,
+    "cast": [
+      "Steven Seagal",
+      "Kelly Le Brock"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/hard-to-kill.html"
+}

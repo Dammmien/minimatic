@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Texas Panhandle",
+    "year": 1945,
+    "cast": [
+      "Charles Starrett",
+      "Carolina Cotton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/texas-panhandle.html"
+}

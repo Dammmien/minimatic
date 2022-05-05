@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hook",
+    "year": 1963,
+    "cast": [
+      "Kirk Douglas",
+      "Nick Adams"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-hook.html"
+}

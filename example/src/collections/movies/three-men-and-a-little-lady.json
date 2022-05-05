@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Three Men and a Little Lady",
+    "year": 1990,
+    "cast": [
+      "Tom Selleck",
+      "Ted Danson",
+      "Steve Guttenberg",
+      "Nancy Travis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-men-and-a-little-lady.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Executive Decision",
+    "year": 1996,
+    "cast": [
+      "Kurt Russell",
+      "Halle Berry",
+      "John Leguizamo",
+      "Oliver Platt",
+      "Joe Morton",
+      "David Suchet",
+      "Steven Seagal"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/executive-decision.html"
+}

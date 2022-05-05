@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Give My Love",
+    "year": 1934,
+    "cast": [
+      "Paul Lukas",
+      "Wynne Gibson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-give-my-love.html"
+}

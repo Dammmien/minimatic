@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Who Killed Mary What's 'Er Name?",
+    "year": 1971,
+    "cast": [
+      "Red Buttons",
+      "Sam Waterston"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/who-killed-mary-what-s--er-name-.html"
+}

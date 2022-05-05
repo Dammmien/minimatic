@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Unseen Hands",
+    "year": 1924,
+    "cast": [
+      "Wallace Beery",
+      "Fontaine La Rue"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/unseen-hands.html"
+}

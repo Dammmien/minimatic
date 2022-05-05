@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Burglar",
+    "year": 1987,
+    "cast": [
+      "Whoopi Goldberg",
+      "Bobcat Goldthwait"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/burglar.html"
+}

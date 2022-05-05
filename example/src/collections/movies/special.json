@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Special",
+    "year": 2006,
+    "cast": [
+      "Michael Rapaport"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/special.html"
+}

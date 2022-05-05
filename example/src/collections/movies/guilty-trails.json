@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Guilty Trails",
+    "year": 1938,
+    "cast": [
+      "Bob Baker",
+      "Marjorie Reynolds"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/guilty-trails.html"
+}

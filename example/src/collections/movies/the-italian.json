@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Italian",
+    "year": 1915,
+    "cast": [
+      "George Beban",
+      "Clara Williams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-italian.html"
+}

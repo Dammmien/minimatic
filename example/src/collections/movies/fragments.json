@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Fragments",
+    "year": 2009,
+    "cast": [
+      "Kate Beckinsale",
+      "Dakota Fanning",
+      "Guy Pearce",
+      "Josh Hutcherson",
+      "Forest Whitaker",
+      "Jennifer Hudson",
+      "Jackie Earle Haley",
+      "Jeanne Tripplehorn",
+      "Embeth Davidtz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fragments.html"
+}

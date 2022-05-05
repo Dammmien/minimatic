@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Danger Lights",
+    "year": 1930,
+    "cast": [
+      "Jean Arthur",
+      "Hugh Herbert",
+      "Louis Wolheim"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/danger-lights.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Little Iodine",
+    "year": 1946,
+    "cast": [
+      "Jo Ann Marlowe",
+      "Irene Ryan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/little-iodine.html"
+}

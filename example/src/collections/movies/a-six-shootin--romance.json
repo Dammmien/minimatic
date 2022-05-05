@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Six Shootin' Romance",
+    "year": 1926,
+    "cast": [
+      "Jack Hoxie",
+      "Olive Hasbrouck",
+      "William Steele"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-six-shootin--romance.html"
+}

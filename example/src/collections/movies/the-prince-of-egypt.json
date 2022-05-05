@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Prince of Egypt",
+    "year": 1998,
+    "cast": [
+      "Voices of",
+      "Michelle Pfeiffer",
+      "Val Kilmer",
+      "Ralph Fiennes",
+      "Steve Martin",
+      "Sandra Bullock"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-prince-of-egypt.html"
+}

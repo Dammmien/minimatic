@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cobra",
+    "year": 1986,
+    "cast": [
+      "Sylvester Stallone",
+      "Brigitte Nielsen"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/cobra.html"
+}

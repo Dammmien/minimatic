@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Told in the Hills",
+    "year": 1919,
+    "cast": [
+      "Robert Warwick",
+      "Ann Little",
+      "Wanda Hawley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/told-in-the-hills.html"
+}

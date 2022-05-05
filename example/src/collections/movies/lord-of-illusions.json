@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lord of Illusions",
+    "year": 1995,
+    "cast": [
+      "Scott Bakula",
+      "Famke Janssen"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/lord-of-illusions.html"
+}

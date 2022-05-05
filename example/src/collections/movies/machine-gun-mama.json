@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Machine Gun Mama",
+    "year": 1944,
+    "cast": [
+      "Armida"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/machine-gun-mama.html"
+}

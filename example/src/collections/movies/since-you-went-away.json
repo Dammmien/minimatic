@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Since You Went Away",
+    "year": 1944,
+    "cast": [
+      "Claudette Colbert",
+      "Jennifer Jones",
+      "Shirley Temple",
+      "Joseph Cotten"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/since-you-went-away.html"
+}

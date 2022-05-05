@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Partners Three",
+    "year": 1919,
+    "cast": [
+      "Enid Bennett",
+      "Casson Ferguson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/partners-three.html"
+}

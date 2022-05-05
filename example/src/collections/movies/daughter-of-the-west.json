@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Daughter of the West",
+    "year": 1949,
+    "cast": [
+      "Martha Vickers",
+      "Phillip Reed",
+      "Donald Woods"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/daughter-of-the-west.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mexicana",
+    "year": 1945,
+    "cast": [
+      "Tito Guízar",
+      "Constance Moore"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/mexicana.html"
+}

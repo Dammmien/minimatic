@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell Bent for Love",
+    "year": 1934,
+    "cast": [
+      "Tim McCoy",
+      "Lilian Bond"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/hell-bent-for-love.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fabulous Joe",
+    "year": 1947,
+    "cast": [
+      "Walter Abel",
+      "Marie Wilson",
+      "Margot Grahame"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fabulous-joe.html"
+}

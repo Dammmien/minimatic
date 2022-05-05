@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Does It Pay?",
+    "year": 1923,
+    "cast": [
+      "Hope Hampton",
+      "Robert T. Haines"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/does-it-pay-.html"
+}

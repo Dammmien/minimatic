@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Meet the Spartans",
+    "year": 2008,
+    "cast": [
+      "Sean Maguire",
+      "Ken Davitian",
+      "Carmen Electra",
+      "Diedrich Bader",
+      "Kevin Sorbo",
+      "Travis Van Winkle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/meet-the-spartans.html"
+}

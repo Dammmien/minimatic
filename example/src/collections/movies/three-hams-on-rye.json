@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Three Hams on Rye",
+    "year": 1950,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-hams-on-rye.html"
+}

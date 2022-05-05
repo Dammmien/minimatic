@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tomorrow Is Another Day",
+    "year": 1951,
+    "cast": [
+      "Ruth Roman",
+      "Steve Cochran"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tomorrow-is-another-day.html"
+}

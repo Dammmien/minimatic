@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Chow Hound",
+    "year": 1951,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/chow-hound.html"
+}

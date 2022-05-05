@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ladies' Man",
+    "year": 1947,
+    "cast": [
+      "Eddie Bracken",
+      "Cass Daley",
+      "Virginia Field"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ladies--man.html"
+}

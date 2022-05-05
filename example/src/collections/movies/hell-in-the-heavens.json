@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell in the Heavens",
+    "year": 1934,
+    "cast": [
+      "Warner Baxter",
+      "Conchita Montenegro"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hell-in-the-heavens.html"
+}

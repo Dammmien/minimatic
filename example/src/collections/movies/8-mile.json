@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "8 Mile",
+    "year": 2002,
+    "cast": [
+      "Eminem",
+      "Kim Basinger",
+      "Brittany Murphy",
+      "Mekhi Phifer",
+      "Eugene Byrd",
+      "Omar Benson Miller"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/8-mile.html"
+}

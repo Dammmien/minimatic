@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Counterspy Meets Scotland Yard",
+    "year": 1950,
+    "cast": [
+      "Howard St. John",
+      "Ron Randell",
+      "Amanda Blake"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/counterspy-meets-scotland-yard.html"
+}

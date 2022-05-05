@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Criminals of the Air",
+    "year": 1937,
+    "cast": [
+      "Rosalind Keith",
+      "Charles Quigley",
+      "Rita Hayworth"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/criminals-of-the-air.html"
+}

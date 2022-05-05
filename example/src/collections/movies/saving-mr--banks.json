@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Saving Mr. Banks",
+    "year": 2013,
+    "cast": [
+      "Emma Thompson",
+      "Tom Hanks",
+      "Paul Giamatti",
+      "Jason Schwartzman",
+      "Colin Farrell"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/saving-mr--banks.html"
+}

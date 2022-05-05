@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "S.O.B.",
+    "year": 1981,
+    "cast": [
+      "Julie Andrews",
+      "William Holden",
+      "Richard Mulligan",
+      "Robert Preston",
+      "Robert Webber",
+      "Robert Vaughn",
+      "Larry Hagman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/s-o-b-.html"
+}

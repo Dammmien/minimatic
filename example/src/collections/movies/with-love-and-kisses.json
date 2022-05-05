@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "With Love and Kisses",
+    "year": 1936,
+    "cast": [
+      "Pinky Tomlin",
+      "Toby Wing",
+      "Kane Richmond"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/with-love-and-kisses.html"
+}

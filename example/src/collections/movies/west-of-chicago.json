@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "West of Chicago",
+    "year": 1922,
+    "cast": [
+      "Buck Jones",
+      "Renée Adorée"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/west-of-chicago.html"
+}

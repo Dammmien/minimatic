@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "News Hounds",
+    "year": 1947,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Christine McIntyre"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/news-hounds.html"
+}

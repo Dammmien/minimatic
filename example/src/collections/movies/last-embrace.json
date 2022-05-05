@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Last Embrace",
+    "year": 1979,
+    "cast": [
+      "Roy Scheider",
+      "Janet Margolin"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/last-embrace.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fast on the Draw",
+    "year": 1950,
+    "cast": [
+      "James Ellison",
+      "Russell Hayden",
+      "Julie Adams"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fast-on-the-draw.html"
+}

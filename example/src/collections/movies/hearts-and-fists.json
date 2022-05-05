@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hearts and Fists",
+    "year": 1926,
+    "cast": [
+      "John Bowers",
+      "Marguerite De La Motte",
+      "Alan Hale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hearts-and-fists.html"
+}

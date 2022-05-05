@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sail a Crooked Ship",
+    "year": 1961,
+    "cast": [
+      "Robert Wagner",
+      "Dolores Hart",
+      "Ernie Kovacs"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/sail-a-crooked-ship.html"
+}

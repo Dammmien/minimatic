@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Miles Ahead",
+    "year": 2016,
+    "cast": [
+      "Don Cheadle",
+      "Ewan McGregor"
+    ],
+    "genres": [
+      "Musical",
+      "Drama"
+    ]
+  },
+  "output": "movies/miles-ahead.html"
+}

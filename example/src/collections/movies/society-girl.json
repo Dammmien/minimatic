@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Society Girl",
+    "year": 1932,
+    "cast": [
+      "James Dunn",
+      "Peggy Shannon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/society-girl.html"
+}

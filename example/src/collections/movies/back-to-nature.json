@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Back to Nature",
+    "year": 1936,
+    "cast": [
+      "Jed Prouty",
+      "Shirley Deane",
+      "Dixie Dunbar"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/back-to-nature.html"
+}

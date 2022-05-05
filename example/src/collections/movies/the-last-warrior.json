@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Last Warrior",
+    "year": 1970,
+    "cast": [
+      "Anthony Quinn",
+      "Claude Akins",
+      "Shelley Winters",
+      "Tony Bill"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-last-warrior.html"
+}

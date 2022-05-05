@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Buck Privates Come Home",
+    "year": 1947,
+    "cast": [
+      "Abbott and Costello"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/buck-privates-come-home.html"
+}

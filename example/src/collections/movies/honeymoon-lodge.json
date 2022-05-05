@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Honeymoon Lodge",
+    "year": 1943,
+    "cast": [
+      "David Bruce",
+      "Harriet Hilliard",
+      "June Vincent"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/honeymoon-lodge.html"
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Fifty Shades Darker",
+    "year": 2017,
+    "cast": [
+      "Dakota Johnson",
+      "Jamie Dornan",
+      "Kim Basinger",
+      "Luke Grimes",
+      "Eloise Mumford",
+      "Max Martini",
+      "Eric Johnson",
+      "Bella Heathcote",
+      "Marcia Gay Harden",
+      "Rita Ora"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/fifty-shades-darker.html"
+}

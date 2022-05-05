@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Irish in Us",
+    "year": 1935,
+    "cast": [
+      "James Cagney",
+      "Pat O'Brien",
+      "Olivia de Havilland"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-irish-in-us.html"
+}

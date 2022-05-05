@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Skirts Ahoy!",
+    "year": 1952,
+    "cast": [
+      "Esther Williams",
+      "Joan Evans"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/skirts-ahoy-.html"
+}

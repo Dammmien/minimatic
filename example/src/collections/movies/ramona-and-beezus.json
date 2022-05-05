@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Ramona and Beezus",
+    "year": 2010,
+    "cast": [
+      "Joey King",
+      "Selena Gomez",
+      "John Corbett",
+      "Bridget Moynahan",
+      "Ginnifer Goodwin",
+      "Josh Duhamel",
+      "Sandra Oh"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/ramona-and-beezus.html"
+}

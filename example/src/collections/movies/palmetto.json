@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Palmetto",
+    "year": 1998,
+    "cast": [
+      "Woody Harrelson",
+      "Elisabeth Shue",
+      "Gina Gershon"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/palmetto.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "127 Hours",
+    "year": 2010,
+    "cast": [
+      "James Franco",
+      "Amber Tamblyn",
+      "Kate Mara",
+      "Clémence Poésy",
+      "Lizzy Caplan"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/127-hours.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Waterdance",
+    "year": 1992,
+    "cast": [
+      "Eric Stoltz",
+      "Helen Hunt",
+      "Wesley Snipes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-waterdance.html"
+}

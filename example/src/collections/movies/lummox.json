@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lummox",
+    "year": 1930,
+    "cast": [
+      "Winifred Westover",
+      "Dorothy Janis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lummox.html"
+}

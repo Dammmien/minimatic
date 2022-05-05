@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Drifter",
+    "year": 1988,
+    "cast": [
+      "Miles O'Keeffe",
+      "Kim Delaney",
+      "Timothy Bottoms"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-drifter.html"
+}

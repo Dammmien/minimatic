@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sir Galahad of Twilight",
+    "year": 1914,
+    "cast": [
+      "Perry Banks",
+      "B. Reeves Eason",
+      "William Garwood"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sir-galahad-of-twilight.html"
+}

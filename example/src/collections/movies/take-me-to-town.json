@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Take Me to Town",
+    "year": 1953,
+    "cast": [
+      "Sterling Hayden",
+      "Ann Sheridan"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/take-me-to-town.html"
+}

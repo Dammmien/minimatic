@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Revenge",
+    "year": 1990,
+    "cast": [
+      "Kevin Costner",
+      "Anthony Quinn",
+      "Madeleine Stowe",
+      "Sally Kirkland",
+      "Miguel Ferrer",
+      "James Gammon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/revenge.html"
+}

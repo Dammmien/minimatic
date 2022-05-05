@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Perfect Match",
+    "year": 2016,
+    "cast": [
+      "Terrence J",
+      "Cassie Ventura"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-perfect-match.html"
+}

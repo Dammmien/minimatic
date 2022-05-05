@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Without Orders",
+    "year": 1936,
+    "cast": [
+      "Sally Eilers",
+      "Robert Armstrong",
+      "Frances Sage",
+      "Charley Grapewin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/without-orders.html"
+}

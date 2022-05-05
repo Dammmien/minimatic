@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chuka",
+    "year": 1967,
+    "cast": [
+      "Rod Taylor",
+      "Ernest Borgnine",
+      "John Mills"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/chuka.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Busting",
+    "year": 1974,
+    "cast": [
+      "Elliott Gould",
+      "Robert Blake"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/busting.html"
+}

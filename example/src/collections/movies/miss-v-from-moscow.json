@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Miss V from Moscow",
+    "year": 1942,
+    "cast": [
+      "Lola Lane"
+    ],
+    "genres": [
+      "Spy",
+      "Drama"
+    ]
+  },
+  "output": "movies/miss-v-from-moscow.html"
+}

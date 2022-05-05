@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dracula 2000",
+    "year": 2000,
+    "cast": [
+      "Gerard Butler",
+      "Christopher Plummer",
+      "Jonny Lee Miller"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dracula-2000.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "None But The Brave",
+    "year": 1965,
+    "cast": [
+      "Frank Sinatra",
+      "Tatsuya Mihashi",
+      "Clint Walker",
+      "Tommy Sands",
+      "Brad Dexter",
+      "Tony Bill"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/none-but-the-brave.html"
+}

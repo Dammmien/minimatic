@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Another You",
+    "year": 1991,
+    "cast": [
+      "Richard Pryor",
+      "Gene Wilder",
+      "Mercedes Ruehl",
+      "Vanessa L. Williams"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/another-you.html"
+}

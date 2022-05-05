@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Mister Johnson",
+    "year": 1990,
+    "cast": [
+      "Pierce Brosnan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mister-johnson.html"
+}

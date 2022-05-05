@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Liberal Arts",
+    "year": 2012,
+    "cast": [
+      "Josh Radnor",
+      "Elizabeth Olsen",
+      "Richard Jenkins",
+      "Allison Janney",
+      "John Magaro",
+      "Elizabeth Reaser",
+      "Zac Efron"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/liberal-arts.html"
+}

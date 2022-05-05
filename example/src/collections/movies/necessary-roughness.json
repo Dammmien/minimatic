@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Necessary Roughness",
+    "year": 1991,
+    "cast": [
+      "Scott Bakula",
+      "Héctor Elizondo",
+      "Sinbad",
+      "Kathy Ireland",
+      "Harley Jane Kozak"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/necessary-roughness.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Modern Mothers",
+    "year": 1928,
+    "cast": [
+      "Helene Chadwick",
+      "Douglas Fairbanks Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/modern-mothers.html"
+}

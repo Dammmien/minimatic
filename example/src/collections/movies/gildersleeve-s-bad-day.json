@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gildersleeve's Bad Day",
+    "year": 1943,
+    "cast": [
+      "Harold Peary",
+      "Nancy Gates"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gildersleeve-s-bad-day.html"
+}

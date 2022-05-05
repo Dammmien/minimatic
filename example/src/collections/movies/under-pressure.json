@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Under Pressure",
+    "year": 1935,
+    "cast": [
+      "Edmund Lowe",
+      "Victor McLaglen",
+      "Charles Bickford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/under-pressure.html"
+}

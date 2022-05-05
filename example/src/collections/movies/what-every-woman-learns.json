@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "What Every Woman Learns",
+    "year": 1919,
+    "cast": [
+      "Enid Bennett",
+      "Milton Sills"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/what-every-woman-learns.html"
+}

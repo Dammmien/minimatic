@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Savage",
+    "year": 1952,
+    "cast": [
+      "Charlton Heston",
+      "Susan Morrow"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-savage.html"
+}

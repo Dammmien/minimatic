@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sin Cargo",
+    "year": 1926,
+    "cast": [
+      "Shirley Mason",
+      "Robert Frazer",
+      "Gertrude Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sin-cargo.html"
+}

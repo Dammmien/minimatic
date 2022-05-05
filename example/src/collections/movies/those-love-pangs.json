@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Those Love Pangs",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Chester Conklin",
+      "Cecile Arnold"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/those-love-pangs.html"
+}

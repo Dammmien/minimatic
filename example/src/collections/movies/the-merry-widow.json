@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Merry Widow",
+    "year": 1952,
+    "cast": [
+      "Fernando Lamas",
+      "Lana Turner"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-merry-widow.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "I Was an American Spy",
+    "year": 1951,
+    "cast": [
+      "Ann Dvorak"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/i-was-an-american-spy.html"
+}

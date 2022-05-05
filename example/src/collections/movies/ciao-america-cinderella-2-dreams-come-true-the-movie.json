@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Ciao America\nCinderella 2 Dreams Come True The Movie",
+    "year": 2002,
+    "cast": [
+      "Eddie Malavarca",
+      "Maurizio Nichetti",
+      "Violante Placido",
+      "Giancarlo Giannini",
+      "Paul Sorvino"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ciao-america-cinderella-2-dreams-come-true-the-movie.html"
+}

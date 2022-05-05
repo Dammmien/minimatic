@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Driftin' Thru",
+    "year": 1926,
+    "cast": [
+      "Harry Carey",
+      "Stanton Heck"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/driftin--thru.html"
+}

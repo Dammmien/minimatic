@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mating Season",
+    "year": 1951,
+    "cast": [
+      "Gene Tierney",
+      "John Lund"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-mating-season.html"
+}

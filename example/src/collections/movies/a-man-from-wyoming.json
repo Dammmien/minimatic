@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Man from Wyoming",
+    "year": 1930,
+    "cast": [
+      "Gary Cooper",
+      "June Collyer",
+      "Regis Toomey"
+    ],
+    "genres": [
+      "War",
+      "Romance"
+    ]
+  },
+  "output": "movies/a-man-from-wyoming.html"
+}

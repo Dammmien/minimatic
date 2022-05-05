@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Permanent Vacation",
+    "year": 1980,
+    "cast": [
+      "Richard Boes",
+      "Ruth Bolton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/permanent-vacation.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Merely Mary Ann",
+    "year": 1931,
+    "cast": [
+      "Janet Gaynor",
+      "Charles Farrell"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/merely-mary-ann.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "All Woman",
+    "year": 1918,
+    "cast": [
+      "Mae Marsh",
+      "Jere Austin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/all-woman.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cattle Queen",
+    "year": 1951,
+    "cast": [
+      "Maria Hart",
+      "Drake Smith"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cattle-queen.html"
+}

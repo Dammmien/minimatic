@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Death Rides the Plains",
+    "year": 1943,
+    "cast": [
+      "Robert Livingston",
+      "Al St. John"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/death-rides-the-plains.html"
+}

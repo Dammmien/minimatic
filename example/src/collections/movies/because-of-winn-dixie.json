@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Because of Winn-Dixie",
+    "year": 2005,
+    "cast": [
+      "AnnaSophia Robb",
+      "Jeff Daniels",
+      "Cicely Tyson"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/because-of-winn-dixie.html"
+}

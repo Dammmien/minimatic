@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crawlspace",
+    "year": 1986,
+    "cast": [
+      "Klaus Kinski",
+      "Talia Balsam"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/crawlspace.html"
+}

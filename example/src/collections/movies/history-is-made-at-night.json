@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "History Is Made at Night",
+    "year": 1937,
+    "cast": [
+      "Charles Boyer",
+      "Jean Arthur",
+      "Colin Clive"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/history-is-made-at-night.html"
+}

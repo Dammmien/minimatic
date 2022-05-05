@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Toast of New Orleans",
+    "year": 1950,
+    "cast": [
+      "Kathryn Grayson",
+      "Mario Lanza"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-toast-of-new-orleans.html"
+}

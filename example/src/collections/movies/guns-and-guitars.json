@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Guns and Guitars",
+    "year": 1936,
+    "cast": [
+      "Gene Autry",
+      "Smiley Burnette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/guns-and-guitars.html"
+}

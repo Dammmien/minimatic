@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Old Frontier",
+    "year": 1950,
+    "cast": [
+      "Monte Hale",
+      "Claudia Barrett"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-old-frontier.html"
+}

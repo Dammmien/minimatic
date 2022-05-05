@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "With the Mounted Police",
+    "year": 1912,
+    "cast": [
+      "William Garwood",
+      "Mignon Anderson"
+    ],
+    "genres": [
+      "Romance",
+      "Thriller"
+    ]
+  },
+  "output": "movies/with-the-mounted-police.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Weather Man",
+    "year": 2005,
+    "cast": [
+      "Nicolas Cage",
+      "Michael Caine"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-weather-man.html"
+}

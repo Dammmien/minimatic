@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cisco Kid Returns",
+    "year": 1945,
+    "cast": [
+      "Duncan Renaldo",
+      "Martin Garralaga"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-cisco-kid-returns.html"
+}

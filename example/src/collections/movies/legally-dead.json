@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Legally Dead",
+    "year": 1923,
+    "cast": [
+      "Milton Sills",
+      "Claire Adams"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/legally-dead.html"
+}

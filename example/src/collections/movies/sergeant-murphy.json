@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sergeant Murphy",
+    "year": 1938,
+    "cast": [
+      "Ronald Reagan",
+      "Mary Maguire",
+      "Donald Crisp"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sergeant-murphy.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pleasure Mad",
+    "year": 1923,
+    "cast": [
+      "Huntley Gordon",
+      "Mary Alden",
+      "Norma Shearer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pleasure-mad.html"
+}

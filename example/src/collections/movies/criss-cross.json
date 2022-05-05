@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Criss Cross",
+    "year": 1949,
+    "cast": [
+      "Burt Lancaster",
+      "Yvonne DeCarlo"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/criss-cross.html"
+}

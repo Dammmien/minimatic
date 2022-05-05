@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mammy",
+    "year": 1930,
+    "cast": [
+      "Al Jolson",
+      "Lois Moran"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/mammy.html"
+}

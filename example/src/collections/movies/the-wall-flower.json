@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wall Flower",
+    "year": 1922,
+    "cast": [
+      "Colleen Moore",
+      "Richard Dix",
+      "Gertrude Astor"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-wall-flower.html"
+}

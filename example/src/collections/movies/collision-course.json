@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Collision Course",
+    "year": 1989,
+    "cast": [
+      "Jay Leno",
+      "Pat Morita",
+      "Chris Sarandon"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/collision-course.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Island of Intrigue",
+    "year": 1919,
+    "cast": [
+      "May Allison",
+      "Jack Mower"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-island-of-intrigue.html"
+}

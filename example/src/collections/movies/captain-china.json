@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Captain China",
+    "year": 1950,
+    "cast": [
+      "John Payne",
+      "Gail Russell"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/captain-china.html"
+}

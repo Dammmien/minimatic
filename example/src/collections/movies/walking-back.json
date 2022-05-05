@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Walking Back",
+    "year": 1928,
+    "cast": [
+      "Sue Carol",
+      "Ivan Lebedeff"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/walking-back.html"
+}

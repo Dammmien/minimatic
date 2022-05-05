@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "American History X",
+    "year": 1998,
+    "cast": [
+      "Edward Norton",
+      "Edward Furlong",
+      "Beverly D'Angelo",
+      "Elliott Gould",
+      "Stacy Keach",
+      "Fairuza Balk",
+      "Jennifer Lien",
+      "Avery Brooks"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/american-history-x.html"
+}

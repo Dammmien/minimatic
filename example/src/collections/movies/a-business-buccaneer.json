@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Business Buccaneer",
+    "year": 1912,
+    "cast": [
+      "Tom Moore",
+      "Alice Joyce"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-business-buccaneer.html"
+}

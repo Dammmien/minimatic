@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Baxter",
+    "year": 2005,
+    "cast": [
+      "Michael Showalter",
+      "Elizabeth Banks",
+      "Michelle Williams"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-baxter.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Right to Live",
+    "year": 1935,
+    "cast": [
+      "Josephine Hutchinson",
+      "George Brent",
+      "Peggy Wood"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-right-to-live.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "All Hands on Deck",
+    "year": 1961,
+    "cast": [
+      "Pat Boone",
+      "Barbara Eden",
+      "Buddy Hackett"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/all-hands-on-deck.html"
+}

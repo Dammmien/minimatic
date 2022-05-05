@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The White Sin",
+    "year": 1924,
+    "cast": [
+      "Madge Bellamy",
+      "John Bowers"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-white-sin.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The People Against O'Hara",
+    "year": 1951,
+    "cast": [
+      "Spencer Tracy",
+      "Pat O'Brien",
+      "Diana Lynn",
+      "John Hodiak",
+      "James Arness"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-people-against-o-hara.html"
+}

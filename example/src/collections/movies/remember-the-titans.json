@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Remember the Titans",
+    "year": 2000,
+    "cast": [
+      "Denzel Washington",
+      "Will Patton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/remember-the-titans.html"
+}

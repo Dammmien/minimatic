@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thieves",
+    "year": 1977,
+    "cast": [
+      "Marlo Thomas",
+      "Héctor Elizondo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/thieves.html"
+}

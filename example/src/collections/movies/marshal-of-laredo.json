@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Marshal of Laredo",
+    "year": 1945,
+    "cast": [
+      "Wild Bill Elliott",
+      "Peggy Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/marshal-of-laredo.html"
+}

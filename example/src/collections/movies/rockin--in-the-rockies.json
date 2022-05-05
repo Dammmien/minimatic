@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rockin' in the Rockies",
+    "year": 1945,
+    "cast": [
+      "The Three Stooges",
+      "Mary Beth Hughes"
+    ],
+    "genres": [
+      "Comedy",
+      "Western"
+    ]
+  },
+  "output": "movies/rockin--in-the-rockies.html"
+}

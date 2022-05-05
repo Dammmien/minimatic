@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jungle Goddess",
+    "year": 1948,
+    "cast": [
+      "George Reeves",
+      "Wanda McKay"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/jungle-goddess.html"
+}

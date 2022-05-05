@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Manhattan Cocktail",
+    "year": 1928,
+    "cast": [
+      "Nancy Carroll",
+      "Richard Arlen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/manhattan-cocktail.html"
+}

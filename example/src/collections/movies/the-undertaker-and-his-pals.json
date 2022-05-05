@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Undertaker and His Pals",
+    "year": 1966,
+    "cast": [
+      "Ray Dannis",
+      "Warrene Ott",
+      "Rad Fulton"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-undertaker-and-his-pals.html"
+}

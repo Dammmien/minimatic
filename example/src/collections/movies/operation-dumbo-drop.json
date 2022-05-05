@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Operation Dumbo Drop",
+    "year": 1995,
+    "cast": [
+      "Ray Liotta",
+      "Danny Glover",
+      "Denis Leary"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/operation-dumbo-drop.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Summer Catch",
+    "year": 2001,
+    "cast": [
+      "Freddie Prinze Jr.",
+      "Jessica Biel",
+      "Matthew Lillard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/summer-catch.html"
+}

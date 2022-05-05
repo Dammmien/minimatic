@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Destinies Fulfilled",
+    "year": 1914,
+    "cast": [
+      "Charlotte Burton",
+      "Sydney Ayres",
+      "Jacques Jaccard",
+      "Violet Knights"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/destinies-fulfilled.html"
+}

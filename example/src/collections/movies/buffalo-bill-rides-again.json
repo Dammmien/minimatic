@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Buffalo Bill Rides Again",
+    "year": 1947,
+    "cast": [
+      "Richard Arlen",
+      "Jennifer Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/buffalo-bill-rides-again.html"
+}

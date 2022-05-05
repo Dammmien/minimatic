@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Uncle Meat",
+    "year": 1987,
+    "cast": [
+      "Frank Zappa",
+      "Linda Ronstadt",
+      "Haskell Wexler"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/uncle-meat.html"
+}

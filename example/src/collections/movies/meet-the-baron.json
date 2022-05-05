@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Meet the Baron",
+    "year": 1933,
+    "cast": [
+      "Jack Pearl",
+      "Jimmy Durante",
+      "Edna May Oliver"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/meet-the-baron.html"
+}

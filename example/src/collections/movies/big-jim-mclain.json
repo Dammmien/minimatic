@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Big Jim McLain",
+    "year": 1952,
+    "cast": [
+      "John Wayne",
+      "James Arness"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/big-jim-mclain.html"
+}

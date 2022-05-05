@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "From the Hip",
+    "year": 1987,
+    "cast": [
+      "Judd Nelson",
+      "Elizabeth Perkins",
+      "John Hurt"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/from-the-hip.html"
+}

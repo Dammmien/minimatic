@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mystery in Mexico",
+    "year": 1948,
+    "cast": [
+      "William Lundigan",
+      "Jacqueline White",
+      "Ricardo Cortez"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/mystery-in-mexico.html"
+}

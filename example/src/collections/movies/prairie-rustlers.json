@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prairie Rustlers",
+    "year": 1945,
+    "cast": [
+      "Buster Crabbe",
+      "Evelyn Finley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/prairie-rustlers.html"
+}

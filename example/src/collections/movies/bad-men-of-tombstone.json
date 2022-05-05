@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bad Men of Tombstone",
+    "year": 1949,
+    "cast": [
+      "Broderick Crawford",
+      "Barry Sullivan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bad-men-of-tombstone.html"
+}

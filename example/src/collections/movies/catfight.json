@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Catfight",
+    "year": 2017,
+    "cast": [
+      "Alicia Silverstone",
+      "Anne Heche",
+      "Sandra Oh",
+      "Dylan Baker",
+      "Amy Hall",
+      "Craig Bierko"
+    ],
+    "genres": [
+      "Comedy",
+      "Action"
+    ]
+  },
+  "output": "movies/catfight.html"
+}

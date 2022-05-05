@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Smashed",
+    "year": 2012,
+    "cast": [
+      "Mary Elizabeth Winstead",
+      "Aaron Paul",
+      "Nick Offerman",
+      "Megan Mullally",
+      "Kyle Gallner",
+      "Mary Kay Place",
+      "Octavia Spencer",
+      "Bree Turner",
+      "Mackenzie Davis",
+      "Patti Allison",
+      "Richmond Arquette",
+      "Natalie Dreyfuss"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/smashed.html"
+}

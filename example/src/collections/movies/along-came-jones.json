@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Along Came Jones",
+    "year": 1945,
+    "cast": [
+      "Gary Cooper",
+      "Loretta Young",
+      "William Demarest",
+      "Dan Duryea"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/along-came-jones.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Next Three Days",
+    "year": 2010,
+    "cast": [
+      "Russell Crowe",
+      "Elizabeth Banks",
+      "Brian Dennehy",
+      "Olivia Wilde",
+      "Liam Neeson"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-next-three-days.html"
+}

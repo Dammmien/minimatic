@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kisses for My President",
+    "year": 1964,
+    "cast": [
+      "Polly Bergen",
+      "Fred MacMurray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kisses-for-my-president.html"
+}

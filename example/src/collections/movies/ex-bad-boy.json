@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ex-Bad Boy",
+    "year": 1931,
+    "cast": [
+      "Robert Armstrong",
+      "Jean Arthur"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ex-bad-boy.html"
+}

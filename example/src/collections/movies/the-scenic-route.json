@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Scenic Route",
+    "year": 1978,
+    "cast": [
+      "Randy Danson",
+      "Marilyn Jones",
+      "Kevin Wade"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-scenic-route.html"
+}

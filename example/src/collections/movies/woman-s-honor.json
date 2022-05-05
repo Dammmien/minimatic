@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Woman's Honor",
+    "year": 1913,
+    "cast": [
+      "Charlotte Burton",
+      "Louise Lester"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/woman-s-honor.html"
+}

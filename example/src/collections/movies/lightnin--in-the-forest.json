@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lightnin' in the Forest",
+    "year": 1948,
+    "cast": [
+      "Lynne Roberts",
+      "Warren Douglas",
+      "Lorna Gray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lightnin--in-the-forest.html"
+}

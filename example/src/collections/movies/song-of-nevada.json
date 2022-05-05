@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Song of Nevada",
+    "year": 1944,
+    "cast": [
+      "Roy Rogers",
+      "Dale Evans"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/song-of-nevada.html"
+}

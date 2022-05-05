@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Where Is This West?",
+    "year": 1923,
+    "cast": [
+      "Jack Hoxie",
+      "Mary Philbin"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/where-is-this-west-.html"
+}

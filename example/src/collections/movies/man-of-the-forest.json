@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Man of the Forest",
+    "year": 1933,
+    "cast": [
+      "Randolph Scott",
+      "Verna Hillie",
+      "Noah Beery"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/man-of-the-forest.html"
+}

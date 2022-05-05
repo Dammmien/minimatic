@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "You Can Count on Me",
+    "year": 2000,
+    "cast": [
+      "Laura Linney",
+      "Mark Ruffalo",
+      "Matthew Broderick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/you-can-count-on-me.html"
+}

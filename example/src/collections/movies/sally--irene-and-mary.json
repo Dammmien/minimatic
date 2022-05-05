@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sally, Irene and Mary",
+    "year": 1938,
+    "cast": [
+      "Alice Faye",
+      "Marjorie Weaver",
+      "Joan Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sally--irene-and-mary.html"
+}

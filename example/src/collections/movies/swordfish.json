@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Swordfish",
+    "year": 2001,
+    "cast": [
+      "Hugh Jackman",
+      "John Travolta",
+      "Halle Berry",
+      "Don Cheadle"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/swordfish.html"
+}

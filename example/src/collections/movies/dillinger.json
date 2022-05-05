@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Dillinger",
+    "year": 1973,
+    "cast": [
+      "Warren Oates",
+      "Harry Dean Stanton",
+      "Geoffrey Lewis",
+      "Ben Johnson",
+      "Richard Dreyfuss",
+      "Steve Kanaly",
+      "Cloris Leachman"
+    ],
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/dillinger.html"
+}

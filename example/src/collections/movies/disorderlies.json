@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Disorderlies",
+    "year": 1987,
+    "cast": [
+      "The Fat Boys",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/disorderlies.html"
+}

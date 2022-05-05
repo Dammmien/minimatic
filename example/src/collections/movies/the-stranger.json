@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Stranger",
+    "year": 1946,
+    "cast": [
+      "Edward G. Robinson",
+      "Loretta Young",
+      "Orson Welles"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-stranger.html"
+}

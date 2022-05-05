@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dog Days",
+    "year": 2018,
+    "cast": [
+      "Nina Dobrev",
+      "Finn Wolfhard",
+      "Vanessa Hudgens",
+      "Adam Pally",
+      "Eva Longoria"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dog-days.html"
+}

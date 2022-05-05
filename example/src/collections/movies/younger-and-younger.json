@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Younger and Younger",
+    "year": 1993,
+    "cast": [
+      "Donald Sutherland",
+      "Brendan Fraser",
+      "Lolita Davidovich"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/younger-and-younger.html"
+}

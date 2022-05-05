@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "I Love You, Beth Cooper",
+    "year": 2009,
+    "cast": [
+      "Hayden Panettiere",
+      "Paul Rust",
+      "Jack Carpenter",
+      "Lauren London",
+      "Lauren Storm",
+      "Alan Ruck",
+      "Cynthia Stevenson"
+    ],
+    "genres": [
+      "Comedy",
+      "Teen"
+    ]
+  },
+  "output": "movies/i-love-you--beth-cooper.html"
+}

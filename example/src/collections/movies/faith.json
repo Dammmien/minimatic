@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Faith",
+    "year": 1919,
+    "cast": [
+      "Bert Lytell",
+      "Rosemary Theby"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/faith.html"
+}

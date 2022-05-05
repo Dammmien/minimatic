@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Jumanji: Welcome to the Jungle",
+    "year": 2017,
+    "cast": [
+      "Dwayne Johnson",
+      "Kevin Hart",
+      "Jack Black",
+      "Nick Jonas",
+      "Karen Gillan"
+    ],
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure",
+      "Comedy"
+    ]
+  },
+  "output": "movies/jumanji--welcome-to-the-jungle.html"
+}

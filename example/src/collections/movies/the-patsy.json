@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Patsy",
+    "year": 1964,
+    "cast": [
+      "Jerry Lewis",
+      "Ina Balin",
+      "Everett Sloane",
+      "Phil Harris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-patsy.html"
+}

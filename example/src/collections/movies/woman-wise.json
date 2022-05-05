@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Woman-Wise",
+    "year": 1937,
+    "cast": [
+      "Rochelle Hudson",
+      "Michael Whalen"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/woman-wise.html"
+}

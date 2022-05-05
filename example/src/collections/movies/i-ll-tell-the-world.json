@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I'll Tell the World",
+    "year": 1945,
+    "cast": [
+      "Lee Tracy",
+      "Brenda Joyce",
+      "June Preisser"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-ll-tell-the-world.html"
+}

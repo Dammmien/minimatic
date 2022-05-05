@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting Cressy",
+    "year": 1919,
+    "cast": [
+      "Blanche Sweet",
+      "Russell Simpson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fighting-cressy.html"
+}

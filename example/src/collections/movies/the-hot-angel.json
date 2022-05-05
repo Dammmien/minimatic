@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hot Angel",
+    "year": 1958,
+    "cast": [
+      "Jackie Loughery",
+      "Ed Kemmer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hot-angel.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Milky Way",
+    "year": 1940,
+    "cast": [
+      "Bernice Hansen"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/the-milky-way.html"
+}

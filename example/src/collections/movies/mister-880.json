@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mister 880",
+    "year": 1950,
+    "cast": [
+      "Burt Lancaster",
+      "Dorothy McGuire",
+      "Edmund Gwenn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mister-880.html"
+}

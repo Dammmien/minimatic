@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Best Girl",
+    "year": 1927,
+    "cast": [
+      "Mary Pickford",
+      "Buddy Rogers"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-best-girl.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "What Dreams May Come",
+    "year": 1998,
+    "cast": [
+      "Robin Williams",
+      "Cuba Gooding, Jr.",
+      "Annabella Sciorra"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/what-dreams-may-come.html"
+}

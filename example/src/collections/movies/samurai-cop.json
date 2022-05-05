@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Samurai Cop",
+    "year": 1989,
+    "cast": [],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/samurai-cop.html"
+}

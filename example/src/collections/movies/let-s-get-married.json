@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Let's Get Married",
+    "year": 1937,
+    "cast": [
+      "Ida Lupino",
+      "Ralph Bellamy",
+      "Walter Connolly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-s-get-married.html"
+}

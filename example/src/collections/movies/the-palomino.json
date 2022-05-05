@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Palomino",
+    "year": 1950,
+    "cast": [
+      "Jerome Courtland",
+      "Beverly Tyler"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-palomino.html"
+}

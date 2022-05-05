@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Slightly Scandalous",
+    "year": 1946,
+    "cast": [
+      "Sheila Ryan",
+      "Lita Baron"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/slightly-scandalous.html"
+}

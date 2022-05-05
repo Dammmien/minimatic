@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Take the Stand",
+    "year": 1934,
+    "cast": [
+      "Jack La Rue",
+      "Thelma Todd",
+      "Gail Patrick"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/take-the-stand.html"
+}

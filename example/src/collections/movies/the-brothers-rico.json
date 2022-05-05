@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Brothers Rico",
+    "year": 1957,
+    "cast": [
+      "Richard Conte",
+      "Dianne Foster",
+      "James Darren"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-brothers-rico.html"
+}

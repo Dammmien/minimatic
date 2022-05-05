@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fahrenheit 9/11",
+    "year": 2004,
+    "cast": [
+      "On",
+      "George W. Bush",
+      "War on Terrorism",
+      "American media"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/fahrenheit-9-11.html"
+}

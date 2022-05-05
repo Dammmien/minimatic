@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Revolutionary Road",
+    "year": 2008,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Michael Shannon",
+      "Kathryn Hahn",
+      "Kathy Bates"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/revolutionary-road.html"
+}

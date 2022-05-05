@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Favourite",
+    "year": 2018,
+    "cast": [
+      "Emma Stone",
+      "Rachel Weisz",
+      "Olivia Colman",
+      "Nicholas Hoult",
+      "Joe Alwyn",
+      "Mark Gatiss"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-favourite.html"
+}

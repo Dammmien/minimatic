@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Boardwalk",
+    "year": 1979,
+    "cast": [
+      "Ruth Gordon",
+      "Lee Strasberg",
+      "Janet Leigh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/boardwalk.html"
+}

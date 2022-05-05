@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Robin Hood of Monterey",
+    "year": 1947,
+    "cast": [
+      "Gilbert Roland",
+      "Evelyn Brent"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/robin-hood-of-monterey.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Chameleon Street",
+    "year": 1989,
+    "cast": [
+      "Wendell B. Harris, Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/chameleon-street.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Aloha",
+    "year": 2015,
+    "cast": [
+      "Bradley Cooper",
+      "Emma Stone",
+      "Rachel McAdams",
+      "John Krasinski"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/aloha.html"
+}

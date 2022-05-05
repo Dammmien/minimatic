@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Author! Author!",
+    "year": 1982,
+    "cast": [
+      "Al Pacino",
+      "Dyan Cannon",
+      "Tuesday Weld"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/author--author-.html"
+}

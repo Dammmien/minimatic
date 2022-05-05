@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "On Chesil Beach",
+    "year": 2018,
+    "cast": [
+      "Saoirse Ronan",
+      "Billy Howle",
+      "Emily Watson",
+      "Anne-Marie Duff",
+      "Samuel West",
+      "Adrian Scarborough"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/on-chesil-beach.html"
+}

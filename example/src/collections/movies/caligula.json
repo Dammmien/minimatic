@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Caligula",
+    "year": 1979,
+    "cast": [
+      "Malcolm McDowell",
+      "John Gielgud",
+      "Peter O'Toole",
+      "Helen Mirren"
+    ],
+    "genres": [
+      "Historical",
+      "Erotic"
+    ]
+  },
+  "output": "movies/caligula.html"
+}

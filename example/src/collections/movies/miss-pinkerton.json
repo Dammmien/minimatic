@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Miss Pinkerton",
+    "year": 1932,
+    "cast": [
+      "Joan Blondell",
+      "George Brent"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/miss-pinkerton.html"
+}

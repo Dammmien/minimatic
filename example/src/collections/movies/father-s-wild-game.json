@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Father's Wild Game",
+    "year": 1950,
+    "cast": [
+      "Raymond Walburn",
+      "Walter Catlett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/father-s-wild-game.html"
+}

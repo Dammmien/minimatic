@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman of Bronze",
+    "year": 1923,
+    "cast": [
+      "Clara Kimball Young",
+      "John Bowers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woman-of-bronze.html"
+}

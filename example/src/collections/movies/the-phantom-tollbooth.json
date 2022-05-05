@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Phantom Tollbooth",
+    "year": 1970,
+    "cast": [
+      "Butch Patrick",
+      "Mel Blanc"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-phantom-tollbooth.html"
+}

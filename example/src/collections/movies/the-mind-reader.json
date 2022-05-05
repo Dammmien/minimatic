@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mind Reader",
+    "year": 1933,
+    "cast": [
+      "Warren William",
+      "Constance Cummings"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mind-reader.html"
+}

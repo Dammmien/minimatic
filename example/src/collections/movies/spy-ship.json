@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Spy Ship",
+    "year": 1942,
+    "cast": [
+      "Craig Stevens",
+      "Irene Manning"
+    ],
+    "genres": [
+      "Spy",
+      "Drama"
+    ]
+  },
+  "output": "movies/spy-ship.html"
+}

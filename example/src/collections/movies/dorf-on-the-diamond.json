@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Dorf on the Diamond",
+    "year": 1996,
+    "cast": [
+      "Tim Conway"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dorf-on-the-diamond.html"
+}

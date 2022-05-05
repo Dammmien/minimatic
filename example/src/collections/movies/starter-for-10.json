@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Starter for 10",
+    "year": 2006,
+    "cast": [
+      "James McAvoy",
+      "Alice Eve",
+      "Rebecca Hall"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/starter-for-10.html"
+}

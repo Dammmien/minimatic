@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ridin' the Lone Trail",
+    "year": 1937,
+    "cast": [
+      "Bob Steele",
+      "Claire Rochelle"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ridin--the-lone-trail.html"
+}

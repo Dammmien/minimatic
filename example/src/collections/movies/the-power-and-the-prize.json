@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Power and the Prize",
+    "year": 1956,
+    "cast": [
+      "Robert Taylor",
+      "Burl Ives"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-power-and-the-prize.html"
+}

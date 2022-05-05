@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Seems Like Old Times",
+    "year": 1980,
+    "cast": [
+      "Chevy Chase",
+      "Goldie Hawn",
+      "Charles Grodin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/seems-like-old-times.html"
+}

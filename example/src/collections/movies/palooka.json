@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Palooka",
+    "year": 1934,
+    "cast": [
+      "Jimmy Durante",
+      "Lupe Vélez",
+      "Stuart Erwin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/palooka.html"
+}

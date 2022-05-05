@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Rabbit Rampage",
+    "year": 1955,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/rabbit-rampage.html"
+}

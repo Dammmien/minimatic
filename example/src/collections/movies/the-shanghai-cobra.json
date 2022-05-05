@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Shanghai Cobra",
+    "year": 1945,
+    "cast": [
+      "Sidney Toler",
+      "Mantan Moreland",
+      "Joan Barclay"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-shanghai-cobra.html"
+}

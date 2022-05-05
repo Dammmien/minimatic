@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Across the Atlantic",
+    "year": 1928,
+    "cast": [
+      "Monte Blue",
+      "Edna Murphy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/across-the-atlantic.html"
+}

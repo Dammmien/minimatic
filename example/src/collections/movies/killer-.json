@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Killer!",
+    "year": 1989,
+    "cast": [
+      "Duke Ernsberger"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/killer-.html"
+}

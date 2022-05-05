@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dick",
+    "year": 1999,
+    "cast": [
+      "Kirsten Dunst",
+      "Michelle Williams",
+      "Dan Hedaya"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dick.html"
+}

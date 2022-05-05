@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "East of Borneo",
+    "year": 1931,
+    "cast": [
+      "Rose Hobart",
+      "Charles Bickford",
+      "Lupita Tovar"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/east-of-borneo.html"
+}

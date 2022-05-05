@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In Old Amarillo",
+    "year": 1951,
+    "cast": [
+      "Roy Rogers",
+      "Estelita Rodriguez"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/in-old-amarillo.html"
+}

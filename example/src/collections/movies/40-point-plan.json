@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "40 Point Plan",
+    "year": 2012,
+    "cast": [
+      "Dave Nemeth",
+      "Tisha Rivera",
+      "Joe Comino",
+      "Nathan Kotzur",
+      "Christianne Christiensen"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/40-point-plan.html"
+}

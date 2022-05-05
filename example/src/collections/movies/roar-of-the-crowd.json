@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Roar of the Crowd",
+    "year": 1953,
+    "cast": [
+      "Howard Duff",
+      "Helene Stanley"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/roar-of-the-crowd.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Life and Times of Judge Roy Bean",
+    "year": 1972,
+    "cast": [
+      "Paul Newman",
+      "Anthony Perkins",
+      "Victoria Principal",
+      "Jacqueline Bisset",
+      "John Huston",
+      "Ava Gardner"
+    ],
+    "genres": [
+      "Western",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-life-and-times-of-judge-roy-bean.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daniel and the Towers",
+    "year": 1987,
+    "cast": [
+      "Michael McKean",
+      "Allan Arbus"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/daniel-and-the-towers.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Devil's Henchman",
+    "year": 1949,
+    "cast": [
+      "Warner Baxter",
+      "Mary Beth Hughes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-devil-s-henchman.html"
+}

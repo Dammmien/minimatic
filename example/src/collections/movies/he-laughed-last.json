@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "He Laughed Last",
+    "year": 1956,
+    "cast": [
+      "Frankie Laine",
+      "Anthony Dexter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/he-laughed-last.html"
+}

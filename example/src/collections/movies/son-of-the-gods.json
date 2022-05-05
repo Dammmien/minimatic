@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Son of the Gods",
+    "year": 1930,
+    "cast": [
+      "Richard Barthelmess",
+      "Constance Bennett"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/son-of-the-gods.html"
+}

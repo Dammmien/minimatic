@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Call It Luck",
+    "year": 1934,
+    "cast": [
+      "Pat Paterson",
+      "Herbert Mundin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/call-it-luck.html"
+}

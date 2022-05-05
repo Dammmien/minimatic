@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Road Within",
+    "year": 2015,
+    "cast": [
+      "Robert Sheehan",
+      "Dev Patel",
+      "Zoë Kravitz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-road-within.html"
+}

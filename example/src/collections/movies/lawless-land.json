@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lawless Land",
+    "year": 1937,
+    "cast": [
+      "Johnny Mack Brown",
+      "Louise Stanley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lawless-land.html"
+}

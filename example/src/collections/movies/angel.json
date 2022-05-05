@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Angel",
+    "year": 1984,
+    "cast": [
+      "Donna Wilkes",
+      "Dick Shawn",
+      "Susan Tyrrell"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/angel.html"
+}

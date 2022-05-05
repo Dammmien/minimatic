@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Moment by Moment",
+    "year": 1978,
+    "cast": [
+      "Lily Tomlin",
+      "John Travolta"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/moment-by-moment.html"
+}

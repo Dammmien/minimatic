@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The President's Lady",
+    "year": 1953,
+    "cast": [
+      "Susan Hayward",
+      "Charlton Heston",
+      "John McIntire"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-president-s-lady.html"
+}

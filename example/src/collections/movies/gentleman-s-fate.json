@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gentleman's Fate",
+    "year": 1931,
+    "cast": [
+      "John Gilbert",
+      "Louis Wolheim",
+      "Leila Hyams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gentleman-s-fate.html"
+}

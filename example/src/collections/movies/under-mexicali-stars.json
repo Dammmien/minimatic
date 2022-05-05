@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Under Mexicali Stars",
+    "year": 1950,
+    "cast": [
+      "Rex Allen",
+      "Buddy Ebsen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/under-mexicali-stars.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Unhook the Stars",
+    "year": 1996,
+    "cast": [
+      "Gena Rowlands",
+      "Marisa Tomei",
+      "Gérard Depardieu",
+      "Moira Kelly"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/unhook-the-stars.html"
+}

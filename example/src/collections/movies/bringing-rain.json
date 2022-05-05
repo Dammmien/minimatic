@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bringing Rain",
+    "year": 2003,
+    "cast": [
+      "Adrian Grenier",
+      "Niesha Butler"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/bringing-rain.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Parole Fixer",
+    "year": 1940,
+    "cast": [
+      "William Henry",
+      "Anthony Quinn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/parole-fixer.html"
+}

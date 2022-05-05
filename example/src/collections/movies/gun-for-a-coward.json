@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gun for a Coward",
+    "year": 1957,
+    "cast": [
+      "Fred MacMurray",
+      "Jeffrey Hunter",
+      "Janice Rule"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gun-for-a-coward.html"
+}

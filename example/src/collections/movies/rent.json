@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rent",
+    "year": 2005,
+    "cast": [
+      "Anthony Rapp",
+      "Adam Pascal",
+      "Rosario Dawson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/rent.html"
+}

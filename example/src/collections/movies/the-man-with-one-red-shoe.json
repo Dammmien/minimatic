@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man with One Red Shoe",
+    "year": 1985,
+    "cast": [
+      "Tom Hanks",
+      "Dabney Coleman",
+      "Lori Singer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-man-with-one-red-shoe.html"
+}

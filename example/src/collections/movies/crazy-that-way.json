@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crazy That Way",
+    "year": 1930,
+    "cast": [
+      "Kenneth MacKenna",
+      "Joan Bennett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/crazy-that-way.html"
+}

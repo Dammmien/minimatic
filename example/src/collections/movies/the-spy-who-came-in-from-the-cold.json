@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Spy Who Came in from the Cold",
+    "year": 1965,
+    "cast": [
+      "Richard Burton",
+      "Claire Bloom",
+      "Oskar Werner",
+      "Sam Wanamaker",
+      "Cyril Cusack"
+    ],
+    "genres": [
+      "Spy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-spy-who-came-in-from-the-cold.html"
+}

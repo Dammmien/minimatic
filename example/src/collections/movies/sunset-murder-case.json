@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sunset Murder Case",
+    "year": 1938,
+    "cast": [
+      "Sally Rand",
+      "Esther Muir"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/sunset-murder-case.html"
+}

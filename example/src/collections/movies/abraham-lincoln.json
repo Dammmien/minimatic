@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Abraham Lincoln",
+    "year": 1930,
+    "cast": [
+      "Walter Huston",
+      "Kay Hammond"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/abraham-lincoln.html"
+}

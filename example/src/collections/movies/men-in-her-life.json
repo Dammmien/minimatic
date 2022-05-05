@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Men in Her Life",
+    "year": 1931,
+    "cast": [
+      "Lois Moran",
+      "Charles Bickford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/men-in-her-life.html"
+}

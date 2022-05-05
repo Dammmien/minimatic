@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Courtship of Miles Standish",
+    "year": 1923,
+    "cast": [
+      "Charles Ray",
+      "Enid Bennett",
+      "Sam De Grasse"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/the-courtship-of-miles-standish.html"
+}

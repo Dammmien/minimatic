@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Violent Saturday",
+    "year": 1955,
+    "cast": [
+      "Victor Mature",
+      "Richard Egan",
+      "Lee Marvin",
+      "Stephen McNally",
+      "Virginia Leith"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/violent-saturday.html"
+}

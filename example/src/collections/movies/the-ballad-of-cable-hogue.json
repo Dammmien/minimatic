@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ballad of Cable Hogue",
+    "year": 1970,
+    "cast": [
+      "Jason Robards",
+      "Stella Stevens",
+      "David Warner"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-ballad-of-cable-hogue.html"
+}

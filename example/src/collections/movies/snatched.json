@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Snatched",
+    "year": 2017,
+    "cast": [
+      "Amy Schumer",
+      "Goldie Hawn",
+      "Christopher Meloni",
+      "Ike Barinholtz",
+      "Óscar Jaenada",
+      "Wanda Sykes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/snatched.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sea Horses",
+    "year": 1926,
+    "cast": [
+      "Jack Holt",
+      "Florence Vidor",
+      "William Powell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sea-horses.html"
+}

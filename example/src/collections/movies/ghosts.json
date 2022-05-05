@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Ghosts",
+    "year": 1997,
+    "cast": [
+      "Michael Jackson"
+    ],
+    "genres": []
+  },
+  "output": "movies/ghosts.html"
+}

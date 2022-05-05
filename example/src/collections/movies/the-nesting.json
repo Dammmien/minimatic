@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Nesting",
+    "year": 1981,
+    "cast": [
+      "Robin Groves",
+      "Christopher Loomis",
+      "John Carradine"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-nesting.html"
+}

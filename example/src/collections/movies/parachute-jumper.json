@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Parachute Jumper",
+    "year": 1933,
+    "cast": [
+      "Bette Davis",
+      "Douglas Fairbanks Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/parachute-jumper.html"
+}

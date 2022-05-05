@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Rat Race",
+    "year": 2001,
+    "cast": [
+      "John Cleese",
+      "Rowan Atkinson",
+      "Cuba Gooding Jr.",
+      "Seth Green",
+      "Breckin Meyer",
+      "Whoopi Goldberg",
+      "Amy Smart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rat-race.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "King of Burlesque",
+    "year": 1936,
+    "cast": [
+      "Warner Baxter",
+      "Alice Faye",
+      "Fats Waller"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/king-of-burlesque.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Little Eve Edgarton",
+    "year": 1916,
+    "cast": [
+      "Ella Hall",
+      "Doris Pawn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-eve-edgarton.html"
+}

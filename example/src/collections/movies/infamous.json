@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Infamous",
+    "year": 2006,
+    "cast": [
+      "Toby Jones",
+      "Sandra Bullock",
+      "Daniel Craig",
+      "Lee Pace",
+      "Jeff Daniels",
+      "Hope Davis",
+      "Sigourney Weaver"
+    ],
+    "genres": [
+      "Biography",
+      "Crime"
+    ]
+  },
+  "output": "movies/infamous.html"
+}

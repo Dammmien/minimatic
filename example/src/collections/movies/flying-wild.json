@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Flying Wild",
+    "year": 1941,
+    "cast": [
+      "Leo Gorcey",
+      "David Gorcey"
+    ],
+    "genres": []
+  },
+  "output": "movies/flying-wild.html"
+}

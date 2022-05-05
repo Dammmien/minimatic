@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Checkered Flag",
+    "year": 1926,
+    "cast": [
+      "Elaine Hammerstein",
+      "Wallace MacDonald"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-checkered-flag.html"
+}

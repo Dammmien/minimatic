@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Song of Arizona",
+    "year": 1946,
+    "cast": [
+      "Roy Rogers",
+      "Dale Evans",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/song-of-arizona.html"
+}

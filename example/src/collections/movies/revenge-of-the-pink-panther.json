@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Revenge of the Pink Panther",
+    "year": 1978,
+    "cast": [
+      "Peter Sellers",
+      "Herbert Lom",
+      "Dyan Cannon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/revenge-of-the-pink-panther.html"
+}

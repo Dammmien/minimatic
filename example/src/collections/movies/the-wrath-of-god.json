@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wrath of God",
+    "year": 1972,
+    "cast": [
+      "Robert Mitchum",
+      "Frank Langella",
+      "Rita Hayworth"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-wrath-of-god.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Northwest Passage",
+    "year": 1940,
+    "cast": [
+      "Spencer Tracy",
+      "Robert Young",
+      "Walter Brennan"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/northwest-passage.html"
+}

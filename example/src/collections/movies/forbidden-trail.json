@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Forbidden Trail",
+    "year": 1932,
+    "cast": [
+      "Buck Jones",
+      "Barbara Weeks"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/forbidden-trail.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beauty-Proof",
+    "year": 1919,
+    "cast": [
+      "Harry T. Morey",
+      "Betty Blythe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beauty-proof.html"
+}

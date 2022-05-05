@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Follies Girl",
+    "year": 1943,
+    "cast": [
+      "Doris Nolan",
+      "Wendy Barrie"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/follies-girl.html"
+}

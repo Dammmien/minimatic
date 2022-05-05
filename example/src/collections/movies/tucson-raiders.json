@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tucson Raiders",
+    "year": 1944,
+    "cast": [
+      "Wild Bill Elliott",
+      "Peggy Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/tucson-raiders.html"
+}

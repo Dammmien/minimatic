@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Crocodile Hunter: Collision Course",
+    "year": 2002,
+    "cast": [
+      "Steve Irwin",
+      "Terri Irwin",
+      "Neil Fanning"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-crocodile-hunter--collision-course.html"
+}

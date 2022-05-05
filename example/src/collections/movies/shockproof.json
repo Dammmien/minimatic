@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shockproof",
+    "year": 1949,
+    "cast": [
+      "Cornel Wilde",
+      "Patricia Knight"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shockproof.html"
+}

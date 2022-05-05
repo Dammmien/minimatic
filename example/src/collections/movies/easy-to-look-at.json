@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Easy to Look at",
+    "year": 1945,
+    "cast": [
+      "Gloria Jean",
+      "Kirby Grant",
+      "Eric Blore"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/easy-to-look-at.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Stinks",
+    "year": 1999,
+    "cast": [
+      "French Stewart",
+      "Bridgette Wilson",
+      "Bill Bellamy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-stinks.html"
+}

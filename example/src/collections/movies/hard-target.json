@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Hard Target",
+    "year": 1993,
+    "cast": [
+      "Jean-Claude Van Damme",
+      "Lance Henriksen",
+      "Yancy Butler",
+      "Arnold Vosloo",
+      "Wilford Brimley"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/hard-target.html"
+}

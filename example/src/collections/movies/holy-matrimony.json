@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Holy Matrimony",
+    "year": 1994,
+    "cast": [
+      "Patricia Arquette",
+      "Joseph Gordon-Levitt",
+      "Tate Donovan",
+      "Armin Mueller-Stahl"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/holy-matrimony.html"
+}

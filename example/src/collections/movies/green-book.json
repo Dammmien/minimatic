@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Green Book",
+    "year": 2018,
+    "cast": [
+      "Viggo Mortensen",
+      "Mahershala Ali",
+      "Linda Cardellini"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/green-book.html"
+}

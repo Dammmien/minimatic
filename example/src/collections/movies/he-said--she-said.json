@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "He Said, She Said",
+    "year": 1991,
+    "cast": [
+      "Kevin Bacon",
+      "Elizabeth Perkins",
+      "Nathan Lane",
+      "Sharon Stone"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/he-said--she-said.html"
+}

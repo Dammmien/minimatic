@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Code Two",
+    "year": 1953,
+    "cast": [
+      "Ralph Meeker",
+      "Sally Forrest"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/code-two.html"
+}

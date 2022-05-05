@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beware, My Lovely",
+    "year": 1952,
+    "cast": [
+      "Ida Lupino",
+      "Robert Ryan"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/beware--my-lovely.html"
+}

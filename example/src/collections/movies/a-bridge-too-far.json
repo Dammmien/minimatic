@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "A Bridge Too Far",
+    "year": 1977,
+    "cast": [
+      "Dirk Bogarde",
+      "James Caan",
+      "Michael Caine",
+      "Sean Connery",
+      "Edward Fox",
+      "Elliott Gould",
+      "Gene Hackman",
+      "Anthony Hopkins",
+      "Hardy Krüger",
+      "Laurence Olivier",
+      "Robert Redford",
+      "Maximilian Schell"
+    ],
+    "genres": [
+      "War",
+      "Action"
+    ]
+  },
+  "output": "movies/a-bridge-too-far.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Let's Have Fun",
+    "year": 1943,
+    "cast": [
+      "Bert Gordon",
+      "Margaret Lindsay"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-s-have-fun.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Concrete Jungle",
+    "year": 1982,
+    "cast": [
+      "Jill St. John",
+      "Tracey E. Bregman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-concrete-jungle.html"
+}

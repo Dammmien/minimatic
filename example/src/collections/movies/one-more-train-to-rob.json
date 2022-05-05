@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One More Train to Rob",
+    "year": 1971,
+    "cast": [
+      "George Peppard",
+      "Diana Muldaur",
+      "John Vernon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/one-more-train-to-rob.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Little Miss Broadway",
+    "year": 1947,
+    "cast": [
+      "Jean Porter",
+      "John Shelton"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/little-miss-broadway.html"
+}

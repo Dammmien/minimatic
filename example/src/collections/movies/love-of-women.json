@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love of Women",
+    "year": 1924,
+    "cast": [
+      "Helene Chadwick",
+      "Montagu Love"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-of-women.html"
+}

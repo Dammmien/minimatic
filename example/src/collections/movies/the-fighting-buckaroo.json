@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Buckaroo",
+    "year": 1943,
+    "cast": [
+      "Charles Starrett",
+      "Arthur Hunnicutt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fighting-buckaroo.html"
+}

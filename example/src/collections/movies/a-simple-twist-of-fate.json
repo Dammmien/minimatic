@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Simple Twist of Fate",
+    "year": 1994,
+    "cast": [
+      "Steve Martin",
+      "Gabriel Byrne",
+      "Catherine O'Hara",
+      "Stephen Baldwin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-simple-twist-of-fate.html"
+}

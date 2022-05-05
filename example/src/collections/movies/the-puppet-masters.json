@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Puppet Masters",
+    "year": 1994,
+    "cast": [
+      "Donald Sutherland"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-puppet-masters.html"
+}

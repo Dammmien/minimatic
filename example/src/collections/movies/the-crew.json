@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Crew",
+    "year": 2000,
+    "cast": [
+      "Richard Dreyfuss",
+      "Burt Reynolds",
+      "Dan Hedaya"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-crew.html"
+}

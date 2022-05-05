@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wreck of the Singapore",
+    "year": 1928,
+    "cast": [
+      "Estelle Taylor",
+      "Jim Mason"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wreck-of-the-singapore.html"
+}

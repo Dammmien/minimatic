@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Police Car 17",
+    "year": 1933,
+    "cast": [
+      "Tim McCoy",
+      "Evalyn Knapp"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/police-car-17.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man Who Knew Too Little",
+    "year": 1997,
+    "cast": [
+      "Bill Murray",
+      "Joanne Whalley",
+      "Peter Gallagher"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-man-who-knew-too-little.html"
+}

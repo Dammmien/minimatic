@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Play It Again, Sam",
+    "year": 1972,
+    "cast": [
+      "Woody Allen",
+      "Diane Keaton",
+      "Tony Roberts",
+      "Susan Anspach"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/play-it-again--sam.html"
+}

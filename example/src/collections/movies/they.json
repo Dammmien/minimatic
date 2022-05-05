@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "They",
+    "year": 2002,
+    "cast": [
+      "Laura Regan",
+      "Marc Blucas",
+      "Ethan Embry"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/they.html"
+}

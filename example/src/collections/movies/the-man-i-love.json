@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man I Love",
+    "year": 1947,
+    "cast": [
+      "Ida Lupino",
+      "Robert Alda"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-i-love.html"
+}

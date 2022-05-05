@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sealed Lips",
+    "year": 1942,
+    "cast": [
+      "William Gargan",
+      "June Clyde"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sealed-lips.html"
+}

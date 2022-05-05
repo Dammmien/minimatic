@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "What Ever Happened to Aunt Alice?",
+    "year": 1969,
+    "cast": [
+      "Geraldine Page",
+      "Ruth Gordon",
+      "Rosemary Forsyth"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/what-ever-happened-to-aunt-alice-.html"
+}

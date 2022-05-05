@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Superhero Movie",
+    "year": 2008,
+    "cast": [
+      "Drake Bell",
+      "Sara Paxton",
+      "Leslie Nielsen",
+      "Christopher McDonald"
+    ],
+    "genres": [
+      "Comedy",
+      "Satire"
+    ]
+  },
+  "output": "movies/superhero-movie.html"
+}

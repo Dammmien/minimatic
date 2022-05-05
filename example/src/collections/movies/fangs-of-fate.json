@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fangs of Fate",
+    "year": 1925,
+    "cast": [
+      "Bill Patton",
+      "William Bertram"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fangs-of-fate.html"
+}

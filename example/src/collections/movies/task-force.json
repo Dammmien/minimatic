@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Task Force",
+    "year": 1949,
+    "cast": [
+      "Gary Cooper",
+      "Jane Wyatt",
+      "Walter Brennan"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/task-force.html"
+}

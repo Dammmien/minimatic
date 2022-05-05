@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Our Leading Citizen",
+    "year": 1922,
+    "cast": [
+      "Thomas Meighan",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/our-leading-citizen.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rock All Night",
+    "year": 1957,
+    "cast": [
+      "Abby Dalton",
+      "Russell Johnson"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/rock-all-night.html"
+}

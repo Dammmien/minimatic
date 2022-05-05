@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Say Anything",
+    "year": 1989,
+    "cast": [
+      "John Cusack",
+      "Ione Skye",
+      "John Mahoney",
+      "Lili Taylor"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/say-anything.html"
+}

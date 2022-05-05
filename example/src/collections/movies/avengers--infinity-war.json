@@ -1,0 +1,43 @@
+{
+  "data": {
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Chris Evans",
+      "Scarlett Johansson",
+      "Benedict Cumberbatch",
+      "Don Cheadle",
+      "Tom Holland",
+      "Chadwick Boseman",
+      "Paul Bettany",
+      "Elizabeth Olsen",
+      "Anthony Mackie",
+      "Sebastian Stan",
+      "Danai Gurira",
+      "Letitia Wright",
+      "Dave Bautista",
+      "Zoe Saldana",
+      "Pom Klementieff",
+      "Karen Gillan",
+      "Benedict Wong",
+      "Idris Elba",
+      "Peter Dinklage",
+      "Tom Hiddleston",
+      "Vin Diesel",
+      "Bradley Cooper",
+      "Gwyneth Paltrow",
+      "Benicio del Toro",
+      "Josh Brolin",
+      "Chris Pratt"
+    ],
+    "genres": [
+      "Superhero",
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/avengers--infinity-war.html"
+}

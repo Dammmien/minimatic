@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Dazed and Confused",
+    "year": 1993,
+    "cast": [
+      "Jason London",
+      "Rory Cochrane",
+      "Matthew McConaughey",
+      "Milla Jovovich",
+      "Joey Lauren Adams",
+      "Nicky Katt",
+      "Ben Affleck",
+      "Parker Posey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dazed-and-confused.html"
+}

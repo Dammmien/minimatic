@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Spy",
+    "year": 2015,
+    "cast": [
+      "Melissa McCarthy",
+      "Jason Statham",
+      "Rose Byrne",
+      "Jude Law"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/spy.html"
+}

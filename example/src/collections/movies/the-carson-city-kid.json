@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Carson City Kid",
+    "year": 1940,
+    "cast": [
+      "Roy Rogers",
+      "Bob Steele"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-carson-city-kid.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Border Romance",
+    "year": 1929,
+    "cast": [
+      "Armida",
+      "Don Terry",
+      "Marjorie Kane"
+    ],
+    "genres": [
+      "Romance",
+      "Western"
+    ]
+  },
+  "output": "movies/border-romance.html"
+}

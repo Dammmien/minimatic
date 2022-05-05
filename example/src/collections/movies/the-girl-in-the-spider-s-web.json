@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Girl in the Spider's Web",
+    "year": 2018,
+    "cast": [
+      "Claire Foy",
+      "Sverrir Gudnason",
+      "Lakeith Stanfield",
+      "Sylvia Hoeks",
+      "Stephen Merchant"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-girl-in-the-spider-s-web.html"
+}

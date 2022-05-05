@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Bette Midler Show",
+    "year": 1976,
+    "cast": [
+      "Bette Midler",
+      "Sharon Redd",
+      "Ula Hedwig",
+      "Charlotte Crossley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bette-midler-show.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stepping Lively",
+    "year": 1924,
+    "cast": [
+      "Richard Talmadge",
+      "Mildred Harris"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/stepping-lively.html"
+}

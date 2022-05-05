@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Scorchy",
+    "year": 1976,
+    "cast": [
+      "Connie Stevens"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/scorchy.html"
+}

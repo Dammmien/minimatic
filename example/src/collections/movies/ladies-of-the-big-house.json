@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ladies of the Big House",
+    "year": 1931,
+    "cast": [
+      "Sylvia Sidney",
+      "Gene Raymond",
+      "Wynne Gibson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ladies-of-the-big-house.html"
+}

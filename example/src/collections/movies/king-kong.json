@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "King Kong",
+    "year": 2005,
+    "cast": [
+      "Naomi Watts",
+      "Jack Black",
+      "Adrien Brody",
+      "Kyle Chandler",
+      "Thomas Kretschmann"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/king-kong.html"
+}

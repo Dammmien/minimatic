@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Spook Town",
+    "year": 1944,
+    "cast": [
+      "Dave O'Brien"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/spook-town.html"
+}

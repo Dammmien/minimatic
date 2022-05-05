@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tender Is the Night",
+    "year": 1962,
+    "cast": [
+      "Jennifer Jones",
+      "Joan Fontaine",
+      "Jason Robards"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tender-is-the-night.html"
+}

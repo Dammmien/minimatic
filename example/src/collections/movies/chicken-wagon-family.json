@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Chicken Wagon Family",
+    "year": 1939,
+    "cast": [
+      "Jane Withers",
+      "Leo Carrillo",
+      "Marjorie Weaver",
+      "Spring Byington"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/chicken-wagon-family.html"
+}

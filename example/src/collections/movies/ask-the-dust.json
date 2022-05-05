@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ask the Dust",
+    "year": 2006,
+    "cast": [
+      "Colin Farrell",
+      "Salma Hayek"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ask-the-dust.html"
+}

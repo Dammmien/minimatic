@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Mouth",
+    "year": 1967,
+    "cast": [
+      "Jerry Lewis",
+      "Harold J. Stone",
+      "Buddy Lester"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-big-mouth.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tennessee's Partner",
+    "year": 1955,
+    "cast": [
+      "John Payne",
+      "Ronald Reagan",
+      "Rhonda Fleming"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/tennessee-s-partner.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Cowboys",
+    "year": 1972,
+    "cast": [
+      "John Wayne",
+      "Bruce Dern",
+      "Roscoe Lee Browne",
+      "Robert Carradine",
+      "A Martinez"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-cowboys.html"
+}

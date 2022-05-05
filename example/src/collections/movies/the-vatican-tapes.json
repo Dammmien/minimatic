@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Vatican Tapes",
+    "year": 2015,
+    "cast": [
+      "Kathleen Robertson",
+      "Michael Peña",
+      "Djimon Hounsou",
+      "Dougray Scott"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-vatican-tapes.html"
+}

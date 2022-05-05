@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "You're in the Army Now",
+    "year": 1941,
+    "cast": [
+      "Jimmy Durante",
+      "Jane Wyman",
+      "Phil Silvers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-re-in-the-army-now.html"
+}

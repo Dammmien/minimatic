@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bottoms Up",
+    "year": 1934,
+    "cast": [
+      "Spencer Tracy",
+      "John Boles",
+      "Pat Paterson"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/bottoms-up.html"
+}

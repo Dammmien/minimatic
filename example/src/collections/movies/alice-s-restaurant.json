@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Alice's Restaurant",
+    "year": 1969,
+    "cast": [
+      "Arlo Guthrie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/alice-s-restaurant.html"
+}

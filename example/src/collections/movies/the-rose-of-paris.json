@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Rose of Paris",
+    "year": 1924,
+    "cast": [
+      "Mary Philbin",
+      "Robert Cain"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-rose-of-paris.html"
+}

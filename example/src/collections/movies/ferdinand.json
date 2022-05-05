@@ -1,0 +1,30 @@
+{
+  "data": {
+    "title": "Ferdinand",
+    "year": 2017,
+    "cast": [
+      "John Cena",
+      "David Tennant",
+      "Anthony Anderson",
+      "Gabriel Iglesias",
+      "Kate McKinnon",
+      "Boris Kodjoe",
+      "Miguel Ángel Silvestre",
+      "Raúl Esparza",
+      "Jerrod Carmichael",
+      "Gina Rodriguez",
+      "Daveed Diggs",
+      "Bobby Cannavale",
+      "Sally Phillips",
+      "Flula Borg",
+      "Karla Martínez"
+    ],
+    "genres": [
+      "Animated",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/ferdinand.html"
+}

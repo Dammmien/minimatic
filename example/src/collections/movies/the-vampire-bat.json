@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Vampire Bat",
+    "year": 1933,
+    "cast": [
+      "Fay Wray",
+      "Lionel Atwill",
+      "Melvyn Douglas"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-vampire-bat.html"
+}

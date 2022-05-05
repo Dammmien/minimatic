@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love, Rosie",
+    "year": 2015,
+    "cast": [
+      "Lily Collins",
+      "Sam Claflin"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/love--rosie.html"
+}

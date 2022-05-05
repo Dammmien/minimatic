@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Splendor",
+    "year": 1935,
+    "cast": [
+      "Miriam Hopkins",
+      "Joel McCrea",
+      "Helen Westley"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/splendor.html"
+}

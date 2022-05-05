@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Iceman",
+    "year": 1984,
+    "cast": [
+      "Timothy Hutton",
+      "John Lone",
+      "Lindsay Crouse"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/iceman.html"
+}

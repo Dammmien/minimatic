@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Time and Tide",
+    "year": 1916,
+    "cast": [
+      "Hugh Bennett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/time-and-tide.html"
+}

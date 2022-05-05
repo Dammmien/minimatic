@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Change of Heart",
+    "year": 1938,
+    "cast": [
+      "Gloria Stuart",
+      "Michael Whalen",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/change-of-heart.html"
+}

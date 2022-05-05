@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Letter",
+    "year": 1940,
+    "cast": [
+      "Bette Davis",
+      "Herbert Marshall",
+      "James Stephenson"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-letter.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "White Gold",
+    "year": 1927,
+    "cast": [
+      "Jetta Goudal",
+      "George Bancroft"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/white-gold.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Escape from New York",
+    "year": 1981,
+    "cast": [
+      "Kurt Russell",
+      "Lee Van Cleef",
+      "Donald Pleasence",
+      "Adrienne Barbeau",
+      "Isaac Hayes",
+      "Ernest Borgnine"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/escape-from-new-york.html"
+}

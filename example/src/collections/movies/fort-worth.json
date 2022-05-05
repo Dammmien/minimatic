@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fort Worth",
+    "year": 1951,
+    "cast": [
+      "Randolph Scott",
+      "David Brian"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fort-worth.html"
+}

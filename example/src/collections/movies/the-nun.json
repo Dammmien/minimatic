@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Nun",
+    "year": 2018,
+    "cast": [
+      "Demián Bichir",
+      "Taissa Farmiga",
+      "Jonas Bloquet",
+      "Charlotte Hope",
+      "Ingrid Bisu",
+      "Bonnie Aarons"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-nun.html"
+}

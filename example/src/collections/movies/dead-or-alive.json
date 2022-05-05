@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dead or Alive",
+    "year": 1951,
+    "cast": [
+      "Whip Wilson",
+      "Christine McIntyre"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/dead-or-alive.html"
+}

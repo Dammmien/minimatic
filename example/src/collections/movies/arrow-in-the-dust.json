@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Arrow in the Dust",
+    "year": 1954,
+    "cast": [
+      "Sterling Hayden",
+      "Coleen Gray"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/arrow-in-the-dust.html"
+}

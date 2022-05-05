@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prairie Thunder",
+    "year": 1937,
+    "cast": [
+      "Dick Foran",
+      "Frank Orth"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/prairie-thunder.html"
+}

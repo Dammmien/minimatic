@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Old English",
+    "year": 1930,
+    "cast": [
+      "George Arliss",
+      "Leon Janney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/old-english.html"
+}

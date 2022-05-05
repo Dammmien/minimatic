@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "High Flyers",
+    "year": 1937,
+    "cast": [
+      "Bert Wheeler",
+      "Robert Woolsey",
+      "Lupe Velez"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/high-flyers.html"
+}

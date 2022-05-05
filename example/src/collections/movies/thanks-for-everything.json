@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thanks for Everything",
+    "year": 1938,
+    "cast": [
+      "Jack Oakie",
+      "Adolphe Menjou",
+      "Jack Haley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/thanks-for-everything.html"
+}

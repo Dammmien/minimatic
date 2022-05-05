@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bar-Z Bad Men",
+    "year": 1937,
+    "cast": [
+      "Johnny Mack Brown",
+      "Lois January"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bar-z-bad-men.html"
+}

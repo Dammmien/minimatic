@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Lost Boys",
+    "year": 1987,
+    "cast": [
+      "Jason Patric",
+      "Corey Haim",
+      "Dianne Wiest",
+      "Barnard Hughes",
+      "Kiefer Sutherland",
+      "Jami Gertz"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-lost-boys.html"
+}

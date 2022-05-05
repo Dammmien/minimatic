@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Look in Any Window",
+    "year": 1961,
+    "cast": [
+      "Paul Anka",
+      "Gigi Perreau"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/look-in-any-window.html"
+}

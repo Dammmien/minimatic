@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pier 13",
+    "year": 1940,
+    "cast": [
+      "Lynn Bari",
+      "Lloyd Nolan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pier-13.html"
+}

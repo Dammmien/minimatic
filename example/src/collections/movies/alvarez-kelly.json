@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Alvarez Kelly",
+    "year": 1966,
+    "cast": [
+      "William Holden",
+      "Richard Widmark",
+      "Janice Rule"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/alvarez-kelly.html"
+}

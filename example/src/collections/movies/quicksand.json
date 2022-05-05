@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Quicksand",
+    "year": 2003,
+    "cast": [
+      "Michael Keaton",
+      "Michael Caine"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/quicksand.html"
+}

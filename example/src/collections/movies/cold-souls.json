@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cold Souls",
+    "year": 2009,
+    "cast": [
+      "Paul Giamatti",
+      "Emily Watson",
+      "David Strathairn",
+      "Dina Korzun"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cold-souls.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "They Won't Believe Me",
+    "year": 1947,
+    "cast": [
+      "Susan Hayward",
+      "Robert Young",
+      "Jane Greer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/they-won-t-believe-me.html"
+}

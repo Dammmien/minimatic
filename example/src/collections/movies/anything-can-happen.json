@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Anything Can Happen",
+    "year": 1952,
+    "cast": [
+      "José Ferrer",
+      "Kim Hunter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/anything-can-happen.html"
+}

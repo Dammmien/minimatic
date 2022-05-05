@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "As the Sun Went Down",
+    "year": 1919,
+    "cast": [
+      "Edith Storey",
+      "Lew Cody"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/as-the-sun-went-down.html"
+}

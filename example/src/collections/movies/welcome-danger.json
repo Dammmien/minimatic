@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Welcome Danger",
+    "year": 1929,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/welcome-danger.html"
+}

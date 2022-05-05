@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Cook Off!",
+    "year": 2017,
+    "cast": [
+      "Cathryn Michon",
+      "Melissa McCarthy",
+      "Wendi McLendon-Covey",
+      "Diedrich Bader",
+      "Gary Anthony Williams",
+      "Ben Falcone",
+      "Niecy Nash",
+      "Louie Anderson",
+      "Stephen Root"
+    ],
+    "genres": [
+      "Satire",
+      "Comedy"
+    ]
+  },
+  "output": "movies/cook-off-.html"
+}

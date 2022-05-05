@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It's Tough to Be Famous",
+    "year": 1932,
+    "cast": [
+      "Douglas Fairbanks Jr.",
+      "Mary Brian"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-tough-to-be-famous.html"
+}

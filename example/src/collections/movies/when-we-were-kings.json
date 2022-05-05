@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When We Were Kings",
+    "year": 1996,
+    "cast": [
+      "Muhammad Ali",
+      "George Foreman"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/when-we-were-kings.html"
+}

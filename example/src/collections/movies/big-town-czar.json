@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Big Town Czar",
+    "year": 1939,
+    "cast": [
+      "Barton MacLane",
+      "Tom Brown",
+      "Eve Arden"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/big-town-czar.html"
+}

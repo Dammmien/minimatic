@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Manitou",
+    "year": 1978,
+    "cast": [
+      "Tony Curtis",
+      "Ann Sothern",
+      "Susan Strasberg"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-manitou.html"
+}

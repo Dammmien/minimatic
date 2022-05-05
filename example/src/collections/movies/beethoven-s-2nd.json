@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Beethoven's 2nd",
+    "year": 1993,
+    "cast": [
+      "Charles Grodin",
+      "Bonnie Hunt",
+      "Debi Mazar",
+      "Chris Penn"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/beethoven-s-2nd.html"
+}

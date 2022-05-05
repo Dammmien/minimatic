@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Arizona Cowboy",
+    "year": 1950,
+    "cast": [
+      "Rex Allen",
+      "Teala Loring"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-arizona-cowboy.html"
+}

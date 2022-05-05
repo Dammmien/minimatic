@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Scribbler",
+    "year": 2014,
+    "cast": [
+      "Katie Cassidy",
+      "Garret Dillahunt",
+      "Michelle Trachtenberg"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-scribbler.html"
+}

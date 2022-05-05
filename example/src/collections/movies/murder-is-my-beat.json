@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Murder Is My Beat",
+    "year": 1955,
+    "cast": [
+      "Barbara Payton",
+      "Paul Langton"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/murder-is-my-beat.html"
+}

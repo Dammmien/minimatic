@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Infinity",
+    "year": 1996,
+    "cast": [
+      "Matthew Broderick",
+      "Patricia Arquette"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/infinity.html"
+}

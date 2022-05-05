@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Am I Guilty?",
+    "year": 1940,
+    "cast": [
+      "Ralph Cooper",
+      "Sam McDaniel"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/am-i-guilty-.html"
+}

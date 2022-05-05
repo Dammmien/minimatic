@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Barry Munday",
+    "year": 2010,
+    "cast": [
+      "Patrick Wilson",
+      "Judy Greer",
+      "Chloë Sevigny",
+      "Jean Smart",
+      "Cybill Shepherd",
+      "Shea Whigham",
+      "Missi Pyle",
+      "Christopher McDonald",
+      "Billy Dee Williams",
+      "Malcolm McDowell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/barry-munday.html"
+}

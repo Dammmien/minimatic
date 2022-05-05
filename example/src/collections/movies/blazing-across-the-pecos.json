@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blazing Across the Pecos",
+    "year": 1948,
+    "cast": [
+      "Charles Starrett",
+      "Patricia Barry"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/blazing-across-the-pecos.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Rio Bravo",
+    "year": 1959,
+    "cast": [
+      "John Wayne",
+      "Dean Martin",
+      "Ricky Nelson",
+      "Angie Dickinson",
+      "Walter Brennan",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rio-bravo.html"
+}

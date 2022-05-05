@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Slugs",
+    "year": 1988,
+    "cast": [
+      "Michael Garfield"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/slugs.html"
+}

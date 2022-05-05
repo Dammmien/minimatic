@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Godspell",
+    "year": 1973,
+    "cast": [
+      "Victor Garber"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/godspell.html"
+}

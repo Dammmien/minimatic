@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Something for the Boys",
+    "year": 1944,
+    "cast": [
+      "Carmen Miranda",
+      "Phil Silvers",
+      "Perry Como"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/something-for-the-boys.html"
+}

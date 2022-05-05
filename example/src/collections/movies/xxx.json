@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "xXx",
+    "year": 2002,
+    "cast": [
+      "Vin Diesel",
+      "Asia Argento",
+      "Marton Csokas"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/xxx.html"
+}

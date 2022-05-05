@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Book of Henry",
+    "year": 2017,
+    "cast": [
+      "Naomi Watts",
+      "Jacob Tremblay",
+      "Jaeden Lieberher",
+      "Dean Norris",
+      "Maddie Ziegler",
+      "Sarah Silverman",
+      "Lee Pace",
+      "Bobby Moynihan",
+      "Tonya Pinkins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-book-of-henry.html"
+}

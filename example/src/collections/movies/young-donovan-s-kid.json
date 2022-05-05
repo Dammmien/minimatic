@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Young Donovan's Kid",
+    "year": 1931,
+    "cast": [
+      "Richard Dix",
+      "Marion Shilling",
+      "Jackie Cooper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/young-donovan-s-kid.html"
+}

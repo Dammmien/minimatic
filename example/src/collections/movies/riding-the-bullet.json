@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Riding the Bullet",
+    "year": 2004,
+    "cast": [
+      "Jonathan Jackson",
+      "David Arquette",
+      "Cliff Robertson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/riding-the-bullet.html"
+}

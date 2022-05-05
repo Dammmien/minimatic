@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Quiet Days in Hollywood",
+    "year": 1997,
+    "cast": [
+      "Hilary Swank",
+      "Chad Lowe",
+      "Natasha Gregson Wagner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/quiet-days-in-hollywood.html"
+}

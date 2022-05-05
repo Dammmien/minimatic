@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Darkest Hour",
+    "year": 2017,
+    "cast": [
+      "Gary Oldman",
+      "Ben Mendelsohn",
+      "Kristin Scott Thomas",
+      "Lily James",
+      "Stephen Dillane",
+      "Ronald Pickup"
+    ],
+    "genres": [
+      "Biography",
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/darkest-hour.html"
+}

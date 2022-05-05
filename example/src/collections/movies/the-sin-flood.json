@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sin Flood",
+    "year": 1922,
+    "cast": [
+      "Richard Dix",
+      "Helene Chadwick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sin-flood.html"
+}

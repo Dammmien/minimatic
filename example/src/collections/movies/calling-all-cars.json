@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Calling All Cars",
+    "year": 1935,
+    "cast": [
+      "Jack La Rue",
+      "Lillian Miles"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/calling-all-cars.html"
+}

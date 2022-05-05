@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Romance",
+    "year": 1930,
+    "cast": [
+      "Greta Garbo",
+      "Lewis Stone"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/romance.html"
+}

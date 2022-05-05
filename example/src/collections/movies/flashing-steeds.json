@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flashing Steeds",
+    "year": 1925,
+    "cast": [
+      "Bill Patton",
+      "Merrill McCormick"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/flashing-steeds.html"
+}

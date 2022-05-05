@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Black Viper",
+    "year": 1908,
+    "cast": [
+      "D. W. Griffith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-black-viper.html"
+}

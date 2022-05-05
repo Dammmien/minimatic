@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "South Sea Sinner",
+    "year": 1950,
+    "cast": [
+      "Shelley Winters",
+      "Macdonald Carey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/south-sea-sinner.html"
+}

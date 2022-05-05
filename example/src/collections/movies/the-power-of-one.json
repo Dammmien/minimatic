@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Power of One",
+    "year": 1992,
+    "cast": [
+      "Stephen Dorff",
+      "Morgan Freeman",
+      "Armin Mueller-Stahl",
+      "John Gielgud"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-power-of-one.html"
+}

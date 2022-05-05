@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love Bound",
+    "year": 1932,
+    "cast": [
+      "Jack Mulhall",
+      "Natalie Moorhead"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-bound.html"
+}

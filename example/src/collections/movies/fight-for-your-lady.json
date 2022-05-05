@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fight for Your Lady",
+    "year": 1937,
+    "cast": [
+      "John Boles",
+      "Ida Lupino",
+      "Jack Oakie"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/fight-for-your-lady.html"
+}

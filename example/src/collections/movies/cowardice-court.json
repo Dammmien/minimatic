@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cowardice Court",
+    "year": 1919,
+    "cast": [
+      "Peggy Hyland",
+      "Jack Livingston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cowardice-court.html"
+}

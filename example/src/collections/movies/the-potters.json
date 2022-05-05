@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Potters",
+    "year": 1927,
+    "cast": [
+      "W. C. Fields",
+      "Mary Alden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-potters.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Find Your Man",
+    "year": 1924,
+    "cast": [
+      "June Marlowe",
+      "Eric St. Clair"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/find-your-man.html"
+}

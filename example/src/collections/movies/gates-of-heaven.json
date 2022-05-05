@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gates of Heaven",
+    "year": 1978,
+    "cast": [
+      "Lucille Billingsley",
+      "Errol Morris"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/gates-of-heaven.html"
+}

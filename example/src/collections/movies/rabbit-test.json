@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rabbit Test",
+    "year": 1978,
+    "cast": [
+      "Billy Crystal",
+      "Doris Roberts",
+      "Alex Rocco"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rabbit-test.html"
+}

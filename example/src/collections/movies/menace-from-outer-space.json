@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Menace from Outer Space",
+    "year": 1956,
+    "cast": [
+      "Richard Crane",
+      "Sally Mansfield"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/menace-from-outer-space.html"
+}

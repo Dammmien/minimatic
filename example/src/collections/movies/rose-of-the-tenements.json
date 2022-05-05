@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rose of the Tenements",
+    "year": 1926,
+    "cast": [
+      "Shirley Mason",
+      "Johnny Harron"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rose-of-the-tenements.html"
+}

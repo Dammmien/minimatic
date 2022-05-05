@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild Oranges",
+    "year": 1924,
+    "cast": [
+      "Virginia Valli",
+      "Frank Mayo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wild-oranges.html"
+}

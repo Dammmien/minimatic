@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Are You with It?",
+    "year": 1948,
+    "cast": [
+      "Donald O'Connor",
+      "Olga San Juan"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/are-you-with-it-.html"
+}

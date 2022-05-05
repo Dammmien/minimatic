@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "American Pluck",
+    "year": 1925,
+    "cast": [
+      "George Walsh",
+      "Wanda Hawley"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/american-pluck.html"
+}

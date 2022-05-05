@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Only Yesterday",
+    "year": 1933,
+    "cast": [
+      "Margaret Sullavan",
+      "John Boles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/only-yesterday.html"
+}

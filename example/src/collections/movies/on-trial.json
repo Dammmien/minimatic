@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "On Trial",
+    "year": 1939,
+    "cast": [
+      "John Litel",
+      "Margaret Lindsay"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/on-trial.html"
+}

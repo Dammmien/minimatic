@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Brute Force",
+    "year": 1947,
+    "cast": [
+      "Burt Lancaster",
+      "Hume Cronyn"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/brute-force.html"
+}

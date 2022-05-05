@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Anthem to Beauty",
+    "year": 1997,
+    "cast": [
+      "Grateful Dead"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/anthem-to-beauty.html"
+}

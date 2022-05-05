@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "They Met in a Taxi",
+    "year": 1936,
+    "cast": [
+      "Fay Wray",
+      "Chester Morris",
+      "Raymond Walburn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/they-met-in-a-taxi.html"
+}

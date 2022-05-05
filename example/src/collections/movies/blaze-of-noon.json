@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blaze of Noon",
+    "year": 1947,
+    "cast": [
+      "Anne Baxter",
+      "William Holden",
+      "Sonny Tufts"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blaze-of-noon.html"
+}

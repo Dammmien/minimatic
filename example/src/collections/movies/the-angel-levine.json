@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Angel Levine",
+    "year": 1970,
+    "cast": [
+      "Zero Mostel",
+      "Harry Belafonte",
+      "Ida Kaminska"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-angel-levine.html"
+}

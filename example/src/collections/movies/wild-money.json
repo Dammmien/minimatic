@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wild Money",
+    "year": 1937,
+    "cast": [
+      "Edward Everett Horton",
+      "Louise Campbell",
+      "Lynne Overman"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/wild-money.html"
+}

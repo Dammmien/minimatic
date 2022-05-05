@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Viva Cisco Kid",
+    "year": 1940,
+    "cast": [
+      "Cesar Romero",
+      "Jean Rogers"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/viva-cisco-kid.html"
+}

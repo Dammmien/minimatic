@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fountain",
+    "year": 2006,
+    "cast": [
+      "Hugh Jackman",
+      "Rachel Weisz",
+      "Ellen Burstyn"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-fountain.html"
+}

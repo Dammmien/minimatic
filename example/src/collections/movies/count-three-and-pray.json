@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Count Three and Pray",
+    "year": 1955,
+    "cast": [
+      "Van Heflin",
+      "Joanne Woodward"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/count-three-and-pray.html"
+}

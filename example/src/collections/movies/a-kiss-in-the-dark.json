@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Kiss in the Dark",
+    "year": 1949,
+    "cast": [
+      "Jane Wyman",
+      "David Niven"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-kiss-in-the-dark.html"
+}

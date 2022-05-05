@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "College Coach",
+    "year": 1933,
+    "cast": [
+      "Dick Powell",
+      "Ann Dvorak",
+      "Pat O'Brien"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/college-coach.html"
+}

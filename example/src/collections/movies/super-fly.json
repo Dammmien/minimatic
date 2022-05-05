@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Super Fly",
+    "year": 1972,
+    "cast": [
+      "Ron O'Neal",
+      "Julius Harris"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/super-fly.html"
+}

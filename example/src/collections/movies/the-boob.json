@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Boob",
+    "year": 1926,
+    "cast": [
+      "Gertrude Olmstead",
+      "George K. Arthur",
+      "Joan Crawford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-boob.html"
+}

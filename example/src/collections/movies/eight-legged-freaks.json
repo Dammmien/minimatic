@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Eight Legged Freaks",
+    "year": 2002,
+    "cast": [
+      "David Arquette",
+      "Kari Wührer",
+      "Scarlett Johansson"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/eight-legged-freaks.html"
+}

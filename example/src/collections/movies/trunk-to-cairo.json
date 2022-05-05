@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trunk to Cairo",
+    "year": 1966,
+    "cast": [
+      "Audie Murphy",
+      "George Sanders"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/trunk-to-cairo.html"
+}

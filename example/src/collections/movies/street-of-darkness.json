@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Street of Darkness",
+    "year": 1958,
+    "cast": [
+      "Robert Keys",
+      "Julie Gibson"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/street-of-darkness.html"
+}

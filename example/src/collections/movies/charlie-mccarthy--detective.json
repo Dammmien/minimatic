@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Charlie McCarthy, Detective",
+    "year": 1939,
+    "cast": [
+      "Edgar Bergen",
+      "Charlie McCarthy",
+      "Mortimer Snerd",
+      "Robert Cummings",
+      "Constance Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/charlie-mccarthy--detective.html"
+}

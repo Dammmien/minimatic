@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Flesh Is Weak",
+    "year": 1957,
+    "cast": [
+      "John Derek",
+      "Milly Vitale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-flesh-is-weak.html"
+}

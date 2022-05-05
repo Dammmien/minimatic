@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Boys and Girls",
+    "year": 2000,
+    "cast": [
+      "Claire Forlani",
+      "Freddie Prinze, Jr.",
+      "Jason Biggs"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/boys-and-girls.html"
+}

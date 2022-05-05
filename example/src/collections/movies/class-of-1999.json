@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Class of 1999",
+    "year": 1990,
+    "cast": [
+      "Malcolm McDowell",
+      "Stacy Keach",
+      "Traci Lind"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/class-of-1999.html"
+}

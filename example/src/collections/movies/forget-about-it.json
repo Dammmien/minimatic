@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Forget About It",
+    "year": 2006,
+    "cast": [
+      "Burt Reynolds",
+      "Robert Loggia",
+      "Charles Durning"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/forget-about-it.html"
+}

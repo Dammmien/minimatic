@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Captain America",
+    "year": 1991,
+    "cast": [
+      "Matt Salinger",
+      "Ronny Cox",
+      "Ned Beatty"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/captain-america.html"
+}

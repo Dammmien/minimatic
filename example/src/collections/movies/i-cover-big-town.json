@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Cover Big Town",
+    "year": 1947,
+    "cast": [
+      "Hillary Brooke",
+      "Phillip Reed"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-cover-big-town.html"
+}

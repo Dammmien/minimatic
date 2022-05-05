@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Barbary Coast",
+    "year": 1935,
+    "cast": [
+      "Edward G. Robinson",
+      "Miriam Hopkins",
+      "Joel McCrea"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/barbary-coast.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Arson for Hire",
+    "year": 1959,
+    "cast": [
+      "Steve Brodie",
+      "Lyn Osborn"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/arson-for-hire.html"
+}

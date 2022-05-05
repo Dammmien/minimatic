@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Stolen Jools",
+    "year": 1931,
+    "cast": [
+      "Wallace Beery",
+      "Buster Keaton",
+      "Norma Shearer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-stolen-jools.html"
+}

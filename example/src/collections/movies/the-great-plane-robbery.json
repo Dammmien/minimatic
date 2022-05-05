@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Plane Robbery",
+    "year": 1950,
+    "cast": [
+      "Tom Conway",
+      "Steve Brodie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-great-plane-robbery.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hot Heiress",
+    "year": 1931,
+    "cast": [
+      "Ben Lyon",
+      "Ona Munson",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-hot-heiress.html"
+}

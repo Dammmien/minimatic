@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Candyman",
+    "year": 1992,
+    "cast": [
+      "Virginia Madsen",
+      "Tony Todd"
+    ],
+    "genres": [
+      "Slasher"
+    ]
+  },
+  "output": "movies/candyman.html"
+}

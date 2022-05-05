@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Basket Case",
+    "year": 1982,
+    "cast": [
+      "Kevin Van Hentenryck"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/basket-case.html"
+}

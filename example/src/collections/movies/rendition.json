@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Rendition",
+    "year": 2007,
+    "cast": [
+      "Jake Gyllenhaal",
+      "Reese Witherspoon",
+      "Peter Sarsgaard",
+      "Alan Arkin",
+      "Meryl Streep"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rendition.html"
+}

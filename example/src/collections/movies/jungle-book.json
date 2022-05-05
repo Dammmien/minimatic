@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jungle Book",
+    "year": 1967,
+    "cast": [
+      "Bruce Reitherman",
+      "Phil Harris",
+      "George Sanders"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/jungle-book.html"
+}

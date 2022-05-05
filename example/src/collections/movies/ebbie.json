@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ebbie",
+    "year": 1995,
+    "cast": [
+      "Susan Lucci",
+      "Jeffrey DeMunn",
+      "Ron Lea",
+      "Taran Noah Smith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ebbie.html"
+}

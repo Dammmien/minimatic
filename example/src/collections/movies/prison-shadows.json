@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Prison Shadows",
+    "year": 1936,
+    "cast": [
+      "Edward J. Nugent",
+      "Lucille Lund",
+      "Joan Barclay"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/prison-shadows.html"
+}

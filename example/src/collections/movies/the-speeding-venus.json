@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Speeding Venus",
+    "year": 1926,
+    "cast": [
+      "Priscilla Dean",
+      "Robert Frazer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-speeding-venus.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Up and Going",
+    "year": 1922,
+    "cast": [
+      "Cecil Van Auker",
+      "Carol Holloway"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/up-and-going.html"
+}

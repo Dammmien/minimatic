@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Grand Canyon",
+    "year": 1991,
+    "cast": [
+      "Kevin Kline",
+      "Danny Glover",
+      "Alfre Woodard",
+      "Steve Martin",
+      "Mary-Louise Parker",
+      "Mary McDonnell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/grand-canyon.html"
+}

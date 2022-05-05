@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Million Dollar Arm",
+    "year": 2014,
+    "cast": [
+      "Jon Hamm",
+      "Aasif Mandvi",
+      "Madhur Mittal",
+      "Lake Bell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/million-dollar-arm.html"
+}

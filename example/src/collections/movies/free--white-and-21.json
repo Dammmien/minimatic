@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Free, White and 21",
+    "year": 1963,
+    "cast": [
+      "Frederick O'Neal",
+      "Annalena Lund"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/free--white-and-21.html"
+}

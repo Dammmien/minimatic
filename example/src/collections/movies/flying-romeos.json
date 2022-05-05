@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flying Romeos",
+    "year": 1928,
+    "cast": [
+      "Charles Murray",
+      "Fritzi Ridgeway"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/flying-romeos.html"
+}

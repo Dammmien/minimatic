@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The House on 56th Street",
+    "year": 1933,
+    "cast": [
+      "Kay Francis",
+      "Ricardo Cortez",
+      "Margaret Lindsay"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-house-on-56th-street.html"
+}

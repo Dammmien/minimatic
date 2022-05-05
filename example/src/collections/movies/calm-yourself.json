@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Calm Yourself",
+    "year": 1935,
+    "cast": [
+      "Robert Young",
+      "Madge Evans"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/calm-yourself.html"
+}

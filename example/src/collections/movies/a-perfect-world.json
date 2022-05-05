@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A Perfect World",
+    "year": 1993,
+    "cast": [
+      "Kevin Costner",
+      "Clint Eastwood",
+      "Laura Dern",
+      "Bradley Whitford"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/a-perfect-world.html"
+}

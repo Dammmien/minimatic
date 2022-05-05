@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "At the Circus",
+    "year": 1939,
+    "cast": [
+      "Marx Brothers",
+      "Kenny Baker",
+      "Florence Rice",
+      "Eve Arden",
+      "Margaret Dumont"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/at-the-circus.html"
+}

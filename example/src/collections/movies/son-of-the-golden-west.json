@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Son of the Golden West",
+    "year": 1928,
+    "cast": [
+      "Tom Mix",
+      "Sharon Lynn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/son-of-the-golden-west.html"
+}

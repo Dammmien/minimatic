@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blood and Steel",
+    "year": 1959,
+    "cast": [
+      "John Lupton",
+      "Ziva Rodann"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/blood-and-steel.html"
+}

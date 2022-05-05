@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Prime",
+    "year": 2005,
+    "cast": [
+      "Uma Thurman",
+      "Meryl Streep",
+      "Bryan Greenberg"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/prime.html"
+}

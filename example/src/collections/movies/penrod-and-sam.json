@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Penrod and Sam",
+    "year": 1937,
+    "cast": [
+      "Billy Mauch",
+      "Spring Byington"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/penrod-and-sam.html"
+}

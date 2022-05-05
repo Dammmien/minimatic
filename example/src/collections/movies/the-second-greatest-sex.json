@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Second Greatest Sex",
+    "year": 1955,
+    "cast": [
+      "Jeanne Crain",
+      "Kitty Kallen",
+      "Mamie van Doren",
+      "Kathleen Case",
+      "George Nader",
+      "Bert Lahr"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-second-greatest-sex.html"
+}

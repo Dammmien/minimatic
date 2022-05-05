@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rosita",
+    "year": 1923,
+    "cast": [
+      "Mary Pickford",
+      "Holbrook Blinn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rosita.html"
+}

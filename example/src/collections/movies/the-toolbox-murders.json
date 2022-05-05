@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Toolbox Murders",
+    "year": 1978,
+    "cast": [
+      "Cameron Mitchell"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-toolbox-murders.html"
+}

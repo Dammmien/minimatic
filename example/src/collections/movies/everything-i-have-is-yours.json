@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Everything I Have Is Yours",
+    "year": 1952,
+    "cast": [
+      "Marge Champion",
+      "Gower Champion"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/everything-i-have-is-yours.html"
+}

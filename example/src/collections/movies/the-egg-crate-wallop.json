@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Egg Crate Wallop",
+    "year": 1919,
+    "cast": [
+      "Charles Ray",
+      "Colleen Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-egg-crate-wallop.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "They Might Be Giants",
+    "year": 1971,
+    "cast": [
+      "George C. Scott",
+      "Joanne Woodward"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/they-might-be-giants.html"
+}

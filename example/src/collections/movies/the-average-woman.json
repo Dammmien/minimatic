@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Average Woman",
+    "year": 1924,
+    "cast": [
+      "Pauline Garon",
+      "David Powell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-average-woman.html"
+}

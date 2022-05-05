@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Appointment in Tokyo",
+    "year": 1945,
+    "cast": [],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/appointment-in-tokyo.html"
+}

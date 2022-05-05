@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Man of Quality",
+    "year": 1926,
+    "cast": [
+      "George Walsh",
+      "Ruth Dwyer",
+      "Brian Donlevy"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/a-man-of-quality.html"
+}

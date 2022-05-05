@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Roman Scandals",
+    "year": 1933,
+    "cast": [
+      "Eddie Cantor",
+      "Ruth Etting",
+      "Gloria Stuart"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/roman-scandals.html"
+}

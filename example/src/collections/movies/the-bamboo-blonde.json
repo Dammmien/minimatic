@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bamboo Blonde",
+    "year": 1946,
+    "cast": [
+      "Frances Langford",
+      "Ralph Edwards",
+      "Iris Adrian"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-bamboo-blonde.html"
+}

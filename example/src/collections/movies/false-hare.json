@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "False Hare",
+    "year": 1964,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/false-hare.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "King of Gamblers",
+    "year": 1937,
+    "cast": [
+      "Akim Tamiroff",
+      "Claire Trevor",
+      "Lloyd Nolan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/king-of-gamblers.html"
+}

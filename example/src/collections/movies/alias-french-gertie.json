@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Alias French Gertie",
+    "year": 1930,
+    "cast": [
+      "Bebe Daniels",
+      "Ben Lyon"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/alias-french-gertie.html"
+}

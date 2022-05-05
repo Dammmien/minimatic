@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Daydreamer",
+    "year": 1966,
+    "cast": [
+      "Paul O'Keefe",
+      "Ray Bolger"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-daydreamer.html"
+}

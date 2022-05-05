@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Studio Stoops",
+    "year": 1950,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/studio-stoops.html"
+}

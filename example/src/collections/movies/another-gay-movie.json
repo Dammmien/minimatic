@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Another Gay Movie",
+    "year": 2006,
+    "cast": [
+      "Michael Carbonaro",
+      "Jonah Blechman",
+      "Jonathan Chase",
+      "Mitch Morris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/another-gay-movie.html"
+}

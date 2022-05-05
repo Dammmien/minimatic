@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Alibi for Murder",
+    "year": 1936,
+    "cast": [
+      "William Gargan",
+      "Marguerite Churchill"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/alibi-for-murder.html"
+}

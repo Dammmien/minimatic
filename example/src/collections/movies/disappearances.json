@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Disappearances",
+    "year": 2006,
+    "cast": [
+      "Kris Kristofferson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/disappearances.html"
+}

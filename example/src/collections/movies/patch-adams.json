@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Patch Adams",
+    "year": 1998,
+    "cast": [
+      "Robin Williams",
+      "Monica Potter",
+      "Philip Seymour Hoffman"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/patch-adams.html"
+}

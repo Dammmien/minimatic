@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Colorado Sundown",
+    "year": 1952,
+    "cast": [
+      "Rex Allen",
+      "Slim Pickens"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/colorado-sundown.html"
+}

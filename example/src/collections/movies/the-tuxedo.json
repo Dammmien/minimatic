@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Tuxedo",
+    "year": 2002,
+    "cast": [
+      "Jackie Chan",
+      "Jennifer Love Hewitt",
+      "Jason Isaacs"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-tuxedo.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ghosts Can't Do It",
+    "year": 1990,
+    "cast": [
+      "Bo Derek",
+      "Anthony Quinn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ghosts-can-t-do-it.html"
+}

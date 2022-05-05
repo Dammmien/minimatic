@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Brothers in the Saddle",
+    "year": 1949,
+    "cast": [
+      "Tim Holt",
+      "Richard Martin"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/brothers-in-the-saddle.html"
+}

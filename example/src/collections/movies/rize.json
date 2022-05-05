@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Rize",
+    "year": 2005,
+    "cast": [
+      "clowning and krumping"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/rize.html"
+}

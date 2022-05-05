@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Rustle of Silk",
+    "year": 1923,
+    "cast": [
+      "Betty Compson",
+      "Conway Tearle",
+      "Anna Q. Nilsson"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-rustle-of-silk.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Desperate Men",
+    "year": 1951,
+    "cast": [
+      "Preston Foster",
+      "Jim Davis",
+      "Virginia Grey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/three-desperate-men.html"
+}

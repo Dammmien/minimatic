@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Soul Men",
+    "year": 2008,
+    "cast": [
+      "Samuel L. Jackson",
+      "Bernie Mac"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/soul-men.html"
+}

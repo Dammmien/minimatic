@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Timberjack",
+    "year": 1955,
+    "cast": [
+      "Sterling Hayden",
+      "Vera Ralston"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/timberjack.html"
+}

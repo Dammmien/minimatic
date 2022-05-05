@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "All at Sea",
+    "year": 1929,
+    "cast": [
+      "Karl Dane",
+      "George K. Arthur"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/all-at-sea.html"
+}

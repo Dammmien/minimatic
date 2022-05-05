@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "House of Games",
+    "year": 1987,
+    "cast": [
+      "Joe Mantegna",
+      "Lindsay Crouse",
+      "Ricky Jay"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/house-of-games.html"
+}

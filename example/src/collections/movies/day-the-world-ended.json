@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Day the World Ended",
+    "year": 1955,
+    "cast": [
+      "Richard Denning",
+      "Adele Jergens"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/day-the-world-ended.html"
+}

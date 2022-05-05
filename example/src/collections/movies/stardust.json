@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stardust",
+    "year": 2007,
+    "cast": [
+      "Claire Danes",
+      "Michelle Pfeiffer",
+      "Robert De Niro"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/stardust.html"
+}

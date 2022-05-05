@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pete Kelly's Blues",
+    "year": 1955,
+    "cast": [
+      "Jack Webb",
+      "Janet Leigh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pete-kelly-s-blues.html"
+}

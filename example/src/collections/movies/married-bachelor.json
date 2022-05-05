@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Married Bachelor",
+    "year": 1941,
+    "cast": [
+      "Robert Young",
+      "Ruth Hussey"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/married-bachelor.html"
+}

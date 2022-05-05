@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Heart Is a Lonely Hunter",
+    "year": 1968,
+    "cast": [
+      "Alan Arkin",
+      "Chuck McCann",
+      "Sondra Locke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-heart-is-a-lonely-hunter.html"
+}

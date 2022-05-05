@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Success at Any Price",
+    "year": 1934,
+    "cast": [
+      "Douglas Fairbanks Jr.",
+      "Genevieve Tobin",
+      "Colleen Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/success-at-any-price.html"
+}

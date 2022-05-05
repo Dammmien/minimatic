@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Enemy",
+    "year": 1927,
+    "cast": [
+      "Lillian Gish",
+      "Ralph Forbes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-enemy.html"
+}

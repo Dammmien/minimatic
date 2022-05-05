@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Suspect",
+    "year": 1944,
+    "cast": [
+      "Charles Laughton",
+      "Ella Raines"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-suspect.html"
+}

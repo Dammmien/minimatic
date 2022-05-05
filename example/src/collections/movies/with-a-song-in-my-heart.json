@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "With a Song in My Heart",
+    "year": 1952,
+    "cast": [
+      "Susan Hayward",
+      "Rory Calhoun"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/with-a-song-in-my-heart.html"
+}

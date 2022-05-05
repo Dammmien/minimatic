@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Sleepers",
+    "year": 1996,
+    "cast": [
+      "Brad Pitt",
+      "Robert De Niro",
+      "Jason Patric",
+      "Minnie Driver",
+      "Kevin Bacon",
+      "Terry Kinney",
+      "Brad Renfro",
+      "Ron Eldard",
+      "Vittorio Gassman",
+      "Dustin Hoffman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sleepers.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Witness for the Prosecution",
+    "year": 1957,
+    "cast": [
+      "Charles Laughton",
+      "Tyrone Power",
+      "Marlene Dietrich"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/witness-for-the-prosecution.html"
+}

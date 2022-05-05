@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Widow's Investment",
+    "year": 1914,
+    "cast": [
+      "Charlotte Burton",
+      "Sydney Ayres",
+      "Chick Morrison"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-widow-s-investment.html"
+}

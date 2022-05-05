@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bodyguard",
+    "year": 1948,
+    "cast": [
+      "Lawrence Tierney",
+      "Priscilla Lane"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/bodyguard.html"
+}

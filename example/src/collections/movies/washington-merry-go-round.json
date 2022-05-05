@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Washington Merry-Go-Round",
+    "year": 1932,
+    "cast": [
+      "Lee Tracy",
+      "Constance Cummings"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/washington-merry-go-round.html"
+}

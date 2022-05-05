@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scandal Proof",
+    "year": 1925,
+    "cast": [
+      "Shirley Mason",
+      "John Roche"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/scandal-proof.html"
+}

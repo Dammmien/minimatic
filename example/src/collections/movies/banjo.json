@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Banjo",
+    "year": 1947,
+    "cast": [
+      "Sharyn Moffett",
+      "Walter Reed"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/banjo.html"
+}

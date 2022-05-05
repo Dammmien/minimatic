@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Passion",
+    "year": 1954,
+    "cast": [
+      "Cornel Wilde",
+      "Yvonne De Carlo",
+      "Raymond Burr"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/passion.html"
+}

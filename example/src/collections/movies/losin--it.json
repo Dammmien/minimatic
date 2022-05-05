@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Losin' It",
+    "year": 1983,
+    "cast": [
+      "Tom Cruise",
+      "Jackie Earle Haley",
+      "Shelley Long"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/losin--it.html"
+}

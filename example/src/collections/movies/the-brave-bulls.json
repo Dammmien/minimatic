@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Brave Bulls",
+    "year": 1951,
+    "cast": [
+      "Mel Ferrer",
+      "Anthony Quinn",
+      "Miroslava"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-brave-bulls.html"
+}

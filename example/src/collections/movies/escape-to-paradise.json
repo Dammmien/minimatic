@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Escape to Paradise",
+    "year": 1939,
+    "cast": [
+      "Kent Taylor",
+      "Joyce Compton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/escape-to-paradise.html"
+}

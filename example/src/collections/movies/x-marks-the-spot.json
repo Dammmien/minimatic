@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "X Marks the Spot",
+    "year": 1942,
+    "cast": [
+      "Dick Purcell",
+      "Anne Jeffreys"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/x-marks-the-spot.html"
+}

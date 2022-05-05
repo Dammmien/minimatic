@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Aviator",
+    "year": 2004,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Cate Blanchett",
+      "Alec Baldwin",
+      "John C. Reilly",
+      "Alan Alda",
+      "Jude Law",
+      "Kate Beckinsale",
+      "Danny Huston",
+      "Ian Holm"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-aviator.html"
+}

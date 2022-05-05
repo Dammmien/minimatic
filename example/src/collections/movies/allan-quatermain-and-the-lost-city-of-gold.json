@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Allan Quatermain and the Lost City of Gold",
+    "year": 1987,
+    "cast": [
+      "Richard Chamberlain",
+      "Sharon Stone",
+      "James Earl Jones"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/allan-quatermain-and-the-lost-city-of-gold.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "And Now Tomorrow",
+    "year": 1944,
+    "cast": [
+      "Alan Ladd",
+      "Loretta Young",
+      "Susan Hayward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/and-now-tomorrow.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Champagne for Breakfast",
+    "year": 1935,
+    "cast": [
+      "Mary Carlisle",
+      "Hardie Albright"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/champagne-for-breakfast.html"
+}

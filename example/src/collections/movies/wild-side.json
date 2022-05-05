@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wild Side",
+    "year": 1995,
+    "cast": [
+      "Christopher Walken",
+      "Anne Heche",
+      "Joan Chen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wild-side.html"
+}

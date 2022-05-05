@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love Never Dies",
+    "year": 1921,
+    "cast": [
+      "Lloyd Hughes",
+      "Madge Bellamy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-never-dies.html"
+}

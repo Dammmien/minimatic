@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Danger in the Pacific",
+    "year": 1942,
+    "cast": [
+      "Don Terry",
+      "Louise Allbritton"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/danger-in-the-pacific.html"
+}

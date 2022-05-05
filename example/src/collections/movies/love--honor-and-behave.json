@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love, Honor and Behave",
+    "year": 1938,
+    "cast": [
+      "Wayne Morris",
+      "Priscilla Lane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love--honor-and-behave.html"
+}

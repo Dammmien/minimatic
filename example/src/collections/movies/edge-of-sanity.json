@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Edge of Sanity",
+    "year": 1989,
+    "cast": [
+      "Anthony Perkins",
+      "Glynis Barber"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/edge-of-sanity.html"
+}

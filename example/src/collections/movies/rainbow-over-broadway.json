@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rainbow Over Broadway",
+    "year": 1933,
+    "cast": [
+      "Joan Marsh",
+      "Frank Albertson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/rainbow-over-broadway.html"
+}

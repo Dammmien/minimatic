@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Prosperity",
+    "year": 1932,
+    "cast": [
+      "Marie Dressler",
+      "Polly Moran",
+      "Anita Page"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/prosperity.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Stronger Vow",
+    "year": 1919,
+    "cast": [
+      "Geraldine Farrar",
+      "Milton Sills"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-stronger-vow.html"
+}

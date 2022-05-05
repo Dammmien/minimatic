@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hour of the Gun",
+    "year": 1967,
+    "cast": [
+      "Jason Robards",
+      "Robert Ryan",
+      "James Garner"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hour-of-the-gun.html"
+}

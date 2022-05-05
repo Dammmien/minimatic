@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No Dough Boys",
+    "year": 1944,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/no-dough-boys.html"
+}

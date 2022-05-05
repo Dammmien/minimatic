@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Hansel & Gretel Get Baked",
+    "year": 2013,
+    "cast": [
+      "Michael Welch",
+      "Molly Quinn",
+      "Lara Flynn Boyle",
+      "Lochlyn Munro"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hansel---gretel-get-baked.html"
+}

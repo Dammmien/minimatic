@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dancing Pirate",
+    "year": 1936,
+    "cast": [
+      "Charles Collins",
+      "Frank Morgan",
+      "Steffi Duna"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/dancing-pirate.html"
+}

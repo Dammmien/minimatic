@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blood and Lace",
+    "year": 1971,
+    "cast": [
+      "Gloria Grahame",
+      "Melody Patterson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/blood-and-lace.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Confidential",
+    "year": 1935,
+    "cast": [
+      "Donald Cook",
+      "Evalyn Knapp"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/confidential.html"
+}

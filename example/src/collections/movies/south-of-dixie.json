@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "South of Dixie",
+    "year": 1944,
+    "cast": [
+      "Anne Gwynne",
+      "Jerome Cowan"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/south-of-dixie.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "A Quiet Place",
+    "year": 2018,
+    "cast": [
+      "John Krasinski",
+      "Emily Blunt",
+      "Millicent Simmonds",
+      "Noah Jupe"
+    ],
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/a-quiet-place.html"
+}

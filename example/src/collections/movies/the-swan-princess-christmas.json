@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Swan Princess Christmas",
+    "year": 2012,
+    "cast": [
+      "Yuri Lowenthal",
+      "Elle Deets",
+      "David Lodge",
+      "G. K. Bowes",
+      "Doug Stone",
+      "Brian Nissen",
+      "Clayton James Mackay",
+      "James Arrington",
+      "Joey Lotsko"
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/the-swan-princess-christmas.html"
+}

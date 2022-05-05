@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gambling House",
+    "year": 1951,
+    "cast": [
+      "Victor Mature",
+      "Terry Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/gambling-house.html"
+}

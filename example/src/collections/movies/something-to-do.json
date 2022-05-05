@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Something to Do",
+    "year": 1919,
+    "cast": [
+      "Bryant Washburn",
+      "Ann Little",
+      "Charles K. Gerrard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/something-to-do.html"
+}

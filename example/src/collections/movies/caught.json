@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Caught",
+    "year": 1949,
+    "cast": [
+      "James Mason",
+      "Barbara Bel Geddes"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/caught.html"
+}

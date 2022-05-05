@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Big Bluff",
+    "year": 1955,
+    "cast": [
+      "Martha Vickers",
+      "John Bromfield"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-big-bluff.html"
+}

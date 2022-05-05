@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mexican Spitfire's Elephant",
+    "year": 1942,
+    "cast": [
+      "Lupe Vélez",
+      "Walter Reed"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mexican-spitfire-s-elephant.html"
+}

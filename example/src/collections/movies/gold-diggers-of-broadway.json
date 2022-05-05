@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gold Diggers of Broadway",
+    "year": 1929,
+    "cast": [
+      "Nancy Welford",
+      "Conway Tearle"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/gold-diggers-of-broadway.html"
+}

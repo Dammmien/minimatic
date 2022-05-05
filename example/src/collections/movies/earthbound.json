@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Earthbound",
+    "year": 1940,
+    "cast": [
+      "Andrea Leeds",
+      "Warner Baxter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/earthbound.html"
+}

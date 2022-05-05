@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Too Late Blues",
+    "year": 1962,
+    "cast": [
+      "Bobby Darin",
+      "Stella Stevens",
+      "Vince Edwards"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/too-late-blues.html"
+}

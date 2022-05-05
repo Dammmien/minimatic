@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tumbleweed",
+    "year": 1953,
+    "cast": [
+      "Audie Murphy",
+      "Lori Nelson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/tumbleweed.html"
+}

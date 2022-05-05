@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Rage to Live",
+    "year": 1965,
+    "cast": [
+      "Suzanne Pleshette",
+      "Bradford Dillman",
+      "Ben Gazzara"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-rage-to-live.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Grand Duchess and the Waiter",
+    "year": 1926,
+    "cast": [
+      "Florence Vidor",
+      "Adolphe Menjou"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-grand-duchess-and-the-waiter.html"
+}

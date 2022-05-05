@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Miracles for Sale",
+    "year": 1939,
+    "cast": [
+      "Robert Young",
+      "Florence Rice"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/miracles-for-sale.html"
+}

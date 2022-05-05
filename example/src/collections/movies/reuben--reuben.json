@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Reuben, Reuben",
+    "year": 1983,
+    "cast": [
+      "Tom Conti",
+      "Kelly McGillis"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/reuben--reuben.html"
+}

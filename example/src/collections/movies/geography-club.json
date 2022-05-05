@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Geography Club",
+    "year": 2013,
+    "cast": [
+      "Nikki Blonsky",
+      "Cameron Deane Shute",
+      "Justin Deeley",
+      "Alex Newell",
+      "Ana Gasteyer",
+      "Meaghan Martin",
+      "Scott Bakula",
+      "Allie Gonino"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/geography-club.html"
+}

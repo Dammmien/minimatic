@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Hurricane Season",
+    "year": 2010,
+    "cast": [
+      "Forest Whitaker",
+      "Lil Wayne",
+      "Bow Wow",
+      "Isaiah Washington",
+      "Taraji P. Henson",
+      "Michael Gaston",
+      "Jackie Long",
+      "Khleo Thomas"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/hurricane-season.html"
+}

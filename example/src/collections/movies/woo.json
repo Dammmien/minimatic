@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Woo",
+    "year": 1998,
+    "cast": [
+      "Jada Pinkett",
+      "Tommy Davidson",
+      "LL Cool J"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/woo.html"
+}

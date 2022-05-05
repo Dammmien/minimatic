@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "What's Cookin'?",
+    "year": 1942,
+    "cast": [
+      "The Andrews Sisters",
+      "Jane Frazee",
+      "Gloria Jean"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/what-s-cookin--.html"
+}

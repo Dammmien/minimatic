@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Chinatown",
+    "year": 1974,
+    "cast": [
+      "Jack Nicholson",
+      "Faye Dunaway",
+      "John Huston",
+      "Perry Lopez",
+      "Diane Ladd",
+      "Burt Young"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/chinatown.html"
+}

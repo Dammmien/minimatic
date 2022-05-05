@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Butch Cassidy and the Sundance Kid",
+    "year": 1969,
+    "cast": [
+      "Paul Newman",
+      "Robert Redford",
+      "Katharine Ross"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/butch-cassidy-and-the-sundance-kid.html"
+}

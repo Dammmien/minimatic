@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Roadhouse Murder",
+    "year": 1932,
+    "cast": [
+      "Dorothy Jordan",
+      "Eric Linden"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-roadhouse-murder.html"
+}

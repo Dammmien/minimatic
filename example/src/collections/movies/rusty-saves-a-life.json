@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rusty Saves a Life",
+    "year": 1949,
+    "cast": [
+      "John Litel",
+      "Ann Doran"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rusty-saves-a-life.html"
+}

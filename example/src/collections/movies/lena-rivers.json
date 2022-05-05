@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lena Rivers",
+    "year": 1932,
+    "cast": [
+      "Charlotte Henry",
+      "Beryl Mercer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lena-rivers.html"
+}

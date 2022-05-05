@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "His Royal Slyness",
+    "year": 1920,
+    "cast": [
+      "Harold Lloyd",
+      "Mildred Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/his-royal-slyness.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Halloween II",
+    "year": 2009,
+    "cast": [
+      "Malcolm McDowell",
+      "Sheri Moon Zombie",
+      "Scout Taylor-Compton",
+      "Tyler Mane",
+      "Brad Dourif",
+      "Danielle Harris"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/halloween-ii.html"
+}

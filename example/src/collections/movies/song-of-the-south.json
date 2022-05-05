@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Song of the South",
+    "year": 1946,
+    "cast": [
+      "James Baskett",
+      "Bobby Driscoll",
+      "Luana Patten"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/song-of-the-south.html"
+}

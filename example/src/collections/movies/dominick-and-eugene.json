@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dominick and Eugene",
+    "year": 1988,
+    "cast": [
+      "Ray Liotta",
+      "Tom Hulce",
+      "Jamie Lee Curtis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dominick-and-eugene.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Pied Piper of Cleveland",
+    "year": 1955,
+    "cast": [
+      "Bill Randle"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-pied-piper-of-cleveland.html"
+}

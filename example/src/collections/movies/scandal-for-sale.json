@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scandal for Sale",
+    "year": 1932,
+    "cast": [
+      "Charles Bickford",
+      "Rose Hobart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/scandal-for-sale.html"
+}

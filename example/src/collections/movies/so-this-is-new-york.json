@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "So This Is New York",
+    "year": 1948,
+    "cast": [
+      "Henry Morgan",
+      "Rudy Vallee",
+      "Virginia Grey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/so-this-is-new-york.html"
+}

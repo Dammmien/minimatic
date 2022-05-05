@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Impossible Mrs. Bellew",
+    "year": 1922,
+    "cast": [
+      "Gloria Swanson",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-impossible-mrs--bellew.html"
+}

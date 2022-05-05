@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Great Gambini",
+    "year": 1937,
+    "cast": [
+      "Marian Marsh",
+      "Akim Tamiroff",
+      "William Demarest"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-great-gambini.html"
+}

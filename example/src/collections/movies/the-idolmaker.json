@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Idolmaker",
+    "year": 1980,
+    "cast": [
+      "Ray Sharkey",
+      "Peter Gallagher",
+      "Joe Pantoliano"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-idolmaker.html"
+}

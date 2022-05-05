@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two Yanks in Trinidad",
+    "year": 1942,
+    "cast": [
+      "Pat O'Brien",
+      "Brian Donlevy"
+    ],
+    "genres": [
+      "Spy",
+      "Comedy"
+    ]
+  },
+  "output": "movies/two-yanks-in-trinidad.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "You Can't Get Away with It",
+    "year": 1924,
+    "cast": [
+      "Percy Marmont",
+      "Malcolm McGregor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/you-can-t-get-away-with-it.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pleasure Crazed",
+    "year": 1929,
+    "cast": [
+      "Marguerite Churchill",
+      "Kenneth MacKenna",
+      "Dorothy Burgess"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pleasure-crazed.html"
+}

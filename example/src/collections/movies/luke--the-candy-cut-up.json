@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Luke, the Candy Cut-Up",
+    "year": 1916,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Short",
+      "Comedy"
+    ]
+  },
+  "output": "movies/luke--the-candy-cut-up.html"
+}

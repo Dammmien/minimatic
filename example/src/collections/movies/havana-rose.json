@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Havana Rose",
+    "year": 1951,
+    "cast": [
+      "Estelita Rodriguez",
+      "Bill Williams"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/havana-rose.html"
+}

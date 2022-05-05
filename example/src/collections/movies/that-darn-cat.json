@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That Darn Cat",
+    "year": 1997,
+    "cast": [
+      "Christina Ricci",
+      "Doug E. Doug"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/that-darn-cat.html"
+}

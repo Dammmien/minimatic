@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Star 80",
+    "year": 1983,
+    "cast": [
+      "Eric Roberts",
+      "Mariel Hemingway",
+      "Cliff Robertson"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/star-80.html"
+}

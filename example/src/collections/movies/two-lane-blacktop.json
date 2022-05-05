@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two-Lane Blacktop",
+    "year": 1971,
+    "cast": [
+      "Warren Oates",
+      "James Taylor",
+      "Dennis Wilson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/two-lane-blacktop.html"
+}

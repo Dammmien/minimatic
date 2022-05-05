@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Beautiful Girls",
+    "year": 1996,
+    "cast": [
+      "Matt Dillon",
+      "Timothy Hutton",
+      "Michael Rapaport",
+      "Uma Thurman",
+      "Natalie Portman",
+      "Mira Sorvino",
+      "Rosie O'Donnell",
+      "Lauren Holly",
+      "Martha Plimpton"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/beautiful-girls.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prison Warden",
+    "year": 1949,
+    "cast": [
+      "Warner Baxter",
+      "Anna Lee"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/prison-warden.html"
+}

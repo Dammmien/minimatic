@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Justin Case",
+    "year": 1988,
+    "cast": [
+      "George Carlin",
+      "Molly Hagan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/justin-case.html"
+}

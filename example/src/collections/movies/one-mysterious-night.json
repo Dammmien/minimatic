@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Mysterious Night",
+    "year": 1944,
+    "cast": [
+      "Chester Morris",
+      "Janis Carter"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/one-mysterious-night.html"
+}

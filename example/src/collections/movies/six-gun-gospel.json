@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Six Gun Gospel",
+    "year": 1943,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/six-gun-gospel.html"
+}

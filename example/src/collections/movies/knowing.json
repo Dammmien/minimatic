@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Knowing",
+    "year": 2009,
+    "cast": [
+      "Nicolas Cage"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/knowing.html"
+}

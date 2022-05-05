@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Getaway",
+    "year": 1994,
+    "cast": [
+      "Alec Baldwin",
+      "Kim Basinger",
+      "James Woods",
+      "Michael Madsen",
+      "Jennifer Tilly",
+      "Richard Farnsworth",
+      "Philip Seymour Hoffman"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-getaway.html"
+}

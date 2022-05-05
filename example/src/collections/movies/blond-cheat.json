@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blond Cheat",
+    "year": 1938,
+    "cast": [
+      "Joan Fontaine",
+      "Derrick De Marney",
+      "Lilian Bond"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blond-cheat.html"
+}

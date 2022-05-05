@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Screwed",
+    "year": 2000,
+    "cast": [
+      "Norm Macdonald",
+      "Dave Chappelle",
+      "Danny DeVito"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/screwed.html"
+}

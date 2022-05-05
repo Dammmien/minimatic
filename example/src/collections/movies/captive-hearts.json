@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Captive Hearts",
+    "year": 1987,
+    "cast": [
+      "Pat Morita",
+      "Chris Makepeace"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/captive-hearts.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Space Children",
+    "year": 1958,
+    "cast": [
+      "Michel Rey",
+      "Adam Williams",
+      "Peggy Webber"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-space-children.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Son of the Sheik",
+    "year": 1926,
+    "cast": [
+      "Rudolph Valentino",
+      "Vilma Bánky",
+      "Montagu Love"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-son-of-the-sheik.html"
+}

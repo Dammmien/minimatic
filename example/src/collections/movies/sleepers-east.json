@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sleepers East",
+    "year": 1934,
+    "cast": [
+      "Wynne Gibson",
+      "Mona Barrie"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/sleepers-east.html"
+}

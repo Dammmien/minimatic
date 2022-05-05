@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Children of a Lesser God",
+    "year": 1986,
+    "cast": [
+      "William Hurt",
+      "Marlee Matlin",
+      "Piper Laurie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/children-of-a-lesser-god.html"
+}

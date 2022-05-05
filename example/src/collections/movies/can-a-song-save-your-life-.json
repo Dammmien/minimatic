@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Can a Song Save Your Life?",
+    "year": 2013,
+    "cast": [
+      "Keira Knightley",
+      "Mark Ruffalo",
+      "Adam Levine",
+      "Hailee Steinfeld",
+      "CeeLo Green"
+    ],
+    "genres": [
+      "Musical",
+      "Drama"
+    ]
+  },
+  "output": "movies/can-a-song-save-your-life-.html"
+}

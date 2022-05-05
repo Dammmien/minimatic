@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Law of the Pampas",
+    "year": 1939,
+    "cast": [
+      "William Boyd",
+      "Steffi Duna"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/law-of-the-pampas.html"
+}

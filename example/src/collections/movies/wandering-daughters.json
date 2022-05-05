@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wandering Daughters",
+    "year": 1923,
+    "cast": [
+      "Marguerite De La Motte",
+      "Marjorie Daw"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wandering-daughters.html"
+}

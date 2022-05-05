@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Follow Me, Boys!",
+    "year": 1966,
+    "cast": [
+      "Fred MacMurray",
+      "Vera Miles",
+      "Lillian Gish",
+      "Kurt Russell"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/follow-me--boys-.html"
+}

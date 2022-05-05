@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Pardners",
+    "year": 1956,
+    "cast": [
+      "Dean Martin",
+      "Jerry Lewis",
+      "Agnes Moorehead",
+      "Lori Nelson"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/pardners.html"
+}

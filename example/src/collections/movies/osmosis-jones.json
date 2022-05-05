@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Osmosis Jones",
+    "year": 2001,
+    "cast": [
+      "Bill Murray",
+      "Chris Rock",
+      "Laurence Fishburne"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/osmosis-jones.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Killers from Space",
+    "year": 1954,
+    "cast": [
+      "Peter Graves",
+      "James Seay"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/killers-from-space.html"
+}

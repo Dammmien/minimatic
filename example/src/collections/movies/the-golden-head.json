@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Golden Head",
+    "year": 1964,
+    "cast": [
+      "George Sanders",
+      "Buddy Hackett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-golden-head.html"
+}

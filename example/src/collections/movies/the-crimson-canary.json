@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Crimson Canary",
+    "year": 1945,
+    "cast": [
+      "Noah Beery Jr.",
+      "Lois Collier",
+      "Steven Geray"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-crimson-canary.html"
+}

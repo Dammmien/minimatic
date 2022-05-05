@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wolf Lake",
+    "year": 1978,
+    "cast": [
+      "Rod Steiger",
+      "David Huffman",
+      "Robin Mattson"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/wolf-lake.html"
+}

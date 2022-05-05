@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Kiss Before the Mirror",
+    "year": 1933,
+    "cast": [
+      "Nancy Carroll",
+      "Frank Morgan",
+      "Paul Lukas"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-kiss-before-the-mirror.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The King Murder",
+    "year": 1932,
+    "cast": [
+      "Conway Tearle",
+      "Natalie Moorhead"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-king-murder.html"
+}

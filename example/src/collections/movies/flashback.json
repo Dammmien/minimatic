@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flashback",
+    "year": 1990,
+    "cast": [
+      "Kiefer Sutherland",
+      "Dennis Hopper"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/flashback.html"
+}

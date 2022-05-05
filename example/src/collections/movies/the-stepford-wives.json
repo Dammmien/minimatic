@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Stepford Wives",
+    "year": 2004,
+    "cast": [
+      "Nicole Kidman",
+      "Matthew Broderick",
+      "Glenn Close",
+      "Bette Midler",
+      "Christopher Walken",
+      "Faith Hill"
+    ],
+    "genres": [
+      "Comedy",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-stepford-wives.html"
+}

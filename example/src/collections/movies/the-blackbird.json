@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Blackbird",
+    "year": 1926,
+    "cast": [
+      "Lon Chaney",
+      "Owen Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-blackbird.html"
+}

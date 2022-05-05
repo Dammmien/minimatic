@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Little Caesar",
+    "year": 1931,
+    "cast": [
+      "Edward G. Robinson",
+      "Douglas Fairbanks Jr.",
+      "Glenda Farrell"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/little-caesar.html"
+}

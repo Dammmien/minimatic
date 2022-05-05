@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Carmen",
+    "year": 1915,
+    "cast": [
+      "Theda Bara"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/carmen.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Aliens in the Attic",
+    "year": 2009,
+    "cast": [
+      "Robert Hoffman",
+      "Ashley Tisdale",
+      "Carter Jenkins",
+      "Austin Butler",
+      "Kevin Nealon",
+      "Doris Roberts"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/aliens-in-the-attic.html"
+}

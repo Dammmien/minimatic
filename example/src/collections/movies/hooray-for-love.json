@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hooray for Love",
+    "year": 1935,
+    "cast": [
+      "Ann Sothern",
+      "Gene Raymond"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hooray-for-love.html"
+}

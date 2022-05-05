@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Tuttles of Tahiti",
+    "year": 1942,
+    "cast": [
+      "Charles Laughton",
+      "Jon Hall",
+      "Peggy Drake"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-tuttles-of-tahiti.html"
+}

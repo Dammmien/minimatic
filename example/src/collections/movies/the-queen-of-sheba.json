@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Queen of Sheba",
+    "year": 1921,
+    "cast": [
+      "Betty Blythe",
+      "Fritz Leiber"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-queen-of-sheba.html"
+}

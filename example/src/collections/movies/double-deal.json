@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Double Deal",
+    "year": 1950,
+    "cast": [
+      "Marie Windsor",
+      "Fay Baker"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/double-deal.html"
+}

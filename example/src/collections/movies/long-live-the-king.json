@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Long Live the King",
+    "year": 1923,
+    "cast": [
+      "Jackie Coogan",
+      "Rosemary Theby",
+      "Alan Hale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/long-live-the-king.html"
+}

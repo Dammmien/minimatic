@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Loved a Woman",
+    "year": 1933,
+    "cast": [
+      "Edward G. Robinson",
+      "Kay Francis",
+      "Genevieve Tobin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-loved-a-woman.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Bad Swim",
+    "year": 2006,
+    "cast": [
+      "Paget Brewster",
+      "Jeff Branson",
+      "Jess Weixler"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-big-bad-swim.html"
+}

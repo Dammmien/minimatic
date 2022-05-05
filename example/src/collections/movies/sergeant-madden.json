@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sergeant Madden",
+    "year": 1939,
+    "cast": [
+      "Wallace Beery",
+      "Tom Brown",
+      "Alan Curtis",
+      "Laraine Day"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/sergeant-madden.html"
+}

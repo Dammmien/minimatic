@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fifty-Fifty Girl",
+    "year": 1928,
+    "cast": [
+      "Bebe Daniels",
+      "James Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fifty-fifty-girl.html"
+}

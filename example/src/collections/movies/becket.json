@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Becket",
+    "year": 1964,
+    "cast": [
+      "Richard Burton",
+      "Peter O'Toole",
+      "John Gielgud"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/becket.html"
+}

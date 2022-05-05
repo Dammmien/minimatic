@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The King's Vacation",
+    "year": 1933,
+    "cast": [
+      "George Arliss",
+      "Patricia Ellis"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-king-s-vacation.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Seven Cities of Gold",
+    "year": 1955,
+    "cast": [
+      "Jeffrey Hunter",
+      "Rita Moreno"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/seven-cities-of-gold.html"
+}

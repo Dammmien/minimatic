@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hook, Line and Sinker",
+    "year": 1930,
+    "cast": [
+      "Bert Wheeler",
+      "Dorothy Lee"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hook--line-and-sinker.html"
+}

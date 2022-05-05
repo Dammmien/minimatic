@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mating Game",
+    "year": 1959,
+    "cast": [
+      "Debbie Reynolds",
+      "Tony Randall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-mating-game.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cannonball",
+    "year": 1976,
+    "cast": [
+      "David Carradine",
+      "Robert Carradine",
+      "Veronica Hamel"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/cannonball.html"
+}

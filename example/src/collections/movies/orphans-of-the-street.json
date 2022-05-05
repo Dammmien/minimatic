@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Orphans of the Street",
+    "year": 1938,
+    "cast": [
+      "Robert Livingston",
+      "June Storey",
+      "Ralph Morgan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/orphans-of-the-street.html"
+}

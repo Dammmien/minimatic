@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Little Egypt",
+    "year": 1951,
+    "cast": [
+      "Rhonda Fleming",
+      "Mark Stevens"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/little-egypt.html"
+}

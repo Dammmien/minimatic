@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trapped by Boston Blackie",
+    "year": 1948,
+    "cast": [
+      "Charles Marion",
+      "June Vincent"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/trapped-by-boston-blackie.html"
+}

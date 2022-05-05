@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hardly Working",
+    "year": 1981,
+    "cast": [
+      "Jerry Lewis",
+      "Susan Oliver",
+      "Deanna Lund"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hardly-working.html"
+}

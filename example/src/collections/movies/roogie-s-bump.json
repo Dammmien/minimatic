@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Roogie's Bump",
+    "year": 1954,
+    "cast": [
+      "Ruth Warrick",
+      "Olive Blakeney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/roogie-s-bump.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Garden",
+    "year": 2008,
+    "cast": [
+      "history of the",
+      "South Central Farm"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-garden.html"
+}

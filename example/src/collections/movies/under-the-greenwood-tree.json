@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Under the Greenwood Tree",
+    "year": 1918,
+    "cast": [
+      "Elsie Ferguson",
+      "Eugene O'Brien"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/under-the-greenwood-tree.html"
+}

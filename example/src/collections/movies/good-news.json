@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Good News",
+    "year": 1947,
+    "cast": [
+      "June Allyson",
+      "Peter Lawford",
+      "Mel Tormé"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/good-news.html"
+}

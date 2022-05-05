@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Just a Gigolo",
+    "year": 1931,
+    "cast": [
+      "William Haines",
+      "Irene Purcell",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/just-a-gigolo.html"
+}

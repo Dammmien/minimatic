@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Good Humor Man",
+    "year": 1950,
+    "cast": [
+      "Jack Carson",
+      "Lola Albright",
+      "George Reeves"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-good-humor-man.html"
+}

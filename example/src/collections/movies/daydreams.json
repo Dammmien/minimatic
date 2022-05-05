@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daydreams",
+    "year": 1922,
+    "cast": [
+      "Buster Keaton",
+      "Renée Adorée"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/daydreams.html"
+}

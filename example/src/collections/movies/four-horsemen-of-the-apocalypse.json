@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Four Horsemen of the Apocalypse",
+    "year": 1962,
+    "cast": [
+      "Glenn Ford",
+      "Lee J. Cobb",
+      "Charles Boyer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/four-horsemen-of-the-apocalypse.html"
+}

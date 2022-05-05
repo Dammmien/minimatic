@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Killing of Sister George",
+    "year": 1968,
+    "cast": [
+      "Beryl Reid",
+      "Coral Browne",
+      "Susannah York"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-killing-of-sister-george.html"
+}

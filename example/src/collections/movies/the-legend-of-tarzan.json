@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Legend of Tarzan",
+    "year": 2016,
+    "cast": [
+      "Alexander Skarsgård",
+      "Margot Robbie"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-legend-of-tarzan.html"
+}

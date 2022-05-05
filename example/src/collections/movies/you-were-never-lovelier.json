@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "You Were Never Lovelier",
+    "year": 1942,
+    "cast": [
+      "Fred Astaire",
+      "Rita Hayworth"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-were-never-lovelier.html"
+}

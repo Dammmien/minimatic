@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Buck",
+    "year": 2011,
+    "cast": [
+      "The life",
+      "career",
+      "and philosophy of the real-life \"horse whisperer\"",
+      "Buck Brannaman",
+      "."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/buck.html"
+}

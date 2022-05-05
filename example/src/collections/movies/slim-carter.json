@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Slim Carter",
+    "year": 1957,
+    "cast": [
+      "Jock Mahoney",
+      "Julie Adams",
+      "Tim Hovey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/slim-carter.html"
+}

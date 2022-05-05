@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Echo of Youth",
+    "year": 1919,
+    "cast": [
+      "Charles Richman",
+      "Leah Baird"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-echo-of-youth.html"
+}

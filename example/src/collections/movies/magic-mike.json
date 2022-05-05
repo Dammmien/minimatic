@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Magic Mike",
+    "year": 2012,
+    "cast": [
+      "Channing Tatum",
+      "Alex Pettyfer",
+      "and",
+      "Matthew McConaughey",
+      "Cody Horn",
+      "Olivia Munn",
+      "Matt Bomer",
+      "Riley Keough",
+      "Joe Manganiello",
+      "Kevin Nash",
+      "Adam Rodríguez",
+      "Gabriel Iglesias"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/magic-mike.html"
+}

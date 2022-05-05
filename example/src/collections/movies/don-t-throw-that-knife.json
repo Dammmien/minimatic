@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Don't Throw That Knife",
+    "year": 1951,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/don-t-throw-that-knife.html"
+}

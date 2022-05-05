@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Half a Bride",
+    "year": 1928,
+    "cast": [
+      "Esther Ralston",
+      "Gary Cooper"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/half-a-bride.html"
+}

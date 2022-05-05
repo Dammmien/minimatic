@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "BearCity 2: The Proposal",
+    "year": 2012,
+    "cast": [
+      "Gerald McCullouch",
+      "Joe Conti",
+      "Stephen Guarino",
+      "Kathy Najimy"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/bearcity-2--the-proposal.html"
+}

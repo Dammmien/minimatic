@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bellboy",
+    "year": 1960,
+    "cast": [
+      "Jerry Lewis",
+      "Bob Clayton",
+      "Milton Berle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bellboy.html"
+}

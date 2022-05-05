@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Darkest Hour",
+    "year": 2011,
+    "cast": [
+      "Emile Hirsch",
+      "Olivia Thirlby",
+      "Max Minghella",
+      "Rachael Taylor",
+      "Joel Kinnaman"
+    ],
+    "genres": [
+      "Action",
+      "Thriller",
+      "Horror"
+    ]
+  },
+  "output": "movies/the-darkest-hour.html"
+}

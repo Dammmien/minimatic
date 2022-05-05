@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kathy O'",
+    "year": 1958,
+    "cast": [
+      "Jan Sterling",
+      "Patty McCormack"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kathy-o-.html"
+}

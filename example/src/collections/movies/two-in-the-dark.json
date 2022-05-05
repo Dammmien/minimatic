@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two in the Dark",
+    "year": 1936,
+    "cast": [
+      "Walter Abel",
+      "Margot Grahame",
+      "Wallace Ford"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/two-in-the-dark.html"
+}

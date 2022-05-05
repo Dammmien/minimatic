@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Jungle Book 2",
+    "year": 2003,
+    "cast": [
+      "John Goodman",
+      "Haley Joel Osment",
+      "Mae Whitman"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-jungle-book-2.html"
+}

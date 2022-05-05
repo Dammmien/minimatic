@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jason's Lyric",
+    "year": 1994,
+    "cast": [
+      "Jada Pinkett Smith",
+      "Allen Payne"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/jason-s-lyric.html"
+}

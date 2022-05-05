@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "All About Eve",
+    "year": 1950,
+    "cast": [
+      "Bette Davis",
+      "Anne Baxter",
+      "Gary Merrill",
+      "Celeste Holm",
+      "George Sanders",
+      "Hugh Marlowe",
+      "Marilyn Monroe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/all-about-eve.html"
+}

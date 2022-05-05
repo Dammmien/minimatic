@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tomcats",
+    "year": 2001,
+    "cast": [
+      "Jerry O'Connell",
+      "Shannon Elizabeth",
+      "Jake Busey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tomcats.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Flight of the Phoenix",
+    "year": 2004,
+    "cast": [
+      "Dennis Quaid",
+      "Giovanni Ribisi",
+      "Tyrese Gibson",
+      "Hugh Laurie",
+      "Miranda Otto"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/flight-of-the-phoenix.html"
+}

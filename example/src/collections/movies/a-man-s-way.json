@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Man's Way",
+    "year": 1914,
+    "cast": [
+      "William Garwood",
+      "Charlotte Burton",
+      "Louise Lester"
+    ],
+    "genres": []
+  },
+  "output": "movies/a-man-s-way.html"
+}

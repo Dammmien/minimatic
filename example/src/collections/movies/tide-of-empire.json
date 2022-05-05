@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tide of Empire",
+    "year": 1929,
+    "cast": [
+      "Renee Adoree",
+      "Tom Keene"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/tide-of-empire.html"
+}

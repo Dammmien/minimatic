@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nim's Island",
+    "year": 2008,
+    "cast": [
+      "Abigail Breslin",
+      "Jodie Foster",
+      "Gerard Butler"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/nim-s-island.html"
+}

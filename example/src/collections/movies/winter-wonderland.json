@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Winter Wonderland",
+    "year": 1946,
+    "cast": [
+      "Lynne Roberts",
+      "Charles Drake",
+      "Eric Blore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/winter-wonderland.html"
+}

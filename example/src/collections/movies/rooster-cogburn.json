@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rooster Cogburn",
+    "year": 1975,
+    "cast": [
+      "John Wayne",
+      "Katharine Hepburn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rooster-cogburn.html"
+}

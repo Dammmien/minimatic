@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lock Up",
+    "year": 1989,
+    "cast": [
+      "Sylvester Stallone",
+      "Donald Sutherland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lock-up.html"
+}

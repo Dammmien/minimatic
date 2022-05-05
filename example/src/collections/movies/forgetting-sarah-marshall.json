@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Forgetting Sarah Marshall",
+    "year": 2008,
+    "cast": [
+      "Jason Segel",
+      "Kristen Bell",
+      "Mila Kunis",
+      "Russell Brand"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/forgetting-sarah-marshall.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Unexpected Father",
+    "year": 1939,
+    "cast": [
+      "Shirley Ross",
+      "Dennis O'Keefe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/unexpected-father.html"
+}

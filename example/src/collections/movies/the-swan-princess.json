@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Swan Princess",
+    "year": 1994,
+    "cast": [
+      "voices of",
+      "John Cleese",
+      "Jack Palance"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-swan-princess.html"
+}

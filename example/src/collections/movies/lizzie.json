@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Lizzie",
+    "year": 2018,
+    "cast": [
+      "Chloë Sevigny",
+      "Kristen Stewart",
+      "Jay Huguley",
+      "Fiona Shaw",
+      "Jamey Sheridan",
+      "Kim Dickens",
+      "Denis O'Hare",
+      "Jeff Perry"
+    ],
+    "genres": [
+      "Biography",
+      "Thriller"
+    ]
+  },
+  "output": "movies/lizzie.html"
+}

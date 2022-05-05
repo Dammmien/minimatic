@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hills of Home",
+    "year": 1948,
+    "cast": [
+      "Edmund Gwenn",
+      "Janet Leigh"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/hills-of-home.html"
+}

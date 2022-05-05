@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Peggy",
+    "year": 1950,
+    "cast": [
+      "Diana Lynn",
+      "Charles Coburn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/peggy.html"
+}

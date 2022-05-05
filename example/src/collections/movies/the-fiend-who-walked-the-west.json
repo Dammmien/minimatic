@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fiend Who Walked the West",
+    "year": 1958,
+    "cast": [
+      "Robert Evans",
+      "Hugh O'Brian"
+    ],
+    "genres": [
+      "Western",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-fiend-who-walked-the-west.html"
+}

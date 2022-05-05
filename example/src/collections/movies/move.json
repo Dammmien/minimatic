@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Move",
+    "year": 1970,
+    "cast": [
+      "Elliott Gould",
+      "Paula Prentiss",
+      "Joe Silver"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/move.html"
+}

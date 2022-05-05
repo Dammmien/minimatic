@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Come Back, Little Sheba",
+    "year": 1952,
+    "cast": [
+      "Burt Lancaster",
+      "Shirley Booth",
+      "Terry Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/come-back--little-sheba.html"
+}

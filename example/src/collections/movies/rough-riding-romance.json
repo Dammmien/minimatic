@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rough-Riding Romance",
+    "year": 1919,
+    "cast": [
+      "Tom Mix",
+      "Juanita Hansen"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rough-riding-romance.html"
+}

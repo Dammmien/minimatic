@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daredevil's Reward",
+    "year": 1928,
+    "cast": [
+      "Tom Mix",
+      "Natalie Joyce"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/daredevil-s-reward.html"
+}

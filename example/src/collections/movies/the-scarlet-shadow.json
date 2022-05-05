@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Scarlet Shadow",
+    "year": 1919,
+    "cast": [
+      "Mae Murray",
+      "Ralph Graves"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-scarlet-shadow.html"
+}

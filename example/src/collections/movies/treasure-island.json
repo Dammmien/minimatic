@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Treasure Island",
+    "year": 1990,
+    "cast": [
+      "Christian Bale",
+      "Charlton Heston"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/treasure-island.html"
+}

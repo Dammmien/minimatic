@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Best of Times",
+    "year": 1986,
+    "cast": [
+      "Robin Williams",
+      "Kurt Russell",
+      "Pamela Reed"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-best-of-times.html"
+}

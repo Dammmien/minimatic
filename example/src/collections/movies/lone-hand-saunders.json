@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lone Hand Saunders",
+    "year": 1926,
+    "cast": [
+      "Fred Thomson",
+      "Bess Flowers"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lone-hand-saunders.html"
+}

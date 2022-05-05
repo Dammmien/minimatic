@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "All for a Girl",
+    "year": 1912,
+    "cast": [
+      "Dorothy Kelly",
+      "Leah Baird"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/all-for-a-girl.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "David and Lisa",
+    "year": 1962,
+    "cast": [
+      "Keir Dullea",
+      "Janet Margolin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/david-and-lisa.html"
+}

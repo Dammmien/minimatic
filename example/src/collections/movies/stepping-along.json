@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stepping Along",
+    "year": 1926,
+    "cast": [
+      "Johnny Hines",
+      "Mary Brian"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stepping-along.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Music Box Kid",
+    "year": 1960,
+    "cast": [
+      "Ron Foster",
+      "Luana Patten"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-music-box-kid.html"
+}

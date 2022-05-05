@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Quintet",
+    "year": 1979,
+    "cast": [
+      "Paul Newman",
+      "Fernando Rey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/quintet.html"
+}

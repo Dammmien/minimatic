@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Postman Didn't Ring",
+    "year": 1942,
+    "cast": [
+      "Brenda Joyce",
+      "Richard Travis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-postman-didn-t-ring.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Peripheral",
+    "year": 2014,
+    "cast": [
+      "Randy Frank",
+      "Lynn Lowry"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-peripheral.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady Windermere's Fan",
+    "year": 1925,
+    "cast": [
+      "Ronald Colman",
+      "May McAvoy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lady-windermere-s-fan.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "She's the One",
+    "year": 1996,
+    "cast": [
+      "Jennifer Aniston",
+      "Cameron Diaz"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-s-the-one.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Clear Call",
+    "year": 1922,
+    "cast": [
+      "Milton Sills",
+      "Claire Windsor",
+      "Irene Rich"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/one-clear-call.html"
+}

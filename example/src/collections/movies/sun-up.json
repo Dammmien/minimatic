@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sun-Up",
+    "year": 1925,
+    "cast": [
+      "Pauline Starke",
+      "Conrad Nagel",
+      "Lucille La Verne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sun-up.html"
+}

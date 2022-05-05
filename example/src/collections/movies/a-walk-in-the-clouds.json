@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Walk in the Clouds",
+    "year": 1995,
+    "cast": [
+      "Keanu Reeves",
+      "Aitana Sanchez-Gijón",
+      "Anthony Quinn",
+      "Giancarlo Giannini"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-walk-in-the-clouds.html"
+}

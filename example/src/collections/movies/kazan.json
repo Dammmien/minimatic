@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kazan",
+    "year": 1949,
+    "cast": [
+      "Stephen Dunne",
+      "Lois Maxwell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/kazan.html"
+}

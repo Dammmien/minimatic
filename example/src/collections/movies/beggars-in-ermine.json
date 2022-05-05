@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beggars in Ermine",
+    "year": 1934,
+    "cast": [
+      "Lionel Atwill",
+      "Jameson Thomas",
+      "Betty Furness"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beggars-in-ermine.html"
+}

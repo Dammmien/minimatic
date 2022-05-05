@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Sex and the City",
+    "year": 2008,
+    "cast": [
+      "Sarah Jessica Parker",
+      "Kim Cattrall",
+      "Kristin Davis",
+      "Cynthia Nixon",
+      "Chris Noth"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sex-and-the-city.html"
+}

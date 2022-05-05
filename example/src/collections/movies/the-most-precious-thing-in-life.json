@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Most Precious Thing in Life",
+    "year": 1934,
+    "cast": [
+      "Richard Cromwell",
+      "Jean Arthur"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-most-precious-thing-in-life.html"
+}

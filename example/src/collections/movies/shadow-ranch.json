@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shadow Ranch",
+    "year": 1930,
+    "cast": [
+      "Buck Jones",
+      "Marguerite De La Motte"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/shadow-ranch.html"
+}

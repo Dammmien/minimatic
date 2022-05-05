@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fair Cheat",
+    "year": 1923,
+    "cast": [
+      "Edmund Breese",
+      "Wilfred Lytell",
+      "Dorothy Mackaill"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fair-cheat.html"
+}

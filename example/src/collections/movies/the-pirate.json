@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pirate",
+    "year": 1948,
+    "cast": [
+      "Gene Kelly",
+      "Judy Garland"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-pirate.html"
+}

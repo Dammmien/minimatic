@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "It's Complicated",
+    "year": 2009,
+    "cast": [
+      "Robert Adamson",
+      "Blanchard Ryan",
+      "Meryl Streep",
+      "Steve Martin",
+      "Alec Baldwin"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-complicated.html"
+}

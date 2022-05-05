@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Howards of Virginia",
+    "year": 1940,
+    "cast": [
+      "Cary Grant",
+      "Martha Scott",
+      "Cedric Hardwicke"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-howards-of-virginia.html"
+}

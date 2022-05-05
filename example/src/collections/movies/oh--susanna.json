@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Oh! Susanna",
+    "year": 1951,
+    "cast": [
+      "Lorna Gray",
+      "Rod Cameron"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/oh--susanna.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Strawberry Shortcake: The Sweet Dreams Movie",
+    "year": 2006,
+    "cast": [
+      "Sarah Heinke"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/strawberry-shortcake--the-sweet-dreams-movie.html"
+}

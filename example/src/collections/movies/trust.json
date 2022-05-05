@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trust",
+    "year": 1990,
+    "cast": [
+      "Adrienne Shelley"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/trust.html"
+}

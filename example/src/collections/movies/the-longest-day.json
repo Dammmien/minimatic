@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Longest Day",
+    "year": 1962,
+    "cast": [
+      "John Wayne",
+      "Robert Mitchum",
+      "Henry Fonda",
+      "Richard Burton",
+      "Sean Connery",
+      "Robert Ryan",
+      "George Segal",
+      "Tom Tryon",
+      "Peter Lawford"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-longest-day.html"
+}

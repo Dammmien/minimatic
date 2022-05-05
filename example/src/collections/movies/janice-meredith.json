@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Janice Meredith",
+    "year": 1924,
+    "cast": [
+      "Marion Davies",
+      "Holbrook Blinn",
+      "Tyrone Power Sr"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/janice-meredith.html"
+}

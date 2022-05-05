@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Halloween 4: The Return of Michael Myers",
+    "year": 1988,
+    "cast": [
+      "Donald Pleasence",
+      "Ellie Cornell",
+      "Danielle Harris"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/halloween-4--the-return-of-michael-myers.html"
+}

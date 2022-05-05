@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fraternity Vacation",
+    "year": 1985,
+    "cast": [
+      "Sheree J. Wilson",
+      "Tim Robbins",
+      "John Vernon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fraternity-vacation.html"
+}

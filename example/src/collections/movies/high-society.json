@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "High Society",
+    "year": 1956,
+    "cast": [
+      "Grace Kelly",
+      "Bing Crosby",
+      "Frank Sinatra"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/high-society.html"
+}

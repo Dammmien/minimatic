@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prairie Roundup",
+    "year": 1951,
+    "cast": [
+      "Charles Starrett",
+      "Mary Castle"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/prairie-roundup.html"
+}

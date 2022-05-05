@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lone Wolf",
+    "year": 1924,
+    "cast": [
+      "Dorothy Dalton",
+      "Jack Holt"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-lone-wolf.html"
+}

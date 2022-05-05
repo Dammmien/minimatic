@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Scarf",
+    "year": 1951,
+    "cast": [
+      "Mercedes McCambridge",
+      "John Ireland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-scarf.html"
+}

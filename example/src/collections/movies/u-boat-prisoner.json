@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "U-Boat Prisoner",
+    "year": 1944,
+    "cast": [
+      "Bruce Bennett",
+      "Erik Rolf"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/u-boat-prisoner.html"
+}

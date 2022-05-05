@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Paris Interlude",
+    "year": 1934,
+    "cast": [
+      "Madge Evans",
+      "Robert Young",
+      "Ted Healy"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/paris-interlude.html"
+}

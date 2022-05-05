@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Desperately Seeking Susan",
+    "year": 1985,
+    "cast": [
+      "Rosanna Arquette",
+      "Aidan Quinn",
+      "Madonna"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/desperately-seeking-susan.html"
+}

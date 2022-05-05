@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Mad World",
+    "year": 1930,
+    "cast": [
+      "Kay Johnson",
+      "Basil Rathbone"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/this-mad-world.html"
+}

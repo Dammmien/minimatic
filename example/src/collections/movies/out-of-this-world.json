@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Out of This World",
+    "year": 1945,
+    "cast": [
+      "Veronica Lake",
+      "Eddie Bracken",
+      "Diana Lynn",
+      "Cass Daley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/out-of-this-world.html"
+}

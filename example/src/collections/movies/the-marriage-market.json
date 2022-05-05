@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Marriage Market",
+    "year": 1923,
+    "cast": [
+      "Pauline Garon",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-marriage-market.html"
+}

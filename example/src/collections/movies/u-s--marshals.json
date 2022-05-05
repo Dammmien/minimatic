@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "U.S. Marshals",
+    "year": 1998,
+    "cast": [
+      "Tommy Lee Jones",
+      "Wesley Snipes",
+      "Robert Downey, Jr.",
+      "Joe Pantoliano",
+      "Irène Jacob"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/u-s--marshals.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rock, Pretty Baby",
+    "year": 1956,
+    "cast": [
+      "Sal Mineo",
+      "John Saxon",
+      "Luana Patten"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rock--pretty-baby.html"
+}

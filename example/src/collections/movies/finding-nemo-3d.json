@@ -1,0 +1,27 @@
+{
+  "data": {
+    "title": "Finding Nemo 3D",
+    "year": 2012,
+    "cast": [
+      "Albert Brooks",
+      "Ellen DeGeneres",
+      "Alexander Gould",
+      "Willem Dafoe",
+      "Barry Humphries",
+      "Eric Bana",
+      "Bruce Spence",
+      "Allison Janney",
+      "Elizabeth Perkins",
+      "Geoffrey Rush",
+      "Brad Garrett",
+      "Austin Pendleton",
+      "Stephen Root",
+      "Vicki Lewis"
+    ],
+    "genres": [
+      "Adventure",
+      "Animated"
+    ]
+  },
+  "output": "movies/finding-nemo-3d.html"
+}

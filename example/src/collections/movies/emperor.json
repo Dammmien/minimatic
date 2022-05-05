@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Emperor",
+    "year": 2013,
+    "cast": [
+      "Matthew Fox",
+      "Tommy Lee Jones",
+      "Eriko Hatsune",
+      "Masayoshi Haneda",
+      "Toshiyuki Nishida"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/emperor.html"
+}

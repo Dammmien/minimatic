@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The White Sister",
+    "year": 1933,
+    "cast": [
+      "Helen Hayes",
+      "Clark Gable"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-white-sister.html"
+}

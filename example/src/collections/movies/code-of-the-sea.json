@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Code of the Sea",
+    "year": 1924,
+    "cast": [
+      "Rod La Rocque",
+      "Jacqueline Logan"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/code-of-the-sea.html"
+}

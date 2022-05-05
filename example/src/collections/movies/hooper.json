@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Hooper",
+    "year": 1978,
+    "cast": [
+      "Burt Reynolds",
+      "Sally Field",
+      "Jan-Michael Vincent",
+      "Brian Keith",
+      "Robert Klein",
+      "James Best",
+      "Adam West"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/hooper.html"
+}

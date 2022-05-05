@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Inside Detroit",
+    "year": 1956,
+    "cast": [
+      "Pat O'Brien",
+      "Dennis O'Keefe"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/inside-detroit.html"
+}

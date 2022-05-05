@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Bloody Valentine 3D",
+    "year": 2009,
+    "cast": [
+      "Jensen Ackles",
+      "Jaime King",
+      "Kerr Smith"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/my-bloody-valentine-3d.html"
+}

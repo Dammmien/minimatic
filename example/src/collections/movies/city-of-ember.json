@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "City of Ember",
+    "year": 2008,
+    "cast": [
+      "Bill Murray",
+      "Tim Robbins",
+      "Saoirse Ronan"
+    ],
+    "genres": [
+      "Fantasy",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/city-of-ember.html"
+}

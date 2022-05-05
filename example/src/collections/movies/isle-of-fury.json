@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Isle of Fury",
+    "year": 1936,
+    "cast": [
+      "Humphrey Bogart",
+      "Margaret Lindsay",
+      "Donald Woods"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/isle-of-fury.html"
+}

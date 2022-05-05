@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Resident Evil: The Final Chapter",
+    "year": 2017,
+    "cast": [
+      "Milla Jovovich",
+      "Shawn Roberts",
+      "Ruby Rose",
+      "William Levy",
+      "Iain Glen",
+      "Eoin Macken",
+      "Lee Joon-gi",
+      "Ali Larter"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/resident-evil--the-final-chapter.html"
+}

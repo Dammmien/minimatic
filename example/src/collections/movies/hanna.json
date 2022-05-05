@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Hanna",
+    "year": 2011,
+    "cast": [
+      "Saoirse Ronan",
+      "Eric Bana",
+      "Tom Hollander",
+      "Olivia Williams",
+      "Jason Flemyng",
+      "and",
+      "Cate Blanchett"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/hanna.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beach Red",
+    "year": 1967,
+    "cast": [
+      "Cornel Wilde",
+      "Rip Torn",
+      "Jaime Sánchez"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/beach-red.html"
+}

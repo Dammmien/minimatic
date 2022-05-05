@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rites of Passage",
+    "year": 1999,
+    "cast": [
+      "Dean Stockwell",
+      "James Remar",
+      "Jason Behr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rites-of-passage.html"
+}

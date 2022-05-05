@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Scotland, Pennsylvania",
+    "year": 2001,
+    "cast": [
+      "Maura Tierney",
+      "James LeGros",
+      "Christopher Walken"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/scotland--pennsylvania.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Lady's Profession",
+    "year": 1933,
+    "cast": [
+      "Alison Skipworth",
+      "Roland Young",
+      "Sari Maritza"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-lady-s-profession.html"
+}

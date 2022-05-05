@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Male and Female",
+    "year": 1919,
+    "cast": [
+      "Gloria Swanson",
+      "Thomas Meighan"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/male-and-female.html"
+}

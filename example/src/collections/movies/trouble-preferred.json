@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trouble Preferred",
+    "year": 1948,
+    "cast": [
+      "Peggy Knudsen",
+      "Lynne Roberts"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/trouble-preferred.html"
+}

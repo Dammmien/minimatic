@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Phantom Horseman",
+    "year": 1924,
+    "cast": [
+      "Jack Hoxie",
+      "Lillian Rich"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-phantom-horseman.html"
+}

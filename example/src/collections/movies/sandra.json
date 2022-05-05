@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sandra",
+    "year": 1924,
+    "cast": [
+      "Barbara La Marr",
+      "Bert Lytell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sandra.html"
+}

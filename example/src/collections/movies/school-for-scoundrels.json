@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "School for Scoundrels",
+    "year": 2006,
+    "cast": [
+      "Billy Bob Thornton",
+      "Jon Heder"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/school-for-scoundrels.html"
+}

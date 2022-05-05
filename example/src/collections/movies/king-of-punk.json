@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "King of Punk",
+    "year": 2007,
+    "cast": [
+      "The",
+      "punk subculture",
+      "between 1976 and 1982"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/king-of-punk.html"
+}

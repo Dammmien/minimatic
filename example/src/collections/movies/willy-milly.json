@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Willy/Milly",
+    "year": 1986,
+    "cast": [
+      "Pamela Adlon",
+      "Patty Duke",
+      "Eric Gurry"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/willy-milly.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Keep 'Em Slugging",
+    "year": 1943,
+    "cast": [
+      "Dead End Kids",
+      "Elyse Knox"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/keep--em-slugging.html"
+}

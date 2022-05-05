@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cops and Robbersons",
+    "year": 1994,
+    "cast": [
+      "Chevy Chase",
+      "Jack Palance",
+      "Dianne Wiest",
+      "Jason James Richter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cops-and-robbersons.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trimmed",
+    "year": 1922,
+    "cast": [
+      "Hoot Gibson",
+      "Patsy Ruth Miller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/trimmed.html"
+}

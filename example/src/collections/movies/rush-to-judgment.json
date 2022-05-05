@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rush to Judgment",
+    "year": 1966,
+    "cast": [
+      "Archive footage of",
+      "Lee Harvey Oswald",
+      "Jack Ruby",
+      "Earl Warren"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/rush-to-judgment.html"
+}

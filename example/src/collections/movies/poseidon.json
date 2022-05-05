@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Poseidon",
+    "year": 2006,
+    "cast": [
+      "Josh Lucas",
+      "Kurt Russell",
+      "Richard Dreyfuss",
+      "Kevin Dillon",
+      "Freddy Rodríguez",
+      "Emmy Rossum",
+      "Mike Vogel",
+      "Jacinda Barrett",
+      "Andre Braugher"
+    ],
+    "genres": [
+      "Disaster"
+    ]
+  },
+  "output": "movies/poseidon.html"
+}

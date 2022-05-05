@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "Captain America: The First Avenger",
+    "year": 2011,
+    "cast": [
+      "Chris Evans",
+      "Tommy Lee Jones",
+      "Hugo Weaving",
+      "Dominic Cooper",
+      "Neal McDonough",
+      "Derek Luke",
+      "Stanley Tucci",
+      "Hayley Atwell",
+      "Sebastian Stan",
+      "Kenneth Choi",
+      "Toby Jones",
+      "Richard Armitage",
+      "J. J. Feild",
+      "Samuel L. Jackson"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/captain-america--the-first-avenger.html"
+}

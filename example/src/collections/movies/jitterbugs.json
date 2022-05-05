@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jitterbugs",
+    "year": 1943,
+    "cast": [
+      "Laurel and Hardy",
+      "Vivian Blaine"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/jitterbugs.html"
+}

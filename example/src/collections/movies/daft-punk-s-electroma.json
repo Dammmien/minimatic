@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daft Punk's Electroma",
+    "year": 2006,
+    "cast": [
+      "Peter Hurteau",
+      "Michael Reich"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/daft-punk-s-electroma.html"
+}

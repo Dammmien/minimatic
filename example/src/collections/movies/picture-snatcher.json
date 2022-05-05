@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Picture Snatcher",
+    "year": 1933,
+    "cast": [
+      "James Cagney",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/picture-snatcher.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ride Along 2",
+    "year": 2016,
+    "cast": [
+      "Ice Cube",
+      "Kevin Hart"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/ride-along-2.html"
+}

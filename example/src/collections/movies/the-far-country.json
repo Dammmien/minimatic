@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Far Country",
+    "year": 1955,
+    "cast": [
+      "James Stewart",
+      "Walter Brennan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-far-country.html"
+}

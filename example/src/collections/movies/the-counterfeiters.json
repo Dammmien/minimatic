@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Counterfeiters",
+    "year": 1948,
+    "cast": [
+      "Doris Merrick",
+      "Hugh Beaumont"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-counterfeiters.html"
+}

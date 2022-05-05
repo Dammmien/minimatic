@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Old Enough",
+    "year": 1984,
+    "cast": [
+      "Sarah Boyd",
+      "Rainbow Harvest",
+      "Danny Aiello"
+    ],
+    "genres": [
+      "Teen"
+    ]
+  },
+  "output": "movies/old-enough.html"
+}

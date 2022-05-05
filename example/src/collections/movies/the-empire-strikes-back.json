@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Empire Strikes Back",
+    "year": 1980,
+    "cast": [
+      "Carrie Fisher",
+      "Harrison Ford",
+      "Mark Hamill",
+      "Billy Dee Williams",
+      "Alec Guinness"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-empire-strikes-back.html"
+}

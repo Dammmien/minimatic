@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Vacancy",
+    "year": 2007,
+    "cast": [
+      "Luke Wilson",
+      "Kate Beckinsale"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/vacancy.html"
+}

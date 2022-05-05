@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "All the Fine Young Cannibals",
+    "year": 1960,
+    "cast": [
+      "Natalie Wood",
+      "Robert Wagner",
+      "George Hamilton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/all-the-fine-young-cannibals.html"
+}

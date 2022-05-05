@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Woman's World",
+    "year": 1954,
+    "cast": [
+      "Clifton Webb",
+      "June Allyson",
+      "Van Heflin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/woman-s-world.html"
+}

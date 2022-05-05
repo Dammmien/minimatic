@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Human Jungle",
+    "year": 1954,
+    "cast": [
+      "Gary Merrill",
+      "Jan Sterling"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-human-jungle.html"
+}

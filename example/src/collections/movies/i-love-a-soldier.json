@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Love a Soldier",
+    "year": 1944,
+    "cast": [
+      "Paulette Goddard",
+      "Sonny Tufts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-love-a-soldier.html"
+}

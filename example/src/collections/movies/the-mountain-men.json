@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mountain Men",
+    "year": 1980,
+    "cast": [
+      "Charlton Heston",
+      "Brian Keith",
+      "Seymour Cassel"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-mountain-men.html"
+}

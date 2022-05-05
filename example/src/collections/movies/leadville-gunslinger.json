@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Leadville Gunslinger",
+    "year": 1952,
+    "cast": [
+      "Allan Lane",
+      "Elaine Riley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/leadville-gunslinger.html"
+}

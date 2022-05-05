@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Double Cross Roads",
+    "year": 1930,
+    "cast": [
+      "Robert Ames",
+      "Lila Lee"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/double-cross-roads.html"
+}

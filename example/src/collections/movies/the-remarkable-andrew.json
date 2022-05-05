@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Remarkable Andrew",
+    "year": 1942,
+    "cast": [
+      "William Holden",
+      "Brian Donlevy",
+      "Ellen Drew"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-remarkable-andrew.html"
+}

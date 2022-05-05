@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Snares of Paris",
+    "year": 1919,
+    "cast": [
+      "Madlaine Traverse",
+      "Charles Arling"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/snares-of-paris.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Shadow",
+    "year": 1994,
+    "cast": [
+      "Alec Baldwin",
+      "John Lone",
+      "Penelope Ann Miller"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-shadow.html"
+}

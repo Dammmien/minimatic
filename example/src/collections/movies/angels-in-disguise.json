@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Angels in Disguise",
+    "year": 1949,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/angels-in-disguise.html"
+}

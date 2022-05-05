@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Boy Erased",
+    "year": 2018,
+    "cast": [
+      "Lucas Hedges",
+      "Joel Edgerton",
+      "Nicole Kidman",
+      "Russell Crowe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/boy-erased.html"
+}

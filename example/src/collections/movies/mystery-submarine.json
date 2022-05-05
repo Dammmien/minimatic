@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mystery Submarine",
+    "year": 1950,
+    "cast": [
+      "Macdonald Carey",
+      "Märta Torén"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mystery-submarine.html"
+}

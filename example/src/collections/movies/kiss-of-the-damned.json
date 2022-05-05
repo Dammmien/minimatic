@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Kiss of the Damned",
+    "year": 2013,
+    "cast": [
+      "Joséphine de La Baume",
+      "Milo Ventimiglia",
+      "Roxane Mesquida",
+      "Michael Rapaport",
+      "Riley Keough",
+      "Ching Valdes-Aran",
+      "Anna Mouglalis"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/kiss-of-the-damned.html"
+}

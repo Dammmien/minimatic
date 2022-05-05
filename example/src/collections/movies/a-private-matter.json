@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Private Matter",
+    "year": 1992,
+    "cast": [
+      "Sissy Spacek",
+      "Aidan Quinn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-private-matter.html"
+}

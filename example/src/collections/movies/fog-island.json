@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fog Island",
+    "year": 1945,
+    "cast": [
+      "George Zucco",
+      "Lionel Atwill"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/fog-island.html"
+}

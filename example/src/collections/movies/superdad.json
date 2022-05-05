@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Superdad",
+    "year": 1973,
+    "cast": [
+      "Bob Crane",
+      "Barbara Rush",
+      "Kurt Russell"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/superdad.html"
+}

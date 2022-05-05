@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ace in the Hole",
+    "year": 1951,
+    "cast": [
+      "Kirk Douglas",
+      "Jan Sterling"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ace-in-the-hole.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Littlest Rebel",
+    "year": 1935,
+    "cast": [
+      "Shirley Temple",
+      "John Boles",
+      "Jack Holt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-littlest-rebel.html"
+}

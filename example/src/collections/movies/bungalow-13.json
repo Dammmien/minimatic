@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bungalow 13",
+    "year": 1948,
+    "cast": [
+      "Tom Conway",
+      "Margaret Hamilton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bungalow-13.html"
+}

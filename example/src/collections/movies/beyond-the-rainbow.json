@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beyond the Rainbow",
+    "year": 1922,
+    "cast": [
+      "Harry T. Morey",
+      "Billie Dove",
+      "Clara Bow"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beyond-the-rainbow.html"
+}

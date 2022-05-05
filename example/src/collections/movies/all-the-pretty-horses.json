@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "All the Pretty Horses",
+    "year": 2000,
+    "cast": [
+      "Matt Damon",
+      "Penélope Cruz",
+      "Henry Thomas",
+      "Lucas Black",
+      "Rubén Blades",
+      "Míriam Colón",
+      "Bruce Dern"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/all-the-pretty-horses.html"
+}

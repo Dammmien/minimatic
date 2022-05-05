@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Honeymoon in Vegas",
+    "year": 1992,
+    "cast": [
+      "Nicolas Cage",
+      "James Caan",
+      "Sarah Jessica Parker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/honeymoon-in-vegas.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Country Beyond",
+    "year": 1936,
+    "cast": [
+      "Rochelle Hudson",
+      "Paul Kelly",
+      "Alan Hale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-country-beyond.html"
+}

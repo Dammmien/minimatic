@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mismates",
+    "year": 1926,
+    "cast": [
+      "Doris Kenyon",
+      "Warner Baxter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mismates.html"
+}

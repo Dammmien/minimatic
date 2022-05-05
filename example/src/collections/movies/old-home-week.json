@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Old Home Week",
+    "year": 1925,
+    "cast": [
+      "Thomas Meighan",
+      "Lila Lee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/old-home-week.html"
+}

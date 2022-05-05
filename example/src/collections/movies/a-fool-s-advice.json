@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Fool's Advice",
+    "year": 1932,
+    "cast": [
+      "Frank Fay",
+      "Nat Pendleton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-fool-s-advice.html"
+}

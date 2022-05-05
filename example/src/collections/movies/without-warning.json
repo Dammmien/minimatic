@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Without Warning",
+    "year": 1994,
+    "cast": [
+      "Jane Kaczmarek"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/without-warning.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Don't Be Afraid of the Dark",
+    "year": 2011,
+    "cast": [
+      "Katie Holmes",
+      "Guy Pearce",
+      "Bailee Madison",
+      "Jack Thompson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/don-t-be-afraid-of-the-dark.html"
+}

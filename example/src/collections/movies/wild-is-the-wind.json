@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wild Is the Wind",
+    "year": 1957,
+    "cast": [
+      "Anna Magnani",
+      "Anthony Quinn",
+      "Anthony Franciosa"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wild-is-the-wind.html"
+}

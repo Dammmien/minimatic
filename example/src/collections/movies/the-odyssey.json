@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Odyssey",
+    "year": 1997,
+    "cast": [
+      "Armand Assante",
+      "Isabella Rossellini",
+      "Greta Scacchi",
+      "Eric Roberts",
+      "Vanessa L. Williams"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-odyssey.html"
+}

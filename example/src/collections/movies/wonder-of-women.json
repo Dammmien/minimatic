@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wonder of Women",
+    "year": 1929,
+    "cast": [
+      "Lewis Stone",
+      "Leila Hyams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wonder-of-women.html"
+}

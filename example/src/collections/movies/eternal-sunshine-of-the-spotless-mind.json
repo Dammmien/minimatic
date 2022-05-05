@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "cast": [
+      "Jim Carrey",
+      "Kate Winslet",
+      "Kirsten Dunst",
+      "Mark Ruffalo",
+      "Elijah Wood",
+      "Tom Wilkinson"
+    ],
+    "genres": [
+      "Drama",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/eternal-sunshine-of-the-spotless-mind.html"
+}

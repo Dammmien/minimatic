@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Grizzly Man",
+    "year": 2005,
+    "cast": [
+      "the life and death of",
+      "Timothy Treadwell"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/grizzly-man.html"
+}

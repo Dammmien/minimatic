@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Escape from Alcatraz",
+    "year": 1979,
+    "cast": [
+      "Clint Eastwood",
+      "Patrick McGoohan",
+      "Fred Ward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/escape-from-alcatraz.html"
+}

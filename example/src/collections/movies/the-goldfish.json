@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Goldfish",
+    "year": 1924,
+    "cast": [
+      "Constance Talmadge",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-goldfish.html"
+}

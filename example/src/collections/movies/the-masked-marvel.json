@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Masked Marvel",
+    "year": 1943,
+    "cast": [
+      "William Forrest",
+      "Louise Currie"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-masked-marvel.html"
+}

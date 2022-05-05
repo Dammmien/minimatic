@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man from Home",
+    "year": 1914,
+    "cast": [
+      "Charles Richman",
+      "Theodore Roberts",
+      "Fred Montague"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-from-home.html"
+}

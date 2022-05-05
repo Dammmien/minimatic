@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Screaming Eagles",
+    "year": 1956,
+    "cast": [
+      "Tom Tryon",
+      "Martin Milner"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/screaming-eagles.html"
+}

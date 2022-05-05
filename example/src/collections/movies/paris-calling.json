@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paris Calling",
+    "year": 1942,
+    "cast": [
+      "Basil Rathbone",
+      "Randolph Scott",
+      "Elisabeth Bergner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/paris-calling.html"
+}

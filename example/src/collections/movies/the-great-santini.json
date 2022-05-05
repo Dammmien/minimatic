@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Great Santini",
+    "year": 1979,
+    "cast": [
+      "Robert Duvall",
+      "Blythe Danner",
+      "Michael O'Keefe",
+      "Stan Shaw"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-great-santini.html"
+}

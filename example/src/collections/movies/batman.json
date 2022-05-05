@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Batman",
+    "year": 1989,
+    "cast": [
+      "Michael Keaton",
+      "Jack Nicholson",
+      "Kim Basinger",
+      "Robert Wuhl",
+      "Jack Palance",
+      "Billy Dee Williams"
+    ],
+    "genres": [
+      "Superhero",
+      "Action"
+    ]
+  },
+  "output": "movies/batman.html"
+}

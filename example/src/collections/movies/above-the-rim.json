@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Above the Rim",
+    "year": 1994,
+    "cast": [
+      "Duane Martin",
+      "Leon",
+      "Tupac Shakur"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/above-the-rim.html"
+}

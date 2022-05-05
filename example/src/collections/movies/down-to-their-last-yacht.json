@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Down to Their Last Yacht",
+    "year": 1934,
+    "cast": [
+      "Mary Boland",
+      "Polly Moran",
+      "Ned Sparks"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/down-to-their-last-yacht.html"
+}

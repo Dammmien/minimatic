@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Unfinished Dance",
+    "year": 1947,
+    "cast": [
+      "Cyd Charisse",
+      "Margaret O'Brien",
+      "Danny Thomas"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-unfinished-dance.html"
+}

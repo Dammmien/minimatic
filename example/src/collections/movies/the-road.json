@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Road",
+    "year": 2009,
+    "cast": [
+      "Charlize Theron",
+      "Viggo Mortensen",
+      "Kodi Smit-McPhee",
+      "Robert Duvall"
+    ],
+    "genres": [
+      "Drama",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-road.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Viva Max!",
+    "year": 1969,
+    "cast": [
+      "Peter Ustinov",
+      "Jonathan Winters",
+      "Pamela Tiffin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/viva-max-.html"
+}

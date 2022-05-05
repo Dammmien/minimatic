@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "They Knew What They Wanted",
+    "year": 1940,
+    "cast": [
+      "Carole Lombard",
+      "Charles Laughton",
+      "William Gargan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/they-knew-what-they-wanted.html"
+}

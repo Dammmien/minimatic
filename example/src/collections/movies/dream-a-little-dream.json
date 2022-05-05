@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Dream a Little Dream",
+    "year": 1989,
+    "cast": [
+      "Corey Feldman",
+      "Corey Haim",
+      "Meredith Salenger",
+      "Jason Robards",
+      "Piper Laurie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dream-a-little-dream.html"
+}

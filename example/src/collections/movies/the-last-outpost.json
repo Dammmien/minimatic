@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last Outpost",
+    "year": 1951,
+    "cast": [
+      "Ronald Reagan",
+      "Rhonda Fleming"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-last-outpost.html"
+}

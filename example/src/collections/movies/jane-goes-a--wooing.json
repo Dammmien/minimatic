@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jane Goes A' Wooing",
+    "year": 1919,
+    "cast": [
+      "Vivian Martin",
+      "Niles Welch"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jane-goes-a--wooing.html"
+}

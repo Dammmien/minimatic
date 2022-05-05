@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Gathering of Eagles",
+    "year": 1963,
+    "cast": [
+      "Rock Hudson",
+      "Rod Taylor",
+      "Barry Sullivan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-gathering-of-eagles.html"
+}

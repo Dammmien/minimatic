@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Fire with Fire",
+    "year": 2012,
+    "cast": [
+      "Josh Duhamel",
+      "50 Cent",
+      "Bruce Willis",
+      "Vincent D'Onofrio",
+      "Richard Schiff"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/fire-with-fire.html"
+}

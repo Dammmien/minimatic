@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Going Crooked",
+    "year": 1926,
+    "cast": [
+      "Bessie Love",
+      "Gustav von Seyffertitz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/going-crooked.html"
+}

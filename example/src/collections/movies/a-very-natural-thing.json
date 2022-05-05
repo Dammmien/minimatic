@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Very Natural Thing",
+    "year": 1974,
+    "cast": [
+      "Robert McLane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-very-natural-thing.html"
+}

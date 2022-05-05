@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "From Hell to Heaven",
+    "year": 1933,
+    "cast": [
+      "Carole Lombard",
+      "Jack Oakie",
+      "Adrienne Ames"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/from-hell-to-heaven.html"
+}

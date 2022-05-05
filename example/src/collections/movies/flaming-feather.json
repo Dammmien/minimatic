@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flaming Feather",
+    "year": 1952,
+    "cast": [
+      "Sterling Hayden",
+      "Barbara Rush",
+      "Forrest Tucker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/flaming-feather.html"
+}

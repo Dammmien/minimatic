@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Maverick Queen",
+    "year": 1956,
+    "cast": [
+      "Barbara Stanwyck",
+      "Barry Sullivan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-maverick-queen.html"
+}

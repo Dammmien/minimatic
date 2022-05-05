@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Silent Partner",
+    "year": 1978,
+    "cast": [
+      "Elliott Gould",
+      "Christopher Plummer",
+      "Susannah York"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/silent-partner.html"
+}

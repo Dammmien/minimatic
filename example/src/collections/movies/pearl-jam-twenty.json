@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pearl Jam Twenty",
+    "year": 2011,
+    "cast": [
+      "A rockumentary based on influential rock band Pearl Jam that marks their 20th anniversary in the year 2011."
+    ],
+    "genres": [
+      "Musical",
+      "Documentary"
+    ]
+  },
+  "output": "movies/pearl-jam-twenty.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Land That Time Forgot",
+    "year": 1975,
+    "cast": [
+      "Doug McClure"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-land-that-time-forgot.html"
+}

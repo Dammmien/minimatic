@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Down Twisted",
+    "year": 1987,
+    "cast": [
+      "Carey Lowell",
+      "Charles Rocket"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/down-twisted.html"
+}

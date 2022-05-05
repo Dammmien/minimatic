@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Words",
+    "year": 2012,
+    "cast": [
+      "Bradley Cooper",
+      "Jeremy Irons",
+      "Dennis Quaid",
+      "Olivia Wilde",
+      "and",
+      "Zoe Saldana",
+      "Ben Barnes",
+      "Nora Arnezeder"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-words.html"
+}

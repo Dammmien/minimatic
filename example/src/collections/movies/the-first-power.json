@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The First Power",
+    "year": 1990,
+    "cast": [
+      "Lou Diamond Phillips"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-first-power.html"
+}

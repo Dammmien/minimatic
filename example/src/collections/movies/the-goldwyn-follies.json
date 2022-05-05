@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Goldwyn Follies",
+    "year": 1938,
+    "cast": [
+      "Adolphe Menjou",
+      "Ritz Brothers",
+      "Vera Zorina"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/the-goldwyn-follies.html"
+}

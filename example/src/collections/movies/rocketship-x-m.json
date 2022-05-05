@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rocketship X-M",
+    "year": 1950,
+    "cast": [
+      "Lloyd Bridges",
+      "Osa Massen"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/rocketship-x-m.html"
+}

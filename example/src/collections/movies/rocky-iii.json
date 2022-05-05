@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Rocky III",
+    "year": 1982,
+    "cast": [
+      "Sylvester Stallone",
+      "Carl Weathers",
+      "Talia Shire",
+      "Burgess Meredith",
+      "Burt Young",
+      "Mr. T",
+      "Hulk Hogan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rocky-iii.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Karate Kid",
+    "year": 2010,
+    "cast": [
+      "Jaden Smith",
+      "Jackie Chan",
+      "Taraji P. Henson"
+    ],
+    "genres": [
+      "Martial Arts"
+    ]
+  },
+  "output": "movies/the-karate-kid.html"
+}

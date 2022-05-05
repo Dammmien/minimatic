@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hyenas",
+    "year": 2010,
+    "cast": [
+      "Christa Campbell",
+      "Costas Mandylor",
+      "Joshua Alba",
+      "Rudolf Martin"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/hyenas.html"
+}

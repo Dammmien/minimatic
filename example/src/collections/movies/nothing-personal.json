@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nothing Personal",
+    "year": 1980,
+    "cast": [
+      "Suzanne Somers",
+      "Donald Sutherland"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nothing-personal.html"
+}

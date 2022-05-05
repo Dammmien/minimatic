@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shark!",
+    "year": 1969,
+    "cast": [
+      "Burt Reynolds",
+      "Arthur Kennedy",
+      "Silvia Pinal"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/shark-.html"
+}

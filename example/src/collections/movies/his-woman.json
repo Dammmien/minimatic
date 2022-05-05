@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "His Woman",
+    "year": 1931,
+    "cast": [
+      "Gary Cooper",
+      "Claudette Colbert"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/his-woman.html"
+}

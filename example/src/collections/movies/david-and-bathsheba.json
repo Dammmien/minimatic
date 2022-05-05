@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "David and Bathsheba",
+    "year": 1951,
+    "cast": [
+      "Gregory Peck",
+      ".",
+      "Susan Hayward"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/david-and-bathsheba.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Napoleon and Samantha",
+    "year": 1972,
+    "cast": [
+      "Michael Douglas",
+      "Jodie Foster"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/napoleon-and-samantha.html"
+}

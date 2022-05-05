@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gypsy Colt",
+    "year": 1954,
+    "cast": [
+      "Donna Corcoran",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/gypsy-colt.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "House of Dracula",
+    "year": 1945,
+    "cast": [
+      "Lon Chaney",
+      "John Carradine",
+      "Onslow Stevens",
+      "Martha O'Driscoll",
+      "Skelton Knaggs"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/house-of-dracula.html"
+}

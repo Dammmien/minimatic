@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Contractor",
+    "year": 2013,
+    "cast": [
+      "Danny Trejo",
+      "Brad Rowe",
+      "Christina Cox"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-contractor.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Captain America: Civil War",
+    "year": 2016,
+    "cast": [
+      "Chris Evans",
+      "Robert Downey Jr.",
+      "Sebastian Stan"
+    ],
+    "genres": [
+      "Superhero",
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/captain-america--civil-war.html"
+}

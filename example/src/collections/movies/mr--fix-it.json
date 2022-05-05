@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Fix-It",
+    "year": 1918,
+    "cast": [
+      "Douglas Fairbanks",
+      "Wanda Hawley"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--fix-it.html"
+}

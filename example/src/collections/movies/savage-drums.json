@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Savage Drums",
+    "year": 1951,
+    "cast": [
+      "Sabu",
+      "Lita Baron",
+      "H. B. Warner"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/savage-drums.html"
+}

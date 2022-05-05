@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sing Your Way Home",
+    "year": 1945,
+    "cast": [
+      "Jack Haley",
+      "Marcy McGuire"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/sing-your-way-home.html"
+}

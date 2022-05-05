@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dark Waters",
+    "year": 1944,
+    "cast": [
+      "Merle Oberon",
+      "Franchot Tone",
+      "Thomas Mitchell"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/dark-waters.html"
+}

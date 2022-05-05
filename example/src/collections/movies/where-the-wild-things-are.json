@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Where the Wild Things Are",
+    "year": 2009,
+    "cast": [
+      "Max Records",
+      "Catherine Keener",
+      "Mark Ruffalo",
+      "Lauren Ambrose",
+      "Chris Cooper",
+      "James Gandolfini",
+      "Catherine O'Hara",
+      "Forest Whitaker",
+      "Paul Dano"
+    ],
+    "genres": [
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/where-the-wild-things-are.html"
+}

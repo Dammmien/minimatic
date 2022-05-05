@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Temple of Venus",
+    "year": 1923,
+    "cast": [
+      "William Walling",
+      "Mary Philbin",
+      "Alice Day"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-temple-of-venus.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eyes of the Navy",
+    "year": 1940,
+    "cast": [
+      "Charles B. Middleton"
+    ],
+    "genres": [
+      "Short",
+      "Documentary"
+    ]
+  },
+  "output": "movies/eyes-of-the-navy.html"
+}

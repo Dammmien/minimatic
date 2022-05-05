@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Move On",
+    "year": 1917,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/move-on.html"
+}

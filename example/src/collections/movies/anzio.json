@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Anzio",
+    "year": 1968,
+    "cast": [
+      "Robert Mitchum",
+      "Robert Ryan",
+      "Peter Falk"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/anzio.html"
+}

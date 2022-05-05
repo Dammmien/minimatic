@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Crow",
+    "year": 1994,
+    "cast": [
+      "Brandon Lee",
+      "Michael Wincott",
+      "Ernie Hudson"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-crow.html"
+}

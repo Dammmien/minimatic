@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Team America: World Police",
+    "year": 2004,
+    "cast": [
+      "Trey Parker",
+      "Matt Stone",
+      "Kristen Miller"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/team-america--world-police.html"
+}

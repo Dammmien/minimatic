@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting Caballero",
+    "year": 1935,
+    "cast": [
+      "Rex Lease",
+      "Dorothy Gulliver"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fighting-caballero.html"
+}

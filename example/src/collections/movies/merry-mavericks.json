@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Merry Mavericks",
+    "year": 1951,
+    "cast": [
+      "Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/merry-mavericks.html"
+}

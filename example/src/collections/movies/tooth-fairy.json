@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Tooth Fairy",
+    "year": 2010,
+    "cast": [
+      "Dwayne Johnson",
+      "Ashley Judd",
+      "Billy Crystal",
+      "Julie Andrews",
+      "Stephen Merchant",
+      "Ryan Sheckler"
+    ],
+    "genres": [
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/tooth-fairy.html"
+}

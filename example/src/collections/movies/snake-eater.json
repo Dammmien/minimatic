@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Snake Eater",
+    "year": 1989,
+    "cast": [
+      "Lorenzo Lamas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/snake-eater.html"
+}

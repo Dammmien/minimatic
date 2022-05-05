@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "South of Tahiti",
+    "year": 1941,
+    "cast": [
+      "Maria Montez",
+      "Brian Donlevy"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/south-of-tahiti.html"
+}

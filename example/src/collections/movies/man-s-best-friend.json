@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man's Best Friend",
+    "year": 1993,
+    "cast": [
+      "Ally Sheedy",
+      "Lance Henriksen"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/man-s-best-friend.html"
+}

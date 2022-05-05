@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "China Girl",
+    "year": 1987,
+    "cast": [
+      "James Russo",
+      "David Caruso"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/china-girl.html"
+}

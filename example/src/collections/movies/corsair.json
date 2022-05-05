@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Corsair",
+    "year": 1931,
+    "cast": [
+      "Chester Morris",
+      "Thelma Todd"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/corsair.html"
+}

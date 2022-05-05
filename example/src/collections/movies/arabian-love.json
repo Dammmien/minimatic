@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Arabian Love",
+    "year": 1922,
+    "cast": [
+      "John Gilbert",
+      "Barbara Bedford",
+      "Barbara La Marr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/arabian-love.html"
+}

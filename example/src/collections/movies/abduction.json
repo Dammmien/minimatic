@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Abduction",
+    "year": 2011,
+    "cast": [
+      "Taylor Lautner",
+      "Lily Collins",
+      "Alfred Molina",
+      "Jason Isaacs",
+      "Maria Bello",
+      "Sigourney Weaver"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/abduction.html"
+}

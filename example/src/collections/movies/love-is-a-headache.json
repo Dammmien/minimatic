@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Is a Headache",
+    "year": 1938,
+    "cast": [
+      "Gladys George",
+      "Franchot Tone",
+      "Mickey Rooney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-is-a-headache.html"
+}

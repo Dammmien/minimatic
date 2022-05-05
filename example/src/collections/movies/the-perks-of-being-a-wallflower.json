@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Perks of Being a Wallflower",
+    "year": 2012,
+    "cast": [
+      "Logan Lerman",
+      "Emma Watson",
+      "Ezra Miller",
+      "Mae Whitman",
+      "Kate Walsh",
+      "Dylan McDermott",
+      "Joan Cusack",
+      "Paul Rudd"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Teen"
+    ]
+  },
+  "output": "movies/the-perks-of-being-a-wallflower.html"
+}

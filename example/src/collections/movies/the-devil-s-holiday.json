@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Devil's Holiday",
+    "year": 1930,
+    "cast": [
+      "Nancy Carroll",
+      "Phillips Holmes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-devil-s-holiday.html"
+}

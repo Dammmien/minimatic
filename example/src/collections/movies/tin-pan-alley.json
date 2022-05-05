@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tin Pan Alley",
+    "year": 1940,
+    "cast": [
+      "Alice Faye",
+      "Betty Grable",
+      "Jack Oakie"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/tin-pan-alley.html"
+}

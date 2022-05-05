@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Road Gang",
+    "year": 1936,
+    "cast": [
+      "Donald Woods",
+      "Kay Linaker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/road-gang.html"
+}

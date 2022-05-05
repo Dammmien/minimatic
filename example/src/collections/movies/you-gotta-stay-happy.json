@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "You Gotta Stay Happy",
+    "year": 1948,
+    "cast": [
+      "Joan Fontaine",
+      "James Stewart",
+      "Eddie Albert"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-gotta-stay-happy.html"
+}

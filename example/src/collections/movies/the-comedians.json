@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Comedians",
+    "year": 1967,
+    "cast": [
+      "Elizabeth Taylor",
+      "Richard Burton",
+      "Peter Ustinov"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-comedians.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Missile to the Moon",
+    "year": 1958,
+    "cast": [
+      "Richard Travis",
+      "Cathy Downs"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/missile-to-the-moon.html"
+}

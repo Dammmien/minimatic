@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Battle Zone",
+    "year": 1952,
+    "cast": [
+      "John Hodiak",
+      "Linda Christian"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/battle-zone.html"
+}

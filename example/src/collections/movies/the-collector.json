@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Collector",
+    "year": 2009,
+    "cast": [
+      "Josh Stewart",
+      "Michael Reilly Burke",
+      "Andrea Roth",
+      "Juan Fernández"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-collector.html"
+}

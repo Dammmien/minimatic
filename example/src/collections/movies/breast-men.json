@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Breast Men",
+    "year": 1997,
+    "cast": [
+      "Chris Cooper",
+      "David Schwimmer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/breast-men.html"
+}

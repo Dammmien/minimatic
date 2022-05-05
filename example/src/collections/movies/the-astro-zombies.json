@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Astro-Zombies",
+    "year": 1968,
+    "cast": [
+      "John Carradine",
+      "Wendell Corey",
+      "Tura Satana"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-astro-zombies.html"
+}

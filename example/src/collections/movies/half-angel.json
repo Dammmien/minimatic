@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Half Angel",
+    "year": 1951,
+    "cast": [
+      "Loretta Young",
+      "Joseph Cotten"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/half-angel.html"
+}

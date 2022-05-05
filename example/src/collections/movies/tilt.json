@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tilt",
+    "year": 1979,
+    "cast": [
+      "Brooke Shields",
+      "Charles Durning"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tilt.html"
+}

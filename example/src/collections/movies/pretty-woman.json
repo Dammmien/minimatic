@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Pretty Woman",
+    "year": 1990,
+    "cast": [
+      "Julia Roberts",
+      "Richard Gere",
+      "Héctor Elizondo",
+      "Jason Alexander",
+      "Laura San Giacomo",
+      "Ralph Bellamy"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/pretty-woman.html"
+}

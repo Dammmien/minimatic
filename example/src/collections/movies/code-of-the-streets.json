@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Code of the Streets",
+    "year": 1939,
+    "cast": [
+      "Harry Carey",
+      "Frankie Thomas"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/code-of-the-streets.html"
+}

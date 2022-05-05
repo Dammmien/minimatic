@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Road to Alcatraz",
+    "year": 1945,
+    "cast": [
+      "Robert Lowery",
+      "June Storey"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/road-to-alcatraz.html"
+}

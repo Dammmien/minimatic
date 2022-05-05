@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "He Knew Women",
+    "year": 1930,
+    "cast": [
+      "Lowell Sherman",
+      "Alice Joyce"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/he-knew-women.html"
+}

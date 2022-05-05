@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Thin Man Goes Home",
+    "year": 1945,
+    "cast": [
+      "William Powell",
+      "Myrna Loy",
+      "Gloria DeHaven"
+    ],
+    "genres": [
+      "Mystery",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-thin-man-goes-home.html"
+}

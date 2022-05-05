@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shootin' for Love",
+    "year": 1923,
+    "cast": [
+      "Hoot Gibson",
+      "Laura La Plante"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/shootin--for-love.html"
+}

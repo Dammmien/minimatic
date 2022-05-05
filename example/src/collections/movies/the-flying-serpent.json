@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Flying Serpent",
+    "year": 1946,
+    "cast": [
+      "George Zucco",
+      "Eddie Acuff"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-flying-serpent.html"
+}

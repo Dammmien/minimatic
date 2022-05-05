@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Green Mile",
+    "year": 1999,
+    "cast": [
+      "Tom Hanks",
+      "David Morse",
+      "Bonnie Hunt",
+      "Michael Clarke Duncan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-green-mile.html"
+}

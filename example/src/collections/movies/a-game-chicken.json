@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Game Chicken",
+    "year": 1922,
+    "cast": [
+      "Bebe Daniels",
+      "Pat O'Malley"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-game-chicken.html"
+}

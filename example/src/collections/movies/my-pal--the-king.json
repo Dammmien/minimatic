@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Pal, the King",
+    "year": 1932,
+    "cast": [
+      "Tom Mix",
+      "Mickey Rooney"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/my-pal--the-king.html"
+}

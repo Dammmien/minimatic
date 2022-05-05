@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Bruce Almighty",
+    "year": 2003,
+    "cast": [
+      "Jim Carrey",
+      "Morgan Freeman",
+      "Jennifer Aniston",
+      "Steve Carell"
+    ],
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/bruce-almighty.html"
+}

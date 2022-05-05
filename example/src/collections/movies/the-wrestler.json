@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wrestler",
+    "year": 2008,
+    "cast": [
+      "Mickey Rourke",
+      "Marisa Tomei",
+      "Evan Rachel Wood"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wrestler.html"
+}

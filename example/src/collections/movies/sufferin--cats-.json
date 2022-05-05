@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sufferin' Cats!",
+    "year": 1943,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/sufferin--cats-.html"
+}

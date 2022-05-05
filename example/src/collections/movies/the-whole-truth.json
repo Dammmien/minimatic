@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Whole Truth",
+    "year": 1958,
+    "cast": [
+      "Stewart Granger",
+      "Donna Reed"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-whole-truth.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hold Back the Night",
+    "year": 1956,
+    "cast": [
+      "John Payne",
+      "Mona Freeman",
+      "Peter Graves"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/hold-back-the-night.html"
+}

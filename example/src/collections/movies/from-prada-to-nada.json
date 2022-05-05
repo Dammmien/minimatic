@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "From Prada to Nada",
+    "year": 2011,
+    "cast": [
+      "Camilla Belle",
+      "Alexa Vega",
+      "Wilmer Valderrama",
+      "Nicholas D'Agosto",
+      "April Bowlby",
+      "Kuno Becker",
+      "Adriana Barraza"
+    ],
+    "genres": [
+      "Drama",
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/from-prada-to-nada.html"
+}

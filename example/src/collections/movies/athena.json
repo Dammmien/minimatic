@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Athena",
+    "year": 1954,
+    "cast": [
+      "Jane Powell",
+      "Debbie Reynolds",
+      "Virginia Gibson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/athena.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thousands Cheer",
+    "year": 1943,
+    "cast": [
+      "Kathryn Grayson",
+      "Gene Kelly"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/thousands-cheer.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Dragnet",
+    "year": 1987,
+    "cast": [
+      "Dan Aykroyd",
+      "Tom Hanks",
+      "Dabney Coleman",
+      "Harry Morgan",
+      "Alexandra Paul",
+      "Christopher Plummer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dragnet.html"
+}

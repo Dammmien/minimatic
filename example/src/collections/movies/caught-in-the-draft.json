@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Caught in the Draft",
+    "year": 1941,
+    "cast": [
+      "Bob Hope",
+      "Dorothy Lamour"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/caught-in-the-draft.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Man from Sonora",
+    "year": 1951,
+    "cast": [
+      "Johnny Mack Brown",
+      "Phyllis Coates",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/man-from-sonora.html"
+}

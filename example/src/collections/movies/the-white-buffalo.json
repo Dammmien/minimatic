@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The White Buffalo",
+    "year": 1977,
+    "cast": [
+      "Charles Bronson",
+      "Will Sampson",
+      "Jack Warden",
+      "Slim Pickens",
+      "Kim Novak"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-white-buffalo.html"
+}

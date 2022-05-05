@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Walking Deceased",
+    "year": 2015,
+    "cast": [
+      "Dave Sheridan",
+      "Tim Ogletree",
+      "Joey Oglesby",
+      "Sophie Taylor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-walking-deceased.html"
+}

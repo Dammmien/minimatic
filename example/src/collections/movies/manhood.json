@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Manhood",
+    "year": 2003,
+    "cast": [
+      "Nestor Carbonell",
+      "John Ritter",
+      "Janeane Garofalo"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/manhood.html"
+}

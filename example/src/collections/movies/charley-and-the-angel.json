@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Charley and the Angel",
+    "year": 1973,
+    "cast": [
+      "Fred MacMurray",
+      "Cloris Leachman",
+      "Kurt Russell"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/charley-and-the-angel.html"
+}

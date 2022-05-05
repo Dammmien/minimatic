@@ -1,0 +1,31 @@
+{
+  "data": {
+    "title": "Red Tails",
+    "year": 2012,
+    "cast": [
+      "Cuba Gooding, Jr.",
+      "Terrence Howard",
+      "Daniela Ruah",
+      "Bryan Cranston",
+      "Nate Parker",
+      "David Oyelowo",
+      "Ryan Early",
+      "Method Man",
+      "Elijah Kelley",
+      "Ne-Yo",
+      "Tristan Wilds",
+      "Kevin Phillips",
+      "Robert Kazinsky",
+      "Lee Tergesen",
+      "Andre Royo",
+      "Marcus T. Paulk",
+      "Michael B. Jordan"
+    ],
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/red-tails.html"
+}

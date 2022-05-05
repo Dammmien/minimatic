@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The White Orchid",
+    "year": 1954,
+    "cast": [
+      "William Lundigan",
+      "Peggie Castle"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-white-orchid.html"
+}

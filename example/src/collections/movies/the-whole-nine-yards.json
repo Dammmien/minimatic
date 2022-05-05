@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Whole Nine Yards",
+    "year": 2000,
+    "cast": [
+      "Bruce Willis",
+      "Matthew Perry",
+      "Rosanna Arquette",
+      "Natasha Henstridge",
+      "Michael Clarke Duncan",
+      "Amanda Peet",
+      "Kevin Pollak"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-whole-nine-yards.html"
+}

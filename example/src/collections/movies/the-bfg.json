@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The BFG",
+    "year": 2016,
+    "cast": [
+      "Mark Rylance",
+      "Ruby Barnhill"
+    ],
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-bfg.html"
+}

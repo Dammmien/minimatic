@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cold Turkey",
+    "year": 1971,
+    "cast": [
+      "Dick Van Dyke",
+      "Bob Newhart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cold-turkey.html"
+}

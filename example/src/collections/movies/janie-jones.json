@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Janie Jones",
+    "year": 2011,
+    "cast": [
+      "Abigail Breslin",
+      "Alessandro Nivola",
+      "and",
+      "Elisabeth Shue",
+      "Brittany Snow",
+      "Peter Stormare",
+      "Joel Moore",
+      "Frances Fisher",
+      "Frank Whaley",
+      "Rodney Eastman"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/janie-jones.html"
+}

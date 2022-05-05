@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Inez from Hollywood",
+    "year": 1924,
+    "cast": [
+      "Anna Q. Nilsson",
+      "Lewis Stone",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/inez-from-hollywood.html"
+}

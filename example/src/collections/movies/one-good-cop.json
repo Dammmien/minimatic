@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "One Good Cop",
+    "year": 1991,
+    "cast": [
+      "Michael Keaton",
+      "Rene Russo",
+      "Anthony LaPaglia",
+      "Benjamin Bratt"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/one-good-cop.html"
+}

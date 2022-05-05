@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Frequency",
+    "year": 2000,
+    "cast": [
+      "Dennis Quaid",
+      "James Caviezel"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/frequency.html"
+}

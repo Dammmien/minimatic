@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bullet for a Badman",
+    "year": 1964,
+    "cast": [
+      "Audie Murphy",
+      "Darren McGavin",
+      "Ruta Lee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bullet-for-a-badman.html"
+}

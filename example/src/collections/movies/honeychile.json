@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Honeychile",
+    "year": 1951,
+    "cast": [
+      "Judy Canova",
+      "Eddie Foy Jr."
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/honeychile.html"
+}

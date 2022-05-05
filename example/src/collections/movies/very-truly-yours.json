@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Very Truly Yours",
+    "year": 1922,
+    "cast": [
+      "Shirley Mason",
+      "Allan Forrest"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/very-truly-yours.html"
+}

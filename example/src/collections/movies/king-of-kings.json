@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "King of Kings",
+    "year": 1961,
+    "cast": [
+      "Jeffrey Hunter",
+      "Robert Ryan",
+      "Hurd Hatfield",
+      "Rip Torn",
+      "Siobhán McKenna",
+      "Ron Randell",
+      "Rita Gam"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/king-of-kings.html"
+}

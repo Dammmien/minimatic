@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Heart of Arizona",
+    "year": 1938,
+    "cast": [
+      "William Boyd",
+      "Russell Hayden",
+      "Natalie Moorhead"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/heart-of-arizona.html"
+}

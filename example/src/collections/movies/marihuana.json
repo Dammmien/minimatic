@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Marihuana",
+    "year": 1936,
+    "cast": [
+      "Hugh McArthur",
+      "Dorothy Dehn",
+      "Paul Ellis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/marihuana.html"
+}

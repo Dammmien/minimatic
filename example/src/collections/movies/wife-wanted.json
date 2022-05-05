@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wife Wanted",
+    "year": 1946,
+    "cast": [
+      "Kay Francis",
+      "Paul Cavanagh",
+      "Veda Ann Borg"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wife-wanted.html"
+}

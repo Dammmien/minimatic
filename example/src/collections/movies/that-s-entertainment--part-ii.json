@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That's Entertainment, Part II",
+    "year": 1976,
+    "cast": [
+      "Fred Astaire",
+      "Gene Kelly"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/that-s-entertainment--part-ii.html"
+}

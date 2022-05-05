@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Maxie",
+    "year": 1985,
+    "cast": [
+      "Glenn Close",
+      "Mandy Patinkin",
+      "Ruth Gordon",
+      "Barnard Hughes",
+      "Valerie Curtin"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/maxie.html"
+}

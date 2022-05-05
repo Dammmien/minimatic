@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gentleman from Louisiana",
+    "year": 1936,
+    "cast": [
+      "Eddie Quillan",
+      "Charlotte Henry"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-gentleman-from-louisiana.html"
+}

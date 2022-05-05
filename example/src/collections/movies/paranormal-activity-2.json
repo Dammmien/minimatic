@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Paranormal Activity 2",
+    "year": 2010,
+    "cast": [
+      "Katie Featherston",
+      "Micah Sloat",
+      "Sprague Grayden",
+      "Molly Ephraim"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/paranormal-activity-2.html"
+}

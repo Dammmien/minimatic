@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Moving McAllister",
+    "year": 2007,
+    "cast": [
+      "Ben Gourley",
+      "Mila Kunis",
+      "Jon Heder",
+      "Rutger Hauer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/moving-mcallister.html"
+}

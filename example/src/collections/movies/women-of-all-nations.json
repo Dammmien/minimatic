@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Women of All Nations",
+    "year": 1931,
+    "cast": [
+      "Victor McLaglen",
+      "Edmund Lowe",
+      "Greta Nissen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/women-of-all-nations.html"
+}

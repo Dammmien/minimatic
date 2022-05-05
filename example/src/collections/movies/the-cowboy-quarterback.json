@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cowboy Quarterback",
+    "year": 1939,
+    "cast": [
+      "Bert Wheeler",
+      "Marie Wilson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-cowboy-quarterback.html"
+}

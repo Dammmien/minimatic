@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Project X",
+    "year": 2012,
+    "cast": [
+      "Thomas Mann",
+      "Oliver Cooper",
+      "Jonathan Daniel Brown",
+      "Alexis Knapp",
+      "Nichole Bloom",
+      "Dax Flame",
+      "Miles Teller",
+      "Kirby Bliss Blanton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/project-x.html"
+}

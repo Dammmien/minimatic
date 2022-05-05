@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dracula: Dead and Loving It",
+    "year": 1995,
+    "cast": [
+      "Leslie Nielsen",
+      "Peter MacNicol",
+      "Steven Weber",
+      "Amy Yasbeck"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dracula--dead-and-loving-it.html"
+}

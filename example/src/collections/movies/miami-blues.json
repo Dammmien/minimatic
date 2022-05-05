@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Miami Blues",
+    "year": 1990,
+    "cast": [
+      "Alec Baldwin",
+      "Jennifer Jason Leigh",
+      "Fred Ward"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/miami-blues.html"
+}

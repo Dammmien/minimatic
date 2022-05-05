@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A Midnight Clear",
+    "year": 1992,
+    "cast": [
+      "Peter Berg",
+      "Ethan Hawke",
+      "Kevin Dillon",
+      "Gary Sinise"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-midnight-clear.html"
+}

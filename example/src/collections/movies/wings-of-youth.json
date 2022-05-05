@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wings of Youth",
+    "year": 1925,
+    "cast": [
+      "Ethel Clayton",
+      "Madge Bellamy",
+      "Charles Farrell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wings-of-youth.html"
+}

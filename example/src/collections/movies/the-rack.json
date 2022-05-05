@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Rack",
+    "year": 1956,
+    "cast": [
+      "Paul Newman",
+      "Wendell Corey",
+      "Walter Pidgeon",
+      "Anne Francis"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-rack.html"
+}

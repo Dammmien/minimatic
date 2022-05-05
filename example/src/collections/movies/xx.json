@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "XX",
+    "year": 2017,
+    "cast": [
+      "Natalie Brown",
+      "Melanie Lynskey",
+      "Breeda Wool",
+      "Christina Kirk"
+    ],
+    "genres": [
+      "Horror",
+      "Suspense"
+    ]
+  },
+  "output": "movies/xx.html"
+}

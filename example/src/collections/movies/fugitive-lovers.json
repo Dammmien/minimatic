@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fugitive Lovers",
+    "year": 1934,
+    "cast": [
+      "Madge Evans",
+      "Robert Montgomery"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fugitive-lovers.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last Express",
+    "year": 1938,
+    "cast": [
+      "Kent Taylor",
+      "Dorothea Kent",
+      "Greta Granstedt"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-last-express.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hangup",
+    "year": 1974,
+    "cast": [
+      "William Elliott",
+      "Cliff Potts"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/hangup.html"
+}

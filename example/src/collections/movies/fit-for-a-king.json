@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fit for a King",
+    "year": 1937,
+    "cast": [
+      "Joe E. Brown",
+      "Helen Mack",
+      "Paul Kelly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fit-for-a-king.html"
+}

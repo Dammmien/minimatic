@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Breezy",
+    "year": 1973,
+    "cast": [
+      "William Holden",
+      "Kay Lenz"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/breezy.html"
+}

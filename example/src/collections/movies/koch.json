@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Koch",
+    "year": 2013,
+    "cast": [
+      "The life and career of former New York Mayor",
+      "Ed Koch",
+      "."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/koch.html"
+}

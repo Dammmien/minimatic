@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Batteries Not Included",
+    "year": 1987,
+    "cast": [
+      "Jessica Tandy",
+      "Hume Cronyn"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/batteries-not-included.html"
+}

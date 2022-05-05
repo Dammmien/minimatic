@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Married Men",
+    "year": 1936,
+    "cast": [
+      "Lynne Overman",
+      "Roscoe Karns",
+      "Mary Brian"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-married-men.html"
+}

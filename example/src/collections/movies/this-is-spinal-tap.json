@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Is Spinal Tap",
+    "year": 1984,
+    "cast": [
+      "Michael McKean",
+      "Christopher Guest",
+      "Harry Shearer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/this-is-spinal-tap.html"
+}

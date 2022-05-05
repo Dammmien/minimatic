@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Robin Hood of the Range",
+    "year": 1943,
+    "cast": [
+      "Charles Starrett",
+      "Arthur Hunnicutt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/robin-hood-of-the-range.html"
+}

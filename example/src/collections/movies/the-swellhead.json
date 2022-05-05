@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Swellhead",
+    "year": 1930,
+    "cast": [
+      "James Gleason",
+      "Marion Shilling"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-swellhead.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Passion of the Christ",
+    "year": 2004,
+    "cast": [
+      "Jim Caviezel",
+      "Monica Bellucci"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-passion-of-the-christ.html"
+}

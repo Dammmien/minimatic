@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yes Sir, That's My Baby",
+    "year": 1949,
+    "cast": [
+      "Donald O'Connor",
+      "Gloria DeHaven"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/yes-sir--that-s-my-baby.html"
+}

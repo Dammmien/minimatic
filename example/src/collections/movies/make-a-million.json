@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Make a Million",
+    "year": 1935,
+    "cast": [
+      "Charles Starrett",
+      "Pauline Brooks",
+      "James Burke"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/make-a-million.html"
+}

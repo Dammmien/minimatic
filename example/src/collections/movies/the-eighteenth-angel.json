@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Eighteenth Angel",
+    "year": 1998,
+    "cast": [
+      "Rachael Leigh Cook",
+      "Christopher McDonald",
+      "Stanley Tucci"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-eighteenth-angel.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Moonshiners",
+    "year": 1916,
+    "cast": [
+      "Joe Bordeaux",
+      "J. Herbert Frank"
+    ],
+    "genres": [
+      "Short",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-moonshiners.html"
+}

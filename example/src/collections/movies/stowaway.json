@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Stowaway",
+    "year": 1936,
+    "cast": [
+      "Shirley Temple",
+      "Robert Young",
+      "Eugene Pallette"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/stowaway.html"
+}

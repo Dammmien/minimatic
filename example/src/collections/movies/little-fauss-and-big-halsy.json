@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Little Fauss and Big Halsy",
+    "year": 1970,
+    "cast": [
+      "Robert Redford",
+      "Michael J. Pollard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-fauss-and-big-halsy.html"
+}

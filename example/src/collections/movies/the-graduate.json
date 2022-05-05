@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Graduate",
+    "year": 1967,
+    "cast": [
+      "Dustin Hoffman",
+      "Anne Bancroft",
+      "Katharine Ross"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-graduate.html"
+}

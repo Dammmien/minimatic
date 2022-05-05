@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strange Idols",
+    "year": 1922,
+    "cast": [
+      "Dustin Farnum",
+      "Doris Pawn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/strange-idols.html"
+}

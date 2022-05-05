@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Arizona Territory",
+    "year": 1950,
+    "cast": [
+      "Whip Wilson",
+      "Andy Clyde",
+      "Nancy Saunders"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/arizona-territory.html"
+}

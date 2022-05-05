@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nightmare Honeymoon",
+    "year": 1974,
+    "cast": [
+      "Dack Rambo",
+      "John Beck"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/nightmare-honeymoon.html"
+}

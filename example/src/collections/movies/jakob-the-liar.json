@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Jakob the Liar",
+    "year": 1999,
+    "cast": [
+      "Robin Williams",
+      "Alan Arkin",
+      "Liev Schreiber"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/jakob-the-liar.html"
+}

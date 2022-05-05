@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Crimson Code",
+    "year": 1999,
+    "cast": [
+      "Patrick Muldoon",
+      "Cathy Moriarty",
+      "C. Thomas Howell",
+      "Fred Ward"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-crimson-code.html"
+}

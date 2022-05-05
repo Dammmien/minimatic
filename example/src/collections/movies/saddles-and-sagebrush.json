@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Saddles and Sagebrush",
+    "year": 1943,
+    "cast": [
+      "Russell Hayden",
+      "Ann Savage"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/saddles-and-sagebrush.html"
+}

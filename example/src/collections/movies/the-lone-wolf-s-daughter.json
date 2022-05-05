@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lone Wolf's Daughter",
+    "year": 1929,
+    "cast": [
+      "Bert Lytell",
+      "Gertrude Olmstead"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lone-wolf-s-daughter.html"
+}

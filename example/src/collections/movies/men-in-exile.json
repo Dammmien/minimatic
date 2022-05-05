@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Men in Exile",
+    "year": 1937,
+    "cast": [
+      "Dick Purcell",
+      "June Travis",
+      "Victor Varconi"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/men-in-exile.html"
+}

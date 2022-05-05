@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bluebeard's Eighth Wife",
+    "year": 1938,
+    "cast": [
+      "Claudette Colbert",
+      "Gary Cooper",
+      "David Niven"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bluebeard-s-eighth-wife.html"
+}

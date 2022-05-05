@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "They Won't Forget",
+    "year": 1937,
+    "cast": [
+      "Claude Rains",
+      "Lana Turner",
+      "Otto Kruger"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/they-won-t-forget.html"
+}

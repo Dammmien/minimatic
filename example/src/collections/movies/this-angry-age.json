@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Angry Age",
+    "year": 1958,
+    "cast": [
+      "Anthony Perkins",
+      "Silvana Mangano",
+      "Richard Conte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/this-angry-age.html"
+}

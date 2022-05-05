@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "War Nurse",
+    "year": 1930,
+    "cast": [
+      "Robert Montgomery",
+      "Anita Page",
+      "June Walker"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/war-nurse.html"
+}

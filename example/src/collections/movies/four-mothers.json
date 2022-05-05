@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Four Mothers",
+    "year": 1941,
+    "cast": [
+      "Priscilla Lane",
+      "Rosemary Lane",
+      "Lola Lane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/four-mothers.html"
+}

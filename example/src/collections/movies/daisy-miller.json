@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daisy Miller",
+    "year": 1974,
+    "cast": [
+      "Cybill Shepherd",
+      "Cloris Leachman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/daisy-miller.html"
+}

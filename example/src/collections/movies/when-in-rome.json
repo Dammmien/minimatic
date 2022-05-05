@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "When in Rome",
+    "year": 2010,
+    "cast": [
+      "Kristen Bell",
+      "Josh Duhamel",
+      "Will Arnett",
+      "Jon Heder",
+      "Dax Shepard",
+      "Danny DeVito",
+      "Anjelica Huston"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/when-in-rome.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Joan of Arc",
+    "year": 1948,
+    "cast": [
+      "Ingrid Bergman",
+      "José Ferrer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/joan-of-arc.html"
+}

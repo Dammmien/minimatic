@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tropic Fury",
+    "year": 1939,
+    "cast": [
+      "Beverly Roberts",
+      "Richard Arlen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tropic-fury.html"
+}

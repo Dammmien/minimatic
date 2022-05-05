@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lariat Kid",
+    "year": 1929,
+    "cast": [
+      "Hoot Gibson",
+      "Ann Christy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-lariat-kid.html"
+}

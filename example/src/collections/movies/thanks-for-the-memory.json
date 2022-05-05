@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Thanks for the Memory",
+    "year": 1938,
+    "cast": [
+      "Bob Hope",
+      "Shirley Ross",
+      "Otto Kruger",
+      "Hedda Hopper"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/thanks-for-the-memory.html"
+}

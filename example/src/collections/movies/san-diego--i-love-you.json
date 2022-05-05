@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "San Diego, I Love You",
+    "year": 1944,
+    "cast": [
+      "Jon Hall",
+      "Louise Allbritton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/san-diego--i-love-you.html"
+}

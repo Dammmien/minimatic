@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yanks Ahoy",
+    "year": 1943,
+    "cast": [
+      "William Tracy",
+      "Joe Sawyer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/yanks-ahoy.html"
+}

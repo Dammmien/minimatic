@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Put on the Spot",
+    "year": 1936,
+    "cast": [
+      "Edward Nugent",
+      "Maxine Doyle",
+      "Lucille Lund"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/put-on-the-spot.html"
+}

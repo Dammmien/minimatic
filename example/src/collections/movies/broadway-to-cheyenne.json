@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Broadway to Cheyenne",
+    "year": 1932,
+    "cast": [
+      "Rex Bell",
+      "Marceline Day"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/broadway-to-cheyenne.html"
+}

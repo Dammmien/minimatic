@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Raggedy Man",
+    "year": 1981,
+    "cast": [
+      "Sissy Spacek",
+      "Eric Roberts",
+      "Sam Shepard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/raggedy-man.html"
+}

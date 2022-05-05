@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Green Grass Widows",
+    "year": 1928,
+    "cast": [
+      "Gertrude Olmstead",
+      "Hedda Hopper"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/green-grass-widows.html"
+}

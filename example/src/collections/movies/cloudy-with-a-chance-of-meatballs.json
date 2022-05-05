@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Cloudy with a Chance of Meatballs",
+    "year": 2009,
+    "cast": [
+      "Bill Hader",
+      "Anna Faris",
+      "James Caan",
+      "Andy Samberg",
+      "Bruce Campbell",
+      "Mr. T",
+      "Bobb'e J. Thompson",
+      "Benjamin Bratt",
+      "Neil Patrick Harris",
+      "Al Roker",
+      "Lauren Graham",
+      "Will Forte"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/cloudy-with-a-chance-of-meatballs.html"
+}

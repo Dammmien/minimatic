@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sound of Fury",
+    "year": 1950,
+    "cast": [
+      "Frank Lovejoy",
+      "Kathleen Ryan"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-sound-of-fury.html"
+}

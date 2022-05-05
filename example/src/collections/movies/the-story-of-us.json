@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Story of Us",
+    "year": 1999,
+    "cast": [
+      "Bruce Willis",
+      "Michelle Pfeiffer"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-story-of-us.html"
+}

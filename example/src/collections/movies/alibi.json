@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Alibi",
+    "year": 2007,
+    "cast": [
+      "Lisa Crosato",
+      "Marie Zielcke",
+      "Joe Estevez",
+      "Tim Colceri",
+      "Peter Franzén",
+      "Gem Silver"
+    ],
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ]
+  },
+  "output": "movies/alibi.html"
+}

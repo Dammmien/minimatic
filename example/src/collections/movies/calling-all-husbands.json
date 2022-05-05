@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Calling All Husbands",
+    "year": 1940,
+    "cast": [
+      "George Tobias",
+      "Lucile Fairbanks",
+      "Ernest Truex"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/calling-all-husbands.html"
+}

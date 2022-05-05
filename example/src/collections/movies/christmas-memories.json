@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Christmas Memories",
+    "year": 1915,
+    "cast": [
+      "Delmer Daves",
+      "Robert Z. Leonard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/christmas-memories.html"
+}

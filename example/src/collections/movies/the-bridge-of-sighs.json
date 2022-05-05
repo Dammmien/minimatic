@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bridge of Sighs",
+    "year": 1936,
+    "cast": [
+      "Onslow Stevens",
+      "Dorothy Tree",
+      "Walter Byron"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bridge-of-sighs.html"
+}

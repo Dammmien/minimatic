@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lake House",
+    "year": 2006,
+    "cast": [
+      "Keanu Reeves",
+      "Sandra Bullock"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-lake-house.html"
+}

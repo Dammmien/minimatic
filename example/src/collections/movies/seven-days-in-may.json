@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Seven Days in May",
+    "year": 1964,
+    "cast": [
+      "Kirk Douglas",
+      "Burt Lancaster",
+      "Fredric March",
+      "Ava Gardner",
+      "Edmond O'Brien",
+      "Martin Balsam"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/seven-days-in-may.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Postcards from the Edge",
+    "year": 1990,
+    "cast": [
+      "Meryl Streep",
+      "Dennis Quaid",
+      "Shirley MacLaine",
+      "Gene Hackman",
+      "Annette Bening",
+      "Richard Dreyfuss"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/postcards-from-the-edge.html"
+}

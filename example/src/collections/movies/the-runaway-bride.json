@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Runaway Bride",
+    "year": 1930,
+    "cast": [
+      "Mary Astor",
+      "Lloyd Hughes",
+      "Paul Hurst"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-runaway-bride.html"
+}

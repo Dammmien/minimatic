@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Phat Beach",
+    "year": 1996,
+    "cast": [
+      "Jermaine 'Huggy' Hopkins",
+      "Coolio",
+      "Brian Hooks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/phat-beach.html"
+}

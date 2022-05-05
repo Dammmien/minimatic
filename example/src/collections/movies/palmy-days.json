@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Palmy Days",
+    "year": 1931,
+    "cast": [
+      "Charlotte Greenwood",
+      "Barbara Weeks"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/palmy-days.html"
+}

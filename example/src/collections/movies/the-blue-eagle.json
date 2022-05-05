@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Blue Eagle",
+    "year": 1926,
+    "cast": [
+      "George O'Brien",
+      "Janet Gaynor"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-blue-eagle.html"
+}

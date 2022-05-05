@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Desert Hearts",
+    "year": 1985,
+    "cast": [
+      "Helen Shaver",
+      "Audra Lindley",
+      "Patricia Charbonneau"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/desert-hearts.html"
+}

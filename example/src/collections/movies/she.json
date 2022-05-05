@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "She",
+    "year": 1935,
+    "cast": [
+      "Helen Gahagan",
+      "Randolph Scott",
+      "Nigel Bruce"
+    ],
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/she.html"
+}

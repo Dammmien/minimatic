@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Earth Girls Are Easy",
+    "year": 1988,
+    "cast": [
+      "Geena Davis",
+      "Jeff Goldblum",
+      "Jim Carrey",
+      "Damon Wayans"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/earth-girls-are-easy.html"
+}

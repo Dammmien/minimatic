@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mysterious Skin",
+    "year": 2004,
+    "cast": [
+      "Joseph Gordon-Levitt",
+      "Brady Corbet",
+      "Michelle Trachtenberg"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mysterious-skin.html"
+}

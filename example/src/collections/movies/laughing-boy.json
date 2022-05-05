@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Laughing Boy",
+    "year": 1934,
+    "cast": [
+      "Lupe Vélez",
+      "Ramon Novarro",
+      "William B. Davidson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/laughing-boy.html"
+}

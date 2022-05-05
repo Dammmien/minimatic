@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Masked Woman",
+    "year": 1927,
+    "cast": [
+      "Anna Q. Nilsson",
+      "Holbrook Blinn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-masked-woman.html"
+}

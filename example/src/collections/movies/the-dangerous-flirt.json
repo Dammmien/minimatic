@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dangerous Flirt",
+    "year": 1924,
+    "cast": [
+      "Evelyn Brent",
+      "Edward Earle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-dangerous-flirt.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Santa Fe Rides",
+    "year": 1937,
+    "cast": [
+      "Bob Custer",
+      "Eleanor Stewart",
+      "David Sharpe"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/santa-fe-rides.html"
+}

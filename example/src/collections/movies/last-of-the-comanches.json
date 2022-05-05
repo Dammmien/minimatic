@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Last of the Comanches",
+    "year": 1953,
+    "cast": [
+      "Broderick Crawford",
+      "Barbara Hale"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/last-of-the-comanches.html"
+}

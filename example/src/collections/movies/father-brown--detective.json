@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Father Brown, Detective",
+    "year": 1934,
+    "cast": [
+      "Walter Connolly",
+      "Paul Lukas"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/father-brown--detective.html"
+}

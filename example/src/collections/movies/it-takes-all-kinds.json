@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It Takes All Kinds",
+    "year": 1969,
+    "cast": [
+      "Vera Miles",
+      "Robert Lansing"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/it-takes-all-kinds.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Twice in a Lifetime",
+    "year": 1985,
+    "cast": [
+      "Gene Hackman",
+      "Ann-Margret",
+      "Ellen Burstyn",
+      "Amy Madigan",
+      "Ally Sheedy",
+      "Brian Dennehy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/twice-in-a-lifetime.html"
+}

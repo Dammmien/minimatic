@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smooth as Satin",
+    "year": 1925,
+    "cast": [
+      "Evelyn Brent",
+      "Bruce Gordon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/smooth-as-satin.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dollar Down",
+    "year": 1925,
+    "cast": [
+      "Ruth Roland",
+      "Henry B. Walthall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dollar-down.html"
+}

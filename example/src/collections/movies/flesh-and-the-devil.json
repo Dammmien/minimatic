@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flesh and the Devil",
+    "year": 1926,
+    "cast": [
+      "John Gilbert",
+      "Greta Garbo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flesh-and-the-devil.html"
+}

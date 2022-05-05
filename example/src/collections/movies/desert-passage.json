@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Desert Passage",
+    "year": 1952,
+    "cast": [
+      "Tim Holt",
+      "Richard Martin",
+      "Dorothy Patrick"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/desert-passage.html"
+}

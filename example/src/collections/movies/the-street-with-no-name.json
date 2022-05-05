@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Street with No Name",
+    "year": 1948,
+    "cast": [
+      "Mark Stevens",
+      "Richard Widmark",
+      "Lloyd Nolan"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-street-with-no-name.html"
+}

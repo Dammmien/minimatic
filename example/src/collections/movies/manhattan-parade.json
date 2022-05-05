@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Manhattan Parade",
+    "year": 1931,
+    "cast": [
+      "Charles Butterworth",
+      "Winnie Lightner"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/manhattan-parade.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cameo Kirby",
+    "year": 1930,
+    "cast": [
+      "J. Harold Murray",
+      "Norma Terris",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cameo-kirby.html"
+}

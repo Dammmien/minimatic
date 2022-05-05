@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Porky Pig's Feat",
+    "year": 1943,
+    "cast": [],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/porky-pig-s-feat.html"
+}

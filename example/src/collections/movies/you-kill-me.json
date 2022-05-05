@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "You Kill Me",
+    "year": 2007,
+    "cast": [
+      "Ben Kingsley",
+      "Téa Leoni",
+      "Luke Wilson",
+      "Dennis Farina"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-kill-me.html"
+}

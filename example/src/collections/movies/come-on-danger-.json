@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Come On Danger!",
+    "year": 1932,
+    "cast": [
+      "Tom Keene",
+      "Julie Haydon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/come-on-danger-.html"
+}

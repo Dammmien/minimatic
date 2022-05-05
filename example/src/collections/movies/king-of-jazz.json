@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "King of Jazz",
+    "year": 1930,
+    "cast": [
+      "Bing Crosby",
+      "Paul Whiteman",
+      "John Boles"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/king-of-jazz.html"
+}

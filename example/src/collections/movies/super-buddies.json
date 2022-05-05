@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Super Buddies",
+    "year": 2013,
+    "cast": [
+      "John Ratzenberger",
+      "Trey Loney",
+      "Veronca Diaz-Carranza",
+      "Jay Brazeau"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/super-buddies.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Riding Avenger",
+    "year": 1936,
+    "cast": [
+      "Hoot Gibson",
+      "Ruth Mix",
+      "June Gale"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-riding-avenger.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wandering Footsteps",
+    "year": 1925,
+    "cast": [
+      "Alec B. Francis",
+      "Estelle Taylor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wandering-footsteps.html"
+}

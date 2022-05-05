@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Cast a Giant Shadow",
+    "year": 1966,
+    "cast": [
+      "Kirk Douglas",
+      "Senta Berger",
+      "Yul Brynner",
+      "Frank Sinatra",
+      "Angie Dickinson",
+      "John Wayne"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/cast-a-giant-shadow.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hats Off",
+    "year": 1936,
+    "cast": [
+      "Mae Clarke",
+      "John Payne",
+      "Luis Alberni"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hats-off.html"
+}

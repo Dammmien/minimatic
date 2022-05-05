@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Brotherly Love",
+    "year": 2015,
+    "cast": [
+      "Keke Palmer",
+      "Cory Hardrict",
+      "Quincy",
+      "Romeo Miller"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/brotherly-love.html"
+}

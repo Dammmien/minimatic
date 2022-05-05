@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bless the Child",
+    "year": 2000,
+    "cast": [
+      "Kim Basinger",
+      "Jimmy Smits",
+      "Christina Ricci"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/bless-the-child.html"
+}

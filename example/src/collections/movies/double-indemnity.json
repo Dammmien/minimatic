@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Double Indemnity",
+    "year": 1944,
+    "cast": [
+      "Fred MacMurray",
+      "Barbara Stanwyck",
+      "Edward G. Robinson"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/double-indemnity.html"
+}

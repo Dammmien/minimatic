@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Panama Lady",
+    "year": 1939,
+    "cast": [
+      "Lucille Ball",
+      "Allan Lane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/panama-lady.html"
+}

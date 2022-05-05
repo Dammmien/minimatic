@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "CrissCross",
+    "year": 1992,
+    "cast": [
+      "Goldie Hawn",
+      "Arliss Howard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/crisscross.html"
+}

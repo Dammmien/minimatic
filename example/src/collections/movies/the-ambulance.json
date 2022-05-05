@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ambulance",
+    "year": 1990,
+    "cast": [
+      "Eric Roberts",
+      "James Earl Jones",
+      "Megan Gallagher"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-ambulance.html"
+}

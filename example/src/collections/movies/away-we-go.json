@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Away We Go",
+    "year": 2009,
+    "cast": [
+      "John Krasinski",
+      "Maya Rudolph",
+      "Jeff Daniels",
+      "Maggie Gyllenhaal",
+      "Allison Janney",
+      "Chris Messina",
+      "Catherine O'Hara",
+      "Paul Schneider",
+      "Jim Gaffigan",
+      "Melanie Lynskey",
+      "Josh Hamilton"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/away-we-go.html"
+}

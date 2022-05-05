@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Miracle at St. Anna",
+    "year": 2008,
+    "cast": [
+      "Derek Luke",
+      "Michael Ealy",
+      "Laz Alonso",
+      "Omar Benson Miller",
+      "Pierfrancesco Favino",
+      "Valentina Cervi"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/miracle-at-st--anna.html"
+}

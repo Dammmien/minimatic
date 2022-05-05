@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Analyze That",
+    "year": 2002,
+    "cast": [
+      "Robert De Niro",
+      "Billy Crystal",
+      "Lisa Kudrow"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/analyze-that.html"
+}

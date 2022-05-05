@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Palace of Pleasure",
+    "year": 1926,
+    "cast": [
+      "Betty Compson",
+      "Edmund Lowe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-palace-of-pleasure.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Armored Command",
+    "year": 1961,
+    "cast": [
+      "Howard Keel",
+      "Tina Louise",
+      "Earl Holliman"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/armored-command.html"
+}

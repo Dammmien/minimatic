@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Journey to the Seventh Planet",
+    "year": 1962,
+    "cast": [
+      "John Agar",
+      "Greta Thyssen"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/journey-to-the-seventh-planet.html"
+}

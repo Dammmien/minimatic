@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Penthouse Rhythm",
+    "year": 1945,
+    "cast": [
+      "Kirby Grant",
+      "Lois Collier",
+      "Eric Blore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/penthouse-rhythm.html"
+}

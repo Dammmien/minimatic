@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Guide",
+    "year": 1922,
+    "cast": [
+      "William Duncan",
+      "Edith Johnson"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-fighting-guide.html"
+}

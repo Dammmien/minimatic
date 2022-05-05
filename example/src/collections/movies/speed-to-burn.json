@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Speed to Burn",
+    "year": 1938,
+    "cast": [
+      "Michael Whalen",
+      "Lynn Bari"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/speed-to-burn.html"
+}

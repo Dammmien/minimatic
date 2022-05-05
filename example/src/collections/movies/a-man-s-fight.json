@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Man's Fight",
+    "year": 1919,
+    "cast": [
+      "Dustin Farnum",
+      "Harry von Meter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-man-s-fight.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Edward Scissorhands",
+    "year": 1990,
+    "cast": [
+      "Johnny Depp",
+      "Winona Ryder",
+      "Dianne Wiest",
+      "Alan Arkin",
+      "Anthony Michael Hall",
+      "Vincent Price",
+      "Kathy Baker"
+    ],
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/edward-scissorhands.html"
+}

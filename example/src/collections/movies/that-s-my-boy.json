@@ -1,0 +1,35 @@
+{
+  "data": {
+    "title": "That's My Boy",
+    "year": 2012,
+    "cast": [
+      "Adam Sandler",
+      "Andy Samberg",
+      "Leighton Meester",
+      "Eva Amurri",
+      "Susan Sarandon",
+      "James Caan",
+      "Milo Ventimiglia",
+      "Will Forte",
+      "Colin Quinn",
+      "Todd Bridges",
+      "Vanilla Ice",
+      "Ian Ziering",
+      "Rex Ryan",
+      "Luenell",
+      "Ciara",
+      "Peggy Stewart",
+      "Tony Orlando",
+      "Alan Thicke",
+      "Dan Patrick",
+      "Blake Clark",
+      "Nick Swardson",
+      "Ana Gasteyer",
+      "Baron Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-s-my-boy.html"
+}

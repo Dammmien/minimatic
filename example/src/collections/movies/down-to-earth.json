@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Down to Earth",
+    "year": 2001,
+    "cast": [
+      "Chris Rock"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/down-to-earth.html"
+}

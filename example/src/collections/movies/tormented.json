@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tormented",
+    "year": 1960,
+    "cast": [
+      "Richard Carlson",
+      "Lugene Sanders"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/tormented.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dinner at Eight",
+    "year": 1933,
+    "cast": [
+      "John Barrymore",
+      "Wallace Beery",
+      "Jean Harlow"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/dinner-at-eight.html"
+}

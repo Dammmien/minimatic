@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Indian in the Cupboard",
+    "year": 1995,
+    "cast": [
+      "Hal Scardino",
+      "Litefoot",
+      "Lindsay Crouse",
+      "Richard Jenkins",
+      "Rishi Bhat",
+      "Steve Coogan",
+      "David Keith"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-indian-in-the-cupboard.html"
+}

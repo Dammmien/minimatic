@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Boston Blackie's Chinese Venture",
+    "year": 1949,
+    "cast": [
+      "Chester Morris",
+      "Maylia Fong"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/boston-blackie-s-chinese-venture.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Killers",
+    "year": 2010,
+    "cast": [
+      "Katherine Heigl",
+      "Ashton Kutcher"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/killers.html"
+}

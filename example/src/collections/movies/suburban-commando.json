@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Suburban Commando",
+    "year": 1991,
+    "cast": [
+      "Hulk Hogan",
+      "Christopher Lloyd",
+      "Shelley Duvall"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Comedy"
+    ]
+  },
+  "output": "movies/suburban-commando.html"
+}

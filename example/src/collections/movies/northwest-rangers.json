@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Northwest Rangers",
+    "year": 1942,
+    "cast": [
+      "William Lundigan",
+      "Patricia Dane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/northwest-rangers.html"
+}

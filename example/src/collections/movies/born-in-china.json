@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Born in China",
+    "year": 2017,
+    "cast": [
+      "John Krasinski",
+      "Zhou Xun",
+      "(narrator)"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/born-in-china.html"
+}

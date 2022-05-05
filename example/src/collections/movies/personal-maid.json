@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Personal Maid",
+    "year": 1931,
+    "cast": [
+      "Nancy Carroll",
+      "Pat O'Brien"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/personal-maid.html"
+}

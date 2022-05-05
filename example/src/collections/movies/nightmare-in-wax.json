@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Nightmare in Wax",
+    "year": 1969,
+    "cast": [
+      "Cameron Mitchell"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/nightmare-in-wax.html"
+}

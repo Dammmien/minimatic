@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Between Us Girls",
+    "year": 1942,
+    "cast": [
+      "Diana Barrymore",
+      "Robert Cummings"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/between-us-girls.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Red River Renegades",
+    "year": 1946,
+    "cast": [
+      "Sunset Carson",
+      "Peggy Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/red-river-renegades.html"
+}

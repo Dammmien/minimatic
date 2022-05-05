@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Restless Youth",
+    "year": 1928,
+    "cast": [
+      "Marceline Day",
+      "Ralph Forbes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/restless-youth.html"
+}

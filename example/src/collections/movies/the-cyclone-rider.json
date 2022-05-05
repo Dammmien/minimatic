@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cyclone Rider",
+    "year": 1924,
+    "cast": [
+      "Reed Howes",
+      "Alma Bennett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-cyclone-rider.html"
+}

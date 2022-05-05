@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bindlestiffs",
+    "year": 2012,
+    "cast": [
+      "Andrew Edison",
+      "Luke Loftin",
+      "John Karna",
+      "Will Fordyce"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bindlestiffs.html"
+}

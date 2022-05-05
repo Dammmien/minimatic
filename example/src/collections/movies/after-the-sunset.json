@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "After the Sunset",
+    "year": 2004,
+    "cast": [
+      "Pierce Brosnan",
+      "Salma Hayek",
+      "Woody Harrelson",
+      "Don Cheadle"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/after-the-sunset.html"
+}

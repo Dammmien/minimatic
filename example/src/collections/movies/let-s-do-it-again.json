@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Let's Do It Again",
+    "year": 1975,
+    "cast": [
+      "Sidney Poitier",
+      "Bill Cosby",
+      "Ossie Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-s-do-it-again.html"
+}

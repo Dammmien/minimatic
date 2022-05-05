@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Paul Blart: Mall Cop 2",
+    "year": 2015,
+    "cast": [
+      "Kevin James",
+      "Neal McDonough",
+      "Daniella Alonso",
+      "David Henrie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/paul-blart--mall-cop-2.html"
+}

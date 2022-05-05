@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Business and Pleasure",
+    "year": 1932,
+    "cast": [
+      "Will Rogers",
+      "Joel McCrea",
+      "Dorothy Peterson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/business-and-pleasure.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Once Upon a Honeymoon",
+    "year": 1956,
+    "cast": [
+      "Virginia Gibson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/once-upon-a-honeymoon.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Castle Keep",
+    "year": 1969,
+    "cast": [
+      "Burt Lancaster",
+      "Patrick O'Neal",
+      "Jean-Pierre Aumont",
+      "Bruce Dern",
+      "Peter Falk"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/castle-keep.html"
+}

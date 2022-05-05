@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Are We Done Yet?",
+    "year": 2007,
+    "cast": [
+      "Ice Cube",
+      "Nia Long",
+      "John C. McGinley",
+      "Aleisha Allen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/are-we-done-yet-.html"
+}

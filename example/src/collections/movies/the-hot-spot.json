@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Hot Spot",
+    "year": 1990,
+    "cast": [
+      "Don Johnson",
+      "Jennifer Connelly",
+      "Virginia Madsen",
+      "Charles Martin Smith"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hot-spot.html"
+}

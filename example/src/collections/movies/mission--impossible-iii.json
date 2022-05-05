@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Mission: Impossible III",
+    "year": 2006,
+    "cast": [
+      "Tom Cruise",
+      "Jonathan Rhys Meyers",
+      "Philip Seymour Hoffman",
+      "Ving Rhames"
+    ],
+    "genres": [
+      "Action",
+      "Spy"
+    ]
+  },
+  "output": "movies/mission--impossible-iii.html"
+}

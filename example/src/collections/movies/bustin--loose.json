@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bustin' Loose",
+    "year": 1981,
+    "cast": [
+      "Richard Pryor",
+      "Cicely Tyson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bustin--loose.html"
+}

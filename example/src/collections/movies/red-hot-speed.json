@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Red Hot Speed",
+    "year": 1929,
+    "cast": [
+      "Reginald Denny",
+      "Alice Day"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/red-hot-speed.html"
+}

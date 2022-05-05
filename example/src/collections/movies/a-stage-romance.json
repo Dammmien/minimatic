@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Stage Romance",
+    "year": 1922,
+    "cast": [
+      "William Farnum",
+      "Peggy Shaw"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/a-stage-romance.html"
+}

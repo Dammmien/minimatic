@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Borneo",
+    "year": 1937,
+    "cast": [
+      "Lowell Thomas",
+      "Martin E. Johnson"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/borneo.html"
+}

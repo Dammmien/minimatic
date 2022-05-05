@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pursuit",
+    "year": 1935,
+    "cast": [
+      "Chester Morris",
+      "Sally Eilers"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/pursuit.html"
+}

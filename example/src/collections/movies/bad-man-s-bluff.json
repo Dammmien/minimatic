@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bad Man's Bluff",
+    "year": 1926,
+    "cast": [
+      "Jay Wilsey",
+      "Molly Malone"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bad-man-s-bluff.html"
+}

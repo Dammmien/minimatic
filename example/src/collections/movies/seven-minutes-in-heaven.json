@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Seven Minutes in Heaven",
+    "year": 1985,
+    "cast": [
+      "Jennifer Connelly",
+      "Polly Draper",
+      "Spalding Gray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/seven-minutes-in-heaven.html"
+}

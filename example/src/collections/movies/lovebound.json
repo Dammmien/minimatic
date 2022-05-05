@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lovebound",
+    "year": 1923,
+    "cast": [
+      "Shirley Mason",
+      "Alan Roscoe"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/lovebound.html"
+}

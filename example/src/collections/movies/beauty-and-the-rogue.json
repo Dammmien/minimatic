@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beauty and the Rogue",
+    "year": 1918,
+    "cast": [
+      "Mary Miles Minter",
+      "Allan Forrest"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/beauty-and-the-rogue.html"
+}

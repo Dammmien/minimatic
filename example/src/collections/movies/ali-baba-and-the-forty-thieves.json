@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ali Baba and the Forty Thieves",
+    "year": 1944,
+    "cast": [
+      "Maria Montez",
+      "Jon Hall",
+      "Turhan Bey"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/ali-baba-and-the-forty-thieves.html"
+}

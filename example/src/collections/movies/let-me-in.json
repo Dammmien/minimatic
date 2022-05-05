@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Let Me In",
+    "year": 2010,
+    "cast": [
+      "Kodi Smit-McPhee",
+      "Chloë Grace Moretz",
+      "Elias Koteas",
+      "Richard Jenkins"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/let-me-in.html"
+}

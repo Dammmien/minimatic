@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Born to Be Wild",
+    "year": 1995,
+    "cast": [
+      "Wil Horneff",
+      "Helen Shaver",
+      "John C. McGinley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/born-to-be-wild.html"
+}

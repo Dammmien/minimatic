@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "They Gave Him a Gun",
+    "year": 1937,
+    "cast": [
+      "Spencer Tracy",
+      "Gladys George",
+      "Franchot Tone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/they-gave-him-a-gun.html"
+}

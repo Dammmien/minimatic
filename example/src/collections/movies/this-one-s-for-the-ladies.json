@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "This One's for the Ladies",
+    "year": 2018,
+    "cast": [
+      "C-Pudding",
+      "Poundcake",
+      "Tyga & Raw Dawg",
+      "Sweet Tea",
+      "Young Rider",
+      "Blaze",
+      "Michele",
+      "Double Trouble",
+      "Satan",
+      "Fever"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/this-one-s-for-the-ladies.html"
+}

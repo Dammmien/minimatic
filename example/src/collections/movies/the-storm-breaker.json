@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Storm Breaker",
+    "year": 1925,
+    "cast": [
+      "House Peters",
+      "Ruth Clifford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-storm-breaker.html"
+}

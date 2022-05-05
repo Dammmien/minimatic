@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Perfect Couple",
+    "year": 1979,
+    "cast": [
+      "Paul Dooley",
+      "Marta Heflin",
+      "Henry Gibson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-perfect-couple.html"
+}

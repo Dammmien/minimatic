@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sideways",
+    "year": 2004,
+    "cast": [
+      "Paul Giamatti",
+      "Thomas Haden Church",
+      "Virginia Madsen",
+      "Sandra Oh"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sideways.html"
+}

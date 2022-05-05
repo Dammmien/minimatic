@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Spitfire Grill",
+    "year": 1996,
+    "cast": [
+      "Alison Elliott",
+      "Ellen Burstyn",
+      "Marcia Gay Harden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-spitfire-grill.html"
+}

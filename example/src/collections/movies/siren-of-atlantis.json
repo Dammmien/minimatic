@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Siren of Atlantis",
+    "year": 1949,
+    "cast": [
+      "Maria Montez",
+      "Jean Pierre Aumont"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/siren-of-atlantis.html"
+}

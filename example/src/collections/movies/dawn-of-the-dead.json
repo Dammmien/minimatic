@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dawn of the Dead",
+    "year": 2004,
+    "cast": [
+      "Sarah Polley",
+      "Ving Rhames",
+      "Jake Weber",
+      "Michael Kelly"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dawn-of-the-dead.html"
+}

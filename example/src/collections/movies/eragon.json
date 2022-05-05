@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Eragon",
+    "year": 2006,
+    "cast": [
+      "Ed Speleers",
+      "Jeremy Irons",
+      "Sienna Guillory",
+      "Robert Carlyle",
+      "John Malkovich"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/eragon.html"
+}

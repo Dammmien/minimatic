@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That Certain Thing",
+    "year": 1928,
+    "cast": [
+      "Viola Dana",
+      "Ralph Graves"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-certain-thing.html"
+}

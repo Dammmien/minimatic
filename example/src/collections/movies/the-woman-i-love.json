@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Woman I Love",
+    "year": 1937,
+    "cast": [
+      "Paul Muni",
+      "Miriam Hopkins",
+      "Louis Hayward"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/the-woman-i-love.html"
+}

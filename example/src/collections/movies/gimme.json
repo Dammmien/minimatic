@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gimme",
+    "year": 1923,
+    "cast": [
+      "Helene Chadwick",
+      "Gaston Glass"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gimme.html"
+}

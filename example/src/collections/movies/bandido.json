@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bandido",
+    "year": 1956,
+    "cast": [
+      "Robert Mitchum",
+      "Ursula Thiess",
+      "Gilbert Roland"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bandido.html"
+}

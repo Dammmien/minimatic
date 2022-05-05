@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Grudge 2",
+    "year": 2006,
+    "cast": [
+      "Sarah Michelle Gellar",
+      "Amber Tamblyn"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-grudge-2.html"
+}

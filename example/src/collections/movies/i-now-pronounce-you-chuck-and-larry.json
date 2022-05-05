@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Now Pronounce You Chuck and Larry",
+    "year": 2007,
+    "cast": [
+      "Adam Sandler",
+      "Kevin James",
+      "Jessica Biel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-now-pronounce-you-chuck-and-larry.html"
+}

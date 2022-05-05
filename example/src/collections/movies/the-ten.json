@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ten",
+    "year": 2007,
+    "cast": [
+      "Jessica Alba",
+      "Winona Ryder",
+      "Paul Rudd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ten.html"
+}

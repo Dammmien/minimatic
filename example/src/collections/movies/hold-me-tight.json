@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hold Me Tight",
+    "year": 1933,
+    "cast": [
+      "James Dunn",
+      "Sally Eilers",
+      "June Clyde"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hold-me-tight.html"
+}

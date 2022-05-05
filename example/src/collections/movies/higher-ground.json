@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Higher Ground",
+    "year": 2011,
+    "cast": [
+      "Vera Farmiga",
+      "Joshua Leonard",
+      "Norbert Leo Butz",
+      "Dagmara Dominczyk",
+      "John Hawkes",
+      "Bill Irwin",
+      "Ebon Moss-Bachrach",
+      "Donna Murphy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/higher-ground.html"
+}

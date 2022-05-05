@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Rio Rita",
+    "year": 1942,
+    "cast": [
+      "Abbott and Costello"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rio-rita.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Riders Up",
+    "year": 1924,
+    "cast": [
+      "Creighton Hale",
+      "George Cooper"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/riders-up.html"
+}

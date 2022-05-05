@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fade to Black",
+    "year": 2004,
+    "cast": [
+      "The career of",
+      "Jay-Z"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/fade-to-black.html"
+}

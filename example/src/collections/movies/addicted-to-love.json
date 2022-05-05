@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Addicted to Love",
+    "year": 1997,
+    "cast": [
+      "Meg Ryan",
+      "Matthew Broderick",
+      "Kelly Preston",
+      "Tchéky Karyo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/addicted-to-love.html"
+}

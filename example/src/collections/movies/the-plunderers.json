@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Plunderers",
+    "year": 1960,
+    "cast": [
+      "Jeff Chandler",
+      "Dolores Hart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-plunderers.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In the Name of the Law",
+    "year": 1922,
+    "cast": [
+      "Ralph Lewis",
+      "Claire McDowell"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/in-the-name-of-the-law.html"
+}

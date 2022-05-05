@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Medora",
+    "year": 2013,
+    "cast": [
+      "Features a basketball team."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/medora.html"
+}

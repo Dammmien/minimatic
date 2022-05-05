@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ash Wednesday",
+    "year": 1973,
+    "cast": [
+      "Elizabeth Taylor",
+      "Henry Fonda"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ash-wednesday.html"
+}

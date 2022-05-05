@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "8 Heads in a Duffel Bag",
+    "year": 1997,
+    "cast": [
+      "Joe Pesci",
+      "Andy Comeau",
+      "Kristy Swanson",
+      "David Spade",
+      "Dyan Cannon",
+      "George Hamilton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/8-heads-in-a-duffel-bag.html"
+}

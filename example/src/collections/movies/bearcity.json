@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "BearCity",
+    "year": 2010,
+    "cast": [
+      "Gerald McCullouch",
+      "Joe Conti",
+      "Stephen Guarino",
+      "Ashlie Atkinson"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/bearcity.html"
+}

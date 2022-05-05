@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kelly the Second",
+    "year": 1936,
+    "cast": [
+      "Patsy Kelly",
+      "Guinn Williams",
+      "Charley Chase"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kelly-the-second.html"
+}

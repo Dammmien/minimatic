@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Godsend",
+    "year": 2004,
+    "cast": [
+      "Greg Kinnear",
+      "Rebecca Romijn",
+      "Robert De Niro",
+      "Cameron Bright"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/godsend.html"
+}

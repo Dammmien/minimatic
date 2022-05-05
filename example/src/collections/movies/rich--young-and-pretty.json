@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rich, Young and Pretty",
+    "year": 1951,
+    "cast": [
+      "Jane Powell",
+      "Wendell Corey",
+      "Vic Damone",
+      "Danielle Darrieux"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/rich--young-and-pretty.html"
+}

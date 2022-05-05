@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Cinderella Story",
+    "year": 2004,
+    "cast": [
+      "Hilary Duff",
+      "Chad Michael Murray",
+      "Jennifer Coolidge"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-cinderella-story.html"
+}

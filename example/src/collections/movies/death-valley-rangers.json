@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Death Valley Rangers",
+    "year": 1943,
+    "cast": [
+      "Ken Maynard",
+      "Hoot Gibson",
+      "Bob Steele"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/death-valley-rangers.html"
+}

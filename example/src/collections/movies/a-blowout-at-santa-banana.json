@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Blowout at Santa Banana",
+    "year": 1914,
+    "cast": [
+      "Charlotte Burton",
+      "Sydney Ayres",
+      "Louise Lester",
+      "Jack Richardson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-blowout-at-santa-banana.html"
+}

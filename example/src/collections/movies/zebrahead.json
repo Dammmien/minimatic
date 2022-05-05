@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Zebrahead",
+    "year": 1992,
+    "cast": [
+      "Michael Rapaport"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/zebrahead.html"
+}

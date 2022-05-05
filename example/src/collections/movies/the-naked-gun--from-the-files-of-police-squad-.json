@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Naked Gun: From the Files of Police Squad!",
+    "year": 1988,
+    "cast": [
+      "Leslie Nielsen",
+      "Priscilla Presley",
+      "George Kennedy",
+      "O.J. Simpson",
+      "Ricardo Montalbán"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-naked-gun--from-the-files-of-police-squad-.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Southerner",
+    "year": 1945,
+    "cast": [
+      "Zachary Scott",
+      "Betty Field"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-southerner.html"
+}

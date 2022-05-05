@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jesus",
+    "year": 1979,
+    "cast": [
+      "Brian Deacon",
+      "Eli Cohen"
+    ],
+    "genres": [
+      "Drama",
+      "Family"
+    ]
+  },
+  "output": "movies/jesus.html"
+}

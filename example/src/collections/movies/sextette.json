@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sextette",
+    "year": 1978,
+    "cast": [
+      "Mae West",
+      "Dom DeLuise",
+      "Tony Curtis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sextette.html"
+}

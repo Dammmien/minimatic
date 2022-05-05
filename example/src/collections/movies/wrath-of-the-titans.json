@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Wrath of the Titans",
+    "year": 2012,
+    "cast": [
+      "Sam Worthington",
+      "Rosamund Pike",
+      "Bill Nighy",
+      "Édgar Ramírez",
+      "Toby Kebbell",
+      "Danny Huston",
+      "with",
+      "Ralph Fiennes",
+      "and",
+      "Liam Neeson"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/wrath-of-the-titans.html"
+}

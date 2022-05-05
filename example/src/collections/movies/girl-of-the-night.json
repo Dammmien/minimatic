@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Girl of the Night",
+    "year": 1960,
+    "cast": [
+      "Anne Francis",
+      "Lloyd Nolan",
+      "Kay Medford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/girl-of-the-night.html"
+}

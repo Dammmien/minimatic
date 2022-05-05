@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Malice in the Palace",
+    "year": 1949,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/malice-in-the-palace.html"
+}

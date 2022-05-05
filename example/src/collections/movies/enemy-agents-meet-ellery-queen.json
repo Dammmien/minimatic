@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Enemy Agents Meet Ellery Queen",
+    "year": 1942,
+    "cast": [
+      "William Gargan",
+      "Gale Sondergaard",
+      "Margaret Lindsay"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/enemy-agents-meet-ellery-queen.html"
+}

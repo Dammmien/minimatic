@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "What's the Matter with Helen?",
+    "year": 1971,
+    "cast": [
+      "Debbie Reynolds",
+      "Shelley Winters",
+      "Dennis Weaver"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/what-s-the-matter-with-helen-.html"
+}

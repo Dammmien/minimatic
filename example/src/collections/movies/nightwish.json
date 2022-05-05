@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nightwish",
+    "year": 1989,
+    "cast": [
+      "Brian Thompson",
+      "Jack Starrett",
+      "Elizabeth Kaitan"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/nightwish.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Challenge of the Range",
+    "year": 1949,
+    "cast": [
+      "Charles Starrett",
+      "Paula Raymond"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/challenge-of-the-range.html"
+}

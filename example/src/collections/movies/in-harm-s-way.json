@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "In Harm's Way",
+    "year": 1965,
+    "cast": [
+      "John Wayne",
+      "Kirk Douglas",
+      "Patricia Neal",
+      "Henry Fonda",
+      "Brandon deWilde",
+      "Paula Prentiss",
+      "Burgess Meredith",
+      "Carroll O'Connor",
+      "Tom Tryon",
+      "Dana Andrews",
+      "George Kennedy"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/in-harm-s-way.html"
+}

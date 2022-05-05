@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Since You've Been Gone",
+    "year": 1998,
+    "cast": [
+      "David Schwimmer",
+      "Lara Flynn Boyle",
+      "Teri Hatcher"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/since-you-ve-been-gone.html"
+}

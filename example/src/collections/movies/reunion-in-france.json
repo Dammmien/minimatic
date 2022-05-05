@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Reunion in France",
+    "year": 1942,
+    "cast": [
+      "Joan Crawford",
+      "John Wayne",
+      "Philip Dorn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/reunion-in-france.html"
+}

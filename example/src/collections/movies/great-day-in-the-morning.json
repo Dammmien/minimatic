@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Great Day in the Morning",
+    "year": 1956,
+    "cast": [
+      "Robert Stack",
+      "Virginia Mayo",
+      "Ruth Roman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/great-day-in-the-morning.html"
+}

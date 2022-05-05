@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hellfire",
+    "year": 1949,
+    "cast": [
+      "Wild Bill Elliott",
+      "Marie Windsor",
+      "Forrest Tucker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hellfire.html"
+}

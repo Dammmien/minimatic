@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Joanna",
+    "year": 1925,
+    "cast": [
+      "Dorothy Mackaill",
+      "Paul Nicholson",
+      "Dolores del Río"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/joanna.html"
+}

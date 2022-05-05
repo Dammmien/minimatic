@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fletch Lives",
+    "year": 1989,
+    "cast": [
+      "Chevy Chase",
+      "R. Lee Ermey",
+      "Hal Holbrook"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fletch-lives.html"
+}

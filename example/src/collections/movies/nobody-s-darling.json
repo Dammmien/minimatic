@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nobody's Darling",
+    "year": 1943,
+    "cast": [
+      "Mary Lee",
+      "Louis Calhern"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/nobody-s-darling.html"
+}

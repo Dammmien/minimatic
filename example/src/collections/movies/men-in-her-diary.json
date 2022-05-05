@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Men in Her Diary",
+    "year": 1945,
+    "cast": [
+      "Peggy Ryan",
+      "Jon Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/men-in-her-diary.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Holiday in Havana",
+    "year": 1949,
+    "cast": [
+      "Desi Arnaz",
+      "Mary Hatcher",
+      "Ann Doran"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/holiday-in-havana.html"
+}

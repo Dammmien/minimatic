@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "We're in the Navy Now",
+    "year": 1926,
+    "cast": [
+      "Wallace Beery",
+      "Raymond Hatton",
+      "Chester Conklin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/we-re-in-the-navy-now.html"
+}

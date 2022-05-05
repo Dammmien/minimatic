@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Fine Madness",
+    "year": 1966,
+    "cast": [
+      "Sean Connery",
+      "Joanne Woodward",
+      "Jean Seberg"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-fine-madness.html"
+}

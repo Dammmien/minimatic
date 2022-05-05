@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Outrageous Fortune",
+    "year": 1987,
+    "cast": [
+      "Bette Midler",
+      "Shelley Long",
+      "Peter Coyote"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/outrageous-fortune.html"
+}

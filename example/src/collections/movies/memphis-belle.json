@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Memphis Belle",
+    "year": 1990,
+    "cast": [
+      "Matthew Modine",
+      "Eric Stoltz",
+      "John Lithgow",
+      "Harry Connick, Jr.",
+      "Sean Astin",
+      "Billy Zane",
+      "D.B. Sweeney",
+      "Tate Donovan",
+      "David Strathairn"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/memphis-belle.html"
+}

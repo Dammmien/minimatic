@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Snob Buster",
+    "year": 1925,
+    "cast": [
+      "Reed Howes",
+      "Wilfred Lucas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-snob-buster.html"
+}

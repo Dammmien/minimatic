@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Waikiki Wedding",
+    "year": 1937,
+    "cast": [
+      "Bing Crosby",
+      "Martha Raye",
+      "Shirley Ross"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/waikiki-wedding.html"
+}

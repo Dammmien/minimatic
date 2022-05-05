@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Trial of Vivienne Ware",
+    "year": 1932,
+    "cast": [
+      "Joan Bennett",
+      "Donald Cook"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-trial-of-vivienne-ware.html"
+}

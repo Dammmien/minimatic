@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Humbling",
+    "year": 2015,
+    "cast": [
+      "Al Pacino",
+      "Greta Gerwig",
+      "Kyra Sedgwick",
+      "Dan Hedaya"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-humbling.html"
+}

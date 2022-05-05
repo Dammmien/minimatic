@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Idle Class",
+    "year": 1921,
+    "cast": [
+      "Charles Chaplin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-idle-class.html"
+}

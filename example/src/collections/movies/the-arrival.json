@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Arrival",
+    "year": 1996,
+    "cast": [
+      "Charlie Sheen",
+      "Lindsay Crouse",
+      "Richard Schiff"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-arrival.html"
+}

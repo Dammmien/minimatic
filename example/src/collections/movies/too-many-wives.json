@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Too Many Wives",
+    "year": 1937,
+    "cast": [
+      "Anne Shirley",
+      "Barbara Pepper"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/too-many-wives.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Listen, Darling",
+    "year": 1938,
+    "cast": [
+      "Judy Garland",
+      "Freddie Bartholomew",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/listen--darling.html"
+}

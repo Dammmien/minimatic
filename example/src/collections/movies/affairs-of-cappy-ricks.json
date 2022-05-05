@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Affairs of Cappy Ricks",
+    "year": 1937,
+    "cast": [
+      "Walter Brennan",
+      "Mary Brian",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/affairs-of-cappy-ricks.html"
+}

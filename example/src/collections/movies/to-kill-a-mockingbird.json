@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "To Kill a Mockingbird",
+    "year": 1962,
+    "cast": [
+      "Gregory Peck",
+      "Mary Badham",
+      "Phillip Alford",
+      "Robert Duvall",
+      "Brock Peters",
+      "William Windom",
+      "Frank Overton",
+      "Paul Fix"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/to-kill-a-mockingbird.html"
+}

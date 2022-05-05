@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dangerous Money",
+    "year": 1946,
+    "cast": [
+      "Sidney Toler",
+      "Gloria Warren"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/dangerous-money.html"
+}

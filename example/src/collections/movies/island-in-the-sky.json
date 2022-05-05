@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Island in the Sky",
+    "year": 1953,
+    "cast": [
+      "John Wayne",
+      "Lloyd Nolan",
+      "James Arness"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/island-in-the-sky.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hearts Asleep",
+    "year": 1919,
+    "cast": [
+      "Bessie Barriscale",
+      "Vola Vale"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/hearts-asleep.html"
+}

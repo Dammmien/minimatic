@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Phobic",
+    "year": 2006,
+    "cast": [
+      "Courtney Gains",
+      "Juliette Marquis",
+      "Eric Millegan"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-phobic.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fugitives for a Night",
+    "year": 1938,
+    "cast": [
+      "Eleanor Lynn",
+      "Allan Lane",
+      "Bradley Page"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/fugitives-for-a-night.html"
+}

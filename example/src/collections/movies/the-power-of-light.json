@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Power of Light",
+    "year": 1914,
+    "cast": [
+      "Charlotte Burton",
+      "Sydney Ayres",
+      "Jacques Jaccard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-power-of-light.html"
+}

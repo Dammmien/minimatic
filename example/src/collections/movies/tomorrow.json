@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tomorrow",
+    "year": 1972,
+    "cast": [
+      "Robert Duvall",
+      "Peter Masterson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tomorrow.html"
+}

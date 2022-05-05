@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Si, Senor",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/si--senor.html"
+}

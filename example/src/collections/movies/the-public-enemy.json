@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Public Enemy",
+    "year": 1931,
+    "cast": [
+      "James Cagney",
+      "Jean Harlow",
+      "Edward Woods"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-public-enemy.html"
+}

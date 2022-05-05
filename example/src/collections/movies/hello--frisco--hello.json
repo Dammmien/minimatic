@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hello, Frisco, Hello",
+    "year": 1943,
+    "cast": [
+      "Alice Faye",
+      "John Payne",
+      "Jack Oakie"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hello--frisco--hello.html"
+}

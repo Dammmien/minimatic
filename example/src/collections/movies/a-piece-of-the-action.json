@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Piece of the Action",
+    "year": 1977,
+    "cast": [
+      "Bill Cosby",
+      "Sidney Poitier",
+      "James Earl Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-piece-of-the-action.html"
+}

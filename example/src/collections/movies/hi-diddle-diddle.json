@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hi Diddle Diddle",
+    "year": 1943,
+    "cast": [
+      "Adolphe Menjou",
+      "Martha Scott",
+      "Dennis O'Keefe"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hi-diddle-diddle.html"
+}

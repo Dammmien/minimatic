@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jungle Moon Men",
+    "year": 1955,
+    "cast": [
+      "Johnny Weissmuller",
+      "Jean Byron"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/jungle-moon-men.html"
+}

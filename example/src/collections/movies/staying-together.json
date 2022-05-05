@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Staying Together",
+    "year": 1989,
+    "cast": [
+      "Sean Astin",
+      "Stockard Channing",
+      "Melinda Dillon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/staying-together.html"
+}

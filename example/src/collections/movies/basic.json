@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Basic",
+    "year": 2003,
+    "cast": [
+      "John Travolta",
+      "Connie Nielsen",
+      "Samuel L. Jackson"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/basic.html"
+}

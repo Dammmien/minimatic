@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "His Mouse Friday",
+    "year": 1951,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/his-mouse-friday.html"
+}

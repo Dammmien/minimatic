@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Circus Clown",
+    "year": 1934,
+    "cast": [
+      "Joe E. Brown",
+      "Patricia Ellis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-circus-clown.html"
+}

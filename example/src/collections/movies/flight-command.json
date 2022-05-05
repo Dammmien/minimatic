@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flight Command",
+    "year": 1940,
+    "cast": [
+      "Robert Taylor",
+      "Ruth Hussey",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/flight-command.html"
+}

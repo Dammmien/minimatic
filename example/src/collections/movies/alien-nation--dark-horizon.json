@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Alien Nation: Dark Horizon",
+    "year": 1994,
+    "cast": [
+      "Gary Graham",
+      "Eric Pierpoint"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/alien-nation--dark-horizon.html"
+}

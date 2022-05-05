@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sweepstake Annie",
+    "year": 1935,
+    "cast": [
+      "Marian Nixon",
+      "Wera Engels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sweepstake-annie.html"
+}

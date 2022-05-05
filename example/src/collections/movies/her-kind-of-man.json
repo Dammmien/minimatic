@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Her Kind of Man",
+    "year": 1946,
+    "cast": [
+      "Janis Paige",
+      "Zachary Scott",
+      "Dane Clark"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/her-kind-of-man.html"
+}

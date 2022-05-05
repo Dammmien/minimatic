@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Foolin' Around",
+    "year": 1980,
+    "cast": [
+      "Gary Busey",
+      "Annette O'Toole",
+      "Cloris Leachman",
+      "William H. Macy",
+      "Tony Randall",
+      "Eddie Albert"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/foolin--around.html"
+}

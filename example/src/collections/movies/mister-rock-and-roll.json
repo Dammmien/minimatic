@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mister Rock and Roll",
+    "year": 1957,
+    "cast": [
+      "Alan Freed",
+      "Teddy Randazzo"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/mister-rock-and-roll.html"
+}

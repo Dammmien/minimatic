@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Gigantic",
+    "year": 2009,
+    "cast": [
+      "Paul Dano",
+      "Zooey Deschanel",
+      "Ed Asner",
+      "Jane Alexander",
+      "John Goodman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gigantic.html"
+}

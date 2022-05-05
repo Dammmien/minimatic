@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Neptune's Daughter",
+    "year": 1949,
+    "cast": [
+      "Esther Williams",
+      "Red Skelton",
+      "Ricardo Montalbán"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/neptune-s-daughter.html"
+}

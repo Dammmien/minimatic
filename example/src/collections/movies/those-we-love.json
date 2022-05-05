@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Those We Love",
+    "year": 1932,
+    "cast": [
+      "Mary Astor",
+      "Kenneth MacKenna"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/those-we-love.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gunslinger",
+    "year": 1956,
+    "cast": [
+      "John Ireland",
+      "Beverly Garland"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gunslinger.html"
+}

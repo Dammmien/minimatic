@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Blue Bird",
+    "year": 1976,
+    "cast": [
+      "Elizabeth Taylor",
+      "Jane Fonda",
+      "Cicely Tyson",
+      "Ava Gardner"
+    ],
+    "genres": [
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-blue-bird.html"
+}

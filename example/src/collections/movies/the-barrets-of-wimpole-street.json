@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Barrets of Wimpole Street",
+    "year": 1934,
+    "cast": [
+      "Norma Shearer",
+      "Fredric March",
+      "Charles Laughton"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/the-barrets-of-wimpole-street.html"
+}

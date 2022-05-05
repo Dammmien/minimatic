@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Raiders of Ghost City",
+    "year": 1944,
+    "cast": [
+      "Dennis Moore",
+      "Lionel Atwill",
+      "Wanda McKay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/raiders-of-ghost-city.html"
+}

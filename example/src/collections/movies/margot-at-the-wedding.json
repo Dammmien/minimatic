@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Margot at the Wedding",
+    "year": 2007,
+    "cast": [
+      "Nicole Kidman",
+      "Jennifer Jason Leigh",
+      "Jack Black",
+      "John Turturro"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/margot-at-the-wedding.html"
+}

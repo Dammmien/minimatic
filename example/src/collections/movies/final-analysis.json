@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Final Analysis",
+    "year": 1992,
+    "cast": [
+      "Richard Gere",
+      "Kim Basinger",
+      "Uma Thurman",
+      "Eric Roberts",
+      "Keith David"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/final-analysis.html"
+}

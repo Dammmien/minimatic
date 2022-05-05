@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Ghost in the Shell",
+    "year": 2017,
+    "cast": [
+      "Scarlett Johansson",
+      "Takeshi Kitano",
+      "Michael Pitt",
+      "Pilou Asbæk",
+      "Chin Han",
+      "Juliette Binoche",
+      "Rila Fukushima",
+      "Anamaria Marinca",
+      "Kaori Momoi"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/ghost-in-the-shell.html"
+}

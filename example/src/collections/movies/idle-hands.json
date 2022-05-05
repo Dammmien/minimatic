@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Idle Hands",
+    "year": 1999,
+    "cast": [
+      "Devon Sawa",
+      "Seth Green",
+      "Jessica Alba",
+      "Vivica A. Fox",
+      "Elden Henson"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/idle-hands.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Singapore",
+    "year": 1947,
+    "cast": [
+      "Fred MacMurray",
+      "Ava Gardner",
+      "Roland Culver"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/singapore.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Wake of Death",
+    "year": 2004,
+    "cast": [
+      "Jean-Claude Van Damme"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/wake-of-death.html"
+}

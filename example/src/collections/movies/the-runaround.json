@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Runaround",
+    "year": 1946,
+    "cast": [
+      "Rod Cameron",
+      "Ella Raines",
+      "Broderick Crawford"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-runaround.html"
+}

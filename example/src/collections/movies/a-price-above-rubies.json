@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Price Above Rubies",
+    "year": 1998,
+    "cast": [
+      "Renée Zellweger",
+      "Christopher Eccleston",
+      "Julianna Margulies"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-price-above-rubies.html"
+}

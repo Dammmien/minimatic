@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "5 Steps to Danger",
+    "year": 1957,
+    "cast": [
+      "Ruth Roman",
+      "Sterling Hayden"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/5-steps-to-danger.html"
+}

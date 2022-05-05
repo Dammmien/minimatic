@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "It's a Wonderful World",
+    "year": 1939,
+    "cast": [
+      "Claudette Colbert",
+      "James Stewart",
+      "Guy Kibbee",
+      "Nat Pendleton"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-a-wonderful-world.html"
+}

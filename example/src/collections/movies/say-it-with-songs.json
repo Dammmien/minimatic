@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Say It with Songs",
+    "year": 1929,
+    "cast": [
+      "Al Jolson",
+      "Davey Lee"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/say-it-with-songs.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tupac: Resurrection",
+    "year": 2003,
+    "cast": [
+      "the life and death of",
+      "Tupac Shakur"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/tupac--resurrection.html"
+}

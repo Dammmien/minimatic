@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sealed Cargo",
+    "year": 1951,
+    "cast": [
+      "Dana Andrews",
+      "Carla Balenda"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/sealed-cargo.html"
+}

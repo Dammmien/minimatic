@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Seeing's Believing",
+    "year": 1922,
+    "cast": [
+      "Viola Dana",
+      "Allan Forrest",
+      "Gertrude Astor"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/seeing-s-believing.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bandits of the West",
+    "year": 1953,
+    "cast": [
+      "Allan Lane",
+      "Cathy Downs"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bandits-of-the-west.html"
+}

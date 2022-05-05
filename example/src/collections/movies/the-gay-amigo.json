@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gay Amigo",
+    "year": 1949,
+    "cast": [
+      "Duncan Renaldo",
+      "Armida"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-gay-amigo.html"
+}

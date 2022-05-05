@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rockshow",
+    "year": 1980,
+    "cast": [
+      "Paul McCartney",
+      "Linda McCartney",
+      "Wings"
+    ],
+    "genres": [
+      "Documentary",
+      "Musical"
+    ]
+  },
+  "output": "movies/rockshow.html"
+}

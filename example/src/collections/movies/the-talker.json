@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Talker",
+    "year": 1925,
+    "cast": [
+      "Anna Q. Nilsson",
+      "Lewis Stone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-talker.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dangerous Intruder",
+    "year": 1945,
+    "cast": [
+      "Veda Ann Borg",
+      "Charles Arnt"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/dangerous-intruder.html"
+}

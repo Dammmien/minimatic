@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Nighthawks",
+    "year": 1981,
+    "cast": [
+      "Sylvester Stallone",
+      "Rutger Hauer",
+      "Billy Dee Williams"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/nighthawks.html"
+}

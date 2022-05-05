@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Work and the Glory",
+    "year": 2004,
+    "cast": [
+      "Sam Hennings",
+      "Brenda Strong",
+      "Eric Johnson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-work-and-the-glory.html"
+}

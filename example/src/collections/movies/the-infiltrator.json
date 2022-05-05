@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Infiltrator",
+    "year": 2016,
+    "cast": [
+      "Bryan Cranston",
+      "Diane Kruger",
+      "John Leguizamo"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-infiltrator.html"
+}

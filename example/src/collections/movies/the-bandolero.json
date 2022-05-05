@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bandolero",
+    "year": 1924,
+    "cast": [
+      "Pedro de Cordoba",
+      "Gustav von Seyffertitz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bandolero.html"
+}

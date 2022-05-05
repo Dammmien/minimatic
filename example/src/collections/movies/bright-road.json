@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bright Road",
+    "year": 1954,
+    "cast": [
+      "Dorothy Dandridge",
+      "Harry Belafonte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bright-road.html"
+}

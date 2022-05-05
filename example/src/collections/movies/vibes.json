@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Vibes",
+    "year": 1988,
+    "cast": [
+      "Cyndi Lauper",
+      "Jeff Goldblum",
+      "Peter Falk"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/vibes.html"
+}

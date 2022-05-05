@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "So Goes My Love",
+    "year": 1946,
+    "cast": [
+      "Myrna Loy",
+      "Don Ameche",
+      "Molly Lamont"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/so-goes-my-love.html"
+}

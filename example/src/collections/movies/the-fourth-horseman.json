@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fourth Horseman",
+    "year": 1932,
+    "cast": [
+      "Tom Mix",
+      "Margaret Lindsay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fourth-horseman.html"
+}

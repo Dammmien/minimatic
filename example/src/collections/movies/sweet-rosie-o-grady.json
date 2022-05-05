@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sweet Rosie O'Grady",
+    "year": 1943,
+    "cast": [
+      "Betty Grable",
+      "Robert Young"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/sweet-rosie-o-grady.html"
+}

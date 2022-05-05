@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Perfect Crime",
+    "year": 1928,
+    "cast": [
+      "Clive Brook",
+      "Irene Rich"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-perfect-crime.html"
+}

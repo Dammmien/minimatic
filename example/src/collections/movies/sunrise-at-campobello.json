@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sunrise at Campobello",
+    "year": 1960,
+    "cast": [
+      "Ralph Bellamy",
+      "Greer Garson"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/sunrise-at-campobello.html"
+}

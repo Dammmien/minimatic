@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Youngblood Hawke",
+    "year": 1964,
+    "cast": [
+      "James Franciscus",
+      "Suzanne Pleshette",
+      "Eva Gabor",
+      "Genevieve Page",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/youngblood-hawke.html"
+}

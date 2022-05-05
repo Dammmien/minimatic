@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Planet of Dinosaurs",
+    "year": 1978,
+    "cast": [
+      "James Whitworth",
+      "Charlotte Speer"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/planet-of-dinosaurs.html"
+}

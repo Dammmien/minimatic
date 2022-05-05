@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Gosford Park",
+    "year": 2001,
+    "cast": [
+      "Michael Gambon",
+      "Kristin Scott Thomas",
+      "Maggie Smith",
+      "Helen Mirren",
+      "Alan Bates",
+      "Bob Balaban",
+      "Clive Owen"
+    ],
+    "genres": [
+      "Mystery",
+      "Comedy"
+    ]
+  },
+  "output": "movies/gosford-park.html"
+}

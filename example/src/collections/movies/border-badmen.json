@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Border Badmen",
+    "year": 1945,
+    "cast": [
+      "Buster Crabbe",
+      "Lorraine Miller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/border-badmen.html"
+}

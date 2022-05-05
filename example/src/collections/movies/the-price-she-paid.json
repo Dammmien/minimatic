@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Price She Paid",
+    "year": 1924,
+    "cast": [
+      "Alma Rubens",
+      "Frank Mayo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-price-she-paid.html"
+}

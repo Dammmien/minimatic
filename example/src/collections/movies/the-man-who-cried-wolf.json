@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Who Cried Wolf",
+    "year": 1937,
+    "cast": [
+      "Lewis Stone",
+      "Jameson Thomas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-who-cried-wolf.html"
+}

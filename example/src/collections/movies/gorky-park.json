@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gorky Park",
+    "year": 1983,
+    "cast": [
+      "William Hurt",
+      "Lee Marvin",
+      "Brian Dennehy"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/gorky-park.html"
+}

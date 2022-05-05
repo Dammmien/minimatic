@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Big Steal",
+    "year": 1949,
+    "cast": [
+      "Robert Mitchum",
+      "Jane Greer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-big-steal.html"
+}

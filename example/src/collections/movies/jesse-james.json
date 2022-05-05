@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Jesse James",
+    "year": 1939,
+    "cast": [
+      "Tyrone Power",
+      "Henry Fonda",
+      "Nancy Kelly",
+      "Randolph Scott"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/jesse-james.html"
+}

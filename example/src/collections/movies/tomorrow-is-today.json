@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Tomorrow Is Today",
+    "year": 2006,
+    "cast": [
+      "Scout Taylor-Compton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tomorrow-is-today.html"
+}

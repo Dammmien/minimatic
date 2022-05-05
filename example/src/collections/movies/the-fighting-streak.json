@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Streak",
+    "year": 1922,
+    "cast": [
+      "Tom Mix",
+      "Patsy Ruth Miller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fighting-streak.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Colonel and the King",
+    "year": 1911,
+    "cast": [
+      "Marie Eline",
+      "William Garwood"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-colonel-and-the-king.html"
+}

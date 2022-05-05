@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Every Girl Should Be Married",
+    "year": 1948,
+    "cast": [
+      "Cary Grant",
+      "Betsy Drake"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/every-girl-should-be-married.html"
+}

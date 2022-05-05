@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bells of St. Mary's",
+    "year": 1945,
+    "cast": [
+      "Bing Crosby",
+      "Ingrid Bergman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bells-of-st--mary-s.html"
+}

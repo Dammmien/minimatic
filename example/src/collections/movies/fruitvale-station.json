@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Fruitvale Station",
+    "year": 2013,
+    "cast": [
+      "Michael B. Jordan",
+      "Melonie Diaz",
+      "Kevin Durand",
+      "Chad Michael Murray",
+      "Ahna O'Reilly",
+      "Octavia Spencer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fruitvale-station.html"
+}

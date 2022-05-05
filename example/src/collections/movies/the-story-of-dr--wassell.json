@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Story of Dr. Wassell",
+    "year": 1944,
+    "cast": [
+      "Gary Cooper",
+      "Laraine Day",
+      "Signe Hasso"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-story-of-dr--wassell.html"
+}

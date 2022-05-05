@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Happy Go Lucky",
+    "year": 1943,
+    "cast": [
+      "Mary Martin",
+      "Betty Hutton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/happy-go-lucky.html"
+}

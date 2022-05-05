@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Johnny Suede",
+    "year": 1991,
+    "cast": [
+      "Brad Pitt",
+      "Catherine Keener"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/johnny-suede.html"
+}

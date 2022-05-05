@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cover Girl",
+    "year": 1944,
+    "cast": [
+      "Rita Hayworth",
+      "Gene Kelly",
+      "Phil Silvers"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/cover-girl.html"
+}

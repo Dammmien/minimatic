@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Hot Rod",
+    "year": 2007,
+    "cast": [
+      "Andy Samberg",
+      "Isla Fisher",
+      "Jorma Taccone",
+      "Bill Hader",
+      "Danny McBride",
+      "Sissy Spacek",
+      "Ian McShane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hot-rod.html"
+}

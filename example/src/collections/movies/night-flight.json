@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Night Flight",
+    "year": 1933,
+    "cast": [
+      "Lionel Barrymore",
+      "John Barrymore",
+      "Clark Gable"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/night-flight.html"
+}

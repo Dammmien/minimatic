@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Yale vs. Harvard",
+    "year": 1927,
+    "cast": [
+      "Our Gang",
+      "kids"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/yale-vs--harvard.html"
+}

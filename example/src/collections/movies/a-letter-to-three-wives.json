@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "A Letter to Three Wives",
+    "year": 1949,
+    "cast": [
+      "Linda Darnell",
+      "Ann Sothern",
+      "Jeanne Crain",
+      "Paul Douglas",
+      "Kirk Douglas",
+      "Jeffrey Lynn",
+      "Thelma Ritter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-letter-to-three-wives.html"
+}

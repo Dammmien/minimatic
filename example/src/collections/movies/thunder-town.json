@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thunder Town",
+    "year": 1946,
+    "cast": [
+      "Bob Steele",
+      "Syd Saylor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/thunder-town.html"
+}

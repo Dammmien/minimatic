@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Down the Stretch",
+    "year": 1936,
+    "cast": [
+      "Willie Best",
+      "Mickey Rooney",
+      "Patricia Ellis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/down-the-stretch.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Squaw Man",
+    "year": 1931,
+    "cast": [
+      "Warner Baxter",
+      "Lupe Vélez"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-squaw-man.html"
+}

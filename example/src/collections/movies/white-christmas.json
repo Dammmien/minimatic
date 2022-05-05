@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "White Christmas",
+    "year": 1954,
+    "cast": [
+      "Rosemary Clooney",
+      "Bing Crosby",
+      "Danny Kaye",
+      "Vera-Ellen",
+      "Dean Jagger"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/white-christmas.html"
+}

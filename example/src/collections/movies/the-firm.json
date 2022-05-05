@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Firm",
+    "year": 1993,
+    "cast": [
+      "Tom Cruise",
+      "Gene Hackman",
+      "Ed Harris",
+      "Jeanne Tripplehorn",
+      "Holly Hunter",
+      "David Strathairn",
+      "Wilford Brimley",
+      "Hal Holbrook",
+      "Gary Busey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-firm.html"
+}

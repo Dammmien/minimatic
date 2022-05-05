@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Sailors and a Girl",
+    "year": 1953,
+    "cast": [
+      "Jane Powell",
+      "Gordon MacRae"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/three-sailors-and-a-girl.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "For the Defense",
+    "year": 1930,
+    "cast": [
+      "William Powell",
+      "Kay Francis",
+      "William B. Davidson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/for-the-defense.html"
+}

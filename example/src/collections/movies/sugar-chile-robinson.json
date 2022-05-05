@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sugar Chile Robinson",
+    "year": 1950,
+    "cast": [
+      "Billie Holiday",
+      "Frank Robinson"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/sugar-chile-robinson.html"
+}

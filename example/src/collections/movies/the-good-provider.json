@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Good Provider",
+    "year": 1922,
+    "cast": [
+      "Vera Gordon",
+      "Miriam Battista"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-good-provider.html"
+}

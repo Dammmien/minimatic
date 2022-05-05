@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "After",
+    "year": 2012,
+    "cast": [
+      "Steven Strait",
+      "Karolina Wydra",
+      "Sandra Lafferty",
+      "Madison Lintz"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/after.html"
+}

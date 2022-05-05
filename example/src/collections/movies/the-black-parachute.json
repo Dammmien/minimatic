@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Black Parachute",
+    "year": 1944,
+    "cast": [
+      "John Carradine",
+      "Osa Massen",
+      "Larry Parks"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-black-parachute.html"
+}

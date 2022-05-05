@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Horseman of the Plains",
+    "year": 1928,
+    "cast": [
+      "Tom Mix",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-horseman-of-the-plains.html"
+}

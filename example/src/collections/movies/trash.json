@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trash",
+    "year": 1970,
+    "cast": [
+      "Joe Dallesandro",
+      "Holly Woodlawn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/trash.html"
+}

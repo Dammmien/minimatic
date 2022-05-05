@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ski Party",
+    "year": 1965,
+    "cast": [
+      "Frankie Avalon",
+      "Dwayne Hickman",
+      "Yvonne Craig"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/ski-party.html"
+}

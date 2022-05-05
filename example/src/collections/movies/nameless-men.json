@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nameless Men",
+    "year": 1928,
+    "cast": [
+      "Claire Windsor",
+      "Antonio Moreno"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/nameless-men.html"
+}

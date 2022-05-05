@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Silver Streak",
+    "year": 1934,
+    "cast": [
+      "Charles Starrett",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-silver-streak.html"
+}

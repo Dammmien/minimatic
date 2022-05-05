@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Massacre at Central High",
+    "year": 1976,
+    "cast": [
+      "Andrew Stevens",
+      "Robert Carradine"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/massacre-at-central-high.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fun on a Weekend",
+    "year": 1947,
+    "cast": [
+      "Eddie Bracken",
+      "Priscilla Lane",
+      "Tom Conway"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fun-on-a-weekend.html"
+}

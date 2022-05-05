@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Boatniks",
+    "year": 1970,
+    "cast": [
+      "Robert Morse",
+      "Stefanie Powers",
+      "Phil Silvers",
+      "Norman Fell",
+      "Don Ameche"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-boatniks.html"
+}

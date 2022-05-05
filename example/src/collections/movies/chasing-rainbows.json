@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Chasing Rainbows",
+    "year": 1930,
+    "cast": [
+      "Bessie Love",
+      "Charles King"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/chasing-rainbows.html"
+}

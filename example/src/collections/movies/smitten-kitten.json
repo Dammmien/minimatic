@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Smitten Kitten",
+    "year": 1952,
+    "cast": [],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/smitten-kitten.html"
+}

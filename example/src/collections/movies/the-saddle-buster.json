@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Saddle Buster",
+    "year": 1932,
+    "cast": [
+      "Tom Keene",
+      "Helen Foster"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-saddle-buster.html"
+}

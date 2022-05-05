@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "W",
+    "year": 1974,
+    "cast": [
+      "Twiggy",
+      "John Vernon",
+      "Dirk Benedict"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/w.html"
+}

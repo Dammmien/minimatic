@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Duchess of Buffalo",
+    "year": 1926,
+    "cast": [
+      "Constance Talmadge",
+      "Tullio Carminati"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-duchess-of-buffalo.html"
+}

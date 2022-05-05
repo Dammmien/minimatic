@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cujo",
+    "year": 1983,
+    "cast": [
+      "Dee Wallace",
+      "Danny Pintauro",
+      "Daniel Hugh Kelly",
+      "Christopher Stone"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/cujo.html"
+}

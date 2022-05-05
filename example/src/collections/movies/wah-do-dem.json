@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wah Do Dem",
+    "year": 2009,
+    "cast": [
+      "Carl Bradshaw",
+      "Sean Bones",
+      "Kevin Bewersdorf",
+      "Norah Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wah-do-dem.html"
+}

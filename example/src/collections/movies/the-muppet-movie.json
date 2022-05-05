@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Muppet Movie",
+    "year": 1979,
+    "cast": [
+      "James Coburn",
+      "Mel Brooks",
+      "Orson Welles"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/the-muppet-movie.html"
+}

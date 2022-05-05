@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Prince of Foxes",
+    "year": 1949,
+    "cast": [
+      "Tyrone Power",
+      "Orson Welles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/prince-of-foxes.html"
+}

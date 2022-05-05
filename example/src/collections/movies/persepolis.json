@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Persepolis",
+    "year": 2007,
+    "cast": [
+      "Chiara Mastroianni",
+      "Catherine Deneuve",
+      "Danielle Darrieux"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/persepolis.html"
+}

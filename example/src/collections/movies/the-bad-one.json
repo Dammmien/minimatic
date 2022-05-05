@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bad One",
+    "year": 1930,
+    "cast": [
+      "Dolores del Río",
+      "Edmund Lowe",
+      "Blanche Friderici"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-bad-one.html"
+}

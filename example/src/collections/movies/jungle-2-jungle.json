@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Jungle 2 Jungle",
+    "year": 1997,
+    "cast": [
+      "Tim Allen",
+      "Martin Short",
+      "JoBeth Williams",
+      "Lolita Davidovich",
+      "Sam Huntington"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/jungle-2-jungle.html"
+}

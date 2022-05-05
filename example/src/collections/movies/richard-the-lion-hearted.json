@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Richard the Lion-Hearted",
+    "year": 1923,
+    "cast": [
+      "Wallace Beery",
+      "Charles K. Gerrard",
+      "Marguerite De La Motte"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/richard-the-lion-hearted.html"
+}

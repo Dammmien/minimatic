@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Night at the Roxbury",
+    "year": 1998,
+    "cast": [
+      "Will Ferrell",
+      "Chris Kattan",
+      "Dan Hedaya",
+      "Loni Anderson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-night-at-the-roxbury.html"
+}

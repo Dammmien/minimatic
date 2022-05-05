@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Six Bridges to Cross",
+    "year": 1955,
+    "cast": [
+      "Tony Curtis",
+      "George Nader",
+      "Julie Adams",
+      "Sal Mineo",
+      "Jay C. Flippen"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/six-bridges-to-cross.html"
+}

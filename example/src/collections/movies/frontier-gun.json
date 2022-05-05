@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Frontier Gun",
+    "year": 1958,
+    "cast": [
+      "John Agar",
+      "Lyn Thomas"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/frontier-gun.html"
+}

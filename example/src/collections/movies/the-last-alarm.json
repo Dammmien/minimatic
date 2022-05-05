@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last Alarm",
+    "year": 1926,
+    "cast": [
+      "Rex Lease",
+      "Wanda Hawley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-last-alarm.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Scars of Jealousy",
+    "year": 1923,
+    "cast": [
+      "Lloyd Hughes",
+      "Frank Keenan",
+      "Marguerite De La Motte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/scars-of-jealousy.html"
+}

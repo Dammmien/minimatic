@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Relic",
+    "year": 1997,
+    "cast": [
+      "Penelope Ann Miller",
+      "Tom Sizemore",
+      "Linda Hunt",
+      "James Whitmore"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-relic.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cheech & Chong's Next Movie",
+    "year": 1980,
+    "cast": [
+      "Tommy Chong",
+      "Cheech Marin",
+      "Paul Reubens",
+      "Evelyn Guerrero"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cheech---chong-s-next-movie.html"
+}

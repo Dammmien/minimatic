@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Blackhat",
+    "year": 2015,
+    "cast": [
+      "Chris Hemsworth",
+      "Viola Davis",
+      "Manny Montana",
+      "Tang Wei"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/blackhat.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Legend of Jimi Lazer",
+    "year": 2013,
+    "cast": [
+      "Robbie Beniuk",
+      "Patrick J. Mitchell",
+      "Elijah Black",
+      "Robert Tanos"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-legend-of-jimi-lazer.html"
+}

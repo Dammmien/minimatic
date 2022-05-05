@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Day of Fury",
+    "year": 1956,
+    "cast": [
+      "Dale Robertson",
+      "Mara Corday",
+      "Jock Mahoney"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/a-day-of-fury.html"
+}

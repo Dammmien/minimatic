@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Possession",
+    "year": 2012,
+    "cast": [
+      "Natasha Callis",
+      "Jeffrey Dean Morgan",
+      "Kyra Sedgwick",
+      "Madison Davenport",
+      "Grant Show",
+      "Matisyahu"
+    ],
+    "genres": [
+      "Supernatural",
+      "Horror"
+    ]
+  },
+  "output": "movies/the-possession.html"
+}

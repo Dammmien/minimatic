@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mojave Moon",
+    "year": 1996,
+    "cast": [
+      "Danny Aiello",
+      "Anne Archer",
+      "Angelina Jolie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mojave-moon.html"
+}

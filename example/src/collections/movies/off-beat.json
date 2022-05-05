@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Off Beat",
+    "year": 1986,
+    "cast": [
+      "Judge Reinhold",
+      "Meg Tilly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/off-beat.html"
+}

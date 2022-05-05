@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Tropic Holiday",
+    "year": 1938,
+    "cast": [
+      "Bob Burns",
+      "Dorothy Lamour",
+      "Ray Milland",
+      "Martha Raye"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/tropic-holiday.html"
+}

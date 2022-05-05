@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Human Cargo",
+    "year": 1936,
+    "cast": [
+      "Claire Trevor",
+      "Brian Donlevy",
+      "and",
+      "Alan Dinehart"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/human-cargo.html"
+}

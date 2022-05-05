@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Return of Doctor X",
+    "year": 1939,
+    "cast": [
+      "Wayne Morris",
+      "Rosemary Lane",
+      "Humphrey Bogart"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-return-of-doctor-x.html"
+}

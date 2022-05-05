@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Made on Broadway",
+    "year": 1933,
+    "cast": [
+      "Robert Montgomery",
+      "Madge Evans",
+      "Sally Eilers"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/made-on-broadway.html"
+}

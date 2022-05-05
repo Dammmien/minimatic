@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lonesome Luke, Lawyer",
+    "year": 1917,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/lonesome-luke--lawyer.html"
+}

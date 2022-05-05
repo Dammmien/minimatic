@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Last Summer",
+    "year": 1969,
+    "cast": [
+      "Barbara Hershey",
+      "Catherine Burns",
+      "Bruce Davison"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/last-summer.html"
+}

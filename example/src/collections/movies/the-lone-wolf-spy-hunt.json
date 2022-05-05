@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lone Wolf Spy Hunt",
+    "year": 1939,
+    "cast": [
+      "Warren William",
+      "Ida Lupino",
+      "Rita Hayworth"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-lone-wolf-spy-hunt.html"
+}

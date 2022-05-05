@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Milk",
+    "year": 2008,
+    "cast": [
+      "Sean Penn",
+      "Josh Brolin",
+      "Emile Hirsch",
+      "James Franco",
+      "Diego Luna"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/milk.html"
+}

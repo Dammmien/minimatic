@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Rough Night",
+    "year": 2017,
+    "cast": [
+      "Scarlett Johansson",
+      "Zoë Kravitz",
+      "Kate McKinnon",
+      "Jillian Bell",
+      "Ilana Glazer",
+      "Paul W. Downs",
+      "Demi Moore",
+      "Ty Burrell",
+      "Colton Haynes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rough-night.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Death Takes a Holiday",
+    "year": 1934,
+    "cast": [
+      "Fredric March",
+      "Helen Westley",
+      "Kent Taylor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/death-takes-a-holiday.html"
+}

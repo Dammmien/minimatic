@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Two Seats at the Opera",
+    "year": 1916,
+    "cast": [
+      "William J. Welsh"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/two-seats-at-the-opera.html"
+}

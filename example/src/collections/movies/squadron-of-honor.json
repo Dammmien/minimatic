@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Squadron of Honor",
+    "year": 1938,
+    "cast": [
+      "Don Terry",
+      "Mary Russell"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/squadron-of-honor.html"
+}

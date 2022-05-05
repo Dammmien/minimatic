@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Exclusive Rights",
+    "year": 1926,
+    "cast": [
+      "Gayne Whitman",
+      "Lillian Rich",
+      "Gaston Glass"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/exclusive-rights.html"
+}

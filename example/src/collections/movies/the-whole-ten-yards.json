@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Whole Ten Yards",
+    "year": 2004,
+    "cast": [
+      "Matthew Perry",
+      "Bruce Willis",
+      "Amanda Peet",
+      "Natasha Henstridge",
+      "Kevin Pollak"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-whole-ten-yards.html"
+}

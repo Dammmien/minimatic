@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Between Friends",
+    "year": 1924,
+    "cast": [
+      "Lou Tellegen",
+      "Anna Q. Nilsson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/between-friends.html"
+}

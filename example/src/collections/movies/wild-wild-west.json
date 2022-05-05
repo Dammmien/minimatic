@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Wild Wild West",
+    "year": 1999,
+    "cast": [
+      "Will Smith",
+      "Kevin Kline",
+      "Kenneth Branagh",
+      "Salma Hayek"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/wild-wild-west.html"
+}

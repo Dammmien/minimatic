@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fanny Hill",
+    "year": 1964,
+    "cast": [
+      "Miriam Hopkins",
+      "Letícia Román"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/fanny-hill.html"
+}

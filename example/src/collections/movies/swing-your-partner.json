@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Swing Your Partner",
+    "year": 1943,
+    "cast": [
+      "Myrtle Wiseman",
+      "Dale Evans"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/swing-your-partner.html"
+}

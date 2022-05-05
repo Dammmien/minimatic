@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Oxford Blues",
+    "year": 1984,
+    "cast": [
+      "Rob Lowe",
+      "Ally Sheedy",
+      "Julian Sands"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/oxford-blues.html"
+}

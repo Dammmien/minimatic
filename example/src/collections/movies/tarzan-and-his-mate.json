@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tarzan and His Mate",
+    "year": 1934,
+    "cast": [
+      "Maureen O'Sullivan",
+      "Johnny Weissmuller",
+      "Neil Hamilton"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-and-his-mate.html"
+}

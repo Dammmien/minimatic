@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bulletproof Monk",
+    "year": 2003,
+    "cast": [
+      "Chow Yun-fat",
+      "Seann William Scott",
+      "Jaime King"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/bulletproof-monk.html"
+}

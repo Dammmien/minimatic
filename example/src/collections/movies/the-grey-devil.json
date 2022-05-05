@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Grey Devil",
+    "year": 1926,
+    "cast": [
+      "Jack Perrin",
+      "Tom London"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-grey-devil.html"
+}

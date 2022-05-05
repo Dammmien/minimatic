@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Heaven Can Wait",
+    "year": 1978,
+    "cast": [
+      "Warren Beatty",
+      "Julie Christie",
+      "Jack Warden",
+      "Dyan Cannon",
+      "Charles Grodin",
+      "James Mason",
+      "Buck Henry",
+      "Vincent Gardenia",
+      "R.G. Armstrong"
+    ],
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/heaven-can-wait.html"
+}

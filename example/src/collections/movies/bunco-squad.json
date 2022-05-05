@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bunco Squad",
+    "year": 1950,
+    "cast": [
+      "Robert Sterling",
+      "Joan Dixon"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/bunco-squad.html"
+}

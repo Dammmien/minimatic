@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Amateur Detective",
+    "year": 1914,
+    "cast": [
+      "Carey L. Hastings",
+      "Ernest C. Warde",
+      "Muriel Ostriche"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-amateur-detective.html"
+}

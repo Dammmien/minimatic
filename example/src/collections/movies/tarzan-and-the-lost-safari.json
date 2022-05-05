@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tarzan and the Lost Safari",
+    "year": 1957,
+    "cast": [
+      "Gordon Scott",
+      "Betta St. John"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-and-the-lost-safari.html"
+}

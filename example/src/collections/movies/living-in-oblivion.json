@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Living in Oblivion",
+    "year": 1995,
+    "cast": [
+      "Catherine Keener",
+      "Steve Buscemi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/living-in-oblivion.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Armored Car",
+    "year": 1937,
+    "cast": [
+      "Robert Wilcox",
+      "Judith Barrett",
+      "Cesar Romero"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/armored-car.html"
+}

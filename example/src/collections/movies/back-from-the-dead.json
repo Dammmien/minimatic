@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Back from the Dead",
+    "year": 1957,
+    "cast": [
+      "Peggie Castle",
+      "Marsha Hunt"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/back-from-the-dead.html"
+}

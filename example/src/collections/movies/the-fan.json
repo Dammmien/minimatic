@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Fan",
+    "year": 1996,
+    "cast": [
+      "Robert De Niro",
+      "Wesley Snipes",
+      "Ellen Barkin",
+      "Benicio del Toro",
+      "John Leguizamo"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-fan.html"
+}

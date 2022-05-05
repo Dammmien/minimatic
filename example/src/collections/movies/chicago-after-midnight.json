@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chicago After Midnight",
+    "year": 1928,
+    "cast": [
+      "Ralph Ince",
+      "James Mason"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/chicago-after-midnight.html"
+}

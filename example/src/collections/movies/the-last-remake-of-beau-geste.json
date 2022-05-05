@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last Remake of Beau Geste",
+    "year": 1977,
+    "cast": [
+      "Marty Feldman",
+      "Michael York",
+      "Ann-Margret"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-last-remake-of-beau-geste.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Father Takes the Air",
+    "year": 1951,
+    "cast": [
+      "Raymond Walburn",
+      "Walter Catlett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/father-takes-the-air.html"
+}

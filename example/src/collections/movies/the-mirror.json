@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "The Mirror",
+    "year": 1913,
+    "cast": [
+      "Henry B. Walthall"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-mirror.html"
+}

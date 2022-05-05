@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lovin' the Ladies",
+    "year": 1930,
+    "cast": [
+      "Richard Dix",
+      "Rita La Roy",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lovin--the-ladies.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Ender's Game",
+    "year": 2013,
+    "cast": [
+      "Asa Butterfield",
+      "Hailee Steinfeld",
+      "Ben Kingsley",
+      "Viola Davis",
+      "Abigail Breslin",
+      "Harrison Ford"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/ender-s-game.html"
+}

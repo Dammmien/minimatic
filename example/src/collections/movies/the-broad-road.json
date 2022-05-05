@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Broad Road",
+    "year": 1923,
+    "cast": [
+      "Richard Travers",
+      "May Allison"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-broad-road.html"
+}

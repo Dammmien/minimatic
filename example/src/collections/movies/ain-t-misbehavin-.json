@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ain't Misbehavin'",
+    "year": 1955,
+    "cast": [
+      "Rory Calhoun",
+      "Piper Laurie"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/ain-t-misbehavin-.html"
+}

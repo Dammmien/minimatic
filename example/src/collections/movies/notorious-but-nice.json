@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Notorious But Nice",
+    "year": 1933,
+    "cast": [
+      "Marian Marsh",
+      "Betty Compson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/notorious-but-nice.html"
+}

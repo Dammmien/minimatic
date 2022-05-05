@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Russian Roulette",
+    "year": 1975,
+    "cast": [
+      "George Segal",
+      "Denholm Elliott"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/russian-roulette.html"
+}

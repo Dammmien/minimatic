@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dig That Uranium",
+    "year": 1956,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Mary Beth Hughes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dig-that-uranium.html"
+}

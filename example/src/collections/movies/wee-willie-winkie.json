@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wee Willie Winkie",
+    "year": 1937,
+    "cast": [
+      "Shirley Temple",
+      "Victor McLaglen",
+      "C. Aubrey Smith"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/wee-willie-winkie.html"
+}

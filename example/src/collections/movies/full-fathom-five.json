@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Full Fathom Five",
+    "year": 1990,
+    "cast": [
+      "Michael Moriarty"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/full-fathom-five.html"
+}

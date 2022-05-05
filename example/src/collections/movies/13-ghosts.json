@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "13 Ghosts",
+    "year": 1960,
+    "cast": [
+      "Charles Herbert",
+      "Jo Morrow"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/13-ghosts.html"
+}

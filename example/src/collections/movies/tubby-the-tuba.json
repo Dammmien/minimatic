@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tubby the Tuba",
+    "year": 1975,
+    "cast": [
+      "Voices of",
+      "Dick Van Dyke",
+      "Jack Gilford"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/tubby-the-tuba.html"
+}

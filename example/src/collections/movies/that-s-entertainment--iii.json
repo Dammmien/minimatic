@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "That's Entertainment! III",
+    "year": 1994,
+    "cast": [
+      "Gene Kelly",
+      "Lena Horne",
+      "Debbie Reynolds"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/that-s-entertainment--iii.html"
+}

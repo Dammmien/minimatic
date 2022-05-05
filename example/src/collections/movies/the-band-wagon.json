@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Band Wagon",
+    "year": 1953,
+    "cast": [
+      "Fred Astaire",
+      "Cyd Charisse",
+      "Oscar Levant",
+      "Jack Buchanan",
+      "Nanette Fabray"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-band-wagon.html"
+}

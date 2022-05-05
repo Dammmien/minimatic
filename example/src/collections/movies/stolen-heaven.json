@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stolen Heaven",
+    "year": 1938,
+    "cast": [
+      "Gene Raymond",
+      "Glenda Farrell",
+      "Lewis Stone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stolen-heaven.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Speed Classic",
+    "year": 1928,
+    "cast": [
+      "Rex Lease",
+      "Mildred Harris"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-speed-classic.html"
+}

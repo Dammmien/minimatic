@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rome Adventure",
+    "year": 1962,
+    "cast": [
+      "Angie Dickinson",
+      "Troy Donahue",
+      "Suzanne Pleshette"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/rome-adventure.html"
+}

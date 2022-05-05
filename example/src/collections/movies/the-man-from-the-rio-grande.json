@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man from the Rio Grande",
+    "year": 1943,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Wally Vernon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-man-from-the-rio-grande.html"
+}

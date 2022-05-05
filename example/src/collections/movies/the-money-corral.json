@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Money Corral",
+    "year": 1919,
+    "cast": [
+      "William S. Hart",
+      "Jane Novak",
+      "Herschel Mayall"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-money-corral.html"
+}

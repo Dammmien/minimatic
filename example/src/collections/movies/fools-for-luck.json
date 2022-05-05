@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fools for Luck",
+    "year": 1928,
+    "cast": [
+      "W. C. Fields",
+      "Chester Conklin",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fools-for-luck.html"
+}

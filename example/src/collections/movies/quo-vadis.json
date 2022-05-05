@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Quo Vadis",
+    "year": 1951,
+    "cast": [
+      "Robert Taylor",
+      "Deborah Kerr",
+      "Peter Ustinov",
+      "Finlay Currie",
+      "Leo Genn"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/quo-vadis.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Devil's Gulch",
+    "year": 1926,
+    "cast": [
+      "Bob Custer",
+      "Hazel Deane"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-devil-s-gulch.html"
+}

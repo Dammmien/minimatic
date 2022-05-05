@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Billy the Kid vs. Dracula",
+    "year": 1966,
+    "cast": [
+      "John Carradine",
+      "Chuck Courtney"
+    ],
+    "genres": [
+      "Western",
+      "Horror"
+    ]
+  },
+  "output": "movies/billy-the-kid-vs--dracula.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Train Wreckers",
+    "year": 1925,
+    "cast": [
+      "Helen Holmes",
+      "Franklyn Farnum"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-train-wreckers.html"
+}

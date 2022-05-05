@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Verboten!",
+    "year": 1959,
+    "cast": [
+      "Susan Cummings",
+      "James Best"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/verboten-.html"
+}

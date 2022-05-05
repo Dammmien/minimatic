@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Miami Vice",
+    "year": 2006,
+    "cast": [
+      "Jamie Foxx",
+      "Colin Farrell",
+      "Gong Li"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/miami-vice.html"
+}

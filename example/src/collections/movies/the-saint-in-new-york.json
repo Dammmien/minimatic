@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Saint in New York",
+    "year": 1938,
+    "cast": [
+      "Louis Hayward",
+      "Kay Sutton",
+      "Jack Carson"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-saint-in-new-york.html"
+}

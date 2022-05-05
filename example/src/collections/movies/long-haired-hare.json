@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Long-Haired Hare",
+    "year": 1949,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/long-haired-hare.html"
+}

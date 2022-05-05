@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Night of the Creeps",
+    "year": 1986,
+    "cast": [
+      "Jason Lively",
+      "Tom Atkins"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/night-of-the-creeps.html"
+}

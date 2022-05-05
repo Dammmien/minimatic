@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Golden Princess",
+    "year": 1925,
+    "cast": [
+      "Betty Bronson",
+      "Neil Hamilton",
+      "Phyllis Haver"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-golden-princess.html"
+}

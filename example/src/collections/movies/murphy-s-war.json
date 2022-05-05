@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Murphy's War",
+    "year": 1971,
+    "cast": [
+      "Peter O'Toole"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/murphy-s-war.html"
+}

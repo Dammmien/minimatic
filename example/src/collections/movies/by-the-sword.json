@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "By the Sword",
+    "year": 1991,
+    "cast": [
+      "F. Murray Abraham",
+      "Eric Roberts",
+      "Mia Sara"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/by-the-sword.html"
+}

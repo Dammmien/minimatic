@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mass Appeal",
+    "year": 1984,
+    "cast": [
+      "Jack Lemmon",
+      "Željko Ivanek",
+      "Charles Durning"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mass-appeal.html"
+}

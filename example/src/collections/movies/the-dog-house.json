@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dog House",
+    "year": 1952,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/the-dog-house.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ladies Love Brutes",
+    "year": 1930,
+    "cast": [
+      "George Bancroft",
+      "Mary Astor",
+      "Fredric March"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ladies-love-brutes.html"
+}

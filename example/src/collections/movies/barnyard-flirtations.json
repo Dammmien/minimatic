@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Barnyard Flirtations",
+    "year": 1914,
+    "cast": [
+      "Fatty Arbuckle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/barnyard-flirtations.html"
+}

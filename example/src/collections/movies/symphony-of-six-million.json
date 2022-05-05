@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Symphony of Six Million",
+    "year": 1932,
+    "cast": [
+      "Ricardo Cortez",
+      "Irene Dunne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/symphony-of-six-million.html"
+}

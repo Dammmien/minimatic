@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Swing the Western Way",
+    "year": 1947,
+    "cast": [
+      "Jack Leonard",
+      "Thurston Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/swing-the-western-way.html"
+}

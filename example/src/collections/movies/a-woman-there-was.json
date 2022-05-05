@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Woman There Was",
+    "year": 1919,
+    "cast": [
+      "Theda Bara",
+      "William B. Davidson"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/a-woman-there-was.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rose of Cimarron",
+    "year": 1952,
+    "cast": [
+      "Mala Powers",
+      "Jack Buetel"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rose-of-cimarron.html"
+}

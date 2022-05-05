@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sweethearts and Wives",
+    "year": 1930,
+    "cast": [
+      "Billie Dove",
+      "Clive Brook",
+      "Sidney Blackmer"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/sweethearts-and-wives.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Livid Flame",
+    "year": 1914,
+    "cast": [
+      "Earle Foxe",
+      "Lafe McKee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-livid-flame.html"
+}

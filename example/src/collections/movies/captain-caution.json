@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Captain Caution",
+    "year": 1940,
+    "cast": [
+      "Victor Mature",
+      "Louise Platt",
+      "Leo Carrillo",
+      "Bruce Cabot",
+      "Alan Ladd"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/captain-caution.html"
+}

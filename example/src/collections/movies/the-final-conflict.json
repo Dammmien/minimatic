@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Final Conflict",
+    "year": 1981,
+    "cast": [
+      "Sam Neill",
+      "Rossano Brazzi",
+      "Don Gordon"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-final-conflict.html"
+}

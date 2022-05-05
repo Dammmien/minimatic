@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Ransom",
+    "year": 1996,
+    "cast": [
+      "Mel Gibson",
+      "Rene Russo",
+      "Gary Sinise",
+      "Delroy Lindo"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/ransom.html"
+}

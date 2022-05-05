@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Beside Still Waters",
+    "year": 2014,
+    "cast": [
+      "Ryan Eggold",
+      "Brett Dalton",
+      "Beck Bennett"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/beside-still-waters.html"
+}

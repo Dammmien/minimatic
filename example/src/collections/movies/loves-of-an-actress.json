@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Loves of an Actress",
+    "year": 1928,
+    "cast": [
+      "Pola Negri",
+      "Nils Asther"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/loves-of-an-actress.html"
+}

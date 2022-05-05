@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beloved Enemy",
+    "year": 1936,
+    "cast": [
+      "Merle Oberon",
+      "Brian Aherne",
+      "David Niven"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beloved-enemy.html"
+}

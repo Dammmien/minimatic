@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cop Hater",
+    "year": 1958,
+    "cast": [
+      "Robert Loggia",
+      "Gerald O'Loughlin"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/cop-hater.html"
+}

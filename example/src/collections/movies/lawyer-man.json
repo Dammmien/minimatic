@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lawyer Man",
+    "year": 1932,
+    "cast": [
+      "William Powell",
+      "Joan Blondell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lawyer-man.html"
+}

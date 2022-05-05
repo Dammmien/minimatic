@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Green-Eyed Blonde",
+    "year": 1957,
+    "cast": [
+      "Susan Oliver",
+      "Beverly Long"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-green-eyed-blonde.html"
+}

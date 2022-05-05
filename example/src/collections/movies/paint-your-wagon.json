@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Paint Your Wagon",
+    "year": 1969,
+    "cast": [
+      "Clint Eastwood",
+      "Lee Marvin",
+      "Jean Seberg"
+    ],
+    "genres": [
+      "Musical",
+      "Western"
+    ]
+  },
+  "output": "movies/paint-your-wagon.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bedroom Window",
+    "year": 1987,
+    "cast": [
+      "Elizabeth McGovern",
+      "Steve Guttenberg",
+      "Isabelle Huppert"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-bedroom-window.html"
+}

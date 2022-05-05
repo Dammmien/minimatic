@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Baby Mama",
+    "year": 2008,
+    "cast": [
+      "Tina Fey",
+      "Amy Poehler",
+      "Greg Kinnear",
+      "Dax Shepard",
+      "Romany Malco"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/baby-mama.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Body of Lies",
+    "year": 2008,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Russell Crowe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/body-of-lies.html"
+}

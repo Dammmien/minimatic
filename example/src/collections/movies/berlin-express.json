@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Berlin Express",
+    "year": 1948,
+    "cast": [
+      "Merle Oberon",
+      "Robert Ryan",
+      "Paul Lukas"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/berlin-express.html"
+}

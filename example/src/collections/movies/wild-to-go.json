@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wild to Go",
+    "year": 1926,
+    "cast": [
+      "Tom Tyler",
+      "Frankie Darro",
+      "Eugenia Gilbert"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wild-to-go.html"
+}

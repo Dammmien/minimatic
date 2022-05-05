@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kansas City Bomber",
+    "year": 1972,
+    "cast": [
+      "Raquel Welch",
+      "Kevin McCarthy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kansas-city-bomber.html"
+}

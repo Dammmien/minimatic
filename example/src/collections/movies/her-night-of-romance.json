@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Her Night of Romance",
+    "year": 1924,
+    "cast": [
+      "Constance Talmadge",
+      "Ronald Colman",
+      "Jean Hersholt"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/her-night-of-romance.html"
+}

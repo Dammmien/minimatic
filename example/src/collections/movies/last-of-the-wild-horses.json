@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Last of the Wild Horses",
+    "year": 1948,
+    "cast": [
+      "James Ellison",
+      "Mary Beth Hughes"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/last-of-the-wild-horses.html"
+}

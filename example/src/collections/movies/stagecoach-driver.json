@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stagecoach Driver",
+    "year": 1951,
+    "cast": [
+      "Whip Wilson",
+      "Fuzzy Knight"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/stagecoach-driver.html"
+}

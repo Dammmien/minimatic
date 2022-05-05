@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Vacation from Love",
+    "year": 1938,
+    "cast": [
+      "Florence Rice",
+      "Reginald Owen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/vacation-from-love.html"
+}

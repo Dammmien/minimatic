@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Desperados Are in Town",
+    "year": 1956,
+    "cast": [
+      "Robert Arthur",
+      "Kathleen Nolan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-desperados-are-in-town.html"
+}

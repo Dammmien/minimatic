@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Glass Wall",
+    "year": 1953,
+    "cast": [
+      "Vittorio Gassman",
+      "Gloria Grahame"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-glass-wall.html"
+}

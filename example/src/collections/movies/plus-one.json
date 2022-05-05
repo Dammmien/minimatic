@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Plus One",
+    "year": 2013,
+    "cast": [
+      "Ashley Hinshaw",
+      "Rhys Wakefield",
+      "Natalie Hall"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/plus-one.html"
+}

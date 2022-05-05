@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Uncle Joe Shannon",
+    "year": 1978,
+    "cast": [
+      "Burt Young",
+      "Madge Sinclair"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/uncle-joe-shannon.html"
+}

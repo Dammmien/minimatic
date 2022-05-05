@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Black Midnight",
+    "year": 1949,
+    "cast": [
+      "Roddy McDowall",
+      "Damian O'Flynn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/black-midnight.html"
+}

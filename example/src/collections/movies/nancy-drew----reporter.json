@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nancy Drew... Reporter",
+    "year": 1939,
+    "cast": [
+      "Bonita Granville",
+      "John Litel",
+      "Frankie Thomas"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/nancy-drew----reporter.html"
+}

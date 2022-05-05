@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Music Goes 'Round",
+    "year": 1936,
+    "cast": [
+      "Harry Richman",
+      "Rochelle Hudson",
+      "Walter Connolly"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-music-goes--round.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Coffin Baby",
+    "year": 2013,
+    "cast": [
+      "Bruce Dern",
+      "Brian Krause",
+      "Clifton Powell",
+      "Ethan Phillips"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/coffin-baby.html"
+}

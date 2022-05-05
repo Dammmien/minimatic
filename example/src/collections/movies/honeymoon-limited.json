@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Honeymoon Limited",
+    "year": 1935,
+    "cast": [
+      "Neil Hamilton",
+      "Irene Hervey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/honeymoon-limited.html"
+}

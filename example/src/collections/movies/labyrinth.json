@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Labyrinth",
+    "year": 1986,
+    "cast": [
+      "David Bowie",
+      "Jennifer Connelly"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/labyrinth.html"
+}

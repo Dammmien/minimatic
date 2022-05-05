@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Curly Top",
+    "year": 1935,
+    "cast": [
+      "Shirley Temple",
+      "John Boles",
+      "Rochelle Hudson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/curly-top.html"
+}

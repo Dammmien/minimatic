@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Going Places",
+    "year": 1938,
+    "cast": [
+      "Dick Powell",
+      "Anita Louise",
+      "Ronald Reagan"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/going-places.html"
+}

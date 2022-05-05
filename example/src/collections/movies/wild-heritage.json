@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild Heritage",
+    "year": 1958,
+    "cast": [
+      "Will Rogers Jr.",
+      "Maureen O'Sullivan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wild-heritage.html"
+}

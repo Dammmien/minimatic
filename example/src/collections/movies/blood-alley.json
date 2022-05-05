@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blood Alley",
+    "year": 1955,
+    "cast": [
+      "John Wayne",
+      "Lauren Bacall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blood-alley.html"
+}

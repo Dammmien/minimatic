@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Toad Warrior",
+    "year": 1996,
+    "cast": [
+      "Scott Shaw",
+      "Joe Estevez",
+      "Sandra Purpuro"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/toad-warrior.html"
+}

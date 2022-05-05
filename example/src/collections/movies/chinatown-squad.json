@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chinatown Squad",
+    "year": 1935,
+    "cast": [
+      "Lyle Talbot",
+      "Valerie Hobson"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/chinatown-squad.html"
+}

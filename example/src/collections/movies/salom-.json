@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Salomé",
+    "year": 1918,
+    "cast": [
+      "Theda Bara",
+      "G. Raymond Nye"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/salom-.html"
+}

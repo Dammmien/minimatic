@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Normal Adolescent Behavior",
+    "year": 2007,
+    "cast": [
+      "Amber Tamblyn",
+      "Ashton Holmes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/normal-adolescent-behavior.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Slipstream",
+    "year": 2007,
+    "cast": [
+      "Anthony Hopkins"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/slipstream.html"
+}

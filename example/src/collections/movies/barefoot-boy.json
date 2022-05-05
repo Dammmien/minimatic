@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Barefoot Boy",
+    "year": 1938,
+    "cast": [
+      "Jackie Moran",
+      "Ralph Morgan",
+      "Claire Windsor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/barefoot-boy.html"
+}

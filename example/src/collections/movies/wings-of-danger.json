@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wings of Danger",
+    "year": 1952,
+    "cast": [
+      "Zachary Scott",
+      "Kay Kendall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wings-of-danger.html"
+}

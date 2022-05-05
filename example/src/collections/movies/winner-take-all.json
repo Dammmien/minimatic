@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Winner Take All",
+    "year": 1939,
+    "cast": [
+      "Tony Martin",
+      "Gloria Stuart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/winner-take-all.html"
+}

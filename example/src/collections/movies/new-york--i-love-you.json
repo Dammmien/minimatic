@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "New York, I Love You",
+    "year": 2009,
+    "cast": [
+      "Bradley Cooper",
+      "Chris Cooper",
+      "Shia LaBeouf",
+      "Orlando Bloom",
+      "Andy García",
+      "Natalie Portman",
+      "Rachel Bilson",
+      "Julie Christie",
+      "James Caan"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/new-york--i-love-you.html"
+}

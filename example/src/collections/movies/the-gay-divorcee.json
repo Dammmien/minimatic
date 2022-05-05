@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gay Divorcee",
+    "year": 1934,
+    "cast": [
+      "Fred Astaire",
+      "Ginger Rogers",
+      "Alice Brady"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-gay-divorcee.html"
+}

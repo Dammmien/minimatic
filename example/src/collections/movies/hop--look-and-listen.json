@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hop, Look and Listen",
+    "year": 1948,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/hop--look-and-listen.html"
+}

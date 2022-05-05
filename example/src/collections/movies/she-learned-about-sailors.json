@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "She Learned About Sailors",
+    "year": 1934,
+    "cast": [
+      "Alice Faye",
+      "Lew Ayres"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-learned-about-sailors.html"
+}

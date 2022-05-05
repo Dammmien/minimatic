@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Thing with Two Heads",
+    "year": 1972,
+    "cast": [
+      "Ray Milland",
+      "Roosevelt Grier"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-thing-with-two-heads.html"
+}

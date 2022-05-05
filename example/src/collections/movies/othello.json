@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Othello",
+    "year": 1995,
+    "cast": [
+      "Laurence Fishburne",
+      "Kenneth Branagh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/othello.html"
+}

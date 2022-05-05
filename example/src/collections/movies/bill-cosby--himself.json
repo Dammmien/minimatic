@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Bill Cosby: Himself",
+    "year": 1983,
+    "cast": [
+      "Bill Cosby"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bill-cosby--himself.html"
+}

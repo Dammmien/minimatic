@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Boy, a Girl and a Dog",
+    "year": 1946,
+    "cast": [
+      "Sharyn Moffett",
+      "Lionel Stander"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-boy--a-girl-and-a-dog.html"
+}

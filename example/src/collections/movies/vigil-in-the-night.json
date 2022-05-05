@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Vigil in the Night",
+    "year": 1940,
+    "cast": [
+      "Carole Lombard",
+      "Brian Aherne"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/vigil-in-the-night.html"
+}

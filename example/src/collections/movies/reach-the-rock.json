@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Reach the Rock",
+    "year": 1998,
+    "cast": [
+      "William Sadler",
+      "Alessandro Nivola"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/reach-the-rock.html"
+}

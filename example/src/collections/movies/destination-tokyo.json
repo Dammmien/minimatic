@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Destination Tokyo",
+    "year": 1943,
+    "cast": [
+      "Cary Grant",
+      "John Garfield"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/destination-tokyo.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Submarine Base",
+    "year": 1943,
+    "cast": [
+      "Alan Baxter",
+      "John Litel"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/submarine-base.html"
+}

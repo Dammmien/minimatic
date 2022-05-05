@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sinbad: Legend of the Seven Seas",
+    "year": 2003,
+    "cast": [
+      "Brad Pitt",
+      "Catherine Zeta-Jones",
+      "Michelle Pfeiffer",
+      "Joseph Fiennes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/sinbad--legend-of-the-seven-seas.html"
+}

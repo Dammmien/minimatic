@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Punchline",
+    "year": 1988,
+    "cast": [
+      "Tom Hanks",
+      "Sally Field",
+      "John Goodman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/punchline.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Peeper",
+    "year": 1975,
+    "cast": [
+      "Michael Caine",
+      "Natalie Wood",
+      "Kitty Winn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/peeper.html"
+}

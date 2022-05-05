@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Shrink",
+    "year": 2009,
+    "cast": [
+      "Kevin Spacey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shrink.html"
+}

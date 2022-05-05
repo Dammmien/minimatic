@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Acquittal",
+    "year": 1923,
+    "cast": [
+      "Claire Windsor",
+      "Norman Kerry",
+      "Barbara Bedford"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-acquittal.html"
+}

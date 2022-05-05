@@ -1,0 +1,27 @@
+{
+  "data": {
+    "title": "Prom",
+    "year": 2011,
+    "cast": [
+      "Aimee Teegarden",
+      "Nicholas Braun",
+      "Dean Norris",
+      "Danielle Campbell",
+      "Cameron Monaghan",
+      "Christine Elise McCarthy",
+      "Raini Rodriguez",
+      "Jere Burns",
+      "Aimee-Lynn Chadwick",
+      "Yin Chang",
+      "Allie Trimm",
+      "Jared Kusnitz",
+      "Thomas McDonell"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Teen"
+    ]
+  },
+  "output": "movies/prom.html"
+}

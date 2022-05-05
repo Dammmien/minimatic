@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bastard Out of Carolina",
+    "year": 1996,
+    "cast": [
+      "Jennifer Jason Leigh",
+      "Jena Malone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bastard-out-of-carolina.html"
+}

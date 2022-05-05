@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Nine Girls",
+    "year": 1944,
+    "cast": [
+      "Ann Harding",
+      "Evelyn Keyes"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/nine-girls.html"
+}

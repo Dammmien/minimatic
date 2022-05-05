@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Spartan",
+    "year": 2004,
+    "cast": [
+      "Val Kilmer",
+      "Derek Luke",
+      "William H. Macy"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/spartan.html"
+}

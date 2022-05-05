@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl Habit",
+    "year": 1931,
+    "cast": [
+      "Charlie Ruggles",
+      "Tamara Geva"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-girl-habit.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Good Burger",
+    "year": 1997,
+    "cast": [
+      "Kenan Thompson",
+      "Kel Mitchell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/good-burger.html"
+}

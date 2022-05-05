@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Punch O'Day",
+    "year": 1926,
+    "cast": [
+      "Billy Sullivan",
+      "Charlotte Merriam"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/one-punch-o-day.html"
+}

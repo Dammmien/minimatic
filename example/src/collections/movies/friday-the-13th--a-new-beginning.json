@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Friday the 13th: A New Beginning",
+    "year": 1985,
+    "cast": [
+      "Suzanne Bateman",
+      "Corey Feldman"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/friday-the-13th--a-new-beginning.html"
+}

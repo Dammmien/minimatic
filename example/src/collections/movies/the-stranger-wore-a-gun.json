@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Stranger Wore a Gun",
+    "year": 1953,
+    "cast": [
+      "Randolph Scott",
+      "Claire Trevor",
+      "Joan Weldon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-stranger-wore-a-gun.html"
+}

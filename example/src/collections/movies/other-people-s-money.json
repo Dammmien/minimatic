@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Other People's Money",
+    "year": 1991,
+    "cast": [
+      "Danny DeVito",
+      "Gregory Peck",
+      "Penelope Ann Miller",
+      "Piper Laurie",
+      "Dean Jones"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/other-people-s-money.html"
+}

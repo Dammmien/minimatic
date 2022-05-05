@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The House",
+    "year": 2017,
+    "cast": [
+      "Will Ferrell",
+      "Amy Poehler",
+      "Ryan Simpkins",
+      "Jason Mantzoukas",
+      "Nick Kroll",
+      "Cedric Yarbrough",
+      "Jeremy Renner"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-house.html"
+}

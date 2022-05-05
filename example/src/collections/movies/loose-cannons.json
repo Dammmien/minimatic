@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Loose Cannons",
+    "year": 1990,
+    "cast": [
+      "Gene Hackman",
+      "Dan Aykroyd",
+      "Dom DeLuise",
+      "Ronny Cox",
+      "Nancy Travis"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/loose-cannons.html"
+}

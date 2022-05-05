@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Back Stage",
+    "year": 1919,
+    "cast": [
+      "Fatty Arbuckle",
+      "Buster Keaton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/back-stage.html"
+}

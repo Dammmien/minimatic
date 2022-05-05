@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Going the Limit",
+    "year": 1926,
+    "cast": [
+      "George O'Hara",
+      "Sally Long"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/going-the-limit.html"
+}

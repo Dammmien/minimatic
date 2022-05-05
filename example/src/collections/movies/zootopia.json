@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Zootopia",
+    "year": 2016,
+    "cast": [
+      "Ginnifer Goodwin",
+      "Jason Bateman",
+      "Idris Elba"
+    ],
+    "genres": [
+      "Animated",
+      "Adventure"
+    ]
+  },
+  "output": "movies/zootopia.html"
+}

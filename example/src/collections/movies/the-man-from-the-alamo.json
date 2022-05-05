@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man from the Alamo",
+    "year": 1953,
+    "cast": [
+      "Glenn Ford",
+      "Julie Adams",
+      "Hugh O'Brian"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-man-from-the-alamo.html"
+}

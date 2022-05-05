@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Luck of the Irish",
+    "year": 1948,
+    "cast": [
+      "Tyrone Power",
+      "Anne Baxter",
+      "Lee J. Cobb"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-luck-of-the-irish.html"
+}

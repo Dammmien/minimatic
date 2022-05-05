@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Divorce American Style",
+    "year": 1967,
+    "cast": [
+      "Dick Van Dyke",
+      "Debbie Reynolds",
+      "Jason Robards",
+      "Jean Simmons"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/divorce-american-style.html"
+}

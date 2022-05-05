@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gentleman Prefer Blondes",
+    "year": 1928,
+    "cast": [
+      "Ruth Taylor",
+      "Alice White"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gentleman-prefer-blondes.html"
+}

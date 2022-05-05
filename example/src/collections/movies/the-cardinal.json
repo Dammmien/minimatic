@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Cardinal",
+    "year": 1963,
+    "cast": [
+      "Tom Tryon",
+      "John Huston",
+      "Carol Lynley",
+      "Romy Schneider",
+      "Ossie Davis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-cardinal.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Dr. Seuss' The Lorax",
+    "year": 2012,
+    "cast": [
+      "Danny DeVito",
+      "Zac Efron",
+      "Taylor Swift",
+      "Ed Helms",
+      "Rob Riggle",
+      "Betty White",
+      "Jenny Slate"
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/dr--seuss--the-lorax.html"
+}

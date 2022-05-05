@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ride the Pink Horse",
+    "year": 1947,
+    "cast": [
+      "Robert Montgomery",
+      "Wanda Hendrix"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/ride-the-pink-horse.html"
+}

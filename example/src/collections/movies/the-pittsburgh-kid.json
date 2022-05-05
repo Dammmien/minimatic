@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pittsburgh Kid",
+    "year": 1941,
+    "cast": [
+      "Billy Conn",
+      "Jean Parker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-pittsburgh-kid.html"
+}

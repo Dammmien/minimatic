@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Pickings",
+    "year": 2018,
+    "cast": [
+      "Elyse Price",
+      "Joel Bernard",
+      "Katie Vincent",
+      "Joe Trombino"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/pickings.html"
+}

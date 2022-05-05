@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Dad",
+    "year": 1922,
+    "cast": [
+      "Johnnie Walker",
+      "Ruth Clifford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-dad.html"
+}

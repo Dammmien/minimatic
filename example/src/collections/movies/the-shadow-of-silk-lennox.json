@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Shadow of Silk Lennox",
+    "year": 1935,
+    "cast": [
+      "Lon Chaney Jr.",
+      "Jack Mulhall"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-shadow-of-silk-lennox.html"
+}

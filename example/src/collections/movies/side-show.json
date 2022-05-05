@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Side Show",
+    "year": 1931,
+    "cast": [
+      "Winnie Lightner",
+      "Charles Butterworth"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/side-show.html"
+}

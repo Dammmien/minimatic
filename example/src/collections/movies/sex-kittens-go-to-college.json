@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sex Kittens Go to College",
+    "year": 1960,
+    "cast": [
+      "Mamie Van Doren",
+      "Tuesday Weld",
+      "John Carradine"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sex-kittens-go-to-college.html"
+}

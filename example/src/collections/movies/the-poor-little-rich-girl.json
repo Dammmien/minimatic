@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Poor Little Rich Girl",
+    "year": 1917,
+    "cast": [
+      "Mary Pickford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-poor-little-rich-girl.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Coast to Coast",
+    "year": 1980,
+    "cast": [
+      "Robert Blake",
+      "Dyan Cannon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/coast-to-coast.html"
+}

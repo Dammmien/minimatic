@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "His Prehistoric Past",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Mack Swain",
+      "Fritz Schade"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/his-prehistoric-past.html"
+}

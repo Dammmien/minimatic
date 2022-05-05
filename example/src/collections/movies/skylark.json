@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Skylark",
+    "year": 1941,
+    "cast": [
+      "Claudette Colbert",
+      "Ray Milland",
+      "Brian Aherne"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/skylark.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Super-Rabbit",
+    "year": 1943,
+    "cast": [
+      "Bugs Bunny"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/super-rabbit.html"
+}

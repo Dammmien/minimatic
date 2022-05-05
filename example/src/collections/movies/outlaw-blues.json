@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Outlaw Blues",
+    "year": 1977,
+    "cast": [
+      "Peter Fonda",
+      "Susan Saint James",
+      "John Crawford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/outlaw-blues.html"
+}

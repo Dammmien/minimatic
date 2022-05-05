@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mysterious Rider",
+    "year": 1938,
+    "cast": [
+      "Douglass Dumbrille",
+      "Sidney Toler"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-mysterious-rider.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Monstrosity",
+    "year": 1964,
+    "cast": [
+      "Marjorie Eaton"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/monstrosity.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Stars",
+    "year": 1926,
+    "cast": [
+      "Johnny Arthur",
+      "Florence Lee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-stars.html"
+}

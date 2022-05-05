@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Behind the Headlines",
+    "year": 1937,
+    "cast": [
+      "Lee Tracy",
+      "Diana Gibson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/behind-the-headlines.html"
+}

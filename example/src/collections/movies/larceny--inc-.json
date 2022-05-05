@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Larceny, Inc.",
+    "year": 1942,
+    "cast": [
+      "Edward G. Robinson",
+      "Jane Wyman",
+      "Broderick Crawford"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/larceny--inc-.html"
+}

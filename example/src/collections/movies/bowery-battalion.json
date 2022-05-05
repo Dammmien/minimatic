@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bowery Battalion",
+    "year": 1951,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bowery-battalion.html"
+}

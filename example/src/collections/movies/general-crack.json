@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "General Crack",
+    "year": 1930,
+    "cast": [
+      "John Barrymore",
+      "Marian Nixon",
+      "Lowell Sherman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/general-crack.html"
+}

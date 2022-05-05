@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three in Exile",
+    "year": 1925,
+    "cast": [
+      "Louise Lorraine",
+      "Art Acord"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/three-in-exile.html"
+}

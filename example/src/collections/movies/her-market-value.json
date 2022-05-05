@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Her Market Value",
+    "year": 1925,
+    "cast": [
+      "Agnes Ayres",
+      "Anders Randolf",
+      "Hedda Hopper"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/her-market-value.html"
+}

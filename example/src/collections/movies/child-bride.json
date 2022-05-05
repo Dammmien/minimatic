@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Child Bride",
+    "year": 1938,
+    "cast": [
+      "Shirley Mills",
+      "Bob Bollinger"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/child-bride.html"
+}

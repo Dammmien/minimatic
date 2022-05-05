@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Honky Tonk Freeway",
+    "year": 1981,
+    "cast": [
+      "Beverly D'Angelo",
+      "Beau Bridges",
+      "William Devane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/honky-tonk-freeway.html"
+}

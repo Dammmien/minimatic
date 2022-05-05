@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Our Man Flint",
+    "year": 1966,
+    "cast": [
+      "James Coburn",
+      "Lee J. Cobb",
+      "Gila Golan"
+    ],
+    "genres": [
+      "Spy",
+      "Comedy"
+    ]
+  },
+  "output": "movies/our-man-flint.html"
+}

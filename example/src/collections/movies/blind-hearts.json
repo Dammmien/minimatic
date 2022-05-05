@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blind Hearts",
+    "year": 1921,
+    "cast": [
+      "Hobart Bosworth",
+      "Madge Bellamy",
+      "Wade Boteler"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blind-hearts.html"
+}

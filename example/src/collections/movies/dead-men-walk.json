@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dead Men Walk",
+    "year": 1943,
+    "cast": [
+      "George Zucco",
+      "Mary Carlisle"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dead-men-walk.html"
+}

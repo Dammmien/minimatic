@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dramatic Life of Abraham Lincoln",
+    "year": 1924,
+    "cast": [
+      "George A. Billings",
+      "Ruth Clifford"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-dramatic-life-of-abraham-lincoln.html"
+}

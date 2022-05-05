@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stiletto",
+    "year": 1969,
+    "cast": [
+      "Alex Cord",
+      "Britt Ekland",
+      "Patrick O'Neal"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/stiletto.html"
+}

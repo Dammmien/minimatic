@@ -1,0 +1,27 @@
+{
+  "data": {
+    "title": "Wreck-It Ralph",
+    "year": 2012,
+    "cast": [
+      "John C. Reilly",
+      "Sarah Silverman",
+      "Jack McBrayer",
+      "Jane Lynch",
+      "Alan Tudyk",
+      "Mindy Kaling",
+      "Joe Lo Truglio",
+      "Ed O'Neill",
+      "Dennis Haysbert",
+      "Adam Carolla",
+      "Horatio Sanz",
+      "and",
+      "Rich Moore"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/wreck-it-ralph.html"
+}

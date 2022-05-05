@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Earl of Chicago",
+    "year": 1940,
+    "cast": [
+      "Robert Montgomery"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-earl-of-chicago.html"
+}

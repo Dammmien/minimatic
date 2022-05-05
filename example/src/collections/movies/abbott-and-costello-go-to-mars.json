@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Abbott and Costello Go to Mars",
+    "year": 1953,
+    "cast": [
+      "Abbott and Costello",
+      "Horace McMahon",
+      "Martha Hyer",
+      "Mari Blanchard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/abbott-and-costello-go-to-mars.html"
+}

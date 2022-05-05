@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Man from Laramie",
+    "year": 1955,
+    "cast": [
+      "James Stewart",
+      "Arthur Kennedy",
+      "Cathy O'Donnell",
+      "Donald Crisp"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-man-from-laramie.html"
+}

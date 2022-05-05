@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "D.C. Cab",
+    "year": 1983,
+    "cast": [
+      "Adam Baldwin",
+      "Mr. T",
+      "Gary Busey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/d-c--cab.html"
+}

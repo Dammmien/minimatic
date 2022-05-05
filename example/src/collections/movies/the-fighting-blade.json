@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Blade",
+    "year": 1923,
+    "cast": [
+      "Richard Barthelmess",
+      "Dorothy Mackaill"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/the-fighting-blade.html"
+}

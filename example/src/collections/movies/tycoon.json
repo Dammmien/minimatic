@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tycoon",
+    "year": 1947,
+    "cast": [
+      "John Wayne",
+      "Laraine Day",
+      "Cedric Hardwicke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tycoon.html"
+}

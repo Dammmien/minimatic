@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Jack Reacher",
+    "year": 2012,
+    "cast": [
+      "Tom Cruise",
+      "Rosamund Pike",
+      "Richard Jenkins",
+      "Werner Herzog",
+      "David Oyelowo",
+      "Robert Duvall"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/jack-reacher.html"
+}

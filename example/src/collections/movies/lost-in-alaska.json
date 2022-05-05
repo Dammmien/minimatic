@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lost in Alaska",
+    "year": 1952,
+    "cast": [
+      "Abbott and Costello",
+      "Mitzi Green"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lost-in-alaska.html"
+}

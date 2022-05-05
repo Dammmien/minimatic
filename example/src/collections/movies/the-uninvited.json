@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Uninvited",
+    "year": 2009,
+    "cast": [
+      "Emily Browning",
+      "Elizabeth Banks",
+      "Arielle Kebbel",
+      "David Strathairn"
+    ],
+    "genres": [
+      "Drama",
+      "Horror"
+    ]
+  },
+  "output": "movies/the-uninvited.html"
+}

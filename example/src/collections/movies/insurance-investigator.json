@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Insurance Investigator",
+    "year": 1951,
+    "cast": [
+      "Richard Denning",
+      "Audrey Long"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/insurance-investigator.html"
+}

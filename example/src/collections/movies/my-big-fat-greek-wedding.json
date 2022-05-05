@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "My Big Fat Greek Wedding",
+    "year": 2002,
+    "cast": [
+      "Nia Vardalos",
+      "John Corbett",
+      "Michael Constantine",
+      "Lainie Kazan",
+      "Joey Fatone"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-big-fat-greek-wedding.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman Who Came Back",
+    "year": 1945,
+    "cast": [
+      "Nancy Kelly",
+      "John Loder"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-woman-who-came-back.html"
+}

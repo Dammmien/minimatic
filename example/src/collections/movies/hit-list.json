@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hit List",
+    "year": 1989,
+    "cast": [
+      "Jan-Michael Vincent",
+      "Lance Henriksen"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/hit-list.html"
+}

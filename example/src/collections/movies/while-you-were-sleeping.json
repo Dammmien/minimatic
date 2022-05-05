@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "While You Were Sleeping",
+    "year": 1995,
+    "cast": [
+      "Sandra Bullock",
+      "Bill Pullman",
+      "Peter Gallagher",
+      "Peter Boyle"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/while-you-were-sleeping.html"
+}

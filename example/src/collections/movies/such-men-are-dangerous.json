@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Such Men Are Dangerous",
+    "year": 1930,
+    "cast": [
+      "Catherine Dale Owen",
+      "Hedda Hopper",
+      "Bela Lugosi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/such-men-are-dangerous.html"
+}

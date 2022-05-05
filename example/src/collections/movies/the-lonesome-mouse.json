@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lonesome Mouse",
+    "year": 1943,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/the-lonesome-mouse.html"
+}

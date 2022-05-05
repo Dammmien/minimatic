@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ever After",
+    "year": 1998,
+    "cast": [
+      "Drew Barrymore",
+      "Dougray Scott",
+      "Anjelica Huston"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/ever-after.html"
+}

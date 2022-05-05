@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Loved You Wednesday",
+    "year": 1933,
+    "cast": [
+      "Warner Baxter",
+      "Elissa Landi"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-loved-you-wednesday.html"
+}

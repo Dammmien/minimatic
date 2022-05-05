@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fiddlers Three",
+    "year": 1948,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/fiddlers-three.html"
+}

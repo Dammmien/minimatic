@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "You're Never Too Young",
+    "year": 1955,
+    "cast": [
+      "Dean Martin",
+      "Jerry Lewis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-re-never-too-young.html"
+}

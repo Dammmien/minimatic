@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "China Sky",
+    "year": 1945,
+    "cast": [
+      "Randolph Scott",
+      "Ruth Warrick",
+      "Ellen Drew"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/china-sky.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Perilous Holiday",
+    "year": 1946,
+    "cast": [
+      "Pat O'Brien",
+      "Ruth Warrick",
+      "Audrey Long"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/perilous-holiday.html"
+}

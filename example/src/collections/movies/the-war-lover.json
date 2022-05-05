@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The War Lover",
+    "year": 1962,
+    "cast": [
+      "Steve McQueen",
+      "Robert Wagner"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-war-lover.html"
+}

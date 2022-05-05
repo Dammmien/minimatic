@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Evelyn Prentice",
+    "year": 1934,
+    "cast": [
+      "William Powell",
+      "Myrna Loy",
+      "Rosalind Russell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/evelyn-prentice.html"
+}

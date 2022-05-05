@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lady Is Willing",
+    "year": 1942,
+    "cast": [
+      "Marlene Dietrich",
+      "Fred MacMurray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-lady-is-willing.html"
+}

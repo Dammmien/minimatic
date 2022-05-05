@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Hoodlum Saint",
+    "year": 1946,
+    "cast": [
+      "William Powell",
+      "Esther Williams",
+      "Lewis Stone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hoodlum-saint.html"
+}

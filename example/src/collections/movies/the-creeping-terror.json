@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Creeping Terror",
+    "year": 1964,
+    "cast": [
+      "Vic Savage"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-creeping-terror.html"
+}

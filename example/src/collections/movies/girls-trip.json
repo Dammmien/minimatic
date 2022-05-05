@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Girls Trip",
+    "year": 2017,
+    "cast": [
+      "Regina Hall",
+      "Queen Latifah",
+      "Jada Pinkett Smith",
+      "Tiffany Haddish",
+      "Larenz Tate",
+      "Mike Colter",
+      "Kofi Siriboe"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/girls-trip.html"
+}

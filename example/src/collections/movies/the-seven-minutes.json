@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Seven Minutes",
+    "year": 1971,
+    "cast": [
+      "Edy Williams",
+      "Yvonne De Carlo",
+      "Tom Selleck"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-seven-minutes.html"
+}

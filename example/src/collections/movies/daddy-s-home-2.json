@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Daddy's Home 2",
+    "year": 2017,
+    "cast": [
+      "Will Ferrell",
+      "Mark Wahlberg",
+      "Linda Cardellini",
+      "John Cena",
+      "Mel Gibson",
+      "John Lithgow"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/daddy-s-home-2.html"
+}

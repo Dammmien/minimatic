@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mike and Dave Need Wedding Dates",
+    "year": 2016,
+    "cast": [
+      "Adam DeVine",
+      "Zac Efron"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mike-and-dave-need-wedding-dates.html"
+}

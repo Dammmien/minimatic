@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Alien from L.A.",
+    "year": 1988,
+    "cast": [
+      "Kathy Ireland",
+      "William R. Moses"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/alien-from-l-a-.html"
+}

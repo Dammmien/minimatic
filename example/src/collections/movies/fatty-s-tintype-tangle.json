@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Fatty's Tintype Tangle",
+    "year": 1915,
+    "cast": [
+      "Fatty Arbuckle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fatty-s-tintype-tangle.html"
+}

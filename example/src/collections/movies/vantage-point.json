@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Vantage Point",
+    "year": 2008,
+    "cast": [
+      "Dennis Quaid",
+      "Matthew Fox",
+      "Forest Whitaker",
+      "Sigourney Weaver",
+      "William Hurt"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/vantage-point.html"
+}

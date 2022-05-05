@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love and Money",
+    "year": 1982,
+    "cast": [
+      "Ray Sharkey",
+      "Ornella Muti",
+      "Klaus Kinski"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-and-money.html"
+}

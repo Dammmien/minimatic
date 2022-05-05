@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hot Saturday",
+    "year": 1932,
+    "cast": [
+      "Nancy Carroll",
+      "Cary Grant"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hot-saturday.html"
+}

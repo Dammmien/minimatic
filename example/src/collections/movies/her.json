@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Her",
+    "year": 2013,
+    "cast": [
+      "Joaquin Phoenix",
+      "Amy Adams",
+      "Rooney Mara",
+      "Scarlett Johansson",
+      "(voice)"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/her.html"
+}

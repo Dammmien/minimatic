@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Escape",
+    "year": 1939,
+    "cast": [
+      "Amanda Duff",
+      "Kane Richmond",
+      "June Gale"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-escape.html"
+}

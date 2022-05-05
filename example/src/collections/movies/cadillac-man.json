@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Cadillac Man",
+    "year": 1990,
+    "cast": [
+      "Robin Williams",
+      "Tim Robbins",
+      "Pamela Reed",
+      "Lori Petty",
+      "Fran Drescher"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cadillac-man.html"
+}

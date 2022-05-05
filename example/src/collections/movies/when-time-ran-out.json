@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "When Time Ran Out",
+    "year": 1980,
+    "cast": [
+      "Paul Newman",
+      "Jacqueline Bisset",
+      "William Holden",
+      "James Franciscus",
+      "Ernest Borgnine",
+      "Red Buttons",
+      "Barbara Carrera",
+      "Burgess Meredith"
+    ],
+    "genres": [
+      "Disaster"
+    ]
+  },
+  "output": "movies/when-time-ran-out.html"
+}

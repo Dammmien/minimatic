@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "South Central",
+    "year": 1992,
+    "cast": [
+      "Glenn Plummer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/south-central.html"
+}

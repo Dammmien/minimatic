@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Figures Don't Lie",
+    "year": 1927,
+    "cast": [
+      "Esther Ralston",
+      "Richard Arlen",
+      "Ford Sterling"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/figures-don-t-lie.html"
+}

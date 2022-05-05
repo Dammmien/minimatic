@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Pat Garrett and Billy the Kid",
+    "year": 1973,
+    "cast": [
+      "James Coburn",
+      "Kris Kristofferson",
+      "Bob Dylan",
+      "John Beck",
+      "Slim Pickens",
+      "Katy Jurado",
+      "Jack Elam",
+      "Chill Wills"
+    ],
+    "genres": [
+      "Western",
+      "Biography"
+    ]
+  },
+  "output": "movies/pat-garrett-and-billy-the-kid.html"
+}

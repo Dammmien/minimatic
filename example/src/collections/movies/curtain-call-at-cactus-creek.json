@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Curtain Call at Cactus Creek",
+    "year": 1950,
+    "cast": [
+      "Donald O'Connor",
+      "Walter Brennan",
+      "Gale Storm"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/curtain-call-at-cactus-creek.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Let's Be Happy",
+    "year": 1957,
+    "cast": [
+      "Vera-Ellen",
+      "Tony Martin"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/let-s-be-happy.html"
+}

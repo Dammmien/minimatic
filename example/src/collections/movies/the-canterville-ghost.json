@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Canterville Ghost",
+    "year": 1944,
+    "cast": [
+      "Charles Laughton",
+      "Margaret O'Brien"
+    ],
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-canterville-ghost.html"
+}

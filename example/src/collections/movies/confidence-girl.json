@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Confidence Girl",
+    "year": 1952,
+    "cast": [
+      "Tom Conway",
+      "Hillary Brooke"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/confidence-girl.html"
+}

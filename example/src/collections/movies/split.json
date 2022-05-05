@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Split",
+    "year": 2017,
+    "cast": [
+      "James McAvoy",
+      "Anya Taylor-Joy",
+      "Betty Buckley",
+      "Jessica Sula",
+      "Haley Lu Richardson",
+      "Kim Director",
+      "Lyne Renée",
+      "Brad William Henke",
+      "Neal Huff",
+      "Sebastian Arcelus"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Drama"
+    ]
+  },
+  "output": "movies/split.html"
+}

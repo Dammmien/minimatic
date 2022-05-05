@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Southbound Duckling",
+    "year": 1955,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/southbound-duckling.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cactus Trails",
+    "year": 1927,
+    "cast": [
+      "Bob Custer",
+      "Lew Meehan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cactus-trails.html"
+}

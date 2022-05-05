@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "13 Lead Soldiers",
+    "year": 1948,
+    "cast": [
+      "Tom Conway",
+      "Maria Palmer",
+      "Helen Westcott"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/13-lead-soldiers.html"
+}

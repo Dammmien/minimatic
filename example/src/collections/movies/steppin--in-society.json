@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Steppin' in Society",
+    "year": 1945,
+    "cast": [
+      "Edward Everett Horton",
+      "Gladys George",
+      "Ruth Terry"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/steppin--in-society.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Immigrant",
+    "year": 1917,
+    "cast": [
+      "Charlie Chaplin",
+      "Edna Purviance"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-immigrant.html"
+}

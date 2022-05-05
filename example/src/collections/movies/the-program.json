@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Program",
+    "year": 1993,
+    "cast": [
+      "James Caan",
+      "Halle Berry",
+      "Craig Sheffer",
+      "Omar Epps",
+      "Kristy Swanson"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/the-program.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thunder in Carolina",
+    "year": 1960,
+    "cast": [
+      "Rory Calhoun",
+      "Connie Hines"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thunder-in-carolina.html"
+}

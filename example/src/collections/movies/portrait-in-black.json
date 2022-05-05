@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Portrait in Black",
+    "year": 1960,
+    "cast": [
+      "Lana Turner",
+      "Anthony Quinn",
+      "Richard Basehart",
+      "Sandra Dee",
+      "John Saxon"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/portrait-in-black.html"
+}

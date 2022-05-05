@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Utah",
+    "year": 1945,
+    "cast": [
+      "Roy Rogers",
+      "Dale Evans",
+      "Peggy Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/utah.html"
+}

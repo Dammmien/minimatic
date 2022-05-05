@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stick It",
+    "year": 2006,
+    "cast": [
+      "Jeff Bridges",
+      "Missy Peregrym"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stick-it.html"
+}

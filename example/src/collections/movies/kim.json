@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kim",
+    "year": 1950,
+    "cast": [
+      "Errol Flynn",
+      "Dean Stockwell"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/kim.html"
+}

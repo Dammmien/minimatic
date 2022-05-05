@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tugboat Princess",
+    "year": 1936,
+    "cast": [
+      "Walter C. Kelly",
+      "Valerie Hobson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tugboat-princess.html"
+}

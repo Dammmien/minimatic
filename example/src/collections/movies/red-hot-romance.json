@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Red Hot Romance",
+    "year": 1922,
+    "cast": [
+      "Basil Sydney",
+      "May Collins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/red-hot-romance.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Days of Thunder",
+    "year": 1990,
+    "cast": [
+      "Tom Cruise",
+      "Robert Duvall",
+      "Randy Quaid",
+      "Nicole Kidman",
+      "Cary Elwes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/days-of-thunder.html"
+}

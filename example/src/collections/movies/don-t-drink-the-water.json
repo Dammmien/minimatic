@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Don't Drink the Water",
+    "year": 1994,
+    "cast": [
+      "Woody Allen",
+      "Michael J. Fox"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/don-t-drink-the-water.html"
+}

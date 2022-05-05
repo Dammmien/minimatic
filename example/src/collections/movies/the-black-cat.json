@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Black Cat",
+    "year": 1941,
+    "cast": [
+      "Basil Rathbone",
+      "Hugh Herbert",
+      "Broderick Crawford",
+      "Bela Lugosi"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-black-cat.html"
+}

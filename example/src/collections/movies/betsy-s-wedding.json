@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Betsy's Wedding",
+    "year": 1990,
+    "cast": [
+      "Alan Alda",
+      "Molly Ringwald",
+      "Ally Sheedy",
+      "Madeline Kahn",
+      "Joe Pesci",
+      "Anthony LaPaglia",
+      "Catherine O'Hara"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/betsy-s-wedding.html"
+}

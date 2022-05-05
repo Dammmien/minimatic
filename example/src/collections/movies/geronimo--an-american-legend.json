@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Geronimo: An American Legend",
+    "year": 1993,
+    "cast": [
+      "Wes Studi",
+      "Jason Patric",
+      "Gene Hackman",
+      "Robert Duvall"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/geronimo--an-american-legend.html"
+}

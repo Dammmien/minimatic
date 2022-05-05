@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "I Love My Wife",
+    "year": 1970,
+    "cast": [
+      "Elliott Gould",
+      "Brenda Vaccaro",
+      "Dabney Coleman",
+      "Angel Tompkins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-love-my-wife.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Drake Case",
+    "year": 1929,
+    "cast": [
+      "Gladys Brockwell",
+      "Robert Frazer"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-drake-case.html"
+}

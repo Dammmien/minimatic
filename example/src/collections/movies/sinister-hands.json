@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sinister Hands",
+    "year": 1932,
+    "cast": [
+      "Jack Mulhall",
+      "Crauford Kent"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/sinister-hands.html"
+}

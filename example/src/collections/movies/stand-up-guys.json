@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Stand Up Guys",
+    "year": 2013,
+    "cast": [
+      "Al Pacino",
+      "Christopher Walken",
+      "Alan Arkin",
+      "Julianna Margulies"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/stand-up-guys.html"
+}

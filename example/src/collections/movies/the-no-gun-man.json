@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The No-Gun Man",
+    "year": 1924,
+    "cast": [
+      "Maurice Bennett Flynn",
+      "Gloria Grey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-no-gun-man.html"
+}

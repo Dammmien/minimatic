@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "She-Devil",
+    "year": 1989,
+    "cast": [
+      "Meryl Streep",
+      "Roseanne Barr",
+      "Ed Begley, Jr."
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-devil.html"
+}

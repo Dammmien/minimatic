@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last Waltz",
+    "year": 1978,
+    "cast": [
+      "The Band",
+      "Eric Clapton",
+      "Bob Dylan"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-last-waltz.html"
+}

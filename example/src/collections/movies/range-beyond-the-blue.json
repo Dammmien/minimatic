@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Range Beyond the Blue",
+    "year": 1947,
+    "cast": [
+      "Eddie Dean",
+      "Roscoe Ates",
+      "Helen Mowery"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/range-beyond-the-blue.html"
+}

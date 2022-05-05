@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Breath of Scandal",
+    "year": 1960,
+    "cast": [
+      "Sophia Loren",
+      "Maurice Chevalier",
+      "John Gavin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-breath-of-scandal.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Follow the Crowd",
+    "year": 1918,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/follow-the-crowd.html"
+}

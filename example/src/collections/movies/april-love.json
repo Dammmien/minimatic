@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "April Love",
+    "year": 1957,
+    "cast": [
+      "Pat Boone",
+      "Shirley Jones",
+      "Arthur O'Connell"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/april-love.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Candyman 2: Farewell to the Flesh",
+    "year": 1995,
+    "cast": [
+      "Tony Todd",
+      "Kelly Rowan"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/candyman-2--farewell-to-the-flesh.html"
+}

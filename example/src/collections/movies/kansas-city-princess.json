@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Kansas City Princess",
+    "year": 1934,
+    "cast": [
+      "Joan Blondell",
+      "Glenda Farrell",
+      "Robert Armstrong"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/kansas-city-princess.html"
+}

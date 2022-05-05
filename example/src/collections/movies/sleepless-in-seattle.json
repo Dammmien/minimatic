@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Sleepless in Seattle",
+    "year": 1993,
+    "cast": [
+      "Tom Hanks",
+      "Meg Ryan",
+      "Ross Malinger",
+      "Bill Pullman",
+      "Rosie O'Donnell",
+      "Rita Wilson",
+      "Rob Reiner"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/sleepless-in-seattle.html"
+}

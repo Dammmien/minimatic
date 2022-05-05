@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Manfish",
+    "year": 1956,
+    "cast": [
+      "John Bromfield",
+      "Lon Chaney Jr."
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/manfish.html"
+}

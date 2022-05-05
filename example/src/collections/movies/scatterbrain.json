@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scatterbrain",
+    "year": 1940,
+    "cast": [
+      "Judy Canova",
+      "Alan Mowbray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/scatterbrain.html"
+}

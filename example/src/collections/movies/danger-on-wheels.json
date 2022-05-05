@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Danger on Wheels",
+    "year": 1940,
+    "cast": [
+      "Richard Arlen",
+      "Andy Devine",
+      "Peggy Moran"
+    ],
+    "genres": [
+      "Sport",
+      "Thriller"
+    ]
+  },
+  "output": "movies/danger-on-wheels.html"
+}

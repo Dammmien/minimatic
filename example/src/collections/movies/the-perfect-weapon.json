@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Perfect Weapon",
+    "year": 1991,
+    "cast": [
+      "Jeff Speakman",
+      "Mako",
+      "Mariska Hargitay"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-perfect-weapon.html"
+}

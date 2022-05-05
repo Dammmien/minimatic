@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Birthday Girl",
+    "year": 2002,
+    "cast": [
+      "Nicole Kidman",
+      "Ben Chaplin",
+      "Vincent Cassel"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/birthday-girl.html"
+}

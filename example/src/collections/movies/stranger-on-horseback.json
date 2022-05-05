@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stranger on Horseback",
+    "year": 1955,
+    "cast": [
+      "Joel McCrea",
+      "Nancy Gates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/stranger-on-horseback.html"
+}

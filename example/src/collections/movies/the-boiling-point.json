@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Boiling Point",
+    "year": 1932,
+    "cast": [
+      "Hoot Gibson",
+      "Helen Foster"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-boiling-point.html"
+}

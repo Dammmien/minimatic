@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Lucky Ones",
+    "year": 2008,
+    "cast": [
+      "Rachel McAdams",
+      "Tim Robbins",
+      "Michael Peña"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lucky-ones.html"
+}

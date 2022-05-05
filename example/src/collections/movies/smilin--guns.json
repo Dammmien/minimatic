@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Smilin' Guns",
+    "year": 1929,
+    "cast": [
+      "Hoot Gibson",
+      "Blanche Mehaffey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/smilin--guns.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cigarrette Girl",
+    "year": 1947,
+    "cast": [
+      "Leslie Brooks",
+      "Jimmy Lloyd",
+      "Ludwig Donath"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cigarrette-girl.html"
+}

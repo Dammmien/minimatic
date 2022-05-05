@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Francis of Assisi",
+    "year": 1961,
+    "cast": [
+      "Bradford Dillman",
+      "Dolores Hart",
+      "Stuart Whitman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/francis-of-assisi.html"
+}

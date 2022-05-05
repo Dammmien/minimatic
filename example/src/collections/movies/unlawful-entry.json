@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Unlawful Entry",
+    "year": 1992,
+    "cast": [
+      "Kurt Russell",
+      "Ray Liotta",
+      "Madeleine Stowe"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/unlawful-entry.html"
+}

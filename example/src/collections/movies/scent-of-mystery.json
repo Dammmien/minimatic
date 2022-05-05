@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scent of Mystery",
+    "year": 1960,
+    "cast": [
+      "Denholm Elliott",
+      "Peter Lorre"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/scent-of-mystery.html"
+}

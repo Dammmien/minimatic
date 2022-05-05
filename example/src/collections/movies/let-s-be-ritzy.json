@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Let's Be Ritzy",
+    "year": 1934,
+    "cast": [
+      "Lew Ayres",
+      "Patricia Ellis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-s-be-ritzy.html"
+}

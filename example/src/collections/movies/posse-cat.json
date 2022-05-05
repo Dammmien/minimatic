@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Posse Cat",
+    "year": 1952,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/posse-cat.html"
+}

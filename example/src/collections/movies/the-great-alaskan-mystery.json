@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Alaskan Mystery",
+    "year": 1944,
+    "cast": [
+      "Milburn Stone",
+      "Marjorie Weaver",
+      "Edgar Kennedy"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/the-great-alaskan-mystery.html"
+}

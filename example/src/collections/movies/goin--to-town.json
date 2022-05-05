@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Goin' to Town",
+    "year": 1944,
+    "cast": [
+      "Chester Lauck",
+      "Norris Goff",
+      "Barbara Hale"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/goin--to-town.html"
+}

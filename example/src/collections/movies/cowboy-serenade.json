@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cowboy Serenade",
+    "year": 1942,
+    "cast": [
+      "Gene Autry",
+      "Fay McKenzie"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/cowboy-serenade.html"
+}

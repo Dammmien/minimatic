@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rough Riding Ranger",
+    "year": 1935,
+    "cast": [
+      "Rex Lease",
+      "Bobby Nelson",
+      "Janet Chandler"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rough-riding-ranger.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Duke of West Point",
+    "year": 1938,
+    "cast": [
+      "Joan Fontaine",
+      "Tom Brown",
+      "Richard Carlson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-duke-of-west-point.html"
+}

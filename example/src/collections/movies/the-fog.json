@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fog",
+    "year": 2005,
+    "cast": [
+      "Tom Welling",
+      "Maggie Grace",
+      "Selma Blair"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-fog.html"
+}

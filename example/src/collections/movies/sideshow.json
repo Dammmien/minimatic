@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sideshow",
+    "year": 1950,
+    "cast": [
+      "Don McGuire",
+      "Tracey Roberts"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/sideshow.html"
+}

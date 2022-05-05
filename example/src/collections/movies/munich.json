@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Munich",
+    "year": 2005,
+    "cast": [
+      "Eric Bana",
+      "Daniel Craig",
+      "Ciarán Hinds",
+      "Mathieu Kassovitz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/munich.html"
+}

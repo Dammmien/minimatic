@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Solomon and Sheba",
+    "year": 1959,
+    "cast": [
+      "Yul Brynner",
+      "Gina Lollobrigida"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/solomon-and-sheba.html"
+}

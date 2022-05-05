@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Excitement",
+    "year": 1924,
+    "cast": [
+      "Laura La Plante",
+      "Guy Edward Hearn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/excitement.html"
+}

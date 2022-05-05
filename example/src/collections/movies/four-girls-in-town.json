@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Four Girls in Town",
+    "year": 1957,
+    "cast": [
+      "Julie Adams",
+      "Marianne Koch",
+      "Elsa Martinelli",
+      "Gia Scala",
+      "George Nader",
+      "John Gavin"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/four-girls-in-town.html"
+}

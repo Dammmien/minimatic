@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dinosaur",
+    "year": 2000,
+    "cast": [
+      "D. B. Sweeney",
+      "Alfre Woodard",
+      "Ossie Davis"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/dinosaur.html"
+}

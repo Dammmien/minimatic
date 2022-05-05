@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gallant Defender",
+    "year": 1935,
+    "cast": [
+      "Charles Starrett",
+      "Joan Perry"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gallant-defender.html"
+}

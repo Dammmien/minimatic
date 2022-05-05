@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mr. Nice Guy",
+    "year": 1987,
+    "cast": [
+      "Jan Smithers",
+      "Mike McDonald"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--nice-guy.html"
+}

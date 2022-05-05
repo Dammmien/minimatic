@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Insider",
+    "year": 1999,
+    "cast": [
+      "Al Pacino",
+      "Russell Crowe",
+      "Christopher Plummer",
+      "Philip Baker Hall",
+      "Michael Gambon",
+      "Wings Hauser",
+      "Gina Gershon"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-insider.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Stratton Story",
+    "year": 1949,
+    "cast": [
+      "James Stewart",
+      "June Allyson"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-stratton-story.html"
+}

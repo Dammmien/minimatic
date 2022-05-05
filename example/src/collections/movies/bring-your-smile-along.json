@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bring Your Smile Along",
+    "year": 1955,
+    "cast": [
+      "Frankie Laine",
+      "Constance Towers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bring-your-smile-along.html"
+}

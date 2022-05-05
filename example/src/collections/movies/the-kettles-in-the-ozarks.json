@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Kettles in the Ozarks",
+    "year": 1956,
+    "cast": [
+      "Marjorie Main",
+      "Arthur Hunnicutt"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-kettles-in-the-ozarks.html"
+}

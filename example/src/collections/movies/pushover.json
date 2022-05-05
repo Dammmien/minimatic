@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Pushover",
+    "year": 1954,
+    "cast": [
+      "Fred MacMurray",
+      "Kim Novak",
+      "Philip Carey",
+      "Dorothy Malone"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/pushover.html"
+}

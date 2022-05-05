@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Blackenstein",
+    "year": 1973,
+    "cast": [
+      "John Hart",
+      "Liz Renay"
+    ],
+    "genres": []
+  },
+  "output": "movies/blackenstein.html"
+}

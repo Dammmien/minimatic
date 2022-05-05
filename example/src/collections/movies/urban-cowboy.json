@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Urban Cowboy",
+    "year": 1980,
+    "cast": [
+      "John Travolta",
+      "Debra Winger",
+      "Scott Glenn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/urban-cowboy.html"
+}

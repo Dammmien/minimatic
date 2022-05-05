@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sea Wolf",
+    "year": 1941,
+    "cast": [
+      "Edward G. Robinson",
+      "Ida Lupino",
+      "John Garfield"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-sea-wolf.html"
+}

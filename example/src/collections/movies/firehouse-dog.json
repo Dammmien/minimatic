@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Firehouse Dog",
+    "year": 2007,
+    "cast": [
+      "Josh Hutcherson",
+      "Bruce Greenwood",
+      "Dash Mihok"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/firehouse-dog.html"
+}

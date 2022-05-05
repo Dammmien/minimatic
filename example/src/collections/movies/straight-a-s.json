@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Straight A's",
+    "year": 2013,
+    "cast": [
+      "Anna Paquin",
+      "Ryan Phillippe",
+      "Luke Wilson",
+      "Powers Boothe",
+      "Tess Harper"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/straight-a-s.html"
+}

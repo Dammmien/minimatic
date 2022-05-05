@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Rundown",
+    "year": 2003,
+    "cast": [
+      "The Rock",
+      "Seann William Scott",
+      "Christopher Walken",
+      "Rosario Dawson"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-rundown.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Baby-Sitters Club",
+    "year": 1995,
+    "cast": [
+      "Schuyler Fisk",
+      "Bre Blair",
+      "Rachael Leigh Cook"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-baby-sitters-club.html"
+}

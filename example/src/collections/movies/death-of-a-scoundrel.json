@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Death of a Scoundrel",
+    "year": 1956,
+    "cast": [
+      "George Sanders",
+      "Zsa Zsa Gabor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/death-of-a-scoundrel.html"
+}

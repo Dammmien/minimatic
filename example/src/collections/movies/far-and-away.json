@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Far and Away",
+    "year": 1992,
+    "cast": [
+      "Tom Cruise",
+      "Nicole Kidman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/far-and-away.html"
+}

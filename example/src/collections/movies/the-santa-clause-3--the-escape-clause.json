@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Santa Clause 3: The Escape Clause",
+    "year": 2006,
+    "cast": [
+      "Tim Allen",
+      "Martin Short"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-santa-clause-3--the-escape-clause.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thunder and Lightning",
+    "year": 1977,
+    "cast": [
+      "David Carradine",
+      "Kate Jackson"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/thunder-and-lightning.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Ride 'Em Cowboy",
+    "year": 1942,
+    "cast": [
+      "Abbott and Costello"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ride--em-cowboy.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Just Around the Corner",
+    "year": 1938,
+    "cast": [
+      "Shirley Temple",
+      "Charles Farrell",
+      "Franklin Pangborn"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/just-around-the-corner.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nice Girl?",
+    "year": 1941,
+    "cast": [
+      "Deanna Durbin",
+      "Franchot Tone",
+      "Walter Brennan"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/nice-girl-.html"
+}

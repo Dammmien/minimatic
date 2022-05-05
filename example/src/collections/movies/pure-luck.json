@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pure Luck",
+    "year": 1991,
+    "cast": [
+      "Martin Short",
+      "Danny Glover",
+      "Sheila Kelly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pure-luck.html"
+}

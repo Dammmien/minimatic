@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Odd Couple II",
+    "year": 1998,
+    "cast": [
+      "Jack Lemmon",
+      "Walter Matthau",
+      "Christine Baranski",
+      "Jean Smart",
+      "Jonathan Silverman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-odd-couple-ii.html"
+}

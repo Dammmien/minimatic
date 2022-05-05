@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stigmata",
+    "year": 1999,
+    "cast": [
+      "Patricia Arquette",
+      "Gabriel Byrne",
+      "Jonathan Pryce"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/stigmata.html"
+}

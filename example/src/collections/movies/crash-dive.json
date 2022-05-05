@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Crash Dive",
+    "year": 1943,
+    "cast": [
+      "Tyrone Power",
+      "Dana Andrews",
+      "Anne Baxter"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/crash-dive.html"
+}

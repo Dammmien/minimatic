@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Dark Side of the Moon",
+    "year": 1990,
+    "cast": [
+      "Robert Sampson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-dark-side-of-the-moon.html"
+}

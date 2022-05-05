@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Jumping the Broom",
+    "year": 2011,
+    "cast": [
+      "Angela Bassett",
+      "Paula Patton",
+      "Laz Alonso",
+      "Loretta Devine",
+      "Mike Epps",
+      "Meagan Good",
+      "Tasha Smith",
+      "Julie Bowen",
+      "Romeo Miller",
+      "DeRay Davis",
+      "Valarie Pettiford"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/jumping-the-broom.html"
+}

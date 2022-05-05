@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Blue Lagoon",
+    "year": 1980,
+    "cast": [
+      "Christopher Atkins",
+      "Brooke Shields"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-blue-lagoon.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mystery Man",
+    "year": 1935,
+    "cast": [
+      "Robert Armstrong",
+      "Maxine Doyle"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-mystery-man.html"
+}

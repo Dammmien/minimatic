@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Step Brothers",
+    "year": 2008,
+    "cast": [
+      "Will Ferrell",
+      "John C. Reilly",
+      "Richard Jenkins",
+      "Mary Steenburgen",
+      "Adam Scott",
+      "Kathryn Hahn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/step-brothers.html"
+}

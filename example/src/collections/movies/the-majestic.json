@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Majestic",
+    "year": 2001,
+    "cast": [
+      "Jim Carrey",
+      "Martin Landau",
+      "James Whitmore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-majestic.html"
+}

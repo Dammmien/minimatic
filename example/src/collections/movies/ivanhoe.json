@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ivanhoe",
+    "year": 1952,
+    "cast": [
+      "Robert Taylor",
+      "Elizabeth Taylor",
+      "Joan Fontaine",
+      "George Sanders"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/ivanhoe.html"
+}

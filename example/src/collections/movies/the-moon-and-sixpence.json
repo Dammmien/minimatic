@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Moon and Sixpence",
+    "year": 1942,
+    "cast": [
+      "George Sanders",
+      "Herbert Marshall",
+      "Elena Verdugo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-moon-and-sixpence.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Adventures of Sebastian Cole",
+    "year": 1998,
+    "cast": [
+      "Adrian Grenier",
+      "Margaret Colin",
+      "Clark Gregg",
+      "John Shea"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-adventures-of-sebastian-cole.html"
+}

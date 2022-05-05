@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Dark Corner",
+    "year": 1946,
+    "cast": [
+      "Lucille Ball",
+      "Clifton Webb",
+      "William Bendix"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-dark-corner.html"
+}

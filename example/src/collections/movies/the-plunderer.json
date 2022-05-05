@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Plunderer",
+    "year": 1924,
+    "cast": [
+      "Frank Mayo",
+      "Evelyn Brent"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-plunderer.html"
+}

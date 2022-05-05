@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Diary of a Camper",
+    "year": 1996,
+    "cast": [
+      "(none)"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/diary-of-a-camper.html"
+}

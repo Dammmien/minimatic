@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Gigli",
+    "year": 2003,
+    "cast": [
+      "Ben Affleck",
+      "Jennifer Lopez",
+      "Al Pacino",
+      "Justin Bartha",
+      "Christopher Walken",
+      "Lainie Kazan",
+      "Lenny Venito",
+      "Missy Crider"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/gigli.html"
+}

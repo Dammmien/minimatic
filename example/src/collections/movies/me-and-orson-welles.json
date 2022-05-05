@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Me and Orson Welles",
+    "year": 2009,
+    "cast": [
+      "Ben Chaplin",
+      "Claire Danes",
+      "Zac Efron",
+      "Zoe Kazan",
+      "Eddie Marsan",
+      "Christian McKay",
+      "Kelly Reilly",
+      "James Tupper"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/me-and-orson-welles.html"
+}

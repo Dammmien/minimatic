@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lure of the Swamp",
+    "year": 1957,
+    "cast": [
+      "Marshall Thompson",
+      "Joan Vohs"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lure-of-the-swamp.html"
+}

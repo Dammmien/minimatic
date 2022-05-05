@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rosie!",
+    "year": 1967,
+    "cast": [
+      "Rosalind Russell",
+      "Sandra Dee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rosie-.html"
+}

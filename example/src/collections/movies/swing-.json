@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Swing!",
+    "year": 1938,
+    "cast": [
+      "Cora Green",
+      "Alec Lovejoy"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/swing-.html"
+}

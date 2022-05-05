@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Transylvania 6-5000",
+    "year": 1985,
+    "cast": [
+      "Jeff Goldblum",
+      "Geena Davis",
+      "Ed Begley Jr.",
+      "Carol Kane",
+      "Teresa Ganzel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/transylvania-6-5000.html"
+}

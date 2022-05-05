@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stars on Parade",
+    "year": 1944,
+    "cast": [
+      "Larry Parks",
+      "Lynn Merrick",
+      "Jeff Donnell"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/stars-on-parade.html"
+}

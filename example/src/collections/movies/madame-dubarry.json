@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Madame DuBarry",
+    "year": 1934,
+    "cast": [
+      "Dolores del Río",
+      "Victor Jory",
+      "Osgood Perkins"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/madame-dubarry.html"
+}

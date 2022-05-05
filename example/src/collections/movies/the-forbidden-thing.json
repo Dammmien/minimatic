@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Forbidden Thing",
+    "year": 1920,
+    "cast": [
+      "James Kirkwood Sr.",
+      "Helen Jerome Eddy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-forbidden-thing.html"
+}

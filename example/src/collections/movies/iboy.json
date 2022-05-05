@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "iBoy",
+    "year": 2017,
+    "cast": [
+      "Bill Milner",
+      "Maisie Williams",
+      "Miranda Richardson",
+      "Rory Kinnear"
+    ],
+    "genres": [
+      "Action",
+      "Crime"
+    ]
+  },
+  "output": "movies/iboy.html"
+}

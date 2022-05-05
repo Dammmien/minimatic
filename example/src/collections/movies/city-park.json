@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "City Park",
+    "year": 1934,
+    "cast": [
+      "Sally Blane",
+      "Matty Kemp"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/city-park.html"
+}

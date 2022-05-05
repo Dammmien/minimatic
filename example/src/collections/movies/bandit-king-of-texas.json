@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bandit King of Texas",
+    "year": 1949,
+    "cast": [
+      "Allan Lane",
+      "Helene Stanley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bandit-king-of-texas.html"
+}

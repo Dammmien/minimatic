@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Walking Dead",
+    "year": 1995,
+    "cast": [
+      "Eddie Griffin",
+      "Allen Payne",
+      "Joe Morton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-walking-dead.html"
+}

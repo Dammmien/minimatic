@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hardcore",
+    "year": 1979,
+    "cast": [
+      "George C. Scott",
+      "Season Hubley",
+      "Peter Boyle"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hardcore.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "In Mizzoura",
+    "year": 1919,
+    "cast": [
+      "Noah Beery",
+      "Eileen Percy",
+      "Monte Blue"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/in-mizzoura.html"
+}

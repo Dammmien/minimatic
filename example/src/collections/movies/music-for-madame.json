@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Music for Madame",
+    "year": 1937,
+    "cast": [
+      "Nino Martini",
+      "Joan Fontaine"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/music-for-madame.html"
+}

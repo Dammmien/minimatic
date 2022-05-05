@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Strange Brew",
+    "year": 1983,
+    "cast": [
+      "Rick Moranis",
+      "Dave Thomas",
+      "Max von Sydow"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/strange-brew.html"
+}

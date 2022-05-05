@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Came Home",
+    "year": 1950,
+    "cast": [
+      "Claudette Colbert",
+      "Patric Knowles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/three-came-home.html"
+}

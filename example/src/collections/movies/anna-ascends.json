@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Anna Ascends",
+    "year": 1922,
+    "cast": [
+      "Alice Brady",
+      "Robert Ellis"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/anna-ascends.html"
+}

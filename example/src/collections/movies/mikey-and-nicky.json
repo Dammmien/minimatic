@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mikey and Nicky",
+    "year": 1976,
+    "cast": [
+      "Peter Falk",
+      "John Cassavetes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mikey-and-nicky.html"
+}

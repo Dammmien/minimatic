@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Happy Warrior",
+    "year": 1925,
+    "cast": [
+      "Malcolm McGregor",
+      "Alice Calhoun"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-happy-warrior.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Greased Lightning",
+    "year": 1977,
+    "cast": [
+      "Richard Pryor",
+      "Pam Grier",
+      "Cleavon Little"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/greased-lightning.html"
+}

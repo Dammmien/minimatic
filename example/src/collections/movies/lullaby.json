@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lullaby",
+    "year": 2014,
+    "cast": [
+      "Amy Adams",
+      "Garrett Hedlund",
+      "Terrence Howard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lullaby.html"
+}

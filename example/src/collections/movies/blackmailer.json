@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blackmailer",
+    "year": 1936,
+    "cast": [
+      "William Gargan",
+      "Florence Rice",
+      "H. B. Warner"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/blackmailer.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Hell Fest",
+    "year": 2018,
+    "cast": [
+      "Bex Taylor-Klaus",
+      "Amy Forsyth",
+      "Reign Edwards",
+      "Christian James",
+      "Matt Mercurio",
+      "Roby Attal"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/hell-fest.html"
+}

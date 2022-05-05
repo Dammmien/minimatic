@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Coffin Ship",
+    "year": 1911,
+    "cast": [
+      "William Garwood"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-coffin-ship.html"
+}

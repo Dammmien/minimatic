@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Women They Talk About",
+    "year": 1928,
+    "cast": [
+      "Irene Rich",
+      "Audrey Ferris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/women-they-talk-about.html"
+}

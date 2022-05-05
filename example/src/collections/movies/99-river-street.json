@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "99 River Street",
+    "year": 1953,
+    "cast": [
+      "John Payne",
+      "Evelyn Keyes"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/99-river-street.html"
+}

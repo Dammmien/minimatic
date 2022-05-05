@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Adventures of the American Rabbit",
+    "year": 1986,
+    "cast": [
+      "Barry Gordon"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-adventures-of-the-american-rabbit.html"
+}

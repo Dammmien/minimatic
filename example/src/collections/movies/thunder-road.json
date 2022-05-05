@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Thunder Road",
+    "year": 1958,
+    "cast": [
+      "Robert Mitchum",
+      "Gene Barry",
+      "Keely Smith"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/thunder-road.html"
+}

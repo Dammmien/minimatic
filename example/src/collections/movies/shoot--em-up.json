@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shoot 'Em Up",
+    "year": 2007,
+    "cast": [
+      "Clive Owen",
+      "Paul Giamatti",
+      "Monica Bellucci"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/shoot--em-up.html"
+}

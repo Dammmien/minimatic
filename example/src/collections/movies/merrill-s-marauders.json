@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Merrill's Marauders",
+    "year": 1962,
+    "cast": [
+      "Jeff Chandler",
+      "Ty Hardin",
+      "Claude Akins"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/merrill-s-marauders.html"
+}

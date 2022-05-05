@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fingerprints Don't Lie",
+    "year": 1951,
+    "cast": [
+      "Richard Travis",
+      "Sheila Ryan",
+      "Margia Dean"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/fingerprints-don-t-lie.html"
+}

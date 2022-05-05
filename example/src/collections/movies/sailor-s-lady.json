@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sailor's Lady",
+    "year": 1940,
+    "cast": [
+      "Nancy Kelly",
+      "Jon Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sailor-s-lady.html"
+}

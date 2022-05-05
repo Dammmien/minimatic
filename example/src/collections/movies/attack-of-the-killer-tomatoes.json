@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Attack of the Killer Tomatoes",
+    "year": 1978,
+    "cast": [
+      "David Miller",
+      "George Wilson",
+      "Costa Dillon",
+      "Eric Christmas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/attack-of-the-killer-tomatoes.html"
+}

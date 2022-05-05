@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flash of Genius",
+    "year": 2008,
+    "cast": [
+      "Greg Kinnear"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/flash-of-genius.html"
+}

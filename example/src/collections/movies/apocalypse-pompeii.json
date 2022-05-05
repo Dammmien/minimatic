@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Apocalypse Pompeii",
+    "year": 2014,
+    "cast": [
+      "Adrian Paul",
+      "John Rhys-Davies",
+      "Dylan Vox"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/apocalypse-pompeii.html"
+}

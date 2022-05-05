@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Paranoia",
+    "year": 2013,
+    "cast": [
+      "Liam Hemsworth",
+      "Gary Oldman",
+      "Amber Heard",
+      "Harrison Ford",
+      "Lucas Till",
+      "Embeth Davidtz",
+      "Julian McMahon",
+      "Josh Holloway",
+      "and",
+      "Richard Dreyfuss"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/paranoia.html"
+}

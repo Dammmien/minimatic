@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Mirror Crack'd",
+    "year": 1980,
+    "cast": [
+      "Angela Lansbury",
+      "Rock Hudson",
+      "Elizabeth Taylor",
+      "Tony Curtis",
+      "Kim Novak"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-mirror-crack-d.html"
+}

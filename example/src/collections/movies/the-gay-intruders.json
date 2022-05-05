@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gay Intruders",
+    "year": 1948,
+    "cast": [
+      "John Emery",
+      "Tamara Geva"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-gay-intruders.html"
+}

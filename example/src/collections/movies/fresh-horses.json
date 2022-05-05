@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fresh Horses",
+    "year": 1988,
+    "cast": [
+      "Molly Ringwald",
+      "Andrew McCarthy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fresh-horses.html"
+}

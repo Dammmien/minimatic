@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "It's a Great Feeling",
+    "year": 1949,
+    "cast": [
+      "Doris Day",
+      "Jack Carson",
+      "Dennis Morgan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-s-a-great-feeling.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "While We're Young",
+    "year": 2015,
+    "cast": [
+      "Ben Stiller",
+      "Naomi Watts",
+      "Amanda Seyfried",
+      "Adam Driver"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/while-we-re-young.html"
+}

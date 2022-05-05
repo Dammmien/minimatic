@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Saddle Pals",
+    "year": 1947,
+    "cast": [
+      "Gene Autry",
+      "Lynne Roberts"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/saddle-pals.html"
+}

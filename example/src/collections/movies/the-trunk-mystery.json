@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Trunk Mystery",
+    "year": 1926,
+    "cast": [
+      "Charles Hutchison",
+      "Alice Calhoun",
+      "Otto Lederer"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-trunk-mystery.html"
+}

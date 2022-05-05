@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Last Weekend",
+    "year": 2013,
+    "cast": [
+      "Patricia Clarkson",
+      "Zachary Booth",
+      "Joseph Cross",
+      "Chris Mulkey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/last-weekend.html"
+}

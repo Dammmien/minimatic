@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Anguish",
+    "year": 1987,
+    "cast": [
+      "Zelda Rubinstein",
+      "Michael Lerner"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/anguish.html"
+}

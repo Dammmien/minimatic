@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Little Mister Jim",
+    "year": 1946,
+    "cast": [
+      "James Craig",
+      "Butch Jenkins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-mister-jim.html"
+}

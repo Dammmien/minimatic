@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wild Horse Stampede",
+    "year": 1926,
+    "cast": [
+      "Jack Hoxie",
+      "Fay Wray",
+      "Marin Sais"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-wild-horse-stampede.html"
+}

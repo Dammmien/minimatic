@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bad Lands",
+    "year": 1939,
+    "cast": [
+      "Robert Barrat",
+      "Douglas Walton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bad-lands.html"
+}

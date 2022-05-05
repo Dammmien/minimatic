@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Canyon Raiders",
+    "year": 1951,
+    "cast": [
+      "Whip Wilson",
+      "Phyllis Coates"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/canyon-raiders.html"
+}

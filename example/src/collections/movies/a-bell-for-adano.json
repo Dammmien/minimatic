@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Bell for Adano",
+    "year": 1945,
+    "cast": [
+      "Gene Tierney",
+      "John Hodiak",
+      "William Bendix"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-bell-for-adano.html"
+}

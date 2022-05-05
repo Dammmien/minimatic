@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Silver Girl",
+    "year": 1919,
+    "cast": [
+      "Frank Keenan",
+      "Irene Rich"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-silver-girl.html"
+}

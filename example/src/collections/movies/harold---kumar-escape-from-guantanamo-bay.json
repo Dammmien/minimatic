@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Harold & Kumar Escape from Guantanamo Bay",
+    "year": 2008,
+    "cast": [
+      "John Cho",
+      "Kal Penn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/harold---kumar-escape-from-guantanamo-bay.html"
+}

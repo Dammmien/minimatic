@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spellbound",
+    "year": 2002,
+    "cast": [
+      "the 1999",
+      "Scripps National Spelling Bee"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/spellbound.html"
+}

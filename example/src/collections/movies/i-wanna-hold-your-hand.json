@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Wanna Hold Your Hand",
+    "year": 1978,
+    "cast": [
+      "Nancy Allen",
+      "Bobby DiCicco",
+      "Marc McClure"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-wanna-hold-your-hand.html"
+}

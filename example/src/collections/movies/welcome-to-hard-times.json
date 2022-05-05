@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Welcome to Hard Times",
+    "year": 1967,
+    "cast": [
+      "Henry Fonda",
+      "Janice Rule",
+      "Warren Oates",
+      "Aldo Ray"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/welcome-to-hard-times.html"
+}

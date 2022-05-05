@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Just Getting Started",
+    "year": 2017,
+    "cast": [
+      "Morgan Freeman",
+      "Tommy Lee Jones",
+      "Rene Russo"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/just-getting-started.html"
+}

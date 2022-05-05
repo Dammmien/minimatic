@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Death of Poe",
+    "year": 2006,
+    "cast": [
+      "Mark Redfield",
+      "Kevin G. Shinnick"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-death-of-poe.html"
+}

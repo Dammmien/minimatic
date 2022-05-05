@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Footlights and Fools",
+    "year": 1929,
+    "cast": [
+      "Colleen Moore",
+      "Raymond Hackett",
+      "Fredric March"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/footlights-and-fools.html"
+}

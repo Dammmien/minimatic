@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Dr. Rhythm",
+    "year": 1938,
+    "cast": [
+      "Bing Crosby",
+      "Mary Carlisle",
+      "Andy Devine"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/dr--rhythm.html"
+}

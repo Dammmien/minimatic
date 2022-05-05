@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The View from Pompey's Head",
+    "year": 1955,
+    "cast": [
+      "Richard Egan",
+      "Dana Wynter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-view-from-pompey-s-head.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Broadway",
+    "year": 1933,
+    "cast": [
+      "Ed Sullivan",
+      "Jack Benny",
+      "Ruth Etting"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--broadway.html"
+}

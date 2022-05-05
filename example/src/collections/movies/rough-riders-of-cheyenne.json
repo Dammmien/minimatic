@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rough Riders of Cheyenne",
+    "year": 1945,
+    "cast": [
+      "Sunset Carson",
+      "Peggy Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rough-riders-of-cheyenne.html"
+}

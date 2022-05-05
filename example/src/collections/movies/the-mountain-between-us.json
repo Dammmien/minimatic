@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Mountain Between Us",
+    "year": 2017,
+    "cast": [
+      "Idris Elba",
+      "Kate Winslet",
+      "Dermot Mulroney",
+      "Waleed Zuaiter"
+    ],
+    "genres": [
+      "Romance",
+      "Disaster"
+    ]
+  },
+  "output": "movies/the-mountain-between-us.html"
+}

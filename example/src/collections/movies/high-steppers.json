@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "High Steppers",
+    "year": 1926,
+    "cast": [
+      "Mary Astor",
+      "Lloyd Hughes",
+      "Dolores del Río"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/high-steppers.html"
+}

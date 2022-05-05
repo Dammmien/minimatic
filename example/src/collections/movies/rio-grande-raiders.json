@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rio Grande Raiders",
+    "year": 1946,
+    "cast": [
+      "Sunset Carson",
+      "Linda Stirling"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rio-grande-raiders.html"
+}

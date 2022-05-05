@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rose of the World",
+    "year": 1925,
+    "cast": [
+      "Patsy Ruth Miller",
+      "Allan Forrest",
+      "Pauline Garon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rose-of-the-world.html"
+}

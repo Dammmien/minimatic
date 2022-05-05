@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mandarin Mystery",
+    "year": 1936,
+    "cast": [
+      "Eddie Quillan",
+      "Charlotte Henry",
+      "Rita La Roy"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-mandarin-mystery.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nothing Lasts Forever",
+    "year": 1984,
+    "cast": [
+      "Zach Galligan",
+      "Lauren Tom",
+      "Bill Murray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/nothing-lasts-forever.html"
+}

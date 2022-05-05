@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Oklahoma Raiders",
+    "year": 1944,
+    "cast": [
+      "Tex Ritter",
+      "Jennifer Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/oklahoma-raiders.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "November",
+    "year": 2004,
+    "cast": [
+      "Courteney Cox"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/november.html"
+}

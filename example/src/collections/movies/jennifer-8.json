@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jennifer 8",
+    "year": 1992,
+    "cast": [
+      "Andy García",
+      "Uma Thurman",
+      "John Malkovich"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/jennifer-8.html"
+}

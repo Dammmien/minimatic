@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Birdcage",
+    "year": 1996,
+    "cast": [
+      "Robin Williams",
+      "Nathan Lane",
+      "Gene Hackman",
+      "Dianne Wiest",
+      "Hank Azaria",
+      "Calista Flockhart",
+      "Dan Futterman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-birdcage.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Glamour",
+    "year": 1934,
+    "cast": [
+      "Paul Lukas",
+      "Constance Cummings"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/glamour.html"
+}

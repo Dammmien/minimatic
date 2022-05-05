@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Black Legion",
+    "year": 1937,
+    "cast": [
+      "Humphrey Bogart",
+      "Ann Sheridan",
+      "Joe Sawyer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/black-legion.html"
+}

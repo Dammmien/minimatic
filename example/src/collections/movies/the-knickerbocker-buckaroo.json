@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Knickerbocker Buckaroo",
+    "year": 1919,
+    "cast": [
+      "Douglas Fairbanks",
+      "William Wellman"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-knickerbocker-buckaroo.html"
+}

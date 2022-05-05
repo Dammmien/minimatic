@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Seven Women from Hell",
+    "year": 1961,
+    "cast": [
+      "Patricia Owens",
+      "Denise Darcel",
+      "Yvonne Craig"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/seven-women-from-hell.html"
+}

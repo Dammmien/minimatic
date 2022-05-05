@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stitches",
+    "year": 1985,
+    "cast": [
+      "Eddie Albert",
+      "Parker Stevenson",
+      "Jerry Feuer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stitches.html"
+}

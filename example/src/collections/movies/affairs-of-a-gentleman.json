@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Affairs of a Gentleman",
+    "year": 1934,
+    "cast": [
+      "Paul Lukas",
+      "Leila Hyams",
+      "Patricia Ellis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/affairs-of-a-gentleman.html"
+}

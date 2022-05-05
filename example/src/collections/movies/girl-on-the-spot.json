@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Girl on the Spot",
+    "year": 1946,
+    "cast": [
+      "Lois Collier",
+      "Jess Barker"
+    ],
+    "genres": [
+      "Musical",
+      "Crime"
+    ]
+  },
+  "output": "movies/girl-on-the-spot.html"
+}

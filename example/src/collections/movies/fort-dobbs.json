@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fort Dobbs",
+    "year": 1958,
+    "cast": [
+      "Clint Walker",
+      "Virginia Mayo",
+      "Brian Keith"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fort-dobbs.html"
+}

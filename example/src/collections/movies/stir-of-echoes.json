@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stir of Echoes",
+    "year": 1999,
+    "cast": [
+      "Kevin Bacon",
+      "Kathryn Erbe",
+      "Illeana Douglas"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/stir-of-echoes.html"
+}

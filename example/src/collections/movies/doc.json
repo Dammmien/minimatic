@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Doc",
+    "year": 1971,
+    "cast": [
+      "Stacy Keach",
+      "Faye Dunaway",
+      "Harris Yulin"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/doc.html"
+}

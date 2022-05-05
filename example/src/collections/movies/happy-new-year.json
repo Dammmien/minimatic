@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Happy New Year",
+    "year": 1987,
+    "cast": [
+      "Peter Falk",
+      "Charles Durning",
+      "Wendy Hughes",
+      "Tom Courtenay"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/happy-new-year.html"
+}

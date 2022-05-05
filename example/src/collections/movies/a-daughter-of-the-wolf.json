@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Daughter of the Wolf",
+    "year": 1919,
+    "cast": [
+      "Lila Lee",
+      "Elliott Dexter",
+      "Clarence Geldart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-daughter-of-the-wolf.html"
+}

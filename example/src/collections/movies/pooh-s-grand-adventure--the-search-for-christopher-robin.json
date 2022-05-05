@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Pooh's Grand Adventure: The Search for Christopher Robin",
+    "year": 1997,
+    "cast": [
+      "Jim Cummings",
+      "John Fielder",
+      "Ken Sansom",
+      "Andre Stojka",
+      "Peter Cullen",
+      "David Warner",
+      "Paul Winchell"
+    ],
+    "genres": [
+      "Family",
+      "Animated"
+    ]
+  },
+  "output": "movies/pooh-s-grand-adventure--the-search-for-christopher-robin.html"
+}

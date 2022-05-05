@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Seventeen Again",
+    "year": 2000,
+    "cast": [
+      "Tamera Mowry",
+      "Tia Mowry",
+      "Maia Campbell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/seventeen-again.html"
+}

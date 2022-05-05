@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Adventures of Red Ryder",
+    "year": 1940,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Noah Beery",
+      "Tommy Cook"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/adventures-of-red-ryder.html"
+}

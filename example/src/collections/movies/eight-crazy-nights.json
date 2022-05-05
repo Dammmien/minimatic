@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Eight Crazy Nights",
+    "year": 2002,
+    "cast": [
+      "Adam Sandler",
+      "Allen Covert",
+      "Jack Giarraputo"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/eight-crazy-nights.html"
+}

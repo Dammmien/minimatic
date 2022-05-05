@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pleasure Buyers",
+    "year": 1925,
+    "cast": [
+      "Irene Rich",
+      "Clive Brook",
+      "Gayne Whitman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pleasure-buyers.html"
+}

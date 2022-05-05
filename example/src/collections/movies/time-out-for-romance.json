@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Time Out for Romance",
+    "year": 1937,
+    "cast": [
+      "Claire Trevor",
+      "Michael Whalen",
+      "Joan Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/time-out-for-romance.html"
+}

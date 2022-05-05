@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Treasure of Monte Cristo",
+    "year": 1949,
+    "cast": [
+      "Glenn Langan",
+      "Adele Jergens"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/treasure-of-monte-cristo.html"
+}

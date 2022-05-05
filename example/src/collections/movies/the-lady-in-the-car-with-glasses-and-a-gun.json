@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lady in the Car with Glasses and a Gun",
+    "year": 1970,
+    "cast": [
+      "Samantha Eggar",
+      "Oliver Reed"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-lady-in-the-car-with-glasses-and-a-gun.html"
+}

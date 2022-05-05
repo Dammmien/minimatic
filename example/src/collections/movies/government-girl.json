@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Government Girl",
+    "year": 1944,
+    "cast": [
+      "Olivia de Havilland",
+      "Sonny Tufts",
+      "Anne Shirley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/government-girl.html"
+}

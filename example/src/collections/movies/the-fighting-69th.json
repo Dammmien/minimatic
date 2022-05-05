@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fighting 69th",
+    "year": 1940,
+    "cast": [
+      "James Cagney",
+      "Pat O'Brien",
+      "George Brent"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-fighting-69th.html"
+}

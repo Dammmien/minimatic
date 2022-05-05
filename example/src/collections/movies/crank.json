@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crank",
+    "year": 2006,
+    "cast": [
+      "Jason Statham",
+      "Amy Smart"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/crank.html"
+}

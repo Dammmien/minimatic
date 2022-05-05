@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Starlight, the Untamed",
+    "year": 1925,
+    "cast": [
+      "Jack Perrin",
+      "Josephine Hill"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/starlight--the-untamed.html"
+}

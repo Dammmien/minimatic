@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Tartars",
+    "year": 1951,
+    "cast": [
+      "Orson Welles",
+      "Victor Mature"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-tartars.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Buffalo Bill in Tomahawk Territory",
+    "year": 1952,
+    "cast": [
+      "Clayton Moore",
+      "Charles Harvey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/buffalo-bill-in-tomahawk-territory.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Quickening Flame",
+    "year": 1919,
+    "cast": [
+      "Montagu Love",
+      "June Elvidge"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-quickening-flame.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Portland Exposé",
+    "year": 1957,
+    "cast": [
+      "Carolyn Craig",
+      "Edward Binns"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/portland-expos-.html"
+}

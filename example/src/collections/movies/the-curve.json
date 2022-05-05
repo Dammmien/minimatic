@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Curve",
+    "year": 1998,
+    "cast": [
+      "Matthew Lillard",
+      "Michael Vartan",
+      "Randall Batinkoff",
+      "Keri Russell"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-curve.html"
+}

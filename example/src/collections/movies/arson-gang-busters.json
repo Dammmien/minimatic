@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Arson Gang Busters",
+    "year": 1938,
+    "cast": [
+      "Robert Livingston",
+      "Jackie Moran",
+      "Rosalind Keith"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/arson-gang-busters.html"
+}

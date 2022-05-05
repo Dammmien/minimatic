@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Romeo + Juliet",
+    "year": 1996,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Claire Danes",
+      "Brian Dennehy",
+      "John Leguizamo",
+      "Pete Postlethwaite",
+      "Paul Sorvino",
+      "Diane Venora"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/romeo---juliet.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Topaze",
+    "year": 1933,
+    "cast": [
+      "John Barrymore",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/topaze.html"
+}

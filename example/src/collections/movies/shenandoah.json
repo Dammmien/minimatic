@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Shenandoah",
+    "year": 1965,
+    "cast": [
+      "James Stewart",
+      "Doug McClure",
+      "Katharine Ross",
+      "Glenn Corbett",
+      "Rosemary Forsyth"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/shenandoah.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman from Monte Carlo",
+    "year": 1932,
+    "cast": [
+      "Lil Dagover",
+      "Walter Huston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woman-from-monte-carlo.html"
+}

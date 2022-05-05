@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Iron to Gold",
+    "year": 1922,
+    "cast": [
+      "Dustin Farnum",
+      "Marguerite Marsh"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/iron-to-gold.html"
+}

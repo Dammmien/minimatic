@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Interference",
+    "year": 1928,
+    "cast": [
+      "William Powell",
+      "Evelyn Brent",
+      "Clive Brook"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/interference.html"
+}

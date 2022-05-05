@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Man of Courage",
+    "year": 1943,
+    "cast": [
+      "Barton MacLane",
+      "Charlotte Wynters",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/man-of-courage.html"
+}

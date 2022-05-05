@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last Trail",
+    "year": 1933,
+    "cast": [
+      "George O'Brien",
+      "Claire Trevor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-last-trail.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Apache Uprising",
+    "year": 1965,
+    "cast": [
+      "Rory Calhoun",
+      "Corinne Calvet",
+      "John Russell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/apache-uprising.html"
+}

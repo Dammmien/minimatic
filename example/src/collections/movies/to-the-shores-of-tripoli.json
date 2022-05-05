@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "To the Shores of Tripoli",
+    "year": 1942,
+    "cast": [
+      "Maureen O'Hara",
+      "John Payne"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/to-the-shores-of-tripoli.html"
+}

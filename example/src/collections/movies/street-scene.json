@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Street Scene",
+    "year": 1931,
+    "cast": [
+      "Sylvia Sidney",
+      "Estelle Taylor",
+      "Beulah Bondi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/street-scene.html"
+}

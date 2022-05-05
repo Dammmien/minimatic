@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Collection",
+    "year": 2012,
+    "cast": [
+      "Josh Stewart",
+      "Courtney Lauren Cumming",
+      "Christopher McDonald",
+      "Lee Tergesen",
+      "Randall Archer",
+      "Shannon Kane"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-collection.html"
+}

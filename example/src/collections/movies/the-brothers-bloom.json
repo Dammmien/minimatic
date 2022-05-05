@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Brothers Bloom",
+    "year": 2009,
+    "cast": [
+      "Adrien Brody",
+      "Mark Ruffalo",
+      "Rachel Weisz",
+      "Rinko Kikuchi",
+      "Robbie Coltrane",
+      "Maximilian Schell"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-brothers-bloom.html"
+}

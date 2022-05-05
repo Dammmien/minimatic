@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Table for Five",
+    "year": 1983,
+    "cast": [
+      "Jon Voight",
+      "Richard Crenna",
+      "Roxana Zal"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/table-for-five.html"
+}

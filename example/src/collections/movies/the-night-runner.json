@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Night Runner",
+    "year": 1957,
+    "cast": [
+      "Colleen Miller",
+      "Ray Danton"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-night-runner.html"
+}

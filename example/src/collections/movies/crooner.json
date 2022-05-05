@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crooner",
+    "year": 1932,
+    "cast": [
+      "David Manners",
+      "Ann Dvorak"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/crooner.html"
+}

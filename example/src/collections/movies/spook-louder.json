@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spook Louder",
+    "year": 1943,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/spook-louder.html"
+}

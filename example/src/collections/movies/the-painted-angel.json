@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Painted Angel",
+    "year": 1929,
+    "cast": [
+      "Billie Dove",
+      "Edmund Lowe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-painted-angel.html"
+}

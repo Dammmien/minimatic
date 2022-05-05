@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Boys from Brazil",
+    "year": 1978,
+    "cast": [
+      "Gregory Peck",
+      "Laurence Olivier",
+      "James Mason",
+      "Lilli Palmer",
+      "Steve Guttenberg",
+      "Uta Hagen",
+      "Denholm Elliott",
+      "John Dehner",
+      "Anne Meara"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-boys-from-brazil.html"
+}

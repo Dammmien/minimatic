@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Trouble in Mind",
+    "year": 1985,
+    "cast": [
+      "Kris Kristofferson",
+      "Keith Carradine",
+      "Lori Singer",
+      "Genevieve Bujold",
+      "George Kirby"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/trouble-in-mind.html"
+}

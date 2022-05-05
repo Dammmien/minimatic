@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Snitch in Time",
+    "year": 1950,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-snitch-in-time.html"
+}

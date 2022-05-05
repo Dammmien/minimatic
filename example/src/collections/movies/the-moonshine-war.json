@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Moonshine War",
+    "year": 1970,
+    "cast": [
+      "Alan Alda",
+      "Richard Widmark",
+      "Patrick McGoohan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-moonshine-war.html"
+}

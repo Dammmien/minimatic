@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Leopardess",
+    "year": 1923,
+    "cast": [
+      "Alice Brady",
+      "Montagu Love"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-leopardess.html"
+}

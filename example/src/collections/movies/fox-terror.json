@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fox Terror",
+    "year": 1957,
+    "cast": [
+      "Foghorn Leghorn",
+      "Barnyard Dawg"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/fox-terror.html"
+}

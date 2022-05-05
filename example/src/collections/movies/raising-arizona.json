@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Raising Arizona",
+    "year": 1987,
+    "cast": [
+      "Nicolas Cage",
+      "Holly Hunter",
+      "John Goodman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/raising-arizona.html"
+}

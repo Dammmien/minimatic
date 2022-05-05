@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pinto Kid",
+    "year": 1928,
+    "cast": [
+      "Buzz Barton",
+      "Frank Rice"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-pinto-kid.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Illustrated Man",
+    "year": 1969,
+    "cast": [
+      "Rod Steiger",
+      "Claire Bloom"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-illustrated-man.html"
+}

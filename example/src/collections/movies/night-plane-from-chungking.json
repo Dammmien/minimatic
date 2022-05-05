@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night Plane from Chungking",
+    "year": 1943,
+    "cast": [
+      "Robert Preston",
+      "Ellen Drew"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/night-plane-from-chungking.html"
+}

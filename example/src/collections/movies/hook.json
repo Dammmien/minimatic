@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Hook",
+    "year": 1991,
+    "cast": [
+      "Robin Williams",
+      "Dustin Hoffman",
+      "Julia Roberts",
+      "Bob Hoskins",
+      "Charlie Korsmo",
+      "Maggie Smith",
+      "Amber Scott",
+      "Caroline Goodall",
+      "Dante Basco"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/hook.html"
+}

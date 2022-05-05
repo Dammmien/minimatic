@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "xXx: Return of Xander Cage",
+    "year": 2017,
+    "cast": [
+      "Vin Diesel",
+      "Samuel L. Jackson",
+      "Donnie Yen",
+      "Deepika Padukone",
+      "Kris Wu",
+      "Nina Dobrev",
+      "Tony Jaa",
+      "Ruby Rose",
+      "Toni Collette",
+      "Nicky Jam",
+      "Rory McCann",
+      "Al Sapienza",
+      "Michael Bisping",
+      "Ariadna Gutiérrez",
+      "Hermione Corfield"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/xxx--return-of-xander-cage.html"
+}

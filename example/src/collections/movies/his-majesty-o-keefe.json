@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "His Majesty O'Keefe",
+    "year": 1954,
+    "cast": [
+      "Burt Lancaster",
+      "Joan Rice",
+      "André Morell"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/his-majesty-o-keefe.html"
+}

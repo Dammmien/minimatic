@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "On the Beach",
+    "year": 1959,
+    "cast": [
+      "Gregory Peck",
+      "Ava Gardner",
+      "Fred Astaire",
+      "Anthony Perkins"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/on-the-beach.html"
+}

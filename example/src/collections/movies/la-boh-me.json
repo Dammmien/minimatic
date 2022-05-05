@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "La Bohème",
+    "year": 1926,
+    "cast": [
+      "Lillian Gish",
+      "John Gilbert",
+      "Renée Adorée"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/la-boh-me.html"
+}

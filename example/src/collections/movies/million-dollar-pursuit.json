@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Million Dollar Pursuit",
+    "year": 1951,
+    "cast": [
+      "Penny Edwards",
+      "Grant Withers"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/million-dollar-pursuit.html"
+}

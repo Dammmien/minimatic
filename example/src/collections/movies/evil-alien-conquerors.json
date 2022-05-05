@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Evil Alien Conquerors",
+    "year": 2003,
+    "cast": [
+      "Diedrich Bader",
+      "Chris Parnell"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Comedy"
+    ]
+  },
+  "output": "movies/evil-alien-conquerors.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Balls of Fury",
+    "year": 2007,
+    "cast": [
+      "Dan Fogler",
+      "Christopher Walken",
+      "George Lopez",
+      "Maggie Q",
+      "Thomas Lennon",
+      "Robert Patrick",
+      "Terry Crews"
+    ],
+    "genres": [
+      "Comedy",
+      "Sports"
+    ]
+  },
+  "output": "movies/balls-of-fury.html"
+}

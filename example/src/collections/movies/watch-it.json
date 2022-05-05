@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Watch It",
+    "year": 1993,
+    "cast": [
+      "Peter Gallagher",
+      "Suzy Amis",
+      "John C. McGinley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/watch-it.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "First Monday in October",
+    "year": 1981,
+    "cast": [
+      "Walter Matthau",
+      "Jill Clayburgh",
+      "Barnard Hughes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/first-monday-in-october.html"
+}

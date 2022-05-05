@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Arsène Lupin",
+    "year": 1932,
+    "cast": [
+      "John Barrymore",
+      "Lionel Barrymore"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/ars-ne-lupin.html"
+}

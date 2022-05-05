@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kismet",
+    "year": 1955,
+    "cast": [
+      "Howard Keel",
+      "Ann Blyth",
+      "Dolores Gray"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/kismet.html"
+}

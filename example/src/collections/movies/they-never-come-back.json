@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "They Never Come Back",
+    "year": 1932,
+    "cast": [
+      "Regis Toomey",
+      "Dorothy Sebastian"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/they-never-come-back.html"
+}

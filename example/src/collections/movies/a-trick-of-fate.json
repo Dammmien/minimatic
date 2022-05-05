@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Trick of Fate",
+    "year": 1919,
+    "cast": [
+      "Bessie Barriscale",
+      "Gayne Whitman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-trick-of-fate.html"
+}

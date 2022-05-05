@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "The Five-Year Engagement",
+    "year": 2012,
+    "cast": [
+      "Jason Segel",
+      "Emily Blunt",
+      "Alison Brie",
+      "Rhys Ifans",
+      "Chris Pratt",
+      "Kevin Hart",
+      "Mindy Kaling",
+      "Chris Parnell",
+      "Dakota Johnson",
+      "David Paymer",
+      "Mimi Kennedy",
+      "Brian Posehn",
+      "Jacki Weaver"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-five-year-engagement.html"
+}

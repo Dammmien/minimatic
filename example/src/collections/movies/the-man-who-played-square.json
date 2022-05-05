@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man Who Played Square",
+    "year": 1924,
+    "cast": [
+      "Buck Jones",
+      "Wanda Hawley"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-man-who-played-square.html"
+}

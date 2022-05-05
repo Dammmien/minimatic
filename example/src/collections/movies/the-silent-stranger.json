@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Silent Stranger",
+    "year": 1924,
+    "cast": [
+      "Fred Thomson",
+      "Hazel Keener"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-silent-stranger.html"
+}

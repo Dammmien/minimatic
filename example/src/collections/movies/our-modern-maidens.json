@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Our Modern Maidens",
+    "year": 1929,
+    "cast": [
+      "Joan Crawford",
+      "Douglas Fairbanks Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/our-modern-maidens.html"
+}

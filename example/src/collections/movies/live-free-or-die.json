@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Live Free or Die",
+    "year": 2006,
+    "cast": [
+      "Aaron Stanford",
+      "Paul Schneider",
+      "Michael Rapaport"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/live-free-or-die.html"
+}

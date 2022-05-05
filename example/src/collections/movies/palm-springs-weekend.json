@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Palm Springs Weekend",
+    "year": 1963,
+    "cast": [
+      "Troy Donahue",
+      "Stefanie Powers",
+      "Connie Stevens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/palm-springs-weekend.html"
+}

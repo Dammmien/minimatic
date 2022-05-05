@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sea of Lost Ships",
+    "year": 1953,
+    "cast": [
+      "John Derek",
+      "Wanda Hendrix"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sea-of-lost-ships.html"
+}

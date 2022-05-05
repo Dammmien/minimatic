@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flowing Gold",
+    "year": 1940,
+    "cast": [
+      "John Garfield",
+      "Frances Farmer",
+      "Pat O'Brien"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/flowing-gold.html"
+}

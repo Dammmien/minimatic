@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Land of the Blind",
+    "year": 2006,
+    "cast": [
+      "Donald Sutherland",
+      "Ralph Fiennes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/land-of-the-blind.html"
+}

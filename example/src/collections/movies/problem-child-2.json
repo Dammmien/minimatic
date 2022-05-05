@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Problem Child 2",
+    "year": 1991,
+    "cast": [
+      "John Ritter",
+      "Michael Oliver",
+      "Amy Yasbeck",
+      "Jack Warden",
+      "Laraine Newman",
+      "Ivyann Schwan",
+      "Gilbert Gottfried"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/problem-child-2.html"
+}

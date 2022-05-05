@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Road to the Big House",
+    "year": 1947,
+    "cast": [
+      "John Shelton",
+      "Ann Doran"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/road-to-the-big-house.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Highlander III: The Sorcerer",
+    "year": 1994,
+    "cast": [
+      "Christopher Lambert",
+      "Mario van Peebles"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/highlander-iii--the-sorcerer.html"
+}

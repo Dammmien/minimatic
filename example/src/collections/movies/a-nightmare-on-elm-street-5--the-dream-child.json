@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "A Nightmare on Elm Street 5: The Dream Child",
+    "year": 1989,
+    "cast": [
+      "Robert Englund"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/a-nightmare-on-elm-street-5--the-dream-child.html"
+}

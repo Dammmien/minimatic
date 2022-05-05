@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ace of the Saddle",
+    "year": 1919,
+    "cast": [
+      "Harry Carey",
+      "Peggy Pearce"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/ace-of-the-saddle.html"
+}

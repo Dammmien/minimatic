@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The World Aflame",
+    "year": 1919,
+    "cast": [
+      "Frank Keenan",
+      "Kathleen Kerrigan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-world-aflame.html"
+}

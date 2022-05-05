@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Henry Aldrich Plays Cupid",
+    "year": 1944,
+    "cast": [
+      "Jimmy Lydon",
+      "Charles Smith",
+      "John Litel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/henry-aldrich-plays-cupid.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Faith of the Strong",
+    "year": 1919,
+    "cast": [
+      "Mitchell Lewis",
+      "Margaret Gibson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-faith-of-the-strong.html"
+}

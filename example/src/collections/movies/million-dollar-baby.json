@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Million Dollar Baby",
+    "year": 2004,
+    "cast": [
+      "Clint Eastwood",
+      "Hilary Swank",
+      "Morgan Freeman",
+      "Jay Baruchel",
+      "Anthony Mackie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/million-dollar-baby.html"
+}

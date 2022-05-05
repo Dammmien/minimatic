@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lights of New York",
+    "year": 1922,
+    "cast": [
+      "Estelle Taylor",
+      "Charles K. Gerrard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lights-of-new-york.html"
+}

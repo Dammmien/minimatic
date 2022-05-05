@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flicka",
+    "year": 2006,
+    "cast": [
+      "Alison Lohman",
+      "Tim McGraw",
+      "Maria Bello"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/flicka.html"
+}

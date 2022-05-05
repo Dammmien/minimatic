@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gable and Lombard",
+    "year": 1976,
+    "cast": [
+      "James Brolin",
+      "Jill Clayburgh"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/gable-and-lombard.html"
+}

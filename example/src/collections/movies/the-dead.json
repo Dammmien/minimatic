@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Dead",
+    "year": 1987,
+    "cast": [
+      "Anjelica Huston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-dead.html"
+}

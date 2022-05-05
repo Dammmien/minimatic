@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "America, America",
+    "year": 1963,
+    "cast": [
+      "Frank Wolff",
+      "Stathis Giallelis",
+      "Lou Antonio",
+      "Joanna Frank"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/america--america.html"
+}

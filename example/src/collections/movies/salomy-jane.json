@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Salomy Jane",
+    "year": 1923,
+    "cast": [
+      "Jacqueline Logan",
+      "George Fawcett"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/salomy-jane.html"
+}

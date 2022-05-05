@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Good Luck, Mr. Yates",
+    "year": 1943,
+    "cast": [
+      "Claire Trevor",
+      "Jess Barker"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/good-luck--mr--yates.html"
+}

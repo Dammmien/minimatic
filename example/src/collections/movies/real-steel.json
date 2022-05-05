@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Real Steel",
+    "year": 2011,
+    "cast": [
+      "Hugh Jackman",
+      "Dakota Goyo",
+      "Evangeline Lilly",
+      "Kevin Durand",
+      "Anthony Mackie",
+      "James Rebhorn",
+      "Rima Fakih",
+      "Rick Yune"
+    ],
+    "genres": [
+      "Action",
+      "Drama"
+    ]
+  },
+  "output": "movies/real-steel.html"
+}

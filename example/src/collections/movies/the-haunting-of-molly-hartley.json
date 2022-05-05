@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Haunting of Molly Hartley",
+    "year": 2008,
+    "cast": [
+      "Haley Bennett",
+      "Chace Crawford",
+      "AnnaLynne McCord",
+      "Shannon Marie Woodward"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-haunting-of-molly-hartley.html"
+}

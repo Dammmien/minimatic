@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Devil's Lottery",
+    "year": 1932,
+    "cast": [
+      "Elissa Landi",
+      "Victor McLaglen",
+      "Paul Cavanagh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/devil-s-lottery.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Battling Butler",
+    "year": 1926,
+    "cast": [
+      "Buster Keaton",
+      "Sally O'Neil"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/battling-butler.html"
+}

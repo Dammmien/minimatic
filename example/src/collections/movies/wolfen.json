@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wolfen",
+    "year": 1981,
+    "cast": [
+      "Albert Finney",
+      "Gregory Hines"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/wolfen.html"
+}

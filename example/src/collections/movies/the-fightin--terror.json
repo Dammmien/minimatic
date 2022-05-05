@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Fightin' Terror",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fightin--terror.html"
+}

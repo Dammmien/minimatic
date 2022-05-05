@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Green Fire",
+    "year": 1954,
+    "cast": [
+      "Grace Kelly",
+      "Stewart Granger",
+      "Paul Douglas"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/green-fire.html"
+}

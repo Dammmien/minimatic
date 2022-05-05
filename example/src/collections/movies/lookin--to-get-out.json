@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lookin' to Get Out",
+    "year": 1982,
+    "cast": [
+      "Jon Voight",
+      "Ann-Margret",
+      "Burt Young"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/lookin--to-get-out.html"
+}

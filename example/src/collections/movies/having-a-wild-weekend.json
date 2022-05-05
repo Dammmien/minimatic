@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Having a Wild Weekend",
+    "year": 1965,
+    "cast": [
+      "The Dave Clark Five"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/having-a-wild-weekend.html"
+}

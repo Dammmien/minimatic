@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "High School Hero",
+    "year": 1946,
+    "cast": [
+      "Freddie Stewart",
+      "June Preisser",
+      "Noel Neill"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/high-school-hero.html"
+}

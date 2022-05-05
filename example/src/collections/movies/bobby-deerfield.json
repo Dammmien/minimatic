@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bobby Deerfield",
+    "year": 1977,
+    "cast": [
+      "Al Pacino",
+      "Marthe Keller"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bobby-deerfield.html"
+}

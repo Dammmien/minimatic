@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "When Eagles Strike",
+    "year": 2003,
+    "cast": [
+      "Christian Boeving",
+      "Stacy Keach"
+    ],
+    "genres": [
+      "Action",
+      "War"
+    ]
+  },
+  "output": "movies/when-eagles-strike.html"
+}

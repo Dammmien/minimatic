@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Missing",
+    "year": 1982,
+    "cast": [
+      "Jack Lemmon",
+      "Sissy Spacek",
+      "John Shea"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/missing.html"
+}

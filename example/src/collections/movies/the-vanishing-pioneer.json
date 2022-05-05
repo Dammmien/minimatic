@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Vanishing Pioneer",
+    "year": 1928,
+    "cast": [
+      "Jack Holt",
+      "Sally Blane",
+      "William Powell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-vanishing-pioneer.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Law of the West",
+    "year": 1949,
+    "cast": [
+      "Johnny Mack Brown",
+      "Max Terhune"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/law-of-the-west.html"
+}

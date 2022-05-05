@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beau Sabreur",
+    "year": 1928,
+    "cast": [
+      "Gary Cooper",
+      "Evelyn Brent",
+      "Noah Beery"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/beau-sabreur.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Time of Your Life",
+    "year": 1948,
+    "cast": [
+      "James Cagney",
+      "William Bendix",
+      "Wayne Morris",
+      "Jeanne Cagney"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-time-of-your-life.html"
+}

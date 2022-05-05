@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Whispering Footsteps",
+    "year": 1943,
+    "cast": [
+      "John Hubbard",
+      "Rita Quigley"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/whispering-footsteps.html"
+}

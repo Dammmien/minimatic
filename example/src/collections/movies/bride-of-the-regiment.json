@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bride of the Regiment",
+    "year": 1930,
+    "cast": [
+      "Vivienne Segal",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/bride-of-the-regiment.html"
+}

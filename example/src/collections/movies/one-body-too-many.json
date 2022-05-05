@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One Body Too Many",
+    "year": 1944,
+    "cast": [
+      "Bela Lugosi",
+      "Jean Parker"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-body-too-many.html"
+}

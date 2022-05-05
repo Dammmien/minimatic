@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Never Say Quit",
+    "year": 1919,
+    "cast": [
+      "George Walsh",
+      "Jean Acker"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/never-say-quit.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Midnight Lady",
+    "year": 1932,
+    "cast": [
+      "Sarah Padden",
+      "John Darrow"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-midnight-lady.html"
+}

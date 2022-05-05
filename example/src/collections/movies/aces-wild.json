@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Aces Wild",
+    "year": 1936,
+    "cast": [
+      "Harry Carey",
+      "Gertrude Messinger"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/aces-wild.html"
+}

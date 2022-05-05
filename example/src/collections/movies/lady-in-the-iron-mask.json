@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lady in the Iron Mask",
+    "year": 1952,
+    "cast": [
+      "Patricia Medina",
+      "Louis Hayward"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/lady-in-the-iron-mask.html"
+}

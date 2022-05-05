@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Frankenstein Unbound",
+    "year": 1990,
+    "cast": [
+      "John Hurt",
+      "Raúl Juliá",
+      "Bridget Fonda"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/frankenstein-unbound.html"
+}

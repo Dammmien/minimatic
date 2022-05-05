@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Chocolate Soldier",
+    "year": 1941,
+    "cast": [
+      "Nelson Eddy",
+      "Risë Stevens",
+      "Nigel Bruce"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-chocolate-soldier.html"
+}

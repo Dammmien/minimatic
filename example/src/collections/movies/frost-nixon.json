@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Frost/Nixon",
+    "year": 2008,
+    "cast": [
+      "Frank Langella",
+      "Michael Sheen",
+      "Kevin Bacon",
+      "Sam Rockwell",
+      "Toby Jones",
+      "Oliver Platt",
+      "Rebecca Hall"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/frost-nixon.html"
+}

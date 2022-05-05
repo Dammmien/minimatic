@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dr. Jack",
+    "year": 1922,
+    "cast": [
+      "Harold Lloyd",
+      "Mildred Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dr--jack.html"
+}

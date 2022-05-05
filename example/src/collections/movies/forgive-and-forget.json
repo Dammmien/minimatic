@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Forgive and Forget",
+    "year": 1923,
+    "cast": [
+      "Estelle Taylor",
+      "Pauline Garon"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/forgive-and-forget.html"
+}

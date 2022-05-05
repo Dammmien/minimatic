@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "High Time",
+    "year": 1960,
+    "cast": [
+      "Bing Crosby",
+      "Fabian",
+      "Tuesday Weld",
+      "Nicole Maurey"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/high-time.html"
+}

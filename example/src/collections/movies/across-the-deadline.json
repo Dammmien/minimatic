@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Across the Deadline",
+    "year": 1922,
+    "cast": [
+      "Frank Mayo",
+      "Russell Simpson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/across-the-deadline.html"
+}

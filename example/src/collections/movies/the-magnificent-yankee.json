@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Magnificent Yankee",
+    "year": 1951,
+    "cast": [
+      "Louis Calhern",
+      "Ann Harding"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-magnificent-yankee.html"
+}

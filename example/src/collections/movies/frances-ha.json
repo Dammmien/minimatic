@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Frances Ha",
+    "year": 2013,
+    "cast": [
+      "Greta Gerwig",
+      "Mickey Summer",
+      "Adam Driver"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/frances-ha.html"
+}

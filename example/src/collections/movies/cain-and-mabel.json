@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cain and Mabel",
+    "year": 1936,
+    "cast": [
+      "Marion Davies",
+      "Clark Gable",
+      "Allen Jenkins"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/cain-and-mabel.html"
+}

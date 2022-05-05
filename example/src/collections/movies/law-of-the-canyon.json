@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Law of the Canyon",
+    "year": 1947,
+    "cast": [
+      "Charles Starrett",
+      "Nancy Saunders"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/law-of-the-canyon.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell's Half Acre",
+    "year": 1954,
+    "cast": [
+      "Evelyn Keyes",
+      "Wendell Corey"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/hell-s-half-acre.html"
+}

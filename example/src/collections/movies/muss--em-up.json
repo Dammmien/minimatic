@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Muss 'Em Up",
+    "year": 1936,
+    "cast": [
+      "Preston Foster",
+      "Margaret Callahan"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/muss--em-up.html"
+}

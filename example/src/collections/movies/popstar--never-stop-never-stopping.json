@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Popstar: Never Stop Never Stopping",
+    "year": 2016,
+    "cast": [
+      "Andy Samberg"
+    ],
+    "genres": [
+      "Satire",
+      "Comedy"
+    ]
+  },
+  "output": "movies/popstar--never-stop-never-stopping.html"
+}

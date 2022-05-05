@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Unfaithful",
+    "year": 1947,
+    "cast": [
+      "Ann Sheridan",
+      "Lew Ayres"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-unfaithful.html"
+}

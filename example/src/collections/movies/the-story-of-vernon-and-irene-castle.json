@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Story of Vernon and Irene Castle",
+    "year": 1939,
+    "cast": [
+      "Fred Astaire",
+      "Ginger Rogers",
+      "Edna May Oliver",
+      "Walter Brennan"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-story-of-vernon-and-irene-castle.html"
+}

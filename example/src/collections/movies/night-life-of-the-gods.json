@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Night Life of the Gods",
+    "year": 1935,
+    "cast": [
+      "Alan Mowbray",
+      "Gilbert Emery",
+      "Henry Armetta"
+    ],
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/night-life-of-the-gods.html"
+}

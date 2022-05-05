@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Esther and the King",
+    "year": 1960,
+    "cast": [
+      "Joan Collins",
+      "Richard Egan",
+      "Denis O'Dea"
+    ],
+    "genres": []
+  },
+  "output": "movies/esther-and-the-king.html"
+}

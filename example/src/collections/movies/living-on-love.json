@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Living on Love",
+    "year": 1937,
+    "cast": [
+      "Whitney Bourne",
+      "Joan Woodbury",
+      "James Dunn"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/living-on-love.html"
+}

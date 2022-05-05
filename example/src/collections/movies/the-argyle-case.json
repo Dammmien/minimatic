@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Argyle Case",
+    "year": 1929,
+    "cast": [
+      "Thomas Meighan",
+      "H. B. Warner",
+      "Lila Lee"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-argyle-case.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sheba, Baby",
+    "year": 1975,
+    "cast": [
+      "Pam Grier",
+      "D'Urville Martin"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/sheba--baby.html"
+}

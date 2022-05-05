@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Angel and the Badman",
+    "year": 1947,
+    "cast": [
+      "John Wayne",
+      "Gail Russell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/angel-and-the-badman.html"
+}

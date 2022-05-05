@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Peacemaker",
+    "year": 1997,
+    "cast": [
+      "George Clooney",
+      "Nicole Kidman"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-peacemaker.html"
+}

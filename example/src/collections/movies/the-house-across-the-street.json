@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The House Across the Street",
+    "year": 1949,
+    "cast": [
+      "Wayne Morris",
+      "Janis Paige"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-house-across-the-street.html"
+}

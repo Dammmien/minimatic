@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Little Romance",
+    "year": 1979,
+    "cast": [
+      "Laurence Olivier",
+      "Sally Kellerman",
+      "Diane Lane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-little-romance.html"
+}

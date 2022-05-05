@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "They Wanted to Marry",
+    "year": 1937,
+    "cast": [
+      "Betty Furness",
+      "Gordon Jones"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/they-wanted-to-marry.html"
+}

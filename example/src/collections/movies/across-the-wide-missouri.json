@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Across the Wide Missouri",
+    "year": 1951,
+    "cast": [
+      "Clark Gable",
+      "Ricardo Montalban",
+      "Adolphe Menjou",
+      "María Elena Marqués"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/across-the-wide-missouri.html"
+}

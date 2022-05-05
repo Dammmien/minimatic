@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Don't Bet on Blondes",
+    "year": 1935,
+    "cast": [
+      "Warren William",
+      "Claire Dodd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/don-t-bet-on-blondes.html"
+}

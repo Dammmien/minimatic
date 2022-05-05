@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beautiful Stranger",
+    "year": 1954,
+    "cast": [
+      "Ginger Rogers",
+      "Herbert Lom",
+      "Stanley Baker"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/beautiful-stranger.html"
+}

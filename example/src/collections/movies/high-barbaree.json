@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "High Barbaree",
+    "year": 1947,
+    "cast": [
+      "Van Johnson",
+      "June Allyson"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/high-barbaree.html"
+}

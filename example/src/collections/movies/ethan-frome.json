@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ethan Frome",
+    "year": 1993,
+    "cast": [
+      "Liam Neeson",
+      "Patricia Arquette",
+      "Joan Allen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ethan-frome.html"
+}

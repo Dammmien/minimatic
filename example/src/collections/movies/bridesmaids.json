@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Bridesmaids",
+    "year": 2011,
+    "cast": [
+      "Kristen Wiig",
+      "Maya Rudolph",
+      "Rose Byrne",
+      "Wendi McLendon-Covey",
+      "Ellie Kemper",
+      "Melissa McCarthy",
+      "Chris O'Dowd",
+      "Jon Hamm",
+      "Matt Lucas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bridesmaids.html"
+}

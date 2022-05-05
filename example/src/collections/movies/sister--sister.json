@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sister, Sister",
+    "year": 1987,
+    "cast": [
+      "Jennifer Jason Leigh",
+      "Judith Ivey"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/sister--sister.html"
+}

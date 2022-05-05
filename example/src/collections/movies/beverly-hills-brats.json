@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beverly Hills Brats",
+    "year": 1989,
+    "cast": [
+      "Peter Billingsley",
+      "Martin Sheen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/beverly-hills-brats.html"
+}

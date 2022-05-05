@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Spanish Prisoner",
+    "year": 1997,
+    "cast": [
+      "Campbell Scott",
+      "Steve Martin",
+      "Rebecca Pidgeon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-spanish-prisoner.html"
+}

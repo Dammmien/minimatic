@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Signed Judgment",
+    "year": 1944,
+    "cast": [
+      "Charles Starrett",
+      "Vi Athens",
+      "Dub Taylor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/signed-judgment.html"
+}

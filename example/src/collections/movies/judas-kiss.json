@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Judas Kiss",
+    "year": 1998,
+    "cast": [
+      "Alan Rickman",
+      "Emma Thompson",
+      "Roscoe Lee Browne",
+      "Carla Gugino"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/judas-kiss.html"
+}

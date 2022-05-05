@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "University Heights",
+    "year": 2004,
+    "cast": [
+      "Jim Siokos",
+      "Shane Simmons",
+      "Travis Shepherd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/university-heights.html"
+}

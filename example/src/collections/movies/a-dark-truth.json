@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "A Dark Truth",
+    "year": 2013,
+    "cast": [
+      "Andy García",
+      "Kim Coates",
+      "Deborah Kara Unger",
+      "Kevin Durand",
+      "Lara Daans",
+      "Devon Bostick",
+      "Steven Bauer",
+      "Al Sapienza",
+      "Julio Mechoso",
+      "Eva Longoria",
+      "Forest Whitaker"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/a-dark-truth.html"
+}

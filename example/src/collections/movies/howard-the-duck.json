@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Howard the Duck",
+    "year": 1986,
+    "cast": [
+      "Lea Thompson",
+      "Jeffrey Jones",
+      "Tim Robbins"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Comedy"
+    ]
+  },
+  "output": "movies/howard-the-duck.html"
+}

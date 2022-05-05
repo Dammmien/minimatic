@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Diamond Safari",
+    "year": 1958,
+    "cast": [
+      "Kevin McCarthy",
+      "Andre Morrell"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/diamond-safari.html"
+}

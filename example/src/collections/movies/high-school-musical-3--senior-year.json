@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "High School Musical 3: Senior Year",
+    "year": 2008,
+    "cast": [
+      "Zac Efron",
+      "Vanessa Hudgens",
+      "Ashley Tisdale",
+      "Corbin Bleu"
+    ],
+    "genres": [
+      "Musical",
+      "Family"
+    ]
+  },
+  "output": "movies/high-school-musical-3--senior-year.html"
+}

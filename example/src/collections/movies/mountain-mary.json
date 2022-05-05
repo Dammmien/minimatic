@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "Mountain Mary",
+    "year": 1915,
+    "cast": [
+      "Louise Lester"
+    ],
+    "genres": []
+  },
+  "output": "movies/mountain-mary.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Misleading Widow",
+    "year": 1919,
+    "cast": [
+      "Billie Burke",
+      "Madelyn Clare"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-misleading-widow.html"
+}

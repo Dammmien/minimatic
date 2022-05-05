@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blind Spot",
+    "year": 1947,
+    "cast": [
+      "Chester Morris",
+      "Constance Dowling"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/blind-spot.html"
+}

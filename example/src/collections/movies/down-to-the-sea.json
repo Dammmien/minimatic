@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Down to the Sea",
+    "year": 1936,
+    "cast": [
+      "Ben Lyon",
+      "Ann Rutherford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/down-to-the-sea.html"
+}

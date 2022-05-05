@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Somewhere in Time",
+    "year": 1980,
+    "cast": [
+      "Christopher Reeve",
+      "Jane Seymour"
+    ],
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ]
+  },
+  "output": "movies/somewhere-in-time.html"
+}

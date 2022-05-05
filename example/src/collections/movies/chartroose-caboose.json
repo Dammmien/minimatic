@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Chartroose Caboose",
+    "year": 1960,
+    "cast": [
+      "Molly Bee",
+      "Ben Cooper"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/chartroose-caboose.html"
+}

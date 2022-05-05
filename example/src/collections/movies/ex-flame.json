@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ex-Flame",
+    "year": 1930,
+    "cast": [
+      "Neil Hamilton",
+      "Marian Nixon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ex-flame.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wise Guy",
+    "year": 1926,
+    "cast": [
+      "Mary Astor",
+      "Betty Compson"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-wise-guy.html"
+}

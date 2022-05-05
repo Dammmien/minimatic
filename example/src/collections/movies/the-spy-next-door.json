@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Spy Next Door",
+    "year": 2010,
+    "cast": [
+      "Jackie Chan",
+      "Amber Valletta",
+      "Madeline Carroll",
+      "Will Shadley",
+      "Magnús Scheving",
+      "Billy Ray Cyrus",
+      "George Lopez"
+    ],
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/the-spy-next-door.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Outlaws of Sonora",
+    "year": 1938,
+    "cast": [
+      "Robert Livingston",
+      "Ray Corrigan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/outlaws-of-sonora.html"
+}

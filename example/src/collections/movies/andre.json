@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Andre",
+    "year": 1994,
+    "cast": [
+      "Keith Carradine",
+      "Tina Majorino"
+    ],
+    "genres": [
+      "Family",
+      "Drama"
+    ]
+  },
+  "output": "movies/andre.html"
+}

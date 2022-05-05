@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mabel at the Wheel",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Mabel Normand"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mabel-at-the-wheel.html"
+}

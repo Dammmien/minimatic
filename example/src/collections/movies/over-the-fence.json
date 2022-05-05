@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Over the Fence",
+    "year": 1917,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/over-the-fence.html"
+}

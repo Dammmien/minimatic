@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Vigilantes Return",
+    "year": 1947,
+    "cast": [
+      "Jon Hall",
+      "Margaret Lindsay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-vigilantes-return.html"
+}

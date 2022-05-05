@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Halloween H20: 20 Years Later",
+    "year": 1998,
+    "cast": [
+      "Jamie Lee Curtis",
+      "Adam Arkin",
+      "Michelle Williams",
+      "Josh Hartnett",
+      "LL Cool J",
+      "Joseph Gordon-Levitt",
+      "Jodi Lyn O'Keefe"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/halloween-h20--20-years-later.html"
+}

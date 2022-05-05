@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rachel Getting Married",
+    "year": 2008,
+    "cast": [
+      "Anne Hathaway",
+      "Debra Winger",
+      "Rosemarie DeWitt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rachel-getting-married.html"
+}

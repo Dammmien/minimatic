@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wild Company",
+    "year": 1930,
+    "cast": [
+      "Joyce Compton",
+      "H. B. Warner",
+      "Bela Lugosi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wild-company.html"
+}

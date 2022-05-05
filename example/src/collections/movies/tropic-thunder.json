@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Tropic Thunder",
+    "year": 2008,
+    "cast": [
+      "Ben Stiller",
+      "Jack Black",
+      "Robert Downey, Jr.",
+      "Steve Coogan",
+      "Nick Nolte",
+      "Tom Cruise"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tropic-thunder.html"
+}

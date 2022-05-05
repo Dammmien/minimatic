@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Beat Generation",
+    "year": 1959,
+    "cast": [
+      "Mamie Van Doren",
+      "Ray Danton",
+      "Fay Spain"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-beat-generation.html"
+}

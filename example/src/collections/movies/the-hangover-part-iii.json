@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Hangover Part III",
+    "year": 2013,
+    "cast": [
+      "Bradley Cooper",
+      "Ed Helms",
+      "Zach Galifianakis",
+      "Ken Jeong",
+      "Heather Graham",
+      "Jeffrey Tambor",
+      "Justin Bartha",
+      "John Goodman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-hangover-part-iii.html"
+}

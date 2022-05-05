@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Main Street Kid",
+    "year": 1948,
+    "cast": [
+      "Al Pearce",
+      "Alan Mowbray",
+      "Adele Mara"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-main-street-kid.html"
+}

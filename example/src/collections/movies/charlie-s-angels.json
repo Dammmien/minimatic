@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Charlie's Angels",
+    "year": 2000,
+    "cast": [
+      "Drew Barrymore",
+      "Cameron Diaz",
+      "Lucy Liu",
+      "Bill Murray",
+      "Sam Rockwell",
+      "Tim Curry",
+      "Crispin Glover"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/charlie-s-angels.html"
+}

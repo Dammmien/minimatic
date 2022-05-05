@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Deuce Bigalow: Male Gigolo",
+    "year": 1999,
+    "cast": [
+      "Rob Schneider"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/deuce-bigalow--male-gigolo.html"
+}

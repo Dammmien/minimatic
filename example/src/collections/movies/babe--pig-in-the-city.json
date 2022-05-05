@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Babe: Pig in the City",
+    "year": 1998,
+    "cast": [
+      "James Cromwell",
+      "Magda Szubanski",
+      "Mickey Rooney"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/babe--pig-in-the-city.html"
+}

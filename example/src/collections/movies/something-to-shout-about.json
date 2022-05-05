@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Something to Shout About",
+    "year": 1943,
+    "cast": [
+      "Don Ameche",
+      "Janet Blair"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/something-to-shout-about.html"
+}

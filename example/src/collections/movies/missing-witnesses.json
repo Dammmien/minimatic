@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Missing Witnesses",
+    "year": 1937,
+    "cast": [
+      "John Litel",
+      "Dick Purcell",
+      "Sheila Bromley"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/missing-witnesses.html"
+}

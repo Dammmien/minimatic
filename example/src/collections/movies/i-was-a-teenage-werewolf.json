@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Was a Teenage Werewolf",
+    "year": 1957,
+    "cast": [
+      "Michael Landon",
+      "Whit Bissell"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/i-was-a-teenage-werewolf.html"
+}

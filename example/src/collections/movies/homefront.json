@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Homefront",
+    "year": 2013,
+    "cast": [
+      "Jason Statham",
+      "James Franco",
+      "Winona Ryder",
+      "Kate Bosworth",
+      "Rachelle Lefevre",
+      "Frank Grillo",
+      "Clancy Brown",
+      "Izabela Vidovic"
+    ],
+    "genres": [
+      "Action",
+      "Drama"
+    ]
+  },
+  "output": "movies/homefront.html"
+}

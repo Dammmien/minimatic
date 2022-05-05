@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Million Dollar Hotel",
+    "year": 2000,
+    "cast": [
+      "Jeremy Davies",
+      "Milla Jovovich",
+      "Mel Gibson",
+      "Jimmy Smits"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-million-dollar-hotel.html"
+}

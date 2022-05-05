@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Final Cut",
+    "year": 2004,
+    "cast": [
+      "Robin Williams",
+      "Mira Sorvino",
+      "Jim Caviezel"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-final-cut.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Spawn of the North",
+    "year": 1938,
+    "cast": [
+      "George Raft",
+      "Henry Fonda",
+      "Dorothy Lamour"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/spawn-of-the-north.html"
+}

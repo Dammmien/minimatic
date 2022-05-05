@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting for Justice",
+    "year": 1932,
+    "cast": [
+      "Tim McCoy",
+      "Joyce Compton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fighting-for-justice.html"
+}

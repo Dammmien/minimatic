@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "American Gigolo",
+    "year": 1980,
+    "cast": [
+      "Richard Gere",
+      "Lauren Hutton",
+      "Héctor Elizondo"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/american-gigolo.html"
+}

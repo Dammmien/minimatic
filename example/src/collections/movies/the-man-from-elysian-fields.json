@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Man from Elysian Fields",
+    "year": 2002,
+    "cast": [
+      "Andy García",
+      "Mick Jagger",
+      "Olivia Williams",
+      "James Coburn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-from-elysian-fields.html"
+}

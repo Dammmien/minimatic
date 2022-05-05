@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Straight Time",
+    "year": 1978,
+    "cast": [
+      "Dustin Hoffman",
+      "Theresa Russell",
+      "Gary Busey"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/straight-time.html"
+}

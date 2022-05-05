@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Primrose Path",
+    "year": 1940,
+    "cast": [
+      "Ginger Rogers",
+      "Joel McCrea",
+      "Marjorie Rambeau"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/primrose-path.html"
+}

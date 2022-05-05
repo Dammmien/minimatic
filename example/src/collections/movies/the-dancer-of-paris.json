@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dancer of Paris",
+    "year": 1926,
+    "cast": [
+      "Conway Tearle",
+      "Dorothy Mackaill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-dancer-of-paris.html"
+}

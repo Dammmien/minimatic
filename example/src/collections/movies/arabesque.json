@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Arabesque",
+    "year": 1966,
+    "cast": [
+      "Gregory Peck",
+      "Sophia Loren"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/arabesque.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I'm Gonna Git You Sucka",
+    "year": 1988,
+    "cast": [
+      "Jim Brown",
+      "Isaac Hayes",
+      "Bernie Casey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-m-gonna-git-you-sucka.html"
+}

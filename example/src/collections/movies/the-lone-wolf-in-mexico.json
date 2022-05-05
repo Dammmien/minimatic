@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lone Wolf in Mexico",
+    "year": 1947,
+    "cast": [
+      "Gerald Mohr",
+      "Jacqueline deWit"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-lone-wolf-in-mexico.html"
+}

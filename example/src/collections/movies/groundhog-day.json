@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Groundhog Day",
+    "year": 1993,
+    "cast": [
+      "Bill Murray",
+      "Andie MacDowell",
+      "Chris Elliott",
+      "Brian Doyle Murray"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/groundhog-day.html"
+}

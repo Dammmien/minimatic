@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dangerous Beauty",
+    "year": 1998,
+    "cast": [
+      "Catherine McCormack",
+      "Oliver Platt",
+      "Fred Ward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dangerous-beauty.html"
+}

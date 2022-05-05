@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Band Plays On",
+    "year": 1934,
+    "cast": [
+      "Robert Young",
+      "Stuart Erwin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-band-plays-on.html"
+}

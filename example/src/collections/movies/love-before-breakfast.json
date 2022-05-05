@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love Before Breakfast",
+    "year": 1936,
+    "cast": [
+      "Carole Lombard",
+      "Cesar Romero",
+      "Preston Foster"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-before-breakfast.html"
+}

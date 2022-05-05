@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sex Hygiene",
+    "year": 1942,
+    "cast": [
+      "George Reeves",
+      "Richard Derr"
+    ],
+    "genres": [
+      "Documentary",
+      "Drama"
+    ]
+  },
+  "output": "movies/sex-hygiene.html"
+}

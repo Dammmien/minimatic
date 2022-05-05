@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Magenta",
+    "year": 1996,
+    "cast": [
+      "Julian McMahon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/magenta.html"
+}

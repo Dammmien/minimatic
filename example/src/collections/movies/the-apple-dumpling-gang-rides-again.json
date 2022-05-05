@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Apple Dumpling Gang Rides Again",
+    "year": 1979,
+    "cast": [
+      "Tim Conway",
+      "Don Knotts",
+      "Tim Matheson"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-apple-dumpling-gang-rides-again.html"
+}

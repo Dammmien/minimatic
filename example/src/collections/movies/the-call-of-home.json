@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Call of Home",
+    "year": 1922,
+    "cast": [
+      "Léon Bary",
+      "Irene Rich"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-call-of-home.html"
+}

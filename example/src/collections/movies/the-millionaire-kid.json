@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Millionaire Kid",
+    "year": 1936,
+    "cast": [
+      "Bryant Washburn",
+      "Betty Compson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-millionaire-kid.html"
+}

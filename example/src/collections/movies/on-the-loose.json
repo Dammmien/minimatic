@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "On the Loose",
+    "year": 1951,
+    "cast": [
+      "Joan Evans",
+      "Melvyn Douglas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/on-the-loose.html"
+}

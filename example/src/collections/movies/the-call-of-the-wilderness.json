@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Call of the Wilderness",
+    "year": 1926,
+    "cast": [
+      "Edna Marion",
+      "Lewis Sargent"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-call-of-the-wilderness.html"
+}

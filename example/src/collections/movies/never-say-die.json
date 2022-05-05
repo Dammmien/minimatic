@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Never Say Die",
+    "year": 1939,
+    "cast": [
+      "Martha Raye",
+      "Bob Hope"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/never-say-die.html"
+}

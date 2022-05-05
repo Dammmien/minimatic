@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sinners in Love",
+    "year": 1928,
+    "cast": [
+      "Olive Borden",
+      "Huntley Gordon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sinners-in-love.html"
+}

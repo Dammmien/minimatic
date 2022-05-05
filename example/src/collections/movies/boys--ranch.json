@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Boys' Ranch",
+    "year": 1946,
+    "cast": [
+      "Butch Jenkins",
+      "James Craig",
+      "Dorothy Patrick"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/boys--ranch.html"
+}

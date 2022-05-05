@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Warriors",
+    "year": 1979,
+    "cast": [
+      "James Remar",
+      "Michael Beck",
+      "David Patrick Kelly",
+      "Dorsey Wright",
+      "Lynne Thigpen"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-warriors.html"
+}

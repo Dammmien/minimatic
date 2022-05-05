@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Winter's Bone",
+    "year": 2010,
+    "cast": [
+      "Jennifer Lawrence",
+      "John Hawkes",
+      "Kevin Breznahan",
+      "Dale Dickey",
+      "Garret Dillahunt",
+      "Sheryl Lee",
+      "Shelley Waggener",
+      "Laura Sweetser"
+    ],
+    "genres": [
+      "Drama",
+      "Suspense",
+      "Thriller"
+    ]
+  },
+  "output": "movies/winter-s-bone.html"
+}

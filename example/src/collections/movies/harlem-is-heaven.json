@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Harlem Is Heaven",
+    "year": 1932,
+    "cast": [
+      "Anise Boyer",
+      "Bill Robinson",
+      "Eubie Blake"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/harlem-is-heaven.html"
+}

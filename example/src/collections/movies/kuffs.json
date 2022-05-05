@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kuffs",
+    "year": 1992,
+    "cast": [
+      "Christian Slater",
+      "Milla Jovovich",
+      "Bruce Boxleitner"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kuffs.html"
+}

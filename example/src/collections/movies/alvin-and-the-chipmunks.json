@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Alvin and the Chipmunks",
+    "year": 2007,
+    "cast": [
+      "Jason Lee",
+      "Ross Bagdasarian Jr.",
+      "Janice Karman",
+      "David Cross",
+      "Justin Long",
+      "Matthew Gray Gubler",
+      "Jesse McCartney"
+    ],
+    "genres": [
+      "Family",
+      "Musical"
+    ]
+  },
+  "output": "movies/alvin-and-the-chipmunks.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Crown of Lies",
+    "year": 1926,
+    "cast": [
+      "Pola Negri",
+      "Noah Beery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-crown-of-lies.html"
+}

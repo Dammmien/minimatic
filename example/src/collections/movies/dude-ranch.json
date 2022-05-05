@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dude Ranch",
+    "year": 1931,
+    "cast": [
+      "Jack Oakie",
+      "Stuart Erwin"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/dude-ranch.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Quantez",
+    "year": 1957,
+    "cast": [
+      "Fred MacMurray",
+      "Dorothy Malone"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/quantez.html"
+}

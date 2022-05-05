@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blue Hawaii",
+    "year": 1961,
+    "cast": [
+      "Elvis Presley",
+      "Joan Blackman",
+      "Angela Lansbury"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/blue-hawaii.html"
+}

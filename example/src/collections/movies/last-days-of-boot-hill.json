@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Last Days of Boot Hill",
+    "year": 1947,
+    "cast": [
+      "Charles Starrett",
+      "Paul Campbell"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/last-days-of-boot-hill.html"
+}

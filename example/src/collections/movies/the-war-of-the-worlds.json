@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The War of the Worlds",
+    "year": 1953,
+    "cast": [
+      "Gene Barry",
+      "Ann Robinson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-war-of-the-worlds.html"
+}

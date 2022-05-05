@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Life with Blondie",
+    "year": 1945,
+    "cast": [
+      "Penny Singleton",
+      "Arthur Lake"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/life-with-blondie.html"
+}

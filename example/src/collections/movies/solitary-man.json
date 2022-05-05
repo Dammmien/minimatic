@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Solitary Man",
+    "year": 2010,
+    "cast": [
+      "Michael Douglas",
+      "Mary-Louise Parker",
+      "Jenna Fischer",
+      "Jesse Eisenberg",
+      "Imogen Poots",
+      "Susan Sarandon",
+      "Danny DeVito"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/solitary-man.html"
+}

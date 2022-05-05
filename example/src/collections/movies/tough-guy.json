@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tough Guy",
+    "year": 1936,
+    "cast": [
+      "Jackie Cooper",
+      "Joseph Calleia"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/tough-guy.html"
+}

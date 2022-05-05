@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Religulous",
+    "year": 2008,
+    "cast": [
+      "organized religion and",
+      "religious belief"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/religulous.html"
+}

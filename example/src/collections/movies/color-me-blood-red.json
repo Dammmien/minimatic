@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Color Me Blood Red",
+    "year": 1965,
+    "cast": [
+      "Candi Conder",
+      "Gordon Oas-Heim"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/color-me-blood-red.html"
+}

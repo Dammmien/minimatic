@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Awakening",
+    "year": 1928,
+    "cast": [
+      "Vilma Bánky",
+      "Louis Wolheim"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-awakening.html"
+}

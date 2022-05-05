@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sleepy Lagoon",
+    "year": 1943,
+    "cast": [
+      "Judy Canova",
+      "Dennis Day"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sleepy-lagoon.html"
+}

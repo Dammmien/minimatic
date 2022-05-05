@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Mummy",
+    "year": 2017,
+    "cast": [
+      "Tom Cruise",
+      "Russell Crowe",
+      "Sofia Boutella",
+      "Annabelle Wallis",
+      "Jake Johnson",
+      "Marwan Kenzari",
+      "Courtney B. Vance"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Horror"
+    ]
+  },
+  "output": "movies/the-mummy.html"
+}

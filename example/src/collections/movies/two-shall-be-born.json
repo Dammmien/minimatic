@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two Shall Be Born",
+    "year": 1924,
+    "cast": [
+      "Jane Novak",
+      "Kenneth Harlan",
+      "Sigrid Holmquist"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/two-shall-be-born.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Money Train",
+    "year": 1995,
+    "cast": [
+      "Wesley Snipes",
+      "Woody Harrelson",
+      "Jennifer Lopez",
+      "Robert Blake",
+      "Chris Cooper"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/money-train.html"
+}

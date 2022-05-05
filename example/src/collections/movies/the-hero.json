@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hero",
+    "year": 1923,
+    "cast": [
+      "Gaston Glass",
+      "Barbara La Marr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hero.html"
+}

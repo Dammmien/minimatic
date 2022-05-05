@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Chronicle",
+    "year": 2012,
+    "cast": [
+      "Dane DeHaan",
+      "Michael B. Jordan",
+      "Alex Russell",
+      "Michael Kelly",
+      "Ashley Hinshaw",
+      "Anna Wood",
+      "Joe Vaz"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/chronicle.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Kid Galahad",
+    "year": 1962,
+    "cast": [
+      "Elvis Presley",
+      "Gig Young",
+      "Charles Bronson",
+      "Joan Blackman",
+      "Lola Albright",
+      "Edward Asner"
+    ],
+    "genres": [
+      "Musical",
+      "Drama"
+    ]
+  },
+  "output": "movies/kid-galahad.html"
+}

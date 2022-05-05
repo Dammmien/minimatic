@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Four Men and a Prayer",
+    "year": 1938,
+    "cast": [
+      "Loretta Young",
+      "David Niven",
+      "George Sanders"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/four-men-and-a-prayer.html"
+}

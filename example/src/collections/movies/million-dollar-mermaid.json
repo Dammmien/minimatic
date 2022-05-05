@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Million Dollar Mermaid",
+    "year": 1952,
+    "cast": [
+      "Victor Mature",
+      "Esther Williams"
+    ],
+    "genres": [
+      "Biography",
+      "Musical"
+    ]
+  },
+  "output": "movies/million-dollar-mermaid.html"
+}

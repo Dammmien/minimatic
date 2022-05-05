@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "The Tall Man",
+    "year": 2012,
+    "cast": [
+      "Jessica Biel",
+      "Jodelle Ferland",
+      "William B. Davis",
+      "Samantha Ferris",
+      "Colleen Wheeler",
+      "Garwin Sanford",
+      "Janet Wright",
+      "Eve Harlow",
+      "John Mann",
+      "Teach Grant",
+      "Ferne Downey",
+      "introducing",
+      "Jakob Davies",
+      "and",
+      "Stephen McHattie"
+    ],
+    "genres": [
+      "Horror",
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-tall-man.html"
+}

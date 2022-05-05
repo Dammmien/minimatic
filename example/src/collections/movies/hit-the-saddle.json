@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hit the Saddle",
+    "year": 1937,
+    "cast": [
+      "Robert Livingston",
+      "Rita Hayworth"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hit-the-saddle.html"
+}

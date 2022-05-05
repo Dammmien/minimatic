@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beware! The Blob",
+    "year": 1972,
+    "cast": [
+      "Robert Walker Jr.",
+      "Dick Van Patten"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/beware--the-blob.html"
+}

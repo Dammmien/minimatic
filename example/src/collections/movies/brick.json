@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brick",
+    "year": 2005,
+    "cast": [
+      "Joseph Gordon-Levitt",
+      "Emilie de Ravin",
+      "Nora Zehetner"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/brick.html"
+}

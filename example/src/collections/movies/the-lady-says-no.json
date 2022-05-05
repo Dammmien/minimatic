@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lady Says No",
+    "year": 1952,
+    "cast": [
+      "David Niven",
+      "Joan Caulfield"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-lady-says-no.html"
+}

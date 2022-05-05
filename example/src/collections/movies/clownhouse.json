@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Clownhouse",
+    "year": 1988,
+    "cast": [
+      "Sam Rockwell"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/clownhouse.html"
+}

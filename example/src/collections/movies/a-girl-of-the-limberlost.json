@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Girl of the Limberlost",
+    "year": 1934,
+    "cast": [
+      "Louise Dresser",
+      "Marian Marsh"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-girl-of-the-limberlost.html"
+}

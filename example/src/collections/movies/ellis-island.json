@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Ellis Island",
+    "year": 1936,
+    "cast": [
+      "Donald Cook",
+      "Peggy Shannon",
+      "Bradley Page"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/ellis-island.html"
+}

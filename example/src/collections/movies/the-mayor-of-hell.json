@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Mayor of Hell",
+    "year": 1933,
+    "cast": [
+      "James Cagney",
+      "Allen Jenkins",
+      "Dudley Digges"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-mayor-of-hell.html"
+}

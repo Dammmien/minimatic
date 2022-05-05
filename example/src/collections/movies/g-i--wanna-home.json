@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "G.I. Wanna Home",
+    "year": 1946,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/g-i--wanna-home.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dr. Dolittle 2",
+    "year": 2001,
+    "cast": [
+      "Eddie Murphy",
+      "Raven-Symoné",
+      "Kevin Pollak"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dr--dolittle-2.html"
+}

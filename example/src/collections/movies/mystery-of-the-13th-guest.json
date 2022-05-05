@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mystery of the 13th Guest",
+    "year": 1943,
+    "cast": [
+      "Helen Parrish",
+      "Dick Purcell"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/mystery-of-the-13th-guest.html"
+}

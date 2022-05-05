@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Love Parade",
+    "year": 1929,
+    "cast": [
+      "Maurice Chevalier",
+      "Jeanette MacDonald"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-love-parade.html"
+}

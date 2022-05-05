@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "All My Sons",
+    "year": 1948,
+    "cast": [
+      "Edward G. Robinson",
+      "Burt Lancaster"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/all-my-sons.html"
+}

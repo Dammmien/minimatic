@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wild Bull's Lair",
+    "year": 1925,
+    "cast": [
+      "Fred Thomson",
+      "Herbert Prior"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-wild-bull-s-lair.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Entrapment",
+    "year": 1999,
+    "cast": [
+      "Sean Connery",
+      "Catherine Zeta-Jones",
+      "Ving Rhames"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/entrapment.html"
+}

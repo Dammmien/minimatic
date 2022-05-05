@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "To Beep or Not to Beep",
+    "year": 1963,
+    "cast": [
+      "Roadrunner"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/to-beep-or-not-to-beep.html"
+}

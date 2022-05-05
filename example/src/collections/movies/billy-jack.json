@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Billy Jack",
+    "year": 1971,
+    "cast": [
+      "Tom Laughlin",
+      "Delores Taylor",
+      "Kenneth Tobey",
+      "Howard Hesseman"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/billy-jack.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Live Ghosts",
+    "year": 1936,
+    "cast": [
+      "Richard Arlen",
+      "Beryl Mercer",
+      "Claud Allister"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-live-ghosts.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mask of Dimitrios",
+    "year": 1944,
+    "cast": [
+      "Sydney Greenstreet",
+      "Peter Lorre"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-mask-of-dimitrios.html"
+}

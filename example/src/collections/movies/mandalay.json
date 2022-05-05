@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mandalay",
+    "year": 1934,
+    "cast": [
+      "Kay Francis",
+      "Ricardo Cortez",
+      "Warner Oland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mandalay.html"
+}

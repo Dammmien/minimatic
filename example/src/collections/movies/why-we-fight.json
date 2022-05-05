@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Why We Fight",
+    "year": 2005,
+    "cast": [
+      "the",
+      "military-industrial complex"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/why-we-fight.html"
+}

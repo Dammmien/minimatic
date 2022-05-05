@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Dear Miss Aldrich",
+    "year": 1937,
+    "cast": [
+      "Maureen O'Sullivan",
+      "Walter Pidgeon",
+      "Edna May Oliver"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-dear-miss-aldrich.html"
+}

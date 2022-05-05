@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "On the Avenue",
+    "year": 1937,
+    "cast": [
+      "Dick Powell",
+      "Madeleine Carroll",
+      "The Ritz Brothers"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/on-the-avenue.html"
+}

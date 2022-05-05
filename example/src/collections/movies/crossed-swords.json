@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crossed Swords",
+    "year": 1997,
+    "cast": [
+      "Oliver Reed",
+      "Raquel Welch"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/crossed-swords.html"
+}

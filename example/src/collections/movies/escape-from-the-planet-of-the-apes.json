@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Escape from the Planet of the Apes",
+    "year": 1971,
+    "cast": [
+      "Roddy McDowall",
+      "Kim Hunter",
+      "Sal Mineo"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/escape-from-the-planet-of-the-apes.html"
+}

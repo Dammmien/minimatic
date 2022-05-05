@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Art of Love",
+    "year": 1965,
+    "cast": [
+      "Dick Van Dyke",
+      "James Garner",
+      "Elke Sommer",
+      "Angie Dickinson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-art-of-love.html"
+}

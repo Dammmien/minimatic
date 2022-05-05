@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Taken 2",
+    "year": 2012,
+    "cast": [
+      "Liam Neeson",
+      "Maggie Grace",
+      "Famke Janssen",
+      "and",
+      "Rade Šerbedžija",
+      "Leland Orser",
+      "Jon Gries",
+      "D. B. Sweeney",
+      "Luke Grimes",
+      "Aclan Bates",
+      "Kevork Malikyan"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/taken-2.html"
+}

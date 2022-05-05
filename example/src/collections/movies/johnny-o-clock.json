@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Johnny O'Clock",
+    "year": 1947,
+    "cast": [
+      "Dick Powell",
+      "Evelyn Keyes",
+      "Lee J. Cobb"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/johnny-o-clock.html"
+}

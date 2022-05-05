@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "House of Cards",
+    "year": 1993,
+    "cast": [
+      "Kathleen Turner",
+      "Tommy Lee Jones"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/house-of-cards.html"
+}

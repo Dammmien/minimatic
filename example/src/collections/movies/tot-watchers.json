@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tot Watchers",
+    "year": 1958,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated",
+      "Short"
+    ]
+  },
+  "output": "movies/tot-watchers.html"
+}

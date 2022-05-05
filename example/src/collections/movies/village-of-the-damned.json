@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Village of the Damned",
+    "year": 1995,
+    "cast": [
+      "Christopher Reeve",
+      "Kirstie Alley",
+      "Linda Kozlowski",
+      "Mark Hamill",
+      "Meredith Salenger",
+      "Michael Paré"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/village-of-the-damned.html"
+}

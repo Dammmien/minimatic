@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Boys from Syracuse",
+    "year": 1940,
+    "cast": [
+      "Allan Jones",
+      "Irene Hervey",
+      "Martha Raye"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-boys-from-syracuse.html"
+}

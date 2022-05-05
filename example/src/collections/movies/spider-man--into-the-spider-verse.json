@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Mahershala Ali",
+      "Jake Johnson",
+      "Liev Schreiber",
+      "Brian Tyree Henry",
+      "Luna Lauren Velez",
+      "Lily Tomlin",
+      "John Mulaney",
+      "Kimiko Glenn",
+      "Nicholas Cage"
+    ],
+    "genres": [
+      "Animated",
+      "Superhero",
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/spider-man--into-the-spider-verse.html"
+}

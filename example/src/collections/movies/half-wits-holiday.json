@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Half-Wits Holiday",
+    "year": 1947,
+    "cast": [
+      "The Three Stooges"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/half-wits-holiday.html"
+}

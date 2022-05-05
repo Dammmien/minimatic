@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Galloping Ace",
+    "year": 1924,
+    "cast": [
+      "Jack Hoxie",
+      "Margaret Morris"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-galloping-ace.html"
+}

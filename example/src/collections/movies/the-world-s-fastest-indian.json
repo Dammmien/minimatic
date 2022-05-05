@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The World's Fastest Indian",
+    "year": 2005,
+    "cast": [
+      "Anthony Hopkins",
+      "Diane Ladd",
+      "Jessica Cauffiel"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/the-world-s-fastest-indian.html"
+}

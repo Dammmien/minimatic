@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Crime of Passion",
+    "year": 1957,
+    "cast": [
+      "Barbara Stanwyck",
+      "Sterling Hayden",
+      "Raymond Burr",
+      "Fay Wray"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/crime-of-passion.html"
+}

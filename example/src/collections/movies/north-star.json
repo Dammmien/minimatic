@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "North Star",
+    "year": 1925,
+    "cast": [
+      "Virginia Lee Corbin",
+      "Stuart Holmes",
+      "Ken Maynard"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/north-star.html"
+}

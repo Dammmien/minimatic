@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Homicide Squad",
+    "year": 1931,
+    "cast": [
+      "Leo Carrillo",
+      "Mary Brian"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-homicide-squad.html"
+}

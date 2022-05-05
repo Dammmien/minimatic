@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bramble Bush",
+    "year": 1960,
+    "cast": [
+      "Richard Burton",
+      "Angie Dickinson",
+      "Barbara Rush"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bramble-bush.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Jack and the Beanstalk",
+    "year": 1952,
+    "cast": [
+      "Abbott and Costello"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/jack-and-the-beanstalk.html"
+}

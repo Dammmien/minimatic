@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Oliver & Company",
+    "year": 1988,
+    "cast": [
+      "voices of",
+      "Billy Joel",
+      "Joey Lawrence",
+      "Bette Midler",
+      "Dom DeLuise",
+      "Cheech Marin",
+      "Robert Loggia",
+      "Sheryl Lee Ralph"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/oliver---company.html"
+}

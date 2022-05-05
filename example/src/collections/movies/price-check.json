@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "Price Check",
+    "year": 2012,
+    "cast": [
+      "Parker Posey",
+      "Eric Mabius",
+      "Annie Parisse",
+      "Josh Pais",
+      "Edward Herrmann",
+      "Remy Auberjonois",
+      "Jayce Bartók",
+      "Samrat Chakrabarti",
+      "Cheyenne Jackson",
+      "Stephen Kunken",
+      "Amy Schumer",
+      "Matt Servitto",
+      "Mackenzie Smith",
+      "Melinda Page Hamilton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/price-check.html"
+}

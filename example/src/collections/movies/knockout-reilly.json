@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Knockout Reilly",
+    "year": 1927,
+    "cast": [
+      "Richard Dix",
+      "Mary Brian"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/knockout-reilly.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Amanda and the Alien",
+    "year": 1995,
+    "cast": [
+      "John Diehl",
+      "Michael Dorn"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Comedy"
+    ]
+  },
+  "output": "movies/amanda-and-the-alien.html"
+}

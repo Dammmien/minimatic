@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Adventures of Pinocchio",
+    "year": 1996,
+    "cast": [
+      "Martin Landau",
+      "Jonathan Taylor Thomas",
+      "Udo Kier",
+      "Geneviève Bujold",
+      "Bebe Neuwirth",
+      "Rob Schneider",
+      "Corey Carrier"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-adventures-of-pinocchio.html"
+}

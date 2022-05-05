@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Turn of the Cards",
+    "year": 1914,
+    "cast": [
+      "William Garwood",
+      "Howard Davies",
+      "William Lowery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-turn-of-the-cards.html"
+}

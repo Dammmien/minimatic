@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Murphy's Romance",
+    "year": 1985,
+    "cast": [
+      "Sally Field",
+      "James Garner",
+      "Brian Kerwin"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/murphy-s-romance.html"
+}

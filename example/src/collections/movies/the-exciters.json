@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Exciters",
+    "year": 1923,
+    "cast": [
+      "Bebe Daniels",
+      "Antonio Moreno"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-exciters.html"
+}

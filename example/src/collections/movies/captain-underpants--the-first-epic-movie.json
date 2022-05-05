@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Captain Underpants: The First Epic Movie",
+    "year": 2017,
+    "cast": [
+      "Ed Helms",
+      "Kevin Hart",
+      "Thomas Middleditch",
+      "Nick Kroll",
+      "Anna Kendrick",
+      "Jordan Peele",
+      "Kristen Schaal"
+    ],
+    "genres": [
+      "Animated",
+      "Action",
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/captain-underpants--the-first-epic-movie.html"
+}

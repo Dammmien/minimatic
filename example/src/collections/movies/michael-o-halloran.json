@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Michael O'Halloran",
+    "year": 1948,
+    "cast": [
+      "Allene Roberts",
+      "Scotty Beckett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/michael-o-halloran.html"
+}

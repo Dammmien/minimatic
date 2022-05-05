@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tyson",
+    "year": 2009,
+    "cast": [
+      "The life and career of",
+      "Mike Tyson"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/tyson.html"
+}

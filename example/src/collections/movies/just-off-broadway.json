@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Just Off Broadway",
+    "year": 1942,
+    "cast": [
+      "Lloyd Nolan",
+      "Marjorie Weaver",
+      "Phil Silvers"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/just-off-broadway.html"
+}

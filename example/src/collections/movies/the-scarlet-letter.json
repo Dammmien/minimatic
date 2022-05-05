@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Scarlet Letter",
+    "year": 1995,
+    "cast": [
+      "Demi Moore",
+      "Gary Oldman",
+      "Robert Duvall",
+      "Joan Plowright",
+      "Robert Prosky"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-scarlet-letter.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "We'll Never Have Paris",
+    "year": 2015,
+    "cast": [
+      "Simon Helberg",
+      "Melanie Lynskey",
+      "Maggie Grace",
+      "Zachary Quinto"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/we-ll-never-have-paris.html"
+}

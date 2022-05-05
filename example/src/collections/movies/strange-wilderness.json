@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Strange Wilderness",
+    "year": 2008,
+    "cast": [
+      "Steve Zahn",
+      "Allen Covert",
+      "Jonah Hill"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/strange-wilderness.html"
+}

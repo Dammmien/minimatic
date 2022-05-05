@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Black Tuesday",
+    "year": 1954,
+    "cast": [
+      "Edward G. Robinson",
+      "Peter Graves"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/black-tuesday.html"
+}

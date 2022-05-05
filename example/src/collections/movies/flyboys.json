@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flyboys",
+    "year": 2006,
+    "cast": [
+      "James Franco",
+      "Martin Henderson",
+      "Jean Reno"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/flyboys.html"
+}

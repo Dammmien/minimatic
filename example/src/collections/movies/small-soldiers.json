@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Small Soldiers",
+    "year": 1998,
+    "cast": [
+      "Gregory Smith",
+      "Kirsten Dunst",
+      "Frank Langella",
+      "Tommy Lee Jones"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Fantasy",
+      "Action"
+    ]
+  },
+  "output": "movies/small-soldiers.html"
+}

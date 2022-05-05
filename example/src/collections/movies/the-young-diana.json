@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Young Diana",
+    "year": 1922,
+    "cast": [
+      "Marion Davies",
+      "Forrest Stanley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-young-diana.html"
+}

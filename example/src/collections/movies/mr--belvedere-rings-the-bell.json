@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Belvedere Rings the Bell",
+    "year": 1951,
+    "cast": [
+      "Clifton Webb",
+      "Joanne Dru",
+      "Zero Mostel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--belvedere-rings-the-bell.html"
+}

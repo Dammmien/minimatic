@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tahiti Honey",
+    "year": 1943,
+    "cast": [
+      "Simone Simon",
+      "Dennis O'Keefe"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/tahiti-honey.html"
+}

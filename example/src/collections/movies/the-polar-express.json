@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Polar Express",
+    "year": 2004,
+    "cast": [
+      "Tom Hanks",
+      "Daryl Sabara"
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/the-polar-express.html"
+}

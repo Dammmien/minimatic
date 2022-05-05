@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Very Honorable Guy",
+    "year": 1934,
+    "cast": [
+      "Joe E. Brown",
+      "Alice White"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-very-honorable-guy.html"
+}

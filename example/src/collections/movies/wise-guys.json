@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Wise Guys",
+    "year": 1986,
+    "cast": [
+      "Danny DeVito",
+      "Joe Piscopo",
+      "Harvey Keitel",
+      "Dan Hedaya"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wise-guys.html"
+}

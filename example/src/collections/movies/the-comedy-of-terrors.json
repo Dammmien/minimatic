@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Comedy of Terrors",
+    "year": 1964,
+    "cast": [
+      "Vincent Price",
+      "Peter Lorre",
+      "Boris Karloff"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-comedy-of-terrors.html"
+}

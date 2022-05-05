@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Garrison's Finish",
+    "year": 1923,
+    "cast": [
+      "Madge Bellamy",
+      "Jack Pickford",
+      "Ethel Grey Terry"
+    ],
+    "genres": [
+      "Sports",
+      "Drama"
+    ]
+  },
+  "output": "movies/garrison-s-finish.html"
+}

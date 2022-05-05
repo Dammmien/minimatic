@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Behind Office Doors",
+    "year": 1931,
+    "cast": [
+      "Mary Astor",
+      "Ricardo Cortez",
+      "Catherine Dale Owen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/behind-office-doors.html"
+}

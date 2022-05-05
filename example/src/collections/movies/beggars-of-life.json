@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beggars of Life",
+    "year": 1928,
+    "cast": [
+      "Wallace Beery",
+      "Louise Brooks",
+      "Richard Arlen"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/beggars-of-life.html"
+}

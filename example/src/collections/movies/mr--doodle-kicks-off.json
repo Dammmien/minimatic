@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mr. Doodle Kicks Off",
+    "year": 1938,
+    "cast": [
+      "Joe Penner",
+      "June Travis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--doodle-kicks-off.html"
+}

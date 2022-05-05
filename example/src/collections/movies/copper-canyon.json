@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Copper Canyon",
+    "year": 1950,
+    "cast": [
+      "Ray Milland",
+      "Hedy Lamarr",
+      "Mona Freeman"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/copper-canyon.html"
+}

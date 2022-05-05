@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shadow of a Woman",
+    "year": 1946,
+    "cast": [
+      "Helmut Dantine",
+      "Andrea King"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/shadow-of-a-woman.html"
+}

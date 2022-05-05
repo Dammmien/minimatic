@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Devil's Canyon",
+    "year": 1953,
+    "cast": [
+      "Virginia Mayo",
+      "Dale Robertson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/devil-s-canyon.html"
+}

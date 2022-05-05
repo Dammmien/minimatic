@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Millionaires",
+    "year": 1926,
+    "cast": [
+      "Louise Fazenda",
+      "Vera Gordon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/millionaires.html"
+}

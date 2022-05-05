@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mourning Becomes Electra",
+    "year": 1947,
+    "cast": [
+      "Rosalind Russell",
+      "Michael Redgrave"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mourning-becomes-electra.html"
+}

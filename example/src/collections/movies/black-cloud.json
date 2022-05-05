@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Black Cloud",
+    "year": 2004,
+    "cast": [
+      "Rick Schroder",
+      "Eddie Spears",
+      "Russell Means",
+      "Julia Jones",
+      "Tim McGraw"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/black-cloud.html"
+}

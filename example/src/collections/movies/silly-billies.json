@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Silly Billies",
+    "year": 1936,
+    "cast": [
+      "Bert Wheeler",
+      "Robert Woolsey",
+      "Dorothy Lee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/silly-billies.html"
+}

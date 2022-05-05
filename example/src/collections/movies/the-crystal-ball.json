@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Crystal Ball",
+    "year": 1943,
+    "cast": [
+      "Paulette Goddard",
+      "Ray Milland"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-crystal-ball.html"
+}

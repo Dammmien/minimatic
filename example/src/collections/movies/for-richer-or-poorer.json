@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "For Richer or Poorer",
+    "year": 1997,
+    "cast": [
+      "Tim Allen",
+      "Kirstie Alley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/for-richer-or-poorer.html"
+}

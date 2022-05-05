@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lady of the Dug-Out",
+    "year": 1918,
+    "cast": [
+      "Al Jennings",
+      "Frank Jennings"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-lady-of-the-dug-out.html"
+}

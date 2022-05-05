@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Every Which Way but Loose",
+    "year": 1978,
+    "cast": [
+      "Clint Eastwood",
+      "Ruth Gordon",
+      "Beverly D'Angelo",
+      "Geoffrey Lewis",
+      "Sondra Locke"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/every-which-way-but-loose.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ten Nights in a Barroom",
+    "year": 1931,
+    "cast": [
+      "William Farnum",
+      "Peggy Lou Lynd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ten-nights-in-a-barroom.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Yentl",
+    "year": 1983,
+    "cast": [
+      "Barbra Streisand",
+      "Mandy Patinkin",
+      "Amy Irving"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/yentl.html"
+}

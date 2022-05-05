@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Womanhandled",
+    "year": 1925,
+    "cast": [
+      "Richard Dix",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/womanhandled.html"
+}

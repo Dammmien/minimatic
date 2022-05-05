@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Night Shift",
+    "year": 1982,
+    "cast": [
+      "Henry Winkler",
+      "Michael Keaton",
+      "Shelley Long"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/night-shift.html"
+}

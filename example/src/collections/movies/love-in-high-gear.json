@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love in High Gear",
+    "year": 1932,
+    "cast": [
+      "Alberta Vaughn",
+      "Tyrell Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-in-high-gear.html"
+}

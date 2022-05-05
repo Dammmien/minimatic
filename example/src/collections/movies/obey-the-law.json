@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Obey the Law",
+    "year": 1933,
+    "cast": [
+      "Leo Carrillo",
+      "Lois Wilson"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/obey-the-law.html"
+}

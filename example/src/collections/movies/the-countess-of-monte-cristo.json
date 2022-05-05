@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Countess of Monte Cristo",
+    "year": 1948,
+    "cast": [
+      "Sonja Henie",
+      "Olga San Juan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-countess-of-monte-cristo.html"
+}

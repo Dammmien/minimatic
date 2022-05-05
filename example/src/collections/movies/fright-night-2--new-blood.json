@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Fright Night 2: New Blood",
+    "year": 2013,
+    "cast": [
+      "Will Payne",
+      "Jaime Murray",
+      "Sean Power",
+      "Sacha Parkinson"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/fright-night-2--new-blood.html"
+}

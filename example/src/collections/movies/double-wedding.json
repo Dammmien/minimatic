@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Double Wedding",
+    "year": 1937,
+    "cast": [
+      "William Powell",
+      "Myrna Loy",
+      "Florence Rice"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/double-wedding.html"
+}

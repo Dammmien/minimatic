@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Purple Mask",
+    "year": 1955,
+    "cast": [
+      "Tony Curtis",
+      "Colleen Miller",
+      "Angela Lansbury"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-purple-mask.html"
+}

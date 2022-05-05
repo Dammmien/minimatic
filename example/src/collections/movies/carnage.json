@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Carnage",
+    "year": 2011,
+    "cast": [
+      "Jodie Foster",
+      "Kate Winslet",
+      "Christoph Waltz",
+      "John C. Reilly"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/carnage.html"
+}

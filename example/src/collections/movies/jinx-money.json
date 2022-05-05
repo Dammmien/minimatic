@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jinx Money",
+    "year": 1948,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/jinx-money.html"
+}

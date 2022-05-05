@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "Olympus Has Fallen",
+    "year": 2013,
+    "cast": [
+      "Gerard Butler",
+      "Aaron Eckhart",
+      "and",
+      "Morgan Freeman",
+      "Angela Bassett",
+      "Robert Forster",
+      "Cole Hauser",
+      "Finley Jacobsen",
+      "Ashley Judd",
+      "Melissa Leo",
+      "Dylan McDermott",
+      "Radha Mitchell",
+      "Rick Yune"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/olympus-has-fallen.html"
+}

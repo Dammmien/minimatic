@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Salamander",
+    "year": 1981,
+    "cast": [
+      "Franco Nero",
+      "Anthony Quinn",
+      "Sybil Danning"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-salamander.html"
+}

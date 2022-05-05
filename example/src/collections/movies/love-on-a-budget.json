@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love on a Budget",
+    "year": 1938,
+    "cast": [
+      "Jed Prouty",
+      "Shirley Deane"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-on-a-budget.html"
+}

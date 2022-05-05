@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Fiendish Plot of Dr. Fu Manchu",
+    "year": 1980,
+    "cast": [
+      "Peter Sellers",
+      "Sid Caesar",
+      "Helen Mirren"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fiendish-plot-of-dr--fu-manchu.html"
+}

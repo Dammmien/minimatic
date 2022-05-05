@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "College Rhythm",
+    "year": 1934,
+    "cast": [
+      "Jack Oakie",
+      "Joe Penner"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/college-rhythm.html"
+}

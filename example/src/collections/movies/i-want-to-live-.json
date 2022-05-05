@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Want to Live!",
+    "year": 1958,
+    "cast": [
+      "Susan Hayward",
+      "Simon Oakland",
+      "Theodore Bikel"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/i-want-to-live-.html"
+}

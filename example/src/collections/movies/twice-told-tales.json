@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Twice-Told Tales",
+    "year": 1963,
+    "cast": [
+      "Vincent Price",
+      "Sebastian Cabot",
+      "Beverly Garland"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/twice-told-tales.html"
+}

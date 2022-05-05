@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Midnight Alarm",
+    "year": 1923,
+    "cast": [
+      "Alice Calhoun",
+      "Percy Marmont",
+      "Cullen Landis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-midnight-alarm.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Idiocracy",
+    "year": 2006,
+    "cast": [
+      "Luke Wilson",
+      "Maya Rudolph"
+    ],
+    "genres": [
+      "Comedy",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/idiocracy.html"
+}

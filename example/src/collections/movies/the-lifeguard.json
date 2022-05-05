@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Lifeguard",
+    "year": 2013,
+    "cast": [
+      "Kristen Bell",
+      "Mamie Gummer",
+      "Martin Starr",
+      "Alex Shaffer",
+      "Joshua Harto",
+      "David Lambert",
+      "Amy Madigan"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lifeguard.html"
+}

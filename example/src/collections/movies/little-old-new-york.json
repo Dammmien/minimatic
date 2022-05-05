@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Little Old New York",
+    "year": 1940,
+    "cast": [
+      "Fred MacMurray",
+      "Alice Faye",
+      "Brenda Joyce"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-old-new-york.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Werewolf",
+    "year": 1956,
+    "cast": [
+      "Joyce Holden",
+      "Steven Ritch"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-werewolf.html"
+}

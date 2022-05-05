@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Long Long Trail",
+    "year": 1929,
+    "cast": [
+      "Hoot Gibson",
+      "Sally Eilers"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-long-long-trail.html"
+}

@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "The Sessions",
+    "year": 2012,
+    "cast": [
+      "John Hawkes",
+      "Helen Hunt",
+      "Moon Bloodgood",
+      "Annika Marks",
+      "Rhea Perlman",
+      "Adam Arkin",
+      "William H. Macy",
+      "W. Earl Brown",
+      "Blake Lindsley",
+      "Robin Weigert",
+      "Rusty Schwimmer",
+      "Jenni Baird"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sessions.html"
+}

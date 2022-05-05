@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Father Is a Prince",
+    "year": 1940,
+    "cast": [
+      "John Litel",
+      "Jan Clayton",
+      "George Reeves"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/father-is-a-prince.html"
+}

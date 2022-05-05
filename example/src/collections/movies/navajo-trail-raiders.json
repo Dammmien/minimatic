@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Navajo Trail Raiders",
+    "year": 1949,
+    "cast": [
+      "Allan Lane",
+      "Eddy Waller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/navajo-trail-raiders.html"
+}

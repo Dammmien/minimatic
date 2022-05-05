@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Demand Payment",
+    "year": 1938,
+    "cast": [
+      "Jack La Rue",
+      "Betty Burgess",
+      "Guinn Williams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-demand-payment.html"
+}

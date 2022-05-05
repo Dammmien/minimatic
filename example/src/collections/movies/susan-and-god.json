@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Susan and God",
+    "year": 1940,
+    "cast": [
+      "Joan Crawford",
+      "Fredric March"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/susan-and-god.html"
+}

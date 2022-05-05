@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Night at the Opera",
+    "year": 1935,
+    "cast": [
+      "Marx Brothers",
+      "Kitty Carlisle"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/a-night-at-the-opera.html"
+}

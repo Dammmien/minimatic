@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Adventures of Rusty",
+    "year": 1945,
+    "cast": [
+      "Margaret Lindsay",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/adventures-of-rusty.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Saving Santa",
+    "year": 2013,
+    "cast": [
+      "Martin Freeman",
+      "Tim Curry",
+      "Noel Clarke",
+      "Tim Conway",
+      "Pam Ferris"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/saving-santa.html"
+}

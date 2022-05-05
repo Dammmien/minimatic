@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Housesitter",
+    "year": 1992,
+    "cast": [
+      "Steve Martin",
+      "Goldie Hawn",
+      "Dana Delany"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/housesitter.html"
+}

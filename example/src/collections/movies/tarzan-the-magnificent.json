@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tarzan the Magnificent",
+    "year": 1960,
+    "cast": [
+      "Gordon Scott",
+      "Alexandra Stewart"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-the-magnificent.html"
+}

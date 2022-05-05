@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Marauders",
+    "year": 1955,
+    "cast": [
+      "Dan Duryea",
+      "Keenan Wynn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-marauders.html"
+}

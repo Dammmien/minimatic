@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Doctor Faustus",
+    "year": 1967,
+    "cast": [
+      "Richard Burton",
+      "Elizabeth Taylor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/doctor-faustus.html"
+}

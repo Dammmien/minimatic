@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Road to Denver",
+    "year": 1955,
+    "cast": [
+      "John Payne",
+      "Mona Freeman"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-road-to-denver.html"
+}

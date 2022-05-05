@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Let Women Alone",
+    "year": 1925,
+    "cast": [
+      "Pat O'Malley",
+      "Wanda Hawley",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-women-alone.html"
+}

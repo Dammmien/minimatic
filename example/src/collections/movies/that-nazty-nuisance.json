@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That Nazty Nuisance",
+    "year": 1943,
+    "cast": [
+      "Bobby Watson",
+      "Jean Porter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-nazty-nuisance.html"
+}

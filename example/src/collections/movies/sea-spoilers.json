@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sea Spoilers",
+    "year": 1936,
+    "cast": [
+      "John Wayne",
+      "Nan Grey"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  "output": "movies/sea-spoilers.html"
+}

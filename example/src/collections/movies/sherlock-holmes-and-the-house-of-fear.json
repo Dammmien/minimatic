@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sherlock Holmes and the House of Fear",
+    "year": 1945,
+    "cast": [
+      "Basil Rathbone",
+      "Nigel Bruce",
+      "Paul Cavanagh"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/sherlock-holmes-and-the-house-of-fear.html"
+}

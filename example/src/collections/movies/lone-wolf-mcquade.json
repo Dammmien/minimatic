@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lone Wolf McQuade",
+    "year": 1983,
+    "cast": [
+      "Chuck Norris",
+      "David Carradine",
+      "Barbara Carrera"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/lone-wolf-mcquade.html"
+}

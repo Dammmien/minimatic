@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "10 Items or Less",
+    "year": 2006,
+    "cast": [
+      "Morgan Freeman",
+      "Paz Vega"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/10-items-or-less.html"
+}

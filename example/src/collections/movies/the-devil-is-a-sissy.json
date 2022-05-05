@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Devil Is a Sissy",
+    "year": 1936,
+    "cast": [
+      "Freddie Bartholomew",
+      "Jackie Cooper",
+      "Mickey Rooney"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-devil-is-a-sissy.html"
+}

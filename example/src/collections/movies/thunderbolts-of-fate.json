@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thunderbolts of Fate",
+    "year": 1919,
+    "cast": [
+      "House Peters",
+      "Anna Lehr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thunderbolts-of-fate.html"
+}

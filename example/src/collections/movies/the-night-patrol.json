@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Night Patrol",
+    "year": 1926,
+    "cast": [
+      "Richard Talmadge",
+      "Mary Carr"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-night-patrol.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Legend of the Lost",
+    "year": 1957,
+    "cast": [
+      "John Wayne",
+      "Sophia Loren",
+      "Rossano Brazzi"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/legend-of-the-lost.html"
+}

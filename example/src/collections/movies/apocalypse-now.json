@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Apocalypse Now",
+    "year": 1979,
+    "cast": [
+      "Martin Sheen",
+      "Marlon Brando",
+      "Robert Duvall",
+      "Frederic Forrest",
+      "Sam Bottoms",
+      "Laurence Fishburne",
+      "Dennis Hopper",
+      "Albert Hall"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/apocalypse-now.html"
+}

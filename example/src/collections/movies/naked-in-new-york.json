@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Naked in New York",
+    "year": 1993,
+    "cast": [
+      "Eric Stoltz",
+      "Mary-Louise Parker",
+      "Jill Clayburgh",
+      "Tony Curtis",
+      "Timothy Dalton",
+      "Ralph Macchio",
+      "Kathleen Turner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/naked-in-new-york.html"
+}

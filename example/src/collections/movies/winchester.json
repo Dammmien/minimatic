@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Winchester",
+    "year": 2018,
+    "cast": [
+      "Helen Mirren",
+      "Jason Clarke",
+      "Sarah Snook",
+      "Angus Sampson"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/winchester.html"
+}

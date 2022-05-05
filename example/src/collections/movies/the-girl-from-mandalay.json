@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Girl from Mandalay",
+    "year": 1936,
+    "cast": [
+      "Conrad Nagel",
+      "Kay Linaker",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-girl-from-mandalay.html"
+}

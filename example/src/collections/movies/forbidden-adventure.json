@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Forbidden Adventure",
+    "year": 1931,
+    "cast": [
+      "Mitzi Green",
+      "Edna May Oliver"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/forbidden-adventure.html"
+}

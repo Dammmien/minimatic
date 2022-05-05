@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Johnny Apollo",
+    "year": 1940,
+    "cast": [
+      "Tyrone Power",
+      "Dorothy Lamour"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/johnny-apollo.html"
+}

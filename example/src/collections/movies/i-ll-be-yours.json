@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "I'll Be Yours",
+    "year": 1947,
+    "cast": [
+      "Deanna Durbin",
+      "Tom Drake",
+      "William Bendix",
+      "Adolphe Menjou"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-ll-be-yours.html"
+}

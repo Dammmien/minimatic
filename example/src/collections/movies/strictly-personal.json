@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Strictly Personal",
+    "year": 1933,
+    "cast": [
+      "Marjorie Rambeau",
+      "Dorothy Jordan",
+      "Louis Calhern"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/strictly-personal.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Music and Lyrics",
+    "year": 2007,
+    "cast": [
+      "Hugh Grant",
+      "Drew Barrymore"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/music-and-lyrics.html"
+}

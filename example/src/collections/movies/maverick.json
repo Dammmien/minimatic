@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Maverick",
+    "year": 1994,
+    "cast": [
+      "Mel Gibson",
+      "Jodie Foster",
+      "James Garner"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/maverick.html"
+}

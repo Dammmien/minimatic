@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Joe Kidd",
+    "year": 1972,
+    "cast": [
+      "Clint Eastwood",
+      "Robert Duvall",
+      "John Saxon"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/joe-kidd.html"
+}

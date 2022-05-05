@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rough Going",
+    "year": 1925,
+    "cast": [
+      "Franklyn Farnum",
+      "Vester Pegg"
+    ],
+    "genres": [
+      "Comedy",
+      "Western"
+    ]
+  },
+  "output": "movies/rough-going.html"
+}

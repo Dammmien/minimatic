@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Guarding Tess",
+    "year": 1994,
+    "cast": [
+      "Shirley MacLaine",
+      "Nicolas Cage",
+      "Austin Pendleton",
+      "Edward Albert"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/guarding-tess.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman in White",
+    "year": 1948,
+    "cast": [
+      "Alexis Smith",
+      "Eleanor Parker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woman-in-white.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cheap Kisses",
+    "year": 1924,
+    "cast": [
+      "Lillian Rich",
+      "Cullen Landis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cheap-kisses.html"
+}

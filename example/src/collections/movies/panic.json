@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Panic",
+    "year": 2000,
+    "cast": [
+      "William H. Macy",
+      "Neve Campbell",
+      "Donald Sutherland"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/panic.html"
+}

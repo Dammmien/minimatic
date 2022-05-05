@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Catwoman",
+    "year": 2004,
+    "cast": [
+      "Halle Berry",
+      "Benjamin Bratt",
+      "Sharon Stone",
+      "Lambert Wilson",
+      "Frances Conroy",
+      "Alex Borstein"
+    ],
+    "genres": [
+      "Superhero"
+    ]
+  },
+  "output": "movies/catwoman.html"
+}

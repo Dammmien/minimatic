@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bengal Tiger",
+    "year": 1936,
+    "cast": [
+      "Barton MacLane",
+      "June Travis"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/bengal-tiger.html"
+}

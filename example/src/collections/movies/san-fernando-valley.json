@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "San Fernando Valley",
+    "year": 1944,
+    "cast": [
+      "Roy Rogers",
+      "Dale Evans"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/san-fernando-valley.html"
+}

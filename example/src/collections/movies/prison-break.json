@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Prison Break",
+    "year": 1938,
+    "cast": [
+      "Barton MacLane",
+      "Glenda Farrell",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/prison-break.html"
+}

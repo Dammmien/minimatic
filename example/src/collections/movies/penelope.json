@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Penelope",
+    "year": 2006,
+    "cast": [
+      "Christina Ricci",
+      "James McAvoy",
+      "Catherine O'Hara",
+      "Reese Witherspoon"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/penelope.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Mississippi Masala",
+    "year": 1991,
+    "cast": [
+      "Denzel Washington"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mississippi-masala.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Body Punch",
+    "year": 1929,
+    "cast": [
+      "Jack Dougherty",
+      "Virginia Brown Faire"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-body-punch.html"
+}

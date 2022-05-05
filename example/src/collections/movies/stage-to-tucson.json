@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Stage to Tucson",
+    "year": 1950,
+    "cast": [
+      "Rod Cameron",
+      "Wayne Morris",
+      "Sally Eilers"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/stage-to-tucson.html"
+}

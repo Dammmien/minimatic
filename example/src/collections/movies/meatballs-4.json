@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Meatballs 4",
+    "year": 1992,
+    "cast": [
+      "Corey Feldman",
+      "Sarah Douglas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/meatballs-4.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Cape Fear",
+    "year": 1991,
+    "cast": [
+      "Robert De Niro",
+      "Nick Nolte",
+      "Jessica Lange",
+      "Juliette Lewis",
+      "Robert Mitchum",
+      "Gregory Peck",
+      "Joe Don Baker",
+      "Fred Dalton Thompson",
+      "Illeana Douglas"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/cape-fear.html"
+}

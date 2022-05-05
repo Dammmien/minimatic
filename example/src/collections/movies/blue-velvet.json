@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Blue Velvet",
+    "year": 1986,
+    "cast": [
+      "Isabella Rossellini",
+      "Kyle MacLachlan",
+      "Laura Dern",
+      "Dennis Hopper",
+      "Hope Lange"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/blue-velvet.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Davy Crockett, Indian Scout",
+    "year": 1950,
+    "cast": [
+      "George Montgomery",
+      "Ellen Drew"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/davy-crockett--indian-scout.html"
+}

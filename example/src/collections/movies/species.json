@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Species",
+    "year": 1995,
+    "cast": [
+      "Ben Kingsley",
+      "Michael Madsen",
+      "Forest Whitaker",
+      "Alfred Molina",
+      "Marg Helgenberger",
+      "Natasha Henstridge"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ]
+  },
+  "output": "movies/species.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Devil Horse",
+    "year": 1926,
+    "cast": [
+      "Yakima Canutt",
+      "Gladys McConnell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-devil-horse.html"
+}

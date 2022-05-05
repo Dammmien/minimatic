@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Good Morning Miss Dove",
+    "year": 1955,
+    "cast": [
+      "Jennifer Jones",
+      "Robert Stack"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/good-morning-miss-dove.html"
+}

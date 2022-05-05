@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Black Cadillac",
+    "year": 2003,
+    "cast": [
+      "Randy Quaid",
+      "Shane Johnson",
+      "Josh Hammond"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/black-cadillac.html"
+}

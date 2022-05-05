@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Anne Against the World",
+    "year": 1929,
+    "cast": [
+      "Shirley Mason",
+      "Jack Mower"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/anne-against-the-world.html"
+}

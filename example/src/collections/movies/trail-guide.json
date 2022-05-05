@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trail Guide",
+    "year": 1952,
+    "cast": [
+      "Tim Holt",
+      "Frank Wilcox"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/trail-guide.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eve's Bayou",
+    "year": 1997,
+    "cast": [
+      "Samuel L. Jackson",
+      "Lynn Whitfield"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/eve-s-bayou.html"
+}

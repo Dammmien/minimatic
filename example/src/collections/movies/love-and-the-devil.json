@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love and the Devil",
+    "year": 1929,
+    "cast": [
+      "Milton Sills",
+      "María Corda"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/love-and-the-devil.html"
+}

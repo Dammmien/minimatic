@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Swingin' Along",
+    "year": 1961,
+    "cast": [
+      "Peter Marshall",
+      "Tommy Noonan",
+      "Barbara Eden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/swingin--along.html"
+}

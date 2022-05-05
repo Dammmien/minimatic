@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bullwhip",
+    "year": 1958,
+    "cast": [
+      "Guy Madison",
+      "Rhonda Fleming",
+      "James Griffith"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bullwhip.html"
+}

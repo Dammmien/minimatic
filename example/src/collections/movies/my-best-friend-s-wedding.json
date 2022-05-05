@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "My Best Friend's Wedding",
+    "year": 1997,
+    "cast": [
+      "Julia Roberts",
+      "Dermot Mulroney",
+      "Cameron Diaz",
+      "Rupert Everett"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-best-friend-s-wedding.html"
+}

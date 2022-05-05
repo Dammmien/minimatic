@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Shotgun Jones",
+    "year": 1914,
+    "cast": [
+      "Wheeler Oakman"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/shotgun-jones.html"
+}

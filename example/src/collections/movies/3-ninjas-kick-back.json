@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "3 Ninjas Kick Back",
+    "year": 1994,
+    "cast": [
+      "Victor Wong",
+      "Max Elliott Slade",
+      "Sean Fox",
+      "J. Evan Bonifant"
+    ],
+    "genres": [
+      "Action",
+      "Family"
+    ]
+  },
+  "output": "movies/3-ninjas-kick-back.html"
+}

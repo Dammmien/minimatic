@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Green Archer",
+    "year": 1940,
+    "cast": [
+      "Victor Jory",
+      "Iris Meredith"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-green-archer.html"
+}

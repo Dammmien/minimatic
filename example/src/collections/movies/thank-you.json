@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thank You",
+    "year": 1925,
+    "cast": [
+      "Alec B. Francis",
+      "Jacqueline Logan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/thank-you.html"
+}

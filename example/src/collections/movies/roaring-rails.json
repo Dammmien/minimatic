@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Roaring Rails",
+    "year": 1924,
+    "cast": [
+      "Harry Carey",
+      "Edith Roberts"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/roaring-rails.html"
+}

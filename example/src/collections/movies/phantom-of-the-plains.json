@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Phantom of the Plains",
+    "year": 1945,
+    "cast": [
+      "Wild Bill Elliott",
+      "Alice Fleming"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/phantom-of-the-plains.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Young and Dangerous",
+    "year": 1957,
+    "cast": [
+      "Lili Gentle",
+      "Mark Damon",
+      "Edward Binns"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/young-and-dangerous.html"
+}

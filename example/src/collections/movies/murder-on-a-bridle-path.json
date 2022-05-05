@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Murder on a Bridle Path",
+    "year": 1936,
+    "cast": [
+      "James Gleason",
+      "Helen Broderick",
+      "Louise Latimer"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/murder-on-a-bridle-path.html"
+}

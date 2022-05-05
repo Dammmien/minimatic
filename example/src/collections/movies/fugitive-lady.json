@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fugitive Lady",
+    "year": 1934,
+    "cast": [
+      "Florence Rice",
+      "Neil Hamilton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fugitive-lady.html"
+}

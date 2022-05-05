@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lady Possessed",
+    "year": 1952,
+    "cast": [
+      "James Mason",
+      "June Havoc",
+      "Stephen Dunne"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/lady-possessed.html"
+}

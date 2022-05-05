@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Unlocked",
+    "year": 2017,
+    "cast": [
+      "Noomi Rapace",
+      "Orlando Bloom",
+      "Toni Collette",
+      "John Malkovich",
+      "Michael Douglas",
+      "Jessica Boone"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/unlocked.html"
+}

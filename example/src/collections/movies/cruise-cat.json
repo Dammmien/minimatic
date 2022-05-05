@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Cruise Cat",
+    "year": 1951,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/cruise-cat.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cats of Mirikitani",
+    "year": 2006,
+    "cast": [
+      "the life of",
+      "Japanese American",
+      "painter Jimmy Mirikitani"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-cats-of-mirikitani.html"
+}

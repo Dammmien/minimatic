@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "D-Day the Sixth of June",
+    "year": 1956,
+    "cast": [
+      "Robert Taylor",
+      "Richard Todd"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/d-day-the-sixth-of-june.html"
+}

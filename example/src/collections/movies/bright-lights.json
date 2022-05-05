@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bright Lights",
+    "year": 1935,
+    "cast": [
+      "Joe E. Brown",
+      "Ann Dvorak",
+      "Patricia Ellis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bright-lights.html"
+}

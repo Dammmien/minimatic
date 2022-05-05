@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Embryo",
+    "year": 1976,
+    "cast": [
+      "Rock Hudson",
+      "Barbara Carrera",
+      "Diane Ladd"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/embryo.html"
+}

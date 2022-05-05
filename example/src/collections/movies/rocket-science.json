@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rocket Science",
+    "year": 2007,
+    "cast": [
+      "Reece Thompson",
+      "Anna Kendrick",
+      "Nicholas D'Agosto"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/rocket-science.html"
+}

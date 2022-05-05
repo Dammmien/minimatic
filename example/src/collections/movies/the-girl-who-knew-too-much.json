@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl Who Knew Too Much",
+    "year": 1969,
+    "cast": [
+      "Adam West",
+      "Nancy Kwan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-girl-who-knew-too-much.html"
+}

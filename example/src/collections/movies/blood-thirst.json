@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blood Thirst",
+    "year": 1971,
+    "cast": [
+      "Robert Winston",
+      "Yvonne Nielson",
+      "Judy Dennis"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/blood-thirst.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "What a Woman!",
+    "year": 1943,
+    "cast": [
+      "Rosalind Russell",
+      "Brian Aherne"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/what-a-woman-.html"
+}

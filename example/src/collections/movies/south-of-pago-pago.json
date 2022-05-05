@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "South of Pago Pago",
+    "year": 1940,
+    "cast": [
+      "Jon Hall",
+      "Frances Farmer",
+      "Olympe Bradna"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/south-of-pago-pago.html"
+}

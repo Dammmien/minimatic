@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Absence of Malice",
+    "year": 1981,
+    "cast": [
+      "Paul Newman",
+      "Sally Field",
+      "Bob Balaban",
+      "Melinda Dillon",
+      "Wilford Brimley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/absence-of-malice.html"
+}

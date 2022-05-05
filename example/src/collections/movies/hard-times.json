@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hard Times",
+    "year": 1975,
+    "cast": [
+      "Charles Bronson",
+      "James Coburn",
+      "Jill Ireland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hard-times.html"
+}

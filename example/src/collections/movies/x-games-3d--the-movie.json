@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "X Games 3D: The Movie",
+    "year": 2009,
+    "cast": [
+      "Bob Burnquist",
+      "Ricky Carmichael",
+      "Kyle Loza",
+      "Travis Pastrana",
+      "Danny Way",
+      "Shaun White",
+      "Emile Hirsch",
+      "(narrator)"
+    ],
+    "genres": [
+      "Documentary",
+      "Sports"
+    ]
+  },
+  "output": "movies/x-games-3d--the-movie.html"
+}

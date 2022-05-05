@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Lion King",
+    "year": 1994,
+    "cast": [
+      "(voices)",
+      "Jonathan Taylor Thomas",
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl Jones",
+      "Whoopi Goldberg",
+      "Moira Kelly",
+      "Nathan Lane"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-lion-king.html"
+}

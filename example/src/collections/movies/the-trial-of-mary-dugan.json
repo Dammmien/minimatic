@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Trial of Mary Dugan",
+    "year": 1941,
+    "cast": [
+      "Laraine Day",
+      "Robert Young"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-trial-of-mary-dugan.html"
+}

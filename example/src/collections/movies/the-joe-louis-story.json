@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Joe Louis Story",
+    "year": 1953,
+    "cast": [
+      "Coley Wallace",
+      "Paul Stewart"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/the-joe-louis-story.html"
+}

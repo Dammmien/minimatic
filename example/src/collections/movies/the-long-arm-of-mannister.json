@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Long Arm of Mannister",
+    "year": 1919,
+    "cast": [
+      "Henry B. Walthall",
+      "Helene Chadwick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-long-arm-of-mannister.html"
+}

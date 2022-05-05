@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Wong in Chinatown",
+    "year": 1939,
+    "cast": [
+      "Boris Karloff",
+      "Marjorie Reynolds",
+      "Grant Withers"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/mr--wong-in-chinatown.html"
+}

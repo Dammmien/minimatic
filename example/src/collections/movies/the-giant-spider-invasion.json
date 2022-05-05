@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Giant Spider Invasion",
+    "year": 1975,
+    "cast": [
+      "Steve Brodie",
+      "Alan Hale Jr."
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-giant-spider-invasion.html"
+}

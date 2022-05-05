@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hackers",
+    "year": 1995,
+    "cast": [
+      "Jonny Lee Miller",
+      "Angelina Jolie",
+      "Lorraine Bracco"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/hackers.html"
+}

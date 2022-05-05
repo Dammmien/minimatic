@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Song of My Heart",
+    "year": 1948,
+    "cast": [
+      "Audrey Long",
+      "Cedric Hardwicke"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/song-of-my-heart.html"
+}

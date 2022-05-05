@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Scattergood Survives a Murder",
+    "year": 1942,
+    "cast": [
+      "Guy Kibbee",
+      "Margaret Hayes"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/scattergood-survives-a-murder.html"
+}

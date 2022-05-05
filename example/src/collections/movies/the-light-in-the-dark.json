@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Light in the Dark",
+    "year": 1922,
+    "cast": [
+      "Lon Chaney",
+      "Hope Hampton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-light-in-the-dark.html"
+}

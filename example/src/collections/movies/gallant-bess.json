@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gallant Bess",
+    "year": 1946,
+    "cast": [
+      "Marshall Thompson",
+      "George Tobias"
+    ],
+    "genres": [
+      "Family",
+      "Western"
+    ]
+  },
+  "output": "movies/gallant-bess.html"
+}

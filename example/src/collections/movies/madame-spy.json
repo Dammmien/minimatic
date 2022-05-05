@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Madame Spy",
+    "year": 1942,
+    "cast": [
+      "Constance Bennett",
+      "Don Porter"
+    ],
+    "genres": [
+      "Spy"
+    ]
+  },
+  "output": "movies/madame-spy.html"
+}

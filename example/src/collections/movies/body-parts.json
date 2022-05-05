@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Body Parts",
+    "year": 1991,
+    "cast": [
+      "Jeff Fahey",
+      "Kim Delaney"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/body-parts.html"
+}

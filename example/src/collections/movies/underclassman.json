@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Underclassman",
+    "year": 2005,
+    "cast": [
+      "Nick Cannon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/underclassman.html"
+}

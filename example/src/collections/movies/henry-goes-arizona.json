@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Henry Goes Arizona",
+    "year": 1939,
+    "cast": [
+      "Frank Morgan",
+      "Virginia Weidler",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/henry-goes-arizona.html"
+}

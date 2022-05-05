@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Vamp",
+    "year": 1986,
+    "cast": [
+      "Grace Jones"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/vamp.html"
+}

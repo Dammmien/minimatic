@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Voice of the Turtle",
+    "year": 1947,
+    "cast": [
+      "Ronald Reagan",
+      "Eleanor Parker",
+      "Eve Arden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-voice-of-the-turtle.html"
+}

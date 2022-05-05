@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Half-Breed's Way",
+    "year": 1912,
+    "cast": [
+      "Harry von Meter",
+      "Vivian Rich",
+      "George Beech"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-half-breed-s-way.html"
+}

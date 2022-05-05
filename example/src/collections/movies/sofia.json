@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sofia",
+    "year": 1948,
+    "cast": [
+      "Patricia Morison",
+      "Sigrid Gurie"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sofia.html"
+}

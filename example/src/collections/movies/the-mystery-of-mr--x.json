@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mystery of Mr. X",
+    "year": 1934,
+    "cast": [
+      "Robert Montgomery",
+      "Elizabeth Allan"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-mystery-of-mr--x.html"
+}

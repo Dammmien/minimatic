@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Kid from Amarillo",
+    "year": 1951,
+    "cast": [
+      "Charles Starrett",
+      "Smiley Burnette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-kid-from-amarillo.html"
+}

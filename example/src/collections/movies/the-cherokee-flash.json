@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cherokee Flash",
+    "year": 1945,
+    "cast": [
+      "Sunset Carson",
+      "Linda Stirling",
+      "Tom London"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-cherokee-flash.html"
+}

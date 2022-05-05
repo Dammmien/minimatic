@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "April Showers",
+    "year": 1948,
+    "cast": [
+      "Ann Sothern",
+      "Jack Carson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/april-showers.html"
+}

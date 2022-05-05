@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Letters from Iwo Jima",
+    "year": 2006,
+    "cast": [
+      "Ken Watanabe",
+      "Kazunari Ninomiya",
+      "Tsuyoshi Ihara",
+      "Ryō Kase"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/letters-from-iwo-jima.html"
+}

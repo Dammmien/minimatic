@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Buckshot John",
+    "year": 1915,
+    "cast": [
+      "Hobart Bosworth"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/buckshot-john.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Deep Impact",
+    "year": 1998,
+    "cast": [
+      "Robert Duvall",
+      "Téa Leoni",
+      "Morgan Freeman",
+      "Elijah Wood",
+      "Vanessa Redgrave",
+      "Maximilian Schell",
+      "Leelee Sobieski"
+    ],
+    "genres": [
+      "Disaster"
+    ]
+  },
+  "output": "movies/deep-impact.html"
+}

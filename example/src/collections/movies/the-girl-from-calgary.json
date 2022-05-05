@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Girl from Calgary",
+    "year": 1932,
+    "cast": [
+      "Fifi D'Orsay",
+      "Paul Kelly"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-girl-from-calgary.html"
+}

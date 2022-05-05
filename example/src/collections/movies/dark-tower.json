@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dark Tower",
+    "year": 1987,
+    "cast": [
+      "Michael Moriarty",
+      "Jenny Agutter",
+      "Theodore Bikel"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dark-tower.html"
+}

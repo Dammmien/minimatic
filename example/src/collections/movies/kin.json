@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Kin",
+    "year": 2018,
+    "cast": [
+      "Myles Truitt",
+      "Jack Reynor",
+      "Zoë Kravitz",
+      "Carrie Coon",
+      "Dennis Quaid",
+      "James Franco"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "output": "movies/kin.html"
+}

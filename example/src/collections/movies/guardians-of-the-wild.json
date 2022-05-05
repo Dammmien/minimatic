@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Guardians of the Wild",
+    "year": 1928,
+    "cast": [
+      "Jack Perrin",
+      "Ethlyne Clair"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/guardians-of-the-wild.html"
+}

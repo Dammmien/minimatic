@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "My Lady's Garter",
+    "year": 1920,
+    "cast": [
+      "Wyndham Standing",
+      "Sylvia Breamer"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/my-lady-s-garter.html"
+}

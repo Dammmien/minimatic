@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Corruption",
+    "year": 1933,
+    "cast": [
+      "Preston Foster",
+      "Tully Marshall",
+      "Evalyn Knapp"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/corruption.html"
+}

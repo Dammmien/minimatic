@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Great Waltz",
+    "year": 1938,
+    "cast": [
+      "Luise Rainer",
+      "Fernand Gravey",
+      "Lionel Atwill"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/the-great-waltz.html"
+}

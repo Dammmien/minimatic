@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Horse with the Flying Tail",
+    "year": 1960,
+    "cast": [
+      "George Fenneman",
+      "(narrator)"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-horse-with-the-flying-tail.html"
+}

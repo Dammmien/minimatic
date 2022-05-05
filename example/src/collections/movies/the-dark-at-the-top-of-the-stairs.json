@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Dark at the Top of the Stairs",
+    "year": 1960,
+    "cast": [
+      "Robert Preston",
+      "Dorothy McGuire",
+      "Eve Arden",
+      "Shirley Knight",
+      "Angela Lansbury"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-dark-at-the-top-of-the-stairs.html"
+}

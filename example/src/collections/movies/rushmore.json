@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rushmore",
+    "year": 1998,
+    "cast": [
+      "Jason Schwartzman",
+      "Bill Murray",
+      "Olivia Williams",
+      "Brian Cox"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/rushmore.html"
+}

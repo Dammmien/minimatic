@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "With This Ring",
+    "year": 1925,
+    "cast": [
+      "Alyce Mills",
+      "Forrest Stanley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/with-this-ring.html"
+}

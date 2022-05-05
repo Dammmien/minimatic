@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Round Midnight",
+    "year": 1986,
+    "cast": [
+      "Dexter Gordon"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/round-midnight.html"
+}

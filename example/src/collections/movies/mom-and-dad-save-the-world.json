@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mom and Dad Save the World",
+    "year": 1992,
+    "cast": [
+      "Teri Garr",
+      "Jon Lovitz",
+      "Jeffrey Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mom-and-dad-save-the-world.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Undisputed",
+    "year": 2002,
+    "cast": [
+      "Wesley Snipes",
+      "Ving Rhames",
+      "Peter Falk"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/undisputed.html"
+}

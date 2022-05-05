@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Mortal Kombat",
+    "year": 1995,
+    "cast": [
+      "Robin Shou",
+      "Linden Ashby",
+      "Bridgette Wilson",
+      "Christopher Lambert",
+      "Cary-Hiroyuki Tagawa",
+      "Talisa Soto",
+      "Trevor Goddard"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/mortal-kombat.html"
+}

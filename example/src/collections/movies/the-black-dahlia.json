@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Black Dahlia",
+    "year": 2006,
+    "cast": [
+      "Josh Hartnett",
+      "Scarlett Johansson",
+      "Aaron Eckhart",
+      "Hilary Swank"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-black-dahlia.html"
+}

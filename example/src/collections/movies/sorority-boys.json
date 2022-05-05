@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sorority Boys",
+    "year": 2002,
+    "cast": [
+      "Barry Watson",
+      "Michael Rosenbaum",
+      "Harland Williams"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sorority-boys.html"
+}

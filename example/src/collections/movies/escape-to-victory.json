@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Escape to Victory",
+    "year": 1981,
+    "cast": [
+      "Sylvester Stallone",
+      "Michael Caine",
+      "Max von Sydow"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/escape-to-victory.html"
+}

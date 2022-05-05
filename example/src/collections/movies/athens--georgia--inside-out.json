@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Athens, Georgia: Inside Out",
+    "year": 1987,
+    "cast": [
+      "R.E.M.",
+      "The B-52's"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/athens--georgia--inside-out.html"
+}

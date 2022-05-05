@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Empty Hands",
+    "year": 1924,
+    "cast": [
+      "Jack Holt",
+      "Norma Shearer"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/empty-hands.html"
+}

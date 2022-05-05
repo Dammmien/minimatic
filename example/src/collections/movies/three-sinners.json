@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Three Sinners",
+    "year": 1928,
+    "cast": [
+      "Pola Negri",
+      "Warner Baxter",
+      "Olga Baclanova"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/three-sinners.html"
+}

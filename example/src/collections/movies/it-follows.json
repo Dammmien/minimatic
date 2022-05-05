@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "It Follows",
+    "year": 2015,
+    "cast": [
+      "Maika Monroe",
+      "Keir Gilchrist",
+      "Jake Weary",
+      "Daniel Zovatto"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/it-follows.html"
+}

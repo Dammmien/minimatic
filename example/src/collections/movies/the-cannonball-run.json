@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Cannonball Run",
+    "year": 1981,
+    "cast": [
+      "Burt Reynolds",
+      "Dom DeLuise",
+      "Farrah Fawcett",
+      "Dean Martin",
+      "Sammy Davis Jr.",
+      "Roger Moore",
+      "Jackie Chan"
+    ],
+    "genres": [
+      "Comedy",
+      "Action"
+    ]
+  },
+  "output": "movies/the-cannonball-run.html"
+}

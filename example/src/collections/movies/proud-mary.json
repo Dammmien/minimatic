@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Proud Mary",
+    "year": 2018,
+    "cast": [
+      "Taraji P. Henson",
+      "Billy Brown",
+      "Danny Glover",
+      "Neal McDonough",
+      "Xander Berkeley",
+      "Margaret Avery"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  "output": "movies/proud-mary.html"
+}

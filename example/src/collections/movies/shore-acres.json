@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shore Acres",
+    "year": 1920,
+    "cast": [
+      "Alice Lake",
+      "Robert D. Walker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shore-acres.html"
+}

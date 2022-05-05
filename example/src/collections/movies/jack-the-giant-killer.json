@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Jack the Giant Killer",
+    "year": 2013,
+    "cast": [
+      "Ben Cross",
+      "Jane March",
+      "Jamie Atkins",
+      "Vicki Glover",
+      "Harry Dyer"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/jack-the-giant-killer.html"
+}

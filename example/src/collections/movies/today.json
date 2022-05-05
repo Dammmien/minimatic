@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Today",
+    "year": 1930,
+    "cast": [
+      "Conrad Nagel",
+      "Catherine Dale Owen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/today.html"
+}

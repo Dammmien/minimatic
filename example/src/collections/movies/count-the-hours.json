@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Count the Hours",
+    "year": 1953,
+    "cast": [
+      "Teresa Wright",
+      "Macdonald Carey"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/count-the-hours.html"
+}

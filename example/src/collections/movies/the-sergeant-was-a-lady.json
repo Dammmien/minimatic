@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sergeant Was a Lady",
+    "year": 1961,
+    "cast": [
+      "Venetia Stevenson",
+      "Bill Williams"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-sergeant-was-a-lady.html"
+}

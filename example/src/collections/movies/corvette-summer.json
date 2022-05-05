@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Corvette Summer",
+    "year": 1978,
+    "cast": [
+      "Mark Hamill",
+      "Annie Potts",
+      "Danny Bonaduce"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/corvette-summer.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Banning",
+    "year": 1967,
+    "cast": [
+      "Robert Wagner",
+      "Anjanette Comer",
+      "Jill St. John"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/banning.html"
+}

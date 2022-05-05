@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Calling of Dan Matthews",
+    "year": 1935,
+    "cast": [
+      "Richard Arlen",
+      "Charlotte Wynters",
+      "Donald Cook"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-calling-of-dan-matthews.html"
+}

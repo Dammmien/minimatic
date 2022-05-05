@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Blackboard Jungle",
+    "year": 1955,
+    "cast": [
+      "Glenn Ford",
+      "Sidney Poitier",
+      "Vic Morrow",
+      "Richard Kiley",
+      "Louis Calhern",
+      "Anne Francis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blackboard-jungle.html"
+}

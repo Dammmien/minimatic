@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Trilby",
+    "year": 1923,
+    "cast": [
+      "Andrée Lafayette",
+      "Creighton Hale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/trilby.html"
+}

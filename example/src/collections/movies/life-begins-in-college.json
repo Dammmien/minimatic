@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Life Begins in College",
+    "year": 1937,
+    "cast": [
+      "The Ritz Brothers",
+      "Gloria Stuart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/life-begins-in-college.html"
+}

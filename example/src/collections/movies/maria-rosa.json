@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Maria Rosa",
+    "year": 1916,
+    "cast": [
+      "Geraldine Farrar",
+      "Wallace Reid"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/maria-rosa.html"
+}

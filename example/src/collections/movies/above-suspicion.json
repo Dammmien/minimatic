@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Above Suspicion",
+    "year": 1995,
+    "cast": [
+      "Christopher Reeve",
+      "Kim Cattrall",
+      "Joe Mantegna"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/above-suspicion.html"
+}

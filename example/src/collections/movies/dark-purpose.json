@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dark Purpose",
+    "year": 1964,
+    "cast": [
+      "Shirley Jones",
+      "George Sanders"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dark-purpose.html"
+}

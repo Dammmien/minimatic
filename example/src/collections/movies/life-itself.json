@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Life Itself",
+    "year": 2018,
+    "cast": [
+      "Oscar Isaac",
+      "Olivia Wilde",
+      "Mandy Patinkin",
+      "Olivia Cooke",
+      "Laia Costa",
+      "Annette Bening",
+      "Antonio Banderas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/life-itself.html"
+}

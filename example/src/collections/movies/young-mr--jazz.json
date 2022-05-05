@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Young Mr. Jazz",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/young-mr--jazz.html"
+}

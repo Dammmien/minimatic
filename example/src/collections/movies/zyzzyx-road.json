@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Zyzzyx Road",
+    "year": 2006,
+    "cast": [
+      "Leo Grillo",
+      "Katherine Heigl",
+      "Tom Sizemore"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/zyzzyx-road.html"
+}

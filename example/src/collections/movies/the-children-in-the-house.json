@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Children in the House",
+    "year": 1916,
+    "cast": [
+      "Norma Talmadge",
+      "Eugene Pallette"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-children-in-the-house.html"
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Mobsters",
+    "year": 1991,
+    "cast": [
+      "Christian Slater",
+      "Patrick Dempsey",
+      "Richard Grieco",
+      "Costas Mandylor",
+      "Michael Gambon",
+      "Lara Flynn Boyle",
+      "Chris Penn",
+      "F. Murray Abraham",
+      "Anthony Quinn"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/mobsters.html"
+}

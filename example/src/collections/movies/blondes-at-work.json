@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Blondes At Work",
+    "year": 1938,
+    "cast": [
+      "Glenda Farrell",
+      "Barton MacLane",
+      "Tom Kennedy"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/blondes-at-work.html"
+}

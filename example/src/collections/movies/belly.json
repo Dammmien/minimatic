@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Belly",
+    "year": 1998,
+    "cast": [
+      "Nas",
+      "Tionne \"T-Boz\" Watkins",
+      "Method Man"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/belly.html"
+}

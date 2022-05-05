@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Starfighters",
+    "year": 1964,
+    "cast": [
+      "Bob Dorman"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-starfighters.html"
+}

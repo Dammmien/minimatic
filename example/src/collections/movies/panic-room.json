@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Panic Room",
+    "year": 2002,
+    "cast": [
+      "Jodie Foster",
+      "Kristen Stewart",
+      "Forest Whitaker",
+      "Jared Leto",
+      "Dwight Yoakam"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/panic-room.html"
+}

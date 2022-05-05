@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Moving Violation",
+    "year": 1976,
+    "cast": [
+      "Stephen McHattie",
+      "Kay Lenz"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/moving-violation.html"
+}

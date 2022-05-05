@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Grindhouse",
+    "year": 2007,
+    "cast": [
+      "Freddy Rodríguez",
+      "Kurt Russell",
+      "Rose McGowan",
+      "Rosario Dawson",
+      "Tracie Thoms",
+      "Zoë Bell",
+      "Josh Brolin",
+      "Bruce Willis"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/grindhouse.html"
+}

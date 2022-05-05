@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Claudia",
+    "year": 1943,
+    "cast": [
+      "Dorothy McGuire",
+      "Robert Young",
+      "Ina Claire"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/claudia.html"
+}

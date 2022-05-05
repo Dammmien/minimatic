@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Freaks",
+    "year": 1932,
+    "cast": [
+      "Wallace Ford",
+      "Leila Hyams",
+      "Olga Baclanova"
+    ],
+    "genres": [
+      "Drama",
+      "Horror"
+    ]
+  },
+  "output": "movies/freaks.html"
+}

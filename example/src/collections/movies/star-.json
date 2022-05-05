@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Star!",
+    "year": 1968,
+    "cast": [
+      "Julie Andrews",
+      "Daniel Massey",
+      "Richard Crenna"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/star-.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man from Monterey",
+    "year": 1933,
+    "cast": [
+      "John Wayne",
+      "Ruth Hall",
+      "Lafe McKee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-man-from-monterey.html"
+}

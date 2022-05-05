@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl Who Wouldn't Work",
+    "year": 1925,
+    "cast": [
+      "Lionel Barrymore",
+      "Marguerite De La Motte"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-girl-who-wouldn-t-work.html"
+}

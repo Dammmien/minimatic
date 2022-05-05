@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Spectacular Now",
+    "year": 2013,
+    "cast": [
+      "Miles Teller",
+      "Shailene Woodley",
+      "Brie Larson",
+      "Jennifer Jason Leigh",
+      "Kyle Chandler"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-spectacular-now.html"
+}

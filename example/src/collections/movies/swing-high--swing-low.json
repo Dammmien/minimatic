@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Swing High, Swing Low",
+    "year": 1937,
+    "cast": [
+      "Dorothy Lamour",
+      "Carole Lombard",
+      "Fred MacMurray"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/swing-high--swing-low.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Bachelorette",
+    "year": 2012,
+    "cast": [
+      "Kirsten Dunst",
+      "Isla Fisher",
+      "Lizzy Caplan",
+      "James Marsden",
+      "Kyle Bornheimer",
+      "Rebel Wilson",
+      "Adam Scott"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bachelorette.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hawthorne of the U.S.A.",
+    "year": 1919,
+    "cast": [
+      "Wallace Reid",
+      "Lila Lee"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hawthorne-of-the-u-s-a-.html"
+}

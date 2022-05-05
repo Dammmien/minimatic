@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Outcasts of the City",
+    "year": 1958,
+    "cast": [
+      "Osa Massen",
+      "Robert Hutton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/outcasts-of-the-city.html"
+}

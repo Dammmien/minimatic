@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Navy Spy",
+    "year": 1937,
+    "cast": [
+      "Conrad Nagel",
+      "Eleanor Hunt",
+      "Judith Allen"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/navy-spy.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Get Out",
+    "year": 2017,
+    "cast": [
+      "Daniel Kaluuya",
+      "Allison Williams",
+      "Catherine Keener",
+      "Bradley Whitford",
+      "Caleb Landry Jones"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/get-out.html"
+}

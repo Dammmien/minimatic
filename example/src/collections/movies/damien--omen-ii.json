@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Damien: Omen II",
+    "year": 1978,
+    "cast": [
+      "William Holden",
+      "Lee Grant"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/damien--omen-ii.html"
+}

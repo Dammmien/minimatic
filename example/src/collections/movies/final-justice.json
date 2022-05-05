@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Final Justice",
+    "year": 1985,
+    "cast": [
+      "Joe Don Baker",
+      "Rossano Brazzi",
+      "Venantino Venantini"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/final-justice.html"
+}

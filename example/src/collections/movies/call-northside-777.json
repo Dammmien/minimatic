@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Call Northside 777",
+    "year": 1948,
+    "cast": [
+      "James Stewart",
+      "Richard Conte"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/call-northside-777.html"
+}

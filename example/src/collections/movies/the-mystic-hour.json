@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mystic Hour",
+    "year": 1933,
+    "cast": [
+      "Charles Hutchison",
+      "Lucille Powers",
+      "Montagu Love"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-mystic-hour.html"
+}

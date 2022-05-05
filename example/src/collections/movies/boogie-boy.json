@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Boogie Boy",
+    "year": 1997,
+    "cast": [
+      "Traci Lords",
+      "Frederic Forrest",
+      "Joan Jett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/boogie-boy.html"
+}

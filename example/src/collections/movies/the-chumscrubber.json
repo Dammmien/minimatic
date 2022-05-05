@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Chumscrubber",
+    "year": 2005,
+    "cast": [
+      "Glenn Close",
+      "Ralph Fiennes",
+      "Caroline Goodall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-chumscrubber.html"
+}

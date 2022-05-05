@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Women in Cages",
+    "year": 1971,
+    "cast": [
+      "Pam Grier",
+      "Jennifer Gan"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/women-in-cages.html"
+}

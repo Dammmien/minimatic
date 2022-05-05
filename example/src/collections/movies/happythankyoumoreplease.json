@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Happythankyoumoreplease",
+    "year": 2011,
+    "cast": [
+      "Josh Radnor",
+      "Malin Åkerman",
+      "Kate Mara",
+      "Zoe Kazan",
+      "Pablo Schreiber",
+      "Tony Hale"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/happythankyoumoreplease.html"
+}

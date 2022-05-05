@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crime Doctor's Warning",
+    "year": 1945,
+    "cast": [
+      "Warner Baxter",
+      "Dusty Anderson"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/crime-doctor-s-warning.html"
+}

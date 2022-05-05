@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "South of the Rio Grande",
+    "year": 1945,
+    "cast": [
+      "Duncan Renaldo",
+      "Martin Garralaga",
+      "Lillian Molieri"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/south-of-the-rio-grande.html"
+}

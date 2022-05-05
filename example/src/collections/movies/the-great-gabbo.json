@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Great Gabbo",
+    "year": 1929,
+    "cast": [
+      "Erich von Stroheim",
+      "Betty Compson"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-great-gabbo.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The White Sheep",
+    "year": 1924,
+    "cast": [
+      "Glenn Tryon",
+      "Blanche Mehaffey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-white-sheep.html"
+}
