@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Morituri",
+    "year": 1965,
+    "cast": [
+      "Marlon Brando",
+      "Yul Brynner",
+      "Wally Cox",
+      "Janet Margolin"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/morituri.html"
+}

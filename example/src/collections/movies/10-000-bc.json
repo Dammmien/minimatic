@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "10,000 BC",
+    "year": 2008,
+    "cast": [
+      "Steven Strait",
+      "Camilla Belle",
+      "Cliff Curtis"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/10-000-bc.html"
+}

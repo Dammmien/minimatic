@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Seminole",
+    "year": 1953,
+    "cast": [
+      "Rock Hudson",
+      "Anthony Quinn",
+      "Barbara Hale"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/seminole.html"
+}

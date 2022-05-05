@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Let's Dance",
+    "year": 1950,
+    "cast": [
+      "Betty Hutton",
+      "Fred Astaire",
+      "Roland Young"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/let-s-dance.html"
+}

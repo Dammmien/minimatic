@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sister Kenny",
+    "year": 1946,
+    "cast": [
+      "Rosalind Russell",
+      "Alexander Knox"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/sister-kenny.html"
+}

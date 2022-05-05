@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Beau Geste",
+    "year": 1939,
+    "cast": [
+      "Gary Cooper",
+      "Ray Milland",
+      "Robert Preston",
+      "Brian Donlevy",
+      "Susan Hayward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beau-geste.html"
+}

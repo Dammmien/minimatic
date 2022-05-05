@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Honor First",
+    "year": 1922,
+    "cast": [
+      "John Gilbert",
+      "Renée Adorée"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/honor-first.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "What Fools Men",
+    "year": 1925,
+    "cast": [
+      "Lewis Stone",
+      "Shirley Mason"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/what-fools-men.html"
+}

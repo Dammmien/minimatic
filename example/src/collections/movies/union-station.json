@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Union Station",
+    "year": 1950,
+    "cast": [
+      "William Holden",
+      "Barry Fitzgerald",
+      "Nancy Olson"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/union-station.html"
+}

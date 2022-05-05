@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Horsemen of the Sierras",
+    "year": 1949,
+    "cast": [
+      "Charles Starrett",
+      "Smiley Burnette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/horsemen-of-the-sierras.html"
+}

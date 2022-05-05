@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "New Frontier",
+    "year": 1939,
+    "cast": [
+      "John Wayne",
+      "Jennifer Jones"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/new-frontier.html"
+}

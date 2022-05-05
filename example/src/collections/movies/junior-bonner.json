@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Junior Bonner",
+    "year": 1972,
+    "cast": [
+      "Steve McQueen",
+      "Robert Preston",
+      "Ida Lupino",
+      "Joe Don Baker",
+      "Barbara Leigh",
+      "Ben Johnson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/junior-bonner.html"
+}

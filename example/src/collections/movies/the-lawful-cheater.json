@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lawful Cheater",
+    "year": 1925,
+    "cast": [
+      "Clara Bow",
+      "Raymond McKee"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-lawful-cheater.html"
+}

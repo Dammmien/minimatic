@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Crazy as Hell",
+    "year": 2002,
+    "cast": [
+      "Eriq La Salle",
+      "Michael Beach",
+      "Ronny Cox",
+      "Tia Texada"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/crazy-as-hell.html"
+}

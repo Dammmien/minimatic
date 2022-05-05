@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Headin' for the Rio Grande",
+    "year": 1936,
+    "cast": [
+      "Tex Ritter",
+      "Warner Richmond",
+      "Eleanor Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/headin--for-the-rio-grande.html"
+}

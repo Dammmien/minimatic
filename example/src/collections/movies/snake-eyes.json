@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Snake Eyes",
+    "year": 1998,
+    "cast": [
+      "Nicolas Cage",
+      "Gary Sinise",
+      "Carla Gugino",
+      "John Heard",
+      "Stan Shaw"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/snake-eyes.html"
+}

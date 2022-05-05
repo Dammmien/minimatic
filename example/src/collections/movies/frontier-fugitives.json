@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Frontier Fugitives",
+    "year": 1945,
+    "cast": [
+      "Tex Ritter",
+      "Lorraine Miller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/frontier-fugitives.html"
+}

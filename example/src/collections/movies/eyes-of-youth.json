@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Eyes of Youth",
+    "year": 1919,
+    "cast": [
+      "Clara Kimball Young",
+      "Gareth Hughes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/eyes-of-youth.html"
+}

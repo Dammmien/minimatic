@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Valley of Vengeance",
+    "year": 1944,
+    "cast": [
+      "Buster Crabbe",
+      "Evelyn Finley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/valley-of-vengeance.html"
+}

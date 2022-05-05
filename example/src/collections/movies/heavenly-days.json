@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Heavenly Days",
+    "year": 1944,
+    "cast": [
+      "Jim Jordan",
+      "Marian Jordan",
+      "Barbara Hale"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/heavenly-days.html"
+}

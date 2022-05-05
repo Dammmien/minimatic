@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Chappaquiddick",
+    "year": 2018,
+    "cast": [
+      "Jason Clarke",
+      "Kate Mara",
+      "Ed Helms",
+      "Bruce Dern",
+      "Jim Gaffigan",
+      "Taylor Nichols"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/chappaquiddick.html"
+}

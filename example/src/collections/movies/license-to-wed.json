@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "License to Wed",
+    "year": 2007,
+    "cast": [
+      "Robin Williams",
+      "Mandy Moore",
+      "John Krasinski"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/license-to-wed.html"
+}

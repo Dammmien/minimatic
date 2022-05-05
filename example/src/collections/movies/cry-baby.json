@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Cry-Baby",
+    "year": 1990,
+    "cast": [
+      "Johnny Depp",
+      "Amy Locane",
+      "Susan Tyrrell",
+      "Iggy Pop",
+      "Ricki Lake",
+      "Traci Lords",
+      "Polly Bergen"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/cry-baby.html"
+}

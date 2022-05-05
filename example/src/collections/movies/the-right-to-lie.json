@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Right to Lie",
+    "year": 1919,
+    "cast": [
+      "Dolores Cassinelli",
+      "Joe King"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-right-to-lie.html"
+}

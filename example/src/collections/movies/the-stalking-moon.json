@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Stalking Moon",
+    "year": 1968,
+    "cast": [
+      "Gregory Peck",
+      "Eva Marie Saint"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-stalking-moon.html"
+}

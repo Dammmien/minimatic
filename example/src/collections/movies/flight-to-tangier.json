@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flight to Tangier",
+    "year": 1953,
+    "cast": [
+      "Jack Palance",
+      "Joan Fontaine"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/flight-to-tangier.html"
+}

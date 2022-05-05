@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Emperor's Club",
+    "year": 2002,
+    "cast": [
+      "Kevin Kline",
+      "Emile Hirsch",
+      "Embeth Davidtz",
+      "Rob Morrow",
+      "Harris Yulin",
+      "Jesse Eisenberg"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-emperor-s-club.html"
+}

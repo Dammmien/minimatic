@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Written on the Wind",
+    "year": 1956,
+    "cast": [
+      "Rock Hudson",
+      "Lauren Bacall",
+      "Robert Stack",
+      "Dorothy Malone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/written-on-the-wind.html"
+}

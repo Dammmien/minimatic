@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Killer Tomatoes Strike Back",
+    "year": 1990,
+    "cast": [
+      "John Astin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/killer-tomatoes-strike-back.html"
+}

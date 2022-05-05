@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Dangerous Liaisons",
+    "year": 1988,
+    "cast": [
+      "Michelle Pfeiffer",
+      "Glenn Close",
+      "John Malkovich",
+      "Keanu Reeves",
+      "Uma Thurman",
+      "Swoosie Kurtz",
+      "Mildred Natwick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dangerous-liaisons.html"
+}

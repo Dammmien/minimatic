@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "102 Dalmatians",
+    "year": 2000,
+    "cast": [
+      "Glenn Close",
+      "Gérard Depardieu",
+      "Alice Evans"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/102-dalmatians.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Girl, Interrupted",
+    "year": 1999,
+    "cast": [
+      "Winona Ryder",
+      "Angelina Jolie",
+      "Clea DuVall",
+      "Brittany Murphy",
+      "Vanessa Redgrave",
+      "Whoopi Goldberg"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/girl--interrupted.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Lookout",
+    "year": 2007,
+    "cast": [
+      "Joseph Gordon-Levitt",
+      "Jeff Daniels",
+      "Matthew Goode",
+      "Isla Fisher"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-lookout.html"
+}

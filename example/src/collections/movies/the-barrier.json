@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Barrier",
+    "year": 1937,
+    "cast": [
+      "Leo Carrillo",
+      "Jean Parker",
+      "Otto Kruger"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-barrier.html"
+}

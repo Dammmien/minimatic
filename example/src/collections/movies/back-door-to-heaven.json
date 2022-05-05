@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Back Door to Heaven",
+    "year": 1939,
+    "cast": [
+      "Wallace Ford",
+      "Aline MacMahon"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/back-door-to-heaven.html"
+}

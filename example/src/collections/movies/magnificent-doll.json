@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Magnificent Doll",
+    "year": 1946,
+    "cast": [
+      "Ginger Rogers",
+      "David Niven"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/magnificent-doll.html"
+}

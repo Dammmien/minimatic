@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Lone Star",
+    "year": 1996,
+    "cast": [
+      "Chris Cooper",
+      "Matthew McConaughey",
+      "Kris Kristofferson",
+      "Elizabeth Peña"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/lone-star.html"
+}

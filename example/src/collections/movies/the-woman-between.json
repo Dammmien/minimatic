@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman Between",
+    "year": 1931,
+    "cast": [
+      "Lili Damita",
+      "Lester Vail"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woman-between.html"
+}

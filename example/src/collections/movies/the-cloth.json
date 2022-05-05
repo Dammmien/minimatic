@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Cloth",
+    "year": 2013,
+    "cast": [
+      "Danny Trejo",
+      "Eric Roberts",
+      "Rachele Brooke Smith",
+      "Justin Price"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-cloth.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bought",
+    "year": 1931,
+    "cast": [
+      "Constance Bennett",
+      "Ben Lyon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bought.html"
+}

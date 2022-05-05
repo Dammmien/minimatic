@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Friendly Enemies",
+    "year": 1942,
+    "cast": [
+      "Charles Winninger",
+      "Charles Ruggles"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/friendly-enemies.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rush Hour 3",
+    "year": 2007,
+    "cast": [
+      "Jackie Chan",
+      "Chris Tucker"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/rush-hour-3.html"
+}

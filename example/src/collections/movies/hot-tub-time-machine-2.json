@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hot Tub Time Machine 2",
+    "year": 2015,
+    "cast": [
+      "Craig Robinson",
+      "Rob Corddry",
+      "Clark Duke",
+      "Chevy Chase"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hot-tub-time-machine-2.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Civilization",
+    "year": 1916,
+    "cast": [
+      "Howard C. Hickman",
+      "Enid Markey",
+      "George Fisher"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/civilization.html"
+}

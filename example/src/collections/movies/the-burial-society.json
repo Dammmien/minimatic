@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Burial Society",
+    "year": 2002,
+    "cast": [
+      "Rob LaBelle",
+      "Jan Rubeš",
+      "Allan Rich"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-burial-society.html"
+}

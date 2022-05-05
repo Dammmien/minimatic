@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Outlaws of the Prairie",
+    "year": 1937,
+    "cast": [
+      "Charles Starrett",
+      "Iris Meredith"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/outlaws-of-the-prairie.html"
+}

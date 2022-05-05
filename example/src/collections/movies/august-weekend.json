@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "August Weekend",
+    "year": 1936,
+    "cast": [
+      "Valerie Hobson",
+      "Paul Harvey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/august-weekend.html"
+}

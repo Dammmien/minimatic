@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bill Cracks Down",
+    "year": 1937,
+    "cast": [
+      "Grant Withers",
+      "Beatrice Roberts"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/bill-cracks-down.html"
+}

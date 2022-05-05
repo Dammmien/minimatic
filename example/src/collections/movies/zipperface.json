@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Zipperface",
+    "year": 1992,
+    "cast": [
+      "David Clover",
+      "Donna Adams",
+      "Jonathan Mandell"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/zipperface.html"
+}

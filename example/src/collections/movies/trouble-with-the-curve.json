@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Trouble with the Curve",
+    "year": 2012,
+    "cast": [
+      "Clint Eastwood",
+      "Amy Adams",
+      "Justin Timberlake",
+      "and",
+      "John Goodman",
+      "Matthew Lillard",
+      "Scott Eastwood"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/trouble-with-the-curve.html"
+}

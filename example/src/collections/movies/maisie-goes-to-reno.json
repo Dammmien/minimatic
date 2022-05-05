@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Maisie Goes to Reno",
+    "year": 1944,
+    "cast": [
+      "Ann Sothern",
+      "John Hodiak"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/maisie-goes-to-reno.html"
+}

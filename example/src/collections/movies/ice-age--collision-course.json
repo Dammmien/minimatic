@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ice Age: Collision Course",
+    "year": 2016,
+    "cast": [
+      "Ray Romano",
+      "John Leguizamo"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/ice-age--collision-course.html"
+}

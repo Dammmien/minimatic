@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kit Carson",
+    "year": 1928,
+    "cast": [
+      "Fred Thomson",
+      "Nora Lane"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/kit-carson.html"
+}

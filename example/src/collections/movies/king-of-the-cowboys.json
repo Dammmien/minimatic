@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "King of the Cowboys",
+    "year": 1943,
+    "cast": [
+      "Roy Rogers",
+      "Peggy Moran"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/king-of-the-cowboys.html"
+}

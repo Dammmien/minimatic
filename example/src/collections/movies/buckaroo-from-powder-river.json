@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Buckaroo from Powder River",
+    "year": 1947,
+    "cast": [
+      "Charles Starrett",
+      "Eve Miller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/buckaroo-from-powder-river.html"
+}

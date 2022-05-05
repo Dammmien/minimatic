@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "David Copperfield",
+    "year": 1935,
+    "cast": [
+      "Frank Lawton",
+      "Roland Young",
+      "Maureen O'Sullivan"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/david-copperfield.html"
+}

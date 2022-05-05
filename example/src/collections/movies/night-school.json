@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Night School",
+    "year": 2018,
+    "cast": [
+      "Kevin Hart",
+      "Tiffany Haddish",
+      "Taran Killam",
+      "Rob Riggle",
+      "Ben Schwartz",
+      "Yvonne Orji"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/night-school.html"
+}

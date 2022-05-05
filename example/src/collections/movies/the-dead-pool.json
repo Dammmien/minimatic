@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Dead Pool",
+    "year": 1988,
+    "cast": [
+      "Clint Eastwood",
+      "Liam Neeson",
+      "Patricia Clarkson",
+      "Jim Carrey"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-dead-pool.html"
+}

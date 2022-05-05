@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Call of the Prairie",
+    "year": 1936,
+    "cast": [
+      "William Boyd",
+      "Muriel Evans"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/call-of-the-prairie.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Johnny Got His Gun",
+    "year": 1971,
+    "cast": [
+      "Timothy Bottoms",
+      "Diane Varsi",
+      "Donald Sutherland"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/johnny-got-his-gun.html"
+}

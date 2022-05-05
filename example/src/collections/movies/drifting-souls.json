@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Drifting Souls",
+    "year": 1932,
+    "cast": [
+      "Lois Wilson",
+      "Theodore von Eltz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/drifting-souls.html"
+}

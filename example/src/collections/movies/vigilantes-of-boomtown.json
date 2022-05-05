@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Vigilantes of Boomtown",
+    "year": 1947,
+    "cast": [
+      "Allan Lane",
+      "Peggy Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/vigilantes-of-boomtown.html"
+}

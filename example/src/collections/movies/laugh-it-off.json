@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Laugh It Off",
+    "year": 1939,
+    "cast": [
+      "Johnny Downs",
+      "Constance Moore"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/laugh-it-off.html"
+}

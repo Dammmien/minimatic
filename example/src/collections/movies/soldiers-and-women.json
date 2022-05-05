@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Soldiers and Women",
+    "year": 1930,
+    "cast": [
+      "Aileen Pringle",
+      "Grant Withers"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/soldiers-and-women.html"
+}

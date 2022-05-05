@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Devil-Stone",
+    "year": 1917,
+    "cast": [
+      "Geraldine Farrar",
+      "Wallace Reid"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-devil-stone.html"
+}

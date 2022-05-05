@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Kung Fu Panda 3",
+    "year": 2016,
+    "cast": [
+      "Jack Black",
+      "Angelina Jolie",
+      "Dustin Hoffman",
+      "Seth Rogen"
+    ],
+    "genres": [
+      "Animated",
+      "Martial Arts",
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/kung-fu-panda-3.html"
+}

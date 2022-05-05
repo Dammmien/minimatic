@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Love You, Alice B. Toklas",
+    "year": 1968,
+    "cast": [
+      "Peter Sellers",
+      "Leigh Taylor-Young"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-love-you--alice-b--toklas.html"
+}

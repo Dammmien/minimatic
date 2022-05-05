@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Princess O'Hara",
+    "year": 1935,
+    "cast": [
+      "Jean Parker",
+      "Chester Morris",
+      "Ralph Remley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/princess-o-hara.html"
+}

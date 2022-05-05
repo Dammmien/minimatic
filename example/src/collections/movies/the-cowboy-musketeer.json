@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Cowboy Musketeer",
+    "year": 1925,
+    "cast": [
+      "Tom Tyler",
+      "Frankie Darro"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-cowboy-musketeer.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Land of the Outlaws",
+    "year": 1944,
+    "cast": [
+      "Johnny Mack Brown",
+      "Raymond Hatton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/land-of-the-outlaws.html"
+}

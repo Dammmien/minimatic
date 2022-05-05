@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Yes Men",
+    "year": 2003,
+    "cast": [
+      "the",
+      "culture jamming",
+      "exploits of",
+      "The Yes Men"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-yes-men.html"
+}

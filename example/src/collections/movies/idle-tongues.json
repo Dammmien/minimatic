@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Idle Tongues",
+    "year": 1924,
+    "cast": [
+      "Percy Marmont",
+      "Doris Kenyon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/idle-tongues.html"
+}

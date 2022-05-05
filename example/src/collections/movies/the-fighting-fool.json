@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fighting Fool",
+    "year": 1932,
+    "cast": [
+      "Tim McCoy",
+      "Marceline Day"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fighting-fool.html"
+}

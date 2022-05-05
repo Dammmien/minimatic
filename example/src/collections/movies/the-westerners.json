@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Westerners",
+    "year": 1919,
+    "cast": [
+      "Robert McKim",
+      "Wilfred Lucas"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-westerners.html"
+}

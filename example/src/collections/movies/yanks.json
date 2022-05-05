@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Yanks",
+    "year": 1979,
+    "cast": [
+      "Richard Gere",
+      "Vanessa Redgrave",
+      "Lisa Eichhorn"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/yanks.html"
+}

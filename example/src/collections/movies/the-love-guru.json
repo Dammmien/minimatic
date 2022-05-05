@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Love Guru",
+    "year": 2008,
+    "cast": [
+      "Mike Myers",
+      "Jessica Alba",
+      "Romany Malco",
+      "Justin Timberlake"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-love-guru.html"
+}

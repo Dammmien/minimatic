@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Solo: A Star Wars Story",
+    "year": 2018,
+    "cast": [
+      "Alden Ehrenreich",
+      "Woody Harrelson",
+      "Emilia Clarke",
+      "Donald Glover",
+      "Thandie Newton",
+      "Phoebe Waller-Bridge",
+      "Joonas Suotamo",
+      "Paul Bettany"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Comedy",
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/solo--a-star-wars-story.html"
+}

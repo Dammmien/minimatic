@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Chocolate of the Gang",
+    "year": 1918,
+    "cast": [
+      "Thomas Bellamy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-chocolate-of-the-gang.html"
+}

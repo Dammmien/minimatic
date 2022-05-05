@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Safety Last!",
+    "year": 1923,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/safety-last-.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Huck and Tom",
+    "year": 1918,
+    "cast": [
+      "Jack Pickford",
+      "Robert Gordon"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/huck-and-tom.html"
+}

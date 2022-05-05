@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Grind",
+    "year": 2003,
+    "cast": [
+      "Mike Vogel",
+      "Adam Brody",
+      "Vince Vieluf",
+      "Joey Kern"
+    ],
+    "genres": [
+      "Comedy",
+      "Sports"
+    ]
+  },
+  "output": "movies/grind.html"
+}

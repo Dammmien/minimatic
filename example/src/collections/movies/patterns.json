@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Patterns",
+    "year": 1956,
+    "cast": [
+      "Van Heflin",
+      "Everett Sloane",
+      "Ed Begley",
+      "Beatrice Straight"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/patterns.html"
+}

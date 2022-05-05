@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bad Man from Red Butte",
+    "year": 1940,
+    "cast": [
+      "Johnny Mack Brown",
+      "Bob Baker",
+      "Fuzzy Knight"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bad-man-from-red-butte.html"
+}

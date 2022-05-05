@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Misadventures of Merlin Jones",
+    "year": 1964,
+    "cast": [
+      "Annette Funicello",
+      "Tommy Kirk"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-misadventures-of-merlin-jones.html"
+}

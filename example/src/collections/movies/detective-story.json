@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Detective Story",
+    "year": 1951,
+    "cast": [
+      "Kirk Douglas",
+      "William Bendix",
+      "Eleanor Parker",
+      "Joseph Wiseman",
+      "Lee Grant"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/detective-story.html"
+}

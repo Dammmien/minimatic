@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Strange Conquest",
+    "year": 1946,
+    "cast": [
+      "Jane Wyatt",
+      "Lowell Gilmore",
+      "Julie Bishop"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/strange-conquest.html"
+}

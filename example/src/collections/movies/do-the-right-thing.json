@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Do the Right Thing",
+    "year": 1989,
+    "cast": [
+      "Danny Aiello",
+      "Spike Lee",
+      "John Turturro",
+      "Bill Nunn",
+      "Ossie Davis",
+      "Giancarlo Esposito",
+      "Richard Edson",
+      "Rosie Perez",
+      "Ruby Dee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/do-the-right-thing.html"
+}

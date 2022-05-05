@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Big Stan",
+    "year": 2007,
+    "cast": [
+      "Rob Schneider",
+      "David Carradine",
+      "M. Emmet Walsh"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/big-stan.html"
+}

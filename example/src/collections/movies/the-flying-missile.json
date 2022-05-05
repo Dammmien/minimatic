@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Flying Missile",
+    "year": 1950,
+    "cast": [
+      "Glenn Ford",
+      "Viveca Lindfors"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-flying-missile.html"
+}

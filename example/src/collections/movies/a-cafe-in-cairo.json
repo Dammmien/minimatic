@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Cafe in Cairo",
+    "year": 1924,
+    "cast": [
+      "Priscilla Dean",
+      "Robert Ellis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-cafe-in-cairo.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ready to Rumble",
+    "year": 2000,
+    "cast": [
+      "David Arquette",
+      "Oliver Platt",
+      "Scott Caan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ready-to-rumble.html"
+}

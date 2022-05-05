@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Bounty Hunter",
+    "year": 2010,
+    "cast": [
+      "Jennifer Aniston",
+      "Gerard Butler"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bounty-hunter.html"
+}

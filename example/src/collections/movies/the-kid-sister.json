@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Kid Sister",
+    "year": 1945,
+    "cast": [
+      "Roger Pryor",
+      "Constance Worth"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-kid-sister.html"
+}

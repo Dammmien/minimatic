@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Be Yourself",
+    "year": 1930,
+    "cast": [
+      "Fanny Brice",
+      "Robert Armstrong"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/be-yourself.html"
+}

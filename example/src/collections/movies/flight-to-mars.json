@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Flight to Mars",
+    "year": 1951,
+    "cast": [
+      "Marguerite Chapman",
+      "Cameron Mitchell",
+      "Virginia Huston"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/flight-to-mars.html"
+}

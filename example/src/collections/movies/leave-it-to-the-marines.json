@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Leave It to the Marines",
+    "year": 1951,
+    "cast": [
+      "Sid Melton",
+      "Margia Dean"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/leave-it-to-the-marines.html"
+}

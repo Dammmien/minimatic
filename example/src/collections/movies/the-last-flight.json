@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Last Flight",
+    "year": 1931,
+    "cast": [
+      "Richard Barthelmess",
+      "David Manners"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-last-flight.html"
+}

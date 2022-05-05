@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Brady Bunch Movie",
+    "year": 1995,
+    "cast": [
+      "Shelley Long",
+      "Gary Cole",
+      "Christine Taylor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-brady-bunch-movie.html"
+}

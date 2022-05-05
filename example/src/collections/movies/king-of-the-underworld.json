@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "King of the Underworld",
+    "year": 1939,
+    "cast": [
+      "Humphrey Bogart",
+      "Kay Francis"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/king-of-the-underworld.html"
+}

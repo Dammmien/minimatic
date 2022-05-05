@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shanghai Surprise",
+    "year": 1986,
+    "cast": [
+      "Sean Penn",
+      "Madonna"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/shanghai-surprise.html"
+}

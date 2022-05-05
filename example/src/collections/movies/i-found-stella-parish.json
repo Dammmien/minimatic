@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Found Stella Parish",
+    "year": 1935,
+    "cast": [
+      "Kay Francis",
+      "Ian Hunter",
+      "Paul Lukas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-found-stella-parish.html"
+}

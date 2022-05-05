@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Wizard of Oz",
+    "year": 1939,
+    "cast": [
+      "Judy Garland",
+      "Frank Morgan",
+      "Ray Bolger",
+      "Jack Haley",
+      "Bert Lahr",
+      "Billie Burke",
+      "Charley Grapewin",
+      "Margaret Hamilton"
+    ],
+    "genres": [
+      "Musical",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-wizard-of-oz.html"
+}

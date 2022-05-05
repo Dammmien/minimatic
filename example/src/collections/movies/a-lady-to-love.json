@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Lady to Love",
+    "year": 1930,
+    "cast": [
+      "Edward G. Robinson",
+      "Vilma Bánky",
+      "Robert Ames"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-lady-to-love.html"
+}

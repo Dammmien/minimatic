@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Salvador",
+    "year": 1986,
+    "cast": [
+      "James Woods",
+      "James Belushi",
+      "Michael Murphy",
+      "John Savage"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/salvador.html"
+}

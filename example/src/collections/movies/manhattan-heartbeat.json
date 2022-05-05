@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Manhattan Heartbeat",
+    "year": 1940,
+    "cast": [
+      "Robert Sterling",
+      "Virginia Gilmore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/manhattan-heartbeat.html"
+}

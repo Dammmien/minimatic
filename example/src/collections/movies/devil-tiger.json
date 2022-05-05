@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Devil Tiger",
+    "year": 1934,
+    "cast": [
+      "Marion Burns",
+      "Kane Richmond"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/devil-tiger.html"
+}

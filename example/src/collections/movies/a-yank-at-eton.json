@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Yank at Eton",
+    "year": 1942,
+    "cast": [
+      "Mickey Rooney",
+      "Edmund Gwenn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-yank-at-eton.html"
+}

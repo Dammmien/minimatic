@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The House of Intrigue",
+    "year": 1919,
+    "cast": [
+      "Mignon Anderson",
+      "Lloyd Bacon"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-house-of-intrigue.html"
+}

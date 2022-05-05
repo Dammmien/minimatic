@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Aladdin and His Lamp",
+    "year": 1952,
+    "cast": [
+      "Johnny Sands",
+      "Patricia Medina"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/aladdin-and-his-lamp.html"
+}

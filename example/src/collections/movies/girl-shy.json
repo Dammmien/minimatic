@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Girl Shy",
+    "year": 1924,
+    "cast": [
+      "Harold Lloyd",
+      "Jobyna Ralston"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/girl-shy.html"
+}

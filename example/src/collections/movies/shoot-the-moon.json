@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shoot the Moon",
+    "year": 1982,
+    "cast": [
+      "Albert Finney",
+      "Diane Keaton",
+      "Karen Allen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shoot-the-moon.html"
+}

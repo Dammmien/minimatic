@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Switchback",
+    "year": 1997,
+    "cast": [
+      "Dennis Quaid",
+      "Danny Glover",
+      "Jared Leto"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/switchback.html"
+}

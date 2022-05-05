@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "This Day and Age",
+    "year": 1933,
+    "cast": [
+      "Charles Bickford",
+      "Richard Cromwell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/this-day-and-age.html"
+}

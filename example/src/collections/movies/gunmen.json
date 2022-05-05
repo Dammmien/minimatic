@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gunmen",
+    "year": 1994,
+    "cast": [
+      "Christopher Lambert",
+      "Mario Van Peebles",
+      "Denis Leary"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/gunmen.html"
+}

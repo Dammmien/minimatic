@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Harlem Nights",
+    "year": 1989,
+    "cast": [
+      "Eddie Murphy",
+      "Richard Pryor",
+      "Danny Aiello",
+      "Redd Foxx",
+      "Jasmine Guy",
+      "Michael Lerner",
+      "Stan Shaw",
+      "Arsenio Hall"
+    ],
+    "genres": [
+      "Crime",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/harlem-nights.html"
+}

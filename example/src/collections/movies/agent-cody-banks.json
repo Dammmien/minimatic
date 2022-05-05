@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Agent Cody Banks",
+    "year": 2003,
+    "cast": [
+      "Frankie Muniz",
+      "Hilary Duff"
+    ],
+    "genres": [
+      "Action",
+      "Family"
+    ]
+  },
+  "output": "movies/agent-cody-banks.html"
+}

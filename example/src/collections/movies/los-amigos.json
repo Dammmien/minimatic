@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Los Amigos",
+    "year": 1972,
+    "cast": [
+      "Anthony Quinn",
+      "Franco Nero",
+      "Pamela Tiffin"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/los-amigos.html"
+}

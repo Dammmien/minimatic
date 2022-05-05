@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Power Rangers",
+    "year": 2017,
+    "cast": [
+      "Dacre Montgomery",
+      "Naomi Scott",
+      "RJ Cyler",
+      "Becky G",
+      "Ludi Lin",
+      "Bill Hader",
+      "Bryan Cranston",
+      "Elizabeth Banks"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Superhero"
+    ]
+  },
+  "output": "movies/power-rangers.html"
+}

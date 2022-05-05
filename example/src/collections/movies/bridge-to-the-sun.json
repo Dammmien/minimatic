@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bridge to the Sun",
+    "year": 1961,
+    "cast": [
+      "Carroll Baker",
+      "James Shigeta"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bridge-to-the-sun.html"
+}

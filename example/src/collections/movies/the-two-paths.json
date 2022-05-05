@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Two Paths",
+    "year": 1911,
+    "cast": [
+      "Dorothy Bernard",
+      "Wilfred Lucas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-two-paths.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "36 Hours to Kill",
+    "year": 1936,
+    "cast": [
+      "Brian Donlevy",
+      "Gloria Stuart",
+      "Warren Hymer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/36-hours-to-kill.html"
+}

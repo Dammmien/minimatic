@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Patent Leather Pug",
+    "year": 1926,
+    "cast": [
+      "Billy Sullivan",
+      "Ruth Dwyer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-patent-leather-pug.html"
+}

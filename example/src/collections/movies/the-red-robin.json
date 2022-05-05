@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Red Robin",
+    "year": 2013,
+    "cast": [
+      "Judd Hirsch",
+      "C. S. Lee",
+      "Ryan O'Nan",
+      "Joseph Lyle Taylor"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-red-robin.html"
+}

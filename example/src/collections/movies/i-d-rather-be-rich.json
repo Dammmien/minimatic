@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I'd Rather Be Rich",
+    "year": 1964,
+    "cast": [
+      "Sandra Dee",
+      "Robert Goulet",
+      "Andy Williams"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-d-rather-be-rich.html"
+}

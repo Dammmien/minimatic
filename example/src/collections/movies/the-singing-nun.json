@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Singing Nun",
+    "year": 1966,
+    "cast": [
+      "Debbie Reynolds",
+      "Ricardo Montalbán",
+      "Greer Garson"
+    ],
+    "genres": [
+      "Musical",
+      "Biography"
+    ]
+  },
+  "output": "movies/the-singing-nun.html"
+}

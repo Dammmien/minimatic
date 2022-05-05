@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Demon Seed",
+    "year": 1977,
+    "cast": [
+      "Julie Christie",
+      "Fritz Weaver",
+      "Robert Vaughn"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/demon-seed.html"
+}

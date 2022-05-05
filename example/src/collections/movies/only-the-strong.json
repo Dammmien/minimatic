@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Only the Strong",
+    "year": 1993,
+    "cast": [
+      "Mark Dacascos",
+      "Stacey Travis",
+      "Geoffrey Lewis"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/only-the-strong.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Coldblooded",
+    "year": 1995,
+    "cast": [
+      "Jason Priestley",
+      "Peter Riegert",
+      "Robert Loggia"
+    ],
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ]
+  },
+  "output": "movies/coldblooded.html"
+}

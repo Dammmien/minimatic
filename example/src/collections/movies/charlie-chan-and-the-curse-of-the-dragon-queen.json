@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Charlie Chan and the Curse of the Dragon Queen",
+    "year": 1981,
+    "cast": [
+      "Peter Ustinov",
+      "Angie Dickinson"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/charlie-chan-and-the-curse-of-the-dragon-queen.html"
+}

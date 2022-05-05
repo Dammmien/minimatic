@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Walk Like a Dragon",
+    "year": 1960,
+    "cast": [
+      "Jack Lord",
+      "Nobu McCarthy",
+      "Mel Tormé"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/walk-like-a-dragon.html"
+}

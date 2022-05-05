@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Algiers",
+    "year": 1938,
+    "cast": [
+      "Hedy Lamarr",
+      "Charles Boyer",
+      "Joseph Calleia"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/algiers.html"
+}

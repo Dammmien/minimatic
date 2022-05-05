@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "No Place to Land",
+    "year": 1958,
+    "cast": [
+      "John Ireland",
+      "Mari Blanchard",
+      "Gail Russell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/no-place-to-land.html"
+}

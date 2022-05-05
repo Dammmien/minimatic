@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ladybugs",
+    "year": 1992,
+    "cast": [
+      "Rodney Dangerfield",
+      "Jonathan Brandis",
+      "Jackee Harry"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ladybugs.html"
+}

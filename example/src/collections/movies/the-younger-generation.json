@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Younger Generation",
+    "year": 1929,
+    "cast": [
+      "Jean Hersholt",
+      "Lina Basquette",
+      "Ricardo Cortez"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-younger-generation.html"
+}

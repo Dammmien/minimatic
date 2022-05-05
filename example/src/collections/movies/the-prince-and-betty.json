@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Prince and Betty",
+    "year": 1919,
+    "cast": [
+      "William Desmond",
+      "Mary Thurman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-prince-and-betty.html"
+}

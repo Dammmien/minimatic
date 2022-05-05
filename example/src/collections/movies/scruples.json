@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Scruples",
+    "year": 1980,
+    "cast": [
+      "Lindsay Wagner",
+      "Marie-France Pisier",
+      "Barry Bostwick",
+      "Kim Cattrall",
+      "Efrem Zimbalist, Jr.",
+      "Nick Mancuso",
+      "Connie Stevens",
+      "Gene Tierney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/scruples.html"
+}

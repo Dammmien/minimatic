@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sleeping City",
+    "year": 1950,
+    "cast": [
+      "Richard Conte",
+      "Coleen Gray"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-sleeping-city.html"
+}

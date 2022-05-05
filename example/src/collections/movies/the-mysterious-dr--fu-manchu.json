@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mysterious Dr. Fu Manchu",
+    "year": 1929,
+    "cast": [
+      "Warner Oland",
+      "Jean Arthur"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-mysterious-dr--fu-manchu.html"
+}

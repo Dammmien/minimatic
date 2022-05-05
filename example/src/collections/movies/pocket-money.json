@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Pocket Money",
+    "year": 1972,
+    "cast": [
+      "Paul Newman",
+      "Lee Marvin"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/pocket-money.html"
+}

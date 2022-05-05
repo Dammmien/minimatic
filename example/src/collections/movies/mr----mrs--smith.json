@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mr. & Mrs. Smith",
+    "year": 2005,
+    "cast": [
+      "Brad Pitt",
+      "Angelina Jolie"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/mr----mrs--smith.html"
+}

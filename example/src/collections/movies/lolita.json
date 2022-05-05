@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Lolita",
+    "year": 1997,
+    "cast": [
+      "Dominique Swain",
+      "Jeremy Irons",
+      "Frank Langella",
+      "Melanie Griffith"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lolita.html"
+}

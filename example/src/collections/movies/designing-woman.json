@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Designing Woman",
+    "year": 1957,
+    "cast": [
+      "Lauren Bacall",
+      "Gregory Peck"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/designing-woman.html"
+}

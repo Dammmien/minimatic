@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silver Raiders",
+    "year": 1950,
+    "cast": [
+      "Whip Wilson",
+      "Andy Clyde"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/silver-raiders.html"
+}

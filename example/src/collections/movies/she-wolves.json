@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "She Wolves",
+    "year": 1925,
+    "cast": [
+      "Alma Rubens",
+      "Harry Myers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/she-wolves.html"
+}

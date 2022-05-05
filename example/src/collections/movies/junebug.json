@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Junebug",
+    "year": 2005,
+    "cast": [
+      "Embeth Davidtz",
+      "Alessandro Nivola",
+      "Scott Wilson",
+      "Celia Weston",
+      "Amy Adams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/junebug.html"
+}

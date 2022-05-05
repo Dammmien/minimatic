@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Call Me by Your Name",
+    "year": 2017,
+    "cast": [
+      "Timothée Chalamet",
+      "Armie Hammer",
+      "Michael Stuhlbarg",
+      "Amira Casar",
+      "Esther Garrel",
+      "Victoire Du Bois"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/call-me-by-your-name.html"
+}

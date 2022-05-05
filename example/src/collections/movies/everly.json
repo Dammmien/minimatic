@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Everly",
+    "year": 2015,
+    "cast": [
+      "Salma Hayek",
+      "Akie Kotabe",
+      "Laura Cepeda",
+      "Togo Igawa"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/everly.html"
+}

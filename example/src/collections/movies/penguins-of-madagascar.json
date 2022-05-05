@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Penguins of Madagascar",
+    "year": 2014,
+    "cast": [
+      "Tom McGrath",
+      "John DiMaggio",
+      "Christopher Knights"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/penguins-of-madagascar.html"
+}

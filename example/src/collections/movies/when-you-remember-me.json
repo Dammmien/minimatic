@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When You Remember Me",
+    "year": 1990,
+    "cast": [
+      "Kevin Spacey",
+      "Fred Savage"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/when-you-remember-me.html"
+}

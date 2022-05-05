@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cotton Comes to Harlem",
+    "year": 1970,
+    "cast": [
+      "Redd Foxx",
+      "Godfrey Cambridge",
+      "Raymond St. Jacques"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cotton-comes-to-harlem.html"
+}

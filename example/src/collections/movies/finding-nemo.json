@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Finding Nemo",
+    "year": 2003,
+    "cast": [
+      "Albert Brooks",
+      "Ellen DeGeneres",
+      "Alexander Gould"
+    ],
+    "genres": [
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/finding-nemo.html"
+}

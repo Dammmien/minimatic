@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Citizen Ruth",
+    "year": 1996,
+    "cast": [
+      "Laura Dern",
+      "Swoosie Kurtz",
+      "Kurtwood Smith",
+      "Kelly Preston",
+      "Burt Reynolds"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/citizen-ruth.html"
+}

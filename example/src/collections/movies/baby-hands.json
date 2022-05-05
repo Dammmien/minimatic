@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Baby Hands",
+    "year": 1912,
+    "cast": [
+      "James Cruze",
+      "Jean Darnell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/baby-hands.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Woman Thou Gavest Me",
+    "year": 1919,
+    "cast": [
+      "Jack Holt",
+      "Katherine MacDonald",
+      "Milton Sills"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-woman-thou-gavest-me.html"
+}

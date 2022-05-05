@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Man Hunt",
+    "year": 1941,
+    "cast": [
+      "Walter Pidgeon",
+      "Joan Bennett",
+      "Roddy McDowall",
+      "George Sanders"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/man-hunt.html"
+}

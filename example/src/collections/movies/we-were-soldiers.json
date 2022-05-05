@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "We Were Soldiers",
+    "year": 2002,
+    "cast": [
+      "Mel Gibson",
+      "Sam Elliott",
+      "Madeleine Stowe"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/we-were-soldiers.html"
+}

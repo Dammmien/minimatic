@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bread",
+    "year": 1924,
+    "cast": [
+      "Mae Busch",
+      "Pat O'Malley",
+      "Robert Frazer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bread.html"
+}

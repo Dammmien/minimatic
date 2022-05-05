@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Devil's Party",
+    "year": 1938,
+    "cast": [
+      "Victor McLaglen",
+      "Beatrice Roberts",
+      "William Gargan"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-devil-s-party.html"
+}

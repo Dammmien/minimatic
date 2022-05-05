@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "It's a Big Country",
+    "year": 1951,
+    "cast": [
+      "Gary Cooper",
+      "Gene Kelly",
+      "Fredric March",
+      "Ethel Barrymore",
+      "Janet Leigh",
+      "Nancy Davis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/it-s-a-big-country.html"
+}

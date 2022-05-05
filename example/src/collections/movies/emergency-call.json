@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Emergency Call",
+    "year": 1933,
+    "cast": [
+      "William Boyd",
+      "Wynne Gibson",
+      "Betty Furness"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/emergency-call.html"
+}

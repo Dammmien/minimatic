@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Phantom of the Opera: The Motion Picture",
+    "year": 1989,
+    "cast": [
+      "Robert Englund",
+      "Jill Schoelen",
+      "Bill Nighy"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-phantom-of-the-opera--the-motion-picture.html"
+}

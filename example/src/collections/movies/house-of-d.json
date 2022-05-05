@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "House of D",
+    "year": 2005,
+    "cast": [
+      "David Duchovny",
+      "Anton Yelchin",
+      "Robin Williams"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/house-of-d.html"
+}

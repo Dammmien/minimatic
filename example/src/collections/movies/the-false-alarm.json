@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The False Alarm",
+    "year": 1926,
+    "cast": [
+      "Ralph Lewis",
+      "Dorothy Revier"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-false-alarm.html"
+}

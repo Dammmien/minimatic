@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tinkering with Trouble",
+    "year": 1915,
+    "cast": [
+      "Harold Lloyd",
+      "Snub Pollard"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tinkering-with-trouble.html"
+}

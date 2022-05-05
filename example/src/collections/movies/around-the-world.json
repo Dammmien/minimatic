@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Around the World",
+    "year": 1943,
+    "cast": [
+      "Kay Kyser",
+      "Mischa Auer",
+      "Joan Davis"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/around-the-world.html"
+}

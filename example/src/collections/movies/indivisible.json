@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Indivisible",
+    "year": 2018,
+    "cast": [
+      "Justin Bruening",
+      "Sarah Drew",
+      "Jason George",
+      "Tia Mowry",
+      "Michael O'Neill",
+      "Eric Close",
+      "Madeline Carroll",
+      "Tanner Stine",
+      "Skye P. Marshall"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/indivisible.html"
+}

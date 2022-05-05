@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Taking a Chance",
+    "year": 1928,
+    "cast": [
+      "Rex Bell",
+      "Lola Todd"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/taking-a-chance.html"
+}

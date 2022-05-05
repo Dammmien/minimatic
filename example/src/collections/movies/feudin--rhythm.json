@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Feudin' Rhythm",
+    "year": 1949,
+    "cast": [
+      "Eddy Arnold",
+      "Gloria Henry",
+      "Kirby Grant"
+    ],
+    "genres": [
+      "Western",
+      "Musical"
+    ]
+  },
+  "output": "movies/feudin--rhythm.html"
+}

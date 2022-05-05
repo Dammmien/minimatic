@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bright Leaf",
+    "year": 1950,
+    "cast": [
+      "Gary Cooper",
+      "Lauren Bacall",
+      "Patricia Neal"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bright-leaf.html"
+}

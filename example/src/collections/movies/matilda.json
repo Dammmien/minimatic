@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Matilda",
+    "year": 1996,
+    "cast": [
+      "Mara Wilson",
+      "Danny DeVito",
+      "Rhea Perlman",
+      "Embeth Davidtz",
+      "Pam Ferris"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/matilda.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rebellion",
+    "year": 1936,
+    "cast": [
+      "Tom Keene",
+      "Rita Hayworth",
+      "Duncan Renaldo"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rebellion.html"
+}

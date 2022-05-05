@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Colt Comrades",
+    "year": 1943,
+    "cast": [
+      "William Boyd",
+      "Andy Clyde"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/colt-comrades.html"
+}

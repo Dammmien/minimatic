@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "That I May Live",
+    "year": 1937,
+    "cast": [
+      "Rochelle Hudson",
+      "Robert Kent",
+      "Jack La Rue"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/that-i-may-live.html"
+}

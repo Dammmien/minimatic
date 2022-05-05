@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Blood Feast",
+    "year": 1963,
+    "cast": [
+      "William Kerwin",
+      "Mal Arnold",
+      "Connie Mason",
+      "Scott H. Hall"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/blood-feast.html"
+}

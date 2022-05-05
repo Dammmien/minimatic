@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Women of Brewster Place",
+    "year": 1989,
+    "cast": [
+      "Oprah Winfrey",
+      "Robin Givens"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-women-of-brewster-place.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flat Top",
+    "year": 1952,
+    "cast": [
+      "Sterling Hayden",
+      "Richard Carlson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flat-top.html"
+}

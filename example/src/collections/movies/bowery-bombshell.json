@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bowery Bombshell",
+    "year": 1946,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Teala Loring"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bowery-bombshell.html"
+}

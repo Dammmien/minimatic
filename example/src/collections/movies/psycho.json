@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Psycho",
+    "year": 1998,
+    "cast": [
+      "Vince Vaughn",
+      "Anne Heche",
+      "Viggo Mortensen",
+      "William H. Macy",
+      "Julianne Moore"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/psycho.html"
+}

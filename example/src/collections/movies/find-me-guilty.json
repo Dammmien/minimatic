@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Find Me Guilty",
+    "year": 2006,
+    "cast": [
+      "Vin Diesel",
+      "Linus Roache",
+      "Ron Silver",
+      "Alex Rocco",
+      "Peter Dinklage",
+      "Annabella Sciorra"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/find-me-guilty.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Wolf Tracks",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wolf-tracks.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Rocky",
+    "year": 1976,
+    "cast": [
+      "Sylvester Stallone",
+      "Carl Weathers",
+      "Talia Shire",
+      "Burt Young",
+      "Burgess Meredith",
+      "Tony Burton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rocky.html"
+}

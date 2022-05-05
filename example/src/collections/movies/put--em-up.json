@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Put 'Em Up",
+    "year": 1928,
+    "cast": [
+      "Gloria Grey",
+      "Tom London"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/put--em-up.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Jesse James Rides Again",
+    "year": 1947,
+    "cast": [
+      "Clayton Moore"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/jesse-james-rides-again.html"
+}

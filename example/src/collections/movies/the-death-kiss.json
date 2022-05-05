@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Death Kiss",
+    "year": 1932,
+    "cast": [
+      "David Manners",
+      "Adrienne Ames"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-death-kiss.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hills of Oklahoma",
+    "year": 1950,
+    "cast": [
+      "Rex Allen",
+      "Elisabeth Fraser"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hills-of-oklahoma.html"
+}

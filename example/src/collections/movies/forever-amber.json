@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Forever Amber",
+    "year": 1947,
+    "cast": [
+      "Linda Darnell",
+      "Cornel Wilde",
+      "George Sanders"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/forever-amber.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Last Starfighter",
+    "year": 1984,
+    "cast": [
+      "Lance Guest",
+      "Robert Preston",
+      "Dan O'Herlihy",
+      "Catherine Mary Stewart"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-last-starfighter.html"
+}

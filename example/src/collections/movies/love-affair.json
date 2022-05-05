@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Love Affair",
+    "year": 1994,
+    "cast": [
+      "Warren Beatty",
+      "Annette Bening",
+      "Garry Shandling",
+      "Katharine Hepburn",
+      "Pierce Brosnan",
+      "Kate Capshaw",
+      "Chloe Webb"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-affair.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Magus",
+    "year": 1968,
+    "cast": [
+      "Michael Caine",
+      "Candice Bergen",
+      "Anthony Quinn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-magus.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Manhandled",
+    "year": 1949,
+    "cast": [
+      "Dorothy Lamour",
+      "Dan Duryea",
+      "Sterling Hayden"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/manhandled.html"
+}

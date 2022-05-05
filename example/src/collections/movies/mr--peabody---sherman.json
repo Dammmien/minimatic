@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mr. Peabody & Sherman",
+    "year": 2014,
+    "cast": [
+      "Ty Burrell",
+      "Max Charles",
+      "Ariel Winter",
+      "Leslie Mann"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/mr--peabody---sherman.html"
+}

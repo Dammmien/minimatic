@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Don't Call It Love",
+    "year": 1923,
+    "cast": [
+      "Agnes Ayres",
+      "Jack Holt",
+      "Nita Naldi"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/don-t-call-it-love.html"
+}

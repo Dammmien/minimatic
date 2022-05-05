@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Open Your Eyes",
+    "year": 1919,
+    "cast": [
+      "Viola Allen",
+      "Ben Lyon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/open-your-eyes.html"
+}

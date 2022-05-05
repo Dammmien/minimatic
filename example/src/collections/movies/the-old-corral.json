@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Old Corral",
+    "year": 1936,
+    "cast": [
+      "Gene Autry",
+      "Irene Manning"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-old-corral.html"
+}

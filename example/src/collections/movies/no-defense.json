@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No Defense",
+    "year": 1929,
+    "cast": [
+      "Monte Blue",
+      "May McAvoy"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/no-defense.html"
+}

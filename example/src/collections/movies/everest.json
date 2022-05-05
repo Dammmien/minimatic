@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Everest",
+    "year": 2015,
+    "cast": [
+      "Jake Gyllenhaal",
+      "Jason Clarke",
+      "Sam Worthington",
+      "Josh Brolin",
+      "John Hawkes"
+    ],
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ]
+  },
+  "output": "movies/everest.html"
+}

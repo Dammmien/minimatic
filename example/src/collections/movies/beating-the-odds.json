@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beating the Odds",
+    "year": 1919,
+    "cast": [
+      "Harry T. Morey",
+      "Betty Blythe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/beating-the-odds.html"
+}

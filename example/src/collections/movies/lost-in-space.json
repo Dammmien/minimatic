@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Lost In Space",
+    "year": 1998,
+    "cast": [
+      "William Hurt",
+      "Mimi Rogers",
+      "Gary Oldman",
+      "Heather Graham",
+      "Matt LeBlanc",
+      "Lacey Chabert"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/lost-in-space.html"
+}

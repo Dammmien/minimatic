@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Birds Do It",
+    "year": 1966,
+    "cast": [
+      "Soupy Sales",
+      "Tab Hunter",
+      "Doris Dowling"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/birds-do-it.html"
+}

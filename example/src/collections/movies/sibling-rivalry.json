@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Sibling Rivalry",
+    "year": 1990,
+    "cast": [
+      "Kirstie Alley",
+      "Scott Bakula",
+      "Bill Pullman",
+      "Jami Gertz",
+      "Sam Elliott",
+      "Carrie Fisher"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sibling-rivalry.html"
+}

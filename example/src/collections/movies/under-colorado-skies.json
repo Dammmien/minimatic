@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Under Colorado Skies",
+    "year": 1947,
+    "cast": [
+      "Monte Hale",
+      "Lorna Gray"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/under-colorado-skies.html"
+}

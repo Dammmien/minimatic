@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Man from Down Under",
+    "year": 1943,
+    "cast": [
+      "Charles Laughton",
+      "Donna Reed"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-man-from-down-under.html"
+}

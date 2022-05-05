@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Blonde Venus",
+    "year": 1932,
+    "cast": [
+      "Marlene Dietrich",
+      "Herbert Marshall",
+      "Cary Grant"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/blonde-venus.html"
+}

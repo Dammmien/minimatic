@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Riders of the Rio Grande",
+    "year": 1943,
+    "cast": [
+      "Bob Steele",
+      "Tom Tyler"
+    ],
+    "genres": []
+  },
+  "output": "movies/riders-of-the-rio-grande.html"
+}

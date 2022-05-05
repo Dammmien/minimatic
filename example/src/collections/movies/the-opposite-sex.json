@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Opposite Sex",
+    "year": 1956,
+    "cast": [
+      "June Allyson",
+      "Joan Collins",
+      "Ann Sheridan",
+      "Ann Miller"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-opposite-sex.html"
+}

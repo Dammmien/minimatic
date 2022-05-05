@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Harry & Son",
+    "year": 1984,
+    "cast": [
+      "Paul Newman",
+      "Robby Benson",
+      "Ellen Barkin",
+      "Judith Ivey",
+      "Ossie Davis",
+      "Joanne Woodward"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/harry---son.html"
+}

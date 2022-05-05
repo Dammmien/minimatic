@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rails Into Laramie",
+    "year": 1954,
+    "cast": [
+      "John Payne",
+      "Mari Blanchard",
+      "Dan Duryea"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rails-into-laramie.html"
+}

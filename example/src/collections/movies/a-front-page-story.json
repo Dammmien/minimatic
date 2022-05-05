@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Front Page Story",
+    "year": 1922,
+    "cast": [
+      "Edward Everett Horton",
+      "Lloyd Ingraham",
+      "Edith Roberts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-front-page-story.html"
+}

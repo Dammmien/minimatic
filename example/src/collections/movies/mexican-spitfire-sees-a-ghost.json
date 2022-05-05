@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mexican Spitfire Sees a Ghost",
+    "year": 1942,
+    "cast": [
+      "Lupe Vélez",
+      "Buddy Rogers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mexican-spitfire-sees-a-ghost.html"
+}

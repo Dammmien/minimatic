@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "W.C. Fields and Me",
+    "year": 1976,
+    "cast": [
+      "Rod Steiger",
+      "Valerie Perrine",
+      "Jack Cassidy"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/w-c--fields-and-me.html"
+}

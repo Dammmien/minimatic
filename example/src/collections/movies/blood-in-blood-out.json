@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Blood In Blood Out",
+    "year": 1993,
+    "cast": [
+      "Jesse Borrego",
+      "Benjamin Bratt",
+      "Damian Chapa",
+      "Delroy Lindo"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/blood-in-blood-out.html"
+}

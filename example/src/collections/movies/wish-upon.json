@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Wish Upon",
+    "year": 2017,
+    "cast": [
+      "Joey King",
+      "Ryan Phillippe",
+      "Ki Hong Lee",
+      "Mitchell Slaggert",
+      "Shannon Purser",
+      "Sydney Park",
+      "Kevin Hanchard",
+      "Sherilyn Fenn"
+    ],
+    "genres": [
+      "Thriller",
+      "Horror"
+    ]
+  },
+  "output": "movies/wish-upon.html"
+}

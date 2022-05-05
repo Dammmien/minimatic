@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Showdown at Abilene",
+    "year": 1956,
+    "cast": [
+      "Jock Mahoney",
+      "Martha Hyer",
+      "Lyle Bettger"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/showdown-at-abilene.html"
+}

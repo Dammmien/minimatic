@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Mysterious Mr. M",
+    "year": 1946,
+    "cast": [
+      "Richard Martin",
+      "Pamela Blake"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-mysterious-mr--m.html"
+}

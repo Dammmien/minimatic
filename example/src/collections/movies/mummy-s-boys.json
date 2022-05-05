@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mummy's Boys",
+    "year": 1936,
+    "cast": [
+      "Bert Wheeler",
+      "Robert Woolsey",
+      "Barbara Pepper"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mummy-s-boys.html"
+}

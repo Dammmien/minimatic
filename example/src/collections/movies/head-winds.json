@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Head Winds",
+    "year": 1925,
+    "cast": [
+      "House Peters",
+      "Patsy Ruth Miller"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/head-winds.html"
+}

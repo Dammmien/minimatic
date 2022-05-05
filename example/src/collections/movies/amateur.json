@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Amateur",
+    "year": 1994,
+    "cast": [
+      "Isabelle Huppert",
+      "Martin Donovan"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/amateur.html"
+}

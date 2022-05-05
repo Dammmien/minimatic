@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paternity",
+    "year": 1981,
+    "cast": [
+      "Burt Reynolds",
+      "Beverly D'Angelo",
+      "Elizabeth Ashley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/paternity.html"
+}

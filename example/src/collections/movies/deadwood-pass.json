@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Deadwood Pass",
+    "year": 1933,
+    "cast": [
+      "Tom Tyler",
+      "Lafe McKee",
+      "Slim Whitaker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/deadwood-pass.html"
+}

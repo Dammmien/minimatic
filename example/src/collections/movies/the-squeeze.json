@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Squeeze",
+    "year": 1987,
+    "cast": [
+      "Michael Keaton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-squeeze.html"
+}

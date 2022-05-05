@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Olsen's Big Moment",
+    "year": 1933,
+    "cast": [
+      "El Brendel",
+      "Barbara Weeks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/olsen-s-big-moment.html"
+}

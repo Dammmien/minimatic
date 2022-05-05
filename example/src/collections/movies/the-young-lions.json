@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Young Lions",
+    "year": 1958,
+    "cast": [
+      "Marlon Brando",
+      "Montgomery Clift",
+      "Dean Martin",
+      "Barbara Rush",
+      "Hope Lange",
+      "May Britt"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-young-lions.html"
+}

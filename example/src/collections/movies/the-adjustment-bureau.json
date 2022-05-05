@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Adjustment Bureau",
+    "year": 2011,
+    "cast": [
+      "Matt Damon",
+      "Emily Blunt",
+      "Anthony Mackie",
+      "Shoreh Aghdashloo",
+      "John Slattery",
+      "Michael Kelly",
+      "Anthony Ruivivar",
+      "Terence Stamp"
+    ],
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-adjustment-bureau.html"
+}

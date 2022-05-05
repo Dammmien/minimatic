@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bringing Down the House",
+    "year": 2003,
+    "cast": [
+      "Steve Martin",
+      "Queen Latifah",
+      "Eugene Levy"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/bringing-down-the-house.html"
+}

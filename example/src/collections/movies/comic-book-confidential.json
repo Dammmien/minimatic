@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Comic Book Confidential",
+    "year": 1988,
+    "cast": [
+      "Robert Crumb",
+      "Stan Lee",
+      "Harvey Pekar"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/comic-book-confidential.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "One Desire",
+    "year": 1955,
+    "cast": [
+      "Anne Baxter",
+      "Rock Hudson",
+      "Julia Adams"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/one-desire.html"
+}

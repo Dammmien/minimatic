@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Old Dark House",
+    "year": 1963,
+    "cast": [
+      "Tom Poston",
+      "Joyce Grenfell",
+      "Janette Scott"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-old-dark-house.html"
+}

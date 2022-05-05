@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Radio Days",
+    "year": 1987,
+    "cast": [
+      "Mia Farrow",
+      "Dianne Wiest",
+      "Julie Kavner",
+      "Michael Tucker",
+      "Josh Mostel",
+      "Seth Green"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/radio-days.html"
+}

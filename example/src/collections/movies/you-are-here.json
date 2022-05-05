@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "You Are Here",
+    "year": 2013,
+    "cast": [
+      "Owen Wilson",
+      "Zach Galifianakis",
+      "Amy Poehler",
+      "Jenna Fischer",
+      "Laura Ramsey",
+      "Lauren Lapkus"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/you-are-here.html"
+}

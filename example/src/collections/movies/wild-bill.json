@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Wild Bill",
+    "year": 1995,
+    "cast": [
+      "Jeff Bridges",
+      "Ellen Barkin",
+      "David Arquette",
+      "John Hurt",
+      "Diane Lane",
+      "Keith Carradine",
+      "Bruce Dern",
+      "Christina Applegate"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wild-bill.html"
+}

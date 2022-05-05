@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sexy Evil Genius",
+    "year": 2013,
+    "cast": [
+      "Katee Sackhoff",
+      "Michelle Trachtenberg",
+      "Anthony Michael Hall",
+      "Seth Green"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sexy-evil-genius.html"
+}

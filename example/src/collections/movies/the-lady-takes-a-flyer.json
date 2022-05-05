@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lady Takes a Flyer",
+    "year": 1958,
+    "cast": [
+      "Lana Turner",
+      "Jeff Chandler"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-lady-takes-a-flyer.html"
+}

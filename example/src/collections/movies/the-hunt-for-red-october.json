@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Hunt for Red October",
+    "year": 1990,
+    "cast": [
+      "Sean Connery",
+      "Alec Baldwin",
+      "Scott Glenn",
+      "Sam Neill",
+      "James Earl Jones",
+      "Tim Curry"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-hunt-for-red-october.html"
+}

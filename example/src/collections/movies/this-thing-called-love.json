@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "This Thing Called Love",
+    "year": 1940,
+    "cast": [
+      "Rosalind Russell",
+      "Melvyn Douglas"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/this-thing-called-love.html"
+}

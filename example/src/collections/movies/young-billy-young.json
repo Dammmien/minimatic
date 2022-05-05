@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Young Billy Young",
+    "year": 1969,
+    "cast": [
+      "Robert Mitchum",
+      "Angie Dickinson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/young-billy-young.html"
+}

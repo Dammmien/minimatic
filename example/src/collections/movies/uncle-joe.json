@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Uncle Joe",
+    "year": 1941,
+    "cast": [
+      "Gale Storm",
+      "ZaSu Pitts"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/uncle-joe.html"
+}

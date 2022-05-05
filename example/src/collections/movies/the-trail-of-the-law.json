@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Trail of the Law",
+    "year": 1924,
+    "cast": [
+      "Wilfred Lytell",
+      "Norma Shearer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-trail-of-the-law.html"
+}

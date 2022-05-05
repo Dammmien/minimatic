@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Service with the Colors",
+    "year": 1940,
+    "cast": [
+      "Robert Armstrong",
+      "William Lundigan",
+      "Henry O'Neill"
+    ],
+    "genres": [
+      "Drama",
+      "Short"
+    ]
+  },
+  "output": "movies/service-with-the-colors.html"
+}

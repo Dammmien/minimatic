@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Half Marriage",
+    "year": 1929,
+    "cast": [
+      "Olive Borden",
+      "Morgan Farley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/half-marriage.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Dream Machine",
+    "year": 1990,
+    "cast": [
+      "Corey Haim"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/dream-machine.html"
+}

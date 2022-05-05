@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Woman in Green",
+    "year": 1945,
+    "cast": [
+      "Basil Rathbone",
+      "Nigel Bruce"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-woman-in-green.html"
+}

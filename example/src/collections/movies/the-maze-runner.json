@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Maze Runner",
+    "year": 2014,
+    "cast": [
+      "Dylan O'Brien",
+      "Kaya Scodelario",
+      "Thomas Brodie-Sangster"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-maze-runner.html"
+}

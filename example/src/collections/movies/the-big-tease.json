@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Big Tease",
+    "year": 2000,
+    "cast": [
+      "Craig Ferguson",
+      "Frances Fisher",
+      "Mary McCormack"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-big-tease.html"
+}

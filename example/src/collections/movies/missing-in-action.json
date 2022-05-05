@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Missing in Action",
+    "year": 1984,
+    "cast": [
+      "Chuck Norris",
+      "James Hong",
+      "M. Emmet Walsh"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/missing-in-action.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I've Always Loved You",
+    "year": 1946,
+    "cast": [
+      "Catherine McLeod",
+      "Philip Dorn"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/i-ve-always-loved-you.html"
+}

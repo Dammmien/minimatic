@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Kangaroo",
+    "year": 1952,
+    "cast": [
+      "Maureen O'Hara",
+      "Peter Lawford"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/kangaroo.html"
+}

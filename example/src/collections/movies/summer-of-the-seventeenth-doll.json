@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Summer of the Seventeenth Doll",
+    "year": 1960,
+    "cast": [
+      "Ernest Borgnine",
+      "Anne Baxter",
+      "John Mills",
+      "Angela Lansbury"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/summer-of-the-seventeenth-doll.html"
+}

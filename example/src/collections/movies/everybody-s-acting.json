@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Everybody's Acting",
+    "year": 1926,
+    "cast": [
+      "Betty Bronson",
+      "Ford Sterling",
+      "Louise Dresser"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/everybody-s-acting.html"
+}

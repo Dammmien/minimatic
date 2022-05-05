@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cloak & Dagger",
+    "year": 1984,
+    "cast": [
+      "Henry Thomas",
+      "Dabney Coleman"
+    ],
+    "genres": [
+      "Adventure",
+      "Family"
+    ]
+  },
+  "output": "movies/cloak---dagger.html"
+}

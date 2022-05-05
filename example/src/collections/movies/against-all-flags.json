@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Against All Flags",
+    "year": 1952,
+    "cast": [
+      "Errol Flynn",
+      "Maureen O'Hara"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/against-all-flags.html"
+}

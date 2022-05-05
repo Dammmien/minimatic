@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Forbidden Hours",
+    "year": 1928,
+    "cast": [
+      "Ramon Novarro",
+      "Renée Adorée"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/forbidden-hours.html"
+}

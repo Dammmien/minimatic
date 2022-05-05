@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stranger in the House",
+    "year": 1997,
+    "cast": [
+      "Michele Greene",
+      "Steve Railsback"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/stranger-in-the-house.html"
+}

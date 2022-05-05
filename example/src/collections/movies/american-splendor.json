@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "American Splendor",
+    "year": 2003,
+    "cast": [
+      "Paul Giamatti",
+      "Hope Davis"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/american-splendor.html"
+}

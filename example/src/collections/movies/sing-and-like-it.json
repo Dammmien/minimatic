@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sing and Like It",
+    "year": 1934,
+    "cast": [
+      "ZaSu Pitts",
+      "Pert Kelton",
+      "Edward Everett Horton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sing-and-like-it.html"
+}

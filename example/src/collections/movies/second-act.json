@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Second Act",
+    "year": 2018,
+    "cast": [
+      "Jennifer Lopez",
+      "Vanessa Hudgens",
+      "Leah Remini",
+      "Annaleigh Ashford",
+      "Freddie Stroma",
+      "Dan Bucatinsky",
+      "Milo Ventimiglia",
+      "Treat Williams",
+      "Larry Miller"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/second-act.html"
+}

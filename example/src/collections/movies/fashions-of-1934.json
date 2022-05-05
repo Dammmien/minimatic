@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Fashions of 1934",
+    "year": 1934,
+    "cast": [
+      "William Powell",
+      "Bette Davis",
+      "Frank McHugh"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/fashions-of-1934.html"
+}

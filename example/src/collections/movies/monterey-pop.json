@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Monterey Pop",
+    "year": 1968,
+    "cast": [
+      "Jimi Hendrix",
+      "Otis Redding",
+      "Simon & Garfunkel",
+      "The Mamas & the Papas",
+      "Jefferson Airplane",
+      "The Who"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/monterey-pop.html"
+}

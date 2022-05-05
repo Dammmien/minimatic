@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Whiplash",
+    "year": 2014,
+    "cast": [
+      "Miles Teller",
+      "Melissa Benoist",
+      "Austin Stowell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/whiplash.html"
+}

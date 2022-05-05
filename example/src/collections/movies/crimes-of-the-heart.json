@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Crimes of the Heart",
+    "year": 1986,
+    "cast": [
+      "Diane Keaton",
+      "Jessica Lange",
+      "Sissy Spacek",
+      "Tess Harper"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/crimes-of-the-heart.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder at 1600",
+    "year": 1997,
+    "cast": [
+      "Wesley Snipes",
+      "Diane Lane"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/murder-at-1600.html"
+}

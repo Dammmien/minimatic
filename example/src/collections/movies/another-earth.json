@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Another Earth",
+    "year": 2011,
+    "cast": [
+      "William Mapother",
+      "Brit Marling"
+    ],
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ]
+  },
+  "output": "movies/another-earth.html"
+}

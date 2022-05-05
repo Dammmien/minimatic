@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Whistling in Brooklyn",
+    "year": 1943,
+    "cast": [
+      "Red Skelton",
+      "Ann Rutherford",
+      "Jean Rogers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/whistling-in-brooklyn.html"
+}

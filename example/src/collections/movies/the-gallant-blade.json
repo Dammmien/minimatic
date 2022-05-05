@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gallant Blade",
+    "year": 1948,
+    "cast": [
+      "Larry Parks",
+      "Marguerite Chapman"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-gallant-blade.html"
+}

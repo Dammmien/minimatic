@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hands of Nara",
+    "year": 1922,
+    "cast": [
+      "Clara Kimball Young",
+      "Elliott Dexter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hands-of-nara.html"
+}

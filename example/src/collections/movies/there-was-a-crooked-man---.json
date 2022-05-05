@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "There Was a Crooked Man...",
+    "year": 1970,
+    "cast": [
+      "Kirk Douglas",
+      "Henry Fonda",
+      "Warren Oates",
+      "Burgess Meredith",
+      "Hume Cronyn",
+      "Martin Gabel"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/there-was-a-crooked-man---.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Tamarind Seed",
+    "year": 1974,
+    "cast": [
+      "Julie Andrews",
+      "Omar Sharif"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-tamarind-seed.html"
+}

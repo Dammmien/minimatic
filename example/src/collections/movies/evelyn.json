@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Evelyn",
+    "year": 2002,
+    "cast": [
+      "Sophie Vavasseur",
+      "Pierce Brosnan",
+      "Aidan Quinn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/evelyn.html"
+}

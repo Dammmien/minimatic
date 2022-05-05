@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Larceny in Her Heart",
+    "year": 1946,
+    "cast": [
+      "Hugh Beaumont",
+      "Cheryl Walker"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/larceny-in-her-heart.html"
+}

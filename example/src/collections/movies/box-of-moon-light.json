@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Box of Moon Light",
+    "year": 1996,
+    "cast": [
+      "John Turturro",
+      "Sam Rockwell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/box-of-moon-light.html"
+}

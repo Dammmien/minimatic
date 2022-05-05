@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Turtle Diary",
+    "year": 1985,
+    "cast": [
+      "Glenda Jackson",
+      "Ben Kingsley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/turtle-diary.html"
+}

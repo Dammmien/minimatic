@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Saga of Hemp Brown",
+    "year": 1958,
+    "cast": [
+      "Rory Calhoun",
+      "Beverly Garland",
+      "John Larch"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-saga-of-hemp-brown.html"
+}

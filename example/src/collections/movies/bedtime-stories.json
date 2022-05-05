@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Bedtime Stories",
+    "year": 2008,
+    "cast": [
+      "Adam Sandler",
+      "Keri Russell",
+      "Guy Pearce",
+      "Teresa Palmer"
+    ],
+    "genres": [
+      "Family",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/bedtime-stories.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Annabelle: Creation",
+    "year": 2017,
+    "cast": [
+      "Miranda Otto",
+      "Anthony LaPaglia",
+      "Stephanie Sigman",
+      "Talitha Bateman",
+      "Lulu Wilson",
+      "Tayler Buck",
+      "Alicia Vela-Bailey"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/annabelle--creation.html"
+}

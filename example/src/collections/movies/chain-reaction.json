@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Chain Reaction",
+    "year": 1996,
+    "cast": [
+      "Keanu Reeves",
+      "Morgan Freeman",
+      "Rachel Weisz",
+      "Fred Ward",
+      "Brian Cox"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/chain-reaction.html"
+}

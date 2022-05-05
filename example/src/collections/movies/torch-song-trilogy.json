@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Torch Song Trilogy",
+    "year": 1988,
+    "cast": [
+      "Harvey Fierstein",
+      "Anne Bancroft",
+      "Matthew Broderick",
+      "Brian Kerwin"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/torch-song-trilogy.html"
+}

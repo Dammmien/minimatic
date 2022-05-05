@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Legends of the Fall",
+    "year": 1994,
+    "cast": [
+      "Brad Pitt",
+      "Anthony Hopkins",
+      "Aidan Quinn",
+      "Julia Ormond",
+      "Henry Thomas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/legends-of-the-fall.html"
+}

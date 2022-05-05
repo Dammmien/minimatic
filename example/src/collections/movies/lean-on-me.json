@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Lean on Me",
+    "year": 1989,
+    "cast": [
+      "Morgan Freeman",
+      "Lynne Thigpen",
+      "Robert Guillaume"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/lean-on-me.html"
+}

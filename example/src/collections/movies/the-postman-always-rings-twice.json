@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Postman Always Rings Twice",
+    "year": 1981,
+    "cast": [
+      "Jack Nicholson",
+      "Jessica Lange",
+      "John Colicos",
+      "Michael Lerner",
+      "John P. Ryan",
+      "Anjelica Huston"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-postman-always-rings-twice.html"
+}

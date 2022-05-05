@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daisy Kenyon",
+    "year": 1947,
+    "cast": [
+      "Joan Crawford",
+      "Henry Fonda"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/daisy-kenyon.html"
+}

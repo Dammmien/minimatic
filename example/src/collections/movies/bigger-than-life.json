@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bigger Than Life",
+    "year": 1956,
+    "cast": [
+      "James Mason",
+      "Barbara Rush",
+      "Walter Matthau"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bigger-than-life.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "South Sea Woman",
+    "year": 1953,
+    "cast": [
+      "Burt Lancaster",
+      "Virginia Mayo",
+      "Chuck Connors"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/south-sea-woman.html"
+}

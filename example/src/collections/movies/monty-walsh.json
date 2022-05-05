@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Monty Walsh",
+    "year": 1970,
+    "cast": [
+      "Lee Marvin",
+      "Jack Palance",
+      "Jeanne Moreau"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/monty-walsh.html"
+}

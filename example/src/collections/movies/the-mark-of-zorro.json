@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mark of Zorro",
+    "year": 1940,
+    "cast": [
+      "Tyrone Power",
+      "Linda Darnell",
+      "Basil Rathbone"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-mark-of-zorro.html"
+}

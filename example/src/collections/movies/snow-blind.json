@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Snow Blind",
+    "year": 2006,
+    "cast": [
+      "history",
+      "lifestyle of",
+      "snowboarding"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/snow-blind.html"
+}

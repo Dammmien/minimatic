@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thundering Gun Slingers",
+    "year": 1944,
+    "cast": [
+      "Buster Crabbe",
+      "Al St. John"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/thundering-gun-slingers.html"
+}

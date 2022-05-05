@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Rise of the Guardians",
+    "year": 2012,
+    "cast": [
+      "Chris Pine",
+      "Isla Fisher",
+      "Hugh Jackman",
+      "Alec Baldwin",
+      "Jude Law",
+      "Dakota Goyo"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animated",
+      "Family"
+    ]
+  },
+  "output": "movies/rise-of-the-guardians.html"
+}

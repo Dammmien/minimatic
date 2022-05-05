@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Snitch",
+    "year": 2013,
+    "cast": [
+      "Dwayne Johnson",
+      "Barry Pepper",
+      "Jon Bernthal",
+      "Michael K. Williams",
+      "Melina Kanakaredes",
+      "Nadine Velazquez",
+      "Rafi Gavron",
+      "David Harbour",
+      "Benjamin Bratt",
+      "Susan Sarandon"
+    ],
+    "genres": [
+      "Action",
+      "Drama"
+    ]
+  },
+  "output": "movies/snitch.html"
+}

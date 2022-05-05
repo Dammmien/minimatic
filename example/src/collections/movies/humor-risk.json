@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Humor Risk",
+    "year": 1921,
+    "cast": [
+      "Marx Brothers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/humor-risk.html"
+}

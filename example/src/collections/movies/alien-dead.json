@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Alien Dead",
+    "year": 1980,
+    "cast": [
+      "Buster Crabbe"
+    ],
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/alien-dead.html"
+}

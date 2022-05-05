@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Love's Prisoner",
+    "year": 1919,
+    "cast": [
+      "Olive Thomas",
+      "Ann Kroman"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/love-s-prisoner.html"
+}

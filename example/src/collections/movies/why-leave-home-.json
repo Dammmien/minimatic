@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Why Leave Home?",
+    "year": 1929,
+    "cast": [
+      "Sue Carol",
+      "Nick Stuart"
+    ],
+    "genres": [
+      "Musical",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/why-leave-home-.html"
+}

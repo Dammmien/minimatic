@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Black Swan",
+    "year": 2010,
+    "cast": [
+      "Natalie Portman",
+      "Vincent Cassel",
+      "Mila Kunis",
+      "Barbara Hershey",
+      "Winona Ryder"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/black-swan.html"
+}

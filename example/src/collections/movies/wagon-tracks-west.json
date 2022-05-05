@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wagon Tracks West",
+    "year": 1943,
+    "cast": [
+      "Wild Bill Elliott",
+      "Anne Jeffreys"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/wagon-tracks-west.html"
+}

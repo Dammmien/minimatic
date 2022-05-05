@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Down to You",
+    "year": 2000,
+    "cast": [
+      "Freddie Prinze, Jr.",
+      "Julia Stiles"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/down-to-you.html"
+}

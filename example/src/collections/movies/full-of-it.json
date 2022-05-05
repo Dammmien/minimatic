@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Full of It",
+    "year": 2007,
+    "cast": [
+      "Ryan Pinkston",
+      "Teri Polo",
+      "Kate Mara"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/full-of-it.html"
+}

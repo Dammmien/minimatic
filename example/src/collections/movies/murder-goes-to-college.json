@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Murder Goes to College",
+    "year": 1937,
+    "cast": [
+      "Roscoe Karns",
+      "Marsha Hunt"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/murder-goes-to-college.html"
+}

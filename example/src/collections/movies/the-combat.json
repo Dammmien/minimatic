@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Combat",
+    "year": 1926,
+    "cast": [
+      "House Peters",
+      "Wanda Hawley",
+      "Walter McGrail"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-combat.html"
+}

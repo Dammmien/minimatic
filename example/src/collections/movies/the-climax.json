@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Climax",
+    "year": 1944,
+    "cast": [
+      "Susanna Foster",
+      "Boris Karloff"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-climax.html"
+}

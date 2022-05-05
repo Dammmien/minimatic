@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Marley & Me",
+    "year": 2008,
+    "cast": [
+      "Owen Wilson",
+      "Jennifer Aniston"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/marley---me.html"
+}

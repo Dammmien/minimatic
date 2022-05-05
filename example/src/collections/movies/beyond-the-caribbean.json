@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beyond the Caribbean",
+    "year": 1936,
+    "cast": [
+      "André Roosevelt",
+      "Carol Jeffries"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/beyond-the-caribbean.html"
+}

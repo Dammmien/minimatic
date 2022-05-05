@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Battle of the Bulge",
+    "year": 1965,
+    "cast": [
+      "Henry Fonda",
+      "Dana Andrews",
+      "Robert Shaw",
+      "Robert Ryan",
+      "Ty Hardin",
+      "Pier Angeli",
+      "Telly Savalas",
+      "Charles Bronson"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/battle-of-the-bulge.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Duet for One",
+    "year": 1986,
+    "cast": [
+      "Julie Andrews",
+      "Alan Bates"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/duet-for-one.html"
+}

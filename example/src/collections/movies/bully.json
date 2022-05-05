@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bully",
+    "year": 2012,
+    "cast": [
+      "Bullying in",
+      "U.S. schools",
+      "."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/bully.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Smart Set",
+    "year": 1928,
+    "cast": [
+      "William Haines",
+      "Jack Holt"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-smart-set.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Rock Around the Clock",
+    "year": 1956,
+    "cast": [
+      "Bill Haley & His Comets"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/rock-around-the-clock.html"
+}

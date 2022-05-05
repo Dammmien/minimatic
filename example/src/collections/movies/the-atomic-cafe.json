@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Atomic Cafe",
+    "year": 1982,
+    "cast": [
+      "Dwight D. Eisenhower"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-atomic-cafe.html"
+}

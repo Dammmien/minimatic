@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Darling Companion",
+    "year": 2012,
+    "cast": [
+      "Mark Duplass",
+      "Richard Jenkins",
+      "Diane Keaton",
+      "Kevin Kline",
+      "Elisabeth Moss",
+      "Sam Shepard",
+      "Dianne Wiest",
+      "Ayelet Zurer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/darling-companion.html"
+}

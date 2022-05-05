@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Rock Dog",
+    "year": 2017,
+    "cast": [
+      "Luke Wilson",
+      "Eddie Izzard",
+      "J. K. Simmons",
+      "Lewis Black",
+      "Kenan Thompson",
+      "Mae Whitman",
+      "Jorge Garcia",
+      "Matt Dillon",
+      "Sam Elliott"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy"
+    ]
+  },
+  "output": "movies/rock-dog.html"
+}

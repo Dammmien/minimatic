@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Here is My Heart",
+    "year": 1934,
+    "cast": [
+      "Bing Crosby",
+      "Kitty Carlisle",
+      "Roland Young"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/here-is-my-heart.html"
+}

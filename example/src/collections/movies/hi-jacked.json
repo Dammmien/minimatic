@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hi-Jacked",
+    "year": 1950,
+    "cast": [
+      "Jim Davis",
+      "Marcia Mae Jones"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/hi-jacked.html"
+}

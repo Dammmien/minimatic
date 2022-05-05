@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Company of Wolves",
+    "year": 1984,
+    "cast": [
+      "Angela Lansbury",
+      "Stephen Rea"
+    ],
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ]
+  },
+  "output": "movies/the-company-of-wolves.html"
+}

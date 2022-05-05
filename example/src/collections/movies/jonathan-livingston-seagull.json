@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Jonathan Livingston Seagull",
+    "year": 1973,
+    "cast": [
+      "James Franciscus",
+      "Juliet Mills"
+    ],
+    "genres": []
+  },
+  "output": "movies/jonathan-livingston-seagull.html"
+}

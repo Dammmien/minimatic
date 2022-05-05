@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Muppet Caper",
+    "year": 1981,
+    "cast": [
+      "Diana Rigg",
+      "Charles Grodin"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "output": "movies/the-great-muppet-caper.html"
+}

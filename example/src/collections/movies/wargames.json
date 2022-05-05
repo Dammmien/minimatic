@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "WarGames",
+    "year": 1983,
+    "cast": [
+      "Matthew Broderick",
+      "Dabney Coleman",
+      "Ally Sheedy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wargames.html"
+}

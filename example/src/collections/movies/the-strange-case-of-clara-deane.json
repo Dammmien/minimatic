@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Strange Case of Clara Deane",
+    "year": 1932,
+    "cast": [
+      "Wynne Gibson",
+      "Pat O'Brien"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-strange-case-of-clara-deane.html"
+}

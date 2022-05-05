@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Heartbreak Ridge",
+    "year": 1986,
+    "cast": [
+      "Clint Eastwood",
+      "Mario Van Peebles",
+      "Marsha Mason"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/heartbreak-ridge.html"
+}

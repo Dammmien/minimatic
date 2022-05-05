@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "White Line Fever",
+    "year": 1975,
+    "cast": [
+      "Jan-Michael Vincent",
+      "Slim Pickens",
+      "L. Q. Jones"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/white-line-fever.html"
+}

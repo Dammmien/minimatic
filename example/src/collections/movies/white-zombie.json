@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "White Zombie",
+    "year": 1932,
+    "cast": [
+      "Bela Lugosi",
+      "Madge Bellamy",
+      "Joseph Cawthorn"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/white-zombie.html"
+}

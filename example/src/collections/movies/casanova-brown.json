@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Casanova Brown",
+    "year": 1944,
+    "cast": [
+      "Gary Cooper",
+      "Teresa Wright"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/casanova-brown.html"
+}

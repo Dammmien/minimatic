@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sweet and Lowdown",
+    "year": 1999,
+    "cast": [
+      "Sean Penn",
+      "Samantha Morton",
+      "Anthony LaPaglia",
+      "Uma Thurman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sweet-and-lowdown.html"
+}

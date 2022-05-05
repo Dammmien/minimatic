@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Burning",
+    "year": 1981,
+    "cast": [
+      "Brian Matthews",
+      "Holly Hunter",
+      "Jason Alexander"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-burning.html"
+}

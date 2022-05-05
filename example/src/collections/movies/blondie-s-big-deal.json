@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Blondie's Big Deal",
+    "year": 1949,
+    "cast": [
+      "Penny Singleton",
+      "Arthur Lake"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/blondie-s-big-deal.html"
+}

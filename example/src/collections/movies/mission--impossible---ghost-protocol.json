@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Mission: Impossible – Ghost Protocol",
+    "year": 2011,
+    "cast": [
+      "Tom Cruise",
+      "Jeremy Renner",
+      "Simon Pegg",
+      "Paula Patton",
+      "Michael Nyqvist",
+      "Vladimir Mashkov",
+      "Samuli Edelmann",
+      "Anil Kapoor",
+      "Josh Holloway",
+      "Léa Seydoux",
+      "Tom Wilkinson"
+    ],
+    "genres": [
+      "Action",
+      "Spy"
+    ]
+  },
+  "output": "movies/mission--impossible---ghost-protocol.html"
+}

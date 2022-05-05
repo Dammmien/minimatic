@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Blind Faith",
+    "year": 1990,
+    "cast": [
+      "Robert Urich",
+      "Joanna Kerns",
+      "Johnny Galecki",
+      "William Forsythe",
+      "Dennis Farina"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/blind-faith.html"
+}

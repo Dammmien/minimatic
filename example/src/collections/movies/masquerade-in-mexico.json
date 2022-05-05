@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Masquerade in Mexico",
+    "year": 1945,
+    "cast": [
+      "Dorothy Lamour",
+      "Patric Knowles",
+      "Ann Dvorak"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/masquerade-in-mexico.html"
+}

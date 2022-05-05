@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "1941",
+    "year": 1979,
+    "cast": [
+      "John Belushi",
+      "Ned Beatty",
+      "Dan Aykroyd",
+      "John Candy",
+      "Toshirō Mifune",
+      "Robert Stack",
+      "Warren Oates",
+      "Tim Matheson",
+      "Nancy Allen",
+      "Bobby Di Cicco",
+      "Treat Williams",
+      "Slim Pickens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/1941.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ferestadeh",
+    "year": 1983,
+    "cast": [
+      "Parviz Sayyad",
+      "Mary Apick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ferestadeh.html"
+}

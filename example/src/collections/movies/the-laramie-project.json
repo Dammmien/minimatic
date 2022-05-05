@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Laramie Project",
+    "year": 2002,
+    "cast": [
+      "Nestor Carbonell",
+      "Christina Ricci",
+      "Dylan Baker"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-laramie-project.html"
+}

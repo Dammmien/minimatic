@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Valley of Decision",
+    "year": 1945,
+    "cast": [
+      "Greer Garson",
+      "Gregory Peck"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-valley-of-decision.html"
+}

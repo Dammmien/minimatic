@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paris in Spring",
+    "year": 1935,
+    "cast": [
+      "Mary Ellis",
+      "Tullio Carminati",
+      "Ida Lupino"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/paris-in-spring.html"
+}

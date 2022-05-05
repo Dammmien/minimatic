@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Robot Jox",
+    "year": 1990,
+    "cast": [
+      "Gary Graham"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/robot-jox.html"
+}

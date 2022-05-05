@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Transformers: Age of Extinction",
+    "year": 2014,
+    "cast": [
+      "Mark Wahlberg",
+      "Stanley Tucci",
+      "Kelsey Grammer",
+      "Nicola Peltz"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/transformers--age-of-extinction.html"
+}

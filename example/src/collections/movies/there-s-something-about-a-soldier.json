@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "There's Something About a Soldier",
+    "year": 1943,
+    "cast": [
+      "Tom Neal",
+      "Evelyn Keyes"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/there-s-something-about-a-soldier.html"
+}

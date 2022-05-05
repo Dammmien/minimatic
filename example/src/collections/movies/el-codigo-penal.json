@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "El codigo penal",
+    "year": 1931,
+    "cast": [
+      "Barry Norton",
+      "Maria Alba"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/el-codigo-penal.html"
+}

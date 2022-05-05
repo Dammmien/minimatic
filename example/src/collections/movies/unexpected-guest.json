@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Unexpected Guest",
+    "year": 1947,
+    "cast": [
+      "William Boyd",
+      "Andy Clyde",
+      "Una O'Connor"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/unexpected-guest.html"
+}

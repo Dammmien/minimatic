@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bachelor Mother",
+    "year": 1939,
+    "cast": [
+      "Ginger Rogers",
+      "David Niven"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bachelor-mother.html"
+}

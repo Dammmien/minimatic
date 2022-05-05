@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Behind the High Wall",
+    "year": 1956,
+    "cast": [
+      "Tom Tully",
+      "John Gavin"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/behind-the-high-wall.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Oath",
+    "year": 2018,
+    "cast": [
+      "Ike Barinholtz",
+      "Tiffany Haddish",
+      "John Cho",
+      "Carrie Brownstein",
+      "Billy Magnussen",
+      "Meredith Hagner",
+      "Jon Barinholtz",
+      "Nora Dunn",
+      "Chris Ellis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-oath.html"
+}

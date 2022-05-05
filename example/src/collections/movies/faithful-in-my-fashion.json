@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Faithful in My Fashion",
+    "year": 1946,
+    "cast": [
+      "Donna Reed",
+      "Tom Drake"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/faithful-in-my-fashion.html"
+}

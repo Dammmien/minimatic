@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Our Betters",
+    "year": 1933,
+    "cast": [
+      "Constance Bennett",
+      "Anita Louise"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/our-betters.html"
+}

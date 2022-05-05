@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Teresa",
+    "year": 1951,
+    "cast": [
+      "Pier Angeli",
+      "John Ericson",
+      "Peggy Ann Garner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/teresa.html"
+}

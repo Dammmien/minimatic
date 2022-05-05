@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Center of the World",
+    "year": 2001,
+    "cast": [
+      "Peter Sarsgaard",
+      "Molly Parker"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-center-of-the-world.html"
+}

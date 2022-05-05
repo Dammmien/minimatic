@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Double Alibi",
+    "year": 1940,
+    "cast": [
+      "Wayne Morris",
+      "Margaret Lindsay",
+      "William Gargan"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/double-alibi.html"
+}

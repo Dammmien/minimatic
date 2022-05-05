@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Smashing the Spy Ring",
+    "year": 1938,
+    "cast": [
+      "Ralph Bellamy",
+      "Fay Wray",
+      "Ann Doran"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/smashing-the-spy-ring.html"
+}

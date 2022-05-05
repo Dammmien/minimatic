@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Riders to the Stars",
+    "year": 1954,
+    "cast": [
+      "William Lundigan",
+      "Martha Hyer",
+      "Dawn Addams"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/riders-to-the-stars.html"
+}

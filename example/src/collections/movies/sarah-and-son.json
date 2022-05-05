@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sarah and Son",
+    "year": 1930,
+    "cast": [
+      "Ruth Chatterton",
+      "Fredric March"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sarah-and-son.html"
+}

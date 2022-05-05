@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Footlight Ranger",
+    "year": 1923,
+    "cast": [
+      "Buck Jones",
+      "Fritzi Brunette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-footlight-ranger.html"
+}

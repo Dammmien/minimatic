@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Marnie",
+    "year": 1964,
+    "cast": [
+      "Sean Connery",
+      "Tippi Hedren",
+      "Diane Baker"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/marnie.html"
+}

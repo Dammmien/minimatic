@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No More Orchids",
+    "year": 1932,
+    "cast": [
+      "Carole Lombard",
+      "Lyle Talbot"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/no-more-orchids.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Under the Top",
+    "year": 1919,
+    "cast": [
+      "Fred Stone",
+      "Ella Hall",
+      "James Cruze"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/under-the-top.html"
+}

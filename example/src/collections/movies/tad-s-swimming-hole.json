@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Tad's Swimming Hole",
+    "year": 1918,
+    "cast": [
+      "Ernest Butterworth"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tad-s-swimming-hole.html"
+}

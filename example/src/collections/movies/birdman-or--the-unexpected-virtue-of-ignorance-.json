@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "year": 2014,
+    "cast": [
+      "Michael Keaton",
+      "Edward Norton",
+      "Naomi Watts",
+      "Emma Stone"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/birdman-or--the-unexpected-virtue-of-ignorance-.html"
+}

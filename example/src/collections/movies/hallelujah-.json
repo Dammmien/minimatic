@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hallelujah!",
+    "year": 1929,
+    "cast": [
+      "Daniel L. Haynes",
+      "Nina Mae McKinney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hallelujah-.html"
+}

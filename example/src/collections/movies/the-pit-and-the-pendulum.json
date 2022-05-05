@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Pit and the Pendulum",
+    "year": 1990,
+    "cast": [
+      "Lance Henriksen",
+      "Mark Margolis"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-pit-and-the-pendulum.html"
+}

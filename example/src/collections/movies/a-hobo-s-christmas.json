@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Hobo's Christmas",
+    "year": 1987,
+    "cast": [
+      "Barnard Hughes",
+      "Gerald McRaney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-hobo-s-christmas.html"
+}

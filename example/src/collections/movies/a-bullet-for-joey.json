@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Bullet for Joey",
+    "year": 1955,
+    "cast": [
+      "Edward G. Robinson",
+      "George Raft",
+      "Audrey Totter"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/a-bullet-for-joey.html"
+}

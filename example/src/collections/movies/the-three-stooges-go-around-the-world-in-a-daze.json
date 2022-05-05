@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Three Stooges Go Around the World in a Daze",
+    "year": 1963,
+    "cast": [
+      "The Three Stooges",
+      "Joan Freeman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-three-stooges-go-around-the-world-in-a-daze.html"
+}

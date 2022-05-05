@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Paid",
+    "year": 1930,
+    "cast": [
+      "Joan Crawford",
+      "Marie Provost",
+      "Robert Armstrong"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/paid.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Canary Murder Case",
+    "year": 1929,
+    "cast": [
+      "William Powell",
+      "Louise Brooks",
+      "Jean Arthur"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-canary-murder-case.html"
+}

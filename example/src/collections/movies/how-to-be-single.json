@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "How to Be Single",
+    "year": 2016,
+    "cast": [
+      "Dakota Johnson",
+      "Rebel Wilson"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/how-to-be-single.html"
+}

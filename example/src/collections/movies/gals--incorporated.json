@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gals, Incorporated",
+    "year": 1943,
+    "cast": [
+      "Leon Errol",
+      "Harriet Nelson",
+      "Grace McDonald"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/gals--incorporated.html"
+}

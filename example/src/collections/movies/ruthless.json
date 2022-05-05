@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ruthless",
+    "year": 1948,
+    "cast": [
+      "Zachary Scott",
+      "Martha Vickers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ruthless.html"
+}

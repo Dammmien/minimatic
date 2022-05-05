@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Shopworn",
+    "year": 1932,
+    "cast": [
+      "Barbara Stanwyck",
+      "Regis Toomey",
+      "ZaSu Pitts"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "output": "movies/shopworn.html"
+}

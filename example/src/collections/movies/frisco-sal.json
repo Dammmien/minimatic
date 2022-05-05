@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Frisco Sal",
+    "year": 1945,
+    "cast": [
+      "Susanna Foster",
+      "Turhan Bey"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/frisco-sal.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Gentleman of Quality",
+    "year": 1919,
+    "cast": [
+      "Earle Williams",
+      "Kathryn Adams"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-gentleman-of-quality.html"
+}

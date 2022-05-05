@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Sound and the Fury",
+    "year": 1959,
+    "cast": [
+      "Yul Brynner",
+      "Joanne Woodward",
+      "Margaret Leighton",
+      "Stuart Whitman",
+      "Jack Warden"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sound-and-the-fury.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "633 Squadron",
+    "year": 1964,
+    "cast": [
+      "Cliff Robertson",
+      "George Chakiris",
+      "Maria Perschy"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/633-squadron.html"
+}

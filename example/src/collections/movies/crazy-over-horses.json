@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Crazy Over Horses",
+    "year": 1951,
+    "cast": [
+      "Bowery Boys",
+      "Gloria Saunders"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/crazy-over-horses.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Courtship of Eddie's Father",
+    "year": 1963,
+    "cast": [
+      "Glenn Ford",
+      "Shirley Jones",
+      "Stella Stevens",
+      "Dina Merrill",
+      "Ron Howard",
+      "Jerry Van Dyke"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-courtship-of-eddie-s-father.html"
+}

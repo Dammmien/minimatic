@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lure of the Yukon",
+    "year": 1924,
+    "cast": [
+      "Eva Novak",
+      "Buddy Roosevelt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lure-of-the-yukon.html"
+}

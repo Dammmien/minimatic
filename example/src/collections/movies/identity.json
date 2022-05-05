@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Identity",
+    "year": 2003,
+    "cast": [
+      "John Cusack",
+      "Ray Liotta",
+      "Amanda Peet",
+      "Clea DuVall",
+      "Rebecca De Mornay"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/identity.html"
+}

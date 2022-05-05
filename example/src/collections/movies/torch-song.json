@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Torch Song",
+    "year": 1953,
+    "cast": [
+      "Joan Crawford",
+      "Michael Wilding",
+      "Gig Young"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/torch-song.html"
+}

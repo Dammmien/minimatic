@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ladies Should Listen",
+    "year": 1934,
+    "cast": [
+      "Cary Grant",
+      "Frances Drake"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ladies-should-listen.html"
+}

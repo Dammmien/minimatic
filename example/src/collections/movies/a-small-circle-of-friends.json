@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Small Circle of Friends",
+    "year": 1980,
+    "cast": [
+      "Karen Allen",
+      "Brad Davis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-small-circle-of-friends.html"
+}

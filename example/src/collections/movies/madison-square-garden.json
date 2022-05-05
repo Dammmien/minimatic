@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Madison Square Garden",
+    "year": 1932,
+    "cast": [
+      "Jack Oakie",
+      "Marian Nixon",
+      "William Boyd"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/madison-square-garden.html"
+}

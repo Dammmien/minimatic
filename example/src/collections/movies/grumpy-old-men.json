@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Grumpy Old Men",
+    "year": 1993,
+    "cast": [
+      "Jack Lemmon",
+      "Walter Matthau",
+      "Ann-Margret",
+      "Daryl Hannah",
+      "Kevin Pollak",
+      "Burgess Meredith",
+      "Ossie Davis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/grumpy-old-men.html"
+}

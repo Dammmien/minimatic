@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "It Happened in Brooklyn",
+    "year": 1947,
+    "cast": [
+      "Frank Sinatra",
+      "Jimmy Durante"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/it-happened-in-brooklyn.html"
+}

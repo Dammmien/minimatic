@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Hangover: Part II",
+    "year": 2011,
+    "cast": [
+      "Bradley Cooper",
+      "Ed Helms",
+      "Zach Galifianakis",
+      "Ken Jeong",
+      "Jeffrey Tambor",
+      "with",
+      "Justin Bartha",
+      "and",
+      "Paul Giamatti"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-hangover--part-ii.html"
+}

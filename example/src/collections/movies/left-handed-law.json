@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Left-Handed Law",
+    "year": 1937,
+    "cast": [
+      "Buck Jones",
+      "Noel Francis",
+      "Nina Quartero"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/left-handed-law.html"
+}

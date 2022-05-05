@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sorrowful Jones",
+    "year": 1949,
+    "cast": [
+      "Bob Hope",
+      "Lucille Ball"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sorrowful-jones.html"
+}

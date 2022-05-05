@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Broken Chains",
+    "year": 1922,
+    "cast": [
+      "Colleen Moore",
+      "Malcolm McGregor",
+      "Ernest Torrence"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/broken-chains.html"
+}

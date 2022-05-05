@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "Twelve",
+    "year": 2010,
+    "cast": [
+      "Chace Crawford",
+      "Rory Culkin",
+      "Esti Ginzburg",
+      "Curtis \"50 Cent\" Jackson",
+      "Zoë Kravitz",
+      "Emily Meade",
+      "Ethan Peck",
+      "Emma Roberts",
+      "Charlie Saxton",
+      "Kiefer Sutherland",
+      "(narrator)",
+      "Ellen Barkin",
+      "Jermaine Crawford",
+      "Billy Magnussen",
+      "Nico Tortorella",
+      "Isiah Whitlock Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/twelve.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The End of the Affair",
+    "year": 1955,
+    "cast": [
+      "Deborah Kerr",
+      "Van Johnson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-end-of-the-affair.html"
+}

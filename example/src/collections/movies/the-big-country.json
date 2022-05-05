@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Big Country",
+    "year": 1958,
+    "cast": [
+      "Gregory Peck",
+      "Charlton Heston",
+      "Jean Simmons",
+      "Carroll Baker",
+      "Burl Ives",
+      "Charles Bickford",
+      "Chuck Connors"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-big-country.html"
+}

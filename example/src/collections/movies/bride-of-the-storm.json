@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bride of the Storm",
+    "year": 1926,
+    "cast": [
+      "Dolores Costello",
+      "Tyrone Power Sr"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/bride-of-the-storm.html"
+}

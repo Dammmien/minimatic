@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Dood It",
+    "year": 1943,
+    "cast": [
+      "Red Skelton",
+      "Eleanor Powell"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-dood-it.html"
+}

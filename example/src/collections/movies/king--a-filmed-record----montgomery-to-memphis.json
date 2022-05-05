@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "King: A Filmed Record... Montgomery to Memphis",
+    "year": 1970,
+    "cast": [
+      "Paul Newman",
+      "James Earl Jones"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/king--a-filmed-record----montgomery-to-memphis.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Roarin' Dan",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/roarin--dan.html"
+}

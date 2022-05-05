@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Big Shakedown",
+    "year": 1934,
+    "cast": [
+      "Bette Davis",
+      "Ricardo Cortez",
+      "Allen Jenkins"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-big-shakedown.html"
+}

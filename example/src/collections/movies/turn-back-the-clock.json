@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Turn Back the Clock",
+    "year": 1933,
+    "cast": [
+      "Lee Tracy",
+      "Mae Clarke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/turn-back-the-clock.html"
+}

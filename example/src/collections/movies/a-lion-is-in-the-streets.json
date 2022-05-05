@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Lion Is in the Streets",
+    "year": 1953,
+    "cast": [
+      "James Cagney",
+      "Barbara Hale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-lion-is-in-the-streets.html"
+}

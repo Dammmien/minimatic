@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Good Morning, Vietnam",
+    "year": 1987,
+    "cast": [
+      "Robin Williams",
+      "Robert Wuhl",
+      "Forest Whitaker",
+      "Bruno Kirby",
+      "J. T. Walsh"
+    ],
+    "genres": [
+      "War",
+      "Comedy"
+    ]
+  },
+  "output": "movies/good-morning--vietnam.html"
+}

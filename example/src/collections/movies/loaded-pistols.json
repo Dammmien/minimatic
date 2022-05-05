@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Loaded Pistols",
+    "year": 1948,
+    "cast": [
+      "Gene Autry",
+      "Barbara Britton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/loaded-pistols.html"
+}

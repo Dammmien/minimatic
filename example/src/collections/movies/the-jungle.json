@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Jungle",
+    "year": 1952,
+    "cast": [
+      "Rod Cameron",
+      "Cesar Romero",
+      "Marie Windsor"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-jungle.html"
+}

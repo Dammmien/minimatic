@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "McKenna of the Mounted",
+    "year": 1932,
+    "cast": [
+      "Buck Jones",
+      "Greta Granstedt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/mckenna-of-the-mounted.html"
+}

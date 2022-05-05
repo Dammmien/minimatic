@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Def-Con 4",
+    "year": 1985,
+    "cast": [
+      "Lenore Zann",
+      "Maury Chaykin",
+      "Kate Lynch"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/def-con-4.html"
+}

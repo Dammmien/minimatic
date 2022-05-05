@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Gross Anatomy",
+    "year": 1989,
+    "cast": [
+      "Matthew Modine",
+      "Daphne Zuniga",
+      "Christine Lahti"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/gross-anatomy.html"
+}

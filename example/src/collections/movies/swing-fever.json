@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Swing Fever",
+    "year": 1943,
+    "cast": [
+      "Kay Kyser",
+      "Marilyn Maxwell",
+      "Lena Horne"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/swing-fever.html"
+}

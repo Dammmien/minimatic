@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Waking Up in Reno",
+    "year": 2002,
+    "cast": [
+      "Natasha Richardson",
+      "Billy Bob Thornton",
+      "Charlize Theron",
+      "Patrick Swayze"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/waking-up-in-reno.html"
+}

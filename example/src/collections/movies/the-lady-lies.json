@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lady Lies",
+    "year": 1929,
+    "cast": [
+      "Walter Huston",
+      "Claudette Colbert"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-lady-lies.html"
+}

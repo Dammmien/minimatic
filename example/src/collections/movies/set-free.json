@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Set Free",
+    "year": 1918,
+    "cast": [
+      "Edith Roberts",
+      "Harold Goodwin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/set-free.html"
+}

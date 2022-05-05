@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Slave Ship",
+    "year": 1937,
+    "cast": [
+      "Wallace Beery",
+      "Warner Baxter",
+      "Mickey Rooney"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/slave-ship.html"
+}

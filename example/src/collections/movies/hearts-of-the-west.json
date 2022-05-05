@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hearts of the West",
+    "year": 1975,
+    "cast": [
+      "Jeff Bridges",
+      "Andy Griffith",
+      "Donald Pleasence"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hearts-of-the-west.html"
+}

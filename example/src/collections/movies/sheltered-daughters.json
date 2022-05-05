@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sheltered Daughters",
+    "year": 1921,
+    "cast": [
+      "Justine Johnstone",
+      "Riley Hatch",
+      "Warner Baxter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sheltered-daughters.html"
+}

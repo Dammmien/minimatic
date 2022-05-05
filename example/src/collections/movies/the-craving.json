@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Craving",
+    "year": 1918,
+    "cast": [
+      "Francis Ford",
+      "Mae Gaston"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-craving.html"
+}

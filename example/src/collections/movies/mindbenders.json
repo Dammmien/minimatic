@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mindbenders",
+    "year": 2004,
+    "cast": [
+      "Tomiko Martinez",
+      "Jennifer Goodrich",
+      "Nicole Turner"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/mindbenders.html"
+}

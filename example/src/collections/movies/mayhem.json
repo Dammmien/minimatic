@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Mayhem",
+    "year": 2017,
+    "cast": [
+      "Steven Yeun",
+      "Samara Weaving",
+      "Steven Brand",
+      "Caroline Chikezie",
+      "Kerry Fox",
+      "Dallas Roberts"
+    ],
+    "genres": [
+      "Action",
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/mayhem.html"
+}

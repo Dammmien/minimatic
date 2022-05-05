@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Forget Me Not",
+    "year": 1922,
+    "cast": [
+      "Irene Hunt",
+      "Bessie Love",
+      "Gareth Hughes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/forget-me-not.html"
+}

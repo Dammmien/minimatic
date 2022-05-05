@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Millennium",
+    "year": 1989,
+    "cast": [
+      "Kris Kristofferson",
+      "Cheryl Ladd",
+      "Daniel J. Travanti",
+      "Robert Joy"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/millennium.html"
+}

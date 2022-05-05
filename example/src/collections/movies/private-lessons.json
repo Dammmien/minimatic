@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Private Lessons",
+    "year": 1981,
+    "cast": [
+      "Sylvia Kristel",
+      "Howard Hesseman",
+      "Ed Begley Jr."
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/private-lessons.html"
+}

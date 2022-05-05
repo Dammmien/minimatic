@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "You So Crazy",
+    "year": 1994,
+    "cast": [
+      "Martin Lawrence"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/you-so-crazy.html"
+}

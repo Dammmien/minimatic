@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Shakedown",
+    "year": 1929,
+    "cast": [
+      "James Murray",
+      "Barbara Kent"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-shakedown.html"
+}

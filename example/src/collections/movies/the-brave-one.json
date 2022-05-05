@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Brave One",
+    "year": 2007,
+    "cast": [
+      "Jodie Foster",
+      "Naveen Andrews",
+      "Terrence Howard",
+      "Mary Steenburgen"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-brave-one.html"
+}

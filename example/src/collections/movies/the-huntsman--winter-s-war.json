@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Huntsman: Winter's War",
+    "year": 2016,
+    "cast": [
+      "Chris Hemsworth",
+      "Charlize Theron",
+      "Emily Blunt"
+    ],
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-huntsman--winter-s-war.html"
+}

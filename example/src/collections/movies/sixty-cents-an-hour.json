@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sixty Cents an Hour",
+    "year": 1923,
+    "cast": [
+      "Walter Hiers",
+      "Jacqueline Logan",
+      "Ricardo Cortez"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sixty-cents-an-hour.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Bad Seed",
+    "year": 1956,
+    "cast": [
+      "Nancy Kelly",
+      "Patty McCormack"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-bad-seed.html"
+}

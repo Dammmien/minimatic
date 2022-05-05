@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Def by Temptation",
+    "year": 1990,
+    "cast": [
+      "Samuel L. Jackson",
+      "Kadeem Hardison"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/def-by-temptation.html"
+}

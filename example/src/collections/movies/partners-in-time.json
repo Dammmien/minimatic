@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Partners in Time",
+    "year": 1946,
+    "cast": [
+      "Chester Lauck",
+      "Pamela Blake",
+      "Teala Loring"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/partners-in-time.html"
+}

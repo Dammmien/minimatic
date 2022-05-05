@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Princess of the Nile",
+    "year": 1954,
+    "cast": [
+      "Debra Paget",
+      "Jeffrey Hunter",
+      "Michael Rennie"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/princess-of-the-nile.html"
+}

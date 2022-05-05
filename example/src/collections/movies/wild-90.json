@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Wild 90",
+    "year": 1968,
+    "cast": [
+      "Norman Mailer",
+      "Buzz Farbar",
+      "Mickey Knox"
+    ],
+    "genres": []
+  },
+  "output": "movies/wild-90.html"
+}

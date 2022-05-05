@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Babes in Toyland",
+    "year": 1961,
+    "cast": [
+      "Tommy Sands",
+      "Annette Funicello",
+      "Ray Bolger",
+      "Ed Wynn"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/babes-in-toyland.html"
+}

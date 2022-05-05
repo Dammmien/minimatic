@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Three Smart Girls Grow Up",
+    "year": 1939,
+    "cast": [
+      "Deanna Durbin",
+      "Nan Grey",
+      "Helen Parrish"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-smart-girls-grow-up.html"
+}

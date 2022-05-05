@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Street Fight",
+    "year": 2005,
+    "cast": [
+      "the 2002",
+      "Cory Booker",
+      "campaign against",
+      "Sharpe James",
+      "for mayor of",
+      "Newark",
+      "New Jersey"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/street-fight.html"
+}

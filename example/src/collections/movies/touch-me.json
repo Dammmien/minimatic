@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Touch Me",
+    "year": 1997,
+    "cast": [
+      "Amanda Peet",
+      "Michael Vartan",
+      "Peter Facinelli"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/touch-me.html"
+}

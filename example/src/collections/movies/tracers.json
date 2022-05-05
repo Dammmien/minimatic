@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tracers",
+    "year": 2015,
+    "cast": [
+      "Taylor Lautner",
+      "Marie Avgeropoulos",
+      "Adam Rayner",
+      "Rafi Gavron"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/tracers.html"
+}

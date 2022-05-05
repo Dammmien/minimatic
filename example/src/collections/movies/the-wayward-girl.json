@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wayward Girl",
+    "year": 1957,
+    "cast": [
+      "Marcia Henderson",
+      "Whit Bissell"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wayward-girl.html"
+}

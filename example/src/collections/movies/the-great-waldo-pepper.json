@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Great Waldo Pepper",
+    "year": 1975,
+    "cast": [
+      "Robert Redford",
+      "Susan Sarandon",
+      "Margot Kidder"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-great-waldo-pepper.html"
+}

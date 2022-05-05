@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cross Streets",
+    "year": 1934,
+    "cast": [
+      "Claire Windsor",
+      "Johnny Mack Brown"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/cross-streets.html"
+}

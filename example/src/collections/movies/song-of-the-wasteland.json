@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Song of the Wasteland",
+    "year": 1947,
+    "cast": [
+      "Jimmy Wakely",
+      "Mike Ragan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/song-of-the-wasteland.html"
+}

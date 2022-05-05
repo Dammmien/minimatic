@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Behind the Mike",
+    "year": 1937,
+    "cast": [
+      "William Gargan",
+      "Judith Barrett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/behind-the-mike.html"
+}

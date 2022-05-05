@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Mildred Pierce",
+    "year": 1945,
+    "cast": [
+      "Joan Crawford",
+      "Jack Carson",
+      "Ann Blyth",
+      "Zachary Scott",
+      "Eve Arden"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/mildred-pierce.html"
+}

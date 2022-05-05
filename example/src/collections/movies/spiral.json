@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Spiral",
+    "year": 2007,
+    "cast": [
+      "Amber Tamblyn",
+      "Joel David Moore",
+      "Zachary Levi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/spiral.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Home for the Holidays",
+    "year": 1995,
+    "cast": [
+      "Holly Hunter",
+      "Robert Downey, Jr.",
+      "Anne Bancroft",
+      "Charles Durning",
+      "Steve Guttenberg",
+      "Dylan McDermott",
+      "Cynthia Stevenson",
+      "Claire Danes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/home-for-the-holidays.html"
+}

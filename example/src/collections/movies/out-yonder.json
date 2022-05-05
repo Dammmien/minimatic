@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Out Yonder",
+    "year": 1919,
+    "cast": [
+      "Olive Thomas",
+      "Huntley Gordon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/out-yonder.html"
+}

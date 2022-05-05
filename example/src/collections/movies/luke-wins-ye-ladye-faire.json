@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Luke Wins Ye Ladye Faire",
+    "year": 1917,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/luke-wins-ye-ladye-faire.html"
+}

@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Sing",
+    "year": 2016,
+    "cast": [
+      "Reese Witherspoon",
+      "Scarlett Johansson"
+    ],
+    "genres": []
+  },
+  "output": "movies/sing.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Lost Medallion: The Adventures of Billy Stone",
+    "year": 2013,
+    "cast": [
+      "Billy Unger",
+      "Sammi Hanratty",
+      "James Hong",
+      "Jansen Panettiere"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-lost-medallion--the-adventures-of-billy-stone.html"
+}

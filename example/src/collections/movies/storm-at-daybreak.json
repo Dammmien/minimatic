@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Storm at Daybreak",
+    "year": 1933,
+    "cast": [
+      "Kay Francis",
+      "Nils Asther"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/storm-at-daybreak.html"
+}

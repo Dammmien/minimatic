@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Catacombs",
+    "year": 2007,
+    "cast": [
+      "Shannyn Sossamon",
+      "Pink"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/catacombs.html"
+}

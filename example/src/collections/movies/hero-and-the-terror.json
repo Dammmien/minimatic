@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hero and the Terror",
+    "year": 1988,
+    "cast": [
+      "Chuck Norris",
+      "Brynn Thayer"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/hero-and-the-terror.html"
+}

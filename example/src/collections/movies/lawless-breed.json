@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lawless Breed",
+    "year": 1946,
+    "cast": [
+      "Kirby Grant",
+      "Jane Adams"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/lawless-breed.html"
+}

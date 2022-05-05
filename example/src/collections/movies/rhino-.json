@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rhino!",
+    "year": 1964,
+    "cast": [
+      "Robert Culp",
+      "Harry Guardino",
+      "Shirley Eaton"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/rhino-.html"
+}

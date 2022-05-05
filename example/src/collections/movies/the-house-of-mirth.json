@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The House of Mirth",
+    "year": 2000,
+    "cast": [
+      "Gillian Anderson",
+      "Laura Linney",
+      "Dan Aykroyd"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-house-of-mirth.html"
+}

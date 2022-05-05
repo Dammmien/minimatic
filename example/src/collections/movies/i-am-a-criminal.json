@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Am a Criminal",
+    "year": 1938,
+    "cast": [
+      "John Carroll",
+      "Kay Linaker"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/i-am-a-criminal.html"
+}

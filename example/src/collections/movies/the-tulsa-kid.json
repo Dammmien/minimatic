@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Tulsa Kid",
+    "year": 1940,
+    "cast": [
+      "Don \"Red\" Barry",
+      "Luana Walters"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-tulsa-kid.html"
+}

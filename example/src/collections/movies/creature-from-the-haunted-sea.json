@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Creature from the Haunted Sea",
+    "year": 1961,
+    "cast": [
+      "Antony Carbone",
+      "Betsy Jones-Moreland"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/creature-from-the-haunted-sea.html"
+}

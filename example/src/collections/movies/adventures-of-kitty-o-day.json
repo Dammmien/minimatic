@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Adventures of Kitty O'Day",
+    "year": 1945,
+    "cast": [
+      "Jean Parker",
+      "Peter Cookson"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/adventures-of-kitty-o-day.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Night of the White Pants",
+    "year": 2006,
+    "cast": [
+      "Tom Wilkinson",
+      "Selma Blair",
+      "Nick Stahl"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-night-of-the-white-pants.html"
+}

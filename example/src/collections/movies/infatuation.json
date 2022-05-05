@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Infatuation",
+    "year": 1925,
+    "cast": [
+      "Corinne Griffith",
+      "Percy Marmont"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/infatuation.html"
+}

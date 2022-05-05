@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fashion Row",
+    "year": 1923,
+    "cast": [
+      "Mae Murray",
+      "Earle Foxe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fashion-row.html"
+}

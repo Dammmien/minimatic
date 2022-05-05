@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fair Co-Ed",
+    "year": 1927,
+    "cast": [
+      "Marion Davies",
+      "Johnny Mack Brown"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-fair-co-ed.html"
+}

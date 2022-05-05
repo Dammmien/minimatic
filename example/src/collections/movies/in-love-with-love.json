@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In Love with Love",
+    "year": 1924,
+    "cast": [
+      "Marguerite De La Motte",
+      "Allan Forrest"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/in-love-with-love.html"
+}

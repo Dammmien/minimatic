@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Prince of Thieves",
+    "year": 1948,
+    "cast": [
+      "Patricia Morison",
+      "Jon Hall"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-prince-of-thieves.html"
+}

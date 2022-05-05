@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Carmen Jones",
+    "year": 1954,
+    "cast": [
+      "Harry Belafonte",
+      "Dorothy Dandridge"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/carmen-jones.html"
+}

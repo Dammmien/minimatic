@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cha-Cha-Cha Boom!",
+    "year": 1956,
+    "cast": [
+      "Stephen Dunne",
+      "Helen Grayco"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/cha-cha-cha-boom-.html"
+}

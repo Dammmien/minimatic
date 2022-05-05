@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Claudine",
+    "year": 1974,
+    "cast": [
+      "Diahann Carroll",
+      "James Earl Jones"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/claudine.html"
+}

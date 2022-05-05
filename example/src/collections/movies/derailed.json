@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Derailed",
+    "year": 2005,
+    "cast": [
+      "Clive Owen",
+      "Jennifer Aniston",
+      "Vincent Cassel"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/derailed.html"
+}

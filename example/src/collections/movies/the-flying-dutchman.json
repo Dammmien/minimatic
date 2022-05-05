@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Flying Dutchman",
+    "year": 1923,
+    "cast": [
+      "Lawson Butt",
+      "Ella Hall"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-flying-dutchman.html"
+}

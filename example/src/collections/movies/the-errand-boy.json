@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Errand Boy",
+    "year": 1961,
+    "cast": [
+      "Jerry Lewis",
+      "Brian Donlevy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-errand-boy.html"
+}

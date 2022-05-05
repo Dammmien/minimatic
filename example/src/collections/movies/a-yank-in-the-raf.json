@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Yank in the RAF",
+    "year": 1941,
+    "cast": [
+      "Tyrone Power",
+      "Betty Grable"
+    ],
+    "genres": [
+      "War",
+      "Romance"
+    ]
+  },
+  "output": "movies/a-yank-in-the-raf.html"
+}

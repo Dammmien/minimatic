@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Sea Bat",
+    "year": 1930,
+    "cast": [
+      "Raquel Torres",
+      "Charles Bickford",
+      "Nils Asther"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sea-bat.html"
+}

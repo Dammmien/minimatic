@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Black Jack",
+    "year": 1950,
+    "cast": [
+      "George Sanders",
+      "Herbert Marshall",
+      "Patricia Roc"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/black-jack.html"
+}

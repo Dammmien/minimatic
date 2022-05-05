@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Talent for the Game",
+    "year": 1991,
+    "cast": [
+      "Edward James Olmos",
+      "Lorraine Bracco"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/talent-for-the-game.html"
+}

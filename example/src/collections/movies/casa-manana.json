@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Casa Manana",
+    "year": 1951,
+    "cast": [
+      "Virginia Welles",
+      "Robert Clarke"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/casa-manana.html"
+}

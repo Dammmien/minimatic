@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Gray Wolf's Ghost",
+    "year": 1919,
+    "cast": [
+      "H. B. Warner",
+      "Marin Sais"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-gray-wolf-s-ghost.html"
+}

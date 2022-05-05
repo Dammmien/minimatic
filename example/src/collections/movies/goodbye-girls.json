@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Goodbye Girls",
+    "year": 1923,
+    "cast": [
+      "William Russell",
+      "Carmel Myers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/goodbye-girls.html"
+}

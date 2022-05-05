@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Grand Central Murder",
+    "year": 1942,
+    "cast": [
+      "Van Heflin",
+      "Cecilia Parker"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/grand-central-murder.html"
+}

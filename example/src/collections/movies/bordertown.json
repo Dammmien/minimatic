@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bordertown",
+    "year": 2006,
+    "cast": [
+      "Jennifer Lopez",
+      "Antonio Banderas"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/bordertown.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Enron: The Smartest Guys in the Room",
+    "year": 2005,
+    "cast": [
+      "the",
+      "Enron scandal"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/enron--the-smartest-guys-in-the-room.html"
+}

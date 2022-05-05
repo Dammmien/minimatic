@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Operation Bikini",
+    "year": 1963,
+    "cast": [
+      "Tab Hunter",
+      "Frankie Avalon",
+      "Jim Backus",
+      "Gary Crosby"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/operation-bikini.html"
+}

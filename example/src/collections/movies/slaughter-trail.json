@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Slaughter Trail",
+    "year": 1951,
+    "cast": [
+      "Gig Young",
+      "Brian Donlevy"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/slaughter-trail.html"
+}

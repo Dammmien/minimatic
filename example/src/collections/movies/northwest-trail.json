@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Northwest Trail",
+    "year": 1945,
+    "cast": [
+      "Bob Steele",
+      "Joan Woodbury"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/northwest-trail.html"
+}

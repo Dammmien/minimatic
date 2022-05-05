@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fear and Loathing in Las Vegas",
+    "year": 1998,
+    "cast": [
+      "Johnny Depp",
+      "Benicio del Toro"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fear-and-loathing-in-las-vegas.html"
+}

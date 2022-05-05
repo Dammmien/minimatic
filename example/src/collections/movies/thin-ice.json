@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Thin Ice",
+    "year": 1937,
+    "cast": [
+      "Tyrone Power",
+      "Sonja Henie",
+      "Arthur Treacher"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/thin-ice.html"
+}

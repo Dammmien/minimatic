@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Call of the Wild",
+    "year": 1935,
+    "cast": [
+      "Clark Gable",
+      "Loretta Young",
+      "Jack Oakie"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-call-of-the-wild.html"
+}

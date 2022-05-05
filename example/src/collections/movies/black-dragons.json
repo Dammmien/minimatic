@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Black Dragons",
+    "year": 1942,
+    "cast": [
+      "Bela Lugosi"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/black-dragons.html"
+}

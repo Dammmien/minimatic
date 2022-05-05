@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "eXistenZ",
+    "year": 1999,
+    "cast": [
+      "Jennifer Jason Leigh",
+      "Jude Law",
+      "Ian Holm"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/existenz.html"
+}

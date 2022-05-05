@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Endangered Species",
+    "year": 1982,
+    "cast": [
+      "Robert Urich",
+      "JoBeth Williams",
+      "Paul Dooley"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/endangered-species.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Design for Living",
+    "year": 1933,
+    "cast": [
+      "Fredric March",
+      "Gary Cooper",
+      "Miriam Hopkins"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/design-for-living.html"
+}

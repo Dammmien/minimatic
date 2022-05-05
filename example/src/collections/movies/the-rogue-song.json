@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Rogue Song",
+    "year": 1930,
+    "cast": [
+      "Lawrence Tibbett",
+      "Clifford Grey"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-rogue-song.html"
+}

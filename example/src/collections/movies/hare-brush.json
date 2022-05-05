@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Hare Brush",
+    "year": 1955,
+    "cast": [
+      "Looney Tunes"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/hare-brush.html"
+}

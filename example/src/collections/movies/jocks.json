@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jocks",
+    "year": 1987,
+    "cast": [
+      "Scott Strader",
+      "Perry Lang"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/jocks.html"
+}

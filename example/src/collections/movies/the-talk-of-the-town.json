@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Talk of the Town",
+    "year": 1942,
+    "cast": [
+      "Cary Grant",
+      "Jean Arthur",
+      "Ronald Colman"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-talk-of-the-town.html"
+}

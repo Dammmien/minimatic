@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Lion King II: Simba's Pride",
+    "year": 1998,
+    "cast": [
+      "Matthew Broderick",
+      "Neve Campbell",
+      "Jason Marsden",
+      "Nathan Lane"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-lion-king-ii--simba-s-pride.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Get Smart",
+    "year": 2008,
+    "cast": [
+      "Steve Carell",
+      "Anne Hathaway",
+      "Dwayne Johnson",
+      "Alan Arkin",
+      "Terry Crews",
+      "James Caan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/get-smart.html"
+}

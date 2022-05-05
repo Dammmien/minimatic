@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Bad and the Beautiful",
+    "year": 1952,
+    "cast": [
+      "Lana Turner",
+      "Kirk Douglas",
+      "Walter Pidgeon",
+      "Dick Powell",
+      "Barry Sullivan",
+      "Gloria Grahame"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-bad-and-the-beautiful.html"
+}

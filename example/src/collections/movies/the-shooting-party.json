@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Shooting Party",
+    "year": 1985,
+    "cast": [
+      "James Mason",
+      "John Gielgud"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-shooting-party.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Love That Dares",
+    "year": 1919,
+    "cast": [
+      "Madlaine Traverse",
+      "Tom Santschi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-love-that-dares.html"
+}

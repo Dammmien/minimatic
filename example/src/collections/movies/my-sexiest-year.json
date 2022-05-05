@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Sexiest Year",
+    "year": 2007,
+    "cast": [
+      "Frankie Muniz",
+      "Harvey Keitel",
+      "Haylie Duff"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/my-sexiest-year.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ships of the Night",
+    "year": 1928,
+    "cast": [
+      "Jacqueline Logan",
+      "Sôjin Kamiyama",
+      "Jack Mower"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/ships-of-the-night.html"
+}

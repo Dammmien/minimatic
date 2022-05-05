@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Copperhead",
+    "year": 1920,
+    "cast": [
+      "Lionel Barrymore",
+      "Doris Rankin"
+    ],
+    "genres": [
+      "Historical",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-copperhead.html"
+}

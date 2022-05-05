@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Meet the Parents",
+    "year": 2000,
+    "cast": [
+      "Ben Stiller",
+      "Robert De Niro",
+      "Blythe Danner",
+      "Teri Polo",
+      "Owen Wilson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/meet-the-parents.html"
+}

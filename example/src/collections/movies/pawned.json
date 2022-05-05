@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pawned",
+    "year": 1922,
+    "cast": [
+      "Tom Moore",
+      "Edith Roberts"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/pawned.html"
+}

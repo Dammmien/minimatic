@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Inside Out",
+    "year": 2015,
+    "cast": [
+      "Amy Poehler",
+      "Lewis Black",
+      "Mindy Kaling",
+      "Bill Hader",
+      "Phyllis Smith"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/inside-out.html"
+}

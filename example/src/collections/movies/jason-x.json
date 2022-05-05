@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jason X",
+    "year": 2002,
+    "cast": [
+      "Kane Hodder",
+      "Lexa Doig",
+      "Lisa Ryder"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/jason-x.html"
+}

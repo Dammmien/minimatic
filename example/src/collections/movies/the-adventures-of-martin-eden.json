@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Adventures of Martin Eden",
+    "year": 1942,
+    "cast": [
+      "Glenn Ford",
+      "Claire Trevor"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-adventures-of-martin-eden.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gunfight at Comanche Creek",
+    "year": 1963,
+    "cast": [
+      "Audie Murphy",
+      "Colleen Miller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gunfight-at-comanche-creek.html"
+}

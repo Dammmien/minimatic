@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three Hearts for Julia",
+    "year": 1943,
+    "cast": [
+      "Ann Sothern",
+      "Melvyn Douglas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/three-hearts-for-julia.html"
+}

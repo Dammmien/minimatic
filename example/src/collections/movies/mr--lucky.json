@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mr. Lucky",
+    "year": 1943,
+    "cast": [
+      "Cary Grant",
+      "Laraine Day"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/mr--lucky.html"
+}

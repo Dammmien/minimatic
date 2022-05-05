@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Tusk",
+    "year": 2014,
+    "cast": [
+      "Michael Parks",
+      "Justin Long",
+      "Haley Joel Osment",
+      "Johnny Depp"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
+  },
+  "output": "movies/tusk.html"
+}

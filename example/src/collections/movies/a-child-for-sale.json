@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Child for Sale",
+    "year": 1920,
+    "cast": [
+      "Gladys Leslie",
+      "Creighton Hale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-child-for-sale.html"
+}

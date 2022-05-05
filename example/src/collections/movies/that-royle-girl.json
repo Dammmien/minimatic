@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "That Royle Girl",
+    "year": 1925,
+    "cast": [
+      "Carol Dempster",
+      "W. C. Fields"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-royle-girl.html"
+}

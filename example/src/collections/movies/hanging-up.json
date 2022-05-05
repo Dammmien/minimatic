@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hanging Up",
+    "year": 2000,
+    "cast": [
+      "Meg Ryan",
+      "Diane Keaton",
+      "Lisa Kudrow",
+      "Walter Matthau"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hanging-up.html"
+}

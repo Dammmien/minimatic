@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "That Lucky Touch",
+    "year": 1975,
+    "cast": [
+      "Roger Moore",
+      "Lee J. Cobb",
+      "Susannah York"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/that-lucky-touch.html"
+}

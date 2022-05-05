@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love in a Goldfish Bowl",
+    "year": 1961,
+    "cast": [
+      "Tommy Sands",
+      "Fabian"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-in-a-goldfish-bowl.html"
+}

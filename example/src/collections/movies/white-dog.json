@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "White Dog",
+    "year": 1982,
+    "cast": [
+      "Kristy McNichol",
+      "Paul Winfield",
+      "Jameson Parker"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/white-dog.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Avenging Waters",
+    "year": 1936,
+    "cast": [
+      "Ken Maynard",
+      "Beth Marion",
+      "Ward Bond"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/avenging-waters.html"
+}

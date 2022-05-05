@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bedlam",
+    "year": 1946,
+    "cast": [
+      "Boris Karloff",
+      "Anna Lee"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/bedlam.html"
+}

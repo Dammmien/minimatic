@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "I Could Never Be Your Woman",
+    "year": 2007,
+    "cast": [
+      "Michelle Pfeiffer",
+      "Paul Rudd"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/i-could-never-be-your-woman.html"
+}

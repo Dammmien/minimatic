@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Local Bad Man",
+    "year": 1932,
+    "cast": [
+      "Hoot Gibson",
+      "Sally Blane"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-local-bad-man.html"
+}

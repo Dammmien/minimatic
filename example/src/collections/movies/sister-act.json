@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sister Act",
+    "year": 1992,
+    "cast": [
+      "Whoopi Goldberg",
+      "Maggie Smith",
+      "Harvey Keitel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sister-act.html"
+}

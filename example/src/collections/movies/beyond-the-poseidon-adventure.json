@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Beyond the Poseidon Adventure",
+    "year": 1979,
+    "cast": [
+      "Michael Caine",
+      "Sally Field",
+      "Telly Savalas",
+      "Shirley Jones",
+      "Karl Malden",
+      "Mark Harmon"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/beyond-the-poseidon-adventure.html"
+}

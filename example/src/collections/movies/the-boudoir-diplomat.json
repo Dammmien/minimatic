@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Boudoir Diplomat",
+    "year": 1930,
+    "cast": [
+      "Betty Compson",
+      "Mary Duncan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-boudoir-diplomat.html"
+}

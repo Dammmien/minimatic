@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rose of Washington Square",
+    "year": 1939,
+    "cast": [
+      "Alice Faye",
+      "Tyrone Power"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/rose-of-washington-square.html"
+}

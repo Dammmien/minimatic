@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Camelot",
+    "year": 1967,
+    "cast": [
+      "Richard Harris",
+      "Vanessa Redgrave",
+      "Franco Nero",
+      "David Hemmings"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/camelot.html"
+}

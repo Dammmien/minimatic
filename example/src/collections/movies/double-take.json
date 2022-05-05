@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Double Take",
+    "year": 2001,
+    "cast": [
+      "Eddie Griffin",
+      "Orlando Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/double-take.html"
+}

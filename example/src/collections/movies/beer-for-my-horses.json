@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Beer for My Horses",
+    "year": 2008,
+    "cast": [
+      "Toby Keith",
+      "Rodney Carrington",
+      "Willie Nelson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/beer-for-my-horses.html"
+}

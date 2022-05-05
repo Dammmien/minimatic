@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Sand Pebbles",
+    "year": 1966,
+    "cast": [
+      "Steve McQueen",
+      "Richard Crenna",
+      "Candice Bergen",
+      "Mako",
+      "Richard Attenborough",
+      "Simon Oakland"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/the-sand-pebbles.html"
+}

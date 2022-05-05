@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hiding Place",
+    "year": 1975,
+    "cast": [
+      "Julie Harris",
+      "Eileen Heckart"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-hiding-place.html"
+}

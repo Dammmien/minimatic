@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hurricane on the Bayou",
+    "year": 2006,
+    "cast": [
+      "wetlands of Louisiana",
+      "and",
+      "Hurricane Katrina"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/hurricane-on-the-bayou.html"
+}

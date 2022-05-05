@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Awakening of Jim Burke",
+    "year": 1935,
+    "cast": [
+      "Jack Holt",
+      "Florence Rice"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-awakening-of-jim-burke.html"
+}

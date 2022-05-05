@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Spirit of the USA",
+    "year": 1924,
+    "cast": [
+      "Johnnie Walker",
+      "Mary Carr"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-spirit-of-the-usa.html"
+}

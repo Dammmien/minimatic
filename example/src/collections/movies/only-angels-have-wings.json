@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Only Angels Have Wings",
+    "year": 1939,
+    "cast": [
+      "Cary Grant",
+      "Jean Arthur",
+      "Richard Barthelmess",
+      "Rita Hayworth"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/only-angels-have-wings.html"
+}

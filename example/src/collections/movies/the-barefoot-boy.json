@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Barefoot Boy",
+    "year": 1923,
+    "cast": [
+      "John Bowers",
+      "Marjorie Daw",
+      "Sylvia Breamer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-barefoot-boy.html"
+}

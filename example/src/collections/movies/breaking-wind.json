@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Breaking Wind",
+    "year": 2012,
+    "cast": [
+      "Heather Ann Davis",
+      "Eric Callero",
+      "Frank Pacheco"
+    ],
+    "genres": [
+      "Satire"
+    ]
+  },
+  "output": "movies/breaking-wind.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Seizure",
+    "year": 1974,
+    "cast": [
+      "Jonathan Frid",
+      "Herve Villechaize"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/seizure.html"
+}

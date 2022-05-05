@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Magic Cup",
+    "year": 1921,
+    "cast": [
+      "Constance Binney",
+      "Vincent Coleman",
+      "Blanche Craig"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-magic-cup.html"
+}

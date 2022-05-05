@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Glen or Glenda",
+    "year": 1953,
+    "cast": [
+      "Timothy Farrell",
+      "Dolores Fuller"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/glen-or-glenda.html"
+}

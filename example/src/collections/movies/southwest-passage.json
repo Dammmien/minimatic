@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Southwest Passage",
+    "year": 1954,
+    "cast": [
+      "Joanne Dru",
+      "Rod Cameron",
+      "John Ireland"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/southwest-passage.html"
+}

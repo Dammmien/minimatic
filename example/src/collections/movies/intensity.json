@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Intensity",
+    "year": 1997,
+    "cast": [
+      "Piper Laurie",
+      "Molly Parker"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/intensity.html"
+}

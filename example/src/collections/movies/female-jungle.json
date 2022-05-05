@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Female Jungle",
+    "year": 1955,
+    "cast": [
+      "Lawrence Tierney",
+      "Jayne Mansfield"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/female-jungle.html"
+}

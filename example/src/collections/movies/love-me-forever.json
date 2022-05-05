@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Love Me Forever",
+    "year": 1935,
+    "cast": [
+      "Grace Moore",
+      "Leo Carrillo",
+      "Spring Byington"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ]
+  },
+  "output": "movies/love-me-forever.html"
+}

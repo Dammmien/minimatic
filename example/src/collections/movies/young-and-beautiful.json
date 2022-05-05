@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Young and Beautiful",
+    "year": 1934,
+    "cast": [
+      "William Haines",
+      "Joseph Cawthorn",
+      "Judith Allen"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/young-and-beautiful.html"
+}

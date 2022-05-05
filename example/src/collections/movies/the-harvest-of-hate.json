@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Harvest of Hate",
+    "year": 1929,
+    "cast": [
+      "Jack Perrin",
+      "Helen Foster"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-harvest-of-hate.html"
+}

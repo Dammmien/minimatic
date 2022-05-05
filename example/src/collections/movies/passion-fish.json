@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Passion Fish",
+    "year": 1992,
+    "cast": [
+      "Mary McDonnell",
+      "Alfre Woodard",
+      "David Strathairn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/passion-fish.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Prince Who Was a Thief",
+    "year": 1951,
+    "cast": [
+      "Tony Curtis",
+      "Piper Laurie"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-prince-who-was-a-thief.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "What Ever Happened to Baby Jane?",
+    "year": 1962,
+    "cast": [
+      "Bette Davis",
+      "Joan Crawford",
+      "Victor Buono"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/what-ever-happened-to-baby-jane-.html"
+}

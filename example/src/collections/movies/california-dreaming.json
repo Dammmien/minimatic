@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "California Dreaming",
+    "year": 1979,
+    "cast": [
+      "Glynnis O'Connor",
+      "Dennis Christopher",
+      "Seymour Cassel"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/california-dreaming.html"
+}

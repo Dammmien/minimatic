@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Marriage Is a Private Affair",
+    "year": 1944,
+    "cast": [
+      "Lana Turner",
+      "John Hodiak"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/marriage-is-a-private-affair.html"
+}

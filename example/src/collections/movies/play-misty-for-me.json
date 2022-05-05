@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Play Misty for Me",
+    "year": 1971,
+    "cast": [
+      "Clint Eastwood",
+      "Jessica Walter",
+      "Donna Mills"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/play-misty-for-me.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "A Life Less Ordinary",
+    "year": 1997,
+    "cast": [
+      "Ewan McGregor",
+      "Cameron Diaz",
+      "Holly Hunter",
+      "Delroy Lindo",
+      "Ian Holm"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-life-less-ordinary.html"
+}

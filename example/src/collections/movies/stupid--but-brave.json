@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stupid, But Brave",
+    "year": 1924,
+    "cast": [
+      "Al St. John",
+      "Eugene Pallette"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/stupid--but-brave.html"
+}

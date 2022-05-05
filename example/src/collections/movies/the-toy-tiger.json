@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Toy Tiger",
+    "year": 1956,
+    "cast": [
+      "Laraine Day",
+      "Jeff Chandler"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-toy-tiger.html"
+}

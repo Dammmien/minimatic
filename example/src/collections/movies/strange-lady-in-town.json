@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Strange Lady in Town",
+    "year": 1955,
+    "cast": [
+      "Greer Garson",
+      "Dana Andrews",
+      "Cameron Mitchell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/strange-lady-in-town.html"
+}

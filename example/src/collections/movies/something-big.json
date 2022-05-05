@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Something Big",
+    "year": 1971,
+    "cast": [
+      "Dean Martin",
+      "Brian Keith",
+      "Ben Johnson",
+      "Carol White",
+      "Honor Blackman"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/something-big.html"
+}

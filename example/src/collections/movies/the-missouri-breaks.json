@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Missouri Breaks",
+    "year": 1976,
+    "cast": [
+      "Marlon Brando",
+      "Jack Nicholson",
+      "Randy Quaid",
+      "Harry Dean Stanton",
+      "Frederic Forrest",
+      "Kathleen Lloyd"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-missouri-breaks.html"
+}

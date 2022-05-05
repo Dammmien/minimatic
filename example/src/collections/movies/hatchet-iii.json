@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Hatchet III",
+    "year": 2013,
+    "cast": [
+      "Danielle Harris",
+      "Kane Hodder",
+      "Zach Galligan",
+      "Caroline Williams",
+      "Derek Mears",
+      "Cody Blue Snider"
+    ],
+    "genres": [
+      "Slasher"
+    ]
+  },
+  "output": "movies/hatchet-iii.html"
+}

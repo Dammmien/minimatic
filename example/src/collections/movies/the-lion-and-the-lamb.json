@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lion and the Lamb",
+    "year": 1931,
+    "cast": [
+      "Walter Byron",
+      "Carmel Myers"
+    ],
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-lion-and-the-lamb.html"
+}

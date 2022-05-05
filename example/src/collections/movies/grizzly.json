@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Grizzly",
+    "year": 1976,
+    "cast": [
+      "Christopher George",
+      "Andrew Prine",
+      "Richard Jaeckel"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/grizzly.html"
+}

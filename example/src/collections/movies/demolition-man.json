@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Demolition Man",
+    "year": 1993,
+    "cast": [
+      "Sylvester Stallone",
+      "Wesley Snipes",
+      "Sandra Bullock",
+      "Nigel Hawthorne",
+      "Bob Gunton",
+      "Benjamin Bratt",
+      "Bill Cobbs",
+      "Glenn Shadix",
+      "Denis Leary"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/demolition-man.html"
+}

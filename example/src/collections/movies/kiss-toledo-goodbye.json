@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Kiss Toledo Goodbye",
+    "year": 1999,
+    "cast": [
+      "Michael Rapaport",
+      "Christopher Walken",
+      "Christine Taylor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/kiss-toledo-goodbye.html"
+}

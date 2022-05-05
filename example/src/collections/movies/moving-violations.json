@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Moving Violations",
+    "year": 1985,
+    "cast": [
+      "John Murray",
+      "Jennifer Tilly",
+      "Brian Backer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/moving-violations.html"
+}

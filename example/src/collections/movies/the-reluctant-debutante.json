@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Reluctant Debutante",
+    "year": 1958,
+    "cast": [
+      "Rex Harrison",
+      "Kay Kendall"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-reluctant-debutante.html"
+}

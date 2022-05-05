@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dollar Devils",
+    "year": 1923,
+    "cast": [
+      "Eva Novak",
+      "Cullen Landis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dollar-devils.html"
+}

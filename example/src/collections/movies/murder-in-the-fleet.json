@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Murder in the Fleet",
+    "year": 1935,
+    "cast": [
+      "Robert Taylor",
+      "Arthur Byron",
+      "Una Merkel"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/murder-in-the-fleet.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Hello, Dolly!",
+    "year": 1969,
+    "cast": [
+      "Barbra Streisand",
+      "Walter Matthau",
+      "Michael Crawford",
+      "Marianne McAndrew",
+      "Danny Lockin",
+      "Tommy Tune",
+      "Louis Armstrong"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hello--dolly-.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Post Grad",
+    "year": 2009,
+    "cast": [
+      "Alexis Bledel",
+      "Zach Gilford",
+      "Rodrigo Santoro",
+      "Jane Lynch",
+      "Carol Burnett",
+      "Michael Keaton"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/post-grad.html"
+}

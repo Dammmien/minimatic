@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Lady's Morals",
+    "year": 1930,
+    "cast": [
+      "Grace Moore",
+      "Reginald Denny",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "Musical",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-lady-s-morals.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Tower of Lies",
+    "year": 1925,
+    "cast": [
+      "Norma Shearer",
+      "Lon Chaney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-tower-of-lies.html"
+}

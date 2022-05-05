@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "House Party",
+    "year": 1990,
+    "cast": [
+      "Kid 'n Play",
+      "Robin Harris"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/house-party.html"
+}

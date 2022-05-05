@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Horrible Bosses 2",
+    "year": 2014,
+    "cast": [
+      "Jason Bateman",
+      "Charlie Day",
+      "Jennifer Aniston",
+      "Jason Sudeikis",
+      "Jamie Foxx"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/horrible-bosses-2.html"
+}

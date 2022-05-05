@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Place Beyond the Pines",
+    "year": 2013,
+    "cast": [
+      "Ryan Gosling",
+      "Bradley Cooper",
+      "Eva Mendes",
+      "Ray Liotta",
+      "Ben Mendelsohn",
+      "Rose Byrne",
+      "Mahershala Ali",
+      "Bruce Greenwood",
+      "Harris Yulin"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-place-beyond-the-pines.html"
+}

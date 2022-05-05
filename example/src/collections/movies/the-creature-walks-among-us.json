@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Creature Walks Among Us",
+    "year": 1956,
+    "cast": [
+      "Jeff Morrow",
+      "Rex Reason",
+      "Leigh Snowden"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-creature-walks-among-us.html"
+}

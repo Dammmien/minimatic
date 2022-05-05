@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sally's Shoulders",
+    "year": 1928,
+    "cast": [
+      "Lois Wilson",
+      "Huntley Gordon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sally-s-shoulders.html"
+}

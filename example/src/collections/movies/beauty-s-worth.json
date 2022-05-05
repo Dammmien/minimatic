@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beauty's Worth",
+    "year": 1922,
+    "cast": [
+      "Marion Davies",
+      "Forrest Stanley"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/beauty-s-worth.html"
+}

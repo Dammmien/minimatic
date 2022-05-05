@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "A Yank at Oxford",
+    "year": 1938,
+    "cast": [
+      "Robert Taylor",
+      "Maureen O'Sullivan",
+      "Vivien Leigh"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-yank-at-oxford.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hart's War",
+    "year": 2002,
+    "cast": [
+      "Bruce Willis",
+      "Colin Farrell",
+      "Terrence Howard"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/hart-s-war.html"
+}

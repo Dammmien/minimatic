@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "One Last Fling",
+    "year": 1949,
+    "cast": [
+      "Alexis Smith"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-last-fling.html"
+}

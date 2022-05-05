@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Kiss Me Goodbye",
+    "year": 1982,
+    "cast": [
+      "Sally Field",
+      "James Caan",
+      "Jeff Bridges"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/kiss-me-goodbye.html"
+}

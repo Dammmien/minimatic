@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Sixth Sense",
+    "year": 1999,
+    "cast": [
+      "Bruce Willis",
+      "Haley Joel Osment",
+      "Toni Collette",
+      "Donnie Wahlberg",
+      "Olivia Williams"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/the-sixth-sense.html"
+}

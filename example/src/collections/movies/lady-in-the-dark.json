@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Lady in the Dark",
+    "year": 1944,
+    "cast": [
+      "Ginger Rogers",
+      "Ray Milland",
+      "Jon Hall"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/lady-in-the-dark.html"
+}

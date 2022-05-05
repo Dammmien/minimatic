@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Magnificent Seven Ride",
+    "year": 1972,
+    "cast": [
+      "Lee Van Cleef",
+      "George Kennedy",
+      "Stefanie Powers"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-magnificent-seven-ride.html"
+}

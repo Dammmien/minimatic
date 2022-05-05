@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Waltz with Bashir",
+    "year": 2008,
+    "cast": [
+      "Ari Folman"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/waltz-with-bashir.html"
+}

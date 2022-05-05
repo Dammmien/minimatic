@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Santa Fe Trail",
+    "year": 1930,
+    "cast": [
+      "Richard Arlen",
+      "Rosita Moreno"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-santa-fe-trail.html"
+}

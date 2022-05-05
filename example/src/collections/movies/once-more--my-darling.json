@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Once More, My Darling",
+    "year": 1949,
+    "cast": [
+      "Robert Montgomery",
+      "Ann Blyth"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/once-more--my-darling.html"
+}

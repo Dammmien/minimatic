@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Two Latins from Manhattan",
+    "year": 1941,
+    "cast": [
+      "Joan Davis",
+      "Jinx Falkenburg",
+      "Joan Woodbury"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/two-latins-from-manhattan.html"
+}

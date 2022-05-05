@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Dorf Goes Auto Racing",
+    "year": 1990,
+    "cast": [
+      "Tim Conway"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dorf-goes-auto-racing.html"
+}

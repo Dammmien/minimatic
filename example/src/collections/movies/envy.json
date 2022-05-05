@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Envy",
+    "year": 2004,
+    "cast": [
+      "Ben Stiller",
+      "Jack Black",
+      "Rachel Weisz",
+      "Amy Poehler",
+      "Christopher Walken"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/envy.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Parisian Romance",
+    "year": 1932,
+    "cast": [
+      "Lew Cody",
+      "Marion Shilling"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/a-parisian-romance.html"
+}

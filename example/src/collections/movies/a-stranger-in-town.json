@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Stranger in Town",
+    "year": 1943,
+    "cast": [
+      "Frank Morgan",
+      "Jean Rogers"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-stranger-in-town.html"
+}

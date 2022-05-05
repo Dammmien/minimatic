@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Deep End of the Ocean",
+    "year": 1999,
+    "cast": [
+      "Michelle Pfeiffer",
+      "Treat Williams",
+      "Whoopi Goldberg"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-deep-end-of-the-ocean.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Mist",
+    "year": 2007,
+    "cast": [
+      "Thomas Jane",
+      "Marcia Gay Harden",
+      "Andre Braugher",
+      "Toby Jones"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-mist.html"
+}

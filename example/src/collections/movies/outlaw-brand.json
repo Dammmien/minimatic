@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Outlaw Brand",
+    "year": 1948,
+    "cast": [
+      "Jimmy Wakely",
+      "Dub Taylor",
+      "Kay Morley"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/outlaw-brand.html"
+}

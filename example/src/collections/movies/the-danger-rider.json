@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Danger Rider",
+    "year": 1928,
+    "cast": [
+      "Hoot Gibson",
+      "Monte Montague"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-danger-rider.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strange Bargain",
+    "year": 1949,
+    "cast": [
+      "Martha Scott",
+      "Jeffrey Lynn"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/strange-bargain.html"
+}

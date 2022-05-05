@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "My Marriage",
+    "year": 1936,
+    "cast": [
+      "Claire Trevor",
+      "Kent Taylor",
+      "Pauline Frederick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/my-marriage.html"
+}

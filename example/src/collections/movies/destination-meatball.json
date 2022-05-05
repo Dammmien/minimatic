@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Destination Meatball",
+    "year": 1951,
+    "cast": [
+      "Woody Woodpecker"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/destination-meatball.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rambling Rose",
+    "year": 1991,
+    "cast": [
+      "Laura Dern",
+      "Diane Ladd",
+      "Robert Duvall",
+      "Lukas Haas"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rambling-rose.html"
+}

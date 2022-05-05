@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Black Sleep",
+    "year": 1956,
+    "cast": [
+      "Basil Rathbone",
+      "Lon Chaney"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-black-sleep.html"
+}

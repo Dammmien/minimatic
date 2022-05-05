@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Seeker",
+    "year": 2007,
+    "cast": [
+      "Ian McShane"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-seeker.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Strange Love of Martha Ivers",
+    "year": 1946,
+    "cast": [
+      "Barbara Stanwyck",
+      "Van Heflin",
+      "Lizabeth Scott"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-strange-love-of-martha-ivers.html"
+}

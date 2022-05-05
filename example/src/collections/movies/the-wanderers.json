@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wanderers",
+    "year": 1979,
+    "cast": [
+      "Ken Wahl",
+      "Karen Allen",
+      "Val Avery"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wanderers.html"
+}

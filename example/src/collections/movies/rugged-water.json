@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rugged Water",
+    "year": 1925,
+    "cast": [
+      "Lois Wilson",
+      "Wallace Beery",
+      "Warner Baxter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rugged-water.html"
+}

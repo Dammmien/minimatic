@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Connecticut Yankee",
+    "year": 1931,
+    "cast": [
+      "Will Rogers",
+      "Maureen O'Sullivan",
+      "Myrna Loy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-connecticut-yankee.html"
+}

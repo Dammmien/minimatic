@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Scarlet Seas",
+    "year": 1929,
+    "cast": [
+      "Richard Barthelmess",
+      "Betty Compson",
+      "Loretta Young"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/scarlet-seas.html"
+}

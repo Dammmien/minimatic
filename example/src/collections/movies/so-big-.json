@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "So Big!",
+    "year": 1953,
+    "cast": [
+      "Jane Wyman",
+      "Sterling Hayden",
+      "Steve Forrest",
+      "Nancy Olson",
+      "Martha Hyer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/so-big-.html"
+}

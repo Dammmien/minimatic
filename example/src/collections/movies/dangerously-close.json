@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Dangerously Close",
+    "year": 1986,
+    "cast": [
+      "John Stockwell",
+      "Carey Lowell"
+    ],
+    "genres": []
+  },
+  "output": "movies/dangerously-close.html"
+}

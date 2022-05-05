@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Champion",
+    "year": 1949,
+    "cast": [
+      "Kirk Douglas",
+      "Arthur Kennedy",
+      "Marilyn Maxwell"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/champion.html"
+}

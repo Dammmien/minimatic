@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Resurrection of Gavin Stone",
+    "year": 2017,
+    "cast": [
+      "Brett Dalton",
+      "Anjelah Johnson",
+      "Neil Flynn",
+      "Shawn Michaels",
+      "D. B. Sweeney"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-resurrection-of-gavin-stone.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "What's His Name",
+    "year": 1914,
+    "cast": [
+      "Max Figman",
+      "Lolita Robertson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/what-s-his-name.html"
+}

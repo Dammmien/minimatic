@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Last Mimzy",
+    "year": 2007,
+    "cast": [
+      "Rhiannon Leigh Wryn",
+      "Chris O'Neil",
+      "Rainn Wilson",
+      "Joely Richardson"
+    ],
+    "genres": [
+      "Family",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-last-mimzy.html"
+}

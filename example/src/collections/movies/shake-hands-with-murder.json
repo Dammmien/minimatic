@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Shake Hands with Murder",
+    "year": 1944,
+    "cast": [
+      "Iris Adrian",
+      "Frank Jenks"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/shake-hands-with-murder.html"
+}

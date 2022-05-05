@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Don't Go in the Woods",
+    "year": 1980,
+    "cast": [
+      "Mary Gail Artz"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/don-t-go-in-the-woods.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Our Blushing Brides",
+    "year": 1930,
+    "cast": [
+      "Joan Crawford",
+      "Robert Montgomery",
+      "Anita Page"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/our-blushing-brides.html"
+}

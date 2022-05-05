@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wide Open Faces",
+    "year": 1938,
+    "cast": [
+      "Joe E. Brown",
+      "Jane Wyman",
+      "Lucien Littlefield"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wide-open-faces.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When Fate Decides",
+    "year": 1919,
+    "cast": [
+      "Madlaine Traverse",
+      "William Conklin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/when-fate-decides.html"
+}

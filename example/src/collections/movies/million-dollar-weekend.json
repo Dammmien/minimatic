@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Million Dollar Weekend",
+    "year": 1948,
+    "cast": [
+      "Osa Massen",
+      "Gene Raymond"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/million-dollar-weekend.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Skinner's Big Idea",
+    "year": 1928,
+    "cast": [
+      "Bryant Washburn",
+      "William Orlamond"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/skinner-s-big-idea.html"
+}

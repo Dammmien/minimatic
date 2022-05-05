@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Happy Road",
+    "year": 1957,
+    "cast": [
+      "Gene Kelly",
+      "Barbara Laage",
+      "Michael Redgrave"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-happy-road.html"
+}

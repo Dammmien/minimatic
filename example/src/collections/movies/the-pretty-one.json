@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Pretty One",
+    "year": 2014,
+    "cast": [
+      "Zoe Kazan",
+      "Jake Johnson",
+      "Ron Livingston",
+      "Sterling Beaumon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-pretty-one.html"
+}

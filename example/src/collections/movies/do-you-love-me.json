@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Do You Love Me",
+    "year": 1946,
+    "cast": [
+      "Maureen O'Hara",
+      "Harry James"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/do-you-love-me.html"
+}

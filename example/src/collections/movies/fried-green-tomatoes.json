@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fried Green Tomatoes",
+    "year": 1991,
+    "cast": [
+      "Kathy Bates",
+      "Mary Stuart Masterson",
+      "Mary-Louise Parker",
+      "Jessica Tandy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fried-green-tomatoes.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Tip-Off",
+    "year": 1931,
+    "cast": [
+      "Eddie Quillan",
+      "Ginger Rogers",
+      "Robert Armstrong"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-tip-off.html"
+}

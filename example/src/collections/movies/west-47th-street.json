@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "West 47th Street",
+    "year": 2001,
+    "cast": [
+      "living with a",
+      "mental disorder"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/west-47th-street.html"
+}

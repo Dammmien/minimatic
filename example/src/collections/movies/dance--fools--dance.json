@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dance, Fools, Dance",
+    "year": 1931,
+    "cast": [
+      "Joan Crawford",
+      "Lester Vail",
+      "Clark Gable"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/dance--fools--dance.html"
+}

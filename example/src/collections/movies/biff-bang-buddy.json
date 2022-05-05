@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Biff Bang Buddy",
+    "year": 1924,
+    "cast": [
+      "Buddy Roosevelt",
+      "Jean Arthur"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/biff-bang-buddy.html"
+}

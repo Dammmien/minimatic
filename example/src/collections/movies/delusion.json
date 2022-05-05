@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Delusion",
+    "year": 1980,
+    "cast": [
+      "Patricia Pearcy",
+      "David Hayward"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/delusion.html"
+}

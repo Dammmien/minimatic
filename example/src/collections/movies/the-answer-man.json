@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Answer Man",
+    "year": 2009,
+    "cast": [
+      "Jeff Daniels",
+      "Lauren Graham",
+      "Lou Taylor Pucci",
+      "Kat Dennings",
+      "Olivia Thirlby"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-answer-man.html"
+}

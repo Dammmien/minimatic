@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Green Pastures",
+    "year": 1936,
+    "cast": [
+      "Rex Ingram",
+      "Al Stokes",
+      "Eddie Anderson"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-green-pastures.html"
+}

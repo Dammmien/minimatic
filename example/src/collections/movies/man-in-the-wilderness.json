@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man in the Wilderness",
+    "year": 1971,
+    "cast": [
+      "Richard Harris",
+      "John Huston"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/man-in-the-wilderness.html"
+}

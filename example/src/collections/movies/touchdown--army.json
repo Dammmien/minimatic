@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Touchdown, Army",
+    "year": 1938,
+    "cast": [
+      "John Howard",
+      "Mary Carlisle",
+      "Robert Cummings"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/touchdown--army.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "We're in the Legion Now!",
+    "year": 1936,
+    "cast": [
+      "Reginald Denny",
+      "Esther Ralston"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/we-re-in-the-legion-now-.html"
+}

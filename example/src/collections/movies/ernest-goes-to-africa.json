@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Ernest Goes to Africa",
+    "year": 1997,
+    "cast": [
+      "Jim Varney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ernest-goes-to-africa.html"
+}

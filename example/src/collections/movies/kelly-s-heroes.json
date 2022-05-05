@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Kelly's Heroes",
+    "year": 1970,
+    "cast": [
+      "Clint Eastwood",
+      "Telly Savalas",
+      "Don Rickles",
+      "Carroll O'Connor",
+      "Donald Sutherland"
+    ],
+    "genres": [
+      "War",
+      "Action"
+    ]
+  },
+  "output": "movies/kelly-s-heroes.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "I've Got Your Number",
+    "year": 1934,
+    "cast": [
+      "Joan Blondell",
+      "Pat O'Brien",
+      "Glenda Farrell"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/i-ve-got-your-number.html"
+}

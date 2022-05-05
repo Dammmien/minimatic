@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Deal",
+    "year": 2008,
+    "cast": [
+      "Meg Ryan",
+      "Jason Ritter",
+      "LL Cool J"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-deal.html"
+}

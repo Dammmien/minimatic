@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "American Ninja",
+    "year": 1985,
+    "cast": [
+      "Michael Dudikoff",
+      "Steve James",
+      "Judie Aronson"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/american-ninja.html"
+}

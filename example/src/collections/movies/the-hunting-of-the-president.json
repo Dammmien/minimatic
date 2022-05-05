@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Hunting of the President",
+    "year": 2004,
+    "cast": [
+      "The presidency of",
+      "Bill Clinton"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/the-hunting-of-the-president.html"
+}

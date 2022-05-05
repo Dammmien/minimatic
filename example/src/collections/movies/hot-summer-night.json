@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hot Summer Night",
+    "year": 1957,
+    "cast": [
+      "Leslie Nielsen",
+      "Colleen Miller",
+      "Jay C. Flippen"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/hot-summer-night.html"
+}

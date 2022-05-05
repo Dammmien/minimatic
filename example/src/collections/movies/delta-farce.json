@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Delta Farce",
+    "year": 2007,
+    "cast": [
+      "Bill Engvall",
+      "Larry the Cable Guy"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/delta-farce.html"
+}

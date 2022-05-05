@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Damaged Goods",
+    "year": 1914,
+    "cast": [
+      "Richard Bennett",
+      "Adrienne Morrison",
+      "Maude Milton"
+    ],
+    "genres": []
+  },
+  "output": "movies/damaged-goods.html"
+}

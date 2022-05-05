@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Whispering City",
+    "year": 1947,
+    "cast": [
+      "Paul Lukas",
+      "Helmut Dantine"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/whispering-city.html"
+}

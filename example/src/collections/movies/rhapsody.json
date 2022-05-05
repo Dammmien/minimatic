@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rhapsody",
+    "year": 1954,
+    "cast": [
+      "Elizabeth Taylor",
+      "Vittorio Gassman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rhapsody.html"
+}

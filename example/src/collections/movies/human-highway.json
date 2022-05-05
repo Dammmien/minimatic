@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Human Highway",
+    "year": 1982,
+    "cast": [
+      "Neil Young",
+      "Russ Tamblyn",
+      "Devo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/human-highway.html"
+}

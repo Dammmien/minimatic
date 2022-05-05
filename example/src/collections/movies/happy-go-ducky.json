@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Happy Go Ducky",
+    "year": 1956,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/happy-go-ducky.html"
+}

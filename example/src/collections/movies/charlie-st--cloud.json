@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Charlie St. Cloud",
+    "year": 2010,
+    "cast": [
+      "Zac Efron",
+      "Amanda Crew",
+      "Donal Logue",
+      "Charlie Tahan",
+      "Ray Liotta",
+      "Kim Basinger",
+      "Chris Massoglia"
+    ],
+    "genres": [
+      "Romance",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/charlie-st--cloud.html"
+}

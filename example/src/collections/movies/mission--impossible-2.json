@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Mission: Impossible 2",
+    "year": 2000,
+    "cast": [
+      "Tom Cruise",
+      "Dougray Scott",
+      "Thandie Newton",
+      "Ving Rhames",
+      "Richard Roxburgh",
+      "Brendan Gleeson"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/mission--impossible-2.html"
+}

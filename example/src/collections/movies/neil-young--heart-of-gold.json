@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Neil Young: Heart of Gold",
+    "year": 2006,
+    "cast": [
+      "Neil Young"
+    ],
+    "genres": [
+      "Performance"
+    ]
+  },
+  "output": "movies/neil-young--heart-of-gold.html"
+}

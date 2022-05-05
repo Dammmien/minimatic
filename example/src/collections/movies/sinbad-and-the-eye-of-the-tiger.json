@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sinbad and the Eye of the Tiger",
+    "year": 1977,
+    "cast": [
+      "Jane Seymour",
+      "Taryn Power",
+      "Patrick Wayne"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/sinbad-and-the-eye-of-the-tiger.html"
+}

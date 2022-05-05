@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Nomads of the North",
+    "year": 1920,
+    "cast": [
+      "Betty Blythe",
+      "Lon Chaney"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/nomads-of-the-north.html"
+}

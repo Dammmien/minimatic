@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Ninth Configuration",
+    "year": 1980,
+    "cast": [
+      "Stacy Keach",
+      "Jason Miller",
+      "Ed Flanders"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-ninth-configuration.html"
+}

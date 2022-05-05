@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Jackie Brown",
+    "year": 1997,
+    "cast": [
+      "Pam Grier",
+      "Samuel L. Jackson",
+      "Robert Forster",
+      "Robert De Niro",
+      "Michael Keaton",
+      "Bridget Fonda",
+      "Chris Tucker"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/jackie-brown.html"
+}

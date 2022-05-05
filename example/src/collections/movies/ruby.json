@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Ruby",
+    "year": 1992,
+    "cast": [
+      "Danny Aiello",
+      "Sherilyn Fenn"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/ruby.html"
+}

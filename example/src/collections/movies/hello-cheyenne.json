@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hello Cheyenne",
+    "year": 1928,
+    "cast": [
+      "Tom Mix",
+      "Caryl Lincoln"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hello-cheyenne.html"
+}

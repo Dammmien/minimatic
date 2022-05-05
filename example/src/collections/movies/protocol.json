@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Protocol",
+    "year": 1984,
+    "cast": [
+      "Goldie Hawn",
+      "Andre Gregory",
+      "Chris Sarandon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/protocol.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Justin Bieber: Never Say Never",
+    "year": 2011,
+    "cast": [
+      "Chronicles the life of teen sensation",
+      "Justin Bieber",
+      "and his career. Shows concert footage of his 2010",
+      "My World Tour",
+      "."
+    ],
+    "genres": [
+      "Performance",
+      "Documentary"
+    ]
+  },
+  "output": "movies/justin-bieber--never-say-never.html"
+}

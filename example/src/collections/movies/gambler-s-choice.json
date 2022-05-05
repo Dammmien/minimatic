@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gambler's Choice",
+    "year": 1944,
+    "cast": [
+      "Chester Morris",
+      "Nancy Kelly"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/gambler-s-choice.html"
+}

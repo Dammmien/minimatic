@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "John Petticoats",
+    "year": 1919,
+    "cast": [
+      "William S. Hart",
+      "Ethel Shannon"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/john-petticoats.html"
+}

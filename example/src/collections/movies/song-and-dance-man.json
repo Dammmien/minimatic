@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Song and Dance Man",
+    "year": 1936,
+    "cast": [
+      "Claire Trevor",
+      "Michael Whalen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/song-and-dance-man.html"
+}

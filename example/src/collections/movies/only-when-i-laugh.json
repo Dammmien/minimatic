@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Only When I Laugh",
+    "year": 1981,
+    "cast": [
+      "Marsha Mason",
+      "Joan Hackett",
+      "James Coco",
+      "David Dukes",
+      "Kristy McNichol"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/only-when-i-laugh.html"
+}

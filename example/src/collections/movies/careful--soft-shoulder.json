@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Careful, Soft Shoulder",
+    "year": 1942,
+    "cast": [
+      "Virginia Bruce",
+      "James Ellison"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/careful--soft-shoulder.html"
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "North",
+    "year": 1994,
+    "cast": [
+      "Elijah Wood",
+      "Jason Alexander",
+      "Julia Louis-Dreyfus",
+      "Bruce Willis",
+      "Jon Lovitz",
+      "Alan Arkin",
+      "Dan Aykroyd",
+      "Reba McEntire",
+      "Kathy Bates",
+      "John Ritter"
+    ],
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  "output": "movies/north.html"
+}

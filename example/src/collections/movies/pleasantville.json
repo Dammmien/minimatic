@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Pleasantville",
+    "year": 1998,
+    "cast": [
+      "Tobey Maguire",
+      "Reese Witherspoon",
+      "Jeff Daniels",
+      "Joan Allen",
+      "William H. Macy",
+      "J. T. Walsh",
+      "Don Knotts"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/pleasantville.html"
+}

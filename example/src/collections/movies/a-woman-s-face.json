@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Woman's Face",
+    "year": 1941,
+    "cast": [
+      "Joan Crawford",
+      "Melvyn Douglas",
+      "Conrad Veidt"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-woman-s-face.html"
+}

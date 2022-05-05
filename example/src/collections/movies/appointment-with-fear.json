@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Appointment with Fear",
+    "year": 1985,
+    "cast": [
+      "Michele Little",
+      "Douglas Rowe",
+      "Garrick Dowhen",
+      "Kerry Remsen"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/appointment-with-fear.html"
+}

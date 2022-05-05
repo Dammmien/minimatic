@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Winds of Chance",
+    "year": 1925,
+    "cast": [
+      "Anna Q. Nilsson",
+      "Ben Lyon"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/winds-of-chance.html"
+}

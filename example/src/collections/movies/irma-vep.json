@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Irma Vep",
+    "year": 1996,
+    "cast": [
+      "Maggie Cheung"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/irma-vep.html"
+}

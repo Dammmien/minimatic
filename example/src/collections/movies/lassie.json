@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Lassie",
+    "year": 2005,
+    "cast": [
+      "Jonathan Mason",
+      "Peter O'Toole",
+      "Samantha Morton"
+    ],
+    "genres": [
+      "Drama",
+      "Family"
+    ]
+  },
+  "output": "movies/lassie.html"
+}

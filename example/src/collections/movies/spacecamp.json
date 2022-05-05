@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "SpaceCamp",
+    "year": 1986,
+    "cast": [
+      "Kate Capshaw",
+      "Lea Thompson",
+      "Kelly Preston",
+      "Larry B. Scott"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/spacecamp.html"
+}

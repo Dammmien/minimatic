@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Swamp Women",
+    "year": 1955,
+    "cast": [
+      "Beverly Garland",
+      "Marie Windsor"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/swamp-women.html"
+}

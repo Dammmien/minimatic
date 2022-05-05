@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Wedding Banquet",
+    "year": 1993,
+    "cast": [
+      "Winston Chao",
+      "Dion Birney"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-wedding-banquet.html"
+}

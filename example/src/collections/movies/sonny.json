@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sonny",
+    "year": 1922,
+    "cast": [
+      "Richard Barthelmess",
+      "Margaret Seddon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sonny.html"
+}

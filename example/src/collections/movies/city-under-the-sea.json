@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "City Under the Sea",
+    "year": 1965,
+    "cast": [
+      "Vincent Price",
+      "Tab Hunter",
+      "Susan Hart"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/city-under-the-sea.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Flight to Fury",
+    "year": 1964,
+    "cast": [
+      "Jack Nicholson",
+      "Dewey Martin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/flight-to-fury.html"
+}

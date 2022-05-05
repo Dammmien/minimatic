@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Broadway Melody of 1940",
+    "year": 1940,
+    "cast": [
+      "Fred Astaire",
+      "Eleanor Powell",
+      "George Murphy"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/broadway-melody-of-1940.html"
+}

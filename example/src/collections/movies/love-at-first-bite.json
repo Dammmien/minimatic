@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Love At First Bite",
+    "year": 1979,
+    "cast": [
+      "George Hamilton",
+      "Susan Saint James"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/love-at-first-bite.html"
+}

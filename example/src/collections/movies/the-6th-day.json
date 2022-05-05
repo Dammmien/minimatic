@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The 6th Day",
+    "year": 2000,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Robert Duvall"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-6th-day.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Sisterhood of the Traveling Pants 2",
+    "year": 2008,
+    "cast": [
+      "Amber Tamblyn",
+      "America Ferrera",
+      "Blake Lively",
+      "Alexis Bledel"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sisterhood-of-the-traveling-pants-2.html"
+}

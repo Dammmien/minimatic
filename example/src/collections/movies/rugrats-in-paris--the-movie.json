@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Rugrats in Paris: The Movie",
+    "year": 2000,
+    "cast": [
+      "Elizabeth Daily",
+      "Tara Strong",
+      "Cheryl Chase"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/rugrats-in-paris--the-movie.html"
+}

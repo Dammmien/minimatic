@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Girl on the Front Page",
+    "year": 1936,
+    "cast": [
+      "Gloria Stuart",
+      "Edmund Lowe",
+      "Spring Byington"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-girl-on-the-front-page.html"
+}

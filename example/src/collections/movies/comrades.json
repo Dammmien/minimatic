@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Comrades",
+    "year": 1928,
+    "cast": [
+      "Donald Keith",
+      "Helene Costello"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/comrades.html"
+}

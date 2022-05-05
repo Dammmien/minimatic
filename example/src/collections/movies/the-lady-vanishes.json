@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lady Vanishes",
+    "year": 1979,
+    "cast": [
+      "Elliott Gould",
+      "Cybill Shepherd"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-lady-vanishes.html"
+}

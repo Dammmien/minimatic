@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tin Hats",
+    "year": 1926,
+    "cast": [
+      "Claire Windsor",
+      "Conrad Nagel"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tin-hats.html"
+}

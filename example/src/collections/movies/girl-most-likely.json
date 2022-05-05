@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Girl Most Likely",
+    "year": 2013,
+    "cast": [
+      "Kristen Wiig",
+      "Annette Bening",
+      "Matt Dillon",
+      "Darren Criss"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/girl-most-likely.html"
+}

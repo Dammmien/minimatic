@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "The Unspeakable Act",
+    "year": 2013,
+    "cast": [
+      "Tallie Medel",
+      "Sky Hirschkron",
+      "Aundrea Fares",
+      "Kati Schwartz",
+      "Caroline Luft",
+      "Eleanore Pienta",
+      "Collin Summers",
+      "Caitlin Mehner",
+      "Mike Faist",
+      "Liz Toonkel",
+      "Jessica Pinfield",
+      "Sunita Mani",
+      "Kate Lyn Sheil",
+      "Gonzalo Cordova",
+      "Zelda Knapp"
+    ],
+    "genres": [
+      "Drama",
+      "Teen"
+    ]
+  },
+  "output": "movies/the-unspeakable-act.html"
+}

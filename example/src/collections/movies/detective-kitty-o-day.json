@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Detective Kitty O'Day",
+    "year": 1944,
+    "cast": [
+      "Jean Parker",
+      "Peter Cookson"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/detective-kitty-o-day.html"
+}

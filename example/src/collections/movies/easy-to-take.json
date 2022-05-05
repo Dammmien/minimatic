@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Easy to Take",
+    "year": 1936,
+    "cast": [
+      "Marsha Hunt",
+      "John Howard",
+      "Eugene Pallette"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/easy-to-take.html"
+}

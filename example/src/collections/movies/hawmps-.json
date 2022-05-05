@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hawmps!",
+    "year": 1976,
+    "cast": [
+      "Slim Pickens",
+      "Denver Pyle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/hawmps-.html"
+}

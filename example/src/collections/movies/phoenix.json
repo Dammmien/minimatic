@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Phoenix",
+    "year": 1998,
+    "cast": [
+      "Ray Liotta",
+      "Anjelica Huston",
+      "Anthony LaPaglia",
+      "Daniel Baldwin"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/phoenix.html"
+}

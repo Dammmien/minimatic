@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Maid of Salem",
+    "year": 1937,
+    "cast": [
+      "Claudette Colbert",
+      "Fred MacMurray",
+      "Gale Sondergaard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/maid-of-salem.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Human Wreckage",
+    "year": 1923,
+    "cast": [
+      "Dorothy Davenport",
+      "Bessie Love"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/human-wreckage.html"
+}

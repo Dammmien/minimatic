@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Benson Murder Case",
+    "year": 1930,
+    "cast": [
+      "William Powell",
+      "Paul Lukas",
+      "Natalie Moorehead"
+    ],
+    "genres": [
+      "Mystery",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-benson-murder-case.html"
+}

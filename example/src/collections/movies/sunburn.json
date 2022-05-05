@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sunburn",
+    "year": 1979,
+    "cast": [
+      "Farrah Fawcett",
+      "Art Carney",
+      "Charles Grodin"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/sunburn.html"
+}

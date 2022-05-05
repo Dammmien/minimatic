@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Valley of the Head Hunters",
+    "year": 1953,
+    "cast": [
+      "Johnny Weissmuller",
+      "Christine Larson"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/valley-of-the-head-hunters.html"
+}

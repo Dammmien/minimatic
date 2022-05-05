@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Vendetta",
+    "year": 1950,
+    "cast": [
+      "Faith Domergue",
+      "George Dolenz"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/vendetta.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Restaurant",
+    "year": 1998,
+    "cast": [
+      "Adrien Brody",
+      "Elise Neal",
+      "Lauryn Hill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/restaurant.html"
+}

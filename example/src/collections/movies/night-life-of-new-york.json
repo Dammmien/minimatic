@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night Life of New York",
+    "year": 1925,
+    "cast": [
+      "Rod La Rocque",
+      "Dorothy Gish"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/night-life-of-new-york.html"
+}

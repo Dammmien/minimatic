@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "King's Ransom",
+    "year": 2005,
+    "cast": [
+      "Anthony Anderson"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/king-s-ransom.html"
+}

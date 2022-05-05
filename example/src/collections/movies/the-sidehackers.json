@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Sidehackers",
+    "year": 1969,
+    "cast": [
+      "Diane McBain"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-sidehackers.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "National Security",
+    "year": 2003,
+    "cast": [
+      "Martin Lawrence",
+      "Steve Zahn"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/national-security.html"
+}

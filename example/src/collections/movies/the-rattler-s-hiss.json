@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Rattler's Hiss",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-rattler-s-hiss.html"
+}

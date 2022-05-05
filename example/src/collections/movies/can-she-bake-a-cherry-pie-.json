@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Can She Bake a Cherry Pie?",
+    "year": 1983,
+    "cast": [
+      "Karen Black",
+      "Michael Emil"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/can-she-bake-a-cherry-pie-.html"
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Man Who Shot Liberty Valance",
+    "year": 1962,
+    "cast": [
+      "James Stewart",
+      "John Wayne",
+      "Lee Marvin",
+      "Vera Miles",
+      "Edmond O'Brien",
+      "Woody Strode",
+      "Andy Devine",
+      "Strother Martin",
+      "Lee Van Cleef"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-man-who-shot-liberty-valance.html"
+}

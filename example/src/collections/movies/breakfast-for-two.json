@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Breakfast for Two",
+    "year": 1937,
+    "cast": [
+      "Barbara Stanwyck",
+      "Glenda Farrell",
+      "Herbert Marshall"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/breakfast-for-two.html"
+}

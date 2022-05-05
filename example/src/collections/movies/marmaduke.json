@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "Marmaduke",
+    "year": 2010,
+    "cast": [
+      "Owen Wilson",
+      "George Lopez",
+      "Lee Pace",
+      "Judy Greer",
+      "David Walliams",
+      "William H. Macy",
+      "Steve Coogan",
+      "Sam Elliott",
+      "Fergie",
+      "Jeremy Piven",
+      "Christopher Mintz-Plasse",
+      "Emma Stone",
+      "Kiefer Sutherland",
+      "Damon Wayans Jr.",
+      "Marlon Wayans"
+    ],
+    "genres": [
+      "Family",
+      "Live Action"
+    ]
+  },
+  "output": "movies/marmaduke.html"
+}

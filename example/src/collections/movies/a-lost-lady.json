@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Lost Lady",
+    "year": 1934,
+    "cast": [
+      "Barbara Stanwyck",
+      "Frank Morgan",
+      "Ricardo Cortez"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-lost-lady.html"
+}

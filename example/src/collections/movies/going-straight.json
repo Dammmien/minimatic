@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Going Straight",
+    "year": 1916,
+    "cast": [
+      "Norma Talmadge",
+      "Ralph Lewis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/going-straight.html"
+}

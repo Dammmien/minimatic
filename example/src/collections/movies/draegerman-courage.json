@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Draegerman Courage",
+    "year": 1937,
+    "cast": [
+      "Jean Muir",
+      "Barton MacLane"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/draegerman-courage.html"
+}

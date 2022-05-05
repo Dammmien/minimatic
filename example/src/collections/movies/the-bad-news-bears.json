@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Bad News Bears",
+    "year": 1976,
+    "cast": [
+      "Walter Matthau",
+      "Tatum O'Neal",
+      "Chris Barnes",
+      "Jackie Earle Haley",
+      "Vic Morrow",
+      "Joyce Van Patten",
+      "Brandon Cruz"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-bad-news-bears.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "For You I Die",
+    "year": 1947,
+    "cast": [
+      "Cathy Downs",
+      "Paul Langton"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/for-you-i-die.html"
+}

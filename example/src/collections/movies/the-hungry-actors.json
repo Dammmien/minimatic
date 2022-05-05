@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Hungry Actors",
+    "year": 1915,
+    "cast": [
+      "Harold Lloyd"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-hungry-actors.html"
+}

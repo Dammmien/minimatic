@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Playboy of Paris",
+    "year": 1930,
+    "cast": [
+      "Maurice Chevalier",
+      "Frances Dee"
+    ],
+    "genres": [
+      "Musical",
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/playboy-of-paris.html"
+}

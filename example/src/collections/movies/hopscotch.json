@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hopscotch",
+    "year": 1980,
+    "cast": [
+      "Walter Matthau",
+      "Glenda Jackson",
+      "Ned Beatty",
+      "Sam Waterston"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/hopscotch.html"
+}

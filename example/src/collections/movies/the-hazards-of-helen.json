@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Hazards of Helen",
+    "year": 1914,
+    "cast": [
+      "Helen Holmes"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-hazards-of-helen.html"
+}

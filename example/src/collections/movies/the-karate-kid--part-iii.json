@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Karate Kid, Part III",
+    "year": 1989,
+    "cast": [
+      "Ralph Macchio",
+      "Pat Morita",
+      "Thomas Ian Griffith"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-karate-kid--part-iii.html"
+}

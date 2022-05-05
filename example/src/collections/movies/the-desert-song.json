@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Desert Song",
+    "year": 1953,
+    "cast": [
+      "Kathryn Grayson",
+      "Gordon MacRae"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-desert-song.html"
+}

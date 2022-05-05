@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Drums of Africa",
+    "year": 1963,
+    "cast": [
+      "Frankie Avalon",
+      "Mariette Hartley"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/drums-of-africa.html"
+}

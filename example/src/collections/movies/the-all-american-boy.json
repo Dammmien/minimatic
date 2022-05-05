@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The All-American Boy",
+    "year": 1973,
+    "cast": [
+      "Jon Voight"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-all-american-boy.html"
+}

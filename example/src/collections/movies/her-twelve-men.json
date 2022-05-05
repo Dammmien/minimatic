@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Her Twelve Men",
+    "year": 1954,
+    "cast": [
+      "Greer Garson",
+      "Robert Ryan",
+      "Barry Sullivan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/her-twelve-men.html"
+}

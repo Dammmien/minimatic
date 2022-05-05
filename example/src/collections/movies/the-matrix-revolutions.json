@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Matrix Revolutions",
+    "year": 2003,
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-matrix-revolutions.html"
+}

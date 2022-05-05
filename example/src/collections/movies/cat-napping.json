@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Cat Napping",
+    "year": 1951,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/cat-napping.html"
+}

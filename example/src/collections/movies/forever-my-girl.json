@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Forever My Girl",
+    "year": 2018,
+    "cast": [
+      "Alex Roe",
+      "Jessica Rothe",
+      "John Benjamin Hickey"
+    ],
+    "genres": [
+      "Romance",
+      "Musical",
+      "Drama"
+    ]
+  },
+  "output": "movies/forever-my-girl.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fire Patrol",
+    "year": 1924,
+    "cast": [
+      "Anna Q. Nilsson",
+      "Madge Bellamy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-fire-patrol.html"
+}

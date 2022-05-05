@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "One Exciting Week",
+    "year": 1946,
+    "cast": [
+      "Al Pearce",
+      "Jerome Cowan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/one-exciting-week.html"
+}

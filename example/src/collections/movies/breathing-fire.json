@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Breathing Fire",
+    "year": 1991,
+    "cast": [
+      "Jonathan Quan"
+    ],
+    "genres": [
+      "Martial Arts"
+    ]
+  },
+  "output": "movies/breathing-fire.html"
+}

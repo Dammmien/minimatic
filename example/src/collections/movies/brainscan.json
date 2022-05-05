@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Brainscan",
+    "year": 1994,
+    "cast": [
+      "Edward Furlong",
+      "Frank Langella"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/brainscan.html"
+}

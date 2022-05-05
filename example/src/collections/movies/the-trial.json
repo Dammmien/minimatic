@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Trial",
+    "year": 1962,
+    "cast": [
+      "Anthony Perkins",
+      "Orson Welles",
+      "Jeanne Moreau",
+      "Romy Schneider"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-trial.html"
+}

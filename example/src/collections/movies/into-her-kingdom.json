@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Into Her Kingdom",
+    "year": 1926,
+    "cast": [
+      "Corinne Griffith",
+      "Einar Hanson"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/into-her-kingdom.html"
+}

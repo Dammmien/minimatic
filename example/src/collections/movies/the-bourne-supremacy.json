@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Bourne Supremacy",
+    "year": 2004,
+    "cast": [
+      "Matt Damon",
+      "Joan Allen",
+      "Brian Cox",
+      "Julia Stiles"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-bourne-supremacy.html"
+}

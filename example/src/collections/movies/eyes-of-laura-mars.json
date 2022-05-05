@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Eyes of Laura Mars",
+    "year": 1978,
+    "cast": [
+      "Faye Dunaway",
+      "Tommy Lee Jones",
+      "Brad Dourif"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/eyes-of-laura-mars.html"
+}

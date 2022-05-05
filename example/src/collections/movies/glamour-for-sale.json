@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Glamour for Sale",
+    "year": 1940,
+    "cast": [
+      "Anita Louise",
+      "Roger Pryor"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/glamour-for-sale.html"
+}

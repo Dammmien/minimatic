@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Simple Wish",
+    "year": 1997,
+    "cast": [
+      "Martin Short",
+      "Mara Wilson",
+      "Kathleen Turner"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/a-simple-wish.html"
+}

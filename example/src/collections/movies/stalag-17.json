@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Stalag 17",
+    "year": 1953,
+    "cast": [
+      "William Holden",
+      "Don Taylor",
+      "Otto Preminger",
+      "Harvey Lembeck",
+      "Robert Strauss",
+      "Peter Graves"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/stalag-17.html"
+}

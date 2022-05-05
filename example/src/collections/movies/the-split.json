@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "The Split",
+    "year": 1968,
+    "cast": [
+      "Jim Brown",
+      "Diahann Carroll",
+      "Gene Hackman",
+      "Julie Harris",
+      "Warren Oates",
+      "Donald Sutherland"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-split.html"
+}

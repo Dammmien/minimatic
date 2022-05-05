@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Red Blood of Courage",
+    "year": 1935,
+    "cast": [
+      "Kermit Maynard",
+      "Ann Sheridan"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-red-blood-of-courage.html"
+}

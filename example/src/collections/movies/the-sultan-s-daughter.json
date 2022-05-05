@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sultan's Daughter",
+    "year": 1943,
+    "cast": [
+      "Ann Corio",
+      "Charles Butterworth"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-sultan-s-daughter.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dracula's Daughter",
+    "year": 1936,
+    "cast": [
+      "Otto Kruger",
+      "Gloria Holden",
+      "John Carradine"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/dracula-s-daughter.html"
+}

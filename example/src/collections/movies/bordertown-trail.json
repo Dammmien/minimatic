@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bordertown Trail",
+    "year": 1944,
+    "cast": [
+      "Smiley Burnette",
+      "Sunset Carson",
+      "Weldon Heyburn"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bordertown-trail.html"
+}

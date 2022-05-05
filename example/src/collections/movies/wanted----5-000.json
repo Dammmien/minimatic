@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wanted - $5,000",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/wanted----5-000.html"
+}

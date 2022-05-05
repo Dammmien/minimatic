@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Battling Orioles",
+    "year": 1924,
+    "cast": [
+      "Glenn Tryon",
+      "Blanche Mehaffey"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/battling-orioles.html"
+}

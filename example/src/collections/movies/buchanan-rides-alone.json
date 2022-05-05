@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Buchanan Rides Alone",
+    "year": 1958,
+    "cast": [
+      "Randolph Scott",
+      "Craig Stevens",
+      "Jennifer Holden"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/buchanan-rides-alone.html"
+}

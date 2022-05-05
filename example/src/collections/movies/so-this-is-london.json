@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "So This Is London",
+    "year": 1930,
+    "cast": [
+      "Will Rogers",
+      "Irene Rich"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/so-this-is-london.html"
+}

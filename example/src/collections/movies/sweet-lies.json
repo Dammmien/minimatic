@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Sweet Lies",
+    "year": 1988,
+    "cast": [
+      "Treat Williams",
+      "Joanna Pacuła"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sweet-lies.html"
+}

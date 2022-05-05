@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sins of Man",
+    "year": 1936,
+    "cast": [
+      "Jean Hersholt",
+      "Don Ameche",
+      "Allen Jenkins"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sins-of-man.html"
+}

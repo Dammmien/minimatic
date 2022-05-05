@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Night at the Museum",
+    "year": 2006,
+    "cast": [
+      "Ben Stiller",
+      "Robin Williams",
+      "Owen Wilson",
+      "Dick Van Dyke",
+      "Mickey Rooney",
+      "Carla Gugino",
+      "Jake Cherry"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/night-at-the-museum.html"
+}

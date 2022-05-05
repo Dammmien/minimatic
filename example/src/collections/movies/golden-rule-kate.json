@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Golden Rule Kate",
+    "year": 1917,
+    "cast": [
+      "Louise Glaum"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/golden-rule-kate.html"
+}

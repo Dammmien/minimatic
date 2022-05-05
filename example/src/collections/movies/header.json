@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Header",
+    "year": 2006,
+    "cast": [
+      "Jake Suffian"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/header.html"
+}

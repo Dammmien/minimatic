@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "A Glimpse Inside the Mind of Charles Swan III",
+    "year": 2013,
+    "cast": [
+      "Charlie Sheen",
+      "Jason Schwartzman",
+      "Katheryn Winnick",
+      "Aubrey Plaza",
+      "Mary Elizabeth Winstead",
+      "Patricia Arquette",
+      "Bill Murray"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/a-glimpse-inside-the-mind-of-charles-swan-iii.html"
+}

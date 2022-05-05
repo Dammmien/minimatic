@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "One on One",
+    "year": 1977,
+    "cast": [
+      "Robby Benson",
+      "Annette O'Toole",
+      "G. D. Spradlin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/one-on-one.html"
+}

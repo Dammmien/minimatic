@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rocky Rhodes",
+    "year": 1934,
+    "cast": [
+      "Buck Jones",
+      "Sheila Terry"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rocky-rhodes.html"
+}

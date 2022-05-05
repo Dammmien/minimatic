@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "He's Just Not That Into You",
+    "year": 2009,
+    "cast": [
+      "Ben Affleck",
+      "Jennifer Aniston",
+      "Drew Barrymore",
+      "Jennifer Connelly",
+      "Kevin Connelly",
+      "Bradley Cooper",
+      "Ginnifer Goodwin",
+      "Scarlett Johansson",
+      "Justin Long"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/he-s-just-not-that-into-you.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Way We Were",
+    "year": 1973,
+    "cast": [
+      "Barbra Streisand",
+      "Robert Redford",
+      "Bradford Dillman",
+      "Susan Blakely",
+      "Patrick O'Neal",
+      "Lois Chiles"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-way-we-were.html"
+}

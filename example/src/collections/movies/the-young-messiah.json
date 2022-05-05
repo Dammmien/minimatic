@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Young Messiah",
+    "year": 2016,
+    "cast": [
+      "Adam Greaves-Neal",
+      "Sean Bean",
+      "David Bradley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-young-messiah.html"
+}

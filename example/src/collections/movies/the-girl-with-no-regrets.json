@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl with No Regrets",
+    "year": 1919,
+    "cast": [
+      "Peggy Hyland",
+      "Harry von Meter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-girl-with-no-regrets.html"
+}

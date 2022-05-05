@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Buffy the Vampire Slayer",
+    "year": 1992,
+    "cast": [
+      "Kristy Swanson",
+      "Donald Sutherland",
+      "Luke Perry",
+      "Rutger Hauer",
+      "Paul Reubens"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/buffy-the-vampire-slayer.html"
+}

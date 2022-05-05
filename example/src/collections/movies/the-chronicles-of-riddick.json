@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Chronicles of Riddick",
+    "year": 2004,
+    "cast": [
+      "Vin Diesel",
+      "Karl Urban",
+      "Thandie Newton",
+      "Colm Feore",
+      "Judi Dench"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-chronicles-of-riddick.html"
+}

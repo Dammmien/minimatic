@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Father of the Bride Part II",
+    "year": 1995,
+    "cast": [
+      "Steve Martin",
+      "Diane Keaton",
+      "Martin Short",
+      "Kimberly Williams-Paisley",
+      "George Newbern",
+      "Kieran Culkin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/father-of-the-bride-part-ii.html"
+}

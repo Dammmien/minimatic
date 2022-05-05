@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Silver Canyon",
+    "year": 1951,
+    "cast": [
+      "Gene Autry",
+      "Gail Davis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/silver-canyon.html"
+}

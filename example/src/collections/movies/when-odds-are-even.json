@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When Odds Are Even",
+    "year": 1923,
+    "cast": [
+      "William Russell",
+      "Dorothy Devore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/when-odds-are-even.html"
+}

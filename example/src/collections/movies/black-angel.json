@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Black Angel",
+    "year": 1946,
+    "cast": [
+      "Dan Duryea",
+      "June Vincent",
+      "Peter Lorre",
+      "Broderick Crawford"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/black-angel.html"
+}

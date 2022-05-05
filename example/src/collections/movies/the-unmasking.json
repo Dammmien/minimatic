@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Unmasking",
+    "year": 1914,
+    "cast": [
+      "William Garwood",
+      "Harry De Vere",
+      "Jack Richardson",
+      "Vivian Rich"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-unmasking.html"
+}

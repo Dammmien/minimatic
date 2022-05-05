@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Cherry 2000",
+    "year": 1987,
+    "cast": [
+      "Melanie Griffith",
+      "David Andrews",
+      "Tim Thomerson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/cherry-2000.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Harvey Girls",
+    "year": 1946,
+    "cast": [
+      "Judy Garland",
+      "Ray Bolger",
+      "Angela Lansbury"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/the-harvey-girls.html"
+}

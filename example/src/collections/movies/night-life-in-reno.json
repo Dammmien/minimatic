@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Night Life in Reno",
+    "year": 1931,
+    "cast": [
+      "Virginia Valli",
+      "Jameson Thomas",
+      "Dorothy Christy"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/night-life-in-reno.html"
+}

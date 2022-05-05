@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Night Moves",
+    "year": 1975,
+    "cast": [
+      "Gene Hackman",
+      "Susan Clark",
+      "Melanie Griffith",
+      "James Woods",
+      "Jennifer Warren",
+      "Harris Yulin"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/night-moves.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hell's Angels",
+    "year": 1930,
+    "cast": [
+      "Jean Harlow",
+      "Ben Lyon",
+      "James Hall"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/hell-s-angels.html"
+}

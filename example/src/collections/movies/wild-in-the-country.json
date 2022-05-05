@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wild in the Country",
+    "year": 1961,
+    "cast": [
+      "Elvis Presley",
+      "Tuesday Weld",
+      "Hope Lange"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wild-in-the-country.html"
+}

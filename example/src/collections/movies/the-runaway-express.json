@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Runaway Express",
+    "year": 1926,
+    "cast": [
+      "Jack Dougherty",
+      "Blanche Mehaffey"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-runaway-express.html"
+}

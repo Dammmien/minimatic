@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Colt .45",
+    "year": 1950,
+    "cast": [
+      "Randolph Scott",
+      "Ruth Roman"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/colt--45.html"
+}

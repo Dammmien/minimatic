@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Broken City",
+    "year": 2013,
+    "cast": [
+      "Mark Wahlberg",
+      "Russell Crowe",
+      "Catherine Zeta-Jones",
+      "Barry Pepper",
+      "Kyle Chandler",
+      "Natalie Martinez",
+      "Jeffrey Wright"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/broken-city.html"
+}

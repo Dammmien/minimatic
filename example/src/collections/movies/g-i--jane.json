@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "G.I. Jane",
+    "year": 1997,
+    "cast": [
+      "Demi Moore",
+      "Viggo Mortensen",
+      "Anne Bancroft"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/g-i--jane.html"
+}

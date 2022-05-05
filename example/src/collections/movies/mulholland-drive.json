@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Mulholland Drive",
+    "year": 2001,
+    "cast": [
+      "Naomi Watts",
+      "Laura Elena Harring",
+      "Justin Theroux"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/mulholland-drive.html"
+}

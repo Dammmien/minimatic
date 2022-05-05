@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Man on the Moon",
+    "year": 1999,
+    "cast": [
+      "Jim Carrey",
+      "Danny DeVito",
+      "Courtney Love",
+      "Paul Giamatti"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/man-on-the-moon.html"
+}

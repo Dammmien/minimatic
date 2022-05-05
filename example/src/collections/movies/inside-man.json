@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Inside Man",
+    "year": 2006,
+    "cast": [
+      "Denzel Washington",
+      "Clive Owen",
+      "Jodie Foster"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/inside-man.html"
+}

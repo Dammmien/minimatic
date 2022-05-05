@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Million to Burn",
+    "year": 1923,
+    "cast": [
+      "Herbert Rawlinson",
+      "Beatrice Burnham"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-million-to-burn.html"
+}

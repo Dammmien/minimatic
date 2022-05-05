@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "For the Love of Mike",
+    "year": 1960,
+    "cast": [
+      "Richard Basehart",
+      "Stuart Erwin",
+      "Arthur Shields"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/for-the-love-of-mike.html"
+}

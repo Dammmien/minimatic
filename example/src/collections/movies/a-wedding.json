@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "A Wedding",
+    "year": 1978,
+    "cast": [
+      "Carol Burnett",
+      "Lillian Gish",
+      "Mia Farrow",
+      "Desi Arnaz Jr.",
+      "Lauren Hutton",
+      "Geraldine Chaplin",
+      "Vittorio Gassman",
+      "Howard Duff",
+      "Paul Dooley",
+      "Dina Merrill"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-wedding.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "2001: A Space Odyssey",
+    "year": 1968,
+    "cast": [
+      "Keir Dullea",
+      "Gary Lockwood",
+      "William Sylvester"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/2001--a-space-odyssey.html"
+}

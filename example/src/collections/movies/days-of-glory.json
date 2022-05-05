@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Days of Glory",
+    "year": 1944,
+    "cast": [
+      "Gregory Peck"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/days-of-glory.html"
+}

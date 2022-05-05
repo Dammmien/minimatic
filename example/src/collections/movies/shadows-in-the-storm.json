@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shadows in the Storm",
+    "year": 1988,
+    "cast": [
+      "Mia Sara",
+      "Ned Beatty",
+      "Michael Madsen"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/shadows-in-the-storm.html"
+}

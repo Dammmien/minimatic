@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fast Mail",
+    "year": 1922,
+    "cast": [
+      "Buck Jones",
+      "Eileen Percy"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-fast-mail.html"
+}

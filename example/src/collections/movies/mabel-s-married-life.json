@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mabel's Married Life",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Mabel Normand"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mabel-s-married-life.html"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Joyful Noise",
+    "year": 2012,
+    "cast": [
+      "Queen Latifah",
+      "Dolly Parton",
+      "Keke Palmer",
+      "Jeremy Jordan",
+      "Courtney B. Vance",
+      "Kris Kristofferson"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/joyful-noise.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Broken Hearts of Broadway",
+    "year": 1923,
+    "cast": [
+      "Colleen Moore",
+      "Johnnie Walker",
+      "Alice Lake"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/broken-hearts-of-broadway.html"
+}

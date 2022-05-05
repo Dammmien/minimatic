@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Night Watch",
+    "year": 1995,
+    "cast": [
+      "Pierce Brosnan",
+      "William Devane",
+      "Alexandra Paul"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/night-watch.html"
+}

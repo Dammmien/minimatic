@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mister Scoutmaster",
+    "year": 1953,
+    "cast": [
+      "Clifton Webb",
+      "Edmund Gwenn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mister-scoutmaster.html"
+}

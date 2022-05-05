@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tales of Robin Hood",
+    "year": 1951,
+    "cast": [
+      "Robert Clarke",
+      "Mary Hatcher",
+      "Paul Cavanagh"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tales-of-robin-hood.html"
+}

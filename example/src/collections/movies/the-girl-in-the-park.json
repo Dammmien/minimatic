@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Girl in the Park",
+    "year": 2007,
+    "cast": [
+      "Sigourney Weaver",
+      "Kate Bosworth",
+      "Kurt Russell",
+      "Keri Russell",
+      "Spencer Grammer",
+      "Elisabeth Waterson",
+      "Kristen Ruhlin",
+      "David Rasche"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-girl-in-the-park.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pet Sematary Two",
+    "year": 1992,
+    "cast": [
+      "Anthony Edwards",
+      "Edward Furlong"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/pet-sematary-two.html"
+}

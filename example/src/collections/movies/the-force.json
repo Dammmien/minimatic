@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Force",
+    "year": 1994,
+    "cast": [
+      "Yasmine Bleeth",
+      "Jason Gedrick"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-force.html"
+}

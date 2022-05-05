@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Honey Pot",
+    "year": 1967,
+    "cast": [
+      "Rex Harrison",
+      "Susan Hayward",
+      "Cliff Robertson",
+      "Edie Adams",
+      "Capucine"
+    ],
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-honey-pot.html"
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Middle Men",
+    "year": 2010,
+    "cast": [
+      "Luke Wilson",
+      "Giovanni Ribisi",
+      "Gabriel Macht",
+      "James Caan",
+      "Jacinda Barrett",
+      "Laura Ramsey",
+      "Terry Crews",
+      "Rade Šerbedžija",
+      "Kelsey Grammer",
+      "Kevin Pollak",
+      "Robert Forster"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/middle-men.html"
+}

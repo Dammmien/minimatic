@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "That Certain Age",
+    "year": 1938,
+    "cast": [
+      "Deanna Durbin",
+      "Melvyn Douglas",
+      "Jackie Cooper"
+    ],
+    "genres": [
+      "Comedy",
+      "Musical"
+    ]
+  },
+  "output": "movies/that-certain-age.html"
+}

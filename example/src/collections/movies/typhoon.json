@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Typhoon",
+    "year": 1940,
+    "cast": [
+      "Dorothy Lamour",
+      "Robert Preston",
+      "Lynne Overman"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/typhoon.html"
+}

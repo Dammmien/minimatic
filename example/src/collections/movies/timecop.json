@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Timecop",
+    "year": 1994,
+    "cast": [
+      "Jean-Claude Van Damme",
+      "Mia Sara",
+      "Ron Silver"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/timecop.html"
+}

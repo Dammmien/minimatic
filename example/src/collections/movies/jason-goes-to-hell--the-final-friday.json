@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Jason Goes to Hell: The Final Friday",
+    "year": 1993,
+    "cast": [
+      "Kane Hodder",
+      "Erin Gray"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/jason-goes-to-hell--the-final-friday.html"
+}

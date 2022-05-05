@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Escort West",
+    "year": 1959,
+    "cast": [
+      "Victor Mature",
+      "Elaine Stewart"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/escort-west.html"
+}

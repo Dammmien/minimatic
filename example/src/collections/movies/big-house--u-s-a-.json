@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Big House, U.S.A.",
+    "year": 1955,
+    "cast": [
+      "Broderick Crawford",
+      "William Talman",
+      "Charles Bronson"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/big-house--u-s-a-.html"
+}

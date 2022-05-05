@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Out of the Dark",
+    "year": 2015,
+    "cast": [
+      "Scott Speedman",
+      "Stephen Rea",
+      "Julia Stiles",
+      "Pixie Davies"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/out-of-the-dark.html"
+}

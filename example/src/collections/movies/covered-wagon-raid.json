@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Covered Wagon Raid",
+    "year": 1950,
+    "cast": [
+      "Allan Lane",
+      "Lyn Thomas"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/covered-wagon-raid.html"
+}

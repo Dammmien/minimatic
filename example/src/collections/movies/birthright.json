@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Birthright",
+    "year": 1939,
+    "cast": [
+      "Carman Newsome"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/birthright.html"
+}

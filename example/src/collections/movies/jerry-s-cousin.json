@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Jerry's Cousin",
+    "year": 1950,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/jerry-s-cousin.html"
+}

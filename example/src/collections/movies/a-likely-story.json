@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Likely Story",
+    "year": 1947,
+    "cast": [
+      "Barbara Hale",
+      "Bill Williams",
+      "Sam Levene"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-likely-story.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Parent Trap III",
+    "year": 1989,
+    "cast": [
+      "Hayley Mills",
+      "Barry Bostwick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-parent-trap-iii.html"
+}

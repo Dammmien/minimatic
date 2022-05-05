@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Second Chorus",
+    "year": 1940,
+    "cast": [
+      "Fred Astaire",
+      "Paulette Goddard",
+      "Artie Shaw"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/second-chorus.html"
+}

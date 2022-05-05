@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Canyon of Light",
+    "year": 1926,
+    "cast": [
+      "Tom Mix",
+      "Dorothy Dwan",
+      "Barry Norton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-canyon-of-light.html"
+}

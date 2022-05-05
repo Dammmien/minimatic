@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "She's Back on Broadway",
+    "year": 1953,
+    "cast": [
+      "Virginia Mayo",
+      "Gene Nelson",
+      "Steve Cochran"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/she-s-back-on-broadway.html"
+}

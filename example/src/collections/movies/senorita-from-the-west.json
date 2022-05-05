@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Senorita from the West",
+    "year": 1945,
+    "cast": [
+      "Allan Jones",
+      "Bonita Granville"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/senorita-from-the-west.html"
+}

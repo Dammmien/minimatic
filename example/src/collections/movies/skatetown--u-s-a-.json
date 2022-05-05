@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Skatetown, U.S.A.",
+    "year": 1979,
+    "cast": [
+      "Scott Baio",
+      "Flip Wilson",
+      "Patrick Swayze"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/skatetown--u-s-a-.html"
+}

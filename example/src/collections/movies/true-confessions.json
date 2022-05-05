@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "True Confessions",
+    "year": 1981,
+    "cast": [
+      "Robert De Niro",
+      "Robert Duvall",
+      "Charles Durning",
+      "Kenneth McMillan",
+      "Cyril Cusack",
+      "Ed Flanders",
+      "Burgess Meredith"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/true-confessions.html"
+}

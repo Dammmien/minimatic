@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Diggstown",
+    "year": 1992,
+    "cast": [
+      "James Woods",
+      "Louis Gossett, Jr.",
+      "Oliver Platt",
+      "Heather Graham",
+      "Bruce Dern"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/diggstown.html"
+}

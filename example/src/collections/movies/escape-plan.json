@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Escape Plan",
+    "year": 2013,
+    "cast": [
+      "Sylvester Stallone",
+      "Arnold Schwarzenegger",
+      "Jim Caviezel",
+      "Curtis \"50 Cent\" Jackson",
+      "Vinnie Jones",
+      "Vincent D'Onofrio",
+      "Amy Ryan"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/escape-plan.html"
+}

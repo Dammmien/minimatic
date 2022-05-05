@@ -1,0 +1,21 @@
+{
+  "id": 719,
+  "name": {
+    "english": "Diancie",
+    "japanese": "ディアンシー",
+    "chinese": "蒂安希",
+    "french": "Diancie"
+  },
+  "type": [
+    "Rock",
+    "Fairy"
+  ],
+  "base": {
+    "HP": 50,
+    "Attack": 100,
+    "Defense": 150,
+    "Sp. Attack": 100,
+    "Sp. Defense": 150,
+    "Speed": 50
+  }
+}

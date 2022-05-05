@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Terror Tract",
+    "year": 2000,
+    "cast": [
+      "John Ritter",
+      "David DeLuise",
+      "Allison Smith"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/terror-tract.html"
+}

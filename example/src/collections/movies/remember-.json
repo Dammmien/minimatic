@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Remember?",
+    "year": 1939,
+    "cast": [
+      "Robert Taylor",
+      "Greer Garson",
+      "Lew Ayres",
+      "Billie Burke"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/remember-.html"
+}

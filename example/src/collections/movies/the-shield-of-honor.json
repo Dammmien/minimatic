@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Shield of Honor",
+    "year": 1928,
+    "cast": [
+      "Neil Hamilton",
+      "Dorothy Gulliver"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-shield-of-honor.html"
+}

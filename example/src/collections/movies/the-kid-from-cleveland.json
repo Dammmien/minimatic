@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Kid from Cleveland",
+    "year": 1949,
+    "cast": [
+      "George Brent",
+      "Lynn Bari"
+    ],
+    "genres": [
+      "Sports"
+    ]
+  },
+  "output": "movies/the-kid-from-cleveland.html"
+}

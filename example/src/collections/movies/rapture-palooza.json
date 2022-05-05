@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Rapture-Palooza",
+    "year": 2013,
+    "cast": [
+      "Craig Robinson",
+      "Anna Kendrick",
+      "John Francis Daley",
+      "Ken Jeong"
+    ],
+    "genres": [
+      "Fantasy",
+      "Comedy"
+    ]
+  },
+  "output": "movies/rapture-palooza.html"
+}

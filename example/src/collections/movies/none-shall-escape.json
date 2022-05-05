@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "None Shall Escape",
+    "year": 1944,
+    "cast": [
+      "Marsha Hunt",
+      "Henry Travers"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "output": "movies/none-shall-escape.html"
+}

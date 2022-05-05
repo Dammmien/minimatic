@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Outriders",
+    "year": 1950,
+    "cast": [
+      "Joel McCrea",
+      "Arlene Dahl"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-outriders.html"
+}

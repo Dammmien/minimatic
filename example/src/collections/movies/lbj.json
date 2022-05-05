@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "LBJ",
+    "year": 2017,
+    "cast": [
+      "Woody Harrelson",
+      "Richard Jenkins",
+      "Bill Pullman",
+      "Kim Allen",
+      "Michael Stahl-David",
+      "Jennifer Jason Leigh",
+      "Jeffrey Donovan",
+      "Doug McKeon",
+      "Michael Mosley"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  "output": "movies/lbj.html"
+}

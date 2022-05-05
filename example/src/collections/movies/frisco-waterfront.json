@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Frisco Waterfront",
+    "year": 1935,
+    "cast": [
+      "Ben Lyon",
+      "Helen Twelvetrees"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/frisco-waterfront.html"
+}

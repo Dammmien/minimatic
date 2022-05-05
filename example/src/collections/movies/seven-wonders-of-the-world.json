@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Seven Wonders of the World",
+    "year": 1956,
+    "cast": [
+      "Lowell Thomas"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/seven-wonders-of-the-world.html"
+}

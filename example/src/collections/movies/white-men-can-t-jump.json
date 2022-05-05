@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "White Men Can't Jump",
+    "year": 1992,
+    "cast": [
+      "Wesley Snipes",
+      "Woody Harrelson",
+      "Rosie Perez"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/white-men-can-t-jump.html"
+}

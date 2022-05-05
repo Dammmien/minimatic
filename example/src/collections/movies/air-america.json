@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Air America",
+    "year": 1990,
+    "cast": [
+      "Mel Gibson",
+      "Robert Downey, Jr.",
+      "Nancy Travis"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/air-america.html"
+}

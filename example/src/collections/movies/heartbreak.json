@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Heartbreak",
+    "year": 1931,
+    "cast": [
+      "Charles Farrell",
+      "Madge Evans",
+      "Paul Cavanagh"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/heartbreak.html"
+}

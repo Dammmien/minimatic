@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Flight That Disappeared",
+    "year": 1961,
+    "cast": [
+      "Craig Hill",
+      "Paula Raymond"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-flight-that-disappeared.html"
+}

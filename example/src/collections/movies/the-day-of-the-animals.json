@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Day of the Animals",
+    "year": 1977,
+    "cast": [
+      "Leslie Nielsen",
+      "Lynda Day George"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-day-of-the-animals.html"
+}

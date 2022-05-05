@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Woman in Distress",
+    "year": 1937,
+    "cast": [
+      "May Robson",
+      "Irene Hervey"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/woman-in-distress.html"
+}

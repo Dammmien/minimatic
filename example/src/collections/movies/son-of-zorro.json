@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "Son of Zorro",
+    "year": 1947,
+    "cast": [
+      "George Turner",
+      "Peggy Stewart"
+    ],
+    "genres": []
+  },
+  "output": "movies/son-of-zorro.html"
+}

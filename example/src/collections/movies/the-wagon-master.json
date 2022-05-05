@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wagon Master",
+    "year": 1929,
+    "cast": [
+      "Ken Maynard",
+      "Edith Roberts"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-wagon-master.html"
+}

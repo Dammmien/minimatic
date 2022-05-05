@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mysterious Crossing",
+    "year": 1936,
+    "cast": [
+      "James Dunn",
+      "Jean Rogers"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/mysterious-crossing.html"
+}

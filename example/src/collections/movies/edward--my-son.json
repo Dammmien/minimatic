@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Edward, My Son",
+    "year": 1949,
+    "cast": [
+      "Spencer Tracy",
+      "Deborah Kerr",
+      "Ian Hunter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/edward--my-son.html"
+}

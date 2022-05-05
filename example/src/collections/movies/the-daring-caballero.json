@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Daring Caballero",
+    "year": 1949,
+    "cast": [
+      "Duncan Renaldo",
+      "Leo Carrillo"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-daring-caballero.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Texas Bad Man",
+    "year": 1932,
+    "cast": [
+      "Tom Mix",
+      "Lucille Powers"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-texas-bad-man.html"
+}

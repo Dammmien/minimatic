@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dancing Romeo",
+    "year": 1944,
+    "cast": [
+      "Our Gang"
+    ],
+    "genres": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  "output": "movies/dancing-romeo.html"
+}

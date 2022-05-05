@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Key Witness",
+    "year": 1960,
+    "cast": [
+      "Jeffrey Hunter",
+      "Pat Crowley",
+      "Dennis Hopper"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/key-witness.html"
+}

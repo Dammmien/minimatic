@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Flame and the Arrow",
+    "year": 1950,
+    "cast": [
+      "Burt Lancaster",
+      "Virginia Mayo",
+      "Robert Douglas"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-flame-and-the-arrow.html"
+}

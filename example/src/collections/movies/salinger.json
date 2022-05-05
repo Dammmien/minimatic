@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Salinger",
+    "year": 2013,
+    "cast": [
+      "About the reclusive writer",
+      "J. D. Salinger",
+      "."
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/salinger.html"
+}

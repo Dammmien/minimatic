@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Reckoning",
+    "year": 1932,
+    "cast": [
+      "Sally Blane",
+      "James Murray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-reckoning.html"
+}

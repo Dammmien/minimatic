@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Elmer and Elsie",
+    "year": 1934,
+    "cast": [
+      "George Bancroft",
+      "Frances Fuller"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/elmer-and-elsie.html"
+}

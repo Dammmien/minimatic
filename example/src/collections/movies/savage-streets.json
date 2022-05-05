@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Savage Streets",
+    "year": 1984,
+    "cast": [
+      "Linda Blair",
+      "John Vernon"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/savage-streets.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Law of the Texan",
+    "year": 1938,
+    "cast": [
+      "Buck Jones",
+      "Dorothy Fay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/law-of-the-texan.html"
+}

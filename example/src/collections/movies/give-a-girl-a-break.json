@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Give a Girl a Break",
+    "year": 1953,
+    "cast": [
+      "Debbie Reynolds",
+      "Marge Champion",
+      "Gower Champion",
+      "Bob Fosse"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/give-a-girl-a-break.html"
+}

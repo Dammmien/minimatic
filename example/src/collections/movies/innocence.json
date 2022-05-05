@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Innocence",
+    "year": 1923,
+    "cast": [
+      "Anna Q. Nilsson",
+      "Earle Foxe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/innocence.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Greatest Showman",
+    "year": 2017,
+    "cast": [
+      "Hugh Jackman",
+      "Zac Efron",
+      "Rebecca Ferguson",
+      "Michelle Williams",
+      "Yahya Abdul-Mateen II",
+      "Zendaya"
+    ],
+    "genres": [
+      "Biography",
+      "Musical",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-greatest-showman.html"
+}

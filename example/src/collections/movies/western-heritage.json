@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Western Heritage",
+    "year": 1948,
+    "cast": [
+      "Tim Holt",
+      "Richard Martin",
+      "Lois Andrews"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/western-heritage.html"
+}

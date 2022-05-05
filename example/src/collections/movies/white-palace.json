@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "White Palace",
+    "year": 1990,
+    "cast": [
+      "James Spader",
+      "Susan Sarandon"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/white-palace.html"
+}

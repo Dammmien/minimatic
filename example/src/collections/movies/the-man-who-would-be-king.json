@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Man Who Would Be King",
+    "year": 1975,
+    "cast": [
+      "Sean Connery",
+      "Michael Caine",
+      "Christopher Plummer"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-man-who-would-be-king.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Astounding She-Monster",
+    "year": 1957,
+    "cast": [
+      "Robert Clarke",
+      "Kenne Duncan"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-astounding-she-monster.html"
+}

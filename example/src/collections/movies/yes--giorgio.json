@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Yes, Giorgio",
+    "year": 1982,
+    "cast": [
+      "Luciano Pavarotti",
+      "Kathryn Harrold"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/yes--giorgio.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Any Which Way You Can",
+    "year": 1980,
+    "cast": [
+      "Clint Eastwood",
+      "Geoffrey Lewis",
+      "Sondra Locke"
+    ],
+    "genres": []
+  },
+  "output": "movies/any-which-way-you-can.html"
+}

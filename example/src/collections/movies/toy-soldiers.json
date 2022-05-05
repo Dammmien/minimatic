@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Toy Soldiers",
+    "year": 1991,
+    "cast": [
+      "Sean Astin",
+      "Wil Wheaton",
+      "Louis Gossett, Jr.",
+      "Denholm Elliott"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/toy-soldiers.html"
+}

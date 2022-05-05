@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "While the City Sleeps",
+    "year": 1956,
+    "cast": [
+      "Dana Andrews",
+      "Vincent Price",
+      "Ida Lupino",
+      "Howard Duff",
+      "Rhonda Fleming",
+      "George Sanders"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/while-the-city-sleeps.html"
+}

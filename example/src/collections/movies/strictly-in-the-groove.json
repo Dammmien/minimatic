@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Strictly in the Groove",
+    "year": 1942,
+    "cast": [
+      "Mary Healy",
+      "Leon Errol"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/strictly-in-the-groove.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Girl Trouble",
+    "year": 1942,
+    "cast": [
+      "Don Ameche",
+      "Joan Bennett"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/girl-trouble.html"
+}

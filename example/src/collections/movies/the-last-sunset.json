@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Last Sunset",
+    "year": 1961,
+    "cast": [
+      "Rock Hudson",
+      "Kirk Douglas",
+      "Dorothy Malone"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-last-sunset.html"
+}

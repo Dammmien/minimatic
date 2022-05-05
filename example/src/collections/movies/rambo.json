@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rambo",
+    "year": 2008,
+    "cast": [
+      "Sylvester Stallone",
+      "Julie Benz"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/rambo.html"
+}

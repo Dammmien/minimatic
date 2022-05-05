@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Reckless Living",
+    "year": 1938,
+    "cast": [
+      "Robert Wilcox",
+      "Nan Grey"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/reckless-living.html"
+}

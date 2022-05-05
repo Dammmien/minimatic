@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Moonlight Murder",
+    "year": 1936,
+    "cast": [
+      "Chester Morris",
+      "Madge Evans",
+      "Benita Hume"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/moonlight-murder.html"
+}

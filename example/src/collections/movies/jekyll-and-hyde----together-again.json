@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jekyll and Hyde... Together Again",
+    "year": 1982,
+    "cast": [
+      "Bess Armstrong",
+      "Mark Blankfield",
+      "Tim Thomerson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/jekyll-and-hyde----together-again.html"
+}

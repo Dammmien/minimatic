@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Killpoint",
+    "year": 1984,
+    "cast": [
+      "Richard Roundtree",
+      "Leo Fong",
+      "Cameron Mitchell"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/killpoint.html"
+}

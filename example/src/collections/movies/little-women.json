@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Little Women",
+    "year": 1994,
+    "cast": [
+      "Winona Ryder",
+      "Claire Danes",
+      "Trini Alvarado",
+      "Kirsten Dunst",
+      "Susan Sarandon",
+      "Christian Bale",
+      "Gabriel Byrne",
+      "Samantha Mathis",
+      "Eric Stoltz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/little-women.html"
+}

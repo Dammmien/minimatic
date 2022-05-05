@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beware of Ladies",
+    "year": 1936,
+    "cast": [
+      "Donald Cook",
+      "Judith Allen"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/beware-of-ladies.html"
+}

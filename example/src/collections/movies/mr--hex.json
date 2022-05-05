@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Mr. Hex",
+    "year": 1946,
+    "cast": [
+      "Leo Gorcey",
+      "Huntz Hall",
+      "Gale Robbins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mr--hex.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Crooked Arrows",
+    "year": 2012,
+    "cast": [
+      "Brandon Routh",
+      "Crystal Allen",
+      "Chelsea Ricketts",
+      "Dennis Ambriz",
+      "Michael Hudson",
+      "Gil Birmingham",
+      "Tyler Hill"
+    ],
+    "genres": [
+      "Drama",
+      "Sports"
+    ]
+  },
+  "output": "movies/crooked-arrows.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Best of the Best",
+    "year": 1989,
+    "cast": [
+      "Eric Roberts",
+      "James Earl Jones",
+      "Sally Kirkland"
+    ],
+    "genres": [
+      "Martial Arts"
+    ]
+  },
+  "output": "movies/best-of-the-best.html"
+}

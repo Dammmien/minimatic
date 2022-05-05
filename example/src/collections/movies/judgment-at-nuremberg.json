@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Judgment at Nuremberg",
+    "year": 1961,
+    "cast": [
+      "Spencer Tracy",
+      "Marlene Dietrich",
+      "Richard Widmark",
+      "Maximilian Schell",
+      "Burt Lancaster",
+      "William Shatner",
+      "Montgomery Clift",
+      "Judy Garland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/judgment-at-nuremberg.html"
+}

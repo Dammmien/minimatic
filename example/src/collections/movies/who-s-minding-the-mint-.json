@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Who's Minding the Mint?",
+    "year": 1967,
+    "cast": [
+      "Jim Hutton",
+      "Dorothy Provine",
+      "Milton Berle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/who-s-minding-the-mint-.html"
+}

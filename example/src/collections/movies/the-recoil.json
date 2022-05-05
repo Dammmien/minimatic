@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Recoil",
+    "year": 1924,
+    "cast": [
+      "Mahlon Hamilton",
+      "Betty Blythe"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-recoil.html"
+}

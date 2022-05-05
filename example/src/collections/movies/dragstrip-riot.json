@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dragstrip Riot",
+    "year": 1958,
+    "cast": [
+      "Yvonne Lime",
+      "Fay Wray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dragstrip-riot.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Sun Valley Serenade",
+    "year": 1941,
+    "cast": [
+      "Sonja Henie",
+      "Lynn Bari",
+      "John Payne",
+      "Milton Berle"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/sun-valley-serenade.html"
+}

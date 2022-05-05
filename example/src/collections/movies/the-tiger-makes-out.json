@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Tiger Makes Out",
+    "year": 1967,
+    "cast": [
+      "Eli Wallach",
+      "Dustin Hoffman",
+      "Anne Jackson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-tiger-makes-out.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Next Karate Kid",
+    "year": 1994,
+    "cast": [
+      "Hilary Swank",
+      "Pat Morita",
+      "Michael Ironside"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-next-karate-kid.html"
+}

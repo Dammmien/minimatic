@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Onion Field",
+    "year": 1979,
+    "cast": [
+      "James Woods",
+      "John Savage",
+      "Ted Danson"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-onion-field.html"
+}

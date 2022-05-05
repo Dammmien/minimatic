@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Miracle of Morgan's Creek",
+    "year": 1944,
+    "cast": [
+      "Eddie Bracken",
+      "Betty Hutton",
+      "William Demarest"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-miracle-of-morgan-s-creek.html"
+}

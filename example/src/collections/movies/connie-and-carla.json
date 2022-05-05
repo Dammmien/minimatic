@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Connie and Carla",
+    "year": 2004,
+    "cast": [
+      "Nia Vardalos",
+      "Toni Collette"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/connie-and-carla.html"
+}

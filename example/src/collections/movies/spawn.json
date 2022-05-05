@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Spawn",
+    "year": 1997,
+    "cast": [
+      "Michael Jai White",
+      "John Leguizamo",
+      "Martin Sheen",
+      "Theresa Randle",
+      "Nicol Williamson",
+      "D. B. Sweeney"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/spawn.html"
+}

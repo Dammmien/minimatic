@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Seventh Son",
+    "year": 2015,
+    "cast": [
+      "Jeff Bridges",
+      "Alicia Vikander",
+      "Ben Barnes",
+      "Kit Harington"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/seventh-son.html"
+}

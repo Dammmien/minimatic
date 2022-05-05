@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Neanderthal Man",
+    "year": 1953,
+    "cast": [
+      "Robert Shayne",
+      "Beverly Garland"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-neanderthal-man.html"
+}

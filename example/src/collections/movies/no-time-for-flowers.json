@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No Time for Flowers",
+    "year": 1952,
+    "cast": [
+      "Viveca Lindfors",
+      "Paul Hubschmid"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/no-time-for-flowers.html"
+}

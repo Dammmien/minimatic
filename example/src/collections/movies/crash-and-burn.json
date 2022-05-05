@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Crash and Burn",
+    "year": 1990,
+    "cast": [
+      "Megan Ward"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/crash-and-burn.html"
+}

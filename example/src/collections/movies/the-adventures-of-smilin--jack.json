@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Adventures of Smilin' Jack",
+    "year": 1943,
+    "cast": [
+      "Tom Brown",
+      "Rose Hobart",
+      "Marjorie Lord",
+      "Keye Luke",
+      "Sidney Toler"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-adventures-of-smilin--jack.html"
+}

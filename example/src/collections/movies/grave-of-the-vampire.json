@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Grave of the Vampire",
+    "year": 1972,
+    "cast": [
+      "William Smith",
+      "Lyn Peters"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/grave-of-the-vampire.html"
+}

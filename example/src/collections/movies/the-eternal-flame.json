@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Eternal Flame",
+    "year": 1922,
+    "cast": [
+      "Norma Talmadge",
+      "Adolphe Menjou",
+      "Conway Tearle"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-eternal-flame.html"
+}

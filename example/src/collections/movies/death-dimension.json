@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Death Dimension",
+    "year": 1978,
+    "cast": [
+      "Jim Kelly",
+      "Harold Sakata",
+      "George Lazenby"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/death-dimension.html"
+}

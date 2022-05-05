@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Monsters, Inc. 3D",
+    "year": 2012,
+    "cast": [
+      "John Goodman",
+      "Billy Crystal",
+      "Mary Gibbs",
+      "Steve Buscemi",
+      "James Coburn",
+      "Jennifer Tilly",
+      "Frank Oz"
+    ],
+    "genres": [
+      "Family",
+      "Animated"
+    ]
+  },
+  "output": "movies/monsters--inc--3d.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Under the Rouge",
+    "year": 1925,
+    "cast": [
+      "Eileen Percy",
+      "Tom Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/under-the-rouge.html"
+}

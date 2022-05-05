@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Spring Break",
+    "year": 1983,
+    "cast": [
+      "Perry Lang",
+      "Corinne Wahl"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/spring-break.html"
+}

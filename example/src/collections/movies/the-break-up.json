@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Break-Up",
+    "year": 2006,
+    "cast": [
+      "Vince Vaughn",
+      "Jennifer Aniston"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-break-up.html"
+}

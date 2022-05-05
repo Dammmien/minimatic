@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Woman Against the World",
+    "year": 1928,
+    "cast": [
+      "Harrison Ford",
+      "Georgia Hale"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-woman-against-the-world.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Perils of Nyoka",
+    "year": 1942,
+    "cast": [
+      "Kay Aldridge"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  "output": "movies/perils-of-nyoka.html"
+}

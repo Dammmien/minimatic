@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Woman in Hiding",
+    "year": 1950,
+    "cast": [
+      "Ida Lupino",
+      "Stephen McNally",
+      "Howard Duff"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/woman-in-hiding.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Roamin' Wild",
+    "year": 1936,
+    "cast": [
+      "Tom Tyler",
+      "Al Ferguson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/roamin--wild.html"
+}

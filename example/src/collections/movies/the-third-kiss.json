@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Third Kiss",
+    "year": 1919,
+    "cast": [
+      "Vivian Martin",
+      "Harrison Ford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-third-kiss.html"
+}

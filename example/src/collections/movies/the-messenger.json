@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "The Messenger",
+    "year": 2009,
+    "cast": [
+      "Ben Foster",
+      "Woody Harrelson",
+      "Samantha Morton",
+      "Jena Malone",
+      "Steve Buscemi"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-messenger.html"
+}

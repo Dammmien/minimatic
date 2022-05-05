@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Painted World",
+    "year": 1919,
+    "cast": [
+      "Julia Swayne Gordon",
+      "Harry Northrup"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-painted-world.html"
+}

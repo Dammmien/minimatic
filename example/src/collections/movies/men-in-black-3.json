@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": "Men in Black 3",
+    "year": 2012,
+    "cast": [
+      "Will Smith",
+      "Tommy Lee Jones",
+      "Josh Brolin",
+      "Rip Torn",
+      "Emma Thompson",
+      "Alice Eve",
+      "Nicole Scherzinger",
+      "Jemaine Clement",
+      "Bill Hader",
+      "Keone Young",
+      "Yuri Lowenthal",
+      "(voice)"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/men-in-black-3.html"
+}

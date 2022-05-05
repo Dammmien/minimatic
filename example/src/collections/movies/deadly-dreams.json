@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Deadly Dreams",
+    "year": 1988,
+    "cast": [
+      "Juliette Cummins"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/deadly-dreams.html"
+}

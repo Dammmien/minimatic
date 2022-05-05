@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "I Origins",
+    "year": 2014,
+    "cast": [
+      "Michael Pitt",
+      "Brit Marling",
+      "Astrid Berges-Frisbey",
+      "Steven Yeun"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/i-origins.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dinosaurus!",
+    "year": 1960,
+    "cast": [
+      "Ward Ramsey",
+      "Paul Lukather",
+      "Kristina Hanson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/dinosaurus-.html"
+}

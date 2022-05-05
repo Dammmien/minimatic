@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Where the Sidewalk Ends",
+    "year": 1950,
+    "cast": [
+      "Dana Andrews",
+      "Gene Tierney",
+      "Gary Merrill"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/where-the-sidewalk-ends.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Carried Away",
+    "year": 1996,
+    "cast": [
+      "Dennis Hopper",
+      "Amy Irving"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/carried-away.html"
+}

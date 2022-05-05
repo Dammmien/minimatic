@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Brimstone",
+    "year": 1949,
+    "cast": [
+      "Rod Cameron",
+      "Walter Brennan",
+      "Lorna Gray"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/brimstone.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Female Trouble",
+    "year": 1974,
+    "cast": [
+      "Divine"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/female-trouble.html"
+}

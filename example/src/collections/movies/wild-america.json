@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Wild America",
+    "year": 1997,
+    "cast": [
+      "Jonathan Taylor Thomas",
+      "Devon Sawa",
+      "Scott Bairstow"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/wild-america.html"
+}

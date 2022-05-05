@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Second Time Around",
+    "year": 1961,
+    "cast": [
+      "Debbie Reynolds",
+      "Steve Forrest",
+      "Andy Griffith"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-second-time-around.html"
+}

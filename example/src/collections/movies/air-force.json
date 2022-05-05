@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Air Force",
+    "year": 1943,
+    "cast": [
+      "John Garfield",
+      "John Ridgely",
+      "Gig Young"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/air-force.html"
+}

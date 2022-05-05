@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Molly Maguires",
+    "year": 1970,
+    "cast": [
+      "Sean Connery",
+      "Richard Harris"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-molly-maguires.html"
+}

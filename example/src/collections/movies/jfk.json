@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "JFK",
+    "year": 1991,
+    "cast": [
+      "Kevin Costner",
+      "Tommy Lee Jones",
+      "Gary Oldman",
+      "Joe Pesci",
+      "Kevin Bacon",
+      "Sissy Spacek",
+      "Donald Sutherland",
+      "Laurie Metcalf",
+      "John Candy",
+      "Ed Asner",
+      "Michael Rooker",
+      "Jack Lemmon",
+      "Walter Matthau"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/jfk.html"
+}

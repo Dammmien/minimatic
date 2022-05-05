@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Rob Roy",
+    "year": 1995,
+    "cast": [
+      "Liam Neeson",
+      "Jessica Lange",
+      "Tim Roth",
+      "John Hurt",
+      "Eric Stoltz"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/rob-roy.html"
+}

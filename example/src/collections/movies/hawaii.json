@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hawaii",
+    "year": 1966,
+    "cast": [
+      "Julie Andrews",
+      "Max von Sydow",
+      "Richard Harris",
+      "Gene Hackman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/hawaii.html"
+}

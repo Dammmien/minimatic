@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hoffa",
+    "year": 1992,
+    "cast": [
+      "Jack Nicholson",
+      "Danny DeVito",
+      "Armand Assante"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/hoffa.html"
+}

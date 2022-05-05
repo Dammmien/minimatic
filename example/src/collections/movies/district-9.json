@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "District 9",
+    "year": 2009,
+    "cast": [
+      "Sharlto Copley",
+      "Jason Cope",
+      "David James"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/district-9.html"
+}

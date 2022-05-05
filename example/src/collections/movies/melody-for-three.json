@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Melody for Three",
+    "year": 1941,
+    "cast": [
+      "Jean Hersholt",
+      "Fay Wray"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/melody-for-three.html"
+}

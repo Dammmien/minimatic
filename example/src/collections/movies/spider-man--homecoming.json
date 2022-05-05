@@ -1,0 +1,27 @@
+{
+  "data": {
+    "title": "Spider-Man: Homecoming",
+    "year": 2017,
+    "cast": [
+      "Tom Holland",
+      "Michael Keaton",
+      "Zendaya",
+      "Donald Glover",
+      "Jacob Batalon",
+      "Laura Harrier",
+      "Tony Revolori",
+      "Tyne Daly",
+      "Bokeem Woodbine",
+      "Marisa Tomei",
+      "Robert Downey Jr."
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Superhero",
+      "Comedy",
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/spider-man--homecoming.html"
+}

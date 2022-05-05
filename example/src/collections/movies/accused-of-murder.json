@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Accused of Murder",
+    "year": 1956,
+    "cast": [
+      "David Brian",
+      "Vera Ralston",
+      "Sidney Blackmer",
+      "Lee Van Cleef"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/accused-of-murder.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Wild Boys of the Road",
+    "year": 1933,
+    "cast": [
+      "Frankie Darro",
+      "Dorothy Coonan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/wild-boys-of-the-road.html"
+}

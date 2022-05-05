@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The Bling Ring",
+    "year": 2013,
+    "cast": [
+      "Israel Broussard",
+      "Katie Chang",
+      "Taissa Farmiga",
+      "Claire Julien",
+      "Georgia Rock",
+      "Emma Watson",
+      "Leslie Mann"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "output": "movies/the-bling-ring.html"
+}

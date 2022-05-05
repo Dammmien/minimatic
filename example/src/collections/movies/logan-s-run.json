@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Logan's Run",
+    "year": 1976,
+    "cast": [
+      "Michael York",
+      "Jenny Agutter",
+      "Peter Ustinov",
+      "Farrah Fawcett",
+      "Richard Jordan"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/logan-s-run.html"
+}

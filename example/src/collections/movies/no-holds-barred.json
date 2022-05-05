@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "No Holds Barred",
+    "year": 1989,
+    "cast": [
+      "Hulk Hogan",
+      "Joan Severance"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/no-holds-barred.html"
+}

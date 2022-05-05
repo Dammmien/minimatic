@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Woman Chases Man",
+    "year": 1937,
+    "cast": [
+      "Charles Winninger",
+      "Miriam Hopkins",
+      "Joel McCrea"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/woman-chases-man.html"
+}

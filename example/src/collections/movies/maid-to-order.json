@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Maid to Order",
+    "year": 1987,
+    "cast": [
+      "Ally Sheedy",
+      "Valerie Perrine",
+      "Beverly D'Angelo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/maid-to-order.html"
+}

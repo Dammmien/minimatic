@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "War Babies",
+    "year": 1932,
+    "cast": [
+      "Shirley Temple",
+      "Georgie Smith"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/war-babies.html"
+}

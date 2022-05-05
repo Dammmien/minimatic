@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "San Antonio",
+    "year": 1945,
+    "cast": [
+      "Errol Flynn",
+      "Alexis Smith",
+      "S.Z. Sakall"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/san-antonio.html"
+}

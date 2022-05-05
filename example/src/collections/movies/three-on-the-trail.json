@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Three on the Trail",
+    "year": 1936,
+    "cast": [
+      "William Boyd",
+      "Muriel Evans"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/three-on-the-trail.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bar 20 Justice",
+    "year": 1938,
+    "cast": [
+      "William Boyd",
+      "Gabby Hayes",
+      "Russell Hayden"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/bar-20-justice.html"
+}

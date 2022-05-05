@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Convicts 4",
+    "year": 1962,
+    "cast": [
+      "Ben Gazzara",
+      "Stuart Whitman",
+      "Sammy Davis Jr."
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/convicts-4.html"
+}

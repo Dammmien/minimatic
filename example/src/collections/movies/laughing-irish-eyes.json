@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Laughing Irish Eyes",
+    "year": 1936,
+    "cast": [
+      "Phil Regan",
+      "Evalyn Knapp"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/laughing-irish-eyes.html"
+}

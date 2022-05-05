@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lydia Bailey",
+    "year": 1952,
+    "cast": [
+      "Dale Robertson",
+      "Anne Francis"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lydia-bailey.html"
+}

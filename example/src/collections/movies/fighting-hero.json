@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fighting Hero",
+    "year": 1934,
+    "cast": [
+      "Tom Tyler",
+      "Dick Botiller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/fighting-hero.html"
+}

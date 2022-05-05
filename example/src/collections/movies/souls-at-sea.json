@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Souls at Sea",
+    "year": 1937,
+    "cast": [
+      "Gary Cooper",
+      "George Raft",
+      "Robert Cummings"
+    ],
+    "genres": [
+      "Drama",
+      "Adventure"
+    ]
+  },
+  "output": "movies/souls-at-sea.html"
+}

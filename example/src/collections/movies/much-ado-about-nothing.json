@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Much Ado About Nothing",
+    "year": 2013,
+    "cast": [
+      "Amy Acker",
+      "Alexis Denisof",
+      "Reed Diamond",
+      "Nathan Fillion",
+      "Clark Gregg",
+      "Fran Kranz",
+      "Sean Maher",
+      "Jillian Morgese"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/much-ado-about-nothing.html"
+}

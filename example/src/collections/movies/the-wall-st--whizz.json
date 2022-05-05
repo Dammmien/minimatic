@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wall St. Whizz",
+    "year": 1925,
+    "cast": [
+      "Richard Talmadge",
+      "Marceline Day"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-wall-st--whizz.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "House II: The Second Story",
+    "year": 1987,
+    "cast": [
+      "Arye Gross",
+      "Amy Yasbeck"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/house-ii--the-second-story.html"
+}

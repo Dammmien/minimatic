@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Haunted Harbor",
+    "year": 1944,
+    "cast": [
+      "Kane Richmond",
+      "Kay Aldridge",
+      "Roy Barcroft"
+    ],
+    "genres": []
+  },
+  "output": "movies/haunted-harbor.html"
+}

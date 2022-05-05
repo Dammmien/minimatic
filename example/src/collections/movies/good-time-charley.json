@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Good Time Charley",
+    "year": 1927,
+    "cast": [
+      "Helene Costello",
+      "Warner Oland"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/good-time-charley.html"
+}

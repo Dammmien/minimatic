@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "Boo 2! A Madea Halloween",
+    "year": 2017,
+    "cast": [
+      "Tyler Perry",
+      "Cassi Davis",
+      "Patrice Lovely",
+      "Yousef Erakat",
+      "Diamond White",
+      "Lexy Panterra",
+      "Andre Hall",
+      "Brock O'Hurn",
+      "Tito Ortiz"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/boo-2--a-madea-halloween.html"
+}

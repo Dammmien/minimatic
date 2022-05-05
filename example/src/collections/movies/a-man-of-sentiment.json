@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Man of Sentiment",
+    "year": 1933,
+    "cast": [
+      "Marian Marsh",
+      "Owen Moore"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-man-of-sentiment.html"
+}

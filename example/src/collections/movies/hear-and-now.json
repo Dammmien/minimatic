@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hear and Now",
+    "year": 2007,
+    "cast": [
+      "On",
+      "cochlear implant",
+      "surgery"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/hear-and-now.html"
+}

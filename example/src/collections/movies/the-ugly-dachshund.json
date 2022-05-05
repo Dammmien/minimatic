@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ugly Dachshund",
+    "year": 1966,
+    "cast": [
+      "Suzanne Pleshette",
+      "Dean Jones"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ugly-dachshund.html"
+}

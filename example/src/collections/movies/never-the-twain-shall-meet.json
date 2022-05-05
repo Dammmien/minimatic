@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Never the Twain Shall Meet",
+    "year": 1931,
+    "cast": [
+      "Leslie Howard",
+      "Conchita Montenegro"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/never-the-twain-shall-meet.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Winner",
+    "year": 1996,
+    "cast": [
+      "Rebecca De Mornay",
+      "Michael Madsen",
+      "Vincent D'Onofrio",
+      "Billy Bob Thornton"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-winner.html"
+}

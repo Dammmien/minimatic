@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Semi-Pro",
+    "year": 2008,
+    "cast": [
+      "Will Ferrell",
+      "Woody Harrelson",
+      "André Benjamin"
+    ],
+    "genres": [
+      "Comedy",
+      "Sports"
+    ]
+  },
+  "output": "movies/semi-pro.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Captain from Castile",
+    "year": 1947,
+    "cast": [
+      "Tyrone Power",
+      "Jean Peters",
+      "Cesar Romero"
+    ],
+    "genres": [
+      "Historical"
+    ]
+  },
+  "output": "movies/captain-from-castile.html"
+}

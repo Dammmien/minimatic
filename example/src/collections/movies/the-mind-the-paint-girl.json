@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Mind-the-Paint Girl",
+    "year": 1919,
+    "cast": [
+      "Anita Stewart",
+      "Conway Tearle",
+      "Vernon Steele"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mind-the-paint-girl.html"
+}

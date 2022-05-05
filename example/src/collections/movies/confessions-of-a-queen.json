@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Confessions of a Queen",
+    "year": 1925,
+    "cast": [
+      "Alice Terry",
+      "Lewis Stone"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/confessions-of-a-queen.html"
+}

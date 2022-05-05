@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Home Alone 2: Lost in New York",
+    "year": 1992,
+    "cast": [
+      "Macaulay Culkin",
+      "Joe Pesci",
+      "Daniel Stern"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/home-alone-2--lost-in-new-york.html"
+}

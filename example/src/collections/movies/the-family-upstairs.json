@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Family Upstairs",
+    "year": 1926,
+    "cast": [
+      "Virginia Valli",
+      "J. Farrell MacDonald"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-family-upstairs.html"
+}

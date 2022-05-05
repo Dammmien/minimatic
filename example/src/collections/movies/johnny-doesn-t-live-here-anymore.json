@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Johnny Doesn't Live Here Anymore",
+    "year": 1944,
+    "cast": [
+      "Simone Simon",
+      "James Ellison"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/johnny-doesn-t-live-here-anymore.html"
+}

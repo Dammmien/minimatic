@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Ghost and Mr. Chicken",
+    "year": 1966,
+    "cast": [
+      "Don Knotts",
+      "Dick Sargent"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-ghost-and-mr--chicken.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Midnight Madness",
+    "year": 1980,
+    "cast": [
+      "Michael J. Fox",
+      "David Naughton"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/midnight-madness.html"
+}

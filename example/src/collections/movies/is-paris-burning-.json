@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Is Paris Burning?",
+    "year": 1966,
+    "cast": [
+      "Kirk Douglas",
+      "Charles Boyer",
+      "Leslie Caron",
+      "Glenn Ford",
+      "Yves Montand",
+      "Alain Delon",
+      "Jean-Paul Belmondo",
+      "Simone Signoret",
+      "Robert Stack",
+      "Orson Welles"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  "output": "movies/is-paris-burning-.html"
+}

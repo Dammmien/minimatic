@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cutter's Way",
+    "year": 1981,
+    "cast": [
+      "Jeff Bridges",
+      "John Heard",
+      "Lisa Eichhorn"
+    ],
+    "genres": [
+      "Mystery",
+      "Drama"
+    ]
+  },
+  "output": "movies/cutter-s-way.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tribes",
+    "year": 1970,
+    "cast": [
+      "Darren McGavin",
+      "Earl Holliman"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/tribes.html"
+}

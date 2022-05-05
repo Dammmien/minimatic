@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Chisum",
+    "year": 1970,
+    "cast": [
+      "John Wayne",
+      "Forrest Tucker",
+      "Ben Johnson",
+      "Glenn Corbett",
+      "Geoffrey Deuel",
+      "Christopher George"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/chisum.html"
+}

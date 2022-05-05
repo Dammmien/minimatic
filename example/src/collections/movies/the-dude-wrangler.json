@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Dude Wrangler",
+    "year": 1930,
+    "cast": [
+      "Lina Basquette",
+      "Tom Keene"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-dude-wrangler.html"
+}

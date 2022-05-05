@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hunted Men",
+    "year": 1938,
+    "cast": [
+      "Lloyd Nolan",
+      "Mary Carlisle",
+      "Anthony Quinn"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "output": "movies/hunted-men.html"
+}

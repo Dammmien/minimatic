@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tarzan and the Slave Girl",
+    "year": 1950,
+    "cast": [
+      "Lex Barker",
+      "Vanessa Brown",
+      "Denise Darcel"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tarzan-and-the-slave-girl.html"
+}

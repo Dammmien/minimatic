@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Mercury Rising",
+    "year": 1998,
+    "cast": [
+      "Bruce Willis",
+      "Alec Baldwin",
+      "Miko Hughes",
+      "Chi McBride",
+      "Kim Dickens"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/mercury-rising.html"
+}

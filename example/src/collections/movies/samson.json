@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Samson",
+    "year": 2018,
+    "cast": [
+      "Taylor James",
+      "Jackson Rathbone",
+      "Billy Zane",
+      "Caitlin Leahy",
+      "Rutger Hauer",
+      "Lindsay Wagner"
+    ],
+    "genres": [
+      "Action",
+      "Drama"
+    ]
+  },
+  "output": "movies/samson.html"
+}

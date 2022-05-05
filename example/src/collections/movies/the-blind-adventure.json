@@ -1,0 +1,12 @@
+{
+  "data": {
+    "title": "The Blind Adventure",
+    "year": 1918,
+    "cast": [
+      "Edward Earle",
+      "Betty Howe"
+    ],
+    "genres": []
+  },
+  "output": "movies/the-blind-adventure.html"
+}

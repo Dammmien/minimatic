@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Golden Gloves",
+    "year": 1940,
+    "cast": [
+      "Richard Denning",
+      "Jeanne Cagney"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/golden-gloves.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Thirteenth Hour",
+    "year": 1947,
+    "cast": [
+      "Richard Dix",
+      "Karen Morley"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-thirteenth-hour.html"
+}

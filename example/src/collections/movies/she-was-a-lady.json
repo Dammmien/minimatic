@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "She Was a Lady",
+    "year": 1934,
+    "cast": [
+      "Helen Twelvetrees",
+      "Donald Woods"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/she-was-a-lady.html"
+}

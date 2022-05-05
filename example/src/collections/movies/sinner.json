@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Sinner",
+    "year": 2007,
+    "cast": [
+      "Nick Chinlund",
+      "Georgina Cates",
+      "Michael E. Rodgers"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sinner.html"
+}

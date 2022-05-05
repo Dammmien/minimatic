@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Something to Talk About",
+    "year": 1995,
+    "cast": [
+      "Julia Roberts",
+      "Dennis Quaid",
+      "Kyra Sedgwick",
+      "Robert Duvall",
+      "Gena Rowlands"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/something-to-talk-about.html"
+}

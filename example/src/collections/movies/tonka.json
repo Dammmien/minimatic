@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Tonka",
+    "year": 1958,
+    "cast": [
+      "Sal Mineo",
+      "Philip Carey"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tonka.html"
+}

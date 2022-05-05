@@ -1,0 +1,42 @@
+{
+  "data": {
+    "title": "The Smurfs",
+    "year": 2011,
+    "cast": [
+      "Neil Patrick Harris",
+      "Jayma Mays",
+      "George Lopez",
+      "(voice)",
+      "Katy Perry",
+      "(voice)",
+      "Hank Azaria",
+      "Sofía Vergara",
+      "Alan Cumming",
+      "(voice)",
+      "Jonathan Winters",
+      "(voice)",
+      "Anton Yelchin",
+      "(voice)",
+      "Paul Reubens",
+      "(voice)",
+      "John Oliver",
+      "(voice)",
+      "Kenan Thompson",
+      "(voice)",
+      "Fred Armisen",
+      "(voice)",
+      "B. J. Novak",
+      "(voice)",
+      "Jeff Foxworthy",
+      "(voice)",
+      "Tim Gunn",
+      "Wolfgang Puck",
+      "(voice)"
+    ],
+    "genres": [
+      "Family",
+      "Live Action"
+    ]
+  },
+  "output": "movies/the-smurfs.html"
+}

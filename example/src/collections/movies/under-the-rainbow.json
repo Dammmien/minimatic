@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Under the Rainbow",
+    "year": 1981,
+    "cast": [
+      "Chevy Chase",
+      "Carrie Fisher",
+      "Eve Arden"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/under-the-rainbow.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Submarine",
+    "year": 1928,
+    "cast": [
+      "Jack Holt",
+      "Dorothy Revier"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/submarine.html"
+}

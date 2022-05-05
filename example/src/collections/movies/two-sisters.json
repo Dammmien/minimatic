@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Two Sisters",
+    "year": 1929,
+    "cast": [
+      "Viola Dana",
+      "Rex Lease",
+      "Claire Du Brey"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ]
+  },
+  "output": "movies/two-sisters.html"
+}

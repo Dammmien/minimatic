@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "In the Year of the Pig",
+    "year": 1968,
+    "cast": [
+      "Gerald Ford",
+      "Dwight D. Eisenhower"
+    ],
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "output": "movies/in-the-year-of-the-pig.html"
+}

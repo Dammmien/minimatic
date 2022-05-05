@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Black Hole",
+    "year": 1979,
+    "cast": [
+      "Ernest Borgnine",
+      "Anthony Perkins",
+      "Yvette Mimieux",
+      "Maximilian Schell"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-black-hole.html"
+}

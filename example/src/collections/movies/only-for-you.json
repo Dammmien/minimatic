@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Only for You",
+    "year": 2007,
+    "cast": [
+      "Shea Curry"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/only-for-you.html"
+}

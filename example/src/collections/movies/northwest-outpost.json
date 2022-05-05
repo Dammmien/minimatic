@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Northwest Outpost",
+    "year": 1947,
+    "cast": [
+      "Nelson Eddy",
+      "Ilona Massey"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/northwest-outpost.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Princess Caraboo",
+    "year": 1994,
+    "cast": [
+      "Phoebe Cates",
+      "Jim Broadbent"
+    ],
+    "genres": [
+      "Biography",
+      "Comedy"
+    ]
+  },
+  "output": "movies/princess-caraboo.html"
+}

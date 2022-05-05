@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Blade Runner",
+    "year": 1982,
+    "cast": [
+      "Harrison Ford",
+      "Rutger Hauer",
+      "Sean Young",
+      "Daryl Hannah",
+      "William Sanderson",
+      "Joanna Cassidy",
+      "Brion James",
+      "Joe Turkel"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/blade-runner.html"
+}

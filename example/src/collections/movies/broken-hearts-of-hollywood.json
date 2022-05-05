@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Broken Hearts of Hollywood",
+    "year": 1926,
+    "cast": [
+      "Patsy Ruth Miller",
+      "Louise Dresser",
+      "Douglas Fairbanks Jr."
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/broken-hearts-of-hollywood.html"
+}

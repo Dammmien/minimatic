@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Wasp Woman",
+    "year": 1960,
+    "cast": [
+      "Susan Cabot",
+      "Anthony Eisley"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-wasp-woman.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Rio 2",
+    "year": 2014,
+    "cast": [
+      "Jesse Eisenberg",
+      "Anne Hathaway",
+      "Jamie Foxx",
+      "Leslie Mann"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/rio-2.html"
+}

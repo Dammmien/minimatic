@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Shadow Puppets",
+    "year": 2007,
+    "cast": [
+      "Jolene Blalock",
+      "Tony Todd",
+      "James Marsters"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/shadow-puppets.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Horse in the Gray Flannel Suit",
+    "year": 1968,
+    "cast": [
+      "Dean Jones",
+      "Diane Baker"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-horse-in-the-gray-flannel-suit.html"
+}

@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title": "A Movie",
+    "year": 1958,
+    "cast": [],
+    "genres": [
+      "Short"
+    ]
+  },
+  "output": "movies/a-movie.html"
+}

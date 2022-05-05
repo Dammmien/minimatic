@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Glass Key",
+    "year": 1942,
+    "cast": [
+      "Alan Ladd",
+      "Veronica Lake",
+      "Brian Donlevy",
+      "William Bendix"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-glass-key.html"
+}

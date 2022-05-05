@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Devil Riders",
+    "year": 1943,
+    "cast": [
+      "Buster Crabbe",
+      "Patti McCarty"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/devil-riders.html"
+}

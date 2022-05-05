@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Ishtar",
+    "year": 1987,
+    "cast": [
+      "Warren Beatty",
+      "Dustin Hoffman",
+      "Isabelle Adjani",
+      "Charles Grodin",
+      "Tess Harper",
+      "Jack Weston"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/ishtar.html"
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Veronica Mars",
+    "year": 2014,
+    "cast": [
+      "Kristen Bell",
+      "Jason Dohring",
+      "Krysten Ritter",
+      "Ryan Hansen"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/veronica-mars.html"
+}

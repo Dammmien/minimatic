@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Bates Motel",
+    "year": 1987,
+    "cast": [
+      "Kurt Paul",
+      "Bud Cort",
+      "Lori Petty",
+      "Moses Gunn"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/bates-motel.html"
+}

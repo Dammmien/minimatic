@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Charlie Chan in The Chinese Cat",
+    "year": 1944,
+    "cast": [
+      "Sidney Toler",
+      "Joan Woodbury",
+      "Mantan Moreland"
+    ],
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  "output": "movies/charlie-chan-in-the-chinese-cat.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell's Island",
+    "year": 1955,
+    "cast": [
+      "John Payne",
+      "Mary Murphy"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/hell-s-island.html"
+}

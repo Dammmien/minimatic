@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "White Fang",
+    "year": 1991,
+    "cast": [
+      "Ethan Hawke",
+      "Klaus Maria Brandauer"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/white-fang.html"
+}

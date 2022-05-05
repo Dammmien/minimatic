@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Cursed",
+    "year": 2005,
+    "cast": [
+      "Christina Ricci",
+      "Jesse Eisenberg",
+      "Joshua Jackson",
+      "Judy Greer"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/cursed.html"
+}

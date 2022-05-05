@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Charlie Chan's Courage",
+    "year": 1934,
+    "cast": [
+      "Warner Oland",
+      "Drue Leyton",
+      "Donald Woods"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/charlie-chan-s-courage.html"
+}

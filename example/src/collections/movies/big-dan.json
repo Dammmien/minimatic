@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Big Dan",
+    "year": 1923,
+    "cast": [
+      "Charles Jones",
+      "Marian Nixon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/big-dan.html"
+}

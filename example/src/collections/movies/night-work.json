@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night Work",
+    "year": 1939,
+    "cast": [
+      "Mary Boland",
+      "Donald O'Connor"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/night-work.html"
+}

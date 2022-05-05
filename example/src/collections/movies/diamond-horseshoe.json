@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Diamond Horseshoe",
+    "year": 1945,
+    "cast": [
+      "Betty Grable",
+      "Dick Haymes",
+      "Phil Silvers"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/diamond-horseshoe.html"
+}

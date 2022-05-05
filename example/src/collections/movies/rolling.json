@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Rolling",
+    "year": 2007,
+    "cast": [
+      "Sanoe Lake"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/rolling.html"
+}

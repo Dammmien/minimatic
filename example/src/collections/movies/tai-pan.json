@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tai-Pan",
+    "year": 1986,
+    "cast": [
+      "Bryan Brown",
+      "Joan Chen",
+      "Tim Guinee"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/tai-pan.html"
+}

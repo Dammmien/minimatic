@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fingers",
+    "year": 1978,
+    "cast": [
+      "Harvey Keitel",
+      "Michael V. Gazzo",
+      "Tanya Roberts"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fingers.html"
+}

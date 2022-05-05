@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Smile Like Yours",
+    "year": 1997,
+    "cast": [
+      "Greg Kinnear",
+      "Lauren Holly",
+      "Joan Cusack"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-smile-like-yours.html"
+}

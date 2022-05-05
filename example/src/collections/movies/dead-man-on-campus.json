@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dead Man on Campus",
+    "year": 1998,
+    "cast": [
+      "Mark-Paul Gosselaar",
+      "Tom Everett Scott"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dead-man-on-campus.html"
+}

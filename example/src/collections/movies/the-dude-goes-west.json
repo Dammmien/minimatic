@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Dude Goes West",
+    "year": 1948,
+    "cast": [
+      "Eddie Albert",
+      "Gale Storm"
+    ],
+    "genres": [
+      "Western",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-dude-goes-west.html"
+}

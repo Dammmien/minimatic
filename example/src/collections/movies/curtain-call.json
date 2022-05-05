@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Curtain Call",
+    "year": 1940,
+    "cast": [
+      "Barbara Read",
+      "Alan Mowbray",
+      "Helen Vinson"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/curtain-call.html"
+}

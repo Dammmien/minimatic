@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Woman's Vengeance",
+    "year": 1948,
+    "cast": [
+      "Charles Boyer",
+      "Ann Blyth",
+      "Jessica Tandy"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/a-woman-s-vengeance.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The City",
+    "year": 1926,
+    "cast": [
+      "May Allison",
+      "Robert Frazer",
+      "Walter McGrail"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-city.html"
+}

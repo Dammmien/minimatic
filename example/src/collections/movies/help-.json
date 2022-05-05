@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Help!",
+    "year": 1965,
+    "cast": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/help-.html"
+}

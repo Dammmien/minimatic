@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Cheech & Chong's Animated Movie",
+    "year": 2013,
+    "cast": [
+      "Cheech Marin",
+      "Tommy Chong"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/cheech---chong-s-animated-movie.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The River",
+    "year": 1984,
+    "cast": [
+      "Mel Gibson",
+      "Sissy Spacek",
+      "Scott Glenn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-river.html"
+}

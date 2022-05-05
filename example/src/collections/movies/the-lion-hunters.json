@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Lion Hunters",
+    "year": 1951,
+    "cast": [
+      "Johnny Sheffield",
+      "Douglas Kennedy"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/the-lion-hunters.html"
+}

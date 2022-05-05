@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Striptease",
+    "year": 1996,
+    "cast": [
+      "Demi Moore",
+      "Armand Assante",
+      "Ving Rhames",
+      "Burt Reynolds",
+      "Robert Patrick",
+      "Paul Guilfoyle",
+      "Pandora Peaks"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/striptease.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Feet First",
+    "year": 1930,
+    "cast": [
+      "Harold Lloyd",
+      "Barbara Kent"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/feet-first.html"
+}

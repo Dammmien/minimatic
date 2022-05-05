@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Prince",
+    "year": 2014,
+    "cast": [
+      "Bruce Willis",
+      "John Cusack",
+      "50 Cent",
+      "Jason Patric"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/the-prince.html"
+}

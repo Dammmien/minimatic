@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Fantastic Voyage",
+    "year": 1966,
+    "cast": [
+      "Raquel Welch",
+      "Stephen Boyd",
+      "Edmond O'Brien",
+      "Arthur Kennedy"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/fantastic-voyage.html"
+}

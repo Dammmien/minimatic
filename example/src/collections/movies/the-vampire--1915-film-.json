@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Vampire (1915 film)",
+    "year": 1915,
+    "cast": [
+      "Olga Petrova"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-vampire--1915-film-.html"
+}

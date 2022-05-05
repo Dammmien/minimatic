@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Affair in Havana",
+    "year": 1957,
+    "cast": [
+      "John Cassavetes",
+      "Sara Shane",
+      "Raymond Burr"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/affair-in-havana.html"
+}

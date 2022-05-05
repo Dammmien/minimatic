@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Thelma",
+    "year": 1922,
+    "cast": [
+      "Jane Novak",
+      "Barbara Tennant",
+      "Vernon Steele"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/thelma.html"
+}

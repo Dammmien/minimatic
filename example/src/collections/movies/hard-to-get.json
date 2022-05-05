@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hard to Get",
+    "year": 1938,
+    "cast": [
+      "Olivia de Havilland",
+      "Dick Powell",
+      "Charles Winninger"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "output": "movies/hard-to-get.html"
+}

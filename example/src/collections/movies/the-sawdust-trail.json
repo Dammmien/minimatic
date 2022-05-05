@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sawdust Trail",
+    "year": 1924,
+    "cast": [
+      "Hoot Gibson",
+      "Josie Sedgwick"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-sawdust-trail.html"
+}

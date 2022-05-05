@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Duck Soup",
+    "year": 1933,
+    "cast": [
+      "Groucho Marx",
+      "Chico Marx",
+      "Margaret Dumont"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/duck-soup.html"
+}

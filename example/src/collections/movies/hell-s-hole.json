@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hell's Hole",
+    "year": 1923,
+    "cast": [
+      "Buck Jones",
+      "Ruth Clifford"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hell-s-hole.html"
+}

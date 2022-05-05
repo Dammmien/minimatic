@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daughter of Darkness",
+    "year": 1990,
+    "cast": [
+      "Anthony Perkins",
+      "Mia Sara"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/daughter-of-darkness.html"
+}

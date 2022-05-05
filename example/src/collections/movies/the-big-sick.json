@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Big Sick",
+    "year": 2017,
+    "cast": [
+      "Kumail Nanjiani",
+      "Zoe Kazan",
+      "Holly Hunter",
+      "Ray Romano"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-big-sick.html"
+}

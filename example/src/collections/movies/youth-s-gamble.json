@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Youth's Gamble",
+    "year": 1925,
+    "cast": [
+      "Reed Howes",
+      "Margaret Morris"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/youth-s-gamble.html"
+}

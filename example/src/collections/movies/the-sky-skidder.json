@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Sky Skidder",
+    "year": 1929,
+    "cast": [
+      "Al Wilson",
+      "Helen Foster"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-sky-skidder.html"
+}

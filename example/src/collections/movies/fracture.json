@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fracture",
+    "year": 2007,
+    "cast": [
+      "Anthony Hopkins",
+      "Ryan Gosling"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/fracture.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Show Them No Mercy!",
+    "year": 1935,
+    "cast": [
+      "Rochelle Hudson",
+      "Cesar Romero"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/show-them-no-mercy-.html"
+}

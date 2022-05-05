@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "August Rush",
+    "year": 2007,
+    "cast": [
+      "Freddie Highmore",
+      "Jonathan Rhys Meyers",
+      "Keri Russell",
+      "Terrence Howard",
+      "Robin Williams"
+    ],
+    "genres": [
+      "Family",
+      "Musical"
+    ]
+  },
+  "output": "movies/august-rush.html"
+}

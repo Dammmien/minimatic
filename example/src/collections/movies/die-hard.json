@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Die Hard",
+    "year": 1988,
+    "cast": [
+      "Bruce Willis",
+      "Alan Rickman",
+      "Bonnie Bedelia",
+      "William Atherton",
+      "Paul Gleason",
+      "Reginald VelJohnson",
+      "Alexander Godunov"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/die-hard.html"
+}

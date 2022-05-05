@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Inspector General",
+    "year": 1949,
+    "cast": [
+      "Danny Kaye",
+      "Walter Slezak",
+      "Barbara Bates"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-inspector-general.html"
+}

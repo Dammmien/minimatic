@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "The Devil Inside",
+    "year": 2012,
+    "cast": [
+      "Fernanda Andrade",
+      "Simon Quarterman",
+      "Evan Helmuth",
+      "Ionut Grama",
+      "Suzan Crowley",
+      "Bonnie Morgan",
+      "Brian Johnson",
+      "Preston James Hillier",
+      "D. T. Carney"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-devil-inside.html"
+}

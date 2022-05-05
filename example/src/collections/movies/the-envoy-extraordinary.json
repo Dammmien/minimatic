@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Envoy Extraordinary",
+    "year": 1914,
+    "cast": [
+      "Jack Nelson",
+      "Caroline Frances Cooke"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-envoy-extraordinary.html"
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "title": "The Way, Way Back",
+    "year": 2013,
+    "cast": [
+      "Steve Carell",
+      "Toni Collette",
+      "Allison Janney",
+      "AnnaSophia Robb",
+      "Sam Rockwell",
+      "Maya Rudolph",
+      "Rob Corddry",
+      "Amanda Peet",
+      "Liam James"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-way--way-back.html"
+}

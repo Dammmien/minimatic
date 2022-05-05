@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Tin Cup",
+    "year": 1996,
+    "cast": [
+      "Kevin Costner",
+      "Rene Russo",
+      "Don Johnson",
+      "Cheech Marin",
+      "Linda Hart"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/tin-cup.html"
+}

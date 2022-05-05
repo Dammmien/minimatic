@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Man Power",
+    "year": 1927,
+    "cast": [
+      "Richard Dix",
+      "Mary Brian"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/man-power.html"
+}

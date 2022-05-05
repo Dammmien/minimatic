@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Jug Face",
+    "year": 2013,
+    "cast": [
+      "Lauren Ashley Carter",
+      "Sean Bridgers",
+      "Sean Young"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/jug-face.html"
+}

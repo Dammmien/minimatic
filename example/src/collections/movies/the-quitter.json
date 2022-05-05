@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Quitter",
+    "year": 1934,
+    "cast": [
+      "Charley Grapewin",
+      "Emma Dunn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-quitter.html"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "The House with a Clock in Its Walls",
+    "year": 2018,
+    "cast": [
+      "Jack Black",
+      "Cate Blanchett",
+      "Owen Vaccaro",
+      "Kyle MacLachlan",
+      "Renée Elise Goldsberry",
+      "Sunny Suljic",
+      "Vanessa Anne Williams",
+      "Colleen Camp"
+    ],
+    "genres": [
+      "Fantasy"
+    ]
+  },
+  "output": "movies/the-house-with-a-clock-in-its-walls.html"
+}

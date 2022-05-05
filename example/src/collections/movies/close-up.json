@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Close Up",
+    "year": 1996,
+    "cast": [
+      "Michael Mauro",
+      "Kevin Kenny"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/close-up.html"
+}

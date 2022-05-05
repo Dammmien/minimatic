@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Unseen",
+    "year": 1980,
+    "cast": [
+      "Stephen Furst",
+      "Barbara Bach"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-unseen.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Donovan's Brain",
+    "year": 1953,
+    "cast": [
+      "Lew Ayres",
+      "Nancy Davis"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/donovan-s-brain.html"
+}

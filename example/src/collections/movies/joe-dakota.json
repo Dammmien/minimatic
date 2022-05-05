@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Joe Dakota",
+    "year": 1957,
+    "cast": [
+      "Jock Mahoney",
+      "Luana Patten",
+      "Charles McGraw",
+      "Barbara Lawrence"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/joe-dakota.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "No Small Affair",
+    "year": 1984,
+    "cast": [
+      "Jon Cryer",
+      "Demi Moore",
+      "George Wendt"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/no-small-affair.html"
+}

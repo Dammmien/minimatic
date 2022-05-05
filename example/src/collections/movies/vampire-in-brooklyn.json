@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Vampire in Brooklyn",
+    "year": 1995,
+    "cast": [
+      "Eddie Murphy",
+      "Angela Bassett"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "output": "movies/vampire-in-brooklyn.html"
+}

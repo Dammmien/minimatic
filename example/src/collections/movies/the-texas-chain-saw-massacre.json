@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Texas Chain Saw Massacre",
+    "year": 1974,
+    "cast": [
+      "Gunnar Hansen",
+      "Marilyn Burns"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-texas-chain-saw-massacre.html"
+}

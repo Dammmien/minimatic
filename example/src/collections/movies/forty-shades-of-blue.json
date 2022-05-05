@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Forty Shades of Blue",
+    "year": 2005,
+    "cast": [
+      "Rip Torn",
+      "Dina Korzun",
+      "Darren E. Burrows"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/forty-shades-of-blue.html"
+}

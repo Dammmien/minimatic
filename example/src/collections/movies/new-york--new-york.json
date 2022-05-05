@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "New York, New York",
+    "year": 1977,
+    "cast": [
+      "Liza Minnelli",
+      "Robert De Niro"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/new-york--new-york.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Fortune's Mask",
+    "year": 1922,
+    "cast": [
+      "Earle Williams",
+      "Patsy Ruth Miller"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/fortune-s-mask.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Fifty Roads to Town",
+    "year": 1937,
+    "cast": [
+      "Don Ameche",
+      "Ann Sothern",
+      "Jane Darwell"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/fifty-roads-to-town.html"
+}

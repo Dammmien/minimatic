@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The X-Files: I Want to Believe",
+    "year": 2008,
+    "cast": [
+      "David Duchovny",
+      "Gillian Anderson",
+      "Amanda Peet"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-x-files--i-want-to-believe.html"
+}

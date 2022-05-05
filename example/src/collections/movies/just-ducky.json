@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Just Ducky",
+    "year": 1951,
+    "cast": [
+      "Tom and Jerry"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/just-ducky.html"
+}

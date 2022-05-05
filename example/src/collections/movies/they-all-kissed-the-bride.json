@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "They All Kissed the Bride",
+    "year": 1942,
+    "cast": [
+      "Joan Crawford",
+      "Melvyn Douglas"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/they-all-kissed-the-bride.html"
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Baytown Outlaws",
+    "year": 2013,
+    "cast": [
+      "Andre Braugher",
+      "Eva Longoria",
+      "Clayne Crawford",
+      "Daniel Cudmore",
+      "Travis Fimmel",
+      "Billy Bob Thornton"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-baytown-outlaws.html"
+}

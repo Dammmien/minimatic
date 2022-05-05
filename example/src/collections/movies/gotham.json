@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Gotham",
+    "year": 1988,
+    "cast": [
+      "Tommy Lee Jones",
+      "Virginia Madsen"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/gotham.html"
+}

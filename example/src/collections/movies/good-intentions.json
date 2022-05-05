@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Good Intentions",
+    "year": 1930,
+    "cast": [
+      "Edmund Lowe",
+      "Marguerite Churchill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/good-intentions.html"
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Intruder",
+    "year": 1962,
+    "cast": [
+      "William Shatner"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-intruder.html"
+}

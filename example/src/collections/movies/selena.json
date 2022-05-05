@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Selena",
+    "year": 1997,
+    "cast": [
+      "Jennifer Lopez",
+      "Edward James Olmos"
+    ],
+    "genres": [
+      "Biography"
+    ]
+  },
+  "output": "movies/selena.html"
+}

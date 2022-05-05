@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Christmas in July",
+    "year": 1940,
+    "cast": [
+      "Dick Powell",
+      "Ellen Drew",
+      "Raymond Walburn"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/christmas-in-july.html"
+}

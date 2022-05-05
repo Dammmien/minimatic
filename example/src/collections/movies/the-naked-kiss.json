@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Naked Kiss",
+    "year": 1964,
+    "cast": [
+      "Constance Towers",
+      "Anthony Eisley"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/the-naked-kiss.html"
+}

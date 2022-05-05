@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "I Wouldn't Be in Your Shoes",
+    "year": 1948,
+    "cast": [
+      "Don Castle",
+      "Elyse Knox"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/i-wouldn-t-be-in-your-shoes.html"
+}

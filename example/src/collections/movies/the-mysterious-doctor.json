@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mysterious Doctor",
+    "year": 1943,
+    "cast": [
+      "Eleanor Parker",
+      "John Loder"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-mysterious-doctor.html"
+}

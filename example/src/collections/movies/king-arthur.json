@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "King Arthur",
+    "year": 2004,
+    "cast": [
+      "Clive Owen",
+      "Keira Knightley",
+      "Stellan Skarsgård",
+      "Stephen Dillane",
+      "Ray Winstone",
+      "Hugh Dancy",
+      "Til Schweiger",
+      "Ioan Gruffudd"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/king-arthur.html"
+}

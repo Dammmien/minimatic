@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Tadpole",
+    "year": 2002,
+    "cast": [
+      "Aaron Stanford",
+      "Bebe Neuwirth",
+      "Sigourney Weaver",
+      "John Ritter"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/tadpole.html"
+}

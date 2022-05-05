@@ -1,0 +1,28 @@
+{
+  "data": {
+    "title": "The Smurfs 2",
+    "year": 2013,
+    "cast": [
+      "Neil Patrick Harris",
+      "Jayma Mays",
+      "Hank Azaria",
+      "Tim Gunn",
+      "Brendan Gleeson",
+      "Katy Perry",
+      "Jonathan Winters",
+      "Alan Cumming",
+      "Fred Armisen",
+      "George Lopez",
+      "Anton Yelchin",
+      "John Oliver",
+      "Christina Ricci",
+      "J. B. Smoove",
+      "Frank Welker"
+    ],
+    "genres": [
+      "Adventure",
+      "Family"
+    ]
+  },
+  "output": "movies/the-smurfs-2.html"
+}

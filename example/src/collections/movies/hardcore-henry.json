@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Hardcore Henry",
+    "year": 2016,
+    "cast": [
+      "Sharlto Copley",
+      "Danila Kozlovsky",
+      "Haley Bennett"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Action"
+    ]
+  },
+  "output": "movies/hardcore-henry.html"
+}

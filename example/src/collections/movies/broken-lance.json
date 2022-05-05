@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Broken Lance",
+    "year": 1954,
+    "cast": [
+      "Spencer Tracy",
+      "Robert Wagner",
+      "Richard Widmark",
+      "Katy Jurado"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/broken-lance.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Opening Night",
+    "year": 1977,
+    "cast": [
+      "Gena Rowlands",
+      "Ben Gazzara",
+      "John Cassavetes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/opening-night.html"
+}

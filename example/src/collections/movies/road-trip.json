@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Road Trip",
+    "year": 2000,
+    "cast": [
+      "Breckin Meyer",
+      "Seann William Scott",
+      "Tom Green",
+      "DJ Qualls",
+      "Amy Smart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/road-trip.html"
+}

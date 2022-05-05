@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Nativity Story",
+    "year": 2006,
+    "cast": [
+      "Keisha Castle-Hughes",
+      "Shohreh Aghdashloo"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/the-nativity-story.html"
+}

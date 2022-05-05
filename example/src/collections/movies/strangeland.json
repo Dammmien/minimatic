@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Strangeland",
+    "year": 1998,
+    "cast": [
+      "Kevin Gage",
+      "Robert Englund",
+      "Amy Smart"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/strangeland.html"
+}

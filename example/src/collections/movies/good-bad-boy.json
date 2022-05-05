@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Good Bad Boy",
+    "year": 1924,
+    "cast": [
+      "Joe Butterworth",
+      "Mary Jane Irving"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/good-bad-boy.html"
+}

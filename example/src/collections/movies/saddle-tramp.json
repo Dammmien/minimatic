@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Saddle Tramp",
+    "year": 1950,
+    "cast": [
+      "Joel McCrea",
+      "Wanda Hendrix",
+      "John Russell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/saddle-tramp.html"
+}

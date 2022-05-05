@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Smoke Eaters",
+    "year": 1926,
+    "cast": [
+      "Cullen Landis",
+      "Wanda Hawley"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/the-smoke-eaters.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dance Team",
+    "year": 1932,
+    "cast": [
+      "James Dunn",
+      "Sally Eilers"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/dance-team.html"
+}

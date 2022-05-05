@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Argentine Nights",
+    "year": 1940,
+    "cast": [
+      "Ritz Brothers",
+      "The Andrews Sisters",
+      "Constance Moore",
+      "George Reeves"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/argentine-nights.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Ice Harvest",
+    "year": 2005,
+    "cast": [
+      "John Cusack",
+      "Billy Bob Thornton",
+      "Connie Nielsen",
+      "Randy Quaid"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-ice-harvest.html"
+}

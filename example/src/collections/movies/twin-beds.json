@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Twin Beds",
+    "year": 1942,
+    "cast": [
+      "Joan Bennett",
+      "George Brent"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/twin-beds.html"
+}

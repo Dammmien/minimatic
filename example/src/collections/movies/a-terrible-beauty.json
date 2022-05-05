@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "A Terrible Beauty",
+    "year": 1960,
+    "cast": [
+      "Robert Mitchum",
+      "Anne Heywood",
+      "Dan O'Herlihy"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/a-terrible-beauty.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Island of Love",
+    "year": 1963,
+    "cast": [
+      "Robert Preston",
+      "Tony Randall",
+      "Walter Matthau"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/island-of-love.html"
+}

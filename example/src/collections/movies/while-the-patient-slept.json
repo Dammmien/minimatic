@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "While the Patient Slept",
+    "year": 1935,
+    "cast": [
+      "Aline MacMahon",
+      "Guy Kibbee",
+      "Allen Jenkins"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/while-the-patient-slept.html"
+}

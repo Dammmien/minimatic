@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Miami Story",
+    "year": 1954,
+    "cast": [
+      "Barry Sullivan",
+      "Luther Adler",
+      "Beverly Garland"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/the-miami-story.html"
+}

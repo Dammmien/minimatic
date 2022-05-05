@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Night Has a Thousand Eyes",
+    "year": 1948,
+    "cast": [
+      "Edward G. Robinson",
+      "Gail Russell"
+    ],
+    "genres": [
+      "Noir"
+    ]
+  },
+  "output": "movies/night-has-a-thousand-eyes.html"
+}

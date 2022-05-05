@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Bad Little Angel",
+    "year": 1939,
+    "cast": [
+      "Virginia Weidler",
+      "Gene Reynolds",
+      "Guy Kibbee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/bad-little-angel.html"
+}

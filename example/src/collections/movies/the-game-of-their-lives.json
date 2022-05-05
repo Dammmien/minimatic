@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Game of Their Lives",
+    "year": 2005,
+    "cast": [
+      "Gerard Butler",
+      "Wes Bentley",
+      "Zachery Ty Bryan"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-game-of-their-lives.html"
+}

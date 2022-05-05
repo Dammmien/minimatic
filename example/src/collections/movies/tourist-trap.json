@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Tourist Trap",
+    "year": 1979,
+    "cast": [
+      "Chuck Connors",
+      "Jocelyn Jones",
+      "Tanya Roberts"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/tourist-trap.html"
+}

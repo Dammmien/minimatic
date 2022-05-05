@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Lake Placid Serenade",
+    "year": 1944,
+    "cast": [
+      "Vera Ralston",
+      "Eugene Pallette"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/lake-placid-serenade.html"
+}

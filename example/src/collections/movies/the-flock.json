@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Flock",
+    "year": 2007,
+    "cast": [
+      "Richard Gere",
+      "Claire Danes"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "output": "movies/the-flock.html"
+}

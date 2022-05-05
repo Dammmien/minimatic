@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Western Feuds",
+    "year": 1924,
+    "cast": [
+      "Edmund Cobb",
+      "Florence Gilbert"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/western-feuds.html"
+}

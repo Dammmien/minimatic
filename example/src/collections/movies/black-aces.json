@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Black Aces",
+    "year": 1937,
+    "cast": [
+      "Buck Jones",
+      "Kay Linaker"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/black-aces.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Texas Cyclone",
+    "year": 1932,
+    "cast": [
+      "Tim McCoy",
+      "John Wayne"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/texas-cyclone.html"
+}

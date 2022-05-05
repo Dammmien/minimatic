@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "The Boss Baby",
+    "year": 2017,
+    "cast": [
+      "Alec Baldwin",
+      "Steve Buscemi",
+      "Tobey Maguire",
+      "Jimmy Kimmel",
+      "Lisa Kudrow"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-boss-baby.html"
+}

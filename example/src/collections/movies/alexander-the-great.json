@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Alexander the Great",
+    "year": 1956,
+    "cast": [
+      "Richard Burton",
+      "Claire Bloom",
+      "Fredric March",
+      "Danielle Darrieux"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/alexander-the-great.html"
+}

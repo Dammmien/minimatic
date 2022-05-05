@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Song One",
+    "year": 2015,
+    "cast": [
+      "Anne Hathaway",
+      "Mary Steenburgen",
+      "Crystal Lonneberg",
+      "Stefano Villabona"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/song-one.html"
+}

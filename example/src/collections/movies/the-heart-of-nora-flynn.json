@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Heart of Nora Flynn",
+    "year": 1916,
+    "cast": [
+      "Marie Doro",
+      "Elliott Dexter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-heart-of-nora-flynn.html"
+}

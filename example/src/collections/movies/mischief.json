@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Mischief",
+    "year": 1985,
+    "cast": [
+      "Doug McKeon",
+      "Catherine Mary Stewart"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/mischief.html"
+}

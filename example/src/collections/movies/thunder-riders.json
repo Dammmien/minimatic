@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Thunder Riders",
+    "year": 1928,
+    "cast": [
+      "Ted Wells",
+      "Charlotte Stevens"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/thunder-riders.html"
+}

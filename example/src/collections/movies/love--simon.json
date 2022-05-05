@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Love, Simon",
+    "year": 2018,
+    "cast": [
+      "Nick Robinson",
+      "Katherine Langford",
+      "Alexandra Shipp",
+      "Jorge Lendeborg Jr.",
+      "Miles Heizer",
+      "Keiynan Lonsdale",
+      "Logan Miller",
+      "Jennifer Garner",
+      "Josh Duhamel",
+      "Tony Hale"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "output": "movies/love--simon.html"
+}

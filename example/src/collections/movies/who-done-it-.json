@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Who Done It?",
+    "year": 1942,
+    "cast": [
+      "Abbott and Costello"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/who-done-it-.html"
+}

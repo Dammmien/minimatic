@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Battle for the Planet of the Apes",
+    "year": 1973,
+    "cast": [
+      "Roddy McDowall",
+      "John Huston",
+      "Claude Akins"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/battle-for-the-planet-of-the-apes.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Girl",
+    "year": 2000,
+    "cast": [
+      "Claire Keim",
+      "Agathe De La Boulaye"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-girl.html"
+}

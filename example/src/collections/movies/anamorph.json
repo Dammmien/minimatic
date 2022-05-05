@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Anamorph",
+    "year": 2007,
+    "cast": [
+      "Willem Dafoe",
+      "Scott Speedman"
+    ],
+    "genres": [
+      "Thriller"
+    ]
+  },
+  "output": "movies/anamorph.html"
+}

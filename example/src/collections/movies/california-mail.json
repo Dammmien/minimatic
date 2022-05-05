@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "California Mail",
+    "year": 1936,
+    "cast": [
+      "Dick Foran",
+      "Edmund Cobb"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/california-mail.html"
+}

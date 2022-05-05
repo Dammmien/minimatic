@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "If a Man Answers",
+    "year": 1962,
+    "cast": [
+      "Bobby Darin",
+      "Sandra Dee",
+      "Cesar Romero"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/if-a-man-answers.html"
+}

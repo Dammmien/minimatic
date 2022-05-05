@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "So This Is Africa",
+    "year": 1933,
+    "cast": [
+      "Bert Wheeler",
+      "Robert Woolsey",
+      "Raquel Torres"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/so-this-is-africa.html"
+}

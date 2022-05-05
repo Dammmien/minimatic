@@ -1,0 +1,21 @@
+{
+  "data": {
+    "title": "Mr. Popper's Penguins",
+    "year": 2011,
+    "cast": [
+      "Jim Carrey",
+      "Carla Gugino",
+      "Philip Baker Hall",
+      "Angela Lansbury",
+      "Clark Gregg",
+      "Madeline Carroll",
+      "Maxwell Perry Cotton",
+      "Ophelia Lovibond",
+      "Dominic Chianese"
+    ],
+    "genres": [
+      "Family"
+    ]
+  },
+  "output": "movies/mr--popper-s-penguins.html"
+}

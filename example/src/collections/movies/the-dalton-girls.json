@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Dalton Girls",
+    "year": 1957,
+    "cast": [
+      "Merry Anders",
+      "Lisa Davis"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-dalton-girls.html"
+}

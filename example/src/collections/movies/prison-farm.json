@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Prison Farm",
+    "year": 1938,
+    "cast": [
+      "Lloyd Nolan",
+      "Shirley Ross",
+      "May Boley"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/prison-farm.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Laramie Trail",
+    "year": 1944,
+    "cast": [
+      "Robert Livingston",
+      "Smiley Burnette"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-laramie-trail.html"
+}

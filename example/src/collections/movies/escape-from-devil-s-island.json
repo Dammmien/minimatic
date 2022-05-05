@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Escape from Devil's Island",
+    "year": 1935,
+    "cast": [
+      "Victor Jory",
+      "Florence Rice"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/escape-from-devil-s-island.html"
+}

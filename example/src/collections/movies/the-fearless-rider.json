@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Fearless Rider",
+    "year": 1928,
+    "cast": [
+      "Fred Humes",
+      "Barbara Worth"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-fearless-rider.html"
+}

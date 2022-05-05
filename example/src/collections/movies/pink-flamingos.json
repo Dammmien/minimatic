@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Pink Flamingos",
+    "year": 1972,
+    "cast": [
+      "Divine"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pink-flamingos.html"
+}

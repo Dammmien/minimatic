@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Jesus' Son",
+    "year": 1999,
+    "cast": [
+      "Billy Crudup",
+      "Samantha Morton",
+      "Denis Leary",
+      "Holly Hunter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/jesus--son.html"
+}

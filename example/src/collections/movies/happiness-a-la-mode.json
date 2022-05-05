@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Happiness a la Mode",
+    "year": 1919,
+    "cast": [
+      "Constance Talmadge",
+      "Harrison Ford"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/happiness-a-la-mode.html"
+}

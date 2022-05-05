@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "I Know What You Did Last Summer",
+    "year": 1997,
+    "cast": [
+      "Jennifer Love Hewitt",
+      "Sarah Michelle Gellar",
+      "Ryan Phillippe",
+      "Freddie Prinze, Jr.",
+      "Johnny Galecki",
+      "Bridgette Wilson",
+      "Anne Heche"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/i-know-what-you-did-last-summer.html"
+}

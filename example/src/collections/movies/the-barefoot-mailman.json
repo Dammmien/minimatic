@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Barefoot Mailman",
+    "year": 1951,
+    "cast": [
+      "Robert Cummings",
+      "Terry Moore"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-barefoot-mailman.html"
+}

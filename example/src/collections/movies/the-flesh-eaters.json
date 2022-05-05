@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Flesh Eaters",
+    "year": 1964,
+    "cast": [
+      "Martin Kosleck"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-flesh-eaters.html"
+}

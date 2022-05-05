@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Disraeli",
+    "year": 1929,
+    "cast": [
+      "George Arliss",
+      "Joan Bennett"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/disraeli.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Rajah",
+    "year": 1919,
+    "cast": [
+      "Harold Lloyd",
+      "Bebe Daniels"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-rajah.html"
+}

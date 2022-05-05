@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Trail of the Hound",
+    "year": 1920,
+    "cast": [
+      "Hoot Gibson",
+      "Jeff Corey"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-trail-of-the-hound.html"
+}

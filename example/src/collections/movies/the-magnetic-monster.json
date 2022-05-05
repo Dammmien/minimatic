@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Magnetic Monster",
+    "year": 1953,
+    "cast": [
+      "Richard Carlson",
+      "King Donovan"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-magnetic-monster.html"
+}

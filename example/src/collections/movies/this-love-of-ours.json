@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "This Love of Ours",
+    "year": 1945,
+    "cast": [
+      "Merle Oberon",
+      "Claude Rains"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/this-love-of-ours.html"
+}

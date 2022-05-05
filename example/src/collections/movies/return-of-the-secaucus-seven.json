@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Return of the Secaucus Seven",
+    "year": 1980,
+    "cast": [
+      "Bruce MacDonald",
+      "Maggie Renzi",
+      "David Strathairn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/return-of-the-secaucus-seven.html"
+}

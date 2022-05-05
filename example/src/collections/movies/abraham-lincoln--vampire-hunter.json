@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Abraham Lincoln: Vampire Hunter",
+    "year": 2012,
+    "cast": [
+      "Benjamin Walker",
+      "Dominic Cooper",
+      "Anthony Mackie",
+      "Mary Elizabeth Winstead",
+      "Rufus Sewell",
+      "Marton Csokas"
+    ],
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  "output": "movies/abraham-lincoln--vampire-hunter.html"
+}

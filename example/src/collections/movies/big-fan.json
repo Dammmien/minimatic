@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Big Fan",
+    "year": 2009,
+    "cast": [
+      "Patton Oswalt",
+      "Kevin Corrigan",
+      "Michael Rapaport",
+      "Marcia Jean Kurtz"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/big-fan.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Vigilante Hideout",
+    "year": 1950,
+    "cast": [
+      "Allan Lane",
+      "Eddy Waller"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/vigilante-hideout.html"
+}

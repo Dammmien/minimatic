@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "A Guy, a Gal and a Pal",
+    "year": 1945,
+    "cast": [
+      "Ross Hunter",
+      "Lynn Merrick"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/a-guy--a-gal-and-a-pal.html"
+}

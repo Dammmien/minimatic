@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Raid",
+    "year": 1954,
+    "cast": [
+      "Van Heflin",
+      "Anne Bancroft",
+      "Richard Boone",
+      "Lee Marvin"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-raid.html"
+}

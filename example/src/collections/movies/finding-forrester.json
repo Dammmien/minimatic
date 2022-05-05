@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Finding Forrester",
+    "year": 2000,
+    "cast": [
+      "Sean Connery",
+      "Rob Brown",
+      "Anna Paquin"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/finding-forrester.html"
+}

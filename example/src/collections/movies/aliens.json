@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Aliens",
+    "year": 1986,
+    "cast": [
+      "Sigourney Weaver",
+      "Michael Biehn",
+      "Lance Henriksen",
+      "Carrie Henn",
+      "Bill Paxton",
+      "Paul Reiser",
+      "Jenette Goldstein"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/aliens.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Frontier Badmen",
+    "year": 1943,
+    "cast": [
+      "Diana Barrymore",
+      "Noah Beery Jr."
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/frontier-badmen.html"
+}

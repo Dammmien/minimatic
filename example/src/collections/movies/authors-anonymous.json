@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Authors Anonymous",
+    "year": 2014,
+    "cast": [
+      "Kaley Cuoco",
+      "Chris Klein",
+      "Jonathan Banks",
+      "Tricia Helfer"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/authors-anonymous.html"
+}

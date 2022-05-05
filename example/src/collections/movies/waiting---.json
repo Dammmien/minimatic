@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Waiting...",
+    "year": 2005,
+    "cast": [
+      "Ryan Reynolds",
+      "Anna Faris",
+      "Justin Long"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/waiting---.html"
+}

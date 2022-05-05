@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bring on the Girls",
+    "year": 1945,
+    "cast": [
+      "Veronica Lake",
+      "Marjorie Reynolds"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/bring-on-the-girls.html"
+}

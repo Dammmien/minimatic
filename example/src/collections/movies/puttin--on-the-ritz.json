@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Puttin' On The Ritz",
+    "year": 1930,
+    "cast": [
+      "Joan Bennett",
+      "Harry Richman",
+      "George Irving"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/puttin--on-the-ritz.html"
+}

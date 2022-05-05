@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pony Express",
+    "year": 1925,
+    "cast": [
+      "Betty Compson",
+      "Ricardo Cortez",
+      "Wallace Beery"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-pony-express.html"
+}

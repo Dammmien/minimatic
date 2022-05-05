@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Out to Sea",
+    "year": 1997,
+    "cast": [
+      "Jack Lemmon",
+      "Walter Matthau",
+      "Dyan Cannon"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/out-to-sea.html"
+}

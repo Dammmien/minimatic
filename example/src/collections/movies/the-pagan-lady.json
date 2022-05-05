@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pagan Lady",
+    "year": 1931,
+    "cast": [
+      "Evelyn Brent",
+      "Conrad Nagel",
+      "Roland Young"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-pagan-lady.html"
+}

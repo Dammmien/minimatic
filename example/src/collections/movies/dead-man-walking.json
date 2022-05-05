@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Dead Man Walking",
+    "year": 1995,
+    "cast": [
+      "Susan Sarandon",
+      "Sean Penn"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/dead-man-walking.html"
+}

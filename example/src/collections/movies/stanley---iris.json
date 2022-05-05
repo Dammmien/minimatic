@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Stanley & Iris",
+    "year": 1990,
+    "cast": [
+      "Jane Fonda",
+      "Robert De Niro",
+      "Martha Plimpton",
+      "Swoosie Kurtz"
+    ],
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "output": "movies/stanley---iris.html"
+}

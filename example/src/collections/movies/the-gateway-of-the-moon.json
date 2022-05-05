@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Gateway of the Moon",
+    "year": 1928,
+    "cast": [
+      "Dolores del Río",
+      "Walter Pidgeon"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-gateway-of-the-moon.html"
+}

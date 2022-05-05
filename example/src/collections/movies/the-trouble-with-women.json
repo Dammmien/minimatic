@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Trouble with Women",
+    "year": 1947,
+    "cast": [
+      "Ray Milland",
+      "Teresa Wright",
+      "Brian Donlevy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-trouble-with-women.html"
+}

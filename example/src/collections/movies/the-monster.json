@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "The Monster",
+    "year": 1994,
+    "cast": [
+      "Roberto Benigni"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-monster.html"
+}

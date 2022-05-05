@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Crazy Eyes",
+    "year": 2012,
+    "cast": [
+      "Lukas Haas",
+      "Madeline Zima",
+      "Jake Busey",
+      "Tania Raymonde",
+      "Ray Wise"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/crazy-eyes.html"
+}

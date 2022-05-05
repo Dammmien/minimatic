@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Midnight Express",
+    "year": 1978,
+    "cast": [
+      "Brad Davis",
+      "John Hurt",
+      "Randy Quaid"
+    ],
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  "output": "movies/midnight-express.html"
+}

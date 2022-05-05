@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "California Firebrand",
+    "year": 1948,
+    "cast": [
+      "Monte Hale",
+      "Lorna Gray",
+      "Paul Hurst"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/california-firebrand.html"
+}

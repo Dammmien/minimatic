@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lost Patrol",
+    "year": 1934,
+    "cast": [
+      "Victor McLaglen",
+      "Wallace Ford",
+      "Boris Karloff"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/the-lost-patrol.html"
+}

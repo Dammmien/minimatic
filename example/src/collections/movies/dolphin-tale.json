@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Dolphin Tale",
+    "year": 2011,
+    "cast": [
+      "Harry Connick, Jr.",
+      "Ashley Judd",
+      "Nathan Gamble",
+      "Kris Kristofferson",
+      "Cozi Zuehldorff",
+      "Morgan Freeman"
+    ],
+    "genres": [
+      "Drama",
+      "Family"
+    ]
+  },
+  "output": "movies/dolphin-tale.html"
+}

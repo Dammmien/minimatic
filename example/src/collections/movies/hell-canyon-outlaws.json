@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Hell Canyon Outlaws",
+    "year": 1957,
+    "cast": [
+      "Dale Robertson",
+      "Brian Keith",
+      "Rossana Rory"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/hell-canyon-outlaws.html"
+}

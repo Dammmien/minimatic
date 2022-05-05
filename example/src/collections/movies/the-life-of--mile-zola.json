@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Life of Émile Zola",
+    "year": 1937,
+    "cast": [
+      "Paul Muni",
+      "Joseph Schildkraut",
+      "Gale Sondergaard"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-life-of--mile-zola.html"
+}

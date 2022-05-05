@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gold",
+    "year": 1932,
+    "cast": [
+      "Jack Hoxie",
+      "Alice Day",
+      "Lafe McKee"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/gold.html"
+}

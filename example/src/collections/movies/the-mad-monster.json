@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Mad Monster",
+    "year": 1942,
+    "cast": [
+      "George Zucco",
+      "Anne Nagel"
+    ],
+    "genres": [
+      "Horror"
+    ]
+  },
+  "output": "movies/the-mad-monster.html"
+}

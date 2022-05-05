@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "West of Nevada",
+    "year": 1936,
+    "cast": [
+      "Rex Bell",
+      "Joan Barclay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/west-of-nevada.html"
+}

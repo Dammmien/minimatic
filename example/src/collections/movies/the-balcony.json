@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "The Balcony",
+    "year": 1963,
+    "cast": [
+      "Shelley Winters",
+      "Peter Falk",
+      "Leonard Nimoy",
+      "Ruby Dee"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-balcony.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Gentlemen of Nerve",
+    "year": 1914,
+    "cast": [
+      "Charlie Chaplin",
+      "Mabel Normand",
+      "Chester Conklin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/gentlemen-of-nerve.html"
+}

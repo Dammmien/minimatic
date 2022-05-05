@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The Whistle at Eaton Falls",
+    "year": 1951,
+    "cast": [
+      "Lloyd Bridges",
+      "Dorothy Gish"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-whistle-at-eaton-falls.html"
+}

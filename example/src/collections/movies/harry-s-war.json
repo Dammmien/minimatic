@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Harry's War",
+    "year": 1981,
+    "cast": [
+      "Edward Herrmann",
+      "Geraldine Page",
+      "Karen Grassle"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/harry-s-war.html"
+}

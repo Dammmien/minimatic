@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Romy and Michele's High School Reunion",
+    "year": 1997,
+    "cast": [
+      "Mira Sorvino",
+      "Lisa Kudrow",
+      "Janeane Garofalo"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/romy-and-michele-s-high-school-reunion.html"
+}

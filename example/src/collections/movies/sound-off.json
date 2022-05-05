@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Sound Off",
+    "year": 1952,
+    "cast": [
+      "Mickey Rooney"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/sound-off.html"
+}

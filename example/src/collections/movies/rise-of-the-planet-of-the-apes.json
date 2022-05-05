@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Rise of the Planet of the Apes",
+    "year": 2011,
+    "cast": [
+      "James Franco",
+      "Freida Pinto",
+      "Andy Serkis",
+      "Tom Felton",
+      "David Hewlett",
+      "Chelah Horsdal",
+      "Brian Cox",
+      "Jamie Harris",
+      "Tyler Labine",
+      "David Oyelowo",
+      "John Lithgow"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/rise-of-the-planet-of-the-apes.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Plainsman",
+    "year": 1966,
+    "cast": [
+      "Don Murray",
+      "Guy Stockwell",
+      "Abby Dalton"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/the-plainsman.html"
+}

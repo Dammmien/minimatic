@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Death Wish 3",
+    "year": 1985,
+    "cast": [
+      "Charles Bronson",
+      "Martin Balsam"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/death-wish-3.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Lonely Guy",
+    "year": 1984,
+    "cast": [
+      "Steve Martin",
+      "Judith Ivey",
+      "Charles Grodin"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-lonely-guy.html"
+}

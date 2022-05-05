@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Smokey and the Bandit II",
+    "year": 1980,
+    "cast": [
+      "Burt Reynolds",
+      "Sally Field",
+      "Jackie Gleason",
+      "Jerry Reed",
+      "Dom DeLuise"
+    ],
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "output": "movies/smokey-and-the-bandit-ii.html"
+}

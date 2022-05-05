@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Motive for Revenge",
+    "year": 1935,
+    "cast": [
+      "Donald Cook",
+      "Irene Hervey",
+      "Doris Lloyd"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/motive-for-revenge.html"
+}

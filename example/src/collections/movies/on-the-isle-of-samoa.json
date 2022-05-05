@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "On the Isle of Samoa",
+    "year": 1950,
+    "cast": [
+      "Jon Hall",
+      "Susan Cabot"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/on-the-isle-of-samoa.html"
+}

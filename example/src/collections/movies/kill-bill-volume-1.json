@@ -1,0 +1,18 @@
+{
+  "data": {
+    "title": "Kill Bill Volume 1",
+    "year": 2003,
+    "cast": [
+      "Uma Thurman",
+      "Lucy Liu",
+      "Vivica A. Fox",
+      "David Carradine",
+      "Daryl Hannah",
+      "Michael Madsen"
+    ],
+    "genres": [
+      "Action"
+    ]
+  },
+  "output": "movies/kill-bill-volume-1.html"
+}

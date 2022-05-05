@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Cohens and Kellys in Trouble",
+    "year": 1933,
+    "cast": [
+      "Charles Murray",
+      "Andy Devine",
+      "Maureen O'Sullivan"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/the-cohens-and-kellys-in-trouble.html"
+}

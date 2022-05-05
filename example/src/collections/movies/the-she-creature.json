@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "The She-Creature",
+    "year": 1956,
+    "cast": [
+      "Marla English",
+      "Chester Morris"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-she-creature.html"
+}

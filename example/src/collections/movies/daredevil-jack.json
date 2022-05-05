@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Daredevil Jack",
+    "year": 1920,
+    "cast": [
+      "Jack Dempsey",
+      "Josie Sedgwick"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/daredevil-jack.html"
+}

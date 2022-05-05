@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "These Three",
+    "year": 1936,
+    "cast": [
+      "Miriam Hopkins",
+      "Merle Oberon",
+      "Joel McCrea",
+      "Catherine Doucet",
+      "Bonita Granville",
+      "(",
+      "Best Supporting Actress",
+      "nominee)"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/these-three.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Unknown Guest",
+    "year": 1943,
+    "cast": [
+      "Victor Jory",
+      "Pamela Blake",
+      "Veda Ann Borg"
+    ],
+    "genres": [
+      "Mystery"
+    ]
+  },
+  "output": "movies/the-unknown-guest.html"
+}

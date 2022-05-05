@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Girl Happy",
+    "year": 1965,
+    "cast": [
+      "Elvis Presley",
+      "Shelley Fabares",
+      "Mary Ann Mobley"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/girl-happy.html"
+}

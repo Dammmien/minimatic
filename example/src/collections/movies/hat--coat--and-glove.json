@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Hat, Coat, and Glove",
+    "year": 1934,
+    "cast": [
+      "Ricardo Cortez",
+      "Barbara Robbins"
+    ],
+    "genres": [
+      "Crime"
+    ]
+  },
+  "output": "movies/hat--coat--and-glove.html"
+}

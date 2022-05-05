@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Paths to Paradise",
+    "year": 1925,
+    "cast": [
+      "Raymond Griffith",
+      "Betty Compson"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/paths-to-paradise.html"
+}

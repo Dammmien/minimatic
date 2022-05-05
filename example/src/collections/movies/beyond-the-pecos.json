@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Beyond the Pecos",
+    "year": 1945,
+    "cast": [
+      "Rod Cameron",
+      "Jennifer Holt"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/beyond-the-pecos.html"
+}

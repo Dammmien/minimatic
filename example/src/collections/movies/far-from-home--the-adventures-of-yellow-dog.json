@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Far from Home: The Adventures of Yellow Dog",
+    "year": 1995,
+    "cast": [
+      "Jesse Bradford",
+      "Mimi Rogers",
+      "Bruce Davison"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  "output": "movies/far-from-home--the-adventures-of-yellow-dog.html"
+}

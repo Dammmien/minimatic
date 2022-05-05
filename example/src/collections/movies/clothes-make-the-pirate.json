@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Clothes Make the Pirate",
+    "year": 1925,
+    "cast": [
+      "Leon Errol",
+      "Dorothy Gish",
+      "Nita Naldi"
+    ],
+    "genres": [
+      "Historical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/clothes-make-the-pirate.html"
+}

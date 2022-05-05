@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Twilight on the Trail",
+    "year": 1941,
+    "cast": [
+      "William Boyd",
+      "Wanda McKay"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/twilight-on-the-trail.html"
+}

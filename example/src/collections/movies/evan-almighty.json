@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Evan Almighty",
+    "year": 2007,
+    "cast": [
+      "Steve Carell",
+      "Morgan Freeman",
+      "Lauren Graham",
+      "John Goodman",
+      "Wanda Sykes"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/evan-almighty.html"
+}

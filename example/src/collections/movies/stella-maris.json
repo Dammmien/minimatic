@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Stella Maris",
+    "year": 1925,
+    "cast": [
+      "Mary Philbin",
+      "Elliott Dexter"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/stella-maris.html"
+}

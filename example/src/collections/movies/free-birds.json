@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Free Birds",
+    "year": 2013,
+    "cast": [
+      "Owen Wilson",
+      "Woody Harrelson",
+      "Amy Poehler",
+      "Dan Fogler",
+      "Lesley Nicol",
+      "George Takei",
+      "Colm Meaney",
+      "Keith David",
+      "Carlos Alazraqui",
+      "Josh Lawson",
+      "Danny Carey",
+      "Dwight Howard"
+    ],
+    "genres": [
+      "Animated",
+      "Comedy"
+    ]
+  },
+  "output": "movies/free-birds.html"
+}

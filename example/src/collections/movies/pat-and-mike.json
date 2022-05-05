@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Pat and Mike",
+    "year": 1952,
+    "cast": [
+      "Katharine Hepburn",
+      "Spencer Tracy"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "output": "movies/pat-and-mike.html"
+}

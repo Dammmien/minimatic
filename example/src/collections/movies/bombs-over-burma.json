@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bombs Over Burma",
+    "year": 1942,
+    "cast": [
+      "Anna May Wong",
+      "Noel Madison"
+    ],
+    "genres": [
+      "War"
+    ]
+  },
+  "output": "movies/bombs-over-burma.html"
+}

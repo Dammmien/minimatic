@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Ports of Call",
+    "year": 1925,
+    "cast": [
+      "Edmund Lowe",
+      "Hazel Keener"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/ports-of-call.html"
+}

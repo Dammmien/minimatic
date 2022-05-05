@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "If You Could Only Cook",
+    "year": 1935,
+    "cast": [
+      "Herbert Marshall",
+      "Jean Arthur"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  "output": "movies/if-you-could-only-cook.html"
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "title": "Yolanda and the Thief",
+    "year": 1945,
+    "cast": [
+      "Fred Astaire",
+      "Lucille Bremer",
+      "Frank Morgan"
+    ],
+    "genres": [
+      "Musical",
+      "Comedy"
+    ]
+  },
+  "output": "movies/yolanda-and-the-thief.html"
+}

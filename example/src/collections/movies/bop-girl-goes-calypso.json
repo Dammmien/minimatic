@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Bop Girl Goes Calypso",
+    "year": 1957,
+    "cast": [
+      "Judy Tyler",
+      "Bobby Troup"
+    ],
+    "genres": [
+      "Musical"
+    ]
+  },
+  "output": "movies/bop-girl-goes-calypso.html"
+}

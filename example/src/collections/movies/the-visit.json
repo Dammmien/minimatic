@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Visit",
+    "year": 2000,
+    "cast": [
+      "Hill Harper",
+      "Billy Dee Williams",
+      "Rae Dawn Chong"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/the-visit.html"
+}

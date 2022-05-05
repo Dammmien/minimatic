@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Creature with the Atom Brain",
+    "year": 1955,
+    "cast": [
+      "Richard Denning",
+      "Angela Stevens"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/creature-with-the-atom-brain.html"
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "When a Man's a Man",
+    "year": 1935,
+    "cast": [
+      "George O'Brien",
+      "Dorothy Wilson"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/when-a-man-s-a-man.html"
+}

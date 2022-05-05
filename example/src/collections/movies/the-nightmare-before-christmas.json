@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Nightmare Before Christmas",
+    "year": 1993,
+    "cast": [
+      "Danny Elfman",
+      "Chris Sarandon",
+      "Catherine O'Hara"
+    ],
+    "genres": [
+      "Animated"
+    ]
+  },
+  "output": "movies/the-nightmare-before-christmas.html"
+}

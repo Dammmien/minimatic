@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Dead of Winter",
+    "year": 1987,
+    "cast": [
+      "Mary Steenburgen",
+      "Roddy McDowall",
+      "Jan Rubeš"
+    ],
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "output": "movies/dead-of-winter.html"
+}

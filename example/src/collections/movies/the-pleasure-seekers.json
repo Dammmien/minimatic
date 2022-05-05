@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Pleasure Seekers",
+    "year": 1964,
+    "cast": [
+      "Ann-Margret",
+      "Pamela Tiffin",
+      "Carol Lynley"
+    ],
+    "genres": [
+      "Romance"
+    ]
+  },
+  "output": "movies/the-pleasure-seekers.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "Till the End of Time",
+    "year": 1946,
+    "cast": [
+      "Dorothy McGuire",
+      "Guy Madison",
+      "Robert Mitchum"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/till-the-end-of-time.html"
+}

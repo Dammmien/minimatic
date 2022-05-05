@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "Sentimental Tommy",
+    "year": 1921,
+    "cast": [
+      "Gareth Hughes"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/sentimental-tommy.html"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "title": "The Invisible Ray",
+    "year": 1936,
+    "cast": [
+      "Boris Karloff",
+      "Bela Lugosi",
+      "Frances Drake"
+    ],
+    "genres": [
+      "Science Fiction"
+    ]
+  },
+  "output": "movies/the-invisible-ray.html"
+}

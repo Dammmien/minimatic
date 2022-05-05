@@ -1,0 +1,14 @@
+{
+  "data": {
+    "title": "Rawhide Mail",
+    "year": 1934,
+    "cast": [
+      "Jack Perrin",
+      "Nelson McDowell"
+    ],
+    "genres": [
+      "Western"
+    ]
+  },
+  "output": "movies/rawhide-mail.html"
+}

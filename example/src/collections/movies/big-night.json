@@ -1,0 +1,20 @@
+{
+  "data": {
+    "title": "Big Night",
+    "year": 1996,
+    "cast": [
+      "Tony Shalhoub",
+      "Stanley Tucci",
+      "Isabella Rossellini",
+      "Minnie Driver",
+      "Ian Holm",
+      "Marc Anthony",
+      "Allison Janney",
+      "Liev Schreiber"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/big-night.html"
+}

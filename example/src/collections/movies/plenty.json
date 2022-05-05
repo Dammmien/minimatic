@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "Plenty",
+    "year": 1985,
+    "cast": [
+      "Meryl Streep",
+      "Charles Dance",
+      "Sting",
+      "Ian McKellen",
+      "Tracey Ullman",
+      "John Gielgud",
+      "Sam Neill"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "output": "movies/plenty.html"
+}
