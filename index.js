@@ -86,7 +86,12 @@ module.exports = class Minimatic {
     const template = this.importFile(collection.template);
 
     fs.mkdirSync(path.dirname(`${this.output}/${page.output}`), { recursive: true });
+
     fs.writeFileSync(`${this.output}/${page.output}`, mustache.render(template, data, partials));
+
+    if (typeof this.config.onPageRendered === 'function') {
+      await this.config.onPageRendered(data);
+    }
   }
 
   renderCollectionsPages() {
