@@ -67,7 +67,7 @@ module.exports = class Minimatic {
     return fs.readdirSync(`${this.src}/${dir}`).map(file => this.importFile(`${dir}/${file}`));
   }
 
-  renderPage(collection, page) {
+  async renderPage(collection, page) {
     const data = {
       ...this.importMap(this.config.imports || {}),
       ...this.config,
